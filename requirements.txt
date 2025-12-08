@@ -1,0 +1,21 @@
+# med_multi_agent 项目依赖
+# Python 3.10
+
+# LangChain相关
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+
+# LangGraph相关
+langgraph>=0.0.1
+
+# 向量数据库相关
+numpy>=1.24.0
+faiss-cpu>=1.7.4
+
+# 标准库（Python 3.10已包含，但列出以便参考）
+# typing - 标准库
+# pathlib - 标准库
+# pickle - 标准库
+# re - 标准库
+# operator - 标准库
+
