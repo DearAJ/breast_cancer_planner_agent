@@ -196,7 +196,26 @@ class TableSummarizer:
                 HumanMessage(content=prompt)
             ]
             response = self.llm.invoke(messages)
-            return response.content.strip()
+            summary = response.content.strip()
+            
+            # 清理可能包含的推理过程标签
+            import re
+            # 移除各种推理标签及其内容
+            patterns = [
+                r'<think>.*?</think>',
+                r'<think>.*?</think>',
+                r'<reasoning>.*?</reasoning>',
+                r'<think>.*?</think>',
+            ]
+            for pattern in patterns:
+                summary = re.sub(pattern, '', summary, flags=re.DOTALL | re.IGNORECASE)
+            # 移除单独的标签（没有闭合标签的情况，从标签开始到结尾）
+            summary = re.sub(r'<think>.*', '', summary, flags=re.DOTALL | re.IGNORECASE)
+            summary = re.sub(r'<think>.*', '', summary, flags=re.DOTALL | re.IGNORECASE)
+            summary = re.sub(r'<think>.*', '', summary, flags=re.DOTALL | re.IGNORECASE)
+            summary = summary.strip()
+            
+            return summary
         except Exception as e:
             print(f"生成表格摘要时出错: {e}")
             # 如果失败，返回简化的表格描述
@@ -334,10 +353,8 @@ class DocumentProcessor:
                 summary = self.table_summarizer.summarize_table(block['content'])
                 block['summary'] = summary
                 block['search_content'] = summary  # 检索时使用摘要
-                block['display_content'] = block['content']  # 显示时使用原始表格
             else:
                 block['search_content'] = block['content']
-                block['display_content'] = block['content']
         
         print(f"  共处理了 {table_count} 个表格")
         
@@ -375,7 +392,7 @@ if __name__ == "__main__":
     
     processor.process_directory(
         data_dir="data/markdown",
-        output_file="data/chunks.pkl"
+        output_file="data/chunks/chunks.pkl"
     )
     
     print("\n文档分块和摘要生成完成！")

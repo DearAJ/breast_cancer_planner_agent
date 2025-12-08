@@ -73,7 +73,7 @@ class VectorDatabaseBuilder:
             try:
                 embedding = self.embeddings.embed_query(search_text)
                 self.embeddings_list.append(embedding)
-                self.texts.append(block.get('display_content', ''))  # 存储显示内容
+                self.texts.append(block.get('content', ''))
                 self.metadatas.append(block.get('metadata', {}))
             except Exception as e:
                 print(f"  生成embedding时出错 (块 {i}): {e}")
