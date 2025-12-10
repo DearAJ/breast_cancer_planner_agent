@@ -3,7 +3,7 @@
 - 解析Markdown文档并进行分块
 - 为表格生成摘要
 - 合并小块
-- 保存处理后的数据块（供向量数据库构建使用）
+- 保存处理后的数据块，供向量数据库构建使用
 """
 
 import re
@@ -16,8 +16,6 @@ from langchain_core.messages import HumanMessage, SystemMessage
 
 
 class MarkdownParser:
-    """Markdown文档解析器：将文档分块"""
-    
     def __init__(self):
         self.title_pattern = re.compile(r'^(#{1,6})\s+(.+)$', re.MULTILINE)
         self.table_pattern = re.compile(r'^\|.+\|$', re.MULTILINE)
@@ -29,7 +27,6 @@ class MarkdownParser:
         lines = content.split('\n')
         blocks = []
         current_section = None
-        current_subsection = None
         current_content = []
         title_hierarchy = []
         in_table = False
@@ -39,7 +36,6 @@ class MarkdownParser:
         for i, line in enumerate(lines):
             line_num = i + 1
             
-            # 检查是否是标题
             title_match = re.match(r'^(#{1,6})\s+(.+)$', line.strip())
             if title_match:
                 # 如果正在处理表格，先保存表格
@@ -70,12 +66,6 @@ class MarkdownParser:
                 # 根据层级设置section
                 if level == 1:
                     current_section = title_text
-                    current_subsection = None
-                elif level == 2:
-                    current_subsection = title_text
-                else:
-                    # 三级及以下标题作为子节
-                    pass
                 
                 current_content = []
                 continue
@@ -291,108 +281,328 @@ class ChunkMerger:
         return False
 
 
-class DocumentProcessor:
-    def __init__(self,
-                 llm_api_url: str = "http://0.0.0.0:30003/v1",
-                 llm_model: str = "Qwen2.5-7B-Instruct",
-                 min_chunk_size: int = 100):
-        """
-        初始化文档处理器
+class ChapterBookmarkGenerator:
+    """章节书签生成器：为每个章节生成摘要索引，用于分层检索"""
+    
+    def __init__(self, llm_api_url: str = "http://0.0.0.0:30003/v1",
+                 model_name: str = "Qwen2.5-7B-Instruct"):
+        self.llm = ChatOpenAI(
+            base_url=llm_api_url,
+            model=model_name,
+            temperature=0.0,
+            timeout=300,
+            api_key=""
+        )
+        self.system_prompt = """你是一位医学文献分析专家。你的任务是为文档章节生成简洁准确的摘要。
+摘要应该：
+1. 概括该章节的主要内容和主题
+2. 突出关键信息点
+3. 保持简洁，通常100-200字"""
+    
+    def generate_chapter_summary(self, chapter_title: str, chapter_content: str) -> str:
+        """为章节生成摘要"""
+        prompt = f"""请为以下章节生成简洁摘要：
+
+章节标题：{chapter_title}
+
+章节内容：
+{chapter_content[:2000]}  # 限制长度避免过长
+
+请直接输出摘要，不要添加其他说明。"""
         
-        Args:
-            llm_api_url: LLM API地址（用于生成表格摘要）
-            llm_model: LLM模型名称
-            min_chunk_size: 最小块大小（小于此大小的块会被合并）
+        try:
+            messages = [
+                SystemMessage(content=self.system_prompt),
+                HumanMessage(content=prompt)
+            ]
+            response = self.llm.invoke(messages)
+            summary = response.content.strip()
+            
+            # 清理可能包含的推理过程标签
+            import re
+            patterns = [
+                r'<think>.*?</think>',
+                r'<reasoning>.*?</reasoning>',
+            ]
+            for pattern in patterns:
+                summary = re.sub(pattern, '', summary, flags=re.DOTALL | re.IGNORECASE)
+            summary = re.sub(r'<think>.*', '', summary, flags=re.DOTALL | re.IGNORECASE)
+            summary = summary.strip()
+            
+            return summary
+        except Exception as e:
+            print(f"生成章节摘要时出错: {e}")
+            return f"章节：{chapter_title}"
+    
+    def generate_bookmarks(self, blocks: List[Dict]) -> List[Dict]:
+        """生成章节书签列表
+        
+        区分章书签和节书签：
+        - 章书签（一级标题）：包含该章下所有块，无论是否有节
+        - 节书签（二级标题）：只包含该节下的块
         """
+
+        # 第一步：按章（一级标题）组织块，同时记录每章下的节（二级标题）
+        chapter_map = {}  # key: (file, chapter_title), value: list of (block_index, block)        
+        section_map = {}  # key: (file, chapter_title, section_title), value: list of (block_index, block)
+        
+        for idx, block in enumerate(blocks):
+            title_hierarchy = block.get('title_hierarchy', [])
+            source_file = block.get('source_file', '')
+            
+            if len(title_hierarchy) >= 1:
+                chapter_title = title_hierarchy[0]
+                chapter_key = (source_file, chapter_title)
+                
+                # 记录到章
+                if chapter_key not in chapter_map:
+                    chapter_map[chapter_key] = []
+                chapter_map[chapter_key].append((idx, block))
+                
+                # 如果有二级标题，记录到节
+                if len(title_hierarchy) >= 2:
+                    section_title = title_hierarchy[1]
+                    section_key = (source_file, chapter_title, section_title)
+                    if section_key not in section_map:
+                        section_map[section_key] = []
+                    section_map[section_key].append((idx, block))
+            else:
+                # 没有标题的块，归入"未分类"章
+                chapter_key = (source_file, '未分类')
+                if chapter_key not in chapter_map:
+                    chapter_map[chapter_key] = []
+                chapter_map[chapter_key].append((idx, block))
+        
+        # 第二步：生成书签
+        bookmarks = []
+        
+        # 为每章生成章书签
+        for (source_file, chapter_title), block_list in chapter_map.items():
+            # 检查该章是否有子节
+            has_sections = any(
+                s[0] == source_file and s[1] == chapter_title 
+                for s in section_map.keys()
+            )
+            
+            # 收集章内容（用于生成摘要）
+            chapter_contents = []
+            chapter_block_indices = []
+            for block_idx, block in block_list:
+                content = block.get('search_content', block.get('content', ''))
+                if content.strip():
+                    chapter_contents.append(content[:1024])  # 限制每个块的长度
+                    chapter_block_indices.append(block_idx)
+            
+            chapter_content = '\n\n'.join(chapter_contents)
+            
+            # 如果有节，先为每节生成节摘要，然后用节的摘要生成章的摘要
+            if has_sections:
+                # 先为每个节生成节书签和摘要
+                section_summaries = []  # 收集所有节的摘要，用于生成章摘要
+                for (file, chap, section_title), section_block_list in section_map.items():
+                    if file == source_file and chap == chapter_title:
+                        # 收集节内容（用于生成摘要）
+                        section_contents = []
+                        section_block_indices = []
+                        for block_idx, block in section_block_list:
+                            content = block.get('search_content', block.get('content', ''))
+                            if content.strip():
+                                section_contents.append(content[:1024])
+                                section_block_indices.append(block_idx)
+                        
+                        section_content = '\n\n'.join(section_contents)
+                        
+                        # 生成节摘要
+                        if section_content:
+                            section_summary = self.generate_chapter_summary(
+                                f"{chapter_title} > {section_title}", 
+                                section_content
+                            )
+                        else:
+                            section_summary = f"节：{section_title}"
+                        
+                        section_summaries.append(f"{section_title}: {section_summary}")
+                        
+                        # 创建节书签
+                        bookmarks.append({
+                            'type': 'chapter_bookmark',
+                            'chapter_level': 'section',  # 标记为节
+                            'chapter_path': [chapter_title, section_title],
+                            'chapter_title': f"{chapter_title} > {section_title}",
+                            'chapter_summary': section_summary,
+                            'search_content': section_summary,
+                            'block_indices': section_block_indices,  # 只包含该节下的块
+                            'source_file': source_file,
+                            'block_count': len(section_block_indices),
+                            'parent_chapter': chapter_title,  # 记录父章
+                            'metadata': {
+                                'block_type': 'chapter_bookmark',
+                                'chapter_level': 'section',
+                                'chapter_path': [chapter_title, section_title],
+                                'parent_chapter': chapter_title,
+                                'is_bookmark': True
+                            }
+                        })
+                
+                # 基于节的摘要生成章的摘要
+                if section_summaries:
+                    sections_summary_text = '\n\n'.join(section_summaries)
+                    # 使用专门的 prompt 基于节摘要生成章摘要
+                    prompt = f"""请基于以下各节的摘要，为该章生成一个整体摘要：
+
+章节标题：{chapter_title}
+
+各节摘要：
+{sections_summary_text[:2000]}
+
+请直接输出章的摘要，不要添加其他说明。"""
+                    try:
+                        messages = [
+                            SystemMessage(content=self.system_prompt),
+                            HumanMessage(content=prompt)
+                        ]
+                        response = self.llm.invoke(messages)
+                        summary = response.content.strip()
+                        
+                        # 清理可能包含的推理过程标签
+                        import re
+                        patterns = [
+                            r'<think>.*?</think>',
+                            r'<reasoning>.*?</reasoning>',
+                        ]
+                        for pattern in patterns:
+                            summary = re.sub(pattern, '', summary, flags=re.DOTALL | re.IGNORECASE)
+                        summary = re.sub(r'<think>.*', '', summary, flags=re.DOTALL | re.IGNORECASE)
+                        summary = summary.strip()
+                    except Exception as e:
+                        print(f"基于节摘要生成章摘要时出错: {e}")
+                        # 如果失败，使用章内容生成摘要
+                        summary = self.generate_chapter_summary(chapter_title, chapter_content) if chapter_content else f"章节：{chapter_title}"
+                else:
+                    summary = self.generate_chapter_summary(chapter_title, chapter_content) if chapter_content else f"章节：{chapter_title}"
+            else:
+                # 无节：直接基于章内容生成章摘要
+                if chapter_content:
+                    summary = self.generate_chapter_summary(chapter_title, chapter_content)
+                else:
+                    summary = f"章节：{chapter_title}"
+            
+            # 创建章书签
+            bookmarks.append({
+                'type': 'chapter_bookmark',
+                'chapter_level': 'chapter',  # 标记为章
+                'chapter_path': [chapter_title],
+                'chapter_title': chapter_title,
+                'chapter_summary': summary,
+                'search_content': summary,  # 检索时使用摘要
+                'block_indices': chapter_block_indices,  # 包含该章下所有块
+                'source_file': source_file,
+                'block_count': len(chapter_block_indices),
+                'has_sections': has_sections,  # 标记是否有子节
+                'metadata': {
+                    'block_type': 'chapter_bookmark',
+                    'chapter_level': 'chapter',
+                    'chapter_path': [chapter_title],
+                    'has_sections': has_sections,
+                    'is_bookmark': True
+                }
+            })
+        
+        return bookmarks
+
+
+class DocumentProcessor:
+    def __init__(self, llm_api_url, llm_model, min_chunk_size, generate_bookmarks):
         self.table_summarizer = TableSummarizer(llm_api_url, llm_model)
         self.parser = MarkdownParser()
         self.merger = ChunkMerger(min_chunk_size=min_chunk_size)
+        self.bookmark_generator = ChapterBookmarkGenerator(llm_api_url, llm_model) if generate_bookmarks else None
+        self.generate_bookmarks = generate_bookmarks
     
-    def process_directory(self, data_dir: str, output_file: str = "processed_blocks.pkl"):
-        """
-        处理目录中的所有Markdown文件：分块 + 生成摘要
-        
-        Args:
-            data_dir: 包含Markdown文件的目录
-            output_file: 输出文件路径（保存处理后的块）
-        
-        Returns:
-            处理后的块列表
-        """
+    def process_directory(self, data_dir: str, output_file: str):
         data_path = Path(data_dir)
         output_path = Path(output_file)
         output_path.parent.mkdir(parents=True, exist_ok=True)
         
-        print(f"开始处理目录: {data_dir}")
-        
-        # 获取所有Markdown文件
         md_files = list(data_path.glob("*.md"))
         if not md_files:
             print(f"警告：在 {data_dir} 中未找到Markdown文件")
             return []
-        
+
         all_blocks = []
         
-        # 第一步：解析所有文件（分块）
-        print(f"\n=== 第一步：文档分块 ===")
+        # 第一步：分块
         for md_file in md_files:
-            print(f"\n处理文件: {md_file.name}")
             blocks = self.parser.parse_document(str(md_file))
-            print(f"  解析得到 {len(blocks)} 个原始块")
             all_blocks.extend(blocks)
-        
-        print(f"\n总共解析得到 {len(all_blocks)} 个原始块")
+        print(f"\n总共解析得到 {len(all_blocks)} 个块")
         
         # 第二步：为表格生成摘要
-        print(f"\n=== 第二步：生成表格摘要 ===")
         table_count = 0
         for block in all_blocks:
             if block.get('type') == 'table':
                 table_count += 1
-                print(f"  处理表格 {table_count} (行 {block['start_line']}-{block['end_line']})...")
                 summary = self.table_summarizer.summarize_table(block['content'])
                 block['summary'] = summary
                 block['search_content'] = summary  # 检索时使用摘要
             else:
                 block['search_content'] = block['content']
-        
         print(f"  共处理了 {table_count} 个表格")
         
         # 第三步：合并小块
-        print(f"\n=== 第三步：合并小块 ===")
         merged_blocks = self.merger.merge_small_chunks(all_blocks)
         print(f"合并后得到 {len(merged_blocks)} 个块")
         
-        # 保存处理后的块
+        # 第四步：生成章节书签（用于分层检索）
+        bookmarks = []
+        if self.generate_bookmarks and self.bookmark_generator:
+            print(f"\n=== 第四步：生成章节书签 ===")
+            bookmarks = self.bookmark_generator.generate_bookmarks(merged_blocks)
+            print(f"  生成了 {len(bookmarks)} 个章节书签")
+            for bookmark in bookmarks:
+                print(f"    - {bookmark['chapter_title']} ({bookmark['block_count']} 个块)")
+
+        
+        # 保存处理后的块和书签
         print(f"\n=== 保存结果 ===")
-        # 保存pkl文件（供程序使用）
+        
+        output_data = {
+            'blocks': merged_blocks,
+            'bookmarks': bookmarks  # 章节书签列表
+        }
         with open(output_path, 'wb') as f:
-            pickle.dump(merged_blocks, f)
+            pickle.dump(output_data, f)
         print(f"  PKL文件已保存到: {output_path}")
         
-        # 同时保存jsonl文件（方便查看）
+        
         jsonl_path = output_path.with_suffix('.jsonl')
         with open(jsonl_path, 'w', encoding='utf-8') as f:
+            # 先保存书签
+            for bookmark in bookmarks:
+                json.dump(bookmark, f, ensure_ascii=False)
+                f.write('\n')
+            # 再保存内容块
             for block in merged_blocks:
                 json.dump(block, f, ensure_ascii=False)
                 f.write('\n')
         print(f"  JSONL文件已保存到: {jsonl_path}")
         
-        print(f"\n处理完成！总共处理了 {len(merged_blocks)} 个块")
+        print(f"\n处理完成！")
+        print(f"  - 内容块: {len(merged_blocks)} 个")
+        print(f"  - 章节书签: {len(bookmarks)} 个")
         
-        return merged_blocks
+        return output_data
 
 
 if __name__ == "__main__":
-    # 文档分块和摘要生成
     processor = DocumentProcessor(
         llm_api_url="http://0.0.0.0:30003/v1",
-        llm_model="Qwen3-8B"
+        llm_model="Qwen3-8B",
+        min_chunk_size=250,
+        generate_bookmarks=True
     )
     
     processor.process_directory(
         data_dir="data/markdown",
         output_file="data/chunks/chunks.pkl"
     )
-    
-    print("\n文档分块和摘要生成完成！")

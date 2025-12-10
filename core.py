@@ -249,9 +249,9 @@ class LiteratureRAGAgent:
         
         # 模拟RAG检索（实际应用中需要连接向量数据库）
         if self.vector_store:
-            # 实际检索逻辑
+            # 实际检索逻辑（使用分层检索）
             print("正在从向量数据库检索医学文献...")
-            results = self._retrieve_from_vector_store(query)
+            results = self._retrieve_from_vector_store(query, use_hierarchical=True)
         else:
             # 模拟检索结果
             print("使用模拟检索结果（未连接向量数据库）...")
@@ -292,10 +292,19 @@ class LiteratureRAGAgent:
         print("\n✓ 文献RAG智能体执行完成")
         return state
     
-    def _retrieve_from_vector_store(self, query: str) -> str:
-        """从向量数据库检索"""
-        if hasattr(self.vector_store, 'retrieve'):
-            # 使用VectorStore的retrieve方法
+    def _retrieve_from_vector_store(self, query: str, use_hierarchical: bool = True) -> str:
+        """从向量数据库检索
+        
+        Args:
+            query: 查询文本
+            use_hierarchical: 是否使用分层检索（先检索章节，再检索章节内内容）
+        """
+        if hasattr(self.vector_store, 'hierarchical_search') and use_hierarchical:
+            # 使用分层检索
+            print("使用分层检索模式：先检索章节，再检索章节内内容...")
+            return self.vector_store.hierarchical_search(query, top_chapters=3, chunks_per_chapter=3)
+        elif hasattr(self.vector_store, 'retrieve'):
+            # 使用普通检索
             return self.vector_store.retrieve(query, k=5)
         else:
             # 兼容其他类型的vector_store
