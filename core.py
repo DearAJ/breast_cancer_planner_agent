@@ -300,9 +300,9 @@ class LiteratureRAGAgent:
             use_hierarchical: 是否使用分层检索（先检索章节，再检索章节内内容）
         """
         if hasattr(self.vector_store, 'hierarchical_search') and use_hierarchical:
-            # 使用分层检索
-            print("使用分层检索模式：先检索章节，再检索章节内内容...")
-            return self.vector_store.hierarchical_search(query, top_chapters=3, chunks_per_chapter=3)
+            # 使用分层检索（DFS式：先找相关章节，再检索章节内的内容块）
+            print("使用分层检索模式（DFS）：先检索章节，再检索章节内内容...")
+            return self.vector_store.hierarchical_search(query, top_chapters=2, topk=5)
         elif hasattr(self.vector_store, 'retrieve'):
             # 使用普通检索
             return self.vector_store.retrieve(query, k=5)
