@@ -534,6 +534,6 @@ if __name__ == "__main__":
     )
     
     builder.build_from_processed_blocks(
-        processed_blocks_file="data/chunks/chunks.pkl",
+        processed_blocks_file="data/chunks_qwen3-32b/chunks.pkl",
         output_dir="data/vector_db"
     )

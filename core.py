@@ -4,6 +4,8 @@ from langgraph.graph.message import add_messages
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 from langchain_openai import ChatOpenAI
 import operator
+from create_vector_database import load_vector_store
+from case_vector_store import CaseVectorStore, load_case_vector_store
 
 
 def create_local_llm(
@@ -220,10 +222,16 @@ class CaseRAGAgent:
         print("\n✓ 病例RAG智能体执行完成")
         return state
     
-    def _retrieve_from_vector_store(self, query: str) -> str:
-        """从向量数据库检索（需要实际实现）"""
-        # TODO: 实现实际的向量检索逻辑
-        return "检索结果"
+    def _retrieve_from_vector_store(self, query: str, k: int = 5) -> str:
+        """从向量数据库检索相似病例"""
+        if isinstance(self.vector_store, CaseVectorStore):
+            # 使用CaseVectorStore进行检索
+            return self.vector_store.retrieve(query, k=k)
+        elif hasattr(self.vector_store, 'retrieve'):
+            # 兼容其他类型的vector_store
+            return self.vector_store.retrieve(query, k=k)
+        else:
+            return "检索结果（向量数据库类型不支持）"
 
 
 # ==================== 文献RAG智能体 ====================
@@ -474,20 +482,20 @@ class SummaryAgent:
 # ==================== LangGraph 工作流构建 ====================
 def create_medical_agent_graph(
     llm=None, 
-    case_vector_store=None, 
-    literature_vector_store=None,
     local_model_url: str = "http://0.0.0.0:30003/v1",
-    local_model_name: str = "Qwen2.5-7B-Instruct"
+    local_model_name: str = "Qwen2.5-7B-Instruct",
+    case_vector_store=None, 
+    literature_vector_store=None
 ):
     """创建医疗诊断多智能体图
     
     Args:
         llm: 自定义的LLM实例，如果为None则自动创建
-        case_vector_store: 病例向量数据库
-        literature_vector_store: 文献向量数据库
         use_local_model: 是否使用本地模型（默认True）
         local_model_url: 本地模型API地址
         local_model_name: 本地模型名称
+        case_vector_store: 病例向量数据库
+        literature_vector_store: 文献向量数据库
     
     工作流：
     1. planner（主规划智能体）→ 解析患者信息，制定查询策略
@@ -543,10 +551,38 @@ def create_medical_agent_graph(
 
 # ==================== 使用示例 ====================
 if __name__ == "__main__":
+    # 加载向量数据库（用于文献RAG检索）
+    literature_vector_store = None
+    try:
+        literature_vector_store = load_vector_store(
+            db_path="data/vector_db",
+            embedding_api_url="http://0.0.0.0:30004/v1",  # 嵌入模型端口（与聊天模型不同）
+            embedding_model="Qwen3-Embedding-8B",
+            openai_api_key=""
+        )
+        print("✓ 文献向量数据库加载成功，将使用树形检索模式")
+    except Exception as e:
+        print(f"⚠ 文献向量数据库加载失败: {e}，将使用模拟检索结果")
+    
+    # 加载病例向量数据库（用于病例RAG检索）
+    case_vector_store = None
+    try:
+        case_vector_store = load_case_vector_store(
+            db_path="data/case_vector_db",
+            embedding_api_url="http://0.0.0.0:30004/v1",
+            embedding_model="Qwen3-Embedding-8B",
+            openai_api_key=""
+        )
+        print("✓ 病例向量数据库加载成功")
+    except Exception as e:
+        print(f"⚠ 病例向量数据库加载失败: {e}，将使用模拟检索结果")
+    
     # 创建图（使用本地模型）
     graph = create_medical_agent_graph(
         local_model_url="http://0.0.0.0:30003/v1",
-        local_model_name="Qwen2.5-7B-Instruct"
+        local_model_name="Qwen3-32B",
+        case_vector_store=case_vector_store,
+        literature_vector_store=literature_vector_store
     )
     
     # 示例患者信息
