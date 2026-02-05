@@ -1,1 +1,6 @@
 __pycache__/
+
+# 大文件 - 不应提交到 Git
+*.deb
+*.faiss
+*.faiss.index
