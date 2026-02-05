@@ -1,6 +1,12 @@
 __pycache__/
 
-# 大文件 - 不应提交到 Git
+# 大文件目录
+debat/paper_vector
+breast_cancer_data/cases_raw
+breast_cancer_data/literature_db
+breast_cancer_data/paper
+
+# 大文件类型
 *.deb
 *.faiss
 *.faiss.index
