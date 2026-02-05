@@ -1,0 +1,973 @@
+ARTICLES Dose-Dense Adjuvant Chemotherapy in Early Breast Cancer Patients: Results From a Randomized Trial Marco Venturini, Lucia Del Mastro, Enrico Aitini, Editta Baldini, Cinzia Caroti, Antonio Contu, Franco Testore, Fulvio Brema, Paolo Pronzato, Giovanna Cavazzini, Mario Roberto Sertoli, Giuseppe Canavese, Riccardo Rosso, Paolo Bruzzi 
+
+The role of increased dose intensity of chemotherapeutic agents, obtained by increasing the single dose per cycle or the 1724 ARTICLES 
+
+total dose of cytotoxic drugs, has been widely studied in trials of adjuvant breast cancer. Randomized clinical trials found no benefit from increased doses of cyclophosphamide and doxorubicin compared with the standard levels—i.e., cyclophosphamide at 600 mg/m2 of body surface area (1,2) and doxorubicin at 60 mg/m2 (3). The only beneficial effect has been demonstrated among high-risk lymph node–positive patients given epirubicin at 100 mg/m2 instead of epirubicin at 50 mg/m2 (4). The method of increasing dose density by administering cytotoxic drugs with a shorter interval between treatments has been less extensively evaluated (5). The hypothesis that such a strategy is effective was based, in part, on theories developed by Skipper (6) and by Norton and Simon (7,8). In their experimental models, a given dose of drug always kills a certain fraction, rather than a certain number, of exponentially growing cancer cells. However, breast cancer cells proliferate by nonexponential gompertzian kinetics (8), and the rate of cancer cell proliferation between treatment cycles is more rapid than that used in exponential models (8). Consequently, a treatment designed to kill exponentially growing cells may not be able to kill all gompertzian growing cells. Thus, to determine whether an improved outcome would be achieved by reducing the interval between treatment cycles for breast cancer, in 1990 the Gruppo Oncologico Nord Ovest–Mammella InterGruppo (GONO-MIG) group began a series of trials in patients with metastatic breast cancer (9–11) and in patients with early breast cancer treated with adjuvant chemotherapy (12). We report the results of the trial in patients with early breast cancer who were randomly assigned to treatment arms with the same chemotherapy regimen administered at the same dose (i.e., fluorouracil, epirubicin, and cyclophosphamide [FEC]) but with different intervals between the treatment cycles (i.e., 2 weeks [the FEC14 arm] or 3 weeks [the FEC21 arm]). 
+
+Affiliations of authors: Institutions of Oncologia Medica (MV, LDM, MRS, RR), Senologia Chirurgica (G. Canavese), Sperimentazioni Cliniche Controllate Istituto Nazionale per la Ricerca sul Cancro, Genova (PB); Ospedale C. Poma, Mantova (EA, G. Cavazzini); Ospedale S. Chiara Pisa (EB); Ospedale Galliera Genova (CC); UO Oncologia Medica, ASL 1, Sassari (AC); UO Oncologia Medica, ASL 19, Asti (FT); UO Oncologia Medica, Savona (FB); UO Oncologia Medica, La Spezia (PP); Università degli Studi, Genova (MRS), Italy. Correspondence to: Marco Venturini, MD, National Cancer Research Institute, L.go R. Benzi 10, 16132 Genoa, Italy (e-mail: marco.venturini@istge.it). See “Notes” following “References.” DOI: 10.1093/jnci/dji398 © The Author 2005. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oxfordjournals.org. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+Background: To determine whether a dose-dense regimen improves outcome in early breast cancer patients, we compared outcomes with the same fluorouracil, epirubicin, and cyclophosphamide (FEC) chemotherapeutic regimen administered every 3 weeks (FEC21) or administered every 2 weeks (FEC14 including support with filgrastim, a granulocyte colony-stimulating factor) in a multicenter phase III randomized trial. Methods: A total of 1214 patients with early-stage breast cancer were randomly assigned to receive six cycles of FEC14 (604 patients) or of FEC21 (610 patients). Study endpoints were overall survival and event-free survival. Associations were assessed by multivariable analysis with adjustment for age; tumor size; grade; proliferative rate; and menopausal, lymph node, estrogen receptor, and progesterone receptor status. All statistical tests were two-sided. Results: Patients in the FEC14 arm had fewer dose reductions or treatment delays or discontinuation (26%) than those in the FEC21 arm (33%) (difference = 7%, 95% confidence interval [CI] = 2% to 12%; P = .008). FEC14 therapy, compared with FEC21 therapy, was associated with more asthenia (36% versus 29%, difference = 7%, 95% CI = 2% to 12%; P = .01), bone pain (33% versus 4%, difference = 29%, 95% CI = 25% to 33%; P<.001), anemia (38% versus 19%, difference = 19%, 95% CI = 14% to 24%; P<.001), and thrombocytopenia (8% versus 2%, difference = 6%, 95% CI = 4% to 9%; P<.001), but with less leukopenia (12% versus 45%, difference = 33%, 95% CI = 28% to 37%; P<.001). No acute myelogenous leukemia or myelodysplastic syndrome was observed. At a median follow-up of 10.4 years, no statistically significant difference in the hazard of death (hazard ratio [HR] = 0.87, 95% CI = 0.67 to 1.13) or recurrence (HR = 0.88, 95% CI = 0.71 to 1.08) was found between FEC14 and FEC21 groups after adjustment by multivariable analysis. Although the study was underpowered for subset analysis, we found no evidence that the effect of the treatment type was associated with any of the potential prognostic factors. Conclusion: Our results support the long-term safety of FEC14 chemotherapy as an adjuvant treatment of breast cancer. However, this therapy was not associated with improved outcome, but because of the limited statistical power of our study, we cannot rule out a modest improvement in outcome associated with FEC14 therapy. [J Natl Cancer Inst 2005;97:1724–33] 
+
+PATIENTS AND METHODS Patient Population 
+
+Study Design and Treatment Regimens This open-label, phase III, randomized clinical trial was conducted at 21 Italian centers in accordance with the International Good Clinical Practice principles and local ethical and regulatory requirements. The study was approved by the internal review board of the coordinating center, the National Cancer Research Institute in Genoa, Italy. Eligible patients were randomly assigned to treatment by telephone or fax at the central operational office of the Trials Center of the National Cancer Research Institute in Genoa. Patients were assigned to a treatment arm according to stratified random lists that were balanced in blocks of various sizes in random sequence. Patients were randomly assigned to receive either six courses of FEC21 (5-fluorouracil at 600 mg/m2, epirubicin at 60 mg/m2, and cyclophosphamide at 600 mg/m2 intravenously on day 1, with 21 days between cycles) or six courses of FEC14 (the same drugs at the same doses as in FEC21 but with 14 days between cycles and with the support of filgrastim). Filgrastim was selfadministered by patients subcutaneously, at a dose of 5 μg/kg of body weight/day, from day 4 through day 11 of each cycle; treatment was temporarily interrupted if the white blood cell count was more than 20 000 cells per microliter. Overall, 1214 patients were enrolled (604 in the FEC14 arm and 610 in the FEC21 arm). Dose modification, including treatment interruption and/or dose reduction, is described as follows. On day 1 of the cycle, if grade II or higher leukopenia or grade I–II thrombocytopenia was present, treatment was delayed until recovery. In addition, on day 1 of the cycle, if grade III–IV leukopenia associated with grade I–II thrombocytopenia or grade III–IV thrombocytopenia alone was present, chemotherapy was delayed, and individual doses of the three drugs were reduced by 25% in subsequent cycles. Guidelines for dose modification as a result of nonhematologic toxicity, except hair loss and nausea or vomiting, were as 
+
+Endpoints, Statistical Methods, and Dose Intensity Calculation The primary study endpoint was overall survival, as estimated from the date of randomization to the date of last contact or death from any cause. Secondary endpoints included toxicity and eventfree survival, in which the events were local relapse, distant relapse, second primary cancer, or death from any cause, whichever came first. The primary hypothesis of the study was that a 50% increase in the dose intensity of FEC would be associated with a 20% relative reduction in the hazard of death. This reduction corresponds to a 5%–6% absolute increase in 5-year survival, which was estimated to be between 65% and 70% in the control group. Thus, we estimated that for a type I error level of .05 and 80% power, we needed to enroll 700 patients per arm over a 4-year period and to conduct the final analysis after another 6 years of follow-up. All analyses were conducted according to the intentionto-treat principle, in that all patients randomly assigned to a treatment arm were considered as belonging to the arm to which they had been assigned at randomization. Overall survival and event-free survival were obtained from Kaplan–Meier analyses, 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+ARTICLES 
+
+1725 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+Women with histologically confirmed breast cancer who had undergone radical mastectomy or breast-conserving surgery in addition to full ipsilateral axillary lymph node dissection were eligible for enrollment in the study, if they had lymph node– positive disease with no more than 10 involved axillary lymph nodes or if they had no involved lymph nodes but did have a high risk of recurrence. A high risk of recurrence was defined as the presence of one or more of the following criteria: age of 35 years or younger; negative estrogen receptor and progesterone receptor status, defined as less than 10 fmol of receptor per milligram of protein or less than 10% positive cells by immunohistochemical analysis; tumor size of at least 2 cm; poor histologic grade; and/ or a high proliferative rate, as determined by a [3H]thymidine labeling index or by an S-phase fraction obtained with flow cytometry. Patients who were younger than 70 years were to have received no prior chemotherapy and to have no clinical or radiologic evidence of distant metastases, an adequate number of white blood cells (count of ≥3000 white cells per microliter) and of platelets (count of ≥100 000 platelets per microliter), adequate hepatic and renal function, and surgery performed not more than 5 weeks before randomization. Written informed consent was obtained from all patients before enrollment. 
+
+follows: if grade II toxicity was present, treatment was delayed until recovery; and if grade III–IV toxicity was present, treatment was delayed, and doses of the three drugs were reduced by 25% in subsequent cycles. Patients with tumors positive for the estrogen and/or progesterone receptor received tamoxifen at 20 mg/day for 5 years. Overall, 646 patients received tamoxifen (322 in the FEC14 arm and 324 in the FEC21 arm). There was no recommendation on the timing of tamoxifen. After completion of chemotherapy, 153 (47%) of the 322 patients in the FEC14 arm and 149 (46%) of the 324 patients in the FEC21 arm received tamoxifen. Postoperative regional radiotherapy limited to the remaining breast was given to patients who received breast-conserving surgery. The radiotherapy dose was 50 Gy in 5 weeks to residual breast tissue. A boost dose to the surgical bed (10–15 Gy in five fractions of 2–3 Gy over 1 week) was given to patients who were considered to be at moderate to high risk of local recurrence (defined as having an extensive intraductal component of >25%, positive surgical margins, and a tumor size of >1 cm). Initial staging consisted of medical history, physical examinations, and safety evaluations, including complete blood counts and blood chemistry analyses. An electrocardiogram was obtained at baseline and at the end of chemotherapy. Bone scan, chest radiograph, liver ultrasound, and mammography were also required before patients were randomly assigned to a treatment group. The same group of tests and examinations that were performed at baseline was repeated every year during follow-up. All adverse events and laboratory parameters were graded according to the World Health Organization criteria (13). Premenopausal status was defined by the occurrence of a menstrual period within 6 months before random assignment. To be defined as premenopausal, those women younger than 50 years who had undergone hysterectomy were required to have premenopausal levels of luteinizing hormone or follicle-stimulating hormone before randomization. Chemotherapy-induced amenorrhea was defined by the absence of menstrual activity for at least 3 months during chemotherapy or within 3 months after the end of chemotherapy. 
+
+RESULTS Patient Characteristics Because of the sharply declining accrual related to competitive trials, patient enrollment was closed 4.5 years after the start of the study, although the planned sample size of 1400 patients had not yet been reached. From November 1, 1992, through June 30, 1997, 1214 patients were randomly assigned to a treatment arm. Forty patients (3.3%) were later found to be ineligible (Fig. 1). All of these 40 patients were included in all the following analyses. The minimum follow-up was 7 years, and the maximum possible follow-up was 12 years (median follow-up among survivors = 10.4 years). At the time of the final analysis (September 30, 2004), 132 (10.8%) of the 992 living patients had been lost to follow-up. The distributions of the main patient and tumor characteristics were similar in the two treatment arms (Table 1). 1726 ARTICLES 
+
+1214 women randomly assigned to 
+
+FEC14 (604 patients) 
+
+23 ineligible patients • 15, time from surgery to randomization >35 days • 6, >10 positive lymph nodes • 1, bilateral breast cancer • 1, inadequate cardiac function 
+
+FEC21 (610 patients) 
+
+17 ineligible patients • 10, time from surgery to randomization >35 days • 4, >10 positive lymph nodes • 1, bilateral breast cancer • 2, disease stage 
+
+Fig. 1. CONSORT diagram for this randomized trial. FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles. 
+
+Treatment Administration and Dose Intensity Approximately 93.6% of patients started and completed six cycles of chemotherapy, with no substantial difference between the two treatment arms. Patients in the FEC14 arm had fewer dose reductions, treatment delays, or discontinuations (157 [26%] of the 604 patients) than those in FEC21 arm (202 [33%] of the 610 patients) (difference = 7%, 95% CI = 2% to 12%; P = .008). Eighteen patients from both arms never began chemotherapy, and no data were available for nine patients (Table 2). Main toxic effects leading to treatment discontinuation were hematologic (10 patients), gastrointestinal (five patients), chemical phlebitis (four patients), and fever (three patients). Data were available to calculate dose intensity for 1186 patients (590 in the FEC14 arm and 596 in the FEC21 arm). No difference between the two arms in total dose actually given was found (data for cyclophosphamide and 5-fluorouracil not shown). For example, the median total dose of epirubicin was 351 mg/m2 (range = 56–393 mg/m2) in the FEC14 arm and 351 mg/m2 (range = 57–459 mg/m2) in the FEC21 arm. The median duration of treatment was 70 days (range = 66–151 days) in the FEC14 arm and 105 days (range = 70–147 days) in the FEC21 arm. Overall, the relative dose intensity was 0.93 in the FEC14 arm and 0.94 in the FEC21 arm, with no statistically significant difference for any drug. Thus, patients in the FEC14 arm had an actual 48% increase in dose intensity (i.e., mean dose intensity of epirubicin in the FEC14 arm [28 mg/m2/week] divided by mean dose intensity of epirubicin in the FEC21 arm [18.9 mg/m2/week]), compared with those in the FEC21 arm. tbl2 
+
+Safety Eighteen patients never started chemotherapy, and no information about toxic effects was available for 12 patients. Toxic effect information was available for 1184 patients and was graded according to WHO criteria (13) (Table 3). Grade 1 or worse toxic effects were more common with the FEC14 regimen than with FEC21 regimen: asthenia (36% versus 29%, difference = 7%, 95% CI = 2% to 12%; P = .01), bone pain (33% versus 4%, difference = 29%, 95% CI = 25% to 33%; P<.001), anemia (38% versus 19%, difference = 19%, 95% CI = 14% to 24%; P<.001), and thrombocytopenia (8% versus 2%, difference = 6%, 95% CI = 4% to 9%; P<.001). In contrast, less leukopenia was associated with the FEC14 regimen than with the FEC21 regimen tbl3 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+and the primary comparison between the two study arms was performed with the log-rank test. To evaluate the role of various prognostic factors and to test for heterogeneity in the effect of the experimental treatment in the subgroups of patients identified by the various prognostic factors, a series of Cox proportional hazards models were fitted to overall survival and event-free survival data. The graphical representation of log{−log[S(t)]} against log t, where S(t) is the cumulative survival in each stratum at time t and t is the followup time, was used to confirm the assumption of proportionality. The covariates included in all models were treatment assignment, age (<50 years, 50–59 years, or ≥60 years), menopausal status (premenopausal or postmenopausal), tumor size (≤2.0 cm or >2.0 cm), lymph node status (negative or positive), grading (G1, G2, G3, or unknown), estrogen receptor status, progesterone receptor status (negative, positive, or unknown), and proliferative activity (low or high). Modifications of a treatment effect in subgroups identified by each of these factors were assessed by including the appropriate treatment by covariate interaction term(s) in the model. The likelihood ratio test was used to evaluate the statistical significance of each interaction term or set of interaction terms. This procedure is equivalent to a test of the homogeneity of the hazard ratios associated with the experimental treatment in strata defined by each prognostic factor. Stratum-specific hazard ratios (HRs), obtained by the coefficients estimated by the same models as e(coefficient) (with their 95% confidence intervals [CIs]), are presented with their corresponding P values. Only four of the eight subgroup analyses that are presented had been anticipated in the study protocol—the analyses by age, lymph node status, hormonal receptor status, and proliferative activity. Early results, at a median follow-up of 6.7 years, on the role of HER2 expression in predicting the efficacy of dose-dense chemotherapy, have been previously reported (14). In this study, we updated that analysis. The dose intensity, defined as the amount of drug (expressed as milligrams/meters2) administered per unit time (week), was calculated as previously described (15). To calculate dose intensity, we defined the duration of treatment as the interval between day 1 of the first cycle and day 1 of the last cycle of chemotherapy. Accelerating the administration of chemotherapy from 3 weeks to 2 weeks, for each cycle, was planned to result in a proportional increase in dose intensity of 50%. All statistical tests were two-sided. 
+
+Table 1. Patient characteristics by treatment arm: 604 patients in the FEC14 arm and 610 patients in the FEC21 arm* Characteristic 
+
+FEC21 arm, No. (%) 
+
+Total No. (%) 
+
+250 (41) 201 (33) 153 (25) 
+
+220 (36) 224 (37) 166 (27) 
+
+470 (39) 425 (35) 319 (26) 
+
+265 (44) 331 (55) 8 (1) 
+
+259 (42) 339 (56) 12 (2) 
+
+524 (43) 670 (55) 20 (2) 
+
+288 (48) 285 (47) 25 (4) 6 (1) 
+
+310 (51) 257 (42) 35 (6) 8 (1) 
+
+598 (49) 542 (45) 60 (5) 14 (1) 
+
+217 (36) 387 (64) 
+
+214 (35) 396 (65) 
+
+431 (36) 783 (64) 
+
+30 (5) 315 (52) 189 (35) 70 (12) 
+
+33 (5) 288 (47) 216 (35) 73 (12) 
+
+63 (5) 603 (50) 405 (33) 143 (12) 
+
+325 (54) 277 (46) 2 (–) 
+
+334 (55) 273 (45) 3 (–) 
+
+659 (54) 550 (45) 5 (–) 
+
+255 (42) 311 (51) 38 (6) 
+
+245 (40) 317 (52) 48 (8) 
+
+500 (41) 628 (52) 86 (7) 
+
+293 (49) 241 (40) 70 (12) 
+
+287 (47) 235 (39) 88 (14) 
+
+580 (48) 476 (39) 158 (13) 
+
+223 (37) 117 (19) 264 (44) 
+
+209 (34) 136 (22) 265 (43) 
+
+432 (36) 253 (21) 529 (44) 
+
+*FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles. †Women were considered premenopausal as follows: Premenopausal status was defined by the occurrence of a menstrual period within 6 months before random assignment. To be defined as premenopausal, women younger than 50 years, who had undergone hysterectomy, were required to have premenopausal levels of luteinizing hormone or follicle-stimulating hormone before randomization. ‡Tumor grade was determined at each participating center (16). 
+
+(12% versus 45%, difference = 33%, 95% CI = 28% to 37%; P<.001). Grade 2 cardiotoxicity occurred in one patient (0.2%) in each arm. Grade 4 toxic effects were rare. Only two episodes of nonhematologic grade 4 toxicity were reported. One patient (0.2%) in the FEC14 arm experienced diarrhea, and one patient (0.2%) in the FEC21 arm experienced vomiting. Among grade 4 hematologic toxic effects, two patients (0.3%) in the FEC14 arm and 11 patients (1.8%) in FEC21 arm had leukopenia, and two patients in FEC21 arm had grade 4 anemia. Only two episodes of febrile neutropenia, one for each arm, were recorded. The most common grade 3 treatment-related adverse events were nausea and vomiting (12% in the FEC14 arm and 11% in the FEC21 arm). Grade 3 bone pain occurred in 6% of patients in FEC14 arm but in no patient in the FEC21 arm. Grade 3 stomatitis occurred in 2.5% of patients in the FEC14 arm and 1.3% of patients in the FEC21 arm. Severe asthenia was reported in 1.4% of patients in the FEC14 arm and in 0.2% of patients in the FEC21 arm. All the other nonhematologic severe toxic effects occurred in less than 1% of patients, with no meaningful difference between the two treatment arms. Severe leukopenia was more com- 
+
+mon in the FEC21 arm (6.7%) than in the FEC14 arm (2.7%), and anemia was more common in the FEC14 arm (2.7%) than in the FEC21 arm (0.3%). Chemotherapy-induced amenorrhea was assessed in 524 premenopausal patients. Eleven of these 524 patients never began chemotherapy, and 10 had no available data about amenorrhea. Thus, overall, 503 patients had available data about amenorrhea. Chemotherapy-induced amenorrhea occurred in 322 (64%) of the 503 patients—162 (64%) of the 253 patients in the FEC14 arm and 160 (64%) of the 250 patients in the FEC21 arm. The incidence of second primary cancers was similar between the two arms—29 (4.8%) of the 604 patients in the FEC14 arm and 28 (4.6%) of the 610 patients in the FEC21 arm. Most of these second primary cancers (27 of 57 cancers) were contralateral breast cancers. No case of acute myelogenous leukemia or myelodysplastic syndrome was reported. Efficacy At a median follow-up of 10.4 years, 222 deaths had been recorded (104 in the FEC14 arm and 118 in the FEC21 arm). 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+ARTICLES 
+
+1727 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+Age group <50 y 50–59 y >59 y Menopausal status† Pre Post Unknown Tumor size, cm ≤2.0 2.1–5.0 ≥5.1 Unknown Axillary lymph node status Negative Positive Tumor grade‡ G1 G2 G3 Unknown Surgical treatment Conservative Mastectomy Unknown Estrogen receptor status Negative Positive Unknown Progesterone receptor status Negative Positive Unknown Proliferative rate High Low Unknown 
+
+FEC14 arm, No. (%) 
+
+Table 2. Compliance with therapy: 604 patients in the FEC14 arm and 610 patients in the FEC21 arm* Compliance level Completed six cycles With no delay and/or dose reduction With some delay With some dose reduction Discontinued Toxicity Refusal Early relapse Other Not begun Unknown 
+
+FEC14 arm, No. (%) 
+
+FEC21 arm, No. (%) 
+
+Total No. (%) 
+
+564 (93.4) 433 116 15 26 (4.3) 14 10 — 2 11 (1.8) 3 (0.5) 
+
+572 (93.8) 395 165 12 25 (4.1) 16 5 2 2 7 (1.1) 6 (1.0) 
+
+1136 (93.6) 828 281 27 51 (4.2) 30 15 2 4 18 (1.5) 9 (0.7) 
+
+*FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles; — = none. 
+
+in the hazard of death was associated with the FEC14 regimen (HR = 0.87, 95% CI = 0.67 to 1.13; P = .293). The effect on event-free survival was similar (HR = 0.88, 95% CI = 0.71 to 1.08; P = .219). Pathologic tumor size, lymph node status, progesterone status, grading, and proliferative activity were independently associated with overall survival and/or event-free survival in multivariable analyses. Subgroup Analyses Because of the limited power of most of these analyses and the problem of multiple comparisons, results from subgroup analyses should be considered exploratory. Although the study was underpowered for subset analysis, we found no evidence that the effect of the treatment type was statistically significantly associated with age, menopausal status, lymph node status, tumor size, estrogen and progesterone receptor status, tumor grade, or proliferative rate (Table 5). However, among patients younger than 50 years, we observed a suggestion of higher efficacy associated with the FEC14 regimen than with the FEC21 regimen 
+
+fig2 
+
+tbl4 
+
+Table 3. Toxicity by patient FEC14 (n = 589)* 
+
+FEC21 (n = 595)* 
+
+Toxicity 
+
+G0† 
+
+G1 
+
+G2 
+
+G3 
+
+Anemia, % Leukopenia, % Thrombocytopenia, % Febrile neutropenia, % Stomatitis, % Nausea and vomiting, % Diarrhea, % Pulmonary, % Fever, % Allergic reaction, % Cutaneous, % Alopecia, % Infection, % Cardiac, % Neurologic, % Asthenia, % Bone pain, % Bilirubin, % Transaminases, % Alkaline phosphatases, % 
+
+62 88 92 100 66 19 95 99 89 100 97 7 97 100 99 64 67 100 95 97 
+
+28 5 5 
+
+8 4 2 
+
+22 37 4 <1 7 <1 2 1 1 
+
+10 32 1 
+
+3 3 1 <1 3 12 <1 
+
+4 
+
+<1 
+
+1 6 2 <1 <1 13 10 
+
+1 86 <1 
+
+1 <1 
+
+<1 
+
+1 22 18 <1 3 2 
+
+1 6 
+
+G4 <1 
+
+<1 
+
+G0 
+
+G1 
+
+G2 
+
+G3 
+
+G4 
+
+81 55 98 100 67 17 96 100 92 100 97 7 97 100 100 72 96 100 97 100 
+
+15 19 1 
+
+4 18 <1 
+
+<1 2 
+
+23 42 3 
+
+9 31 1 
+
+<1 7 <1 <1 1 11 <1 
+
+4 <1 2 1 2 
+
+4 
+
+<1 
+
+1 5 1 <1 
+
+<1 87 1 
+
+9 1 
+
+<1 
+
+<1 <1 
+
+<1 
+
+<1 20 4 2 
+
+<1 
+
+*FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles. Percentages may not sum to 100% because of rounding. †Toxic effects were graded (grade [G] 0, 1, 2, 3, or 4) according to WHO criteria (13). 
+
+1728 ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+Estimated actuarial 10-year survival (Fig. 2) was 80% (95% CI = 76% to 84%) in the FEC14 arm and 78% (95% CI = 74% to 82%) in the FEC21 arm (P = .35). By the same median follow-up, 359 events had been recorded (168 in the FEC14 arm and 191 in the FEC21 arm). These 359 events included, as first events, 202 distant relapses (94 in the FEC14 arm and 108 in the FEC21 arm), 68 locoregional relapses (30 in the FEC14 arm and 38 in the FEC21 arm), 26 second breast primary cancers (12 in the FEC14 arm and 14 in the FEC21 arm), 31 second primary cancers other than breast cancer (17 in the FEC14 arm and 14 in the FEC21 arm), and 30 deaths without a diagnosis or report of relapse or second tumor (14 in the FEC14 arm and 16 in the FEC21 arm); the remaining two patients (one in each arm) had concurrent contralateral breast cancer and loco-regional relapse. Actuarial 10-year event-free survival (Fig. 2, A) was 63% (95% CI = 57% to 69%) in the FEC14 arm and 57% (95% CI = 50% to 63%) in the FEC21 arm (P = .31). In multivariable analyses (Table 4), after adjustment for age, menopausal status, tumor size, lymph node status, grading, estrogen receptor status, progesterone status, and proliferative activity, we found that a non–statistically significant 13% reduction 
+
+A 
+
+Overall Survival 
+
+90 
+
+90 
+
+80 
+
+80 
+
+70 60 50 
+
+FEC14 
+
+40 
+
+FEC21 
+
+Years N 
+
+EFS 95% CI N 
+
+EFS 95% CI 
+
+30 
+
+5 
+
+398 
+
+78 
+
+(75-82) 402 
+
+78 
+
+(74-81) 
+
+20 
+
+10 
+
+48 
+
+63 
+
+(57-69) 46 
+
+57 
+
+(50-63) 
+
+10 
+
+____ FEC 14 ……. FEC21 
+
+p=0.31 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Proportion Surviving 
+
+100 
+
+Proportion Event Free 
+
+Fig. 2. Kaplan–Meier survival curves for all randomly assigned patients. A) Event-free survival. B) Overall survival. FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles; N = number of patients at risk; EFS = eventfree survival, S = survival, with 95% confidence interval (CI) in parentheses. P values from log-rank test (two-sided) = .31 (A) and .35 (B). 
+
+B 
+
+Event Free Survival 100 
+
+70 60 50 
+
+FEC14 
+
+40 
+
+S 
+
+95% CI N 
+
+S 
+
+30 
+
+5 
+
+545 
+
+91 
+
+(89-93) 533 
+
+89 
+
+(86-91) 
+
+20 
+
+10 
+
+100 
+
+80 
+
+(76-84) 110 
+
+78 
+
+(74-82) 
+
+10 0 0 
+
+1 
+
+2 
+
+95% CI 
+
+____ FEC 14 ……. FEC21 
+
+p=0.35 
+
+3 
+
+Years 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Years 164 102 
+
+48 
+
+193 110 
+
+46 
+
+N° pts at risk FEC14 604 601 594 579 565 545 506 439 314 210 100 FEC21 610 606 591 572 557 533 506 450 334 207 110 
+
+tients with available data on HER2 status, we identified a differential effect of dose density between HER2-negative patients and HER2-positive patients. Among the 628 HER2-negative patients, 10-year event-free survival was 65% (95% CI = 57% to 73%) in the FEC14 arm and 60% (95% CI = 53% to 68%) in the FEC21 arm (P = .51); overall survival was 85% (95% CI = 80% to 89%) in the FEC14 arm and 82% (95% CI = 77% to 87%) in the FEC21 
+
+Table 4. Multivariable analysis: association of prognostic factors with overall survival and event-free survival* Overall survival† Variable Random assignment FEC21 FEC14 Tumor size ≤2.0 cm Other Axillary lymph node status Negative Positive Tumor grade‡ G1 G2 G3 Unknown Progesterone receptor status Negative Positive Unknown Menopausal status§ Pre Post Proliferative rate Low High Unknown 
+
+HR (95% CI) 
+
+Event-free survival† P 
+
+HR (95% CI) 
+
+P 
+
+.293 1 (ref.) 0.87 (0.67 to 1.13) 
+
+.219 1 (ref.) 0.88 (0.71 to 1.08) 
+
+<.001 1 (ref.) 2.02 (1.52 to 2.69) 
+
+<.001 1 (ref.) 1.73 (1.39 to 2.14) 
+
+<.001 1 (ref.) 3.26 (2.31 to 4.60) 
+
+<.001 1 (ref.) 2.34 (1.80 to 3.01) 
+
+.006 1 (ref.) 1.76 (0.72 to 4.33) 2.78 (1.13 to 6.87) 2.09 (0.80 to 5.50) 
+
+.070 1 (ref.) 1.72 (0.93 to 3.18) 2.12 (1.14 to 3.96) 1.78 (0.91 to 3.47) 
+
+<.001 1 (ref.) 0.44 (0.32 to 0.60) 0.59 (0.39 to 0.90) 
+
+<.001 1 (ref.) 0.60 (0.47 to 0.76) 0.72 (0.52 to 1.00) 
+
+.072 1 (ref.) 1.28 (0.98 to 1.69) — — — 
+
+.677†|| — — 
+
+.147†|| — — — 
+
+— .018 
+
+1 (ref.) 1.33 (0.97 to 1.83) 1.53 (1.14 to 2.06) 
+
+*HR = hazard ratio; CI = confidence interval; ref. = referent; FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles; — = none. †From a Cox model in which all variables were initially included as covariates. Covariates not statistically significantly (P>.10) associated with the outcome were excluded from the model by means of a stepdown procedure that was based on likelihood ratio test. All statistical tests were two-sided. ‡Tumor grade was determined at each participating center (16). §Women were considered premenopausal as follows: Premenopausal status was defined by the occurrence of a menstrual period within 6 months before random assignment. To be defined as premenopausal, women younger than 50 years, who had undergone hysterectomy, were required to have premenopausal levels of luteinizing hormone or follicle-stimulating hormone before randomization. ||Excluded from the final model. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+ARTICLES 
+
+1729 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+N° pts at risk FEC14 604 566 523 482 434 398 340 266 FEC21 610 578 537 475 441 402 348 296 
+
+(Fig. 3). In addition, among patients negative for both estrogen and progesterone receptors, the FEC14 regimen was associated with a better outcome than the FEC21 regimen; however, no difference in outcome between regimens was observed among those patients positive for one or both receptors (Fig. 4). We also updated our previous analysis (14) of the interaction between HER2 status and treatment. Among a subset of 731 pa- 
+
+FEC21 
+
+Years N 
+
+Table 5. Subgroup analysis of overall survival and event-free survival comparing the FEC14 arm with the FEC21 arm within strata formed by each prognostic factor* Overall survival† Prognostic factor 
+
+P‡ 
+
+HR (95% CI) 
+
+.560 0.73 (0.46 to 1.16) 0.76 (0.48 to 1.20) 1.07 (0.67 to 1.72) 
+
+P‡ .077 
+
+0.66 (0.46 to 0.94) 0.79 (0.55 to 1.13) 1.28 (0.87 to 1.88) .906 
+
+0.82 (0.53 to 1.27) 0.87 (0.62 to 1.22) 
+
+.371 0.75 (0.53 to 1.05) 0.95 (0.73 to 1.25) 
+
+.401 0.74 (0.45 to 1.20) 0.94 (0.68 to 1.30) 
+
+.870 0.94 (0.66 to 1.33) 0.88 (0.67 to 1.15) 
+
+.984 0.95 (0.51 to 1.79) 0.85 (0.63 to 1.15) 
+
+.349 0.72 (0.46 to 1.12) 0.93 (0.73 to 1.18) 
+
+.598 5.12 (0.21 to 126.29) 0.74 (0.49 to 1.11) 0.93 (0.61 to 1.42) 1.59 (0.67 to 3.74) 
+
+.455 0.81 (0.19 to 3.35) 0.81 (0.60 to 1.10) 0.91 (0.64 to 1.30) 1.58 (0.84 to 2.98) 
+
+.504 0.80 (0.55 to 1.19) 0.98 (0.67 to 1.49) 0.59 (0.22 to 1.60) 
+
+.520 0.78 (0.57 to 1.08) 0.99 (0.74 to 1.35) 0.99 (0.44 to 2.23) 
+
+.837 0.86 (0.61 to 1.22) 0.95 (0.57 to 1.58) 0.76 (0.34 to 1.67) 
+
+.403 0.79 (0.59 to 1.06) 1.04 (0.72 to 1.51) 0.77 (0.41 to 1.45) 
+
+.515 0.84 (0.42 to 1.66) 0.69 (0.43 to 1.09) 
+
+.206 0.88 (0.51 to 1.51) 0.70 (0.49 to 1.00) 
+
+*HR = hazard ratio comparing FEC14 with FEC21; CI = confidence interval; FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles. †From a Cox model, in which all variables were included as covariates. Interaction terms assessing the homogeneity of the effect of experimental treatment across strata of each covariate were introduced in the model one at a time. P values are from likelihood ratio tests. All statistical tests were two-sided. ‡Test for interaction. §Women were considered premenopausal as follows: Premenopausal status was defined by the occurrence of a menstrual period within 6 months before random assignment. To be defined as premenopausal, women younger than 50 years, who had undergone hysterectomy, were required to have premenopausal levels of luteinizing hormone or follicle-stimulating hormone before randomization. ||Tumor grade was determined at each participating center (16). 
+
+arm (P = .22). However, among the 103 HER2-positive patients, 10-year event-free survival was 72% (95% CI = 58% to 85%) in the FEC14 arm and 44% (95% CI = 27% to 61%) in the FEC21 arm (P = .03; Pinteraction = .043); overall survival was 79% (95% CI = 68% to 91%) in the FEC14 arm and 60% (95% CI = 44% to 76%) on the FEC21 arm (P = .1; Pinteraction = .192). 
+
+DISCUSSION Results of our study support the long-term safety of dosedense FEC14 chemotherapy as adjuvant treatment of early breast cancer; however, dose-dense therapy did not statistically significantly improve outcome. To our knowledge, our study is one of only two mature studies in which the dose-dense hypothesis has been tested in the adjuvant therapy of breast cancer. The only difference in the planned chemotherapy regimens between treatment arms was the interval between treatment cycles (3 weeks in the FEC21 arm and 2 weeks in the FEC14 arm). Although we allowed dose reduction or dose delay for toxicity, there were actually slightly fewer dose reductions among patients in the FEC14 arm than among those in the FEC21 arm and no differences in the total dose delivered between arms. The difference in the time of 1730 ARTICLES 
+
+delivery resulted in a 48% increase in the dose per unit time in the FEC14 arm compared with that in the FEC21 arm. The long median follow-up (10.4 years) in our study allowed us to obtain information about the long-term safety of dose-dense chemotherapy with filgrastim support. The use of filgrastim has been hypothesized to be associated with an increased risk of secondary acute myelogenous leukemia and/or myelodysplastic syndrome (17); however, no patients in our study developed acute myelogenous leukemia or myelodysplastic syndrome. Thus, no additional risk of leukemia appeared to be associated with the use of an FEC regimen supported by filgrastim. Moreover, the acute toxicity associated with the FEC21 or FEC14 regimen was mild and easy to manage. The FEC14 regimen was associated with a higher incidence of any grade of anemia (38% versus 19%), thrombocytopenia (8% versus 2%), and bone pain (33% versus 4%) than was the FEC21 regimen, but leukopenia was actually more commonly associated with the FEC21 regimen than with the FEC14 regimen. We have previously reported (18) on the quality-of-life comparisons of patients receiving these regimens that were assessed in terms of psychologic distress in a substudy from three centers and 392 patients; results of that study (18) indicated that, among early breast cancer patients, the FEC14 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+Age group <50 y 50–59 y >59 y Menopausal status§ Pre Post Tumor size ≤2.0 cm Other Axillary lymph node status Negative Positive Tumor grade|| G1 G2 G3 Unknown Estrogen receptor status Negative Positive Unknown Progesterone receptor status Negative Positive Unknown Proliferative rate Low High 
+
+HR (95% CI) 
+
+Event-free survival† 
+
+Age < 50 years 
+
+Age ≥ 50 years 
+
+B 
+
+100 
+
+100 
+
+90 
+
+90 
+
+80 
+
+80 
+
+70 60 50 
+
+FEC14 
+
+40 30 20 10 
+
+FEC21 
+
+Years N 
+
+EFS 95% CI N 
+
+5 
+
+170 
+
+83 
+
+(78-87) 138 
+
+76 
+
+(70-82) 
+
+10 
+
+22 
+
+68 
+
+(59-78) 17 
+
+56 
+
+(46-67) 
+
+____ FEC 14 ……. FEC21 
+
+p=0.02 
+
+0 0 
+
+1 
+
+EFS 95% CI 
+
+Proportion Event Free 
+
+Fig. 3. Kaplan–Meier curves of event-free survival by age. A) Patients younger than 50 years. B) Patients 50 years or older. FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles; N = number of patients at risk; EFS = event-free survival, with 95% confidence interval (CI) in parentheses. P values from log-rank test (two-sided) = .02 (A) and .55 (B). 
+
+Proportion Event Free 
+
+A 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+70 60 50 
+
+FEC14 
+
+40 30 20 10 
+
+FEC21 
+
+Years N 
+
+EFS 95% CI N 
+
+5 
+
+228 
+
+75 
+
+(71-80) 264 
+
+78 
+
+(74-83) 
+
+10 
+
+26 
+
+60 
+
+(52-67) 29 
+
+56 
+
+(49-64) 
+
+____ FEC 14 ……. FEC21 
+
+p=0.55 
+
+0 10 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+7 
+
+8 
+
+9 
+
+10 
+
+N° pts at risk FEC14 354 330 299 275 251 228 192 147 
+
+88 
+
+55 
+
+26 
+
+129 
+
+74 
+
+29 
+
+Years 76 
+
+47 
+
+22 
+
+64 
+
+36 
+
+17 
+
+FEC21 390 372 345 312 290 264 229 192 
+
+rate in our study population was much lower than we expected in 1991. When the study was planned, we assumed a 5-year survival of 65%–70% in the control group on the basis of our previous studies on similar patient populations and on estimates of the survival of patients with early breast cancer. However, the 5-year survival that we observed in our control group was 89%, which reflects the prognosis of breast cancer patients treated in the late 1990s and which corresponds to a death rate of approximately one-third of that expected. Among the patient population, a 13% reduced risk of death was associated with the FEC14 regimen, compared with the FEC21 regimen (HR = 0.87; 95% CI = 0.67 to 1.13). This value corresponded to an absolute improvement of 2% at a median survival of 10 years. This survival benefit did not reach statistical significance and appears lower than the 31% reduction in the risk of death reported in the CALGB 9741 study at 3 years of follow-up (5). However, analysis of more recent data from the CALGB 9741 trial at 5 years of follow-up (19) found that the strength of the association between overall survival and dosedense therapy was much more modest. In that update, the proportional benefit associated with dose-dense therapy was 22% among 
+
+Hormonal receptors negative 
+
+Hormonal receptors positive 
+
+B 
+
+100 
+
+100 
+
+90 
+
+90 
+
+80 
+
+80 
+
+70 60 50 
+
+FEC21 
+
+FEC14 
+
+40 
+
+Years N 
+
+EFS 95% CI N 
+
+EFS 95% CI 
+
+30 
+
+5 
+
+128 
+
+75 
+
+(69-81) 113 
+
+71 
+
+(64-77) 
+
+20 
+
+10 
+
+18 
+
+67 
+
+(58-76) 14 
+
+46 
+
+(35-58) 
+
+10 
+
+____ FEC 14 ……. FEC21 
+
+p=0.03 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+FEC21 193 182 163 136 121 113 96 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+70 60 50 
+
+FEC21 
+
+FEC14 
+
+40 30 20 10 
+
+Years N 
+
+EFS 95% CI N 
+
+EFS 95% CI 
+
+5 
+
+223 
+
+81 
+
+(76-85) 230 
+
+83 
+
+(79-87) 
+
+10 
+
+27 
+
+62 
+
+(53-70) 28 
+
+63 
+
+(55-71) 
+
+____ FEC 14 ……. FEC21 
+
+p=0.60 
+
+0 10 
+
+Years N° pts at risk FEC14 203 189 168 153 138 128 106 
+
+Proportion Event Free 
+
+Proportion Event Free 
+
+Fig. 4. Kaplan–Meier curves of event-free survival by hormone receptor status. A) Patients with a negative hormone receptor status for both estrogen receptor and progesterone receptors. B) Patients with a positive hormone receptor status for at least one hormone receptor. FEC = fluorouracil, epirubicin, and cyclophosphamide; FEC14 = FEC treatment with 14 days between treatment cycles; FEC21 = FEC treatment with 21 days between treatment cycles. N = number of patients at risk; EFS = eventfree survival, with 95% confidence interval (CI) in parentheses. P values from log-rank test (twosided) = .03 (A) and .60 (B). 
+
+6 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Years 86 
+
+60 
+
+43 
+
+18 
+
+79 
+
+55 
+
+35 
+
+14 
+
+N° pts at risk FEC14 326 310 290 270 242 223 192 150 87 
+
+FEC21 324 313 299 271 255 230 200 166 110 
+
+ARTICLES 
+
+51 
+
+27 
+
+59 
+
+28 
+
+1731 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+FEC21 220 206 192 163 151 138 119 101 
+
+A 
+
+5 
+
+Years 
+
+N° pts at risk FEC14 250 236 224 207 183 170 148 119 
+
+regimen was associated with higher, but transient and timely reversible, psychologic distress than that of the FEC21 regimen. Our results are similar to those reported for Cancer and Leukemia Group B (CALGB) 9741 trial (5). This study compared sequential doxorubicin, paclitaxel, and cyclophosphamide with concurrent doxorubicin and cyclophosphamide followed by paclitaxel, each regimen administered every 3 weeks or every 2 weeks with filgrastim, and reported that the 2-week schedule was well tolerated, with no excess cases of leukemia, fewer cases of neutropenia, but more cases of anemia than with the 3-week schedule. Our study was substantially underpowered to detect the planned risk reduction. With 222 recorded deaths and 359 recorded events, our study had an 80% power to detect a reduction in the hazard of death of 32% and a reduction in the hazard of an event of 26%, compared with the planned target difference of a 20% reduction in the hazard of death. This reduced statistical power resulted only partially from the fact that accrual was closed after 4.5 years when 1214 patients, instead of the planned 1400 patients, had been randomly assigned to a treatment arm. The primary reason for the low statistical power was that the mortality 
+
+EFS 95% CI 
+
+1732 ARTICLES 
+
+In conclusion, at a median follow-up of 10.4 years, our results support the long-term safety of the FEC14 dose-dense chemotherapy regimen with filgrastim support as an adjuvant treatment for breast cancer. The dose-dense strategy was not statistically significantly associated with improved outcome, but, because of the limited statistical power of our study and the trend for an improved outcome observed, we cannot rule out the possibility of a modestly improved outcome. Exploratory subset analyses indicate that the dose-dense FEC14 regimen may be associated with an improved clinical outcome, particularly among younger patients, HER2-positive patients, chemosensitive patients (such as those with tumors that are negative for both estrogen and progesterone receptors), and patients whose tumors have high proliferative activity. 
+
+APPENDIX The following centers and investigators participated: Istituto Nazionale per la Ricerca sul Cancro, Oncologia Medica A, Genova, Italy, Ornella Garrone and Marina Bergaglio; Azienda Ospedaliera C. Poma, Mantova, Italy, Beatrice Vivorio and Carla Rabbi; Ospedale Universitario S. Chiara, Pisa, Italy, Tiziana Prochilo; Ospedali Galliera, Genova, Italy, Mauro D’Amico; Azienda Ospedaliera di Sassari, Sassari, Italy, Nina Olmeo and Antonia Deriu; ASL 19, Ospedale Civile, Asti, Italy, Lorena Giaretto; Ospedale S. Paolo, Savona, Italy, Gisella Pastorino and Maria Cristina Martini; Ospedale S. Andrea, La Spezia, Italy, Antonella Vigani; I.R.C.C.S. Ospedale S. Raffaele, Milano, Italy, Daniela Aldrighetti and Angelo Bolognesi; ASL 4–Liguria, Sestri Levante (GE), Italy, Andrea Lavarello and Ornella Sanguineti; ASL 21-Ospedale S. Spirito, Casale Monferrato (AL), Italy, Bruno Castagneto and Mario Botta; ASL 1, Massa Carrara, Italy, Savigliana Venturini and Spinelli Italo; Presidio Ospedaliero A. Businco, Cagliari, Italy, Vittorio Mascia and Efisio Defraia; A.S.S. N°1 Triestina, Trieste, Italy, Giorgio Mustacchi and Rita Ceccherini; ASL 18, Alba-Bra, Cuneo, Italy, Gianfranco Porcile and Mario Franchini; Ospedale Santa Corona, Pietra Ligure (SV), Italy, Ugo Folco and Cinzia Naso; Ospedale Sampierdarena, Genova, Italy, Elio Paganini and Francesco Tata; Ospedale Civile, Sanremo, Italy, Domenico Guarneri and Elisabetta Campora; Istituto Nazionale per la Ricerca sul Cancro, Oncologia Medica B, Genova, Italy, Francesco; Boccardo and Domenico Amoroso; Ospedale di Merate, ASL-Lecco, Merate, Italy, Stefano Banducci and Maurizio Ilaria; and USL 8, Arezzo, Italy, Paolo Ghezzi and Simonetta Magnanini. 
+
+REFERENCES (1) Fisher B, Anderson S, Wickerham DL, DeCillis A, Dimitrov N, Mamounas E, et al. Increased intensification and total dose of cyclophosphamide in a doxorubicin-cyclophosphamide regimen for the treatment of primary breast cancer: findings from National Surgical Adjuvant Breast and Bowel Project B-22. J Clin Oncol 1997;15:1858–69. (2) Fisher B, Anderson S, De Cillis A, Dimitrov N, Atkins JN, Fehrenbacher L, et al. Further evaluation of intensified and increased total dose of cyclophosphamide for the treatment of primary breast cancer: findings from National Surgical Adjuvant breast and Bowel Project B-25. J Clin Oncol 1999;17:3374–88. (3) Henderson IC, Berry DA, Demetri GD, Cirrincione CT, Goldstein LJ, Martino S, et al. Improved outcomes from adding sequential Paclitaxel but not from escalating Doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 2003;21:976–83. (4) French Adjuvant Study Group. Benefit of a high-dose epirubicin regimen in adjuvant chemotherapy for node positive breast cancer patients with 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+estrogen receptor–negative patients and only 1% among estrogen receptor–positive patients (who made up 67% of the patients in that study). Thus, risk reduction in the patient population in that trial was in the range of 10%–20%, which is similar to the range that we observed. Although our study did not have enough statistical power to investigate associations in subsets, we found evidence that the dose-dense strategy was selectively associated with improved outcome among estrogen receptor–negative patients (a 20% reduction in risk), compared with that among estrogen receptor–positive patients (a 2% reduction of risk). Results of other exploratory subset analyses are also of interest. The benefit associated with the dose-dense FEC14 regimen appeared to be restricted largely to patients younger than 50 years; these patients had a statistically significant 34% reduced risk of recurrence (HR = 0.66, 95% CI = 0.46 to 0.94) and a non–statistically significant 27% reduced risk of death (HR = 0.73, 95% CI = 0.46 to 1.16). This greater efficacy seems not to be mediated by a greater activity of FEC14 in suppressing ovarian function, because the rate of chemotherapy-induced amenorrhea was virtually identical in the two arms. It can be hypothesized that dose-dense FEC14 chemotherapy works well in the subsets of patients generally defined as sensitive to chemotherapy; this group includes young patients (20) with a negative hormone receptor status (21) or with tumors that have a high rate of proliferation (22). Our data suggest that the best candidates for dosedense anthracycline-based chemotherapy may be patients with at least one of the following characteristics: young age, negative hormone receptor status, or high proliferative rate. Our updated analysis on the association between HER2 overexpression and the efficacy of dose-dense therapy reinforced previously reported results (14) that the benefit of dose-dense chemotherapy appears to be restricted to HER2-positive patients. At a 10.4-year follow-up, a statistically significant absolute improvement of 28% in event-free survival was associated with the FEC14 regimen, compared with the FEC21 regimen. An improvement in overall survival associated with the FEC14 regimen was also observed in this subgroup, although it was not statistically significant. The outcome among HER2-negative patients was similar between the FEC14 arm and the FEC21 arm. The hypothesis that dose-dense therapy is effective in HER2-positive tumors appears to be biologically plausible. If HER2 overexpression is associated with more aggressive and rapidly proliferating tumors (23) and if the proliferation of cancer cells between cycles of chemotherapy is more rapid in these tumors, then administration of an accelerated or dose-dense chemotherapy regimen might have increased efficacy. In addition to its reduced statistical power, our trial had other limitations. First, the trial was designed and conducted according to the information that was available in 1991. The trial sample size was not adequate because a 20% risk reduction was the upper limit of a realistic survival benefit that might be expected with a 50% increase in dose density from the FEC21 arm to the FEC14 arm. A second weakness of our trial was that the epirubicin dose used in the FEC regimen (i.e., 60 mg/m2) was less than the current standard epirubicin dose of 100 mg/m2. However, when our study was being planned, data on the superiority of higher doses of epirubicin were not available (4), and the FEC regimen containing epirubicin at 60 mg/m2 was commonly used also by other groups (24,25). In any case, the dose of epirubicin was the same in both arms and thus should not affect the results of this study. 
+
+(17) Smith RE. Risk for the development of treatment-related acute myelocytic leukemia and myelodysplastic syndrome among patients with breast cancer: review of the literature and the National Surgical Adjuvant Breast and Bowel Project experience. Clin Breast Cancer 2003;4:273–9. (18) Del Mastro L, Costantini M, Morasso, Bonci F, Bergaglio M, Banducci S, et al. Impact of two different dose-intensity chemotherapy regimens on psychological distress in early breast cancer patients. Eur J Cancer 2002;38:359–66. (19) Berry DA, Cirrincione C, Henderson IC, Citron ML, Budman DR, Goldstein LJ, et al. Effects of improvements in chemotherapy on diseasefree and overall survival of estrogen-receptor negative, node-positive breast cancer: 20-year experience of the CALGB U.S. Breast Intergroup. Br Cancer Res Treat 2004;88(suppl. 1):S17 (abstr. 29). (20) Early Breast Cancer Trialists’ Collaborative Group: Polychemotherapy for early breast cancer: an overview of the randomised trials. Lancet 1998;352:930–42. (21) Colleoni M, Minchella I, Mazzarol G, Nole F, Peruzzotti G, Rocca A, et al. Response to primary chemotherapy in breast cancer patients with tumors not expressing estrogen and progesterone receptors. Ann Oncol 2000;11:1057–9. (22) Wang J, Buchholz TA, Middleton LP, Allred DC, Tucker SL, Kuerer HM, et al. Assessment of histologic features and expression of biomarkers in predicting pathologic response to anthracycline-based neoadjuvant chemotherapy in patients with breast carcinoma. Cancer 2002;94:3107–14. (23) Borg A, Baldetorp B, Ferno M, Killander D, Olsson H, Sigurdsson H. ERBB2 amplification in breast cancer with high rate of proliferation. Oncogene 1991;6:137–43. (24) van der Hage JA, van de Velde CJ, Julien JP, Tubiana-Hulin M, Vandervelden C, Duchateau L. Preoperative chemotherapy in primary operable breast cancer: results from the European Organization for Research and Treatment of Cancer Trial 10902. J Clin Oncol 2001;19:4224–37. (25) Mouridsen HT, Andersen J, Andersson M, Dombernowsky P, Ejlertsen B, Rose C. Adjuvant anthracycline in breast cancer. Improved outcome in premenopausal patients following substitution of methotrexate in the CMF combination with epirubicin. Proc ASCO 1999;18:68a (abstr. 254). 
+
+NOTES We thank Simona Pastorino for data management and Peter Ravdin for his substantive scientific contribution in revising the manuscript. Supported by Grants of the Associazione Italiana per la Ricerca sul Cancro (AIRC). Presented in part at the 26th San Antonio Breast Cancer Symposium— December 3–6, 2003. Manuscript received May 5, 2005; revised September 26, 2005; accepted October 14, 2005. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 23, December 7, 2005 
+
+ARTICLES 
+
+1733 
+
+Downloaded from http://jnci.oxfordjournals.org/ at Stanford University Libraries on May 12, 2014 
+
+poor prognostic factors: 5-year follow-up results of French Adjuvant Study Group 05 randomized trial. J Clin Oncol 2001;19:602–11. (5) Citron ML, Berry DA, Cirrincione C, Hudis C, Winer EP, Gradishar WJ, et al. Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: first report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin Oncol 2003;21:1431–9. (6) Skipper HE. Laboratory models: some historical perspective. Cancer Treat Rep 1986;70:3–7. (7) Norton L, Simon R, Brerenton JD, Bogden AE. Predicting the course of Gompertzian growth. Nature 1976;264:542–5. (8) Norton L. Theoretical concepts and the emerging role of taxanes in adjuvant therapy. Oncologist 2001;3:30–5 (suppl). (9) Ardizzoni A, Venturini M, Sertoli MR, Giannessi PG, Brema F, Danova M, et al. Granulocyte-macrophage colony-stimulating factor (GM-CSF) allows acceleration and dose intensity increase of CEF chemotherapy: a randomised study in patients with advanced breast cancer. Br J Cancer 1994;69: 385–91. (10) Venturini M, Del Mastro L, Testore F, Danova M, Garrone O, Lanfranco C, et al. Erythropoietin and granulocyte-macrophage colony-stimulating factor allow acceleration and dose escalation of cyclophosphamide/epidoxorubicin/5-fluorouracil chemotherapy: a dose-finding study in patients with advanced breast cancer. Cancer Chemother Pharmacol 1996;38:487–94. (11) Del Mastro L, Venturini M, Lionetto R, Carnino F, Guarneri D, Gallo L, et al. Accelerated-intensified cyclophosphamide, epirubicin, and fluorouracil (CEF) compared with standard CEF in metastatic breast cancer patients: results of a multicenter, randomized phase III study of the Italian Gruppo Oncologico Nord-Ouest-Mammella Inter Gruppo Group. J Clin Oncol 2001;19:2213–21. (12) Del Mastro L, Garrone O, Sertoli MR, Canavese G, Catturich A, Guenzi M, et al. A pilot study of accelerated cyclophosphamide, epirubicin and 5fluorouracil plus granulocyte colony stimulating factor as adjuvant therapy in early breast cancer. Eur J Cancer 1994;30A:606–10. (13) Miller AB, Hoogstraten B, Staquet M, Winkler A. Reporting results of cancer treatment. Cancer 1981;47:207–14. (14) Del Mastro L, Bruzzi P, Nicolo G, Cavazzini G, Contu A, D’Amico M, et al. HER2 expression and efficacy of dose-dense anthracycline-containing adjuvant chemotherapy in breast cancer patients. Br J Cancer 2005;93: 7–14. (15) Hryniuk WM. The importance of dose-intensity in the outcome of chemotherapy. In: De Vita VT Jr, Hellman S, Rosenberg SA, editors. Important advances in oncology. Philadelphia (PA): Lippincott; 1988. p. 121–41. (16) Scarff RW, Torloni H. Histological typing of breast tumors. International histological classification of tumours, no. 2. Vol. 2. World Health Organization, Geneva (Switzerland); 1968. p. 13–20. 
+
+ 

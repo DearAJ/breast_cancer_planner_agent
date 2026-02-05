@@ -1,0 +1,613 @@
+new england journal of medicine The 
+
+established in 1812 
+
+November 19, 2015 
+
+vol. 373 
+
+no. 21 
+
+Prospective Validation of a 21-Gene Expression Assay in Breast Cancer J.A. Sparano, R.J. Gray, D.F. Makower, K.I. Pritchard, K.S. Albain, D.F. Hayes, C.E. Geyer, Jr., E.C. Dees, E.A. Perez, J.A. Olson, Jr., J.A. Zujewski, T. Lively, S.S. Badve, T.J. Saphner, L.I. Wagner, T.J. Whelan, M.J. Ellis, S. Paik, W.C. Wood, P. Ravdin, M.M. Keane, H.L. Gomez Moreno, P.S. Reddy, T.F. Goggins, I.A. Mayer, A.M. Brufsky, D.L. Toppmeyer, V.G. Kaklamani, J.N. Atkins, J.L. Berenberg, and G.W. Sledge​​ 
+
+a bs t r ac t BACKGROUND 
+
+Prior studies with the use of a prospective–retrospective design including archival tumor samples have shown that gene-expression assays provide clinically useful prognostic information. However, a prospectively conducted study in a uniformly treated population provides the highest level of evidence supporting the clinical validity and usefulness of a biomarker. METHODS 
+
+We performed a prospective trial involving women with hormone-receptor–positive, human epidermal growth factor receptor type 2 (HER2)–negative, axillary node–negative breast cancer with tumors of 1.1 to 5.0 cm in the greatest dimension (or 0.6 to 1.0 cm in the greatest dimension and intermediate or high tumor grade) who met established guidelines for the consideration of adjuvant chemotherapy on the basis of clinicopathologic features. A reverse-transcriptase–polymerase-chain-reaction assay of 21 genes was performed on the paraffin-embedded tumor tissue, and the results were used to calculate a score indicating the risk of breast-cancer recurrence; patients were assigned to receive endocrine therapy without chemotherapy if they had a recurrence score of 0 to 10, indicating a very low risk of recurrence (on a scale of 0 to 100, with higher scores indicating a greater risk of recurrence). 
+
+The authors’ full names, academic degrees, and affiliations are listed in the Appendix. Address reprint requests to Dr. Sparano at the Department of Oncology, Montefiore Medical Center, 1695 Eastchester Rd., Bronx, NY 10461, or at j­sparano@​ ­montefiore​.­org. This article was published on September 28, 2015, at NEJM.org. N Engl J Med 2015;373:2005-14. DOI: 10.1056/NEJMoa1510764 Copyright © 2015 Massachusetts Medical Society. 
+
+RESULTS 
+
+Of the 10,253 eligible women enrolled, 1626 women (15.9%) who had a recurrence score of 0 to 10 were assigned to receive endocrine therapy alone without chemotherapy. At 5 years, in this patient population, the rate of invasive disease–free survival was 93.8% (95% confidence interval [CI], 92.4 to 94.9), the rate of freedom from recurrence of breast cancer at a distant site was 99.3% (95% CI, 98.7 to 99.6), the rate of freedom from recurrence of breast cancer at a distant or local–regional site was 98.7% (95% CI, 97.9 to 99.2), and the rate of overall survival was 98.0% (95% CI, 97.1 to 98.6). CONCLUSIONS 
+
+Among patients with hormone-receptor–positive, HER2-negative, axillary node–negative breast cancer who met established guidelines for the recommendation of adjuvant chemotherapy on the basis of clinicopathologic features, those with tumors that had a favorable gene-expression profile had very low rates of recurrence at 5 years with endocrine therapy alone. (Funded by the National Cancer Institute and others; ClinicalTrials.gov number, NCT00310180.) n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+2005 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+B 
+
+reast cancer is the most common cancer in women worldwide and in the United States, and it is the leading cause of death from cancer in women worldwide.1 Prognostic factors for the recurrence of breast cancer at a distant site regardless of treatment include clinicopathologic features such as tumor size and grade and the number of axillary lymph nodes with metastasis.2 Predictive factors that identify a benefit from specific therapies include the expression of the estrogen receptor and the progesterone receptor, which identifies patients who benefit from adjuvant endocrine therapy,3 and overexpression of the human epidermal growth factor receptor 2 (HER2) protein (or HER2 gene amplification),4 which identifies patients who benefit from adjuvant HER2-directed therapy. Adjuvant chemotherapy reduces the risk of recurrence, even among patients with axillary node–negative disease who are at lower risk for recurrence.5-7 For contemporary taxane-based or anthracycline-based chemotherapy regimens, proportional reductions in risk have been shown to be affected only minimally by age, nodal status, tumor grade, estrogen-receptor expression, or use of adjuvant endocrine therapy.8 These findings led a National Institutes of Health consensus panel in 2001 to conclude that “adjuvant polychemotherapy . . . should be recommended to the majority of women with localized breast cancer regardless of lymph node, menopausal, or hormone receptor status.”9 The widespread use of adjuvant chemotherapy has contributed to the declining breastcancer mortality that has been observed in the United States and other industrialized nations.10 More than 100,000 women in the United States received a diagnosis of estrogen-receptor– positive breast cancer associated with negative axillary lymph nodes in 2014.11 Although approximately 85% of these women may be recurrence-free at 10 years with adjuvant endocrine therapy alone, the addition of chemotherapy leads to a relative reduction in the risk of recurrence of approximately 30% on average, which translates into an absolute benefit in the rate of freedom from recurrence of up to 5 percentage points.12,13 Many patients with estrogen-receptor– positive breast cancer would therefore be overtreated with chemotherapy on the basis of clinicopathologic features alone, since most would have been adequately treated with endocrine therapy alone.14 Previous studies have shown that a 21-gene 2006 
+
+n engl j med 373;21 
+
+expression assay provides additional prognostic information independent of clinicopathologic features15 and also predicts benefit from adjuvant chemotherapy in estrogen-receptor–positive disease.16,17 Prospective validation was performed with the use of archival tumor specimens from completed studies that used a prospective–retrospective design.18 However, validation in prospectively conducted studies provides the highest level of evidence supporting the clinical validity and ultimately the clinical usefulness of a new biomarker.19,20 Here we report the results of a prospectively conducted clinical trial, the Trial Assigning Individualized Options for Treatment (TAILORx). This trial was designed to further validate and refine the clinical usefulness of the 21-gene assay (Oncotype DX Recurrence Score, Genomic Health) in a specified low-risk cohort of women with hormone-receptor–positive, HER2-negative, axillary node–negative invasive breast cancer. 
+
+Me thods Study Patients 
+
+The study included women 18 to 75 years of age with axillary node–negative invasive breast cancer that was estrogen-receptor–positive or progesterone-receptor–positive (or both) and that did not overexpress HER2. Patients had to meet National Comprehensive Cancer Network guidelines for the recommendation of adjuvant chemotherapy,21 including a primary tumor size of 1.1 to 5.0 cm in the greatest dimension for a tumor of any grade or a size of 0.6 to 1.0 cm in the greatest dimension for a tumor of intermediate or high histologic grade or nuclear grade (or both). Other eligibility criteria included an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 or 1 (on a scale from 0 to 5, with higher numbers indicating greater disability; a score of 0 indicates no symptoms, and a score of 1 mild symptoms) and normal hematologic, bone marrow, hepatic, renal, pulmonary, and cardiac function. Patients with HER2-overexpressing disease were excluded because most have a high risk of recurrence14 and because such patients benefit from adjuvant HER2-directed therapy plus chemotherapy.22 Study Protocol 
+
+This prospective clinical trial was sponsored by the National Cancer Institute (NCI), was coordi- 
+
+nejm.org 
+
+November 19, 2015 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Expression Assay in Breast Cancer 
+
+nated by the ECOG and subsequently the ECOG– ACRIN Cancer Research Group, and included other participating NCI-sponsored groups. Patients were required to provide written informed consent, including willingness to have treatment assigned or randomly assigned on the basis of the genetic-assay results indicating the risk of recurrence. All the patients had an Oncotype DX Recurrence Score, a reverse-transcriptase–polymerasechain-reaction 21-gene assay performed on RNA extracted from formalin-fixed paraffin-embedded tissue, performed in a central laboratory (Genomic Health).15 The recurrence scores range from 0 to 100, with higher scores indicating a greater risk of recurrence. Patients with a score of 0 to 10 were assigned to receive endocrine therapy alone, and those with a score of 26 or higher were assigned to receive chemotherapy plus endocrine therapy. Prior studies indicated that patients with a score of less than 11 had a favorable prognosis with endocrine therapy alone15 and also that patients with a score of 26 to 30 or higher derived substantially greater benefit from adjuvant chemotherapy.16,17 Patients with a midrange score of 11 to 25 were randomly assigned to receive either chemotherapy plus endocrine therapy or endocrine therapy alone because the benefits of chemotherapy were uncertain in this group, yet the risk of recurrence was high enough to suggest that chemotherapy might be beneficial. To minimize the potential for undertreatment of the participants enrolled in our trial, the recurrence-score ranges used in our study differed from those that were originally defined as low (≤10 in our study vs. <18 in the original definition), intermediate (11 to 25 vs. 18 to 30), and high (≥26 vs. ≥31).14 The recurrence-score strata derived for the trial were based on prior studies that indicated that the risk of recurrence of breast cancer at a distant site at 10 years after diagnosis and a 5-year course of tamoxifen could be as high as 10% among patients with a score of 11 (point estimate, 7%; 95% confidence interval [CI], 5 to 10) and up to 20% among those with a score of 25 (point estimate, 16%; 95% CI, 13 to 20),15 indicating a risk that was substantial enough for a recommendation of adjuvant chemotherapy in patients with a score of 11 or higher.14 
+
+some changes recommended by the coauthors and Genomic Health. Data were collected by the Cancer Trials Support Unit and the ECOG– ACRIN Cancer Research Group Coordinating Center. All the authors vouch for the accuracy and completeness of the data and analyses presented and for the adherence of the study to the protocol, which is available with the full text of this article at NEJM.org. No commercial support was involved in the planning or execution of the study, although the genomic test used is commercially available. Study End Points 
+
+The standardized definitions for efficacy end points (STEEP) criteria were used for the endpoint definitions.23 The primary trial end point was a time-to-event analysis of the rate of survival free from invasive cancer, with an invasivecancer event defined as the first event of recurrence of ipsilateral breast tumor, local recurrence, regional recurrence, distant recurrence, contralateral second primary invasive cancer, second primary nonbreast invasive cancer (excluding nonmelanoma skin cancer), or death without evidence of recurrence (which corresponds to the STEEP definition of invasive disease–free survival). Secondary end points included time-to-event analyses of the freedom from the recurrence of breast cancer at a distant site, with an event of breast cancer at a distant site defined as the first event of distant recurrence of breast cancer or death with distant recurrence, if death was the first manifestation of distant recurrence (which corresponds to the STEEP definition of distant recurrence–free interval); freedom from any recurrence, with recurrence defined as the first recurrence of breast cancer at any site (including ipsilateral breast cancer, local or regional recurrence, or distant recurrence) or death with recurrence, if death was the first manifestation of recurrence (which corresponds to the STEEP definition of recurrence-free interval); and the overall survival rate, which was defined as the proportion of patients who did not die (from any cause). End-point assessments that were consistent with standard of care at regular intervals were specified in the protocol, and copies of source documents supporting each event were Study Oversight reviewed and corroborated by one of the coauThe manuscript was written by the first author; thors who did not have knowledge of the study the final version of the manuscript incorporated group or the recurrence-score information. n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+2007 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Statistical Analysis 
+
+The overall sample size in all the risk strata defined according to recurrence score was driven by the need to include a sufficient number of patients with a score of 11 to 25 (midrange risk) in order to test the noninferiority of endocrine therapy alone versus chemotherapy plus endocrine therapy. At the fourth planned interim analysis held on March 20, 2015, the ECOG– ACRIN data and safety monitoring committee recommended that the results of the low-risk group be released and that follow-up in the randomized midrange-risk stratum and the nonrandomized high-risk stratum continue as planned. Although there was no specific enrollment goal for the low-risk group, the large sample provided the opportunity to estimate 5-year event rates accurately. Statistical comparisons of baseline characteristics were calculated with the use of the chisquare test for categorical variables and the Wilcoxon test and Student’s t-test for continuous variables. Tumor size in the greatest dimension, histologic grade of the tumor, and expression of estrogen receptor, progesterone receptor, and HER2 were determined locally and reported by the participating site. Event-free rates were estimated with the use of the Kaplan–Meier method, with confidence intervals computed with the use of the log–log transformation and Greenwood’s variance. The data-cutoff date for the results presented here was July 29, 2015. 
+
+R e sult s 
+
+2008 
+
+patients with tumors associated with a recurrence score of 0 to 10 (low-risk cohort) — as compared with the characteristics of the patients who had a score of 11 to 25 (midrange-risk cohort). There were no significant differences in RS[0,10]和 tumor size between these two cohorts. There [11,25]之间 was a similar distribution of intermediate-grade 的临床特征 tumors (59% in the low-risk cohort and 57% in 差异： the midrange-risk cohort), although there was a 肿瘤级别 significant difference in the distribution of grade, 年龄 including low-grade tumors (34% vs. 29%) and 月经状态 high-grade tumors (7% vs. 14%) (P<0.001 for PR表达 both comparisons). There were also significant 手术方式 but numerically modest differences between the low-risk cohort and the midrange-risk cohort with regard to age (median, 58 years vs. 55 years), menopausal status (postmenopausal status, 70% vs. 64%), progesterone-receptor expression (progesterone-receptor–positive, 98% vs. 92%), and type of primary surgery (lumpectomy, 68% vs. 72%) (P<0.001 for all comparisons by the chisquare test). Adjuvant Therapy 
+
+In the low-risk cohort of 1626 patients, endocrine therapy included an aromatase inhibitor in 963 patients (59%), tamoxifen in 560 (34%), sequential tamoxifen followed by aromatase-inhibitor therapy in 13 (1%), ovarian-function suppression in 44 (3%), or other or unknown therapy in 46 (3%). Although the protocol specified that no chemotherapy be given if the recurrence score was 0 to 10, a total of 6 patients received adjuvant chemotherapy (1 of whom had a recurrence despite adjuvant chemotherapy). 
+
+Characteristics of the Patients 
+
+Event Rates at 5 Years 
+
+Between April 7, 2006, and October 6, 2010, we enrolled 10,273 patients in the trial, of whom 10,253 were eligible to participate. A total of 1629 patients (1626 of whom were eligible [15.9% of the total eligible population]) had a recurrence score of 0 to 10 (indicating low risk), 6907 (6897 of whom were eligible [67.3% of the total eligible population]) had a score of 11 to 25 (indicating midrange risk), and 1736 (1730 of whom were eligible [16.9% of the total eligible population]) had a score of 26 or higher (indicating high risk). The median follow-up in the lowrisk cohort was 69 months. Table 1 shows the characteristics of the study population that was included in this analysis — 
+
+In the cohort of patients with a recurrence score of 0 to 10, there were 88 events of either invasive cancer or death and 30 deaths reported within 5 years after study entry. The first event in the analysis of survival free from invasive disease was local or regional recurrence (or both) in 8 patients, distant recurrence in 10, invasive cancer of the opposite breast in 15, other invasive new primary cancer in 43, and death without another event in 12. The Kaplan–Meier estimates for each end point examined are shown in Figure 1. In this cohort, the rate of invasive disease– free survival at 5 years was 93.8% (95% CI, 92.4 to 94.9). The rate of freedom from recurrence of breast cancer at a distant site at 5 years was 
+
+n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Expression Assay in Breast Cancer 
+
+Table 1. Characteristics of the Patients at Baseline, According to Recurrence-Score Cohort.* 
+
+Characteristic 
+
+Recurrence Score, 0–10 (N = 1626) 
+
+Recurrence Score, 11–25 (N = 6897) 
+
+P Value 
+
+15.9 
+
+67.3 
+
+— 
+
+58 (50–64) 
+
+55 (48–62) 
+
+<0.001 
+
+57±9 
+
+55±9 
+
+<0.001 
+
+Percent of all enrolled patients Age Median (interquartile range) — yr Mean — yr Distribution — no. (%) 
+
+<0.001 
+
+≤40 yr 
+
+58 (4) 
+
+319 (5) 
+
+41–50 yr 
+
+372 (23) 
+
+1964 (28) 
+
+51–60 yr 
+
+566 (35) 
+
+2503 (36) 
+
+61–70 yr 
+
+519 (32) 
+
+1811 (26) 
+
+>70 yr 
+
+111 (7) 
+
+300 (4) 
+
+Menopausal status — no./total no. (%) 
+
+<0.001 
+
+Postmenopausal 
+
+1143/1623 (70) 
+
+4396/6873 (64) 
+
+Premenopausal 
+
+480/1623 (30) 
+
+2477/6873 (36) 
+
+Median (interquartile range) — cm 
+
+1.5 (1.2–2.0) 
+
+1.5 (1.2–2.0) 
+
+0.31 
+
+Mean — cm 
+
+1.74±0.77 
+
+1.71±0.79 
+
+0.23 
+
+Tumor size in the greatest dimension 
+
+Distribution — no./total no. (%) 
+
+0.42 
+
+<1.0 cm 
+
+128/1626 (8) 
+
+568/6883 (8) 
+
+1.0–1.9 cm 
+
+993/1626 (61) 
+
+4270/6883 (62) 
+
+2.0–2.9 cm 
+
+366/1626 (23) 
+
+1543/6883 (22) 
+
+3.0–3.9 cm 
+
+104/1626 (6) 
+
+358/6883 (5) 
+
+≥4.0 cm 
+
+35/1626 (2) 
+
+144/6883 (2) 
+
+Histologic grade of tumor — no./total no. (%) 
+
+<0.001 
+
+Low 
+
+530/1578 (34) 
+
+1941/6665 (29) 
+
+Intermediate 
+
+937/1578 (59) 
+
+3812/6665 (57) 
+
+High 
+
+111/1578 (7) 
+
+912/6665 (14) 
+
+Negative 
+
+5/1626 (<1) 
+
+10/6885 (<1) 
+
+Positive 
+
+1621/1626 (>99) 
+
+6875/6885 (>99) 
+
+Negative 
+
+28/1590 (2) 
+
+528/6752 (8) 
+
+Positive 
+
+1562/1590 (98) 
+
+6224/6752 (92) 
+
+Lumpectomy 
+
+1106/1626 (68) 
+
+4986/6885 (72) 
+
+Mastectomy 
+
+520/1626 (32) 
+
+1899/6885 (28) 
+
+Estrogen-receptor expression — no./total no. (%) 
+
+0.28 
+
+Progesterone-receptor expression — no./total no. (%) 
+
+<0.001 
+
+Primary surgery — no./total no. (%) 
+
+<0.001 
+
+*	Plus–minus values are means ±SD. Patients were assigned to a risk cohort on the basis of the recurrence score on the 21-gene assay. Scores range from 0 to 100, with higher scores indicating a greater risk of recurrence. Patients with a score of 0 to 10 were included in the low-risk cohort and were assigned to receive endocrine therapy alone. Patients with a score of 11 to 25 were included in the midrange-risk cohort and were randomly assigned to receive either chemotherapy plus endocrine therapy or endocrine therapy alone. (Patients with a score of ≥26 were assigned to receive chemotherapy plus endocrine therapy and were not included in this analysis.) Statistical comparisons were calculated with the use of the chi-square test for categorical variables and the Wilcoxon test and Student’s t-test for continuous variables. Tumor size in the greatest dimension, histologic grade of the tumor, and expression of estrogen receptor, progesterone receptor, and HER2 were determined locally and reported by the participating site. Percentages may not total 100 because of rounding. 
+
+n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+2009 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+A Invasive Disease–free Survival 
+
+B Freedom from Recurrence of Breast Cancer at Distant Site 1.0 
+
+Probability of Freedom from Event 
+
+Probability of Disease-free Survival 
+
+1.0 1.00 
+
+0.8 
+
+0.95 0.6 
+
+0.90 0.85 
+
+0.4 
+
+0.80 
+
+0.2 0.0 
+
+0.00 
+
+0 
+
+0 
+
+12 12 
+
+24 24 
+
+36 36 
+
+48 48 
+
+60 
+
+0.95 0.6 
+
+0.90 0.85 
+
+0.4 
+
+0.80 
+
+0.2 0.0 
+
+60 
+
+1.00 
+
+0.8 
+
+0.00 
+
+0 
+
+0 
+
+12 12 
+
+24 
+
+Months 
+
+36 
+
+48 
+
+60 
+
+48 
+
+60 
+
+48 
+
+60 
+
+48 
+
+60 
+
+D Overall Survival 
+
+1.0 
+
+1.0 1.00 
+
+0.8 
+
+Probability of Survival 
+
+Probability of Freedom from Event 
+
+36 
+
+Months 
+
+C Freedom from Recurrence at Any Site 
+
+0.95 0.6 
+
+0.90 0.85 
+
+0.4 
+
+0.80 
+
+0.2 0.0 
+
+24 
+
+0.00 0 
+
+0 
+
+12 12 
+
+24 24 
+
+36 36 
+
+48 
+
+60 
+
+48 
+
+60 
+
+1.00 
+
+0.8 
+
+0.95 0.6 
+
+0.90 0.85 
+
+0.4 
+
+0.80 
+
+0.2 0.0 
+
+0.00 0 
+
+Months 
+
+0 
+
+12 12 
+
+24 24 
+
+36 36 
+
+Months 
+
+Figure 1. Kaplan–Meier Estimates in the Analyses of Invasive Disease–free Survival, Freedom from Recurrence of Breast Cancer at a Distant Site, Freedom from Recurrence at Any Site, and Overall Survival. A total of 1626 patients with a recurrence score of 0 to 10 (on a scale from 0 to 100, with higher scores indicating a greater risk of recurrence) were included in the analyses. In the time-to-event analysis of invasive disease–free survival, Panel A shows the probability of freedom from the first event of recurrence of ipsilateral breast tumor, local recurrence, regional recurrence, distant recurrence, contralateral second primary invasive cancer, second primary nonbreast invasive cancer (excluding nonmelanoma skin cancer), or death without evidence of recurrence (which corresponds to the standardized definitions for efficacy end points [STEEP]23 definition of invasive disease–free survival). In the time-to-event analysis of freedom from the recurrence of breast cancer at a distant site, Panel B shows the probability of freedom from the first event of distant recurrence of breast cancer or death with distant recurrence, if death was the first manifestation of distant recurrence (which corresponds to the STEEP definition of distant recurrence–free interval). In the time-to-event analysis of freedom from recurrence at any site, Panel C shows the probability of freedom from the first event of recurrence of breast cancer (ipsilateral breast cancer, local or regional recurrence, or distant recurrence) or the date of death with recurrence, if death was the first manifestation of recurrence (which corresponds to the STEEP definition of recurrence-free interval). Panel D shows the probability of overall survival in the time-toevent analysis. In each panel, dashed lines indicate 95% confidence intervals and the insets show the same data on an enlarged y axis. 
+
+99.3% (95% CI, 98.7 to 99.6), the rate of freedom from recurrence at 5 years was 98.7% (95% CI, 97.9 to 99.2), and the rate of overall survival at 5 years was 98.0% (95% CI, 97.1 to 98.6). 
+
+dimension), histologic grade (high vs. intermediate vs. low), and surgery type (mastectomy vs. lumpectomy), only histologic grade showed a significant association with the rate of freedom from recurrence. However, histologic grade did Multivariate Analysis and Effect of Tumor not show a significant association with the rate Grade and Age of the Patient of invasive disease–free survival or the rate of In a multivariate analysis that included age (≤50 freedom from distant recurrence (Table 2). Reyears vs. 51 to 60 years vs. 61 to 75 years), tumor currence rates were very low regardless of histosize (2.1 to 5.0 cm vs. ≤2 cm in the greatest logic grade (Table 3). 2010 
+
+n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Expression Assay in Breast Cancer 
+
+Discussion 
+
+Table 2. Multivariate Analysis.* 
+
+End Point Hazard Ratio (95% CI) P Value We performed a prospective validation study of a Recurrence, second primary breast cancer, 21-gene assay in patients with hormone-receptor– second primary nonbreast positive, HER2-negative breast cancer who had a invasive cancer, or death without low risk of recurrence according to clinicopathorecurrence of cancer logic features but who nevertheless met estabTumor grade 0.13 lished clinical guidelines for the recommendaIntermediate vs. low 1.56 (0.92–2.63) tion or consideration of adjuvant chemotherapy. High vs. low 2.05 (0.92–4.55) In patients who were found to have a low risk of Tumor size >2 cm vs. ≤2 cm 1.17 (0.71–1.92) 0.54 recurrence on the basis of genetic-assay results Age 0.07 and who were thus assigned to receive endocrine 51–60 yr vs. ≤50 yr 0.87 (0.46–1.64) therapy alone, the risk of the recurrence of breast 61–75 yr vs. ≤50 yr 1.53 (0.87–2.70) 这些低危的患 cancer at a distant site was less than 1% and the 者中，五年复 risk of any recurrence was less than 2% at 5 years. Lumpectomy vs. mastectomy 0.63 (0.38–1.06) 0.07 Recurrence events were uncommon regardless 发率还不如第 Recurrence at a distant site 二次原发肿瘤 of histologic grade and were not significantly Tumor grade of high or intermediate 3.83 (0.48–30.69) 0.14 或者死亡发生 affected by younger age at diagnosis. In fact, in vs. low† 率高，也因此 this low-risk population, the rate of recurrence Tumor size >2 cm vs. ≤2 cm 1.55 (0.38–6.31) 0.55 导致了iDFS比 events at 5 years was far exceeded by the rates of Age 0.27 无复发生存率 second primary breast cancers, other second 低了将近5% 51–60 yr vs. ≤50 yr 1.28 (0.12–4.22) primary-cancer events, and deaths from other 61–75 yr vs. ≤50 yr 3.49 (0.42–29.16) causes, which resulted in a rate of invasive disLumpectomy vs. mastectomy 0.57 (0.12–2.82) 0.47 ease–free survival that was nearly 5 percentage points lower than the rate of freedom from reRecurrence at any site currence (93.8% vs. 98.7%). Tumor grade 0.02 Although adjuvant chemotherapy reduced the Intermediate vs. low 8.07 (1.06–61.45) risk of distant recurrence and local–regional reHigh vs. low 4.73 (0.29–76.42) 尽管辅助化疗 可以降低局部 currence in the Early Breast Cancer Trialists Tumor size >2 vs. ≤2 cm 1.06 (0.33–3.33) 0.93 或远处转移风 meta-analysis, there was only a marginal effect Age 0.33 险但并不能降 in reducing the risk of contralateral breast can51–60 yr vs. ≤50 yr 0.41 (0.10–1.73) 低第二次原发 cer and no effect on the risk of second primary 61–75 yr vs. ≤50 yr 0.98 (0.32–3.02) 肿瘤或对侧肿 cancers or on nonbreast-cancer mortality after 瘤或其他肿瘤 15 years of follow-up in nearly 29,000 patients Lumpectomy vs. mastectomy 0.93 (0.32–2.71) 0.89 导致死亡的风 who had been randomly assigned to receive either 险 chemotherapy or no chemotherapy.12 The low rate *	Data from 1578 of 1626 patients with a recurrence score of 0 to 10 were included in these analyses. Data from 48 patients for whom the histologic grade of distant recurrence observed in this prospecof the tumor was not reported were excluded from these analyses. tive study is consistent with the rate observed at †	Data from patients with a high tumor grade and those with an intermediate tumor grade were combined for the analysis of freedom from the recurrence 5 years in the original prospective–retrospective of breast cancer at a distant site because of the small number of events. validation study involving patients with a low recurrence score of less than 18 (2.1%; 95% CI, 0.6 to 3.7).14,15 juvant chemotherapy, only 16% of the enrolled The current prospectively conducted study sup- patients had a recurrence score of 10 or less. ports the use of the 21-gene assay to spare the use Approximately 67% of the patients enrolled in of chemotherapy in patients who otherwise would the trial had a midrange score of 11 to 25 and be recommended to receive it on the basis of were randomly assigned to receive chemotherapy clinicopathologic features. These findings provide plus endocrine therapy or endocrine therapy additional evidence supporting expert-derived alone. Continued follow-up is required in order clinical practice guidelines that recommend the to determine the effect of chemotherapy in this use of this assay in patients with hormone-­ larger group of patients. receptor–positive, axillary node–negative invasive Late recurrence that occurs after 5 years acbreast cancer.21,24 Although this study clearly counts for approximately one half of all distant identifies patients who do not benefit from ad- recurrences in patients with estrogen-receptor– n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+2011 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 3. Event Rates at 5 Years, According to Histologic Grade.* 
+
+Tumor Grade All grades 
+
+Invasive Disease–free Survival (95% CI) 
+
+Freedom from Distant Recurrence (95% CI) 
+
+Freedom from Any Recurrence (95% CI) 
+
+Overall Survival (95% CI) 
+
+93.8 (92.4–94.9) 
+
+99.3 (98.7–99.6) 
+
+98.7 (97.9–99.2) 
+
+98.0 (97.1–98.6) 
+
+Low grade 
+
+95.8 (93.5–97.3) 
+
+99.8 (98.3–100) 
+
+99.8 (98.3–100) 
+
+98.7 (97.0–99.4) 
+
+Intermediate grade 
+
+93.6 (91.7–95.1) 
+
+99.0 (98.0–99.5) 
+
+98.2 (97.0–99.0) 
+
+97.9 (96.8–98.7) 
+
+High grade 
+
+91.3 (83.9–95.4) 
+
+100 (NC–NC) 
+
+98.7 (91.1–99.8) 
+
+97.3 (91.9–99.1) 
+
+*	The analyses for all tumor grades included data from all 1626 patients who had a recurrence score of 0 to 10, including the 48 patients with the tumor grade not reported. A total of 530 patients were included in the analyses for low-grade tumor, 937 in the analyses for intermediate-grade tumor, and 111 in the analyses for high-grade tumor. In the time-toevent analysis of invasive disease–free survival (primary end point), the rate indicates freedom from the first event of recurrence of ipsilateral breast tumor, local recurrence, regional recurrence, distant recurrence, contralateral second primary invasive cancer, second primary nonbreast invasive cancer (excluding nonmelanoma skin cancer), or death without evidence of recurrence (which corresponds to the standardized definitions for efficacy end points [STEEP]23 definition of invasive disease–free survival). In the time-to-event analysis of recurrence of breast cancer at a distant site, the rate indicates freedom from the first event of distant recurrence of breast cancer or death with distant recurrence, if death was the first manifestation of distant recurrence (which corresponds to the STEEP distant recurrence–free interval definition). In the time-to-event analysis of freedom from any recurrence, the rate indicates freedom from the first recurrence of breast cancer (ipsilateral breast cancer, local or regional recurrence, or distant recurrence) or the date of death with recurrence, if death was the first manifestation of recurrence (which corresponds to the STEEP recurrencefree interval definition). NC denotes not calculated. 
+
+HR+患者五年后复 发的患者占一半。 但是在众多基因检 测中，预测远期复 发的另有其 他，21RS预测辅助 化疗带来的获益， 而化疗可以预防早 期（五年之内）的 复发，因此尽管更 长时间的随访可以 观测到更多的复发 事件，这些事件也 不一定可以被化疗 的使用所抑制。 
+
+2012 
+
+positive, HER2-negative breast cancer.25 There are several prognostic gene-expression assays for breast cancer,26 some of which are more accurately prognostic for late recurrence than others.27,28 However, the 21-gene assay predicts benefit from adjuvant chemotherapy,16,17 and chemotherapy prevents primarily early recurrences within 5 years after diagnosis.8 Therefore, although more recurrences are expected with longer follow-up, it is unclear whether these recurrences would have been prevented by the early administration of adjuvant chemotherapy. Extended adjuvant endocrine therapy beyond 5 years is effective in preventing late recurrence and may be considered when the treating clinician and the patient perceive a favorable benefit– risk ratio.29,30 The distribution of recurrence scores observed in this prospective trial differs from the distribution that was initially projected on the basis of observations in a prior prospective–retrospective validation study, which included 27% of patients with a score of 0 to 10, 43% with a score of 11 to 25, and 30% with a score of 26 or higher.14,16 This finding may be due to clinicians selecting patients for this study in whom there was therapeutic equipoise regarding the benefit of chemotherapy, which is reflected by the large proportion of patients who had tumors of 1.1 to 2.0 cm in the greatest dimension or tumors of intermediate histologic grade. However, the disn engl j med 373;21 
+
+tribution of scores that was observed in this trial is similar to the distribution observed by the commercial laboratory during the same time period in which the study was conducted (score of 0 to 10 in 18% of patients, score of 11 to 25 in 62%, and score of ≥26 in 20%; Shak S, Genomic Health: personal communication). This finding indicates that the distribution of risk groups in the trial reflects clinical practice in the community and supports the generalizability of the study findings. The RASTER (Microarray Prognostics in Breast Cancer) study was a prospective validation study that evaluated a different multigene assay, the 70-gene signature, in 427 patients with axillary node–negative breast cancer.31 The 5-year rate of freedom from distant recurrence was 97.0% among patients with a low-risk signature on the 70-gene assay (51% of all patients) and 91.7% among those with a high-risk signature (49% of all patients).32 Decisions regarding adjuvant systemic treatment were based on the Dutch Institute for Healthcare Improvement 2004 guidelines, the 70-gene signature, and doctors’ and patients’ preferences. Adjuvant chemotherapy was given to 169 patients (81%) with a high-risk signature and in 33 (15%) with a lowrisk signature. The outcomes observed in the RASTER study may therefore have been attributable, at least in part, to chemotherapy administered in selected patients in the low-risk group. 
+
+nejm.org 
+
+November 19, 2015 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Expression Assay in Breast Cancer 
+
+The MINDACT (Microarray in Node Negative Disease May Avoid Chemotherapy) trial is a prospective trial in which patients were randomly assigned to receive chemotherapy or no chemotherapy on the basis of clinical criteria or the 70-gene signature; enrollment has been completed and follow-up is ongoing.33 Although the results of the MINDACT trial are likely to provide important information, gene-expression assays bring added value by providing complementary predictive information that is independent of and does not correlate with clinicopathologic features in selected patients for whom this information may be clinically useful.34,35 Other ongoing trials (RxPONDER36 and OPTIMA37) are evaluating whether adjuvant chemotherapy is beneficial in patients with hormone-receptor– positive, HER2-negative breast cancer with positive axillary lymph nodes and a recurrence score of 25 or less. In conclusion, this prospective study involving uniformly treated patients with hormone-receptor–positive, HER2-negative, axillary node–negative breast cancer supports the clinical validity of the 21-gene assay in identifying patients who may be safely spared adjuvant chemotherapy. Supported by the National Cancer Institute, by grants (CA180820, CA180794, CA189859, CA180801, CA180790, CA189808, CA180847, CA180844, CA180816, CA180795, CA190140, CA180833, CA180864, CA180821, CA180838, CA189804, CA180888, CA189858, CA180868, CA180822, CA189867, CA077202, CA180857, CA180799, and CA189869) from the Public Health Service, by grants (015469 and 021039) from the Canadian Cancer Society Research Institute, and by the National Institutes of Health, the Department of Health and Human Services, the Breast Cancer Research Foundation, and Susan G. Komen. Dr. Sparano reports holding a patent (WO 2009140304 A1) related to tests to predict responsiveness to chemotherapy treatment options in patients with cancer; Dr. Pritchard, receiving 
+
+fees for serving on advisory boards from AstraZeneca, Pfizer, Roche, Amgen, Novartis, GlaxoSmithKline, and Eisai, consulting fees from Pfizer and Novartis, lecture fees from Novartis, and grant support from AstraZeneca, Pfizer, Roche, Novartis, and Eisai; Dr. Albain, receiving fees for serving on advisory boards from NanoString Technologies and bioTheranostics and that her institution has received research support from Agendia; Dr. Hayes, receiving travel support from and participating in an uncompensated collaboration with Genomic Health; Dr. Perez, being an employee of Genentech; Dr. Olson, being the founder, owner, and principal shareholder in Core Prognostex; Dr. Whelan, receiving fees for serving on an advisory board from Genomic Health and receiving testing reagents from NanoString Technologies; Dr. Ellis, receiving royalties from Bioclassifier and that his wife received payment for accounting services from Bioclassifier, receiving royalties from pending and issued patents related to PAM50 (Prosigna), receiving royalties from pending and issued patents (US provisional 60/739,155, PCT/US2006/ 044737, US 12/094,898, CA 2,630,974, and EU 06844413.2) related to methods and compositions involving intrinsic genes, receiving royalties from a pending patent (US provisional 61/057,508 and PCT/US2009/045820) related to gene-expression profiles to predict breast-cancer outcomes, holding a patent (US provisional 61/453,035) related to methods of treating breast cancer with anthracycline therapy, and holding a pending patent related to methods of treating breast cancer with taxane therapy (all patents are licensed to NanoString Technologies); Dr. Paik, holding a patent (US 7,056,674 B2) related to the prediction of the likelihood of cancer recurrence (covering the invention of Oncotype Dx); Dr. Wood, receiving fees for serving on an advisory board from Genomic Health; Dr. Brufsky, receiving consulting fees from Genomic Health; Dr. Kaklamani, receiving consulting and lecture fees from Genomic Health; and Dr. Sledge, serving on the board of directors of Syndax Pharmaceuticals and receiving fees for serving on an advisory board from Symphogen. No other potential conflict of interest relevant to this article was reported. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. We thank Jeff Abrams, M.D., and Sheila Taube, Ph.D., of the National Cancer Institute, for encouraging and facilitating the development of the trial; the staff at the Eastern Cooperative Oncology Group–American College of Radiology Imaging Network (ECOG–ACRIN) Coordinating Center and Clinical Trials Support Unit; the members of the ECOG–ACRIN Cancer Research Group, including cochairs Robert L. Comis, M.D., and Mitchell D. Schnall, M.D., Ph.D.; and Una Hopkins, R.N., D.N.P., for serving as the study liaison for the trial. 
+
+Appendix The authors’ full names and academic degrees are as follows: Joseph A. Sparano, M.D., Robert J. Gray, Ph.D., Della F. Makower, M.D., Kathleen I. Pritchard, M.D., Kathy S. Albain, M.D., Daniel F. Hayes, M.D., Charles E. Geyer, Jr., M.D., Elizabeth C. Dees, M.D., Edith A. Perez, M.D., John A. Olson, Jr., M.D., Ph.D., JoAnne Zujewski, M.D., Tracy Lively, Ph.D., Sunil S. Badve, M.D., Thomas J. Saphner, M.D., Lynne I. Wagner, Ph.D., Timothy J. Whelan, M.D., Matthew J. Ellis, M.B., B.Chir., Ph.D., Soonmyung Paik, M.D., William C. Wood, M.D., Peter Ravdin, M.D., Maccon M. Keane, M.D., Henry L. Gomez Moreno, M.D., Pavan S. Reddy, M.D., Timothy F. Goggins, M.D., Ingrid A. Mayer, M.D., Adam M. Brufsky, M.D., Ph.D., Deborah L. Toppmeyer, M.D., Virginia G. Kaklamani, M.D., James N. Atkins, M.D., Jeffrey L. Berenberg, M.D., and George W. Sledge, M.D. The authors’ affiliations are as follows: the Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY (J.A.S., D.F.M.); Dana–Farber Cancer Institute, Boston (R.J.G.); Sunnybrook Research Institute, Toronto (K.I.P.) and Juravinski Cancer Center, Hamilton, ON (T.J.W.) — both in Canada; Loyola University Medical Center, Maywood (K.S.A.), and Northwestern University, Chicago (L.I.W., V.G.K.) — both in Illinois; University of Michigan, Ann Arbor (D.F.H.); Virginia Commonwealth University School of Medicine and the Massey Cancer Center, Richmond (C.E.G.); University of North Carolina, Chapel Hill (E.C.D.), Duke University Medical Center, Durham (J.A.O.), Wake Forest University Health Service, Winston-Salem (L.I.W.), and Southeast Clinical Oncology Research Consortium, Goldsboro (J.N.A.) — all in North Carolina; Mayo Clinic, Jacksonville, FL (E.A.P.); University of Maryland School of Medicine, Baltimore (J.A.O.), and National Institutes of Health, Bethesda (J.Z., T.L.) — both in Maryland; Indiana University School of Medicine (S.S.B.) and Indiana University Hospital (G.W.S.) — both in Indianapolis; Vince Lombardi Cancer Clinic, Two Rivers (T.J.S.), and Fox Valley Hematology and Oncology, Appleton (T.F.G.) — both in Wisconsin; Baylor College of Medicine, Houston (M.J.E.), and University of Texas, San Antonio (P.R.) — both in Texas; Washington University, St. Louis (M.J.E.); Allegheny General Hospital (S.P.) and University of Pittsburgh (A.M.B.) — both in Pittsburgh; the Department of Medical Oncology and Breast Center, Yonsei University n engl j med 373;21 
+
+nejm.org 
+
+November 19, 2015 
+
+2013 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Expression Assay in Breast Cancer 
+
+College of Medicine, Seoul, South Korea (S.P.); Emory University, Atlanta (W.C.W.); Irish Clinical Oncology Research Group, Dublin (M.M.K.); Instituto Nacional de Enfermedades Neoplásicas, Lima, Peru (H.L.G.M.); Cancer Center of Kansas, Wichita (P.S.R.); Vanderbilt University, Nashville (I.A.M.); Rutgers Cancer Institute of New Jersey, New Brunswick (D.L.T.); University of Hawaii Cancer Center, Honolulu (J.L.B.); and Stanford University, Stanford, CA (G.W.S.). References 1. Jemal A, Center MM, DeSantis C, Ward EM. Global patterns of cancer incidence and mortality rates and trends. Cancer Epidemiol Biomarkers Prev 2010;​ 19:​1893-907. 2. Hayes D, Padnos SB. Predictive and prognostic markers in cancer. Clin Adv Hematol Oncol 2011;​9:​130-2. 3. Hammond ME, Hayes DF, Dowsett M, et al. American Society of Clinical Oncology/College of American Pathologists guideline recommendations for immunohistochemical testing of estrogen and progesterone receptors in breast cancer. J Clin Oncol 2010;​28:​2784-95. 4. Wolff AC, Hammond ME, Hicks DG, et al. Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update. J Clin Oncol 2013;​31:​3997-4013. 5. Mansour EG, Gray R, Shatila AH, et al. Efficacy of adjuvant chemotherapy in highrisk node-negative breast cancer: an intergroup study. N Engl J Med 1989;​320:​485-90. 6. Mansour EG, Gray R, Shatila AH, et al. Survival advantage of adjuvant chemotherapy in high-risk node–negative breast cancer: ten-year analysis — an intergroup study. J Clin Oncol 1998;​16:​3486-92. 7. Fisher B, Dignam J, Wolmark N, et al. Tamoxifen and chemotherapy for lymph node-negative, estrogen receptor-positive breast cancer. J Natl Cancer Inst 1997;​89:​ 1673-82. 8. Peto R, Davies C, Godwin J, et al. Comparisons between different polychemotherapy regimens for early breast cancer: meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 2012;​379:​432-44. 9. Abrams JS. Adjuvant therapy for breast cancer — results from the USA consensus conference. Breast Cancer 2001;​8:​298-304. 10. Munoz D, Near AM, van Ravesteyn NT, et al. Effects of screening and systemic adjuvant therapy on ER-specific US breast cancer mortality. J Natl Cancer Inst 2014;​106(11):​pii. 11. Siegel R, Ma J, Zou Z, Jemal A. Cancer statistics, 2014. CA Cancer J Clin 2014;​64:​ 9-29. 12. Early Breast Cancer Trialists’ Collaborative Group. Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;​365:​1687-717. 13. Davies C, Godwin J, Gray R, et al. Relevance of breast cancer hormone receptors and other factors to the efficacy of 
+
+2014 
+
+adjuvant tamoxifen: patient-level metaanalysis of randomised trials. Lancet 2011;​378:​771-84. 14. Sparano JA, Paik S. Development of the 21-gene assay and its application in clinical practice and clinical trials. J Clin Oncol 2008;​26:​721-8. 15. Paik S, Shak S, Tang G, et al. A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 2004;​351:​2817-26. 16. Paik S, Tang G, Shak S, et al. Gene expression and benefit of chemotherapy in women with node-negative, estrogen receptor-positive breast cancer. J Clin Oncol 2006;​24:​3726-34. 17. Albain KS, Barlow WE, Shak S, et al. Prognostic and predictive value of the 21gene recurrence score assay in postmenopausal women with node-positive, oestrogen-receptor-positive breast cancer on chemotherapy: a retrospective analysis of a randomised trial. Lancet Oncol 2010;​11:​ 55-65. 18. Simon RM, Paik S, Hayes DF. Use of archived specimens in evaluation of prognostic and predictive biomarkers. J Natl Cancer Inst 2009;​101:​1446-52. 19. Hayes DF. Biomarker validation and testing. Mol Oncol 2015;​9:​960-6. 20. Duffy MJ, Sturgeon CM, Sölétormos G, et al. Validation of new cancer biomarkers: a position statement from the European Group on Tumor Markers. Clin Chem 2015;​61:​809-20. 21. Carlson RW, Brown E, Burstein HJ, et al. NCCN Task Force report: adjuvant therapy for breast cancer. J Natl Compr Canc Netw 2006;​4:​Suppl 1:​S1-S26. 22. Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 2005;​353:​1673-84. 23. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol 2007;​25:​2127-32. 24. Harris L, Fritsche H, Mennel R, et al. American Society of Clinical Oncology 2007 update of recommendations for the use of tumor markers in breast cancer. J Clin Oncol 2007;​25:​5287-312. 25. Sparano JA, Zhao F, Martino S, et al. Long-term follow-up of the E1199 phase III trial evaluating the role of taxane and schedule in operable breast cancer. J Clin Oncol 2015;​33:​2353-60. 26. Sparano JA, Fazzari M, Kenny PA. Clinical application of gene expression profiling in breast cancer. Surg Oncol Clin N Am 2010;​19:​581-606. 
+
+n engl j med 373;21 
+
+nejm.org 
+
+27. Sgroi DC, Sestak I, Cuzick J, et al. Pre- 
+
+diction of late distant recurrence in patients with oestrogen-receptor-positive breast cancer: a prospective comparison of the breast-cancer index (BCI) assay, 21gene recurrence score, and IHC4 in the TransATAC study population. Lancet Oncol 2013;​14:​1067-76. 28. Sestak I, Cuzick J. Markers for the identification of late breast cancer recurrence. Breast Cancer Res 2015;​17:​10. 29. Goss PE, Ingle JN, Martino S, et al. A randomized trial of letrozole in postmenopausal women after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 2003;​349:​1793-802. 30. Davies C, Pan H, Godwin J, et al. Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years after diagnosis of oestrogen receptor-positive breast cancer: ATLAS, a randomised trial. Lancet 2013;​381:​805-16. 31. Drukker CA, Bueno-de-Mesquita JM, Retel VP, et al. A prospective evaluation of a breast cancer prognosis signature in the observational RASTER study. Int J Cancer 2013;​133:​929-36. 32. Bueno-de-Mesquita JM, van Harten WH, Retel VP, et al. Use of 70-gene signature to predict prognosis of patients with node-negative breast cancer: a prospective community-based feasibility study (RASTER). Lancet Oncol 2007;​8:​1079-87. 33. Cardoso F, Piccart-Gebhart M, Van’t Veer L, Rutgers E. The MINDACT trial: the first prospective clinical validation of a genomic tool. Mol Oncol 2007;​1:​246-51. 34. Goldstein LJ, Gray R, Badve S, et al. Prognostic utility of the 21-gene assay in hormone receptor-positive operable breast cancer compared with classical clinicopathologic features. J Clin Oncol 2008;​26:​ 4063-71. 35. Tang G, Shak S, Paik S, et al. Comparison of the prognostic and predictive utilities of the 21-gene Recurrence Score assay and Adjuvant! for women with node-negative, ER-positive breast cancer: results from NSABP B-14 and NSABP B-20. Breast Cancer Res Treat 2011;​127:​133-42. 36. Wong WB, Ramsey SD, Barlow WE, Garrison LP Jr, Veenstra DL. The value of comparative effectiveness research: projected return on investment of the RxPONDER trial (SWOG S1007). Contemp Clin Trials 2012;​33:​1117-23. 37. Bartlett J, Canney P, Campbell A, et al. Selecting breast cancer patients for chemotherapy: the opening of the UK OPTIMA trial. Clin Oncol (R Coll Radiol) 2013;​25:​ 109-16. Copyright © 2015 Massachusetts Medical Society. 
+
+November 19, 2015 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on October 10, 2018. For personal use only. No other uses without permission Copyright © 2015 Massachusetts Medical Society. All rights reserved. 
+
+ 

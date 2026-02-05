@@ -1,0 +1,449 @@
+VOLUME 
+
+24 
+
+䡠 
+
+NUMBER 
+
+23 
+
+䡠 
+
+AUGUST 
+
+10 
+
+2006 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Gene Expression and Benefit of Chemotherapy in Women With Node-Negative, Estrogen Receptor–Positive Breast Cancer HT+CT vs HT: From the Division of Pathology, Opera10年DRF: 92.2% vs 87.8% tions Center, and Biostatistical Center, 10年RF: 90.1% vs 83.5% National Surgical Adjuvant Breast and 10年OS: 86.4% of BiostatisBowel89.5% Project; vs Department tics, School of Public Health, University of Pittsburgh; Department of Human 分布： Oncology, Allegheny General Hospital, 低/中/高风险：54.2% / 20.6% / 25.2% Pittsburgh, PA; Genomic Health Inc, Redwood City, CA; and University of CaliHT+CT vsSan HT，10年DRF: fornia, Francisco, San Francisco, CA. 
+
+Soonmyung Paik, Gong Tang, Steven Shak, Chungyeul Kim, Joffre Baker, Wanseop Kim, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino, Charles E. Geyer Jr, D. Lawrence Wickerham, and Norman Wolmark A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The 21-gene recurrence score (RS) assay quantifies the likelihood of distant recurrence in women with estrogen receptor–positive, lymph node–negative breast cancer treated with adjuvant tamoxifen. The relationship between the RS and chemotherapy benefit is not known. 
+
+Methods The RS was measured in tumors from the tamoxifen-treated and tamoxifen plus chemotherapy– treated patients in the National Surgical Adjuvant Breast and Bowel Project (NSABP) B20 trial. Cox 低风险组：95.6% vs 96.8% RR=1.31 p=0.61 Submitted November 10, 2005; accepted proportional hazards models were utilized to test for interaction between chemotherapy treatment 中风险组：89.1% vs 90.9% RR=0.61 p=0.39 April 18, 2006; published online ahead of and the RS. 高风险组：88.1% vson60.5% p＜0.001 print at www.jco.org May 23,RR=0.26 2006. 多变量分析RS是化疗获益的预测因素 p=0.038 Supported by Public Health Service Results Grants No. U10-CA-12027, U10-CAA total of 651 patients were assessable (227 randomly assigned to tamoxifen and 424 randomly 69651, U10-CA-37377, and U10-CAassigned to tamoxifen plus chemotherapy). The test for interaction between chemotherapy 69974 from the National Cancer treatment and RS was statistically significant (P ⫽ .038). Patients with high-RS (ⱖ 31) tumors (ie, Institute, National Institutes of Health, high risk of recurrence) had a large benefit from chemotherapy (relative risk, 0.26; 95% CI, 0.13 to Bethesda, MD; and by Genomic Health 0.53; absolute decrease in 10-year distant recurrence rate: mean, 27.6%; SE, 8.0%). Patients with Inc, Redwood City, CA. 化疗与RS之间的关系有显著性差 low-RS (⬍ 18) tumors derived minimal, if any, benefit from chemotherapy treatment (relative risk, 异，在高风险RS组，化疗获益更 Authors’ disclosures of potential con1.31; 95% CI, 0.46 to 3.78; absolute decrease in distant recurrence rate at 10 years: mean, flicts of interest and author contribu大（RR=0.26，10年远处复发率绝 ⫺1.1%; SE, 2.2%). Patients with intermediate-RS tumors did not appear to have a large benefit, tions are found at the end of this 对值减少27.6%） article. but the uncertainty in the estimate can not exclude a clinically important benefit. Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org. Address reprint requests to Soonmyung Paik, MD, NSABP Foundation, Four Allegheny Center, 5th floor, East Commons Professional Building, Pittsburgh, PA 15212; e-mail: soon.paik@nsabp.org. © 2006 by American Society of Clinical Oncology 0732-183X/06/2423-3726/$20.00 DOI: 10.1200/JCO.2005.04.7985 
+
+Conclusion The RS assay not only quantifies the likelihood of breast cancer recurrence in women with node-negative, estrogen receptor–positive breast cancer, but also predicts the magnitude of chemotherapy benefit. J Clin Oncol 24:3726-3734. © 2006 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+The use of adjuvant chemotherapy in the treatment of early-stage node-negative breast cancer has increased greatly in the last decade in the United States.1 Ideally, the decision to use chemotherapy in addition to hormonal therapy in the treatment of axillary node–negative and estrogen receptor (ER) –positive breast cancer should be based on not only baseline risk (prognostic information) but also prediction of degree of benefit from chemotherapy.2,3 Current treatment guidelines in the United States and Europe recommend consideration of chemotherapy for the vast majority of patients.4-7 A number of biologic and clinical clues have suggested that not all patients derive the same degree 
+
+of benefit from chemotherapy. An overview of randomized trials suggests that younger women may benefit more from chemotherapy than older women.8,9 Diagnostic tests that predict clinical benefit from chemotherapy are not yet available for routine clinical use. Gene expression analysis in individual tumors is a promising approach for defining responsiveness to chemotherapy.10 Several small studies have been performed in breast cancer patients treated with neoadjuvant chemotherapy before surgery, and gene expression profiles have been associated with the likelihood of pathologic complete response.11-13 Taking advantage of National Surgical Adjuvant Breast and Bowel Project (NSABP) clinical trials archived paraffin block tissue bank, we have 
+
+3726 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Multigene Predictor for Chemotherapy Response in Breast Cancer 
+
+developed and validated a 21-gene assay that is now offered as a commercial reference laboratory test (Oncotype DX, Genomic Health Inc, Redwood City, CA).14,15 The 21-gene panel includes genes involved in tumor cell proliferation and hormonal response, characteristics that have been reported to be associated with chemotherapy response in general. We explored the interaction between Oncotype DX assay and chemotherapy benefit using tissue blocks collected from NSABP trial B20 which tested the worth of adding cyclophosphamide, methotrexate, and fluorouracil (CMF) or methotrexate and fluorouracil (MF) chemotherapy to 5 years of tamoxifen in the treatment of node-negative, ER-positive patients.16 We sought to determine whether the prespecified 21-gene reverse-transcriptase polymerase chain reaction (RT-PCR) assay predicts the benefit of chemotherapy in the NSABP B20 patients. METHODS Patients NSABP Protocol B20, “A Clinical Trial to Determine the Worth of Chemotherapy and Tamoxifen Over Tamoxifen Alone in the Management of Patients with Primary Invasive Breast Cancer, Negative Axillary Nodes and Estrogen-Receptor-Positive Tumors,” enrolled 2,363 patients between October 17,1988, and March 5, 1993, who were randomly assigned to tamoxifen versus tamoxifen plus either CMF or MF.16 This study was approved by the Essex Institutional Review Board (IRB; Lebanon, NJ), the Allegheny General Hospital IRB (Pittsburgh, PA), and the University of Pittsburgh IRB (Pittsburgh, PA). Sample Preparation, Genes, Recurrence Score Algorithm Gene expression in fixed paraffin embedded tumor tissue was performed by Genomic Health Inc, using the previously described Oncotype DX assay.14,15 After RNA extraction and DNase I treatment, total RNA content was measured, and the absence of DNA contamination was verified. Gene-specific reverse transcription was performed followed by quantitative TaqMan RTPCR reactions in 384 well plates using Applied Biosystems (Foster City, CA) PRISM 7900HT instruments. Expression of each gene was measured in triplicate, and normalized relative to a set of five reference genes (beta-actin [ACTB], GAPDH, GUS, RPLPO, and TFRC). Reference-normalized expression measurements range from 0 to 15; a one-unit increase reflects approximately a two-fold increase in RNA. The recurrence score (RS) is calculated on a scale from 0 to 100 and is derived from the reference-normalized expression measurements for the 16 cancer-related genes (Ki67, STK15, Survivin or BIRC5, CCNB1 or cyclin B1, MYBL2, GRB7, HER2, ER, PGR, BCL2, SCUBE2, MMP11 or stromelysin 3, CTSL2 or cathepsin L2, GSTM1, CD68, and BAG1) and the five reference genes. The cutoff points that were prespecified before the performance of the validation study of the RS,15 which categorized patients into low-risk (RS ⬍ 18), intermediate-risk (RS ⱖ 18 and ⬍ 31), and high-risk (RS ⱖ 31) groups, were also prespecified in this study. Study Design and End Points Patients were eligible if a tumor block was available in the NSABP Tumor Bank. Exclusion criteria were insufficient tumor (⬍ 5% of the overall tissue) as assessed by histopathology, insufficient RNA (⬍ 0.5 ␮g), or weak RT-PCR signal (average cycle threshold for the reference genes ⬎ 35). The objective of this study was to determine whether the RS predicts the magnitude of chemotherapy benefit. Because there was no significant difference between the two chemotherapy treatments in the overall study, we prespecified that the two chemotherapy arms would be combined for the primary analysis. Although the tamoxifen arm of B20 had been analyzed as a training set in the development of the Oncotype DX assay as previously reported,15,17 a preliminary version of the RT-PCR assay (lacking stan- 
+
+dardized reagents, calibrators, and controls) had been used. Therefore, for this study, the tamoxifen arm was analyzed again using the commercial assay (Oncotype DX). The B20 samples from the chemotherapy-treated patients had not been analyzed previously. The primary prespecified end point was freedom from distant recurrence. Contralateral disease, other second primary cancers, and deaths before distant recurrence were considered censoring events. Ipsilateral breast recurrence, local chest wall recurrence, and regional recurrences were not considered either as events or as censoring events. ER and progesterone receptor (PR) were measured by the ligandbinding assay.16 Tumor grade was determined centrally by two boardcertified pathologists (T.G. and F.L.B.) from Stanford University Medical Center (Stanford, CA) and University of California, San Francisco, School of Medicine (San Francisco, CA) using the Elston modification of the Bloom-Richardson grading criteria.18 In addition, histologic grade reported by the site pathologist was analyzed. Statistical Analysis Cox proportional hazards models were utilized to examine the interaction between chemotherapy treatment and RS as a continuous variable. The likelihood ratio test for interaction compared the reduced model, which excluded the RS by treatment interaction, with the competing full model, which included the RS by treatment interaction. A P value less than .05 for the likelihood ratio test was considered significant. Analysis was also performed using the predefined RS risk categories (low, intermediate, and high risk). Secondary analyses were performed to examine clinical variables as well as the individual genes and gene group scores (eg, proliferation gene group score) that define the RS for their main effects and for their interaction with treatment. 
+
+RESULTS 
+
+Patient Demographics There were 2,299 clinically eligible patients. Blocks containing sufficient invasive breast cancer were available for 670 patients. In the remaining patients, the blocks were either never obtained by NSABP or were exhausted from use in prior studies. RT-PCR was successful in more than 97% of the blocks that were analyzed, and gene expression results were obtained in 651 patients, 227 of 770 tamoxifen-treated and 424 of 1,529 chemotherapy-treated clinically eligible patients. Distributions of patient age, tumor size, tumor grade, and hormone status in the 651 patients assessable for this study were similar to those in all 2,299 clinically eligible NSABP B20 patients (Table A1, onlineonly appendix). Among the 651 assessable patients with RT-PCR assay data, the Kaplan-Meier estimate for the proportion of patients without distant recurrence at 10 years was 92.2% for patients treated with tamoxifen plus chemotherapy and 87.8% for those treated with tamoxifen alone. Kaplan-Meier estimates for the proportion of patients without any relapse (locoregional or distant) at 10 years were 90.1% and 83.5%, respectively. Kaplan-Meier estimates for overall survival at 10 years were 89.5% and 86.4%, respectively. Correlation Between RS and Standard Prognostic Factors There were 353 patients (54.2%) in the low-risk group (RS ⬍ 18), 134 patients (20.6%) in the intermediate-risk group (RS 18 to 30), and 164 patients (25.2%) in the high-risk group (RS ⱖ 31). Figure 1 shows the relationship between the RS and other prognostic factors, including patient age at the time of diagnosis, tumor size, hormone-receptor status (measured by biochemical assay), and histologic grade performed by two central pathologists as well as the 3727 
+
+www.jco.org 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Paik et al 
+
+Fig 1. Distributions of recurrence score (RS) and standard prognostic factors. (A) RS v age; (B) RS v clinical tumor size; (C) RS v estrogen receptor (ER) by ligand binding; (D) RS v progesterone receptor (PR) by ligand binding; (E) RS by tumor grade (National Surgical Adjuvant Breast and Bowel Project site pathologists); (F) RS by tumor grade (F.L.B.); (G) RS by tumor grade (T.G.). 
+
+3728 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Multigene Predictor for Chemotherapy Response in Breast Cancer 
+
+grade reported in the site’s pathology reports. There was a modest concordance between RS and patient age. Although RS was associated with PR by ligand-binding and poor histologic grade, a large numbers of cases were discordant. For example, there were cases of tumors with low RSs that had low PR by ligand-binding or poor tumor grade. In addition, there was only modest agreement in assessment of histologic grade among the three pathologists (Tables A2-A4, online-only appendix). Effect of Chemotherapy for Patient Groups Defined by the RS The Kaplan-Meier plots and estimates of the proportion of patients distant recurrence–free for each of the RS risk categories are shown in Figure 2 and Table 1, respectively. The magnitude of the chemotherapy benefit was greater for the high-risk patients (RS ⱖ 31) than for the intermediate- (RS, 18 to 30) or low-risk patients (RS ⬍ 18). There was a large benefit of chemotherapy in the high-risk patients, whereas there was minimal, if any, benefit of chemotherapy in the low-risk patients. The 10-year Kaplan-Meier estimate for freedom from distant recurrence was improved from 60% to 88% by adding chemotherapy to tamoxifen in the high-risk group. 
+
+The relative and absolute benefits of chemotherapy for RS risk groups are shown in Figure 3. Although no demonstrable reduction in distant recurrence at 10 years for the predefined low risk category was evident (relative risk, 1.31; 95% CI, 0.46 to 3.78; increase of 1.1% in absolute risk), a large reduction in distant recurrence at 10 years was evident for the high-risk category (relative risk, 0.26; 95% CI, 0.13 to 0.53; decrease of 27.6% in absolute risk). The benefit from chemotherapy was less clear for patients in the intermediate-risk group (relative risk, 0.61; 95% CI, 0.24 to 1.59; 1.8% increase in absolute risk). Similar trends were observed for freedom from locoregional and/or distant recurrence and overall survival (Figs A1 and A2, online-only appendix). Similar results were observed when chemotherapy benefit was analyzed in the CMF and MF groups separately (data not shown). Relationship of the RS and Chemotherapy Treatment Benefit To test the statistical strength of the relationship between the magnitude of chemotherapy benefit and RS, a formal test of statistical interaction between the RS as a continuous variable and chemotherapy treatment was performed. In a multivariate analysis 
+
+Fig 2. Kaplan-Meier plots for distant recurrence comparing treatment with tamoxifen (Tam) alone versus treatment with tamoxifen plus chemotherapy (Tam ⫹ chemo). (A) All patients; (B) low risk (recurrence score [RS] ⬍ 18); (C) intermediate risk (RS 18-30); (D) high risk (RS ⱖ 31). The number of patients at risk and the number of distant recurrences (in parentheses) are provided below each part of the figure. 3729 
+
+www.jco.org 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Paik et al 
+
+Table 1. Kaplan-Meier Estimates of the Proportion of Patients Free of Distant Recurrence at 10 Years for Tamoxifen-Treated Patients and Tamoxifen Plus Chemotherapy-Treated Patients Tamoxifen 
+
+Group All patients Low risk (RS ⬍ 18) Intermediate risk (RS 18-30) High risk (RS ⱖ 31) 
+
+No. of Patients 
+
+10-Year DRF (%) 
+
+95% CI 
+
+651 353 134 164 
+
+87.8 96.8 90.9 60.5 
+
+83.3% to 92.3% 93.7% to 99.9% 82.5% to 99.4% 46.2% to 74.8% 
+
+Tamoxifen Plus Chemotherapy No. of Patients 
+
+10-Year DRF (%) 
+
+95% CI 
+
+No. of Patients 
+
+227 135 45 47 
+
+92.2 95.6 89.1 88.1 
+
+89.4% to 94.9% 92.7% to 98.6% 82.4% to 95.9% 82.0% to 94.2% 
+
+424 218 89 117 
+
+NOTE. Results are given for all patients and for the pre-specified Recurrence Score risk categories. Abbreviations: DRF, distant recurrence free; RS, recurrence score. 
+
+of Cox models containing chemotherapy treatment and RS as a continuous variable without and with the addition of a term for interaction between chemotherapy treatment and RS, the likelihood ratio test for interaction between chemotherapy treatment and RS was significant (P ⫽ .038). In addition, individual multivariate models for the interaction between RS and chemotherapy treatment that were adjusted for other variables (including patient age, tumor size, ER, PR, tumor grade by each pathologist, including site, G.T., and F.L.B.) demon- 
+
+strated persistence of the strength of the interaction between RS and chemotherapy treatment (P ⫽ .035 to .068). To explore the degree of benefit from chemotherapy in relationship to RS as a continuous function, the likelihood of distant recurrence was fit as a linear function of the RS for both the tamoxifen alone and tamoxifen plus chemotherapy arms (Fig 4). A linear fit was used because the tests for nonlinearity of RS in Cox proportional hazards models were not significant in this study (P ⫽ .32 and .73 for the tamoxifen and tamoxifen plus chemotherapy arms, respectively).19 The magnitude of chemotherapy benefit appeared to increase continuously as the RS increased. A clear cutoff point for RS, below which there is no demonstrable benefit from chemotherapy, cannot be accurately defined. Gene Expression and Chemotherapy Benefit: Clinical Variables, Individual Genes, and Gene Groups The interaction of chemotherapy treatment with the clinical variables and with all the individual genes and gene group scores are shown in Table 2. For the 651 assessable patients, there was no significant interaction between the clinical variables and chemotherapy treatment. Hazard ratios for the interaction of age, hormone receptors, and tumor grade with chemotherapy treatment were, however, in the anticipated directions. 
+
+Fig 3. Relative and absolute risks of chemotherapy (chemo) benefit as a function of recurrence score (RS) risk category. Int, intermediate; DRF, distant recurrence free. 3730 
+
+Fig 4. Linear fit of the likelihood of distant recurrence as a continuous function of recurrence score for the tamoxifen alone (TAM) and tamoxifen plus chemotherapy (TAM ⫹ chemo) treatment groups. JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Multigene Predictor for Chemotherapy Response in Breast Cancer 
+
+Table 2. Likelihood Ratio Tests of the Interaction of Chemotherapy Treatment With the Clinical Variables and the Gene Expression Variables Assessable B20 Patients (n ⫽ 651) Variable Clinical variables Age ⱖ 50 yearsⴱ Tumor size ⬎ 2 cm† Quantitative ER ⱖ 50‡ Quantitative PR ⱖ 50‡ Grade site§ Poor Moderate Grade, pathologist A Poor Moderate Grade, pathologist B Poor Moderate Gene expression variables储 Recurrence score¶ Proliferation gene group-THⴱⴱ MYBL2 Invasion gene groupⴱⴱ SCUBE2 ER gene groupⴱⴱ GSTM1 CTSL2 Proliferation gene groupⴱⴱ Ki-67 PR BAG1 SURV CCNB1 ER STMY3 Bcl2 HER2 gene group-THⴱⴱ STK15 CD68 GRB7 HER2 gene groupⴱⴱ HER2 
+
+All B20 Patients (N ⫽ 2,299) 
+
+HR 
+
+Lower 95% 
+
+Upper 95% 
+
+P 
+
+HR 
+
+Lower 95% 
+
+Upper 95% 
+
+P 
+
+2.02 1.34 1.96 1.87 
+
+0.75 0.49 0.73 0.70 
+
+5.47 3.68 5.30 4.97 
+
+.162 .569 .183 .214 
+
+1.78 0.76 1.54 0.76 
+
+1.06 0.45 0.92 0.45 
+
+2.97 1.27 2.57 1.27 
+
+.029 .293 .099 .289 
+
+0.27 0.60 
+
+0.02 0.06 
+
+3.01 6.42 
+
+.284 .672 
+
+0.31 0.51 
+
+0.09 0.15 
+
+1.04 1.70 
+
+.057 .273 
+
+0.73 1.04 
+
+0.19 0.23 
+
+2.89 4.58 
+
+.657 .963 
+
+0.32 0.36 
+
+0.06 0.06 
+
+1.77 2.03 
+
+.192 .244 
+
+0.32 0.33 0.67 0.52 1.25 1.32 1.33 0.67 0.64 0.66 1.16 1.54 0.79 0.67 1.13 0.86 0.87 0.89 0.86 1.11 0.98 0.98 0.98 
+
+0.11 0.11 0.45 0.27 0.99 0.95 0.94 0.41 0.35 0.36 0.93 0.75 0.53 0.33 0.86 0.57 0.54 0.57 0.47 0.54 0.67 0.67 0.67 
+
+0.94 0.94 1.00 1.02 1.58 1.84 1.88 1.09 1.15 1.19 1.46 3.16 1.18 1.36 1.48 1.29 1.39 1.39 1.56 2.26 1.42 1.43 1.43 
+
+.038 .039 .050 .056 .063 .094 .102 .108 .134 .167 .190 .240 .243 .269 .393 .458 .564 .610 .615 .779 .904 .910 .925 
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — 
+
+Abbreviations: HR, hazard ratio; ER, estrogen receptor; PR, progesterone receptor; TH, with threshold. ⴱ Age at surgery categorized as a binary factor: 0 ⫽ age at surgery ⬍ 50 years, 1 ⫽ age at surgery ⱖ 50 years. †Clinical tumor size categorized as a binary factor: 0 ⫽ size ⱕ 2 cm, 1 ⫽ size ⬎ 2 cm. ‡Hormone receptors by ligand binding were categorized as binary variables: quantitative ER ⱖ 50 fmol/mg was compared with ER ⬍ 50 fmol/mg, and quantitative PR ⱖ 50 fmol/mg was compared with PR ⬍ 50 fmol/mg. §Grade was categorized as binary variables: poorly differentiated was compared with well differentiated, and moderately differentiated was compared with well differentiated. 储Individual genes and gene groups, unless otherwise specified, were used as a continuous variable, with HR for the interaction relative to a one unit increment in gene expression. HR ⬍ 1.0 indicates that higher expression is associated with greater chemotherapy benefit; HR ⬎ 1.0 indicates that higher expression is associated with lesser chemotherapy benefit. ¶Recurrence score used as a continuous variable, with HR for the interaction relative to an increment of 50 units. ⴱⴱ Proliferation gene group-TH and HER2 gene group-TH are treated as transformed variables using the calculation prespecified in the formula for the recurrence score.15 The proliferation gene group ⫽ (SURV ⫹ KI-67 ⫹ MYBL2 ⫹ Cyclin B1 ⫹ STK15)/5; the proliferation gene group-TH ⫽ (SURV ⫹ KI-67 ⫹ MYBL2 ⫹ Cyclin B1 ⫹ STK15)/5 if ⱖ 6.5 and 6.5 if ⬍ 6.5. The HER2 gene group ⫽ 0.9 ⫻ GRB7 ⫹ 0.1 ⫻ HER2; the HER2 gene group-TH ⫽ 0.9 ⫻ GRB7 ⫹ 0.1 ⫻ HER2 if ⱖ 8.0 and 8.0 if ⬍ 8.0. The invasion gene group ⫽ (CTSL2 ⫹ STMY3)/2. The ER gene group ⫽ (0.8 ⫻ ER ⫹ 1.2 ⫻ PR ⫹ Bcl2 ⫹ SCUBE2)/4. 
+
+There was a trend for higher expression by RT-PCR of each of the five proliferation genes to be associated with chemotherapy benefit. There was a trend for lower expression of PR, ER, and the ER gene group to be associated with chemotherapy benefit. No interaction was evident between either HER2 or GRB7 and chemotherapy treatment. For the clinical variables, we also examined the interaction with chemotherapy treatment in the entire NSABP B20 cohort 
+
+as well. As reported previously,8 the interaction between chemotherapy treatment and patient age reached statistical significance (P ⬍ .05) when the entire B20 cohort was examined. However, the degree of interaction of chemotherapy treatment and gene expression is stronger than that for the clinical variables, suggesting that the RS is the strongest predictor of chemotherapy benefit. 3731 
+
+www.jco.org 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Paik et al 
+
+DISCUSSION 
+
+Patients with node-negative, ER-positive breast cancer in the NSABP B20 study did not benefit equally from chemotherapy. The prespecified 21-gene RT-PCR assay predicted the magnitude of benefit of either CMF or MF chemotherapy. The likelihood ratio test for interaction between chemotherapy treatment and RS was statistically significant (P ⫽ .038). Patients with tumors who had high RSs (ⱖ 31) experienced a large chemotherapy benefit (relative risk, 0.26; 95% CI, 0.13 to 0.53), with a mean absolute decrease in distant recurrence rate at 10 years of 27.6% (SE, 8.0%). Patients with tumors that had low RSs (RS ⬍ 18) derived minimal, if any, benefit from chemotherapy treatment (relative risk, 1.31; 95% CI, 0.46 to 3.78), with a mean absolute decrease in distant recurrence rate at 10 years of ⫺1.1% (SE, 2.2%). Patients with tumors that had intermediate RSs (RS, 18 to 30) did not appear to receive a substantial benefit, but the uncertainty in the estimate (relative risk, 0.61; 95% CI, 0.24 to 1.59) can not exclude a clinically important benefit from chemotherapy treatment. It should be noted that samples from the NSABP B20 tamoxifentreated patients were used in one of the three studies used to select the 21 genes and to design the RS algorithm.15,17 However, samples from the NSABP B20 tamoxifen plus chemotherapy–treated patients were not previously analyzed or used in the Oncotype DX development. Moreover, results from analysis of the NSABP B14 tamoxifen-treated patients (also not used in the development of the RS) were very similar to the results from analysis of the NSABP B20 tamoxifen-treated patients. Few previous studies have examined biomarkers in patient cohorts from randomized trials comparing chemotherapy versus no chemotherapy. Studies that have examined the relationship between the response of tumors to chemotherapy and factors such as histologic grade and DNA ploidy have yielded inconsistent results.20-25 However, tumors with characteristics associated with greater aggressiveness (eg, poor histologic grade, high levels of uPA/PA-1, ER negativity, high proliferative index) tended to respond better to chemotherapy.26-29 In addition, there were trends for statistical interaction between clinical variables and chemotherapy benefit when all the NSABP B20 patients were examined (Table 2).8 The 21-gene RT-PCR assay brings a high degree of precision and standardization to the quantification of important biologic characteristics of individual breast cancers. The RS calculation integrates the contribution of proliferation related genes and hormone receptor pathway genes. The data from this study indicates that greater chemotherapy benefit is observed in patients whose tumors have high RSs. The clinical implications of these results for patients with low or relatively high RSs are relatively clear. For many women with low RSs, the anticipated benefit of adding chemotherapy to hormonal therapy may not exceed the risks. For many women with high RSs, the anticiREFERENCES 1. Mariotto A, Feuer EJ, Harlan LC, et al: Trends in use of adjuvant multi-agent chemotherapy and tamoxifen for breast cancer in the United States: 1975-1999. J Natl Cancer Inst 94:1626-1634, 2002 2. Henderson IC, Patek AJ: The relationship between prognostic and predictive factors in the management of breast cancer. Breast Cancer Res Treat 52:261-288, 1998 3732 
+
+pated benefit of adding chemotherapy appears to be very favorable when compared with the risks. However, for women with intermediate RSs, it is uncertain that the benefits of chemotherapy exceed the risks. Additional study of the benefits and risks of chemotherapy in this middle range of patients is needed. The National Cancer Institute (NCI; National Institutes of Health, Bethesda, MD) Program for the Assessment of Clinical Cancer Tests (PACCT) Strategy Group, in collaboration with US Breast Intergroup, including NSABP, is considering a study that will further refine our ability to select patients for chemotherapy with RSs in the middle range.30 However the results of the planned study will be available only after 2010, and until such time the results of Oncotype DX assay will have to be considered in the context of other clinical parameters in the selection of candidates for chemotherapy. These data have implications with respect to cancer pathogenesis and metastasis. Adjuvant chemotherapy targets micrometastatic cells present after removal of primary tumor. Success in predicting chemotherapy benefit using analysis of the primary tumor implies that primary tumor and micromestastatic cells share molecular characteristics. Recent studies indicate that, overall, tumor molecular signatures tend to be preserved across different stages of tumor progression.31,32 Our published studies with the 21-gene RS as well as other gene expression profiling studies demonstrate that expression profiling of the primary tumor can predict distant disease recurrence.15,31,33,34 However, eventual tissue tropism of the metastases or survival of tumor cells in specific organ sites might require differential expression of certain genes in only a subset of the original tumor population.35,36 Animal model system results from Massague’s group35 suggest that although metastatic cells need to acquire a specific set of genes for organotropic metastasis, their basic driving force is still governed by poor-prognosis genes in the primary tumor. Our results suggest that poor prognosis genes also influence chemotherapy response. The relevance of this study with CMF chemotherapy to other regimens is under investigation. In a study of 89 patients with locally advanced breast cancer, Gianni et al13 found that the RS also positively correlated with the probability of a pathologic complete response to neoadjuvant treatment with an anthracycline/taxane regimen. Patients with tumors with low RSs (⬍ 18) rarely had a pathologic complete response. This suggests that relationship between the RS and chemotherapy benefit is not regimen specific. Whether there are specific predictor genes for particular chemotherapeutic drugs or regimens is not yet established. The NSABP trial B40 has been designed to address this question. In summary, the RS assay not only quantifies the likelihood of breast cancer recurrence in women with node-negative, ER-positive breast cancer, it also predicts the magnitude of chemotherapy benefit. The results of this and other studies strongly suggest that not all women with breast cancer benefit equally from chemotherapy. 
+
+3. Hayes DF, Trock B, Harris AL: Assessing the clinical impact of prognostic factors: When is “statistically significant” clinically useful? Breast Cancer Res Treat 52:305-319, 1998 4. Bast RC Jr, Ravdin P, Hayes DF, et al: 2000 update of recommendations for the use of tumor markers in breast and colorectal cancer: Clinical practice guidelines of the American Society of Clinical Oncology. J Clin Oncol 19:1865-1878, 2001 5. Eifel P, Axelson JA, Costa J, et al: National Institutes of Health Consensus Development Con- 
+
+ference Statement: Adjuvant therapy for breast cancer, November 1-3, 2000. J Natl Cancer Inst 93:979-989, 2001 6. Carlson RW, Edge SB, Theriault RL: NCCN: Breast cancer. Cancer Control 8:54-61, 2001 (suppl 2) 7. Goldhirsch A, Wood WC, Gelber RD, et al: Meeting highlights: Updated international expert consensus on the primary therapy of early breast cancer. J Clin Oncol 21:3357-3365, 2003 8. Fisher B, Jeong JH, Bryant J, et al: Treatment of lymph-node-negative, oestrogen-receptor-positive JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Multigene Predictor for Chemotherapy Response in Breast Cancer 
+
+breast cancer: Long-term findings from National Surgical Adjuvant Breast and Bowel Project randomised clinical trials. Lancet 364:858-868, 2004 9. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 10. Buchholz TA, Stivers DN, Stec J, et al: Global gene expression changes during neoadjuvant chemotherapy for human breast cancer. Cancer J 8:461468, 2002 11. Ayers M, Symmans WF, Stec J, et al: Gene expression profiles predict complete pathologic response to neoadjuvant paclitaxel and fluorouracil, doxorubicin, and cyclophosphamide chemotherapy in breast cancer. J Clin Oncol 22:2284-2293, 2004 12. Chang JC, Wooten EC, Tsimelzon A, et al: Gene expression profiling for the prediction of therapeutic response to docetaxel in patients with breast cancer. Lancet 362:362-369, 2003 13. Gianni L, Zambetti M, Clark K, et al: Gene expression profiles in paraffin-embedded core biopsy tissue predict response to chemotherapy in women with locally advanced breast cancer. J Clin Oncol 23:7265-7277, 2005 14. Cronin M, Pho M, Dutta D, et al: Measurement of gene expression in archival paraffinembedded tissues: Development and performance of a 92-gene reverse transcriptase-polymerase chain reaction assay. Am J Pathol 164:35-42, 2004 15. Paik S, Shak S, Tang G, et al: A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 351: 2817-2826, 2004 16. Fisher B, Dignam J, Wolmark N, et al: Tamoxifen and chemotherapy for lymph node-negative, estrogen receptor-positive breast cancer. J Natl Cancer Inst 89:1673-1682, 1997 17. Paik S, Shak S, Tang G, et al: Multi-gene RT-PCR assay for predicting recurrence in node negative breast cancer patients: NSABP studies B-20 and B-14. Breast Cancer Res Treat 82:S10-S11, 2003 (abstr 16) 
+
+18. Elston CW, Ellis IO: Pathological prognostic factors in breast cancer: I, The value of histological grade in breast cancer: Experience from a large study with long-term follow-up. Histopathology 19: 403-410, 1991 19. Gray RJ: Flexible methods for analyzing survival data using splines, with applications to breast cancer prognosis. J Am Stat Assoc 87:942-951, 1992 20. Hayward JL, Rubens RD, Carbone PP, et al: Assessment of response to therapy in advanced breast cancer: A project of the programme on clinical oncology of the International Union against Cancer, Geneva, Switzerland. Eur J Cancer 14: 1291-1292, 1978 21. Masters JR, Camplejohn RS, Millis RR, et al: Histological grade, elastosis, DNA ploidy and the response to chemotherapy of breast cancer. Br J Cancer 55:455-457, 1987 22. Owainati AA, Robins RA, Hinton C, et al: Tumour aneuploidy, prognostic parameters and survival in primary breast cancer. Br J Cancer 55:449454, 1987 23. Aas T, Geisler S, Paulsen T, et al: Primary systemic treatment with weekly doxorubicin monotherapy in women with locally advanced breast cancer; clinical experience and parameters predicting outcome. Acta Oncol 35:5-8, 1996 (suppl 5) 24. Sjostrom J, Krajewski S, Franssila K, et al: A multivariate analysis of tumour biological factors predicting response to cytotoxic treatment in advanced breast cancer. Br J Cancer 78:812-815, 1998 25. Page DL, Gray R, Allred DC, et al: Prediction of node-negative breast cancer outcome by histologic grading and S-phase analysis by flow cytometry: An Eastern Cooperative Oncology Group Study (2192). Am J Clin Oncol 24:10-18, 2001 26. Lippman ME, Allegra JC, Thompson EB, et al: The relation between estrogen receptors and response rate to cytotoxic chemotherapy in metastatic breast cancer. N Engl J Med 298:1223-1228, 1978 27. Colleoni M, Viale G, Zahrieh D, et al: Chemotherapy is more effective in patients with breast 
+
+cancer not expressing steroid hormone receptors: A study of preoperative treatment. Clin Cancer Res 10:6622-6628, 2004 28. Berry DA, Cirrincione C, Henderson IC, et al: Effects of improvements in chemotherapy on disease-free and overall survival of estrogenreceptor negative, node-positive breast cancer: 20year experience of the CALGB U.S. Breast Intergroup. Breast Cancer Res Treat 98:S17, 2004 (abstr 29) 29. Albain K, Barlow W, O’Malley F, et al: Concurrent (CAFT) versus sequential (CAF-T) chemohormonal therapy (cyclophosphamide, doxorubicin, 5-fluorouracil, tamoxifen) versus T alone for postmenopausal, node-positive, estrogen (ER) and/or progesterone (PgR) receptor-positive breast cancer: Mature outcomes and new biologic correlates on phase III intergroup trial 0100 (SWOG-8814). Breast Cancer Res Treat 2004 (abstr 37) 30. Jessup JM, Lively TG, Taube SE: Program for the Assessment of Clinical Cancer Tests (PACCT): Implementing promising assays into clinical practice. Expert Rev Mol Diagn 5:271-273, 2005 31. Perou CM, Sorlie T, Eisen MB, et al: Molecular portraits of human breast tumours. Nature 406:747752, 2000 32. Ma XJ, Salunga R, Tuggle JT, et al: Gene expression profiles of human breast cancer progression. Proc Natl Acad Sci U S A 100:5974-5979, 2003 33. van de Vijver MJ, He YD, van’t Veer LJ, et al: A gene-expression signature as a predictor of survival in breast cancer. N Engl J Med 347:1999-2009, 2002 34. Sotiriou C, Neo SY, McShane LM, et al: Breast cancer classification and prognosis based on gene expression profiles from a population based study. Proc Natl Acad Sci U S A 100:1039310398, 2003 35. Kang Y, Siegel PM, Shu W, et al: A multigenic program mediating breast cancer metastasis to bone. Cancer Cell 3:537-549, 2003 36. Minn AJ, Gupta GP, Siegel PM, et al: Genes that mediate breast cancer metastasis to lung. Nature 436:518-524, 2005 
+
+■ ■ ■ 
+
+Acknowledgment We thank Tracy George, MD, (Stanford University). We are also grateful for contribution of Melanie Finnigan, Melanie Prior, William Hiller, and Teresa Oeller at NSABP Division of Pathology for data management and histology, and Teresa Bradley and Joyce Mull at NSABP Operation Center for their assistance in regulatory issues. We acknowledge the contributions of others at Genomic Health including Randy Scott, PhD, Anhthu Nguyen, Mei-Lan Liu, PhD, Mylan Pho, Jennie Jeong, Heidi Cheng, Debjani Dutta, Jay Snable, Jenny Wu, Claire Alexander, Lauren Intagliata, and Chithra Sangli. We also acknowledge Clifford Hudis, MD, Peter Ravdin, MD, Stefan Gluck, MD, Elizabeth Tan-Chiu, MD, JoAnne Zujewski, MD, Jeff Abrams, MD, Sheila Taube, MD, Gabriel Hortobagyi, MD, Larry Norton, MD, and George Sledge, MD, for their helpful advice and suggestions. Appendix The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). 
+
+3733 
+
+www.jco.org 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Paik et al 
+
+Authors’ Disclosures of Potential Conflicts of Interest Although all authors completed the disclosure declaration, the following authors or their immediate family members indicated a financial interest. No conflict exists for drugs or devices used in a study if they are not being evaluated as part of the investigation. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Authors 
+
+Employment 
+
+Leadership 
+
+Consultant 
+
+Stock 
+
+Steven Shak 
+
+Genomic Health (N/R) 
+
+Genomic Health (C) 
+
+Genomic Health (C) 
+
+Joffre Baker 
+
+Genomic Health (N/R) 
+
+Genomic Health (C) 
+
+Genomic Health (C) 
+
+Maureen Cronin 
+
+Genomic Health (N/R) 
+
+Genomic Health (B) 
+
+Frederick L. Baehner 
+
+Genomic Health (N/R) 
+
+Genomic Health (B) 
+
+Drew Watson 
+
+Genomic Health (N/R) 
+
+Genomic Health (B) 
+
+Charles E. Geyer Jr 
+
+Honoraria 
+
+Research Funds 
+
+Testimony 
+
+Other 
+
+Genomic Health (A) Dollar Amount Codes 
+
+(A) ⬍ $10,000 
+
+(B) $10,000-99,999 
+
+(C) ⱖ $100,000 
+
+(N/R) Not Required 
+
+Author Contributions Conception and design: Soonmyung Paik, Gong Tang, Steven Shak, Joffre Baker, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino, D. Lawrence Wickerham, Norman Wolmark Financial support: Steven Shak, Joffre Baker Provision of study materials or patients: Soonmyung Paik, Steven Shak, Chungyeul Kim, Joffre Baker, Wanseop Kim, Maureen Cronin Collection and assembly of data: Soonmyung Paik, Steven Shak, Chungyeul Kim, Joffre Baker, Wanseop Kim, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino Data analysis and interpretation: Soonmyung Paik, Gong Tang, Steven Shak, Joffre Baker, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino, Charles E. Geyer Jr Manuscript writing: Soonmyung Paik, Gong Tang, Steven Shak, Joffre Baker, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino, Charles E. Geyer Jr Final approval of manuscript: Soonmyung Paik, Gong Tang, Steven Shak, Chungyeul Kim, Joffre Baker, Wanseop Kim, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino, Charles E. Geyer Jr, D. Lawrence Wickerham, Norman Wolmark 
+
+GLOSSARY 
+
+RT-PCR (reverse-transcriptase polymerase chain reaction): PCR is a method that allows logarithmic amplification of short DNA sequences within a longer, double-stranded DNA molecule. Gene expression can be measured after extraction of total RNA and preparation of cDNA by a reversetranscription step. Thus, RT-PCR enables the detection of PCR products on a real-time basis, making it a sensitive technique for quantitating changes in gene expression. 
+
+Gene expression profile: The expression of a set of genes in a biologic sample (eg, blood, tissue) using microarray, reversetranscriptase polymerase chain reaction, or other technology capable of measuring gene expression. 
+
+21-gene reverse-transcriptase polymerase chain reaction assay: A 21-gene prognostic profile that has become a powerful predictor of outcomes in patients with breast cancer and outperforms currently used standard diagnostic criteria to predict development of future metastases and overall survival in patients with breast cancer. The 21-gene signature has been validated and is commercially available. 
+
+SCUBE2: Gene coding for signal peptide, CUB domain, EGF-like 2 protein, an endothelial cell–associated, secreted glycoprotein. 
+
+Gene expression analysis: Technique for the simultaneous 
+
+CTSL2 (cathepsin L2): A protein belonging to the papain family. 
+
+quantification of the mRNA expression level of thousands of genes. Can be performed using microarrays, reverse transcriptase polymerase chain reaction, or other technologies for measuring gene expression. 
+
+CTSL2 is the gene for a cysteine proteinase enzyme, which may function in protein turnover, antigen presentation, and bone remodeling. 
+
+Recurrence Score: The Recurrence Score is a number between 0 and 100 that corresponds to a specific likelihood of 
+
+3734 
+
+breast cancer recurrence within 10 years of initial diagnosis. The score is derived from a mathematical function combining the expression values of 16 breast cancer–related genes and five reference genes. 
+
+Bcl2: A gene that codes for an antiapoptotic protein that protects cells from programmed cell death by preventing the activation of proapoptotic caspase proteins. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+JOURNAL OF CLINICAL ONCOLOGY Official 
+
+Journal 
+
+Vol 24, No 23 
+
+of 
+
+the 
+
+American 
+
+Society 
+
+of 
+
+TRANSLATIONAL ONCOLOGY 
+
+Clinical 
+
+Oncology 
+
+August 10, 2006 
+
+Editorials A Step in the Right Direction Sandra M. Swain (see article on page 3726) ........................................................................................................................................................... 3717 
+
+Noise and Bias in Microarray Analysis of Tumor Specimens Phillip G. Febbo and Philip W. Kantoff (see article on page 3763) ......................................................................................................... 3719 
+
+Can Trastuzumab Be Effective Against Tumors With Low HER2/Neu (ErbB2) Receptors? Carlos L. Arteaga (see article on page 3735) ........................................................................................................................................................... 3722 
+
+Original Reports BREAST CANCER 
+
+Gene Expression and Benefit of Chemotherapy in Women With Node-Negative, Estrogen Receptor–Positive Breast Cancer Soonmyung Paik, Gong Tang, Steven Shak, Chungyeul Kim, Joffre Baker, Wanseop Kim, Maureen Cronin, Frederick L. Baehner, Drew Watson, John Bryant, Joseph P. Costantino, Charles E. Geyer Jr, D. Lawrence Wickerham, and Norman Wolmark (see editorial on page 3717) ............................................................................ 3726 
+
+Trastuzumab in Combination With Heregulin-Activated Her-2 (erbB-2) Triggers a Receptor-Enhanced Chemosensitivity Effect in the Absence of Her-2 Overexpression Javier A. Menendez, Inderjit Mehmi, and Ruth Lupu (see editorial on page 3722) .................................................................. 3735 
+
+FGFR4 Arg388 Allele Is Associated With Resistance to Adjuvant Therapy in Primary Breast Cancer Christoph Thussbas, Jorg Nahrig, Sylvia Streit, Johannes Bange, Monika Kriner, Ronald Kates, Kurt Ulm, Marion Kiechle, Heinz Hoefler, Axel Ullrich, and Nadia Harbeck ............................................................................................................. 3747 
+
+Predictive and Prognostic Value of Peripheral Blood Cytokeratin-19 mRNA-Positive Cells Detected by Real-Time Polymerase Chain Reaction in Node-Negative Breast Cancer Patients Nikos Xenidis, Maria Perraki, Maria Kafousi, Stella Apostolaki, Irene Bolonaki, Aliki Stathopoulou, Kostas Kalbakis, Nikos Androulakis, Charalambos Kouroussis, Thanos Pallis, Charalambos Christophylakis, Katerina Argyraki, Evi S. Lianidou, Stathis Stathopoulos, Vassilis Georgoulias, and Dimitris Mavroudis ............. 3756 
+
+GENITOURINARY CANCER 
+
+Influence of Surgical Manipulation on Prostate Gene Expression: Implications for Molecular Correlates of Treatment Effects and Disease Prognosis Daniel W. Lin, Ilsa M. Coleman, Sarah Hawley, Ruth Dumpit, David Gifford, Philip Kezele, Hau Hung, Beatrice S. Knudsen, Alan R. Kristal, and Peter S. Nelson (see editorial on page 3719) ........................................................ 3763 (continued on following page) 
+
+Journal of Clinical Oncology (ISSN 0732-183X) is published 36 times a year, three times monthly, by American Society of Clinical Oncology, 1900 Duke St, Suite 200, Alexandria, VA 22314. Periodicals postage is paid at Alexandria, VA, and at additional mailing offices. Publication Mail Agreement Number 863289. Editorial correspondence should be addressed to Daniel G. Haller, MD, Journal of Clinical Oncology, 330 John Carlyle St, Suite 300, Alexandria, VA 22314. Telephone: (703) 797-1900; Fax: (703) 684-8720. E-mail: jco@asco.org. Internet: www.jco.org. POSTMASTER: ASCO members send change of address to American Society of Clinical Oncology, 1900 Duke St, Suite 200, Alexandria, VA 22314. Nonmembers send change of address to Journal of Clinical Oncology Customer Service, 330 John Carlyle St, Suite 300, Alexandria, VA 22314. 2006 annual subscription rates, effective September 1, 2005: United States and possessions: individual, $435; single issue, $35. International: individual, $605; single issue, $45. Institutions: Tier 1: $615 US, $870 Int’l; Tier 2: $715 US, $970 Int’l; Tier 3: $1,035 US, $1,290 Int’l; Tier 4: $1,140 US, $1,395 Int’l; Tier 5: contact JCO for a quote. See http://www.jco.org/subscriptions/tieredpricing.shtml for descriptions of each tier. Student and resident: United States and possessions: $215; all other countries, $300. To receive student/resident rate, orders must be accompanied by name of affiliated institution, date of term, and the signature of program/residency coordinator on institution letterhead. Orders will be billed at individual rate until proof of status is received. Current prices are in effect for back volumes and back issues. Back issues sold in conjunction with a subscription rate are on a prorated basis. Subscriptions are accepted on a 12-month basis. Prices are subject to change without notice. Single issues, both current and back, exist in limited quantities and are offered for sale subject to availability. JCO Legacy Archive (electronic back issues from January 1983 through December 1998) is also available; please inquire. 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+IMMUNOTHERAPY 
+
+Overcoming Resistance to Interferon-Induced Apoptosis of Renal Carcinoma and Melanoma Cells by DNA Demethylation Frederic J. Reu, Soo In Bae, Leonid Cherkassky, Douglas W. Leaman, Daniel Lindner, Normand Beaulieu, A. Robert MacLeod, and Ernest C. Borden ................................................................................................................................................................ 3771 
+
+GASTROINTESTINAL CANCER 
+
+Proline-Directed Protein Kinase FA Is a Powerful and Independent Prognostic Predictor for Progression and Patient Survival of Hepatocellular Carcinoma Yu-Chen Hsu, Hsiao-Hui Fu, Yung-Ming Jeng, Po-Huang Lee, and Shiaw-Der Yang .............................................................. 3780 
+
+Genetic Variations in Radiation and Chemotherapy Drug Action Pathways Predict Clinical Outcomes in Esophageal Cancer Xifeng Wu, Jian Gu, Tsung-Teh Wu, Stephen G. Swisher, Zhongxin Liao, Arlene M. Correa, Jun Liu, Carol J. Etzel, Christopher I. Amos, Maosheng Huang, Silvia S. Chiang, Luke Milas, Walter N. Hittelman, and Jaffer A. Ajani ........................................................................................................................................................................................................................ 3789 
+
+Biology of Neoplasia DNA Repair Pathways in Clinical Practice: Lessons From Pediatric Cancer Susceptibility Syndromes Richard D. Kennedy and Alan D. D’Andrea ............................................................................................................................................................... 3799 
+
+Correspondence Ki-67 Correlates With In Vivo Bromodeoxyuridine Labeling Index in Operable Breast Cancer William H. Goodson, Dan H. Moore, and Frederick M. Waldman ........................................................................................................... 3809 
+
+In Reply Mitch Dowsett, Ander Urruticoechea, and Ian E. Smith ................................................................................................................................. 3809 
+
+Prospective Study of Wide Excision Alone for Ductal Carcinoma In Situ of the Breast Michael D. Lagios, David L. Page, and Melvin J. Silverstein ....................................................................................................................... 3809 
+
+In Reply Julia S. Wong, Susan C. Lester, and Barbara L. Smith .................................................................................................................................... 3811 
+
+Imatinib and Pregnancy Ridvan Ali, Fahir Ozkalemkas, Tulay Ozcelik, Vildan Ozkocaman, and Atilla Ozkan ................................................................. 3812 
+
+In Reply Jorge E. Cortes and Hagop Kantarjian .......................................................................................................................................................................... 3813 
+
+Errata .................................................................................................................................................................................................................................................... 3814 
+
+Also in This Issue Announcements Information for Contributors Current Abstracts Calendar of Oncology Events 
+
+Online supplementary information available at www.jco.org Article was published online ahead of print at www.jco.org www.jco.org 
+
+www.asco.org 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 12, 2018 from 202.120.136.061 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+ 

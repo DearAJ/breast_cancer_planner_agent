@@ -1,0 +1,2493 @@
+rapid communications 
+
+Randomized Phase III Postoperative Trial of Platinum-Based Chemotherapy Versus Capecitabine in Patients With Residual Triple-Negative Breast Cancer Following Neoadjuvant Chemotherapy: ECOG-ACRIN EA1131 Ingrid A. Mayer, MD, MSCI1; Fengmin Zhao, PhD2; Carlos L. Arteaga, MD3; William F. Symmans, MD4; Ben H. Park, MD, PhD1; Brian L. Burnette, MD5; Amye J. Tevaarwerk, MD6; Soﬁa F. Garcia, PhD7; Karen L. Smith, MD8; Della F. Makower, MD9; Margaret Block, MD10; Kimberly A. Morley, MD11; Chirag R. Jani, MD12; Craig Mescher, MD13; Shabana J. Dewani, MD14; Bernard Tawﬁk, MD15; Lisa E. Flaum, MD7; Erica L. Mayer, MD16; William M. Sikov, MD17; Eve T. Rodler, MD18; Lynne I. Wagner, PhD19; Angela M. DeMichele, MD20; Joseph A. Sparano, MD9; Antonio C. Wolff, MD8; and Kathy D. Miller, MD21 
+
+abstract 
+
+PURPOSE Patients with triple-negative breast cancer (TNBC) and residual invasive disease (RD) after completion of neoadjuvant chemotherapy (NAC) have a high-risk for recurrence, which is reduced by adjuvant capecitabine. Preclinical models support the use of platinum agents in the TNBC basal subtype. The EA1131 trial hypothesized that invasive disease-free survival (iDFS) would not be inferior but improved in patients with basal subtype TNBC treated with adjuvant platinum compared with capecitabine. PATIENTS AND METHODS Patients with clinical stage II or III TNBC with $ 1 cm RD in the breast post-NAC were randomly assigned to receive platinum (carboplatin or cisplatin) once every 3 weeks for four cycles or capecitabine 14 out of 21 days every 3 weeks for six cycles. TNBC subtype (basal v nonbasal) was determined by PAM50 in the residual disease. A noninferiority design with superiority alternative was chosen, assuming a 4year iDFS of 67% with capecitabine. RESULTS Four hundred ten of planned 775 participants were randomly assigned to platinum or capecitabine between 2015 and 2021. After median follow-up of 20 months and 120 iDFS events (61% of full information) in the 308 (78%) patients with basal subtype TNBC, the 3-year iDFS for platinum was 42% (95% CI, 30 to 53) versus 49% (95% CI, 39 to 59) for capecitabine. Grade 3 and 4 toxicities were more common with platinum agents. The Data and Safety Monitoring Committee recommended stopping the trial as it was unlikely that further follow-up would show noninferiority or superiority of platinum. 
+
+ASSOCIATED CONTENT 
+
+CONCLUSION Platinum agents do not improve outcomes in patients with basal subtype TNBC RD post-NAC and are associated with more severe toxicity when compared with capecitabine. Participants had a lower than expected 3-year iDFS regardless of study treatment, highlighting the need for better therapies in this high-risk population. J Clin Oncol 39:2539-2551. © 2021 by American Society of Clinical Oncology 
+
+Appendix Protocol Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on May 9, 2021 and published at ascopubs.org/journal/ jco on June 6, 2021: DOI https://doi.org/10. 1200/JCO.21.00976 
+
+INTRODUCTION Triple-negative breast cancers (TNBC) lack expression of estrogen or progesterone receptor and human epidermal growth factor receptor 2 (HER2), and account for approximately 15% of all invasive breast cancers.1 Their prevalence is also higher among young and Black women.2 TNBC carries a higher likelihood of distant recurrence and death compared with other breast cancer subtypes.3 Despite its aggressive biology, approximately 40% of patients have highly chemotherapy- 
+
+sensitive tumors, achieving pathologic complete response (pCR; lack of residual invasive cancer in breast and axilla) at surgery following anthracycline- and taxane-containing neoadjuvant chemotherapy (NAC).4-6 For an individual patient, pCR is associated with improved survival.5,7 Conversely, patients with evidence of residual invasive disease (RD) at surgery following NAC are more likely to have a recurrence and die from breast cancer,5,8 with reported 3-year event-free survival rates of 60%-70%.9,10 Adjuvant capecitabine for six to eight 
+
+Volume 39, Issue 23 2539 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+CONTEXT Key Objective Patients with triple-negative breast cancer (TNBC) and residual invasive disease (RD) after completion of neoadjuvant chemotherapy (NAC) have a high risk for recurrence, which is reduced by adjuvant capecitabine. The EA1131 trial hypothesized that invasive disease-free survival would not be inferior but improved in patients with basal subtype TNBC treated with adjuvant platinum compared with capecitabine. Knowledge Generated EA1131 results show that platinum agents do not improve outcomes in patients with TNBC RD post-NAC, regardless of intrinsic subtype, and are associated with more severe toxicity when compared with capecitabine. Participants had a lower than expected 3-year invasive disease-free survival regardless of study treatment, highlighting the need for better therapies in this high-risk population. Relevance These ﬁndings should discourage the adjuvant use of platinum agents in patients with residual TNBC after NAC outside of a trial. For now, the use of adjuvant platinum agents in unselected patients with TNBC remains investigational, and capecitabine remains the standard therapy. 
+
+cycles in patients with residual TNBC post-NAC improved invasive disease-free survival (iDFS) and overall survival (OS) in the CREATE-X9 trial and became a standard of care. Most TNBC are basal subtype based on the PAM50 gene expression signature,1 and this has been associated with worse recurrence-free survival (RFS) and OS in patients with RD after NAC.11 Basal subtype TNBC shares many phenotypical and genomic similarities with BRCA1-mutated breast cancers12: The intrinsic genomic instability present in some TNBC cells (most notably basal subtype) and BRCA1/2-mutant breast cancers13 results from deﬁcient DNA repair mechanisms14 and may provide greater sensitivity to platinum agents. Indeed, preclinical models show that basal subtype TNBC is particularly sensitive to cisplatin.15 Additionally, in p53-deﬁcient tumors (about 90% of TNBC), p63 is coordinately expressed with TAp73, antagonizing p73 transcriptional activity.16 Platinum agents are potent inhibitors of p63 expression,17,18 resulting in released antagonism of p73 activity, and permitting the expression of proapoptotic Bcl-2 family members, leading to apoptosis. Several clinical trials19,20 have reported an increase in pCR with the addition of platinum to anthracycline- and taxanecontaining NAC in patients with TNBC, but toxicity is increased and the impact on long-term outcomes remains unclear. The EA1131 trial (ClinicalTrials.gov identiﬁer: NCT02445391) was originally designed to test the hypothesis that adjuvant platinum chemotherapy would improve iDFS compared with observation in patients with clinical stage II-III TNBC who had basal subtype RD in the breast after NAC. Once CREATE-X9 results became available, shortly after trial activation, EA1131 was amended to replace observation with capecitabine as the control arm. Five patients 
+
+randomly assigned before this amendment are excluded from the efﬁcacy analysis (Fig 1). PATIENTS AND METHODS Patient Eligibility Eligible patients had clinical stage II or III TNBC (deﬁned as estrogen or progesterone receptor 11 or 21 immunohistochemistry intensity in # 10% cells and HER2-negative by immunohistochemistry and/or in situ hybridization) at diagnosis. At least one full cycle of taxane with or without anthracycline-containing NAC had to be completed; neoadjuvant investigational agents were allowed if therapy completed at least 30 days before random assignment. Patients with synchronous bilateral breast cancers or multifocal breast cancers were eligible if all tumors were TNBC, and at least one fulﬁlled all eligibility criteria. Patients must have completed deﬁnitive resection of the primary breast tumor within 24 weeks of random assignment. Radiation therapy (RT), when recommended, could have been given before or after study treatment. Patients must have had a contiguous focus of residual invasive cancer in the breast measuring $ 1 cm in diameter, with . 20% of nucleated cells being malignant, regardless of nodal disease. The RD was submitted for PAM50 analysis (Veracyte, South San Francisco, CA) for TNBC subtype determination (basal v nonbasal). All patients had to have adequate renal, hepatic, and hematologic function. No chemotherapy or investigational agents after surgery and no capecitabine or platinum chemotherapy before surgery was allowed. Enrollment in other clinical trials was allowed after Protocol (online only) therapy completed. The ECOG-ACRIN Cancer Research Group coordinated the study in collaboration with the Alliance for Clinical Trials in Oncology, NRG Oncology, and the SWOG Cancer Research 
+
+2540 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+Registered and screened at step 0 (N = 560) 
+
+Randomly assigned to step 1 (n = 415) 
+
+Platinum Basal subtype Before Amendment 3 After Amendment 3 Nonbasal subtype Subtype pending 
+
+(n = 199) (n = 150) (n = 2) (n = 148) (n = 42) (n = 7) 
+
+Capecitabine Basal subtype Nonbasal subtype Subtype pending 
+
+Treatment 
+
+Started therapy (n = 187) 
+
+Still on treatment Discontinued protocol therapy Treatment completion PD AE Patient withdrawal Other complicating disease 
+
+Allocation (n = 213) (n = 160) (n = 46) (n = 7) 
+
+Observation (n = 3) Basal subtype (n = 3) 
+
+Started therapy (n = 204) 
+
+(n = 7) (n = 180) (n = 146) (n = 7) (n = 21) (n = 4) (n = 2) 
+
+Follow-up 
+
+Still on treatment Discontinued protocol therapy Treatment completion PD AE Patient withdrawal Other complicating disease Alternative therapy Others 
+
+(n = 16) (n = 188) (n = 141) (n = 22) (n = 12) (n = 8) (n = 1) (n = 1) (n = 3) 
+
+Analyzed for efficacy end points (n = 148) Analyzed for safety end points (n = 184) 
+
+Analysis 
+
+Analyzed for efficacy end points (n = 160) Analyzed for safety end points (n = 198) 
+
+FIG 1. CONSORT diagram. All patients (308 basal subtype and 88 nonbasal subtype) enrolled after Protocol Amendment 3, June 2016 (which incorporated capecitabine as the control arm instead of observation based on CREATE-X trial7 results), were included in efﬁcacy analyses. A total of 391 patients started protocol therapy and 382 of them submitted AE data and were included in toxicity analysis. Patients enrolled to platinum and capecitabine arms but not treated (n 5 21, 16 basal subtype) were followed for recurrence and survival and were included in the intention-to-treat efﬁcacy analysis. Patients enrolled to observation arm were excluded from the report. AE, adverse event; PD, disease progression. 
+
+Network. Local institutional review boards approved the Protocol, and patients provided written informed consent before screening. This trial was funded by the US National Cancer Institute. Treatment Plan Patients were randomly assigned to receive capecitabine 1,000 mg/m2 twice daily, days 1-14, every 3 weeks, for a total of six cycles, or a platinum agent (treating physician choice of cisplatin 75 mg/m2 or carboplatin AUC 6 on day 1), once every 3 weeks, for a total of four cycles. The capecitabine dose and number of cycles chosen reﬂect common practice in the United States, as higher doses are usually not well tolerated among non-Asians.21-25 Because of recent exposure to NAC and RT, we were concerned that more than four cycles of platinum chemotherapy would not be tolerated because of cumulative myelosuppression and 
+
+neuropathy. Clinical or laboratory assessments were completed in time for each treatment cycle; routine toxicityrelated dose modiﬁcations were mandated. RT before or after study treatment completion was required for all patients after breast-conservation surgery. Postmastectomy RT was required for patients with primary tumors . 5 cm or $ 4 axillary lymph nodes involved and allowed at the discretion of the treating physician for all other patients. Statistical Considerations The primary end point was iDFS (time from random assignment to the earliest disease recurrence [locoregional or distant], invasive contralateral cancer, second primary cancer, or death) in patients with basal subtype TNBC. Recruitment of 775 patients was planned; assignments were made using permuted blocks within strata with 
+
+Journal of Clinical Oncology 
+
+2541 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+dynamic balancing within institutions and a 1:1 random assignment ratio to platinum or capecitabine arms. Stratiﬁcation included clinical stage at diagnosis (II or III), residual primary tumor (ypT) diameter after NAC (1-3 cm or . 3 cm), platinum agent (cisplatin or carboplatin), neoadjuvant anthracycline exposure (yes or no), and use of RT (yes or no). We used a noninferiority design with superiority alternative (hybrid design26) to test the hypothesis that in patients with basal subtype TNBC, platinum would improve iDFS compared with capecitabine. The 4-year iDFS rate in the capecitabine arm was assumed to be 67% (based on CREATE-X9). The primary analysis for the primary objective tested the null hypothesis of inferiority of platinum, deﬁned as a hazard ratio (HR) for platinum versus capecitabine of 1.154 (noninferiority margin), corresponding to a 4-year iDFS rate of # 63% in the platinum arm. After enrolling 775 patients (562 expected to have basal subtype TNBC) over 4 years, with an additional 3 years of follow-up, and full information with 196 iDFS events, the study would have 83% power, using a one-sided type I error rate of 0.025, to reject the null hypothesis of inferiority of platinum if the 4-year iDFS rate for platinum was at least 74% (ie, HR 5 0.754, the alternative hypothesis for the noninferiority test). If the hypothesis of inferiority of platinum was rejected in the primary analysis, the secondary hypothesis of no difference versus superiority of platinum would be tested. Because of the closed testing procedure, no multiple-comparison adjustment was required for the two hypothesis tests. The Jennison-Turnbull repeated CI (RCI) method,27 using O’Brien-Fleming boundaries,28 was used to monitor for early stopping for efﬁcacy (ie, noninferiority of platinum) or futility (ie, inferiority of platinum); futility was also monitored using the conditional power method (probability of eventually rejecting the null of inferiority). At each interim analysis, if the conditional power of the assigned treatment analysis was , 10% and the lower boundary of the twosided 95% RCI was . 0.754 for the platinum versus capecitabine arms, the trial would then be stopped for futility. Conversely, if the upper boundary of the two-sided 95% RCI was , 1.154 for the platinum versus capecitabine arms, the trial would be stopped for efﬁcacy (Appendix Fig A1, online only). Comparisons between arms were intention-to-treat analyses among all patients. The Kaplan-Meier method29 was used to estimate distributions for iDFS, RFS (time from random assignment to recurrence [locoregional or distant] or death), and OS. Cases with incomplete follow-up or without adequate disease evaluations were censored at the date last documented to be free of iDFS events. Cox proportional hazards models, stratiﬁed by the factors at random assignment, were used to estimate HRs, and twosided 95% RCI was reported for iDFS and 95% CIs were reported for RFS and OS. 
+
+RESULTS At the ﬁfth interim analysis (58% information time, 113 iDFS events), the HR for platinum versus capecitabine 5 1.09 (95% RCI, 0.62 to 1.90) (Appendix Fig A1), and grade 3 and 4 toxicities were more common in the platinum arm. Because of the low conditional power (6%), at its regular meeting on March 19, 2021 the Data and Safety Monitoring Committee recommended stopping the trial as it was unlikely that further accrual would be able to show noninferiority or superiority of the platinum arm. Data cutoff for this report was April 7, 2021. Four hundred ten patients were enrolled between June 2016 and March 2021 (Fig 1), and 308 (78%) had basal subtype TNBC (primary analysis population). Study arms were well balanced (Table 1). At diagnosis, most tumors were high-grade, cT2, and cN0/N1; at surgery, most residual tumors were ypT1-2N0 (median residual breast tumor diameter 2.5 cm, interquartile range: 1.6-4.1 cm). Median interval between surgery and treatment initiation was 126 days (interquartile range: 103-149 days, range 35-201 days). Among patients randomly assigned to platinum, 88% received carboplatin and 12% received cisplatin. Efﬁcacy After a median follow-up of 20 months, there were 120 iDFS events (61% of the total information) among 308 patients with basal subtype TNBC (93 distant recurrences, 15 locoregional recurrences, ﬁve invasive second primary cancers without recurrence, and seven deaths without recurrence or a second primary cancer). The 3year iDFS among 308 patients with basal subtype TNBC treated with platinum was 42% (95% CI, 30 to 53) versus 49% (95% CI, 39 to 59) with capecitabine (Table 2, Fig 2A). The iDFS HR for platinum versus capecitabine was 1.06 (95% RCI, 0.62 to 1.81). No clinical factors identiﬁed a subset of patients who beneﬁted from platinum (Appendix Table A1, online only). The 3-year RFS was 46% (95% CI, 35 to 57) in the platinum arm and 49% (95% CI, 39 to 59) in the capecitabine arm (HR 5 0.99; 95% CI, 0.67 to 1.45, Table 2, Fig 3A). The 3-year OS was 58% (95% CI, 45 to 68) in the platinum arm and 66% (95% CI, 56 to 74) in the capecitabine arm (HR 5 1.13, 95% CI, 0.71 to 1.79, Table 2, Fig 3B). Among 88 patients with nonbasal subtype TNBC (22% of total patients), 24 iDFS events occurred (19 distant recurrences, two with invasive second primary cancers without recurrence, and three deaths without recurrence or a second primary cancer). The 3-year iDFS for patients treated with platinum was 46% (95% CI, 25 to 65) versus 69% (95% CI, 45 to 83) with capecitabine; the HR for platinum versus capecitabine was 1.94 (95% CI, 0.69 to 5.45) (Table 2, Fig 2B). Patients with basal subtype TNBC 
+
+2542 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+TABLE 1. Baseline Characteristics in Patients With Residual Basal Subtype Triple-Negative Breast Cancera Capecitabine (n 5 160) Variable 
+
+No. 
+
+Platinum (n 5 148) % 
+
+No. 
+
+% 
+
+Patient characteristics Age at random assignment, median years (range) 
+
+52 (26-76) 
+
+52 (27-72) 
+
+Race White 
+
+115 
+
+71.9 
+
+104 
+
+70.3 
+
+Black 
+
+31 
+
+19.4 
+
+28 
+
+18.9 
+
+Asian 
+
+7 
+
+4.4 
+
+3 
+
+2.0 
+
+Unknown 
+
+7 
+
+4.4 
+
+13 
+
+8.8 
+
+Non-Hispanic or non-Latino 
+
+136 
+
+85.0 
+
+123 
+
+83.1 
+
+Hispanic or Latino 
+
+15 
+
+9.4 
+
+18 
+
+12.2 
+
+Unknown 
+
+9 
+
+5.6 
+
+7 
+
+4.7 
+
+0 
+
+113 
+
+70.6 
+
+108 
+
+73.0 
+
+1 
+
+47 
+
+29.4 
+
+40 
+
+27.0 
+
+Ethnicity 
+
+ECOG PS at random assignment 
+
+Prior therapy Prior RT No 
+
+38 
+
+23.8 
+
+39 
+
+26.4 
+
+Yes 
+
+122 
+
+76.3 
+
+109 
+
+73.6 
+
+160 
+
+100.0 
+
+150 
+
+100.0 
+
+Prior neoadjuvant taxane Yes Prior neoadjuvant anthracycline No 
+
+24 
+
+15.0 
+
+20 
+
+13.5 
+
+Yes 
+
+136 
+
+85.0 
+
+128 
+
+86.5 
+
+No 
+
+98 
+
+61.3 
+
+84 
+
+56.8 
+
+Yes 
+
+62 
+
+38.8 
+
+64 
+
+43.2 
+
+Lumpectomy 
+
+42 
+
+26.3 
+
+40 
+
+27.0 
+
+Partial mastectomy 
+
+20 
+
+12.5 
+
+15 
+
+10.1 
+
+Mastectomy NOS 
+
+98 
+
+61.3 
+
+93 
+
+62.8 
+
+Other prior neoadjuvant therapy 
+
+Most extensive surgery 
+
+Interval between surgery and random assignment, days Median (range) IQR 
+
+115 (28-171) 
+
+118 (26-189) 
+
+91-134 
+
+97-144 
+
+8 (0-28) 
+
+7 (0-23) 
+
+6-14 
+
+4-11 
+
+Interval between random assignment and treatment initiation, days Median (range) IQR Primary diagnosis Histology Invasive ductal carcinoma 
+
+145 
+
+90.6 
+
+134 
+
+90.5 
+
+Other 
+
+16 
+
+9.4 
+
+14 
+
+9.5 
+
+(continued on following page) 
+
+Journal of Clinical Oncology 
+
+2543 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+TABLE 1. Baseline Characteristics in Patients With Residual Basal Subtype Triple-Negative Breast Cancera (continued) Capecitabine (n 5 160) Variable 
+
+No. 
+
+Platinum (n 5 148) % 
+
+No. 
+
+% 
+
+Histology grade Low 
+
+2 
+
+1.2 
+
+1 
+
+0.7 
+
+Intermediate 
+
+23 
+
+14.4 
+
+20 
+
+13.6 
+
+High 
+
+125 
+
+78.1 
+
+114 
+
+77.6 
+
+Unknown 
+
+10 
+
+6.3 
+
+12 
+
+8.1 
+
+cT diameter, median (IQR), cm 
+
+3.3 (2.5-5.0) 
+
+3.1 (2.4-5.3) 
+
+Clinical T stage cT1 
+
+15 
+
+9.4 
+
+21 
+
+14.3 
+
+cT2 
+
+101 
+
+63.1 
+
+83 
+
+56.5 
+
+cT3 
+
+35 
+
+21.9 
+
+37 
+
+25.2 
+
+cT4 
+
+9 
+
+5.6 
+
+6 
+
+4.1 
+
+Clinical N stage cNX 
+
+4 
+
+2.5 
+
+2 
+
+1.4 
+
+cN0 
+
+67 
+
+41.9 
+
+77 
+
+52.0 
+
+cN1 
+
+74 
+
+46.2 
+
+53 
+
+35.8 
+
+cN2 
+
+10 
+
+6.2 
+
+11 
+
+7.4 
+
+cN3 
+
+5 
+
+3.1 
+
+5 
+
+3.4 
+
+Residual disease ypT diameter, median (IQR), cm 
+
+2.4 (1.5-4.2) 
+
+2.5 (1.6-4.0) 
+
+Pathologic yp stage at study entry I 
+
+35 
+
+21.9 
+
+28 
+
+18.9 
+
+II 
+
+76 
+
+47.5 
+
+79 
+
+53.4 
+
+III 
+
+49 
+
+30.6 
+
+41 
+
+27.7 
+
+ypT1 
+
+61 
+
+38.1 
+
+55 
+
+37.2 
+
+ypT2 
+
+69 
+
+43.1 
+
+65 
+
+43.9 
+
+ypT3 
+
+27 
+
+16.9 
+
+26 
+
+17.6 
+
+ypT4 
+
+3 
+
+1.9 
+
+2 
+
+1.4 
+
+No 
+
+74 
+
+46.2 
+
+75 
+
+50.7 
+
+Yes 
+
+86 
+
+53.8 
+
+73 
+
+49.3 
+
+No 
+
+48 
+
+30.0 
+
+42 
+
+28.4 
+
+Yes 
+
+112 
+
+70.0 
+
+106 
+
+71.6 
+
+No 
+
+74 
+
+46.3 
+
+76 
+
+51.4 
+
+Yes 
+
+86 
+
+53.8 
+
+72 
+
+48.6 
+
+Pathologic T stage at study entry 
+
+Lymph node involvement 
+
+Sentinel node biopsy 
+
+Axillary dissection performed 
+
+Abbreviations: cN, nodal status by clinical parameters; cT, tumor diameter by clinical parameters; ECOG PS, Eastern Cooperative Oncology Group performance status; IQR, interquartile range; NOS, not otherwise speciﬁed; RT, radiation therapy; ypT, tumor diameter by pathologic analysis. a Primary analysis population. 
+
+2544 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+TABLE 2. Efﬁcacy End Points Efﬁcacy End Points 
+
+Capecitabine 
+
+Platinum 
+
+62/160 
+
+58/148 
+
+3-year iDFS rate 
+
+49.4% (39.0 to 59.0) 
+
+42.0% (30.5 to 53.1) 
+
+HR (95% RCI) 
+
+Ref 
+
+1.06 (0.62 to 1.81) 
+
+10/46 
+
+14/42 
+
+3-year iDFS rate 
+
+68.5% (45.3 to 83.5) 
+
+46.3% (24.9 to 65.3) 
+
+HR (95% CI) 
+
+Ref 
+
+1.94 (0.69 to 5.45) 
+
+72/213 
+
+72/197 
+
+3-year iDFS rate 
+
+53.5% (44.0 to 62.1) 
+
+42.8% (32.6 to 52.6) 
+
+HR (95% CI) 
+
+Ref 
+
+1.16 (0.82 to 1.63) 
+
+iDFS in basal patients iDFS events/patients 
+
+iDFS in nonbasal patients iDFS events/patients 
+
+iDFS in all randomly assigned patients iDFS events/patients 
+
+OS in basal patients OS events/patients 
+
+40/160 
+
+38/148 
+
+3-year OS rate 
+
+66.2% (56.3 to 74.3) 
+
+57.8% (45.2 to 68.4) 
+
+HR (95% CI) 
+
+Ref 
+
+1.13 (0.71 to 1.79) 
+
+5/46 
+
+11/42 
+
+3-year OS rate 
+
+82.6% (62.2 to 92.6) 
+
+63.2% (41.1 to 79.0) 
+
+HR (95% CI) 
+
+Ref 
+
+3.15 (0.84 to 11.83) 
+
+45/213 
+
+49/197 
+
+3-year OS rate 
+
+69.4% (60.7 to 76.5) 
+
+59.2% (48.6 to 68.3) 
+
+HR (95% CI) 
+
+Ref 
+
+1.32 (0.87 to 2.00) 
+
+62/160 
+
+55/148 
+
+3-year RFS rate 
+
+49.3% (38.9 to 58.9) 
+
+46.2% (34.7 to 57.0) 
+
+HR (95% CI) 
+
+Ref 
+
+0.99 (0.67 to 1.45) 
+
+OS in nonbasal patients OS events/patients 
+
+OS in all randomly assigned patients OS events/patients 
+
+RFS in basal patients RFS events/patients 
+
+RFS in nonbasal patients RFS events/patients 
+
+10/46 
+
+13/42 
+
+3-year RFS rate 
+
+68.5% (45.3 to 83.5) 
+
+50.2% (28.0 to 68.8) 
+
+HR (95% CI) 
+
+Ref 
+
+1.80 (0.63 to 5.16) 
+
+72/213 
+
+68/197 
+
+3-year RFS rate 
+
+53.4% (43.9 to 62.0) 
+
+46.9% (36.6 to 56.4) 
+
+HR (95% CI) 
+
+Ref 
+
+1.09 (0.77 to 1.54) 
+
+RFS in all randomly assigned patients RFS events/patients 
+
+NOTE. Stratiﬁcation variables for this model included clinical stage at diagnosis (II or III), residual cancer burden after neoadjuvant chemotherapy, planned platinum agent, anthracycline exposure in the neoadjuvant setting, and administration of radiotherapy at any time. Abbreviations: HR, hazard ratio; iDFS, invasive disease-free survival; OS, overall survival; RCI, repeated CI; ref, reference; RFS, recurrence-free survival. 
+
+had worse iDFS than patients with nonbasal subtype TNBC (HR 5 1.71; 95% CI, 1.10 to 2.67) (Fig 2C). Adverse Events The adverse event proﬁle in both treatment arms was consistent with known toxicities of these agents (Table 3). 
+
+Common toxicities seen with capecitabine included myelosuppression, nausea, diarrhea, and palmarplantar erythrodysesthesia; myelosuppression and nausea were the most common toxicities with platinum. Peripheral sensory neuropathy rates were similar between arms. 
+
+Journal of Clinical Oncology 
+
+2545 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+B 1.0 
+
+Capecitabine 
+
+1.0 
+
+0.9 
+
+Platinum 
+
+0.9 
+
+iDFS (probability) 
+
+iDFS (probability) 
+
+A 0.8 0.7 0.6 0.5 0.4 0.3 3-year iDFS 
+
+0.2 
+
+Platinum 
+
+Capecitabine 
+
+42% (95% CI, 30 to 53) 
+
+49% (95% CI, 39 to 59) 
+
+0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+Nonbasal platinum Basal capecitabine 
+
+0.8 
+
+Basal platinum 
+
+0.7 0.6 0.5 0.4 0.3 
+
+Basal subtype 3-year iDFS 
+
+0.2 
+
+HR = 1.06 (95% RCI, 0.62 to 1.81) 
+
+0.1 
+
+Nonbasal capecitabine 
+
+36 
+
+42 
+
+Capecitabine 49% (95% CI, 39 to 59) 
+
+HR = 1.06 (95% RCI, 0.62 to 1.81) Nonbasal subtype 3-year iDFS 
+
+0.1 
+
+46% (95% CI, 25 to 65) 
+
+69% (95% CI, 45 to 83) 
+
+HR = 1.94 (95% CI, 0.69 to 5.45) 
+
+0 
+
+Time Since Random Assignment (months) 
+
+Platinum 42% (95% CI, 30 to 53) 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+Time Since Random Assignment (months) No. at risk: 
+
+No. at risk: Capecitabine 158 
+
+112 
+
+74 
+
+60 
+
+48 
+
+24 
+
+15 
+
+4 
+
+Nonbasal Capecitabine 46 
+
+37 
+
+26 
+
+16 
+
+11 
+
+6 
+
+3 
+
+148 
+
+99 
+
+68 
+
+47 
+
+30 
+
+20 
+
+13 
+
+4 
+
+Nonbasal Platinum 
+
+41 
+
+35 
+
+23 
+
+17 
+
+11 
+
+9 
+
+5 
+
+4 
+
+Basal Capecitabine 
+
+158 
+
+112 
+
+74 
+
+60 
+
+48 
+
+24 
+
+15 
+
+4 
+
+Basal Platinum 
+
+148 
+
+99 
+
+68 
+
+47 
+
+30 
+
+20 
+
+13 
+
+4 
+
+Platinum 
+
+2 
+
+iDFS (probability) 
+
+C 1.0 
+
+Nonbasal 
+
+0.9 
+
+Basal 
+
+0.8 0.7 0.6 0.5 0.4 0.3 3-year iDFS 
+
+0.2 
+
+Basal subtype 
+
+Nonbasal subtype 
+
+46% (95% CI, 38 to 54) 
+
+55% (95% CI, 38 to 68) 
+
+HR = 1.63 (95% CI, 1.05 to 2.53) 
+
+0.1 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+Time Since Random Assignment (months) No. at risk: Nonbasal 
+
+87 
+
+72 
+
+49 
+
+33 
+
+22 
+
+15 
+
+8 
+
+6 
+
+Basal 
+
+311 
+
+213 
+
+144 
+
+109 
+
+80 
+
+45 
+
+29 
+
+9 
+
+FIG 2. Kaplan-Meier estimates of iDFS. Three-year iDFS (A) patients with basal subtype TNBC were similar across both arms, and (B and C) patients with basal subtype TNBC had poor prognosis (worse iDFS) regardless of treatment arm compared to patients with nonbasal subtype. (B) Patients with nonbasal subtype TNBC appear to have better iDFS when treated with capecitabine than with a platinum agent, but this ﬁnding is not statistically signiﬁcant. HR, hazard ratio; iDFS, invasive disease-free survival; RCI, repeated CI; TNBC, triple-negative breast cancer. 
+
+Although the overall incidence of toxicity was similar between arms, grade 3 and 4 toxicities (mainly anemia and leukopenia) were more frequent with platinum (26%; 95% CI, 20 to 33) compared with capecitabine (15%; 95% CI, 10 to 21). No grade 5 toxicities were observed; metastatic cancer progression was the cause of death in most patients. Eight patients developed second primary cancers (unrelated to treatment) during the study period. 
+
+DISCUSSION 
+
+Drug Exposure and Discontinuation 
+
+Addition of platinum agents to anthracycline- and taxanecontaining NAC for TNBC has consistently shown increases in pCR rates in clinical trials.19,20,30 For this reason, many oncologists have incorporated platinum agents in NAC regimens. However, these neoadjuvant trials were not powered to address event-free survival or OS beneﬁt and reported increased toxicity rates with platinum addition. Although individual patients who achieve pCR have a better 
+
+Among 368 patients off study treatment, 82% patients completed four cycles of platinum, and 79% patients completed six cycles of capecitabine. Dose reductions were more frequent in the platinum arm (Appendix Table A2, online only). Main reasons for early therapy discontinuation were disease progression for capecitabine and adverse events for platinum agents (Fig 1). 
+
+Despite a sound hypothesis supported by preclinical and clinical data, EA1131 showed that adjuvant platinum agents are unlikely to be noninferior or superior to capecitabine at improving iDFS for patients with residual TNBC after NAC. Furthermore, irrespective of treatment arm, a much higher than expected event rate was observed in this high-risk population. 
+
+2546 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+B 1.0 
+
+Capecitabine 
+
+1.0 
+
+Capecitabine 
+
+0.9 
+
+Platinum 
+
+0.9 
+
+Platinum 
+
+0.8 
+
+OS (probability) 
+
+RFS (probability) 
+
+A 
+
+0.7 0.6 0.5 0.4 0.3 3-year RFS 
+
+0.2 
+
+Platinum 
+
+Capecitabine 
+
+46% (95% CI, 35 to 57) 
+
+49% (95% CI, 39 to 59) 
+
+HR = 0.99 (95% CI, 0.67 to 1.45) 
+
+0.1 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+0.8 0.7 0.6 0.5 0.4 0.3 3-year OS 
+
+0.2 
+
+36 
+
+42 
+
+No. at risk: 
+
+Capecitabine 66% (95% CI, 56 to 74) 
+
+HR = 1.13 (95% CI, 0.71 to 1.79) 
+
+0.1 0 
+
+Time Since Random Assignment (months) 
+
+Platinum 58% (95% CI, 45 to 68) 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+Time Since Random Assignment (months) No. at risk: 
+
+Capecitabine 158 
+
+113 
+
+75 
+
+60 
+
+48 
+
+24 
+
+15 
+
+4 
+
+Capecitabine 159 
+
+137 
+
+112 
+
+84 
+
+59 
+
+37 
+
+24 
+
+8 
+
+1 
+
+Platinum 
+
+99 
+
+68 
+
+47 
+
+30 
+
+22 
+
+13 
+
+4 
+
+Platinum 
+
+119 
+
+90 
+
+69 
+
+45 
+
+30 
+
+18 
+
+10 
+
+4 
+
+148 
+
+148 
+
+FIG 3. Kaplan-Meier estimates of RFS and OS. Three-year (A) RFS and (B) OS for patients with basal subtype triple-negative breast cancer were similar across both treatment arms and lower than originally anticipated. HR, hazard ratio; OS, overall survival; RFS, recurrence-free survival. 
+
+prognosis, the association between improvements in pCR and improvements in long-term outcome is weak. Importantly, the magnitude of pCR improvement needed to result in long-term outcome improvement remains unclear.31 Given these limitations, EA1131 was designed to address the role of adjuvant platinum agents in a patient population expected to have a higher residual risk (patients with $ 1 cm invasive RD at surgery), thereby sparing those with highly chemotherapy-sensitive disease the added toxicity of upfront platinum therapy. Unfortunately, EA1131 results showed that platinum agents were associated with more severe toxicities and were not more effective than capecitabine. There may be several explanations for these results. Platinum agents do not appear to offer a differential beneﬁt in the metastatic setting for most patients with TNBC. The phase III TNBC Trial32 randomly assigned patients with metastatic TNBC to ﬁrst-line carboplatin or docetaxel. Patients with germline BRCA1/2 mutations had improved response rates to carboplatin, but for patients without BRCA1/2 mutations, carboplatin was not better than docetaxel, regardless of basal subtype or homologous recombination deﬁciency (HRD) score (unweighted sum of three independent DNA-based measures of genomic instability in the tumor [loss of heterozygosity, telomeric allelic imbalance, and large-scale transitions]). A possible explanation for the lack of a differential response in metastatic TNBC is that BRCA1/2 gene methylation, which is associated with functional deﬁciencies in homologous recombination, is decreased in metastatic tumors compared with primary tumors.33 It is then conceivable that RD after NAC could functionally mirror the genomic or epigenomic makeup of metastatic disease, which could explain why a platinum agent was not more effective than other drugs in 
+
+the postoperative setting. However, platinum agents could still be effective in the neoadjuvant setting (in terms of pCR) in combination with other chemotherapy agents, as tumors more sensitive to DNA-damaging agents likely achieve a higher frequency of pCR and would therefore be excluded from EA1131. At the same time, the recently reported TBCRC030 phase II trial showed no difference in pCR rates between NAC with single-agent paclitaxel or cisplatin in patients with TNBC, regardless of HRD score.34 These data are consistent with other trials showing that HRD does not predict response to a speciﬁc chemotherapy in the neoadjuvant setting.19,30 This suggests that HRD is an imperfect biomarker to detect functional deﬁciencies in homologous recombination, and that prior exposure to different chemotherapy agents in the metastatic or neoadjuvant setting (which is not considered in preclinical models) may still cause potential clonal selection of homologous recombination-proﬁcient cells in the residual tumor. In EA1131, an effort to quickly optimize treatment while minimizing toxicity led us to select patients with the highest risk of recurrence: basal subtype (78% of all EA1131 participants) and RD post-NAC completion. Patients with basal subtype TNBC had a higher-than-expected observed risk of recurrence than previously reported in other treatment-escalation clinical trials,9,19,20 regardless of the treatment received. This is consistent with a GEICAM/200311_CIBOMA/2004-01 trial preplanned analysis, showing that adjuvant capecitabine improvement in DFS is greater in the nonbasal phenotype.35 The long-term outcome discrepancy between the EA1131 and CREATE-X trials9 may be partially explained by differences in patient selection: 42% of CREATE-X9 participants had marked treatment responses to NAC, with much 
+
+Journal of Clinical Oncology 
+
+2547 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+TABLE 3. Select Adverse Events Platinum (n 5 184), % 
+
+Capecitabine (n 5 198), % 
+
+Grade 
+
+Grade 
+
+Toxicity Type 
+
+1, 2 
+
+3 
+
+4 
+
+5 
+
+1, 2 
+
+3 
+
+4 
+
+5 
+
+Anemia 
+
+48 
+
+7 
+
+— 
+
+— 
+
+30 
+
+— 
+
+— 
+
+— 
+
+Blood and lymphatic system disorders—other, specify 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Febrile neutropenia 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+Thrombotic thrombocytopenic purpura 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Cardiac disorders—other, specify 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+Hearing impaired 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Colitis 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+2 
+
+— 
+
+— 
+
+Constipation 
+
+18 
+
+— 
+
+— 
+
+— 
+
+11 
+
+— 
+
+— 
+
+— 
+
+Diarrhea 
+
+7 
+
+— 
+
+— 
+
+— 
+
+42 
+
+6 
+
+— 
+
+— 
+
+Mucositis oral 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+1 
+
+— 
+
+— 
+
+Nausea 
+
+46 
+
+1 
+
+— 
+
+— 
+
+40 
+
+1 
+
+— 
+
+— 
+
+Vomiting 
+
+15 
+
+1 
+
+— 
+
+— 
+
+12 
+
+— 
+
+— 
+
+— 
+
+Death NOS 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Fatigue 
+
+— 
+
+2 
+
+— 
+
+— 
+
+— 
+
+2 
+
+— 
+
+— 
+
+General disorders and administration site conditions—other 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+Allergic reaction 
+
+1 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+Breast infection 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Sepsis 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+Lung infection 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Bruising 
+
+5 
+
+— 
+
+— 
+
+— 
+
+4 
+
+— 
+
+— 
+
+— 
+
+Wound complication 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+ALT increased 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+AST increased 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+Lymphocyte count decreased 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Neutrophil count decreased 
+
+— 
+
+2 
+
+2 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+Platelet count decreased 
+
+— 
+
+4 
+
+3 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+WBC decreased 
+
+47 
+
+9 
+
+1 
+
+— 
+
+23 
+
+3 
+
+— 
+
+— 
+
+Hypokalemia 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+Dizziness 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Headache 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Peripheral sensory neuropathy 
+
+24 
+
+1 
+
+— 
+
+— 
+
+27 
+
+1 
+
+— 
+
+— 
+
+Syncope 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+Dyspnea 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Hypoxia 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Alopecia 
+
+4 
+
+— 
+
+— 
+
+— 
+
+5 
+
+— 
+
+— 
+
+— 
+
+Purpura 
+
+1 
+
+— 
+
+— 
+
+— 
+
+2 
+
+— 
+
+— 
+
+— 
+
+Palmar-plantar erythrodysesthesia syndrome 
+
+— 
+
+— 
+
+— 
+
+— 
+
+53 
+
+5 
+
+— 
+
+— 
+
+Hypertension 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Thromboembolic event 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+Worst degree 
+
+53 
+
+21 
+
+5 
+
+— 
+
+69 
+
+15 
+
+1 
+
+— 
+
+NOTE. Worst adverse event reported per patients based on Common Terminology Criteria for Adverse Events (version 5.0). Only patients who began protocol treatment in each arm are included in this summary, and only adverse events with a treatment relation of three or higher (possible, probably, or deﬁnitely related) were included in the table. Abbreviation: NOS, not otherwise speciﬁed. 2548 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+less volume of RD at study entry. Furthermore, EA1131 included a diverse (US-based) population (70% of participants were White, 20% Black, and 10% Hispanic, instead of 100% Asian in CREATE-X9), which may also explain expected differences in capecitabine tolerance and need for dose modiﬁcations.22 It is possible that the number of treatment cycles and time to treatment initiation negatively inﬂuenced outcomes observed across both study arms. At the same time, although EA1131 allowed fewer cycles of capecitabine than CREATE-X,9 we anticipated that a higher number of allowed cycles in the platinum or capecitabine arms would not have been feasible from a toxicity standpoint in patients already treated with NAC. The median time to protocol therapy initiation (126 days) may also have contributed to the poor outcomes observed in EA1131,36 although CREATE-X allowed therapy to start up to 120 days after surgery (actual data not reported). Nonetheless, EA1131 results underscore the acute and unfulﬁlled need for better strategies for a high-risk cohort of patients. EA1131 provides a richly annotated biobank to explore and develop further hypothesis for future clinical trials of new agents in this setting. Planned studies in the RD will evaluate genomic markers, gene expression, immune markers, circulating markers, including analyses of circulating tumor cells and cell-free DNA (cfDNA), and BRCAmutation status. These planned studies may help us identify speciﬁc subsets of patients at risk, those who could potentially beneﬁt from systemic intervention, and provide early evidence of clinical beneﬁt from therapies for RD after NAC in TNBC (potential role of postsurgical cfDNA positivity to identify a high-risk cohort of TNBC after NAC37). 
+
+EA1131 tested the hypothesis of a differential beneﬁt from platinum drugs as post-NAC for residual basal subtype TNBC. Our results suggest that a beneﬁt is unlikely regardless of intrinsic subtype. As such, these ﬁndings have an immediate impact in clinical practice. As such, these ﬁndings have an immediate impact in clinical practice, as they should discourage the adjuvant use of platinum agents in patients with residual TNBC after NAC outside of a clinical trial. Only a few other trials assessing the role of platinum in TNBC have survival as a primary objective, such as NRG BR-003 (ClinicalTrials.gov identiﬁer: NCT02488967), a phase III randomized trial scheduled to complete accrual during 2021, that tests the addition of carboplatin to postsurgical anthracyclineand taxane-containing chemotherapy in chemotherapynaive patients with pathologic stage II or III TNBC. For now, the use of adjuvant platinum agents in unselected patients with TNBC remains investigational and capecitabine remains the standard therapy. Finally, EA1131 lays the important groundwork for the next generation of studies addressing the critical need for more active and effective therapies for patients with high-risk TNBC. 
+
+21 
+
+AFFILIATIONS 1 
+
+Currently, two planned adjuvant clinical trials in patients with residual TNBC post-NAC completion will use cfDNA positivity as an integral biomarker of patient selection and/ or treatment allocation postoperatively: ASPRIA, a phase II trial of sacituzumab govitecan-hziy and atezolizumab, and PERSEVERE, a phase II randomized trial that will stratify patients based on cfDNA positivity and assign them a postoperative targeted therapy matched to the patient’s tumor genomic sequencing. 
+
+Vanderbilt University Medical Center, Vanderbilt-Ingram Cancer Center, Nashville, TN 2 Dana-Farber Cancer Institute, ECOG-ACRIN Biostatistics Center, Boston, MA 3 UT Southwestern Simmons Cancer Center, Dallas, TX 4 MD Anderson Cancer Center, Houston, TX 5 Cancer Research of Wisconsin and Northern Michigan (CROWN) NCORP, Green Bay, WI 6 University of Wisconsin Carbone Cancer Center, Madison, WI 7 Northwestern University, Evanston, IL 8 Johns Hopkins University, Sidney Kimmel Cancer Center, Baltimore, MD 9 Monteﬁore Medical Center, Bronx, NY 10 Alegent Health Bergan Mercy Medical Center, Omaha, NE 11 Saint Joseph Mercy Hospital, Ann Arbor, MI 12 Phoebe Putney Memorial Hospital, Albany, GA 13 Metro-Minnesota Community Oncology Research Consortium, St Louis Park, MN 14 Columbus Oncology and Hematology Associates Inc, Columbus, OH 15 University of New Mexico Cancer Center, Albuquerque, NM 16 Dana-Farber Cancer Institute, Boston, MA 17 Women and Infants Hospital of Rhode Island, Providence, RI 18 University of California, Davis, Davis, CA 19 Wake Forest University Health Sciences, Winston-Salem, NC 20 University of Pennsylvania/Abramson Cancer Center, Philadelphia, PA 
+
+Indiana University Melvin and Bren Simon Comprehensive Cancer Center, Indianapolis, IN 
+
+CORRESPONDING AUTHOR Ingrid A. Mayer, MD, MSCI, Vanderbilt University Medical Center, 2220 Pierce Ave, 777 PRB, Nashville, TN 37232; e-mail: ingrid.mayer@ vumc.org. 
+
+DISCLAIMER The content is solely the responsibility of the authors and does not necessarily represent the ofﬁcial views of the National Institutes of Health. 
+
+SUPPORT Supported by the National Cancer Institute of the National Institutes of Health under the following award numbers: U10CA180820, U10CA180794, 10CA180821, U10CA180868, U10CA180888, UG1CA189809, UG1CA189828, UG1CA189851, UG1CA189856, UG1CA189859, UG1CA189863, UG1CA189954, UG1CA189971, UG1CA233196, UG1CA233270, UG1CA233277, UG1CA233302, UG1CA233320, UG1CA233329, UG1CA233340, UG1CA239769, P30CA142543, P30CA068485, and P50CA098131. 
+
+Journal of Clinical Oncology 
+
+2549 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+CLINICAL TRIAL INFORMATION NCT02445391 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.21.00976. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Ingrid A. Mayer, Fengmin Zhao, Carlos L. Arteaga, William F. Symmans, Amye J. Tevaarwerk, Soﬁa F. Garcia, Lynne I. Wagner, Joseph A. Sparano, Antonio C. Wolff, Kathy D. Miller Financial support: Lynne I. Wagner Administrative support: Ingrid A. Mayer, William F. Symmans, Joseph A. Sparano, Kathy D. Miller Provision of study materials or patients: Ingrid A. Mayer, Carlos L. Arteaga, Brian L. Burnette, Della F. Makower, Kimberly A. Morley, Chirag R. Jani, Bernard Tawﬁk, Lisa E. Flaum, Erica L. Mayer, William M. Sikov, Joseph A. Sparano, Antonio C. Wolff, Kathy D. Miller Collection and assembly of data: Ingrid A. Mayer, Fengmin Zhao, William F. Symmans, Brian L. Burnette, Amye J. Tevaarwerk, Della F. Makower, 
+
+Margaret Block, Kimberly A. Morley, Chirag R. Jani, Shabana J. Dewani, Bernard Tawﬁk, Lisa E. Flaum, Angela M. DeMichele, Antonio C. Wolff, Kathy D. Miller Data analysis and interpretation: Ingrid A. Mayer, Fengmin Zhao, Carlos L. Arteaga, Ben H. Park, Brian L. Burnette, Amye J. Tevaarwerk, Karen L. Smith, Craig Mescher, Erica L. Mayer, William M. Sikov, Eve T. Rodler, Lynne I. Wagner, Angela M. DeMichele, Antonio C. Wolff Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+ACKNOWLEDGMENT This study was conducted by the ECOG-ACRIN Cancer Research Group (Peter J. O’Dwyer, MD and Mitchell D. Schnall, MD, PhD, Group CoChairs). The authors thank the patients, families, and staff who supported EA1131. Robert Gray, PhD, provided critical comments during analysis and article preparation. Jannine Hewitt, RN, provided administrative support as Study Chair Liaison. 
+
+REFERENCES 1. 
+
+Dent R, Trudeau M, Pritchard KI, et al: Triple-negative breast cancer: Clinical features and patterns of recurrence. Clin Cancer Res 13:4429-4434, 2007 
+
+2. 
+
+Carey LA, Perou CM, Livasy CA, et al: Race, breast cancer subtypes, and survival in the Carolina Breast Cancer Study. JAMA 295:2492-2502, 2006 
+
+3. 
+
+Millikan RC, Newman B, Tse CK, et al: Epidemiology of basal-like breast cancer. Breast Cancer Res Treat 109:123-139, 2008 
+
+4. 
+
+von Minckwitz G, Untch M, Blohmer JU, et al: Deﬁnition and impact of pathologic complete response on prognosis after neoadjuvant chemotherapy in various intrinsic breast cancer subtypes. J Clin Oncol 30:1796-1804, 2012 
+
+5. 
+
+Liedtke C, Mazouni C, Hess KR, et al: Response to neoadjuvant therapy and long-term survival in patients with triple-negative breast cancer. J Clin Oncol 26: 1275-1281, 2008 
+
+6. 
+
+Symmans WF, Wei C, Gould R, et al: Long-term prognostic risk after neoadjuvant chemotherapy associated with residual cancer burden and breast cancer subtype. J Clin Oncol 35:1049-1060, 2017 
+
+7. 
+
+Glück S, Ross JS, Royce M, et al: TP53 genomics predict higher clinical and pathologic tumor response in operable early-stage breast cancer treated with docetaxel-capecitabine 6 trastuzumab. Breast Cancer Res Treat 132:781-791, 2012 
+
+8. 
+
+Esserman LJ, Berry DA, Cheang MC, et al: Chemotherapy response and recurrence-free survival in neoadjuvant breast cancer depends on biomarker proﬁles: Results from the I-SPY 1 TRIAL (CALGB 150007/150012; ACRIN 6657). Breast Cancer Res Treat 132:1049-1062, 2012 
+
+9. 
+
+Masuda N, Lee SJ, Ohtani S, et al: Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med 376:2147-2159, 2017 
+
+10. Yee D, DeMichele AM, Yau C, et al: Association of event-free and distant recurrence-free survival with individual-level pathologic complete response in neoadjuvant treatment of stages 2 and 3 breast cancer: Three-year follow-up analysis for the I-SPY2 adaptively randomized clinical trial. JAMA Oncol 6: 1355-1362, 2020 11. Balko JM, Giltnane JM, Wang K, et al: Molecular proﬁling of the residual disease of triple-negative breast cancers after neoadjuvant chemotherapy identiﬁes actionable therapeutic targets. Cancer Discov 4:232-245, 2014 12. Matros E, Wang ZC, Lodeiro G, et al: BRCA1 promoter methylation in sporadic breast tumors: Relationship to gene expression proﬁles. Breast Cancer Res Treat 91:179-186, 2005 13. Farmer H, McCabe N, Lord CJ, et al: Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature 434:917-921, 2005 14. Graeser M, McCarthy A, Lord CJ, et al: A marker of homologous recombination predicts pathologic complete response to neoadjuvant chemotherapy in primary breast cancer. Clin Cancer Res 16:6159-6168, 2010 15. Lehmann B, Bauer J, Chen X, et al: Identiﬁcation of human triple-negative breast cancer subtypes and preclinical models for selection of targeted therapies. J Clin Invest 121:2750-2767, 2011 16. Leong CO, Vidnovic N, DeYoung MP, et al: The p63/p73 network mediates chemosensitivity to cisplatin in a biologically deﬁned subset of primary breast cancers. J Clin Invest 117:1370-1380, 2007 17. Zangen R, Ratovitski E, Sidransky D: DeltaNp63alpha levels correlate with clinical tumor response to cisplatin. Cell Cycle 4:1313-1315, 2005 18. Fomenkov A, Zangen R, Huang YP, et al: RACK and stratiﬁn target DeltaNp63alpha for proteasome degradation in head and neck squamous cell carcinoma cells upon DNA damage. Cell Cycle 3:1285-1295, 2004 19. von Minckwitz G, Schneeweiss A, Loibl S, et al: Neoadjuvant carboplatin in patients with triple-negative and HER2-positive early breast cancer (GeparSixto; GBG 66): A randomised phase 2 trial. Lancet Oncol 15:747-756, 2014 20. Sikov WM, Berry DA, Perou CM, et al: Impact of the addition of carboplatin and/or bevacizumab to neoadjuvant once-per-week paclitaxel followed by dosedense doxorubicin and cyclophosphamide on pathologic complete response rates in stage II to III triple-negative breast cancer: CALGB 40603 (Alliance). J Clin Oncol 33:13-21, 2015 21. Muss HB, Berry DA, Cirrincione CT, et al: Adjuvant chemotherapy in older women with early-stage breast cancer. N Engl J Med 360:2055-2065, 2009 22. Haller DG, Cassidy J, Clarke SJ, et al: Potential regional differences for the tolerability proﬁles of ﬂuoropyrimidines. J Clin Oncol 26:2118-2123, 2008 23. Kaufmann M, Maass N, Costa SD, et al: First-line therapy with moderate dose capecitabine in metastatic breast cancer is safe and active: Results of the MONICA trial. Eur J Cancer 46:3184-3191, 2010 
+
+2550 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 24. Rossi D, Alessandroni P, Catalano V, et al: Safety proﬁle and activity of lower capecitabine dose in patients with metastatic breast cancer. Clin Breast Cancer 7: 857-860, 2007 25. Naughton M: Evolution of capecitabine dosing in breast cancer. Clin Breast Cancer 10:130-135, 2010 26. Freidlin B, Korn EL, George SL, et al: Randomized clinical trial design for assessing noninferiority when superiority is expected. J Clin Oncol 25:5019-5023, 2007 27. Jennison C, Turnbull B: Interim analyses: The repeated conﬁdence interval approach. J R Stat Soc 51:305-361, 1989 28. O’Brien PC, Fleming TR: A multiple testing procedure for clinical trials. Biometrics 35:549-556, 1979 29. Kaplan EL, Meier P: Non-parametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 30. Telli ML, Hellyer J, Audeh W, et al: Homologous recombination deﬁciency (HRD) status predicts response to standard neoadjuvant chemotherapy in patients with triple-negative or BRCA1/2 mutation-associated breast cancer. Breast Cancer Res Treat 168:625-630, 2018 31. Cortazar P, Zhang L, Untch M, et al: Pathological complete response and long-term clinical beneﬁt in breast cancer: The CTNeoBC pooled analysis. Lancet 384: 164-172, 2014 32. Tutt A, Ellis P, Kilburn LS, et al: The TNT trial: A randomized phase III trial of carboplatin (C) compared with docetaxel (D) for patients with metastatic or recurrent locally advanced triple negative or BRCA1/2 breast cancer. San Antonio Breast Cancer Symposium, San Antonio, TX, December 9-13, 2014 (abstr S3-01) 33. Schrijver WA, Jiwa LS, van Diest PJ, et al: Promoter hypermethylation proﬁling of distant breast cancer metastases. Breast Cancer Res Treat 151:41-55, 2015 34. Mayer EL, Abramson V, Jankowitz R, et al: TBCRC 030: A phase II study of preoperative cisplatin versus paclitaxel in triple-negative breast cancer: Evaluating the homologous recombination deﬁciency (HRD) biomarker. Ann Oncol 31:1518-1525, 2020 35. Lluch A, Barrios CH, Torrecillas L, et al: Phase III trial of adjuvant capecitabine after standard neo-/adjuvant chemotherapy in patients with early triple-negative breast cancer (GEICAM/2003-11_CIBOMA/2004-01). J Clin Oncol 38:203-213, 2020 36. de Melo Gagliato D, Gonzalez-Angulo AM, Lei X, et al: Clinical impact of delaying initiation of adjuvant chemotherapy in patients with breast cancer. J Clin Oncol 32:735-744, 2014 37. Radovich M, Jiang G, Hancock BA, et al: Association of circulating tumor DNA and circulating tumor cells after neoadjuvant chemotherapy with disease recurrence in patients with triple-negative breast cancer: Preplanned secondary analysis of the BRE12-158 randomized clinical trial. JAMA Oncol 6: 1410-1415, 2020 
+
+n n n 
+
+Journal of Clinical Oncology 
+
+2551 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Randomized Phase III Postoperative Trial of Platinum-Based Chemotherapy Versus Capecitabine in Patients With Residual Triple-Negative Breast Cancer Following Neoadjuvant Chemotherapy: ECOG-ACRIN EA1131 The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Ingrid A. Mayer Consulting or Advisory Role: Novartis, AstraZeneca, Lilly, Genentech, GlaxoSmithKline, Immunomedics, Macrogenics, Pﬁzer, AbbVie, Seattle Genetics, Puma Biotechnology, Cyclacel, Blueprint Medicines Research Funding: Novartis, Pﬁzer, Genentech Carlos L. Arteaga Leadership: American Association for Cancer Research Stock and Other Ownership Interests: Provista Diagnostics, Y-Trap Inc Consulting or Advisory Role: Novartis, Lilly, Sanoﬁ, Radius Health, Taiho Pharmaceutical, Puma Biotechnology, Merck, H3 Biomedicine, Symphogen, Origimed, Petra Pharma, Third Rock Ventures, Immunomedics, Daiichi Sankyo, Athenex, G1 Therapeutics, Clovis Oncology Research Funding: Puma Biotechnology, Pﬁzer, Lilly, Radius Health, Takeda, Bayer Other Relationship: Susan G. Komen for the Cure William F. Symmans Stock and Other Ownership Interests: ISIS Pharmaceuticals, Nuvera Biosciences, Delphi Diagnostics, Eiger BioPharmaceuticals Consulting or Advisory Role: Merck, Almac Diagnostics Patents, Royalties, Other Intellectual Property: Intellectual Property, Intellectual Property (expired) Travel, Accommodations, Expenses: Luminex, Merck Uncompensated Relationships: Delphi Diagnostics Ben H. Park Leadership: Loxo Stock and Other Ownership Interests: Loxo, Celcuity Honoraria: AstraZeneca Consulting or Advisory Role: Horizon Discovery, Foundation Medicine, Loxo, Casdin Capital, H3 Biomedicine, Jackson Laboratory for Genomic Medicine, Lilly, Celcuity, Sermonix Pharmaceuticals, Pathovax Research Funding: AbbVie, Pﬁzer, GE Healthcare, Lilly Patents, Royalties, Other Intellectual Property: Royalties paid through inventions at Johns Hopkins University by Horizon Discovery Ltd Travel, Accommodations, Expenses: Lilly, Loxo Uncompensated Relationships: Tempus Amye J. Tevaarwerk Other Relationship: Epic Systems Karen L. Smith Stock and Other Ownership Interests: AbbVie, Abbott Laboratories Honoraria: ASiM CME Research Funding: Pﬁzer Margaret Block Consulting or Advisory Role: Theranostics Health 
+
+Lisa E. Flaum Consulting or Advisory Role: Seattle Genetics, Novartis Speakers’ Bureau: Seattle Genetics, Novartis, AstraZeneca Erica L. Mayer Consulting or Advisory Role: Lilly, Novartis, Sanoﬁ, Eisai, AstraZeneca Research Funding: Pﬁzer William M. Sikov Honoraria: UpToDate Speakers’ Bureau: Lilly, Daiichi Sankyo, Eisai, Seagen Lynne I. Wagner Stock and Other Ownership Interests: Johnson & Johnson, Lilly, Gilead Sciences Consulting or Advisory Role: Celgene, Athenex Travel, Accommodations, Expenses: Celgene Angela M. DeMichele Research Funding: Pﬁzer, Genentech, Calithera Biosciences, Novartis Joseph A. Sparano Stock and Other Ownership Interests: Metastat Consulting or Advisory Role: Genentech/Roche, Novartis, AstraZeneca, Celgene, Lilly, Celldex, Pﬁzer, Prescient Therapeutics, Juno Therapeutics, Merrimack, Adgero Biopharmaceuticals, Cardinal Health, GlaxoSmithKline, CStone Pharmaceuticals, Epic Sciences, Daiichi Sankyo, BMSi Speakers’ Bureau: Eisai, Certara Research Funding: Prescient Therapeutics, Deciphera, Genentech/Roche, Merck, Novartis, Merrimack, Radius Health, Olema Pharmaceuticals Travel, Accommodations, Expenses: Menarini Silicon Biosystems, Roche/ Genentech, Adgero Biopharmaceuticals, Myriad Genetics, Pﬁzer, AstraZeneca, Rhenium Medical Antonio C. Wolff Consulting or Advisory Role: Ionis Pharmaceuticals Patents, Royalties, Other Intellectual Property: Antonio Wolff has been named as inventor on one or more issued patents or pending patent applications relating to methylation in breast cancer, and has assigned his rights to JHU, and participates in a royalty sharing agreement with JHU Open Payments Link: https://openpaymentsdata.cms.gov/physician/357301/ summary Kathy D. Miller Consulting or Advisory Role: Merck, Genentech/Roche, Athenex, AstraZeneca, Bristol Myers Squibb/Celgene Research Funding: Taiho Pharmaceutical, Novartis, Seattle Genetics, Pﬁzer, Astex Pharmaceuticals, British Biotech, CytomX Therapeutics No other potential conﬂicts of interest were reported. 
+
+Bernard Tawﬁk Other Relationship: Ipsen 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+APPENDIX 
+
+Potential Outcomes 
+
+Alternative Hypothesis HR = 0.754 
+
+Null Hypothesis HR = 1.154 
+
+Noninferiority and superiority of platinum Noninferiority of platinum Noninferiority of platinum Inconclusive 
+
+Observed outcome in EA1131 
+
+Inferiority of platinum Inferiority of platinum 0.754 
+
+1.0 
+
+1.154 
+
+HR for platinum v capecitabine 
+
+Platinum Better 
+
+Capecitabine Better 
+
+FIG A1. EA1131 interim analysis monitoring (futility and efﬁcacy). The graph outlines the range of possible outcomes for EA1131, designed to demonstrate noninferiority with superiority alternative (hybrid design). The primary analysis for the primary objective tested the hypothesis that platinum chemotherapy was not inferior to capecitabine. The null hypothesis of inferiority of platinum was deﬁned as an HR 5 1.154 (noninferiority margin). If noninferiority was demonstrated, the secondary hypothesis of no difference versus superiority of platinum would then be tested. At each interim analysis, if the conditional power (ie, probability of eventually rejecting the null of inferiority) of the assigned treatment analysis was , 10% and the lower boundary of the two-sided 95% RCI was . 0.754 (ie, the alternative hypothesis for the noninferiority test), the trial would then be stopped because of futility. As the HR for platinum versus capecitabine was 1.09 (95% RCI, 0.62 to 1.90) and the conditional power was 6%, the trial was stopped by the Data Safety Monitoring Committee because of futility, since it was unlikely that the trial would be able to show noninferiority or superiority of the platinum arm. HR, hazard ratio; RCI, repeated CI. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Mayer et al 
+
+TABLE A1. Subgroup Analysis for iDFS in All Randomly Assigned Patients Subgroup 
+
+No. 
+
+HR for Platinum or Capecitabine (95% CI) 
+
+Basal subtype 
+
+310 
+
+1.08 (0.75 to 1.54) 
+
+Nonbasal subtype 
+
+88 
+
+1.60 (0.69 to 3.72) 
+
+II 
+
+265 
+
+1.33 (0.85 to 2.06) 
+
+III 
+
+147 
+
+0.90 (0.56 to 1.48) 
+
+1-3 
+
+292 
+
+1.06 (0.69 to 1.62) 
+
+.3 
+
+120 
+
+1.26 (0.75 to 2.11) 
+
+No 
+
+39 
+
+1.63 (0.55 to 4.89) 
+
+Yes 
+
+373 
+
+1.08 (0.76 to 1.52) 
+
+, 65 
+
+354 
+
+1.14 (0.80 to 1.63) 
+
+$ 65 
+
+58 
+
+1.13 (0.50 to 2.58) 
+
+White 
+
+305 
+
+1.07 (0.72 to 1.57) 
+
+Black 
+
+68 
+
+1.48 (0.70 to 3.15) 
+
+Non-Hispanic 
+
+354 
+
+1.12 (0.78 to 1.59) 
+
+Hispanic 
+
+41 
+
+1.54 (0.53 to 4.46) 
+
+0 
+
+295 
+
+1.04 (0.71 to 1.52) 
+
+1 
+
+116 
+
+1.42 (0.76 to 2.68) 
+
+Intrinsic subtype 
+
+Clinical stage at diagnosis (stratiﬁcation factor) 
+
+ypT diameter (stratiﬁcation factor), cm 
+
+Anthracycline exposure (stratiﬁcation factor) 
+
+Age at study entry, years 
+
+Race 
+
+Ethnicity 
+
+ECOG PS at study entry 
+
+Abbreviations: ECOG PS, Eastern Cooperative Oncology Group performance status; HR, hazard ratio; iDFS, invasive disease-free survival; ypT, tumor diameter by pathologic analysis. 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 23 
+
+Platinum or Capecitabine in Residual TNBC After Neoadjuvant Chemo 
+
+TABLE A2. Treatment Cycles and Dose Modiﬁcations Platinum Subgroup 
+
+Carboplatin 
+
+No. of patients treated 
+
+Cisplatin 
+
+Total 
+
+Capecitabine 
+
+164 
+
+21 
+
+185 
+
+198 
+
+Patients with basal subtype who completed all planned cycles of treatment, No. (%) 
+
+94 (79.0) 
+
+16 (80.0) 
+
+110 (79.1) 
+
+112 (77.2) 
+
+All randomly assigned patients who completed all planned cycles of treatment, No. (%) 
+
+131 (82.4) 
+
+17 (81.0) 
+
+148 (82.2) 
+
+148 (78.7) 
+
+Patients with dose modiﬁcation, No. (%) 
+
+88 (53.7) 
+
+9 (42.9) 
+
+97 (52.4) 
+
+145 (73.2) 
+
+Patients with dose reduction, No. (%) 
+
+71 (43.3) 
+
+6 (28.6) 
+
+77 (41.6) 
+
+— 
+
+Dose delayed 
+
+31 
+
+2 
+
+33 
+
+— 
+
+Dose delayed and reduced 
+
+68 
+
+3 
+
+71 
+
+— 
+
+Dose discontinued 
+
+3 
+
+1 
+
+4 
+
+— 
+
+Dose modiﬁcation type, No. 
+
+Dose held 
+
+2 
+
+0 
+
+2 
+
+— 
+
+Dose reduced 
+
+26 
+
+3 
+
+29 
+
+— 
+
+Adverse events or side effects 
+
+112 
+
+8 
+
+120 
+
+— 
+
+Patient refusal or noncompliance 
+
+1 
+
+0 
+
+1 
+
+— 
+
+Scheduling 
+
+3 
+
+0 
+
+3 
+
+— 
+
+Other 
+
+14 
+
+1 
+
+15 
+
+— 
+
+Dose modiﬁcation reason, No. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 157.254.193.15 on October 12, 2022 from 157.254.193.015 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+ 

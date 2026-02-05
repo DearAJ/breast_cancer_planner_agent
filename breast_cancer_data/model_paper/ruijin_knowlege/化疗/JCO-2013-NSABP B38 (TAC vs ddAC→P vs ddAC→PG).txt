@@ -1,0 +1,1085 @@
+VOLUME 31 䡠 NUMBER 26 䡠 SEPTEMBER 10 2013 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Definitive Results of a Phase III Adjuvant Trial Comparing Three Chemotherapy Regimens in Women With Operable, Node-Positive Breast Cancer: The NSABP B-38 Trial Sandra M. Swain, Gong Tang, Charles E. Geyer Jr, Priya Rastogi, James N. Atkins, Paul P. Donnellan, Louis Fehrenbacher, Catherine A. Azar, André Robidoux, Jonathan A. Polikoff, Adam M. Brufsky, David D. Biggs, Edward A. Levine, John L. Zapas, Louise Provencher, Donald W. Northfelt, Soonmyung Paik, Joseph P. Costantino, Eleftherios P. Mamounas, and Norman Wolmark Author affiliations appear at the end of this article. Published online ahead of print at www.jco.org on August 12, 2013. Supported by Grants No. U10-CA37377, U10-CA-12027, U10-CA-69651, and U10-CA-69974 (National Surgical Adjuvant Breast and Bowel Project) from the Public Health Service; No. CA 44066-25 (A.R./Centre hopitalier de l’Université de Montréal), and No. U10-CA-25224 (North Central Cancer Treatment Group) from the National Cancer Institute, National Institutes of Health, Department of Health and Human Services. Eli Lilly and Amgen provided funding and/or drug for this trial. Presented at the 48th Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, June 1-5, 2012. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical trial information: NCT00093795. Corresponding author: Sandra M. Swain, MD, Washington Cancer Institute, MedStar Washington Hospital Center, 110 Irving St NW, Washington, DC 20010; e-mail: sandra.m.swain@ medstar.net. © 2013 by American Society of Clinical Oncology 
+
+A 
+
+B 
+
+S 
+
+T 
+
+A 
+
+C 
+
+T 
+
+Purpose Anthracycline- and taxane-based three-drug chemotherapy regimens have proven benefit as adjuvant therapy for early-stage breast cancer. This trial (NSABP B-38; Combination Chemotherapy in Treating Women Who Have Undergone Surgery for Node-Positive Breast Cancer) asked whether the incorporation of a fourth drug could improve outcomes relative to two standard regimens and provided a direct comparison of those two regimens. Patients and Methods We randomly assigned 4,894 women with node-positive early-stage breast cancer to six cycles of docetaxel, doxorubicin, and cyclophosphamide (TAC), four cycles of dose-dense (DD) doxorubicin and cyclophosphamide followed by four cycles of DD paclitaxel (P; DD AC3 P), or DD AC3 P with four cycles of gemcitabine (G) added to the DD paclitaxel (DD AC3 PG). Primary granulocyte colony-stimulating factor support was required; erythropoiesis-stimulating agents (ESAs) were used at the investigator’s discretion. Results There were no significant differences in 5-year disease-free survival (DFS) between DD AC3 PG and DD AC3 P (80.6% v 82.2%; HR, 1.07; P ⫽ .41), between DD AC3 PG and TAC (80.6% v 80.1%; HR, 0.93; P ⫽ .39), in 5-year overall survival (OS) between DD AC3 PG and DD AC3 P (90.8% v 89.1%; HR, 0.85; P ⫽ .13), between DD AC3 PG and TAC (90.8% v 89.6%; HR, 0.86; P ⫽ .17), or between DD AC3 P versus TAC for DFS (HR, 0.87; P ⫽ .07) and OS (HR, 1.01; P ⫽ .96). Grade 3 to 4 toxicities for TAC, DD AC3 P, and DD AC3 PG, respectively, were febrile neutropenia (9%, 3%, 3%; P ⬍ .001), sensory neuropathy (⬍ 1%, 7%, 6%; P ⬍ .001), and diarrhea (7%, 2%, 2%; P ⬍ .001). Exploratory analyses for ESAs showed no association with DFS events (HR, 1.02; P ⫽ .95). Conclusion Adding G to DD AC3 P did not improve outcomes. No significant differences in efficacy were identified between DD AC3 P and TAC, although toxicity profiles differed. J Clin Oncol 31:3197-3204. © 2013 by American Society of Clinical Oncology 
+
+0732-183X/13/3126w-3197w/$20.00 DOI: 10.1200/JCO.2012.48.1275 
+
+R 
+
+INTRODUCTION 
+
+Adjuvant anthracycline- and taxane-based chemotherapy provides substantial benefits for women diagnosed with node-positive, early-stage breast cancer.1-11 However, a significant proportion of women treated with adjuvant chemotherapy still develop disease recurrence, which necessitates additional studies that evaluate alternative treatment strategies. Doxorubicin (A) and cyclophosphamide (C) followed by paclitaxel (P) on a dose-dense (DD) schedule (DD AC3 P) is considered an optimal 
+
+P-based adjuvant regimen for node-positive primary breast cancer.2 The addition of gemcitabine (G) to P has shown improved outcomes in women with metastatic breast cancer. Therefore, in the National Surgical Adjuvant Breast and Bowel Project B-38 (NSABP B-38) trial (Combination Chemotherapy in Treating Women Who Have Undergone Surgery for Node-Positive Breast Cancer), we chose to test whether the addition of a fourth agent, G, to DD AC3 P (DD AC3 PG) would provide a disease-free survival (DFS) benefit in the adjuvant setting.12-14 Moreover, because docetaxel, A, and C (TAC) is also considered an optimal © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+3197 
+
+Swain et al 
+
+docetaxel-based adjuvant regimen, we designed this trial to also compare TAC with the investigational DD AC3 PG regimen.3,9,10 Because TAC and DD AC3 P have different toxicity profiles and have not been directly compared in a single prospective trial, this design provided an opportunity to directly compare toxicities and relative efficacy between these two standard regimens. 
+
+PATIENTS AND METHODS Patients Women with histologically proven node-positive invasive breast cancer who had undergone primary surgery with a total mastectomy or lumpectomy with clear margins of resection were eligible for random assignment. The following staging criteria were required: primary tumor stage pT1, pT2, or pT3 and ipsilateral lymph node stage pN1, pN2a, pN3a, or pN3b. Analysis of estrogen receptor (ER) expression and the intended plan for radiotherapy were required before entry into the study; progesterone receptor (PR) status was required if ER status was negative.15 Before random assignment, a history and physical examination, chest radiography, bilateral mammography, and electrocardiography were required. Patients with contralateral breast cancer or a prior history of breast cancer, including ductal carcinoma in situ, were excluded. Patients were also excluded if they had cardiac disease that precluded the use of anthracyclines, grade 2 or greater peripheral neuropathy, or if they were pregnant. Approximately 1 year after activation (in August 2005), the protocol was amended to exclude patients with human epidermal growth factor receptor type 2–positive tumors. Patients with human epidermal growth factor receptor type 2–positive tumors who initiated therapy before the amendment were allowed to receive trastuzumab following protocol therapy. The study was conducted after approval by the institutional review board or ethics committee of each participating institution. Written informed consent was required. Study Design The NSABP and members of the North American Breast Intergroup conducted this randomized phase III study. Patients were stratified according to the number of positive lymph nodes (1 to 3, 4 to 9, or ⱖ 10), hormone receptor status (ER- and PR-negative, ER- and/or PR-positive), and type of surgery and planned radiotherapy (lumpectomy plus breast radiotherapy without regional nodal radiotherapy, lumpectomy plus breast radiotherapy with regional nodal radiotherapy, mastectomy without radiotherapy, and mastectomy with postmastectomy radiotherapy). After stratification, patients were randomly assigned by using a biased-coin minimization algorithm to one of the following three treatment regimens: (1) six cycles of concurrently administered A 50 mg/m2 plus C 500 mg/m2 plus docetaxel 75 mg/m2 every 3 weeks (TAC), (2) four cycles of A 60 mg/m2 plus C 600 mg/m2 every 2 weeks followed by four cycles of P 175 mg/m2 every 2 weeks (DD AC3 P), or (3) four cycles of A 60 mg/m2 plus C 600 mg/m2 every 2 weeks followed by four cycles of P 175 mg/m2 plus G 2,000 mg/m2 every 2 weeks (DD AC3 PG). Therapy was discontinued in the event of patient withdrawal, unacceptable toxicity, death, or at the discretion of the investigator. All patients received primary prophylaxis with pegfilgrastim or filgrastim. Erythropoiesis-stimulating agents (ESAs) were allowed and recommended for hemoglobin ⱕ 11 g/dL based on the approved package insert at the time. After completion of chemotherapy, patients with ER- and/or PRpositive tumors received endocrine therapy for a minimum of 5 years. Radiotherapy was to be administered after chemotherapy. Clinical, hematologic, and biochemical assessments were required before each cycle and at 6-month intervals through year 5; clinical assessments were required every 12 months thereafter. Bilateral mammogram was required 12 months from the most recent examination before random assignment, and every 12 months thereafter. Assessments of toxic effects, according to the National Cancer Institute’s Common Terminology Criteria for Adverse Events (version 3), occurred before each cycle starting with cycle 2; the final cycle was assessed at the end of that 21- or 14-day cycle, accordingly. 3198 
+
+© 2013 by American Society of Clinical Oncology 
+
+Statistical Analysis The primary end point was DFS. Events included in DFS were local, regional, or distant breast cancer recurrence, second primary cancer (other than squamous or basal cell carcinoma of the skin or carcinoma in situ of the cervix), and death as a result of any cause if it occurred before these other events. Secondary end points were overall survival (OS), defined as death as a result of any cause; recurrence-free interval, defined as time to first local, regional, or distant recurrence; distant recurrence-free interval, defined as time to distant disease recurrence only; and toxicities of the drug regimens. The study was designed to detect a 25% reduction in the DFS event rate with DD AC3 PG compared with both TAC and DD AC3 P (90% power at a onesided ␣ level of .025), and the final analyses would be performed when the minimum number of DFS events in both pairs of the groups reached 613. The intention-to-treat principle was used for the primary analyses, which was performed on all randomly assigned patients with follow-up. The KaplanMeier method was used to estimate distributions of DFS and OS. Comparisons in DFS and OS among treatment arms were assessed by the stratified log-rank test, controlling for stratification factors. In addition, secondary treatment comparisons were performed in Cox models to control for additional prognostic variables (age, clinical tumor size). The Pearson ␹2 tests with continuity adjustment were used to compare toxicities among treatments and patient subgroups. All tests of significance were based on a two-sided P value using an ␣ level of .05. 
+
+RESULTS 
+
+Patients Between November 3, 2004, and May 3, 2007, 4,894 women were randomly assigned (TAC, 1,630; DD AC3 P, 1,634; DD AC3 PG, 1,630); of these, 4,859 had follow-up data and are included in this analysis (Fig 1). Clinical assessments on cancer recurrence or death were available for 4,841 patients (18 patients without an assessment of cancer status were alive at their last follow-up) and were the basis for the DFS comparison, as well as recurrence-free interval and distant 
+
+Operable breast cancer histologically positive nodes (N = 4,894) Stratification: Number of positive nodes (1-3, 4-9, ≥ 10 nodes) Hormone receptor status (ER and PR negative, ER and/or PR positive) Type of surgery and planned radiotherapy Random assignment 
+
+TAC (n = 1,630) 
+
+AC→P (n = 1,634) 
+
+AC→PG (n = 1,630) 
+
+With follow-up (n = 4,859)* 
+
+TAC (n = 1,617) 
+
+AC → P (n = 1,624) 
+
+AC → PG (n = 1,618) 
+
+Fig 1. CONSORT diagram for enrollment, random assignment, and follow-up of study participants in National Surgical Adjuvant Breast and Bowel Project B-38 trial. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; ER, estrogen receptor; PR, progesterone receptor; TAC, docetaxel, doxorubicin, and cyclophosphamide. (*) No follow-up available on 35 patients. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Dose-Dense Therapy in Node-Positive Breast Cancer: NSABP B-38 
+
+Table 1. Demographic and Baseline Characteristics of the NSABP B-38 Study Population TAC (n ⫽ 1,630) Characteristic Age, years Median Range ⱕ 49 50-59 60-69 ⱖ 70 Menopausal status Premenopausal Postmenopausal Unknown No. of positive nodes 1-3 4-9 ⱖ 10 Hormone receptor statusⴱ Positive Negative Pathologic tumor size, cm 0-2 2.1-4 ⬎4 Unknown Type of surgery† Mastectomy Lumpectomy Unknown Type of radiation therapy Lumpectomy No radiotherapy reported Breast radiotherapy alone Breast plus regional radiotherapy Unknown Mastectomy No radiotherapy Local (chest wall) radiotherapy Regional radiotherapy Unknown 
+
+No. 
+
+AC3 P (n ⫽ 1,634) % 
+
+No. 
+
+AC3 PG (n ⫽ 1,630) % 
+
+No. 
+
+% 
+
+P .98 
+
+51 25-79 
+
+51 24-81 
+
+51 22-82 
+
+704 588 299 39 
+
+43 36 18 2 
+
+715 600 284 35 
+
+44 37 17 2 
+
+715 595 280 40 
+
+44 37 17 2 
+
+741 822 67 
+
+45 50 4 
+
+756 816 62 
+
+46 50 4 
+
+752 818 60 
+
+46 50 4 
+
+1,067 405 158 
+
+65 25 10 
+
+1,068 409 157 
+
+65 25 10 
+
+1,066 404 160 
+
+65 25 10 
+
+1,296 334 
+
+80 20 
+
+1,299 335 
+
+80 20 
+
+1,296 334 
+
+80 20 
+
+656 668 239 67 
+
+40 41 15 4 
+
+630 706 236 62 
+
+39 43 14 4 
+
+668 677 225 60 
+
+41 42 14 4 
+
+812 751 67 
+
+50 46 4 
+
+820 762 62 
+
+50 47 4 
+
+816 754 60 
+
+50 47 4 
+
+.94 
+
+1.00 
+
+1.00 
+
+.64 
+
+.97 
+
+751 24 341 357 29 812 290 158 340 24 
+
+3 45 48 4 36 19 42 3 
+
+762 14 339 386 23 810 282 139 373 16 
+
+2 44 51 3 34 17 46 2 
+
+754 27 328 375 24 816 279 160 351 26 
+
+.32 4 44 50 3 .52 34 20 43 3 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; NSABP B-38, National Surgical Adjuvant Breast and Bowel Project B-38 关trial兴; TAC, docetaxel, doxorubicin and cyclophosphamide. ⴱ Patients must have an estrogen receptor (ER) analysis performed on the primary tumor prior to random assignment. If ER analysis is negative, then progesterone receptor (PR) analysis must be performed. If ER analysis is positive, PR analysis is desired, but not mandatory. Marginal or borderline results (ie, those not definitely negative) were considered positive. †Patients were required to have undergone primary breast cancer surgery to be eligible for study entry. 
+
+recurrence-free interval. The OS analysis was based on the 4,859 patients with follow-up. Baseline characteristics were well balanced between the treatment groups (Table 1). Of the 2,267 patients having undergone lumpectomy, all but 65 (3%) received breast radiotherapy as mandated in the protocol. The majority of treated patients completed chemotherapy treatment as specified in the protocol (91% of patients in the TAC arm; 88% in the DD AC3 P and DD AC3 PG arms). Among the 4,883 patients with treatment information 4%, 9%, and 6% in these three arms, respectively, specifically discontinued protocol therapy because of adverse events or adverse effects (Appendix Table A1, online only). Of the 208 patients who received trastuzumab, www.jco.org 
+
+58 were in the TAC arm, 70 were in the DD AC3 P arm, and 80 were in the DD AC3 PG arm. Efficacy After a median follow-up of 64 months (range, 1 to 87 months), 941 DFS events had been reported (327 in the TAC arm, 294 in the DD AC3 P arm, and 320 in the DD AC3 PG arm). Distribution of the first DFS events by treatment arm is shown in Appendix Table A2 (online only). The 5-year DFS rate for DD AC3 PG (the investigational arm) compared with DD AC3 P was 80.6% versus 82.2% (hazard ratio [HR], 1.07; 95% CI, 0.91 to 1.26; P ⫽ .41). DFS for DD AC3 PG compared with TAC was 80.6% versus 80.1% (HR, 0.93; © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+3199 
+
+Swain et al 
+
+A 
+
+B 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 
+
+Overall Survival (proportion) 
+
+Disease-Free Survival (proportion) 
+
+1.0 
+
+Treatment n Events 5-Year (95% CI) TAC 1,610 327 80.1 (78.0 to 82.0) AC→ P 1,618 294 82.2 (80.2 to 84.0) AC →PG 1,613 320 80.6 (78.5 to 82.5) HR (95% CI) 0.93 (0.80 to 1.09) AC→ PG v TAC AC→ PG v AC→ P 1.07 (0.91 to 1.26) AC→ P v TAC 0.87 (0.74 to 1.01) 
+
+1 
+
+2 
+
+3 
+
+P .39 .41 .07 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+4 
+
+5 
+
+0 
+
+Time Since Random Assignment (years) No. at risk TAC AC→ P AC→ PG 
+
+1,610 1,618 1,613 
+
+1,532 1,554 1,533 
+
+1,424 1,452 1,453 
+
+1,331 1,348 1,350 
+
+1,217 1,240 1,244 
+
+Treatment n Deaths 5-Year (95% CI) TAC 1,617 185 89.6 (88.0 to 91.0) AC→ P 1,624 188 89.1 (87.4 to 90.5) AC→ PG 1,618 167 90.8 (89.3 to 92.1) HR (95% CI) 0.86 (0.70 to 1.07) AC→ PG v TAC AC→ PG v AC→ P 0.85 (0.69 to 1.05) AC→ P v TAC 1.01 (0.82 to 1.23) 
+
+1 
+
+2 
+
+3 
+
+P .17 .13 .96 
+
+4 
+
+5 
+
+Time Since Random Assignment (years) 719 754 730 
+
+No. at risk TAC 1,617 AC→ P 1,624 AC→ PG 1,618 
+
+1,588 1,602 1,596 
+
+1,539 1,557 1,557 
+
+1,487 1,504 1,514 
+
+1,433 1,439 1,446 
+
+913 938 928 
+
+Fig 2. Disease-free survival and overall survival in National Surgical Adjuvant Breast and Bowel Project B-38 trial. Results of Kaplan-Meier analyses for (A) disease-free survival and for (B) overall survival across all three treatment arms. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; HR, hazard ratio; TAC, docetaxel, doxorubicin, and cyclophosphamide. 
+
+95% CI, 0.80 to 1.09; P ⫽ .39). The HR for DFS of DD AC3 P versus TAC was 0.87 (95% CI, 0.74 to 1.01; P ⫽ .07). Corresponding KaplanMeier curves are presented in Figure 2A. Forest plots providing the HR estimates together with their 95% CIs by stratification groups are shown in Figure 3; no significant treatment interactions were noted for any subgroup tested. DFS and comparisons among treatment arms by ER status and nodal status are shown in Appendix Figures A1 and A2 (online only). The results suggested that AC3 P might be superior to TAC in DFS among patients with ER-negative tumors (P ⫽ .09) and those with one to three positive nodes (P ⫽ .08), although the differences were not statistically significant. At the time of this analysis, 540 of the 4,859 patients had died (185 in the TAC arm, 188 in the DD AC3 P arm, and 167 in the DD AC3 PG arm). Death had occurred in 397 patients following breast cancer recurrence or contralateral breast cancer (133 in the TAC arm, 139 in the DD AC3 P arm, and 125 in the DD AC3 PG arm). OS analysis demonstrated similar survival rates across all treatment arms (Fig 2B). The 5-year OS for DD AC3 PG (the investigational arm) compared with DD AC3 P was 90.8% versus 89.1% (HR, 0.85; 95% CI, 0.69 to 1.05; P ⫽ .13), and OS for DD AC3 PG compared with that for TAC was 90.8% versus 89.6% (HR, 0.86; 95% CI, 0.70 to 1.07; P ⫽ .17). The HR for OS of DD AC3 P versus TAC was 1.01 (95% CI, 0.82 to 1.23; P ⫽ .96). OS and comparisons among treatment arms by ER status and nodal status are shown in Appendix Figures A3 and A4 (online only). There were no differences in the three arms in any ER or nodal subset. Five-year recurrence-free interval and distant recurrence-free interval were 85% to 87%, with no differences among the three arms (Kaplan-Meier curves for recurrence-free interval and distant recurrence-free interval are shown in Appendix Fig A5, online only). Results from multiple Cox proportional hazards models, adjusting age at study entry (ⱖ 50 years, ⬍ 50 years), number of positive lymph nodes (4⫹, 1-3), estrogen receptor status, and radiation therapy and type of surgery (lumpectomy, mastectomy without radiotherapy v mastectomy with local or regional radiotherapy) did not show 3200 
+
+© 2013 by American Society of Clinical Oncology 
+
+significant differences in DFS or OS among the three treatment arms (Appendix Tables A3 and A4, online only). Women with one to three positive lymph nodes, ER-positive tumors, and smaller tumors and those who had received radiotherapy had significantly less risk of DFS events or death as a result of any cause. Among patients who received radiotherapy, there was no difference in the risk of DFS events or death between patients with regional radiotherapy and those without regional radiotherapy, regardless of the surgery type. Safety Toxicity from protocol therapy was acceptable for the adjuvant setting and typical for the regimens used. Grade 3 or 4 toxicities of note for TAC, DD AC3 P, and DD AC3 PG, respectively, were febrile neutropenia (9%, 3%, 3%; P ⬍ .001), sensory neuropathy (⬍ 1%, 7%, 6%; P ⬍ .001), and diarrhea (7%, 2%, 2%; P ⬍ .001) shown in Table 2. More patients in the TAC arm were hospitalized than in the other two arms: 347 (7.2%) in TAC, 237 (4.9%) in DD AC3 P, and 266 (5.5%) in DD AC3 PG (P ⬍ .001). Growth factor support with pegfilgrastim or filgrastim was used in 98% of patients receiving TAC at each cycle and 98% of patients in the DD arms at each cycle up to cycle 6, then 94% and 97% at cycle 7, 87% and 93% at cycle 8 for the DD AC3 P and DD AC3 PG arms, respectively. There were 25 deaths on treatment: 13 in the TAC arm, five in the DD AC3 P arm, and seven in the DD AC3 PG arm (P ⫽ .2). The causes of death by arm are listed in Appendix Table A5 (online only). Acute myeloid leukemia or myelodysplastic syndrome were reported in 5, 8, and 11 patients (P ⫽ .46), respectively. Use of ESAs Among 4,841 patients with follow-up data, 2,149 (44.4%) received an ESA (epoetin alfa or darbepoetin alfa). Hemoglobin ⬍ 10 mg/dL was reported in 12% of patients in the TAC arm, 26% in the DD AC3 P arm, and 33% in the DD AC3 PG arm. ESA use occurred in 563 (35%), 760 (47%), and 826 (51%) patients, respectively (P ⬍ .001); 3.7%, 6.3%, and 9.3% received transfusions, respectively JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Dose-Dense Therapy in Node-Positive Breast Cancer: NSABP B-38 
+
+Table 2. Grade 3 or 4 Adverse Events, According to Treatment Group in the NSABP B-38 Trial 
+
+Adverse Event Febrile neutropenia Infection with neutropenia Allergic reaction Anemia (hemoglobin ⬍ 8 g/dL) Arthralgia/ myalgia Fatigue Nausea Vomiting Mucositis Diarrhea Thrombosis or embolism Sensory neuropathy Left ventricular dysfunction 
+
+TAC (n ⫽ 1,607) 
+
+AC3 P (n ⫽ 1,623) 
+
+AC3 PG (n ⫽ 1,612) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+144 
+
+9 
+
+48 
+
+3 
+
+51 
+
+3 
+
+⬍ .001 
+
+22 9 
+
+1 ⬍1 
+
+8 26 
+
+⬍1 2 
+
+3 18 
+
+⬍1 ⬍1 
+
+⬍ .001 .03 
+
+3 
+
+⬍1 
+
+27 
+
+2 
+
+25 
+
+2 
+
+⬍ .001 
+
+66 148 63 45 15 110 
+
+4 9 4 3 ⬍1 7 
+
+186 132 50 45 8 33 
+
+11 8 3 3 ⬍1 2 
+
+196 164 52 49 18 38 
+
+12 10 3 3 1 2 
+
+⬍ .001 .15 .43 .93 .21 ⬍ .001 
+
+37 
+
+2ⴱ 
+
+25 
+
+2 
+
+43 
+
+3 
+
+.23 
+
+16 
+
+⬍1 
+
+117 
+
+7 
+
+99 
+
+6 
+
+⬍ .001 
+
+5 
+
+⬍1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+.04 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; NSABP B-38, National Surgical Adjuvant Breast and Bowel Project B-38 关trial兴; TAC, docetaxel, doxorubicin and cyclophosphamide. ⴱ Grade 5 toxicity in two patients. 
+
+95% CI, 0.90 to 1.17; P ⫽ .95; Fig 4). Compared with patients who did not receive ESAs, treatment efficacy appeared to be similar in those who ever received ESAs (interaction P ⫽ .71). 
+
+Fig 3. Hazard ratios (HRs) for disease-free survival in the National Surgical Adjuvant Breast and Bowel Project B-38 trial, according to stratification groups for (A) doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine (AC3PG) compared with concurrent administration of all three agents (TAC); (B) AC3PG compared with doxorubicin and cyclophosphamide followed by paclitaxel (AC3P); and (C) AC3P compared with TAC. LN, lymph node. 
+
+(P ⬍ .001). Patients who received ESAs had similar incidences of second primary cancer compared with those who did not receive ESA support (4.3% v 3.8%; P ⫽ .35). In an unplanned analysis using a multivariate Cox proportional hazards model, ESA use showed no association with risk of DFS events after adjusting for treatment, age, tumor size, number of positive nodes, and surgery type (HR, 1.02; www.jco.org 
+
+Disease-Free Survival (proportion) 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 W/O EPO With EPO 
+
+0 
+
+1 
+
+n Events P HR (95% CI) 2,692 522 2,149 419 .95 1.02 (0.90 to 1.17) 
+
+2 
+
+3 
+
+4 
+
+5 
+
+2,038 1,663 
+
+1,209 994 
+
+Time (years) No. at risk W/O EPO With EPO 
+
+2,692 2,149 
+
+2,562 2,057 
+
+2,401 1,928 
+
+2,230 1,799 
+
+Fig 4. Kaplan-Meier analyses of disease-free survival with respect to erythropoiesisstimulating agent usage in the National Surgical Adjuvant Breast and Bowel Project B-38 trial. There was no association with risk of disease-free survival with a hazard ratio (HR) of 1.02 (95% CI, 0.90 to 1.17; P ⫽ .95) after adjusting for treatments, age, tumor size, number of positive nodes, and surgery type. EPO, epoetin alfa or darbepoetin alfa (erythropoiesis-stimulating agent). W/O, without. 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+3201 
+
+Swain et al 
+
+DISCUSSION 
+
+In this phase III trial, the addition of G to DD AC3 P did not improve outcomes. In addition, no significant differences in efficacy end points were identified between the investigational arm DD AC3 PG and TAC; however, toxicity profiles differed with greater incidences of febrile neutropenia and diarrhea with TAC and greater incidences of neuropathy, anemia, transfusions, and ESA use with DD AC3 P and AC3 PG. Anthracyclines and taxanes are among the most active and commonly used chemotherapeutic agents for the treatment of early-stage breast cancer. Several dosing regimens are commonly used and include concurrent, standard-dose sequential, and dose-dense sequential regimens. On the basis of the findings of the Cancer and Leukemia Group B 9741 trial (A Randomized Phase III Trial of Sequential Chemotherapy Using Doxorubicin, Paclitaxel, and Cyclophosphamide or Concurrent Doxorubicin and Cyclophosphamide Followed by Paclitaxel at 14 or 21 Day Intervals in Women With Node Positive Stage II/IIIA Breast Cancer), which demonstrated significantly improved DFS and OS with dose-dense regimens over conventionally scheduled regimens (risk ratio, 0.74 [P ⫽ .01] and 0.69 [P ⫽ .01], respectively), DD AC3 P is considered to be one of the most effective P-based adjuvant chemotherapy regimens.2 Similarly, six cycles of TAC, used in this trial, appear to represent an optimal docetaxel-based adjuvant chemotherapy regimen on the basis of findings from two clinical trials.9,10 The Breast Cancer International Research Group 005 trial (Docetaxel in Breast Cancer) showed equal efficacy between six cycles of TAC and four cycles each of sequential AC followed by docetaxel (AC3 T; OS: 88% v 89%, respectively; HR, 0.91; P ⫽ .37), and the NSABP B-30 trial (Combination Chemotherapy in Treating Women With Stage I, Stage II, or Stage IIIA [cT1-3, N0-1, M0] Breast Cancer and Positive Axillary Lymph Nodes) demonstrated that AC3 T was superior to four cycles of TAC with respect to DFS (74% v 69%; HR 0.83; P ⫽ .01). Because efficacy among standard triplet anthracycline- and taxane-based regimens for early-stage breast cancer was not statistically different in this large, randomized study, patients and physicians can choose among the most effective adjuvant chemotherapy regimens on the basis of consideration of toxicity profiles and schedule. In an unplanned analysis of ESA usage, no difference in DFS was observed among treatment arms. The demographics of the two comparison groups were similar, and the analysis was adjusted for stratification factors. Although these results must be considered exploratory since ESA usage was not randomly assigned, the prospectively collected information in this large trial with mature follow-up suggests that usage based on physician discretion did not have an appreciable impact on the outcome of the group of patients who received the supportive therapy. These results support those reported by Moebus et al16,17 showing the use of epoetin alfa with adjuvant DD epirubicin, P, and carboplatin had no influence on DFS and OS in patients with high-risk breast cancer. Nitz et al18 found no difference in event-free survival or OS in patients receiving adjuvant TAC or fluorouracil, epirubicin, and C who were then randomly assigned to receive darbepoetin alfa or not. However, those results contrast with results from the recent PREPARE (Preoperative Epirubicin Paclitaxel Aranesp Study) trial, which showed a trend toward worse DFS in patients randomly assigned to receive darbepoetin alfa as part of a neoadjuvant 3202 
+
+© 2013 by American Society of Clinical Oncology 
+
+chemotherapy regimen for primary breast cancer.19 Unfortunately, further investigation in this area will probably not occur. We have learned much over the last decade about the optimal treatment of early-stage breast cancer. However, attempts to improve outcomes with combination regimens by adding additional chemotherapeutic agents to anthracyclines, taxanes, and cyclophosphamide have not been successful. Trials incorporating capecitabine into anthracycline- and taxane-based regimens in early-stage breast cancer have shown no differences in long-term outcomes.20,21 Furthermore, our study showed no benefit with the addition of G to a sequential anthracycline- and taxane-based regimen, confirming results of the tAnGo trial (tAnGo, A Phase III Randomised Trial Of Gemcitabine In Paclitaxel-Containing, Epirubicin-Based, Adjuvant Chemotherapy For ER/PgR-Poor, Early Stage, Breast Cancer), which showed that the addition of gemcitabine to sequential epirubicin and C followed by P conferred no therapeutic benefit for patients with early-stage breast cancer.22 It also seems unlikely that further changes in dosing schedules will result in appreciable gains. The future lies in studies that will help us determine appropriate treatments based on tumor biology. Examples include the ongoing MINDACT (Microarray in NodeNegative and 1-3 Node-Positive Disease May Avoid Chemotherapy) trial that will study gene expression profiling versus clinical assessment in determining the need for chemotherapy in women with nodenegative breast cancer.23 The TAILORx (Trial Assigning Individualized Options for Treatment) study will help shed light on the benefits of adding chemotherapy to hormonal therapy for women with nodenegative, ER-positive breast cancer with midrange Oncotype DX (Genomic Health, Redwood City, CA) recurrence scores, and the RxPONDER (Rx for Positive Node, Endocrine Responsive Breast Cancer) study will determine the effect of endocrine therapy with or without chemotherapy in patients with node-positive breast cancer who do not have high Oncotype DX recurrence scores.24,25 We have made much progress identifying chemotherapy strategies for the treatment of breast cancer. We must now turn to biology, in which larger gains for success in breast cancer therapy are more likely. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) and/or an author’s immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Authors marked with an asterisk (*) are participants in ASCO’s Disclosure Management System Pilot; their disclosure is not limited to subject matter under consideration in this article and includes payments to themselves, an immediate family member (I), and/or their institutions (INST). For information on the pilot program, or to provide feedback, please visit coipilot.asco.org. Employment or Leadership Position: None Consultant or Advisory Role: Eleftherios P. Mamounas, sanofi-aventis (C), Eli Lilly (C); *Sandra M. Swain, Genentech/Roche (U) Stock Ownership: None Honoraria: André Robidoux, Amgen Canada, Eleftherios P. Mamounas, sanofi-aventis Research Funding: *Sandra M. Swain, JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Dose-Dense Therapy in Node-Positive Breast Cancer: NSABP B-38 
+
+Genentech/Roche, sanofi-aventis, Puma, Safeway, Bristol-Meyers Squibb, BiPar Sciences Expert Testimony: None Patents: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Sandra M. Swain, Gong Tang, Charles E. Geyer Jr, André Robidoux, Edward A. Levine, John L. Zapas, Soonmyung Paik, Joseph P. Costantino, Eleftherios P. Mamounas, Norman Wolmark Administrative support: Sandra M. Swain, Joseph P. Costantino, Norman Wolmark 
+
+REFERENCES 1. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 2. Citron ML, Berry DA, Cirrincione C, et al: Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: First report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin Oncol 21:1431-1439, 2003 3. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 4. Mamounas EP, Bryant J, Lembersky B, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP B-28. J Clin Oncol 23:3686-3696, 2005 5. Roché H, Fumoleau P, Spielmann M, et al: Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: The FNCLCC PACS 01 Trial. J Clin Oncol 24:5664-5671, 2006 6. Coudert B, Campone M, Spielmann M, et al: Benefit of the sequential administration of docetaxel after standard FEC regimen for node-positive breast cancer: Long-term follow-up results of the FNCLCCPACS 01 trial. Presented at the 32nd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 9-13, 2009 (abstr 603) 7. Di Leo A, Francis P, Crown J, et al: Overall survival benefit for sequential doxorubicin-docetaxel compared to concomitant doxorubicin and docetaxel in node-positive breast cancer: 8-Yr. results of the Breast International Group (BIG) 2-98 phase III adjuvant trial. Presented at 32nd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 9-13, 2009 (abstr 601) 8. Laporte S, Jones S, Chapelle C, et al: Consistency of effect of docetaxel-containing adjuvant chemotherapy in patients with early stage breast cancer independent of nodal status: Meta-analysis of 12 randomized clinical trials. Presented at the 32nd Annual San Antonio Breast Cancer Sympo- 
+
+Provision of study materials or patients: Louis Fehrenbacher, Catherine A. Azar, André Robidoux, Adam M. Brufsky, David D. Biggs, Edward A. Levine, Donald W. Northfelt Collection and assembly of data: Sandra M. Swain, Gong Tang, Charles E. Geyer Jr, Priya Rastogi, James N. Atkins, Paul P. Donnellan, Louis Fehrenbacher, Catherine A. Azar, Jonathan A. Polikoff, Adam M. Brufsky, David D. Biggs, Edward A. Levine, John L. Zapas, Louise Provencher, Soonmyung Paik, Joseph P. Costantino Data analysis and interpretation: Sandra M. Swain, Gong Tang, Charles E. Geyer Jr, Priya Rastogi, Louis Fehrenbacher, André Robidoux, Jonathan A. Polikoff, Donald W. Northfelt, Soonmyung Paik Manuscript writing: All authors Final approval of manuscript: All authors 
+
+sium, San Antonio, TX, December 9-13, 2009 (abstr 605) 9. Swain SM, Jeong JH, Geyer CE Jr, et al: Longer therapy, iatrogenic amenorrhea, and survival in early breast cancer. N Engl J Med 362:2053-2065, 2010 10. Eiermann W, Pienkowski T, Crown J, et al: Phase III study of doxorubicin/cyclophosphamide with concomitant versus sequential docetaxel as adjuvant treatment in patients with human epidermal growth factor receptor 2-normal, node-positive breast cancer: BCIRG-005 Trial. J Clin Oncol 29: 3877-3884, 2011 11. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG), Peto R, Davies C, et al: Comparisons between different polychemotherapy regimens for early breast cancer: Meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 379:432-444, 2012 12. Albain KS, Nag SM, Calderillo-Ruiz G, et al: Gemcitabine plus paclitaxel versus paclitaxel monotherapy in patients with metastatic breast cancer and prior anthracycline treatment. J Clin Oncol 26: 3950-3957, 2008 13. Colomer R, Llombart-Cussac A, Lluch A, et al: Biweekly paclitaxel plus gemcitabine in advanced breast cancer: Phase II trial and predictive value of HER2 extracellular domain. Ann Oncol 15:201-206, 2004 14. Colomer R: Gemcitabine and paclitaxel in metastatic breast cancer: A review. Oncology (Williston Park) 18:8-12, 2004 15. American Joint Committee on Cancer (AJCC). AJCC Cancer Staging Manual (ed 6). New York, NY, Springer-verlag, 2002 16. Moebus V, Lueck H, Thomssen C, et al: The impact of epoetin-alpha on anemia, red blood cell (RBC) transfusions, and survival in breast cancer patients (pts) treated with dose-dense sequential chemotherapy: Mature results of an AGO phase III study (ETC trial). J Clin Oncol 25: 20s, 2007 (suppl; abstr 569) 17. Moebus V, Jackisch C, Lueck HJ, et al: Intense dose-dense sequential chemotherapy with epirubicin, paclitaxel, and cyclophosphamide compared with conventionally scheduled chemotherapy in high-risk primary breast cancer: Mature results of an AGO phase III study. J Clin Oncol 28:2874-2880, 2010 18. Nitz U, Gluz O, Oberhoff C, et al: Adjuvant chemotherapy with or without darbepoetin alpha in 
+
+node-positive breast cancer: Survival and quality of life analysis from the prospective randomized WSG ARA Plus trial. Presented as a poster discussion at the 34th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 6-10, 2011 (abstr PD07-06) 19. Untch M, von Minckwitz G, Konecny GE, et al: PREPARE trial: A randomized phase III trial comparing preoperative, dose-dense, dose-intensified chemotherapy with epirubicin, paclitaxel, and CMF versus a standard-dosed epirubicin-cyclophosphamide followed by paclitaxel with or without darbepoetin alfa in primary breast cancer—Outcome on prognosis. Ann Oncol 22:1999-2006, 2011 20. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: FinXX final 5-year analysis: Results of the randomised, open label, phase III trial in medium-to-high risk early breast cancer. Presented at the 33rd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr S4-1) 21. O’Shaughnessy J, Paul D, Stokoe C, et al: First efficacy results of a randomized, open-label, phase II study of adjuvant doxorubicin plus cyclophosphamide, followed by docetaxel with or without capecitabine, in high-risk early breast cancer. Presented at the 33rd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr S4-2) 22. Poole CJ, Hiler L, Howard HC, et al: tAnGo: A randomized phase III trial of gemcitabine (gem) in paclitaxel-containing, epirubicin/cyclophosphamidebased, adjuvant chemotherapy (CT) for women with early-stage breast cancer (EBC). J Clin Oncol 26:8s, 2008 (suppl; abstr 506) 23. ClinicalTrials.gov: Genetic Testing or Clinical Assessment in Determining the Need for Chemotherapy in Women with Breast Cancer That Involves No More Than 3 Lymph Nodes. http://clinicaltrials.gov/ct2/show/ NCT00433589?term⫽mindact&rank⫽1 24. ClinicalTrials.gov: Hormone Therapy With or Without Combination Chemotherapy in Treating Women Who Have Undergone Surgery for Node-Negative Breast Cancer (The TAILORx Trial). http://clinicaltrials.gov/ct2/ show/NCT00310180?term⫽NCT00310180&rank⫽1 25. ClinicalTrials.gov: Tamoxifen Citrate, Letrozole, Anastrozole, or Exemestane With or Without Chemotherapy in Treating Patients with Invasive RxPONDER Breast Cancer. http://clinicaltrials.gov/ct2/show/ NCT01272037?term⫽NCT01272037&rank⫽1 
+
+Affiliations Sandra M. Swain, Gong Tang, Charles E. Geyer Jr, Priya Rastogi, James N. Atkins, Paul P. Donnellan, Louis Fehrenbacher, Catherine A. Azar, André Robidoux, Jonathan A. Polikoff, Adam M. Brufsky, David D. Biggs, Edward A. Levine, John L. Zapas, Louise Provencher, Soonmyung Paik, Joseph P. Costantino, Eleftherios P. Mamounas, and Norman Wolmark, National Surgical Adjuvant Breast and Bowel Project (NSABP); www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+3203 
+
+Swain et al 
+
+Norman Wolmark, Allegheny General Hospital, Allegheny Health Network; Gong Tang and Joseph P. Costantino, NSABP Biostatistical Center and University of Pittsburgh Graduate School of Public Health; Priya Rastogi, University of Pittsburgh Cancer Institute; Adam M. Brufsky, Magee-Womens Hospital of University of Pittsburgh Medical Center, Pittsburgh, PA; Sandra M. Swain, MedStar Washington Hospital Center, Washington, DC; Charles E. Geyer Jr, Virginia Commonwealth University, Richmond, VA; James N. Atkins, Southeast Cancer Control Consortium-Community Clinical Oncology Program, Goldsboro; Edward A. Levine, Wake Forest University, Winston-Salem, NC; Paul P. Donnellan, University Hospital, Galway, and the All-Ireland Cooperative Oncology Research Group, Dublin, Ireland; Louis Fehrenbacher, Kaiser Permanente Northern California, Vallejo; Jonathan A. Polikoff, Kaiser Permanente Southern California, San Diego, CA; Catherine A. Azar, Kaiser Permanente, Denver, CO; André Robidoux, Centre hopitalier de l’Université de Montréal (CHUM), Montréal; Louise Provencher, CHU de Québec, Hôpital du Saint-Sacrement, Québec City, QC, Canada; David D. Biggs, Helen F. Graham Cancer Center, Christiana Care Health System, Newark, DE; John L. Zapas, Medstar Franklin Square Medical Center, Baltimore, MD; Donald W. Northfelt, Mayo Clinic Arizona, Scottsdale, AZ; and Eleftherios P. Mamounas, MD Anderson Cancer Center, Orlando, FL. ■ ■ ■ 
+
+Journal of Oncology Practice Available on PubMed Central Full text for all Journal of Oncology Practice (JOP) articles is available on the NIH PubMed Central archive 4 months after publication. Content is then delivered to PubMed, a metadata repository overseen by the National Library of Medicine and used by many scientific, technical, and medical researchers, making JOP material discoverable in PubMed. Find yourself in PubMed. Submit your manuscript to JOP at jop.msubmit.net. 
+
+3204 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Dose-Dense Therapy in Node-Positive Breast Cancer: NSABP B-38 
+
+Appendix 
+
+Table A1. Treatment Discontinuation (N ⫽ 4,883) TAC 
+
+AC3 P 
+
+AC3 PG 
+
+Total 
+
+Variable 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+Treatment completed per protocol Adverse events/complications Patient withdrawal or refusal Alternative therapy Death, recurrence or second primary cancer Other Total 
+
+1,485 66 39 10 11 13 1,624 
+
+91 4 2 ⬍1 ⬍1 ⬍1 
+
+1,431 141 32 7 8 12 1,631 
+
+88 9 2 ⬍1 ⬍1 ⬍1 
+
+1,437 105 48 13 5 20 1,628 
+
+88 6 3 ⬍1 ⬍1 1 
+
+4,353 312 119 30 24 45 4,883 
+
+89 6 2 ⬍1 ⬍1 ⬍1 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; TAC, docetaxel, doxorubicin and cyclophosphamide. 
+
+Table A2. First DFS Events in the Intention-to-Treat Population in the NSABP B-38 Trial TAC (n ⫽ 1,610) 
+
+AC3 P (n ⫽ 1,618) 
+
+AC3 PG (n ⫽ 1,613) 
+
+Total (N ⫽ 4,841) 
+
+Event Type 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+Recurrence Locoregional Distant Contralateral breast cancer Other second primary Death due to other causes Overall number of DFS events 
+
+47 188 21 42 29 327 
+
+3 12 1 3 2 20 
+
+44 176 21 33 20 294 
+
+3 11 1 2 1 18 
+
+59 181 27 38 15 320 
+
+4 11 2 2 1 20 
+
+150 545 69 113 64 941 
+
+3 11 1 2 1 19 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; DFS, disease-free survival; NSABP B-38, National Surgical Adjuvant Breast and Bowel Project B-38 关trial兴; TAC, docetaxel, doxorubicin and cyclophosphamide. 
+
+Table A3. Multiple Cox Proportional Hazard Model for DFS in the NSABP B-38 Trial Variable 
+
+HR 
+
+95% CI 
+
+P 
+
+AC3P v TAC AC3PG v TAC Age ⱖ 50 v ⬍ 50 years 4⫹ nodes v 1-3 nodes ER-positive v ER-negative Tumor size (cm)ⴱ Mastectomy ⫹ no radiotherapy v mastectomy ⫹ radiotherapy Lumpectomy v mastectomy ⫹ radiotherapy 
+
+0.89 0.96 0.91 2.03 0.44 1.18 1.36 1.05 
+
+0.75 to 1.04 0.82 to 1.13 0.80 to 1.04 1.75 to 2.36 0.39 to 0.51 1.11 to 1.24 1.09 to 1.69 0.89 to 1.24 
+
+.15 .62 .18 ⬍ .001 ⬍ .001 ⬍ .001 .007 .57 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; DFS, disease-free survival; ER, estrogen receptor; HR, hazard ratio; NSABP B-38, National Surgical Adjuvant Breast and Bowel Project B-38 关trial兴; TAC, docetaxel, doxorubicin and cyclophosphamide. ⴱ All tumors with size larger than 5 cm were assigned as 5 cm. 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Swain et al 
+
+Table A4. Multiple Cox Proportional Hazard Model for OS in the NSABP B-38 Trial Variable 
+
+HR 
+
+95% CI 
+
+P 
+
+AC3P v TAC AC3PG v TAC Age ⱖ 50 v ⬍ 50 years 4⫹ nodes v 1-3 nodes ER-positive v ER-negative Tumor size (cm)ⴱ Mastectomy ⫹ no radiotherapy v mastectomy ⫹ radiotherapy Lumpectomy v mastectomy ⫹ radiotherapy 
+
+1.04 0.91 1.01 2.89 0.35 1.17 1.33 0.97 
+
+0.84 to 1.29 0.73 to 1.13 0.84 to 1.21 2.36 to 3.55 0.29 to 0.42 1.09 to 1.27 0.99 to 1.79 0.77 to 1.20 
+
+.70 .38 .92 ⬍ .001 ⬍ .001 ⬍ .001 .06 .75 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; ER, estrogen receptor; HR, hazard ratio; NSABP B-38, National Surgical Adjuvant Breast and Bowel Project B-38 关trial兴; OS, overall survival; TAC, docetaxel, doxorubicin and cyclophosphamide. ⴱ All tumors with size larger than 5 cm were assigned as 5 cm. 
+
+Table A5. Reported Causes of Deaths on Treatment No. of Patients Toxicity 
+
+TAC 
+
+AC3 P 
+
+AC3 PG 
+
+Total 
+
+Cardiac ischemia/infraction Pericarditis Death not associated with CTCAE term “death NOS” Diabetes Colitis GI small bowel necrosis, NOS CNS hemorrhage Liver dysfunction Blood infection (documented clinically) Lung infection (pneumonia; documented clinically) Peritoneal cavity infection (documented clinically) Infection, other (specify) Infection with normal blood ANC Hypoglycemia Pneumonitis Pulmonary, other (specify) Thrombosis/thrombus/embolism Total 
+
+1 0 0 0 0 1 0 1 3 1 0 1 1 1 0 1 2 13 
+
+0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 5 
+
+0 0 0 1 1 0 1 2 0 0 0 0 1 0 0 1 0 7 
+
+1 1 1 1 1 1 1 3 3 1 1 1 3 1 1 2 2 25 
+
+Abbreviations: AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; ANC, absolute neutrophil count; CTCAE, Common Terminology Criteria for Adverse Events; NOS, not otherwise specified; TAC, docetaxel, doxorubicin and cyclophosphamide. 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Dose-Dense Therapy in Node-Positive Breast Cancer: NSABP B-38 
+
+B 
+
+1.0 
+
+Disease-Free Survival (proportion) 
+
+Disease-Free Survival (proportion) 
+
+A 
+
+0.8 
+
+0.6 
+
+Treatment n Events 5-Year (95% CI) TAC 326 111 65.8 (60.2 to 70.9) AC→ P 334 93 72.4 (67.1 to 77.0) AC→ PG 330 109 67.5 (62.0 to 72.4) 
+
+0.4 
+
+HR (95% CI) 0.88 (0.67 to 1.15) AC→ PG v TAC AC→ PG v AC→ P 1.10 (0.83 to 1.46) AC→ P v TAC 0.78 (0.59 to 1.04) 
+
+0.2 
+
+0 
+
+1 
+
+2 
+
+P .35 .50 .09 
+
+3 
+
+4 
+
+1.0 
+
+0.8 
+
+0.6 
+
+Treatment n Events 5-Year (95% CI) TAC 1,219 200 84.1 (81.9 to 86.1) AC→ P 1,227 193 84.7 (82.5 to 86.7) AC→ PG 1,224 201 84.0 (81.8 to 86.1) 
+
+0.4 
+
+HR (95% CI) 1.00 (0.82 to 1.21) AC→ PG v TAC AC→ PG v AC→ P 1.05 (0.86 to 1.28) AC→ P v TAC 0.93 (0.77 to 1.14) 
+
+0.2 
+
+5 
+
+0 
+
+1 
+
+Time Since Random Assignment (years) No. at risk TAC AC→ P AC→ PG 
+
+326 334 330 
+
+291 309 300 
+
+244 267 269 
+
+205 215 216 
+
+227 242 236 
+
+2 
+
+P .98 .61 .50 
+
+3 
+
+4 
+
+5 
+
+Time Since Random Assignment (years) 115 133 125 
+
+No. at risk TAC AC→ P AC→ PG 
+
+1,219 1,227 1,224 
+
+1,180 1,191 1,177 
+
+1,122 1,135 1,132 
+
+1,050 1,058 1,063 
+
+969 982 980 
+
+584 599 580 
+
+Fig A1. Kaplan-Meier estimates of disease-free survival among patients with (A) estrogen receptor (ER) –negative tumors or (B) ER-positive tumors across all three treatment arms in the National Surgical Adjuvant Breast and Bowel Project B-38 trial. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; HR, hazard ratio; TAC, docetaxel, doxorubicin, and cyclophosphamide. 
+
+B 
+
+1.0 
+
+Disease-Free Survival (proportion) 
+
+Disease-Free Survival (proportion) 
+
+A 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 
+
+Treatment n Events 5-Year (95% CI) TAC 1,012 160 84.5 (82.0 to 86.7) AC→ P 1,008 134 87.3 (84.9 to 89.1) AC→ PG 1,018 161 84.4 (82.0 to 86.6) HR (95% CI) 1.02 (0.82 to 1.27) AC→ PG v TAC AC→ PG v AC→ P 1.24 (0.99 to 1.56) AC→ P v TAC 0.81 (0.65 to 1.02) 
+
+1 
+
+2 
+
+3 
+
+P .85 .06 .08 
+
+4 
+
+1.0 0.8 
+
+0.6 
+
+Treatment n Events 5-Year (95% CI) TAC 533 151 72.1 (68.0 to 75.8) AC→ P 553 152 73.0 (69.0 to 76.6) AC→ PG 537 149 73.3 (69.2 to 76.9) 
+
+0.4 
+
+HR (95% CI) 0.91 (0.73 to 1.15) AC→ PG v TAC AC→ PG v AC→ P 0.94 (0.75 to 1.18) AC→ P v TAC 0.97 (0.77 to 1.21) 
+
+0.2 
+
+5 
+
+0 
+
+1 
+
+Time Since Random Assignment (years) No. at risk TAC 1,012 AC→ P 1,008 AC→ PG 1,018 
+
+975 980 975 
+
+915 933 932 
+
+871 878 868 
+
+815 813 803 
+
+2 
+
+3 
+
+P .44 .61 .77 
+
+4 
+
+5 
+
+Time Since Random Assignment (years) 474 483 475 
+
+No. at risk TAC AC→ P AC→ PG 
+
+533 553 536 
+
+496 520 503 
+
+451 469 470 
+
+406 422 432 
+
+359 384 394 
+
+225 249 231 
+
+Fig A2. Kaplan-Meier estimates of disease-free survival among patients with (A) 1 to 3 or (B) 4⫹ positive lymph nodes across all three treatment arms in the National Surgical Adjuvant Breast and Bowel Project B-38 trial. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; HR, hazard ratio; TAC, docetaxel, doxorubicin, and cyclophosphamide. 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Swain et al 
+
+B 
+
+1.0 
+
+0.8 
+
+0.6 
+
+Overall Survival (proportion) 
+
+Overall Survival (proportion) 
+
+A 
+
+Treatment n Deaths 5-Year (95% CI) TAC 328 73 78.5 (73.6 to 82.6) AC→ P 335 68 80.6 (75.8 to 84.5) AC→ PG 332 71 79.3 (74.4 to 83.3) 
+
+0.4 
+
+HR (95% CI) 0.87 (0.63 to 1.21) AC→ PG v TAC AC→ PG v AC→ P 0.97 (0.69 to 1.37) AC→ P v TAC 0.92 (0.66 to 1.28) 
+
+0.2 
+
+0 
+
+1 
+
+2 
+
+P .41 .88 .61 
+
+3 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+4 
+
+5 
+
+0 
+
+Time Since Random Assignment (years) No. at risk TAC AC→ P AC→ PG 
+
+328 335 332 
+
+315 326 325 
+
+290 303 301 
+
+268 282 281 
+
+257 264 266 
+
+Treatment n Deaths 5-Year (95% CI) TAC 1,223 102 92.8 (91.2 to 94.2) AC→ P 1,232 115 91.3 (89.5 to 92.8) AC→ PG 1,226 93 93.7 (92.2 to 95.0) HR (95% CI) 0.93 (0.70 to 1.23) AC→ PG v TAC AC→ PG v AC→ P 0.81 (0.61 to 1.08) AC→ P v TAC 1.11 (0.85 to 1.45) 
+
+1 
+
+2 
+
+P .60 .12 .43 
+
+3 
+
+4 
+
+5 
+
+Time Since Random Assignment (years) 167 171 172 
+
+No. at risk TAC 1,223 AC→ P 1,232 AC→ PG 1,226 
+
+1,210 1,221 1,212 
+
+1,187 1,201 1,198 
+
+1,125 1,127 1,123 
+
+1,160 1,170 1,175 
+
+722 737 722 
+
+Fig A3. Kaplan-Meier estimates of overall survival in patients with (A) estrogen receptor (ER) –negative or (B) ER-positive tumors across all treatment arms in the National Surgical Adjuvant Breast and Bowel Project B-38 trial. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; HR, hazard ratio; TAC, docetaxel, doxorubicin, and cyclophosphamide. 
+
+B 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 
+
+Overall Survival (proportion) 
+
+Overall Survival (proportion) 
+
+A 
+
+Treatment n Deaths 5-Year (95% CI) TAC 1,016 70 93.9 (92.2 to 95.2) AC→ P 1,010 73 93.0 (91.2 to 94.5) AC→ PG 1,019 71 93.8 (92.6 to 95.1) HR (95% CI) 1.05 (0.76 to 1.46) AC→ PG v TAC AC→ PG v AC→ P 1.02 (0.73 to 1.41) AC→ P v TAC 1.03 (0.74 to 1.43) 
+
+1 
+
+2 
+
+3 
+
+P .77 .92 .87 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+4 
+
+5 
+
+0 
+
+Time Since Random Assignment (years) No. at risk TAC 1,016 AC→ P 1,010 AC→ PG 1,019 
+
+1,004 998 1,008 
+
+979 981 987 
+
+961 956 964 
+
+940 923 933 
+
+Treatment n Deaths 5-Year (95% CI) TAC 535 105 82.1 (78.4 to 85.1) AC→ P 557 110 81.7 (78.2 to 84.7) AC→ PG 540 93 84.8 (81.4 to 87.6) HR (95% CI) 0.82 (0.62 to 1.09) AC→ PG v TAC AC→ PG v AC→ P 0.82 (0.62 to 1.08) AC→ P v TAC 1.02 (0.72 to 1.33) 
+
+1 
+
+2 
+
+3 
+
+P .17 .15 .96 
+
+4 
+
+5 
+
+Time Since Random Assignment (years) 602 600 590 
+
+No. at risk TAC AC→ P AC→ PG 
+
+535 557 540 
+
+521 549 530 
+
+498 523 513 
+
+467 496 493 
+
+442 468 457 
+
+287 308 305 
+
+Fig A4. Kaplan-Meier estimates of overall survival in patients with (A) 1 to 3 or (B) 4⫹ positive lymph nodes across all treatment arms in the National Surgical Adjuvant Breast and Bowel Project B-38 trial. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; HR, hazard ratio; TAC, docetaxel, doxorubicin, and cyclophosphamide. 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+Dose-Dense Therapy in Node-Positive Breast Cancer: NSABP B-38 
+
+Fig A5. Kaplan-Meier estimates of (A) recurrence-free interval and (B) distant recurrence-free interval across all treatment arms in the National Surgical Adjuvant Breast and Bowel Project B-38 trial. AC3 P, doxorubicin and cyclophosphamide followed by paclitaxel; AC3 PG, doxorubicin and cyclophosphamide followed by paclitaxel and gemcitabine; HR, hazard ratio; TAC, docetaxel, doxorubicin, and cyclophosphamide. 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on December 31, 2013 Copyright © 2013 American Society of Clinical Oncology. All rights reserved. from 202.120.2.30 
+
+ 

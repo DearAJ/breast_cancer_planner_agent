@@ -1,0 +1,1105 @@
+VOLUME 
+
+31 
+
+䡠 
+
+NUMBER 
+
+7 
+
+䡠 
+
+MARCH 
+
+1 
+
+2013 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Prognostic and Predictive Value of Tumor-Infiltrating Lymphocytes in a Phase III Randomized Adjuvant Breast Cancer Trial in Node-Positive Breast Cancer Comparing the Addition of Docetaxel to Doxorubicin With Doxorubicin-Based Chemotherapy: BIG 02-98 Sherene Loi, Nicolas Sirtaine, Fanny Piette, Roberto Salgado, Giuseppe Viale, Françoise Van Eenoo, Ghizlane Rouas, Prudence Francis, John P.A. Crown, Erika Hitre, Evandro de Azambuja, Emmanuel Quinaux, Angelo Di Leo, Stefan Michiels, Martine J. Piccart, and Christos Sotiriou See accompanying editorial on page 836 Sherene Loi, Nicolas Sirtaine, Roberto Salgado, Françoise Van Eenoo, Ghizlane Rouas, Stefan Michiels, Martine J. Piccart, and Christos Sotiriou, Institut Jules Bordet, Brussels; Fanny Piette and Emmanuel Quinaux, International Drug Development Institute, Louvain-laNeuve, Belgium; Giuseppe Viale, University of Milan, Milan; Angelo Di Leo, Hospital of Prato, Prato, Italy; Prudence Francis, Peter MacCallum Cancer Centre, Melbourne, Victoria, Australian and New Zealand Breast Cancer Trials Group, Newcastle, New South Wales, Australia, and International Breast Cancer Study Group, Bern, Switzerland; John P.A. Crown, Irish Clinical Oncology Research Group, Dublin, Ireland; and Erika Hitre, National Institute of Oncology, Budapest, Hungary. Published online ahead of print at www.jco.org on January 22, 2013. Supported by the Fonds JC Heuson, Brussels, Belgium (S.L., C.S.). Presented in part at the 47th Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, June 4-8, 2011. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Sherene Loi, MD, PhD, Breast Cancer Translational Research Laboratory (BCTL) J.C. Heuson, Institut Jules Bordet, Blvd de Waterloo, 125, 1000 Brussels, Belgium; e-mail: sherene.loi@bordet.be or sherene.loi@petermac.org. © 2013 by American Society of Clinical Oncology 0732-183X/13/3107-860/$20.00 DOI: 10.1200/JCO.2011.41.0902 
+
+860 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Previous preclinical and clinical data suggest that the immune system influences prognosis and response to chemotherapy (CT); however, clinical relevance has yet to be established in breast cancer (BC). We hypothesized that increased lymphocytic infiltration would be associated with good prognosis and benefit from immunogenic CT—in this case, anthracycline-only CT—in selected BC subtypes. Patients and Methods We investigated the relationship between quantity and location of lymphocytic infiltrate at diagnosis with clinical outcome in 2009 node-positive BC samples from the BIG 02-98 adjuvant phase III trial comparing anthracycline-only CT (doxorubicin followed by cyclophosphamide, methotrexate, and fluorouracil [CMF] or doxorubicin plus cyclophosphamide followed by CMF) versus CT combining doxorubicin and docetaxel (doxorubicin plus docetaxel followed by CMF or doxorubicin followed by docetaxel followed by CMF). Readings were independently performed by two pathologists. Disease-free survival (DFS), overall survival (OS), and interaction with type of CT associations were studied. Median follow-up was 8 years. Results There was no significant prognostic association in the global nor estrogen receptor (ER) –positive/human epidermal growth factor receptor 2 (HER2) –negative population. However, each 10% increase in intratumoral and stromal lymphocytic infiltrations was associated with 17% and 15% reduced risk of relapse (adjusted P ⫽ .1 and P ⫽ .025), respectively, and 27% and 17% reduced risk of death in ER-negative/HER2-negative BC regardless of CT type (adjusted P ⫽ .035 and P ⫽ .023), respectively. In HER2-positive BC, there was a significant interaction between increasing stromal lymphocytic infiltration (10% increments) and benefit with anthracycline-only CT (DFS, interaction P ⫽ .042; OS, P ⫽ .018). Conclusion In node-positive, ER-negative/HER2-negative BC, increasing lymphocytic infiltration was associated with excellent prognosis. Further validation of the clinical utility of tumor-infiltrating lymphocytes in this context is warranted. Our data also support the evaluation of immunotherapeutic approaches in selected BC subtypes. J Clin Oncol 31:860-867. © 2013 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+There is increasing evidence that the interaction between immune cells and tumor cells is critical for the development and progression of cancer.1 However, the interplay between the immune system and can- 
+
+cer is complex.2,3 Although previous studies examining the relationship between tumor-infiltrating lymphocytes (TILs) and breast cancer (BC) have been conflicting, recent results from large cohorts have indicated an association between the presence of extensive lymphocytic infiltration in early-stage 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+TILs and BIG 02-98: Final Results 
+
+BC, good prognosis, and high response rates to neoadjuvant chemotherapy.4-10 Thisconceptisnotnew;inaseminalstudy,TILswereshowntobe a good prognostic indicator only in highly proliferative breast tumors.11 However, pathologic evaluation of TILs in a BC specimen is currently not routine because clinical relevance has yet to be established. Conventionally, chemotherapy has been thought to be immunosuppressive. However, recently, the concept has emerged that cell death induced by certain types of chemotherapies can promote cytotoxic T-lymphocyte responses that can confer permanent antitumor immunity.12 Anthracyclines, oxaliplatin, gemcitabine, and hormonal therapy have been shown to be able to induce such immunogenic cell death.13 The ability to induce immunogenic cell death may be critical for long-lasting remissions in some types of cancer. Giventheincreasingevidenceoftheimportanceofthehostimmune system in influencing prognosis of BC and the likelihood of response to anthracycline-based or immunogenic-type chemotherapy, we decided to evaluate these hypotheses in the context of the BIG (Breast International Group) 02-98 study, a large phase III adjuvant clinical trial randomly assigning patients to either anthracycline-only chemotherapy or anthracycline-taxane combinations of cytotoxic chemotherapy.14 This trial offers significant advantages in the evaluation of biomarkers. It has extensive follow-up so that long-term disease outcomes, particularly survival, can be evaluated; the randomization allows for evaluation of a predictive biomarker; and lastly, tumor collection was prospectively planned, facilitating central review of estrogen receptor (ER) and human epidermal growth factor receptor 2 (HER2) status. In this work, we sought to examine three main hypotheses: one, the host immune response in the tumor is an important prognostic factor; two, the baseline antitumor immune reaction could be an important predictor of benefit with certain immunogenic chemotherapy drugs; and three, these effects would only be seen in highly proliferative BC subtypes. Ultimately, we aimed to determine the clinical relevance of TILs in BC. PATIENTS AND METHODS Study Patients Additional information on study methods is provided in the Data Supplement. The BIG 02-98 trial was a multicenter, randomized, prospective adjuvant phase III trial in which 2,887 patients with lymph node–positive BC 
+
+were randomly assigned to one of four arms: A1 (sequential control; four cycles of doxorubicin 75 mg/m2 followed by three cycles of cyclophosphamide, methotrexate, and fluorouracil [CMF]) and A2 (concurrent control; four cycles of doxorubicin 60 mg/m2 plus cyclophosphamide 600 mg/m2 followed by three cycles of CMF) received anthracyclineonly treatment; B (sequential docetaxel; three cycles of doxorubicin 75 mg/m2 followed by three cycles of docetaxel 100 mg/m2 followed by three cycles of CMF) and C (concurrent docetaxel; four cycles of doxorubicin 50 mg/m2 plus docetaxel 75 mg/m2 followed by three cycles of CMF) received anthracycline-docetaxel combinations (Fig 1). The trial recruited patients between 1998 to 2001, which was before the use of routine adjuvant trastuzumab.14 The median age was 49 years, and there was a median of three positive lymph nodes. BC was hormone receptor–positive in 76% of patients. Results after 8 years median follow-up confirmed the initial findings. For this retrospective study, the TIL analysis was performed on 2,009 prospectively collected formalin-fixed paraffin-embedded tumor blocks (69.6%). All samples were collected at baseline from the surgical specimen. Patients enrolled onto this study consented for use of their tumor tissue for future research purposes. Patient characteristics are listed in the Data Supplement. Pathologic Assessment Histopathologic analysis of percentage of TILs was performed on fullface hematoxylin and eosin–stained sections. Lymphocytic infiltration was defined in a manner similar to that of a previous publication, although here, a much larger tumor area was analyzed compared with core biopsies.6 Intratumoral lymphocytic infiltration was defined as the percentage of mononuclear cells within the epithelium of the invasive tumor cell nests. Stromal lymphocytic infiltration was defined as the percentage of tumor stroma containing infiltrating lymphocytes (Data Supplement). Histopathologic evaluation of TILs was performed independently by two pathologists (R.S., N.S); the mean value was used for the analyses presented. The Pearson’s correlation coefficient between the two pathologists for TILs as a continuous variable was as follows: intratumoral lymphocytic infiltration, r ⫽ 0.49; P ⬍ .001 and stromal lymphocytic infiltration, r ⫽ 0.71; P ⬍ .001. Neither pathologist had any knowledge of the clinical information. Correlation between mean percentage infiltration of stromal and intratumoral lymphocyte assessments was 0.648 (P ⬍ .001). We defined the categorical variable lymphocyte-predominant BC (LPBC) in a manner similar to that of another study.6 However, in our study, the LPBC phenotype was defined as ⱖ 50% infiltration of either stromal or intratumoral lymphocytic infiltration, because 50% lymphocytic infiltration was considered an easier quantitative assessment to make (v 60%). The 
+
+BIG 2-98 random assignment (n = 2,887) Samples collected (n = 2,016; 69.8%) 
+
+Total patients with Str-Ly and inTu-Ly available (n = 2,009; 69.5%) A-CMF Seq control A1 
+
+AC-CMF Con control A2 
+
+A-T-CMF Seq docetaxel B 
+
+AT-CMF Con docetaxel C 
+
+Cumulative dose doxorubicin 
+
+300 mg/m2 
+
+240 mg/m2 
+
+225 mg/m2 
+
+200 mg/m2 
+
+Cumulative dose docetaxel 
+
+NA 
+
+NA 
+
+300 mg/m2 
+
+300 mg/m2 
+
+A1 + A2 (anthracycline only) 
+
+B + C (anthracycline-docetaxel) 
+
+Current study: TILs and prognosis overall (n = 2,009) TILs with BC subtype by central pathology review (n = 1,738; 86.5%) 
+
+www.jco.org 
+
+Fig 1. Flow diagram of breast cancer (BC) specimens used for the study and available central pathology review. Cumulative anthracycline and docetaxel doses for each arm are also given. Note that the cyclophosphamide, methotrexate, and fluorouracil (CMF) doses remained the same for all four arms. A-CMF, doxorubicin followed by CMF; AC-CMF, doxorubicin plus cyclophosphamide followed by CMF; A-T-CMF, doxorubicin followed by docetaxel followed by CMF; AT-CMF, doxorubicin plus docetaxel followed by CMF; BIG, Breast International Group; Con, concurrent; inTu-Ly, intratumoral lymphocytic infiltration; Seq, sequential; Str-Ly, stromal lymphocytic infiltration; TIL, tumor-infiltrating lymphocyte. 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+861 
+
+Loi et al 
+
+interobserver ␬ value for the categorical parameter (no infiltrate v partial infiltrate v LPBC) was 0.57 (P ⬍ .001). 
+
+862 
+
+© 2013 by American Society of Clinical Oncology 
+
+Baseline Clinical Characteristics The clinical data of the subset used for these analyses and the original trial population are described in the Data Supplement. There were 2,009 tumor blocks available for evaluation of stromal and intratumoral lymphocytic infiltrations. Apart from more patients with HER2-positive disease analyzed for TILs (P ⬍ .001), there were no differences in clinicopathologic characteristics for the patients included in these analyses compared with the original trial cohort, nor were there any survival differences. Association of TILs With Clinicopathologic Characteristics TILs (both stromal and intratumoral; Fig 2) were associated with infiltrating ductal histology (P ⬍ .001 and P ⫽ .048, respectively), high histologic grade (both P ⬍ .001), hormone receptor negativity (both P ⬍ .001), and high Ki67 expression (⬎ 14%; both P ⬍ .001).17 There was no significant association with age, menopausal status, increasing lymph node involvement (one to three v ⱖ four), or tumor size. In the whole population, the median percentage infiltration of intratumoral lymphocytes was 2% (interquartile range, 1% to 5%), which was lower than that for stromal lymphocytes (10%; interquartile range, 7.5% to 20%). As shown in Figure 2, TILs were higher in the ER-negative/HER2-negative and HER2positive BC subgroups compared with the ER-positive/HER2negative BC subgroups (P ⬍ .001). The LPBC phenotype comprised 5.4% of the global population, with frequencies of 2.9%, 11.1%, and 10.6% in the ER-positive/HER2-negative, 
+
+100 
+
+Str-Ly inTu-Ly 
+
+80 
+
+TILs (%) 
+
+Statistical Analyses Two end points were analyzed in this study. Disease-free survival (DFS) was defined as time from date of random assignment to date of first relapse (local, regional, contralateral, or metastatic), second primary malignancy, or death resulting from any cause (whichever occurred first). Overall survival (OS) was defined as time from date of random assignment to date of death resulting from any cause. Patients who were alive (for OS) and disease free (for DFS) were censored at date of last contact. Several variables were of interest to study the prognostic and predictive effect between DFS, OS, and TIL content in the baseline tumor tissue sample. As mentioned, we evaluated the LPBC phenotype as well as two continuous variables (per 10% increments) of lymphocytic infiltration defined according to location: percentages of stromal and intratumoral lymphocytic infiltrations. Centrally determined ER status and HER2 were used to define the main BC clinical subtypes: ER negative/HER2 negative, HER2 overexpressing, and ER positive/HER2 negative (luminal). Positive ER status was defined as ⬎ 1% expression. Those patients who were ⫹3 by immunohistochemistry or ⫹2 by immunohistochemistry and confirmed positive by fluorescent in situ hybridization were designated as having HER-positive disease. Complete central pathologic review was available for 1,738 patients with both stromal and intratumoral lymphocytic infiltration evaluations. Prognostic evaluations of the global population were performed using all available samples with TILs characterized. Clinical pathologic associations were tested using Fisher’s exact test. Box plots represent median percentage of TILs and interquartile variation. For the prognostic evaluations of TILs, all treatment arms were combined (A1 plus A2 plus B plus C). The LPBC phenotype was used as a binary variable (LPBC v non-LPBC). Stromal and intratumoral lymphocytic infiltrations were used as continuous variables per 10% increments in Cox regression models. Multivariate models were obtained by backward elimination (using a significance level of .05) in a model containing the main prognostic factors. For visualization purposes, Kaplan-Meier estimates were used to produce DFS and OS curves using the LPBC binary phenotype and tertiles of the intratumoral and stromal lymphocytic infiltration variables. The log-rank test was used to compare the two LPBC groups. For the predictive evaluation of TILs (ie, heterogeneity in the treatment effect according to TILs), chemotherapy arms were divided into the anthracycline-based regimens (A1 plus A2) versus docetaxel-containing regimens (B plus C). Forest plots were used to visualize the hazard ratios (HRs) of (A1 ⫹ A2)/(B ⫹ C) for DFS and OS by TIL status (divided into the binary LPBC v non-LPBC or tertiles for the continuous TIL variables). Evaluation of heterogeneity effects and test for trend were performed using ␹2 tests. In addition, the statistical significance of the interaction was tested using a Cox regression model fitted with TILs, an indicator for the type of randomized chemotherapy, an interaction term between chemotherapy type (anthracycline only v anthracycline plus docetaxel) and TILs (LPBC as a binary variable or stromal and intratumoral lymphocytic infiltrations as continuous variables per 10% increments). The REMARK (Reporting Recommendations for Tumor Marker Prognostic Studies) criteria were followed in this study.15 A calculation was made a priori to determine the power of seeing an interaction for the LPBC phenotype.16 At the time of the first publication, a total of 732 events had been observed among 2,887 patients. We assumed: one, the samples would be available for 1,800 patients; two, 20% of patients would have LPBC, and this percentage would be approximately the same (by random assignment) in all treatment groups; and three, because the overall HR for the effect of docetaxel was 0.86, we assumed that this HR would subdivide into an HR of 0.7 in patients who had LPBC versus 0.9 in other patients (ratio of HRs, 0.77). With these assumptions, the interaction test was calculated to have more than 90% power when all patients were considered, with subset analyses (molecular subgroups) having lower power, while taking into consideration that more events would have occurred (Oakman et al, manuscript submitted for publication). Statistical analyses were performed using SAS software for Windows (version 9.1; SAS Institute, Cary, NC) and S-Plus (version 7.0; Statistical Sciences, Seattle, WA). 
+
+RESULTS 
+
+60 40 20 0 Overall 
+
+ER+/HER2- 
+
+2,009 2,009 0.5 0 7.5 1 10 2 20 5 80 70 
+
+1,079 1,079 1 0 7.5 1 10 1.5 15 3.5 75 70 
+
+HER2+ 
+
+ER-/HER2- 
+
+Subtype n Min Q1 Q2 Q3 Max 
+
+297 0.5 10 15 30 80 
+
+297 0 1.5 3 5.5 40 
+
+256 2.5 12.5 20 30 75 
+
+256 0.5 1.5 5 12.5 65 
+
+Fig 2. Distribution of the tumor-infiltrating lymphocyte (TIL) variables in the global population and per breast cancer subtype using centrally reviewed estrogen receptor (ER) and human epidermal growth factor receptor 2 (HER2) status. The box shows the limits of the middle half of the data (1st to 3rd quartile), and the line inside represents the median. Whiskers are drawn to represent 1.5 times the length of the box from either end of the box (1.5 times the interquartile range). Open circles correspond to observations outside the whiskers. inTu-Ly, intratumoral lymphocytic infiltration; Max, maximum; Min, minimum; Q, quartile; Str-Ly, stromal lymphocytic infiltration. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+TILs and BIG 02-98: Final Results 
+
+Table 1. Prognostic Value of TILs in Treatment Arms Combined According to Breast Cancer Subtypeⴱ DFS 
+
+Subtype Intratumoral lymphocytic infiltration‡ Global population ER positive/HER2 negative HER2 positive ER negative/HER2 negative Stromal lymphocytic infiltration‡ Global population ER positive/HER2 negative HER2 positive ER negative/HER2 negative LPBC§ Global population ER positive/HER2 negative HER2 positive ER negative/HER2 negative LPBC status LN status Radiotherapy 
+
+Univariate 
+
+No. of Patients 
+
+HR 
+
+95% CI 
+
+2,009 1,078 297 256 
+
+0.96 1.1 0.81 0.76 
+
+0.86 to 1.1 0.92 to 1.3 0.57 to 1.2 0.60 to 0.97 
+
+2,009 1,078 297 256 
+
+1.0 1.0 0.90 0.84 
+
+2,009 1,078 297 256 
+
+0.72 0.89 0.76 0.31 
+
+OS Multivariate† 
+
+P 
+
+HR 
+
+95% CI 
+
+Univariate 
+
+Multivariate† 
+
+P 
+
+HR 
+
+95% CI 
+
+P 
+
+.52 .33 .24 .028 0.83 0.66 to 1.0 
+
+.1 
+
+1.0 1.1 0.77 0.70 
+
+0.88 to 1.2 0.93 to 1.4 0.48 to 1.2 0.52 to 0.94 
+
+.90 .22 .26 .017 0.73 
+
+0.54 to 0.98 .035 
+
+0.94 to 1.1 0.95 to 1.1 0.80 to 1.0 0.73 to 0.97 
+
+.93 .43 .071 .015 0.85 0.74 to 0.98 
+
+1.05 1.1 0.89 .025 0.82 
+
+0.98 to 1.1 1.0 to 1.3 0.77 to 1.0 0.70 to 0.96 
+
+.19 .044 .12 .016 0.83 
+
+0.71 to 0.98 .023 
+
+0.48 to 1.06 0.44 to 1.8 0.41 to 1.4 0.11 to 0.84 
+
+.093 .75 .37 .021 
+
+0.83 0.52 to 1.33 1.2 0.53 to 2.7 0.86 0.41 to 1.8 0.30 0.094 to 0.95 0.30 0.11 to 0.81 .018 2.33 1.53 to 3.55 ⬍ .001 0.43 0.27 to 0.71 ⬍ .001 
+
+HR 
+
+95% CI 
+
+P 
+
+.44 .68 .68 .040 0.29 0.091 to 0.92 .036 2.15 1.36 to 3.42 .001 0.58 0.38 to 0.99 .046 
+
+Abbreviations: DFS, disease-free survival; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hazard ratio; LN, lymph node; LPBC, lymphocyte-predominant breast cancer; OS, overall survival; TIL, tumor-infiltrating lymphocyte. ⴱ Prognostic association (using DFS and OS) between TIL variables and breast cancer subtypes using central pathology review data with all treatment arms pooled (A1 plus A2 plus B plus C). †The multivariate model contains the prognostic factors that remained significant in the model after backward elimination (mode of drug administration, No. of positive LNs, age category, type of surgery, radiotherapy, histologic grade, tumor size, menopausal status, hormone receptor status, significance level of .05; Data Supplement). Complete multivariate model for LPBC in ER-negative/HER2-negative breast cancer is shown with significant variables remaining in the model: LN status (one to three v ⱖ four) and radiotherapy received (yes v no). ‡Treated as a continuous variable for each 10% increment. §Binary variable; ⬍ or ⱖ 50% of either stromal or intratumoral lymphocytes. 
+
+HER2-positive, and ER-negative/HER2-negative subtypes, respectively (P ⬍ .001). Association of TILs With Prognosis For the prognostic evaluations, all treatment arms were pooled. We examined LPBC, stromal lymphocytic infiltration, and intratumoral lymphocytic infiltration variables and their association with DFS and OS end points. As summarized in Table 1, there was no significant prognostic effect in the global population, in those with ER-positive/HER2-negative disease (nor in luminal A or B subgroup, defined by Ki67 of 14%; data not shown), or in the HER2-positive subgroup. In contrast, for the ER-negative/HER2-negative BC subtype, all three measurements of TILs were strongly prognostic in the univariate Cox model for both DFS and OS, all after adjustment except for the intratumoral lymphocytic infiltration variable, which was borderline. Notably, this effect was present for both the LPBC binary phenotype as well as the continuous variables. In other words, for every 10% increment in stromal and intratumoral lymphocytic infiltrations, there was a 15% and 17% reduction of risk for recurrence or death and 17% and 27% reduction of risk for death, respectively. Kaplan-Meier curves for all BC subtypes according to LPBC phenotype are shown in Figure 3 (Data Supplement). Of note, for those with ER-negative/HER2-negative BC with the LPBC phenotype, the 5-year DFS was 92% versus 62% (HR, 0.30; 95% CI, 0.11 to 0.81; adjusted P ⫽ .018), and 5-year OS was 92% versus 71% (HR, 0.29; 95% CI, 0.091 to 0.92; adjusted P ⫽ .036; Figs 3D and 3H). The 5-year outwww.jco.org 
+
+comes for the subset of patients with ER-negative/HER2-negative disease with the LPBC phenotype were similar to those observed in patients with ER-positive/HER2-negative tumors. Association of TILs With Response to Anthracycline-Only or Anthracycline-Docetaxel Adjuvant Chemotherapy The next aim was to determine if effect of the anthracyclinedocetaxel treatment (B plus C) was different from that of the anthracycline-only containing treatment (A1plus A2) according to the extent of lymphocytic infiltration present in the baseline sample. As summarized in Table 2, only in the HER2-positive BC subgroup was there evidence of a heterogeneous treatment response according to the percentage infiltration of TILs. The interaction test was significant for the LPBC phenotype as well as on a continuous scale for the stromal lymphocytic infiltration variable for DFS and OS. Figures 4A to 4D show the Kaplan-Meier curves for those women with HER2-positive BC by LPBC status and chemotherapy type. Those with HER2-positive BC with the LPBC phenotype had a 5-year DFS of 78.6% in the A1 and A2 arms versus 57.9% in the B and C arms (HR, 0.45; 95% CI, 0.12 to 1.71) and those without had a 5-year DFS of 47% versus 72.7%, respectively (HR, 2.05; 95% CI, 1.41 to 2.97; test for interaction P ⫽ .032; Figs 4A and 4C; Data Supplement). Forest plots of the HRs for recurrence according to LPBC status are shown for the HER2-positive (Figs 4E, 4F), ER-negative/HER2-negative, and ERpositive/HER2-negative subtypes (Data Supplement). Interestingly, © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+863 
+
+Disease-Free Survival (probability) 
+
+A 
+
+B 
+
+1.0 81.1% 
+
+0.8 
+
+75.2% 
+
+0.6 Group Patients Events No LPBC 1,900 609 LPBC 109 26 
+
+0.4 0.2 
+
+Log-rank P = .091 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+Disease-Free Survival (probability) 
+
+Loi et al 
+
+1.0 83.9% 
+
+0.8 
+
+80.8% 
+
+0.6 Group Patients Events No LPBC 1,048 280 LPBC 31 8 
+
+0.4 0.2 
+
+Log-rank P = .746 
+
+108 120 
+
+0 
+
+12 
+
+24 
+
+36 
+
+Time (months) 67 2 
+
+No. at risk No LPBC 1,048 1,032 LPBC 31 29 
+
+4 0 
+
+D 
+
+0.8 66.7% 64.5% Group Patients Events No LPBC 264 113 LPBC 33 11 
+
+0.4 0.2 
+
+Log-rank P = .371 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+Disease-Free Survival (probability) 
+
+Disease-Free Survival (probability) 
+
+430 34 
+
+1.0 
+
+0.6 
+
+986 29 
+
+920 27 
+
+242 32 
+
+207 28 
+
+192 25 
+
+176 21 
+
+155 20 
+
+0.6 
+
+129 17 
+
+52 5 
+
+6 0 
+
+0 0 
+
+0.6 Group Patients Events No LPBC 1,900 368 LPBC 109 18 
+
+0.2 
+
+Log-rank P = .442 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+825 26 
+
+778 23 
+
+627 23 
+
+266 14 
+
+47 2 
+
+72 
+
+84 
+
+96 
+
+108 120 
+
+134 21 
+
+116 18 
+
+41 11 
+
+72 
+
+84 
+
+96 
+
+108 120 
+
+884 26 
+
+724 26 
+
+321 15 
+
+60 2 
+
+72 
+
+84 
+
+96 
+
+108 120 
+
+131 18 
+
+50 12 
+
+3 0 
+
+Group Patients Events No LPBC 229 95 LPBC 27 4 
+
+0.2 
+
+Log-rank P = .014 
+
+12 
+
+24 
+
+36 
+
+96 
+
+229 27 
+
+202 26 
+
+167 24 
+
+48 
+
+156 23 
+
+146 22 
+
+1.0 
+
+60 
+
+138 22 
+
+3 0 
+
+0 0 
+
+91.6% 90.3% 
+
+0.8 0.6 
+
+Group Patients Events No LPBC 1,048 154 LPBC 31 6 
+
+0.4 0.2 
+
+Log-rank P = .673 
+
+108 120 
+
+0 
+
+12 
+
+24 
+
+36 
+
+Time (months) 
+
+48 
+
+60 
+
+Time (months) 
+
+No. at risk No LPBC 1,900 1,876 1,806 1,737 1,672 1,604 1,517 1,254 LPBC 109 107 103 100 95 92 88 78 
+
+G 
+
+108 120 
+
+Time (months) 
+
+86.8% 
+
+0.4 
+
+96 
+
+61.9% 
+
+0.4 
+
+No. at risk No LPBC LPBC 
+
+88.6% 
+
+0.8 
+
+84 
+
+92.3% 
+
+0 
+
+F 
+
+1.0 
+
+Overall Survival (probability) 
+
+167 20 
+
+876 27 
+
+0.8 
+
+108 120 
+
+Overall Survival (probability) 
+
+E 
+
+264 33 
+
+72 
+
+1.0 
+
+Time (months) No. at risk No LPBC LPBC 
+
+60 
+
+Time (months) 
+
+No. at risk No LPBC 1,900 1,824 1,687 1,570 1,482 1,394 1,314 1,062 LPBC 109 104 98 91 86 84 80 69 
+
+C 
+
+48 
+
+530 39 
+
+87 3 
+
+No. at risk No LPBC 1,048 1,043 1,025 1,000 LPBC 31 31 30 29 
+
+5 0 
+
+H 
+
+1.0 
+
+971 28 
+
+936 28 
+
+4 0 
+
+1.0 
+
+Overall Survival (probability) 
+
+Overall Survival (probability) 
+
+81.3% 
+
+0.8 79.9% 
+
+0.6 Group Patients Events No LPBC 264 73 LPBC 33 8 
+
+0.4 0.2 
+
+Log-rank P = .679 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+92.3% 
+
+0.8 
+
+71.0% 
+
+0.6 0.4 
+
+Group Patients Events No LPBC 229 77 LPBC 27 3 
+
+0.2 
+
+108 120 
+
+Log-rank P = .029 
+
+0 
+
+12 
+
+24 
+
+36 
+
+Time (months) No. at risk No LPBC LPBC 
+
+264 33 
+
+255 32 
+
+241 30 
+
+226 30 
+
+211 28 
+
+203 25 
+
+190 24 
+
+48 
+
+60 
+
+Time (months) 162 21 
+
+66 7 
+
+8 1 
+
+0 0 
+
+No. at risk No LPBC LPBC 
+
+229 27 
+
+219 26 
+
+188 25 
+
+173 24 
+
+163 22 
+
+157 22 
+
+148 21 
+
+4 0 
+
+0 0 
+
+Fig 3. Prognostic ability of the lymphocyte-predominant breast cancer (LPBC) phenotype. Kaplan-Meier curves of estimated 5-year (A) disease-free survival (DFS) for all patients, (B) DFS for patients with estrogen receptor (ER) –positive/human epidermal growth factor receptor 2 (HER2) –negative disease, (C) DFS for patients with HER2-positive disease, (D) DFS for ER-negative/HER2-negative disease, (E) overall survival (OS) for all patients, (F) OS for patients with ER-positive/HER2-negative disease, (G) OS for patients with HER2-positive disease, and (H) OS for ER-negative/HER2-negative disease. Note that nonsignificant associations between prognosis and tumor-infiltrating lymphocytes were also noted for luminal A and B subgroups as defined by Ki67 of 14% (data not shown). 
+
+864 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+TILs and BIG 02-98: Final Results 
+
+Table 2. Predictive Ability of TILs and Interaction P Tests Between Anthracycline-Only (A1 and A2) and Anthracycline-Taxane–Containing Arms (B and C)ⴱ 
+
+Variable LPBC† Global population ER positive/HER2 negative HER2 positive ER negative/HER2 negative Intratumoral lymphocytic infiltration‡ Global population ER positive/HER2 negative HER2 positive ER negative/HER2 negative Stromal lymphocytic infiltration‡ Global population ER positive/HER2 negative HER2 positive ER negative/HER2 negative 
+
+No. of Patients 
+
+DFS Interaction P 
+
+OS Interaction P 
+
+2,009 1,078 297 256 
+
+.47 .074 .025 .73 
+
+.94 .042 .059 .93 
+
+2,009 1,078 297 256 
+
+.28 .54 .16 .15 
+
+.64 .36 .32 .40 
+
+2,009 1,078 297 256 
+
+.28 .28 .042 .17 
+
+.37 .14 .018 .51 
+
+Abbreviations: DFS, disease-free survival; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; LPBC, lymphocyte-predominant breast cancer; OS, overall survival; TIL, tumor-infiltrating lymphocyte. ⴱ Treatment effect and interaction P tests between anthracycline-only (A1 and A2) and anthracycline-docetaxel– containing arms (B and C) and TIL variables in breast cancer overall and by subtype. †Binary variable; ⬍ or ⱖ 50% of either stromal or intratumoral lymphocytes. ‡Treated as a continuous variable for each 10% increment. 
+
+the lymphocytes located in the stroma seemed to be the main contributors to this effect, with a trend also seen in the ER-negative/HER2negative subtype (Data Supplement). DISCUSSION 
+
+In this study, using more than 2,000 samples prospectively collected from a phase III adjuvant randomized BC trial, we established that increasing lymphocytic infiltration of the tumor and stroma are significantly associated with good prognosis regardless of CT type, but only in ER-negative/HER2-negative subgroup. Of clinical and scientific interest, we also show for the first time to our knowledge that in HER2-positive BC, an association exists between increasing lymphocytic infiltration and magnitude of benefit with the CT regimens evaluated in this trial (ie, higher-dose anthracycline-alone therapy v combination anthraycline-docetaxel therapy). Although these findings require further validation, they support the concept that immune modulation could be particularly beneficial in improving clinical outcome for these two BC subtypes. Our data add to those of previous studies correlating immune processes (measured by microscopy, immunohistochemical staining, or gene signatures) and favorable prognostic associations in BC.18-23 Before undertaking this study, we established that extensive lymphocytic infiltration of the tumor correlated to high levels of immune gene signatures (data not shown).19,24 One strength is that these analyses were undertaken using full-face tissue sections representing the entire tumor, whereas previous reports of lymphocytic infiltration in BC have used core biopsies (1.4 to 2 mm) and tissue microarrays (0.6 mm).6,7 The analysis of a larger tumor area likely contributed to the lower correlation observed between the two pathologists in our study www.jco.org 
+
+for the intratumoral lymphocytic infiltration variable, although the stromal lymphocytic infiltration correlation was comparable with that reported by Denkert et al.6 Similar to Denkert et al,6 we found that the statistically significant effect between prognosis and both the intratumoral and stromal lymphocytic infiltration evaluations were linear. In other words, increasing 10% increments of infiltration were associated with better prognosis in ER-negative/HER2-negative BC. Although we defined the LPBC phenotype using a 50% rather than 60% cut point, as used by Denkert et al, this was done to highlight the good outcome of the extensively infiltrated group, not to imply cutoff for treatment decision making or suggest a distinct biologic subgroup. Mahmoud et al7 reported that CD8⫹ cells were most prognostic when they were located in the distant stroma (defined as ⬎ one tumor cell diameter away from the tumor) in 1,334 patients. In contrast, we found significant prognostic effects for both stromal and intratumoral variables, similar to Denkert et al.6 Mahmoud et al also observed stronger prognostic effects in ER-negative patients. However, although we agree with Mahmoud et al that TILs in BC are likely to represent a Th1 response, for prognostic assessments, capturing more than CD8⫹ cells is probably useful. Hence, our studies differ, because we evaluated more lymphocyte components, the stromal lymphocytic infiltration variable included both adjacent and distant stroma, and full-face sections rather than tumor microarrays were used. The immunosurveillance hypothesis suggests that poorly differentiated BCs such as the ER-negative/HER2-negative subgroup might have tumor variants that could be more antigenic or, in other words, that could more strongly stimulate a host immune antitumor response.2 However, although this response may not be able to effect primary tumor regressions, it is conceivable that the adaptive memory generated could play a role in preventing recurrence after surgery. This notion is supported by studies of patients receiving immunosuppressants after organ transplantation where an increased incidence of primary BCs is not observed and is consistent with those reporting a role of the immune system in controlling metastatic processes in BC.25-27 If the presence of TILs at diagnosis represents that adaptive immunity has been generated in a patient, this might explain why their prognostic effects are seen in both the neoadjuvant and adjuvant settings. It is unclear why an interaction between increasing stromal infiltration and chemotherapy regimen was seen only in the HER2positive subtype. This finding will require further validation; however, we speculate that because HER2 is a well-documented tumor antigen, tumor growth may necessitate immunoediting as a means of immune escape—in other words, to avoid host immune-mediated elimination.2,28,29 Hence, the larger amount of immunogenic cell death induced by the control arms with the higher cumulative anthracycline dose could be critical for this subtype for successful treatment outcome. Recently, a link between innate and adaptive responses induced by doxorubicin therapy was demonstrated in a mouse model.30 Another plausible explanation is that the docetaxel and/or high-dose steroid premedication had an adverse effect on the host immune response; there was significantly more febrile neutropenia and infection observed in the docetaxel arms.14 Although adjuvant trastuzumab was not standard of care at the time the BIG 02-98 was conducted, recent data suggest that innate and adaptive immunity are also critical for trastuzumab-mediated © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+865 
+
+Loi et al 
+
+B 
+
+1.0 0.8 
+
+78.6% 
+
+0.6 
+
+47.0% Group Patients Events No LPBC 83 49 LPBC 14 3 
+
+0.4 0.2 
+
+Log-rank P = .022 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+1.0 
+
+Overall Survival (probability) 
+
+Disease-Free Survival (probability) 
+
+A 
+
+72 
+
+84 
+
+96 
+
+92.9% 
+
+0.8 70.7% 
+
+0.6 
+
+Group Patients Events No LPBC 83 32 LPBC 14 2 
+
+0.4 0.2 
+
+Log-rank P = .088 
+
+108 120 
+
+0 
+
+12 
+
+24 
+
+36 
+
+Time (months) No. at risk No LPBC LPBC 
+
+72 14 
+
+56 13 
+
+50 11 
+
+42 11 
+
+39 10 
+
+36 10 
+
+32 8 
+
+14 4 
+
+2 0 
+
+0 0 
+
+D 
+
+1.0 
+
+72 
+
+84 
+
+96 
+
+53 12 
+
+46 10 
+
+17 5 
+
+72 
+
+84 
+
+96 
+
+116 11 
+
+49 2 
+
+108 120 
+
+83 14 
+
+79 14 
+
+74 14 
+
+69 14 
+
+63 13 
+
+57 12 
+
+2 0 
+
+0 0 
+
+1.0 84.1% 
+
+0.8 72.7% 
+
+0.6 57.9% Group Patients Events No LPBC 181 64 LPBC 19 8 
+
+0.4 0.2 
+
+Log-rank P = .432 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+0.8 73.0% 
+
+0.6 Group Patients Events No LPBC 181 41 LPBC 19 6 
+
+0.4 0.2 
+
+108 120 
+
+Log-rank P = .32 
+
+0 
+
+12 
+
+24 
+
+36 
+
+Time (months) No. at risk No LPBC LPBC 
+
+E 
+
+60 
+
+Time (months) No. at risk No LPBC LPBC 
+
+Overall Survival (probability) 
+
+Disease-Free Survival (probability) 
+
+C 
+
+83 14 
+
+48 
+
+181 19 
+
+170 18 
+
+151 15 
+
+142 14 
+
+134 10 
+
+128 10 
+
+LPBC 
+
+B+C O/n 
+
+A1 + A2 O/n 
+
+HR 
+
+CI 
+
+No Yes Total 
+
+64/181 8/19 72/200 
+
+49/83 3/14 52/97 
+
+2.05 0.45 1.80 
+
+1.41 to 2.97 0.12 to 1.71 1.26 to 2.58 
+
+119 10 
+
+60 
+
+108 120 
+
+Time (months) 97 9 
+
+38 1 
+
+4 0 
+
+No. at risk No LPBC LPBC 
+
+0 0 
+
+F 
+
+A1 + A2 B + C better better 
+
+0.0 
+
+48 
+
+1.0 
+
+2.0 
+
+181 19 
+
+176 18 
+
+167 16 
+
+157 16 
+
+146 13 
+
+LPBC 
+
+B+C O/n 
+
+A1 + A2 O/n 
+
+HR 
+
+CI 
+
+No Yes Total 
+
+41/181 6/19 47/200 
+
+32/83 2/14 34/97 
+
+1.87 0.39 1.61 
+
+1.18 to 2.96 0.08 to 1.94 1.03 to 2.51 
+
+3.0 
+
+Heterogeneity test χ21 = 4.58, P = .0323 
+
+148 15 
+
+137 12 
+
+6 1 
+
+0 0 
+
+A1 + A2 B + C better better 
+
+0.0 
+
+1.0 
+
+2.0 
+
+3.0 
+
+Heterogeneity test χ21 = 3.39, P = .0657 
+
+Fig 4. Kaplan-Meier curves of 5-year estimated survival for patients with human epidermal growth factor receptor 2 (HER2) –positive breast cancer treated with (A, B) anthracycline-only therapy and (C, D) anthracycline plus docetaxel therapy; (A, C) disease-free survival (DFS); (B, D) overall survival (OS). (E, F) Forest plots showing heterogeneity by the lymphocyte-predominant breast cancer (LPBC) phenotype according to treatment arm in HER2-positive patients. (E) DFS; (F) OS. HR, hazard ratio; O, observed No. of events. 
+
+responses.31-33 This and other studies support the evaluation of immunotherapies in combination with anti-HER2 agents in clinical trials.24,31,32 Recent clinical data evaluating T cell–targeted immunotherapies indicate this seems to be a promising strategy.34,35 Understanding the ligands that switch off T-cell activity in BC will facilitate development of these agents. The unique strengths of this study are its size, evaluation in a randomized clinical trial data set with long-term follow-up, centrally reviewed pathologic data, and two independent pathologic assessments. Hence, these data provide level-II evidence for a biomarker validation.16 Limitations include the multiple subgroup analyses; the small number of events in the HER2-positive group, emphasizing the need for further validation of this effect in other data sets; and that the exact biologic mechanism underlying these observations is unclear. Therefore, these results are not yet ready to change clinical practice, although consideration should be given to evaluation of TILs in future clinical trials in these subgroups. 866 
+
+© 2013 by American Society of Clinical Oncology 
+
+In conclusion, we report that increasing lymphocytic infiltration is a strong prognostic factor for the ER-negative/HER2-negative BC subtype. Although additional validation is necessary, this study provides rationale for the development of immunotherapeutic approaches in BC, particularly HER2-positive and ER-negative/HERnegative subtypes, and impetus for further mechanistic research. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) and/or an author’s immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+TILs and BIG 02-98: Final Results 
+
+Employment or Leadership Position: None Consultant or Advisory Role: None Stock Ownership: None Honoraria: Prudence Francis, sanofi-aventis; John P.A. Crown, sanofi-aventis Research Funding: John P.A. Crown, sanofi-aventis Expert Testimony: None Other Remuneration: Prudence Francis, sanofi-aventis; Evandro de Azambuja, sanofi-aventis 
+
+AUTHOR CONTRIBUTIONS Conception and design: Sherene Loi Financial support: Sherene Loi, Martine J. Piccart, Christos Sotiriou 
+
+REFERENCES 1. de Visser KE, Eichten A, Coussens LM: Paradoxical roles of the immune system during cancer development. Nat Rev Cancer 6:24-37, 2006 2. Schreiber RD, Old LJ, Smyth MJ: Cancer immunoediting: Integrating immunity’s roles in cancer suppression and promotion. Science 331:15651570, 2011 3. Smyth MJ, Dunn GP, Schreiber RD: Cancer immunosurveillance and immunoediting: The roles of immunity in suppressing tumor development and shaping tumor immunogenicity. Adv Immunol 90:150, 2006 4. Disis ML: Immune regulation of cancer. J Clin Oncol 28:4531-4538, 2010 5. Zitvogel L, Kepp O, Kroemer G: Immune parameters affecting the efficacy of chemotherapeutic regimens. Nat Rev Clin Oncol 8:151-160, 2011 6. Denkert C, Loibl S, Noske A, et al: Tumorassociated lymphocytes as an independent predictor of response to neoadjuvant chemotherapy in breast cancer. J Clin Oncol 28:105-113, 2010 7. Mahmoud SM, Paish EC, Powe DG, et al: Tumor-infiltrating CD8⫹ lymphocytes predict clinical outcome in breast cancer. J Clin Oncol 29:19491955, 2011 8. Kohrt HE, Nouri N, Nowels K, et al: Profile of immune cells in axillary lymph nodes predicts disease-free survival in breast cancer. PLoS Med 2:e284, 2005 9. Lee AHS, Gillett CE, Ryder K, et al: Different patterns of inflammation and prognosis in invasive carcinoma of the breast. Histopathology 48:692701, 2006 10. Rakha EA, Aleskandarany M, El-Sayed ME, et al: The prognostic significance of inflammation and medullary histological type in invasive carcinoma of the breast. Eur J Cancer 45:1780-1787, 2009 11. Aaltomaa S, Lipponen P, Eskelinen M, et al: Lymphocyte infiltrates as a prognostic variable in female breast cancer. Eur J Cancer 28A:859-864, 1992 12. Casares N, Pequignot MO, Tesniere A, et al: Caspase-dependent immunogenicity of doxorubicin- 
+
+Provision of study materials or patients: Fanny Piette, Giuseppe Viale, Prudence Francis, John P.A. Crown, Erika Hitre, Emmanuel Quinaux, Angelo Di Leo, Martine J. Piccart Collection and assembly of data: Sherene Loi, Nicolas Sirtaine, Fanny Piette, Roberto Salgado, Françoise Van Eenoo, Ghizlane Rouas, Prudence Francis, John P.A. Crown, Erika Hitre, Evandro de Azambuja Data analysis and interpretation: Sherene Loi, Nicolas Sirtaine, Fanny Piette, Roberto Salgado, Giuseppe Viale, Prudence Francis, Emmanuel Quinaux, Angelo Di Leo, Stefan Michiels, Martine J. Piccart, Christos Sotiriou Manuscript writing: All authors Final approval of manuscript: All authors 
+
+induced tumor cell death. J Exp Med 202:16911701, 2005 13. Zitvogel L, Apetoh L, Ghiringhelli F, et al: The anticancer immune response: Indispensable for therapeutic success? J Clin Invest 118:1991-2001, 2008 14. Francis P, Crown J, Di Leo A, et al: Adjuvant chemotherapy with sequential or concurrent anthracycline and docetaxel: Breast International Group 02-98 randomized trial. J Natl Cancer Inst 100:121133, 2008 15. McShane LM, Altman DG, Sauerbrei W, et al: Reporting recommendations for tumor marker prognostic studies (REMARK). J Natl Cancer Inst 97: 1180-1184, 2005 16. Simon RM, Paik S, Hayes DF: Use of archived specimens in evaluation of prognostic and predictive biomarkers. J Natl Cancer Inst 101:1446-1452, 2009 17. Goldhirsch A, Wood WC, Coates AS, et al: Strategies for subtypes: Dealing with the diversity of breast cancer—Highlights of the St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2011. Ann Oncol 22:1736-1747, 2011 18. Alexe G, Dalgin GS, Scanfeld D, et al: High expression of lymphocyte-associated genes in nodenegative HER2⫹ breast cancers correlates with lower recurrence rates. Cancer Res 67:1066910676, 2007 19. Desmedt C, Haibe-Kains B, Wirapati P, et al: Biological processes associated with breast cancer clinical outcome depend on the molecular subtypes. Clin Cancer Res 14:5158-5165, 2008 20. Finak G, Bertos N, Pepin F, et al: Stromal gene expression predicts clinical outcome in breast cancer. Nat Med 14:518-527, 2008 21. Rody A, Holtrich U, Pusztai L, et al: T-cell metagene predicts a favorable prognosis in estrogen receptor-negative and HER2-positive breast cancers. Breast Cancer Res 11:R15, 2009 22. Schmidt M, Böhm D, von Törne C, et al: The humoral immune system has a key prognostic impact in node-negative breast cancer. Cancer Res 68:5405-5413, 2008 23. Teschendorff AE, Miremadi A, Pinder SE, et al: An immune response gene expression module identifies a good prognosis subtype in estrogen 
+
+receptor negative breast cancer. Genome Biol 8:R157, 2007 24. Ignatiadis M, Singhal SK, Desmedt C, et al: Gene modules and response to neoadjuvant chemotherapy in breast cancer subtypes: A pooled analysis. J Clin Oncol 30:1996-2004, 2012 25. Chen Q, Zhang XH, Massagué J: Macrophage binding to receptor VCAM-1 transmits survival signals in breast cancer cells that invade the lungs. Cancer Cell 20:538-549, 2011 26. DeNardo DG, Barreto JB, Andreu P, et al: CD4⫹ T cells regulate pulmonary metastasis of mammary carcinomas by enhancing protumor properties of macrophages. Cancer Cell 16:91-102, 2009 27. Penn I: Tumors of the immunocompromised patient. Annu Rev Med 39:63-73, 1988 28. DuPage M, Mazumdar C, Schmidt LM, et al: Expression of tumour-specific antigens underlies cancer immunoediting. Nature 482:405-409, 2012 29. Hanahan D, Weinberg RA: Hallmarks of cancer: The next generation. Cell 144:646-674, 2011 30. Mattarollo SR, Loi S, Duret H, et al: Pivotal role of innate and adaptive immunity in anthracycline chemotherapy of established tumors. Cancer Res 71:4809-4820, 2011 31. Park S, Jiang Z, Mortenson ED, et al: The therapeutic effect of anti-HER2/neu antibody depends on both innate and adaptive immunity. Cancer Cell 18:160-170, 2010 32. Stagg J, Loi S, Divisekera U, et al: Anti-ErbB-2 mAb therapy requires type I and II interferons and synergizes with anti-PD-1 or anti-CD137 mAb therapy. Proc Natl Acad Sci U S A 108:7142-7147, 2011 33. Loi S, Michiels S, Lambrechts D, et al: Tumor PIK3CA mutations, lymphocyte infiltration, and recurrence-free survival (RFS) in early breast cancer (BC): Results from the FinHER trial. J Clin Oncol 30:8s, 2012 (suppl; abstr 507) 34. Brahmer JR, Tykodi SS, Chow LQ, et al: Safety and activity of anti-PD-L1 antibody in patients with advanced cancer. N Engl J Med 366:24552465, 2012 35. Topalian SL, Hodi FS, Brahmer JR, et al: Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. N Engl J Med 366:2443-2454, 2012 
+
+■ ■ ■ 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+867 
+
+ 

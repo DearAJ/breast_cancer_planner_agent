@@ -1,0 +1,491 @@
+Published Ahead of Print on April 23, 2007 as 10.1200/JCO.2006.09.4482 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2006.09.4482 VOLUME 
+
+25 
+
+䡠 
+
+NUMBER 
+
+15 
+
+䡠 
+
+MAY 
+
+20 
+
+2007 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Efficacy of Letrozole Extended Adjuvant Therapy According to Estrogen Receptor and Progesterone Receptor Status of the Primary Tumor: National Cancer Institute of Canada Clinical Trials Group MA.17 Paul E. Goss, James N. Ingle, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Martine J. Piccart, Monica Castiglione, Dongsheng Tu, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer, and Joseph L. Pater From the Division of Hematology and Oncology, Massachusetts General Hospital, Boston, MA; Mayo Clinic, Rochester, MN; John Wayne Cancer Institute, Santa Monica, CA; Inova Fairfax Hospital, Falls Church, VA; University of Vermont, Burlington, VT; Institut Jules Bordet, Brussels, Belgium; SIBCSG Coordinating Center, Bern, Switzerland; National Cancer Institute of Canada, Clinical Trials Group, Kingston; Toronto Sunnybrook Regional Cancer Centre, University of Toronto, Toronto, Ontario, Canada; University of Washington, Seattle, WA; Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore; Clinical Investigations Branch, National Cancer Institute, Rockville, MD; Memorial Sloan-Kettering Cancer Center, New York, NY; Mayo Clinic, Jacksonville, FL; and the Edinburgh Breast Unit, Western General Hospital, Edinburgh, Scotland. Submitted October 10, 2006; accepted January 12, 2007; published online ahead of print at www.jco.org on April 23, 2007. Presented at the 28th annual San Antonio Breast Cancer Symposium, December 8-11, 2005, San Antonio, TX. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Address reprint requests to Paul E. Goss, MD, PhD, FRCPC, FRCP, Massachusetts General Hospital Cancer Center, 55 Fruit St, Lawrence House, LRH-302, Boston, MA 02114; e-mail: pgoss@partners.org. © 2007 by American Society of Clinical Oncology 0732-183X/07/2515-1/$20.00 DOI: 10.1200/JCO.2006.09.4482 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Controversy exists regarding estrogen (ER) and progesterone (PgR) receptor expression on efficacy of adjuvant endocrine therapy. In the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial, the benefit of anastrozole over tamoxifen was substantially greater in ER⫹/PgR– than ER⫹/PgR⫹ tumors. In BIG 1-98 (Breast International Group), the benefits of letrozole over tamoxifen were the same in ER⫹ tumors irrespective of PgR. MA.17 randomized postmenopausal women after 5 years of tamoxifen, to letrozole or placebo. We present outcomes according to tumor receptor status. Patients and Methods Disease-free survival (DFS) and other outcomes were assessed in subgroups by ER and PgR status using Cox’s proportional hazards model, adjusting for nodal status and prior adjuvant chemotherapy. Results The DFS hazard ratio (HR) for letrozole versus placebo in ER⫹/PgR⫹ tumors (N ⫽ 3,809) was 0.49 (95% CI, 0.36 to 0.67) versus 1.21 (95% CI, 0.63 to 2.34) in ER⫹/PgR– tumors (n ⫽ 636). ER⫹/PgR⫹ letrozole patients experienced significant benefit in distant DFS (DDFS; HR ⫽ 0.53; 95% CI, 0.35 to 0.80) and overall survival (OS; HR ⫽ 0.58; 95% CI, 0.37 to 0.90). A statistically significant difference in treatment effect between ER⫹/PgR⫹ and ER⫹/PgR– subgroups for DFS was observed (P ⫽ .02), but not for DDFS (P ⫽ .06) or OS (P ⫽ .09). Conclusion These results suggest greater benefit for letrozole in DFS, DDFS, and OS in patients with ER⫹/PgR⫹ tumors, implying greater activity of letrozole in tumors with a functional ER. However, because this is a subset analysis and receptors were not measured centrally, we caution against using these results for clinical decision making. J Clin Oncol 25. © 2007 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+The estrogen receptor (ER) antagonist tamoxifen has been standard adjuvant therapy for postmenopausal women with hormone receptor–positive early-stage breast cancer. Five years of tamoxifen treatment for ER-positive (ER⫹) patients reduces recurrence and contralateral breast cancer by approximately 41% and breast cancer mortality by 34%.1 These benefits of tamoxifen are observed regardless of age, menopausal status, or prior chemotherapy.1-3 Whereas 5 years of tamoxifen seems to be more effective than shorter periods,2,3 extending tamoxifen beyond 5 years has not been shown to 
+
+further improve disease-free survival (DFS) or overall survival (OS) and may, in fact, be associated with poorer outcomes relative to no treatment.4 Accordingly, tamoxifen for more than 5 years is not currently recommended.5 Disease recurrence or new primary breast tumors after 5 years of tamoxifen remains relatively common. The Oxford Overview meta-analysis has shown that disease recurrence in patients receiving tamoxifen increased from approximately 15% at 5 years to approximately 33% at 15 years.1 Corresponding breast cancer mortality increased more than three-fold, from 8.3% at 5 years to approximately 26% at 15 years. The risk of disease 1 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on April 24, 2007 from 205.181.102.108. Copyright © 2007 by the American Society of Clinical Oncology. All rights reserved. 
+
+Copyright 2007 by American Society of Clinical Oncology 
+
+Goss et al 
+
+recurrence after systemic adjuvant therapy is not limited to patients with high-risk disease. Another study found substantial risk of relapse after completion of adjuvant therapy for patients with all stages of primary breast cancer, even patients disease-free after 5 years of adjuvant therapy with no nodal involvement (N0) or stage II disease experienced an 8% to 9% decrease in DFS by year 10.6 Thus, there is a need for effective and safe therapy for an extended period after 5 years of tamoxifen. The third-generation aromatase inhibitor (AI) letrozole is more effective than tamoxifen for advanced breast cancer7,8 as preoperative therapy for primary cancers9,10 and as initial adjuvant therapy in early-stage disease.11 There are other third-generation AIs that are also more effective than tamoxifen in reducing disease recurrence, including anastrozole in the initial adjuvant setting12 and both anastrozole and exemestane when given after 2 to 3 years of adjuvant tamoxifen.13-15 Letrozole is also more effective than placebo in preventing recurrence in postmenopausal women completing 5 years of tamoxifen,16,17 and is the only AI currently approved for use in the extended adjuvant setting. The improved efficacy of AIs over tamoxifen is likely due to a more complete antiestrogen effect and may be affected by a detrimental partial agonist effect of tamoxifen and also by the molecular characteristics of tumors (eg, human epidermal growth factor receptor 2 [HER-2] overexpression), which could determine the degree to which tamoxifen acts as an agonist.18,19 Finding ways to select women most likely to benefit from AIs would help reduce the ratio of the total number of women needed to treat to the number who benefit from treatment. An analysis of primary tumor characteristics might be one way to select patients who would benefit from the AIs relative to tamoxifen and help to select the most effective treatment option. The progesterone receptor (PgR) is an important breast cancer biomarker as its expression is estrogen-dependent, and, therefore, indicative of an intact ER signaling mechanism.20 In comparing ta- 
+
+moxifen to placebo, the Oxford overview found that recurrence of ER⫹ disease was reduced to a similar degree irrespective of whether tumors were PgR⫹ or PgR– (with reductions in recurrence rates of 37% and 32%, respectively).1,2 Emerging data from some AI trials seem to suggest that treatment outcomes with AIs relative to tamoxifen may differ for tumors expressing both ER and PgR (ER⫹/PgR⫹), compared with women who lack PgR (PgR–). Results from a retrospective analysis of receptor status from the Arimidex, Tamoxifen, Alone or in Combination (ATAC) trial indicated that anastrozole had a significantly superior benefit over tamoxifen in the ER⫹/PgR– subgroup (N ⫽ 1,372; hazard ratio [HR] ⫽ 0.43; P ⬍ .0001) and substantially less effect in the ER⫹/PgR⫹ subgroup (N ⫽ 5,709; HR ⫽ 0.84; P ⫽ .07).21 Combined results of the Austrian Breast and Colorectal Cancer Study Group trial 8 (ABCSG-8) and Arimidex/Nolvadex 95 (ARNO 95) trials also indicated that the effect of anastrozole on disease recurrence was more pronounced in the ER⫹/PgR– subgroup than in the ER⫹/PgR⫹ (HR ⫽ 0.42 v 0.66, respectively).15 One of the largest studies of steroid receptors in breast cancer (N ⬎ 15,000) found that while PgR status had a modest prognostic significance among systemically untreated patients, it was independently associated with both DFS and OS in tamoxifen-treated patients;that is, those subgroups of patients with PgR⫹ tumors derived a significantly greater benefit from tamoxifen compared with PgR– subgroups.22 Whether there are differences in the efficacy of endocrine therapy based on receptor status of the primary tumor in the period following 5 years of adjuvant therapy with tamoxifen is not known. The MA.17 trial investigated the efficacy and tolerability of extended adjuvant letrozole versus placebo in 5,187 postmenopausal women with earlystage breast cancer who had completed about 5 years of tamoxifen therapy.16,17 At 30 months’ median follow-up, letrozole significantly reduced the risk of recurrence by 42% (HR ⫽ 0.58; 95% CI, 0.45 to 0.76; P ⫽ .00004) compared with placebo, and a significant survival 
+
+Table 1. Hazard Ratio for Disease-Free Survival, Distant Disease-Free Survival, and Overall Survival by Hormone-Receptor Subset, Adjusted for Nodal Status and Prior Chemotherapy Events on Letrozole Subset Disease-free survival ITT population ER⫹/PgR⫹ ER⫹/PgR⫺ ER⫺/PgR⫹ ER⫺/PgR⫺ Distant disease-free survival ITT population ER⫹/PgR⫹ ER⫹/PgR⫺ ER⫺/PgR⫹ ER⫺/PgR⫺ Overall survival ITT population ER⫹/PgR⫹ ER⫹/PgR⫺ ER⫺/PgR⫹ ER⫺/PgR⫺ 
+
+Events on Placebo 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+Hazard Ratio 
+
+95% CI 
+
+5,187 3,809 636 200 8 
+
+100 73 12 4 0 
+
+92 60 19 4 — 
+
+3.6 3 6 4 
+
+155 117 17 5 — 
+
+6.0 6 5 5 
+
+0.58 0.49 1.21 0.56 — 
+
+0.45 to 0.76 0.36 to 0.67 0.63 to 2.34 0.15 to 2.12 
+
+5,187 3,809 636 200 8 
+
+100 73 12 4 0 
+
+52 36 13 3 — 
+
+2 2 4 3 
+
+82 65 11 4 — 
+
+3.2 3 3 4 
+
+0.60 0.53 1.25 0.55 — 
+
+0.43 to 0.84 0.35 to 0.80 0.56 to 2.80 0.12 to 2.47 
+
+5,187 3,809 636 200 8 
+
+100 73 12 4 0 
+
+51 31 9 3 — 
+
+2 2 3 3 
+
+62 52 6 1 — 
+
+2.4 3 2 2 
+
+0.82 0.58 1.52 2.16 — 
+
+0.57 to 1.19 0.37 to 0.90 0.54 to 4.30 0.22 to 20.77 
+
+Abbreviations: ITT, intent to treat; ER, estrogen receptor; PgR, progesterone receptor. 
+
+2 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on April 24, 2007 from 205.181.102.108. Copyright © 2007 by the American Society of Clinical Oncology. All rights reserved. 
+
+MA.17 Estrogen and Progesterone Receptor Status 
+
+A 100 
+
+100 
+
+80 
+
+80 
+
+Percentage 
+
+Percentage 
+
+A 
+
+60 40 
+
+Letrozole Placebo 
+
+20 
+
+60 40 
+
+Letrozole Placebo 
+
+20 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+0 
+
+Time From Random Assignment (months) No. at risk Letrozole 309 Placebo 327 
+
+292 315 
+
+239 250 
+
+147 161 
+
+71 69 
+
+23 28 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+Time From Random Assignment (months) 1 1 
+
+292 315 
+
+239 250 
+
+147 161 
+
+71 69 
+
+23 28 
+
+1 1 
+
+B 100 
+
+100 
+
+80 
+
+80 
+
+Percentage 
+
+Percentage 
+
+B 
+
+No. at risk Letrozole 309 Placebo 327 
+
+60 40 Letrozole Placebo 
+
+20 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 40 
+
+60 
+
+0 
+
+Time From Random Assignment (months) No. at risk Letrozole 1,907 Placebo 1,902 
+
+1,849 1,824 
+
+1,394 1,363 
+
+798 750 
+
+391 360 
+
+129 107 
+
+Letrozole Placebo 
+
+20 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+Time From Random Assignment (months) 4 6 
+
+Fig 1. Kaplan-Meier analysis of disease-free survival in patients treated with letrozole or placebo in (A) estrogen receptor–positive (ER⫹)/progesterone receptor–negative (PgR⫺) and (B) ER⫹/PgR⫹ subgroups. 
+
+advantage in favor of letrozole also was demonstrated in patients with node-positive tumors (HR ⫽ 0.61; P ⫽ .04).17 The majority of the women (97.4%) enrolled onto the trial had ER⫹ and/or PgR⫹ tumors. We report here the results from a retrospective analysis, assessing the effect of the ER and PgR status of the primary tumor on DFS, distant DFS (DDFS), and OS in the MA.17 trial. PATIENTS AND METHODS Patients This retrospective subgroup analysis was based on the MA.17 trial, a randomized, double-blind placebo-controlled trial of extended adjuvant therapy with letrozole for 5 years in patients with breast cancer who were disease-free after standard adjuvant tamoxifen.16 Postmenopausal women (N ⫽ 5,187) who had completed 4.5 to 6 years of tamoxifen were randomly assigned from August 1998 to September 2002.16 Details of the eligibility criteria have been reported previously.16 Postmenopausal was defined as age ⱖ 50 years at the start of adjuvant tamoxifen; age less than 50 years but postmenopausal at the initiation of tamoxifen; age less than 50 years at the start of tamoxifen but having had bilateral oophorectomy; premenopausal at age less than 50 years at the start of tamoxifen but becoming amenorrheic during chemotherapy or treatment with tamoxifen; or having postmenopausal levels of luteinizing or follicle-stimulating hormone. 
+
+No. at risk Letrozole 1,907 Placebo 1,902 
+
+1,849 1,824 
+
+1,394 1,363 
+
+798 750 
+
+391 360 
+
+129 107 
+
+4 6 
+
+Fig 2. Kaplan-Meier analysis of distant disease-free survival in patients treated with letrozole or placebo in (A) estrogen receptor–positive (ER⫹)/progesterone receptor–negative (PgR⫺) and (B) ER⫹/PgR⫹ subgroups. 
+
+Other eligibility criteria included histologically confirmed primary breast cancer; ER⫹ and/or PgR⫹ tumors (defined as ⬎ 10 fmol/mg protein, or positive by ER immunohistochemistry, or PgR immunocytochemistry); tamoxifen discontinued less than 3 months before enrollment; Eastern Cooperative Oncology Group performance status 0, 1, or 2; and life expectancy more than 5 years. Patients were excluded for concurrent use of investigational drugs or prior or concurrent malignancy other than skin cancer or carcinoma in situ of the cervix. Women were stratified based on tumor hormone–receptor status (positive or unknown), lymph node status (negative, positive, or unknown), and previous adjuvant chemotherapy (yes or no).16 End Points The primary end point in MA.17 was DFS, defined as time from randomization to time of any breast cancer recurrence (breast, chest wall, nodal, or metastatic site), or contralateral breast cancer. Secondary end points included DDFS, defined as time from randomization to time of distant metastasis, and OS, defined as time from randomization to time of death from any cause.16 Statistical Analyses Kaplan-Meier curves by treatment for each subgroup defined by receptor status were generated for outcomes (DFS, DDFS, and OS). The difference between treatments in each outcome and subgroup was compared by use of Cox’s model adjusting for nodal status and prior chemotherapy (the other two stratification factors in the trial). A Cox model with interaction term was used to assess the differential treatment effects between ER⫹/PgR⫹ and ER⫹/PgR– groups, adjusting for nodal status and prior chemotherapy. 3 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on April 24, 2007 from 205.181.102.108. Copyright © 2007 by the American Society of Clinical Oncology. All rights reserved. 
+
+Goss et al 
+
+RESULTS 
+
+A 
+
+DISCUSSION 
+
+At the first interim analysis (median follow-up 2.4 years) of the MA.17 trial, a significant improvement in DFS for letrozole versus placebo was observed (HR ⫽ 0.57; 95% CI, 0.43 to 0.75; P ⫽ .00008), with an estimated DFS rate of 93% and 87% in the letrozole- and placebotreated patients, respectively.16 Results also indicated a significant DFS benefit of letrozole over placebo in patients with both node-negative (HR ⫽ 0.47; P ⫽ .005) and node-positive disease (HR ⫽ 0.60; 4 
+
+Percentage 
+
+100 80 60 40 
+
+Letrozole Placebo 
+
+20 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+Time From Random Assignment (months) No. at risk Letrozole 309 Placebo 327 
+
+297 320 
+
+242 257 
+
+150 169 
+
+72 74 
+
+23 31 
+
+1 1 
+
+B 100 
+
+Percentage 
+
+The number and percentage of patients in each of the four receptor subgroups is presented in Table 1. Among the 5,187 women in the study, there were 4,653 patients in whom the status of both ER and PgR receptors was known, while the status of at least one of the two receptors remained unknown in 534 patients. Patients whose tumors were ER⫹/PgR⫹ comprised the largest subgroup (n ⫽ 3,809; 73%), followed by those who were ER⫹ and PgR– (n ⫽ 636; 12%), ER– and PgR⫹ (n ⫽ 200; 4%), and ER– and PgR– tumors, who comprised the smallest group (N ⫽ 8; Table 1). Analysis for the last group could not be performed because of the very small sample size. The HR for DFS (letrozole v placebo), adjusted for nodal status and prior chemotherapy, is shown for the receptor subgroups in Table 1. For DFS, the benefit of letrozole was most pronounced in the large subgroup of women with ER⫹/PgR⫹ tumors (adjusted HR ⫽ 0.49; 95% CI, 0.36 to 0.67), corresponding to a 51% reduction in recurrence compared with placebo (Table 1). Women with ER–/PgR⫹ tumors also benefited from letrozole, with a 44% reduction in events compared with placebo (adjusted HR ⫽ 0.56; 95% CI, 0.15 to 2.12), although the 95% CI in this group was wider (Table 1). By comparison, women with ER⫹/PgR– tumors on letrozole did not appear to benefit from letrozole in terms of DFS (adjusted HR ⫽ 1.21; 95% CI, 0.63 to 2.34; Table 1). Results for the analyses of the secondary end points, DDFS and OS, are presented in Table 1. Similar results for DDFS were observed; and as with DFS, women with ER⫹/PgR⫹ tumors benefited most on letrozole (HR ⫽ 0.53; 95% CI, 0.35 to 0.80), with a 47% reduction in distant recurrence compared with placebo. For OS, there was a 42% improvement in survival for patients on letrozole compared with placebo in the ER⫹/PgR⫹ subgroup (HR ⫽ 0.58; 95% CI, 0.37 to 0.90; Table 1). The subgroup of ER⫹/PgR– and ER–/PgR⫹ patients on letrozole did not appear to benefit when compared with the placebo group (Table 1; HR ⫽ 1.52 and 2.16, respectively); however, the numbers of deaths in these two subgroups were likely too small for reliable analysis of this end point. Kaplan-Meier survival curves in the ER⫹/PgR⫹ and ER⫹/PgR– subgroups are shown for DFS, DDFS, and OS in Figures 1, 2, and 3, respectively. Although not a planned comparison in our analysis, the P value of the test for equality (interaction) of the HRs for DFS between the ER⫹/PgR⫹ and ER⫹/PgR– group indicated a statistically significant difference between them (P ⫽ .02). In comparison, the interaction test between the two groups did not reach significance for DDFS (P ⫽ .06) and for OS (P ⫽ .09). The adjustment for nodal status and prior adjuvant chemotherapy did not affect this result (data not shown). 
+
+80 60 40 Letrozole Placebo 
+
+20 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+Time From Random Assignment (months) No. at risk Letrozole 1,907 Placebo 1,902 
+
+1,868 1,851 
+
+1,419 1,403 
+
+816 788 
+
+402 387 
+
+131 114 
+
+4 6 
+
+Fig 3. Kaplan-Meier analysis of overall survival in patients treated with letrozole or placebo in (A) estrogen receptor–positive (ER⫹)/progesterone receptor– negative (PgR⫺) and (B) ER⫹/PgR⫹ subgroups. 
+
+P ⫽ .003).16 We undertook this analysis to explore whether the benefit of letrozole was affected by the receptor status of the primary tumors. This cohort analysis revealed that after completing adjuvant tamoxifen, letrozole-treated patients with the most hormone-sensitive primary tumors (ie, ER⫹/PgR⫹) derived the greatest benefit of improved DFS over placebo (HR ⫽ 0.49), compared with other receptor subgroups (Table 1). Similarly, women with ER–/PgR⫹ tumors also had an improved DFS with letrozole compared with placebo (HR ⫽ 0.56). In comparison, women whose tumors lacked PgR (ER⫹/PgR–) did not appear to benefit from letrozole (HR ⫽ 1.21 in favor of placebo). However, from the outset, the analysis of outcomes in all subgroups other than the ER⫹/PgR⫹ patients (n ⫽ 3,809) is weakened by the low numbers of patients in these groups (eg, ER⫹/ PgR–, n ⫽ 636; Table 1). Nonetheless, as PgR lies downstream of the ER signaling pathway,20 these data imply more pronounced activity of letrozole against breast cancers with a functional ER. In the MA.17 trial, letrozole has already demonstrated a significant benefit in OS among another major subgroup in the trial, the subpopulation of node-positive patients (HR ⫽ 0.61; 95% CI, 0.38 to 0.98; P ⫽ .04).17 Notably, in this current analysis, letrozole has again demonstrated an overall survival advantage in another subgroup in comparison with placebo. The risk of mortality was JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on April 24, 2007 from 205.181.102.108. Copyright © 2007 by the American Society of Clinical Oncology. All rights reserved. 
+
+MA.17 Estrogen and Progesterone Receptor Status 
+
+Table 2. Comparison of HRs for DFS From Clinical Trials of Aromatase Inhibitors11,14,21 MA.17 Subgroup 
+
+All Patients (%) 
+
+HR 
+
+ER⫹/PgR⫹ ER⫹/PgR⫺ 
+
+73 12 
+
+0.49 1.21 
+
+IES 95% CI 
+
+All Patients (%) 
+
+HR 
+
+0.36 to 0.67 0.63 to 2.34 
+
+55 15 
+
+0.66 0.58 
+
+BIG 1-98 95% CI 
+
+All Patients (%) 
+
+HR 
+
+0.51 to 0.87 0.38 to 0.90 
+
+63 20 
+
+0.84 0.83 
+
+ATAC 95% CI 
+
+All Patients (%) 
+
+HR 
+
+95% CI 
+
+0.69 to 1.03 0.62 to 1.10 
+
+61 15 
+
+0.84 0.43 
+
+0.69 to 1.02 0.31 to 0.61 
+
+Abbreviations: HR, hazard ratio; DFS, disease-free survival; IES, Intergroup Exemestane Study; BIG, Breast International Group; ATAC, Arimidex, Tamoxifen, Alone or in Combination; ER, estrogen receptor; PgR, progesterone receptor. 
+
+significantly reduced by 42% (Table 1) in the large ER⫹/PgR⫹ subgroup, which included more than 70% of all patients evaluated. Our findings of greater efficacy in ER⫹/PgR⫹ patients differ from those seen in other subgroup analyses from trials comparing AIs and tamoxifen. Table 2 presents the HR for DFS in MA.17 compared with the other major AI trials in which tamoxifen was the comparator, the Intergroup Exemestane Study (IES), the Breast International Group (BIG) 1-98 trial, and the ATAC trial. The percentages of patients in each subgroup (ER⫹/PgR⫹ or ER⫹/PgR–) are also shown, and the ER⫹/PgR⫹ group was the major group in all the trials.11,13,21 All of these trials have demonstrated a significant benefit of AI therapy over tamoxifen or placebo in the overall population. Subgroup analyses based on ER and PgR status, however, have yielded conflicting results (Table 2). A retrospective analysis of the ATAC trial showed that the efficacy (time to recurrence) of anastrozole was more pronounced in the ER⫹/PgR– patients (unadjusted HR ⫽ 0.43; 95% CI, 0.31 to 0.61) than in the ER⫹/PgR⫹ (unadjusted HR ⫽ 0.84; 95% CI, 0.69 to 1.02). Similar results were found when the HR was adjusted for baseline nodal status, tumor size, and the use of adjuvant chemotherapy.21 A test of interaction between the three categories of PgR status (positive, negative, unknown) and treatment for ER disease was highly significant (P ⫽ .0004).21 The combined ABCSG-8/ARNO 95 analysis results with anastrozole versus tamoxifen also trended in the same direction, with a more pronounced benefit over tamoxifen for patients with ER⫹/PgR– tumors (HR ⫽ 0.66, ER⫹/PgR⫹ P ⫽ .66; ER⫹/PgR– P ⫽ .42).15 Contrary to the anastrozole findings in ATAC, the BIG 1-98 trial demonstrates that the benefit of letrozole was similar in all ER⫹ patients, irrespective of PgR status (ER⫹/PgR⫹ HR ⫽ 0.84; ER⫹/ PgR– HR ⫽ 0.83; Table 2).11 The BIG 1-98 trial also has reported the first and only results from centrally reviewed hormone receptor status in any adjuvant AI trial to date, and these findings confirm the results obtained from local assessment.11,23 Similarly, the IES reported that after 2 to 3 years of adjuvant therapy with tamoxifen, exemestane was equally effective in patients with ER⫹/PgR⫹ and ER⫹/PgR– tumors (HRs, 0.66 and 0.58, respectively; Table 2).13 Findings of the current analysis differ with respect to the possible role of PgR status in relation to the benefit of letrozole over placebo after about 5 years of tamoxifen therapy. We find better outcomes in the larger, ER⫹/PgR⫹ subpopulation and poorer responses in the subpopulation of ER⫹/PgR– patients (Table 1). A benefit of letrozole also was seen in the small population of ER–/PgR⫹ patients (Table 1). The trend was consistent for DDFS and OS (Table 1), though the statistics for the analysis of OS of the ER–/PgR⫹ subgroup were weak because of the small number of patients in this subgroup. These results need to be interpreted with caution; the receptor levels were measured locally not centrally, and all the groups except for 
+
+the ER⫹/PgR⫹ subgroup had a relatively small number of patients in each study population. Another disadvantage of this study is that the data do not indicate whether the difference in the relative efficacy of letrozole according to PgR status is a direct result of the receptor status itself, or whether it is due to segregation of PgR with another unidentified biologic marker. One report has shown that the improved response with letrozole over tamoxifen in the preoperative setting was substantially greater in tumors that were HER-2⫹ and/or epidermal growth factor receptor–positive.10 Similarly, an improved response rate in this clinical setting also has been observed for anastrozole over tamoxifen in HER-2⫹ tumors.24 There is also evidence that PgR levels in breast cancer cell lines can be downregulated by growth factors such as insulinlike growth factor, heregulin, and epidermal growth factor, and this may be indicative of enhanced growth-factor signaling, resistance to endocrine therapy, and consequently a more aggressive tumor phenotype.25 Additional biomarkers such as HER-2 are being assessed in our central review, and we are comparing these markers with two tumor gene signatures, the Massachusetts General Hospital two-gene and the genomic health 21-gene signatures. These and other tumor gene profiles may be useful in the future to provide a molecular explanation for the findings reported here. In conclusion, the MA.17 trial has shown that extended adjuvant treatment with letrozole resulted in a significant increase in DFS compared with placebo in patients with hormone receptor–sensitive tumors.16,17 The subgroup analyses reported here showed that DFS, DDFS, and OS were significantly improved for letrozole-treated patients in the ER⫹/PgR⫹, but not in the smaller ER⫹/PgR– subgroup. These analyses should be considered hypothesis-generating, and will need to be confirmed in other trials. If confirmed, however, the results would allow for a decrease in treatment with extended adjuvant letrozole, in at least a small subset of patients, based on PgR status. Until confirmed, however, we believe that the overall MA.17 trial results, rather than this cohort analysis, should influence clinical practice. Clearly, as seen from the results of the BIG 1-98 and IES trials, which show a benefit for AI therapy in both the ER⫹/PgR⫹ and ER⫹/PgR– subgroups, PgR status should not at present be regarded as a reason for denying or prescribing adjuvant therapy with an AI for patients for whom it is indicated. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following authors or their immediate family members indicated a financial interest. No conflict exists for drugs or devices used in a study if they are not being evaluated as part of the investigation. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of 5 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on April 24, 2007 from 205.181.102.108. Copyright © 2007 by the American Society of Clinical Oncology. All rights reserved. 
+
+Goss et al 
+
+interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment: N/A Leadership: N/A Consultant: Paul E. Goss, Novartis; James N. Ingle, Novartis; Martine J. Piccart, Novartis; Kathleen I. Pritchard, Novartis; Larry Norton, Novartis Stock: N/A Honoraria: Paul E. Goss, Pfizer; James N. Ingle, Pfizer; Kathleen I. Pritchard, Pfizer; David A. Cameron, Pfizer AstraZeneca Research Funds: Lois E. Shepherd, Novartis; Kathleen I. Pritchard, Novartis; Edith A. Perez, Novartis; Joseph L. Pater, Novartis Testimony: N/A Other: Paul E. Goss, Lecture Fees-Novartis; Martine J. Piccart, Lecture Fee-Novartis; Kathleen I. Pritchard, Lecture Fees-Novartis; David A. Cameron, Lecture Fees-Novartis 
+
+AUTHOR CONTRIBUTIONS Conception and design: Paul E. Goss 
+
+REFERENCES 1. Early Breast Cancer Trialists’ Collaborate Group: Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 2. Early Breast Cancer Trialists’ Collaborative Group: Tamoxifen for early breast cancer: An overview of the randomised trials. Lancet 351:14511467, 1998 3. Dellapasqua S, Castiglione-Gertsch M: The choice of systemic adjuvant therapy in receptorpositive early breast cancer. Eur J Cancer 41:357364, 2005 4. Fisher B, Dignam J, Bryant J, et al: Five versus more than five years of tamoxifen for lymph node-negative breast cancer: Updated findings from the National Surgical Adjuvant Breast and Bowel Project B-14 randomized trial. J Natl Cancer Inst 93:684-690, 2001 5. National Cancer Institute clinical announcement: Adjuvant therapy of breast cancer – tamoxifen update. Bethesda, MD, National Institutes of Health, 1995 6. Hortobagyi GN, Kau S-W, Buzdar AU, et al: What is the prognosis of patients with operable breast cancer (BC) five years after diagnosis? J Clin Oncol 22:23, 2004 (suppl 14), (abstr 585) 7. Mouridsen H, Gershanovich M, Sun Y, et al: Superior efficacy of letrozole versus tamoxifen as first-line therapy for postmenopausal women with advanced breast cancer: Results of a phase III study of the International Letrozole Breast Cancer Group. J Clin Oncol 19:2596-2606, 2001, Erratum in: J Clin Oncol 19:3302, 2001 8. Mouridsen H, Gershanovich M, Sun Y, et al: Phase III study of letrozole versus tamoxifen as first-line therapy of advanced breast cancer in postmenopausal women: Analysis of survival and update of efficacy from the International Letrozole Breast Cancer Group. J Clin Oncol 21:2101-2109, 2003 9. Eiermann W, Paepke S, Appfelstaedt J, et al: Preoperative treatment of postmenopausal breast 
+
+Provision of study materials or patients: Paul E. Goss, James N. Ingle, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Martine J. Piccart, Monica Castiglione, Dongsheng Tu, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer, Joseph L. Pater Collection and assembly of data: Dongsheng Tu Data analysis and interpretation: Paul E. Goss, James N. Ingle, Dongsheng Tu, Joseph L. Pater Manuscript writing: James N. Ingle, Dongsheng Tu, Joseph L. Pater Final approval of manuscript: Paul E. Goss, James N. Ingle, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Martine J. Piccart, Monica Castiglione, Dongsheng Tu, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer, Joseph L. Pater 
+
+cancer patients with letrozole: A randomized doubleblind multicenter study. Ann Oncol 12:1527-1532, 2001 10. Ellis MJ, Coop A, Singh B, et al: Letrozole is more effective neoadjuvant endocrine therapy than tamoxifen for ErbB-1- and/or ErbB-2-positive, estrogen receptor-positive primary breast cancer: Evidence from a phase III randomized trial. J Clin Oncol 19:3808-3816, 2001 11. Thürlimann B, Keshaviah A, Coates AS, et al: Breast International Group (BIG) 1-98 Collaborative Group: A comparison of letrozole and tamoxifen in postmenopausal women with early breast cancer. N Engl J Med 353:2747-2757, 2005 12. Baum M, Budzar AU, Cuzick J, et al: ATAC Trialists’ Group: Anastrozole alone or in combination with tamoxifen versus tamoxifen alone for adjuvant treatment of postmenopausal women with early breast cancer: First results of the ATAC randomised trial. Lancet 359:2131-2139, 2002 13. Coombes RC, Hall E, Gibson LJ, et al: A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 350:1081-1092, 2004 14. Coombes RC, Paridaens R, Jassem J, et al: First mature survival analysis of the Intergroup Exemestane Study (IES). Proc Am Soc Clin Oncol 24:933s, 2006 (abstr LBA 527) 15. Jakesz R, Jonat W, Gnant M, et al: ABCSG and the GABG: Switching of postmenopausal women with endocrine responsive early breast cancer to anastrozole after 2 years’ adjuvant tamoxifen—Combined results of ABCSG trial 8 and ARNO 95 trial. Lancet 366:455-462, 2006 16. Goss PE, Ingle JN, Martino S, et al: A randomized trial of letrozole in postmenopausal women after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 349:1793-1802, 2003 17. Goss PE, Ingle JN, Martino S, et al: Randomized trial of letrozole following tamoxifen as extended adjuvant therapy in receptor-positive breast cancer: Updated findings from NCIC CTG MA. 17. J Natl Cancer Inst 97:1262-1271, 2005 
+
+18. Kurokawa H, Lenferink AE, Simpson JF, et al: Inhibition of HER2/neu (erbB-2) and mitogenactivated protein kinases enhances tamoxifen action against HER2-overexpressing, tamoxifen-resistant breast cancer cells. Cancer Res 60:5887-5894, 2000 19. Osborne CK, Bardou V, Hopp TA, et al: Role of the estrogen receptor coactivator AIB1 (SRC-3) and HER-2/neu in tamoxifen resistance in breast cancer. J Natl Cancer Inst 95:353-361, 2003 20. Jensen EV, DesSombre ER: Steroid hormone binding and hormone receptors, in Holland JF, Frei III E, Bast Jr RC, et al (eds): Cancer Medicine (ed 4th). Baltimore, MD, Williams and Wilkins, 1996, pp 1049-1060 21. Dowsett M, Cuzick J, Wale C, et al: Retrospective analysis of time to recurrence in the ATAC trial according to hormone receptor status: An hypothesis-generating study. J Clin Oncol 23:75127517, 2005 22. Bardou VJ, Arpino G, Elledge RM, et al: Progesterone receptor status significantly improves outcome prediction over estrogen receptor status alone for adjuvant endocrine therapy in two large breast cancer databases. J Clin Oncol 21:19731979, 2003 23. Viale G, Regan M, Dell’Orto P, et al: Central review of ER, PgR and HER-2 in BIG 1-98 evaluating letrozole versus tamoxifen as adjuvant endocrine therapy for postmenopausal women with receptorpositive breast cancer. Breast Cancer Res Treat 94:S13, 2005, (suppl 1) (abstr 44) 24. Smith IE, Dowsett M, Ebbs SR, et al: Neoadjuvant treatment of postmenopausal breast cancer with anastrozole, tamoxifen, or both in combination: The Immediate Preoperative Anastrozole, Tamoxifen, or Combined with Tamoxifen (IMPACT) multicenter double-blind randomized trial. J Clin Oncol 23:5108-5116, 2005 25. Cui X, Zhang P, Deng W, et al: Insulin-like growth factor-I inhibits progesterone receptor expression in breast cancer cells via the phosphatidylinositol 3-kinase/Akt/mammalian target of rapamycin pathway: Progesterone receptor as a potential indicator of growth factor activity in breast cancer. Mol Endocrinol 17:575-588, 2003 
+
+■ ■ ■ 
+
+Acknowledgment This study was supported by the Canadian Cancer Society through the National Cancer Institute of Canada, grants from the National Cancer Institute in the United States, and Novartis Pharmaceuticals. We are indebted to the women who participated in this study. 
+
+6 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on April 24, 2007 from 205.181.102.108. Copyright © 2007 by the American Society of Clinical Oncology. All rights reserved. 
+
+ 

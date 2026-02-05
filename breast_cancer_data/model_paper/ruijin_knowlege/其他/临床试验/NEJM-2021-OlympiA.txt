@@ -1,0 +1,921 @@
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Original Article 
+
+Adjuvant Olaparib for Patients with BRCA1- or BRCA2-Mutated Breast Cancer A.N.J. Tutt, J.E. Garber, B. Kaufman, G. Viale, D. Fumagalli, P. Rastogi, R.D. Gelber, E. de Azambuja, A. Fielding, J. Balmaña, S.M. Domchek, K.A. Gelmon, S.J. Hollingsworth, L.A. Korde, B. Linderholm, H. Bandos, E. Senkus, J.M. Suga, Z. Shao, A.W. Pippas, Z. Nowecki, T. Huzarski, P.A. Ganz, P.C. Lucas, N. Baker, S. Loibl, R. McConnell, M. Piccart, R. Schmutzler, G.G. Steger, J.P. Costantino, A. Arahmani, N. Wolmark, E. McFadden, V. Karantza, S.R. Lakhani, G. Yothers, C. Campbell, and C.E. Geyer, Jr., for the OlympiA Clinical Trial Steering Committee and Investigators*​​ 
+
+A BS T R AC T BACKGROUND The authors’ full names, academic degrees, and affiliations are listed in the Appendix. Address reprint requests to Dr. Tutt at the Breast Cancer Now Toby Robins Research Centre, the Institute of Cancer Research, 237 Fulham Rd., London SW3 6JB, United Kingdom, or at ­andrew​ .­tutt@​­icr​.­ac​.­uk. *The members of the OlympiA Steering Committee and the trial investigators are listed in the Supplementary Appendix, available at NEJM.org. This article was published on June 3, 2021, at NEJM.org. N Engl J Med 2021;384:2394-405. DOI: 10.1056/NEJMoa2105215 Copyright © 2021 Massachusetts Medical Society. 
+
+Poly(adenosine diphosphate–ribose) polymerase inhibitors target cancers with defects in homologous recombination repair by synthetic lethality. New therapies are needed to reduce recurrence in patients with BRCA1 or BRCA2 germline mutation– associated early breast cancer. METHODS 
+
+We conducted a phase 3, double-blind, randomized trial involving patients with human epidermal growth factor receptor 2 (HER2)–negative early breast cancer with BRCA1 or BRCA2 germline pathogenic or likely pathogenic variants and highrisk clinicopathological factors who had received local treatment and neoadjuvant or adjuvant chemotherapy. Patients were randomly assigned (in a 1:1 ratio) to 1 year of oral olaparib or placebo. The primary end point was invasive disease–free survival. RESULTS 
+
+A total of 1836 patients underwent randomization. At a prespecified event-driven interim analysis with a median follow-up of 2.5 years, the 3-year invasive disease– free survival was 85.9% in the olaparib group and 77.1% in the placebo group (difference, 8.8 percentage points; 95% confidence interval [CI], 4.5 to 13.0; hazard ratio for invasive disease or death, 0.58; 99.5% CI, 0.41 to 0.82; P<0.001). The 3-year distant disease–free survival was 87.5% in the olaparib group and 80.4% in the placebo group (difference, 7.1 percentage points; 95% CI, 3.0 to 11.1; hazard ratio for distant disease or death, 0.57; 99.5% CI, 0.39 to 0.83; P<0.001). Olaparib was associated with fewer deaths than placebo (59 and 86, respectively) (hazard ratio, 0.68; 99% CI, 0.44 to 1.05; P = 0.02); however, the between-group difference was not significant at an interim-analysis boundary of a P value of less than 0.01. Safety data were consistent with known side effects of olaparib, with no excess serious adverse events or adverse events of special interest. CONCLUSIONS 
+
+Among patients with high-risk, HER2-negative early breast cancer and germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants, adjuvant olaparib after completion of local treatment and neoadjuvant or adjuvant chemotherapy was associated with significantly longer survival free of invasive or distant disease than was placebo. Olaparib had limited effects on global patient-reported quality of life. (Funded by the National Cancer Institute and AstraZeneca; OlympiA ClinicalTrials .gov number, NCT02032823.) 2394 
+
+n engl j med 384;25 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+Olaparib for BRCA1- or BRCA2-Mutated Breast Cancer 
+
+A 
+
+pproximately 5% of unselected patients with breast cancer carry germline BRCA1 or BRCA2 mutations (now termed variants) that are either pathogenic or likely pathogenic.1,2 Such variants are more likely in patients who have a strong family history of breast cancer, are younger, have synchronous or metachronous contralateral breast and ovarian cancer,3 or are from ethnic groups with known founder variants.1,2 Patients with a BRCA1 pathogenic or likely pathogenic variant have a particular predisposition to breast cancer that is triple negative (i.e., negative for human epidermal growth factor receptor 2 [HER2] and estrogen and progesterone receptors), whereas estrogen-receptor–positive tumors often develop in patients with a BRCA2 pathogenic or likely pathogenic variant.4-6 Germline testing for such variants is currently performed selectively in such patients with breast cancer.7 BRCA1 and BRCA2 encode proteins that are critical for homologous recombination DNA repair.8 Breast cancers with germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants and biallelic inactivation show evidence of deficiency in homologous recombination repair.9,10 Inhibitors of the poly(adenosine diphosphate– ribose) polymerase (PARP) family of enzymes exploit the principle of synthetic lethality to selectively kill tumor cells11-14 that have a deficiency in homologous recombination repair. Proof of concept for clinical activity has been shown in advanced germline BRCA1 or BRCA2 pathogenic or likely pathogenic variant–associated breast, ovarian, prostate, and pancreatic cancers,15-17 and these findings justified randomized study designs. In the OlympiA trial, we hypothesized that olaparib would provide benefit as an adjuvant therapy for patients with germline BRCA1 or BRCA2 pathogenic or likely pathogenic variant– associated early breast cancer who have a high risk of recurrence despite standard-of-care local and systemic therapy.18,19 Here, we present results after the prespecified interim analysis reviewed by the independent data monitoring committee. 
+
+Me thods Trial Design and Oversight 
+
+The trial was designed and conducted as a collaborative partnership between the Breast International Group (BIG) and the sponsors NRG Oncology in the United States and AstraZeneca (as part n engl j med 384;25 
+
+of an alliance between AstraZeneca and Merck) outside the United States. OlympiA is a prospective, multicenter, multinational, double-blind clinical trial with eligible patients randomly assigned to receive either olaparib or placebo for 1 year, after the completion of standard adjuvant or neoadjuvant chemotherapy and local therapy (Fig. S1 in the Supplementary Appendix, available with the full text of this article at NEJM.org). Details of randomization, blinding, trial oversight, and the collaboration model for the trial, coordinated by the BIG under dual sponsorship, are provided in Section 3.1 in the Supplementary Appendix. We recruited patients in 420 centers across 23 countries (Table S1). The sponsors had no access to the full database before release by the steering committee. The prespecified interim analysis was conducted under the auspices of the independent data monitoring committee, which made recommendations accepted by the steering committee and the sponsors. The authors and the sponsors vouch for the completeness and accuracy of the data and for the fidelity of the trial to the protocol (available at NEJM.org). The analysis was conducted and the first manuscript draft was written by the trial statisticians and the first author independent of the sponsors. All the authors contributed to subsequent drafts, and no others contributed to the writing. The trial was conducted in accordance with the amended Declaration of Helsinki, and the protocol was approved by the institutional review board at each participating center. All the patients provided written informed consent. Olaparib and placebo were provided by AstraZeneca. Patients and Eligibility Criteria 
+
+Patients who were eligible had a germline BRCA1 or BRCA2 pathogenic or likely pathogenic variant defined by local or central testing and had highrisk, HER2-negative primary breast cancer after definitive local treatment and neoadjuvant or adjuvant chemotherapy. If a local laboratory had reported an eligible variant, this was used for establishing eligibility. Details of germline BRCA1 and BRCA2 pathogenic or likely pathogenic variant screening, local and central testing for variants, and concordance are provided in Figure S2 and Tables S2 and S3. Any adjudication of germline BRCA1 or BRCA2 pathogenic or likely pathogenic variant eligibility was conducted by the trial genetics advisory committee. Local results 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2395 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+of estrogen-receptor, progesterone-receptor, and HER2 testing were used for determination of the hormone-receptor status (cutoff point for positivity, ≥1%) for stratification and for hormonereceptor–positive specific stage criteria for eligibility. (Details of receptor-status central review and concordance for all the patients recruited outside China are provided in Tables S4 and S5.) Patients were required to have completed all local therapy — including radiotherapy, which interacts with PARP inhibition — at least 2 weeks and not more than 12 weeks before trial entry. Patients had completed at least six cycles of neoadjuvant or adjuvant chemotherapy containing anthracyclines, taxanes, or both agents. Platinum chemotherapy was allowed. Adjuvant bisphosphonates and adjuvant endocrine therapy in patients with hormone-receptor–positive disease were given according to institutional guidelines. No chemotherapy after surgery was allowed in patients who received neoadjuvant chemotherapy. Patients with triple-negative breast cancer who were treated with adjuvant chemotherapy were required to have axillary node–positive disease or an invasive primary tumor measuring at least 2 cm on pathological analysis. Patients who were treated with neoadjuvant chemotherapy were required to have residual invasive breast cancer in the breast or resected lymph nodes (i.e., no pathological complete response from neoadjuvant therapy). Patients who were treated with adjuvant chemotherapy for hormone-receptor–positive, HER2negative breast cancer were required to have at least four pathologically confirmed positive lymph nodes. Those who were treated with neoadjuvant chemotherapy were required to have not had a pathological complete response with a CPS+EG score of 3 or higher. The CPS+EG scoring system estimates relapse probability on the basis of clinical and pathological stage (CPS) and estrogen-receptor status and histologic grade (EG); scores range from 0 to 6, with higher scores indicating worse prognosis.20 Full eligibility criteria are provided in Section 3.2 in the Supplementary Appendix. Randomization and Treatment 
+
+Patients were randomly assigned in a 1:1 ratio to receive olaparib (300 mg) or matching placebo tablets taken orally twice daily for 52 weeks. Patients were stratified according to hormone2396 
+
+n engl j med 384;25 
+
+receptor status (positive or negative), timing of previous chemotherapy (neoadjuvant or adjuvant), and use of platinum chemotherapy for current breast cancer (yes or no). Assessments 
+
+After randomization, medical history taking and physical examination were performed every 4 weeks for 24 weeks and then every 3 months through year 2, every 6 months in years 3 to 5, and annually thereafter. Imaging to assess the development of metastatic disease was obtained at investigator discretion when symptoms, physical examination findings, or laboratory results suggested the possibility of disease recurrence. Patients underwent mammography, breast magnetic resonance imaging, or both on an annual basis. After a first event, patients were followed for first distant relapse (if not the first event), central nervous system metastases, locoregional relapses, contralateral breast cancer, second primary cancers, and survival status. End Points 
+
+In accordance with the standardized definitions for efficacy end points (STEEP) system,21 the primary end point of invasive disease–free survival was defined as the time from randomization until the date of first occurrence of one of the following events: ipsilateral invasive breast tumor, locoregional invasive disease, distant recurrence, contralateral invasive breast cancer, second primary invasive cancer, or death from any cause. Data for patients without a documented event of invasive disease or death were censored at the date they were last known to be diseasefree. Secondary end points included distant disease–free survival, overall survival, and safety. Statistical Analysis 
+
+Efficacy analyses were based on the intention-totreat population, which included all the patients who had undergone randomization. Survival functions were estimated by means of the Kaplan– Meier method. The stratified Cox proportionalhazards model was used to estimate the hazard ratio and confidence intervals, and the comparison of survival between trial groups was tested by stratified log-rank testing. Because of the early period when the hazard ratio was very low, the Cox assumption was not confirmed. According to our statistical analysis plan, restricted mean 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+Olaparib for BRCA1- or BRCA2-Mutated Breast Cancer 
+
+Table 1. Demographic and Disease Characteristics of the Patients at Baseline.* Characteristic 
+
+Olaparib (N = 921) 
+
+Placebo (N = 915) 
+
+Median age (interquartile range) — yr 
+
+42 (36–49) 
+
+43 (36–50) 
+
+BRCA1 
+
+657 (71.3) 
+
+670 (73.2) 
+
+BRCA2 
+
+261 (28.3) 
+
+239 (26.1) 
+
+BRCA1 and BRCA2 
+
+2 (0.2) 
+
+5 (0.5) 
+
+Missing data 
+
+1 (0.1) 
+
+1 (0.1) 
+
+Adjuvant 
+
+461 (50.1) 
+
+455 (49.7) 
+
+Neoadjuvant 
+
+460 (49.9) 
+
+460 (50.3) 
+
+Regimen with both anthracycline and taxane 
+
+871 (94.6) 
+
+849 (92.8) 
+
+Germline BRCA mutation — no. (%)† 
+
+Previous adjuvant or neoadjuvant chemotherapy — no. (%) 
+
+Anthracycline regimen, without taxane 
+
+7 (0.8) 
+
+13 (1.4) 
+
+Taxane regimen, without anthracycline 
+
+43 (4.7) 
+
+52 (5.7) 
+
+Regimen not reported 
+
+0 
+
+1 (0.1) 
+
+7 (0.8) 
+
+15 (1.6) 
+
+No 
+
+674 (73.2) 
+
+676 (73.9) 
+
+Yes 
+
+247 (26.8) 
+
+239 (26.1) 
+
+146/168 (86.9) 
+
+142/157 (90.4) 
+
+<6 Cycles of neoadjuvant or adjuvant chemotherapy Platinum-based neoadjuvant or adjuvant therapy 
+
+Concurrent hormone therapy (hormone-receptor–positive patients only) — no./total no. (%) Hormone-receptor status — no. (%)‡ Hormone-receptor positive and HER2 negative§ 
+
+168 (18.2) 
+
+157 (17.2) 
+
+Triple-negative breast cancer¶ 
+
+751 (81.5) 
+
+758 (82.8) 
+
+Premenopausal 
+
+572/919 (62.2) 
+
+553/911 (60.7) 
+
+Postmenopausal 
+
+347/919 (37.8) 
+
+358/911 (39.3) 
+
+Mastectomy 
+
+698 (75.8) 
+
+673 (73.6) 
+
+Conservative surgery only 
+
+223 (24.2) 
+
+240 (26.2) 
+
+0 
+
+2 (0.2) 
+
+Menopausal status (women only) — no./total no. (%) 
+
+Surgery for primary breast cancer — no. (%) 
+
+Missing data 
+
+*	Further information on baseline characteristics is provided in Table S6 in the Supplementary Appendix. Percentages may not total 100 because of rounding. HER2 denotes human epidermal growth factor receptor 2. †	For a detailed description of local and central Myriad BRCA testing in patients enrolled in the trial, see Figure S2. Variant interpretation by Myriad Genetics (BRCAnalysis) (1564 patients) and BGI Genomics (247 patients) was performed with the use of multiple established databases (e.g., ClinVar, ClinGen, and ENIGMA) and published and internal functional and clinical data, compliant with American College of Medical Genetics published guidelines. The 24 pathogenic or likely pathogenic variants from local laboratories without central Myriad confirmation were confirmed by the OlympiA genetics advisory committee with the use of published databases as above. Discordant data are referred to Figure S2, and numbers are shown in Table S3. Table S2B lists pathogenic or likely pathogenic (deleterious or suspected deleterious) BRCA1 and BRCA2 variants that occurred in more than 1 patient. ‡	Hormone-receptor status was defined by local test results. §	The original protocol that was activated in 2014 was developed for HER2-negative patients but included only patients with triple-negative breast cancer after regulatory review. When the safety rationale with respect to recurrence risk relative to combination therapy with olaparib and endocrine therapy was accepted by regulators, the protocol was amended in 2015 to include patients with high-risk hormone-receptor– positive disease and to increase the sample size to the current number of 1800 patients (see the protocol). The first patient with hormonereceptor–positive disease was enrolled in December 2015. ¶	Triple-negative breast cancer was defined in the eligibility criteria as estrogen-receptor negative and progesterone-receptor negative, as indicated by immunohistochemical (IHC) nuclear staining of less than 1%, and HER2 negative (not eligible for anti-HER2 therapy), as indicated by one of the following: an IHC score of 0 or 1+; an IHC score of 2+ and HER2-nonamplified disease on in situ hybridization (ISH) with a ratio of less than 2.0 and, if reported, an average HER2 copy number of fewer than 4 signals per cell; or HER2-nonamplified disease on ISH with a ratio less of than 2.0 and, if reported, an average HER2 copy number of fewer than 4 signals per cell (without IHC). Two patients (both in the olaparib group) were excluded from the summary of the subgroup with triple-negative breast cancer because they did not have confirmed HER2-negative status. 
+
+n engl j med 384;25 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2397 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+survival time was calculated, and the results supported those obtained from the Cox model analysis. Safety was assessed in the population of patients who received at least one dose of olaparib or placebo. The trial was designed with a sample size of 1800 patients such that the primary analysis would be triggered by 330 events of invasive disease or death in the intention-to-treat population. These conditions would provide the trial with 90% power to detect a hazard ratio of 0.7 under the assumption of a two-sided 5% significance level. A single interim analysis of the intention-to-treat population was planned when 165 events of invasive disease or death had been observed in the first 900 patients enrolled (termed the mature cohort). At the interim analysis, an analysis of the mature cohort was also prespecified and required a hazard ratio of similar magnitude to provide confidence in the sustainability of the intention-to-treat result. To control the type I error rate at the interim analysis, superiority boundaries that were based on a hierarchical multiple-testing procedure22 were a P value of less than 0.005 for invasive disease–free survival, followed by a P value of less than 0.005 for distant disease–free survival and a P value of less than 0.01 for overall survival, with confidence intervals for hazard ratios selected to match the required significance levels for each end point at the interim analysis (Fig. S3). 
+
+R e sult s Patients 
+
+From June 2014 through May 2019, a total of 1836 patients (including 6 men) were randomly assigned to receive olaparib or placebo. At the time of data cutoff on March 27, 2020, a total of 284 events of invasive disease or death (86% of the primary-analysis target of 330 such events) had been observed, with a median follow-up of 2.5 years (interquartile range, 1.5 to 3.5) in the intention-to-treat population and 3.5 years (interquartile range, 2.9 to 4.1) in the mature cohort. After randomization, 10 patients in the olaparib group and 11 patients in the placebo group did not receive the assigned regimen (Fig. S4). Baseline characteristics of the patients were balanced between the two trial groups (Table 1 and Table S6). A total of 82.2% of the patients had triple-negative breast cancer (hormone-receptor negative and HER2 negative). Half the patients 2398 
+
+n engl j med 384;25 
+
+Figure 1 (facing page). Kaplan–Meier Estimates of Survival. In accordance with the standardized definitions for efficacy end points (STEEP) system, the primary end point of invasive disease–free survival (Panel A) was defined as the time from randomization until the date of one of the following events: ipsilateral invasive breast tumor, locoregional invasive disease, distant recurrence, contralateral invasive breast cancer, second primary invasive cancer, or death from any cause. Data for patients without a documented event of invasive disease or death were censored at the date they were last known to be disease-free. Distant disease–free survival (Panel B) was defined as the time from randomization until documented evidence of first distant recurrence of breast cancer or death. Distant recurrence includes the following events: distant recurrence (metastatic breast cancer that has either been biopsy confirmed or radiologically diagnosed as recurrent invasive breast cancer); death attributable to any cause, including breast cancer, nonbreast cancer, or unknown cause; and second primary nonbreast invasive cancer. Evidence of distant recurrence requires either radiologic examination or histopathological confirmation by biopsy. Overall survival (Panel C) was defined as the time from the date of randomization until death due to any cause; the P value for the boundary for significance in this prespecified event-driven interim analysis was less than 0.01. For invasive disease–free survival and distant disease–free survival, 99.5% confidence intervals are shown for the hazard ratios because a P value of less than 0.005 is required to indicate statistical significance for these end points. Similarly, the 99% confidence interval is shown for the hazard ratio for overall survival because a P value of less than 0.01 is required to indicate statistical significance for overall survival. On the basis of the pooling strategy for stratification factors described in Section 3.4 in the Supplementary Appendix, both the Cox model hazard-ratio estimation and the log-rank test were performed with hormone-receptor status as the single stratification factor. The event-free rates at 12, 24, and 36 months in each group are displayed above and below the curves. 
+
+had received adjuvant chemotherapy and half neoadjuvant chemotherapy, with the majority (93.7%) receiving a regimen that included both an anthracycline and a taxane. A platinum agent was received by 26.5% of the patients, primarily as neoadjuvant therapy. Germline mutations were present in BRCA1 in 72.3% of the patients, in BRCA2 in 27.2% of the patients, and in both BRCA1 and BRCA2 in 0.4% of the patients, with an even distribution between the trial groups. Efficacy 
+
+The early-reporting efficacy boundary was crossed at the prespecified interim analysis. The percentage of patients alive and free of invasive disease 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+Olaparib for BRCA1- or BRCA2-Mutated Breast Cancer 
+
+Patients (%) 
+
+A Invasive Disease–free Survival 100 90 80 70 60 50 40 30 20 10 0 
+
+93.3 
+
+89.2 
+
+85.9 
+
+Olaparib (106 events) Placebo (178 events) 
+
+88.4 81.5 
+
+77.1 
+
+Between-group difference in 3-yr invasive disease–free survival, 8.8 percentage points (95% CI, 4.5–13.0) Stratified hazard ratio for invasive disease or death, 0.58 (99.5% CI, 0.41–0.82) P<0.001 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+276 256 
+
+183 173 
+
+Months since Randomization No. at Risk Olaparib Placebo 
+
+921 915 
+
+820 807 
+
+737 732 
+
+607 585 
+
+361 353 
+
+477 452 
+
+Patients (%) 
+
+B Distant Disease–free Survival 100 90 80 70 60 50 40 30 20 10 0 
+
+94.3 
+
+90.0 
+
+90.2 
+
+87.5 
+
+83.9 
+
+Olaparib (89 events) Placebo (152 events) 
+
+80.4 
+
+Between-group difference in 3-yr distant disease–free survival, 7.1 percentage points (95% CI, 3.0–11.1) Stratified hazard ratio for distant disease or death, 0.57 (99.5% CI, 0.39–0.83) P<0.001 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+279 263 
+
+187 179 
+
+Months since Randomization No. at Risk Olaparib Placebo 
+
+921 915 
+
+823 817 
+
+Patients (%) 
+
+C Overall Survival 100 90 80 70 60 50 40 30 20 10 0 
+
+744 742 
+
+612 594 
+
+364 359 
+
+479 461 
+
+98.1 
+
+94.8 
+
+96.9 
+
+92.3 
+
+92.0 
+
+Olaparib (59 deaths) Placebo (86 deaths) 
+
+88.3 
+
+Between-group difference in 3-yr overall survival, 3.7 percentage points (95% CI, 0.3–7.1) Stratified hazard ratio for death, 0.68 (99% CI, 0.44–1.05) P=0.02 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+310 292 
+
+205 199 
+
+Months since Randomization No. at Risk Olaparib Placebo 
+
+921 915 
+
+856 865 
+
+801 801 
+
+659 659 
+
+400 397 
+
+531 516 
+
+at 3 years was 85.9% in the olaparib group and 77.1% in the placebo group (difference, 8.8 percentage points; 95% confidence interval [CI], 4.5 to 13.0). Invasive disease–free survival was significantly longer among patients assigned to n engl j med 384;25 
+
+receive olaparib than among those assigned to receive placebo (hazard ratio, 0.58; 99.5% CI, 0.41 to 0.82; P<0.001) (Fig. 1A). Events of invasive disease or death were reported in 106 patients in the olaparib group and 178 patients in 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2399 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+the placebo group. The frequency of each type of event was lower with olaparib than with placebo (Table S7). Distant disease–free survival at 3 years was 87.5% in the olaparib group and 80.4% in the placebo group (difference, 7.1 percentage points; 95% CI, 3.0 to 11.1). Distant disease–free survival was significantly longer among patients assigned to receive olaparib than among those assigned to receive placebo (hazard ratio, 0.57; 99.5% CI, 0.39 to 0.83; P<0.001) (Fig. 1B). Fewer deaths were reported in the olaparib group (59) than in the placebo group (86), with a hazard ratio of 0.68 (99% CI, 0.44 to 1.05; P = 0.02) (Fig. 1C). However, the between-group difference did not cross the prespecified multiple-testing procedure boundary for significance of P<0.01 (Fig. S3). The primary cause of death was breast cancer in 55 of 59 patients (93%) in the olaparib group and in 82 of 86 patients (95%) in the placebo group (Table S8). Death without a previous event of invasive disease was reported in 2 patients, both in the olaparib group (the cause was cardiac arrest in 1 patient and was unknown in 1 patient) (Table S7). None of the prespecified sensitivity analyses, described in Section 3.5 in the Supplementary Appendix, changed the conclusions reported here. The results of these analyses are provided in Table S9. Subgroup analysis of invasive disease–free survival revealed point estimates of treatment effect for olaparib over placebo that were consistent with those in the overall analysis population across all the stratification groups and prespecified subgroups (Fig. 2 and Table S10). The benefit of adjuvant olaparib relative to placebo was observed for invasive disease–free survival irrespective of the germline BRCA mutation (BRCA1 vs. BRCA2), the hormone-receptor status, or the timing of previous chemotherapy (neoadjuvant vs. adjuvant), with confidence intervals that crossed the point estimate of the hazard ratio for invasive disease–free survival in the overall population.23 No evidence suggested statistical heterogeneity in the treatment effect across subgroups. 
+
+ber of days at the protocol dose of 300 mg twice daily was 338 in the olaparib group and 358 in the placebo group; the median percentage of the intended dose that was received was 94.8% and 98.9%, respectively (Tables S11 through S13). Early discontinuations of the trial regimen, including discontinuations due to recurrence, occurred in 236 patients (25.9%) in the olaparib group and 187 (20.7%) in the placebo group (Fig. S4). Adverse events that occurred in at least 10% of the patients in either group are shown in Table 2, and the events in the olaparib group were consistent with the product label. Important adverse events are summarized in Table 3. Adverse events of grade 3 or higher that occurred in more than 1% of the patients in the olaparib group were anemia (8.7%), decreased neutrophil count (4.8%), decreased white-cell count (3.0%), fatigue (1.8%), and lymphopenia (1.2%). No adverse events of grade 3 or higher occurred in more than 1% of the patients in the placebo group. Blood transfusion was infrequent, with 53 patients (5.8%) in the olaparib group and 8 patients (0.9%) in the placebo group having at least one transfusion; 37 patients in the olaparib group (4.1%) had only one transfusion (Table S14). Serious adverse events occurred in 79 patients (8.7%) who received olaparib and 76 patients (8.4%) who received placebo. Adverse events leading to death were cardiac arrest in 1 patient in the olaparib group and acute myeloid leukemia (AML) and ovarian cancer in 1 patient each in the placebo group. Adverse events of special interest included pneumonitis, radiation pneumonitis, myelodysplastic syndrome (MDS) or AML, and new primary cancer other than MDS or AML. None occurred at a higher frequency in the olaparib group than in the placebo group; however, given the short median follow-up of 2.5 years for this report, further follow-up is needed for the latter two categories of adverse events of special interest. In the olaparib group, 228 patients (25.0%) had a dose reduction, as compared with 47 (5.2%) in the placebo group (Table S15). Adverse events that led to permanent discontinuation of the trial regimen occurred in 90 patients (9.9%) in Safety the olaparib group and 38 patients (4.2%) in the A total of 1815 patients (911 in the olaparib placebo group. The most common reasons for group and 904 in the placebo group) were in- discontinuation of olaparib were nausea (2.0%), cluded in the safety analysis. The median num- anemia (1.8%), fatigue (1.3%), and decreased 
+
+2400 
+
+n engl j med 384;25 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+Olaparib for BRCA1- or BRCA2-Mutated Breast Cancer 
+
+Subgroup 
+
+Olaparib 
+
+3-Yr Invasive Disease–free Survival 
+
+Placebo 
+
+Stratified Hazard Ratio for Invasive Disease or Death (95% CI) 
+
+Olaparib Placebo no. of patients with an event/total no. All patients 106/921 Timing of previous chemotherapy 70/460 Neoadjuvant 36/461 Adjuvant Previous platinum-based chemotherapy 34/247 Yes 72/674 No Hormone-receptor status 19/168 HR+ and HER2− 87/751 TNBC Germline BRCA mutation 70/558 BRCA1 22/230 BRCA2 0/1 BRCA1 and BRCA2 Hormone-receptor status and timing of previous chemotherapy 13/104 HR+ and HER2–, NACT 6/64 HR+ and HER2–, ACT 57/354 TNBC, NACT 30/397 TNBC, ACT Previous platinum-based chemotherapy and timing of previous chemotherapy 26/169 Yes, NACT 8/78 Yes, ACT 44/291 No, NACT 28/383 No, ACT CPS+EG score in patients with previous NACT 55/398 Score of 2, 3, or 4 11/22 Score of 5 or 6 Primary database 95/810 Breast International Group 11/111 NRG Oncology (United States) 
+
+% 
+
+178/915 
+
+85.9 
+
+77.1 
+
+0.58 (0.46–0.74) 
+
+117/460 61/455 
+
+82.5 89.3 
+
+68.0 85.4 
+
+0.56 (0.41–0.75) 0.60 (0.39–0.90) 
+
+43/239 135/676 
+
+82.0 87.3 
+
+77.0 77.1 
+
+0.77 (0.49–1.21) 0.52 (0.39–0.69) 
+
+25/157 153/758 
+
+83.5 86.1 
+
+77.2 76.9 
+
+0.70 (0.38–1.27) 0.56 (0.43–0.73) 
+
+126/558 38/209 0/3 
+
+85.0 88.6 NC 
+
+73.4 78.0 NC 
+
+0.52 (0.39–0.70) 0.52 (0.30–0.86) NC 
+
+20/92 5/65 97/368 56/390 
+
+86.0 76.4 81.4 90.3 
+
+67.0 89.3 67.7 84.8 
+
+0.52 (0.25–1.04) 1.36 (0.41–4.71) 0.57 (0.41–0.79) 0.54 (0.34–0.83) 
+
+39/169 4/70 78/291 57/385 
+
+81.8 NC 83.1 90.4 
+
+70.1 NC 66.8 84.2 
+
+0.66 (0.40–1.07) NC 0.51 (0.35–0.73) 0.51 (0.32–0.79) 
+
+96/387 10/15 
+
+84.3 50.0 
+
+68.9 17.9 
+
+0.51 (0.37–0.71) 0.44 (0.19–1.06) 
+
+160/806 18/109 
+
+86.0 85.0 
+
+76.7 80.6 
+
+0.58 (0.45–0.75) 0.57 (0.26–1.18) 0.25 
+
+0.50 
+
+0.75 
+
+Olaparib Better 
+
+1.00 
+
+1.25 
+
+Placebo Better 
+
+Figure 2. Subgroup Analysis of Invasive Disease–free Survival. The solid vertical line indicates the overall hazard-ratio estimate, and the dashed vertical line indicates a hazard ratio of 1.00, as recommended by Cuzick.23 The size of the blue squares corresponds to the number of events contributing to the estimate of the treatment effect. Even without correcting for multiple comparisons, none of the tests for heterogeneity reached statistical significance. BRCA mutation data reflect central Myriad testing results only. The CPS+EG score is a staging system for disease-specific survival among patients with breast cancer treated with neoadjuvant chemotherapy (NACT).20 This incorporates pretreatment clinical stage, estrogen-receptor status, nuclear grade, and postneoadjuvant chemotherapy pathological stage. Patients who were enrolled had scores ranging from 2 to 6, with higher scores indicating worse prognosis. The prespecified subgroup analysis of the CPS+EG score in patients with previous NACT was performed in all the patients who had received NACT, whether they had hormone-receptor–positive (HR+) disease or triplenegative breast cancer (TNBC). ACT denotes adjuvant chemotherapy, HER2 human epidermal growth factor receptor 2, and NC not calculated. 
+
+neutrophil count (1.0%) (Table S16). The results of the European Organization for Research and Treatment of Cancer QLQ-C30 Global Health Status and Quality of Life scale indicated that global health quality did not decline during the 12 months of treatment with either olaparib or placebo. Any differences between the trial groups n engl j med 384;25 
+
+were not considered to be clinically significant (Fig. S5). 
+
+Discussion Olaparib and talazoparib are now approved for the treatment of metastatic germline BRCA1 or 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2401 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 2. Adverse Events According to Grade.* Adverse Event 
+
+Olaparib (N = 911) Any Grade 
+
+Grade 1 
+
+Grade 2 
+
+Placebo (N = 904) Grade ≥3† 
+
+Any Grade 
+
+Grade 1 
+
+Grade 2 
+
+Grade ≥3† 
+
+number of patients (percent) Nausea 
+
+518 (56.9) 
+
+390 (42.8) 
+
+121 (13.3) 
+
+7 (0.8) 
+
+211 (23.3) 
+
+185 (20.5) 
+
+26 (2.9) 
+
+0 
+
+Fatigue 
+
+365 (40.1) 
+
+240 (26.3) 
+
+109 (12.0) 
+
+16 (1.8) 
+
+245 (27.1) 
+
+188 (20.8) 
+
+53 (5.9) 
+
+4 (0.4) 
+
+Anemia 
+
+214 (23.5) 
+
+68 (7.5) 
+
+67 (7.4) 
+
+79 (8.7) 
+
+35 (3.9) 
+
+19 (2.1) 
+
+13 (1.4) 
+
+3 (0.3) 
+
+Vomiting 
+
+206 (22.6) 
+
+160 (17.6) 
+
+40 (4.4) 
+
+6 (0.7) 
+
+74 (8.2) 
+
+64 (7.1) 
+
+10 (1.1) 
+
+0 
+
+Headache 
+
+180 (19.8) 
+
+145 (15.9) 
+
+33 (3.6) 
+
+2 (0.2) 
+
+152 (16.8) 
+
+120 (13.3) 
+
+31 (3.4) 
+
+1 (0.1) 
+
+Diarrhea 
+
+160 (17.6) 
+
+125 (13.7) 
+
+32 (3.5) 
+
+3 (0.3) 
+
+124 (13.7) 
+
+96 (10.6) 
+
+25 (2.8) 
+
+3 (0.3) 
+
+Decreased neutrophil count 
+
+146 (16.0) 
+
+36 (4.0) 
+
+66 (7.2) 
+
+44 (4.8) 
+
+59 (6.5) 
+
+17 (1.9) 
+
+35 (3.9) 
+
+7 (0.8) 
+
+Decreased white-cell count 
+
+143 (15.7) 
+
+41 (4.5) 
+
+75 (8.2) 
+
+27 (3.0) 
+
+52 (5.8) 
+
+27 (3.0) 
+
+22 (2.4) 
+
+3 (0.3) 
+
+Decreased appetite 
+
+119 (13.1) 
+
+101 (11.1) 
+
+16 (1.8) 
+
+2 (0.2) 
+
+53 (5.9) 
+
+45 (5.0) 
+
+8 (0.9) 
+
+0 
+
+Dysgeusia 
+
+107 (11.7) 
+
+101 (11.1) 
+
+6 (0.7) 
+
+0 
+
+38 (4.2) 
+
+36 (4.0) 
+
+2 (0.2) 
+
+0 
+
+Dizziness 
+
+104 (11.4) 
+
+91 (10.0) 
+
+12 (1.3) 
+
+1 (0.1) 
+
+67 (7.4) 
+
+61 (6.7) 
+
+5 (0.6) 
+
+1 (0.1) 
+
+Arthralgia 
+
+84 (9.2) 
+
+60 (6.6) 
+
+22 (2.4) 
+
+2 (0.2) 
+
+107 (11.8) 
+
+85 (9.4) 
+
+20 (2.2) 
+
+2 (0.2) 
+
+*	Shown are adverse events of any grade with an incidence of at least 10% in either trial group in the safety analysis set. †	All listed adverse events are grade 3 except for 10 grade 4 events in the olaparib group: 5 events involving decreased neutrophil count, 4 involving anemia, and 1 involving fatigue. 
+
+BRCA2 pathogenic or likely pathogenic variant– associated breast cancer after evidence of progression-free survival benefit, a better side-effect profile, and better preservation of quality of life as compared with standard chemotherapy.24,25 The OlympiA trial was designed to test the efficacy of adjuvant PARP inhibitor therapy with olaparib in patients with early breast cancer and impaired BRCA1 or BRCA2 homologous-recombination function, identified by the presence of a BRCA1 or BRCA2 germline pathogenic or likely pathogenic variant as a patient-selection biomarker. This trial shows that olaparib given for 52 weeks as adjuvant therapy after neoadjuvant or adjuvant chemotherapy and local therapy resulted in significantly longer survival free of invasive or distant disease than placebo in such patients. There is no previous evidence that the effect of PARP inhibitor treatment differs according to the germline BRCA mutation (BRCA1 vs. BRCA2) or hormonereceptor status.15,24-26 We found no evidence of heterogeneity, and confidence intervals for hazard ratios in these and other subgroups included the point estimate for the treatment effect seen in the overall population. The prespecified interim analysis was timed 
+
+2402 
+
+n engl j med 384;25 
+
+on the basis of having sufficient events in a mature cohort to provide confidence that treatment effects observed early at interim analysis in the intention-to-treat population would probably be sustained. The evidence of olaparib treatment effect in this mature cohort is reassuring (Fig. S6). Platinum-containing chemotherapy is not considered to be the standard of care in neoadjuvant or adjuvant chemotherapy in HER2-negative early breast cancer.27,28 Use of platinum chemotherapy was included as a stratification factor because platinum-induced DNA adducts are repaired by homologous recombination and platinum is known to have a specific interaction with germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants in metastatic breast cancer.29,30 As with other subgroup analyses, there was no evidence that olaparib was less effective in patients treated with platinum-based adjuvant or neoadjuvant chemotherapy. Fewer deaths occurred among patients who received olaparib than among those who received placebo, although at this early time point the difference did not meet the threshold for statistical significance in the prespecified multiple-testing procedure. Longer blinded follow-up is re- 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+Olaparib for BRCA1- or BRCA2-Mutated Breast Cancer 
+
+quired to assess the effect of olaparib on overall survival. The safety profile of olaparib was consistent with that previously reported; adverse events with olaparib treatment were largely of grade 1 or 2. The only grade 3 toxic effect that occurred in more than 5% of the patients was anemia (8.7%), which infrequently led to transfusion. Dose interruptions and reductions appear to have been effective management strategies. Serious adverse events were not more frequent with olaparib than with placebo. Although PARP inhibitors are DNA-interacting drugs31 and have the potential to induce mutation in DNA and hematologic malignant conditions,32 the frequency of MDS or AML was not increased by olaparib, and further blinded follow-up is continuing. The selection of a hormone-receptor–positive population with a high risk of recurrence was driven by regulatory concern that selection of a low-recurrence-risk group might not justify exposure to the potential risks of MDS or AML perceived for olaparib. Patients with germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants form a group at high risk for recurrence who more often receive chemotherapy in addition to endocrine therapy.18,19 Such patients made up 14% of those with hormone-receptor–positive, HER2-negative breast cancer treated with neoadjuvant chemotherapy in a recent trial.33 A high risk of recurrence was observed in the OlympiA trial, in which 22.8% of the patients in the hormone-receptor–positive population who received placebo are estimated to have had invasive disease or have died within 3 years (Fig. 2). Olaparib treatment administered with endocrine therapy (Table S17) was both safe and effective, with no differential treatment effect in this subgroup; these findings are consistent with the results of other studies involving patients with metastatic breast cancer or early breast cancer.24-26 Patients with triple-negative breast cancer do not currently have any approved adjuvant targeted therapy. On the basis of the results of the Capecitabine for Residual Cancer as Adjuvant Therapy (CREATE-X) trial, patients with triplenegative breast cancer and residual invasive cancer after neoadjuvant chemotherapy are increasingly treated with postneoadjuvant capecitabine chemotherapy. The CREATE-X trial did not specifically examine postneoadjuvant capecitabine 
+
+n engl j med 384;25 
+
+Table 3. Summary of Adverse Events in the Safety Analysis Set.* Adverse Event 
+
+Olaparib (N = 911) 
+
+Placebo (N = 904) 
+
+no. of patients (%) Any adverse event 
+
+835 (91.7) 
+
+753 (83.3) 
+
+Serious adverse event 
+
+79 (8.7) 
+
+76 (8.4) 
+
+Adverse event of special interest† 
+
+30 (3.3) 
+
+46 (5.1) 
+
+MDS or AML 
+
+2 (0.2) 
+
+3 (0.3) 
+
+Pneumonitis‡ 
+
+9 (1.0) 
+
+11 (1.2) 
+
+New primary cancer§ 
+
+19 (2.1) 
+
+32 (3.5) 
+
+Grade ≥3 adverse event 
+
+221 (24.3) 
+
+102 (11.3) 
+
+Grade 4 adverse event¶ 
+
+17 (1.9) 
+
+4 (0.4) 
+
+Adverse event leading to permanent discontinuation of olaparib or placebo‖ 
+
+90 (9.9) 
+
+38 (4.2) 
+
+Adverse event leading to death** 
+
+1 (0.1) 
+
+2 (0.2) 
+
+*	Included are adverse events with an onset date on or after the date of the first dose and up to and including 30 days after the date of the last dose of olaparib or placebo. AML denotes acute myeloid leukemia, and MDS myelodysplastic syndrome. †	Included are adverse events of special interest with an onset at any date after the first dose of olaparib or placebo. One patient in the olaparib group had both pneumonitis and a nonmelanoma skin cancer and is counted in both the pneumonitis and new primary cancer categories. ‡	In the olaparib group, seven patients had pneumonitis, and two patients had radiation pneumonitis. In the placebo group, eight patients had pneumonitis, and three patients had radiation pneumonitis. §	Detailed information on the numbers of patients in each group with specific new primary cancers is provided in Table S19. ¶	A total of 18 grade 4 adverse events were reported in 17 patients who received olaparib; one patient had both grade 4 anemia and decreased neutrophil count. In the olaparib group, grade 4 adverse events included decreased neutrophil count (in 5 patients), anemia (in 4 patients), decreased lymphocyte count (in 3 patients), and AML, bipolar disorder, fatigue, febrile neutropenia, abnormal hepatic function, and a suicide attempt (in 1 patient each). In the placebo group, grade 4 adverse events included depression (in 2 patients) and increased aspartate aminotransferase level and acute cholecystitis (in 1 patient each). ‖	The most common adverse events, occurring in at least 1% of the patients, that led to discontinuation of olaparib were nausea (2.0%), anemia (1.8%), fatigue (1.3%), and decreased neutrophil count (1.0%); there were no adverse events that occurred in at least 1% of patients that led to discontinuation of placebo. **	In the olaparib group, cardiac arrest led to death in one patient. In the placebo group, AML and ovarian cancer led to death in one patient each. 
+
+effects in patients with germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants, who were likely to be less than 15% of those enrolled.34 Postneoadjuvant capecitabine was not permitted in the OlympiA trial, because this therapy was not the standard of care when the trial was designed. Thus, the trial cannot inform the relative efficacy of olaparib as compared with capecitabine in this context. However, Rob- 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2403 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+son et al.24 found that olaparib was more effective than chemotherapy in prolonging progressionfree survival among patients with metastatic HER2negative breast cancer with germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants in a trial in which 45% of the patients received capecitabine as the comparative therapy.24,35 The OlympiA trial showed that 1 year of adjuvant olaparib can meaningfully reduce recurrence risk and prevent progression to metastatic disease among patients with high-risk early breast cancer and germline BRCA1 or BRCA2 pathogenic or likely pathogenic variants, with high adherence rates and primarily a low-grade toxicity profile. Patients with these variants are increasingly identified in patients with early breast cancer as a result of greater acceptance of the influence of germline BRCA1 or BRCA2 pathogenic or likely pathogenic variant status on treatment choices.36 In this trial, we did not assess the effect of olaparib as adjuvant therapy in all heredi- 
+
+tary forms of breast cancer or report benefit in patients who lack the high-risk clinical features required for eligibility in this trial. However, the trial provides evidence that germline BRCA1 and BRCA2 sequencing is an important biomarker for the selection of systemic therapy in early breast cancer. Supported by grants (U10CA180868, UG1CA189867, and U10CA180822) from the National Cancer Institute and funding and provision of olaparib and placebo by AstraZeneca as part of an alliance between AstraZeneca and Merck. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. A data sharing statement provided by the authors is available with the full text of this article at NEJM.org. We thank the patients and their families, the staff members of the trial partners (the Breast International Group, NRG Oncology, Frontier Science, AstraZeneca, Merck Sharp & Dohme, and the National Cancer Institute), the current and former members of the trial committees and the investigators (listed in the Supplementary Appendix), and Aaron Borg, Ph.D., and Helen Stimpson, Ph.D., of Oxford PharmaGenesis for support with the collation of author comments on earlier versions of the manuscript. 
+
+Appendix The authors’ full names and academic degrees are as follows: Andrew N.J. Tutt, M.B., Ch.B., Ph.D., Judy E. Garber, M.D., M.P.H., Bella Kaufman, M.D., Giuseppe Viale, M.D., Debora Fumagalli, M.D., Ph.D., Priya Rastogi, M.D., Richard D. Gelber, Ph.D., Evandro de Azambuja, M.D., Ph.D., Anitra Fielding, M.B., Ch.B., Judith Balmaña, M.D., Ph.D., Susan M. Domchek, M.D., Karen A. Gelmon, M.D., Simon J. Hollingsworth, Ph.D., Larissa A. Korde, M.D., M.P.H., Barbro Linderholm, M.D., Ph.D., Hanna Bandos, Ph.D., Elżbieta Senkus, M.D., Ph.D., Jennifer M. Suga, M.D., Zhimin Shao, M.D., Andrew W. Pippas, M.D., Zbigniew Nowecki, M.D., Ph.D., Tomasz Huzarski, M.D., Ph.D., Patricia A. Ganz, M.D., Peter C. Lucas, M.D., Ph.D., Nigel Baker, M.Sc., Sibylle Loibl, M.D., Ph.D., Robin McConnell, M.Sc., Martine Piccart, M.D., Ph.D., Rita Schmutzler, M.D., Dr.Med.Habil., Guenther G. Steger, M.D., Joseph P. Costantino, Dr.P.H., Amal Arahmani, Ph.D., Norman Wolmark, M.D., Eleanor McFadden, M.A., Vassiliki Karantza, M.D., Ph.D., Sunil R. Lakhani, M.D., Greg Yothers, Ph.D., Christine Campbell, M.Sc., and Charles E. Geyer, Jr., M.D. The authors’ affiliations are as follows: the Breast Cancer Now Toby Robins Research Centre, the Institute of Cancer Research (A.N.J.T.), and the Breast Cancer Now Unit, Guy’s Hospital Cancer Centre, King’s College London (A.N.J.T.), London, AstraZeneca, Cambridge (S.J.H., N.B.), and Frontier Science (Scotland), Kincraig (R.M.C., E.M.F., C.C.) — all in the United Kingdom; Dana–Farber Cancer Institute, Harvard Medical School (J.E.G., R.D.G.), Frontier Science Foundation (R.D.G.), and Harvard T.H. Chan School of Public Health (R.D.G.) — all in Boston; the Breast Oncology Institute, Chaim Sheba Medical Center, Tel Aviv University, Tel Aviv, Israel (B.K.); the University of Milan, European Institute of Oncology IRCCS, Milan (G.V.); Breast International Group (D.F., A.A.) and Institut Jules Bordet, l’Université Libre de Bruxelles (E.A., M.P.), Brussels; NRG Oncology (P.R., H.B., P.C.L., N.W., G.Y., C.E.G.) and the Basser Center for BRCA, Abramson Cancer Center, University of Pennsylvania (S.M.D.), Philadelphia, and the UPMC Hillman Cancer Center (P.R., P.C.L., N.W.) and the Department of Biostatistics (H.B., J.P.C., G.Y.), University of Pittsburgh, and the NSABP Foundation (N.W.), Pittsburgh — all in Pennsylvania; AstraZeneca, Gaithersburg (A.F.), and the National Cancer Institute, Rockville (L.A.K.) — both in Maryland; Vall d’Hebron Institute of Oncology and Vall d’Hebron University Hospital (J.B.) — both in Barcelona; BC Cancer, Vancouver, BC, Canada (K.A.G.); Sahlgrenska University Hospital (B.L.) and the Institute of Clinical Sciences, Department of Oncology, Sahlgrenska Academy, Gothenburg University (B.L.) — both in Gothenburg, Sweden; the Department of Oncology and Radiotherapy, Medical University of Gdańsk, Gdańsk (E.S.), the Maria Skłodowska-Curie National Research Institute of Oncology, Warsaw (Z.N.), the International Hereditary Cancer Center, Pomeranian Medical University, Szczecin (T.H.), and Read-Gene, Grzepnica (T.H.) — all in Poland; Kaiser Permanente Vallejo Medical Center, Vallejo (J.M.S.), and the UCLA Fielding School of Public Health, David Geffen School of Medicine at UCLA (P.A.G.), and the UCLA Jonsson Comprehensive Cancer Center (P.A.G.), Los Angeles — all in California; Fudan University Shanghai Cancer Center, Shanghai, China, (Z.S.); Georgia NCORP, Northside Hospital Cancer Institute (A.W.P.), and Piedmont Healthcare (A.W.P.) — both in Atlanta; German Breast Group, Neu-Isenburg (S.L.), the Center for Hematology and Oncology Bethanien and Goethe University, Frankfurt (S.L.), and the Center for Familial Breast and Ovarian Cancer and the Center for Integrated Oncology, Faculty of Medicine, University Hospital Cologne, Cologne (R.S.) — all in Germany; the Department of Internal Medicine I and Gaston H. Glock Research Center, Medical University of Vienna, Vienna (G.G.S.); Merck, Kenilworth, NJ (V.K.); the University of Queensland Centre for Clinical Research and Pathology Queensland (S.R.L.) — both in Brisbane, QLD, Australia; and Houston Methodist Cancer Center (C.E.G.) and Weill Cornell Medical College (C.E.G.) — both in Houston. 
+
+2404 
+
+n engl j med 384;25 
+
+nejm.org 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+Olaparib for BRCA1- or BRCA2-Mutated Breast Cancer 
+
+References 1. Dorling L, Carvalho S, Allen J, et al. Breast cancer risk genes — association analysis in more than 113,000 women. N Engl J Med 2021;​384:​428-39. 2. Hu C, Hart SN, Gnanaolivu R, et al. A population-based study of genes previously implicated in breast cancer. N Engl J Med 2021;​384:​440-51. 3. Kuchenbaecker KB, Hopper JL, Barnes DR, et al. Risks of breast, ovarian, and contralateral breast cancer for BRCA1 and BRCA2 mutation carriers. JAMA 2017;​317:​ 2402-16. 4. Mavaddat N, Barrowdale D, Andrulis IL, et al. Pathology of breast and ovarian cancers among BRCA1 and BRCA2 mutation carriers: results from the Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA). Cancer Epidemiol Biomarkers Prev 2012;​21:​134-47. 5. Atchley DP, Albarracin CT, Lopez A, et al. Clinical and pathologic characteristics of patients with BRCA-positive and BRCAnegative breast cancer. J Clin Oncol 2008;​ 26:​4282-8. 6. Lakhani SR, Van De Vijver MJ, Jacquemier J, et al. The pathology of familial breast cancer: predictive value of immunohistochemical markers estrogen receptor, progesterone receptor, HER-2, and p53 in patients with mutations in BRCA1 and BRCA2. J Clin Oncol 2002;​20:​2310-8. 7. NCCN genetic/familial high-risk assessment: breast and ovarian version 1. 2020. National Comprehensive Cancer Network, April 2021 (https://www​ .­ nccn ​.­org/​­store/​­login/​­login​.­aspx?ReturnURL =​­https://www​.­nccn​.­org/​­professionals/​ ­physician_gls/​­pdf/​­genetics_bop​.­pdf). 8. Tutt A, Ashworth A. The relationship between the roles of BRCA genes in DNA repair and cancer predisposition. Trends Mol Med 2002;​8:​571-6. 9. Davies H, Glodzik D, Morganella S, et al. HRDetect is a predictor of BRCA1 and BRCA2 deficiency based on mutational signatures. Nat Med 2017;​23:​517-25. 10. Staaf J, Glodzik D, Bosch A, et al. Whole-genome sequencing of triple-negative breast cancers in a population-based clinical study. Nat Med 2019;​25:​1526-33. 11. Tutt AN, Lord CJ, McCabe N, et al. Exploiting the DNA repair defect in BRCA mutant cells in the design of new therapeutic strategies for cancer. Cold Spring Harb Symp Quant Biol 2005;​70:​139-48. 12. Farmer H, McCabe N, Lord CJ, et al. Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature 2005;​434:​917-21. 13. Bryant HE, Schultz N, Thomas HD, et al. Specific killing of BRCA2-deficient tu- 
+
+mours with inhibitors of poly(ADP-ribose) polymerase. Nature 2005;​434:​913-7. 14. Fong PC, Boss DS, Yap TA, et al. Inhibition of poly(ADP-ribose) polymerase in tumors from BRCA mutation carriers. N Engl J Med 2009;​361:​123-34. 15. Tutt A, Robson M, Garber JE, et al. Oral poly(ADP-ribose) polymerase inhibitor olaparib in patients with BRCA1 or BRCA2 mutations and advanced breast cancer: a proof-of-concept trial. Lancet 2010;​376:​235-44. 16. Audeh MW, Carmichael J, Penson RT, et al. Oral poly(ADP-ribose) polymerase inhibitor olaparib in patients with BRCA1 or BRCA2 mutations and recurrent ovarian cancer: a proof-of-concept trial. Lancet 2010;​376:​245-51. 17. Kaufman B, Shapira-Frommer R, Schmutzler RK, et al. Olaparib monotherapy in patients with advanced cancer and a germline BRCA1/2 mutation. J Clin Oncol 2015;​33:​244-50. 18. Shah PD, Patil S, Dickler MN, Offit K, Hudis CA, Robson ME. Twenty-one-gene recurrence score assay in BRCA-associated versus sporadic breast cancers: differences based on germline mutation status. Cancer 2016;​122:​1178-84. 19. Tryggvadottir L, Olafsdottir EJ, Olafsdottir GH, et al. Tumour diploidy and survival in breast cancer patients with BRCA2 mutations. Breast Cancer Res Treat 2013;​ 140:​375-84. 20. Mittendorf EA, Jeruss JS, Tucker SL, et al. Validation of a novel staging system for disease-specific survival in patients with breast cancer treated with neoadjuvant chemotherapy. J Clin Oncol 2011;​29:​ 1956-62. 21. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol 2007;​25:​2127-32. 22. Stone A. The application of bespoke spending functions in group-sequential designs and the effect of delayed treatment switching in survival trials. Pharm Stat 2010;​9:​151-61. 23. Cuzick J. Forest plots and the interpretation of subgroups. Lancet 2005;​365:​ 1308. 24. Robson M, Im SA, Senkus E, et al. Olaparib for metastatic breast cancer in patients with a germline BRCA mutation. N Engl J Med 2017;​377:​523-33. 25. Litton JK, Rugo HS, Ettl J, et al. Talazoparib in patients with advanced breast cancer and a germline BRCA mutation. N Engl J Med 2018;​379:​753-63. 26. Fasching PA, Link T, Hauke J, et al. 
+
+n engl j med 384;25 
+
+nejm.org 
+
+Neoadjuvant paclitaxel/olaparib in comparison to paclitaxel/carboplatinum in patients with HER2-negative breast cancer and homologous recombination deficiency (GeparOLA study). Ann Oncol 2021;​32:​4957. 27. Burstein HJ, Curigliano G, Loibl S, et al. Estimating the benefits of therapy for early-stage breast cancer: the St. Gallen International Consensus Guidelines for the primary therapy of early breast cancer 2019. Ann Oncol 2019;​30:​1541-57. 28. NCCN clinical practice guidelines in oncology — breast cancer version 5.2020. National Comprehensive Cancer Network, July 15, 2021 (https://www2​.­t ri​-­kobe​.­org/​ ­nccn/​­guideline/​­breast/​­english/​­breast​.­pdf). 29. Tutt A, Tovey H, Cheang MCU, et al. Carboplatin in BRCA1/2-mutated and triple-negative breast cancer BRCAness subgroups: the TNT trial. Nat Med 2018;​24:​ 628-37. 30. Zhang J, Lin Y, Sun XJ, et al. Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer. Ann Oncol 2018;​29:​1741-7. 31. Murai J, Huang SY, Das BB, et al. Trapping of PARP1 and PARP2 by clinical PARP inhibitors. Cancer Res 2012;​ 72:​ 5588-99. 32. Morice PM, Leary A, Dolladille C, et al. Myelodysplastic syndrome and acute myeloid leukaemia in patients treated with PARP inhibitors: a safety meta-analysis of randomised controlled trials and a retrospective study of the WHO pharmacovigilance database. Lancet Haematol 2021;​8(2):​e122-e134. 33. Pohl-Rescigno E, Hauke J, Loibl S, et al. Association of germline variant status with therapy response in high-risk earlystage breast cancer: a secondary analysis of the GeparOcto randomized clinical trial. JAMA Oncol 2020;​6:​744-8. 34. Masuda N, Lee SJ, Ohtani S, et al. Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med 2017;​376:​2147-59. 35. Robson ME, Tung N, Conte P, et al. OlympiAD final overall survival and tolerability results: olaparib versus chemotherapy treatment of physician’s choice in patients with a germline BRCA mutation and HER2-negative metastatic breast cancer. Ann Oncol 2019;​30:​558-66. 36. Tutt A, Ashworth A. Can genetic testing guide treatment in breast cancer? Eur J Cancer 2008;​44:​2774-80. Copyright © 2021 Massachusetts Medical Society. 
+
+June 24, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on January 8, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2405 
+
+ 

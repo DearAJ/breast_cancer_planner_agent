@@ -1,0 +1,881 @@
+VOLUME 
+
+29 
+
+䡠 
+
+NUMBER 
+
+6 
+
+䡠 
+
+FEBRUARY 
+
+20 
+
+2011 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+C-MYC Alterations and Association With Patient Outcome in Early-Stage HER2-Positive Breast Cancer From the North Central Cancer Treatment Group N9831 Adjuvant Trastuzumab Trial Edith A. Perez, Robert B. Jenkins, Amylou C. Dueck, Anne E. Wiktor, Patrick P. Bedroske, S. Keith Anderson, Rhett P. Ketterling, William R. Sukov, Kazunori Kanehira, Beiyun Chen, Xochiquetzal J. Geiger, Cathy A. Andorfer, Ann E. McCullough, Nancy E. Davidson, Silvana Martino, George W. Sledge, Peter A. Kaufman, Leila A. Kutteh, Julie R. Gralow, Lyndsay N. Harris, James N. Ingle, Wilma L. Lingle, and Monica M. Reinholz From the Mayo Clinic, Jacksonville, FL; Mayo Clinic, Rochester, MN; Mayo Clinic, Scottsdale, AZ; University of Pittsburgh Cancer Institute, Pittsburgh, PA; The Angeles Clinic and Research Institute, Santa Monica, CA; Indiana University Medical Center Cancer Pavilion, Indianapolis, IN; Dartmouth Hitchcock Medical Center, Lebanon, NH; Oncology Associates of Cedar Rapids, Cedar Rapids, IA; Seattle Cancer Care Alliance, Seattle, WA; and Yale University, New Haven, CT. Submitted May 7, 2010; accepted November 4, 2010; published online ahead of print at www.jco.org on January 18, 2011. Supported by the National Institutes of Health Grants No. CA25224, CA114740, and CA129949 and the Breast Cancer Research Foundation. Presented in part at the 31st Annual Cancer Therapy and Research CenterAmerican Association for Cancer Research San Antonio Breast Cancer Symposium, December 10-14, 2008, San Antonio, TX. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical Trials repository link available on JCO.org. Corresponding author: Monica M. Reinholz, PhD, Mayo Clinic, 200 First St SW, Rochester, MN 55905; e-mail: reinholz.monica@mayo.edu. © 2011 by American Society of Clinical Oncology 
+
+A 
+
+B 
+
+S 
+
+T 
+
+A 
+
+C 
+
+T 
+
+Purpose Findings from the human epidermal growth factor receptor 2 (HER2) –positive National Surgical Adjuvant Breast and Bowel Project (NSABP) B31 trial suggested that MYC/HER2 coamplification (⬎ 5.0 copies/nucleus) was associated with additional benefit from adjuvant trastuzumab in patients with early-stage breast cancer. To further explore this relationship, we investigated associations between MYC amplification and disease-free survival (DFS) in a similar adjuvant trastuzumab HER2-positive breast cancer trial—North Central Cancer Treatment Group (NCCTG) N9831. Patients and Methods This analysis included 799 patients randomly assigned to receive chemotherapy alone or with concurrent trastuzumab on N9831. Fluorescence in situ hybridization (FISH) was performed by using a dual-probe mixture for MYC and centromere 8 (MYC:CEP8) on tissue microarrays. MYC amplification was prespecified as MYC:CEP8 ratio ⬎ 2.2 or average MYC copies/nucleus ⬎ 5.0. Exploratory variables included polysomy 8. Results In comparing DFS (median follow-up, 4.0 years) between treatments, patients with MYC:CEP8 ratio ⱕ 2.2 (n ⫽ 618; 77%) and ⬎ 2.2 (n ⫽ 181; 23%) had hazard ratios (HRs) of 0.46 (P ⬍ .001) and 0.67 (P ⫽ .33), respectively (interaction P ⫽ .38). Patients with MYC copies/nucleus ⱕ 5.0 (n ⫽ 534; 67%) and ⬎ 5.0 (n ⫽ 265; 33%) had HRs of 0.52 (P ⫽ .002) and 0.48 (P ⫽ .02), respectively (interaction P ⫽ .94). Patients with MYC:CEP8 ratio ⬍ 1.3 with normal chromosome 8 copy number (n ⫽ 141; 18%) and ⱖ 1.3 or ⬍ 1.3 with polysomy 8 (n ⫽ 658; 82%) had HRs of 0.66 (P ⫽ .28) and 0.44 (P ⬍ .001), respectively (interaction P ⫽ .23). Patients with MYC copies/nucleus ⬍ 2.5 (n ⫽ 130; 16%) and ⱖ 2.5 (n ⫽ 669; 84%) had HRs of 1.07 (P ⫽ .87) and 0.42 (P ⬍ .001), respectively (interaction P ⫽ .05). Conclusion We did not confirm the B31 association between MYC amplification and additional trastuzumab benefit. Exploratory analyses revealed potential associations between alternative MYC/chromosome 8 copy number alterations and differential benefit of adjuvant trastuzumab. J Clin Oncol 29:651-659. © 2011 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+0732-183X/11/2906-651/$20.00 DOI: 10.1200/JCO.2010.30.2125 
+
+R 
+
+The combination of chemotherapy and trastuzumab significantly prolongs survival of patients with breast cancer with human epidermal growth factor 2 (HER2) –positive tumors in adjuvant and metastatic settings.1-4 However, many women who receive trastuzumab develop resistance within 1 
+
+year, and 15% to 25% of women diagnosed with HER2-positive, early-stage disease develop tumor relapse within 3 years, despite therapy.5 Thus, identifying patients who would respond best to trastuzumab is critical to the appropriate management of patients with HER2-positive breast cancer. Copy number anomalies of c-myc (MYC) have been reported to be potential predictors of response © 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+651 
+
+Perez et al 
+
+to HER2-targeted therapies.2,6,7 MYC, located on chromosome 8, is a proto-oncogene with a central role in proliferation and malignant transformation of human and animal cells.8 Its protein product (MYC) is a transcription factor that critically participates in most aspects of normal cellular function, including replication, proliferation, metabolism, differentiation, and apoptosis.8,9 Because aberrations of MYC play a key role in malignant transformation, most types of malignancies in humans have 
+
+been reported to have amplification and/or overexpression of MYC with varying frequencies.10 In human breast cancer, MYC has been shown to be amplified with reported frequencies between 1% to 94% (average, approximately 16%).8 MYC amplification has typically been associated with poor prognosis of breast cancer.8 MYC acts as a downstream target of HER2-driven proliferative signals in breast cancer cells in vitro.11 In human breast tumors, MYC 
+
+Table 1. Patient/Disease Characteristics by MYC:CEP8 Ratio MYC:CEP8 Ratio ⱕ 2.2 (n ⫽ 618; 77%) Characteristic Age, years Median Range Age group, years ⬍ 40 40-49 50-59 ⱖ 60 Race White Other Menopausal status Premenopausal or age ⬍ 50 years Postmenopausal or age ⱖ 50 years ER status Positive Negative PgR status Positive Negative Surgery Breast-conserving Mastectomy Nodal status No. of positive nodes 1-3 4-9 10⫹ No positive nodes Positive sentinel node Negative sentinel node Predominant tumor histology Ductal Lobular Other Missing Histologic tumor grade (Elston/SBR) Well/intermediate Poor Pathologic tumor size, cm ⬍2 ⱖ2 Received hormonal treatment Yes No Missing 
+
+No. 
+
+% 
+
+⬎ 2.2 (n ⫽ 181; 23%) No. 
+
+50 23-80 
+
+Pⴱ 
+
+% 49 27-71 
+
+.21 100 203 191 124 
+
+16 33 31 20 
+
+37 56 62 26 
+
+20 31 34 14 
+
+541 77 
+
+88 12 
+
+153 28 
+
+85 15 
+
+322 296 
+
+52 48 
+
+104 77 
+
+57 43 
+
+284 334 
+
+46 54 
+
+100 81 
+
+55 45 
+
+210 408 
+
+34 66 
+
+81 100 
+
+45 55 
+
+221 397 
+
+36 64 
+
+65 116 
+
+36 64 
+
+.29 
+
+.20 
+
+.03 
+
+.008 
+
+.97 
+
+.88 253 158 92 30 41 44 
+
+41 26 15 5 6 7 
+
+65 50 28 11 14 13 
+
+36 28 15 6 8 7 
+
+578 20 20 0 
+
+94 3 3 
+
+177 2 1 1 
+
+98 1 0.6 0.6 
+
+190 428 
+
+31 69 
+
+36 145 
+
+20 80 
+
+204 414 
+
+33 67 
+
+51 130 
+
+28 72 
+
+285 330 3 
+
+46 54 
+
+77 102 2 
+
+43 57 
+
+.04 
+
+.004 
+
+.22 
+
+.43 
+
+Abbreviations: MYC:CEP8, MYC and centromere 8 ratio; ER, estrogen receptor; PgR, progesterone receptor; SBR, Scarff-Bloom-Richardson. ⴱ P values from the ␹2 test. 
+
+652 
+
+© 2011 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+Impact of MYC Amplification on Benefit of Adjuvant Trastuzumab 
+
+cordance between TMA and whole-section MYC fluorescence in situ hybridization (FISH) analyses of 84 independent breast tumors and observed a concordance of 90% and 96% for average MYC copies/nucleus and MYC:CEP8 ratio, respectively.14 
+
+A 140 Biopsies with > 20 orange signals per nucleus (high MYC amplification) 
+
+120 
+
+No. of Biopsies 
+
+amplification has been associated with HER2 amplification,12,13 and HER2-amplified breast tumors were shown to have a 2.5-fold or greater increased likelihood of having MYC amplification.12 Patients with breast cancer who had MYC/HER2 coamplification were observed to have substantially worse outcomes than patients who had single-gene amplification,7,12 even after standard chemotherapy, in the National Surgical Adjuvant Breast and Bowel Project (NSABP) Cooperative Group B28 trial.7 It was then hypothesized that MYC amplification may confer resistance to trastuzumab therapy in patients with HER2-positive breast cancer. However, a preliminary report from the adjuvant trastuzumab NSABP B31 trial (hereafter B31) showed that patients with MYC/HER2 coamplification in their primary breast tumors, defined as average copies/nucleus ⬎ 5.0 (n ⫽ 471; time to first recurrence hazard ratio [HR], 0.24; 13 v 51 events; P ⬍ .001), benefited significantly more (P ⫽ .007) from trastuzumab than did patients with only HER2 amplification (n ⫽ 1,078; HR, 0.63; 55 v 82 events; P ⫽ .007), although a significant benefit of trastuzumab was observed in both MYC-amplified and nonamplified patients.7 To further explore these early findings, we investigated disease-free survival (DFS) according to MYC to centromere 8 ratio (MYC:CEP8), MYC gene copy number, and chromosome 8 copy number in patients with early-stage breast cancer randomly assigned to receive chemotherapy alone or chemotherapy with concurrent trastuzumab in the North Central Cancer Treatment Group (NCCTG) N9831 intergroup adjuvant trastuzumab phase III trial (hereafter N9831). 
+
+100 80 60 40 20 
+
+0 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+140 120 
+
+PATIENTS AND METHODS 
+
+Tissue Microarrays Tissue microarrays (TMAs) were constructed as part of the translational study component of N9831 by using an ATA-27 automated TMA construction system (Beecher Instruments, Silver Spring, MD). Hematoxylin and eosin–stained and HER2-stained slides from all blocks were first reviewed by a pathologist to demarcate representative areas of invasive tumor. From each formalin-fixed, paraffin-embedded tissue block, one tissue biopsy (0.6-mm diameter and 2.8-mm depth) was placed approximately 1.3 mm from the next one on each of three recipient TMAs in a random fashion according to National Cancer Institute (NCI) –recommended guidelines. Each TMA contained biopsies from non-neoplastic human liver, placenta, and tonsil control tissues (Data Supplement). We also examined the conwww.jco.org 
+
+Duplicated MYC or gain of 8 
+
+MYC amplification or high gain of 8 
+
+100 
+
+No. of Biopsies 
+
+Patients The N9831 trial had three arms: arm A, doxorubicin and cyclophosphamide followed by weekly paclitaxel; arm B, same as arm A but followed by 1 year of sequential trastuzumab; arm C: same as arm A but with 1 year concurrent trastuzumab started the same day as weekly paclitaxel. An updated joint analysis of N9831 and B31 revealed that patients treated with concurrent trastuzumab had a lower number of events (breast cancer recurrence, second primary cancer, or death before recurrence) compared with the control group (222 v 397; DFS HR, 0.48; P ⬍ .001). Trastuzumab therapy was associated with a 35% reduction in the risk of death (P ⬍ .001).3 All patients tested for HER2 protein overexpression or gene amplification at a central laboratory were included in these analyses. Outcome data of patients in arm B had not been released by the study’s independent data monitoring committee at time of analysis and are not included in this report. In accordance with assurances filed with and approved by the Department of Health and Human Services, local institutional review boards approved N9831, and all patients signed informed consent. The Mayo Institutional Review Board and the Correlative Science Committee of the North American Breast Cancer Group (NABCG) approved this translational study. 
+
+Normal or deleted 
+
+2.5 
+
+80 
+
+5.0 
+
+60 40 20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Normalized* MYC (orange) Signals per Nucleus Fig 1. Distribution of the average MYC signals per nucleus and MYC and centromere 8 (MYC:CEP8) ratios for all evaluable patients on tissue microarrays (TMAs). (A) Distribution of the average MYC signals per nucleus for all evaluable biopsies on TMAs. (*)The average MYC signals per nucleus were normalized to the average MYC signal per nucleus found in non-neoplastic biopsies (Data Supplement) to account for nuclear truncation as a result of tissue sectioning. (B) Distribution of MYC:CEP8 ratios for 1,404 evaluable patients represented on TMAs. Amplified MYC: ⬎ 6 MYC signals in ⬎ 40% of invasive nuclei, MYC:CEP8 ratio ⬎ 2.2; select cases with small clones of MYC amplification (⬎ 10 MYC signals in ⬎ 5% and ⬍ 40% of invasive nuclei) or with low MYC amplification with high aneusomy were considered amplified according to the pathologist’s interpretation but had an MYC: CEP8 ratio ⬍ 2.2. Duplicated MYC: MYC:CEP8 ratio ⬎ 1.30 and without MYC amplification. Polysomy 8: ⱖ 3 CEP8 signals in ⬎ 30% of invasive nuclei (ratio ⬎ 0.80 and ⬍ 1.30). ⫺8, ⫺MYC: loss of chromosome 8 and deleted MYC, 1 MYC and CEP8 signal in ⬎ 60% of invasive nuclei and an MYC:CEP8 ratio ⬍ 0.80. NACA: normal for all chromosome 8 anomalies; ⱖ 3 CEP8 signals in ⬍ 30% nuclei and 1 CEP8 signal in ⬍ 60% nuclei (MYC:CEP8 ratio ⬎ 0.80 and ⬍ 1.30). Amplified MYC, n ⫽ 207 (14%); duplicated MYC, n ⫽ 551 (39.2%); polysomy 8, n ⫽ 443 (31.5%); -8, -MYC, n ⫽ 32 (2.3%); NACA, n ⫽ 171 (12.2%). © 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+653 
+
+Perez et al 
+
+B 20 
+
+18 
+
+5 
+
+Amplified MYC Duplicated MYC Polysomy 8 -8, -MYC NACA 
+
+16 
+
+4 
+
+MYC:CEP8 Ratio 
+
+14 
+
+12 
+
+3 
+
+10 
+
+8 
+
+2 
+
+6 
+
+4 
+
+1 
+
+2 
+
+0 
+
+0 
+
+Fig 1. (continued) 
+
+MYC Testing Methods FISH analysis was performed on deparaffinized 5-␮m TMA sections by using the c-MYC locus–specific probe labeled with Spectrum Orange (MYC) and the chromosome 8 centromere probe (D8Z2) labeled with Spectrum Green (CEP8; Abbott Molecular, Des Plaines, IL). Standard laboratory protocols and quality control measures were followed. The TMA biopsies were scanned by two certified cytogenetic technologists to detect any subpopulations of amplified cells by using individual filters. Thirty representative nuclei from the invasive tumor were scored for both orange (MYC) and green (CEP8) signals by each technologist (total N ⫽ 60), and the signals were counted by using a dual filter. Overall evaluation was performed by a boardcertified pathologist (R.P.K., R.B.J., W.R.S., or K.K.). When the orange MYC signals were clearly amplified (large clouds of amplification), we assigned ⱖ 20 orange signals and counted the green CEP8 signals. For such cases, the ratio was defined as 20 divided by the average number of green signals per cell. Three different cut point methods were used to classify MYC and CEP8 copy number anomalies: (1) a prespecified method that defined MYC amplification as MYC:CEP8 ratio ⬎ 2.2, similar to the HER2:CEP17 ratio established by the 2007 American Society of Clinical Oncologists/College of American Pathologists guidelines15 and recommended by the Correlative Science Committee of the NABCG; (2) a prespecified method that defined MYC amplification as an average of ⬎ 5.0 MYC copies/nucleus, which was used in the B31 cohort7; and (3) exploratory cut points. Exploratory cut points included (1) MYC:CEP8 ratio ⱖ 1.3 or MYC:CEP8 ratio ⬍ 1.3 with polysomy 8 (p8; at least three CEP17 signals in ⬎ 30% of nuclei; Data Supplement); (2) ⱖ 2.5 average MYC copies/nucleus; (3) high MYC gain (⬎ 5.0 average MYC gene copies/nucleus); (4) low MYC gain (2.5 to 5 average MYC copies/nucleus); and (5) normal or loss of MYC (⬍ 2.5 average MYC copies/nucleus). Although not prespecified, the chosen exploratory cut points closely match MYC and centromere 8 cut points established for prostate cancer alterations by using the same probe set.16,17 654 
+
+© 2011 by American Society of Clinical Oncology 
+
+Statistical Methods DFS was the primary end point of N9831 and was defined as local, regional, or distant recurrence, contralateral breast cancer, another primary cancer (except squamous or basal cell carcinoma of the skin, carcinoma in situ of the cervix, or lobular carcinoma in situ of the breast), or death from any cause. The duration of DFS was defined as the time from registration to the first DFS event. DFS was estimated by the Kaplan-Meier method. Comparisons between arms A and C within subgroups were performed by using Cox proportional hazards models stratified by nodal status (one to three v four to nine v ⱖ 10 positive nodes v positive sentinel node only v negative sentinel node with no axillary nodal dissection v axillary nodal dissection with no positive nodes) and hormone receptor status (estrogen receptor–positive and/or progesterone receptor–positive v negative for both receptors). The ability of MYC to predict differential trastuzumab benefit between MYC subgroups was tested by using Cox proportional hazards models (also stratified by nodal status and hormone receptor status), which included a treatment arm by MYC subgroup interaction term. The maximum FISH MYC:CEP8 ratio or MYC gene copy number of the triplicate TMA biopsies was used for all analyses associated with patient outcome. 
+
+RESULTS 
+
+Study Patients The trial enrolled 2,289 patients into arms A (1,232 patients) and C (1,057 patients) of which 1,490 patients (arm A, 816; arm C, 674) were excluded from this analysis for the following reasons: not HER2positive by central pathology review (arm A, 109; arm C, 84); canceled before initiating therapy (arm A, 15; arm C, seven); did not meet eligibility criteria (arm A, 21; arm C, 17); withdrew consent (arm A, 39; JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+Impact of MYC Amplification on Benefit of Adjuvant Trastuzumab 
+
+Table 2. No. of NCCTG N9831 Patients According to Average MYC Copies/Nucleus and MYC:CEP8 Ratio Categories MYC:CEP8 Ratio 
+
+Patient Tumor Status All patients (N ⫽ 799) 
+
+HER2 FISH-amplified patients only (n ⫽ 716) 
+
+⬎ 2.2 
+
+Average MYC Copies/Nucleus 
+
+⬍ 1.3, Disomy 8 
+
+⬍ 1.3, p8ⴱ 
+
+1.3-2.2 
+
+No. 
+
+⬍ 1.5 1.5 to ⬍ 2.5 2.5 to 5.0 ⬎ 5.0 Total ⬍ 1.5 1.5 to ⬍ 2.5 2.5 to 5.0 ⬎ 5.0 Total 
+
+4 107 30 0 141 4 95 27 0 126 
+
+0 4 196 29 229 0 3 171 27 201 
+
+1 14 153 80 248 1 12 137 72 222 
+
+0 0 25 156 181 0 0 21 146 167 
+
+Total % 
+
+23 
+
+23 
+
+No. 5 125 404 265 799 5 110 356 245 716 
+
+% 
+
+33 
+
+34 
+
+Abbreviations: NCCTG, North Central Cancer Treatment Group; MYC:CEP8, MYC and centromere 8 ratio; HER2, human epidermal growth factor receptor 2; FISH, fluorescent in situ hybridization. ⴱ p8, polysomy of chromosome 8: ⱖ 3 CEP17 signals in ⬎ 30% of nuclei. 
+
+arm C, nine); no consent for future translational analysis (arm A, 62; arm C, 52); no or inadequate tissue block for inclusion on TMAs (arm A, 537; arm C, 478); and included on TMAs but was a technical failure (arm A, 33; arm C, 27). Of the 2,289 patients, 799 (arm A, 416; arm C, 383) were evaluable for MYC gene and CEP8 copy number alterations. The median follow-up time was 4.0 years (arm A, 4.2 years with 104 DFS events; arm C, 3.7 years with 47 DFS events; includes all follow-up available through August 24, 2009). The clinicopathologic characteristics and outcomes of the 799 patients enrolled on arms A and C reported herein were similar to the 1,490 patients on arms A and C excluded from analysis (Data Supplement). The clinicopathologic characteristics of the 799 patients whose tumors had MYC:CEP8 ratios ⱕ 2.2 and ⬎ 2.2 are shown in Table 1. Patients whose tumors had MYC:CEP8 ratio ⬎ 2.2 appear to have a higher rate of hormone receptor positivity, ductal histology, and poor histologic tumor grade than patients whose tumors had MYC:CEP8 ratio ⱕ 2.2. The clinicopathologic characteristics of the 799 patients whose tumors had average MYC copies/nucleus ⱕ 2.2 and ⬎ 2.2 are shown in the Data Supplement. 
+
+A 
+
+B 
+
+Distribution of Average MYC Signals Per Nucleus and MYC:CEP8 Ratio Figure 1 shows the distribution of average MYC gene signals per nucleus for all evaluable N9831 biopsies (Fig 1A) and of MYC:CEP8 ratios for all evaluable patients represented on the TMAs (Fig 1B). According to the pathologist’s (R.B.J.’s) interpretation, several different MYC and chromosome 8 copy number anomalies were observed, including MYC amplification (15%), MYC duplication (38%), p8 (32%), and MYC and chromosome 8 loss (2.3%; Fig 1B). Of the 799 tumors, 181 tumors (23%) had MYC:CEP8 ratio ⬎ 2.2, and 265 (33%) and 404 tumors (51%) had ⬎ 5.0 and 2.5 to 5 average MYC copies/nucleus, respectively (Table 2). Of the patients whose tumors had average 2.5 to 5.0 MYC copies/nucleus (n ⫽ 477), 73% (349 of 477) had either MYC:CEP8 ratio ⬍ 1.3 with p8 (n ⫽ 156) or MYC: CEP8 ratio 1.3 to 2.2 (n ⫽ 196; Table 2). Figure 2 illustrates representative FISH signal patterns of select MYC anomalies including MYC amplification with p8 (Fig 2A), low-level MYC amplification with disomy 8 (Fig 2B), and duplicated MYC with p8 (Fig 2C). 
+
+C 
+
+Fig 2. Representative fluorescence in situ hybridization (FISH) signal patterns of select MYC and chromosome 8 copy number anomalies. White arrows indicate nuclei representative of the respective FISH signal patterns for the different copy number anomalies. (A) MYC amplification with polysomy 8. The average MYC signals per nucleus was 21, the MYC:CEP8 ratio was 8.0, and the percentage of cells with ⱖ 3 CEP8 signal was 60. (B) Low amplification of MYC with disomy 8. The average MYC signals per nucleus was 5.9, the MYC:CEP8 ratio was 3.5, and the percentage of cells with ⱖ 3 CEP8 signals was 4.4. (C) Duplicated MYC with polysomy 8. The average MYC signals per nucleus was 5.2, the MYC:CEP8 ratio was 1.6, and the percentage of cells with ⱖ 3 CEP8 signals was 91. www.jco.org 
+
+© 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+655 
+
+Perez et al 
+
+A 90 80 70 AC- > T AC- > T + H 
+
+60 
+
+H = 0.46 P < .001 
+
+50 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+MYC:CEP8 Ratio > 2.2 
+
+100 
+
+Disease-Free Survival (%) 
+
+Disease-Free Survival (%) 
+
+B 
+
+MYC:CEP8 Ratio ≤ 2.2 
+
+100 
+
+5 
+
+90 80 70 AC- > T AC- > T + H 
+
+60 
+
+H = 0.67 P = .33 
+
+50 
+
+6 
+
+0 
+
+Time Since Random Assignment (years) 327 291 
+
+C 
+
+277 267 
+
+209 200 
+
+136 126 
+
+94 88 
+
+36 57 
+
+80 70 AC- > T AC- > T + H H = 0.52 P = .002 
+
+50 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+89 92 
+
+280 254 
+
+266 248 
+
+238 231 
+
+184 171 
+
+128 109 
+
+90 81 
+
+3 
+
+4 
+
+5 
+
+6 
+
+75 86 
+
+58 63 
+
+45 40 
+
+30 24 
+
+9 14 
+
+Average MYC Copies per Nucleus > 5.0 
+
+90 80 70 AC- > T AC- > T + H 
+
+60 
+
+H = 0.48 P = .02 
+
+50 
+
+6 
+
+0 
+
+Time Since Random Assignment (years) AC- > T AC- > T + H 
+
+83 90 
+
+100 
+
+90 
+
+60 
+
+AC- > T AC- > T + H 
+
+D 
+
+Average MYC Copies per Nucleus ≤ 5.0 
+
+100 
+
+Disease-Free Survival (%) 
+
+313 286 
+
+2 
+
+Time Since Random Assignment (years) 
+
+Disease-Free Survival (%) 
+
+AC- > T AC- > T + H 
+
+1 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time Since Random Assignment (years) 34 54 
+
+AC- > T AC- > T + H 
+
+136 129 
+
+130 128 
+
+114 122 
+
+83 92 
+
+53 57 
+
+34 31 
+
+11 17 
+
+Fig 3. Disease-free survival by MYC amplification: (A) by MYC:CEP8 ratio ⱕ 2.2, (B) by MYC:CEP8 ratio ⬎ 2.2, (C) by average MYC copies per nucleus ⱕ 5.0, and (D) by average MYC copies per nucleus ⬎ 5.0. HR, hazard ratio; A, doxorubicin; C, cyclophosamide; T, paclitaxel; H, trastuzumab. 
+
+Associations Between Copy Number Anomalies and DFS DFS by MYC amplification is defined as MYC:CEP8 ratio ⬎ 2.2. In comparing DFS between treatment arms, patients whose tumors had MYC:CEP8 ratio ⱕ 2.2 (Fig 3A) and ⬎ 2.2 (Fig 3B) had HRs of 0.46 (n ⫽ 618; 36 v 85 events; P ⬍ .001) and 0.67 (n ⫽ 181; 11 v 19 events; P ⫽ .33), respectively. These HRs were not significantly different (interaction P ⫽ .38). We also investigated whether MYC:CEP8 ratio was associated with different outcomes for patients who were given standard chemotherapy alone. Within arm A, a nonsignificant HR of 0.73 (95% CI, 0.44 to 1.20) was observed for patients with a MYC:CEP8 ratio ⬎ 2.2 compared with those who had a ratio of ⱕ 2.2 (Data Supplement). DFS by MYC amplification is defined as average MYC copies/ nucleus ⬎ 5.0. In comparing DFS between treatment arms, patients whose tumors had average MYC copies/nucleus ⱕ 5.0 (Fig 3C) and ⬎ 5.0 (Fig 3D) had HRs of 0.52 (n ⫽ 534; 32 v 69 events; P ⫽ .002) and 0.48 (n ⫽ 265; 15 v 35 events; P ⫽ .02), respectively. These HRs were not significantly different (interaction P ⫽ .94). Within arm A, an HR of 1.0 (95% CI, 0.66 to 1.51) was observed for those patients with ⬎ 5.0 compared with those with ⱕ 5.0 average MYC copies/nucleus (Data Supplement). 656 
+
+© 2011 by American Society of Clinical Oncology 
+
+DFS by Alternate Cut Points Considering alternate cut points, patients whose tumors had MYC:CEP8 ratio ⬍ 1.3 with normal 8 (Fig 4A) and ⱖ 1.3 or ⬍ 1.3 with p8 (Fig 4B) had HRs of 0.66 (n ⫽ 141; 12 v 18 events; P ⫽ .28) and 0.44 (n ⫽ 658; 35 v 86 events; P ⬍ .001), respectively. These HRs were not significantly different (interaction P ⫽ .23). The HRs for patients whose tumors had MYC:CEP8 ratio ⬍ 1.3 with p8 and 1.3 to 2.2 were 0.38 (95% CI, 0.19 to 0.76; n ⫽ 229) and 0.40 (95% CI, 0.21 to 0.77; n ⫽ 248), respectively (Fig 4C). Patients whose tumors had average MYC copies/nucleus ⬍ 2.5 (Fig 4D) and ⱖ 2.5 (Fig 4E) had HRs of 1.07 (n ⫽ 130; 13 v 16 events; P ⫽ .87) and 0.42 (n ⫽ 669; 34 v 88 events; P ⬍ .001), respectively. These HRs are significantly different (interaction P ⫽ .05). The HRs for patients whose tumors had average MYC copies/nucleus 2.5 to 5.0 and ⬎ 5.0 were 0.38 (95% CI, 0.22 to 0.64; n ⫽ 404) and 0.48 (95% CI, 0.25 to 0.89; n ⫽ 265), respectively (Fig 4F). DISCUSSION 
+
+In human breast cancer, MYC is a commonly amplified oncogene with diverse functions and biologic effects, and it has been associated JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+Impact of MYC Amplification on Benefit of Adjuvant Trastuzumab 
+
+A 90 80 70 
+
+AC- > T AC- > T + H 
+
+60 
+
+H = 0.66 P = .28 
+
+50 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+DFS by MYC:CEP8 Ratio ≥ 1.3 or < 1.3 with Polysomy 8 
+
+100 
+
+Disease-Free Survival (%) 
+
+Disease-Free Survival (%) 
+
+B 
+
+DFS by MYC:CEP8 Ratio < 1.3, Disomy 8 
+
+100 
+
+5 
+
+90 80 70 AC- > T AC- > T + H 
+
+60 
+
+H = 0.44 P < .001 
+
+50 
+
+6 
+
+0 
+
+1 
+
+Time Since Random Assignment (years) AC- > T AC- > T + H 
+
+75 66 
+
+74 63 
+
+C 
+
+65 58 
+
+47 44 
+
+36 29 
+
+25 15 
+
+12 11 
+
+< 1.3, p8 
+
+N = 229 
+
+1.3–2.2 
+
+N = 248 
+
+N = 181 
+
+> 2.2 
+
+0.5 
+
+1.0 
+
+1.5 
+
+2.0 
+
+2.5 
+
+Disease-Free Survival (%) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+287 295 
+
+220 219 
+
+145 137 
+
+99 97 
+
+33 60 
+
+DFS by Average MYC Copies per Nucleus < 2.5 
+
+90 80 70 AC- > T AC- > T + H 
+
+60 
+
+H = 1.07 P = .87 
+
+50 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time Since Random Assignment (years) 
+
+3.0 AC- > T AC- > T + H 
+
+Hazard Ratio (95% CI) 
+
+F 
+
+DFS by Average MYC Copies per Nucleus ≥ 2.5 
+
+100 
+
+322 313 
+
+0 0 
+
+E 
+
+341 317 
+
+100 
+
+Disease-Free Survival (%) 
+
+N = 141 
+
+AC- > T AC- > T + H 
+
+D 
+
+Forest Plot of DFS by MYC:CEP8 Ratio 
+
+< 1.3, Disomy 
+
+2 
+
+Time Since Random Assignment (years) 
+
+64 66 
+
+63 63 
+
+55 58 
+
+43 41 
+
+35 25 
+
+11 10 
+
+Forest Plot of DFS by Average MYC Copies per Nucleus 
+
+< 2.5 
+
+90 
+
+24 13 
+
+N = 130 
+
+80 
+
+AC- > T AC- > T + H 
+
+60 
+
+H = 0.42 P < .001 
+
+50 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time Since Random Assignment (years) AC- > T AC- > T + H 
+
+N = 404 
+
+2.5–5.0 
+
+70 
+
+352 317 
+
+333 313 
+
+297 295 
+
+224 222 
+
+146 141 
+
+100 99 
+
+N = 265 
+
+> 5.0 0 
+
+34 61 
+
+0.5 
+
+1.0 
+
+1.5 
+
+2.0 
+
+2.5 
+
+3.0 
+
+Hazard Ratio (95% CI) 
+
+Fig 4. Disease-free survival (DFS) by alternate cut points (A) by MYC:CEP8 ratio ⬍ 1.3 with disomy 8 and (B) by MYC:CEP8 ratio ⱖ 1.3 or ⬍ 1.3 with polysomy 8. (C) Forest plot of DFS by MYC:CEP8 ratio. (D) DFS by average MYC copies per nucleus ⬍ 2.5 and (E) ⱖ 2.5. (F) Forest plot of DFS by average MYC copies per nucleus. HR, hazard ratio; A, doxorubicin; C, cyclophosamide; T, paclitaxel; H, trastuzumab. 
+
+with both poor and good prognoses.8,9 Preliminary evidence from the B31 trial suggested that MYC amplification may predict additional benefit of adjuvant trastuzumab in patients with early-stage HER2positive breast cancer.7 Inhibition of HER2 signaling has been hypothesized to turn on the proapoptotic function of dysregulated www.jco.org 
+
+MYC,18,19 resulting in a higher rate of apoptosis in tumors with copy number gain. Constant overexpression of MYC without concomitant increase in survival or proliferation-promoting growth factors (eg, transforming growth factor ␣ [TGF-␣] and G1 cyclins) may cause a tumor to be more sensitive to apoptotic stimuli or to © 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+657 
+
+Perez et al 
+
+chemotherapy, which may be reflected in a better prognosis.8,20 Conversely, because MYC induces cell proliferation and HER2positive breast tumors tend to have a high proliferation index,21-23 those tumors with alterations for both genes may be more susceptible to the growth inhibitory synergistic effects observed with the combination of chemotherapy and trastuzumab.24-27 To further explore the B31 relationship between MYC amplification and sensitivity to trastuzumab, we evaluated the associations between MYC/chromosome 8 copy number anomalies and benefit of adjuvant trastuzumab in N9831. MYC amplification (MYC:CEP8 ratio ⬎ 2.2) was observed in 23% of patients. MYC amplification (average copies/nucleus ⬎ 5.0) was observed in 33% of patients, similar to the 30% reported for B31 using the same cut point.7 We also observed other copy number anomalies with relatively high frequencies. MYC duplication and p8 were observed in 39% and 32% of patients, respectively. Earlier studies did not report on the frequencies or impact of other possible alterations of MYC in breast cancer. We found significant associations between MYC amplification and hormone receptor positivity, ductal histology, and poor histologic tumor grade but not between MYC amplification and nodal status or tumor size. Literature findings8 are inconsistent regarding associations between MYC amplification and clinicopathologic characteristics. However, a meta-analysis28 demonstrated that only the correlation of MYC amplification (typically defined as MYC:CEP8 ratio ⱖ 2.0) with progesterone receptor negativity was statistically significant. The cohort of patients in N9831 were all HER2 positive, and hormone receptor testing was not centrally performed, which may account for the discrepant hormone receptor findings in our study. In addition, high MYC gene expression levels have been correlated with large breast tumors but also with better survival.29 This may be because proliferative cells are more sensitive to chemotherapy. Colon cancers with low levels of MYC amplification have been reported to respond better to adjuvant chemotherapy than those without gene amplification.30 However, we did not observe a significant correlation between MYC amplification and tumor size nor between MYC amplification and DFS advantage in N9831 patients treated with only chemotherapy. In contrast to the preliminary B31 results that showed patients with MYC/HER2 coamplification (average copies/nucleus ⬎ 5.0) benefited significantly more (P ⫽ .007) from trastuzumab than patients with only HER2 amplification, we did not observe a significant association between MYC amplification, defined as MYC: CEP8 ratio ⬎ 2.2 or average copies/nucleus ⬎ 5.0 and greater benefit in terms of prolonged DFS from trastuzumab in N9831. Important differences between the two studies include end points (time to first recurrence and overall survival in B31 v DFS in N9831) and number of patients examined (1,549 in B31 and 799 in N9831). In many circumstances, statistical anomalies could cause significant interaction findings, which may not hold up in independent validation. Both studies also found that patients with either MYC-amplified or nonamplified tumors significantly benefited from trastuzumab, limiting the clinical predictive impact of MYC amplification (as conventionally defined) on additional benefit of trastuzumab. Although we could not corroborate the B31 findings strictly on the basis of MYC amplification defined as ⬎ 5.0 average copies/ nucleus, we observed differential benefit of trastuzumab in groups of 658 
+
+© 2011 by American Society of Clinical Oncology 
+
+patients with alternative MYC and chromosome 8 copy number alterations. We observed that patients whose tumors had MYC:CEP8 ratio ⱖ 1.3 or MYC:CEP8 ratio ⬍ 1.3 with p8 or whose tumors had ⱖ 2.5 average MYC copies/nucleus appeared to derive more benefit from trastuzumab than those whose tumors had no MYC copy number alterations or loss of MYC (⬍ 2.5 average MYC copies/nucleus). This suggests that MYC duplication (or low-level relative gain of MYC) and gain of chromosome 8 are perhaps both responsible for predicting additional benefit of trastuzumab. These N9831 data imply that alternate MYC/chromosome 8 copy number alterations may be associated with differential benefit of trastuzumab and are consistent with an alternate hypothesis that MYC may be a surrogate for other genes located on chromosome 8. In addition to the proto-oncogene MYC, other genes present in the 8q24 amplicon may contribute directly to the outcome of patients harboring the large-scale genomic rearrangement involving 8q24 amplification.31-33 For example, genes mapping to 8q24 (RAD21, KIAA0196, TAF2, FAM49B, and C8ORF53) were significantly enriched in a 17-gene model predicting prostate cancer systemic progression.32 In addition, 8q24 was one of four highly aberrant chromosomal regions identified by gene expression microarray studies that selected CYC1, SIAHBP, and SCRIB as potential oncogenes.31 SIAHBP (FIR) has been shown to be involved in a complex that regulates MYC gene expression.34 Ongoing MYC protein analyses and whole-genome expression profiling of N9831 tumors will provide important information regarding the relationship between MYC and other pertinent genes and the benefit of adjuvant trastuzumab. Overall, our data suggest that alternative MYC and chromosome 8 copy number anomalies may identify subgroups of HER2-positive tumors that are responsive or nonresponsive to trastuzumab. Further investigation into the role of MYC, its regulators, its downstream effectors, and other genes located on chromosome 8 is required to fully elucidate the prognostic and/or predictive utility of MYC in HER2positive breast cancer. Understanding the full extent of the oncogenic effects of 8q24 amplification is critical to the development of more effective, targeted therapies for patients with breast cancer that exhibit this genetic aberration. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Edith A. Perez, Genentech (U), Bristol-Myers Squibb (U), sanofi-aventis (U), Roche (U); Ann E. McCullough, Genetech (C); Peter A. Kaufman, Genentech BioOncology (C) Stock Ownership: None Honoraria: None Research Funding: Edith A. Perez, Genentech, GlaxoSmithKline; Peter A. Kaufman, Genentech BioOncology; Julie R. Gralow, Genentech, Amgen, Roche, Novartis Expert Testimony: None Other Remuneration: None JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+Impact of MYC Amplification on Benefit of Adjuvant Trastuzumab 
+
+AUTHOR CONTRIBUTIONS Conception and design: Edith A. Perez, Robert B. Jenkins, Amylou C. Dueck, Beiyun Chen, Silvana Martino, Monica M. Reinholz Administrative support: Edith A. Perez, Anne E. Wiktor, Silvana Martino Provision of study materials or patients: Edith A. Perez, Nancy E. Davidson, Silvana Martino, George W. Sledge, Peter A. Kaufman, Julie R. Gralow, James N. Ingle, Monica M. Reinholz Collection and assembly of data: Edith A. Perez, Robert B. Jenkins, Patrick P. Bedroske, S. Keith Anderson, Rhett P. Ketterling, William R. Sukov, Kazunori Kanehira, Xochiquetzal J. Geiger, Ann E. McCullough, Silvana Martino, Monica M. Reinholz Data analysis and interpretation: Edith A. Perez, Robert B. Jenkins, Amylou C. Dueck, S. Keith Anderson, Rhett P. Ketterling, Cathy A. 
+
+REFERENCES 1. Perez EA, Palmieri FM, Brock SM: Trastuzumab. Cancer Treat Res 151:181-196, 2009 2. Perez EA, Reinholz MM, Dueck AC, et al: C-MYC amplification and correlation with patient outcome in early stage HER2⫹ breast cancer from the NCCTG adjuvant intergroup trial N9831. Cancer Res 69:76s, 2009 (suppl; abstr 56) 3. Perez EA, Romond EH, Suman VJ, et al: Updated results of the combined analysis of NCCTG N9831 and NSABP B-31 adjuvant chemotherapy with/without trastuzumab in patients with HER2positive breast cancer. J Clin Oncol 25:6s, 2007 (suppl; abstr 512) 4. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 5. Bedard PL, de Azambuja E, Cardoso F: Beyond trastuzumab: Overcoming resistance to targeted HER-2 therapy in breast cancer. Curr Cancer Drug Targets 9:148-162, 2009 6. Chen Y, Olopade OI: MYC in breast tumor progression. Expert Rev Anticancer Ther 8:1689-1698, 2008 7. Kim C, Bryant J, Horne Z, et al: Trastuzumab sensitivity of breast cancer with co-amplification of HER2 and cMYC suggests pro-apoptotic function of dysregulated cMYC in vivo. Breast Cancer Res Treat 94:S6, 2005 (abstr 46) 8. Liao DJ, Dickson RB: C-Myc in breast cancer. Endocr Relat Cancer 7:143-164, 2000 9. Lutz W, Leon J, Eilers M: Contributions of Myc to tumorigenesis. Biochim Biophys Acta 1602: 61-71, 2002 10. Nesbit CE, Tersak JM, Prochownik EV: MYC oncogenes and human neoplastic disease. Oncogene 18:3004-3016, 1999 11. Neve RM, Sutterlüty H, Pullen N, et al: Effects of oncogenic ErbB2 on G1 cell cycle regulators in breast tumour cells. Oncogene 19:1647-1656, 2000 12. Al-Kuraya K, Schraml P, Torhorst J, et al: Prognostic relevance of gene amplifications and coamplifications in breast cancer. Cancer Res 64: 8534-8540, 2004 13. Park K, Kwak K, Kim J, et al: c-myc amplification is associated with HER2 amplification and 
+
+Andorfer, Nancy E. Davidson, Silvana Martino, Peter A. Kaufman, James N. Ingle, Wilma L. Lingle, Monica M. Reinholz Manuscript writing: Edith A. Perez, Robert B. Jenkins, Amylou C. Dueck, Anne E. Wiktor, Patrick P. Bedroske, S. Keith Anderson, Rhett P. Ketterling, William R. Sukov, Kazunori Kanehira, Beiyun Chen, Xochiquetzal J. Geiger, Cathy A. Andorfer, Ann E. McCullough, Nancy E. Davidson, Silvana Martino, George W. Sledge, Peter A. Kaufman, Leila A. Kutteh, Julie R. Gralow, Lyndsay N. Harris, James N. Ingle, Wilma L. Lingle, Monica M. Reinholz Final approval of manuscript: Edith A. Perez, Robert B. Jenkins, Amylou C. Dueck, Anne E. Wiktor, Patrick P. Bedroske, S. Keith Anderson, Rhett P. Ketterling, William R. Sukov, Kazunori Kanehira, Beiyun Chen, Xochiquetzal J. Geiger, Cathy A. Andorfer, Ann E. McCullough, Nancy E. Davidson, Silvana Martino, George W. Sledge, Peter A. Kaufman, Leila A. Kutteh, Julie R. Gralow, Lyndsay N. Harris, James N. Ingle, Wilma L. Lingle, Monica M. Reinholz 
+
+closely linked with cell proliferation in tissue microarray of nonselected breast cancers. Hum Pathol 36:634-639, 2005 14. Reinholz MM, Dueck AC, Lingle WL, et al: The concordance between NCCTG’s and NSABP’s C-myc FISH assays. J Clin Oncol 26:757s, 2008 (suppl; abstr 22110) 15. Wolff AC, Hammond ME, Schwartz JN, et al: American Society of Clinical Oncology/College of American Pathologists guideline recommendations for human epidermal growth factor receptor 2 testing in breast cancer. J Clin Oncol 25:118-145, 2007 16. Qian J, Hirasawa K, Bostwick DG, et al: Loss of p53 and c-myc overrepresentation in stage T(23)N(1-3)M(0) prostate cancer are potential markers for cancer progression. Mod Pathol 15:35-44, 2002 17. Sato K, Qian J, Slezak JM, et al: Clinical significance of alterations of chromosome 8 in highgrade, advanced, nonmetastatic prostate carcinoma. J Natl Cancer Inst 91:1574-1580, 1999 18. Adhikary S, Eilers M: Transcriptional regulation and transformation by Myc proteins. Nat Rev Mol Cell Biol 6:635-645, 2005 19. Evan GI, Wyllie AH, Gilbert CS, et al: Induction of apoptosis in fibroblasts by c-myc protein. Cell 69:119-128, 1992 20. Liao DJ, Natarajan G, Deming SL, et al: Cell cycle basis for the onset and progression of c-Myc-induced, TGFalpha-enhanced mouse mammary gland carcinogenesis. Oncogene 19:1307-1317, 2000 21. Rudolph P, Olsson H, Bonatz G, et al: Correlation between p53, c-erbB-2, and topoisomerase II alpha expression, DNA ploidy, hormonal receptor status and proliferation in 356 node-negative breast carcinomas: Prognostic implications. J Pathol 187: 207-216, 1999 22. Trihia H, Murray S, Price K, et al: Ki-67 expression in breast carcinoma: Its association with grading systems, clinical parameters, and other prognostic factors—A surrogate marker? Cancer 97:1321-1331, 2003 23. Yerushalmi R, Woods R, Ravdin PM, et al: Ki67 in breast cancer: Prognostic and predictive potential. Lancet Oncol 11:174-183, 2010 24. Arteaga CL: Can trastuzumab be effective against tumors with low HER2/Neu (ErbB2) receptors? J Clin Oncol 24:3722-3725, 2006 
+
+25. Henson ES, Hu X, Gibson SB: Herceptin sensitizes ErbB2-overexpressing cells to apoptosis by reducing antiapoptotic Mcl-1 expression. Clin Cancer Res 12:845-853, 2006 26. Menendez JA, Mehmi I, Lupu R: Trastuzumab in combination with heregulin-activated Her-2 (erbB-2) triggers a receptor-enhanced chemosensitivity effect in the absence of Her-2 overexpression. J Clin Oncol 24: 3735-3746, 2006 27. Pero SC, Shukla GS, Cookson MM, et al: Combination treatment with Grb7 peptide and doxorubicin or trastuzumab (Herceptin) results in cooperative cell growth inhibition in breast cancer cells. Br J Cancer 96:1520-1525, 2007 28. Deming SL, Nass SJ, Dickson RB, et al: C-myc amplification in breast cancer: A meta-analysis of its occurrence and prognostic relevance. Br J Cancer 83:1688-1695, 2000 29. Bièche I, Laurendeau I, Tozlu S, et al: Quantitation of MYC gene expression in sporadic breast tumors with a real-time reverse transcription-PCR assay. Cancer Res 59:2759-2765, 1999 30. Augenlicht LH, Wadler S, Corner G, et al: Low-level c-myc amplification in human colonic carcinoma cell lines and tumors: A frequent, p53independent mutation associated with improved outcome in a randomized multi-institutional trial. Cancer Res 57:1769-1775, 1997 31. Buness A, Kuner R, Ruschhaupt M, et al: Identification of aberrant chromosomal regions from gene expression microarray studies applied to human breast cancer. Bioinformatics 23:2273-2280, 2007 32. Nakagawa T, Kollmeyer TM, Morlan BW, et al: A tissue biomarker panel predicting systemic progression after PSA recurrence post-definitive prostate cancer therapy. PLoS One 3:e2318, 2008 33. Yao J, Weremowicz S, Feng B, et al: Combined cDNA array comparative genomic hybridization and serial analysis of gene expression analysis of breast tumor progression. Cancer Res 66:40654078, 2006 34. Liu J, Kouzine F, Nie Z, et al: The FUSE/FBP/ FIR/TFIIH system is a molecular machine programming a pulse of c-myc expression. Embo J 25:21192130, 2006 
+
+■ ■ ■ 
+
+www.jco.org 
+
+© 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on January 7, Copyright © 2011 American Society of Clinical Oncology. All rights reserved. 2014 from 171.65.253.128 
+
+659 
+
+ 

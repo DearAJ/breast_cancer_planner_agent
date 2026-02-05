@@ -1,0 +1,675 @@
+VOLUME 
+
+27 
+
+䡠 
+
+NUMBER 
+
+15 
+
+䡠 
+
+MAY 
+
+20 
+
+2009 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Phase III Trial Evaluating the Addition of Paclitaxel to Doxorubicin Followed by Cyclophosphamide, Methotrexate, and Fluorouracil, As Adjuvant or Primary Systemic Therapy: European Cooperative Trial in Operable Breast Cancer From the Fondazione IRCCS Istituto Nazionale Tumori, Milan; Ospedale Universitario Santa Maria della Misericordia, Udine, Italy; Hospital Vall d’Hebron and Hospital de San Pau, Barcelona; Istituto Valenciano de Oncologia and Hospital Clinico Universitario de Valencia, Valencia, Spain; Frauenklinik vom Roten Kreuz, Munich, Germany; N.N. Petrov Research Institute of Oncology, St Petersburg; and the N.A. Semashko Central Clinical Hospital, Moscow, Russia. Submitted July 28, 2008; accepted November 21, 2008; published online ahead of print at www.jco.org on March 30, 2009. Supported by an unrestricted grant from Bristol Myers Squibb which had no role in the design of the study, the collection, analysis, and interpretation of the data, nor on the decision to submit the manuscript or the writing of the manuscript itself. Presented in part at the Annual Meeting of the American Society of Clinical Oncology, 2005. Written on behalf of the European Cooperative Trial in Operable Breast Cancer Study Group. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Luca Gianni, MD, Fondazione IRCCS “Istituto Nazionale dei Tumori”, Via Venezian, 1, 20133 Milan, Italy; e-mail: luca.gianni@ istitutotumori.mi.it. The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). © 2009 by American Society of Clinical Oncology 0732-183X/09/2715-2474/$20.00 DOI: 10.1200/JCO.2008.19.2567 
+
+2474 
+
+Luca Gianni, José Baselga, Wolfgang Eiermann, Vincente Guillem Porta, Vladimir Semiglazov, Aňa Lluch, Milvia Zambetti, Dolores Sabadell, Günther Raab, Antonio Llombart Cussac, Alla Bozhok, Angel Martinez-Agulló, Marco Greco, Mikhail Byakhov, Juan Josè Lopez Lopez, Mauro Mansutti, Pinuccia Valagussa, and Gianni Bonadonna A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose To evaluate the addition of paclitaxel to an anthracycline-based adjuvant regimen and to compare this combination with the same regimen given as primary systemic (neoadjuvant) therapy. Patients and Methods A total of 1,355 women with operable breast cancer were randomly assigned to one of three treatments: surgery followed by adjuvant doxorubicin (75 mg/m2) followed by cyclophosphamide, methotrexate, and fluorouracil (CMF; arm A); surgery followed by adjuvant paclitaxel (200 mg/m2) plus doxorubicin (60 mg/m2), followed by CMF (arm B); or paclitaxel (200 mg/m2) plus doxorubicin (60 mg/m2) followed by CMF followed by surgery (arm C). The two coprimary objectives were to assess the effects on relapse-free survival (RFS) of the addition of paclitaxel to postoperative chemotherapy (arm B v arm A) and primary chemotherapy versus adjuvant chemotherapy (arm B v arm C). Results Doxorubicin plus paclitaxel followed by CMF was well-tolerated as adjuvant or as primary chemotherapy. The addition of paclitaxel to adjuvant doxorubicin followed by CMF significantly improved RFS compared with adjuvant doxorubicin alone followed by CMF (hazard ratio [HR], 0.73; P ⫽ .03). Distant RFS was similarly improved (HR, 0.70; P ⫽ .027). There was no significant difference in RFS when the paclitaxel/doxorubicin/CMF chemotherapy was given before surgery compared with the same regimen given after surgery (HR, 1.21; P ⫽ .18). However, the rate of breast-conserving surgery was significantly higher with preoperative chemotherapy (63% v 34%; P ⬍ .001). Conclusion Incorporating paclitaxel into anthracycline-based adjuvant therapy resulted in a significant improvement in RFS and distant RFS. When given as primary systemic therapy, the paclitaxel-containing regimen allowed breast-sparing surgery in a significant percentage of patients. J Clin Oncol 27:2474-2481. © 2009 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+At the time the European Cooperative Trial in Operable Breast Cancer (ECTO) was designed in 1996, taxanes were known to have efficacy in patients with advanced breast cancer.1-4 However, they were still to be established in the adjuvant setting and there was also relatively little data on the comparative efficacy of neoadjuvant and adjuvant regimens. Therefore, the ECTO trial was designed to assess the 
+
+effects of adding paclitaxel to an anthracyclinebased regimen in patients with operable breast cancer, and to compare the same regimen given preoperatively and postoperatively. A sequential regimen was chosen as the backbone of therapy since several studies had shown that sequential doxorubicin or epirubicin followed by CMF was superior to CMF alone5 and to alternating doxorubicin and CMF.6,7,8 It had also been shown that the duration of adjuvant CMF therapy could be 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Paclitaxel Added to Sequential Adjuvant/Neoadjuvant Chemotherapy 
+
+A 
+
+T > 2 cm 
+
+R A N D O M I Z E 
+
+S 
+
+A for 4 cycles 
+
+B 
+
+S 
+
+C 
+
+AT for 4 cycles 
+
+CMF for 4 cycles 
+
+AT for 4 cycles 
+
+CMF for 4 cycles 
+
+CMF for 4 cycles 
+
+shortened to 6 months9 and that four cycles of doxorubicin plus cyclophosphamide (AC) produced similar results to six cycles of CMF.10 It was hoped that a prolonged regimen of sequential, noncrossresistant cytotoxic agents, including both a taxane and doxorubicin, would significantly improve the pathologic complete response (pCR) rate and that this, in turn, would result in an improvement in diseasefree and overall survival (OS). With only four planned cycles of paclitaxel/doxorubicin and a cumulative doxorubicin dose of 240 mg/m2, the addition of paclitaxel was not expected to cause any clinically significant increase in doxorubicin-associated cardiotoxicity, since this had previously only been observed in patients given cumulative doxorubicin doses of at least 360 mg/m2 in combination with paclitaxel.11 PATIENTS AND METHODS Study Design This was a multicenter, international, open-label, three-arm, randomized phase III study conducted in 31 European centers. Treatment was allocated centrally using a minimization algorithm with stratification for primary tumor size (ⱕ 4.0 v ⬎ 4.0 cm), tumor grade (low v intermediate v high), 
+
+Fig 1. European Cooperative Trial in Operable Breast Cancer study treatment schema. Women with unilateral, operable breast cancer larger than 2 cm at diagnosis were randomly assigned to arm A, B, or C. A, doxorubicin every 3 weeks for 4 cycles; T, paclitaxel every 3 weeks for 4 cycles; CMF, cyclophosphamide, methotrexate and fluorouracil every 4 weeks for four cycles; S, surgery; 3, followed by. 
+
+S 
+
+hormone receptor status (estrogen receptor [ER] and/or progesterone receptor [PgR] positive v both negative), and study site location. Randomization took place before surgical assessment of axillary nodal involvement. Patients were randomly assigned in a ratio of 1:1:1 to one of three treatment arms. The study was approved by local ethics committees and all patients provided written informed consent. Patients To be eligible, patients had to be at least 18 years old with untreated unilateral, operable breast cancer measuring more than 2 cm in diameter (stage T2-T3, N0-N1, M0), with known hormonal receptor status and tumor grade. Karnofsky performance status higher than 70, adequate bone marrow, renal and liver function, and normal blood pressure and cardiac function, including left ventricular ejection fraction (LVEF) were required. Patients with locally advanced or metastatic disease and patients with a previous surgical biopsy of the tumor were not eligible. Patients were also excluded if they were pregnant or nursing, had a prior malignancy or cardiac arrhythmias, congestive heart failure, recent myocardial infarction, uncontrolled hypertension, active infection, pre-existing neuropathy, or psychiatric disorder preventing informed consent. Treatment In arm A (standard control arm), doxorubicin was planned at 75 mg/m2 by intravenous (IV) bolus every 3 weeks for four cycles, followed by intravenous cyclophosphamide 600 mg/m2, methotrexate 40 mg/m2, and fluorouracil 600 mg/m2 (CMF) on days 1 and 8 every 4 weeks, for four cycles (Fig 1). 
+
+Random Assignment 
+
+Allocated to Arm A (Surgery → A → CMF) (n = 453) Received allocated treatment (n = 444) Did not receive allocated treatment (n = 9: 2 ineligible [MBC/LABC], 7 consent withdrawn) 
+
+Allocated to Arm B (Surgery → AT → CMF) (n = 451) Received allocated treatment (n = 432) Did not receive allocated treatment (n = 19: 5 ineligible [MBC/LABC], 13 consent withdrawn, 1 other) 
+
+Allocated to Arm C (AT → CMF → surgery) (n = 451) Received allocated treatment (n = 448) Did not receive allocated treatment (n = 3: 1 ineligible [MBC/LABC], 2 consent withdrawn) 
+
+Fig 2. CONSORT diagram for patients in European Cooperative Trial in Operable Breast Caner study. Numbers of patients at each stage are shown in the boxes. MBC, metastatic breast cancer; LABC, locally advanced breast cancer. 
+
+Follow-Up 
+
+Discontinued treatment (n = 42: 28 consent withdrawn/refused, 2 breast cancer relapse/ progression, 1 cardiac event, 8 toxicity, 3 comorbidity) 
+
+www.jco.org 
+
+Discontinued treatment (n = 36: 19 consent withdrawn/refused, 1 death, 3 breast cancer relapse/progression, 12 toxicity, 1 comorbidity) 
+
+Discontinued treatment (n = 32: 15 consent withdrawn/refused, 3 breast cancer progression/ relapse, 12 toxicity, 2 comorbidity) 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2475 
+
+Gianni et al 
+
+Patients in arms B and C received a slightly lower dose of doxorubicin (60 mg/m2) immediately followed by paclitaxel 200 mg/m2 infused over 3 hours. The duration, schedule, and intensity of the backbone chemotherapy was essentially the same in each treatment arm, apart from the higher cumulative dose of doxorubicin in arm A (300 mg/m2) than arms B and C (240 mg/m2). The type of surgery (breast conserving or mastectomy) was selected by the local surgeon. Postoperative radiation was required for patients undergoing breast-conserving surgery, and patients with hormone receptor–positive tumors were offered adjuvant tamoxifen (offered to all patients before July 2000). Efficacy Assessments Patients were assessed by physical examination before every cycle of chemotherapy, 2, 6, 12, 18, and 24 months after completion of treatment, and then yearly thereafter. Patients in arm C also had bilateral mammography (or ultrasound) after completion of doxorubicin/paclitaxel and after completion of CMF. Mammography (or ultrasound) was also performed in all patients after completion of radiotherapy and then at yearly intervals. Response to primary systemic therapy (PST) was categorized as complete clinical response (CR), partial response (PR), minor response or progressive disease, as previously described.12 Surgical specimens were evaluated for pathologic response to PST. Patients with no residual invasive cancer in the breast were considered to have had a pCR, regardless of axillary lymph node status. This definition differs from several other standards. 
+
+Safety Assessments Safety assessments during treatment were described previously.12 Cardiac function was assessed by physical examination, ECG, and measurement of LVEF at baseline, at the end of each chemotherapy regimen, every 6 months for at least 2 years, and then yearly. Statistical Analyses The two coprimary objectives of the ECTO study were to assess the effects on relapse-free survival (RFS) of the addition of paclitaxel to postoperative, sequential doxorubicin followed by CMF (comparison of arm B v arm A), and administration of the combination of paclitaxel plus doxorubicin followed by CMF as PST versus adjuvant therapy (comparison of arm C v arm B). RFS was defined as the time from random assignment to breast cancer progression or relapse (local, regional, distant, or contralateral breast, excluding contralateral ductal carcinoma in situ). Death was not included in the definition because it was not included in the study that was used for sample size estimation. This was the main difference between RFS, as defined in this study, and RFS or DFS used in other similar studies and recommended in recent guidelines.13 A sample size of 450 patients per arm was planned to give 80% power to detect a 30% between-group relative difference in the hazard of occurrence of end point events, at the 5% significance level (log-rank, two-sided test). Efficacy assumptions for the control arm were based on prior experience of postoperative, sequential doxorubicin and CMF at the Milan Cancer Institute (5-year DFS, 55%). Sample size estimations also assumed a follow-up period 
+
+Table 1. Main Efficacy Outcomes After 76 Months of Follow-Up Arm Parameter RFS, % 7 year Median DRFS, % 7 year Median OS, % 7 year Median Surgery Conservative Mastectomy Pathologic node status Negative Positive Local recurrence, % Conservative surgery Modified mastectomy Response CCR % PR % MR % NR % PD % 
+
+A (S 3 A 3 CMF) 
+
+B (S 3 AT 3 CMF) 
+
+C (AT 3 CMF3 S) 
+
+69 Not reached 
+
+76 Not reached 
+
+72 Not reached 
+
+77 Not reached 
+
+84 Not reached 
+
+80 Not reached 
+
+82 Not reached 
+
+85 Not reached 
+
+84 Not reached 
+
+35 65 
+
+33 67 
+
+63 37 
+
+40 60 
+
+38 62 
+
+60 40 
+
+6.9 2.3 
+
+5.2 3.5 
+
+5.3 2.7 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+184 49 107 29 54 14 25 7 3 1 
+
+Abbreviations: A, doxorubicin; T, paclitaxel; CMF, cyclophosphamide, methotrexate, and fluorouracil; S, surgery; RFS, relapse-free survival; DRFS, distant relapse-free survival; OS, overall survival; CCR, clinical complete response; PR, partial response; MR, minor response; NR, no response; PD, progressive disease. ⴱ After primary systemic therapy. 
+
+2476 
+
+© 2009 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Paclitaxel Added to Sequential Adjuvant/Neoadjuvant Chemotherapy 
+
+of 2 to 4 years, 10% loss to follow-up, and a constant or decreasing trend over time for the hazard of occurrence of events. The primary analysis was scheduled to take place 5 years after the study start. To improve the statistical power, in case RFS after 5 years was higher than expected, a second analysis was planned 7 years after study start. Secondary objectives included a comparison of breast-conserving procedures and pathologic nodal status after PST (arm C) versus primary surgery (arms A and B grouped together), and comparison of toxicity, distant relapsefree survival (DRFS) and overall survival (OS) in the three treatment arms. Identification of pretreatment variables likely to predict clinical and pathological response to primary chemotherapy, and assessment of whether pCR was an independent predictor for RFS, DRFS, and OS, were also secondary objectives. All randomly assigned patients were included in the intention-totreat analyses and were evaluated for RFS, DRFS, and OS and, in arm C, for pCR. The Kaplan-Meier product-limit method was used to estimate RFS, DRFS, and OS, and the stratified log-rank test was used to compare RFS, DRFS, and OS among treatment groups. Seven-year RFS and DRFS were also estimated for subgroups according to key variables. Hazard ratios and 95% CIs were calculated with a Cox model. All statistical tests were two sided. Heterogeneity among centers was not assessed. Multivariate analyses of possible predictive factors were planned in the protocol and included clinical tumor size, axillary nodal status, tumor grade, and ER and PgR status. No interim efficacy analyses were planned. Safety analyses were conducted yearly. With the exception of pathologic response as a predictor for RFS, DRFS, and OS, secondary objectives have already been analyzed and reported, based on data received by July 31, 2003.12,14 This article provides the results of the primary efficacy analysis, up-dated secondary analyses and longterm safety based on data received by November 30, 2007. 
+
+RESULTS 
+
+Patients A total of 1,355 patients with newly diagnosed, operable breast cancer were enrolled from November 1996 to May 2002. Of these, eight patients did not meet the eligibility criteria and 23 withdrew consent after treatment allocation (Fig 2). Baseline characteristics were well balanced between the three treatment arms, as previously described (Appendix Table A1, online only).12 Treatment Ninety-two percent of patients completed the planned eight cycles of chemotherapy (Fig 1). Details of dose reductions and treatment discontinuations have been described previously.12 Breast and axillary radiotherapy, and adjuvant hormonal therapy were evenly distributed across treatment arms. Efficacy Preliminary efficacy data have already been reported after a median follow-up of 31 months.12,14 This showed that PST caused major shrinkage of the primary tumor in 78% of patients (CR, 49%; PR, 29%), and a much higher rate of breast-conserving surgery than in patients who had surgery first (63% v 34%; P ⬍ .001). The current analysis was performed after a median follow-up of 76 months (maximum 126 months), and after 319 RFS events and 234 DRFS events. Results are summarized in Tables 1 and 2. A statistically 
+
+Table 2. Summary of Main Efficacy Comparisons Parameter Primary comparison, RFS Addition of paclitaxel to postoperative, doxorubicin 3 CMF Primary systemic v adjuvant chemotherapy Secondary comparison, DRFS Addition of paclitaxel to postoperative, doxorubicin 3 CMF Primary systemic v adjuvant chemotherapy Secondary comparison, OS Addition of paclitaxel to postoperative, doxorubicin 3 CMF Primary systemic v adjuvant chemotherapy Secondary comparison, breastsparing surgery Adjuvant chemotherapy v primary systemic Secondary comparison, pathologic node status Adjuvant chemotherapy v primary systemic Secondary comparison, local recurrence Adjuvant chemotherapy v primary systemic 
+
+No. Patients per Group 
+
+Total No. of Patients 
+
+% of Patients in Each Group 
+
+453 v 451 
+
+903 
+
+451 v 451 
+
+902 
+
+453 v 451 
+
+903 
+
+451 v 451 
+
+902 
+
+453 v 451 
+
+903 
+
+451 v 451 
+
+902 
+
+904 v 451 
+
+1,355 
+
+S 3 A or AT 3 CMF (arm A ⫹ B) v AT 3 CMF 3 S (arm C) 
+
+34% breast-spring surgery v 63% 
+
+⬍ .001 
+
+904 v 451 
+
+1,355 
+
+S 3 A or AT 3 CMF (arm A ⫹ B) v AT 3 CMF 3 S (arm C) 
+
+39% node negative v 60% 
+
+⬍ .001 
+
+904 v 451 
+
+1,355 
+
+S3 A or AT 3 CMF (arm A ⫹ B) v AT 3 CMF 3 S (arm C) 
+
+4.1% local recurrence v 4.6% 
+
+NS 
+
+Treatment Comparison 
+
+HR 
+
+95% CI 
+
+S 3 A 3 CMF (arm A) v S 3 AT 3 CMF (arm B) S 3 AT 3 CMF (arm B) v AT 3 CMF 3 S (arm C) 
+
+0.73 
+
+0.57 to 0.97 
+
+.03 
+
+1.21 
+
+0.92 to 1.60 
+
+.18 
+
+0.70 
+
+0.51 to 0.96 
+
+.027 
+
+1.22 
+
+0.88 to 1.69 
+
+.24 
+
+0.80 
+
+0.56 to 1.14 
+
+.21 
+
+1.10 
+
+0.77 to 1.59 
+
+.60 
+
+S 3 A 3 CMF (arm A) v S3 AT 3 CMF (arm B) S 3 AT 3 CMF (arm B) v AT 3 CMF 3 S (arm C) S 3 A 3 CMF (arm A) v S3 AT 3 CMF (arm B) S 3 AT 3 CMF (arm B) v AT 3 CMF 3 S (arm C) 
+
+P 
+
+Abbreviations: A, doxorubicin; T, paclitaxel; CMF, cyclophosphamide, methotrexate, and fluorouracil; S, surgery; RFS, relapse-free survival; DRFS, distant relapse-free survival; OS, overall survival; HR, hazard ratio. 
+
+www.jco.org 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2477 
+
+Gianni et al 
+
+and clinically significant improvement in RFS was seen for patients treated with paclitaxel in addition to postoperative doxorubicin followed by CMF (ie, arm B v arm A; HR, 0.73; P ⫽ .03; Fig 3A). Analysis of DRFS showed a similar benefit for the addition of paclitaxel (HR, 0.70; P ⫽ .027; Fig 3B). However, 7-year survival was not significantly different between the two treatment arms (HR, 0.80; P ⫽ .21; Fig 3C). Of note, patients with clinically node-negative disease were eligible for the trial. As a result, 40% of patients in the adjuvant arms were node-negative at surgery. In a subset analysis, the benefit of paclitaxel in node-negative patients was similar to that in node-positive patients and the trial population overall, for both RFS (HR, 0.71) and DRFS (HR, 0.72). In the second primary comparison, RFS (HR, 1.21; P ⫽ .18), DRFS (HR, 1.22; P ⫽ .24) and OS (HR, 1.10; P ⫽ .60) were similar whether chemotherapy (paclitaxel/doxorubicin followed by CMF) was given before or after surgery (Figs 3D, 3E, and 3F). Multivariate analysis indicated that treatment without paclitaxel, PgR negative status and positive axillary nodal status were associated 
+
+C 
+
+0.8 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+Arm A Arm B 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+1.0 
+
+Overall Survival (proportion) 
+
+1.0 
+
+0 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 
+
+Arm A Arm B 
+
+1 
+
+2 
+
+Time (years) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0.4 
+
+0.2 Arm C Arm B 
+
+4 
+
+5 
+
+Arm A Arm B 
+
+1 
+
+2 
+
+6 
+
+7 
+
+Time (years) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+6 
+
+7 
+
+1.0 
+
+0.6 
+
+Arm C Arm B 
+
+3 
+
+0.2 
+
+0 
+
+Overall Survival (proportion) 
+
+0.8 
+
+Distant Relapse-Free Survival (proportion) 
+
+0.8 
+
+2 
+
+0.4 
+
+F 1.0 
+
+1 
+
+0.6 
+
+Time (years) 
+
+E 1.0 
+
+0 
+
+0.8 
+
+Time (years) 
+
+D Relapse-Free Survival (proportion) 
+
+Safety Safety during treatment and in the early follow-up period was similar in the three arms, apart from the expected paclitaxel-related toxicities in arms B and C as previously described (Appendix Table A2, online only).12 With longer follow-up, no apparent detrimental effect has emerged from the addition of paclitaxel: 16.2% of paclitaxeltreated patients developed grade 2 cardiac toxicity, and nine patients (⬍ 1%) developed grade 3 cardiac toxicity (six during chemotherapy and three during follow-up; Table 3). One of these patients subsequently died of congestive heart failure 46 months later; seven were 
+
+B 1.0 
+
+Distant Relapse-Free Survival (proportion) 
+
+Relapse-Free Survival (proportion) 
+
+A 
+
+with worse RFS and DRFS in patients receiving adjuvant chemotherapy. For patients receiving PST, multivariate analysis showed that positive axillary nodes and PgR-negative disease predicted poorer RFS, while failure to achieve a pCR did not reach conventional statistical significance (P ⫽ .12) for RFS (Fig 4A). DRFS was negatively affected by all the variables mentioned, including failure to achieve a pCR (HR, 0.43; P ⫽ .025; Fig 4B). 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Time (years) 
+
+6 
+
+7 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 Arm C Arm B 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Time (years) 
+
+Fig 3. (A) Kaplan-Meier analyses of relapse-free survival (RFS) in patients given adjuvant doxorubicin followed by CMF, with (arm B) or without (arm A) paclitaxel. Yellow curve, surgery 3 doxorubicin 3 CMF (arm A); blue curve, surgery 3 doxorubicin/paclitaxel 3 CMF (arm B); (B) Kaplan-Meier analyses of distant relapse-free survival (DRFS) in patients given adjuvant doxorubicin followed by CMF, with (arm B) or without (arm A) paclitaxel. Yellow curve, surgery 3 doxorubicin 3 CMF (arm A); blue curve, surgery 3 doxorubicin/paclitaxel 3 CMF (arm B). (C) Kaplan-Meier analyses of overall survival in patients given adjuvant doxorubicin followed by CMF, with (arm B) or without (arm A) paclitaxel. Yellow curve, surgery 3 doxorubicin 3 CMF (arm A); blue curve, surgery 3 doxorubicin/paclitaxel 3 CMF (arm B). (D) Kaplan-Meier analyses of RFS in patients given the same chemotherapy before surgery (arm C) or after surgery (arm B). Yellow curve, AT3 CMF 3 surgery (arm C); blue curve, surgery 3 AT3 CMF (arm B). (E) Kaplan-Meier analyses of DRFS in patients given the same chemotherapy before surgery (arm C) or after surgery (arm B). Yellow curve, AT3 CMF 3 surgery (arm C); blue curve, surgery 3 AT3 CMF (arm B). (F) Kaplan-Meier analyses of overall survival in patients given the same chemotherapy before surgery (arm C) or after surgery (arm B). Yellow curve, AT3 CMF 3 surgery (arm C); blue curve, surgery 3 AT3 CMF (arm B). 2478 
+
+© 2009 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Paclitaxel Added to Sequential Adjuvant/Neoadjuvant Chemotherapy 
+
+A 
+
+B 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 
+
+1.0 
+
+Distant Relapse-Free Survival (proportion) 
+
+Relapse-Free Survival (proportion) 
+
+1.0 
+
+No pCR pCR 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Fig 4. (A) Kaplan-Meier analyses of relapse-free survival (RFS) in patients who did or did not achieve a pathologic complete response (pCR) after primary chemotherapy (arm C). Blue curve, patients who achieved a pCR; yellow curve, patients who did not achieve a pCR. (B) Kaplan-Meier analyses of distant relapsefree survival (DRFS) in patients who achieved or did not achieve a pCR after primary chemotherapy (arm C). Blue curve, patients who achieved a pCR; yellow curve, patients who did not achieve a pCR. 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 
+
+Time (years) 
+
+No pCR pCR 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time (years) 
+
+alive after a median of 60 months; and the remaining patient died of breast cancer 16 months after the cardiac event. A variety of second malignancies have also been documented but with no apparent increase in the paclitaxel-containing arms (eight in arm A, 12 in arm B, and eight in arm C). Of note, one patient in arm A developed acute myeloblastic leukemia, two patients in arm B developed non-Hodgkin’s lymphoma, and one patient in arm C developed a scar sarcoma. One patient died of lymphoma but the other patients were alive and free of second malignancy and breast cancer 4 to 6 years later. DISCUSSION 
+
+The ECTO study found a significant improvement in RFS and DRFS in patients with operable early-stage breast cancer when paclitaxel was incorporated into a sequential adjuvant regimen of noncross-resistant chemotherapies that was originally pioneered by the Milan group.7 This advantage was also seen in women with node-negative disease who constituted 40% of patients enrolled in the adjuvant arms. Comparison of the same paclitaxel/doxorubicin/CMF regimen given preoperatively instead of postoperatively resulted in similar RFS and DRFS but a significantly higher percentage of patients were able to undergo breast-conserving surgery without a detrimental effect on local recurrence or survival. The ECTO study recruited a typical and representative sample of patients and its findings are consistent with a recent meta-analysis from the Early Breast Cancer Trialists Group, which showed that 
+
+taxane-based adjuvant regimens are superior to anthracycline-based regimens in terms of recurrence rate.15 Pooled data from another meta-analysis also showed that incorporation of taxanes into anthracycline-based regimens significantly improved both DFS and survival in patients with early-stage breast cancer.16 Another recently reported trial, the BIG 02-98 study, evaluated docetaxel in combination with a sequential adjuvant regimen of doxorubicin followed by CMF, and directly compared docetaxel administered at the same time as the doxorubicin, with docetaxel administered in sequence with doxorubicin.17 In this study, the addition of docetaxel resulted in an improvement in DFS of borderline statistical significance (HR, 0.86; P ⫽ .051). However, DFS in the sequential docetaxel arm was better than in the concurrent docetaxel arm (HR, 0.83; 95% CI, 0.69 to 1.00) and the sequential control arm (HR, 0.79; 95% CI, 0.64 to 0.98). Importantly, there was no benefit in adding docetaxel to doxorubicin before CMF (DFS HR, 0.93; 95% CI, 0.75 to 1.14), probably because a reduction in dose of both drugs was required for concurrent administration.17 In the ECTO trial, the concomitant administration of standard doses of doxorubicin and paclitaxel was feasible in 97% of patients and resulted in a significant improvement in efficacy over the control arm, despite a lower dose of doxorubicin in the combination arm (60 mg/m2 v 75 mg/m2). This difference was probably not significant because doses higher than 60 mg/m2 have not been shown to improve efficacy in the adjuvant setting.18 IntheECTOtrial,incorporationofpaclitaxelintoadjuvantchemotherapy resulted in an improvement in RFS, but this did not translate into an improvement in survival. This may be a reflection of the 
+
+Table 3. Cardiac Events Graded by National Cancer Institute Common Toxicity Criteria Version 2 Scale After 76 Months of Follow-Up Common Toxicity Criteria 0 1 2 LVEF ⬍ 50% ⱖ 20% decrease 3 
+
+% of Patients Arm A (S 3 A 3 CMF) 
+
+Arm B (S 3 AT 3 CMF) 
+
+Arm C (AT 3 CMF3 S) 
+
+15.2 66.8 17.4 9.5 7.9 0.7 
+
+13.3 68.9 17.3 8.5 8.8 0.5 
+
+15.2 70.1 13.8 7.0 6.8 0.9 
+
+Abbreviations: S, surgery; A, doxorubicin; T, paclitaxel; CMF, cyclophosphamide, methotrexate, and fluorouracil; LVEF, left ventricular ejection fraction. 
+
+www.jco.org 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2479 
+
+Gianni et al 
+
+improved life expectancy of patients with high-risk breast cancer since most recent trials of adjuvant chemotherapy have produced similar findings. Alternatively, it may be because the study was not powered for this secondary end point. DRFS may be a better surrogate marker for survival and the significant improvement in DRFS seen with the addition of paclitaxel in the ECTO trial may ultimately lead to an improvement in OS. Similarly, although PST resulted in a pCR rate of 20% (23% for breast alone) in the ECTO study, this did not translate into a significant improvement in RFS, DRFS or OS compared with the same chemotherapy given postoperatively. These findings are similar to those of the National Surgical Adjuvant Breast and Bowel Project (NSABP) B1819,20 and NSABP B27 trials.21,22 Furthermore, in the NSABP B27 trial, addition of docetaxel to AC almost doubled the rate of pCR but this did not cause a significant improvement in DFS and only a marginal improvement in RFS. However, the administration of PST in the ECTO trial almost doubled the rate of breast conserving surgery and significantly downstaged the axillary nodes without increasing the risk of local recurrence. One of the strengths of the ECTO study is that the treatment duration in all three arms was identical (28 weeks). Other trials in which a taxane has been added to anthracycline-based therapy have been complicated by differences in treatment duration. For example, two adjuvant studies showed that adding four cycles of 3-weekly paclitaxel to adjuvant AC led to improved efficacy but in both cases the duration of therapy in the experimental arms was considerably longer than in the control arms.18,23 In the BIG 02- 98 study, the benefit of adding docetaxel was only measurable in the regimen that lasted longer than the control regimens.17 Recent data suggest that the efficacy and tolerability of paclitaxel might be improved by administration on a weekly schedule.24,25,26 The possible inclusion of weekly paclitaxel in a regimen similar to that tested in the ECTO trial has been evaluated by our group in women with operable breast cancer, in a study comparing two sequential regimens consisting of either weekly paclitaxel for 2 of 3 weeks, or CMF, after an initial regimen of doxorubicin/paclitaxel or epirubicin/ vinorelbine.27 After 5 years of follow-up, the DFS was similar for the CMF and the weekly paclitaxel regimens. In the ECTO trial, HER2 status was not assessed and ER status was linked to outcome in univariate but not in multivariate analysis. However, PgR-negative disease predicted a worse treatment outcome (RFS and DRFS) in all three arms of the study. The observation of a predictive role for PgR but not for ER is intriguing. An ongoing analysis of HER2 and other biomarkers in tissue specimens from patients in the ECTO trial may shed light on this observation. The ECTO study predated the advent of trastuzumab for patients with HER2-positive disease. However, preliminary data from a trial in REFERENCES 1. Holmes FA, Walters RS, Theriault R, et al: Phase II trial of taxol, an active drug in the treatment of metastatic breast cancer. J Natl Cancer Inst 83:1797-1805, 1991 2. Gianni L, Munzone E, Capri G, et al: Paclitaxel in metastatic breast cancer: A trial of two doses by a 3-hour infusion in patients with disease recurrence after prior therapy with anthracyclines. J Natl Cancer Inst 87:1169-1175, 1995 2480 
+
+© 2009 by American Society of Clinical Oncology 
+
+patients with locally advanced disease indicate that trastuzumab can be combined with a similar regimen of doxorubicin, paclitaxel, and CMF and that this improved the pCR rate.28 In the ECTO trial, feasibility and tolerability were good as reported previously.12,14 Long-term safety data indicate that cardiac function was well maintained in the great majority of patients and this may be due to the relatively low total dose of doxorubicin given (up to 300 mg/m2 in the control arm and 240 mg/m2 in combination with paclitaxel). The addition of paclitaxel did not appear to increase the risk of cardiac failure. The incidence of cardiac events remains lower than 1% after 7 years of follow-up, and this compares favorably with other anthracycline-based regimens for early-stage breast cancer.29,30 In conclusion, incorporating paclitaxel into anthracycline-based adjuvant therapy resulted in a statistically significant improvement in RFS and DRFS. When given as PST, it also allowed breast-sparing surgery in the majority of patients without increasing local recurrence or compromising survival. This noncross-resistant, sequential regimen is well-tolerated and represents another treatment option for patients with operable breast cancer, especially those who wish to avoid mastectomy. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST The author(s) indicated no potential conflicts of interest. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Luca Gianni, Pinuccia Valagussa, Gianni Bonadonna Financial support: Luca Gianni, Gianni Bonadonna Administrative support: Pinuccia Valagussa Provision of study materials or patients: Luca Gianni, José Baselga, Wolfgang Eiermann, Vincente Guillem Porta, Vladimir Semiglazov, Aňa Lluch, Milvia Zambetti, Dolores Sabadell, Günther Raab, Antonio Llombart Cussac, Alla Bozhok, Angel Martinez-Agulló, Marco Greco, Mikhail Byakhov, Juan Josè Lopez Lopez, Mauro Mansutti Collection and assembly of data: Luca Gianni, Pinuccia Valagussa Data analysis and interpretation: Luca Gianni, Pinuccia Valagussa, Gianni Bonadonna Manuscript writing: Luca Gianni, Milvia Zambetti, Pinuccia Valagussa, Gianni Bonadonna Final approval of manuscript: Luca Gianni, José Baselga, Wolfgang Eiermann, Vincente Guillem Porta, Vladimir Semiglazov, Aňa Lluch, Milvia Zambetti, Dolores Sabadell, Günther Raab, Antonio Llombart Cussac, Alla Bozhok, Angel Martinez-Agulló, Marco Greco, Mikhail Byakhov, Juan Josè Lopez Lopez, Mauro Mansutti, Pinuccia Valagussa, Gianni Bonadonna 
+
+3. Ravdin PM, Burris HA, Cook G, et al: Phase II trial of docetaxel in advanced anthracycline-resistant or anthracenedione-resistant breast cancer. J Clin Oncol 13:2879-2885, 1995 4. Valero V, Holmes F, Walters RS, et al: Phase II trial of docetaxel: A new, highly effective antineoplastic agent in the management of patients with anthracycline-resistant metastatic breast cancer. J Clin Oncol 13:2886-2894, 1995 5. Poole CJ, Earl HM, Hiller L, et al: NEAT Investigators and the SCTBG: Epirubicin and cyclophosphamide, methotrexate, and fluorouracil as ad- 
+
+juvant therapy for early breast cancer. N Engl J Med 355:1851-1862, 2006 6. Buzzoni R, Bonadonna G, Valagussa P, et al: Adjuvant chemotherapy with doxorubicin plus cyclophosphamide, methotrexate, and fluorouracil in the treatment of resectable breast cancer with more than three positive axillary nodes. J Clin Oncol 9:2134-2140, 1991 7. Bonadonna G, Zambetti M, Valagussa P: Sequential or alternating doxorubicin and CMF regimens in breast cancer with more than three positive nodes: Ten year results. JAMA 273:542-547, 1995 JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Paclitaxel Added to Sequential Adjuvant/Neoadjuvant Chemotherapy 
+
+8. Bonadonna G, Zambetti M, Moliterni A, et al: Clinical relevance of different sequencing of doxorubicin and cyclophosphamide, methotrexate and fluorouracil in operable breast cancer. J Clin Oncol 22:1614-1620, 2004 9. Tancini G, Bonadonna G, Valagussa P, et al: Adjuvant CMF in breast cancer: Comparative 5-year results of 12 versus 6 cycles. J Clin Oncol 1:2-10, 1983 10. Fisher B, Brown AM, Dimitrov NV, et al: Two months of doxorubicin-cyclophosphamide with and without interval reinduction therapy with 6 months of cyclophosphamide, methotrexate, and fluorouracil in positive-node breast cancer patients with tamoxifen non-responsive tumors: Results from the National Surgical Adjuvant Breast and Bowel Project B-15. J Clin Oncol 8:1483-1496, 1990 11. Gianni L, Dombernowsky P, Sledge G, et al: Cardiac function following combination therapy with paclitaxel and doxorubicin: An analysis of 657 women with advanced breast cancer. Ann Oncol 13:1067-1073, 2001 12. Gianni L, Baselga J, Eiermann W, et al: Feasibility and tolerability of sequential doxorubicin/paclitaxel followed by cyclophosphamide, methotrexate and fluorouracil and its effects on tumor response as preoperative therapy. Clin Cancer Res 11:8715-8721, 2005 13. Hudis CA, Barlow WE, Costantino JP, et al: Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: The STEEP system. J Clin Oncol 25:2127-2132, 2007 14. Gianni L, Baselga J, Eiermann W, et al: European Cooperative Trial in Operable Breast Cancer (ECTO): Improved freedom from progression (FFP) from adding paclitaxel (T) to doxorubicin (A) followed by cyclophosphamide, methotrexate and fluorouracil (CMF). J Clin Oncol 23:7s, 2005 (suppl; abstract 513) 
+
+15. Peto R: Plenary Lecture presented at the San Antonio Breast Cancer Conference, San Antonio, TX, December 13, 2007. http://www.sabcs .org/EnduringMaterials/Index.asp#webcast 16. De Laurentiis M, Cancello G, D’Agostino D, et al: Taxane-based combinations as adjuvant chemotherapy of early breast cancer: A meta-analysis of randomized trials. J Clin Oncol 26:44-53, 2008 17. Francis P, Crown J, Di Leo A, et al: Adjuvant chemotherapy with sequential or concurrent anthracycline and docetaxel: Breast International Group 02Ð98 Randomized Trial. J Natl Cancer Inst 100: 121-133, 2008 18. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 19. Fisher B, Bryant J, Wolmark N, et al: Effect of preoperative chemotherapy on the outcome of women with operable breast cancer. J Clin Oncol 16:2672-2685, 1998 20. Wolmark N, Wang J, Mamounas E, et al: Preoperative chemotherapy in patients with operable breast cancer: Nine-year results from National Surgical Adjuvant Breast and Bowel Project B-18. JNCI 30:96-102, 2001 21. Bear HD, Anderson S, Smith RE, et al: Sequential preoperative or postoperative docetaxel added to preoperative doxorubicin plus cyclophosphamide for operable breast cancer: National Surgical Adjuvant Breast and Bowel Project Protocol B-27. J Clin Oncol 24:2019-2027, 2006 22. Rastogi P, Anderson SJ, Bear HD, et al: Preoperative chemotherapy: Updates of National Surgical Adjuvant Breast and Bowel Project Protocols B-18 and B-27. J Clin Oncol 26:778-785, 2008 
+
+23. Mamounas EP, Bryant J, Lembersky B, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP B-28. J Clin Oncol 23:3686-3696, 2005 24. Green MC, Buzdar AU, Smith T, et al: Weekly paclitaxel improves pathologic complete remission in operable breast cancer when compared with paclitaxel once every 3 weeks. J Clin Oncol 23:59835992, 2005 25. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 26. Seidman AD, Berry D, Cirrincione C, et al: Randomized phase III trial of weekly compared with every-3-weeks paclitaxel for metastatic breast cancer, with trastuzumab for all HER-2 overexpressors and random assignment to trastuzumab or not in HER-2 nonoverexpressors: Final results of Cancer and Leukemia Group B protocol 9840. J Clin Oncol 26:1642-1649, 2008 27. Moliterni A, Mansutti M, Aldrighetti D, et al: Anthracycline-based sequential adjuvant chemotherapy in operable breast cancer: Five-year results of a randomized study by the Michelangelo Foundation. J Clin Oncol 25:11s, 2007 (suppl; abstract 535) 28. Gianni L, Semiglazov V, Manikhas GM, et al: Neoadjuvant trastuzumab in locally advanced breast cancer (NOAH): Antitumour and safety analysis. J Clin Oncol 25:10s, 2007 (suppl; abstr 532) 29. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 30. Zambetti M, Moliterni A, Materazzo C, et al: Long-term cardiac sequelae in operable breast cancer patients given adjuvant chemotherapy with or without doxorubicin and breast irradiation. J Clin Oncol 19:37-43, 2001 
+
+■ ■ ■ 
+
+Acknowledgment We thank all the patients and medical oncologists, surgeons, radiation therapists, pathologists, research nurses, and data managers of the trial; and Claire Barton for assistance in preparing this manuscript. We are indebted to our advisors John Bryant, Gabriel Hortobagyi, Larry Norton, Abraham Recht, and William Wood. 
+
+www.jco.org 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2481 
+
+ 

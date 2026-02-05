@@ -1,0 +1,1255 @@
+British Journal of Cancer (2012) 107, 1257–1267 & 2012 Cancer Research UK All rights reserved 0007 – 0920/12 
+
+Adjuvant epirubicin followed by cyclophosphamide, methotrexate and fluorouracil (CMF) vs CMF in early breast cancer: results with over 7 years median follow-up from the randomised phase III NEAT/BR9601 trials HM Earl*,1,2,24, L Hiller3,24, JA Dunn3, A-L Vallier4, SJ Bowden5, SD Jordan5, F Blows1, A Munro6, S Bathers5, R Grieve7, DA Spooner8, R Agrawal9, I Fernando8, AM Brunt10, SM O’Reilly11, SM Crawford12, DW Rea5, P Simmonds13, JL Mansi14,15, A Stanley14, K McAdam16,17, L Foster18, RCF Leonard19, CJ Twelves20, D Cameron21, JMS Bartlett6, P Pharoah22, E Provenzano1,2, C Caldas1,2 and CJ Poole23 for the NEAT Investigators and the SCTBG 1 
+
+Department of Oncology, University of Cambridge, Addenbrooke’s Hospital, Box 193-R4, Hills Road, Cambridge CB2 0QQ , UK; 2Cambridge Experimental Cancer Medicine Centre and NIHR Cambridge Biomedical Research Centre, Box 277, Hills Road, Cambridge CB2 0QQ , UK; 3Warwick Clinical Trials Unit, University of Warwick, Gibbet Hill Road, Coventry CV4 7AL, UK; 4Department of Oncology, Cambridge Clinical Trials Centre, Addenbrooke’s Hospital, Box 279 (S4), Cambridge CB2 0QQ , UK; 5Cancer Research UK Clinical Trials Unit, Institute for Cancer Studies, The University of Birmingham, Edgbaston, Birmingham B15 2TT, UK; 6Endocrine Cancer Group, University of Edinburgh, Crewe Road, Edinburgh EH4 2XU, UK; 7Arden Cancer Centre, University Hospitals Coventry and Warwickshire, Christchurch House, Coventry CV1 2GQ , UK; 8Cancer Centre, Queen Elizabeth Hospital, Edgbaston, Birmingham B15 2TH, UK; 9Royal Shrewsbury Hospital, Mytton Oak Road, Shrewsbury, Shropshire SY3 8XQ , UK; 10University Hospital of North Staffordshire, Princes Road, Stoke-on-Trent ST4 7LN, UK; 11Clatterbridge Hospital, Clatterbridge Road, Wirral, Merseyside CH63 4JY, UK; 12Airedale General Hospital, Keighley, West Yorkshire BD20 6TD, UK; 13Royal South Hampshire Hospital, Brintons Terrace, Southampton SO14 0YG, UK; 14Department of Oncology, Guys and St Thomas’ Hospitals NHS Foundation Trust, Westminster Bridge Road, London SE1 7EH, UK; 15NIHR King’s College London Biomedical Research Centre, London SE1 7EH, UK; 16Department of Oncology, Addenbrooke’s Hospital, Box 193, Hills Road, Cambridge CB2 0QQ , UK; 17Peterborough City Hospital, Edith Cavell Campus, Bretton Gate, Peterborough PE3 9GZ, UK; 18Scottish Cancer Therapy Network, Edinburgh, UK; 19Cancer Services and Clinical Haematology, Charing Cross Hospital, Fulham Palace Road, London W6 8RF, UK; 20University of Leeds, Cancer Research UK Clinical Centre, Cancer Research Building, Leeds LS9 7TF, UK; 21Edinburgh Cancer Research Centre, Western General Hospital, Edinburgh EH4 2XR, UK; 22Strangeways Research Laboratory, Worts Causeway, Cambridge CB1 8RN, UK; 23Department of Medical Oncology, Clinical Sciences Research Institute, UHCW Campus, Coventry CV2 2DX, UK 
+
+BACKGROUND: The National Epirubicin Adjuvant Trial (NEAT) and BR9601 trials tested the benefit of epirubicin when added to cyclophosphamide, methotrexate and 5-fluorouracil (E-CMF) compared with standard CMF in adjuvant chemotherapy for women with early breast cancer. This report details longer follow-up with interesting additional time-dependent analyses. METHODS: National Epirubicin Adjuvant Trial used epirubicin (E) 3-weekly for four cycles followed by classical (c) CMF for four cycles (E-CMF) compared with cCMF for six cycles. BR9601 used E 3-weekly for four cycles followed by CMF 3-weekly for four cycles, compared with CMF 3-weekly for eight cycles. RESULTS: In all, 2391 eligible patients were randomised and with a median 7.4-year follow-up, E-CMF confirmed a significant benefit over CMF in both relapse-free survival (RFS) (78% vs 71% 5 years RFS, respectively, hazard ratio (HR) ¼ 0.75 (95% CI: 0.65–0.86), Po0.0001) and overall survival (OS) (84% vs 78% 5 years OS, respectively, HR ¼ 0.76 (95% CI: 0.65–0.89), P ¼ 0.0007). Interaction of treatment effect and prognostic factors was demonstrated for duplication of chromosome 17 centromeric enumeration (Ch17CEP) as previously reported. Poor prognostic factors at diagnosis (ER and PR negative and HER2 positive) showed timedependent annual hazard rates for RFS and OS. In univariate analysis, these factors demonstrated more favourable HRs for RFS after 5 years. Treatment effects also suggested a differential benefit for E-CMF within the first 5 years for poor prognosis tumours. CONCLUSION: Longer follow-up has confirmed E-CMF as significantly superior to CMF for all patients. Ch17CEP duplication was the only biomarker that demonstrated significant treatment interaction. Standard poor prognostic factors at diagnosis were timedependent, and after 5 years disease-free, poor prognosis patients demonstrated favourable HRs for survival. British Journal of Cancer (2012) 107, 1257–1267. doi:10.1038/bjc.2012.370 www.bjcancer.com & 2012 Cancer Research UK 
+
+Keywords: NEAT; breast cancer; adjuvant chemotherapy; anthracyclines; epirubicin; classical CMF 
+
+*Correspondence: Dr HM Earl; E-mail: hme22@cam.ac.uk 24 These authors contributed equally to this work. Received 4 May 2012; revised 24 July 2012; accepted 26 July 2012 
+
+Clinical Studies 
+
+www.bjcancer.com 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1258 
+
+Clinical Studies 
+
+The National Epirubicin Adjuvant Trial (NEAT) and BR9601 trials were designed during 1994–1995 to assess the added value of anthracyclines in the adjuvant treatment of early breast cancer. In the early 1990s, cyclophosphamide, methotrexate and 5-fluoruracil (CMF) was the standard treatment regimen in the United Kingdom. The Early Breast Cancer Trialists Collaborative Group (EBCTCG) report for 1992 did not assess anthracyclines in the treatment of early breast cancer (Early Breast Cancer Trialists’ Collaborative Group, 1992). However, there was some evidence for anthracycline activity in metastatic disease (Habeshaw et al, 1991). In 1994, the importance of scheduling the administration of anthracyclines became evident. Bonadonna’s studies (Buzzoni et al, 1991; Bonadonna et al, 2004) showed that a block-sequential delivery of four cycles of doxorubicin, 75 mg m–2, followed by eight cycles of CMF, was better than a 2 : 1 alternating regimen of the same drugs (Bonadonna et al, 1995). An additional trial which used four cycles of doxorubicin after eight cycles of CMF showed no improvement over a standard 12 cycles of CMF (Moliterni et al, 1991). These findings were consistent with the Norton/Day mathematical models that predicted better outcomes with blocksequential therapy (Norton and Day, 1991), than with the alternating non-cross-resistant regimens suggested by Goldie et al (1982). The NEAT and BR9601 trials adopted this block-sequential approach for the anthracycline groups. However, epirubicin was used instead of doxorubicin to reduce toxicity (Earl and Iddawela, 2004). National Epirubicin Adjuvant Trial administered cCMF, because of its superior efficacy in metastatic breast cancer (Engelsman et al, 1991) and because of the importance of dose delivery of CMF in early breast cancer (Bonadonna and Valagussa, 1981). In the BR9601 trial, CMF was given every 3 weeks to minimise the need for patients to travel long distances to specialised centres in Scotland. In addition, we reduced the sequentially administered CMF to four cycles in the anthracycline groups of both trials. The control treatments in each trial were of equal duration, with six cycles of cCMF in NEAT and eight cycles of 3-weekly CMF in BR9601. The NEAT and BR9601 randomised phase III trials were designed jointly and a combined enrolment of 2000 patients was required to have a statistical power of 85% to detect an absolute difference of 7% in both overall survival (OS) and relapse-free survival (RFS) between treatments, with a 5% (two-sided) level of significance. A 48-month median follow-up analysis of the 2391 eligible patients recruited showed that E-CMF had significant superiority over CMF in terms of OS (hazard ratio (HR) 0.67 (95% CI: 0.55–0.82)) and RFS (HR: 0.69 (95% CI: 0.58–0.82)) (Poole et al, 2006). The primary end points of NEAT and BR9601 were 5-year RFS and OS. Now with 95% of alive patients having 45 years followup, this manuscript presents the updated joint-trial, primary end point analysis with 7.4 years median follow-up. This longer followup has also allowed for important analyses of the effect of both prognostic markers and treatment effects, through time. In addition, central pathological review of 84% of primary tumours (histotype and grade), hormone receptors, HER2, TOP2A and other analyses have been carried out. 
+
+MATERIALS AND METHODS Both trials were approved by the Multi-Centre Research Ethics Committee and Local Research Ethics Committees at participating hospitals, and a retrospective tissue block collection was subsequently approved in a separate application. Trial co-ordination was supported by a Cancer Research UK (previously Cancer Research Campaign) project grant. An educational grant and discounted epirubicin was provided by Pharmacia, now Pfizer (UK). Pharmacia did not participate otherwise in the design, data accrual and analysis or manuscript preparation in these trials. British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Patients and treatments The study design, eligibility criteria, stratification variables and treatment schedules have been described elsewhere in detail (Poole et al, 2006). Eligibility included women with completely excised early breast cancer who required adjuvant chemotherapy, provided written informed consent, and could start treatment within 10 weeks of surgery. Eligibility also required adequate renal, hepatic and bone marrow function, no previous exposure to chemotherapy or radiotherapy, and no prior or concomitant malignancy. Patients were randomly assigned, by telephone to central locations and by use of a permuted block, 1 : 1 randomisation, to receive either E-CMF or CMF. Both trials stratified patients according to treating centre, age and nodal status. National Epirubicin Adjuvant Trial additionally stratified according to planned radiotherapy schedule. Treatment regimens in NEAT were four cycles of epirubicin (3-weekly) followed by four cycles of CMF (4-weekly) vs six cycles of CMF (4-weekly) (see Figure 1). BR9601 randomised between four cycles of epirubicin (3-weekly), followed by four cycles of CMF (3-weekly) or eight cycles of CMF (3-weekly). 
+
+Pathology, immunohistochemistry and fluorescent in situ hybridisation Routine pathology tissue blocks from surgery were retrieved and were reviewed centrally in Cambridge (Elena Provenzano) for NEAT cases, and in Edinburgh for BR9601 cases, for breast cancer morphology and tumour grade. Tissue microarrays (TMAs) were constructed with a single 0.6 mm core from a representative part of the tumour (172 sample arrayed in each TMA block) and sections stained for ER, PR, EGFR, HER2, HER3 and Ki67 by immunohistochemistry (IHC), and fluorescent in situ hybridisation (FISH) for HER2 and TOPO 2A gene copy number and chromosome 17 centromeric enumeration (Ch17CEP copy number) (Bartlett et al, 2010). Tumour blocks were available for 83% of eligible NEAT patients (1686/2021) and 85% of BR9601 patients (316/370). 
+
+Statistical analysis Primary outcome measures in both trials were RFS and OS. Relapse-free survival was calculated from the date of surgery to the date of first relapse; to date of death in women dying without relapse; or to date of censoring in women alive and relapse-free. Overall survival was calculated from date of surgery to date of death, or date of censoring if alive. Survival curves were constructed using Kaplan–Meier methodology (Kaplan and Meier, 1958). Log-rank tests assessed differences in outcome by patient and tumour characteristics, and treatment. Cox-proportional hazards modelling (Cox, 1972) investigated and adjusted for baseline prognostic factors. Hazard ratios of treatment effects on the risk of relapse and death were calculated for prognostic subgroups univariately and displayed as HR plots (Early Breast Cancer Trialists’ Collaborative Group, 1990). Secondary outcomes of toxicity, dose intensity and quality of life have been reported elsewhere (Earl et al, 2008). All analyses were undertaken using SAS version 9.2 statistical software (SAS Institute Inc., Cary, NC, USA) and all reported Pvalues are two-sided. Protocol violators were analysed within their randomised groups thus allowing analysis to be undertaken on an intention-to-treat basis. 
+
+RESULTS Patients National Epirubicin Adjuvant Trial recruited 2021 eligible patients April 1996 to July 2001, and BR9601 recruited 370 eligible patients October 1996 to April 2001. In all, 1189 patients were randomised & 2012 Cancer Research UK 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1259 Consort Diagram: trial profile for NEAT and BR9601 CMF (1016 patients) 6 cycles of 4-weekly CMF –2 Cyclophosphamide (100 mg m p.o. on days 1 to 14 –2 or 600 mg m i.v. on days 1 and 8) –2 Methotrexate (40 mg m ) both i.v. on days 1 and 8 Fluorouracil (600 mg m–2) 
+
+NEAT 2027 patients randomised 
+
+E-CMF (1011 patients) 4 cycles of 3-weekly Epirubicin (100 mg m–2) 
+
+CMF (191 patients) 8 cycles of 3-weekly CMF –2 C yclophosphamide (750 mg m ) M ethotrexate (50 mg m–2) –2 F luorouracil (600 mg m ) 
+
+BR9601 374 patients randomised 
+
+All i.v. on day 1 
+
+E-CMF (183 patients) –2 4 cycles of 3-weekly Epirubicin (100 mg m ) followed by 4 cycles of 3-weekly CMF (as above) 
+
+Combined total 2401 patients randomised 
+
+CMF (n = 1207) 
+
+E-CMF (n = 1194) 
+
+Analysed (n = 1202) Excluded from analysis; ineligible (n = 5) 
+
+Analysed (n = 1189) Excluded from analysis; ineligible (n = 5) 
+
+Previous malignancies or existing metastases discovered post randomisation 
+
+Previous malignancies or existing metastases discovered post randomisation 
+
+Received randomised treatment (n = 1194) 8 protocol violations 
+
+Received randomised treatment (n = 1182) 7 protocol violations 
+
+2 Patients chose to discontinue treatment 3 Administration errors 3 Patients withdrew consent 
+
+6 Patients received treatment in the other group 1 Patient declined treatment after cycle 5 
+
+94% patients with > 5 years FU Median FU = 7.4 years (IQR 6.4 – 8.7 years) 
+
+95% patients with > 5 years FU Median FU = 7.4 years (IQR 6.5 – 8.7 years) 
+
+348 (29%) deaths, 431 (36%) RFS events 
+
+278 (23%) deaths, 342 (29%) RFS events 
+
+p.o. = per oral; i.v. = intra-venous; FU = follow-up; RFS = relapse-free survival. CMF (NEAT): 64% poCMF; 31% ivCMF; 5% both (balanced across treatment arms) 
+
+Figure 1 Consort Diagram. 
+
+to E-CMF and 1202 patients to CMF (see Figure 1). Patient characteristics, type and timing of surgery and tumour characteristics were balanced across treatments (Table 1). In the NEAT patients, cCMF (po) was used in 64% of patients, IV CMF in 31% and a combination in 5% (due to toxicity) (Rea et al, 2004). Cyclophosphamide, methotrexate and fluorouracil delivery type was balanced between the two treatment arms. A total of 2002 patients’ tumour material was centrally reviewed (84%). Where pathology data (histotype/grade) and ER/PR/HER2 status were available from the central reviews, these values were used for the analysis. If tumour blocks were not made available the previously recorded local assessments were used. 
+
+Overall survival and RFS With a median follow-up of 7.4 years, 626 deaths (26% of the 2391 eligible patients) have been reported (23% E-CMF, 29% CMF) (Supplementary Table 1). Median time to death was 3.3 years (range & 2012 Cancer Research UK 
+
+45 days to 10.1 years), the main cause being breast cancer (91%). Locoregional or distant relapse has been reported in 703 (29%) patients (26% E-CMF, 33% CMF), with distant metastases sites predominantly reported in the bone, liver and/or lung (79% of sites reported). There are 773 events (32% of the 2391 patients) in the analysis of RFS (29% E-CMF, 36% CMF). Follow-up in patients who are alive was equivalent across trials and treatments. The E-CMF patients survived significantly longer than CMF patients, with an unadjusted HR in the E-CMF group of 0.76 (95% CI: 0.65–0.89, P ¼ 0.0007), corresponding to an absolute survival benefit of 6% (84% vs 78%) at 5 years (Figure 2A). The E-CMF patients also had significantly longer RFS, with an unadjusted HR in the E-CMF group of 0.75 (95% CI: 0.65–0.86, Po0.0001), which corresponds to an absolute RFS benefit of 7% (78% vs 71%) at 5-years (Figure 2B). These findings are unlikely to be due to an artefact of the slight difference between the duration of treatment in the E-CMF (28 weeks) and CMF (24 weeks) groups of the NEAT trial. British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Clinical Studies 
+
+followed by 4 cycles of 4-weekly CMF (as above) 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1260 Table 1 Patient characteristics and gene copy number characteristics of NEAT and BR9601 patients at randomisation E-CMF, N (%) Age (n ¼ 2391) p50 years old 450 years old 
+
+Clinical Studies 
+
+Menopausal status (n ¼ 2265) Pre-menopausal Peri-menopausal Post-menopausal 
+
+713 (60) 476 (40) 
+
+572 (51) 103 (9) 444 (40) 
+
+Table 1 (Continued ) E-CMF, N (%) 
+
+CMF, N (%) 
+
+HER1–3 (n ¼ 1732) Negative Positive 
+
+378 (44) 485 (56) 
+
+375 (43) 494 (57) 
+
+Ki67 (n ¼ 1872) Low (p13%) High (413%) 
+
+360 (39) 571 (61) 
+
+376 (40) 565 (60) 
+
+Triple negatives (n ¼ 1256) ER neg, PR neg, HER2 neg ER pos, HER2 neg 
+
+190 (30) 433 (70) 
+
+195 (31) 438 (69) 
+
+HER2 (n ¼ 1762) Normal Amplification 
+
+690 (78) 192 (22) 
+
+705 (80) 175 (20) 
+
+CMF, N (%) 699 (58) 503 (42) 
+
+562 (49) 117 (10) 467 (41) 
+
+Performance status (n ¼ 2090) 0 – Fully active 1 – Restricted 2 – Capable self-care 
+
+837 (80) 197 (19) 5 (1) 
+
+834 (79) 211 (20) 6 (1) 
+
+Type of surgery (n ¼ 2381) Mastectomy Breast conserving surgery 
+
+615 (52) 569 (48) 
+
+634 (53) 563 (47) 
+
+TOP2A (n ¼ 1762) Normal Amplification 
+
+792 (90) 90 (10) 
+
+801 (91) 79 (9) 
+
+Surgery randomisation (n ¼ 2376) N Median (IQR) (days) 
+
+1181 26 (20–34) 
+
+1195 25 (19–33) 
+
+TOP2A (n ¼ 1762) Normal Deletion 
+
+789 (89) 93 (11) 
+
+782 (89) 98 (11) 
+
+Nodal involvement (n ¼ 2391) 0 Nodes involved 1–3 Nodes involved 4 þ Nodes involved 
+
+336 (28) 564 (48) 289 (24) 
+
+337 (28) 565 (47) 300 (25) 
+
+TOP2A (n ¼ 1762) Normal Altered (either amplified or deleted) 
+
+699 (79) 183 (21) 
+
+703 (80) 177 (20) 
+
+Ch17CEP (n ¼ 1762) Normal Duplication 
+
+692 (78) 190 (22) 
+
+664 (75) 216 (25) 
+
+Tumour typea (n ¼ 2376) NST/NST with lobular features Classical lobular/pleomorphic lobular Mixed NST and lobular Mixed NST and special type Pure special type 
+
+1010 (86) 80 (7) 27 (2) 15 (1) 49 (4) 
+
+1015 (85) 89 (7) 24 (2) 13 (1) 54 (5) 
+
+Tumour size (n ¼ 2334) p2 cm 42 and p5 cm 45 cm 
+
+504 (44) 595 (51) 60 (5) 
+
+517 (44) 594 (51) 64 (5) 
+
+VL invasion (n ¼ 2391) Reported Unreported 
+
+605 (51) 584 (49) 
+
+615 (51) 587 (49) 
+
+Tumour gradea (n ¼ 2379) 1 – Well-differentiated 2 – Mod. differentiated 3 – Poorly differentiated 
+
+39 (3) 438 (37) 707 (60) 
+
+42 (4) 419 (35) 734 (61) 
+
+ER statusa (n ¼ 2280) Negative (Allred score 0–2) Positive (Allred score X3) 
+
+465 (41) 669 (59) 
+
+474 (41) 672 (59) 
+
+PgR status (n ¼ 1801) Negative (Allred score 0–2) Positive (Allred score X3) 
+
+387 (44) 489 (56) 
+
+412 (45) 513 (55) 
+
+HER2 (n ¼ 1907) Negative Positive 
+
+746 (79) 197 (21) 
+
+770 (80) 194 (20) 
+
+EGFR (n ¼ 1910) Negative Positive 
+
+724 (77) 218 (23) 
+
+749 (77) 219 (23) 
+
+HER3 (n ¼ 1897) Negative Positive 
+
+669 (72) 266 (28) 
+
+684 (71) 278 (29) 
+
+British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Abbreviations: IQR ¼ interquartile range; NEAT ¼ National Epirubicin Adjuvant Trial; CMF ¼ cyclophosphamide, methotrexate and fluorouracil. Unknowns not shown. a ER and tumour grade and type were analysed centrally in 84%, local values were used in 16%. 
+
+Prognostic factors A base Cox model was created of the known prognostic factors of age (p50 years old: 450 years old), the categorical variable nodal status (negative: 1–3 positive: 4 þ positive), oestrogen receptor (ER) status (positive: negative), progesterone receptor (PgR) status (positive: negative), tumour size (p2 cm: 42 cm), tumour grade (1 and 2 : 3), type of surgery (mastectomy: breast conserving surgery (BCS) ) along with the laboratory measures available (Supplementary Table 2). In this model of the 1525 patients with complete data, treatment (E-CMF:CMF) remained an independent indicator of residual risk for both OS (HR: 0.70 (95% CI: 0.58–0.86), P ¼ 0.0004) and RFS (HR: 0.72 (95% CI: 0.60–0.86), P ¼ 0.0003). 
+
+Treatment interaction with prognostic factors: improvements in OS and RFS Women in all prognostic groups benefitted from E-CMF when compared with CMF for both OS and RFS (Figures 3 and 4A and B). For all but one subgroup there were no statistically significant interactions between the subgroup and the treatment effect. CH17CEP duplication was the one biomarker that showed significant interaction with treatment effect for both OS and RFS benefit from E-CMF relative to CMF (P-values for heterogeneity; P ¼ 0.02 and P ¼ 0.005, respectively). For all other variables, no evidence of significant heterogeneity in E-CMF benefit for OS and RFS, between levels of recorded prognostic factors were observed, no evidence of any subgroup where & 2012 Cancer Research UK 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1261 100 
+
+95% 92% 
+
+84% 69% 
+
+78% 
+
+64% 50 
+
+# Deaths/# patients (%) ECMF CMF 
+
+278/1189 (23%) 348/1202 (29%) 
+
+25 
+
+HR = 0.76 95% CI 0.65–0.89 P = 0.0007 
+
+0 0 Numbers at risk: ECMF 1189 CMF 1202 
+
+1 
+
+2 
+
+3 
+
+1171 1178 
+
+1120 1099 
+
+1073 1024 
+
+% Surviving relapse free 
+
+100 
+
+4 5 6 Years from surgery 
+
+7 
+
+8 
+
+9 
+
+10 
+
+1020 957 
+
+606 564 
+
+380 352 
+
+196 176 
+
+53 55 
+
+965 888 
+
+826 759 
+
+91% 78% 
+
+85% 
+
+75 
+
+66% 
+
+71% 
+
+56% 
+
+50 # Events/# patients (%) ECMF CMF 
+
+25 
+
+342/1189 (29%) 431/1202 (36%) 
+
+HR = 0.75 95% CI 0.65–0.86 P < 0.0001 
+
+0 0 Numbers at risk: ECMF 1189 1202 CMF 
+
+1 
+
+2 
+
+3 
+
+4 5 6 Years from surgery 
+
+7 
+
+8 
+
+9 
+
+10 
+
+1156 
+
+1072 
+
+1158 
+
+1020 
+
+1010 
+
+949 
+
+888 
+
+766 
+
+555 
+
+342 
+
+177 
+
+47 
+
+942 
+
+875 
+
+820 
+
+690 
+
+506 
+
+309 
+
+143 
+
+41 
+
+Figure 2 OS and RFS curves by treatment. (A) OS. (B) RFS. 
+
+E-CMF was seen as less effective than CMF, and, in fact, all subgroups’ CIs of their HRs overlapped the overall OS and RFS results (Figures 3A and 4B). 
+
+‘survivor’ bias for patients who remain relapse-free; the poor prognostic factors defined at the time of diagnosis, show lower annual HRs for relapse after 5 years, compared with the good prognosis factors at the time of diagnosis. 
+
+Prognostic factors over time with longer follow-up With 95% of alive patients having 45 years FU, the significance of known prognostic factors for OS and RFS over three separate time periods was investigated in a univariate manner; the first 2 years following definitive surgery, from years 2–5, and from 5 years onwards (Table 2 for OS and Supplementary Table 3 for RFS). Similar results were found for OS and RFS, with E-CMF having lower hazards rates than CMF for the first 5 years, but similar hazards to CMF after year 5. The following prognostic categories showed no obvious changes through time; nodal status (1–3, and 4 þ nodes vs negative nodes), surgery (BCS vs mastectomy), age (o50 years vs X50 years), menopausal status (pre-/perivs post-menopausal), performance status and HER3 IHC (positive vs normal). Other poor prognostic factors showed an apparent trend for the HR to reduce with follow-up particularly after 5 years. These categories include ER negative, PR negative, HER2 positive and EGFR by IHC, tumour size 42 cm, grade 3 tumours, HER2 amplification, TOP2A deletion and Ch17CEP duplication. Therefore, for these poor prognostic factors there is an observed & 2012 Cancer Research UK 
+
+Treatment interaction with prognostic factors: annual hazard rates for OS The annual hazard rates for OS show an increasing hazard for the first 3 years after surgery with a subsequent fall to 5 years (Figure 5). The E-CMF reduces the size of the initial risk rise and maintains a steady risk thereafter. Analysis of hazard rates over time by ER status, (Figure 5) showed interesting and distinct trends that mirrored the prognostic effects through time described above. ER-positive patients show a steady increase in hazard rates over the first 5 years for OS. Treatment effect shows that the early hazard rate peak was abolished by E-CMF when compared with CMF chemotherapy. However, hazard rates are low in this group. It is possible that the E-CMF benefit for OS is beginning to emerge again at 4–5 years. ER-negative patients show the benefit of E-CMF is greater than in the ER-positive patients, and the hazard rate for OS becomes the same for CMF and E-CMF at 5 years. Analyses of annual hazard rates for RFS are included in (Supplementary Figure 4). British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Clinical Studies 
+
+% Surviving 
+
+75 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1262 Deaths/patients ECMF CMF 
+
+ECMF events (O-E) Var 
+
+*Hazard ratio and CI (ECMF : CMF) 
+
+*Hazard ratio and CI (ECMF : CMF) 
+
+151/713 (21.2%) 127/476 (26.7%) 278/1189 (23.4%) 
+
+–30.4 
+
+86.8 
+
+0.70 (0.53, 0.93) 
+
+–11.3 
+
+69.5 
+
+0.85 (0.62, 1.16) 
+
+–41.8 
+
+156.3 
+
+0.77 (0.65, 0.90) (P <0.001) 
+
+AGE -50 years old >50 years old Subtotal 
+
+197/699 (28.2%) 151/503 (30.0%) 348/1202 (29.0%) 
+
+Interaction between two groups 
+
+NODAL STATUS 
+
+Clinical Studies 
+
+45/336 60/337 (13.4%) (17.8%) 118/564 141/565 (20.9%) (25.0%) 4+ nodes involved 115/289 147/300 (39.8%) (49.0%) 278/1189 Subtotal 348/1202 (23.4%) (29.0%) Heterogeneity between three groups 
+
+2 = 1.4; P =0.24 1 
+
+Negative 
+
+–8.7 
+
+26.2 
+
+0.72 (0.43, 1.18) 
+
+1–3 nodes involved 
+
+–12.4 
+
+64.7 
+
+0.83 (0.60, 1.14) 
+
+Test for trend over three groups 
+
+–23.1 
+
+65.2 
+
+0.70 (0.51, 0.97) 
+
+–44.3 
+
+156.2 
+
+0.75 (0.64, 0.88) (P <0.001) 
+
+2 2 = 0.9; P =0.63 2 1 = 0.1; P =0.72 
+
+TUMOUR SIZE -2cm >2cm Subtotal 
+
+80/504 108/517 (15.9%) (20.9%) 187/655 226/658 (28.5%) (34.3%) 334/1175 267/1159 (23.0%) (28.4%) Interaction between two groups 
+
+–14.1 
+
+47.0 
+
+0.74 (0.51, 1.08) 
+
+–27.5 
+
+103.0 
+
+0.77 (0.59, 0.99) 
+
+–41.6 
+
+150.0 
+
+0.76 (0.65, 0.89) (P <0.001) 
+
+2 = 0.0; P =0.85 1 
+
+TUMOUR GRADE Well/moderate Poor Subtotal 
+
+89/477 102/461 (18.7%) (22.1%) 245/734 188/707 (26.6%) (33.4%) 277/1184 347/1195 (23.4%) (29.0%) Interaction between two groups 
+
+–9.6 
+
+47.6 
+
+–31.8 
+
+108.1 
+
+0.82 (0.56, 1.19) 0.75 (0.58, 0.95) 
+
+–41.4 
+
+155.8 
+
+0.77 (0.66, 0.90) (P <0.001) 
+
+2 1 = 0.3; P =0.60 
+
+ER STATUS Negative Positive Subtotal 
+
+123/465 159/474 (26.5%) (33.5%) 166/672 142/669 (21.2%) (24.7%) 265/1134 325/1146 (23.4%) (28.4%) Interaction between two groups 
+
+–23.4 
+
+70.3 
+
+–12.6 
+
+76.9 
+
+0.72 (0.53, 0.97) 0.85 (0.63, 1.14) 
+
+–36.1 
+
+147.2 
+
+0.78 (0.67, 0.92) (P =0.003) 
+
+2 1 = 1.1; P =0.31 
+
+PgR STATUS Negative Positive Subtotal 
+
+Unstratified 
+
+107/387 152/412 (27.6%) (36.9%) 105/489 124/513 (21.5%) (24.2%) 212/876 276/925 (24.2%) (29.8%) Interaction between two groups 278/1189 (23.4%) 
+
+348/1202 (29.0%) 
+
+–25.1 
+
+64.6 
+
+0.68 (0.49, 0.93) 
+
+–7.9 
+
+57.2 
+
+0.87 (0.62, 1.22) 
+
+–33.0 
+
+121.8 
+
+0.76 (0.64, 0.91) (P =0.003) 
+
+2 1 = 1.9; P =0.17 
+
+–42.3 
+
+156.4 
+
+0.76 (0.65, 0.89) (P <0.001) 0.0 
+
+* 
+
+99% CI 
+
+95% CI 
+
+Deaths/patients 
+
+ECMF events 
+
+ECMF 
+
+(O-E) 
+
+CMF 
+
+Var 
+
+0.5 1.0 ECMF better 
+
+1.5 CMF better 
+
+2.0 
+
+*Hazard ratio and CI 
+
+*Hazard ratio and CI 
+
+(ECMF : CMF) 
+
+(ECMF : CMF) 
+
+HER2 FISH Normal Amplification Subtotal 
+
+158/690 183/705 (22.9%) (26.0%) 66/192 72/175 (34.4%) (41.1%) 224/882 255/880 (25.4%) (29.0%) Interaction between two groups 
+
+–14.8 
+
+85.2 
+
+0.84 (0.64, 1.11) 
+
+–9.6 
+
+34.1 
+
+0.75 (0.49, 1.17) 
+
+–24.4 
+
+119.3 
+
+0.82 (0.68, 0.98) (P =0.03) 
+
+2 1 = 0.3; P =0.59 
+
+TRIPLE NEGATIVE Triple negative ER+ HER2– Subtotal 
+
+48/190 61/195 (25.3%) (31.3%) 91/433 106/438 (21.0%) (24.2%) 139/623 167/633 (22.3%) (26.4%) Interaction between two groups 
+
+–8.3 
+
+27.2 
+
+0.74 (0.45, 1.21) 
+
+–8.1 
+
+49.2 
+
+0.85 (0.59, 1.22) 
+
+–16.4 
+
+76.4 
+
+0.81 (0.65, 1.01) (P =0.06) 
+
+2 1 = 0.3; P =0.56 
+
+TOP2A Normal Altered Subtotal 
+
+171/699 195/703 (24.5%) (27.7%) 53/183 60/177 (29.0%) (33.9%) 224/882 255/880 (25.4%) (29.0%) Interaction between two groups 
+
+–15.5 
+
+91.4 
+
+0.84 (0.64, 1.11) 
+
+–7.2 
+
+28.0 
+
+0.77 (0.48, 1.26) 
+
+–22.7 
+
+119.5 
+
+0.83 (0.69, 0.99) (P =0.04) 
+
+2 1 = 0.2; P =0.69 
+
+Ch17CEP Normal Duplification Subtotal 
+
+Unstratified 
+
+181/692 177/664 –5.3 89.3 (26.2%) (26.7%) 43/190 78/216 –16.5 30.2 (22.6%) (36.1%) 224/882 255/880 –21.8 119.5 (25.4%) (29.0%) 2 Interaction between two groups 1 = 5.3; P =0.02 278/1189 (23.4%) 
+
+348/1202 (29.0%) 
+
+–42.3 
+
+0.94 (0.72, 1.24) 0.58 (0.36, 0.93) 0.83 (0.70, 1.00) (P =0.05) 
+
+156.4 
+
+0.76 (0.65, 0.89) (P <0.001) 0.0 
+
+* 
+
+99% CI 
+
+95% CI 
+
+0.5 1.0 ECMF better 
+
+1.5 CMF better 
+
+2.0 
+
+Figure 3 E-CMF improvements in OS. (A) By patient characteristics. (B) By tumour characteristics. 
+
+British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+& 2012 Cancer Research UK 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1263 Events/patients ECMF CMF 
+
+ECMF events (O-E) Var 
+
+*Hazard ratio and CI (ECMF : CMF) 
+
+*Hazard ratio and CI (ECMF : CMF) 
+
+AGE -50 years old 
+
+197/713 243/699 (27.6%) (34.8%) 145/476 188/503 (30.5%) (37.4%) 342/1189 431/1202 (28.8%) (35.9%) Interaction between two groups 
+
+>50 years old Subtotal 
+
+–33.2 
+
+109.7 
+
+0.74 (0.58, 0.95) 
+
+–22.0 
+
+83.2 
+
+0.77 (0.58, 1.02) 
+
+–55.1 
+
+192.9 
+
+0.75 (0.65, 0.87) (P <0.001) 
+
+2 1 = 0.1; P =0.79 
+
+Negative 
+
+–8.7 
+
+32.5 
+
+0.76 (0.49, 1.20) 
+
+1–3 nodes involved 
+
+58/336 72/337 (17.3%) (21.4%) 148/564 180/565 (26.2%) (31.9%) 136/289 4+ nodes involved 179/300 (47.1%) (59.7%) Subtotal 342/1189 431/1202 (28.8%) (35.9%) Heterogeneity between three groups 
+
+–19.2 
+
+82.0 
+
+0.79 (0.60, 1.05) 
+
+–30.0 
+
+78.4 
+
+0.68 (0.51, 0.91) 
+
+–57.9 
+
+192.8 
+
+0.74 (0.64, 0.85) (P <0.001) 
+
+Test for trend over three groups 
+
+2 2 = 0.9; P =0.63 2 1 = 0.6; P=0.46 
+
+TUMOUR SIZE -2cm >2cm Subtotal 
+
+106/504 140/517 (21.0%) (27.1%) 225/655 276/658 (34.4%) (41.9%) 331/1159 416/1175 (28.6%) (35.4%) Interaction between two groups 
+
+–18.2 
+
+61.5 
+
+0.74 (0.54, 1.03) 
+
+–36.1 
+
+124.9 
+
+0.75 (0.59, 0.94) 
+
+–54.3 
+
+186.4 
+
+0.75 (0.65, 0.86) (P <0.001) 
+
+2 1 
+
+= 0.0; P =0.97 
+
+TUMOUR GRADE Well/moderate Poor Subtotal 
+
+120/477 141/461 (25.2%) (30.6%) 221/707 287/734 (31.3%) (39.1%) 341/1184 428/1195 (28.8%) (35.8%) Interaction between two groups 
+
+–15.5 
+
+65.1 
+
+0.79 (0.57, 1.08) 
+
+–38.1 
+
+126.8 
+
+0.74 (0.59, 0.93) 
+
+–53.6 
+
+192.0 
+
+0.76 (0.66, 0.87) (P <0.001) 
+
+2 1 
+
+= 0.2; P =0.68 
+
+ER STATUS Negative Positive Subtotal 
+
+142/465 182/474 (30.5%) (38.4%) 184/669 222/672 (33.0%) (27.5%) 326/1134 404/1146 (28.7%) (35.3%) Interaction between two groups 
+
+–27.1 
+
+80.7 
+
+0.71 (0.54, 0.95) 
+
+–21.1 
+
+101.4 
+
+0.81 (0.63, 1.05) 
+
+–48.2 
+
+182.1 
+
+0.77 (0.66, 0.89) (P <0.001) 
+
+2 1 
+
+= 0.7; P =0.39 
+
+PgR STATUS Negative Positive Subtotal 
+
+Unstratified 
+
+* 
+
+99% CI 
+
+124/387 169/412 (32.0%) (41.0%) 133/489 166/513 (27.2%) (32.4%) 257/876 335/925 (29.3%) (36.2%) Interaction between two groups 342/1189 (28.8%) 
+
+431/1202 (35.9%) 
+
+2 1 
+
+–26.5 
+
+73.1 
+
+–15.6 
+
+74.7 
+
+0.70 (0.51, 0.94) 0.81 (0.60, 1.09) 
+
+–42.1 
+
+147.8 
+
+0.75 (0.64, 0.88) (P <0.001) 
+
+= 0.9; P =0.35 –55.9 
+
+193.0 
+
+0.75 (0.65, 0.86) (P <0.001) 0.0 
+
+95% CI 
+
+Events/patients ECMF CMF 
+
+ECMF events (O-E) Var 
+
+0.5 ECMF better 
+
+1.0 
+
+1.5 CMF better 
+
+2.0 
+
+*Hazard ratio & CI (ECMF : CMF) 
+
+*Hazard ratio & CI (ECMF : CMF) 
+
+HER2 FISH Normal Amplification Subtotal 
+
+189/690 229/705 (27.4%) (32.5%) 74/192 78/175 (38.5%) (44.6%) 263/882 307/880 (29.8%) (34.9%) Interaction between two groups 
+
+–24.0 
+
+104.4 
+
+0.79 (0.62, 1.02) 
+
+–9.4 
+
+37.5 
+
+0.78 (0.51, 1.18) 
+
+–33.4 
+
+141.9 
+
+0.79 (0.67, 0.93) (P =0.005) 
+
+2 1 = 0.0; P =0.91 
+
+TRIPLE NEGATIVE Triple negative ER+ HER2– Subtotal 
+
+54/190 70/195 (28.4%) (35.9%) 115/433 137/438 (26.6%) (31.3%) 169/623 207/633 (27.1%) (32.7%) Interaction between two groups 
+
+–10.6 
+
+30.9 
+
+0.71 (0.45, 1.13) 
+
+–12.5 
+
+63.0 
+
+0.82 (0.59, 1.14) 
+
+–23.0 
+
+93.9 
+
+0.78 (0.64, 0.96) (P =0.02) 
+
+2 1 = 0.4; P =0.51 
+
+TOP2A Normal Altered Subtotal 
+
+205/699 240/703 (29.3%) (34.1%) 58/183 67/177 (31.7%) (37.9%) 263/882 307/880 (29.8%) (34.9%) Interaction between two groups 
+
+–23.4 
+
+111.1 
+
+0.81 (0.63, 1.03) 
+
+–8.1 
+
+31.1 
+
+0.77 (0.49, 1.22) 
+
+–31.6 
+
+142.2 
+
+0.80 (0.68, 0.94) (P =0.008) 
+
+2 1 = 0.1; P =0.80 
+
+Ch17CEP Normal Duplification Subtotal 
+
+Unstratified 
+
+* 
+
+216/692 215/664 (31.2%) (32.4%) 47/190 92/216 (24.7%) (42.6%) 263/882 307/880 (29.8%) (34.9%) Interaction between two groups 342/1189 (28.8%) 
+
+431/1202 (35.9%) 
+
+–8.9 
+
+107.5 
+
+0.92 (0.72, 1.18) 
+
+–22.0 
+
+34.7 
+
+0.53 (0.34, 0.82) 
+
+–30.9 
+
+142.2 
+
+0.80 (0.68, 0.95) (P =0.01) 
+
+2 1 = 8.0; P =0.005 
+
+–55.9 
+
+193.0 
+
+0.75 (0.65, 0.86) (P <0.001) 0.0 
+
+99% CI 
+
+95% CI 
+
+0.5 ECMF better 
+
+1.0 
+
+1.5 CMF better 
+
+2.0 
+
+Figure 4 E-CMF improvements in RFS. (A) By patient characteristics. (B) By tumour characteristics. 
+
+& 2012 Cancer Research UK 
+
+British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Clinical Studies 
+
+NODAL STATUS 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1264 Table 2 
+
+HRs over time for overall survival (OS) by prognostic factors at diagnosis Univariate HR (95% CI) for OS over time 
+
+Clinical Studies 
+
+Factor 
+
+Grouping 
+
+Treatment Age Menopausal status Performance status Surgery Nodal status 
+
+CMF, E-CMF p50 years, 450 years old Pre/peri, post 0, 1/2 BCS, mastectomy Negative, 1–3 nodes Negative, 4 þ nodes p2 cm, 42 cm Unreported, reported Well/moderately, poorly differentiated Positive, negative Positive, negative Negative, positive Negative, positive Positive, negative Negative, positive Low, high ER positive and HER2 negative, triple negative Normal, amplification Amplification, normal Normal, deletion Normal, altered Normal, duplication 
+
+Tumour size VL invasion Tumour grade ER status PgR status HER2 EGFR HER3 HER1–3 Ki67 Triple negatives HER2 TOP2A TOP2A TOP2A Ch17CEP 
+
+0–2 years 
+
+2–5 years 
+
+5 þ years 
+
+0.64 (0.46–0.88) 1.39 (1.02–1.90) 1.62 (1.18–2.23) 1.26 (0.85–1.86) 2.06 (1.47–2.90) 1.13 (0.72–1.77) 2.94 (1.91–4.52) 2.21 (1.54–3.17) 1.85 (1.33–2.58) 2.78 (1.86–4.13) 3.30 (2.34–4.66) 5.23 (3.43–7.98) 2.44 (1.72–3.46) 2.01 (1.41–2.85) 1.02 (0.70–1.48) 2.28 (1.53–3.41) 1.16 (0.82–1.65) 3.48 (2.17–5.57) 2.32 (1.61–3.33) 1.82 (0.85–3.91) 2.02 (1.30–3.16) 1.30 (0.86–1.95) 1.38 (0.94–2.04) 
+
+0.69 (0.55–0.87) 1.22 (0.97–1.53) 1.21 (0.96–1.53) 1.39 (1.05–1.85) 1.29 (1.02–1.62) 1.38 (1.00–1.92) 3.34 (2.41–4.63) 1.94 (1.51–2.50) 1.61 (1.27–2.03) 1.98 (1.53–2.56) 1.41 (1.11–1.79) 1.47 (1.13–1.91) 1.91 (1.44–2.53) 1.13 (0.83–1.53) 1.19 (0.88–1.60) 1.21 (0.93–1.58) 1.24 (0.95–1.63) 1.50 (1.07–2.12) 1.91 (1.44–2.53) 1.05 (0.68–1.64) 1.76 (1.23–2.51) 1.39 (1.03–1.87) 1.25 (0.93–1.68) 
+
+1.05 (0.78–1.41) 1.11 (0.82–1.50) 0.96 (0.70–1.32) 1.07 (0.73–1.57) 1.48 (1.09–2.00) 1.98 (1.27–3.09) 3.45 (2.17–5.47) 1.63 (1.20–2.23) 1.55 (1.15–2.09) 0.87 (0.65–1.17) 0.69 (0.49–0.96) 0.69 (0.47–1.00) 0.97 (0.62–1.53) 0.86 (0.57–1.30) 0.93 (0.64–1.33) 1.03 (0.73–1.47) 0.89 (0.63–1.25) 0.46 (0.26–0.81) 1.13 (0.72–1.77) 0.93 (0.52–1.65) 0.96 (0.51–1.77) 1.02 (0.65–1.59) 0.86 (0.55–1.33) 
+
+Abbreviations: BCS ¼ breast conserving surgery; CI ¼ confidence interval; HR ¼ hazard ratio; CMF ¼ cyclophosphamide, methotrexate and fluorouracil. 
+
+Acute leukaemia Three cases of acute leukaemia were seen in the E-CMF patients (Supplementary Table 1), one acute pro-myelocytic, one acute myeloid and the other acute lymphoblastic leukaemia. 
+
+DISCUSSION Longer follow-up of the NEAT and BR9601 studies confirms the previously reported significant benefit for E-CMF in terms of both RFS and OS. This trial is one of the few to demonstrate a statistically significant benefit from anthracyclines (Coombes et al, 1996; Levine et al, 1998), and is consistent with the meta-analysis of anthracycline-based therapy trials reported by the EBCTCG (Early Breast Cancer Trialists’ Collaborative Group, 2005). Reporting of comprehensive and longer follow-up data remains as important as ever for these trials, as the results become increasingly stable and robust. Even in the era of widespread taxane use, more intensive dose-dense adjuvant regimens, and targeted therapy with Herceptin in HER2-positive patients, longer follow-up reporting of older adjuvant breast cancer trials remains vital in order to confirm the activity of these regimens through time. In addition, it is increasingly recognised that breast cancer populations contain a number of important subgroups in which the effects of adjuvant chemotherapy may be seen many years after treatment. Reporting of longer follow-up allows for more robust analysis of known prognostic and predictive factors in the different groups and also research into new biomarkers. The trial has significantly contributed data to a comprehensive translational analysis of HER2 and TOP2A as biomarkers of response to anthracyclines (Di Leo et al, 2011). The recognition of Ch17CEP duplication as a powerful predictor of anthracycline benefit was first reported from translational research in this trial (Bartlett et al, 2010). In addition, comprehensive analysis of health economic cost effectiveness of adjuvant chemotherapy in breast cancer has used data from this trial (Campbell et al, 2011). It is now well recognised that anthracyclines can cause a dosedependent increase in the incidence of acute leukaemia (Praga et al, 2005). In this report, there was an incidence of acute British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+leukaemia of 0.25% for an epirubicin dose of 400 mg m–2, which as anticipated is lower than that reported in the Canadian MA-5 trial in which the incidence was 1.4% for an epirubicin dose of 720 mg m–2 (Levine et al, 1998). Nevertheless, the effect size for E-CMF over CMF is similar for our trial reported here, and the Canadian study. The conclusion is that block-sequential delivery of anthracycline in E-CMF produces a similar treatment effect to that seen in the MA-5 trial, but because the cumulative dose of epirubicin in MA-5 is nearly twice than that it our trial, the rate of leukaemia is five times more common in the Canadian trial. The E-CMF is among the most effective and the safest anthracyclinecontaining adjuvant regimen for early breast cancer. The NEAT and SCTBG BR9601 groups have maintained a translational research programme. A trial tumour bank, with collection of 84% of the original formalin-fixed paraffin-embedded tumour blocks has allowed not only for central pathological review, but also for the creation of TMAs and for IHC and FISH analysis. In this longer-term analysis, it has been possible to compare survival hazard rates by year of follow-up. This has shown a peak in hazard rates at 1–2 years for relapse, which is followed by a peak for death at 2–3 years. This is in keeping with previous epidemiological evidence of an early peak of relapse in the first 2 years following surgery (Hilsenbeck et al, 1998; Retsky et al, 2008). Analysis of well-recognised poor prognostic factors through time showed that for the majority there was a trend for these factors to lose their prognostic significance. This ‘time-dependency’ of prognostic factors defined at diagnosis was first reported in 1998 by the University of Texas at San Antonio group, which analysed 2873 early breast cancer patients with up to 17 years of RFS follow-up (Hilsenbeck et al, 1998). By way of illustration from our own data, at 5 years follow-up, a relapse-free patient with an ER-negative tumour will have a lower ongoing HR for relapse and death than a patient with an ER-positive cancer. In other words, for prognostic factors at diagnosis predicting a poor outcome the relapse-free survivor at 5 years has survived her most ‘at risk’ time. The ER-positive patients (good prognosis) have a continued albeit small, risk after 5 years. This has also been demonstrated recently & 2012 Cancer Research UK 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1265 0.015 
+
+CMF 
+
+Overall survival (n =2391) 
+
+0.014 
+
+E-CMF 
+
+0.013 0.012 0.011 
+
+Hazard rate 
+
+0.01 0.009 0.008 0.007 0.006 
+
+0.004 0.003 0.002 0.001 0 1–2 
+
+0–1 
+
+3–4 
+
+2–3 
+
+4–5 
+
+0.015 0.014 0.013 0.012 0.011 0.01 0.009 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 
+
+ER + only (n =1341) 
+
+CMF E-CMF 
+
+Hazard rate 
+
+Hazard rate 
+
+Years from surgery 
+
+0–1 
+
+1–2 
+
+2–3 
+
+3–4 
+
+ER – only (n =939) 
+
+0.015 0.014 0.013 0.012 0.011 0.01 0.009 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 0–1 
+
+4–5 
+
+1–2 2–3 3–4 Years from surgery 
+
+0–1 
+
+Triple negatives (n =385) CMF E-CMF 
+
+0–1 
+
+3–4 1–2 2–3 Years from surgery 
+
+3–4 
+
+HER2 – only (n =1395) 
+
+0.015 0.014 0.013 0.012 0.011 0.01 0.009 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 
+
+4–5 
+
+Hazard rate 
+
+Hazard rate 
+
+0–1 
+
+0.015 0.014 0.013 0.012 0.011 0.01 0.009 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 
+
+CMF E-CMF 
+
+Hazard rate 
+
+Hazard rate 
+
+HER2 + only (n =367) 
+
+2–3 
+
+4–5 
+
+Years from surgery 
+
+Years from surgery 0.015 0.014 0.013 0.012 0.011 0.01 0.009 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 
+
+1–2 
+
+CMF E-CMF 
+
+4–5 
+
+0.015 0.014 0.013 0.012 0.011 0.01 0.009 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 
+
+1–2 2–3 3–4 Years from surgery ER + HER2 – only (n =871) 
+
+0–1 
+
+1–2 2–3 3–4 Years from surgery 
+
+CMF E-CMF 
+
+4–5 
+
+CMF E-CMF 
+
+4–5 
+
+Figure 5 Annual hazard rates and 95% CIs, split by treatment. (A) OS. (B) RFS. 
+
+in another study, which looked at intrinsic IHC categorised subtypes of breast cancer (Perou et al, 2000) of over 10 000 patients, followed for up to 15 years (Blows et al, 2010). All women treated within the trial, no matter the prognostic subgroup of their breast cancer, benefitted from E-CMF when compared with CMF chemotherapy, and there were no prognostic subgroups where E-CMF showed a detrimental effect. However, the only prognostic/predictive factor to significantly interact with the benefit from anthracyclines was Ch17CEP copy number (Bartlett et al, 2010). In conclusion, this updated analysis of NEAT and BR9601 trials at 7.4 years median follow-up adds to the EBCTCG data in respect & 2012 Cancer Research UK 
+
+of the advantage of anthracyclines and confirms E-CMF as a highly effective standard adjuvant therapy for early breast cancer, with a benefit maintained through time in longer follow-up. Blocksequential use of a maximum cumulative dose of epirubicin of 400 mg m–2 with CMF is not only effective, but also is associated with a lower incidence of acute leukaemia than that seen with other similarly effective anthracycline-containing regimens (Praga et al, 2005). Increased copy number Ch17CEP demonstrated a significant interaction with anthracycline treatment effect. Standard poor prognostic factors defined at diagnosis (ER negative, PR negative and HER2 positive) demonstrated their prognostic effects during the first 5 years of follow-up and the differential benefit British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Clinical Studies 
+
+0.005 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1266 for E-CMF in these patients may also be concentrated within the first 5 years. This potential effect should be explored in further meta-analysis. 
+
+ACKNOWLEDGEMENTS We thank all the participating clinicians, research nurses and patients; the Data Monitoring Committee (Mahesh Parmar, Maurice Slevin, Colin McArdle); and the trials staff (Lorna Stewart, Ruth Main, Paul Stroner, Jeannie Bishop, Rachel McGregor, Caroline Jevons, Michelle McDermaid, Sarah Bowden, Tracey 
+
+Rapson). This research was supported by Cancer Research UK: (i) Clinical Trials Project Grant for NEAT (HME, CJP) and BR9601 (CT); (ii) Translational Project grant for TOP2A and HER2 analysis (JMSB); and (iii) Programme Grant (CC). Free epirubicin and additional trial co-ordination support was obtained from Pfizer (HME, CJP). Facilities were funded through the Birmingham Science City Translational Medicine Clinical Research and Infrastructure Trials Platform, with support from Advantage West Midlands. Supplementary Information accompanies the paper on British Journal of Cancer website (http://www.nature.com/bjc) 
+
+Clinical Studies 
+
+REFERENCES Bartlett JM, Munro AF, Dunn JA, McConkey C, Jordan S, Twelves CJ, Cameron DA, Thomas J, Campbell FM, Rea DW, Provenzano E, Caldas C, Pharoah P, Hiller L, Earl H, Poole CJ (2010) Predictive markers of anthracycline benefit: a prospectively planned analysis of the UK National Epirubicin Adjuvant Trial (NEAT/BR9601). Lancet Oncol 11(3): 266–274 Blows FM, Driver KE, Schmidt MK, Broeks A, van Leeuwen FE, Wesseling J, Cheang MC, Gelmon K, Nielsen TO, Blomqvist C, Heikkilä P, Heikkinen T, Nevanlinna H, Akslen LA, Bégin LR, Foulkes WD, Couch FJ, Wang X, Cafourek V, Olson JE, Baglietto L, Giles GG, Severi G, McLean CA, Southey MC, Rakha E, Green AR, Ellis IO, Sherman ME, Lissowska J, Anderson WF, Cox A, Cross SS, Reed MW, Provenzano E, Dawson SJ, Dunning AM, Humphreys M, Easton DF, Garcı́a-Closas M, Caldas C, Pharoah PD, Huntsman D. Subtyping of breast cancer by immunohistochemistry to investigate a relationship between subtype and short and long term survival: a collaborative analysis of data for 10,159 cases from 12 studies. Plos Med (2010) 7(5): e1000279, pages 1–12 Bonadonna G, Valagussa P (1981) Dose-response effect of adjuvant chemotherapy in breast cancer. N Engl J Med 304(1): 10–15 Bonadonna G, Zambetti M, Valagussa P (1995) Sequential or alternating doxorubicin and CMF regimens in breast cancer with more than three positive nodes. Ten-year results. JAMA 274(10): 796–797 Bonadonna G, Zambetti M, Moliterni A, Gianni L, Valagussa P (2004) Clinical relevance of different sequencing of doxorubicin and cyclophosphamide, methotrexate, and Fluorouracil in operable breast cancer J Clin Oncol 22(9): 1614–1620 Buzzoni R, Bonadonna G, Valagussa P, Zambetti M (1991) Adjuvant chemotherapy with doxorubicin plus cyclophosphamide, methotrexate, and fluorouracil in the treatment of resectable breast cancer with more than three positive axillary nodes. J Clin Oncol 9(12): 2134–2140 Campbell HE, Epstein D, Bloomfield D, Griffin S, Manca A, Yarnold J, Bliss J, Johnson L, Earl H, Poole C, Hiller L, Dunn J, Hopwood P, Barrett-Lee P, Ellis P, Cameron D, Harris AL, Gray AM, Sculpher M (2011) The costeffectiveness of adjuvant chemotherapy for early breast cancer: a comparison of no chemotherapy and first, second, and third generation regimens for patients with differing prognoses. Eur J Cancer 47(17): 2517–2530 Coombes RC, Bliss JM, Wils J, Morvan F, Espié M, Amadori D, Gambrosier P, Richards M, Aapro M, Villar-Grimalt A, McArdle C, Pérez-López FR, Vassilopoulos P, Ferreira EP, Chilvers CE, Coombes G, Woods EM, Marty M (1996) Adjuvant cyclophosphamide, methotrexate, and fluorouracil versus fluorouracil, epirubicin, and cyclophosphamide chemotherapy in premenopausal women with axillary node-positive operable breast cancer: results of a randomized trial. The International Collaborative Cancer Group. J Clin Oncol 14(1): 35–45 Cox DR (1972) Regression models and lifetables. J R Stat Soc (B) 34 187–220 Di Leo A, Desmedt C, Bartlett JM, Piette F, Ejlertsen B, Pritchard KI, Larsimont D, Poole C, Isola J, Earl H, Mouridsen H, O’Malley FP, Cardoso F, Tanner M, Munro A, Twelves CJ, Sotiriou C, Shepherd L, Cameron D, Piccart MJ, Buyse M, HER2/TOP2A Meta-analysis Study Group (2011) Meta-analysis of HER-2 and Topoisomerase IIa as predictive biomarkers for anthracycline benefit: definitive individual patient data analysis from five randomised clinical trials of CMF versus anthracycline-based adjuvant therapy in early breast cancer. Lancet Oncol 12(12): 1134–1142 Earl HM, Iddawela M (2004) Epirubicin as adjuvant breast cancer treatment. Expert Rev Anticancer Therapy 4(2): 189–195 
+
+British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Earl HM, Hiller L, Dunn JA, Bathers S, Harvey P, Stanley A, Grieve RJ, Agrawal RK, Fernando IN, Brunt AM, McAdam K, O’Reilly S, Rea DW, Spooner D, Poole CJ, NEAT Investigators (2008) NEAT: National Epirubicin Adjuvant Trial-Toxicity, Delivered Dose Intensity and Quality of Life. Br J Cancer 99(8): 1226–1231 Early Breast Cancer Trialists’ Collaborative Group (1990) Treatment of Early Breast Cancer. Vol 1, Worldwide evidence 1985-1990, Oxford University Press: Oxford, England Early Breast Cancer Trialists’ Collaborative Group (1992) Systemic therapy of early breast cancer by hormonal, cytotoxic, or immune therapy: 133 randomised trials involving 31,000 recurrences, and 24,000 deaths among 75,000 women. Lancet 339: 71–85 Early Breast Cancer Trialists’ Collaborative Group (2005) Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 365: 1687–1717 Engelsman E, Klijn JC, Rubens RD, Wildiers J, Beex LV, Nooij MA, Rotmensz N, Sylvester R (1991) ‘Classical’ CMF versus a 3-weekly intravenous CMF schedule in postmenopausal patients with advanced breast cancer. An EORTC Breast Cancer Co-operative Group Phase III Trial (10808). Eur J Cancer 27(8): 966–970 Goldie JH, Coldman AJ, Gudauskas GA (1982) 1 Rationale for the use of alternating non-cross-resistant chemotherapy. Cancer Treat Rep 66(3): 439–449 Habeshaw T, Paul J, Jones R, Stallard S, Stewart M, Kaye SB, Soukop M, Symonds RP, Reed NS, Rankin EM (1991) Epirubicin at two dose levels with prednisolone as treatment for advanced breast cancer: the results of a randomised trial. J Clin Oncol 9: 295–304 Hilsenbeck SG, Ravdin PM, de Moor CA, Chamness GC, Osborne CK, Clark GM (1998) Time-dependence of hazard ratios of prognostic factors in primary breast cancer. Breast Cancer Res Treat 52: 227–237 Kaplan EL, Meier P (1958) Non-parametric estimation from incomplete observations. J Am Stat Assoc 53: 457–481 Levine MN, Bramwell VH, Pritchard KI, Norris BD, Shepherd LE, Abu-Zahra H, Findlay B, Warr D, Bowman D, Myles J, Arnold A, Vandenberg T, MacKenzie R, Robert J, Ottaway J, Burnell M, Williams CK, Tu D (1998) Randomised trial of intensive cyclophosphamide, epirubicin, and fluorouracil compared with cyclophosphamide, methotrexate and fluorouracil in pre-menopausal women with node-positive breast cancer. J Clin Oncol 16: 2651–2658 Moliterni A, Bonadonna G, Valagussa P, Ferrari L, Zambetti M (1991) Cyclophosphamide, methotrexate, and fluorouracil with and without doxorubicin in the adjuvant treatment of resectable breast cancer with one to three positive axillary nodes. J Clin Oncol 9(7): 1124–1130 Norton L, Day R (1991) Potential innovations in scheduling of cancer chemotherapy. Important Adv Oncol 57–72 Perou CM, Sørlie T, Eisen MB, van de Rijn M, Jeffrey SS, Rees CA Pollack JR, Ross DT, Johnsen H, Akslen LA, Fluge O, Pergamenschikov A, Williams C, Zhu SX, Lønning PE, Børresen-Dale AL, Brown PO, Botstein D (2000) Molecular portraits of human tumours. Nature 406(6797): 747–752 Poole CJ, Earl HM, Hiller L, Dunn JA, Bathers S, Grieve RJ, Spooner DA, Agrawal RK, Fernando IN, Brunt AM, O’Reilly SM, Crawford SM Rea DW, Simmonds P, Mansi JL, Stanley A, Harvey P, McAdam K, Foster L, Leonard RC, Twelves CJ, NEAT Investigators and the SCTBG (2006) Epirubicin and Cyclophosphamide, Methotrexate, and Fluorouracil as Adjuvant Therapy for Early Breast Cancer. N Engl J Med 355: 1851–1862 
+
+& 2012 Cancer Research UK 
+
+NEAT and BR9601 adjuvant breast cancer trials of sequential E-CMF HM Earl et al 
+
+1267 Praga C, Bergh J, Bliss J, Bonneterre J, Cesana B, Coombes RC, Fargeot P, Folin A, Fumoleau P, Giuliani R, Kerbrat P, Hery M, Nilsson J, Onida F, Piccart M, Shepherd L, Therasse P, Wils J, Rogers D (2005) Risk of acute myeloid leukemia and myelodysplastic syndrome in trials of adjuvant epirubicin for early breast cancer: correlation with doses of epirubicin and cyclophosphamide. J Clin Oncol 23(18): 4179–4191 Rea DW, Hiller L, Earl HM, Dunn JA, Bathers S, Spooner D, Grieve R, Agrawal RK, Poole CJ, on behalf of the NEAT Investigators (2004) 
+
+Tolerability and efficacy of classical CMF (cCMF) using oral cyclophosphamide (OC) vs intravenous cyclophosphamide (IVC) in early stage breast cancer: a non-randomised comparison of patients treated in the National Epirubicin Adjuvant trials (NEAT). J Clin Oncol 22, 14(s): abstract 595 Retsky MW, Demicheli R, Hrushesky WJ, Baum M, Gukas ID (2008) Dormancy and surgery-driven escape from dormancy help explain some clinical features of breast cancer. APMIS 116(7–8): 730–741 
+
+PREVIOUS PRESENTATIONS OF THE STUDY Published papers Leo AD, Desmedt C, Bartlett JM, Piette F, Ejlertsen B, Pritchard KI, Larsimont D, Poole C, Isola J, Earl H, Mouridsen H, O’Malley FP, Cardoso F, Tanner M, Munro A, Twelves CJ, Sotiriou C, Shepherd L, Cameron D, Piccart MJ, Buyse M (2011) Metaanalysis of HER-2 and Topoisomerase IIa as predictive biomarkers for anthracycline benefit: definitive individual patient data analysis from four randomised clinical trials of CMF vs anthracycline-based adjuvant therapy in early breast cancer. Lancet Oncol 12(12): 1134–1142 Campbell HE, Epstein D, Bloomfield D, Griffin S, Manca A, Yarnold J, Bliss J, Johnson L, Earl H, Poole C, Hiller L, Dunn J, Hopwood P, Barrett-Lee P, Ellis P, Cameron D, Harris AL, Gray AM, Sculpher MJ (2011) The cost-effectiveness of adjuvant chemotherapy for early breast cancer: a comparison of no chemotherapy and first, second, and third generation regimens for patients with differing prognoses. Eur J Cancer 47(17): 2517–2530 
+
+& 2012 Cancer Research UK 
+
+Bartlett JMS, Munro A, Dunn JA, McConkey C, Jordan S, Twelves CJ, Cameron DA, Thomas J, Campbell FM, Rea DW, Provenzano E, Caldas C, Pharoah P, Hiller L, Earl H, Poole CJ (2010) Predictive markers of anthracycline benefit: a prospectively planned analysis of the UK National Epirubicin Adjuvant Trial (NEAT/BR9601). Lancet Oncol 11(3): 266–274 Earl HM, Hiller L, Dunn JA, Bathers S, Harvey P, Stanley A, Grieve RJ, Agrawal RK, Fernando IN, Brunt AM, McAdam K, O’Reilly S, Rea DW, Spooner D, Poole CJ; NEAT Investigators (2008) National Epirubicin Adjuvant Trial – Toxicity, Delivered Dose Intensity and Quality of Life. Br J Cancer 99: 1226–1231 Poole CJ, Earl HM, Hiller L, Dunn JA, Bathers S, Grieve RJ, Spooner DA, Agrawal RK, Fernando IN, Brunt AM, O’Reilly SM, Crawford SM, Rea DW, Simmonds P, Mansi JL, Stanley A, Harvey P, McAdam K, Foster L, Leonard RC, Twelves CJ; NEAT Investigators and the SCTBG (2006) Epirubicin and cyclophosphamide, methotrexate, and fluorouracil as adjuvant therapy for early breast cancer. N Engl J Med 355(18): 1851–1862 
+
+British Journal of Cancer (2012) 107(8), 1257 – 1267 
+
+Clinical Studies 
+
+This work is published under the standard license to publish agreement. After 12 months the work will become freely available and the license terms will switch to a Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported License. 
+
+ 

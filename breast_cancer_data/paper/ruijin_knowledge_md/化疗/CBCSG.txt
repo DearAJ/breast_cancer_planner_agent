@@ -1,0 +1,1309 @@
+original reports 
+
+Adjuvant Capecitabine With Docetaxel and Cyclophosphamide Plus Epirubicin for Triple-Negative Breast Cancer (CBCSG010): An Open-Label, Randomized, Multicenter, Phase III Trial Junjie Li, MD1,2; Keda Yu, MD1,2; Da Pang, MD3; Changqin Wang, MD4; Jun Jiang, MD5; Suisheng Yang, MD6; Yunjiang Liu, MD7; Peifen Fu, MD8; Yuan Shen, MD9; Guojun Zhang, MD10; Yali Cao, MD11; Qi He, MD12; Shude Cui, MD13; Xijing Wang, MD14; Guosheng Ren, MD15; Xinzheng Li, MD16; Shiyou Yu, MD17; Pengxi Liu, MD18; Xiang Qu, MD19; Jinhai Tang, MD20; Ouchen Wang, MD21; Zhimin Fan, MD22; Guoqin Jiang, MD23; Jin Zhang, MD24; Jiandong Wang, MD25; Hongwei Zhang, MD26; Shui Wang, MD27; Jianguo Zhang, MD28; Feng Jin, MD29; Nanyan Rao, MD30; Binlin Ma, MD31; Pingqing He, MD32; Binghe Xu, MD33; Zhigang Zhuang, MD34; Jianfeng Wang, MD35; Qiang Sun, MD36; Xiaofeng Guo, MSc37; Miao Mo38 and Zhimin Shao, MD1,2; on behalf of the CBCSG010 Study Group 
+
+abstract 
+
+PURPOSE Standard adjuvant chemotherapy for triple-negative breast cancer (TNBC) includes a taxane and an anthracycline. Concomitant capecitabine may be beneﬁcial, but robust data to support this are lacking. The efﬁcacy and safety of the addition of capecitabine into the TNBC adjuvant treatment regimen was evaluated. PATIENTS AND METHODS This randomized, open-label, phase III trial was conducted in China. Eligible female patients with early TNBC after deﬁnitive surgery were randomly assigned (1:1) to either capecitabine (3 cycles of capecitabine and docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide) or control treatment (3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide). Randomization was centralized without stratiﬁcation. The primary end point was disease-free survival (DFS). 
+
+RESULTS Between June 2012 and December 2013, 636 patients with TNBC were screened, and 585 were randomly assigned to treatment (control, 288; capecitabine, 297). Median follow-up was 67 months. The 5-year DFS rate was higher for capecitabine than for control treatment (86.3% v 80.4%; hazard ratio, 0.66; 95% CI, 0.44 to 0.99; P 5 .044). Five-year overall survival rates were numerically higher but not signiﬁcantly improved (capecitabine, 93.3%; control, 90.7%). Overall, 39.1% of patients had capecitabine dose reductions, and 8.4% reported grade $ 3 hand-foot syndrome. The most common grade $ 3 hematologic toxicities were neutropenia (capecitabine, 136 [45.8%]; control, 118 [41.0%]) and febrile neutropenia (capecitabine, 50 [16.8%]; control, 46 [16.0%]). Safety data were similar to the known capecitabine safety proﬁle and generally comparable between arms. ASSOCIATED CONTENT 
+
+CONCLUSION Capecitabine when added to 3 cycles of docetaxel followed by 3 cycles of a 3-drug anthracycline combination containing capecitabine instead of ﬂuorouracil signiﬁcantly improved DFS in TNBC without new safety concerns. 
+
+Appendix Protocol 
+
+J Clin Oncol 38. © 2020 by American Society of Clinical Oncology 
+
+Author afﬁliations and support information (if applicable) appear at the end of this article. 
+
+Creative Commons Attribution Non-Commercial No Derivatives 4.0 License 
+
+Accepted on February 27, 2020 and published at ascopubs.org/journal/ jco on April 10, 2020: DOI https://doi.org/10. 1200/JCO.19.02474 
+
+INTRODUCTION Triple-negative breast cancer (TNBC) is pathologically deﬁned as an estrogen receptor (ER)–negative, progesterone receptor (PR)–negative, and human epidermal growth factor receptor 2 (HER2)–negative disease.1 It accounts for 12%-17% of all breast cancers1 and is characterized by higher relapse rates and shorter overall survival (OS).2 An understanding of the mechanisms that drive resistance and identiﬁcation of 
+
+biomarkers to guide treatment decisions may help to improve survival.3 To date, anthracycline- and taxanebased therapy remains the sole proven adjuvant systemic approach for prevention of recurrence and survival improvement.4 Capecitabine, an oral prodrug of ﬂuorouracil, is metabolized in the liver and malignant tumors and ultimately converted to cytotoxic ﬂuorouracil by thymidine phosphorylase (TP), which is highly expressed in 
+
+1 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al 
+
+CONTEXT Key Objective Limited evidence exists for the efﬁcacy and safety of adjuvant capecitabine in combination with standard chemotherapy for patients with triple-negative breast cancer (TNBC). Knowledge Generated The 5-year disease-free survival rate was signiﬁcantly improved by adding capecitabine. Safety data were in line with the known capecitabine safety proﬁle. Relevance Capecitabine concomitantly used with docetaxel and epirubicin is an alternative adjuvant regimen for TNBC. 
+
+breast tumors.5 In xenograft models, administration of docetaxel, paclitaxel, or cyclophosphamide boosted TP expression in tumor tissue, which suggests possible synergy with capecitabine. The CREATE-X trial demonstrated improved survival with the addition of capecitabine adjuvant therapy in HER2negative patients with residual invasive disease after standard neoadjuvant chemotherapy, particularly in the TNBC subpopulation.6 Current guidelines suggest that capecitabine should be considered for adjuvant treatment after standard neoadjuvant treatment with taxane- and anthracycline-based chemotherapy.7 Clinical studies that have evaluated capecitabine without preoperative therapy are inconclusive. Randomized studies have evaluated capecitabine as adjuvant treatment in breast cancer overall8-11 and in elderly patients with breast cancer.12,13 However, none of these trials were focused solely on patients with TNBC. GEICAM 2003-11, which evaluated sequential monotherapy of capecitabine in TNBC, showed that capecitabine did not signiﬁcantly increase disease-free survival (DFS) in the overall TNBC population after standard adjuvant chemotherapy.14 Evidence for the efﬁcacy and safety of adjuvant capecitabine concomitant use with standard chemotherapy for TNBC is limited; this is a key unmet need for clinicians when determining optimal therapeutic strategies for their patients. We report the results from the Chinese Breast Cancer Study Group 010 (CBCSG010) trial, which was designed to investigate the efﬁcacy and safety of adjuvant capecitabine in combination with docetaxel and cyclophosphamide plus epirubicin for patients with early TNBC. PATIENTS AND METHODS Study Design and Patients This prospective, open-label, multicenter, randomized, phase III clinical trial was conducted at 35 medical institutions in China within the CBCSG (Appendix Table A1, online only). The study protocol is available in the Data Supplement (online only). 
+
+Eligibility criteria included females age 18-70 years with newly diagnosed, unilateral invasive breast cancer after primary surgery with clear margin; histologically conﬁrmed triple-negative status deﬁned as ER and/or PR , 10% by local immunohistochemical (IHC) analysis at each participating institution and HER2 IHC0-11 or IHC21 with negative (no ampliﬁcation) in situ hybridization, no evidence of metastasis (M0), regional node-positive disease (at least N1mic), or node-negative disease with primary tumor diameter $ 10 mm; Eastern Cooperative Oncology Group performance score 0 or 1; an interval of . 7 and , 30 days between surgery and random assignment; normal renal, cardiac, and hepatic function; and normal blood counts. Key exclusion criteria included presence of distant metastases, tumor stage . T4a, clinically signiﬁcant cardiac disease, previous neoadjuvant chemotherapy, presence of peripheral neuropathy of any grade, child-bearing potential and not using contraception, current pregnancy or lactation, other invasive malignant diseases within the past 5 years (except excised basal cell skin carcinoma and cervical carcinoma in situ), any other physical or psychological condition that affected the patient’s health or conduct of the study, participation in another clinical trial, and known hypersensitivity to study treatment agents. The study protocol was approved by independent ethics committees at each participating center, and the study was conducted in accordance with Good Clinical Practice and the Declaration of Helsinki. All patients provided written informed consent. Random Assignment and Masking Eligible patients were randomly assigned (1:1) to receive either a capecitabine-containing chemotherapy (capecitabine group) or a control regimen. Randomization was done through an interactive web response system with no stratiﬁcation factors. Patients and investigators were aware of the treatment group assignment. Procedures The capecitabine group received capecitabine plus docetaxel (XT: capecitabine 1,000 mg/m2 twice daily by 
+
+2 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Capecitabine for Triple-Negative Breast Cancer 
+
+mouth, days 1-14; docetaxel 75 mg/m2 as a 1-hour intravenous infusion on day 1 of every 3-week cycle) for 3 cycles, followed by capecitabine, epirubicin, and cyclophosphamide (XEC: capecitabine 1,000 mg/m2 twice daily, days 1-14; epirubicin 75 mg/m2 and cyclophosphamide 500 mg/m2 on day 1; every 3-week cycle) for 3 cycles. The control group received docetaxel followed by ﬂuorouracil 500 mg/m2, epirubicin 75 mg/m2, and cyclophosphamide 500 mg/m2 (T-FEC), all administered on day 1 of every 3-week cycle for 3 cycles. Patients received locoregional radiotherapy according to each institution’s practice after completion of chemotherapy. Standard prophylactic oral corticosteroids and histamine antagonists were given before docetaxel to prevent hypersensitivity reactions. Granulocyte colony-stimulating factor was allowed for symptomatic neutropenia but not prophylactically in the ﬁrst cycle. Febrile neutropenia was managed according to institutional treatment guidelines in China. A dose reduction gradient was used in the event of grade 2-4 toxicity for docetaxel and epirubicin as follows: grade 2 event, treatment was held for up to 7 days and then resumed at the same dose once resolved to grade # 1; grade $ 3 event, treatment was 
+
+held and if toxic effects resolved to grade , 2 within 7 days, treatment was dose reduced (ﬁrst appearance, 80% of the dose; second appearance, 60% of the starting dose). Up to 2 dose reductions were allowed, and treatment was permanently discontinued if toxic effects did not resolve to grade , 2 within 7 days of holding treatment. The dose reduction gradient for capecitabine was 1,000, 900, 825, 750, and 675 mg/m2. For grade $ 3 events, capecitabine was interrupted and resumed at a lower dose after the toxic effect was resolved to grade , 2. Only the agent associated with an adverse event, as judged by the investigator, was dose reduced. Toxicities were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (version 4.0). Staging examinations (breast ultrasound, mammogram, chest computed tomography [CT] scan, and abdominal ultrasound) were mandatory at screening; laboratory tests (CBC and serum chemistry) were performed within the 3 days before the start of every chemotherapy cycle. All events that occurred during study treatment or within 28 days of the last dose of chemotherapy were recorded. Follow-up of study patients was scheduled every 3 months 
+
+Patients screened (N = 636) 
+
+Did not meet inclusion criteria (n = 26) 
+
+Randomly assigned to T-FEC (n = 302) 
+
+Randomly assigned to XT-XEC (n = 308) 
+
+FIG 1. CONSORT diagram of Withdrew consent (n = 11) 
+
+Withdrew consent (n = 14) Received treatment (n = 288) 
+
+mITT 
+
+Had major protocol violations (n = 9) 
+
+Had major protocol violations (n = 12) Received allocated intervention (n = 276) 
+
+Had event (n = 57) Lost follow-up (n = 32) 
+
+Received treatment (n = 297) 
+
+PPS 
+
+patient disposition. mITT, modiﬁed intention to treat; PPS, perprotocol set; T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. 
+
+Received allocated intervention (n = 288) 
+
+Had event (n = 41) Lost follow-up (n = 21) 
+
+Journal of Clinical Oncology 
+
+3 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al 
+
+TABLE 1. Baseline Patient Demographics and Clinical Characteristics (mITT population) Characteristic 
+
+T-FEC, No. (%) 
+
+XT-XEC, No. (%) 
+
+No. of patients 
+
+288 
+
+297 
+
+48.3 6 8.7 
+
+49.1 6 10.4 
+
+1.6 6 0.1 
+
+1.6 6 0.1 
+
+Premenopausal 
+
+166 (59.3) 
+
+154 (53.3) 
+
+Postmenopausal 
+
+114 (40.7) 
+
+135 (46.7) 
+
+75 (26.0) 
+
+79 (26.6) 
+
+Mean age, (SD) 2 
+
+Mean body surface area, m (SD) Menstruation 
+
+Family history Operation type Breast conserving 
+
+59 (20.6) 
+
+74 (24.9) 
+
+Mastectomy 
+
+228 (79.4) 
+
+223 (75.1) 
+
+Sentinel lymph node biopsy 
+
+75 (26.1) 
+
+75 (25.3) 
+
+Axillary dissection 
+
+212 (73.9) 
+
+222 (74.7) 
+
+N0 
+
+185 (64.9) 
+
+196 (66.9) 
+
+N1 
+
+68 (23.9) 
+
+71 (24.2) 
+
+N2 
+
+20 (7.0) 
+
+12 (4.1) 
+
+N3 
+
+12 (4.2) 
+
+14 (4.8) 
+
+Nodal status 
+
+T stage T1a,b 
+
+12 (4.8) 
+
+10 (3.9) 
+
+T1c 
+
+104 (41.9) 
+
+109 (42.7) 
+
+T2 
+
+120 (48.4) 
+
+132 (51.8) 
+
+T3 
+
+12 (4.8) 
+
+4 (1.6) 
+
+255 (89.2) 
+
+265 (89.5) 
+
+Histology Invasive ductal carcinoma Invasive lobular carcinoma 
+
+2 (0.7) 
+
+4 (1.4) 
+
+Other 
+
+29 (10.1) 
+
+27 (9.1) 
+
+Grade 1 
+
+10 (4.0) 
+
+6 (2.5) 
+
+2 
+
+116 (46.6) 
+
+100 (40.8) 
+
+3 
+
+123 (49.4) 
+
+139 (56.7) 
+
+5 (1.7) 
+
+5 (1.7) 
+
+ER and PR , 1% 
+
+283 (98.3) 
+
+292 (98.3) 
+
+Ki-67 , 30% positive 
+
+53 (19.5) 
+
+53 (18.9) 
+
+Ki-67 $ 30% positive 
+
+219 (80.5) 
+
+227 (81.1) 
+
+ER and/or PR 1%-9% 
+
+Lymphovascular invasion positive Mean time from surgery to chemotherapy, days (SD) 
+
+40 (14.1) 
+
+29 (9.8) 
+
+17.2 6 7.9 
+
+18.0 6 9.1 
+
+Abbreviations: ER, estrogen receptor; Ki-67, protein encoded by the MKI67 gene; mITT, modiﬁed intention to treat; PR, progesterone receptor; SD, standard deviation; T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. 
+
+after chemotherapy for a minimum of 5 years after random assignment, including physical examination with breast and abdominal ultrasound every 3 months, and mammogram and chest CT yearly. Patients without any component of the speciﬁc time-to-end point events were censored at their last follow-up. 
+
+Outcomes The primary end point was DFS, deﬁned as the time from random assignment to the ﬁrst occurrence of any event (both in situ and invasive), including local relapse, distant metastasis, contralateral breast cancer, second primary cancer, or death as a result of any cause. Secondary end 
+
+4 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Capecitabine for Triple-Negative Breast Cancer 
+
+points included recurrence-free survival (RFS; time from random assignment to date of diagnosis of invasive breast cancer recurrence or death), distant DFS (DDFS; time from random assignment to date of diagnosis of distant recurrence or death), OS (time from random assignment to death as a result of any cause), and safety. Quality of life was measured by Functional Assessment of Cancer Therapy-Breast Cancer (FACT-B) scale scores at baseline and after every cycle. Events were reviewed by an independent data monitoring committee (IDMC) every 6 months. Exploratory subgroup analyses were performed to investigate the association between baseline characteristics and treatment efﬁcacy. Statistical Analysis With an estimated recruitment period of 2 years, we expected that the 5-year DFS rate would rise from 73% to 83% (hazard ratio [HR], 0.59) after a median follow-up of 5 years. Accordingly, 116 events were needed for a 2-sided type I error rate of 5% and a power of 80% to detect a signiﬁcant difference between the 2 treatment groups. Assuming 10% loss to follow-up, 600 randomly assigned patients were required. The modiﬁed intention-to-treat (mITT) population included randomly assigned patients who received at least 1 dose of any study treatment. The per-protocol set (PPS) population included patients who received allocated interventions without major protocol violations. Survival data were assessed using the KaplanMeier method and compared using log-rank tests. HRs and corresponding 95% CIs were estimated using the Cox proportional hazards regression model. Subgroups were analyzed according to menstrual status, nodal status, T stage, TNM, tumor grading, and protein encoded by the MKI67 gene. Because of a lower overall event rate than expected after all patients had been followed for at least 5 years, at the recommendation of the IDMC, the CBCSG010 steering committee agreed to analyze and report the ﬁnal results with 98 events at the cutoff date of March 20, 2019. All P values were 2-sided; P # .05 was considered signiﬁcant. All statistical procedures were carried out using SAS 9.1.3 software (SAS Institute, Cary, NC). RESULTS Patients Between June 4, 2012, and December 27, 2013, 636 patients with TNBC were screened at 35 centers in China; 26 patients did not meet the inclusion criteria. Of the 610 randomly assigned patients, 25 withdrew consent before starting treatment. The mITT population comprised 585 patients (control, 288; capecitabine, 297). Among them, 21 patients (control, 12; capecitabine, 9) had major protocol violations. The PPS population comprised 564 patients (control, 276; capecitabine, 288; Fig 1). Fifty-three patients were lost to follow-up. Baseline characteristics 
+
+were relatively well balanced (Table 1). Most patients were premenopausal (56%) and underwent a mastectomy (77%) and axillary dissection (74%). Node-positive disease was reported in 34% of patients; 47% had T1 disease, and approximately half had grade 3 disease. The median time from surgery to chemotherapy was 17.5 days. Efﬁcacy Outcomes At the analysis cutoff date (March 20, 2019), median follow-up was 67 months (interquartile range, 61-71 months). A total of 98 events (contralateral breast, second primary, distant or local relapse, and death) had occurred (control, 57 [19.8%]; capecitabine, 41 [13.8%]; Table 2). The 5-year DFS rates (primary end point) were 86.3% and 80.4% in the capecitabine and control groups, respectively (HR, 0.66; 95% CI, 0.44 to 0.99; P 5 .044 in favor of capecitabine). For secondary end points, treatment with capecitabine was associated with improvement in 5-year RFS (89.5%) compared with control (83.1%; HR, 0.59; 95% CI, 0.38 to 0.93; P 5 .02) and in 5-year DDFS (89.8% v 84.2%; HR, 0.63; 95% CI, 0.39 to 1.0; P 5 .048). There was no signiﬁcant difference in OS between the 2 groups (93.3% v 90.7%; HR, 0.67; 95% CI, 0.37 to 1.22; P 5 .19). Figure 2 shows the Kaplan-Meier estimates for 5-year DFS, RFS, DDS, and OS. Appendix Figure A1 (online only) shows the Kaplan-Meier estimates for 5-year DFS in TABLE 2. Number of Events (mITT population) T-FEC (n 5 288) 
+
+XT-XEC (n 5 297) 
+
+Any event (%) 
+
+57 (19.8) 
+
+41 (13.8) 
+
+Second primary 
+
+4 
+
+5 
+
+Contralateral breast 
+
+5 
+
+6 
+
+Local recurrence 
+
+18 
+
+7 
+
+Ipsilateral breast/chest 
+
+13 
+
+5 
+
+Regional lymph nodes 
+
+8 
+
+3 
+
+37 
+
+29 
+
+Event 
+
+Distant recurrence Liver 
+
+3 
+
+7 
+
+Lung 
+
+17 
+
+14 
+
+Bone 
+
+6 
+
+7 
+
+Other 
+
+27 
+
+14 
+
+26 (9.0) 
+
+19 (6.4) 
+
+Deatha (%) 
+
+NOTE. First disease-free survival event and cumulative deaths are listed. More than 1 event could occur in a patient. Abbreviations: mITT, modiﬁed intention to treat; T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. a Two deaths in the T-FEC group and one in the XT-XEC occurred without any disease-free survival event. 
+
+Journal of Clinical Oncology 
+
+5 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al 
+
+B 100 
+
+100 
+
+80 
+
+80 
+
+RFS (%) 
+
+DFS (%) 
+
+A 
+
+60 
+
+40 
+
+60 
+
+40 
+
+20 
+
+20 
+
+0 
+
+Log-rank P = .044 
+
+T-FEC 
+
+Log-rank P = .022 
+
+T-FEC 
+
+HR, 0.66; 95% CI, 0.44 to 0.99 
+
+XT-XEC 
+
+HR, 0.59; 95% CI, 0.38 to 0.93 
+
+XT-XEC 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+0 
+
+12 
+
+24 
+
+Time (months) 
+
+36 
+
+48 
+
+60 
+
+Time (months) 
+
+No. at risk: 
+
+No. at risk: 
+
+T-FEC 
+
+288 
+
+264 
+
+245 
+
+228 
+
+214 
+
+200 
+
+T-FEC 
+
+288 
+
+264 
+
+245 
+
+229 
+
+218 
+
+207 
+
+XT-XEC 
+
+297 
+
+281 
+
+263 
+
+252 
+
+246 
+
+236 
+
+XT-XEC 
+
+297 
+
+283 
+
+268 
+
+257 
+
+253 
+
+244 
+
+D 100 
+
+100 
+
+80 
+
+80 
+
+60 
+
+60 
+
+OS (%) 
+
+DDFS (%) 
+
+C 
+
+40 
+
+20 
+
+40 
+
+20 
+
+0 
+
+Log-rank P = .048 
+
+T-FEC 
+
+Log-rank P = .186 
+
+T-FEC 
+
+HR, 0.63; 95% CI, 0.40 to 1.00 
+
+XT-XEC 
+
+HR, 0.67; 95% CI, 0.37 to 1.22 
+
+XT-XEC 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+0 
+
+12 
+
+Time (months) 
+
+24 
+
+36 
+
+48 
+
+60 
+
+Time (months) 
+
+No. at risk: 
+
+No. at risk: 
+
+T-FEC 
+
+288 
+
+267 
+
+248 
+
+231 
+
+220 
+
+209 
+
+T-FEC 
+
+288 
+
+273 
+
+263 
+
+251 
+
+237 
+
+220 
+
+XT-XEC 
+
+297 
+
+283 
+
+271 
+
+258 
+
+254 
+
+245 
+
+XT-XEC 
+
+297 
+
+286 
+
+283 
+
+274 
+
+266 
+
+253 
+
+FIG 2. Kaplan-Meier estimates of 5-year survival (modiﬁed intention-to-treat population; n 5 585). (A) Disease-free survival (DFS), (B) recurrencefree survival (RFS), (C) distant DFS (DDFS), and (D) overall survival (OS). HR, hazard ratio; T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. 
+
+the PPS population. Capecitabine beneﬁts for DFS were consistent across patient subgroups (Fig 3); treatment effect interactions were not signiﬁcant for any of the subgroups considered. Safety Outcomes 
+
+(capecitabine, 50 [16.8%]; control, 46 [16.0%]). Patients who received capecitabine had a higher incidence (52.5%) of hand-foot syndrome (HFS), of which 8.4% was grade $ 3. More patients treated with capecitabine had grade $ 3 stomatitis (5.1% v 1.0% [control]). No patients died during chemotherapy. 
+
+The safety proﬁles of the 2 regimens are listed in Table 3. There were no notable differences in the incidence of alopecia, nausea and vomiting, peripheral neuropathy, or fatigue between the 2 groups. The most common grade $ 3 hematologic toxicities were neutropenia (capecitabine, 136 [45.8%]; control, 118 [41.0%]) and febrile neutropenia 
+
+Dose reductions of docetaxel and/or epirubicin were needed for 19 and 20 patients in the capecitabine and control groups, respectively. Overall, 113 patients (39.1%) had capecitabine dose reductions (cycle 1, 22.5%; cycle 2, 24.7%; cycle 3, 27.3%; cycle 4, 28.8%; cycle 5, 31.5%; cycle 6, 33.3%). Seven patients required a capecitabine 
+
+6 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Capecitabine for Triple-Negative Breast Cancer 
+
+Patients With Events of Total Patients 
+
+5-Year Cumulative Probability, % 
+
+XT-XEC 
+
+T-FEC 
+
+HR (95% CI) (XT-XEC v T-FEC) 
+
+23 of 154 16 of 135 
+
+31 of 166 25 of 114 
+
+0.76 (0.44 to 1.31) 0.51 (0.27 to 0.95) 
+
+85.2 88.3 
+
+81.6 78.2 
+
+19 of 97 22 of 196 
+
+34 of 100 22 of 185 
+
+0.51 (0.29 to 0.90) 0.92 (0.51 to 1.66) 
+
+80.1 89.2 
+
+67.0 88.3 
+
+T1 
+
+14 of 119 
+
+21 of 116 
+
+0.63 (0.32 to 1.24) 
+
+88.6 
+
+81.0 
+
+T2 and T3 
+
+20 of 136 
+
+31 of 132 
+
+0.57 (0.33 to 1.00) 
+
+84.8 
+
+77.2 
+
+9 of 89 21 of 145 5 of 21 
+
+11 of 81 25 of 133 15 of 31 
+
+0.70 (0.29 to 1.68) 0.75 (0.42 to 1.34) 0.40 (0.14 to 1.09) 
+
+90.6 84.9 76.2 
+
+85.2 81.7 52.8 
+
+10 of 106 20 of 139 
+
+19 of 126 33 of 123 
+
+0.57 (0.27 to 1.23) 0.51 (0.29 to 0.89) 
+
+90.2 85.8 
+
+83.5 75.7 
+
+< 30%  30% 
+
+8 of 53 32 of 227 
+
+11 of 53 44 of 219 
+
+0.68 (0.28 to 1.70) 0.67 (0.43 to 1.06) 
+
+83.9 86.3 
+
+77.8 80.6 
+
+Overall 
+
+41 of 297 
+
+57 of 288 
+
+0.66 (0.44 to 0.99) 
+
+86.3 
+
+80.4 
+
+Subgroup 
+
+XT-XEC T-FEC 
+
+Menstrual status Premenopausal Menopausal 
+
+.34 
+
+Nodal status Positive Negative 
+
+.16 
+
+T stage 
+
+.83 
+
+TNM stage I II III 
+
+P for Interaction 
+
+.51 
+
+Grade 
+
+.80 
+
+1 and 2 3 
+
+Ki-67 
+
+.98 
+
+0 0.5 1 
+
+2 
+
+3 
+
+4 
+
+XT-XEC Better T-FEC Better FIG 3. Results of exploratory subgroup analyses for disease-free survival. A forest plot shows the hazard ratios (HRs) and 95% CIs (horizontal lines) according to menstrual status, tumor size, nodal status, grade, and protein encoded by the MKI67 gene (Ki-67) status. Data are from the log-rank test. Data are presented as number of patients with events of total number of patients. T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. 
+
+dose reduction to # 750 mg/m2, and all others had a dose reduction to 900 mg/m2 or 825 mg/m2. A similar proportion of patients completed all 6 planned chemotherapy cycles (capecitabine, 252 [84.9%] of 297; control, 248 [86.1%] of 288). In the capecitabine group, the noncompletion rate was 9.4% (28 of 297) during XT and 14.5% (43 of 297) during XEC. In the control group, the noncompletion rate was 8.3% (24 of 288) during docetaxel and 12.5% (36 of 288) during FEC. No differences in quality of life by FACT-B were found between the 2 groups. DISCUSSION To our knowledge, the CBCSG010 study is the ﬁrst randomized controlled trial to investigate the efﬁcacy and safety of capecitabine in combination with taxane and anthracycline as adjuvant treatment speciﬁcally for patients with TNBC. Importantly, CBCSG010 met its primary end point. Capecitabine added to standard adjuvant 
+
+chemotherapy regimen signiﬁcantly improved the 5-year DFS, RFS, and DDFS rates and was well-tolerated. Adjuvant taxane- and anthracycline-based chemotherapy is the standard of care after TNBC resection. The ECOG 119915 and SWOG S022116 studies reported that doxorubicin plus cyclophosphamide followed by paclitaxel yielded substantial beneﬁts in patients with TNBC. EBCTCG analysis conﬁrmed a moderate reduction in 10-year risk of recurrence and death with an increase in the dose intensity and density of adjuvant chemotherapy, especially for TNBC.17 The IBCSG 22-00 study indicated that low-dose oral cyclophosphamide and methotrexate maintenance for 1 year reduced the risk of a DFS event, especially for nodepositive TNBC.18 A meta-analysis (8 studies, 9,302 patients) showed that capecitabine plus standard chemotherapy signiﬁcantly improved DFS in TNBC (HR, 0.72).19 While the exact mechanism remains unclear, daily dosing of capecitabine may 
+
+Journal of Clinical Oncology 
+
+7 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al 
+
+TABLE 3. Summary of Adverse Events (mITT population) All Grades, No. (%) T-FEC (n 5 288) 
+
+Event 
+
+Grade 3 or 4, No. (%) 
+
+XT-XEC (n 5 297) 
+
+T-FEC (n 5 288) 
+
+XT-XEC (n 5 297) 
+
+All 
+
+282 (97.9) 
+
+289 (97.3) 
+
+238 (82.6) 
+
+241 (81.1) 
+
+Alopecia 
+
+253 (87.9) 
+
+254 (85.5) 
+
+205 (71.2) 
+
+206 (69.4) 
+
+Neutropenia 
+
+222 (77.1) 
+
+224 (75.4) 
+
+118 (41.0) 
+
+136 (45.8) 
+
+Febrile neutropenia 
+
+46 (16.0) 
+
+50 (16.8) 
+
+46 (16.0) 
+
+50 (16.8) 
+
+Thrombocytopenia 
+
+38 (13.2) 
+
+36 (12.1) 
+
+5 (1.7) 
+
+11 (3.7) 
+
+Increased ALT and/or AST 
+
+72 (25.0) 
+
+81 (27.3) 
+
+10 (3.5) 
+
+4 (1.4) 
+
+Stomatitis 
+
+113 (39.2) 
+
+110 (37.0) 
+
+3 (1.0) 
+
+15 (5.1) 
+
+Nausea 
+
+251 (87.2) 
+
+235 (79.1) 
+
+4 (1.4) 
+
+5 (1.7) 
+
+Vomiting 
+
+198 (68.8) 
+
+184 (62.0) 
+
+14 (4.9) 
+
+9 (3.0) 
+
+Diarrhea 
+
+52 (18.1) 
+
+46 (15.5) 
+
+3 (1.0) 
+
+3 (1.0) 
+
+Constipation 
+
+102 (35.4) 
+
+105 (35.4) 
+
+2 (0.7) 
+
+2 (0.7) 
+
+Peripheral neuropathy 
+
+106 (36.8) 
+
+121 (40.7) 
+
+1 (0.4) 
+
+1 (0.3) 
+
+Fatigue 
+
+227 (78.8) 
+
+237 (79.8) 
+
+2 (0.7) 
+
+5 (1.7) 
+
+Pain 
+
+122 (42.4) 
+
+112 (37.7) 
+
+3 (1.0) 
+
+9 (3.0) 
+
+Myalgia 
+
+134 (46.5) 
+
+130 (43.8) 
+
+5 (1.7) 
+
+5 (1.7) 
+
+Rash 
+
+40 (13.9) 
+
+49 (16.5) 
+
+4 (1.4) 
+
+1 (0.3) 
+
+Hand-foot syndrome 
+
+95 (33.0) 
+
+156 (52.5) 
+
+0 (0) 
+
+25 (8.4) 
+
+NOTE. Adverse events of all grades that occurred in $ 10% of patients are listed. Grade 3 or 4 adverse events are listed that occurred in $ 1% of patients. Abbreviations: mITT, modiﬁed intention to treat; T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. 
+
+intensify the chemotherapy regimen and increase cytotoxic exposure of tumor cells; alternatively, tumors with defective DNA repair mechanisms (frequent in TNBC) may be particularly sensitive to capecitabine (DNA synthesis inhibitor).20 However, in the GeparQuattro and NSABP B40 trials, the addition of capecitabine to neoadjuvant therapy did not improve the rates of pathologic complete response.21,22 Several randomized clinical trials have evaluated capecitabine as adjuvant treatment of early breast cancer. While these studies varied in patient population, capecitabine administration, and number of treatment cycles,6,8,11-14 several suggested a possible efﬁcacy beneﬁt with capecitabine. Subgroup analysis in patients with TNBC (USON 01062) demonstrated that 4 cycles of capecitabine (concomitantly with docetaxel) suggest beneﬁt in OS from the addition of capecitabine.9 Exploratory analysis in the FinXX trial showed that 6 cycles of additional capecitabine were associated with longer RFS.22 CREATE-X reported that 8 cycles of adjuvant capecitabine monotherapy prolonged DFS and OS (HER2-negative residual invasive disease after standard neoadjuvant therapy), particularly in patients with TNBC.6 In the CIBOMA/GEICAM 2003-11 study, 8 cycles of capecitabine after standard adjuvant chemotherapy did not improve DFS; however, patients with a nonbasal-like phenotype showed DFS improvement with capecitabine.14 
+
+Clinical data that directly evaluate capecitabine concomitantly used with taxane and anthracycline as adjuvant treatment speciﬁcally for TNBC are lacking; our study showed that the 5-year DFS rate was signiﬁcantly higher for capecitabine than control treatment (86.3% v 80.4%). Treatment effect interactions were not signiﬁcant for any of the subgroups considered, but the beneﬁt of capecitabine in patients with high-risk disease was notable; for example, in node-positive disease, the HR was 0.51 (95% CI, 0.29 to 0.90; Fig 3). The 5-year DFS rate for T-FEC was higher than expected, which might be due to the current study including a substantial number of patients with lower-risk disease (47% T1 and 65% N0), and outcomes for the control arm align with previously reported control data,10,23,24 which conﬁrm the reliability and add to the credibility of our ﬁndings. We selected our treatment regimen for optimal capecitabine treatment beneﬁt without undue increase in toxicity. Although FEC followed by docetaxel is a standard adjuvant regimen,24 the increased incidence of febrile neutropenia reported with higher doses of docetaxel has hindered its application.25 Furthermore, time to progression is similar between 75 mg/m2 and 100 mg/m2 docetaxel in advanced breast cancer.26 Hence, we set our starting dose at 75 mg/m2 for both docetaxel and epirubicin in the control arm, and 
+
+8 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Capecitabine for Triple-Negative Breast Cancer 
+
+it might be an alternative/noninferior strategy to initiating chemotherapy with docetaxel.27 A previous study that investigated capecitabine (1,250 mg/m2 twice daily plus docetaxel) in advanced disease reported that 80% of patients required dose reductions, with capecitabine commonly reduced to 950 mg/m2.28 In consideration of the better tolerance of capecitabine in East Asian populations,29 the starting dose of capecitabine in our trial was 1,000 mg/m2. However, capecitabine dose reduction rates increased through the 6 treatment cycles (22.4% [cycle 1] to 33.3% [cycle 6]); overall, 39.1% patients had a dose reduction, although the majority required reduction to 900 or 825 mg/m2. Approximately one half of patients (52.53%) who received capecitabine reported HFS of any grade; 8.42% had grade $ 3 HFS. The capecitabine regimen in the FinXX study was associated with a higher incidence of HFS (80% all grades, 11% grade $ 3),8 while in monotherapy trials, rates were 73.4% (CREATE-X)6 and 70.2% (CIBOMA/GEICAM 2003-11).14 In our study, 85% of patients completed all 6 cycles of chemotherapy, in line with completion rates reported for the CIBOMA/ GEICAM 2003-11 study (85.2%; median dose intensity, 86.3%)14 and the capecitabine group in the FinXX study (76%).8 More grade $ 3 stomatitis events were observed with capecitabine compared with control (5.1% v 1.0%), while grade $ 3 neutropenia and febrile neutropenia were similar between groups. No other substantial differences between the 2 arms or new safety concerns were reported. 
+
+In conclusion, the results of our study indicate that capecitabine concomitantly used with docetaxel and epirubicin (XT-XEC) is an alternative adjuvant regimen for TNBC, with clinically meaningful improvement in DFS and modest toxicity. These data support the subset analysis of the CREATE-X trial as well as the recent meta-analysis of capecitabine for early-stage TNBC.31 
+
+12 
+
+AFFILIATIONS 1 
+
+Our study has several limitations. First, the College of American Pathologists guidelines for hormone receptor positivity cutoff values were modiﬁed after our trial had been designed; thus, our study might have a different deﬁnition of TNBC. However, ER 1%-9% stained is considered equivocal, and low ER-positive and ER-negative patients have similar survival rates and may not beneﬁt from endocrine therapy.30 Only 10 patients in our study (5/ group) had ER/PR 1%-9% disease. Second, FEC followed by docetaxel, with each given every 3 weeks, a preferred regimen when the trial was designed, is no longer a primary recommendation. Preferred regimens now include dosedense sequential anthracycline and taxane therapy. The control regimen, every-3-week dosing, and lower doses of docetaxel and epirubicin used in this trial may have ampliﬁed the beneﬁt from capecitabine. Third, because CBCSG010 was investigator initiated, central pathology readings to conﬁrm triple-negative subtype or central assessment of recurrence or related adverse events could not be performed because of ﬁnancial limitations. Finally, the current study was limited to Chinese patients, although the results of our trial are expected to be applicable to patients in Western countries with dose reductions as indicated. 
+
+Department of Breast Surgery, Fudan University Shanghai Cancer Center, Shanghai, People’s Republic of China 2 Department of Oncology, Shanghai Medical College, Fudan University, Key Laboratory of Breast Cancer in Shanghai, Shanghai, People’s Republic of China 3 Department of Breast Surgery, The Third Afﬁliated Hospital of Harbin Medical University, Harbin, Heilongjiang, People’s Republic of China 4 Department of Breast Surgery, Jilin Cancer Hospital and Institute, Changchun, Jilin, People’s Republic of China 5 Department of Breast Surgery, Southwest Hospital, Chongqing, Chongqing, People’s Republic of China 6 Department of Breast Surgery, Gansu Cancer Hospital, Lanzhou, Gansu, People’s Republic of China 7 Department of Breast Surgery, The Fourth Clinical Medical College of Hebei Medical University, Shijiazhuang, Hebei, People’s Republic of China 8 Department of Breast Surgery, The First Afﬁliated Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, People’s Republic of China 9 Department of Breast Surgery, Changhai Hospital of Shanghai, Shanghai, People’s Republic of China 10 Department of Breast Surgery, Cancer Hospital of Shantou Medical College, Shantou, Guangdong, People’s Republic of China 11 Department of Breast Surgery, The Third Afﬁliated Hospital of Nanchang University, Nanchang, Jiangxi, People’s Republic of China 
+
+Department of Breast Surgery, The International Peace Maternity and Child Health Hospital of China Welfare Institute, Shanghai, People’s Republic of China 13 Department of Breast Surgery, Henan Cancer Hospital Afﬁliated to Zhengzhou University, Zhengzhou, Henan, People’s Republic of China 14 Department of Breast Surgery, Medical College, The Second Afﬁliated Hospital of Xi’An Jiaotong University, Xi’an, Shanxi, People’s Republic of China 15 Department of Breast Surgery, The First Afﬁliated Hospital of Chongqing Medical University, Chongqing, Chongqing, People’s Republic of China 16 Department of Breast Surgery, Shanxi Cancer Hospital, Taiyuan, Shanxi, People’s Republic of China 17 Department of Oncology, Eastern Hospital of Suzhou Municipal Hospital, Suzhou, Jiangsu, People’s Republic of China 18 Department of Breast Surgery, Guangdong Provincial Hospital of Traditional Chinese Medicine, Guangzhou, Guangdong, People’s Republic of China 19 Department of General Surgery, Beijing Friendship Hospital, Capital Medical University, Beijing, People’s Republic of China 20 Department of Breast Surgery, Jiangsu Cancer Hospital, Suzhou, Jiangsu, People’s Republic of China 21 Department of Oncology, The First Hospital of Wenzhou Medical College, Wenzhou, Zhejiang, People’s Republic of China 22 Department of Breast Surgery, The First Hospital of Jilin University, Changchun, Jilin, People’s Republic of China 23 Department of General Surgery, The Second Afﬁliated Hospital of Soochow University, Suzhou, Jiangsu, People’s Republic of China 
+
+Journal of Clinical Oncology 
+
+9 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al 24 
+
+Department of Breast Surgery, Tianjin Medical University Cancer Institute and Hospital, Tianjin, People’s Republic of China 25 Department of General Surgery, The General Hospital of the People’s Liberation Army, Beijing, People’s Republic of China 26 Department of General Surgery, Zhongshan Hospital, Fudan University, Shanghai, People’s Republic of China 27 Department of Breast Surgery, Jiangsu Province Hospital, Suzhou, Jiangsu, People’s Republic of China 28 Department of Breast Surgery, The Second Afﬁliated Hospital of Harbin Medical University, Harbin, Heilongjiang, People’s Republic of China 29 Department of Breast Surgery, The First Hospital of China Medical University, Shenyang, Liaoning, People’s Republic of China 30 Department of Breast Surgery, The Second Afﬁliated Hospital of Zhongshan University, Guangzhou, Guangdong, People’s Republic of China 31 Department of Breast Surgery, Xinjiang Cancer Hospital, Wulumuqi, Xinjiang, People’s Republic of China 32 Department of Breast Surgery, Shanghai Sixth People’s Hospital, Shanghai, People’s Republic of China 33 Department of Medical Oncology, Cancer Institute and Hospital, Chinese Academy of Medical Sciences, Beijing, People’s Republic of China 34 Department of Breast Surgery, Shanghai First Maternity and Infant Hospital Corporation, Shanghai, People’s Republic of China 35 Department of General Surgery, Shanghai General Hospital, Shanghai, People’s Republic of China 36 Department of Breast Surgery, Peking Union Medical College Hospital, Beijing, People’s Republic of China 37 Continuing Education and Technology Services Department, Chinese Anti-Cancer Association, Tianjin, People’s Republic of China 38 Department of Cancer Prevention, Fudan University Shanghai Cancer Center, and Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, People’s Republic of China 
+
+CORRESPONDING AUTHOR Zhimin Shao, MD, Department of Breast Surgery, Fudan University Shanghai Cancer Center, and Department of Oncology, Shanghai Medical College, Fudan University, Key Laboratory of Breast Cancer in Shanghai, 270 Dong-An Rd, Shanghai 200032, People’s Republic of China; Twitter: @drshao1; e-mail: zhimingshao@yahoo.com. 
+
+EQUAL CONTRIBUTION J.L. and K.Y. contributed equally to this work. 
+
+PRIOR PRESENTATION Presented at the American Society of Clinical Oncology 2016 Annual Meeting, Chicago, IL, June 3-7, 2016. 
+
+SUPPORT Supported by the Ministry of Education Innovation Team (grant number IRT1223) and Shanghai Health System Joint Project of Key Disease (grant number 2013ZYJB0302). 
+
+CLINICAL TRIAL INFORMATION NCT01642771 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.19.02474. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Junjie Li, Keda Yu, Zhimin Fan, Jin Zhang, Zhimin Shao Administrative support: Junjie Li, Keda Yu, Zhimin Fan, Jin Zhang Provision of study material or patients: Junjie Li, Keda Yu, Yuan Shen, Zhimin Fan, Nanyan Rao, Binghe Xu Collection and assembly of data: Junjie Li, Da Pang, Changqin Wang, Jun Jiang, Suisheng Yang, Yunjiang Liu, Peifen Fu, Yuan Shen, Guojun Zhang, Yali Cao, Qi He, Shude Cui, Xijing Wang, Guosheng Ren, Xinzheng Li, Shiyou Yu, Pengxi Liu, Xiang Qu, Jinhai Tang, Ouchen Wang, Zhimin Fan, Guoqin Jiang, Jin Zhang, Jiandong Wang, Hongwei Zhang, Shui Wang, Jianguo Zhang, Feng Jin, Nanyan Rao, Binlin Ma, Pingqing He, Binghe Xu, Zhigang Zhuang, Jianfeng Wang, Qiang Sun, Zhimin Shao Data analysis and interpretation: Junjie Li, Keda Yu, Zhimin Fan, Jin Zhang, Xiaofeng Guo, Miao Mo, Zhimin Shao Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+ACKNOWLEDGMENT We thank all the patients, their families, and the institutions involved in this study. We also thank Hope Rugo, MD, for guiding the preparation of the manuscript. 
+
+REFERENCES 1. 
+
+Foulkes WD, Smith IE, Reis-Filho JS: Triple-negative breast cancer. N Engl J Med 363:1938-1948, 2010 
+
+2. 
+
+Cossetti RJ, Tyldesley SK, Speers CH, et al: Comparison of breast cancer recurrence and outcome patterns between patients treated from 1986 to 1992 and from 2004 to 2008. J Clin Oncol 33:65-73, 2015 
+
+3. 
+
+Garrido-Castro AC, Lin NU, Polyak K: Insights into molecular classiﬁcations of triple-negative breast cancer: Improving patient selection for treatment. Cancer Discov 9:176-198, 2019 
+
+4. 
+
+Mayer EL, Burstein HJ: Chemotherapy for triple-negative breast cancer: Is more better? J Clin Oncol 34:3369-3371, 2016 
+
+5. 
+
+Miwa M, Ura M, Nishida M, et al: Design of a novel oral ﬂuoropyrimidine carbamate, capecitabine, which generates 5-ﬂuorouracil selectively in tumours by enzymes concentrated in human liver and cancer tissue. Eur J Cancer 34:1274-1281, 1998 
+
+6. 
+
+Masuda N, Lee SJ, Ohtani S, et al: Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med 376:2147-2159, 2017 
+
+7. 
+
+Denduluri N, Chavez-MacGregor M, Telli ML, et al: Selection of optimal adjuvant chemotherapy and targeted therapy for early breast cancer: ASCO clinical practice guideline focused update. J Clin Oncol 36:2433-2443, 2018 
+
+8. 
+
+Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine in combination with docetaxel and cyclophosphamide plus epirubicin for breast cancer: An open-label, randomised controlled trial. Lancet Oncol 10:1145-1151, 2009 
+
+9. 
+
+O’Shaughnessy J, Koeppen H, Xiao Y, et al: Patients with slowly proliferative early breast cancer have low ﬁve-year recurrence rates in a phase III adjuvant trial of capecitabine. Clin Cancer Res 21:4305-4311, 2015 
+
+10. Kelly CM, Green MC, Broglio K, et al: Phase III trial evaluating weekly paclitaxel versus docetaxel in combination with capecitabine in operable breast cancer. J Clin Oncol 30:930-935, 2012 11. Martı́n M, Ruiz Simón A, Ruiz Borrego M, et al: Epirubicin plus cyclophosphamide followed by docetaxel versus epirubicin plus docetaxel followed by capecitabine as adjuvant therapy for node-positive early breast cancer: Results from the GEICAM/2003-10 study. J Clin Oncol 33:3788-3795, 2015 
+
+10 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Capecitabine for Triple-Negative Breast Cancer 12. Muss HB, Berry DA, Cirrincione CT, et al: Adjuvant chemotherapy in older women with early-stage breast cancer. N Engl J Med 360:2055-2065, 2009 [Erratum: N Engl J Med 361:1714, 2009] 13. von Minckwitz G, Conrad B, Reimer T, et al: A randomized phase 2 study comparing EC or CMF versus nab-paclitaxel plus capecitabine as adjuvant chemotherapy for nonfrail elderly patients with moderate to high-risk early breast cancer (ICE II-GBG 52). Cancer 121:3639-3648, 2015 14. Lluch A, Barrios CH, Torrecillas L, et al: Phase III trial of adjuvant capecitabine after standard neo-/adjuvant chemotherapy in patients with early triple-negative breast cancer (GEICAM/2003-11_CIBOMA/2004-01). J Clin Oncol 38:203-213, 2020 15. Sparano JA, Zhao F, Martino S, et al: Long-term follow-up of the E1199 phase III trial evaluating the role of taxane and schedule in operable breast cancer. J Clin Oncol 33:2353-2360, 2015 16. Budd GT, Barlow WE, Moore HC, et al: SWOG S0221: A phase III trial comparing chemotherapy schedules in high-risk early-stage breast cancer. J Clin Oncol 33:58-64, 2015 17. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Increasing the dose intensity of chemotherapy by more frequent administration or sequential scheduling: A patient-level meta-analysis of 37 298 women with early breast cancer in 26 randomised trials. Lancet 393:1440-1452, 2019 18. Colleoni M, Gray KP, Gelber SI, et al: Low-dose oral cyclophosphamide-methotrexate maintenance (CMM) for receptor-negative early breast cancer (BC). J Clin Oncol 33, 2015 (suppl; abstr 1002) 19. Natori A, Ethier JL, Amir E, et al: Capecitabine in early breast cancer: A meta-analysis of randomised controlled trials. Eur J Cancer 77:40-47, 2017 20. Schilsky RL: Biochemical and clinical pharmacology of 5-ﬂuorouracil. Oncology (Williston Park) 12:13-18, 1998 21. von Minckwitz G, Rezai M, Loibl S, et al: Capecitabine in addition to anthracycline- and taxane-based neoadjuvant treatment in patients with primary breast cancer: Phase III GeparQuattro study. J Clin Oncol 28:2015-2023, 2010 22. Bear HD, Tang G, Rastogi P, et al: Bevacizumab added to neoadjuvant chemotherapy for breast cancer. N Engl J Med 366:310-320, 2012 23. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine in combination with docetaxel, epirubicin, and cyclophosphamide for early breast cancer: The randomized clinical FinXX trial. JAMA Oncol 3:793-800, 2017 24. Roché H, Fumoleau P, Spielmann M, et al: Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: The FNCLCC PACS 01 trial. J Clin Oncol 24:5664-5671, 2006 25. Fraser J, Steele N, Al Zaman A, et al: Are patients in clinical trials representative of the general population? Dose intensity and toxicities associated with FE100CD chemotherapy in a non-trial population of node positive breast cancer patients compared with PACS-01 trial group. Eur J Cancer 47:215-220, 2011 26. Harvey V, Mouridsen H, Semiglazov V, et al: Phase III trial comparing three doses of docetaxel for second-line treatment of advanced breast cancer. J Clin Oncol 24:4963-4970, 2006 27. Wildiers H, Forceville K, Paridaens R, et al: Taxanes and anthracyclines in early breast cancer: Which ﬁrst? Lancet Oncol 11:219-220, 2010 28. Leonard R, O’Shaughnessy J, Vukelja S, et al: Detailed analysis of a randomized phase III trial: Can the tolerability of capecitabine plus docetaxel be improved without compromising its survival advantage? Ann Oncol 17:1379-1385, 2006 29. Saif MW, Katirtzoglou NA, Syrigos KN: Capecitabine: An overview of the side effects and their management. Anticancer Drugs 19:447-464, 2008 30. Yi M, Huo L, Koenig KB, et al: Which threshold for ER positivity? A retrospective study based on 9639 patients. Ann Oncol 25:1004-1011, 2014 31. vanMackelenberg M, Seither F, Möbus V, et al: Effects of capecitabine as part of neo-/adjuvant chemotherapy. A meta-analysis of individual patient data from 12 randomized trials including 15,457 patients. Presented at the 2019 San Antonio Breast Cancer Symposium, San Antonio, TX, December 10–14, 2019 (abstr GS1-07) 
+
+n n n 
+
+Journal of Clinical Oncology 
+
+11 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Adjuvant Capecitabine With Docetaxel and Cyclophosphamide Plus Epirubicin for Triple-Negative Breast Cancer (CBCSG010): An Open-Label, Randomized, Multicenter, Phase III Trial The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/journal/jco/site/ifc. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Binghe Xu Speakers’ Bureau: AstraZeneca, Pﬁzer, Roche, Eisai Research Funding: Jiangsu Hengrui Medicine Co, Ltd (Inst) No other potential conﬂicts of interest were reported. 
+
+© 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Capecitabine for Triple-Negative Breast Cancer 
+
+APPENDIX 
+
+100 
+
+DFS (%) 
+
+80 
+
+60 
+
+40 
+
+20 
+
+Log-rank P = .044 
+
+T-FEC 
+
+HR, 0.66; 95% CI, 0.44 to 0.99) 
+
+XT-XEC 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+Time (months) No. at risk: T-FEC 
+
+276 
+
+264 
+
+245 
+
+228 
+
+214 
+
+200 
+
+XT-XEC 
+
+288 
+
+281 
+
+263 
+
+252 
+
+246 
+
+236 
+
+FIG A1. Kaplan-Meier estimates of 5-year disease-free survival (DFS) per-protocol set population (n 5 564). HR, hazard ratio; T-FEC, 3 cycles of docetaxel followed by 3 cycles of ﬂuorouracil, epirubicin, and cyclophosphamide; XT-XEC, 3 cycles of capecitabine plus docetaxel followed by 3 cycles of capecitabine, epirubicin, and cyclophosphamide. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Li et al 
+
+TABLE A1. Recruitment by Institution Institution 
+
+No. of Randomly Assigned Patients 
+
+Fudan University Shanghai Cancer Center 
+
+112 
+
+The Third Afﬁliated Hospital of Harbin Medical University 
+
+30 
+
+Jilin Cancer Hospital and Institute 
+
+34 
+
+Southwest Hospital 
+
+31 
+
+Gansu Cancer Hospital 
+
+31 
+
+The Fourth Clinical Medical College of Hebei Medical University 
+
+26 
+
+The First Afﬁliated Hospital, Zhejiang University 
+
+23 
+
+Changhai Hospital of Shanghai 
+
+22 
+
+Cancer Hospital of Shantou Medical College 
+
+20 
+
+The Third Afﬁliated Hospital of Nanchang University 
+
+14 
+
+The International Peace Maternity and Child Health Hospital of China Welfare Institute 
+
+20 
+
+Henan Cancer Hospital Afﬁliated to Zhengzhou University 
+
+20 
+
+The Second Afﬁliated Hospital of Medical College of Xi’An Jiaotong University 
+
+20 
+
+The First Afﬁliated Hospital of Chongqing Medical University 
+
+16 
+
+Shanxi Cancer Hospital 
+
+17 
+
+Eastern Hospital of Suzhou Municipal Hospital 
+
+16 
+
+Guangdong Provincial Hospital of Traditional Chinese Medicine 
+
+16 
+
+Beijing Friendship Hospital 
+
+8 
+
+Jiangsu Cancer Hospital 
+
+13 
+
+The First Hospital of Wenzhou Medical College 
+
+12 
+
+The First Hospital of Jilin University 
+
+13 
+
+The Second Afﬁliated Hospital of Soochow University 
+
+10 
+
+Tianjin Medical University Cancer Institute and Hospital 
+
+10 
+
+The General Hospital of the People’s Liberation Army 
+
+7 
+
+Zhongshan Hospital Fudan University 
+
+7 
+
+Jiangsu Province Hospital 
+
+8 
+
+The Second Afﬁliated Hospital of Harbin Medical University 
+
+6 
+
+The First Hospital of China Medical University 
+
+5 
+
+The Second Afﬁliated Hospital of Zhongshan University 
+
+4 
+
+Xinjiang Cancer Hospital 
+
+3 
+
+Shanghai Sixth People’s Hospital 
+
+2 
+
+Cancer Institute and Hospital Chinese Academy of Medical Sciences 
+
+3 
+
+Shanghai First Maternity and Infant Hospital Corporation 
+
+3 
+
+Shanghai General Hospital 
+
+2 
+
+Peking Union Medical College Hospital 
+
+1 
+
+© 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 193.202.83.143 on April 10, 2020 from 193.202.083.143 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+ 

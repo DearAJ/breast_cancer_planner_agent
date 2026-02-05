@@ -1,0 +1,329 @@
+ORIGINAL ARTICLE 
+
+Pathologic complete response (pCR) to neoadjuvant treatment with or without atezolizumab in triple-negative, early high-risk and locally advanced breast cancer: NeoTRIP Michelangelo randomized study5 L. Gianni1*, C. S. Huang2, D. Egle3, B. Bermejo4, C. Zamagni5, M. Thill6, A. Anton7, S. Zambelli8, G. Bianchini8, S. Russo9, E. M. Ciruelos10, R. Greil11,12,13, V. Semiglazov14, M. Colleoni15, C. Kelly16, G. Mariani17, L. Del Mastro18,19, I. Maffeis1, P. Valagussa1 & G. Viale15,20 1 
+
+Fondazione Michelangelo, Milan, Italy; 2National Taiwan University Hospital and Taiwan Breast Cancer Consortium, Taipei, Taiwan; 3Department of Gynecology, Brust Gesundheit Zentrum Tirol, Medical University Innsbruck, Innsbruck, Austria; 4Hospital Clinico Universitario, Valencia, Spain; 5Addarii Medical Oncology IRCCS Azienda Ospedaliero-Universitaria di Bologna, Bologna, Italy; 6Agaplesion Markus Krankenhaus, Frankfurt am Main, Germany; 7Hospital Universitario Miguel Servet, Zaragoza, Spain; 8San Raffaele Hospital, Milano; 9Department of Oncology, Azienda Sanitaria Universitaria Friuli Centrale, Udine, Italy; 10Hospital Universitario 12 de Octubre, Madrid, Spain; 113rd Medical Department, Paracelsus Medical University Salzburg, Salzburg; 12Salzburg Cancer Research Institute-CCCIT, Salzburg; 13Cancer Cluster Salzburg, Salzburg, Austria; 14NN Petrov Research Institute of Oncology, St. Petersburg, Russia; 15IEO, Istituto Europeo di Oncologia, IRCCS, Milan, Italy; 16Trinity St James’s Cancer Institute, St James’s Hospital, Cancer Trial, Dublin, Ireland; 17Istituto Nazionale Tumori, Milan, Italy; 18IRCCS Ospedale Policlinico San Martino, UO Breast Unit, Genoa; 19Università di Genova, Dipartimento di Medicina Interna e Specialità Mediche (Di.M.I.), Genoa; 20University of Milan, Milan, Italy 
+
+Available online 17 February 2022 
+
+Background: High-risk triple-negative breast cancers (TNBCs) are characterized by poor prognosis, rapid progression to metastatic stage and onset of resistance to chemotherapy, thus representing an area in need of new therapeutic approaches. Programmed death-ligand 1 (PD-L1) expression is an adaptive mechanism of tumour resistance to tumour-inﬁltrating lymphocytes, which in turn are needed for response to chemotherapy. Overall, available data support the concept that blockade of PD-L1/programmed cell death protein 1 checkpoint may improve efﬁcacy of classical chemotherapy. Patients and methods: Two hundred and eighty patients with TNBC were enrolled in this multicentre study (NCT002620280) and randomized to neoadjuvant carboplatin area under the curve 2 and nab-paclitaxel 125 mg/m2 intravenously (i.v.) on days 1 and 8, without (n ¼ 142) or with (n ¼ 138) atezolizumab 1200 mg i.v. on day 1. Both regimens were given q3 weeks for eight cycles before surgery followed by four cycles of an adjuvant anthracycline regimen. The primary aim of the study was to compare event-free survival (EFS), and an important secondary aim was the rate of pathological complete response (pCR deﬁned as the absence of invasive cells in breast and lymph nodes). The primary population for all efﬁcacy endpoints is the intention-to-treat (ITT) population. Results: The ITT analysis revealed that pCR rate after treatment with atezolizumab (48.6%) did not reach statistical signiﬁcance compared to no atezolizumab [44.4%: odds ratio (OR) 1.18; 95% conﬁdence interval 0.74-1.89; P ¼ 0.48]. Treatment-related adverse events were similar with either regimen except for a signiﬁcantly higher overall incidence of serious adverse events and liver transaminase abnormalities with atezolizumab. Conclusions: The addition of atezolizumab to nab-paclitaxel and carboplatin did not signiﬁcantly increase the rate of pCR in women with TNBC. In multivariate analysis, the presence of PD-L1 expression was the most signiﬁcant factor inﬂuencing the rate of pCR (OR 2.08). Continuing follow-up for the EFS is ongoing, and molecular studies are under way. Key words: neoadjuvant therapy, triple-negative breast cancer, atezolizumab 
+
+INTRODUCTION *Correspondence to: Dr Luca Gianni, Fondazione Michelangelo, Via Agostino Bertani 14, 20154 Milano, Italy E-mail: luca.gianni@fondazionemichelangelo.org (L. Gianni). 5 Note: This study was previously presented in part at the San Antonio Breast Cancer Symposium, 12 December 2019. 0923-7534/© 2022 European Society for Medical Oncology. Published by Elsevier Ltd. All rights reserved. 
+
+534 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+Triple-negative breast cancers (TNBCs) of high proliferation or grade are a subgroup characterized by very poor prognosis, rapid progression to metastatic stage and rapid onset of resistance to chemotherapy after initial response. TNBC represents a speciﬁc area of medical need, in which new therapeutic approaches deserve appropriate test. This is particularly true for the initial presentation as early high-risk Volume 33 - Issue 5 - 2022 
+
+L. Gianni et al. 
+
+(T1c-T2 N1) and locally advanced breast cancer, including cases of inﬂammatory breast cancer. Emerging evidence shows that many breast cancers with triple-negative and basal-like features have inﬁltration by mononuclear cells and lymphocytes. Retrospective analysis also shows that the highest level of inﬁltration is associated with higher probability of programmed death-ligand 1 (PDL1) expression, and with likelihood of tumour eradication in neoadjuvant treatment programmes with chemotherapy.1-3 These data suggest that a subset of patients have an ongoing immune response within the tumour microenvironment, and that PD-L1 expression is an adaptive method of tumour resistance to tumour-inﬁltrating lymphocytes (TILs), which in turn are needed for response to chemotherapy. Blockade of immune checkpoints may synergize with chemotherapy and improve patient outcome. Atezolizumab (Tecentriq®; Roche Pharma AG, GrewzachWyhlen, Germany) is a humanized monoclonal antibody containing an engineered Fc domain to optimize efﬁcacy and safety that targets PD-L1 and blocks binding of its receptors, including programmed cell death protein 1 (PD-1) and B7.1. In a phase I and expansion cohorts’ study, no dose limiting or maximum tolerated dose was reached up to 20 mg/kg in patients with advanced metastatic solid tumours.4 Hepatitis, rash and colitis were the relevant toxicities observed in the phase I study. None of the patients developed pneumonitis. No consensus exists so far on the best effective chemotherapy regimen for high-risk early TNBC, in particular about the role of platinum agents. These compounds have emerged as drugs of interest for the treatment of this breast cancer subtype. Platinum analogues cause doublestranded DNA breaks. As single agents, they have limited efﬁcacy in unselected metastatic TNBC5 but greater activity has been seen in BRCA1/2 mutation carriers. BRCA1/2mutated and sporadic TNBC have similar biologic characteristics and messenger RNA gene expression patterns, motivating further study of platinum salts in this subtype. Although carboplatin and cisplatin seem to have similar efﬁcacy in solid tumours, when given in association with taxane, carboplatin produced signiﬁcantly less nausea and vomiting (P < 0.01) and less peripheral neurotoxicity (P ¼ 0.04).6 Abraxane® (Celgene Netherlands II B.V., Utrecht, The Netherlands) (nab-paclitaxel) is a formulation of paclitaxel in nanoparticles of albumin that has increased antitumour activity in breast cancer, and is characterized by improved pharmacokinetics. In view of the lack of cremophor in the formulation, Abraxane® does not require pre-medication with cortisone and H1 and H2 blockers as the commonly formulated paclitaxel does. Given the growing role attributable to lymphocyte activation and function in the treatment of solid tumours, the availability of active paclitaxel without the need for administration of immunosuppressant steroids is very attractive for combination with immunomodulatory drugs such as atezolizumab. The dose selected for the combination of carboplatin [area under the curve (AUC) 2, days 1 and 8 every 3 weeks] and Abraxane® 125 mg/m2 (days 1 and 8 every 3 weeks) Volume 33 - Issue 5 - 2022 
+
+Annals of Oncology proved to be safe and effective in a phase II trial in metastatic TNBC.7 A similar regimen (carboplatin and Abraxane® alone) given pre-operatively in human epidermal growth factor receptor 2 (HER2)-negative breast cancer achieved a pathological complete response (pCR) rate of 29%.8 PATIENTS AND METHODS Study design and patients NeoTRIP is a multicentre open-label study (NCT002620280) in which a total of 280 patients with TNBC were randomized to neoadjuvant carboplatin AUC 2 and nab-paclitaxel 125 mg/m2 intravenously (i.v.) on days 1 and 8, without (142 patients) or with (138 patients) atezolizumab 1200 mg i.v. on day 1. Both regimens were given every 3 weeks for eight cycles and were followed by surgery and by four cycles of an anthracycline regimen as per investigator’s choice. Patients were eligible if they had a previously untreated histologically conﬁrmed unilateral breast cancer with invasive ductal histology not otherwise speciﬁed of high proliferation or grade, HER2 negative and estrogen and progesterone receptor negative. A central histology assessment of core biopsies for hormone receptor and HER2 status and determination of PD-L1 expression immune cell (IC) testing was mandatory. PD-L1 expression was measured with the VENTANA SP142 assay (Ventana Medical Systems, Inc.; Roche Tissue Diagnostics, an Afﬁliate of Roche, Tucson, AZ). Patients had to be aged 18 years or older with an Eastern Cooperative Oncology Group performance status 1. The tumour had to be classiﬁed as early high risk (T1cN1; T2N1; T3N0) versus locally advanced (T3N1; T4a, b, c; T4d any N; any T and N2-3). Key exclusion criteria were metastatic disease (stage IV), bilateral breast cancer, other malignancies, inadequate bone marrow or renal function, impaired liver function, impaired cardiac function, uncontrolled hypertension, pregnancy, refusal to use contraception and history of autoimmune disease. The study was undertaken in accordance with Good Clinical Practice guidelines and the Declaration of Helsinki. All patients provided written informed consent. Approvals for the study protocol (and any modiﬁcations thereof) were obtained from independent ethics committees at each participating institution and relevant competent authorities. Randomization and masking Randomization was done centrally via computer-generated blocks and stratiﬁcation was by geographical area, disease stage (early high risk versus locally advanced) and PD-L1 expression in IC testing [yes (IC 1þ, 2þ, 3þ) versus no (IC 0)]. The PD-L1 scoring was deﬁned as follows: IC 0 (IC <1%), IC 1þ (IC 1% and <5%) and IC 2þ/3þ (IC 5%). Participants and investigators were not masked to treatment assignment. Treatment and procedures Patients were randomized to neoadjuvant carboplatin AUC 2 and nab-paclitaxel 125 mg/m2 i.v. on days 1 and 8, https://doi.org/10.1016/j.annonc.2022.02.004 
+
+535 
+
+L. Gianni et al. 
+
+Annals of Oncology without (142 patients) or with (138 patients) atezolizumab 1200 mg i.v. on day 1. Both regimens were given every 3 weeks for eight cycles and were followed by surgery. In the presence of severe toxicity, investigators decided whether to discontinue neoadjuvant therapy and carry out surgery immediately. After neoadjuvant chemotherapy and surgery, patients were planned to receive four cycles of an anthracycline regimen as per investigator’s choice. Post-surgery irradiation was recommended in all patients subjected to breast-conserving surgery and in selected patients who had undergone mastectomy in accordance with international and local guidelines. During neoadjuvant therapy, physical, haematological and biochemistry examinations were carried out before each treatment cycle and repeated before surgery. Clinical response in breast and nodes was assessed before surgery and was deﬁned by modiﬁed RECIST criteria. Toxicity reported adverse events were categorized according to the National Cancer Institute (NCI)-Common Terminology Criteria for Adverse Events (CTCAE) version 4.0. After neoadjuvant chemotherapy, patients underwent surgery and pCR was assessed by local pathologist according to provided guidelines requiring examination on serial sections of the surgical specimen. Assessments The primary aim of the study was to compare event-free survival (EFS) 5 years after randomization of the last patient. An important secondary aim was the rate of pCR (deﬁned as the absence of invasive tumour cells in breast and lymph nodes). Other endpoints were clinical overall response at the end of neoadjuvant therapy and tolerability of the treatment regimens in the different study arms. In addition, biological samples will be collected during the study to conduct molecular and clinical analyses to assess the presence of prognostic and/or predictive markers of beneﬁt and/or resistance to the study regimens. Statistical analysis The sample size calculation was based on the comparison of the primary parameter EFS between the two treatment groups, by a log-rank test in the context of a groupsequential design. From prior experience,9 it is assumed that the 5-year EFS is 57%. A clinically meaningful improvement by the addition of the anti-PD-L1 would be to increase the 5-year EFS to 72%, corresponding to a hazard ratio of 0.584. Assuming 5 years of follow-up from the last randomized patient and a total study duration of 7 years, a minimum of 272 patients (136 per treatment group) and the occurrence of 110 events were required to achieve 80% power at a two-sided overall signiﬁcance level of 5% to detect a hazard ratio of the above magnitude. An interim efﬁcacy analysis is planned at the occurrence of 70% of total 110 events (i.e. 77 events) expected at w4.8 years from randomization of the ﬁrst patient. The primary population for all efﬁcacy endpoints is the intention-to-treat (ITT) population and no patient was 536 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+removed from the ITT population after central conﬁrmation of eligibility. The per-protocol population (PPP) is deﬁned as all ITT patients who completed the scheduled courses of neoadjuvant treatment, unless they experienced an event included in the primary endpoint deﬁnition. Further criteria for the inclusion in the PPP are the absence of any of the following major protocol violations such as actual treatment different from the randomized one, surgery not carried out for any reason and use of protocol-prohibited medications. The safety population is deﬁned as all randomized patients who received at least one dose of either regimen. Toxicity reported adverse events will be categorized according to the NCI-CTCAE version 4.0. Data on adverse events will be collected throughout the whole treatment period and will be analysed according to the worst grade reported. The trial is registered with ClinicalTrials.gov, number NCT002620280. RESULTS Patient characteristics Between May 2016 and December 2018, 363 patients were registered to the study. Two hundred and eighty patients met central conﬁrmation of eligibility and were randomly allocated to receive either atezolizumab (138) or not (142). All patients were assessed on an ITT basis for efﬁcacy, regardless of whether they started neoadjuvant treatment (Consolidated Standards of Reporting Trials diagram shown in Figure 1). The main characteristics of the patients are listed in Table 1. Many patients had clinical T2 tumours (49%) and 88% had positive axillary nodes. Median age was 50 years (range 24-79 years). Disease stage was locally advanced in 49% of the patients and PD-L1 expression was positive in 56% of the tumours. Of note, 23 randomized patients did not complete the planned therapy for a variety of reasons (Figure 1), leaving 257 patients in the PPP. Pathological complete response The comparison of pCR between atezolizumab and no atezolizumab is reported in Table 2. The improved rate of pathological complete response after atezolizumab failed to reach statistical signiﬁcance (P ¼ 0.48). As detailed in Figure 2, atezolizumab achieved a marginally numerically improved pCR rate in all patient subgroups, except the subgroup of tumours not expressing PD-L1. The multivariate analysis including treatment, PD-L1 expression and disease stage documented that PD-L1 expression was the most signiﬁcant factor inﬂuencing treatment outcome (odds ratio 2.08, P < 0.0001) favouring PD-L1-positive tumours (Table 3). Response and PD-L1 expression at diagnostic biopsy The expression of PD-L1 was a stratiﬁcation factor of the study. We therefore carried out an analysis of pCR according to PD-L1 status. In addition to the conventional threshold of Volume 33 - Issue 5 - 2022 
+
+L. Gianni et al. 
+
+Annals of Oncology 
+
+Total number of patients screened: 363 Total number eligible and randomized: 280 
+
+138 allocated to atezolizumab 138 received atezolizumab 
+
+142 allocated to no atezolizumab 140 received treatment 
+
+138 started treatment 3 failed eligibility 2 withdrew consent 1 continued with a different therapy 1 died of unknown causes 5 did not undergo surgery in the absence of disease progression 
+
+140 started treatment 3 failed eligibility 5 withdrew consent 3 did not undergo surgery in the absence of disease progression 
+
+Assessed per intention-to-treat analysis 138 patients 
+
+Assessed per intention-to-treat analysis 142 patients 
+
+Figure 1. Consolidated Standards of Reporting Trials (CONSORT) diagram of the NeoTRIP study. 
+
+PD-L1 positivity set at 1%, we also considered a categorical assessment within the PD-L1-positive group (IC 1þ and IC 2þ/3þ). As illustrated in Table 4, the addition of atezolizumab led to a numerical increase of 7.6% of the pCR rate in PD-L1-positive disease. In the ITT population, the pCR 
+
+Table 1. Patient demographics and clinical characteristics Characteristics 
+
+Total patients % (n [ 280) n 
+
+Atezo % No atezo % (n [ 138) (n [ 142) n n 
+
+Disease stage Early high risk 142 51 69 50 73 51 Locally advanced 138 49 69 50 69 49 PD-L1 expression Negative (IC 0) 124 44 59 43 65 46 Positive 156 56 79 57 77 54 IC 1þ 102 36 51 37 51 36 IC 2þ/3þ 54 19 28 20 26 18 Other clinical characteristics Median age, 50 (24-79) 49.5 (25-79) 50 (24-77) (range), years cT stage 1c 21 7.5 13 9 8 6 2 136 49 61 44 75 53 3 88 31 47 34 41 29 4a-d 35 12.5 17 12 18 13 cN stage 0 37 13 18 13 19 13 1 164 59 85 62 79 56 2 38 14 16 12 22 15.5 3 41 15 19 14 22 15.5 The PD-L1 scoring was deﬁned as follows: IC 0 (IC <1%), IC 1þ (IC 1% and <5%) and IC 2þ/3þ (IC 5%). Atezo, atezolizumab; cN, clinical N (nodes); cT, clinical T (tumor); IC, immune cell; PDL1, programmed death-ligand 1. 
+
+Volume 33 - Issue 5 - 2022 
+
+rate was signiﬁcantly higher in PD-L1 positive than in PD-L1 negative only in the arm of treatment containing atezolizumab, although a numerical trend was also present in the control arm. The signiﬁcantly higher rate of pCR with atezolizumab was present at any level of PD-L1 expression (IC 1þ and IC 2þ/3þ). The association was even more pronounced in the PPP (Supplementary Tables S1-S3, available at https://doi.org/10.1016/j.annonc.2022.02.004), in which patients were excluded from analysis if they did not receive the planned therapy or were not assessable for any reason. Given the observed association between pCR rate and PDL1 expression, it is of note the imbalance of expression in cases who were not evaluated and were included in the ITT analysis reported in Table 4 [8 of 11 patients had no PD-L1 expression (IC 0) in the group randomized to atezolizumab, while only 2 of 11 were IC 0 in the control arm without atezolizumab]. These cases were included in the ITT analysis and may have contributed in diluting the increased pCR rate achieved with atezolizumab in the PD-L1-positive group. 
+
+Table 2. Pathological complete response 
+
+pCR 95% CI for pCR rate Crude absolute difference in pCR rate (95% CI) OR P value 
+
+Atezo (n [ 138) 
+
+No atezo (n [ 142) 
+
+n 
+
+% 
+
+n 
+
+% 
+
+48.6 40.0-57.2 4.2 (7.4 to 15.6) 
+
+63 
+
+44.4 36.0-52.9 
+
+67 
+
+1.18 (0.74-1.89) 0.48 
+
+Atezo, atezolizumab; CI, conﬁdence interval; OR, odds ratio; pCR, pathological complete response. 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+537 
+
+L. Gianni et al. 
+
+Annals of Oncology Subgroup analysis: pCR rate Category 
+
+Subgroup 
+
+Number of patients 
+
+OR (95% CI) 
+
+Overall 
+
+280 
+
+1.18 (0.74-1.89) 
+
+Early high-risk 
+
+142 
+
+1.24 (0.64-2.41) 
+
+Locally advanced 
+
+138 
+
+1.12 (0.58-2.19) 
+
+156 
+
+1.36 (0.72-2.56) 
+
+81 
+
+1.74 (0.72-4.19) 
+
+75 
+
+1.03 (0.41-2.56) 
+
+124 
+
+0.94 (0.45-1.96) 
+
+Early high-risk 
+
+61 
+
+0.77 (0.27-2.18) 
+
+Locally advanced 
+
+63 
+
+1.15 (0.40-3.32) 
+
+Stage 
+
+PD-L1 Positive expression Early high-risk Locally advanced Negative 
+
+0.0 
+
+0.5 
+
+1.0 
+
+Favors no atezo 
+
+1.5 
+
+2.0 
+
+2.5 
+
+4.0 
+
+Favors atezo 
+
+Figure 2. Subgroup analysis of pathological complete response (pCR) rate. Atezo, atezolizumab; CI, conﬁdence interval; OR, odds ratio; PD-L1, programmed death-ligand 1. 
+
+Clinical overall response Clinical response in either treatment arms was assessed before surgery. As for pathological remission, no statistically signiﬁcant difference was observed in the objective response rate after atezolizumab [80.4%, 95% conﬁdence interval (CI) 72.8% to 86.7%] compared to no atezolizumab (76.1%, 95% CI 68.2% to 82.8%). Disease progression while on treatment was documented in 8 patients (5.8%) with the atezolizumab regimen (locoregional 4, distant 4) and in 13 patients (9.2%) in the no atezolizumab arm (locoregional 7, distant 6). 
+
+Adverse events The safety population includes all patients who received at least one dose of either regimen (atezolizumab 138 patients, no atezolizumab 140 patients), with attribution of adverse effect classiﬁed according to the administered treatment. An equal number of patients (35 patients or 25% in each of the two regimens) discontinued neoadjuvant treatment mainly because of adverse events and the median number of cycles before discontinuation was 6 (range 1-7). 
+
+Table 3. Multivariate analysis of pCR Variable 
+
+Effect 
+
+Odds ratio (95% CI) 
+
+P value 
+
+Treatment PD-L1 expression Disease stage 
+
+Atezo versus no atezo Positive versus negative Early high risk versus locally advanced 
+
+1.11 (0.88-1.40) 2.08 (1.64-2.65) 0.84 (0.66-1.06) 
+
+0.39 <0.0001 0.14 
+
+Atezo, atezolizumab; CI, conﬁdence interval; pCR, pathological complete response; PD-L1, programmed death-ligand 1. 
+
+538 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+During treatment, overall, 98% of patients treated with atezolizumab had at least one drug-related adverse event as compared to 99% of those who did not receive atezolizumab. Drug-related adverse events of grade 3 were 77.5% and 70%, respectively, and serious adverse events were 18% and 6%, respectively (P ¼ 0.001). Table 5 reports the frequency of selected adverse events. Neutropenia was the most frequently reported adverse event and more common at any grade and at grades 3 (49% for atezolizumab and 54% in the no atezolizumab arm). Abnormal liver transaminases were more frequently reported in the atezolizumab arm compared to the no atezolizumab arm, both at any grade (38% versus 18%, P ¼ 0.001) and at grade 3 (8% versus 1%, P ¼ 0.003). One patient in the atezolizumab arm was reported to have died from unknown causes during treatment. DISCUSSION In NeoTRIP, the addition of atezolizumab to neoadjuvant chemotherapy with carboplatin and nab-paclitaxel for eight cycles led to a numerical, non-statistically signiﬁcant increase of 4.2% of the pCR rate in women with high-risk TNBC, and to an increase of 7.6% in the subgroup with PD-L1-positive disease. We also found that the rate of pCR was higher for tumours expressing PD-L1 than for PD-L1negative cases, and the effect was prevalent and statistically signiﬁcant in the presence of atezolizumab except for tumours with the highest expression of the checkpoint receptor. The administration of atezolizumab correlated with immune side-effects as expected from previous experience with the immune checkpoint inhibitor (ICI).10 Other trials have reported results on the addition of ICIs to neoadjuvant chemotherapy in women with high-risk Volume 33 - Issue 5 - 2022 
+
+L. Gianni et al. 
+
+Annals of Oncology 
+
+Table 4. PD-L1, IC score and pCR (ITT population) Atezo 
+
+No atezo 
+
+pCR% 
+
+OR (95% CI) 
+
+pCR% 
+
+OR (95% CI) 
+
+PD-L1 positive versus negative 
+
+59.5 versus 33.9 
+
+51.9 versus 35.4 
+
+IC 1þ versus IC 0 
+
+52.9 versus 33.9 
+
+IC 2þ/3þ versus IC 0 
+
+71.4 versus 33.9 
+
+2.86 (1.42-5.78) P ¼ 0.03 2.19 (1.02-4.74) P ¼ 0.044 4.87 (1.83-13.01) P ¼ 0.001 
+
+1.55 (0.8-3.0) P ¼ 0.18 1.38 (0.65-2.94) P ¼ 0.40 4.11 (1.55-10.9) P ¼ 0.003 
+
+43.1 versus 35.4 69.2 versus 35.4 
+
+The PD-L1 scoring was deﬁned as follows: IC 0 (IC <1%), IC 1þ (IC 1% and <5%) and IC 2þ/3þ (IC 5%). Atezo, atezolizumab; CI, conﬁdence interval; IC, immune cell; ITT, intention-to-treat; OR, odds ratio; pCR, pathological complete response; PD-L1, programmed death-ligand 1. 
+
+TNBC. In IMpassion031, atezolizumab increased pCR from 41% to 58% when added to sequential chemotherapy with nab-paclitaxel for 12 weeks followed by doxorubicin and cyclophosphamide for ﬁve cycles.10 Of interest, in that trial, the improved pCR rate with atezolizumab was independent of PD-L1 expression of the tumour, a ﬁnding different from the observation we report in NeoTRIP, and at odds with the results in women with metastatic TNBC, in whom beneﬁt from atezolizumab with nab-paclitaxel was restricted to PDL1-positive tumours.11 In the KEYNOTE-522 study of neoadjuvant carboplatin/paclitaxel followed by an anthracycline regimen, the addition of the PD-1-directed pembrolizumab was associated with a signiﬁcantly higher rate of pCR by 13.8% in the planned analysis of the ﬁrst 602 patients,12 although the difference in favour of pembrolizumab dropped to 7.4% when all patients enrolled into trial were considered.13 No data are available as to a possible different sensitivity to pembrolizumab based on PD-L1 expression, which is assessed with different reagents and different scoring than for atezolizumab. 
+
+The non-signiﬁcant difference of pCR between arms in NeoTRIP calls for some consideration. The neoadjuvant studies considered above have different patient populations. In NeoTRIP, 49% of patients had locally advanced disease, while in IMpassion031 and KEYNOTE-522, w75% had stage II and 25% had stage III disease.10,12 The patients enrolled into NeoTRIP were therefore at higher conventionally deﬁned risk than in the two other phase III trials of neoadjuvant ICIs. However, disease stage should have had no inﬂuence on the probability of measuring a different pCR rate in a randomized trial. Indeed, the 16% higher rate reported in IMpassion031 is almost four times higher than the numerical increase we report here with atezolizumab (4.2%). Another relevant difference in the ﬁndings so far collected in NeoTRIP is that PD-L1-positive cases had a higher probability of pCR than PD-L1-negative tumours irrespective of the use of atezolizumab, as also shown in multivariate analysis. This is different from the ﬁndings of IMpassion031 and KEYNOTE-522 trials, in which the relative increase of pCR with the ICI was similar independently of 
+
+Table 5. Frequency of treatment emergent adverse events Atezo (n [ 138) 
+
+No atezo (n [ 140) 
+
+Atezo (n [ 138) 
+
+Immune-mediated and infusion reactions Infusion reactions 8 Hypothyroidism 6 Thyroiditis 1.5 Hyperthyroidism 1 Colitis 1.5 Pancreatitis 1.5 3 Othersa Other selected adverse events (incidence 15%) Neutropenia 62 Nausea 45 Thrombocytopenia 41 Abnormal liver transaminases 38* Fatigue 36 Peripheral neuropathy 36 Anaemia 34 Vomiting 29 Leukopenia 19 Diarrhoea 17 Asthenia 12 
+
+No atezo (n [ 140) 
+
+Grade 3, % 
+
+Any grade, % 6 1 d d d d d 
+
+1 d d d 1 1.5 1 
+
+1 d d d d d d 
+
+71 50 40 18* 34 34 34 24 24 18 19 
+
+49 d 7 8** 1.5 1 4 2 4 1.5 1.5 
+
+54 1 9 1** 1 4 3 d 5 d 2 
+
+Atezo, atezolizumab. a Hepatitis 1, interstitial nephritis 1, Coombs positive haemolytic anaemia 1, thrombotic thrombocytopenic purpura 1. * P ¼ 0.001. ** P ¼ 0.003. 
+
+Volume 33 - Issue 5 - 2022 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+539 
+
+L. Gianni et al. 
+
+Annals of Oncology PD-L1 status. It is possible that very high expression of PDL1 reﬂects high tumour inﬁltration by ICs that cooperates with chemotherapy irrespective of atezolizumab, while at lower expression the antibody plays a different immunemodulatory role. The PD-L1 assay and score adopted in NeoTRIP and in IMpassion031 are the same, but subgroups of IC score are not available for IMpassion031, and this makes it even more difﬁcult to reconcile the discrepant ﬁndings in the two studies. Another relevant difference among trials is that IMpassion031 and KEYNOTE-522 adopted sequential neoadjuvant regimens including an anthracycline combination, while NeoTRIP used an anthracycline-free neoadjuvant regimen. Anthracyclines induce potent immunogenic cell death that may increase the likelihood of response of PD-L1-negative tumours,14 in which the immune priming phase is dysfunctional.15 The hypothesis of a possible role of the immune-modulatory qualities of anthracyclines on the probability of pCR is not in line with the reported ﬁndings of GeparNuevo.16 In that phase II neoadjuvant trial, the addition of the anti-PD-L1 durvalumab did not lead to a signiﬁcant increase of pCR despite the presence of four cycles of anthracyclines in the adopted sequential chemotherapy regimen.16 Of interest, in NeoTRIP, we stratiﬁed and balanced for PDL1 expression, but we also noticed an imbalance for TILs, with more tumours with higher TILs in the chemotherapyonly arm.17 Given that TILs are also positively correlated with likelihood of pCR, the imbalance may have inﬂuenced the results by leading to a higher pCR rate with chemotherapy without ICI. Another note of caution around the pertinence of pCR as surrogate endpoint of long-term beneﬁt comes from recent reports showing that EFS was dramatically improved by neoadjuvant ICIs in KEYNOTE-522 despite the modest increase of pCR and including in patients who did not obtain pCR18 and in GeparNuevo despite the modest numerical and not signiﬁcant increase of pCR rate with durvalumab.19 The reports support the notion that pCR may not be the most appropriate surrogate endpoint to measure the role of ICIs in the neoadjuvant settings for TNBC. In NeoTRIP, administration of atezolizumab was feasible without emergence of limiting immune toxicity, which was most frequently characterized by effects on thyroid function as already known and reported for the drug in women with breast cancer as well as in other indications.20 Without data on long-term efﬁcacy, an appropriate balance between tolerability and beneﬁt cannot be assessed. In summary, the present analysis of NeoTRIP shows that atezolizumab with nab-paclitaxel and carboplatin was feasible but did not improve the antitumour activity of chemotherapy measured as clinical response and as pCR rate in women with TNBC. However, the primary endpoint of NeoTRIP is EFS, and the lack of pCR improvement may be misleading as to the impact of atezolizumab on efﬁcacy and survival in high-risk TNBC. The introduction of ICIs has changed the landscape of treatment options in an ever-growing number of oncology 540 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+indications and is rapidly moving to set new standards of therapy for TNBC in early disease18 as it has already done in the metastatic setting.21,22 The current report of NeoTRIP is a contribution to the ongoing understanding on the use of ICIs in TNBC and underscores the need for dependable predictors of activity and efﬁcacy of ICI. The follow-up of the study and the analysis and molecular characterization of the vast collection of tumour and blood specimens in NeoTRIP is ongoing and will provide an additional contribution. ACKNOWLEDGEMENTS We are indebted to all the patients who have participated in our clinical trial and to the many associates, in particular medical oncologists, surgeons, radiation therapists, pathologists, research nurses and data managers, for their cooperation during the study. We are particularly indebted to Raffaella De Fato and Simona Barlera, former biostatisticians, and to Irene Corradino, Alberto Berti, Mara Guardamagna and Rossella Vio from the Michelangelo Clinical Operations. FUNDING This work was supported by Fondazione Michelangelo and by unrestricted grants (no grant number) and free study drugs from Hoffman-La Roche (no grant number), Ltd, Switzerland and Celgene (no grant number), a Bristol Myers Squibb Company, Switzerland, This work has been also supported in part by a Breast Cancer Research Foundation grant to LG (no grant number). ROLE OF THE FUNDER The sponsor of the study is Fondazione Michelangelo, a non-proﬁt organization, who collaborated in the study design. Fondazione Michelangelo had no primary roles in the collection, analysis or interpretation of the data. Hoffman-La Roche, Ltd, and Celgene, had no role in the study design, or in the interpretation of the data or in writing the report. DISCLOSURE LG has received consulting fees from Novartis and Odonate Therapeutics; honoraria for lecture from Roche; support for attending meetings from Pﬁzer; is co-inventor of ‘European patent Application N. 12195182.6 and 12196177.5 titled PDL-1 expression in anti-HER2 therapy’dRochedIssued (no compensation provided); has served on Advisory Boards for Astra Zeneca, Celgene, Genentech, Merk Sharp & Dohme, Roche, Pﬁzer and Sanoﬁ Aventis; and is Chair of the Breast Cancer Research Committee of Fondazione Michelangelo. CSH has received research grants for his institution from Daiichi Sankyo, Astra Zeneca, EirGenix, Eli Lilly, MSD, OBI Pharma, Pﬁzer, Roche and Novartis; honoraria for speakers’ bureaus from Amgen, Astra Zeneca, Pﬁzer, Roche and Novartis; support for attending meetings from Astra Zeneca, Pﬁzer and Roche; and has served on Advisory Boards for Amgen, Astra Zeneca, Eli Lilly, Pﬁzer, Roche and Novartis. DE has received consulting fees from Astra Zeneca, Volume 33 - Issue 5 - 2022 
+
+L. Gianni et al. 
+
+Daichii Sankyo, Gilead, Novartis, MSD, Roche, Pﬁzer and Seagen; honoraria for lectures from Amgen, AstraZeneca, Daichii Sankyo, Novartis, MSD, Roche and Pﬁzer; and support for attending meetings from Pﬁzer and Roche. BB has received honoraria for speaker bureaus from MDS, Roche, Novartis, Pﬁzer, Palex, Astra Zeneca and Lilly; and has served on Advisory Boards for MSD, Roche and Daichii Sankyo. CZ has received grants from Eisai, Pharmamar, Eli Lilly, Celgene, MSD, GSK, Amgen and Daichii Sankyo and for him and his institution from Roche, Novartis, Astra Zeneca, Pﬁzer, Tesaro, Pierre Fabre, Ist. Gentili, Teva and Seagen; support for attending meetings from Roche, Novartis, Pﬁzer, Pharmamar, Tesaro, Pierre Fabre, Ist. Gentili and Celgene; has served on Advisory Boards for Roche, Eisai, Novartis, Astrazeneca, Pﬁzer, Pharmamar, Amgen, Tesaro, QuintilesIMS, Eli Lilly, Celgene, MSD, GSK and Daichii Sankyo; and has received other ﬁnancial and non-ﬁnancial interests from Roche, Novartis, Astra Zeneca, Pﬁzer, Amgen, Tesaro, QuintilesIMS, MSD, GSK and Daichii Sankyo. MT has received research grants from Roche and Exact Sciences; consulting fees from Amgen, AstraZeneca, Daiichi Sankyo, Eisai, Exact Sciences, Gilead Sciences, Lilly, MSD, Novartis, Pﬁzer, Roche and Seagen; honoraria for speakers’ bureaus from Amgen, AstraZeneca, Daiichi Sankyo, Eisai, Exact Sciences, Gilead Sciences, Lilly, MSD, Novartis, Pﬁzer, Roche, Seagen and VIfor; support for attending meetings from Amgen, AstraZeneca, Connect Medica, Daiichi Sankyo, Eisai, Exact Sciences, Hexal, I-Med-Institute, Lilly, MSD, Novartis, Pﬁzer, pfm Medical and Roche; has served on Advisory Board for Roche; is Chair of Board of Directors AWOgyn; and has received other services from Celgene. AA has received consulting fees from Daichii Sankyo, Roche, Pﬁzer and Bayer Spain; payment for expert testimony from Pﬁzer; has served on Advisory Boards for Lilly and Gilead; and has received other services from GSK. GB has received consulting fee from Roche, AstraZeneca, Novartis, MSD, Sanoﬁ, Daiichi Sankyo and Exact Science; honoraria for speakers’ bureaus from Roche, Pﬁzer, AstraZeneca, Lilly, Novartis, Neopharm Israel, MSD, Chugai, Daiichi Sankyo, EISAI and Exact Science; support for attending meetings from Roche, Pﬁzer and AstraZeneca; and has served on Advisory Board for Roche, Pﬁzer, Daiichi Sankyo, Lilly, MSD, Novartis, AstraZeneca, Genomic Health, EISAI, Gilead and Seagen. EMC has received consulting fee from Roche, Lilly, Astra Zeneca, Daiichi Sankyo, Novartis, Pﬁzer and MSD; honoraria for speakers’ bureaus from Lilly and Roche; and support for attending meetings from Pﬁzer and Roche. RG has received consulting fees from Celgene, Novartis, Roche, BMS, Takeda, Abbvie, Astra Zeneca, Jaanssen, MSD, Merk, Gilead, Daiichi Sankyo and Sanoﬁ; support for attending meetings from Roche, Amgen, Janssen, Astra Zeneca, Novartis, MSD, Celgene, Gilead, BMS, Abbvie and Daiichi Sankyo; has served on Advisory Boards for Celgene, Novartis, Roche, BMS, Takeda, Abbvie, Astra Zeneca, Jaanssen, MSD, Merk, Gilead, Daiichi Sankyo and Sanoﬁ; and has received other ﬁnancial or non-ﬁnancial interests from Celgene, Roche, Merk, Takeda, Astra Zeneca, Novartis, Amgen, BMS, MSD, Sandoz, Abbvie, Gilead and Daiichi Sankyo. MC has received Volume 33 - Issue 5 - 2022 
+
+Annals of Oncology research grant from Roche. CK has received grants from Mater Foundation and HRB Grant/Hospital Co investment and from Irish Cancer Society; honoraria for educational events from Exact Sciences, Astra Zeneca and Daiichi Sanyko; support for attending meetings from Roche; and has participated in Steering Committees for PALLAS trial, PenelopeB trial and Destiny Breast 11. LDM has received honoraria for speakers’ bureaus from Roche, Novartis, Eli Lilly, MDS, Pﬁzer, Ipsen and from Novartis for her institution; support for attending meetings from Roche, Pﬁzer and Celgene; and has served on Advisory Boards for Roche, Eli Lilly, Novartis, MSD, Genomic Health, Pierre Fabre, Daiichi Sanyko and Seagen. GV has received grants from Roche/ Genentech and Astra Zeneca for his institution; consulting fees from Roche/Genentech, Astra Zeneca, MDS Oncology and Daiichi Sanyko; honoraria for lectures from Roche/ Genentech, Astra Zeneca and Daiichi Sanyko; support for attending meetings from Roche/Genentech; and has served on Advisory Boards for Roche/Genentech, Astra Zeneca, Pﬁzer, MDS Oncology and Novartis. All other authors have declared no conﬂicts of interest. DATA SHARING Qualiﬁed researchers can address requests to the datasets generated during and/or analysed during the current study to the corresponding author or to segreteria@ fondazionemichelangelo.org and the request will be examined by the members of the Protocol Steering Committee. REFERENCES 1. Iwamoto T, Bianchini G, Booser D, et al. Gene pathways associated with prognosis and chemotherapy sensitivity in molecular subtypes of breast cancer. J Natl Cancer Inst. 2011;103(3):264-272. 2. Denkert C, Loibl S, Noske A, et al. Tumor-associated lymphocytes as an independent predictor of response to neoadjuvant chemotherapy in breast cancer. J Clin Oncol. 2010;28:105-113. 3. Callari M, Cappelletti V, D’Aiuto F, et al. Subtype-speciﬁc metagenebased prediction of outcome after neoadjuvant and adjuvant treatment in breast cancer. Clin Cancer Res. 2016;22(2):337-345. 4. Herbst RS, Soria JC, Kowanetz M, et al. Predictive correlates of response to the anti-PD-L1 antibody MPDL3280A in cancer patients. Nature. 2014;515:563-567. 5. Decatris MP, Sundar S, O’Byrne KJ. Platinum-based chemotherapy in metastatic breast cancer: current status. Cancer Treat Rev. 2004;30:5381. 6. Neijt JP, Engelholm SA, Tuxen MK, et al. Exploratory phase III study of paclitaxel and cisplatin versus paclitaxel and carboplatin in advanced ovarian cancer. J Clin Oncol. 2000;18:3084-3092. 7. Yardley DA, Coleman R, Conte P, et al. nab-Paclitaxel plus carboplatin or gemcitabine versus gemcitabine plus carboplatin as ﬁrst-line treatment of patients with triple-negative metastatic breast cancer: results from the TnAcity trial. Ann Oncol. 2018;29:1763-1770. 8. Connolly RM, Leal JP, Goetz MP, et al. TBCRC 008: early change in FFDG uptake on PET predicts response to preoperative systemic therapy in human epidermal growth factor receptor 2enegative primary operable breast cancer. J Nucl Med. 2015;56:31-37. 9. Gianni L, Eiermann W, Semiglazov V, et al. Neoadjuvant and adjuvant trastuzumab in patients with HER2-positive locally advanced breast cancer (NOAH): follow-up of a randomised controlled superiority trial with a parallel HER2-negative cohort. Lancet Oncol. 2014;15:640-647. 10. Mittendorf EA, Zhang H, Barrios CH, et al. Neoadjuvant atezolizumab in combination with sequential nab-paclitaxel and anthracycline-based 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+541 
+
+Annals of Oncology chemotherapy versus placebo and chemotherapy in patients with early-stage triple-negative breast cancer (IMpassion031): a randomised, double-blind, phase 3 trial. Lancet. 2020;396:1090-1100. 11. Schmid P, Adams S, Rugo HS, et al. Atezolizumab and nab-paclitaxel in advanced triple-negative breast cancer. N Engl J Med. 2018;379:21082121. 12. Schmid P, Cortes J, Pusztai L, et al. Pembrolizumab for early triplenegative breast cancer. N Engl J Med. 2020;382:810-821. 13. FDA. Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting April 27-29, 2021. 2021. Available at https://www.fda. gov/media/150755/download. Accessed September 21, 2021. 14. Galluzzi L, Humeau J, Buqué A, Zitvogel L, Kroemer G. Immunostimulation with chemotherapy in the era of immune checkpoint inhibitors. Nat Rev Clin Oncol. 2020;17:725-741. 15. Hegde PS, Chen DS. Top 10 challenges in cancer immunotherapy. Immunity. 2020;52:17-35. 16. Loibl S, Untch M, Burchardi N, et al. A randomised phase II study investigating durvalumab in addition to an anthracycline taxane-based neoadjuvant therapy in early triple-negative breast cancer: clinical results and biomarker analysis of GeparNuevo study. Ann Oncol. 2019;30:1279-1288. 17. Bianchini G, Huang C, Egle D, et al. Tumour inﬁltrating lymphocytes (TILs), PD-L1 expression and their dynamics in the NeoTRIPaPDL1 trial. Ann Oncol. 2020;31(suppl 4):S1142-S1215. 
+
+542 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+L. Gianni et al. 18. Schmid P, Cortes J, Dent R, et al. KEYNOTE-522: phase 3 study of neoadjuvant pembrolizumab plus chemotherapy versus placebo plus chemotherapy, followed by adjuvant pembrolizumab versus placebo for early-stage triple-negative breast cancer. ESMO Virtual Plenary. Abstract VP7-2021. Ann Oncol. 2021;32:1198-1200. 19. Loibl S, Schneeweiss A, Huober JB, et al. Durvalumab improves long-term outcome in TNBC: results from the phase II randomized GeparNUEVO study investigating neodjuvant durvalumab in addition to an anthracycline/taxane based neoadjuvant chemotherapy in early triple-negative breast cancer (TNBC). J Clin Oncol. 2021;39(suppl 15): 506. 20. Xu C, Chen YP, Du XJ, et al. Comparative safety of immune checkpoint inhibitors in cancer: systematic review and network meta-analysis. BMJ. 2018;363:k4226. 21. Cortes J, Cescon DW, Rugo HS, et al. Pembrolizumab plus chemotherapy versus placebo plus chemotherapy for previously untreated locally recurrent inoperable or metastatic triple-negative breast cancer (KEYNOTE-355): a randomised, placebo-controlled, double-blind, phase 3 clinical trial. Lancet. 2020;396:1817-1828. 22. Emens LA, Adams S, Barrios CH, et al. First-line atezolizumab plus nabpaclitaxel for unresectable, locally advanced, or metastatic triplenegative breast cancer: IMpassion130 ﬁnal overall survival analysis. Ann Oncol. 2021;32(8):983-993. 
+
+Volume 33 - Issue 5 - 2022 
+
+L. Gianni et al. 
+
+Annals of Oncology 
+
+APPENDIX 1 
+
+Claudia Schumacher, Brustzentrum St. ElisabethKrankenhaus, Köln Wolfram Malter, Uniklinik Köln Klinik und Poliklinic für Frauenheilkunde und Geburtshilfe Brestzentrum, Köln 
+
+Participating research groups, investigators and sites Taiwan Breast Cancer Consortium Chiun-Sheng Huang, National Coordinator, National Taiwan University Hospital, Taipei Shou-Tung Chen, Changhua Christian Hospital, Changhua City Ming Feng Hou, Kaohsiung Medical University Chung-Ho Memorial Hospital Cancer Center, Kaohsiung City Liang-Chih Liu, China Medical University Hospital, Taichung City Ling Ming Tseng, Taipei Veterans General Hospital, Taipei Cancer Trials Ireland Catherine Kelly, National Coordinator, Trinity St James’s Cancer Institute University Hospital, Dublin Seamus O’Reilly, Cork University Hospital, Cork Patrick Morris, Beaumont Hospital, Dublin John Kennedy, St. James’s Hospital, Dublin Miriam O’Connor, University Hospital Waterford, Waterford Michelangelo Austria Richard Greil, National Coordinator, IIIrd Medical Department with Hematology, Medical Oncology, Hemostaseology, Infectious Diseases and Rheumatology, Oncologic Center, Paracelsus Medical University Salzburg Daniel Egle, BrustGesundheitZentrum Tirol, Medical University Innsbruck Germany Mark Thill, National Coordinator, Agaplesion Markus Krankenhaus, Frankfurt Jacqueline Sagasser, Klinikum Augsburg International Patient Service, Augsburg Gerd Graffunder, Frauenarzt-Zentrum-Zehlendorf, Berlin Dirk Behringer, Augusta-Kranken-Anstalt gGmbH Klinik, Bochum Hans Tesch, Bethanien-Krankenhaus Onkologisches Zentrum, Frankfurt Hans-Joachim Lück, Gynäkologisch-Onkologische Praxis, Hannover Andreas Schneeweiss, NCT Nationales Centrum für Tumorerkrankunge, Universitätsklinikum Heidelberg, Heidelberg 
+
+Volume 33 - Issue 5 - 2022 
+
+Michelangelo Russia Vladimir Semiglazov, National Coordinator, N.N. Petrov Research Inst. Oncol, St. Petersburg Mona Frolova, N.N. Blokhin Medical Research Center of Oncology, Moscow Alexander Vasiliev Gennadievich, Road clinical hospital of OJSC «Russian Railways», St. Petersburg Nikita Volkov, St. Petersburg Clinical Scientiﬁc Center, St. Petersburg Spain Begoña Bermejo, National Coordinator, Hospital Clinico Universitario, Valencia Catalina Falo, Hospital Duran i Reynal Institut Català d’Oncologia, Hospitalet de Llobregat Elena Sevillano, Hospital Universitario HM Sanchinarro, Madrid Eva Maria Ciruelos Gil, Hospital Universitario 12 de Octubre, Madrid José Ángel García Sáenz, Hospital Clínico San Carlos, Madrid Anton Antón-Torres, Hospital Miguel Servet, Zaragoza Italy Luca Gianni, Chair, Study Chair, Breast Cancer Research Committee, Fondazione Michelangelo, Milano Filippo Montemurro, Fondazione Piemontese per la Ricerca sul Cancro, Candiolo Claudio Zamagni, Policlinico S. Orsola Malpighi SSD Oncologia Medica Addarii, Bologna Lucia Del Mastro, Università degli Studi di Genova, Ospedale Policlinico San Martino, Genova Carmelo Bengala, Istituto Toscano Tumori, Grosseto Marco Colleoni, Istituto Europeo di Oncologia, Milano Gabriella Mariani, Fondazione IRCCS Istituto Nazionale Tumori, Milano Anna Gambaro, Ospedale Luigi Sacco, Milano Stefania Zambelli, Ospedale San Raffaele, Milano Giampaolo Bianchini, Ospedale San Raffaele, Milano Giancarlo Bisagni, AUSL IRCCS Arcispedale S. Maria Nuova, Reggio Emilia Stefania Russo, Ospedale S. Maria della Misericordia, Udine 
+
+https://doi.org/10.1016/j.annonc.2022.02.004 
+
+543 
+
+ 

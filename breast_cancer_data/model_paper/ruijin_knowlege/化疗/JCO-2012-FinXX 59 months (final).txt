@@ -1,0 +1,719 @@
+VOLUME 
+
+30 
+
+䡠 
+
+NUMBER 
+
+1 
+
+䡠 
+
+JANUARY 
+
+1 
+
+2012 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Adjuvant Capecitabine, Docetaxel, Cyclophosphamide, and Epirubicin for Early Breast Cancer: Final Analysis of the Randomized FinXX Trial Heikki Joensuu, Paula Poikonen, and Petri Bono, Helsinki University Central Hospital, Helsinki; Pirkko-Liisa Kellokumpu-Lehtinen and Minna Tanner, Tampere University Hospital, Tampere; Riikka Huovinen and Outi Paija, Turku University Central Hospital; Mika Leinonen, 4Pharma, Turku; Arja Jukkola-Vuorinen, Oulu University Hospital, Oulu; Riitta Kokko, KantaHäme Central Hospital, Hämeenlinna; Päivi Auvinen and Vesa Kataja, Cancer Center, Kuopio University Hospital, Kuopio; Vesa Kataja, Vaasa Central Hospital, Vaasa; Leena Helle, Kotka Central Hospital, Kotka; Paul Nyandoto, Päijät-Häme Central Hospital, Lahti; Marjo Pajunen, Jyväskylä Central Hospital, Jyväskylä; Raija Asola, Satakunta Central Hospital, Pori, Finland; Johan Ahlgren, Gävle Hospital, Gävle; Kenneth Villman, Örebro University Hospital, Örebro; and Greger Nilsson and Henrik Lindman, Uppsala University Hospital, Uppsala, Sweden. Submitted February 17, 2011; accepted July 27, 2011; published online ahead of print at www.jco.org on November 21, 2011. Supported by Roche, sanofi-aventis, AstraZeneca, and Cancer Society of Finland, and sponsored by the Finnish Breast Cancer Group. Presented at the 33rd Annual San Antonio Breast Cancer Symposium, December 8-12, 2010, San Antonio, TX. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical Trials repository link available on JCO.org. Corresponding author: Heikki Joensuu, MD, Department of Oncology, Helsinki University Central Hospital, Haartmaninkatu 4, PO Box 180, FIN-00029 Helsinki, Finland; e-mail: heikki .joensuu@hus.fi. © 2011 by American Society of Clinical Oncology 0732-183X/12/3001-11/$20.00 DOI: 10.1200/JCO.2011.35.4639 
+
+Heikki Joensuu, Pirkko-Liisa Kellokumpu-Lehtinen, Riikka Huovinen, Arja Jukkola-Vuorinen, Minna Tanner, Riitta Kokko, Johan Ahlgren, Päivi Auvinen, Outi Paija, Leena Helle, Kenneth Villman, Paul Nyandoto, Greger Nilsson, Marjo Pajunen, Raija Asola, Paula Poikonen, Mika Leinonen, Vesa Kataja, Petri Bono, and Henrik Lindman See accompanying editorial on page 1 A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Capecitabine is an active agent in the treatment of breast cancer. It is not known whether integration of capecitabine into an adjuvant regimen that contains a taxane, an anthracycline, and cyclophosphamide improves outcome in early breast cancer. Patients and Methods Women with axillary node–positive or high-risk node-negative breast cancer were randomly assigned to receive either three cycles of docetaxel and capecitabine (TX) followed by three cycles of cyclophosphamide, epirubicin, and capecitabine (CEX; n ⫽ 753) or three cycles of docetaxel (T) followed by three cycles of cyclophosphamide, epirubicin, and fluorouracil (CEF; n ⫽ 747). The primary end point was recurrence-free survival (RFS). Results During a median follow-up time of 59 months, 214 RFS events occurred (local or distant recurrences or deaths; TX/CEX, n ⫽ 96; T/CEF, n ⫽ 118). RFS was not significantly different between the groups (hazard ratio [HR], 0.79; 95% CI, 0.60 to 1.04; P ⫽ .087; 5-year RFS, 86.6% for TX/CEX v 84.1% for T/CEF). Fifty-six patients assigned to TX/CEX died during the follow-up compared with 75 of patients assigned to T/CEF (HR, 0.73; 95% CI, 0.52 to 1.04; P ⫽ .080). In exploratory analyses, TX/CEX improved breast cancer–specific survival (HR, 0.64; 95% CI, 0.44 to 0.95; P ⫽ .027) and RFS in women with triple-negative disease and in women who had more than three metastatic axillary lymph nodes at the time of diagnosis. We detected little severe late toxicity. Conclusion Integration of capecitabine into a regimen that contains docetaxel, epirubicin, and cyclophosphamide did not improve RFS significantly compared with a similar regimen without capecitabine. J Clin Oncol 30:11-18. © 2011 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Capecitabine (Xeloda; Roche, Basel, Switzerland) is an active agent for advanced breast cancer, and it is frequently selected for therapy either as a single agent or as a partner in a combination regimen.1,2 Yet little is known about the efficacy of capecitabine as adjuvant treatment of early breast cancer. Single-agent capecitabine was less effective than cyclophosphamide, methotrexate, and fluorouracil or doxorubicin and cyclophosphamide as adjuvant treatment for elderly women with early breast cancer,3 but an important question to address is whether capecitabine adds effi- 
+
+cacy when it is integrated into an adjuvant regimen containing commonly used agents, such as an anthracycline, cyclophosphamide, and a taxane. Capecitabine is a prodrug of fluorouracil. After ingestion, it is absorbed almost completely from the intestine and metabolized in the liver and malignant tumors to fluorouracil. The final step of conversion to fluorouracil is catalyzed by thymidine phosphorylase (TP), which is present at high concentrations in many cancers, leading to high intratumoral concentrations of fluorouracil.4 In xenograft models, cyclophosphamide, paclitaxel, and docetaxel administration increases tumor tissue TP concentration.5-7 © 2011 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+11 
+
+Joensuu et al 
+
+Treatment of women with docetaxel or with cyclophosphamide combined with either doxorubicin or epirubicin increased tumor TP expression, supporting the integration of capecitabine into regimens that contain these agents.8 In accordance with these data, women with anthracycline-treated advanced breast cancer had improved survival when treated with docetaxel plus capecitabine compared with docetaxel alone.1 Adding capecitabine to a neoadjuvant anthracycline/ taxane regimen improved the pathologic complete response (pCR) rate in a randomized study.9 Here, we report the final results of the Finland Capecitabine Trial (FinXX). The planned interim analysis of the study, based on a median follow-up time of approximately 3 years, suggested that integration of capecitabineintoanadjuvantregimenthatcontainsdocetaxel,epirubicin, and cyclophosphamide improves recurrence-free survival (RFS).10 In this trial, capecitabine was administered up front concomitantly with docetaxel, followed by concomitant administration with cyclophosphamide plus epirubicin in an attempt to fully exploit the putative synergism between capecitabine and other chemotherapy agents. PATIENTS AND METHODS Patients Women eligible for this randomized, prospective, phase III, open-label, multicenter study had histologically confirmed invasive breast cancer with regional lymph nodes containing cancer (isolated tumor cells ⬍ 0.2 mm in diameter were not considered metastases) or node-negative cancer with primary tumor diameter greater than 20 mm and negative progesterone receptor (PgR) expression in immunohistochemistry (usually defined as staining of ⬍ 10% of cancer cells).11,12 Eligibility criteria were as follows: age 18 to 65 years; WHO performance status less than 2; time interval between surgery and random assignment of ⱕ 12 weeks; and normal hepatic, renal, and cardiac function (serum ALT ⱕ 1.5⫻ upper limit of normal [ULN], alkaline phosphatase ⱕ 2.5⫻ ULN, and bilirubin ⱕ 1.0⫻ ULN). Patients who had distant metastases or node-negative mucinous, papillary, medullary, or tubular cancer were excluded, as were patients who had received neoadjuvant chemotherapy. The study protocol (ClinicalTrials.gov identifier NCT00114816) was approved by the institutional review boards. The patients provided written informed consent, and patient safety was monitored by an independent data safety monitoring committee. Study Procedures The primary end point was RFS, which was defined as the time interval between random assignment and date of diagnosis of invasive breast cancer recurrence (local or distant) or death if the patient died before recurrence. Contralateral breast cancers and second cancers were not counted as RFS events. Secondary end points were treatment safety and overall survival, which was defined as the time from random assignment to death. Patients were randomly assigned in a 1:1 ratio to capecitabine-containing chemotherapy or to the control group. Random assignment was central and computer assisted and was performed using permutated blocks with a randomly varying block size.10 Patients were stratified at random assignment by the number of axillary lymph nodes containing cancer (ⱕ v ⬎ three nodes), tumor human epidermal growth factor receptor 2 (HER2) status (negative v positive; determined either by immunohistochemistry or in situ hybridization), and center. Study participants assigned to the investigational group received three cycles of docetaxel (Taxotere; sanofi-aventis, Paris, France) plus capecitabine (TX) followed by three cycles of cyclophosphamide, epirubicin, and capecitabine (CEX). TX comprised capecitabine 900 mg/m2 given orally twice per day on days 1 to 15 and docetaxel 60 mg/m2 administered as a 1-hour intravenous infusion on day 1 of every 3-week cycle. CEX consisted of intravenous cyclophosphamide 600 mg/m2 and epirubicin 75 mg/m2 administered on day 1 and oral capecitabine 900 mg/m2 given twice per day on days 1 to 15 every 3 weeks. 12 
+
+© 2011 by American Society of Clinical Oncology 
+
+The first capecitabine dose of each cycle was administered in the evening of day 1 and the last dose was administered in the morning of day 15, followed by a 7-day rest period. Patients allocated to the control group received three cycles of docetaxel (T; 80 mg/m2 as a 1-hour intravenous infusion on day 1 of every 3-week cycle) followed by three cycles of cyclophosphamide (600 mg/m2), epirubicin (75 mg/m2), and fluorouracil (600 mg/m2; CEF), all administered on day 1 of each 3-week cycle. 
+
+Table 1. Baseline Patient Demographics and Clinical Characteristics 
+
+Demographic or Clinical Characteristic Age, years Median Range Menstrual statusⴱ Premenopausal Postmenopausal WHO performance status 0 1 Tumor classification† pT1 pT2 pT3 pT4 Not available No. of positive axillary nodes 0 1-3 ⬎3 Histologic type Ductal Lobular Other Histologic grade 1 2 3 Not available ER status Positive Negative PgR status Positive Negative HER2 status Positive Negative Type of breast surgery Breast sparing Mastectomy Biopsy Type of axillary surgery Sentinel node Dissection Other 
+
+TX/CEX (n ⫽ 753) 
+
+T/CEF (n ⫽ 747) 
+
+No. of Patients 
+
+No. of Patients 
+
+% 
+
+52 26-65 
+
+% 
+
+53 27-65 
+
+331 422 
+
+44 56 
+
+321 426 
+
+43 57 
+
+663 90 
+
+88 12 
+
+664 83 
+
+89 11 
+
+314 389 40 8 2 
+
+42 52 5 1 ⬍1 
+
+340 351 41 14 1 
+
+46 47 5 2 ⬍1 
+
+86 461 206 
+
+11 61 27 
+
+71 466 210 
+
+10 62 28 
+
+569 138 46 
+
+76 18 6 
+
+566 118 63 
+
+76 16 8 
+
+86 362 300 5 
+
+11 48 40 1 
+
+80 351 312 4 
+
+11 47 42 1 
+
+581 172 
+
+77 23 
+
+565 182 
+
+76 24 
+
+478 275 
+
+63 37 
+
+456 291 
+
+61 39 
+
+146 607 
+
+19 81 
+
+139 608 
+
+19 81 
+
+302 451 0 
+
+40 60 ⬍1 
+
+277 469 1 
+
+37 63 ⬍1 
+
+42 710 1 
+
+6 94 ⬍1 
+
+44 702 1 
+
+6 94 ⬍1 
+
+Abbreviations: CEF, cyclophosphamide, epirubicin, and fluorouracil; CEX, cyclophosphamide, epirubicin, and capecitabine; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; PgR, progesterone receptor; T, docetaxel; TX, docetaxel and capecitabine. ⴱ Menstrual periods within 6 months before starting chemotherapy. †Defined as per the International Union Against Cancer TNM Classification of Malignant Tumors (sixth edition). 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+Capecitabine for Early Breast Cancer 
+
+Patients randomly assigned (N = 1,500) 
+
+Assigned to TX + CEX 
+
+(n = 753) 
+
+Assigned to T + CEF 
+
+(n = 747) 
+
+Included in the ITT population 
+
+(n = 751) (n = 1) (n = 1) 
+
+Included in the ITT population 
+
+(n = 745) (n = 1) (n = 1) 
+
+Received study treatment 
+
+Had cancer recurrence 
+
+(n = 744) (n = 178) (n = 1) 
+
+Had cancer recurrence 
+
+(n = 741) (n = 23) (n = 3) 
+
+Had adverse events 
+
+(n = 169) 
+
+Had adverse events 
+
+(n = 19) 
+
+Withdrew consent 
+
+(n = 4) (n = 4) 
+
+Withdrew consent 
+
+(n = 0) (n = 1) 
+
+Withdrew consent Had distant metastases 
+
+Received study treatment Did not complete study treatment 
+
+Discontinued for other reasons 
+
+Had cancer recurrence or died Died 
+
+(n = 96) (n = 56) 
+
+Died from breast cancer 
+
+(n = 42) 
+
+Withdrew consent Had distant metastases 
+
+Did not complete study treatment 
+
+Discontinued for other reasons 
+
+Had cancer recurrence or died Died 
+
+(n = 118) (n = 75) 
+
+Died from breast cancer 
+
+(n = 62) 
+
+Chemotherapy was given for six cycles unless intolerable toxicity occurred or disease recurrence was detected. Corticosteroids were given orally at the time of docetaxel infusions. Administration of prophylactic hematopoietic growth factor support was not scheduled. Radiation therapy was given after completion of chemotherapy according to the institution’s practice. Patients with estrogen receptor (ER) –positive or PgR-positive cancer received adjuvant endocrine therapy for 5 years; patients considered premenopausal before starting chemotherapy received tamoxifen 20 mg/d, and postmenopausal women received anastrozole 1 mg/d. Endocrine therapy was initiated within 2 months after completion of chemotherapy. 
+
+Fig 1. Enrollment, random assignment, and follow-upofstudyparticipants.CEF,cyclophosphamide, epirubicin, and fluorouracil; CEX, cyclophosphamide, epirubicin, and capecitabine; ITT, intent-to-treat; T, docetaxel; TX, docetaxel and capecitabine. 
+
+Toxicity was graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 3.0, and chemotherapy doses were modified based on toxicity observed.10 When scheduled treatment was discontinued for toxicity, TX was replaced by CEX or CEF, single-agent docetaxel by CEF, and CEX by CEF or cyclophosphamide and epirubicin. Adverse events that occurred during study treatment or within 28 days of the last dose of chemotherapy were recorded. Staging examinations (computed tomography of the chest or chest x-ray; bone scan; and abdominal computed tomography, magnetic resonance imaging, or ultrasound) were mandatory at screening for patients with more than 
+
+Table 2. Breast Cancer Recurrence, Second Cancer, and Survival Events TX/CEX (n ⫽ 751)ⴱ 
+
+T/CEF (n ⫽ 745)ⴱ 
+
+Event 
+
+No. of Patients 
+
+% 
+
+No. of Patients 
+
+% 
+
+Hazard Ratio 
+
+95% CI 
+
+P† 
+
+Any recurrence or death Local recurrence Distant recurrence Death from any cause Death from breast cancer Death from other cause Any second cancer‡ Contralateral breast cancer Other cancer 
+
+96 8 90 56 42 14 24 11 13 
+
+12.8 1.1 12.0 7.5 5.6 1.9 3.2 1.5 1.7 
+
+118 20 112 75 64 11 25 8 17 
+
+15.8 2.7 15.0 10.1 8.6 1.5 3.4 1.1 2.3 
+
+0.79 0.39 0.78 0.73 0.64 1.25 0.94 1.35 0.75 
+
+0.60 to 1.04 0.17 to 0.88 0.59 to 1.03 0.52 to 1.04 0.44 to 0.95 0.57 to 2.76 0.54 to 1.65 0.54 to 3.35 0.36 to 1.55 
+
+.087 .024 .080 .080 .027 .575 .833 .519 .437 
+
+Abbreviations: CEF, cyclophosphamide, epirubicin, and fluorouracil; CEX, cyclophosphamide, epirubicin, and capecitabine; T, docetaxel; TX, docetaxel and capecitabine. ⴱ A total of four patients were excluded from the analysis because of presence of distant metastases at the time of study entry (n ⫽ 2) or withdrawal of consent (n ⫽ 2). †Unadjusted Cox proportional hazards model. ‡Second cancers were not included in the primary end point (recurrence-free survival). 
+
+www.jco.org 
+
+© 2011 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+13 
+
+Joensuu et al 
+
+RESULTS 
+
+Patients and Treatments A total of 1,500 participants were entered onto the study from 15 Finnish centers (n ⫽ 1,199) and five Swedish centers (n ⫽ 301) between January 27, 2004, and May 29, 2007. Of these, 753 patients were assigned to TX/CEX, and 747 patients were assigned to T/CEF. The study participant demographics and breast cancer characteristics were balanced between the groups (Table 1). Most patients were treated with mastectomy (n ⫽ 920, 61%) followed by axillary dissection (n ⫽ 1,412, 94%). The majority of patients (90%) had nodepositive cancer, 28% had more than three positive axillary lymph nodes, and 19% had HER2-positive disease. The study protocol was amended to allow administration of adjuvant trastuzumab for HER2-positive cancer in May 2005. Subsequently, 96 patients (13%) and 83 patients (11%) assigned to TX/CEX and T/CEF, respectively, received trastuzumab; in each group, 75% of these patients received adjuvant trastuzumab for up to 12 months.10 After completion of chemotherapy, 592 patients (79%) and 575 patients (77%) received adjuvant endocrine therapy in the capecitabine and control groups, respectively. Tamoxifen, anastrozole, or other endocrine therapy was administered to 325 (43%), 316 (42%), and 29 patients (4%) in the TX/CEX group, respectively, and to 287 (38%), 328 (44%), and 27 patients (4%) in the T/CEF group, respectively. Efficacy The median follow-up time was 59 months (range, 1 to 80 months) at the time of data lock (September 15, 2010). Four patients were excluded from the intent-to-treat population (two patients withdrew informed consent, and two patients had overt distant metastases at the time of study entry; Fig 1). Of the 214 RFS events (distant or local relapses or deaths) that triggered the final analysis, 96 (12.8%) oc14 
+
+© 2011 by American Society of Clinical Oncology 
+
+100 
+
+92.4% 
+
+80 
+
+88.9% 
+
+86.6% 
+
+Recurrence-Free Survival (%) 
+
+Statistical Analysis We assumed that RFS would improve from 83.0% to 88.5% (hazard ratio [HR], 0.65) after median follow-up of 5 years. On the basis of this assumption, 1,500 patients and 210 events were required to achieve 80% power assuming a 3% annual dropout rate, when ␣ ⫽ .028 (two-sided). Study recruitment time was estimated to be 3.5 years. The significance level in the interim and final analyses was set at ␣ ⫽ .028 to maintain it at 5% in the entire study.15 The sample size was calculated using nQuery Advisor version 6.0 (Statistical Solutions Ltd, Cork, Ireland). Efficacy analyses were based on the intent-to-treat (ITT) principle. Exploratory subgroup analyses (for center, number of axillary nodes [ⱕ or ⬎ three nodes], ER status [positive or negative], and HER2 status) were defined in the statistical plan for the interim analysis (approved on November 6, 2008). The safety population included all patients who received ⱖ one dose of a study drug. Frequency tables were analyzed using the ␹2 test. Survival between groups was compared using the Kaplan-Meier life-table method and an unadjusted Cox proportional hazards model; the log-rank test was used to confirm the robustness of the analysis. The subgroup analyses were performed by including the treatment group, the subgroup variable, and their interaction in the Cox model. All P values are two-sided and not adjusted for multiple testing. Statistical analyses were performed with SAS version 8.2 for Windows (SAS Institute, Cary, NC). 
+
+A 
+
+84.1% 
+
+60 
+
+40 
+
+TX + CEX T + CEF 
+
+20 
+
+HR = 0.79 (95% CI, 0.60 to 1.04) P = .087 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+324 319 
+
+94 105 
+
+0 0 
+
+5 
+
+6 
+
+7 
+
+347 345 
+
+101 110 
+
+0 0 
+
+Time (years) No. at risk T + CEF TX + CEX 
+
+B 
+
+745 751 
+
+727 739 
+
+693 717 
+
+662 694 
+
+516 538 
+
+96.1% 
+
+100 
+
+92.6% 
+
+95.3% 
+
+Overall Survival (%) 
+
+three positive axillary nodes13,14; staging of other patients was performed according to the institutional practice. Blood cell counts and chemistries were performed ⱕ 3 days preceding the planned start of each chemotherapy cycle. Study participants were scheduled to be observed for ⱖ 5 years after random assignment. 
+
+89.7% 
+
+80 
+
+60 
+
+40 
+
+TX + CEX T + CEF 
+
+20 
+
+HR = 0.73 (95% CI, 0.52 to 1.04) P = .080 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Time (years) No. at risk T + CEF TX + CEX 
+
+745 751 
+
+738 745 
+
+723 737 
+
+710 722 
+
+561 567 
+
+Fig 2. (A) Recurrence-free survival. (B) Overall survival. Three- and 5-year survival rates are shown. CEF, cyclophosphamide, epirubicin, and fluorouracil; CEX, cyclophosphamide, epirubicin, and capecitabine; HR, hazard ratio; T, docetaxel; TX, docetaxel and capecitabine. 
+
+curred in the TX/CEX group and 118 (15.8%) occurred in the T/CEF group (Table 2). RFS was not significantly different between the groups (HR, 0.79; 95% CI, 0.60 to 1.04; P ⫽ .087; Fig 2). After excluding patients who received adjuvant trastuzumab (n ⫽ 179), the HR for RFS was 0.80 (95% CI, 0.61 to 1.06; P ⫽ .129). Fifty-six patients assigned to capecitabine-containing chemotherapy died during the follow-up compared with 75 patients treated with T/CEF. Analysis of overall survival yielded an HR of 0.73 (95% CI, 0.52 to 1.04; P ⫽ .080; Fig 2). There were significantly fewer local relapses of breast cancer in the TX/CEX group compared with the T/CEF group (eight v 20 relapses, respectively; HR, 0.39; 95% CI, 0.17 to 0.88; P ⫽ .024). Deaths specifically from breast cancer occurred less often in the TX/CEX arm compared with the T/CEF arm (42 v 64 deaths, respectively), and women assigned to TX/CEX had better breast cancer– specific survival than women assigned to T/CEF (HR, 0.64; 95% CI, 0.44 to 0.95; P ⫽ .027). The HR for disease-free survival (which JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+Capecitabine for Early Breast Cancer 
+
+Hazard Ratio (log scale) Group 
+
+No. of patients/events TX + CEX T + CEF 
+
+Hazard Ratio (95% CI) 
+
+751/96 
+
+745/118 
+
+0-3 positive 
+
+547/57 
+
+537/59 
+
+0.94 (0.65 to 1.35) 
+
+> 3 positive 
+
+204/39 
+
+208/59 
+
+0.64 (0.43 to 0.96) 
+
+Positive 
+
+580/63 
+
+562/68 
+
+0.89 (0.63 to 1.25) 
+
+Negative 
+
+171/33 
+
+183/55 
+
+0.67 (0.43 to 1.04) 
+
+Positive 
+
+146/22 
+
+139/23 
+
+0.94 (0.52 to 1.69) 
+
+Negative 
+
+605/74 
+
+606/95 
+
+0.75 (0.56 to 1.02) 
+
+All patients 
+
+0.79 (0.60 to 1.04) 
+
+Axillary nodes 
+
+ER status 
+
+HER2 status 
+
+0.1 
+
+1.0 
+
+TX + CEX better 
+
+includes invasive contralateral breast cancers and second cancers) was 0.78 (95% CI, 0.59 to 1.03; P ⫽ .080). In the exploratory subgroup analyses predefined in the study statistical plan, patients treated with TX/CEX had significantly longer RFS than patients treated with T/CEF in the subgroup of patients who had more than three metastatic axillary lymph nodes at diagnosis, whereas no significant differences were present in the subgroups defined by tumor ER or HER2 status (Fig 3). The interactions between treatment and nodal status, tumor ER status, or HER2 status were not statistically significant. Finally, we compared efficacy of TX/CEX and T/CEF in a post hoc exploratory analysis, where the tumors were stratified into four subgroups based on ER, PgR, and HER2 status. In this analysis, TX/CEX was more effective than T/CEF in the triplenegative subgroup (HR, 0.48; 95% CI, 0.26 to 0.88; P ⫽ .018), whereas no significant differences in RFS were found between the treatment groups in the remaining subgroups (Fig 4; P ⫽ 0.29 for the interaction between treatment and the subgroups). Safety The safety profiles of the two regimens differed as described in a detail elsewhere.10 TX/CEX was associated with more capecitabinerelated toxicity including stomatitis, hand-foot syndrome, nail changes, and diarrhea, whereas T/CEF was associated with more frequent neutropenia, febrile neutropenia, infection with neutropenia, myalgia, and amenorrhea, probably as a result of the higher docetaxel dose. Six patients died during chemotherapy possibly from a treatment-related cause (TX/CEX, n ⫽ 4; T/CEF, n ⫽ 2). Patients assigned to TX/CEX discontinued the scheduled treatment more often than patients assigned to T/CEF (178 [24%] v 23 [3%] patients, respectively; P ⬍ .001),10 most commonly as a result of www.jco.org 
+
+Fig 3. Results of exploratory subgroup analyses for recurrence-free survival. A forest plot shows the hazard ratios and 95% CIs (horizontal lines) according to the number of positive axillary nodes and tumor estrogen receptor (ER) and human epidermal growth factor receptor 2 (HER2) expression. CEF, cyclophosphamide, epirubicin, and fluorouracil; CEX, cyclophosphamide, epirubicin, and capecitabine; T, docetaxel; TX, docetaxel and capecitabine. 
+
+10 
+
+T + CEF better 
+
+adverse events. Ninety-eight patients (13%) discontinued the scheduled treatment during TX cycles, and a further 80 patients (11%) discontinued treatment during CEX cycles. In the T/CEF group, 16 patients (2%) discontinued treatment during docetaxel therapy, and seven patients (1%) discontinued treatment during CEF. Most patients (n ⫽ 1,461, 97%) received a total of six cycles of chemotherapy because planned cycles not administered were replaced. Docetaxel dose was reduced as a result of toxicity in 8% (n ⫽ 58) and 19% (n ⫽ 139) of women assigned to TX/CEX and T/CEF, respectively, and epirubicin dose was reduced in 8% and 7%, respectively. Three hundred nineteen patients (47%) took less than the planned starting dose of capecitabine on one or more occasion during the treatment course as a result of toxicity or other reasons. We detected little late toxicity. Second malignancy other than breast cancer was diagnosed in 30 patients (2%). Of these, 13 malignancies occurred among women assigned to TX/CEX, and 17 occurred among women who received T/CEF (P ⫽ .447). Two patients died from a cardiac cause after completion of chemotherapy; both had received TX/CEX. DISCUSSION 
+
+The final results of the FinXX trial show that the addition of capecitabine to a chemotherapy regimen containing docetaxel, epirubicin, and cyclophosphamide did not significantly improve RFS or overall survival compared with docetaxel followed by CEF. In exploratory analyses, adding capecitabine seemed to improve breast cancer–specific survival and benefit some women with early breast cancer, such as those with triple-negative disease and those © 2011 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+15 
+
+Joensuu et al 
+
+A 
+
+B 
+
+80 
+
+60 
+
+40 
+
+TX + CEX T + CEF P = .591 HR = 0.91 (0.63 to 1.30) (n = 1,009) 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+100 
+
+Recurrence-Free Survival (%) 
+
+Recurrence-Free Survival (%) 
+
+100 
+
+4 
+
+5 
+
+6 
+
+7 
+
+80 
+
+60 
+
+40 
+
+TX + CEX T + CEF P = .845 HR = 1.11 (0.40 to 3.06) (n = 163) 
+
+20 
+
+0 
+
+1 
+
+2 
+
+Time (years) 
+
+C 
+
+D 
+
+60 
+
+0 
+
+TX + CEX T + CEF P = .786 HR = 0.90 (0.44 to 1.86) (n = 122) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+5 
+
+6 
+
+7 
+
+100 
+
+Recurrence-Free Survival (%) 
+
+Recurrence-Free Survival (%) 
+
+80 
+
+20 
+
+4 
+
+Time (years) 
+
+100 
+
+40 
+
+3 
+
+5 
+
+6 
+
+7 
+
+Time (years) 
+
+80 
+
+60 
+
+40 
+
+TX + CEX T + CEF P = .018 HR = 0.48 (0.26 to 0.88) (n = 202) 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Time (years) 
+
+Fig 4. Exploratory analyses of recurrence-free survival based on breast cancer estrogen receptor (ER), progesterone receptor (PgR), and human epidermal growth factor receptor 2 (HER2) status: (A) ER and/or PgR positive, HER2 negative; (B) ER and/or PgR positive, HER2 positive; (C) ER and PgR negative, HER2 positive; and (D) ER, PgR, and HER2 negative. CEF, cyclophosphamide, epirubicin, and fluorouracil; CEX, cyclophosphamide, epirubicin, and capecitabine; HR, hazard ratio; T, docetaxel; TX, docetaxel and capecitabine. 
+
+with more than three metastatic axillary lymph nodes at the time of diagnosis. Confirmation of these observations would require prospective study. Besides FinXX, integration of capecitabine into a regimen containing an anthracycline and a taxane has been evaluated in one other randomized study in the adjuvant setting16 and in two randomized studies in the neoadjuvant setting.9,17 In a trial carried out by the US Oncology Group (USON01062), 2,611 women with either nodepositive cancer or moderate- to high-risk node-negative cancer were assigned to receive four cycles of doxorubicin and cyclophosphamide in both arms, followed by either four cycles of T or four cycles of TX.16 During a median follow-up of 5 years, there was no significant difference in the primary end point (disease-free survival) between the groups, but patients assigned to TX may have had better overall survival. In the Austrian Breast Cancer Study Group neoadjuvant trial 24 (ABCSG-24), where 536 patients with breast cancer were assigned to receive six cycles of epirubicin plus docetaxel (ED) with or without capecitabine, the addition of capecitabine to ED increased the pCR rate significantly from 16.0% to 24.3%.9 However, in the three-arm 16 
+
+© 2011 by American Society of Clinical Oncology 
+
+neoadjuvant German GeparQuattro trial with 1,509 participants, four cycles of TX did not result in a superior pCR rate compared with four cycles of docetaxel or four cycles of docetaxel followed by four cycles of capecitabine when each regimen was administered after completion of four cycles of epirubicin plus cyclophosphamide.17 The current results suggest that the efficacy benefit of capecitabine may be limited to some subtypes of early breast cancer, such as triple-negative cancer and cancers with extensive axillary involvement, which are associated with a high risk of cancer recurrence. These findings are in line with an exploratory analysis carried out in the USON01062 trial, where patients with a high cell proliferation rate (Ki-67 ⬎ 10%) seemed to benefit from integration of capecitabine into the chemotherapy regimen,16 and with the analysis of the ABCSG-24 trial data, which suggested that the addition of capecitabine to ED is associated with a greater chance of achieving pCR when the cancer is hormone receptor negative or has grade 3 differentiation.9 The reasons for these findings remain speculative, but interactions of capecitabine with other chemotherapy agents or its prolonged mode of administration may play a role. JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+Capecitabine for Early Breast Cancer 
+
+TX/CEX improved RFS significantly compared with T/CEF in the planned interim analysis of the FinXX trial, which was based on a smaller number of events and shorter follow-up (HR, 0.66; 95% CI, 0.47 to 0.94; P ⫽ .020).10 The 3-year RFS rates are virtually identical in the interim and final analyses of the trial (TX/CEX, 92.5% and 92.4%, respectively; T/CEF, 88.9% and 88.9%, respectively), and when the follow-up time of the final analysis is truncated to the first 3 years, the HR is also almost identical to the HR reported in the interim analysis (0.67). These findings support the hypothesis that the addition of capecitabine to standard chemotherapy works best for cancers that recur early during the first few years of follow-up and may have a rapid cell proliferation rate. Triple-negative breast cancers generally recur early compared with most other breast cancer subtypes,18 and TX/ CEX might improve outcome in triple-negative cancer (Fig 4). We initiated chemotherapy with a taxane instead of an anthracycline-containing combination. This might be advantageous,19-22 but the optimal sequence and the best way to integrate capecitabine into chemotherapy regimens remain inadequately studied. Administration of TX/CEX with the current dosages was feasible, and the associated toxicity was generally manageable, although the study participants discontinued TX/CEX more frequently than T/CEF (24% v 3%, respectively). The doses of docetaxel and capecitabine selected to be administered were close to the median doses actually delivered in a study that evaluated TX in advanced breast cancer,23 and considering the number of patients who discontinued treatment, selection of these doses may not have been overcautious. In an analysis of the FinHer trial data, efficacy of docetaxel doses of 80 mg/m2 and 100 mg/m2 was similar in the adjuvant treatment of breast cancer,24 but this retrospective analysis needs to be interpreted with caution. The FinXX trial was carried out in only 20 centers, and thus, the number of patients treated at each center was often high, which also suggests that toxicity associated with the current doses is acceptable. We conclude that the integration of capecitabine into a chemotherapy regimen containing docetaxel, epirubicin, and cyclophosphamide did not significantly improve RFS compared with a similar regimen without capecitabine. Yet, the results are compatible with a hypothesis that the integration of capecitabine into a regimen of standard agents improves breast cancer–specific survival and may improve outcome in some biologic subgroups of early REFERENCES 1. O’Shaughnessy J, Miles D, Vukelja S, et al: Superior survival with capecitabine plus docetaxel combination therapy in anthracycline-pretreated patients with advanced breast cancer: Phase III trial results. J Clin Oncol 20:2812-2823, 2002 2. Geyer CE, Forster J, Lindquist D, et al: Lapatinib plus capecitabine for HER2-positive advanced breast cancer. N Engl J Med 355:27332743, 2006 3. Muss HB, Berry DA, Cirrincione CT, et al: Adjuvant chemotherapy in older women with earlystage breast cancer. N Engl J Med 360:2055-2065, 2009 4. Miwa M, Ura M, Nishida M, et al: Design of a novel oral fluoropyrimidine carbamate, capecitabine, which generates 5-fluorouracil selectively in tumours by enzymes concentrated in human liver and cancer tissue. Eur J Cancer 34:1274-1281, 1998 www.jco.org 
+
+breast cancer. In particular, further research is warranted in triplenegative breast cancer. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Heikki Joensuu, sanofi-aventis (C); Minna Tanner, Roche (C); Outi Paija, AstraZeneca (C), Novartis (C); Paula Poikonen, Roche (C) Stock Ownership: None Honoraria: Heikki Joensuu, sanofi-aventis; Pirkko-Liisa Kellokumpu-Lehtinen, sanofi-aventis, Roche; Minna Tanner, Roche, AstraZeneca, sanofi-aventis; Greger Nilsson, Roche, sanofi-aventis; Vesa Kataja, Roche; Petri Bono, Roche; Henrik Lindman, Roche Research Funding: Pirkko-Liisa Kellokumpu-Lehtinen, sanofi-aventis, Roche; Johan Ahlgren, Roche, sanofi-aventis; Henrik Lindman, Roche, sanofi-aventis, AstraZeneca Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Heikki Joensuu, Pirkko-Liisa Kellokumpu-Lehtinen, Minna Tanner, Petri Bono Administrative support: Heikki Joensuu, Henrik Lindman Provision of study materials or patients: Heikki Joensuu, Pirkko-Liisa Kellokumpu-Lehtinen, Riikka Huovinen, Johan Ahlgren, Henrik Lindman Collection and assembly of data: Heikki Joensuu, Riikka Huovinen, Arja Jukkola-Vuorinen, Minna Tanner, Riitta Kokko, Johan Ahlgren, Päivi Auvinen, Outi Paija, Leena Helle, Kenneth Villman, Paul Nyandoto, Greger Nilsson, Marjo Pajunen, Raija Asola, Paula Poikonen, Vesa Kataja, Petri Bono, Henrik Lindman Data analysis and interpretation: Heikki Joensuu, Mika Leinonen, Petri Bono, Henrik Lindman Manuscript writing: All authors Final approval of manuscript: All authors 
+
+5. Fujimoto-Ouchi K, Tanaka Y, Tominaga T: Schedule dependency of antitumor activity in combination therapy with capecitabine/5⬘-deoxy5-fluorouridine and docetaxel in breast cancer models. Clin Cancer Res 7:1079-1086, 2001 6. Sawada N, Ishikawa T, Fukase Y, et al: Induction of thymidine phosphorylase activity and enhancement of capecitabine efficacy by Taxol/ Taxotere in human cancer xenografts. Clin Cancer Res 4:1013-1019, 1998 7. Endo M, Shinbori N, Fukase Y, et al: Induction of thymidine phosphorylase expression and enhancement of efficacy of capecitabine or 5⬘-deoxy5-fluorouridine by cyclophosphamide in mammary tumor models. Int J Cancer 83:127-134, 1999 8. Toi M, Bando H, Horiguchi S, et al: Modulation of thymidine phosphorylase by neoadjuvant chemotherapy in primary breast cancer. Br J Cancer 90: 2338-2343, 2004 9. Steger GG, Greil R, Jakesz R, et al: Pathologic complete response in patient subgroups: An analy- 
+
+sis of ABCSG-24, a phase III, randomized study of anthracycline- and taxane-based neoadjuvant therapy with or without capecitabine in early breast cancer. J Clin Oncol 28:74s, 2010 (suppl 15s; abstr 530) 10. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine in combination with docetaxel and cyclophosphamide plus epirubicin for breast cancer: An open-label, randomised controlled trial. Lancet Oncol 10: 1145-1151, 2009 11. Liu S, Chia SK, Mehl E, et al: Progesterone receptor is a significant factor associated with clinical outcomes and effect of adjuvant tamoxifen therapy in breast cancer patients. Breast Cancer Res Treat 119:53-61, 2010 12. Lundin J, Lundin M, Holli K, et al: Omission of histologic grading from clinical decision making may result in overuse of adjuvant therapies in breast cancer: Results from a nationwide study. J Clin Oncol 19:28-36, 2001 
+
+© 2011 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+17 
+
+Joensuu et al 
+
+13. Myers RE, Johnston M, Pritchard K, et al: Baseline staging tests in primary breast cancer: A practice guideline. CMAJ 164:1439-1444, 2001 14. Ravaioli A, Pasini G, Polselli A, et al: Staging of breast cancer: New recommended standard procedure. Breast Cancer Res Treat 72:53-60, 2002 15. Pocock SJ: Group sequential methods in the design and analysis of clinical trials. Biometrika 64:191-199, 1977 16. O’Shaughnessy J, Stokoe PD, Pippen J Jr, et al: First efficacy results of a randomized, open-label, phase III study of adjuvant doxorubicin plus cyclophosphamide, followed by docetaxel with or without capecitabine, in high-risk early breast cancer. 33rd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr S4-2) 17. von Minckwitz G, Rezai M, Loibl S, et al: Capecitabine in addition to anthracycline- and 
+
+taxane-based neoadjuvant treatment in patients with primary breast cancer: Phase III GeparQuattro study. J Clin Oncol 28:2015-2023, 2010 18. Foulkes WD, Smith IE, Reis-Filho JS: Triplenegative breast cancer. N Engl J Med 363:19381948, 2010 19. Wildiers H, Forceville K, Paridaens R, et al: Taxanes and anthracyclines in early breast cancer: Which first? Lancet Oncol 11:219-220, 2010 20. Earl HM, Vallier A, Hiller L, et al: Neo-tango: A neoadjuvant randomized phase III trial of epirubicin/ cyclophosphamide and paclitaxel ⫾ gemcitabine in the treatment of women with high-risk early breast cancer: First report of the primary endpoint, pathological complete response. J Clin Oncol 27:12s, 2009 (suppl; abstr 522) 21. Miller KD, Soule SE, Calley C, et al: Randomized phase II trial of the anti-angiogenic potential of doxorubicin and docetaxel; primary chemotherapy 
+
+as Biomarker Discovery Laboratory. Breast Cancer Res Treat 89:187-197, 2005 22. Wildiers H, Dirix L, Neven P, et al: Delivery of adjuvant sequential dose-dense FEC-Doc to patients with breast cancer is feasible, but dose reductions and toxicity are dependent on treatment sequence. Breast Cancer Res Treat 114: 103-112, 2009 23. Leonard R, O’Shaughnessy J, Vukelja S, et al: Detailed analysis of a randomized phase III trial: Can the tolerability of capecitabine plus docetaxel be improved without compromising its survival advantage? Ann Oncol 17:1379-1385, 2006 24. Bono P, Kellokumpu-Lehtinen P-L, Alanko T, et al: Docetaxel 100 mg/m2 versus 80 mg/m2 as adjuvant treatments of early breast cancer: An exploratory analysis of a randomized trial. Ann Oncol 20:595-596, 2009 
+
+■ ■ ■ 
+
+ATTEND THE 2012 GASTROINTESTINAL CANCERS SYMPOSIUM The 2012 Gastrointestinal Cancers Symposium (January 19-21, 2012, in San Francisco, California) is a high-profile, specialized, multidisciplinary oncology event. This Symposium is designed to offer attendees the opportunity to discuss the latest translational and clinical research in the field of gastrointestinal cancers. New topics on this year’s program will explore broad issues that affect all gastrointestinal disease sites, such as epidemiology and development of clinical trials. Bookmark gicasym.org and visit regularly for meeting updates. The abstract submitter, registration, and housing selection features are now open. For more information, please visit gicasym.org/2011. 
+
+18 
+
+© 2011 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on May 12, 2014. For personal use only. No other uses without permission. Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 
+
+ 

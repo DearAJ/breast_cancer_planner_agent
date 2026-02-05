@@ -1,0 +1,917 @@
+Research 
+
+JAMA Oncology | Original Investigation 
+
+Clinical and Biomarker Findings of Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer NeoPACT Phase 2 Clinical Trial Priyanka Sharma, MD; Shane R. Stecklein, MD, PhD; Rachel Yoder, MS; Joshua M. Staley, MS; Kelsey Schwensen, BS; Anne O’Dea, MD; Lauren Nye, MD; Deepti Satelli, MD; Gregory Crane, MD; Rashna Madan, MBBS; Maura F. O’Neil, MD; Jamie Wagner, DO; Kelsey E. Larson, MD; Christa Balanoff, MD; Lyndsey Kilgore, MD; Milind A. Phadnis, PhD; Andrew K. Godwin, PhD; Roberto Salgado, MD; Qamar J. Khan, MD; Joyce O’Shaughnessy, MD Supplemental content IMPORTANCE Addition of pembrolizumab to anthracycline-based chemotherapy improves 
+
+pathologic complete response (pCR) and event-free survival (EFS) in triple-negative breast cancer (TNBC). The efficacy of anthracycline-free chemoimmunotherapy in TNBC has not been assessed. OBJECTIVE To assess the efficacy of the anthracycline-free neoadjuvant regimen of 
+
+carboplatin and docetaxel plus pembrolizumab in TNBC. DESIGN, SETTING, AND PARTICIPANTS This was an open-label phase 2 clinical trial including a single group of patients with stage I to III TNBC enrolled at 2 sites who received neoadjuvant carboplatin and docetaxel plus pembrolizumab every 21 days for 6 cycles. Participants were enrolled from 2018 to 2022. INTERVENTION OR EXPOSURE Carboplatin (with an area under the free carboplatin plasma concentration vs time curve of 6) and docetaxel (75 mg/m2) plus pembrolizumab (200 mg) every 21 days for 6 cycles. Myeloid growth factor support was administered with all cycles. MAIN OUTCOMES AND MEASURES Primary end point was pathologic complete response (pCR) defined as no evidence of invasive tumor in breast and axilla. The secondary end points were residual cancer burden, EFS, toxicity, and immune biomarkers. RNA isolated from pretreatment tumor tissue was subjected to next-generation sequencing. Specimens were classified as positive or negative for the 44-gene DNA damage immune response (DDIR) signature and for the 27-gene tumor immune microenvironment (TIM; DetermaIO) signature using predefined cutoffs. Stromal tumor-infiltrating lymphocytes (sTILs) were evaluated using standard criteria. Programmed cell death-ligand 1 (PD-L1) testing was performed using a standard immunohistochemical assay. RESULTS Among the eligible study population of 115 female patients (median [range] age, 50 [27-70] years) who enrolled from September 2018 to January 2022, 39% had node-positive disease. pCR and residual cancer burden 0 + 1 rates were 58% (95% CI, 48%-67%) and 69% (95% CI, 60%-78%), respectively. Grade 3 or higher immune-mediated adverse events were observed in 3.5% of patients. sTILs, PD-L1, DDIR, and TIM were each predictive of pCR in multivariable analyses. The areas under curve for pCR were 0.719, 0.740, 0.699, and 0.715 for sTILs, PD-L1, DDIR, and TIM, respectively. Estimated 3-year EFS was 86% in all patients; 98% in pCR group and 68% in no-pCR group. CONCLUSIONS AND RELEVANCE The findings of the phase 2 clinical trial indicate that neoadjuvant carboplatin and docetaxel plus pembrolizumab shows encouraging pCR and 3-year EFS. The regimen was well tolerated, and immune enrichment as identified by various biomarkers was independently predictive of pCR. These results provide data on an alternative anthracycline-free chemoimmunotherapy regimen for patients who are not eligible for anthracycline-based regimens and support further evaluation of this regimen as a chemotherapy de-escalation strategy in randomized studies for TNBC. TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT03639948 
+
+JAMA Oncol. doi:10.1001/jamaoncol.2023.5033 Published online November 22, 2023. 
+
+Author Affiliations: Author affiliations are listed at the end of this article. Corresponding Author: Priyanka Sharma, MD, 2330 Shawnee Mission Pkwy, MS 5003, Westwood, KS 66205 (psharma2@kumc.edu). 
+
+(Reprinted) E1 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+Research Original Investigation 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+A 
+
+ddition of neoadjuvant immune checkpoint blockade to anthracycline-based chemotherapy has been shown to lead to improvement in outcomes for patients with earlystage triple-negative breast cancer (TNBC).1-5 With the US Food & Drug Administration (FDA) approval of pembrolizumab (based on the results of the KEYNOTE-522 study1), the 5-drug regimen of pembrolizumab plus paclitaxel and carboplatin followed by doxorubicin plus cyclophosphamide and adjuvant pembrolizumab has become the de facto standard of care for most patients with stage II to III TNBC. Thus, strategies to deintensify the chemotherapy backbone of neoadjuvant chemoimmunotherapy regimens without compromising outcomes are desired. Anthracyclines and cyclophosphamide, although very active for treatment of breast cancer, have been associated with small but serious late risks, such as secondary leukemia−myelodysplastic syndrome and cardiomyopathy.6-8 Given the seriousness of these risks, there is increasing interest in exploring anthracycline-free neoadjuvant or adjuvant chemotherapy regimens for treatment of TNBC. Neoadjuvant carboplatin plus taxane regimens have demonstrated encouraging efficacy with a favorable toxicity profile in TNBC treatment. Carboplatin plus taxane regimens provide pathologic response rates of 45% to 55% in TNBC, and patients achieving pathologic complete response (pCR) with platinumtaxane regimens demonstrate excellent 3-year outcomes without adjuvant anthracycline.9-11 Furthermore, a randomized study12 has demonstrated that 6 cycles of adjuvant carboplatin plus paclitaxel was associated with superior disease-free survival compared with an anthracycline plus taxane regimen. Additionally, a recent small, randomized study13 demonstrated that 6 cycles of carboplatin plus docetaxel yielded pCR rates similar to a 4-drug regimen of carboplatin plus paclitaxel followed by doxorubicin plus cyclophosphamide, but with a more favorable toxicity profile and lower financial cost. Taken together, these data support further investigation of carboplatin plus taxane neoadjuvant regimen as a de-escalation strategy in TNBC treatment. The NeoPACT study aimed to assess efficacy of the anthracycline-free neoadjuvant regimen of carboplatin and docetaxel plus pembrolizumab in TNBC. 
+
+Methods Study Design The Neoadjuvant Phase II Study of Pembrolizumab and Carboplatin Plus Docetaxel in Triple Negative Breast Cancer (NeoPACT) was an open-label single-group study (Supplement 1). Participants were enrolled at the University of Kansas Medical Center and Baylor University Medical Center. Investigators performed human investigations after approval by the local Human Investigations Committee at each site, and each participant provided written informed consent. The study followed the Transparent Reporting of Evaluations With Nonrandomized Designs (TREND) reporting guidelines. 
+
+Study Participants Eligible patients were female individuals from 18 to 70 years old with stage I (tumor [T] size, >1 cm), II, or III TNBC who had E2 
+
+Key Points Question What is the efficacy of the anthracycline-free, neoadjuvant regimen of pembrolizumab plus carboplatin and docetaxel in triple-negative breast cancer (TNBC)? Findings This single-group phase 2 clinical trial including 115 evaluable women with TNBC found that neoadjuvant pembrolizumab plus carboplatin and docetaxel showed an encouraging pathologic complete response rate of 58% and a 3-year event-free survival of 86%. Immune enrichment as identified by various biomarkers was independently predictive of pCR. Meaning The findings of this phase 2 clinical trial provide data on an alternative anthracycline-free chemoimmunotherapy regimen for patients with TNBC who are not eligible for anthracyclinebased regimens and support further evaluation of neoadjuvant pembrolizumab plus carboplatin and docetaxel as a chemotherapy de-escalation strategy in randomized studies. 
+
+not received systemic chemotherapy or immunotherapy and had not undergone breast surgery. Included patients had to have adequate hematologic, hepatic, and kidney function, and an Eastern Cooperative Oncology Group performance status score of 0 to 1. Patients were excluded if they had ongoing peripheral neuropathy of a grade greater than 2; ejection fraction of less than 50%; inflammatory breast cancer; autoimmune disease requiring systemic treatment within the previous 2 years; diagnosis of immunodeficiency; receiving long-term steroid therapy (>10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within the previous 7 days; a history of HIV infection or noninfectious pneumonitis requiring glucocorticoids; current pneumonitis; active hepatitis B virus or hepatitis C infection; and/or any active infection requiring systemic therapy. Triple negativity was defined as estrogen receptor (ER) and progesterone receptor (PR) immunohistochemical nuclear staining of 10% or less and HER2/ERBB2 negativity per the 2018 American Society of Clinical Oncology−College of American Pathologists clinical practice guideline.14 For patients with clinically or radiologically suggestive axillary lymph node(s), histologic confirmation of nodal positivity was required. From September 2018 to January 2022, a total of 120 patients enrolled in the study; 5 patients were noted to be ineligible after enrollment. The remaining 115 patients were included in the intent-to-treat population, with 111 evaluable for pathologic response (Figure 1). 
+
+Study Procedures Patients received carboplatin (area under the free carboplatin plasma concentration vs time curve, 6) and docetaxel (75 mg/m2) plus pembrolizumab (200 mg) every 21 days for 6 cycles. Myeloid growth factor support was administered with all cycles. Patients underwent breast surgery after neoadjuvant chemotherapy. Axillary lymph node sampling at time of surgery was required in all patients. Adjuvant chemotherapy and immunotherapy were at the discretion of the treating physician, and radiation therapy was per standard of care. 
+
+JAMA Oncology Published online November 22, 2023 (Reprinted) 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+jamaoncology.com 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+Figure 1. Flow Diagram of Study Participants 120 Enrolled 5 Ineligible 2 HER2/ERBB2-positive breast cancer 1 ER-positive breast cancer (ER 98%) 1 Concurrent diagnosis of myeloproliferative disorder 1 Preexisting infection requiring systemic therapy and preexisting uncontrolled diabetes 115 Intent-to-treat analysis 4 Not evaluable for pathologic response analysis 3 Received ≤2 cycles of study treatment without progression, or received other neoadjuvant systemic treatment without progression before surgery 1 Removed from study treatment per physician decision (peptic ulcer disease-related gastric perforation; not study related) 
+
+Original Investigation Research 
+
+exact binomial 95% CIs were calculated using the exact 2-sided binomial test. In an exploratory analysis, pCR was reported for the subgroup of patients with stage II to III disease and ER and PR of less than 1% for comparison with the KEYNOTE-522 trial,1 which did not enroll patients with stage I disease nor ER and/or PR greater than 1%. Logistic regression was used to evaluate the effect of multiple variables on attainment of pCR. EFS was defined as time from diagnosis to first invasive locoregional or distant recurrence, study treatment-related death, or breast cancer−related death. Overall survival was defined as time from diagnosis to anycause death. Survival curves were assessed by the KaplanMeier method and groups compared by log-rank test. Analyses were conducted using SPSS Statistics, version 27 (IBM). 
+
+Results 111 Evaluable for pathologic response 
+
+ER refers to estrogen receptor. 
+
+Pathologic response was determined locally, without central pathologic review. pCR was defined as the absence of residual invasive disease in breast and axilla, with or without ductal carcinoma in situ (ypT0/isN0). Residual cancer burden (RCB) was reported using the classification method of Symmans et al.15 The Common Terminology Criteria for Adverse Events,16 version 4.03, was used for assessment of regimen toxicity and adverse effects. Central determination of stromal tumor-infiltrating lymphocytes (sTILs) density was assessed on pretreatment tumor specimens according to previously described criteria,17 by a single pathologist (R.S.), who was blinded to outcome information. sTILs density was reported as a percentage estimate in increments of 5%. Central PD-L1 testing was performed using the 22C3 pharmDx (Agilent) immunohistochemistry assay, with positivity defined as a combined positive score (CPS) of 10 or higher. RNA isolated from pretreatment formalin-fixed paraffinembedded tumor tissue was subjected to next-generation sequencing. Specimens were classified as positive or negative for the 44-gene DNA damage immune response (DDIR) signature and for the 27-gene tumor immune microenvironment (TIM; DetermaIO, Oncocyte Corp) signature using predefined cutoffs.18,19 
+
+Statistical Analysis The primary end point was pCR. Secondary end points included RCB, event-free survival (EFS), and toxicity. Response biomarkers and overall survival were exploratory objectives. A sample size of 113 participants allowed 90% power to detect an effect size corresponding to 15% improvement in pCR rate with chemoimmunotherapy over historical control pCR rate with chemotherapy (without immunotherapy) with α = .05. The historically known pCR rate for neoadjuvant chemotherapy was assumed at 50%. To ensure 113 evaluable patients, overall sample size was inflated to 120 patients. pCR and RCB 0 + 1 rates were estimated, and jamaoncology.com 
+
+Among study population of 115 evaluable patients (median [range] age, 50 [27-70] years; 115 [100%] women; 3 [3%] Asian, 20 [18%] Black, 91 [80%] White, and 1 [1%] individual of more than 1 race), 45 (39%) had lymph node-positive disease and 18 (16%) had ER and/or PR expression 1% to 10%. Baseline characteristics of the study population are summarized in Table 1; race and ethnicity data were self-reported. None of the patients had disease progression during neoadjuvant treatment. Overall pCR and RCB 0 + 1 rates for 111 patients evaluable for pathologic response were 58% (95% CI, 48%-67%) and 69% (95% CI, 60%-78%), respectively (eFigure 1A in Supplement 2). Among 83 patients with stage II to III disease and ER and PR less than 1%, pCR and RCB 0 + 1 rates were 58% and 68%, respectively. pCR rates in TNM stage I, II, and III disease were 69%, 58%, and 43%, respectively. eFigure 1A in Supplement 2 provides pCR rate by nodal status and ER and PR expression groups. 
+
+Immune Biomarkers and Response Results of sTILs, TIM, and DDIR testing were available for 113 patients, and PD-L1 results, for 112 patients. Missing biomarker data were owing to either unavailable (n = 2) or inadequate (n = 1) pretreatment tissue specimens. Results were as follows: 52 patients (48%) had sTILs of 30% or greater; 51 (47%) had PD-L1 positivity (CPS, ≥10); 57 (52%) had TIM positivity; and 62 (57%) had DDIR positivity. All 4 immune biomarkers (sTILs, PD-L1, TIM, DDIR) were moderately correlated (eFigure 2 in Supplement 2). High pCR rates (exceeding 70%) were noted in immune biomarker-positive subgroups (eFigure 1B in Supplement 2).On univariate analysis, nodal status and all 4 tested immune biomarkers were associated with pCR. sTILs, DDIR, and TIM were predictive of pCR as continuous variables and as binary categories (eFigure 1B in Supplement 2; Table 2). On multivariable analyses adjusting for T stage and nodal status, sTILs of 30% or greater, PD-L1 positivity, DDIR positivity, and TIM positivity were associated with pCR (eTable 1 in Supplement 2). When sTILs and another immune marker were included in the same model, the C-statistic showed modest improvement greater than either variable alone. (Reprinted) JAMA Oncology Published online November 22, 2023 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+E3 
+
+Research Original Investigation 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+Survival Outcomes Of the 111 patients evaluable for response, only 10 patients—9 with residual disease (RD) and 1 with pCR—received adjuvant pembrolizumab. Thirty-eight of 47 patients (81%) with RD and 1 of 64 (2%) with pCR received adjuvant chemotherapy. Among those who received adjuvant chemotherapy, 16 (41%) received anthracycline-based regimen alone, 14 (36%) received capecitabine alone, 8 (21%) received anthracycline followed by capecitabine, and 1 (3%) received platinum-based regimen. At a median follow-up of 27.4 months, estimated 3-year EFS was 86% (95% CI, 77%-95%) in all patients; 98% (95% CI, 95%-100%) in patients with pCR and 68% (95% CI, 48%88%) in patients with RD (Figure 2). Estimated 3-year overall survival was 89% (95% CI, 83%-95%) in all patients; 100% (95% CI was not calculated due to zero events) in pCR group and 79% (95% CI, 66%-92%) in RD group. On univariate analysis— factors analyzed were T stage, nodal status, sTILs, DDIR, TIM, and PD-L1 status—only higher T stage and positive nodal status were significantly associated with inferior EFS (T-stage HR, 5.22; 95% CI, 1.74-15.67; P = .001; and nodal status HR, 6.33; 95% CI, 1.74-23.05; P = .001). 
+
+Table 1. Characteristics of Study Patients (N = 115) No. (%) 
+
+Age at diagnosis, median (range), y 
+
+50 (27-70) 
+
+Race and ethnicitya Asian 
+
+3 (3) 
+
+Black 
+
+20 (18) 
+
+White 
+
+91 (80) 
+
+Multiracial 
+
+1 (1) 
+
+Non-Hispanic 
+
+112 (97) 
+
+Hispanic 
+
+3 (3) 
+
+Menopausal status Pre 
+
+58 (50) 
+
+Post 
+
+57 (50) 
+
+Germline BRCA1/2 mutation Yes 
+
+9 (8) 
+
+No 
+
+97 (84) 
+
+Unknown 
+
+9 (8) 
+
+T stage 
+
+Regimen Toxicity Among 115 patients, 31 (26.9%) experienced grade 3 or higher treatment-related adverse events (TRAEs; Table 3). The most common grade 3 or higher TRAEs were diarrhea (grade 3, 5 patients [4.3%]; grade 4, 0%), anemia (grade 3, 4 patients [3.5%]; grade 4, 0%), and peripheral sensory neuropathy (grade 3, 3 patients [2.6%]; grade 4, 0%). There was 1 study-related death. The patient had a myocardial infarction requiring percutaneous coronary intervention, with diagnosis of coronary artery disease 2 weeks after the first cycle of study treatment. The patient was removed from the study treatment (per treating physician) and was started on an alternative chemotherapy without immunotherapy. After another myocardial infarction 3 weeks after stopping study treatment, the patient died. Given that the death occurred within 30 days of study treatment cessation, the death was attributed to the study treatment. Immune-mediated AEs (iAEs) were observed in 30 patients (26.1%). Grade 3 or higher iAEs were noted in 4 patients (3.5%) (Table 3). The most common iAE of grade 3 or higher was colitis (2 [1.7%]). No cases of hypophysitis or adrenal insufficiency were noted. TRAEs led to discontinuation of any trial drug in 12% of patients. Discontinuation of pembrolizumab and chemotherapy due to TRAEs occurred in 7% and 10% of patients, respectively. 
+
+1 
+
+21 (18) 
+
+2 
+
+73 (63) 
+
+3 
+
+21 (18) 
+
+Nodal status Negative 
+
+70 (61) 
+
+b 
+
+45 (39) 
+
+Positive 
+
+TNM stage I 
+
+14 (12) 
+
+II 
+
+86 (75) 
+
+III 
+
+15 (13) 
+
+ER/PR (IHC) ER and PR <1% 
+
+97 (84) 
+
+ER and/or PR 1%-10% c 
+
+sTILs, median (range) 
+
+18 (16) 20 (1-95) 
+
+sTILs,c % <30 
+
+59 (52) 
+
+≥30 
+
+54 (48) 
+
+PD-L1 (CPS ≥10)d Positive 
+
+52 (46) 
+
+Negative 
+
+60 (54) 
+
+Surgery typee Lumpectomy Mastectomy 
+
+55 (48) 59 (52) 
+
+Adjuvant radiation therapye 
+
+87 (76) 
+
+Adjuvant immunotherapye 
+
+10 (9) 
+
+Abbreviations: CPS, combined positive score; ER, estrogen receptor; IHC, immunohistochemistry; PD-L1, programmed cell death-ligand 1; PR, progesterone receptor; sTILs, stromal tumor-infiltrating lymphocytes; TNBC, triple-negative breast cancer. 
+
+Discussion Findings of the NeoPACT trial show an encouraging pCR rate of 58% with an anthracycline-free neoadjuvant chemoimmunotherapy regimen of carboplatin and docetaxel plus pembrolizumab. These results compare favorably with pCR rates noted with neoadjuvant anthracycline-based chemoimmunotherapy. Previous anthracycline-based chemoimmunotherapy trials—eg, GeparNuevo,3 Impassion031,2 and E4 
+
+Characteristic 
+
+a 
+
+Race and/ethnicity data were self-reported and available for 114 patients. 
+
+b 
+
+Patients with clinically/radiologically abnormal axillary lymph nodes were required to have pathologic confirmation of nodal disease with image-guided biopsy/fine-needle aspiration. 
+
+c 
+
+sTILs data available for 113 patients. 
+
+d 
+
+PD-L1 data available for 112 patients. 
+
+e 
+
+Surgery data available for 114 patients. 
+
+JAMA Oncology Published online November 22, 2023 (Reprinted) 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+jamaoncology.com 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+Original Investigation Research 
+
+Table 2. Univariable Analysis of Factors Associated With Pathologic Complete Response to Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel pCR No. (%) 
+
+Frequency, No./total No. (%) 
+
+OR (95% CI) 
+
+Negative 
+
+69 (62) 
+
+45/69 (65) 
+
+2.27 (1.04-4.97) 
+
+Positive 
+
+42 (38) 
+
+19/42 (45) 
+
+1 [Reference] 
+
+T 1-2 
+
+91 (82) 
+
+52/91 (57) 
+
+1.13 (0.42-3.02) 
+
+T 3-4 
+
+20 (20) 
+
+12/20 (60) 
+
+1 [Reference] 
+
+Positive 
+
+9 (9) 
+
+7/9 (78) 
+
+2.89 (0.57-14.66) 
+
+Negative 
+
+95 (91) 
+
+52/95 (55) 
+
+1 [Reference] 
+
+<Median 
+
+55 (50) 
+
+34/55 (62) 
+
+1.40 (0.66-2.99) 
+
+≥Median 
+
+56 (50) 
+
+30/56 (54) 
+
+1 [Reference] 
+
+≥30 
+
+52 (48) 
+
+39/52 (75) 
+
+4.13 (1.82-9.36) 
+
+<30 
+
+57 (52) 
+
+24/57 (42) 
+
+1 [Reference] 
+
+Every 10% absolute increase 
+
+NA 
+
+NA 
+
+1.25 (1.10-1.43) 
+
+Positive 
+
+62 (57) 
+
+43/62 (69) 
+
+2.94 (1.33-6.51) 
+
+Negative 
+
+46 (43) 
+
+20/46 (43) 
+
+1 [Reference] 
+
+Every 0.10 absolute increase 
+
+NA 
+
+NA 
+
+1.27 (1.09-1.49) 
+
+Positive 
+
+57 (52) 
+
+41/57 (72) 
+
+3.49 (1.57-7.76) 
+
+Negative 
+
+52 (48) 
+
+22/52 (42) 
+
+1 [Reference] 
+
+Every 0.20 absolute increase 
+
+NA 
+
+NA 
+
+1.38 (1.10-1.66) 
+
+Positive 
+
+51 (47) 
+
+38/51 (74) 
+
+4.32 (1.90-9.84) 
+
+Negative 
+
+57 (53) 
+
+23/57 (40) 
+
+1 [Reference] 
+
+Variable 
+
+P value 
+
+Nodal status (n = 111) .04 
+
+T stage .81 
+
+Pathogenic germline BRCA1/2 variant (n = 104) .20 
+
+Age at diagnosis (n = 111), y .38 
+
+sTILs (n = 109), % .001 .001 
+
+DDIR (n = 108) .008 .003 
+
+TIM (n = 109) .002 .001 
+
+PD-L1 (n = 108) 
+
+Figure 2. Event-Free Survival (EFS) of Patients in the Intent-to-Treat Group (N = 115) 
+
+100 
+
+3-y EFS 98% 
+
+pCR 
+
+86% 
+
+ALL 
+
+EFS, % 
+
+90 80 
+
+68% 
+
+70 60 
+
+pCR vs residual disease: HR, 0.057 (95% CI, 0.01-0.45), log-rank P < .001 
+
+50 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+Residual disease 
+
+36 
+
+42 
+
+48 
+
+32 24 8 
+
+17 11 6 
+
+1 0 1 
+
+Months since diagnosis No. at risk ALL pCR Residual disease 
+
+115 64 47 
+
+114 64 47 
+
+103 62 40 
+
+87 55 31 
+
+71 46 25 
+
+53 37 16 
+
+HR indicates hazard ratio, and pCR, pathologic complete response. 
+
+KEYNOTE-5224—have reported pCR rates of 53%, 58%, and 63%, respectively. 1-3,20 In our trial, 39% of patients had pathologically confirmed node-positive disease; this proportion with nodal positivity is comparable to that of other jamaoncology.com 
+
+<.001 
+
+Abbreviations: DDIR, DNA damage immune response; NA, not applicable; OR, odds ratio; pCR, pathologic complete response; PD-L1, programmed cell death-ligand 1; sTILs, stromal tumor-infiltrating lymphocytes; TIM, 27-gene tumor immune microenvironment (DetermaIO); TNBC, triple-negative breast cancer. 
+
+TNBC neoadjuvant trials. Compared with some contemporary neoadjuvant trials, which excluded patients with TNM stage I disease, NeoPACT included these patients (14% stage I, T1cN0 disease). However, this did not substantially affect the overall efficacy of the regimen; sensitivity analyses after excluding patients with stage I disease showed pCR and RCB 0 + 1 rates of 56% and 67%, respectively. It is noteworthy that FDA approval of neoadjuvant pembrolizumab with chemotherapy is not restricted to patients with stage II to III disease, but rather broadly includes patients with “high risk early-stage TNBC.”21 To our knowledge, reported neoadjuvant chemoimmunotherapy trials have not included patients with HER2/ ERBB2 negative and low ER−PR disease. In NeoPACT, 16% of enrolled patients had low ER−PR (1%-10%), and we noted comparable pCR rates between patients with low vs negative ER−PR. A growing body of literature indicates that HER2/ ERBB2 negative, low ER−PR breast cancer displays clinical characteristics, chemotherapy response, and outcomes similar to TNBC.22-24 The low ER−PR group comprises 8% to 16% of HER2/ERBB2 negative breast cancer and is often excluded from TNBC clinical trials, thus limiting efficacy data for newer therapies in this group.22-24 Although numbers are small, NeoPACT (Reprinted) JAMA Oncology Published online November 22, 2023 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+E5 
+
+Research Original Investigation 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+provides some evidence of neoadjuvant chemoimmunotherapy efficacy in the group of patients with low ER−PR. The trial regimen was well tolerated, and no new toxicity signals were noted. TRAEs were associated with discontinuation of any trial drug in 12% of patients. These data compare favorably with those from neoadjuvant anthracycline-based chemoimmunotherapy regimens, in which toxic effectsrelated treatment discontinuation rates of 23% were reported by both the KEYNOTE-5221,4 and Impassion031 trials.2 iAEs of grade 3 or higher were noted in 3.5% patients in NeoPACT, with no cases of hypophysitis or adrenal insufficiency; this rate compares favorably with other neoadjuvant chemoimmunotherapy regimens, where grade 3 or higher iAEs were noted in 14% to 15% of patients.2,4 Absence of adrenal insufficiency among the NeoPACT participants is intriguing. A similar observation was noted in the NeoTRIP study,25 which similarly did not include anthracyclines in the regimen. These findings should be confirmed in other studies. The KEYNOTE-522 study1 established an intense 5-drug, 6-month neoadjuvant chemoimmunotherapy regimen with adjuvant pembrolizumab as a new standard for most patients with stage II to III TNBC. It is not clear if 3- to 4-drug polychemotherapy is necessary for all patients, and it may be possible to deintensify the chemotherapy backbone without compromising outcomes when immunotherapy is part of the neoadjuvant treatment. Given its efficacy, safety, and tolerability, the anthracycline-free chemoimmunotherapy regimen evaluated in NeoPACT represents an excellent option for further evaluation in chemotherapy de-escalation and optimization trials. Accordingly, an ongoing US National Cancer Institute, Cancer Therapy Evaluation Program-sponsored randomized phase 3 trial (Shorter Anthracycline-Free Chemoimmunotherapy Adapted to Pathological Response in Early TNBC [SCARLET])26 is comparing the NeoPACT regimen with the KEYNOTE-522 regimen in early-stage TNBC. Currently, patients with stage II to III TNBC who are not eligible for anthracyclines (eg, cardiac comorbidities, past exposure to anthracyclines) cannot be prescribed the anthracycline-based KEYNOTE-522 chemoimmunotherapy regimen. Pembrolizumab is the only FDA-approved checkpoint inhibitor for breast cancer. The US National Comprehensive Cancer Network guidelines list carboplatin plus docetaxel as “other recommended” neoadjuvant chemotherapy, and this regimen is commonly used for patients with TNBC who are not candidates for anthracyclines. The NeoPACT study provides efficacy (pCR and EFS) data for the only anthracyclinefree neoadjuvant chemotherapy plus pembrolizumab regimen that can be used in patients who are not candidates for anthracyclines but are candidates for pembrolizumab, thus lending clinical utility in current practice. Several immune biomarkers, including sTILs, PD-L1, 44gene DDIR signature, and 27-gene TIM signature were assessed in NeoPACT. The presence and increasing degree of immune enrichment (by each of the 4 biomarkers) was positively associated with pCR in our study. Similar positive association of immune markers with pathologic response has been observed in other chemoimmunotherapy studies.4,19,27 Given the single-group nature of our trial, we cannot comment regarding association of the evaluated immune biomarkers with E6 
+
+Table 3. Adverse Events (AEs) Among 115 Patients Treated With Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel, by AE Grade Patients, No. (%) Adverse event 
+
+All grades 
+
+Grade 1-2 
+
+Grade 3-4 
+
+Any AE 
+
+115 (100.0) 
+
+84 (73.0) 
+
+31 (26.9) 
+
+Fatigue 
+
+87 (75.7) 
+
+86 (74.8) 
+
+1 (0.9) 
+
+Diarrheab 
+
+72 (62.6) 
+
+67 (58.3) 
+
+5 (4.3) 
+
+Treatment-related AEsa 
+
+Nausea 
+
+68 (59.1) 
+
+66 (57.1) 
+
+2 (1.7) 
+
+Peripheral sensory neuropathyc 
+
+47 (40.9) 
+
+44 (38.3) 
+
+3 (2.6) 
+
+Constipation 
+
+44 (38.3) 
+
+44 (38.3) 
+
+0 
+
+Dysgeusia 
+
+41 (35.7) 
+
+41 (35.7) 
+
+0 
+
+Alopecia 
+
+39 (33.9) 
+
+39 (33.9) 
+
+0 
+
+Mucositis oral 
+
+39 (33.9) 
+
+39 (33.9) 
+
+0 
+
+Arthralgia 
+
+32 (27.8) 
+
+32 (27.8) 
+
+0 
+
+Rash 
+
+28 (24.3) 
+
+27 (23.5) 
+
+1 (0.9) 
+
+Watering eyes 
+
+27 (23.5) 
+
+27 (23.5) 
+
+0 
+
+Anorexia 
+
+26 (22.6) 
+
+26 (22.6) 
+
+0 
+
+Edema limbs 
+
+26 (22.6) 
+
+26 (22.6) 
+
+0 
+
+Myalgia 
+
+24 (20.9) 
+
+24 (20.9) 
+
+0 
+
+Anemia 
+
+21 (18.3) 
+
+17 (14.8) 
+
+4 (3.5) 
+
+Bone pain 
+
+20 (17.4) 
+
+20 (17.4) 
+
+0 
+
+Nail discoloration 
+
+20 (17.4) 
+
+20 (17.4) 
+
+0 
+
+Insomnia 
+
+19 (16.5) 
+
+19 (16.5) 
+
+0 
+
+Headache 
+
+16 (13.9) 
+
+16 (13.9) 
+
+0 
+
+Hot flashes 
+
+15 (13.0) 
+
+14 (12.2) 
+
+1 (0.9) 
+
+Abdominal pain 
+
+14 (12.2) 
+
+14 (12.2) 
+
+0 
+
+Dyspnea 
+
+13 (11.3) 
+
+13 (11.3) 
+
+0 
+
+Fever 
+
+13 (11.3) 
+
+12 (10.4) 
+
+1 (0.9) 
+
+Hypomagnesemia 
+
+13 (11.3) 
+
+12 (10.4) 
+
+1 (0.9) 
+
+Dehydration 
+
+12 (10.4) 
+
+10 (8.7) 
+
+2 (1.7) 
+
+Vomiting 
+
+12 (10.4) 
+
+12 (10.4) 
+
+0 
+
+Any immune-mediated AE 
+
+30 (26.1) 
+
+26 (22.6) 
+
+4 (3.5) 
+
+Rash 
+
+21 (18.3) 
+
+21 (18.3) 
+
+0 
+
+Hypothyroidism 
+
+4 (3.5) 
+
+4 (3.5) 
+
+0 
+
+Colitis 
+
+2 (1.7) 
+
+0 
+
+2 (1.7) 
+
+Inflammatory dermatitis 
+
+1 (0.9) 
+
+0 
+
+1 (0.9) 
+
+Autoimmune disorderd 
+
+1 (0.9) 
+
+0 
+
+1 (0.9) 
+
+Hyperthyroidism 
+
+1 (0.9) 
+
+1 (0.9) 
+
+0 
+
+Thyroiditis 
+
+1 (0.9) 
+
+1 (0.9) 
+
+0 
+
+Cranial nerve palsy 
+
+1 (0.9) 
+
+1 (0.9) 
+
+0 
+
+Focal meningomyelitis 
+
+1 (0.9) 
+
+1 (0.9) 
+
+0 
+
+Immune-mediated AEs 
+
+Abbreviation: TNBC, triple-negative breast cancer. a 
+
+Treatment-related adverse events that occurred in 10% or more of patients are reported. Grading scale follows the Common Terminology Criteria for Adverse Events.16 
+
+b 
+
+Grade 1 = 40%; grade 2 = 18.3%. 
+
+c 
+
+Grade 1 = 27.8%; grade 2 = 10.4%. 
+
+d 
+
+Glutamic acid decarboxylase 65−positive autoimmune encephalitis. 
+
+preferential benefit from immunotherapy. Immune enrichment was present in almost 50% of patients, with particularly high pCR rates (exceeding 70%) noted in PD-L1 positive (CPS ≥10), high sTILs (≥30%), or TIM-positive subgroups. 
+
+JAMA Oncology Published online November 22, 2023 (Reprinted) 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+jamaoncology.com 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+Smaller single-group studies of anthracycline-based chemoimmunotherapy have also reported pCR rates exceeding 70% among patients with high sTILs28,29; thus, it may be possible to further deintensify chemoimmunotherapy in patients with high sTILs. An ongoing neoadjuvant trial (Neoadjuvant TILand Response-Adapted Chemoimmunotherapy for TNBC30) is evaluating 4 cycles of taxane-platinum chemoimmunotherapy in early-stage TNBC with high sTILs. Additionally, the ongoing SCARLET trial26 is prospectively evaluating the predictive role of sTILs and other immune markers in patients receiving anthracycline-based and anthracycline-free chemoimmunotherapy. Our findings from NeoPACT, in which sTILs were associated with pCR, both as a continuous variable and at a binary cutoff of 30%, are consistent with known data.28,29,31 The optimal cutoff for chemotherapy or chemoimmunotherapy tailoring or de-escalation will need to be derived from prospective trials such as the SCARLET trial.26 Existing neoadjuvant chemoimmunotherapy studies show that addition of immunotherapy does not need to provide large improvements in pCR to improve long-term outcomes. In KEYNOTE-522 at the third interim analysis,32 the absolute improvement in pCR with addition of pembrolizumab to chemotherapy was modest at 7.5%, yet translated to a statistically significant and clinically meaningful 7.7% improvement in EFS, which led to approval of pembrolizumab for early-stage TNBC.21 In the GeparNuevo phase 2 trial,5 a 9% increase in pCR led to a statistically significant 8% absolute improvement in invasive disease-free survival. At the time of the NeoPACT study design, pCR or EFS outcomes from other neoadjuvant chemoimmunotherapy studies were not yet available; thus, an arbitrary 15% absolute improvement in pCR (50% to 65%) over the historic chemotherapy control was set. The pCR improvement (compared with historical control) in our study was 8% and technically did not reach the 15% targeted effect size. However, this pCR improvement is in line with chemoimmunotherapy trials described previously, and the absolute pCR rate of 58% is in line with other anthracycline-based chemoimmunotherapy trials, which have reported pCR rates ranging from 53% to 63%.1-3 Furthermore, the 3-year EFS rate in NeoPACT is encouraging, appears more favorable than with chemotherapy alone, and is in line with KEYNOTE-522 1 and GeparNuevo5 in cross-trial comparison. We acknowledge the limitations of these cross-trial comparisons; ultimately, the comparative merit of this nonanthracycline regimen will need to be established through randomized clinical trials such as SCARLET trial.26 
+
+ARTICLE INFORMATION Accepted for Publication: August 22, 2023. Published Online: November 22, 2023. doi:10.1001/jamaoncol.2023.5033 Author Affiliations: Department of Internal Medicine, University of Kansas Medical Center, Westwood (Sharma, Schwensen, O’Dea, Nye, Satelli, Crane, Khan); Department of Radiation Oncology, University of Kansas Medical Center, Kansas City (Stecklein); Department of Pathology & Laboratory Medicine, University of Kansas Medical Center, Kansas City (Stecklein, Madan, O’Neil, 
+
+jamaoncology.com 
+
+Original Investigation Research 
+
+We report a 3-year estimated EFS of 86% in NeoPACT, with only 9% of patients having received adjuvant pembrolizumab. Excellent outcomes (3-year estimated EFS 98%) were noted in the setting of pCR. GeparNuevo, which likewise did not include adjuvant checkpoint inhibitor therapy, showed a 3-year invasive disease-free survival of 95.5% in patients who received neoadjuvant durvalumab with nab-paclitaxel and epirubicin or cyclophosphamide.5 These observations raise questions regarding the absolute benefit of adjuvant immunotherapy in patients who achieve pCR with chemoimmunotherapy. An ongoing randomized phase 3 trial (the De-Escalation of Therapy in Early-Stage TNBC Patients Who Achieve pCR After Neoadjuvant Chemotherapy With Checkpoint Inhibitor Therapy33) is assessing the role of adjuvant pembrolizumab in patients who achieve pCR with chemoimmunotherapy, and will address this important clinical question. In our study, 3-year estimated EFS in patients with RD was 68%, which is in line with observations from KEYNOTE-522. 1 Postsurgery systemic therapy in NeoPACT was at physician discretion, with 81% of patients with RD receiving some type of adjuvant chemotherapy. This finding suggests wide adoption of adjuvant chemotherapy by clinicians and patients in the setting of RD. 
+
+Limitations This study had a few limitations of note. This was a singlegroup study of chemoimmunotherapy and was not designed to assess the benefit of immunotherapy in addition to chemotherapy. One could consider lack of adjuvant pembrolizumab as a limitation and not concordant with current practice guidelines. However, this trial was conducted prior to FDA approval of neoadjuvant and adjuvant pembrolizumab, and in fact, lack of adjuvant pembrolizumab allowed us to assess outcomes with only 18 weeks of pembrolizumab treatment. 
+
+Conclusions Taken together, the findings of this phase 2 clinical trial provide data on an alternative anthracycline-free chemoimmunotherapy regimen for patients with TNBC who are not eligible for anthracycline-based chemoimmunotherapy regimens. These findings also support further evaluation of the regimen— carboplatin and docetaxel plus pembrolizumab—as a chemotherapy de-escalation strategy in randomized studies, and provide basis for randomized studies to include prospective assessment of immune biomarkers. 
+
+Godwin); Department of Cancer Biology, University of Kansas Medical Center, Kansas City (Stecklein); The University of Kansas Cancer Center, Kansas City (Yoder, Staley, Godwin); Department of Surgery, University of Kansas Medical Center, Kansas City (Wagner, Larson, Balanoff, Kilgore); Department of Biostatistics and Data Science, University of Kansas Medical Center, Kansas City (Phadnis); Department of Pathology, ZAS Hospitals, Antwerp, Belgium (Salgado); Division of Research, Peter Mac Callum Canter Centre, Melbourne, Australia (Salgado); Baylor University Medical Center, Dallas, Texas (O’Shaughnessy). 
+
+Author Contributions: Dr Sharma had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Concept and design: Sharma, Stecklein, Salgado, Khan. Acquisition, analysis, or interpretation of data: Sharma, Stecklein, Yoder, Staley, Schwensen, O’Dea, Nye, Satelli, Crane, Madan, O’Neil, Wagner, Larson, Balanoff, Kilgore, Phadnis, Godwin, Salgado, O’Shaughnessy. Drafting of the manuscript: Sharma, Stecklein, Yoder, Staley, Madan, Wagner, Kilgore, Salgado. 
+
+(Reprinted) JAMA Oncology Published online November 22, 2023 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+E7 
+
+Research Original Investigation 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+Critical review of the manuscript for important intellectual content: Sharma, Stecklein, Schwensen, O’Dea, Nye, Satelli, Crane, O’Neil, Larson, Balanoff, Kilgore, Phadnis, Godwin, Salgado, Khan, O’Shaughnessy. Statistical analysis: Stecklein, Yoder, Staley, Phadnis, Salgado. Obtained funding: Sharma, Stecklein. Administrative, technical, or material support: Sharma, Stecklein, Yoder, Schwensen, Crane, Madan, O’Neil, Balanoff, Kilgore, Godwin. Supervision: Sharma, Stecklein, Schwensen, Larson, Salgado, Khan. Other - clinical aspect: Satelli. Other - coinvestigator, enrolling, and monitoring patients during protocol treatment: O’Dea. 
+
+REFERENCES 
+
+Conflict of Interest Disclosures: Dr Sharma reported research funding from Merck, Novartis, and Bristol Myers Squibb, royalties from UpToDate, and personal fees from Novartis, Merck, AstraZeneca, Pfizer, Gilead, GlaxoSmithKline, and Sanofi outside the submitted work. Dr O’Dea reported consulting/speaking fees and honoraria from Pfizer, Novartis, Eli Lilly, PUMA Biotechnology, Astra Zeneca, Daiichi Sankyo, Stemline, and Gilead, all outside the submitted work. Dr Nye reported advisory board membership for Myriad outside the submitted work. Dr Godwin reported grants from Predicine and VITRAC Therapeutics during the conduct of the study and being a Sinochips Diagnostics cofounder and scientific advisory board member outside the submitted work. Dr Salgado reported advisory board membership for Roche and Exact Sciences, and research report from Merck, Bristol Myers Squibb, Owkin, and Puma Biotechnology outside the submitted work. Dr O’Shaughnessy reported advisory board and/or consulting fees from Agendia, Aptitude Health, Daiichi Sankyo Consulting, Eisai, G1 Therapeutics, Genentech, Gilead, Eli Lilly, Loxo Oncology, Merck, Novartis, Ontada, Pfizer, Pierre Fabre Pharmaceuticals, Puma Biotechnology, Roche, Samsung Bioepis, Sanofi, Seagen, Stemline Therapeutics and Synthon, all outside the submitted work. No other disclosures were reported. 
+
+3. Loibl S, Untch M, Burchardi N, et al. A randomised phase II study investigating durvalumab in addition to an anthracycline taxane-based neoadjuvant therapy in early triple-negative breast cancer: clinical results and biomarker analysis of GeparNuevo study. Ann Oncol. 2019;30(8):1279-1288. doi:10.1093/annonc/mdz158 
+
+Funding/Support: This work was supported by The University of Kansas Cancer Center (KUCC), the Cancer Center Support to KUCC (No. P30 CA168524) (Biospecimen Repository Core Facility); the KUCC American Cancer Society Institutional Research Grant pilot award; University of Kansas Medical Center Research Institute (Lied Pilot award); the US National Institutes of Health award (No. KL2TR002367-05); Team Michelle; and Merck Sharp & Dohme LLC, a subsidiary of Merck & Co, Inc (Rahway, NJ, US). Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. The report was drafted by the corresponding author and was reviewed and approved by all authors and the funders. Meeting Presentation: This work was presented in part at the 58th annual meeting of the American Society of Clinical Oncology Annual Meeting; June 2-7, 2022; Chicago, IL, US. Data Sharing Statement: See Supplement 3. 
+
+E8 
+
+1. Schmid P, Cortes J, Dent R, et al; KEYNOTE-522 Investigators. Event-free survival with pembrolizumab in early triple-negative breast cancer. N Engl J Med. 2022;386(6):556-567. doi:10.1056/NEJMoa2112651 2. Mittendorf EA, Zhang H, Barrios CH, et al. Neoadjuvant atezolizumab in combination with sequential nab-paclitaxel and anthracycline-based chemotherapy versus placebo and chemotherapy in patients with early-stage triple-negative breast cancer (Impassion031): a randomised, double-blind, phase 3 trial. Lancet. 2020;396 (10257):1090-1100. doi:10.1016/S0140-6736(20) 31953-X 
+
+4. Schmid P, Cortes J, Pusztai L, et al; KEYNOTE-522 Investigators. Pembrolizumab for early triple-negative breast cancer. N Engl J Med. 2020;382(9):810-821. doi:10.1056/NEJMoa1910549 5. Loibl S, Schneeweiss A, Huober J, et al; GBG and AGO-B. Neoadjuvant durvalumab improves survival in early triple-negative breast cancer independent of pathological complete response. Ann Oncol. 2022;33(11):1149-1158. doi:10.1016/j.annonc.2022.07. 1940 6. Wolff AC, Blackford AL, Visvanathan K, et al. Risk of marrow neoplasms after adjuvant breast cancer therapy: the national comprehensive cancer network experience. J Clin Oncol. 2015;33(4):340348. doi:10.1200/JCO.2013.54.6119 7. Khouri MG, Douglas PS, Mackey JR, et al. Cancer therapy-induced cardiac toxicity in early breast cancer: addressing the unresolved issues. Circulation. 2012;126(23):2749-2763. doi:10.1161/ CIRCULATIONAHA.112.100560 8. Tan TC, Neilan TG, Francis S, Plana JC, Scherrer-Crosbie M. Anthracycline-induced cardiomyopathy in adults. Compr Physiol. 2015;5 (3):1517-1540. doi:10.1002/cphy.c140059 9. Sharma P, López-Tarruella S, García-Saenz JA, et al. Pathological response and survival in triple-negative breast cancer following neoadjuvant carboplatin plus docetaxel. Clin Cancer Res. 2018; 24(23):5820-5829. doi:10.1158/1078-0432.CCR-180585 10. Gluz O, Nitz U, Liedtke C, et al. Comparison of neoadjuvant nab-paclitaxel+carboplatin vs nab-paclitaxel+gemcitabine in triple-negative breast cancer: randomized WSG-ADAPT-TN trial results. J Natl Cancer Inst. 2018;110(6):628-637. doi:10.1093/jnci/djx258 11. Gluz O, Nitz U, Kolberg-Liedtke C, et al; ADAPT TN investigators. De-escalated neoadjuvant chemotherapy in early triple-negative breast cancer (TNBC): impact of molecular markers and final survival analysis of the WSG-ADAPT-TN trial. Clin Cancer Res. 2022;28(22):4995-5003. doi:10.1158/ 1078-0432.CCR-22-0482 12. Yu KD, Ye FG, He M, et al. Effect of adjuvant paclitaxel and carboplatin on survival in women with triple-negative breast cancer: a phase 3 
+
+randomized clinical trial. JAMA Oncol. 2020;6(9): 1390-1396. doi:10.1001/jamaoncol.2020.2965 13. Sharma P, Kimler BF, O’Dea A, et al. Randomized phase II trial of anthracycline-free and anthracycline-containing neoadjuvant carboplatin chemotherapy regimens in stage I-III triple-negative breast cancer (NeoSTOP). Clin Cancer Res. 2021;27 (4):975-982. doi:10.1158/1078-0432.CCR-20-3646 14. Wolff AC, Hammond MEH, Allison KH, et al. Human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline focused update. J Clin Oncol. 2018;36(20):2105-2122. doi:10.1200/JCO.2018.77. 8738 15. Symmans WF, Peintinger F, Hatzis C, et al. Measurement of residual breast cancer burden to predict survival after neoadjuvant chemotherapy. J Clin Oncol. 2007;25(28):4414-4422. doi:10.1200/ JCO.2007.10.6823 16. US National Cancer Institute, Cancer Therapy Evaluation Program. Common Terminology Criteria for Adverse Events. Accessed October 24, 2023. https://ctep.cancer.gov/protocoldevelopment/ electronic_applications/ctc.htm 17. Salgado R, Denkert C, Demaria S, et al; International TILs Working Group 2014. The evaluation of tumor-infiltrating lymphocytes (TILs) in breast cancer: recommendations by an International TILs Working Group 2014. Ann Oncol. 2015;26(2):259-271. doi:10.1093/annonc/mdu450 18. Mulligan JM, Hill LA, Deharo S, et al. Identification and validation of an anthracycline/cyclophosphamide-based chemotherapy response assay in breast cancer. J Natl Cancer Inst. 2014;106(1):djt335. doi:10.1093/ jnci/djt335 19. Bianchini G, Dugo M, Huang C, et al Predictive value of gene-expression profiles (GEPs) and their dynamics during therapy in the NeoTRIPaPDL1 trial. 2021;32(suppl 5):S12830-S12854. 20. Merck. KEYTRUDA (pembrolizumab) KEYNOTE-522. 2021. Accessed October 23, 2023. https://www.fda.gov/media/145771/download 21. US Food & Drug Administration. Pembrolizumab: high-risk, early-stage triple-negative breast cancer. 2021. Oncologic Drugs Advisory Committee Briefing Document. https://www.fda.gov/media/145654/download 22. Yoder R, Kimler BF, Staley JM, et al. Impact of low versus negative estrogen/progesterone receptor status on clinico-pathologic characteristics and survival outcomes in HER2-negative breast cancer. NPJ Breast Cancer. 2022;8(1):80. doi:10.1038/s41523-022-00448-4 23. Park YH, Karantza V, Calhoun SR, et al. Prevalence, treatment patterns, and prognosis of low estrogen receptor-positive (1% to 10%) breast cancer: a single institution’s experience in Korea. Breast Cancer Res Treat. 2021;189(3):653-663. doi:10.1007/s10549-021-06309-1 24. Dieci MV, Griguolo G, Bottosso M, et al. Impact of estrogen receptor levels on outcome in non-metastatic triple negative breast cancer patients treated with neoadjuvant/adjuvant chemotherapy. NPJ Breast Cancer. 2021;7(1):101. doi:10.1038/s41523-021-00308-7 25. Gianni L, Huang CS, Egle D, et al. Pathologic complete response (pCR) to neoadjuvant treatment 
+
+JAMA Oncology Published online November 22, 2023 (Reprinted) 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+jamaoncology.com 
+
+Neoadjuvant Pembrolizumab and Carboplatin Plus Docetaxel in Triple-Negative Breast Cancer 
+
+with or without atezolizumab in triple-negative, early high-risk and locally advanced breast cancer: neoTRIP Michelangelo randomized study. Ann Oncol. 2022;33(5):534-543. doi:10.1016/j.annonc.2022.02. 004 26. US National Cancer Institute, Cancer Therapy Evaluation Program. Shorter Anthracycline-Free Chemoimmunotherapy Adapted to Pathological Response in Early TNBC (SCARLET); SWOG S2212. Accessed October 24, 2023. https://www.swog. org/our-network 27. Sinn BV, Loibl S, Hanusch CA, et al. Immune-related gene expression predicts response to neoadjuvant chemotherapy but not additional benefit from PD-L1 inhibition in women with early triple-negative breast cancer. Clin Cancer Res. 2021; 27(9):2584-2591. doi:10.1158/1078-0432.CCR-20-3113 28. Schmid P, Salgado R, Park YH, et al. Pembrolizumab plus chemotherapy as neoadjuvant 
+
+jamaoncology.com 
+
+treatment of high-risk, early-stage triple-negative breast cancer: results from the phase 1b open-label, multicohort KEYNOTE-173 study. Ann Oncol. 2020; 31(5):569-581. doi:10.1016/j.annonc.2020.01.072 29. Kok M, Nederlof I, Isaeva O, et al. Nivolumab and ipilimumab in early-stage triple negative breast cancer (TNBC) with tumor-infiltrating lymphocytes (TILs): first results from the BELLINI trial. Presented at the ESMO Congress 2022; Paris. https:// oncologypro.esmo.org/meeting-resources/esmocongress-2022/nivolumab-and-ipilimumab-inearly-stage-triple-negative-breast-cancer-tnbcwith-tumor-infiltrating-lymphocytes-tils-firstresults-from-the-bel 30. University of Kansas Medical Center. Neoadjuvant TIL- and Response-Adapted Chemoimmunotherapy for TNBC (NeoTract). Accessed October 24, 2023. https://clinicaltrials. gov/study/NCT05645380 
+
+Original Investigation Research 
+
+31. Loi S, Drubay D, Adams S, et al. Tumor-infiltrating lymphocytes and prognosis: a pooled individual patient analysis of early-stage triple-negative breast cancers. J Clin Oncol. 2019;37 (7):559-569. doi:10.1200/JCO.18.01010 32. Schmid P, Cortes J, Dent R. VP7-2021: KEYNOTE-522: Phase III Study of Neoadjuvant Pembrolizumab + Chemotherapy vs. Placebo + Chemotherapy, Followed by Adjuvant Pembrolizumab vs Placebo for Early-Stage TNBC. Accessed October 25, 2023. https://www. annalsofoncology.org/article/S0923-7534(21) 02063-9/fulltext 33. Alliance for Clinical Trials in Oncology. De-Escalation of Therapy in Early-Stage TNBC Patients Who Achieve pCR After Neoadjuvant Chemotherapy With Checkpoint Inhibitor Therapy (OptimICE). Accessed October 24, 2023. https://clinicaltrials.gov/study/NCT05812807 
+
+(Reprinted) JAMA Oncology Published online November 22, 2023 
+
+© 2023 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/23/2023 
+
+E9 
+
+ 

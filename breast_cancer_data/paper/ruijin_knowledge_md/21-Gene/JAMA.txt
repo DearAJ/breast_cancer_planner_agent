@@ -1,0 +1,1287 @@
+Research 
+
+JAMA Oncology | Original Investigation 
+
+Clinical Outcomes in Early Breast Cancer With a High 21-Gene Recurrence Score of 26 to 100 Assigned to Adjuvant Chemotherapy Plus Endocrine Therapy A Secondary Analysis of the TAILORx Randomized Clinical Trial Joseph A. Sparano, MD; Robert J. Gray, PhD; Della F. Makower, MD; Kathy S. Albain, MD; Thomas J. Saphner, MD; Sunil S Badve, MBBS, MD; Lynne I. Wagner, PhD; Virginia G. Kaklamani, MD, DSc; Maccon M. Keane, MD; Henry L. Gomez, MD; Pavan S. Reddy, MD; Timothy F. Goggins, MD; Ingrid A. Mayer, MD, MSCI; Deborah L. Toppmeyer, MD; Adam M. Brufsky, MD, PhD; Matthew P. Goetz, MD; Jeffrey L. Berenberg, MD; Catalin Mahalcioiu, MD; Christine Desbiens, MD; Daniel F. Hayes, MD; Elizabeth C. Dees, MD; Charles E. Geyer Jr, MD; John A. Olson Jr, MD, PhD; William C Wood, MD; Tracy Lively, PhD; Soonmyung Paik, MD; Matthew J. Ellis, MB, BChir, BSc, PhD; Jeffrey Abrams, MD; George W. Sledge Jr, MD Supplemental content IMPORTANCE A high 21-gene recurrence score (RS) by breast cancer assay is prognostic for distant recurrence of early breast cancer after local therapy and endocrine therapy alone, and for chemotherapy benefit. OBJECTIVE To describe clinical outcomes for women with a high RS who received adjuvant chemotherapy plus endocrine therapy in the TAILORx trial, a population expected to have a high distant recurrence rate with endocrine therapy alone. DESIGN, SETTING, AND PARTICIPANTS In this secondary analysis of data from a multicenter randomized clinical trial, 1389 women with hormone receptor–positive, ERBB2-negative, axillary node-negative breast cancer, and a high RS of 26 to 100 were prospectively assigned to receive adjuvant chemotherapy in addition to endocrine therapy. The analysis was conducted on on May 12, 2019. INTERVENTIONS The adjuvant chemotherapy regimen was selected by the treating physician. MAIN OUTCOMES AND MEASURES Freedom from recurrence of breast cancer at a distant site, and freedom from recurrence, second primary cancer, and death (also known as invasive disease-free survival [IDFS]). RESULTS Among the 9719 eligible women, with a mean age of 56 years (range 23-75 years), 1389 (14%) had a recurrence score of 26 to 100, of whom 598 (42%) had an RS of 26 to 30 and 791 (58%) had an RS of 31 to 100. The most common chemotherapy regimens included docetaxel/cyclophosphamide in 589 (42%), an anthracycline without a taxane in 334 (24%), an anthracycline and taxane in 244 (18%), cyclophosphamide/methotrexate/5-fluorouracil in 52 (4%), other regimens in 81 (6%), and no chemotherapy in 89 (6%). At 5 years, the estimated rate of freedom from recurrence of breast cancer at a distant site was 93.0% (standard error [SE], 0.8%), freedom of recurrence of breast cancer at a distant and/or local regional site 91.0% (SE, 0.8%), IDFS 87.6% (SE, 1.0%), and overall survival 95.9% (SE, 0.6%). CONCLUSIONS AND RELEVANCE The estimated rate of freedom from recurrence of breast cancer at a distant site in women with an RS of 26 to 100 treated largely with taxane and/or anthracycline-containing adjuvant chemotherapy regimens plus endocrine therapy in the prospective TAILORx trial was 93% at 5 years, an outcome better than expected with endocrine therapy alone in this population. TRIAL REGISTRATION ClinicalTrials.gov identifier NCT00310180 
+
+JAMA Oncol. doi:10.1001/jamaoncol.2019.4794 Published online September 30, 2019. 
+
+Author Affiliations: Author affiliations are listed at the end of this article. Corresponding Author: Joseph Sparano, MD, Montefiore Medical Center, 1695 Eastchester Rd, Bronx, NY 10461 (jsparano@montefiore.org). 
+
+(Reprinted) E1 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+Research Original Investigation 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+T 
+
+he 21-gene recurrence score (RS) assay provides prognostic information for distant recurrence in hormone–receptor-positive, ERBB2-negative early breast cancer that is independent of clinicopathologic features,1 and is also predictive of chemotherapy benefit when the RS is high.2,3 Prediction of chemotherapy benefit was initially established in the prospective-retrospective validation study including primary tumor samples from 651 patients enrolled in the B20 trial with hormone receptor– positive, axillary node-negative breast cancer randomized to tamoxifen or chemotherapy plus tamoxifen, whether high RS was defined as 31 to 100 irrespective of ERBB2 RNA expression (n = 651),2 or 26 to 100 in tumor samples that had a low ERBB2 RNA expression score (n = 569).4 For the 122 (21%) patients with a high RS of 26 to 100 in the ERBB2-negative cohort of the B20 validation cohort randomized to tamoxifen or tamoxifen plus an adjuvant chemotherapy regimen (including methotrexate and 5-fluorouracil with or without cyclophosphamide), 10-year distant recurrence-free survival rates were 62% (95% CI, 48%-81%) with tamoxifen alone, and 88% (95% CI, 81%95%) with chemotherapy plus tamoxifen; there was a statistically significant interaction between chemotherapy treatment and high RS (likelihood ratio test on interaction, P = .01), indicating that high RS was not only prognostic for a high distant recurrence rate, but also predictive of chemotherapy benefit.4 Distant recurrence-free survival rates were similar with endocrine therapy alone in other cohorts, including the prospective-retrospective validation study using primary tumor samples derived from 594 patients with hormone receptor–positive, ERBB2-negative axillary node-negative breast cancer enrolled in the B14 trial who received adjuvant tamoxifen without chemotherapy; 157 (26%) with a high RS of 26 to 100 had an estimated 10-year distant recurrence-free survival rate of 70% (standard error [SE], 3.9%).1 T h e T r i a l A s s i g n i ng I n d iv i d u a l i ze d O p t i o n s fo r Treatment (TAILORx) was a prospective trial designed to address gaps in our knowledge about the application of the 21-gene RS in hormone receptor–positive, ERBB2-negative, axillary node-negative breast cancer.5 The TAILORx trial results demonstrated that endocrine therapy alone was noninferior to adjuvant chemotherapy plus endocrine therapy in the overall population with an RS of 11 to 25, the primary trial end point, with some chemotherapy benefit noted for trial participants who were aged 50 years or younger with an RS of 16 to 25 in exploratory analysis. 6 The trial also demonstrated a low distant recurrence rate of 1% at 5 years and 3% at 9 years with endocrine therapy alone if the RS was 0 to 10 irrespective of age,6,7 and that integration of clinical features with RS provided additional prognostic information for recurrence but not prediction of chemotherapy benefit.8 In this report we provide a descriptive analysis of clinical outcomes, characteristics, and adjuvant chemotherapy regimens for patients with an RS of 26 to 100 assigned to receive chemotherapy, including regimens largely including taxanes and/or anthracyclines, plus endocrine therapy.6,8 E2 
+
+Key Points Question What is the prognosis in early breast cancer associated with a high 21-gene recurrence score when treated with adjuvant chemotherapy plus endocrine therapy? Findings In this secondary analysis of a randomized clinical trial, among 1389 women with early breast cancer and a high score of 26 to 100 by 21-gene assay who received adjuvant chemotherapy, the estimated proportion free from distant recurrence at 5 years was 93%. Meaning In women with hormone receptor–positive, ERBB2-negative, axillary node–negative breast cancer, and a high 21-gene recurrence score, a higher proportion were free from distant recurrence when treated with chemoendocrine therapy than expected with endocrine therapy alone. 
+
+Methods Study Protocol The trial protocol is available in Supplement 1. This was a prospective clinical trial sponsored by the National Cancer Institute (NCI) that was coordinated by the Eastern Cooperative Oncology Group (ECOG) and subsequently ECOG-ACRIN Cancer Research Group and approved by the National Cancer Institute Central institutional review board or local institutional review board. Women were required to provide written informed consent, including willingness to have treatment assigned or randomized based on the RS results. All women had an Oncotype DX RS assay performed in a central laboratory (Genomic Health, Inc).1 Additional details regarding the study protocol have been previously reported.6-8 Clinicians were able to select 1 of several commonly used chemotherapy regimens (eTable 1 in Supplement 2). Participants with a high RS of 26 to 100 and assigned to chemotherapy (arm D) were enrolled in a voluntary prospective registry; as previously described, 6 sufficient baseline and follow-up information was available in 1389 of 1737 patients (80%) with a high RS for inclusion in the analysis. 
+
+Study End Points The standardized definitions for efficacy end points (STEEP) criteria were used for end point definitions.9 End points included (1) invasive disease-free survival (IDFS), defined as time from registration to first event, where the first event is ipsilateral breast tumor recurrence, local recurrence, regional recurrence, distant recurrence, contralateral second primary invasive cancer, second primary nonbreast invasive cancer (excluding nonmelanoma skin cancers), or death without evidence of recurrence; (2) distant recurrence-free interval, defined as time from registration to date of distant recurrence of breast cancer, or of death with distant recurrence, if death is the first manifestation of distant recurrence (referred to here as freedom recurrence of breast cancer at a distant site); (3) relapse-free interval, defined as date from registration to first recurrence of breast cancer (ipsilateral breast, localregional, or distant), or to the date of death with recurrence, 
+
+JAMA Oncology Published online September 30, 2019 (Reprinted) 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+jamaoncology.com 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+if death is the first manifestation of recurrence (referred to here as freedom from recurrence of breast cancer at a distant and/or localregional site); and (4) overall survival (OS), defined as date from registration to death from any cause. 
+
+Statistical Analysis of Clinical Outcomes The overall sample size was driven by the need to include a sufficient number of patients with an RS of 11 to 25 to test noninferiority of endocrine therapy alone, the experimental arm, to chemotherapy plus endocrine therapy, the standard arm, as previously described.6 The final analysis took place on March 2, 2018, at which time the prespecified number of events required for full information (n = 835) had occurred in the randomized group with an RS of 11 to 25. At the time of the analysis, among 1389 patients with an RS of 26 to 100 included in the analysis, there were 80 distant recurrence events and 134 IDFS events by 5 years and 101 events and 189 IDFS events by 9 years (eTable 2 in Supplement 2). The median follow-up at the time of analysis in the high-risk arm was 61 months (range, 0.1-132 months). There was a larger dropout rate in the highrisk arm (arm D) than the other arms (arms A, B, C) (eFigure in Supplement 2) because of the voluntary nature of the highrisk registry, and because follow-up for the high-risk arm was requested for up to 5 years. Five-year event rates are shown because most distant recurrence events occurred within 5 years (80/101 [80%]), and because follow-up information beyond 5 years was limited for the reasons described. Event-free rates were estimated using the Kaplan-Meier method, with confidence intervals computed using the log-log transform and Greenwood’s variance. Analyses were conducted using R statistical software (version 3.2.3, R Foundation) on May 12, 2019. 
+
+Statistical Methods for Projection of Clinical Outcomes With Endocrine Therapy Alone The expected rate of distant recurrence through 5 and 9 years of patients with RS of 26 to 100 (referred to here as arm D of TAILORx) if treated with endocrine therapy alone was estimated by combining patient-specific distant recurrence risk information from TAILORx arm D with patient-specific chemotherapy benefit information from ERBB2-negative cohort derived from the NSABP B20 trial.4 For each individual patient in TAILORx arm D, the log cumulative hazard of distant recurrence was estimated from a Cox model with effects for RS as a continuous covariate and age category (≤50 vs >50 years). The patient-specific log hazard ratio for chemotherapy effect was estimated from NSABP study B20 patients who were ERBB2-negative and hormone receptor–positive (by reverse transcription polymerase chain reaction) using a Cox model with effects for RS as a continuous covariate, age category (≤50 vs >50 years), randomized chemotherapy use, the 2-way interactions of RS with chemotherapy and age category with chemotherapy, and the 3-way interaction of RS with age category with chemotherapy. Combining these 2 estimates and transforming to the risk scale yielded a patientspecific distant recurrence risk estimate for the scenario in which the patients did not receive chemotherapy. The individual risk estimates were averaged across the TAILORx arm D population, with SEs computed using the Δ method. jamaoncology.com 
+
+Original Investigation Research 
+
+Results Patient and Tumor Characteristics by Adjuvant Chemotherapy Regimen A total of 10 253 eligible women were registered between April 7, 2006, and October 6, 2010. Among the 9719 eligible participants with follow-up information included in the main analysis set, 1389 (14%) had a recurrence score of 26 to 100, of whom 598 (42%) had an RS of 26 to 30, and 791 (58%) had an RS of 31 to 100. The characteristics of the high-RS group are shown in Table 1. The most common chemotherapy regimens included docetaxel/cyclophosphamide in 589 (42%), an anthracycline without a taxane in 334 (24%), an anthracycline and taxane in 2 44 (18%), c yclophosphamide/ methotrexate/5-fluorouracil (CMF) in 52 (4%), other regimens in 81 (6%), and no chemotherapy in 89 (6%). Patients treated with CMF tended to be older (median age, 61.5 years), and those treated with anthracyclines and taxanes tended to be younger (median age, 53.5 years), compared with those treated with taxane and cyclophosphamide or an anthracycline without a taxane (median age, 57 years). Of 89 patients who received no adjuvant chemotherapy, and were thus nonadherent with assigned treatment, a higher proportion had an RS of 26 to 30 (52 of 89 [58%]) than those who received chemotherapy (546 of 1300 [42%]), whereas other characteristics, such as age, tumor size, and grade were largely similar. 
+
+Clinical Outcomes in the Overall Population and by Chemotherapy Regimen In the overall population assigned to chemotherapy, as summarized in Table 2, the estimated 5-year rates of freedom from recurrence of breast cancer at a distant site were 93.0% (SE, 0.8%), freedom of recurrence of breast cancer at a distant and/or local regional site 91.0% (SE, 0.8%), IDFS 87.6% (SE, 1.0%), and OS 95.9% (SE, 0.6%). Clinical outcomes stratified by chemotherapy regimens are shown in the Figure, and further described in Table 2 as 5-year Kaplan-Meier estimates. Five-year rates of freedom from recurrence of breast cancer at a distant site ranged from 92.3% (SE, 1.6%) to 95.5% (SE, 2.5%) for all chemotherapy regimens with the exception of CMF, which was associated with an 88.5% (SE, 4.8%) rate; those who received no chemotherapy had similar rates (92.6% SE, 3.1%) compared with those who did receive chemotherapy. Five-year rates of IDFS ranged from 84.0% (SE, 5.6%) to 91.3% (SE, 3.4%) for those who received chemotherapy, but were lower for those who received no chemotherapy (79.7%; SE, 4.9%). Nine-year event rates are shown in eTable 3 in Supplement 2, but should be interpreted with caution because of limited follow-up beyond 5 years, and potential for bias in reporting of clinical events; for the overall population, the estimated 9-year rates of freedom from recurrence of breast cancer at a distant site was 86.8% (SE, 1.7%), Cox models for comparison of any chemotherapy regimen vs none with adjustment for tumor size (>2 vs ≤2 cm), age (>65 vs 51-65 vs ≤50 years), grade, and RS revealed estimated hazard ratios of 0.74 (95% CI, 0.32-1.69) for freedom from recurrence of breast cancer at a distant site and 0.48 (95% CI, (Reprinted) JAMA Oncology Published online September 30, 2019 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+E3 
+
+Research Original Investigation 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+Table 1. Characteristics of Patients in the Recurrence Score 26 to 100 Cohort Assigned to Chemotherapy Stratified by Chemotherapy Regimen in the Intention-to-Treat Population No. (%) 
+
+Study Arm 
+
+Total 
+
+Taxane and Cyclophosphamide 
+
+No. 
+
+1389 
+
+589 
+
+Anthracycline Without Taxane 
+
+Anthracycline Plus Taxane 
+
+CMF 
+
+Other 
+
+No Chemotherapy 
+
+334 
+
+244 
+
+52 
+
+81 
+
+89 
+
+56 (36-75) 
+
+Age, y Median (range) 
+
+56 (23-75) 
+
+57 (23-74) 
+
+57 (31-75) 
+
+53.5 (30-75) 
+
+61.5 (40-75) 
+
+54 (36-75) 
+
+IQR 
+
+(49-63) 
+
+(50-63) 
+
+(50-63) 
+
+(46-60) 
+
+(53-67.5) 
+
+(49-62) 
+
+(50-63) 
+
+Mean (SD) 
+
+55.8 (9.4) 
+
+56.2 (9.3) 
+
+56.3 (8.8) 
+
+53.3 (9.8) 
+
+60.0 (9.7) 
+
+55.4 (8.9) 
+
+55.9 (9.4) 
+
+≤40 
+
+79 (6) 
+
+33 (6) 
+
+13 (4) 
+
+26 (11) 
+
+1 (2) 
+
+1 (1) 
+
+5 (6) 
+
+41-50 
+
+330 (24) 
+
+127 (22) 
+
+76 (23) 
+
+65 (27) 
+
+10 (19) 
+
+29 (36) 
+
+23 (26) 
+
+51-60 
+
+512 (37) 
+
+217 (37) 
+
+137 (41) 
+
+92 (38) 
+
+12 (23) 
+
+21 (26) 
+
+33 (37) 
+
+61-70 
+
+395 (28) 
+
+185 (31) 
+
+93 (28) 
+
+52 (21) 
+
+20 (38) 
+
+26 (32) 
+
+19 (21) 
+
+71-75 
+
+73 (5) 
+
+27 (5) 
+
+15 (4) 
+
+9 (4) 
+
+9 (17) 
+
+4 (5) 
+
+9 (10) 
+
+Premenopausal 
+
+407 (29) 
+
+158 (27) 
+
+91 (27) 
+
+99 (41) 
+
+10 (19) 
+
+25 (31) 
+
+24 (27) 
+
+Postmenopausal 
+
+982 (71) 
+
+431 (73) 
+
+243 (73) 
+
+145 (59) 
+
+42 (81) 
+
+56 (69) 
+
+65 (73) 
+
+Tumor size, cm Median (range) 
+
+1.7 (0.2-21.4) 
+
+1.7 (0.5-8.4) 
+
+1.6 (0.2-21.4) 
+
+1.95 (0.6-7.0) 
+
+1.5 (0.6-3.7) 
+
+1.6 (0.5-3.8) 
+
+1.7 (0.6-3.8) 
+
+IQR 
+
+(1.3-2.3) 
+
+(1.3-2.3) 
+
+(1.2-2.2) 
+
+(1.4-2.5) 
+
+(1.1-3.7) 
+
+(0.5-2.1) 
+
+(1.3-2.2) 
+
+Mean (SD) 
+
+1.88 (0.99) 
+
+1.8 (0.8) 
+
+1.9 (1.4) 
+
+2.1 (1.0) 
+
+1.6 (0.7) 
+
+1.8 (0.8) 
+
+1.8 (0.7) 
+
+≤1.0 
+
+188 (14) 
+
+73 (12) 
+
+51 (15) 
+
+31 (13) 
+
+11 (21) 
+
+14 (17) 
+
+8 (9) 
+
+1.1-2.0 
+
+741 (53) 
+
+324 (55) 
+
+180 (54) 
+
+109 (45) 
+
+30 (58) 
+
+44 (54) 
+
+54 (61) 
+
+2.1-3.0 
+
+348 (25) 
+
+153 (26) 
+
+75 (22) 
+
+74 (30) 
+
+9 (17) 
+
+15 (19) 
+
+22 (25) 
+
+3.1-4.0 
+
+91 (7) 
+
+33 (6) 
+
+22 (7) 
+
+21 (9) 
+
+2 (4) 
+
+8 (10) 
+
+5 (6) 
+
+≥4.1 
+
+20 (1) 
+
+5 (1) 
+
+6 (2) 
+
+9 (4) 
+
+0 
+
+0 
+
+0 
+
+Unknown 
+
+1 
+
+1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Low 
+
+89 (7) 
+
+34 (6) 
+
+22 (7) 
+
+17 (7) 
+
+1 (2) 
+
+5 (6) 
+
+10 (11) 
+
+Intermediate 
+
+590 (43) 
+
+269 (46) 
+
+146 (45) 
+
+90 (38) 
+
+26 (55) 
+
+26 (33) 
+
+33 (38) 
+
+High 
+
+681 (50) 
+
+277 (48) 
+
+160 (49) 
+
+132 (55) 
+
+20 (43) 
+
+48 (61) 
+
+44 (51) 
+
+Unknown 
+
+29 
+
+9 
+
+6 
+
+5 
+
+5 
+
+2 
+
+2 
+
+Negative 
+
+40 (3) 
+
+17 (3) 
+
+10 (3) 
+
+10 (4) 
+
+1 (2) 
+
+2 (2) 
+
+0 
+
+Positive 
+
+1349 (97) 
+
+572 (97) 
+
+324 (97) 
+
+234 (96) 
+
+51 (98) 
+
+79 (98) 
+
+89 (100) 
+
+Negative 
+
+405 (30) 
+
+177 (32) 
+
+75 (23) 
+
+81 (33) 
+
+15 (29) 
+
+30 (38) 
+
+27 (30) 
+
+Positive 
+
+948 (70) 
+
+381 (68) 
+
+257 (77) 
+
+161 (67) 
+
+37 (71) 
+
+50 (62) 
+
+62 (70) 
+
+Unknown 
+
+36 
+
+31 
+
+2 
+
+2 
+
+0 
+
+1 
+
+0 
+
+Low 
+
+589 (43) 
+
+256 (44) 
+
+149 (45) 
+
+90 (38) 
+
+26 (55) 
+
+31 (39) 
+
+37 (43) 
+
+High 
+
+770 (57) 
+
+323 (56) 
+
+179 (55) 
+
+149 (62) 
+
+21 (45) 
+
+48 (61) 
+
+50 (57) 
+
+Unknown 
+
+30 
+
+10 
+
+6 
+
+5 
+
+5 
+
+2 
+
+2 
+
+Breast conservation 
+
+1021 (74) 
+
+442 (75) 
+
+249 (75) 
+
+174 (71) 
+
+38 (73) 
+
+61 (75) 
+
+57 (64) 
+
+Mastectomy 
+
+368 (26) 
+
+147 (25) 
+
+85 (25) 
+
+70 (29) 
+
+14 (27) 
+
+20 (25) 
+
+32 (36) 
+
+Distribution 
+
+Histologic grade 
+
+ER expression 
+
+PgR expression 
+
+Clinical risk 
+
+Primary surgery 
+
+Postoperative radiation therapy Yes 
+
+1300 (94) 
+
+387 (66) 
+
+213 (64) 
+
+157 (64) 
+
+31 (60) 
+
+40 (49) 
+
+28 (31) 
+
+No/unknown 
+
+89 (6.4) 
+
+202 (34) 
+
+121 (36) 
+
+87 (36) 
+
+21 (40) 
+
+41 (51) 
+
+61 (69) 
+
+Recurrence score Median (range) 
+
+32 (26-87) 
+
+32 (26-81) 
+
+32 (26-72) 
+
+36 (26-87) 
+
+30 (26-64) 
+
+32 (26-64) 
+
+29 (26-77) 
+
+IQR 
+
+(28-40) 
+
+(28-39) 
+
+(28-37) 
+
+(30-48) 
+
+(28-35) 
+
+(28-40) 
+
+(27-35) (continued) 
+
+E4 
+
+JAMA Oncology Published online September 30, 2019 (Reprinted) 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+jamaoncology.com 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+Original Investigation Research 
+
+Table 1. Characteristics of Patients in the Recurrence Score 26 to 100 Cohort Assigned to Chemotherapy Stratified by Chemotherapy Regimen in the Intention-to-Treat Population (continued) No. (%) 
+
+Study Arm 
+
+Taxane and Cyclophosphamide 
+
+Total 
+
+Anthracycline Without Taxane 
+
+Anthracycline Plus Taxane 
+
+CMF 
+
+Other 
+
+No Chemotherapy 
+
+Mean (SD) 
+
+35.2 (9.8) 
+
+34.6 (9.4) 
+
+33.9 (8.2) 
+
+39.3 (11.8) 
+
+32.7 (7.7) 
+
+35.4 (9.4) 
+
+33.5 (10.3) 
+
+26-30 
+
+598 (43) 
+
+267 (45) 
+
+147 (44) 
+
+70 (29) 
+
+30 (58) 
+
+32 (40) 
+
+52 (58) 
+
+31-35 
+
+315 (23) 
+
+133 (23) 
+
+86 (26) 
+
+49 (20) 
+
+10 (19) 
+
+21 (26) 
+
+16 (18) 
+
+36-40 
+
+158 (11) 
+
+59 (10) 
+
+44 (13) 
+
+35 (14) 
+
+6 (12) 
+
+8 (10) 
+
+6 (7) 
+
+41-50 
+
+202 (15) 
+
+91 (15) 
+
+40 (12) 
+
+48 (20) 
+
+4 (8) 
+
+12 (15) 
+
+7 (8) 
+
+51-100 
+
+116 (8) 
+
+39 (7) 
+
+17 (5) 
+
+42 (17) 
+
+2 (4) 
+
+8 (10) 
+
+8 (9) 
+
+AI 
+
+41 (10) 
+
+13 (8) 
+
+7 (8) 
+
+13 (13) 
+
+0 
+
+5 (20) 
+
+3 (12) 
+
+OFS 
+
+21 (5) 
+
+4 (3) 
+
+7 (8) 
+
+8 (8) 
+
+0 
+
+1 (4) 
+
+1 (4) 
+
+OFS and AI 
+
+31 (8) 
+
+13 (8) 
+
+6 (7) 
+
+10 (10) 
+
+0 
+
+1 (4) 
+
+1 (4) 
+
+Endocrine Therapy Premenopausal 
+
+Tam 
+
+177 (43) 
+
+77 (49) 
+
+35 (38) 
+
+39 (39) 
+
+5 (50) 
+
+10 (40) 
+
+11 (46) 
+
+Tam and AI 
+
+117 (29) 
+
+48 (30) 
+
+33 (36) 
+
+21 (21) 
+
+4 (40) 
+
+7 (28) 
+
+4 (17) 
+
+Other 
+
+1 (<1) 
+
+0 
+
+1 (1) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+None reported 
+
+19 (5) 
+
+3 (2) 
+
+2 (2) 
+
+8 (8) 
+
+1 (10) 
+
+1 (4) 
+
+4 (17) 
+
+AI 
+
+695 (71) 
+
+320 (74) 
+
+165 (68) 
+
+99 (68) 
+
+30 (71) 
+
+38 (68) 
+
+43 (66) 
+
+Other 
+
+256 (26) 
+
+105 (24) 
+
+73 (30) 
+
+39 (27) 
+
+10 (24) 
+
+12 (21) 
+
+17 (26) 
+
+None reported 
+
+31 (3) 
+
+6 (1) 
+
+5 (2) 
+
+7 (5) 
+
+2 (5) 
+
+6 (11) 
+
+5 (8) 
+
+Postmenopausal 
+
+Abbreviations: AI, aromatase inhibitor; ER, estrogen receptor; IQR, interquartile range; OFS, ovarian function suppression; PgR, progesterone receptor; tam, tamoxifen. 
+
+Table 2. Kaplan-Meier Estimates of Clinical Outcomes at 5 Years for Patients With a Recurrence Score of 26 to 100 Assigned to Chemotherapy Stratified by Adjuvant Chemotherapy Regimen in the Intention-to-Treat Populationa Mean (SE) [95% CI] Anthracycline Without Taxane 
+
+Anthracycline and Taxane 
+
+CMF 
+
+Other 
+
+No Chemotherapy 
+
+589 
+
+334 
+
+244 
+
+52 
+
+81 
+
+89 
+
+88.1 (1.5) [84.8-90.8] 
+
+87.4 (2.0) [83-90.8] 
+
+88.6 (2.3) [83.2-92.3] 
+
+84 (5.6) [69.3-92.1] 
+
+91.3 (3.4) [81.5-96] 
+
+79.7 (4.9) [67.9-87.5] 
+
+92.7 (1.2) [90-94.7] 
+
+92.3 (1.6) [88.5-94.9] 
+
+95.1 (1.5) [91-97.3] 
+
+88.5 (4.8) [74.6-95.1] 
+
+95.5 (2.5) [86.8-98.5] 
+
+92.8 (3.1) [83.6-97] 
+
+91.0 (0.8) [89.1-92.5] 
+
+91.0 (1.3) [88-93.2] 
+
+90.1 (1.8) [86-93] 
+
+93.6 (1.7) [89.1-96.2] 
+
+88.7 (4.8) [74.9-95.1] 
+
+95.5 (2.5) [86.8-98.5] 
+
+84 (4.5) [72.8-90.8] 
+
+95.9 (0.6) [94.6-96.9] 
+
+95.8 (0.9) [93.6-97.2] 
+
+96.7 (1.0) [93.9-98.2] 
+
+97.2 (1.1) [93.8-98.7] 
+
+90.1 (4.7) [75.8-96.2] 
+
+97.2 (2.0) [89.2-99.3] 
+
+90.7 (3.7) [80.3-95.7] 
+
+Variable 
+
+All Patients 
+
+No. 
+
+1389 
+
+Invasive disease-free survival 
+
+87.6 (1.0) [85.5-89.4] 
+
+Freedom from recurrence of breast cancer at a distant site 
+
+93.0 (0.8) [91.4-94.4] 
+
+Freedom from recurrence of breast cancer at a distant or local-regional site Overall survival 
+
+Taxane and Cyclophosphamide 
+
+Abbreviation: CMF, cyclophosphamide/methotrexate/5-fluorouracil. a 
+
+Five-year Kaplan-Meier estimates (percent), standard error, and 95% confidence intervals shown. 
+
+0.29-0.80) for IDFS, suggesting inferior outcomes for those with a high RS of 26 to 100 who did not receive chemotherapy as assigned. If the analysis was restricted to the 1300 patients who received adjuvant chemotherapy, the rate of freedom from recurrence of breast cancer at a distant site at 5 and 9 years was 93.0% (SE, 0.8%) and 86.8% (SE, 1.7%), respectively. For the 546 patients (42%) with an RS of 26 to 30, the rates were 94.6% jamaoncology.com 
+
+(SE, 1.1%) and 88.5% (SE, 2.5%) at 5 and 9 years, respectively. For the 754 patients (58%) who had an RS of 31 to 100, the rates were 91.9 (SE, 1.1%) and 85.5% (SE, 2.5%) at 5 and 9 years, respectively. Invasive disease-free survival rates at 5 and 9 years were 88.1% (SE, 1.0%) and 76.2% (SE, 2.3%) in the overall population, 90.5% (SE, 1.4%) and 78.0% (SE, 3.4%) in the RS 26 to 30 group, and 86.3% (SE, 1.4%) and 74.8% (SE, 3.1%) in the RS 31 to 100 group. (Reprinted) JAMA Oncology Published online September 30, 2019 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+E5 
+
+Research Original Investigation 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+Figure. Kaplan-Meier Curves for Freedom From Recurrence of Breast Cancer at a Distant Site and Invasive Disease-Free Survival (IDFS) B 
+
+Invasive disease-free survival 
+
+1.0 
+
+1.0 
+
+0.8 
+
+0.8 
+
+0.6 
+
+CMF (5 events/52 cases) Anthracycline alone (33 events/334 cases) Anthracycline plus taxane (12 events/244 cases) TC and variations (42 events/589 cases) Other/NS (3 events/81 cases) None (6 events/89 cases) 
+
+0.4 0.2 
+
+IDFS Probability 
+
+Freedom From Recurrence Probability 
+
+A Freedom from recurrence at a distant site 
+
+0 
+
+0.6 
+
+CMF (7 events/52 cases) Anthracycline alone (55 events/334 cases) Anthracycline plus taxane (29 events/244 cases) TC and variations (73 events/589 cases) Other/NS (8 events/81 cases) None (17 events/89 cases) 
+
+0.4 0.2 0 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+108 
+
+0 
+
+12 
+
+24 
+
+36 
+
+Months No. at risk CMF Anthracycline alone Anthracycline plus taxane TC and variations Other/NS None 
+
+52 334 244 589 81 89 
+
+46 318 228 557 73 75 
+
+44 304 197 515 66 65 
+
+37 285 185 480 65 58 
+
+34 260 173 435 61 52 
+
+17 182 99 279 31 35 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+108 
+
+13 136 70 197 23 24 
+
+10 99 55 136 15 14 
+
+5 74 33 61 9 7 
+
+1 38 16 18 2 2 
+
+Months 13 139 73 206 23 26 
+
+10 106 57 142 15 15 
+
+5 79 35 65 9 8 
+
+1 42 18 19 2 3 
+
+52 334 244 589 81 89 
+
+45 316 228 555 73 74 
+
+42 300 193 509 66 64 
+
+36 280 182 473 65 54 
+
+33 251 168 426 59 49 
+
+17 177 94 266 30 33 
+
+CMF Indicates cyclophosphamide/methotrexate/5-fluorouracil; NS, not specified; TC, taxane and cyclophosphamide. 
+
+Estimation of Expected Outcomes If Treated With Endocrine Therapy Alone The expected rate of distant recurrence in this cohort if treated with endocrine therapy alone was estimated by combining patient-specific distant recurrence risk information with patientspecific chemotherapy benefit information from the ERBB2negative cohort of NSABP B20.4 Using this estimation method, the expected rates of freedom from distant recurrence without adjuvant chemotherapy in this cohort were 78.8% (SE, 14.0%) at 5 years and 65.4% (SE, 10.4%) at 9 years. For those with an RS of 26 to 30, the expected rates at 5 and 9 years were 89.6% (SE, 9.2%) and 80.6% (SE, 7.0%), and for those with an RS of 31 to 100 were 70.7% (SE, 17.9%) and 54% (SE, 13.8%), respectively. 
+
+Strengths and Limitations 
+
+Discussion In this secondary analysis of a prospective clinical trial including 1389 women with hormone-receptor-positive, ERBB2negative, axillary node-negative breast cancer, and a high 21gene RS of 26 to 100 assigned to receive adjuvant chemotherapy, the estimated 5-year rate of freedom from recurrence of breast cancer at a distant site were 93.0% (SE, 0.8%) and 86.8% (SE, 1.7%), respectively. These findings were highly consistent with a comparable population with ERBB2-negative disease in the B20 trial treated with methotrexate and 5-fluorouracil with or without cyclophosphamide (88% at 10 years),4 and substantially better than similar patients treated with tamoxifen alone in the prospective validation studies of the 21-gene assay in the B20 cohort (62% at 10 years)4 and B14 cohort (70% at 10 years).1 Outcomes were also similar in patients enrolled in TAILORx trial with an RS of 0 to 107 and 11 to 256 treated with endocrine therapy alone compared with the B20 cohort,5 supporting the use of outcomes from the B20 trial in planning TAILORx. In addition, the projected rates of freedom from recurrence of breast E6 
+
+cancer at a distant site in this population if treated with endocrine therapy alone was estimated to be 78.8% (SE, 14.0%) at 5 years and 65.4% (SE, 10.4%) at 9 years when simulating outcomes based on the treatment effect of chemotherapy noted in the ERBB2-negative cohort of the B20 trial,4 providing additional evidence that the outcomes when treated with chemoendocrine therapy were better than expected with endocrine therapy alone in this population. For IDFS, an end point that also includes localregional recurrences, contralateral breast cancer, other second primary cancers, and deaths from other causes, the estimated 5- and 9-year IDFS rates were 87.6% (SE, 1.0%) and 75.7% (SE, 2.2%). Taken together with information regarding distant recurrence rates, these findings indicate that about one-half of all events in this population included events other than distant recurrence. 
+
+Strengths of this analysis include the prospective nature of the trial and treatment assignment; the large sample size of the high-RS cohort assigned to chemotherapy (n = 1389) relative to the prior B20 validation study (n = 122)4; the high compliance rate to assigned chemotherapy (94%); the use of systemic adjuvant therapies reflecting current clinical practice,10 including aromatase inhibitors rather than tamoxifen in postmenopausal women, and use of second- and thirdgeneration chemotherapy regimens, including anthracyclines and/or taxanes, in most patients.10 Limitations include the lack of randomization to endocrine therapy alone to prospectively confirm an interaction between chemotherapy benefit and high RS, and the limited follow-up and consequent potential for bias in reporting events beyond 5 years. 
+
+Conclusions Rates of distant recurrence after local therapy reflect the underlying recurrence risk, the benefit from adjuvant endocrine therapy, and benefit from adjuvant chemotherapy, the 
+
+JAMA Oncology Published online September 30, 2019 (Reprinted) 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+jamaoncology.com 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+latter of which has little impact on nonrecurrence events such as contralateral breast cancer or second primary cancers.11-13 High RS of 26 to 100 is prognostic not only for high distant recurrence rates of approximately 30% at 10 years when treated with endocrine therapy alone, but also greater effectiveness 
+
+ARTICLE INFORMATION Accepted for Publication: September 4, 2019. Published Online: September 30, 2019. doi:10.1001/jamaoncol.2019.4794 Author Affiliations: Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, New York (Sparano, Makower); Dana Farber Cancer Institute, Boston, Massachusetts (Gray); Loyola University Medical Center, Maywood, Illinois (Albain); Aurora Cancer Center (formerly Vince Lombardi Cancer Clinic), Two Rivers, Wisconsin (Saphner); Indiana University School of Medicine, Indianapolis (Badve); Northwestern University, Chicago, Illinois (Wagner); (now at) Wake Forest University Health Service, Winston Salem, North Carolina (Wagner); Northwestern University, Chicago, Illinois (Kaklamani); (now at) University of Texas Health Science Center, San Antonio (Kaklamani); Cancer Trials Ireland, Dublin, Ireland (Keane); Instituto Nacional de Enfermedades Neoplasicas, Lima, Peru (Gomez); Cancer Center of Kansas, Wichita, Kansas (Reddy); Fox Valley Hematology and Oncology, Appleton, Wisconsin (Goggins); Vanderbilt University, Nashville, Tennessee (Mayer); Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey (Toppmeyer); University of Pittsburgh, Pittsburgh, Pennsylvania (Brufsky); Mayo Clinic, Jacksonville, Florida (Goetz); University of Hawaii Cancer Center, Honolulu, Hawaii (Berenberg); McGill University, Montreal, Canada (Mahalcioiu); Universite Laval, Quebec, Canada (Desbiens); University of Michigan, Ann Arbor (Hayes); University of North Carolina, Chapel Hill (Dees); the Massey Cancer Center, Virginia Commonwealth University School of Medicine, Richmond (Geyer); Duke University Medical Center, Durham, North Carolina (Olson); (now at) University of Maryland School of Medicine, Baltimore (Olson); Emory University, Atlanta, Georgia (Wood); National Institutes of Health, National Cancer Institute, Bethesda, Maryland (Lively, Abrams); NSABP Pathology Office, Pittsburgh, Pennsylvania (Paik); (now at) Yonsei University College of Medicine, Seoul, South Korea (Paik); Washington University, St Louis, Missouri (Ellis); (now at) Baylor College of Medicine, Houston, Texas (Ellis); Indiana University Hospital, Indianapolis (Sledge); (now at) Stanford University, Stanford, California (Sledge). Author Contributions: Drs Sparano and Gray had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Study concept and design: Sparano, Gray, Albain, Saphner, Badve, Wagner, Mayer, Brufsky, Hayes, Geyer, Olson, Ellis, Abrams, Sledge. Acquisition, analysis, or interpretation of data: Sparano, Gray, Makower, Albain, Badve, Kaklamani, Keane, Gomez, Reddy, Goggins, Mayer, Toppmeyer, Brufsky, Goetz, Berenberg, Geyer, Lively, Ellis, Sledge. Drafting of the manuscript: Sparano, Gray, Saphner, Gomez, Hayes. 
+
+jamaoncology.com 
+
+Original Investigation Research 
+
+of chemotherapy in reducing the risk of distant recurrence. The findings from this analysis add to the evidence base supporting the use of the 21-gene RS assay to guide the use of adjuvant chemotherapy in patients with hormone receptor– positive, ERBB2-negative, axillary node-negative breast cancer. 
+
+Critical revision of the manuscript for important intellectual content: Sparano, Gray, Makower, Albain, Badve, Wagner, Kaklamani, Keane, Reddy, Goggins, Mayer, Toppmeyer, Brufsky, Goetz, Berenberg, Hayes, Geyer, Olson, Lively, Ellis, Abrams, Sledge. Statistical analysis: Gray. Obtained funding: Sparano, Ellis. Administrative, technical, or material support: Sparano, Gray, Badve, Gomez, Reddy, Brufsky, Lively, Ellis. Study supervision: Sparano, Saphner, Kaklamani, Keane, Goggins, Brufsky, Olson, Ellis, Abrams. Conflict of interest Disclosures: Dr Sparano reported grants from National Cancer Institute during the conduct of the study. Dr Gray reported grants from National Cancer Institute and funding from Genomic Health during the conduct of the study. Dr Albain reported personal fees from Novartis, personal fees from Pfizer, personal fees from Myriad, personal fees from Genomic Health, personal fees from Genentech Roche, personal fees from Puma, and grants from Seattle Genetics outside the submitted work. Dr Badve reported speaker fees from Genomic Health outside the submitted work. Dr Wagner reported personal fees from Celgene outside the submitted work. Dr Kaklamani reported personal fees from Genomic Health, personal fees from Pfizer, personal fees from Celgene, personal fees from Genentech, personal fees from Novartis, personal fees from Puma, grants and personal fees from Eisai, personal fees from Athenex, personal fees from Amgen, personal fees from Celldex, and personal fees from AstraZeneca outside the submitted work. Dr Gomez reported personal fees from Roche, personal fees from Novartis, and personal fees from AstraZeneca outside the submitted work. Dr Mayer reported grants from Pfizer, grants and personal fees from Novartis, grants and personal fees from Genentech, personal fees from Lilly, personal fees from GSK, personal fees from AstraZeneca, personal fees from Immunomedics, personal fees from Macrogenics, and personal fees from Seattle Genetics outside the submitted work. Dr Toppmeyer reported spousal employment at Novartis and Merck outside the submitted work. Dr Brufsky reported personal fees from Genomic Health during the conduct of the study; personal fees from Agendia, personal fees from Biotheranotics, and personal fees from Myriad outside the submitted work. Dr Goetz reported personal fees from Genomic Health during the conduct of the study; grants and consulting fees from Lilly, grants and consulting fees from Pfizer, consulting fees from Novartis, grants and consulting fees from Sermonix, consulting fees from Biotheranostics, Context Pharm, and Biovica outside the submitted work. Dr Desbiens reported AD board meeting with Pfizer CIE. Dr Hayes reported grants from SWOG/NCI during the conduct of the study; personal fees from Cepheid, personal fees from Freenome, personal fees from Cellworks, grants from Agendia, grants from Merrimack, grants from Eli LIlly, grants from Menarini Silicon Biosystems, grants from Pfizer, and 
+
+grants from AstraZeneca outside the submitted work; and patents held by his university, not related to this work. Dr Geyer reported grants from the National Cancer Institute during the conduct of the study. Dr Paik reports a patent issued and licensed to Genomic Health, with all rights transferred to the NSABP Foundation. No other disclosures were reported. Funding/Support: The study was supported by the National Cancer Institute of the National Institutes of Health under the following award numbers: CA180820, CA180794, CA189828, CA180790, CA180795, CA180799, CA180801, CA180816, CA180821, CA180838, CA180822, CA180844, CA180847, CA180857, CA180864, CA189867, CA180868, CA189869, CA180888, CA189808, CA189859, CA189804, CA190140, CA180863. Additional support was provided by the Canadian Cancer Society Research Institute grants 015469 and 021039, the Breast Cancer Research Foundation, the Komen Foundation, and the Breast Cancer Research Stamp (BCRS) issued by the United States Postal Service. Role of the Funder/Sponsor: The National Cancer Institute, the Canadian Cancer Society Research Institute, the Breast Cancer Research Foundation, the Komen Foundation, and the Breast Cancer Research Stamp had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. Disclaimer: The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, nor does mention of trade names, commercial products, or organizations imply endorsement by the US government. Meeting Presentation: This article was presented at the ESMO (European Society of Medical Oncology) Congress 2019; September 30, 2019; Barcelona, Spain. Data Sharing Statement: See Supplement 3. Additional Contributions: The authors thank Michael Crager, PhD, Genomic Health Inc, and Gong Tang, PhD, NSABP Statistical Office, for guidance in some aspects of the statistical analysis. The authors also acknowledge Sheila Taube, PhD, and JoAnne Zujewski, MD, National Cancer Institute, for their support of the trial at its inception and development. The authors also thank the staff at the ECOG-ACRIN Operations Office–Boston, and the Cancer Trials Support Unit (CTSU) for their efforts, and Una Hopkins, RN, DNP, for serving as the study liaison for the trial. The authors also fondly remember and acknowledge the contributions of the late Robert L. Comis, MD, former chair of ECOG and cochair of ECOG-ACRIN, for his prescient leadership in supporting biomarker-directed clinical trials. Finally, the authors salute the thousands of women who volunteered to participate in the TAILORx trial, to 
+
+(Reprinted) JAMA Oncology Published online September 30, 2019 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+E7 
+
+Research Original Investigation 
+
+Clinical Outcomes in Early Breast Cancer With Adjuvant Chemotherapy Plus Endocrine Therapy 
+
+the National Breast Cancer Coalition for endorsing the trial, and to Mary Lou Smith, JD, MBA, Research Advocacy Network, a tireless patient advocate for breast cancer clinical research. None were compensated. Additional Information: This study was coordinated by the Eastern Cooperative Oncology Group–American College of Radiology Imaging Network Cancer Research Group (Peter J. O'Dwyer, MD, and Mitchell D. Schnall, MD, PhD, group cochairs). REFERENCES 1. Paik S, Shak S, Tang G, et al. A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med. 2004; 351(27):2817-2826. doi:10.1056/NEJMoa041588 2. Paik S, Tang G, Shak S, et al. Gene expression and benefit of chemotherapy in women with node-negative, estrogen receptor-positive breast cancer. J Clin Oncol. 2006;24(23):3726-3734. doi: 10.1200/JCO.2005.04.7985 3. Albain KS, Barlow WE, Shak S, et al; Breast Cancer Intergroup of North America. Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with node-positive, oestrogen-receptor-positive breast 
+
+E8 
+
+cancer on chemotherapy: a retrospective analysis of a randomised trial. Lancet Oncol. 2010;11(1):55-65. doi:10.1016/S1470-2045(09)70314-6 4. Geyer CE Jr, Tang G, Mamounas EP, et al. 21-Gene assay as predictor of chemotherapy benefit in HER2-negative breast cancer. NPJ Breast Cancer. 2018;4:37. doi:10.1038/s41523-0180090-6 5. Sparano JA, Paik S. Development of the 21-gene assay and its application in clinical practice and clinical trials. J Clin Oncol. 2008;26(5):721-728. doi:10.1200/JCO.2007.15.1068 6. Sparano JA, Gray RJ, Makower DF, et al. Adjuvant chemotherapy guided by a 21-gene expression assay in breast cancer. N Engl J Med. 2018;379(2):111-121. doi:10.1056/NEJMoa1804710 7. Sparano JA, Gray RJ, Makower DF, et al. Prospective validation of a 21-gene expression assay in breast cancer. N Engl J Med. 2015;373(21): 2005-2014. doi:10.1056/NEJMoa1510764 8. Sparano JA, Gray RJ, Ravdin PM, et al. Clinical and genomic risk to guide the use of adjuvant therapy for breast cancer. N Engl J Med. 2019;380 (25):2395-2405. doi:10.1056/NEJMoa1904819 9. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the 
+
+STEEP system. J Clin Oncol. 2007;25(15):2127-2132. doi:10.1200/JCO.2006.10.3523 10. Anampa J, Makower D, Sparano JA. Progress in adjuvant chemotherapy for breast cancer: an overview. BMC Med. 2015;13:195. doi:10.1186/ s12916-015-0439-8 11. Peto R, Davies C, Godwin J, et al; Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Comparisons between different polychemotherapy regimens for early breast cancer: meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet. 2012;379(9814):432-444. doi:10.1016/S0140-6736(11)61625-5 12. Mamounas EP, Tang G, Liu Q. The importance of systemic therapy in minimizing local recurrence after breast-conserving surgery: the NSABP experience. J Surg Oncol. 2014;110(1):45-50. doi:10.1002/jso.23609 13. Bertelsen L, Bernstein L, Olsen JH, et al; Women’s Environment, Cancer and Radiation Epidemiology Study Collaborative Group. Effect of systemic adjuvant treatment on risk for contralateral breast cancer in the Women’s Environment, Cancer and Radiation Epidemiology Study. J Natl Cancer Inst. 2008;100(1):32-40. doi: 10.1093/jnci/djm267 
+
+JAMA Oncology Published online September 30, 2019 (Reprinted) 
+
+© 2019 American Medical Association. All rights reserved. 
+
+Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 10/06/2019 
+
+jamaoncology.com 
+
+ 

@@ -1,0 +1,757 @@
+original reports 
+
+Adjuvant Capecitabine for Early Breast Cancer: 15-Year Overall Survival Results From a Randomized Trial Heikki Joensuu, MD1; Pirkko-Liisa Kellokumpu-Lehtinen, MD2; Riikka Huovinen, MD3; Arja Jukkola, MD2,4; Minna Tanner, MD2; Johan Ahlgren, MD5,6; Päivi Auvinen, MD7; Outi Lahdenperä, MD3; Kenneth Villman, MD8; Paul Nyandoto, MD9; Greger Nilsson, MD10; Paula Poikonen-Saksela, MD1; Vesa Kataja, MD11; Petri Bono, MD1; Jouni Junnila, MSc12; and Henrik Lindman, MD13 
+
+abstract 
+
+PURPOSE Few data are available regarding the inﬂuence of adjuvant capecitabine on long-term survival of patients with early breast cancer. METHODS The Finland Capecitabine Trial (FinXX) is a randomized, open-label, multicenter trial that evaluates integration of capecitabine to an adjuvant chemotherapy regimen containing a taxane and an anthracycline for the treatment of early breast cancer. Between January 27, 2004, and May 29, 2007, 1,500 patients with axillary node-positive or high-risk node-negative early breast cancer were accrued. The patients were randomly allocated to either TX-CEX, consisting of three cycles of docetaxel (T) plus capecitabine (X) followed by three cycles of cyclophosphamide, epirubicin, and capecitabine (CEX, 753 patients), or to T-CEF, consisting of three cycles of docetaxel followed by three cycles of cyclophosphamide, epirubicin, and ﬂuorouracil (CEF, 747 patients). We performed a protocol-scheduled analysis of overall survival on the basis of approximately 15-year follow-up of the patients. RESULTS The data collection was locked on December 31, 2020. By this date, the median follow-up time of the patients alive was 15.3 years (interquartile range, 14.5-16.1 years) in the TX-CEX group and 15.4 years (interquartile range, 14.8-16.0 years) in the T-CEF group. Patients assigned to TX-CEX survived longer than those assigned to T-CEF (hazard ratio 0.81; 95% CI, 0.66 to 0.99; P 5 .037). The 15-year survival rate was 77.6% in the TX-CEX group and 73.3% in the T-CEF group. In exploratory subgroup analyses, patients with estrogen receptor–negative cancer and those with triple-negative cancer treated with TX-CEX tended to live longer than those treated with T-CEF. CONCLUSION Addition of capecitabine to a chemotherapy regimen that contained docetaxel, epirubicin, and cyclophosphamide prolonged the survival of patients with early breast cancer. J Clin Oncol 40:1051-1058. © 2022 by American Society of Clinical Oncology Creative Commons Attribution Non-Commercial No Derivatives 4.0 License 
+
+INTRODUCTION 
+
+ASSOCIATED CONTENT Appendix Protocol Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on November 12, 2021 and published at ascopubs.org/journal/ jco on January 12, 2022: DOI https://doi. org/10.1200/JCO.21. 02054 
+
+Adjuvant chemotherapy improves overall survival (OS) of patients with early breast cancer, but the beneﬁt is dependent on the type of chemotherapy administered and chemotherapy dose intensity.1,2 Capecitabine is an oral prodrug of ﬂuorouracil that is approved for the treatment of advanced breast cancer, but not for neoadjuvant or adjuvant treatment of early breast cancer. Several randomized studies have evaluated capecitabine as neoadjuvant3-7 or adjuvant8-17 treatment of early breast cancer. In some of these studies, capecitabine was added to the chemotherapy backbone,4,7,10,12,13,16,17 whereas in others a chemotherapy agent was replaced by capecitabine in the experimental arm.3,8,9,11,14,15 A recent meta-analysis of randomized trials on the basis of individual patient data found that addition of capecitabine to standard adjuvant chemotherapy regimens 
+
+prolongs disease-free survival, whereas replacing a standard agent with capecitabine did not improve disease-free survival.18 In preclinical models, agents such as docetaxel, paclitaxel, and cyclophosphamide increase cancer thymidine phosphorylase concentration potentially leading to improved conversion of capecitabine to ﬂuorouracil within the tumor, suggesting that concomitant administration of capecitabine with such drugs improves efﬁcacy compared with single-agent capecitabine.19,20 The main purpose of adjuvant treatment is to prolong OS. Breast cancer may recur late, but little long-term OS data are available from the trials that have evaluated capecitabine in the treatment of early breast cancer. We report here the OS results of the randomized Finland Capecitabine Trial (FinXX) during a median patient follow-up time of approximately 15 years since the date of random assignment. To the 
+
+Volume 40, Issue 10 1051 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Joensuu et al 
+
+CONTEXT Key Objective Adjuvant chemotherapy improves the survival of patients with early breast cancer. Capecitabine, an oral prodrug of ﬂuorouracil, is approved for the treatment of advanced breast cancer, but not for adjuvant treatment. In some experimental models, docetaxel, paclitaxel, and cyclophosphamide upregulate thymidine phosphorylase, the key enzyme that converts capecitabine to ﬂuorouracil within tumors. The randomized FinXX trial evaluated addition of capecitabine (X) to an adjuvant chemotherapy regimen consisting of docetaxel (T), followed by cyclophosphamide (C), epirubicin (E), and ﬂuorouracil (F). Knowledge Generated The capecitabine-containing regimen (docetaxel plus capecitabine-cyclophosphamide and epirubicin plus capecitabine) improved signiﬁcantly overall survival compared with docetaxel-cyclophosphamide and epirubicin plus ﬂuorouracil during a median patient follow-up time of approximately 15 years. The 15-year survival rate was 77.6% in the capecitabine group and 73.3% in the control group. Relevance Patients with early breast cancer lived longer when adjuvant capecitabine was administered concomitantly with chemotherapy that included docetaxel and cyclophosphamide. 
+
+best of our knowledge, the current results are based on the longest follow-up time reported from the adjuvant or neoadjuvant capecitabine trials addressing breast cancer. The 15-year analysis of OS was scheduled in the FinXX Study Protocol (online only). The ﬁndings suggest that addition of capecitabine to a taxane-anthracycline chemotherapy backbone improves OS of the patients. METHODS FinXX is a randomized, open-label, phase III, multicenter trial (ClinicalTrials.gov identiﬁer: NCT00114816). The patients were accrued from 20 study sites in Finland or Sweden between January 27, 2004, and May 29, 2007. The patients provided written informed consent before study entry. The study Protocol was approved by the institutional review boards. The age of the patients was required to be from 18 to 65 years at the time of study entry. The patients had the WHO performance status , 2 and the time interval between breast surgery and the date of random assignment # 12 weeks. Invasive breast cancer was conﬁrmed histologically. The axillary lymph nodes were required to contain cancer (pN-positive), or when cancer was nodenegative (pN0), tumor diameter had to be $ 20 mm and cancer progesterone receptor (PR) expression–negative (deﬁned as , 10% of cancer cell nuclei staining positively in immunohistochemistry). No distant metastases were allowed in the staging examinations, which consisted of a bone scan, computed tomography of the chest or chest x-ray, and computed tomography, magnetic resonance imaging, or ultrasound of the abdomen when . 3 positive axillary nodes were present21,22; otherwise, staging was done according to the institutional guidelines. We excluded patients who did not have adequate renal, hepatic, or 
+
+cardiac function and those who had received neoadjuvant therapy.23 The study participants were randomly assigned to capecitabine-containing investigational chemotherapy or to the control group in a 1:1 ratio. Random assignment was performed centrally using permutated blocks with a randomly varying block size with stratiﬁcation by center, the axillary lymph node status (# 3 v . 3 positive nodes), and the tumor human epidermal growth factor receptor 2 (HER2) status (negative v positive; assessed by in situ hybridization or immunohistochemistry).23 Patients assigned to the investigational treatment (the TXCEX group) received six 3-week cycles of capecitabinecontaining chemotherapy. First, three cycles of docetaxel (T) plus capecitabine (X) was administered (TX) and, after this, three cycles of cyclophosphamide (C), epirubicin (E), and capecitabine (CEX). TX comprised 1-hour infusion of docetaxel 60 mg/m2 on day 1 and oral capecitabine 900 mg/m2 twice a day on days 1-15 of the 21-day cycle. CEX consisted of intravenous (IV) cyclophosphamide 600 mg/m2 and IV epirubicin 75 mg/m2 administered on day 1 and oral capecitabine 900 mg/m2 given twice a day on days 1 to 15 of the 3-week cycle. Patients assigned to the control group (the T-CEF group) also received six 3-week cycles of chemotherapy. First, three cycles of docetaxel (80 mg/m2 as a 1-hour infusion on day 1 of every 3-week cycle) and, after this, three cycles of 3-weekly IV CEF (cyclophosphamide 600 mg/m2, epirubicin 75 mg/m2, and ﬂuorouracil 600 mg/m2, all administered on day 1 of the cycle). Chemotherapy doses were modiﬁed on the basis of adverse events observed.23 Adjuvant endocrine therapy was initiated within 2 months after completion of chemotherapy whenever cancer was estrogen receptor (ER)–positive or PR-positive. Patients considered premenopausal before starting chemotherapy 
+
+1052 © 2022 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 40, Issue 10 
+
+Adjuvant Capecitabine for Early Breast Cancer 
+
+were scheduled to receive oral tamoxifen 20 mg once daily and postmenopausal women oral anastrozole 1 mg once daily for 5 years. Radiotherapy was given after completion of chemotherapy according to each institution’s practice. 
+
+study Protocol (amended on May 27, 2012) and were to be done for center, the number of positive axillary nodes (# 3 v . 3), cancer ER status (positive v negative), HER2 status (positive v negative), and biological subgroups deﬁned by the steroid hormone receptor status and the HER2 status. Survival between groups was compared using the Kaplan-Meier life-table method and the log-rank test that gives equal weight to deaths at all time points and the Gehan-Breslow-Wilcoxon test that gives more weight to deaths at early time points. An unadjusted multivariable Cox proportional hazards model was used to compute the HRs and their 95% CIs with treatment, subgroups, and their interaction as ﬁxed terms. The P values are two-sided and not adjusted for multiple testing. P values , .05 were considered signiﬁcant except for the interaction test, in which values , .10 were considered signiﬁcant. Statistical analyses were performed with SAS for Windows (version 9.3; SAS Institute Inc, Cary, NC). 
+
+Chemotherapy adverse effects were graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events v3.0.24 The trial safety results have been reported in the planned interim analysis of the trial23 and the ﬁnal analysis of the trial.25 Follow-up of the study participants was done as per institutional practice, except that the study Protocol mandated a follow-up visit at 1, 3, and 5 years after study entry. In general, the patients were not followed up at the study sites after the ﬁrst 10 years since the date of random assignment. Therefore, the OS data were captured from a national registry for the Finnish study participants (Statistics Finland26) and for the Swedish participants from the Swedish Population Register.27 At these registries, each study participant was identiﬁed using a unique personal code number (the social security code) that is given by legislation for each citizen living in Finland or Sweden. 
+
+RESULTS Patients and Treatments A total of 1,500 patients from 20 study sites were accrued between January 27, 2004, and May 29, 2007, and randomly assigned to either the capecitabine arm (TX-CEX, 753 patients) or to the control arm (T-CEF, 747 patients). Five patients were excluded from the intention-to-treat population (two withdrew consent and three had overt distant metastases at the time of study entry; Fig 1). 
+
+OS, the time from the date of random assignment to death, was a secondary end point in the FinXX trial, but OS was the only survival end point to be assessed according to the study Protocol in the current analysis on long-term followup of the patients. Survival was analyzed on the basis of the intention-to-treat principle. The trial primary end point was recurrence-free survival (RFS), the time interval between the date of random assignment and detection of invasive breast cancer recurrence, or death when the patient died before recurrence. The trial was powered assuming that RFS improves from 83.0% to 88.5% after a median followup of 5 years, leading to a hazard ratio (HR) of 0.65.23 
+
+The characteristics of the remaining 1,495 patients and their cancers are provided in Table 1. The median age at the time of study entry was 53 years (TX-CEX group, 52 years; T-CEF group, 53 years; P 5 .844), and the median tumor diameter was 22 mm in both groups (P 5 .842). Most (n 5 1,142, 76.4%) patients had ER-positive cancer, and 282 (18.9%) had HER2-positive cancer. 
+
+The exploratory subgroup analyses were deﬁned in the statistical plan (approved on November 6, 2008) and in the 
+
+Patients randomly assigned after breast surgery (N = 1,500) 
+
+Assigned to T-CEF (n = 747) 
+
+Assigned to TX-CEX (n = 753) 
+
+Excluded (n = 2) Withdrew consent (n = 1) Had distant metastases (n = 1) 
+
+Excluded (n = 3) Withdrew consent (n = 1) Had distant metastases (n = 2) 
+
+Included in the ITT population (n = 751) 
+
+Included in the ITT population (n = 744) 
+
+Patients died during the follow-up (n = 171) 
+
+Patients died during the follow-up (n = 204) 
+
+FIG 1. CONSORT diagram. CEF, cyclophosphamide and epirubicin plus ﬂuorouracil; CEX, cyclophosphamide and epirubicin plus capecitabine; ITT, intention-to-treat patient population; T, docetaxel; TX, docetaxel plus capecitabine. 
+
+Journal of Clinical Oncology 
+
+1053 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Joensuu et al 
+
+OS 
+
+TABLE 1. Characteristics of the Patients and the Breast Tumors TX-CEX T-CEF (N 5 751), (N 5 744), No. (%) No. (%) 
+
+Characteristic WHO performance status 0 
+
+661 (88.0) 661 (88.8) 
+
+1 
+
+90 (12.0) 
+
+83 (11.2) 
+
+Breast tumor size category pT1 
+
+314 (41.9) 339 (45.6) 
+
+pT2 
+
+388 (51.8) 349 (47.0) 
+
+pT3 or T4 
+
+47 (6.3) 
+
+55 (7.4) 
+
+NA 
+
+2 
+
+1 
+
+pN0 
+
+86 (11.5) 
+
+71 (9.5) 
+
+pN1 
+
+665 (88.5) 673 (90.5) 
+
+Axillary nodal status 
+
+Histological type Ductal 
+
+569 (75.8) 565 (75.9) 
+
+Lobular 
+
+136 (18.1) 117 (15.7) 
+
+Others 
+
+46 (6.1) 
+
+62 (8.3) 
+
+1 
+
+86 (11.5) 
+
+79 (10.7) 
+
+2 
+
+362 (48.5) 351 (47.4) 
+
+3 
+
+298 (39.9) 310 (41.9) 
+
+Histological grade 
+
+NA 
+
+5 
+
+4 
+
+ER expression Positive 
+
+580 (77.2) 562 (75.5) 
+
+Negative 
+
+171 (22.8) 182 (24.5) 
+
+PR expression Positive 
+
+477 (63.5) 454 (61.0) 
+
+Negative 
+
+274 (36.5) 290 (39.0) 
+
+HER2 status Positive 
+
+145 (19.3) 137 (18.4) 
+
+Negative 
+
+606 (80.7) 607 (81.6) 
+
+Tumor biological group ER-positive and/or PR-positive and HER2-negative 512 (68.2) 497 (66.8) ER-positive and/or PR-positive and HER2-positive 
+
+85 (11.3) 
+
+77 (10.3) 
+
+ER-negative and/or PR-negative and HER2-positive 
+
+61 (8.1) 
+
+61 (8.2) 
+
+ER-negative and/or PR-negative and HER2-negative 
+
+93 (12.4) 109 (14.7) 
+
+Abbreviations: CEF, cyclophosphamide and epirubicin plus ﬂuorouracil; CEX, cyclophosphamide and epirubicin plus capecitabine; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; NA, not available; PR, progesterone receptor; T, docetaxel; TX, docetaxel plus capecitabine. 
+
+Adjuvant trastuzumab was approved while the trial accrual was ongoing and was allowed for women with HER2positive cancer after May 2005.23,25 Once the trial protocol amendment had been approved, adjuvant trastuzumab was administered to 96 (13%) patients assigned to TX-CEF and to 82 (11%) patients assigned to T-CEF. 
+
+The data collection for OS was locked on December 31, 2020. By this date, the median follow-up time of the patients alive was 15.3 years (range, 8.9-16.9 years; interquartile range, 14.5-16.1 years) in the TX-CEX group and 15.4 years (range, 10.8-16.9 years; interquartile range, 14.8-16.0 years) in the T-CEF group. None of the patients was lost to follow-up; only two patients had shorter than 13 years of follow-up. During the follow-up, 375 (25.1%) patients died: 171 (22.8%) in the TX-CEX group and 204 (27.4%) in the T-CEF group. OS was signiﬁcantly longer in the TX-CEX group compared with the T-CEF group (HR 0.81; 95% CI, 0.66 to 0.99; log-rank test P 5 .037; Gehan-BreslowWilcoxon test P 5 .044; Fig 2). Subgroup Analyses A forest plot summarizing the exploratory survival analyses with respect to subgroups consisting of the trial stratiﬁcation factors (the axillary nodal status and HER2 status), ER status, and biological subgroups formed using the steroid hormone receptor status and HER2 status, is shown in Figure 3. Patients with ER-negative cancer and those with HER2-negative cancer treated with TX-CEX tended to live longer than those treated with T-CEF. When four subgroups were formed using cancer steroid hormone receptor status (ER-positive and/or PR-positive v ER-negative and PRnegative) and HER2 status (positive v negative), patients with triple-negative cancer (TNBC; ER-negative, PR-negative, and HER2-negative) tended to survive longer when treated with TX-CEX, whereas little survival beneﬁt was observed in the three other subgroups (Appendix Fig A1, online only), but signiﬁcant interactions were not detected between the study treatments and the subgroups. In the TNBC subgroup, 24 (25.8%) of the 93 patients assigned to TX-CEX died during the follow-up compared with 41 (37.6%) of the 109 patients assigned to T-CEF, and the 5year, 10-year, and 15-year survival rates were 88.2%, 81.7%, and 74.5%, respectively, in the TX-CEX group and 75.2%, 69.7%, and 64.2%, respectively, in the T-CEF group (HR 0.59; 95% CI, 0.36 to 0.97; log-rank test P 5 .051; Gehan-Breslow-Wilcoxon test P 5 .033). DISCUSSION We found that addition of capecitabine to a taxaneanthracycline chemotherapy backbone improved OS during a median follow-up of the patients for approximately 15 years after the date of random assignment. The improvement in OS was statistically signiﬁcant, but modest (19%). In predeﬁned subgroup analyses, patients with ERnegative cancer, HER2-negative cancer, and TNBC tended to beneﬁt most from capecitabine-containing chemotherapy, but the subgroup analyses need to be interpreted with caution. To our knowledge, the current report is based on the longest follow-up time of the randomized trials 
+
+1054 © 2022 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 40, Issue 10 
+
+Adjuvant Capecitabine for Early Breast Cancer 
+
+100 
+
+92.7 84.3 77.6 
+
+90.2 
+
+80 
+
+OS (%) 
+
+82.3 73.3 
+
+60 40 
+
+HR 0.81; 95% CI, 0.66 to 0.99 P = .037 (log-rank test) P = .044 (Gehan-Breslow-Wilcoxon test) 
+
+20 
+
+Capecitabine arm (TX-CEX) Control arm (T-CEF) 
+
+0 
+
+5 
+
+10 
+
+15 
+
+20 
+
+Time (years) No. at risk: TX-CEX 
+
+751 
+
+696 
+
+632 
+
+354 
+
+0 
+
+T-CEF 
+
+744 
+
+671 
+
+612 
+
+329 
+
+0 
+
+FIG 2. OS. The 5-year, 10-year, and 15-year survival rates are shown. Patients censored are indicated with a bar. CEF, cyclophosphamide and epirubicin plus ﬂuorouracil; CEX, cyclophosphamide and epirubicin plus capecitabine; HR, hazard ratio; OS, overall survival; T, docetaxel; TX, docetaxel plus capecitabine. Adjuvant capecitabine added to conventional chemotherapy improves survival of patients with early breast cancer. 
+
+evaluating either neoadjuvant or adjuvant capecitabine in patients with breast cancer.3-17 Besides FinXX, only one other trial15 reported a median follow-up time exceeding 10 years. The earlier analyses of FinXX on the basis of a median follow-up time of about 5 years25 and 10 years12 did not ﬁnd 
+
+integration of capecitabine with standard chemotherapy to prolong OS statistically signiﬁcantly, although the HRs for OS (0.73 and 0.84, respectively) do not differ markedly from the HR found in the current analysis (0.81). This suggests that the study, powered for RFS, did not have sufﬁcient power for assessing OS in the previous analyses with shorter follow-up times, leading to a premature conclusion that addition of capecitabine does not prolong OS.12 In agreement with the current FinXX OS analysis, a metaanalysis of trials that evaluated neoadjuvant and adjuvant capecitabine in early breast cancer found adding of capecitabine to other chemotherapy agents to improve OS compared with regimens that did not contain capecitabine with a HR of 0.84 (95% CI, 0.75 to 0.93), but no signiﬁcant OS beneﬁt was observed in the studies in which a standard agent was replaced with capecitabine.18 A randomized trial carried out in China that had a similar design as FinXX but accrued only patients with early TNBC found adjuvant TXCEX to improve signiﬁcantly disease-free survival compared with T-FEC.17 The OS beneﬁt in the FinXX trial was achieved despite a smaller docetaxel dose administered 3 weekly in the TXCEX group compared with the T-CEF group (60 mg/m2 v 80 mg/m2 3-weekly, respectively). The capecitabine dosing selected was moderate and in the same order of magnitude as was used in other trials evaluating adjuvant or neoadjuvant capecitabine.3,11,13-17 With this dosing, the safety of TX-CEX was considered acceptable.23,25 
+
+T-CEF Deaths/total No. (%) 
+
+HR (95% CI) 
+
+Subgroup 
+
+TX-CEX Deaths/total No. (%) 
+
+All patients 
+
+171/751 (22.8) 
+
+204/744 (27.4) 
+
+0.81 (0.66 to 0.99) 
+
+pN 0-3-positive 
+
+93/547 (17.0) 
+
+113/537 (21.0) 
+
+0.79 (0.60 to 1.05) 
+
+pN > 3-positive 
+
+78/204 (38.2) 
+
+91/207 (44.0) 
+
+0.81 (0.60 to 1.10) 
+
+ER-positive 
+
+128/580 (22.1) 
+
+142/562 (25.3) 
+
+0.86 (0.68 to 1.10) 
+
+ER-negative 
+
+43/171 (25.1) 
+
+62/182 (34.1) 
+
+0.67 (0.46 to 0.99) 
+
+HER2-positive 
+
+31/145 (21.4) 
+
+34/137 (24.8) 
+
+0.86 (0.53 to 1.40) 
+
+HER2-positive 
+
+140/606 (23.1) 
+
+170/607 (28.0) 
+
+0.79 (0.64 to 0.99) 
+
+ER-positive /PR-positive, HER2-negative 116/512 (22.7) 
+
+129/497 (26.0) 
+
+0.86 (0.67 to 1.11) 
+
+ER-positive /PR-positive, HER2-positive 
+
+Axillary nodal status 
+
+Interaction P 
+
+.919 
+
+ER expression 
+
+.285 
+
+HER2 status 
+
+.772 
+
+Tumor biological group 
+
+.560 16/85 (18.8) 
+
+19/77 (24.7) 
+
+0.78 (0.40 to 1.51) 
+
+ER-negative /PR-negative, HER2-positive 15/61 (24.6) 
+
+15/61 (24.6) 
+
+0.98 (0.48 to 2.00) 
+
+ER-negative /PR-negative, HER2-negative 24/93 (25.8) 
+
+41/109 (37.6) 
+
+0.59 (0.36 to 0.97) 
+
+mTX plus CEX better 0.25 
+
+0.5 
+
+T plus CEF better o 1 
+
+2 
+
+4 
+
+FIG 3. Exploratory analyses of OS in subgroups. CEF, cyclophosphamide and epirubicin plus ﬂuorouracil; CEX, cyclophosphamide and epirubicin plus capecitabine; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hazard ratio; OS, overall survival; PR, progesterone receptor; T, docetaxel; TX, docetaxel plus capecitabine. 
+
+Journal of Clinical Oncology 
+
+1055 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Joensuu et al 
+
+Since capecitabine is administered daily, its addition to regimens with the standard agents increases dose-density and may lead to chemotherapy intensiﬁcation. In a metaanalysis of 26 randomized trials, women with early breast cancer treated with dose-intense chemotherapy regimens had moderately lower all-cause mortality compared with women treated with standard schedule chemotherapy (death rate ratio, 0.88; 95% CI, 0.78 to 0.99).2 Although comparisons between trials need to be done with caution, the 19% reduction in the risk of death observed in the FinXX trial achieved by integration of capecitabine into the taxane-anthracycline regimen might not be inferior to the mortality reduction achieved with chemotherapy intensiﬁcation by other means.2 Some data suggest that dose-dense regimens are effective in the treatment of hormone receptor–negative breast cancers,28,29 and in agreement with these data, the TX-CEX regimen tended to be more effective than T-CEF for ER-negative cancer and TNBC. DNA repair may be defective in TNBC because of DNA repair gene aberrations,30 which could sensitize TNBC to capecitabine. Platinum salts are active in the treatment of the basal type TNBC but were not evaluated in FinXX. Interestingly, a recently reported randomized trial found that administration of adjuvant carboplatin or cisplatin did not improve survival outcomes compared with capecitabine in a patient population with basal subtype TNBC with residual invasive disease after completion of neoadjuvant chemotherapy, and the platinum salts were associated with more severe toxicity.31 Adjuvant olaparib32 and neoadjuvant immunotherapy33 are effective for some patients with TNBC. Despite these advances, the present results support further evaluation of capecitabine in the adjuvant and neoadjuvant treatment of patients with TNBC. We chose to add capecitabine to the T-CEF regimen since docetaxel, paclitaxel, and cyclophosphamide increased in a xenograft model the activity of thymidine phosphorylase, an essential enzyme needed for activation of capecitabine to ﬂuorouracil in tumors,20,34 and administered capecitabine 
+
+concomitantly with either docetaxel or cyclophosphamide during each of the six chemotherapy cycles. In a randomized trial that compared adjuvant doxorubicin and cyclophosphamide followed by docetaxel (AC-T) to a regimen where capecitabine (X) was administered with docetaxel (AC-TX), addition of capecitabine did not prolong disease-free survival but improved OS.10 Sequential adjuvant anthracycline and taxane-based regimens are considered standard options in the current treatment guidelines,35,36 but several other types of adjuvant chemotherapy regimens are also recommendable.36 It remains an important research question whether addition of capecitabine to these regimens could lead to improved survival outcomes. This study has some limitations. The study primary objective (RFS) was not analyzed, as per the study Protocol. The follow-up of the patients was generally limited to the ﬁrst 10 years after the date of random assignment at the study sites, and therefore, cancer recurrences could not be captured with certainty thereafter. On the other hand, all deaths could be captured with certainty because the death registries have 100% coverage in the participating countries, and since mandated by legislation, each citizen is provided with a unique personal identity code. The exploratory cancer biological subgroups were compiled using the ER, PR, and HER2 status only. Cancer ER negativity and PR negativity were deﬁned using the 10% cutoff value, which was the standard when the patients were accrued, rather than with the 1% cutoff value now recommended. However, relatively few breast cancers have ER or PR expression between 1% and 10%, and such cancers often behave like ER-negative cancers.37 In conclusion, addition of capecitabine to a chemotherapy regimen that included docetaxel, cyclophosphamide, and epirubicin improved OS in a patient population with early breast cancer during a median follow-up time of 15 years since the date of random assignment. The results suggest that adjuvant capecitabine-containing chemotherapy could be considered as an option for some patients with early breast cancer. 
+
+11 
+
+AFFILIATIONS 1 
+
+Department of Oncology, Helsinki University Hospital and University of Helsinki, Helsinki, Finland 2 Department of Oncology, Tampere University Hospital and Tampere University, Tampere, Finland 3 Department of Oncology, Turku University Hospital, Turku, Finland 4 Department of Oncology and Radiotherapy, Oulu University Hospital, Oulu, Finland 5 Gävle Hospital, Gävle, Sweden 6 Regional Cancer Centre of Mid-Sweden, Academic Hospital, Uppsala, Sweden 7 Cancer Center, Kuopio University Hospital, Kuopio, Finland 8 Örebro University Hospital, Örebro, Sweden 9 Päijät-Häme Central Hospital, Lahti, Finland 10 Department of Oncology, Gävle Hospital and Visby Hospital, and Uppsala University, Uppsala, Sweden 
+
+Central Finland Central Hospital, Jyväskylä, Finland EstiMates, Turku, Finland 13 Department of Immunology, Genetics and Pathology, Uppsala University Hospital, Uppsala, Sweden 12 
+
+CORRESPONDING AUTHOR Heikki Joensuu, MD, Helsinki University Hospital and University of Helsinki, Haartmaninkatu 4, P.O.B. 180, FIN-00029, Helsinki, Finland; e-mail: heikki.joensuu@hus.ﬁ. 
+
+SUPPORT Supported by Roche, Sanoﬁ, and AstraZeneca. The study was also supported by the Cancer Society of Finland, Sigrid Juselius Foundation, Jane and Aatos Erkko Foundation, Academy of Finland, and Research Funds of Helsinki University Hospital. 
+
+1056 © 2022 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 40, Issue 10 
+
+Adjuvant Capecitabine for Early Breast Cancer 
+
+CLINICAL TRIAL INFORMATION NCT00114816 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.21.02054. 
+
+DATA SHARING STATEMENT The study Protocol has been available since the time of primary publications and is available in the Supplement. Individual patient data will not be made available. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Heikki Joensuu, Pirkko-Liisa KellokumpuLehtinen, Arja Jukkola, Minna Tanner, Päivi Auvinen, Outi Lahdenperä, Paul Nyandoto, Petri Bono, Henrik Lindman Financial support: Heikki Joensuu, Henrik Lindman Administrative support: Heikki Joensuu, Henrik Lindman Provision of study materials or patients: Heikki Joensuu, Pirkko-Liisa 
+
+Kellokumpu-Lehtinen, Riikka Huovinen, Minna Tanner, Johan Ahlgren, Kenneth Villman, Paul Nyandoto, Petri Bono, Henrik Lindman Collection and assembly of data: Pirkko-Liisa Kellokumpu-Lehtinen, Riikka Huovinen, Arja Jukkola, Minna Tanner, Päivi Auvinen, Outi Lahdenperä, Paul Nyandoto, Greger Nilsson, Paula Poikonen-Saksela, Vesa Kataja, Petri Bono, Henrik Lindman Data analysis and interpretation: Pirkko-Liisa Kellokumpu-Lehtinen, Arja Jukkola, Minna Tanner, Johan Ahlgren, Päivi Auvinen, Outi Lahdenperä, Kenneth Villman, Paul Nyandoto, Petri Bono, Jouni Junnila, Henrik Lindman Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+ACKNOWLEDGMENT We thank Ms Raija Husa for her help in the data management, the medical and nursing staff members at the trial sites, the Finnish Breast Cancer Group for support, and the women who participated in the FinXX trial. 
+
+REFERENCES 1. 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG), Peto R, Davies C, et al: Comparisons between different polychemotherapy regimens for early breast cancer: meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 379:432-444, 2012 
+
+2. 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Increasing the dose intensity of chemotherapy by more frequent administration or sequential scheduling: A patient-level meta-analysis of 37 298 women with early breast cancer in 26 randomised trials. Lancet 393:1440-1452, 2019 
+
+3. 
+
+von Minckwitz G, Kummel S, Vogel P, et al: Neoadjuvant vinorelbine-capecitabine versus docetaxel-doxorubicin-cyclophosphamide in early nonresponsive breast cancer: Phase III randomized GeparTrio trial. J Natl Cancer Inst 100:542-551, 2008 
+
+4. 
+
+von Minckwitz G, Rezai M, Loibl S, et al: Capecitabine in addition to anthracycline- and taxane-based neoadjuvant treatment in patients with primary breast cancer: Phase III GeparQuattro study. J Clin Oncol 28:2015-2023, 2010 
+
+5. 
+
+Bear HD, Tang G, Rastogi P, et al: Bevacizumab added to neoadjuvant chemotherapy for breast cancer. N Engl J Med 366:310-320, 2012 
+
+6. 
+
+Ohno S, Chow LW, Sato N, et al: Randomized trial of preoperative docetaxel with or without capecitabine after 4 cycles of 5-ﬂuorouracil–epirubicin–cyclophosphamide (FEC) in early-stage breast cancer: Exploratory analyses identify Ki67 as a predictive biomarker for response to neoadjuvant chemotherapy. Breast Cancer Res Treat 142:69-80, 2013 
+
+7. 
+
+Steger GG, Greil R, Lang A, et al: Epirubicin and docetaxel with or without capecitabine as neoadjuvant treatment for early breast cancer: Final results of a randomized phase III study (ABCSG-24). Ann Oncol 25:366-371, 2014 
+
+8. 
+
+Möbus V, von Minckwitz G, Jackisch C, et al: German adjuvant intergroup node-positive study (GAIN): A phase III trial comparing two dose-dense regimens (iddEPC versus ddEC-PwX) in high-risk early breast cancer patients. Ann Oncol 28:1803-1810, 2017 
+
+9. 
+
+Martin M, Ruiz Simon A, Ruiz Borrego M, et al: Epirubicin plus cyclophosphamide followed by docetaxel versus epirubicin plus docetaxel followed by capecitabine as adjuvant therapy for node-positive early breast cancer: Results from the GEICAM/2003-10 study. J Clin Oncol 33:3788-3795, 2015 
+
+10. O’Shaughnessy J, Koeppen H, Xiao Y, et al: Patients with slowly proliferative early breast cancer have low ﬁve-year recurrence rates in a phase III adjuvant trial of capecitabine. Clin Cancer Res 21:4305-4311, 2015 11. von Minckwitz G, Conrad B, Reimer T, et al: A randomized phase 2 study comparing EC or CMF versus nab-paclitaxel plus capecitabine as adjuvant chemotherapy for nonfrail elderly patients with moderate to high-risk early breast cancer (ICE II-GBG 52). Cancer 121:3639-3648, 2015 12. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine in combination with docetaxel, epirubicin, and cyclophosphamide for early breast cancer: The randomized clinical FinXX trial. JAMA Oncol 3:793-800, 2017 13. Masuda N, Lee SJ, Ohtani S, et al: Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med 376:2147-2159, 2017 14. Cameron D, Morden JP, Canney P, et al: Accelerated versus standard epirubicin followed by cyclophosphamide, methotrexate, and ﬂuorouracil or capecitabine as adjuvant therapy for breast cancer in the randomised UK TACT2 trial (CRUK/05/19): A multicentre, phase 3, open-label, randomised, controlled trial. Lancet Oncol 18:929-945, 2017 15. Muss HB, Polley MC, Berry DA, et al: Randomized trial of standard adjuvant chemotherapy regimens versus capecitabine in older women with early breast cancer: 10-year update of the CALGB 49907 trial. J Clin Oncol 37:2338-2348, 2019 16. Lluch A, Barrios CH, Torrecillas L, et al: Phase III trial of adjuvant capecitabine after standard neo-/adjuvant chemotherapy in patients with early triple-negative breast cancer (GEICAM/200311_CIBOMA/2004-01). J Clin Oncol 38:203-213, 2020 17. Li J, Yu K, Pang D, et al: Adjuvant capecitabine with docetaxel and cyclophosphamide plus epirubicin for triple-negative breast cancer (CBCSG010): An openlabel, randomized, multicenter, phase III trial. J Clin Oncol 38:1774-1784, 2020 18. van Mackelenberg M, Seither F, Möbus V, et al: Effects of capecitabine as part of neo-/adjuvant chemotherapy. A meta-analysis of individual patient data from 12 randomized trials including 15,457 patients. Cancer Res 80, 2020 (suppl 4; abstr GS1-07) 19. Fujimoto-Ouchi K, Tanaka Y, Tominaga T: Schedule dependency of antitumor activity in combination therapy with capecitabine/5’-deoxy-5-ﬂuorouridine and docetaxel in breast cancer models. Clin Cancer Res 7:1079-1086, 2001 20. Endo M, Shinbori N, Fukase Y, et al: Induction of thymidine phosphorylase expression and enhancement of efﬁcacy of capecitabine or 5’-deoxy-5-ﬂuorouridine by cyclophosphamide in mammary tumor models. Int J Cancer 83:127-134, 1999 
+
+Journal of Clinical Oncology 
+
+1057 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Joensuu et al 21. Myers RE, Johnston M, Pritchard K, et al: Baseline staging tests in primary breast cancer: A practice guideline. CMAJ 164:1439-1444, 2001 22. Ravaioli A, Pasini G, Polselli A, et al: Staging of breast cancer: New recommended standard procedure. Breast Cancer Res Treat 72:53-60, 2002 23. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine in combination with docetaxel and cyclophosphamide plus epirubicin for breast cancer: An open-label, randomised controlled trial. Lancet Oncol 10:1145-1151, 2009 24. National Cancer Institute Cancer Therapy Evaluation Program: Common Terminology for Adverse Events v3.0. http://ctep.cancer.gov 25. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine, docetaxel, cyclophosphamide, and epirubicin for early breast cancer: Final analysis of the randomized FinXX trial. J Clin Oncol 30:11-18, 2012 26. Statistics Finland. https://www.stat.ﬁ/index_en.htmlor 27. Swedish Population Register. https://www.norden.org/en/info-norden/registration-swedish-population-register 28. Petrelli F, Cabiddu M, Coinu A, et al: Adjuvant dose-dense chemotherapy in breast cancer: A systematic review and meta-analysis of randomized trials. Breast Cancer Res Treat 151:251-259, 2015 29. Bonilla L, Ben-Aharon I, Vidal L, et al: Dose-dense chemotherapy in nonmetastatic breast cancer: A systematic review and meta-analysis of randomized controlled trials. J Natl Cancer Inst 102:1845-1854, 2010 30. Cancer Genome Atlas Network: Comprehensive molecular portraits of human breast tumours. Nature 490:61-70, 2012 31. Mayer IA, Zhao F, Arteaga CL, et al: Randomized phase III postoperative trial of platinum-based chemotherapy versus capecitabine in patients with residual triple-negative breast cancer following neoadjuvant chemotherapy: ECOG-ACRIN EA1131 J Clin Oncol 39:2539-2551, 2021 32. Tutt ANJ, Garber JE, Kaufman B, et al: Adjuvant olaparib for patients with BRCA1- or BRCA2-mutated breast cancer. N Engl J Med 384:2394-2405, 2021 33. He Q, Peng Y, Sun J, et al: Platinum-based chemotherapy and immunotherapy in early triple-negative breast cancer: A meta-analysis and indirect treatment comparison. Front Oncol 11:693542, 2021 34. Sawada N, Ishikawa T, Fukase Y, et al: Induction of thymidine phosphorylase activity and enhancement of capecitabine efﬁcacy by taxol/taxotere in human cancer xenografts. Clin Cancer Res 4:1013-1019, 1998 35. Denduluri N, Chavez-MacGregor M, Telli ML, et al: Selection of optimal adjuvant chemotherapy and targeted therapy for early breast cancer: ASCO clinical practice guideline focused update. J Clin Oncol 36:2433-2443, 2018 36. Cardoso F, Kyriakides S, Ohno S, et al: Early breast cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol 30:1674, 2019 37. Prabhu JS, Korlimarla A, Desai K, et al: A majority of low (1-10%) ER positive breast cancers behave like hormone receptor negative tumors. J Cancer 5: 156-165, 2014 
+
+n n n 
+
+1058 © 2022 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 40, Issue 10 
+
+Adjuvant Capecitabine for Early Breast Cancer AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Adjuvant Capecitabine for Early Breast Cancer: 15-Year Overall Survival Results From a Randomized Trial The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Heikki Joensuu Employment: Orion Corporation Stock and Other Ownership Interests: Orion Corporation, Sartar Therapies Honoraria: Neutron Therpeutics, Deciphera Consulting or Advisory Role: Neutron Therapeutics, Orion Patents, Royalties, Other Intellectual Property: Sartar Therapeutics Riikka Huovinen Honoraria: Roche Consulting or Advisory Role: Roche, Lilly, Novartis, Pﬁzer, Gilead Minna Tanner Consulting or Advisory Role: Roche, Pﬁzer, Novartis, Lilly, AstraZeneca, Pierre Fabre Speakers’ Bureau: Novartis, Roche, AstraZeneca, Pﬁzer, Lilly Expert Testimony: SOBI, Pﬁzer, Amgen, Novartis, Pierre Fabre Greger Nilsson Honoraria: AstraZeneca, Bristol Myers Squibb Consulting or Advisory Role: Merck, Pierre Fabre 
+
+Vesa Kataja Employment: Kaiku Health Leadership: Kaiku Health Petri Bono Employment: Terveystalo Leadership: Terveystalo Stock and Other Ownership Interests: TILT Biotherapeutics, Faron Pharmaceuticals, Terveystalo Consulting or Advisory Role: MSD Oncology, Ipsen, Faron Pharmaceuticals, Oncorena, TILT Biotherapeutics, EUSA pharma, Herantis Pharma Henrik Lindman Honoraria: Lilly, Novartis, AstraZeneca, Daiichi Sankyo Consulting or Advisory Role: Lilly, Oasmia Pharmaceutical AB, MSD Oncology, Daiichi Sankyo, Novartis, Pierre Fabre, Seattle Genetics, BioNTech Research Funding: Roche (Inst) No other potential conﬂicts of interest were reported. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Joensuu et al 
+
+APPENDIX 
+
+A 
+
+B 94.1 
+
+100 
+
+96.1 
+
+100 
+
+89.4 
+
+85.1 93.2 
+
+95.3 
+
+77.7 84.2 74.9 
+
+60 
+
+HR 0.86; 95% CI, 0.67 to 1.11 (Cox multivariable model) P = .237 (log-rank test) P = .342 (Gehan-Breslow-Wilcoxon test) 
+
+40 20 
+
+85.7 74.7 
+
+60 HR 0.78; 95% CI, 0.40 to 1.51 (Cox multivariable model) P = .446 (log-rank test) P = .554 (Gehan-Breslow-Wilcoxon test) 
+
+40 20 
+
+Capecitabine arm (TX-CEX) 
+
+Capecitabine arm (TX-CEX) 
+
+Control arm (T-CEF) 
+
+0 
+
+5 
+
+81.2 
+
+80 
+
+OS (%) 
+
+OS (%) 
+
+80 
+
+Control arm (T-CEF) 
+
+10 
+
+15 
+
+20 
+
+0 
+
+5 
+
+Time (years) 
+
+10 
+
+15 
+
+20 
+
+Time (years) 
+
+No. at risk: 
+
+No. at risk: 
+
+TX-CEX 
+
+512 
+
+482 
+
+430 
+
+237 
+
+0 
+
+TX-CEX 
+
+85 
+
+81 
+
+76 
+
+41 
+
+0 
+
+T-CEF 
+
+497 
+
+463 
+
+423 
+
+212 
+
+0 
+
+T-CEF 
+
+77 
+
+74 
+
+66 
+
+45 
+
+0 
+
+C 
+
+D 100 
+
+100 
+
+85.2 82.0 
+
+80 
+
+75.4 
+
+OS (%) 
+
+OS (%) 
+
+80 
+
+83.6 77.0 
+
+60 HR 0.98; 95% CI, 0.48 to 2.00 (Cox multivariable model) P = .993 (log-rank test) P = .926 (Gehan-Breslow-Wilcoxon test) 
+
+40 20 
+
+88.2 81.7 
+
+76.7 
+
+75.2 
+
+64.2 HR 0.59; 95% CI, 0.36 to 0.97 (Cox multivariable model) P = .051 (log-rank test) P = .033 (Gehan-Breslow-Wilcoxon test) 
+
+40 
+
+Capecitabine arm (TX-CEX) 
+
+Control arm (T-CEF) 
+
+0 
+
+5 
+
+69.7 
+
+60 
+
+20 
+
+Capecitabine arm (TX-CEX) 
+
+74.5 
+
+Control arm (T-CEF) 
+
+10 
+
+15 
+
+0 
+
+20 
+
+5 
+
+Time (years) 
+
+10 
+
+15 
+
+20 
+
+Time (years) No. at risk: 
+
+No. at risk: TX-CEX 
+
+61 
+
+51 
+
+50 
+
+29 
+
+0 
+
+TX-CEX 
+
+93 
+
+82 
+
+76 
+
+47 
+
+0 
+
+T-CEF 
+
+61 
+
+52 
+
+47 
+
+26 
+
+0 
+
+T-CEF 
+
+109 
+
+82 
+
+76 
+
+46 
+
+0 
+
+FIG A1. OS in selected subgroups: (A) patients with ER-positive and/or PR-positive , HER2-negative cancer, (B) patients with ER-positive and/or PRpositive, HER2-positive cancer, (C) patients with ER-negative, PR-negative, and HER2-positive cancer, and (D) patients with ER-negative, PR-negative, and HER2-negative cancer. Patients censored are indicated with a bar. CEF, cyclophosphamide and epirubicin plus ﬂuorouracil; CEX, cyclophosphamide and epirubicin plus capecitabine; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hazard ratio; PR, progesterone receptor; OS, overall survival; T, docetaxel; TX, docetaxel plus capecitabine. 
+
+© 2022 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 51.79.146.174 on October 12, 2022 from 051.079.146.174 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 40, Issue 10 
+
+ 

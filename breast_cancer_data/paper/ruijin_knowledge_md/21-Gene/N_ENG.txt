@@ -1,0 +1,679 @@
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Original Article 
+
+Clinical and Genomic Risk to Guide the Use of Adjuvant Therapy for Breast Cancer J.A. Sparano, R.J. Gray, P.M. Ravdin, D.F. Makower, K.I. Pritchard, K.S. Albain, D.F. Hayes, C.E. Geyer, Jr., E.C. Dees, M.P. Goetz, J.A. Olson, Jr., T. Lively, S.S. Badve, T.J. Saphner, L.I. Wagner, T.J. Whelan, M.J. Ellis, S. Paik, W.C. Wood, M.M. Keane, H.L.G. Moreno, P.S. Reddy, T.F. Goggins, I.A. Mayer, A.M. Brufsky, D.L. Toppmeyer, V.G. Kaklamani, J.L. Berenberg, J. Abrams, and G.W. Sledge, Jr.​​ 
+
+A BS T R AC T BACKGROUND 
+
+The use of adjuvant chemotherapy in patients with breast cancer may be guided by clinicopathological factors and a score based on a 21-gene assay to determine the risk of recurrence. Whether the level of clinical risk of breast cancer recurrence adds prognostic information to the recurrence score is not known. METHODS 
+
+We performed a prospective trial involving 9427 women with hormone-receptor–positive, human epidermal growth factor receptor 2–negative, axillary node–negative breast cancer, in whom an assay of 21 genes had been performed, and we classified the clinical risk of recurrence of breast cancer as low or high on the basis of the tumor size and histologic grade. The effect of clinical risk was evaluated by calculating hazard ratios for distant recurrence with the use of Cox proportional-hazards models. The initial endocrine therapy was tamoxifen alone in the majority of the premenopausal women who were 50 years of age or younger. 
+
+The authors’ full names, academic de­ grees, and affiliations are listed in the Appendix. Address reprint requests to Dr. Sparano at Montefiore Medical Center, 1695 Eastchester Rd., Bronx, NY 10461, or at ­jsparano@​­montefiore​.­org. This article was published on June 3, 2019, at NEJM.org. DOI: 10.1056/NEJMoa1904819 Copyright © 2019 Massachusetts Medical Society. 
+
+RESULTS 
+
+The level of clinical risk was prognostic of distant recurrence in women with an intermediate 21-gene recurrence score of 11 to 25 (on a scale of 0 to 100, with higher scores indicating a worse prognosis or a greater potential benefit from chemotherapy) who were randomly assigned to endocrine therapy (hazard ratio for the comparison of high vs. low clinical risk, 2.73; 95% confidence interval [CI], 1.93 to 3.87) or to chemotherapy plus endocrine (chemoendocrine) therapy (hazard ratio, 2.41; 95% CI, 1.66 to 3.48) and in women with a high recurrence score (a score of 26 to 100), all of whom were assigned to chemoendocrine therapy (hazard ratio, 3.17; 95% CI, 1.94 to 5.19). Among women who were 50 years of age or younger who had received endocrine therapy alone, the estimated (±SE) rate of distant recurrence at 9 years was less than 5% (≤1.8±0.9%) with a low recurrence score (a score of 0 to 10), irrespective of clinical risk, and 4.7±1.0% with an intermediate recurrence score and low clinical risk. In this age group, the estimated distant recurrence at 9 years exceeded 10% among women with a high clinical risk and an intermediate recurrence score who received endocrine therapy alone (12.3±2.4%) and among those with a high recurrence score who received chemoendocrine therapy (15.2±3.3%). CONCLUSIONS 
+
+Clinical-risk stratification provided prognostic information that, when added to the 21-gene recurrence score, could be used to identify premenopausal women who could benefit from more effective therapy. (Funded by the National Cancer Institute and others; ClinicalTrials.gov number, NCT00310180.) n engl j med﻿﻿ nejm.org﻿ 
+
+1 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+C 
+
+linicopathological features, including tumor size, histologic grade, and the presence of axillary lymph-node metastases, provide prognostic information about disease recurrence in women who have localized breast cancer after surgery, but these features have not been shown to be predictive of benefit from adjuvant chemotherapy.1 In women with hormone-receptor–positive, human epidermal growth factor receptor 2 (HER2)–negative early breast cancer, the 21-gene recurrence-score assay provides prognostic information that is independent of clinicopathological features,2 and a high score (on a scale of 0 to 100) indicates a higher rate of distant recurrence and is predictive of chemotherapy benefit. A high score has been defined as 31 or higher on the basis of the prospective validation National Surgical Adjuvant Breast and Bowel Project (NSABP) B20 and Southwest Oncology Group S8814 trial cohorts3,4 or 26 or higher on the basis of the NSABP B20 trial cohort.5,6 The prospective Trial Assigning Individualized Options for Treatment (TAILORx) showed that endocrine therapy alone was noninferior to adjuvant chemotherapy plus endocrine (chemoendocrine) therapy in women with hormone-receptor– positive, HER2-negative, axillary node–negative breast cancer and a 21-gene recurrence score of 11 to 25. An exploratory analysis indicated some benefit of chemotherapy in women 50 years of age or younger who had a recurrence score of 16 to 25. The trial also showed a low percentage of women with distant recurrence (3%) at 9 years with endocrine therapy alone if the recurrence score was 0 to 15, irrespective of age.7,8 Here, we report the results of secondary analyses of the TAILORx trial that were designed to determine whether clinical risk, as assessed with the use of an algorithm that integrates tumor size and histologic grade, adds prognostic information to the 21-gene recurrence score and predictive information regarding the benefit of chemotherapy. We further examined the relationship between age and the absolute chemotherapy benefit in women who were 50 years of age or younger and had a recurrence score of 16 to 25. 
+
+coordinated by the Eastern Cooperative Oncology Group–American College of Radiology Imaging Network (ECOG-ACRIN) Cancer Research Group, as previously described.7 Women who participated in the trial provided written informed consent, including a statement of willingness to have treatment assigned or randomly assigned on the basis of the 21-gene Oncotype DX recurrencescore assay performed in a central laboratory (Genomic Health).2 Objective and Definition of Clinical Risk 
+
+The standardized definitions for efficacy end points (STEEP) criteria were used for end-point definitions.9 One end point was the distant recurrence–free interval, referred to here as distant recurrence (defined as the time from registration to the date of distant recurrence of breast cancer, or of death with distant recurrence, if death was the first manifestation of distant recurrence). Another end point was invasive disease– free survival, defined as the time from registration to the first event of recurrence (distant or locoregional), second primary cancer (excluding nonmelanoma skin cancers), or death without evidence of recurrence. A prespecified secondary trial objective was to determine whether clinical risk, as assessed with the use of the Adjuvant! algorithm, added information regarding prognosis for recurrence and prediction of chemotherapy benefit to that projected by the Oncotype DX test.7 Classic pathologic information and outcome results were also used to refine models based on classic information and genomic tests. Adjuvant! is a tool that uses clinicopathological characteristics to provide estimates of breast cancer outcomes at 10 years on the basis of the Surveillance, Epidemiology, and End Results registry data and treatment effects associated with adjuvant chemotherapy and endocrine therapy derived by the Early Breast Cancer Trialists’ Collaborative Group meta-analysis that has been validated in several data sets.10,11 Since Adjuvant! is no longer available for clinical use, we assessed the prognostic information provided by a binary clinical-risk categorization based on the Adjuvant! algorithm as used in the MINDACT (Microarray in Node-Negative Disease Me thods May Avoid Chemotherapy) trial.12 A low clinical Trial Design and Patients risk was defined as the probability of breast TAILORx, a prospective clinical trial, was spon- cancer–specific survival at 10 years without syssored by the National Cancer Institute and was temic therapy among more than 92% of women 
+
+2 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+Clinical and Genomic Risk in Breast Cancer 
+
+with estrogen receptor–positive tumors who received endocrine therapy alone, as projected by Adjuvant! (version 8.0).11 Clinical risk was defined as low if the tumor was 3 cm in diameter or smaller and had a low histologic grade, 2 cm or smaller and had an intermediate grade, or 1 cm or smaller and had a high grade; the clinical risk was defined as high if the low-risk criteria were not met. Oversight 
+
+This trial was coordinated by the ECOG-ACRIN Cancer Research Group, with other federally funded groups participating, including the Southwest Oncology Group, the Alliance for Clinical Trials in Oncology, NRG Oncology, and the Canadian Cancer Clinical Trials Network. The statistical analysis was performed by the second author, the manuscript was written by the first author, and a final version of the manuscript, incorporating changes recommended by the coauthors, was reviewed and approved by all the authors, who vouch for the accuracy and completeness of the data and the adherence of the trial to the protocol (available with the full text of this article at NEJM.org). No one who is not an author contributed to the manuscript. No commercial support was provided in the planning or execution of the trial, but commercial support was provided by Genomic Health, the makers of the 21-gene risk score tool, for collection of follow-up information from the treatment sites. Statistical Analysis 
+
+This analysis involved the same intention-to-treat population previously described.7 Event-free rates were estimated with the use of the Kaplan–Meier method, with confidence intervals computed with log–log transformation and Greenwood’s variance. Hazard ratios were estimated with the use of partial likelihood analysis of the Cox proportional-hazards model, with confidence intervals symmetric on the log-ratio scale. No corrections for multiple comparisons were made. 
+
+R e sult s Clinical-Risk Category, 21-Gene Recurrence Score, and Age 
+
+The trial was conducted from April 2006 to October 2010. Of the 9719 women in the trial who 
+
+were included in the primary intention-to-treat population and who had data that could be evaluated, information regarding clinical risk, including both tumor size and histologic grade, was available for 9427 (97.0%), of whom 6615 (70.2%) had low clinical risk and 2812 (29.8%) had high clinical risk, with a similar distribution according to age (≤50 years vs. >50 years). The recurrence score was high (a score of 26 to 100) in 589 patients (8.9%) with low clinical risk and in 770 patients (27.4%) with high clinical risk; these distributions were also similar according to age. Endocrine therapy administered to women who were reported to be premenopausal at registration and to have a recurrence score of 11 or higher included tamoxifen in 78% of the women (including 35% who crossed over to an aromatase inhibitor) and ovarian function suppression alone or in combination with an aromatase inhibitor in 13%; 7% of the women were reported to receive an aromatase inhibitor, which could indicate either incorrect reporting of menopausal status at registration or chemotherapy-induced menopause. Clinical-Risk Category and Prognosis 
+
+Prognostic information provided by the clinicalrisk category is shown in Figure 1. Estimated hazard ratios reflect the comparison of the high clinical-risk group with the low clinical-risk group; a hazard ratio greater than 1 indicated that a high clinical risk was prognostic for a higher event rate. The clinical-risk category added prognostic information regarding distant recurrence in patients who received endocrine therapy alone and who had an intermediate recurrence score of 11 to 25 (hazard ratio, 2.73; 95% confidence interval [CI], 1.93 to 3.87) and in patients treated with chemoendocrine therapy who had an intermediate recurrence score (hazard ratio, 2.41; 95% CI, 1.66 to 3.48) or a high recurrence score of 26 to 100 (hazard ratio, 3.17; 95% CI, 1.94 to 5.19). In a model of distant recurrence incorporating clinical risk and the recurrence score for the group of patients with an intermediate recurrence score (6496 patients and 240 distant recurrences), significant prognostic information was provided by both the clinical-risk level (hazard ratio for high vs. low risk, 2.42; P<0.001) and the continuous recurrence score (hazard ratio for an increase of 1 point in the recurrence score, 1.08; 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+3 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+No. of Patients 
+
+Subgroup All patients Endocrine therapy Low recurrence score (0–10) Intermediate recurrence score (11–25) Chemoendocrine therapy Intermediate recurrence score (11–25) High recurrence score (26–100) >50 Yr of age Endocrine therapy Low recurrence score (0–10) Intermediate recurrence score (11–25) Chemoendocrine therapy Intermediate recurrence score (11–25) High recurrence score (26–100) ≤50 Yr of age Endocrine therapy Low recurrence score (0–10) Intermediate recurrence score (11–25) Chemoendocrine therapy Intermediate recurrence score (11–25) High recurrence score (26–100) 
+
+No. of Events 
+
+Hazard Ratio for Recurrence, Second Primary Cancer, or Death (95% CI) 
+
+No. of Distant Recurrences 
+
+Hazard Ratio for Distant Recurrence (95% CI) 
+
+9427 1572 3282 
+
+176 422 
+
+30 127 
+
+3214 1359 6469 
+
+389 184 
+
+113 96 
+
+1160 2182 
+
+135 273 
+
+23 74 
+
+2171 956 2958 
+
+292 133 
+
+79 65 
+
+412 1100 
+
+41 149 
+
+7 53 
+
+1043 403 
+
+97 51 
+
+34 31 0.25 
+
+0.50 
+
+1.00 
+
+2.00 
+
+4.00 
+
+Greater Event Greater Event Rate with Low Rate with High Clinical Risk Clinical Risk 
+
+0.50 
+
+1.00 
+
+Greater Event Rate with Low Clinical Risk 
+
+2.00 
+
+4.00 
+
+8.00 
+
+Greater Event Rate with High Clinical Risk 
+
+Figure 1. Effect of Clinical Risk on Prognosis in the Entire Population and Stratified According to Age. Hazard ratios and 95% confidence intervals (CIs) for a high versus low clinical risk of invasive disease recurrence, second primary can­ cer, or death and for distant recurrence (a hazard ratio of >1 indicates a higher event rate with high clinical risk) are shown. There were no distant recurrences among 64 patients in the subgroup who had a high clinical risk and a low recurrence score. CIs have not been adjusted for multiple comparisons, and inferences drawn from the intervals may not be reproducible. The size of each square corresponds to the size of the subgroup; the horizontal lines represent the 95% CI. 
+
+P<0.001). Similar findings were noted for rates of invasive disease–free survival events (defined as freedom from invasive disease recurrence, second primary cancer, or death). An evaluation of the effect of clinical risk on prognosis with respect to distant recurrence and invasive disease–free survival, stratified according to age, showed similar prognostic effects in women older than 50 years of age and in women 50 years of age or younger. Weaker associations between clinical risk and distant recurrence were observed in older women who had a low recurrence score (a score of 0 to 10) than among those who had a higher recurrence score, and no association was observed in younger women with a low recurrence score, which may be explained at least partly by the lower event rate among younger women and the smaller sample size. 4 
+
+Clinical-Risk Category and Chemotherapy Benefit 
+
+Estimated treatment hazard ratios for 6496 women with an intermediate recurrence score who were randomly assigned to endocrine or chemoendocrine therapy are shown in Figure 2. An estimated hazard ratio of greater than 1 indicates a higher recurrence rate with endocrine therapy alone than with chemoendocrine therapy. The level of clinical risk was not predictive of chemotherapy benefit in women who had an intermediate recurrence score in the entire population, nor in the 4353 women who were older than 50 years of age or the 2143 women who were 50 years of age or younger (Fig. 2A). Trends suggested a chemotherapy benefit in 476 women who were younger than 50 years of age and had a recurrence score of 21 to 25, but these trends did not vary according to clinical risk (Fig. 2B). 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+Clinical and Genomic Risk in Breast Cancer 
+
+A Subgroup All patients Low clinical risk High clinical risk >50 Yr of age Low clinical risk High clinical risk ≤50 Yr of age Low clinical risk High clinical risk 
+
+Hazard Ratio for Recurrence, Second Primary Cancer, or Death (95% CI) 
+
+No. of Events 
+
+4799 1697 
+
+541 270 
+
+129 111 
+
+3173 1180 
+
+361 204 
+
+80 73 
+
+1626 517 
+
+180 66 
+
+49 38 0.50 
+
+1.00 
+
+Lower Event Rate with Endocrine Therapy Alone 
+
+B Subgroup Recurrence score, 11–15 Low clinical risk High clinical risk Recurrence score, 16–20 Low clinical risk High clinical risk Recurrence score, 21–25 Low clinical risk High clinical risk 
+
+No. of Distant Recurrences 
+
+No. of Patients 
+
+2.00 
+
+4.00 
+
+0.50 
+
+Lower Event Rate with Chemoendocrine Therapy 
+
+Hazard Ratio for Recurrence, Second Primary Cancer, or Death (95% CI) 
+
+No. of Distant Recurrences 
+
+No. of Events 
+
+636 145 
+
+65 14 
+
+11 6 
+
+671 215 
+
+74 26 
+
+23 13 
+
+319 157 
+
+41 26 
+
+15 19 
+
+Lower Event Rate with Endocrine Therapy Alone 
+
+Lower Event Rate with Chemoendocrine Therapy 
+
+1.00 
+
+Lower Event Rate with Endocrine Therapy Alone 
+
+No. of Patients 
+
+0.25 0.50 1.00 2.00 4.00 8.00 
+
+Hazard Ratio for Distant Recurrence (95% CI) 
+
+2.00 
+
+4.00 
+
+Lower Event Rate with Chemoendocrine Therapy 
+
+Hazard Ratio for Distant Recurrence (95% CI) 
+
+0.25 0.50 1.00 2.00 4.00 8.00 
+
+Lower Event Lower Event Rate with Rate with Chemoendocrine Endocrine Therapy Therapy Alone 
+
+Figure 2. Effect of Clinical Risk on Prediction of Chemotherapy Benefit. Panel A shows the effect of clinical risk on prediction of chemotherapy benefit in 6496 women with a recurrence score of 11 to 25 (on a scale of 0 to 100, with higher scores indicating a worse prognosis or a greater potential benefit from chemotherapy) who were randomly assigned to endocrine therapy or chemotherapy plus endocrine (chemoendocrine) therapy, and stratified according to age. A total of 4353 women were older than 50 years of age, and 2143 women were 50 years of age or younger. Panel B shows the effect of clinical risk on prediction of chemotherapy benefit in 2143 women who were 50 years of age or younger and had a recurrence score of 11 to 25. Es­ timated hazard ratios are shown for treatment (endocrine vs. chemoendocrine therapy) and 95% CIs for invasive disease–free survival and distant recurrence (a hazard ratio >1 indicates that chemoendocrine therapy is better). CIs have not been adjusted for multiple com­ parisons, and inferences drawn from the intervals may not be reproducible. The size of each square corresponds to the size of the sub­ group; the horizontal lines represent the 95% CI. 
+
+Age and Chemotherapy Benefit 
+
+We further evaluated chemotherapy benefit as a function of age and menopausal status in 4338 women with a recurrence score of 16 to 25 (Fig. 3). We found that a chemotherapy benefit was most evident at 45 years of age in premenopausal women and waned at younger and older ages 
+
+and with menopause, consistent with an effect due to chemotherapy-induced premature menopause. Similar results were found when age (without menopausal status) was evaluated as a continuous variable with the use of a natural spline (Fig. S1 in the Supplementary Appendix, available at NEJM.org). 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+5 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Subgroup ≤40 Yr of age 41–45 Yr of age 46–50 Yr of age Before menopause After menopause 51–55 Yr of age Before menopause After menopause 56–60 Yr of age 61–65 Yr of age >65 Yr of age 
+
+Hazard Ratio for Recurrence, Second Primary Cancer, or Death (95% CI) 
+
+No. of Distant Recurrences 
+
+No. of Patients 
+
+No. of Events 
+
+203 441 
+
+35 51 
+
+12 21 
+
+630 141 
+
+69 15 
+
+33 5 
+
+287 472 826 710 628 
+
+34 54 94 109 117 
+
+13 19 28 32 31 0.25 
+
+0.50 
+
+Lower Event Rate with Endocrine Therapy Alone 
+
+1.00 
+
+2.00 
+
+4.00 
+
+Lower Event Rate with Chemoendocrine Therapy 
+
+Hazard Ratio for Distant Recurrence (95% CI) 
+
+0.125 0.250 0.500 1.000 2.000 4.000 
+
+Lower Event Rate with Endocrine Therapy Alone 
+
+Lower Event Rate with Chemoendocrine Therapy 
+
+Figure 3. Effect of Age and Menopausal Status on Chemotherapy Benefit. Shown is the effect of age and menopausal status on chemotherapy benefit in 4338 women who had a recurrence score of 16 to 25 and were randomly assigned to endocrine therapy or chemoendocrine therapy. Estimated treatment hazard ratios (endocrine vs. chemoen­ docrine therapy) and 95% CIs for rates of distant recurrence at 9 years are shown (a hazard ratio >1 indicates that chemoendocrine ther­ apy is better). Menopause was defined as an age of 60 years or older; an age of 45 to 59 years with spontaneous cessation of menses for at least 12 months before registration; an age of 45 to 59 years with cessation of menses for less than 12 months before registration and a follicle-stimulating hormone (FSH) level in the postmenopausal range (or >34.4 IU per liter if the institutional range was not available); prior bilateral oophorectomy; or age younger than 60 years with prior hysterectomy without bilateral oophorectomy and an FSH level in the postmenopausal range (or >34.4 IU per liter if the institutional range was not available). CIs have not been adjusted for multiple comparisons, and inferences drawn from the intervals may not be reproducible. The size of each square corresponds to the size of the subgroup; the horizontal lines represent the 95% CI. 
+
+Event Rates at 9 Years, Stratified According to Age 
+
+Kaplan–Meier estimates of event rates at 9 years, stratified according to age, are shown in Table 1. In 6469 women who were older than 50 years of age (two thirds of the trial population), the mean (±SE) distant recurrence rate at 9 years was similar, irrespective of use or nonuse of chemotherapy, in the cohort with an intermediate recurrence score, regardless of whether the clinical risk was low (4.0±0.7% vs. 3.5±0.6%) or high (8.3±1.5% vs. 9.3±1.9%). Similar findings were noted with respect to invasive disease–free survival. In 2958 women who were 50 years of age or younger (one third of the trial population), use or nonuse of chemotherapy in the group with an intermediate recurrence score was associated with similar distant recurrence rates at 9 years if the clinical risk was low (3.9+1.0% and 4.7±1.0%, re- 
+
+6 
+
+spectively), but distant recurrence rates were lower with the use of chemotherapy in the group with high clinical-risk (6.1±1.8% and 12.3±2.4%, respec­ tively). Rates of distant recurrence at 9 years were very low among patients who were 50 years of age or younger who had a low recurrence score, irrespective of clinical-risk category (≤1.8±0.9%). Owing to fewer second primary cancers and deaths, rates of invasive disease–free survival events were lower among younger women across all recurrence-score groups than among women who were older than 50 years of age. The level of clinical risk also added prognostic information with regard to distant recurrence in the 1359 women (both younger and older women) with a high recurrence score who received chemoendocrine therapy. Distant recurrence rates were also low among 589 women with a high recurrence score and low clinical risk who received chemotherapy (7.0±2.4% among older women and 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+Clinical and Genomic Risk in Breast Cancer 
+
+Table 1. Distant or Locoregional Disease Recurrence, Second Primary Cancer, or Death, and Distant Recurrence at 9 Years, According to Use or Nonuse of Adjuvant Chemotherapy, Stratified According to Age, Recurrence Score, and Clinical Risk (Intention-to-Treat Population).* 
+
+Variable 
+
+Clinical Risk 
+
+No. of Patients 
+
+Estimated Probability of Recurrence, Second Primary Cancer, or Death 
+
+Hazard Ratio for Recurrence, Second Primary Cancer, or Death (95% CI)† 
+
+percent 
+
+Estimated Probability of Distant Recurrence 
+
+Hazard Ratio for Distant Recurrence (95% CI)† 
+
+percent 
+
+6469 
+
+Patients >50 yr Low recurrence score (0–10) No chemotherapy 
+
+High 
+
+281 
+
+27.2±4.5 
+
+No chemotherapy 
+
+Low 
+
+879 
+
+13.3±1.5 
+
+High 
+
+577 
+
+23.2±2.6 
+
+No chemotherapy 
+
+Low 
+
+1605 
+
+13.6±1.1 
+
+Chemotherapy 
+
+High 
+
+603 
+
+22.6±2.3 
+
+Chemotherapy 
+
+Low 
+
+1568 
+
+15.7±1.3 
+
+Chemotherapy 
+
+High 
+
+542 
+
+32.1±4.4 
+
+Chemotherapy 
+
+Low 
+
+414 
+
+19.3±3.8 
+
+2.09 (1.47–2.96) 
+
+7.4±3.4 
+
+2.20 (0.95–5.08) 
+
+2.6±0.8 
+
+Intermediate recurrence score (11–25) No chemotherapy 
+
+1.56 (1.21–2.00) 
+
+9.3±1.9 
+
+2.61 (1.65–4.11) 
+
+3.5±0.6 1.61 (1.27–2.04) 
+
+8.3±1.5 
+
+2.49 (1.60–3.87) 
+
+4.0±0.7 
+
+High recurrence score (26–100) 1.85 (1.28–2.66) 
+
+19.8±3.9 
+
+3.35 (1.82–6.14) 
+
+7.0±2.4 
+
+2958 
+
+Patients ≤50 yr Low recurrence score (0–10) No chemotherapy 
+
+High 
+
+64 
+
+9.3±4.5 
+
+No chemotherapy 
+
+Low 
+
+348 
+
+13.3±2.3 
+
+0.68 (0.24–1.92) 
+
+0 
+
+0 
+
+1.8±0.9 
+
+Intermediate recurrence score (11–25) No chemotherapy 
+
+High 
+
+265 
+
+19.8±3.0 
+
+No chemotherapy 
+
+Low 
+
+835 
+
+17.4±1.8 
+
+Chemotherapy 
+
+High 
+
+252 
+
+13.5±3.0 
+
+Chemotherapy 
+
+Low 
+
+791 
+
+11.3±1.4 
+
+Chemotherapy 
+
+High 
+
+228 
+
+24.0±4.2 
+
+Chemotherapy 
+
+Low 
+
+175 
+
+14.8±4.2 
+
+1.27 (0.89–1.83) 
+
+12.3±2.4 
+
+3.06 (1.78–5.25) 
+
+4.7±1.0 1.19 (0.76–1.88) 
+
+6.1±1.8 
+
+2.20 (1.10–4.40) 
+
+3.9±1.0 
+
+High recurrence score (26–100) 2.27 (1.22–4.19) 
+
+15.2±3.3 
+
+2.87 (1.23–6.65) 
+
+6.2±2.5 
+
+*	Plus–minus values are Kaplan–Meier estimates ±SE. †	A hazard ratio greater than 1 indicates that high clinical risk was prognostic for a higher event rate. Confidence intervals have not been ad­ justed, and inferences drawn from the intervals may not be reproducible. 
+
+6.2±2.5% among younger women) and were similar to those among older women with a low recurrence score and high clinical risk (7.4±3.4%) who received endocrine therapy alone. In contrast, among 770 women with a high recurrence score and high clinical risk, distant recurrence rates were high among both older and younger women despite the use of chemotherapy (19.8±3.9% and 15.2±3.3%, respectively). 
+
+Estimation of Chemotherapy Benefit in Reducing Distant Recurrence at 9 Years 
+
+We previously reported that the estimated absolute reduction in the mean (±SE) rate of distant recurrence at 9 years associated with adjuvant chemotherapy among women 50 years of age or younger was 1.6±1.9 percentage points in those with a recurrence score of 16 to 20 and 6.4± 4.9 percentage points in those with a recurrence 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+7 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+score of 21 to 25.7 Here, we provide estimates of the absolute benefit of chemotherapy, further stratified according to clinical risk (Table 2). In 476 women with a recurrence score of 21 to 25, the absolute chemotherapy benefit in the subgroup with low clinical risk (6.4±4.9 percentage points) was similar to that in the subgroup with high clinical risk (8.7±6.2 percentage points). In the 886 women with a recurrence score of 16 to 20, there was an estimated chemotherapy benefit with high clinical risk (6.5±4.9%) but not with low clinical risk (−0.2±2.1%). The sample size was small in some of the subgroups examined; this contributed to higher standard errors than estimates for the entire cohort with a recurrence score of 11 to 25. Prognosis in Women 50 Years of Age or Younger 
+
+Among women who were 50 years of age or younger, most of whom were premenopausal and treated with tamoxifen alone or followed sequentially with an aromatase inhibitor, the distant recurrence rate at 9 years was less than 5% (≤1.8±0.9%) among those with a low recurrence score, irrespective of clinical risk, and an intermediate recurrence score with low clinical risk (4.7±1.0%) (Table 1). In contrast, the rate of distant recurrence at 9 years exceeded 10% among women with high clinical risk and an intermediate recurrence score who received endocrine therapy alone (12.3±2.4%) and in those with a high recurrence score who received chemoendocrine therapy (15.2±3.3%). 
+
+Discussion The recurrence score based on the 21-gene breast cancer assay provides robust prognostic information regarding distant recurrence2 and predicts chemotherapy benefit or lack thereof 3,4,7; clinicopathological features provide prognostic information that is complementary to that of this assay.13-15 The integration of genomic and clinical information may provide a more accurate estimation of prognosis for individual patients than could be provided by either the genomic or clinical information alone.16 Our analysis confirmed that clinical-risk stratification based on tumor size and histologic grade, when added to the 21-gene recurrence score, provided prognostic information about recurrence but not 8 
+
+predictive information regarding chemotherapy benefit. Although TAILORx showed that endocrine therapy was noninferior to chemoendocrine therapy in women with an intermediate recurrence score (a score of 11 to 25),7 we performed an exploratory analysis in accordance with recommended guidelines in order to determine whether any subgroup might derive some benefit from adjuvant chemotherapy.17 There was a significant interaction between chemotherapy treatment, age (≤50 vs. >50 years) or menopausal status, and recurrence score, suggesting a modest but clinically meaningful reduction in the rate of distant recurrence with chemotherapy among younger or premenopausal women who had a recurrence score of 16 to 25.7 Similar findings were noted in a population-based study indicating a chemotherapy benefit emerging at a recurrence score above 15 in women who were 50 years of age or younger and above 25 in women who were older than 50 years.18 Adjuvant chemotherapy is associated with nearly twice the reduction in the rate of death from breast cancer among women younger than 50 years of age as compared with older women1; this has been attributed to a dual effect, which includes a direct cytotoxic effect in eradicating micrometastatic disease and an antiestrogenic effect from chemotherapy-induced ovarian failure and premature menopause.19,20 The interaction among age, recurrence score, and chemotherapy benefit observed in TAILORx is therefore consistent with the greater treatment effect of adjuvant chemotherapy in younger women. Although the potential pitfalls of a subgroup analysis to identify more effective therapies in trials with a superiority design have been well described17 and the exploratory analyses presented here were not adjusted for multiple comparisons, caution is warranted when withdrawing potentially lifesaving therapy on the basis of a noninferiority trial such as TAILORx, especially when the findings are biologically plausible and supported by population-level data, as described here. Given the incremental benefits observed with ovarian suppression plus tamoxifen or an aromatase inhibitor as compared with tamoxifen alone in premenopausal women21,22 and the low percentage of premenopausal women who received ovarian suppression in TAILORx, it is possible that similar incremental benefits 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+10.1±3.7 11.4±3.8 82 High Chemotherapy 
+
+*	Plus–minus values are Kaplan–Meier estimates ±SE. †	An estimated hazard ratio of greater than 1 indicates a higher recurrence rate with endocrine therapy alone than with chemoendocrine therapy. Confidence intervals have not been ad­ justed, and inferences drawn from the intervals may not be reproducible. 
+
+1.86 (0.73–4.74) 5.0±3.0 
+
+2.63 (1.14–6.05) 15.8±4.0 
+
+26.4±5.4 75 No chemotherapy 
+
+161 Low 
+
+High 
+
+Chemotherapy 
+
+19.7±4.5 Low No chemotherapy 
+
+158 
+
+16.3±5.8 108 High Recurrence score of 21–25 
+
+Chemotherapy 
+
+18.8±5.0 
+
+8.7±6.2 
+
+3.16 (1.01–9.94) 6.4±4.9 1.38 (0.74–2.57) 
+
+5.5±3.0 
+
+11.4±3.9 
+
+6.5±4.9 4.8±1.5 
+
+11.9±3.9 1.68 (0.76–3.72) 19.0±4.5 
+
+9.5±1.8 343 Low 
+
+High 
+
+Chemotherapy 
+
+No chemotherapy 
+
+107 
+
+1.89 (1.18–3.04) 328 Low 
+
+19.6±3.1 Recurrence score of 16–20 
+
+No chemotherapy 
+
+percent 
+
+No. of Patients Clinical Risk Variable 
+
+2.26 (0.70–7.34) 
+
+1.00 (0.44–2.28) percent 
+
+4.6±1.5 
+
+−0.2±2.1 
+
+percentage points 
+
+Hazard Ratio for Distant Recurrence (95% CI)† Estimated Absolute Chemotherapy Benefit Estimated Probability of Distant Recurrence Hazard Ratio for Recurrence, Second Primary Cancer, or Death (95% CI)† Estimated Probability of Recurrence, Second Primary Cancer, or Death 
+
+observed in younger women who received chemotherapy and had a recurrence score of 16 to 25 could be achieved with ovarian suppression and an aromatase inhibitor, as observed in other trials.21,22 This potential is supported by data indicating that a low-to-midrange recurrence score and high estrogen receptor 1 gene (ESR1) RNA expression are predictive of benefit from tamoxifen.23,24 For patients who are approaching menopause, a strategy of an initial 2-to-5-year course of tamoxifen followed by a switch to an aromatase inhibitor at the time of natural menopause is another reasonable approach.25 This may be especially true for women with a high ESR1 RNA score obtained as part of the 21-gene assay, which is prognostic for late recurrence 5 or more years after diagnosis and thus may identify women who are more likely to benefit from continued antiestrogen therapy beyond 5 years.26 Recurrence rates reflect the underlying recurrence risk, the benefit from adjuvant endocrine therapy, and the benefit from adjuvant chemotherapy, the latter of which has little effect on nonrecurrence events such as contralateral breast cancer or second primary cancers.27-29 Estimation of an absolute chemotherapy benefit requires tools to estimate the underlying risk of recurrence and the treatment effect of chemotherapy, which may vary in magnitude according to tumor biologic features. When the recurrence score was further stratified according to clinical risk among TAILORx patients as described here, there was no evidence of chemotherapy benefit at 9 years in the subgroup with a low clinical risk and a recurrence score of 16 to 20, whereas the addition of chemotherapy was associated with lower rates of distant recurrence ranging from approximately 6 to 8 percentage points among women with a recurrence score of 21 to 25, irrespective of clinical risk, and a recurrence score of 16 to 20 with high clinical risk. This absolute chemotherapy benefit is similar to the benefit seen in unselected patients with node-negative, hormonereceptor–positive breast cancer,30 but it is substantially less than the absolute benefit of 25 percentage points observed in patients with a high recurrence score of 26 to 100.6 The treatment effect associated with chemotherapy in this subgroup is similar to that observed with ovarian suppression plus an aromatase inhibitor as compared with tamoxifen.21,22 The level of clini- 
+
+Table 2. Recurrence, Second Primary Cancer, or Death, and Distant Recurrence at 9 Years, According to Use or Nonuse of Adjuvant Chemotherapy in Women Younger than 50 Years of Age, Stratified According to Recurrence Score and Clinical Risk (Intention-to-Treat Population).* 
+
+Clinical and Genomic Risk in Breast Cancer 
+
+9 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+cal risk also added prognostic information for women with a high recurrence score who were receiving chemoendocrine therapy, irrespective of age, and thus could be used to identify patients with very high risk for whom testing of new therapeutic approaches in clinical trials is warranted. In conclusion, binary clinical-risk stratification based on tumor size and histologic grade added prognostic information to the 21-gene recurrence score, but not prediction of a large chemotherapy benefit. The addition of this information enabled more precise identification of subgroups of younger women who may derive some benefit from more effective antiestrogen therapy than a course of tamoxifen. The content of this article is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. government. 
+
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org. Supported by the National Cancer Institute (NCI) of the National Institutes of Health (award numbers CA180820, CA180794, CA180790, CA180795, CA180799, C180801, CA180816, CA180821, CA180838, CA180822, CA180844, CA180847, CA180857, CA189867, CA180868, CA189869, CA180888, CA189808, CA189859, and CA190140), the Canadian Cancer Society Research Institute (grants 015469 and 021039), the Breast Cancer Research Foundation, the Komen Foundation, the Breast Cancer Research Stamp issued by the U.S. Postal Service, and Genomic Health. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. We thank Sheila Taube, Ph.D., and JoAnne Zujewski, M.D., of the NCI, for their support of the trial at its inception and development; the staff at the Eastern Cooperative Oncology Group (ECOG)–American College of Radiology Imaging Network (ACRIN) Operations Office in Boston and the Cancer Trials Support Unit for their efforts; Una Hopkins, R.N., D.N.P., for serving as the liaison for the trial; the late Robert L. Comis, M.D., former chair of ECOG and cochair of ECOG-ACRIN, for his prescient leadership in supporting biomarker-directed clinical trials; the thousands of women who volunteered to participate in the trial; the National Breast Cancer Coalition for endorsing the trial; and Mary Lou Smith, J.D., M.B.A., for her work as a patient advocate for breast cancer clinical research. 
+
+Appendix The authors’ full names and academic degrees are as follows: Joseph A. Sparano, M.D., Robert J. Gray, Ph.D., Peter M. Ravdin, M.D., Della F. Makower, M.D., Kathleen I. Pritchard, M.D., Kathy S. Albain, M.D., Daniel F. Hayes, M.D., Charles E. Geyer, Jr., M.D., Elizabeth C. Dees, M.D., Matthew P. Goetz, M.D., John A. Olson, Jr., M.D., Ph.D., Tracy Lively, Ph.D., Sunil S. Badve, M.B., B.S., M.D., Thomas J. Saphner, M.D., Lynne I. Wagner, Ph.D., Timothy J. Whelan, B.M., B.Ch., M.S.C., Matthew J. Ellis, M.B., B.Chir., Ph.D., Soonmyung Paik, M.D., William C. Wood, M.D., Maccon M. Keane, M.D., Henry L. Gomez Moreno, M.D., Pavan S. Reddy, M.D., Timothy F. Goggins, M.D., Ingrid A. Mayer, M.D., M.S.C.I., Adam M. Brufsky, M.D., Ph.D., Deborah L. Toppmeyer, M.D., Virginia G. Kaklamani, M.D., D.Sc., Jeffrey L. Berenberg, M.D., Jeffrey Abrams, M.D., and George W. Sledge, Jr., M.D. The authors’ affiliations are as follows: Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY (J.A.S., D.F.M.); Dana–Farber Cancer Institute, Boston (R.J.G.); University of Texas, San Antonio (P.M.R.); Sunnybrook Research Institute, Toronto (K.I.P.), and McMaster University, Hamilton, ON (T.J.W.) — both in Canada; Loyola University Medical Center, Maywood (K.S.A.), and Northwestern University, Chicago (L.I.W., V.G.K.) — both in Illinois; University of Michigan, Ann Arbor (D.F.H.); Virginia Commonwealth University School of Medicine and the Massey Cancer Center, Richmond (C.E.G.); University of North Carolina, Chapel Hill (E.C.D.), and Duke University Medical Center, Durham (J.A.O., J.A.) — both in North Carolina; Mayo Clinic, Jacksonville, FL (M.P.G.); National Institutes of Health, National Cancer Institute, Bethesda, MD (T.L.); Indiana University School of Medicine (S.S.B.) and Indiana University Hospital (G.W.S.), Indianapolis; Vince Lombardi Cancer Clinic, Two Rivers (T.J.S.), and Fox Valley Hematology and Oncology, Appleton (T.F.G.) — both in Wisconsin; Washington University, St. Louis (M.J.E.); the National Surgical Adjuvant Breast and Bowel Project Pathology Office (S.P.) and the University of Pittsburgh (A.M.B.), Pittsburgh; Emory University, Atlanta (W.C.W.); Cancer Trials Ireland, Dublin (M.M.K.); Instituto Nacional de Enfermedades Neoplasicas, Lima, Peru (H.L.G.M.); Cancer Center of Kansas, Wichita (P.S.R.); Vanderbilt University, Nashville (I.A.M.); Rutgers Cancer Institute of New Jersey, New Brunswick (D.L.T.); and the University of Hawaii Cancer Center, Honolulu (J.L.B.). 
+
+References 1. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;​365:​1687-717. 2. Paik S, Shak S, Tang G, et al. A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 2004;​351:​2817-26. 3. Paik S, Tang G, Shak S, et al. Gene expression and benefit of chemotherapy in women with node-negative, estrogen receptor-positive breast cancer. J Clin Oncol 2006;​24:​3726-34. 
+
+10 
+
+4. Albain KS, Barlow WE, Shak S, et al. Prognostic and predictive value of the 21gene Recurrence Score assay in postmenopausal women with node-positive, oestrogen-receptor-positive breast cancer on chemotherapy: a retrospective analysis of a randomised trial. Lancet Oncol 2010;​ 11:​55-65. 5. Sparano JA, Paik S. Development of the 21-gene assay and its application in clinical practice and clinical trials. J Clin Oncol 2008;​26:​721-8. 6. Geyer CE Jr, Tang G, Mamounas EP, et al. 21-Gene assay as predictor of chemotherapy benefit in HER2-negative breast 
+
+cancer. NPJ Breast Cancer 2018;​4:​37. 7. Sparano JA, Gray RJ, Makower DF, et al. Adjuvant chemotherapy guided by a 21-gene expression assay in breast cancer. N Engl J Med 2018;​379:​111-21. 8. Sparano JA, Gray RJ, Makower DF, et al. Prospective validation of a 21-gene expression assay in breast cancer. N Engl J Med 2015;​373:​2005-14. 9. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol 2007;​25:​2127-32. 10. Olivotto IA, Bajdik CD, Ravdin PM, 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+Clinical and Genomic Risk in Breast Cancer 
+
+et al. Population-based validation of the prognostic model Adjuvant! for early breast cancer. J Clin Oncol 2005;​23:​2716-25. 11. Mook S, Schmidt MK, Rutgers EJ, et al. Calibration and discriminatory accuracy of prognosis calculation for breast cancer with the online Adjuvant! program: a hospitalbased retrospective cohort study. Lancet Oncol 2009;​10:​1070-6. 12. Cardoso F, van’t Veer LJ, Bogaerts J, et al. 70-Gene signature as an aid to treatment decisions in early-stage breast cancer. N Engl J Med 2016;​375:​717-29. 13. Goldstein LJ, Gray R, Badve S, et al. Prognostic utility of the 21-gene assay in hormone receptor-positive operable breast cancer compared with classical clinicopathologic features. J Clin Oncol 2008;​26:​ 4063-71. 14. Tang G, Shak S, Paik S, et al. Comparison of the prognostic and predictive utilities of the 21-gene Recurrence Score assay and Adjuvant! for women with nodenegative, ER-positive breast cancer: results from NSABP B-14 and NSABP B-20. Breast Cancer Res Treat 2011;​127:​133-42. 15. Tang G, Cuzick J, Costantino JP, et al. Risk of recurrence and chemotherapy benefit for patients with node-negative, estrogen receptor-positive breast cancer: recurrence score alone and integrated with pathologic and clinical factors. J Clin Oncol 2011;​29:​4365-72. 16. Dowsett M, Turner N. Estimating risk of recurrence for early breast cancer: integrating clinical and genomic risk. J Clin Oncol 2019;​37:​689-92. 17. Wang R, Lagakos SW, Ware JH, Hunter DJ, Drazen JM. Statistics in medicine — 
+
+reporting of subgroup analyses in clinical trials. N Engl J Med 2007;​357:​2189-94. 18. Hortobagyi GN, Shak S, Sledge GW Jr, et al. Breast cancer-specific mortality (BCSM) in patients (pts) with node-negative (N0) and node-positive (N+) breast cancer (BC) guided by the 21-gene assay: a SEER-genomic population-based study. Cancer Res 2019;​799:​4 Suppl:​P3-11-02. abstract. 19. Walshe JM, Denduluri N, Swain SM. Amenorrhea in premenopausal women after adjuvant chemotherapy for breast cancer. J Clin Oncol 2006;​24:​5769-79. 20. Swain SM, Jeong J-H, Geyer CE Jr, et al. Longer therapy, iatrogenic amenorrhea, and survival in early breast cancer. N Engl J Med 2010;​362:​2053-65. 21. Francis PA, Regan MM, Fleming GF, et al. Adjuvant ovarian suppression in premenopausal breast cancer. N Engl J Med 2015;​372:​436-46. 22. Francis PA, Pagani O, Fleming GF, et al. Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med 2018;​379:​122-37. 23. Paik S, Tang G, Kim C, et al. Expression of the 21 genes in the Recurrence Score assay and tamoxifen clinical benefit in the NSABP study B-14 of node negative, estrogen receptor positive breast cancer. J Clin Oncol 2005;​16:​Suppl:​510. abstract. 24. Kim C, Tang G, Pogue-Geile KL, et al. Estrogen receptor (ESR1) mRNA expression and benefit from tamoxifen in the treatment and prevention of estrogen receptor-positive breast cancer. J Clin Oncol 2011;​29:​4160-7. 25. Goss PE, Ingle JN, Martino S, et al. 
+
+n engl j med﻿﻿ nejm.org﻿ 
+
+A randomized trial of letrozole in postmenopausal women after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 2003;​ 349:​ 1793802. 26. Wolmark N, Mamounas EP, Baehner FL, et al. Prognostic impact of the combination of Recurrence Score and quantitative estrogen receptor expression (ESR1) on predicting late distant recurrence risk in estrogen receptor-positive breast cancer after 5 years of tamoxifen: results from NRG Oncology/National Surgical Adjuvant Breast and Bowel Project B-28 and B-14. J Clin Oncol 2016;​34:​2350-8. 27. Early Breast Cancer Trialists’ Collaborative Group. Comparisons between different polychemotherapy regimens for early breast cancer: meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 2012;​379:​43244. 28. Mamounas EP, Tang G, Liu Q. The importance of systemic therapy in minimizing local recurrence after breast-conserving surgery: the NSABP experience. J Surg Oncol 2014;​110:​45-50. 29. Bertelsen L, Bernstein L, Olsen JH, et al. Effect of systemic adjuvant treatment on risk for contralateral breast cancer in the Women’s Environment, Cancer and Radiation Epidemiology Study. J Natl Cancer Inst 2008;​100:​32-40. 30. Fisher B, Dignam J, Wolmark N, et al. Tamoxifen and chemotherapy for lymph node-negative, estrogen receptor-positive breast cancer. J Natl Cancer Inst 1997;​89:​ 1673-82. Copyright © 2019 Massachusetts Medical Society. 
+
+11 
+
+The New England Journal of Medicine Downloaded from nejm.org at SHANGHAI JIAO TONG UNIVERSITY SCHOOL OF MEDICINE on June 7, 2019. For personal use only. No other uses without permission. Copyright © 2019 Massachusetts Medical Society. All rights reserved. 
+
+ 

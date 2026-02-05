@@ -1,0 +1,5161 @@
+rapid communications 
+
+Palbociclib for Residual High-Risk Invasive HR-Positive and HER2-Negative Early Breast Cancer—The Penelope-B Trial 
+
+abstract 
+
+PURPOSE About one third of patients with hormone receptor–positive, human epidermal growth factor receptor 2–negative breast cancer who have residual invasive disease after neoadjuvant chemotherapy (NACT) will relapse. Thus, additional therapy is needed. Palbociclib is a cyclin-dependent kinase 4 and 6 inhibitor demonstrating efﬁcacy in the metastatic setting. 
+
+ASSOCIATED CONTENT Listen to the podcast by Dr Mayer at jcopodcast. libsynpro.com 
+
+Sibylle Loibl, MD, PhD1,2; Frederik Marmé, MD, PhD3; Miguel Martin, MD, PhD4,5; Michael Untch, MD, PhD6; Hervé Bonnefoi, MD, PhD7; Sung-Bae Kim, MD, PhD8; Harry Bear, MD, PhD9,10; Nicole McCarthy, MD, PhD11; Mireia Melé Olivé, MD5,12; Karen Gelmon, MD, PhD13; José Garcı́a-Sáenz, MD5,14; Catherine M. Kelly, MD15; Toralf Reimer, MD, PhD16; Masakazu Toi, MD, PhD17; Hope S. Rugo, MD18; Carsten Denkert, MD, PhD1,19; Michael Gnant, MD, PhD20,21; Andreas Makris, MD22; Maria Koehler, MD, PhD23; Cynthia Huang-Bartelett, MD23; Maria Jose Lechuga Frean, MD23; Marco Colleoni, MD24; Gustavo Werutsky, MD25; Sabine Seiler, MD1; Nicole Burchardi, PhD1; Valentina Nekljudova, PhD1; and Gunter von Minckwitz, MD, PhD, MA (Phil), BBA1 
+
+PATIENTS AND METHODS PENELOPE-B (NCT01864746) is a double-blind, placebo-controlled, phase III study in women with hormone receptor–positive, human epidermal growth factor receptor 2–negative primary breast cancer without a pathological complete response after taxane-containing NACT and at high risk of relapse (clinical pathological staging-estrogen receptor grading score $ 3 or 2 and ypN1). Patients were randomly assigned (1:1) to receive 13 cycles of palbociclib 125 mg once daily or placebo on days 1-21 in a 28-day cycle in addition to endocrine therapy (ET). Primary end point is invasive disease-free survival (iDFS). Final analysis was planned after 290 iDFS events with a two-sided efﬁcacy boundary P , .0463 because of two interim analyses. RESULTS One thousand two hundred ﬁfty patients were randomly assigned. The median age was 49.0 years (range, 19-79), and the majority were ypN1 with Ki-67 # 15%; 59.4% of patients had a clinical pathological staging-estrogen receptor grading score $ 3. 50.1% received aromatase inhibitor, and 33% of premenopausal women received a luteinizing hormone releasing hormone analog in addition to either tamoxifen or an aromatase inhibitor. After a median follow-up of 42.8 months (92% complete), 308 events were conﬁrmed. Palbociclib did not improve iDFS versus placebo added to ET-stratiﬁed hazard ratio, 0.93 (95% repeated CI, 0.74 to 1.17) and two-sided weighted log-rank test (Cui, Hung, and Wang) P 5 .525. There was no difference among the subgroups. Most common related serious adverse events were infections and vascular disorders in 113 (9.1%) patients with no difference between the treatment arms. Eight fatal serious adverse events (two palbociclib and six placebo) were reported. CONCLUSION Palbociclib for 1 year in addition to ET did not improve iDFS in women with residual invasive disease after NACT. J Clin Oncol 39:1518-1530. © 2021 by American Society of Clinical Oncology 
+
+Appendix Data Supplement Protocol Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on February 4, 2021 and published at ascopubs.org/journal/ jco on April 1, 2021: DOI https://doi.org/10. 1200/JCO.20.03639 
+
+INTRODUCTION Patients with hormone receptor–positive (HR1), human epidermal growth factor receptor 2–negative (HER22) primary breast cancer who receive chemotherapy as part of their primary treatment are at higher risk of relapse.1 About a third of the patients with residual invasive disease after neoadjuvant chemotherapy (NACT) will relapse despite adjuvant endocrine therapy (ET).2 The risk of relapse can be assessed more accurately using the clinical pathological staging-estrogen receptor grading (CPS-EG) 
+
+scoring system.3 This involves the tumor stage before treatment start and at surgery, the estrogen receptor (ER) status, and the pathologic grading. A higher score indicates a higher risk of relapse. Patients with a score of three and higher had a diseasefree survival of 70% at 5 years despite receiving ET. When combined with the group having a CPS-EG score of two and involved lymph nodes, the diseasefree survival increased to 77%. This group comprises about 25% of all patients with residual disease after NACT.4 
+
+1518 Volume 39, Issue 14 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+CONTEXT Key Objective Patients with hormone receptor–positive (HR1), human epidermal growth factor receptor 2–negative (HER22) breast cancer and residual invasive disease after neoadjuvant chemotherapy are at high risk for relapse despite adjuvant endocrine therapy (ET). The cyclin-dependent kinase 4 and 6 inhibitor palbociclib added to ET improves progressionfree survival and overall survival in HR1 and HER22 metastatic breast cancer. PENELOPE-B assesses efﬁcacy of one year palbociclib versus placebo added to ET as (postneo)adjuvant treatment in this high-risk population. Knowledge Generated Palbociclib (1 year) added to ET did not improve invasive disease-free survival (iDFS) or any other efﬁcacy end point compared with placebo (3-year iDFS, 81.2% v 77.7%). No new safety signals were observed. Relevance PENELOPE-B is the ﬁrst study showing mature iDFS results on a cyclin-dependent kinase 4 and 6 inhibitor as part of (postneo)adjuvant therapy. The results do not support the addition of palbociclib to ET. Further research and pooled analyses are necessary to determine whether a high-risk HR1, HER22 population can be identiﬁed, which has a sustained long-term reduction of relapse from palbociclib. 
+
+Therapeutic inhibition of cyclin-dependent kinase 4 and 6 (CDK4/6) by palbociclib combined with ET demonstrated clinically relevant efﬁcacy in metastatic HR1 and HER22 breast cancer irrespective of biomarker selection.5 After the pivotal PALOMA-1 trial, which led to accelerated approval of palbociclib in February 2015, further phase III trials demonstrated that the use of CDK4/6 inhibitors in pre- and postmenopausal patients with hormone-sensitive or resistant cancers, in ﬁrst-line and pretreated metastatic breast cancer, improves progression-free and overall survival (OS).6-8 Thus, we hypothesized that palbociclib may also be active in patients with residual disease after NACT who are at high risk of relapse. Based on the data from PALOMA-1, we designed the PENELOPE-B trial assessing the efﬁcacy of one year palbociclib vs placebo added to any ET in HR1 and HER22 breast cancer patients with residual disease and high risk after NACT, based on the CPS-EG score. PATIENTS AND METHODS Patient Selection and Study Design PENELOPE-B is a prospective, multicenter, multinational, randomized, double-blind, placebo controlled phase III study investigating the addition of palbociclib for one year to standard adjuvant ET for patients with high-risk residual disease according to the CPS-EG score after NACT for early HR1 and HER22 breast cancer. The trial was sponsored by GBG Forschungs GmbH in collaboration with NSABP Foundation (plus I-SPY and CCTR), ABCSG, AGO-B, ANBCSG, BIG, Geicam, ICR-CTSU, JBCSG, and KCSG. Pﬁzer Inc funded the trial and provided drug. The trial was conducted according to ICH-GCP guidelines and the Declaration of Helsinki. The clinical trial Protocol (online only) was approved by the respective health authorities and ethics committees or institutional review 
+
+boards. All patients provided written informed consent for trial participation, data transfer, and biomaterial collection. The trial was overseen by the International Steering Committee and the GBG Boards and supervised by an Independent Data Monitoring Committee (IDMC). It is registered under NCT01864746 and EudraCT 2013-001040-62. Female patients $ 18 years with residual invasive disease after NACT either in the breast or the lymph nodes, ER, and/ or progesterone receptor–positive and HER22 tumors based on central assessment and centrally assessed Ki-67 status (preferably on postneoadjuvant residual invasive disease of the breast, or if not possible, of residual nodal invasion or core biopsy), and a CPS-EG score of $ 3 or 2 with ypN1 (after amendment 3, dated February 9, 2015) were eligible. Patients must have received NACT for at least 16 weeks (including 6 weeks of a taxane) followed by deﬁnitive surgery (including resection of all clinically evident invasive disease and ipsilateral axillary lymph node dissection or sentinel node biopsy) and radiation as indicated according to local guidelines. Patients could not be included with an interval of more than 16 weeks since the date of ﬁnal surgery or more than 10 weeks from completing radiotherapy. ET according to local guidelines, either with tamoxifen or an aromatase inhibitor (AI) with or without a luteinizing hormone releasing hormone analog, could have started before random assignment. ER and progesterone receptor positivity were deﬁned as $ 1% stained cells, and HER2 negativity as immunohistochemistry score 0-1 or ﬂuorescence in-situ hybridization test ratio , 2.0. Further eligibility criteria and random assignment details are provided in Appendix 1 (online only). Eligible patients were randomly assigned in a 1:1 manner in permuted blocks of alternating size 4/6 stratiﬁed by risk status (CPS-EG sore $ 3 v 2/ypN1), nodal involvement 
+
+Journal of Clinical Oncology 
+
+1519 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+Assessed for eligibility (N = 1708) 
+
+Ineligible (n = 458) Violated other inclusion criteria (n = 163) Organizational problems (n = 72) Consent withdrawn (n = 60) Did not meet laboratory requirements (n = 52) Comorbidities, other cancer, or metastases (n = 43) Subtype not eligible for participation (n = 42) Unknown (n = 26) 
+
+Randomly assigned (n = 1,250) 
+
+Intent-to-treat population (N = 1250) 
+
+Randomly assigned to placebo (n = 619) 
+
+Randomly assigned to palbociclib (n = 631) 
+
+Did not start treatment Patient`s decision Adverse event 
+
+(n = 3) (n = 2) (n = 1) 
+
+Did not start treatment Patient`s decision Recurrence 
+
+(n = 3) (n = 2) (n = 1) 
+
+Started treatment with placebo (n = 616) 
+
+Started treatment with palbociclib (n = 628) 
+
+(n = 5)a 
+
+Received palbociclib once 
+
+(n = 123) Discontinued study treatment (n = 25) Disease recurrence Second primary invasive nonbreast (n = 2) (n = 2) Death (n = 33) Adverse events (n = 56) Patient`s wish (n = 5) Investigator`s decision 
+
+(n = 96) Discontinued study treatment (n = 40) Disease recurrence Second primary invasive nonbreast (n = 3) (n = 1) Death (n = 5) Adverse events (n = 41) Patient`s wish (n = 6) Investigator`s decision 
+
+Also discontinued ET prematurely 
+
+Also discontinued ET prematurely 
+
+Completed 13 cycles of treatment (n = 508) 
+
+Discontinued follow-up IC withdrawn Lost to follow-up 
+
+(n = 28) 
+
+(n = 36) 
+
+Completed 13 cycles of treatment (n = 523) 
+
+(n = 46) (n = 32) (n = 14) 
+
+Discontinued follow-up IC withdrawn Lost to follow-up 
+
+(n = 42) (n = 21) (n = 21) 
+
+FIG 1. CONSORT diagram. aAnalyzed for safety in the palbociclib arm. ET, endocrine therapy; IC, informed consent. 
+
+1520 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+TABLE 1. Patient or Tumor Characteristics and First Endocrine Therapy at Baseline (ITT Analysis Set) 
+
+Parameter 
+
+Palbociclib (n 5 631), No. (Valid %) 
+
+Category 
+
+Age, years 
+
+Median (min-max) 
+
+Placebo (n 5 619), No. (Valid %) 
+
+49.0 (22.0-76.0) 48.0 (19.0-79.0) 
+
+Overall (N 5 1,250), No. (Valid %) 
+
+Pa 
+
+49.0 (19.0-79.0) 
+
+.589 
+
+, 30 
+
+12 (1.9) 
+
+14 (2.3) 
+
+26 (2.1) 
+
+30 to , 40 
+
+87 (13.8) 
+
+82 (13.2) 
+
+169 (13.5) 
+
+40 to , 50 
+
+231 (36.6) 
+
+239 (38.6) 
+
+470 (37.6) 
+
+50 to , 60 
+
+181 (28.7) 
+
+163 (26.3) 
+
+344 (27.5) 
+
+60 to , 70 
+
+98 (15.5) 
+
+97 (15.7) 
+
+195 (15.6) 
+
+701 
+
+22 (3.5) 
+
+24 (3.9) 
+
+46 (3.7) 
+
+ECOG 0 
+
+537 (85.1) 
+
+527 (85.1) 
+
+1,064 (85.1) 
+
+ECOG 1 
+
+94 (14.9) 
+
+92 (14.9) 
+
+186 (14.9) 
+
+Menopausal status 
+
+Premenopausal 
+
+300 (47.5) 
+
+316 (51.1) 
+
+616 (49.3) 
+
+Postmenopausal 
+
+331 (52.5) 
+
+303 (48.9) 
+
+634 (50.7) 
+
+Tumor focality by sonography 
+
+Unifocal 
+
+420 (68.7) 
+
+400 (67.6) 
+
+820 (68.2) 
+
+Multifocal 
+
+132 (21.6) 
+
+119 (20.1) 
+
+251 (20.9) 
+
+Multicentric 
+
+59 (9.7) 
+
+73 (12.3) 
+
+132 (11.0) 
+
+ECOG performance status 
+
+Clinical tumor stage by sonography 
+
+Missing 
+
+20 
+
+27 
+
+47 
+
+cT1 
+
+42 (6.7) 
+
+47 (7.6) 
+
+89 (7.1) 
+
+cT2 
+
+288 (45.8) 
+
+295 (47.8) 
+
+583 (46.8) 
+
+cT3 
+
+197 (31.3) 
+
+176 (28.5) 
+
+373 (29.9) 
+
+cT4 
+
+102 (16.2) 
+
+99 (16.0) 
+
+201 (16.1) 
+
+Missing Clinical nodal status by sonography 
+
+Histological tumor stage at surgery 
+
+Histological nodal status at surgery 
+
+Overall clinical response after NACT 
+
+2 
+
+2 
+
+.986 
+
+.235 
+
+.309 
+
+.688 
+
+4 
+
+cN0 
+
+66 (10.5) 
+
+71 (11.5) 
+
+137 (11.0) 
+
+cN1 
+
+433 (68.6) 
+
+417 (67.4) 
+
+850 (68.0) 
+
+cN2 
+
+80 (12.7) 
+
+82 (13.2) 
+
+162 (13.0) 
+
+cN3 
+
+52 (8.2) 
+
+49 (7.9) 
+
+101 (8.1) 
+
+Missing 
+
+0 
+
+0 
+
+0 
+
+ypT0 
+
+24 (3.8) 
+
+11 (1.8) 
+
+35 (2.8) 
+
+ypTis 
+
+2 (0.3) 
+
+3 (0.5) 
+
+5 (0.4) 
+
+ypT1 
+
+212 (33.6) 
+
+194 (31.4) 
+
+406 (32.5) 
+
+ypT2 
+
+256 (40.6) 
+
+284 (46.0) 
+
+540 (43.2) 
+
+ypT3 
+
+112 (17.7) 
+
+105 (17.0) 
+
+217 (17.4) 
+
+ypT4 
+
+25 (4.0) 
+
+21 (3.4) 
+
+46 (3.7) 
+
+Missing 
+
+0 
+
+1 
+
+1 
+
+ypN0 
+
+32 (5.1) 
+
+35 (5.7) 
+
+67 (5.4) 
+
+ypN1 
+
+277 (44.3) 
+
+274 (44.6) 
+
+551 (44.5) 
+
+ypN2 
+
+231 (37.0) 
+
+226 (36.8) 
+
+457 (36.9) 
+
+ypN3 
+
+85 (13.6) 
+
+79 (12.9) 
+
+164 (13.2) 
+
+Missing 
+
+6 
+
+5 
+
+11 
+
+CR 
+
+53 (8.4) 
+
+49 (7.9) 
+
+102 (8.2) 
+
+PR 
+
+463 (73.4) 
+
+485 (78.4) 
+
+948 (75.8) 
+
+SD 
+
+109 (17.3) 
+
+77 (12.4) 
+
+186 (14.9) 
+
+6 (1.0) 
+
+8 (1.3) 
+
+14 (1.1) 
+
+PD 
+
+.929 
+
+.923 
+
+.173 
+
+.955 
+
+.096 
+
+(continued on following page) 
+
+Journal of Clinical Oncology 
+
+1521 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+TABLE 1. Patient or Tumor Characteristics and First Endocrine Therapy at Baseline (ITT Analysis Set) (continued) Palbociclib (n 5 631), No. (Valid %) 
+
+Placebo (n 5 619), No. (Valid %) 
+
+Overall (N 5 1,250), No. (Valid %) 
+
+Pa 
+
+0 (0.0) 
+
+1 (0.2) 
+
+1 (0.1) 
+
+.495 
+
+ER- and/or PgR-positive 
+
+631 (100) 
+
+618 (99.8) 
+
+1,249 (99.9) 
+
+Negative 
+
+631 (100) 
+
+619 (100) 
+
+1,250 (100) 
+
+Positive 
+
+0 (0.0) 
+
+0 (0.0) 
+
+0 (0.0) 
+
+Parameter 
+
+Category 
+
+Hormone receptor status, centralb 
+
+HER2, central 
+
+b 
+
+Tumor grading, local (core biopsy) 
+
+Both ER- and PgR-negative (protocol violation) 
+
+G1 
+
+31 (5.0) 
+
+36 (5.9) 
+
+67 (5.4) 
+
+G2 
+
+355 (57.0) 
+
+330 (54.0) 
+
+685 (55.5) 
+
+G3 
+
+237 (38.0) 
+
+245 (40.1) 
+
+482 (39.1) 
+
+Missing Histological tumor type 
+
+CPS-EG scorec 
+
+8 
+
+8 
+
+NA 
+
+.522 
+
+16 
+
+Ductal or ductal-lobular invasive 
+
+550 (87.2) 
+
+553 (89.3) 
+
+1,103 (88.2) 
+
+Lobular invasive carcinoma 
+
+58 (9.2) 
+
+52 (8.4) 
+
+110 (8.8) 
+
+Mucinous carcinoma 
+
+7 (1.1) 
+
+4 (0.6) 
+
+11 (0.9) 
+
+Invasive micropapillary carcinoma 
+
+1 (0.2) 
+
+4 (0.6) 
+
+5 (0.4) 
+
+Others 
+
+15 (2.4) 
+
+6 (1.0) 
+
+21 (1.7) 
+
+1 (protocol violation) 
+
+7 (1.1) 
+
+7 (1.1) 
+
+14 (1.1) 
+
+2 
+
+241 (38.2) 
+
+242 (39.1) 
+
+483 (38.6) 
+
+3 
+
+286 (45.3) 
+
+275 (44.4) 
+
+561 (44.9) 
+
+4 
+
+89 (14.1) 
+
+81 (13.1) 
+
+170 (13.6) 
+
+5 
+
+8 (1.3) 
+
+14 (2.3) 
+
+22 (1.8) 
+
+.153 
+
+.715 
+
+Stratiﬁcation factors as randomly assigned Histological lymph node status at surgery documented at random assignment 
+
+ypN 0-1 
+
+310 (49.1) 
+
+310 (50.1) 
+
+620 (49.6) 
+
+ypN 2-3 
+
+321 (50.9) 
+
+309 (49.9) 
+
+630 (50.4) 
+
+Age at ﬁrst diagnosis documented at random assignment 
+
+# 50 
+
+353 (55.9) 
+
+348 (56.2) 
+
+701 (56.1) 
+
+. 50 
+
+278 (44.1) 
+
+271 (43.8) 
+
+549 (43.9) 
+
+# 15% 
+
+470 (74.5) 
+
+461 (74.5) 
+
+931 (74.5) 
+
+. 15% 
+
+161 (25.5) 
+
+158 (25.5) 
+
+319 (25.5) 
+
+Non-Asian 
+
+579 (91.8) 
+
+576 (93.1) 
+
+1,155 (92.4) 
+
+Asian 
+
+52 (8.2) 
+
+43 (6.9) 
+
+95 (7.6) 
+
+CPS-EG score 2 and ypN1 
+
+253 (40.1) 
+
+255 (41.2) 
+
+508 (40.6) 
+
+CPS-EG score $ 3 
+
+378 (59.9) 
+
+364 (58.8) 
+
+742 (59.4) 
+
+Started ET before palbociclib/ placebo 
+
+562 (89.1) 
+
+555 (89.7) 
+
+1,117 (89.4) 
+
+Concomitant start of ET and palbociclib/placebo 
+
+69 (10.9) 
+
+64 (10.3) 
+
+133 (10.6) 
+
+Tamoxifen with or without ovarian suppression 
+
+314 (49.8) 
+
+308 (49.8) 
+
+622 (49.8) 
+
+AI with or without ovarian suppression 
+
+317 (50.2) 
+
+311 (50.2) 
+
+628 (50.2) 
+
+Additional ovarian ablation 
+
+108 (17.1) 
+
+113 (18.3) 
+
+221 (17.7) 
+
+Ki-67 % centrally at random assignment 
+
+Global region of participating site 
+
+Risk status 
+
+.777 
+
+.955 
+
+1.000 
+
+.396 
+
+.730 
+
+Endocrine treatment ET 
+
+First ET applied 
+
+.783 
+
+1.000 
+
+Abbreviations: AI, aromatase inhibitor; CPS-EG, clinical, pathological stage, estrogen receptor, grading; CR, complete response; ECOG, Eastern Cooperative Oncology Group; ER, estrogen receptor; ET, endocrine treatment; HER2, human epidermal growth factor receptor 2; HR, hormone receptor; ITT, intent-to-treat; NA, not applicable; NACT, neoadjuvant chemotherapy; PD, progressive disease; PgR, progesterone receptor; PR, partial response; SD, stable disease. a Fisher’s exact test for binary, continuity-corrected chi-square test for categorical and Wilcoxon test for continuous parameters. b Central pathology, preferably based on surgical tissue and if not available based on biopsy (38 patients). c CPS-EG Score based on clean baseline data; missing values of parameters needed for CPS-EG score calculation and CPS-EG score of one are due to source data veriﬁcation. 1522 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+after surgery (ypN0-1 v ypN2-3), Ki-67 (# 15% v . 15%), age (# 50 v . 50 years), and global region of participating site (Asian v non-Asian). Treatment Patients received either palbociclib 125 mg orally once daily for 21 days followed by 1 week off treatment for a total duration of 13 4-week cycles or matching placebo in addition to standard adjuvant ET at the discretion of the investigator given for at least 5 years (Data Supplement, Supplementary Fig 1 [online only]). Dose interruptions, reductions, or delays according to predeﬁned toxicity management were acceptable in the case of signiﬁcant treatment-related toxicity (Appendix 1). Objectives and End Points The primary objective of the study was to compare the invasive disease-free survival (iDFS) deﬁned as the time in months between random assignment and ﬁrst event (ipsilateral invasive in-breast or locoregional recurrence, distant recurrence, invasive contralateral breast cancer, second primary invasive cancer [nonbreast], or death because of any cause) for palbociclib versus placebo.9 Secondary end points included iDFS excluding second primary invasive nonbreast cancers, distant disease-free survival, OS, locoregional relapse-free interval (LRRFI), safety (which was reported as adverse events (AEs) irrespective of relatedness to study treatment based on National Cancer Institute Common Toxicity Criteria v4.0), and compliance. Further details on other end points are provided in the Appendix 1. All time-to-event end points were analyzed in the intent-totreat population comprising all randomly assigned patients. Compliance and safety were analyzed in the safety analysis set including all randomly assigned patients who took study medication at least once. For the patients randomly assigned to placebo who received palbociclib at least once during the trial, the treatment group allocation for safety and compliance analyses was the palbociclib arm. 
+
+Sample Size and Interim Analyses In the initial sample size computation, 233 iDFS events were required to detect a hazard ratio for palbociclib/ placebo of 0.67 (from 72% to 80% 3-year iDFS rate) corresponding to a clinically relevant risk reduction of 33% for invasive disease with a power of 85% using a two-sided stratiﬁed log-rank test and an overall two-sided signiﬁcance level of 0.05. Eight hundred patients were planned to be enrolled. To accelerate recruitment after 68 patients had been enrolled, the population was expanded to patients with a CPS-EG score of two and ypN 1 who were also identiﬁed as high-risk patients but with a generally lower risk than the patients with CPS-EG three.4 Thereafter, the target hazard ratio for palbociclib/placebo was updated to 0.685 (from 77% to 83.6% 3-year iDFS rate), and the iDFS events were increased to 255 and sample size to 1,100 patients. The study had an adaptive design with two interim efﬁcacy analyses to monitor futility, to test for overwhelming efﬁcacy, and to allow for sample size re-estimation.10 Safety was assessed at both interim analyses. O’Brien and Fleming11 type stopping boundaries based on the Lan-DeMets spending function were used in the interim analyses. The ﬁrst interim analysis in April 2017 with 67 events led to another increase of the required number of events to 290 and of the patient number to 1,250 according to the IDMC recommendation. The second interim analysis was conducted based on 200 events (194 events planned) in April 2019, neither futility nor overwhelming efﬁcacy boundaries were crossed, and the study continued per IDMC recommendation. Statistical Analysis Final analysis of the primary end point iDFS was planned after 290 iDFS events with a nominal signiﬁcance level of 0.0463 (two-sided). To address the concern of possible inﬂation of the type I error because of the sample size increase, statistical signiﬁcance was determined using a weighted statistic of the stratiﬁed log-rank test (stratiﬁed by risk status, nodal involvement after surgery, Ki-67, age, but 
+
+TABLE 2. Site of First iDFS Event Palbociclib (n 5 631), No. (Valid %) 
+
+Placebo (n 5 619), No. (Valid %) 
+
+Overall (N 5 1,250), No. (Valid %) 
+
+152 (24.1) 
+
+156 (25.2) 
+
+308 (24.6) 
+
+Distant recurrence 
+
+116 (76.3) 
+
+111 (71.2) 
+
+227 (73.7) 
+
+Invasive locoregional recurrence 
+
+21 (13.8) 
+
+27 (17.3) 
+
+48 (15.6) 
+
+Contralateral breast cancer 
+
+2 (1.3) 
+
+5 (3.2) 
+
+7 (2.3) 
+
+Second primary invasive nonbreast cancer 
+
+9 (5.9) 
+
+9 (5.8) 
+
+18 (5.8) 
+
+Death without previous event 
+
+4 (2.6) 
+
+4 (2.6) 
+
+8 (2.6) 
+
+First iDFS Event Patients with event Site of ﬁrst invasive disease event 
+
+a 
+
+Abbreviation: iDFS, invasive disease-free survival. a Patients who experienced an additional invasive-disease event at the same date of their ﬁrst event are reported in the category according to the following hierarchy: distant recurrence, locoregional recurrence, contralateral breast cancer, second primary invasive nonbreast cancer. 
+
+Journal of Clinical Oncology 
+
+1523 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+A 100 2 years 88.3% 
+
+90 
+
+3 years 81.2% 4 years 73.0% 
+
+80 2 years 84.0% 
+
+70 
+
+iDFS (%) 
+
+3 years 77.7% 
+
+60 
+
+4 years 72.4% 
+
+50 40 
+
++ Censored Placebo 156 of 619 iDFS events Palbociclib 152 of 631 iDFS events 
+
+30 
+
+a 
+
+Stratified log-rank (CHW ) P = .525 HR: Palbociclib to Placebo 0.93, 95% RCI (CHW) (0.74, 1.17) 
+
+20 10 
+
+0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+Time (months) 
+
+No. at risk Placebo 
+
+619 
+
+553 
+
+497 
+
+349 
+
+161 
+
+24 
+
+1 
+
+Palbociclib 
+
+631 
+
+571 
+
+528 
+
+389 
+
+169 
+
+38 
+
+0 
+
+B Subgroup 
+
+HR (95% CI) 
+
+P 
+
+0.931 (0.744 to 1.16) 
+
+.532 
+
+0.974 (0.696 to 1.36) 0.891 (0.660 to 1.20) 
+
+.880 .451 
+
+0.955 (0.709 to 1.29) 0.899 (0.641 to 1.26) 
+
+.764 .539 
+
+0.873 (0.654 to 1.16) 1.020 (0.718 to 1.46) 
+
+.355 .895 
+
+0.798 (0.534 to 1.19) 0.996 (0.760 to 1.30) 
+
+.272 .976 
+
+0.943 (0.749 to 1.19) 0.836 (0.339 to 2.06) 
+
+.619 .697 
+
+0.810 (0.539 to 1.22) 0.958 (0.697 to 1.31) 1.080 (0.648 to 1.79) 
+
+.311 .789 .772 
+
+0.942 (0.698 to 1.27) 0.927 (0.661 to 1.30) 
+
+.698 .659 
+
+0.867 (0.621 to 1.21) 0.982 (0.726 to 1.33) 
+
+.401 .904 
+
+0.893 (.580 to 1.37) 0.956 (.736 to 1.24) 
+
+.605 .738 
+
+0.876 (.683 to 1.12) 1.160 (.682 to 1.98) 
+
+.297 .579 
+
+No. of Patients 
+
+Overall 1,250 ypN ypN 0-1 620 ypN 2-3 630 Age years ≤ 50 701 > 50 549 Ki-67 ≤ 15% 931 319 > 15% Risk status CPS-EG score 2 and ypN+ 508 CPS-EG score ≥ 3 742 Geographical region 1,155 Non-Asian 95 Asian CPS-EG Score 497 Score 1/2 Score 3 561 Score 4/5 192 First endocrine therapy Tamoxifen with or without ovarian suppression 622 AI with or without ovarian suppression 628 Duration of chemotherapy 594 Shorter (≤ 20 weeks) Longer (> 20 weeks) 656 Type of surgery Breast conserving 432 Mastectomy 818 Overall response to NACT CR or PR 1,050 SD or PD 200 
+
+Test for Interaction 
+
+0.714 0.795 0.504 0.389 0.833 0.674 
+
+0.924 0.596 0.716 0.346 
+
+0.3 
+
+0.5 
+
+0.8 
+
+1 
+
+1.5 
+
+2 
+
+2.5 
+
+HR Longer iDFS With Palbociclib 
+
+Longer iDFS With Placebo 
+
+FIG 2. (A) Kaplan-Meier estimates for iDFS. The 95% CI for 2-year iDFS rates: palbociclib, 85.5% to 90.6% and placebo, 80.9% to 86.7%; for 3-year iDFS rates: palbociclib, 77.8% to 84.1% and placebo, 74.1% to 80.9%; and for 4-year iDFS rates: palbociclib, 68.6% to 76.9% and placebo, 68.1% to 76.1%. aWeighted log-rank test based on the CHW method, taking into account the adaptive sample size re-estimation and group sequential nature of the design. (B) Forest Plot of univariable Cox Regression for iDFS in subgroups. AI, aromatase inhibitor; CHW, Cui-Hung-Wang method; CPS-EG, clinical, pathological stage, estrogen receptor, grading; CR, complete response; HR, hazard ratio; iDFS, invasive disease-free survival; NACT, neoadjuvant chemotherapy; PD, progressive disease; PR, partial response; SD, stable disease. 
+
+not global region of participating site, as prespeciﬁed in the Protocol) based on the method of Cui, Hung, and Wang12 (CHW) with CHW interim monitoring implemented in EAST version 6.5 (Cytel Inc). The 95% repeated CI was reported taking into account the adaptive sample size re-estimation and group sequential nature of the design. 
+
+For all other tests, the alpha was set to 0.05 (two-sided). Adjustment for multiple testing in the other tests was not planned. The Kaplan-Meier method was used to estimate the survival probability at speciﬁc time points together with a two-sided 95% CI. Univariable Cox-proportional hazards models stratiﬁed by the same factors as in the primary 
+
+1524 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+women (85.4%) and AI in postmenopausal women (84.9%). 203 patients (33.0%) of the premenopausal women received ovarian ablation in addition. 
+
+100 90 80 
+
+OS (%) 
+
+70 
+
+Efﬁcacy 
+
+60 50 40 + Censored Placebo 69 of 619 OS events Palbociclib 62 of 631 OS events Stratified log-rank P = .420 HR palbociclib to placebo = 0.87, 95% CI (0.61 to 1.22) 
+
+30 20 10 0 
+
+12 
+
+Placebo 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+Time (months) 
+
+No. at risk 619 
+
+588 
+
+554 
+
+410 
+
+190 
+
+32 
+
+3 
+
+Palbociclib 631 
+
+596 
+
+574 
+
+442 
+
+206 
+
+46 
+
+1 
+
+FIG 3. Kaplan-Meier estimates for OS. The 95% CI for 2-year OS rates: palbociclib, 94.5% to 97.6% and placebo, 92.3% to 96.1%; for 3-year invasive disease-free survival rates: palbociclib, 91.3% to 95.3% and placebo, 87.8% to 92.6%; and for 4-year invasive disease-free survival rates: palbociclib, 87.3% to 92.8% and placebo, 83.9% to 90.1%. OS, overall survival. 
+
+analysis were used for time-to-event end points (except LRRFI) to report hazard ratios with 95% CI. LRRFI was analyzed using the cumulative incidence function for rates at speciﬁc time points with stratiﬁed Gray’s test for comparison and stratiﬁed univariate Fine-Gray model to report hazard ratio for treatment. Fisher’s exact test was used to compare frequencies of AEs between arms. All statistical analyses were performed using SAS Version 9.4 with SAS Enterprise Guide Version 7.1 on Microsoft Windows 10 Enterprise. Data cutoff date was August 24, 2020. RESULTS Patients and Treatment Between February 2014 and December 2017, 1,708 patients were screened and 1,250 patients were randomly assigned in 221 sites and 11 countries to receive either palbociclib or placebo plus ET. One thousand two hundred forty-four patients started therapy, 628 in the palbociclib arm and 616 in the placebo arm (Fig 1). The baseline characteristics were well-balanced between the treatment arms (Table 1). The median age was 49 (range, 19-79) years. One hundred ninety-ﬁve of 1,250 (15.6%) were younger than 40 years. The majority were enrolled with a CPS-EG score of three and higher (59.4%) and had a Ki-67 # 15% (74.5%). Almost all patients had received an anthracycline-taxane–based chemotherapy (98.6%) and adjuvant radiotherapy (98.8%) and had already started ET before enrollment (89.4%). Tamoxifen (49.8%) or AI (50.2%) with or without a luteinizing hormone releasing hormone agonist was equally used as ﬁrst type of ET and was comparable between treatment arms (Table 1), but differed by menopausal status (Appendix Table A1, online only). Tamoxifen was the preferred ﬁrst ET in premenopausal 
+
+After a median follow-up of 42.8 months (92% complete),13 308 conﬁrmed iDFS events (24.6%) were documented, 152 (24.1%) in the palbociclib arm and 156 (25.2%) in the placebo arm. Most iDFS events were distant recurrences (227 [73.7%]), and locoregional events were reported in 48 patients (15.6%) (Table 2). There was no difference between the two treatment arms (stratiﬁed hazard ratio 0.93 [95% repeated CI, 0.74 to 1.17], P [CHW] 5 .525). The estimated 3-year iDFS was 81.2% (77.8%-84.1%) with palbociclib and 77.7% (74.1%-80.9%) with placebo (Fig 2A). No subgroup could be identiﬁed, which beneﬁtted from the addition of palbociclib to ET after NACT (Fig 2B). The analysis of iDFS excluding second primary invasive nonbreast cancers showed a similar result (hazard ratio, 0.93 [95% CI, 0.74 to 1.16]; P 5 .501). LRRFI was not signiﬁcantly different between the two arms. The locoregional recurrence cumulative incidence rate at 3 years was 3.7% (95% CI, 2.4% to 5.4%) with palbociclib and 4.6% (95% CI, 3.1% to 6.5%) with placebo (hazard ratio, 0.83 [95% CI, 0.49 to 1.39]; P 5 .514). The only subgroup that seems to beneﬁt from palbociclib in terms of LRRFI was the group without response to NACT (stable or progressive disease, n 5 200, hazard ratio, 0.20 [95% CI, 0.04 to 0.95]; P 5 .043 [Data Supplement, Supplementary Fig 2]). At the time of ﬁnal iDFS analysis, an interim analysis for OS was performed with 131 deaths reported. OS was not signiﬁcantly different between the two arms (hazard ratio, 0.87 [95% CI, 0.61 to 1.23]; P 5 .420) with no differences according to subgroups. The 3-year OS was 93.6% (91.3%-95.3%) with palbociclib and 90.5% (87.8%92.6%) with placebo (Fig 3). Safety and Compliance One thousand two hundred forty-four patients who started therapy, 633 with palbociclib and 611 with placebo, comprised the safety set. All patients except one in each treatment arm reported at least one AE. At least one grade 3-4 AE was signiﬁcantly more often reported in the palbociclib group compared with the placebo group (79.6% v 20.1%). There was no difference between nonhematologic grade 3-4 AEs between the treatment groups (19.9% v 19.0%), but there were signiﬁcantly more hematologic grade 3-4 AEs with palbociclib compared with placebo (73.1% v 1.3%). The most frequent AEs with a signiﬁcantly higher incidence in the palbociclib arm were neutropenia of any grade (95.7% v 23.4%) and grade 3-4 (70.0% v 1.0%), leukopenia any grade (99.2% v 69.9%) and grade 3-4 (56.1% v 0.7%), thrombocytopenia any grade (56.6% v 16.2%), anemia any grade (73.9% v 30.3%), hypocalcaemia any grade (35.2% v 24.4%), fatigue any grade (66.4% v 51.1%), stomatitis any grade 
+
+Journal of Clinical Oncology 
+
+1525 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+TABLE 3. Adverse Events . 10% in Either Treatment Arm 
+
+Adverse Event 
+
+Grade 
+
+Palbociclib (n 5 631), No. (Valid %) 
+
+Anemia 
+
+Any 
+
+468 (73.9) 
+
+185 (30.3) 
+
+653 (52.5) 
+
+, .001 
+
+3-4 
+
+2 (0.3) 
+
+1 (0.2) 
+
+3 (0.2) 
+
+1.000 
+
+Any 
+
+628 (99.2) 
+
+427 (69.9) 
+
+1,055 (84.8) 
+
+, .001 
+
+3-4 
+
+355 (56.1) 
+
+4 (0.7) 
+
+359 (28.9) 
+
+, .001 
+
+Any 
+
+606 (95.7) 
+
+143 (23.4) 
+
+749 (60.2) 
+
+, .001 
+
+3-4 
+
+443 (70.0) 
+
+6 (1.0) 
+
+449 (36.1) 
+
+, .001 
+
+Any 
+
+358 (56.6) 
+
+99 (16.2) 
+
+457 (36.7) 
+
+, .001 
+
+3-4 
+
+5 (0.8) 
+
+2 (0.3) 
+
+7 (0.6) 
+
+.452 
+
+Any 
+
+138 (21.8) 
+
+141 (23.1) 
+
+279 (22.4) 
+
+.634 
+
+3-4 
+
+3 (0.5) 
+
+4 (0.7) 
+
+7 (0.6) 
+
+.721 
+
+Blood AP increased 
+
+Any 
+
+106 (16.7) 
+
+120 (19.6) 
+
+226 (18.2) 
+
+.187 
+
+3-4 
+
+1 (0.2) 
+
+1 (0.2) 
+
+2 (0.2) 
+
+1.000 
+
+ASAT increased 
+
+Any 
+
+131 (20.7) 
+
+102 (16.7) 
+
+233 (18.7) 
+
+.081 
+
+3-4 
+
+3 (0.5) 
+
+1 (0.2) 
+
+4 (0.3) 
+
+.625 
+
+Hyperkalemia 
+
+Any 
+
+67 (10.6) 
+
+80 (13.1) 
+
+147 (11.8) 
+
+.188 
+
+3-4 
+
+3 (0.5) 
+
+3 (0.5) 
+
+6 (0.5) 
+
+1.000 
+
+Hypocalcaemia 
+
+Any 
+
+223 (35.2) 
+
+149 (24.4) 
+
+372 (29.9) 
+
+, .001 
+
+3-4 
+
+3 (0.5) 
+
+0 (0.0) 
+
+3 (0.2) 
+
+.250 
+
+Any 
+
+186 (29.4) 
+
+173 (28.3) 
+
+359 (28.9) 
+
+.707 
+
+3-4 
+
+2 (0.3) 
+
+0 (0.0) 
+
+2 (0.2) 
+
+.500 
+
+Leukopenia 
+
+Neutropenia 
+
+Thrombocytopenia 
+
+ALAT increased 
+
+Hypomagnesemia 
+
+Placebo (n 5 619), No. (Valid %) 
+
+Overall (N 5 1,250), No. (Valid %) 
+
+P 
+
+Alopecia 
+
+Any 
+
+93 (14.7) 
+
+52 (8.5) 
+
+145 (11.7) 
+
+, .001 
+
+Arthralgia 
+
+Any 
+
+261 (41.2) 
+
+286 (46.8) 
+
+547 (44.0) 
+
+.052 
+
+3-4 
+
+5 (0.8) 
+
+9 (1.5) 
+
+14 (1.1) 
+
+.291 
+
+Back pain 
+
+Any 
+
+71 (11.2) 
+
+81 (13.3) 
+
+152 (12.2) 
+
+.299 
+
+3-4 
+
+4 (0.6) 
+
+1 (0.2) 
+
+5(0.4) 
+
+.374 
+
+Bone pain 
+
+Any 
+
+109 (17.2) 
+
+117 (19.1) 
+
+226 (18.2) 
+
+.379 
+
+3-4 
+
+2 (0.3) 
+
+4 (0.7) 
+
+6 (0.5) 
+
+.444 
+
+Any 
+
+78 (12.3) 
+
+67 (11.0) 
+
+145 (11.7) 
+
+.480 
+
+3-4 
+
+0 (0.0) 
+
+0 (0.0) 
+
+0 (0.0) 
+
+NA 
+
+Any 
+
+140 (22.1) 
+
+84 (13.7) 
+
+224 (18.0) 
+
+, .001 
+
+3-4 
+
+0 (0.0) 
+
+0 (0.0) 
+
+0 (0.0) 
+
+NA 
+
+Any 
+
+132 (20.9) 
+
+99 (16.2) 
+
+231 (18.6) 
+
+.041 
+
+3-4 
+
+0 (0.0) 
+
+0 (0.0) 
+
+0 (0.0) 
+
+NA 
+
+Any 
+
+116 (18.3) 
+
+96 (15.7) 
+
+212 (17.0) 
+
+.228 
+
+3-4 
+
+1 (0.2) 
+
+3 ( 0.5) 
+
+4 (0.3) 
+
+.366 
+
+Fatigue 
+
+Any 
+
+420 (66.4) 
+
+312 (51.1) 
+
+732 (58.8) 
+
+, .001 
+
+3-4 
+
+17 (2.7) 
+
+9 (1.5) 
+
+26 (2.1) 
+
+.166 
+
+Headache 
+
+Any 
+
+147 (23.2) 
+
+141 (23.1) 
+
+288 (23.2) 
+
+1.000 
+
+3-4 
+
+3 (0.5) 
+
+3 (0.5) 
+
+6 (0.5) 
+
+1.000 
+
+Hot ﬂushes 
+
+Any 
+
+277 (43.8) 
+
+311 (50.9) 
+
+588 (47.3) 
+
+.012 
+
+5 (0.8) 
+
+6 (1.0) 
+
+11 (0.9) 
+
+.770 
+
+Blood creatinine increased 
+
+Constipation 
+
+Cough 
+
+Diarrhea 
+
+3-4 
+
+(continued on following page) 
+
+1526 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+TABLE 3. Adverse Events . 10% in Either Treatment Arm (continued) 
+
+Adverse Event 
+
+Grade 
+
+Palbociclib (n 5 631), No. (Valid %) 
+
+Infection 
+
+Any 
+
+379 (59.9) 
+
+312 (51.1) 
+
+691 (55.5) 
+
+.002 
+
+3-4 
+
+20 (3.2) 
+
+24 (3.9) 
+
+44 (3.5) 
+
+.540 
+
+Any 
+
+102 (16.1) 
+
+101 (16.5) 
+
+203 (16.3) 
+
+.878 
+
+3-4 
+
+0 (0.0) 
+
+0 (0.0) 
+
+0 (0.0) 
+
+NA 
+
+Any 
+
+128 (20.2) 
+
+113 (18.5) 
+
+241 (19.4) 
+
+.473 
+
+3-4 
+
+3 (0.5) 
+
+5 (0.8) 
+
+8 (0.6) 
+
+.499 
+
+Nausea 
+
+Any 
+
+150 (23.7) 
+
+126 (20.6) 
+
+276 (22.2) 
+
+.195 
+
+3-4 
+
+2 (0.3) 
+
+2 (0.3) 
+
+4 (0.3) 
+
+1.000 
+
+Edema peripheral 
+
+Any 
+
+126 (19.9) 
+
+99 (16.2) 
+
+225 (18.1) 
+
+.091 
+
+3-4 
+
+0 (0.0) 
+
+1 (0.2) 
+
+1 (0.1) 
+
+.491 
+
+Pain in extremity 
+
+Any 
+
+81 (12.8) 
+
+61 (10.0) 
+
+142 (11.4) 
+
+.130 
+
+3-4 
+
+3 (0.5) 
+
+2 (0.3) 
+
+5 (0.4) 
+
+1.000 
+
+Stomatitis 
+
+Any 
+
+174 (27.5) 
+
+53 ( 8.7) 
+
+227 (18.2) 
+
+, .001 
+
+3-4 
+
+3 (0.5) 
+
+1 (0.2) 
+
+4 (0.3) 
+
+.625 
+
+Insomnia 
+
+Myalgia 
+
+Placebo (n 5 619), No. (Valid %) 
+
+Overall (N 5 1,250), No. (Valid %) 
+
+P 
+
+Abbreviations: ALAT, alanine aminotransferase; AP, alkaline phosphatase; ASAT, aspartate aminotransferase; NA, not applicable. 
+
+(27.5% v 8.7%), constipation any grade (22.1% v 13.7%), cough any grade (20.9% v 16.2%), and infection (59.9% v 51.1%). Arthralgia (41.2% v 46.8%) and hot ﬂushes (43.8% v 50.9%) were less frequent with palbociclib than placebo (Table 3). Serious adverse events were reported in 113 (9.1%) patients, with no difference between treatment arms; eight were fatal, two in the palbociclib arm (cardiogenic shock and inﬂuenza, both not related to study drug) and six in the placebo arm (leukemia, myeloid leukemia, hepatorenal failure, lung embolism, and two cases of sudden death because of unknown reasons). Overall, 219 (17.5%) patients discontinued study treatment (n 5 38, 3.0% because of toxicity) and 64 (5.1%) discontinued ET prematurely. 301 patients (47.6%) in the palbociclib arm compared with 11 patients (1.8%) in the placebo arm had at least one dose reduction (P , .001). In the last cycle, 256 patients (49.7%) still received 125 mg palbociclib, but 512 (98.5%) received full dose in the placebo arm (Data Supplement, Supplementary Fig 3). Thirteen cycles were completed by 80.5% versus 84.5% with palbociclib and placebo, respectively (Fig 1). The median duration of therapy was 52.9 weeks with palbociclib and 52.0 weeks with placebo (P , .001). The relative total dose intensity was signiﬁcantly lower with palbociclib (82.1% v 98.9%, P , .001). DISCUSSION The PENELOPE-B trial failed to demonstrate that the addition of 1 year palbociclib to standard ET improved iDFS compared with placebo in a speciﬁc high-risk HR1/ HER22 primary breast cancer population. All patients were 
+
+considered to be at high risk to receive NACT. Almost all patients received adjuvant radiotherapy, underlining the high-risk nature of this population. The 3-year iDFS was 81.2% with palbociclib and 77.7% with placebo, with an absolute difference of 3.5%. At 2 years, the absolute difference was 4.3%. Although there is no statistical evidence for a difference in the two arms, further analyses should elucidate potential early effects of the therapy. Long-term follow-up of the other CDK4/6 inhibitor trials will show whether there is evidence for time-dependent efﬁcacy as hypothesized in the PENELOPE-B trial, enrolling high-risk postneoadjuvant patients. It can be argued that palbociclib might delay relapses rather than sustaining a long-term effect, so 1 year of therapy may be too short and in retrospect two or more years of CDK4/6 inhibitor therapy may be needed. About 20% of the patients in the PENELOPE-B trial, the only double-blind, placebo controlled phase III trial, did not complete 13 cycles and stopped treatment prematurely, whereas in a feasibility study, 37%14 and in PALLAS, 42% of patients did not complete 2 years of adjuvant palbociclib.15 In monarchE, 16% stopped abemaciclib because of AEs, and this rate was lower in PENELOPE-B.16 In the KATHERINE trial for HER2-positive breast cancer, 31% of the patients did not complete 14 cycles of therapy.17 This is a heavily pretreated population, and despite the high-risk status of the patients and the proven efﬁcacy in the metastatic setting, the persistence with therapy in the adjuvant setting is lower than that in metastatic breast cancer.18 The initially more conservative AE management was adapted to try to maintain a higher relative total dose intensity, and with more than 80%, this is acceptable.19 The safety results in 
+
+Journal of Clinical Oncology 
+
+1527 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+the study were as expected. Interestingly, the rate of menopausal symptoms was lower with palbociclib, namely, hot ﬂushes and arthralgia. This had also been reported in other CDK4/6 inhibitor trials and seems to be a real positive side effect of CDK4/6 inhibitors.14,20 Another explanation for the results could be that most patients had a low Ki-67 at surgery: Ki-67 above 15% was present in 25.5% and above 25% in only 14% of the patients. At ﬁrst diagnosis (core biopsy), Ki-67 was high in three quarters of patients, showing that the low postoperative Ki-67 is a selection bias as the high-proliferating cells respond to chemotherapy. In the group with the higher Ki-67, 47% of the patients had a relapse versus only 21% in the group with a low Ki-67. However, the subgroup analysis does not suggest a differential effect for patients with high Ki-67 tumors. In fact, patients with luminal A tumors, with low Ki-67, show the same beneﬁt when CDK4/6 inhibitors were used as neoadjuvant therapy.21 When the PENELOPE-B trial was designed, we discussed selecting a population with high Ki-67 based on previous data.22 In the PENELOPE-B trial, Ki-67 was the strongest prognostic factor in multivariable analysis (data not shown), emphasizing the importance of the marker. The CPS-EG score, however, was demonstrated to be a stronger independent prognostic factor and a better discriminator between lowrisk and high-risk patients with residual disease and was therefore chosen as the primary inclusion criterion.4 Biomarker analysis, that is, deﬁned by gene expression analysis, is ongoing and might help to identify a subgroup beneﬁting from the addition of palbociclib to ET.23 None of the prespeciﬁed subgroup analysis reveals a group clearly beneﬁtting from palbociclib. The subgroup results for locoregional relapse seem to be counterintuitive, but the interaction test is clearly negative and the results should not be overinterpreted. At the time of the trial conception, only premature data from PALOMA-1 were available. The study was opened in December 2013 and started recruitment in February 2014, before registration of the drug. On this basis with limited 
+
+safety data, the high-risk population and 1 year of therapy were chosen to justify the potential added toxicity, which in retrospect might have been too short. Other postneoadjuvant trials in HR1 and HER22 patients also failed to improve outcome. Capecitabine in CREATE-X seemed to be beneﬁcial in triple-negative breast cancer only.24 The NATAN trial with zoledronic acid given for 5 years in addition to ET in patients with residual disease after NACT did not improve outcome.25 Postneoadjuvant patients were also enrolled in the two large adjuvant studies, but without further deﬁning the risk status. In contrast to the PALLAS trial, the monarchE study showed an improvement in iDFS by adding abemaciclib to ET after a median followup of 14 months. The subgroup analysis also revealed a clear beneﬁt at this early time point for the patients who received NACT.13,14 Strengths of this study are the placebo-controlled design, the clear hypothesis, which was generated based on the GBG database, and the selection of patients based on these data. HER2, hormone receptor status, and Ki-67 were centrally assessed. With a 43-month follow-up, this is the most mature early breast cancer CDK4/6 inhibitor study. The completeness of follow-up is 92%, demonstrating the high quality and robustness of the data. The control arm often improves over time and invalidates the initial study hypothesis; however, in PENELOPE-B, the control arm performed close to that estimated with an iDFS at 3 years of 77%. In conclusion, the PENELOPE-B trial did not demonstrate that the addition of one year palbociclib to standard adjuvant ET improves iDFS in patients at high risk of relapse after NACT deﬁned by the CPS-EG score. Further research is warranted by pooling the data from this speciﬁc population enrolled in PENELOPE-B with other trials to determine whether this group has a sustained long-term reduction of relapse from a CDK4/6 inhibitor and to characterize this population by molecular markers. This will take some time, as the follow-up from these trials is either too short or recruitment is still ongoing. 
+
+10 
+
+AFFILIATIONS 1 
+
+German Breast Group, Neu-Isenburg, Germany 2 Center for Hematology and Oncology Bethanien, Frankfurt, Germany 3 Department of Gynaecology and Obstetrics, University Hospital Mannheim, Mannheim, Germany 4 Instituto de Investigacion Sanitaria Gregorio Marañon, CIBERONC, Universidad Complutense, Madrid, Spain 5 GEICAM, Madrid, Spain 6 Department of Gynaecology and Obstetrics, Breast Cancer Center, HELIOS Klinikum Berlin Buch, Berlin, Germany 7 UCBG (Unicancer Breast Cancer Group) and Institut Bergonié, Université de Bordeaux, Bordeaux, France 8 Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea, and KCSG (Korean Cancer Study Group), Korea 9 Division of Surgical Oncology, Massey Cancer Center, Virginia Commonwealth University, VCU Health, Richmond, VA 
+
+NSABP Foundation, Pittsburgh, PA Breast Cancer Trials Australia and New Zealand, Newcastle, Australia 12 Oncology Research Group, Hospital Universitario Sant Joan de Reus, Reus, Spain 13 BC Cancer Agency, Vancouver, British Columbia, Canada 14 Instituto de Investigación Sanitaria Hospital Clinico San Carlos (IdISSC), Madrid, Spain 15 Mater Misericordiae University Hospital and Breast Group, Cancer Trials, Dublin, Ireland 16 Department of Obstetrics and Gynecology, University of Rostock, Rostock, Germany 17 Breast Surgery, Graduate School of Medicine, Kyoto University, Kyoto, Japan 18 Breast Department, UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, CA 11 
+
+1528 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 19 
+
+Institute of Pathology, University Hospital Marburg and PhilippsUniversität Marburg, Germany 20 Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria 21 ABCSG, Vienna, Austria 22 Mount Vernon Cancer Centre, Northwood, United Kingdom 23 Pﬁzer Inc, New York, NY 24 IEO, European Institute of Oncology, IRCCS, Milan, Italy 25 Latin American Cooperative Oncology Group (LACOG), Porto Alegre, Brazil 
+
+CORRESPONDING AUTHOR Sibylle Loibl, MD, PhD, German Breast Group, c/o GBG Forschungs GmbH, Martin-Behaim-Straße 12, 63263 Neu-Isenburg, Germany; e-mail: sibylle.loibl@gbg.de. 
+
+PRIOR PRESENTATION Presented in part at the 2020 San Antonio Breast Cancer Symposium, Virtual Symposium, December 8-11, 2020. 
+
+SUPPORT Supported by Pﬁzer in conducting the trial and drug support. 
+
+CLINICAL TRIAL INFORMATION NCT01864746 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.20.03639. 
+
+share sensitive patient-related data publicly. Interested groups may use the Cooperation Proposal Form on https://www.gbg.de/en/research/trafo.php Data can be requested in context of a translational research project by sending the form to trafo@gbg.de. Translational research proposals are approved by the GBG scientiﬁc boards. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Sibylle Loibl, Hervé Bonnefoi, Harry Bear, Karen Gelmon, Masakazu Toi, Hope S. Rugo, Carsten Denkert, Michael Gnant, Andreas Makris, Maria Koehler, Cynthia Huang-Bartelett, Gustavo Werutsky, Nicole Burchardi, Valentina Nekljudova, Gunter von Minckwitz Administrative support: Maria Koehler Provision of study materials or patients: Frederik Marmé, Miguel Martin, Harry Bear, Mireia Mel é Olivé, Karen Gelmon, Catherine M. Kelly, Hope S. Rugo, Michael Gnant, Cynthia Huang-Bartelett, Gustavo Werutsky Collection and assembly of data: Sibylle Loibl, Frederik Marmé, Miguel Martin, Michael Untch, Sung-Bae Kim, Harry Bear, Nicole McCarthy, Mireia Melé Olivé, Karen Gelmon, José Garcı́a-Sáenz, Catherine M. Kelly, Toralf Reimer, Carsten Denkert, Michael Gnant, Andreas Makris, Cynthia Huang-Bartelett, Maria Jose Lechuga Frean, Gustavo Werutsky, Sabine Seiler, Gunter von Minckwitz Data analysis and interpretation: Sibylle Loibl, Michael Untch, Sung-Bae Kim, Harry Bear, Nicole McCarthy, Karen Gelmon, José Garcı́a-Sáenz, Catherine M. Kelly, Masakazu Toi, Carsten Denkert, Andreas Makris, Cynthia Huang-Bartelett, Maria Jose Lechuga Frean, Marco Colleoni, Gustavo Werutsky, Sabine Seiler, Nicole Burchardi, Valentina Nekljudova, Gunter von Minckwitz Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+ACKNOWLEDGMENT DATA SHARING STATEMENT All relevant data are within this paper and its supporting information ﬁles. The data underlying the results presented in the study are available from German Breast Group. Some restrictions apply because of conﬁdentiality of patient data. Since these data are derived from a prospective clinical trial with ongoing follow-up collection, there are legal and ethical restrictions to 
+
+We thank all patients and their families, the network of investigators (available in Appendix Table A2 [online only]), the international SC and the neoadjuvant Subboard of GBG and AGO-B and the IDMC, Pﬁzer for drug and ﬁnancial support, and the team at the GBG Headquarters including data managers, monitoring, statistics, project management, and medical writing. 
+
+REFERENCES 1. 
+
+von Minckwitz G, Untch M, Blohmer JU, et al: Deﬁnition and impact of pathologic complete response on prognosis after neoadjuvant chemotherapy in various intrinsic breast cancer subtypes. J Clin Oncol 30:1796-1804, 2012 
+
+2. 
+
+Cortazar P, Zhang L, Untch M, et al: Pathological complete response and long-term clinical beneﬁt in breast cancer: The CTNeoBC pooled analysis. Lancet 384: 164-172, 2014 
+
+3. 
+
+Mittendorf EA, Jeruss JS, Tucker SL, et al: Validation of a novel staging system for disease-speciﬁc survival in patients with breast cancer treated with neoadjuvant chemotherapy. J Clin Oncol 29:1956-1962, 2011 
+
+4. 
+
+Marmé F, Lederer B, Blohmer JU, et al: Utility of the CPS1EG staging system in hormone receptor-positive, human epidermal growth factor receptor 2-negative breast cancer treated with neoadjuvant chemotherapy. Eur J Cancer 53:65-74, 2016 
+
+5. 
+
+Finn RS, Crown JP, Ettl J, et al: Efﬁcacy and safety of palbociclib in combination with letrozole as ﬁrst-line treatment of ER-positive, HER2-negative, advanced breast cancer: Expanded analyses of subgroups from the randomized pivotal trial PALOMA-1/TRIO-18. Breast Cancer Res 18:67, 2016 
+
+6. 
+
+Cristofanilli M, Turner NC, Bondarenko I, et al: Fulvestrant plus palbociclib versus fulvestrant plus placebo for treatment of hormone-receptor-positive, HER2negative metastatic breast cancer that progressed on previous endocrine therapy (PALOMA-3): Final analysis of the multicentre, double-blind, phase 3 randomised controlled trial. Lancet Oncol 17:425-439, 2016 
+
+7. 
+
+Turner NC, Slamon DJ, Ro J, et al: Overall survival with palbociclib and fulvestrant in advanced breast cancer. N Engl J Med 379:1926-1936, 2018 
+
+8. 
+
+Loibl S, Turner NC, Ro J, et al: Palbociclib combined with fulvestrant in premenopausal women with advanced breast cancer and prior progression on endocrine therapy: PALOMA-3 results. Oncologist 22:1028-1038, 2017 
+
+9. 
+
+Hudis CA, Barlow WE, Costantino JP, et al: Proposal for standardized deﬁnitions for efﬁcacy end points in adjuvant breast cancer trials: The STEEP system. J Clin Oncol 25:2127-2132, 2007 
+
+10. Mehta CR, Pocock SJ: Adaptive increase in sample size when interim results are promising: A practical Guide with examples. Stat Med 30:3267-3284, 2011 11. O’Brien PC, Fleming TR: A multiple testing procedure for clinical trials. Biometrics 35:549-556, 1979 12. Cui L, Hung HM, Wang SJ: Modiﬁcation of sample size in group sequential clinical trials. Biometrics 55:853-857, 1999 13. Clark TG, Altman DG, De Stavola BL: Quantiﬁcation of the completeness of follow-up. Lancet 359:1309-1310, 2002 
+
+Journal of Clinical Oncology 
+
+1529 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 14. Mayer EL, DeMichele A, Rugo HS, et al: A phase II feasibility study of palbociclib in combination with adjuvant endocrine therapy for hormone receptor-positive invasive breast carcinoma. Ann Oncol 30:1514-1520, 2019 15. Mayer EL, Dueck AC, Martin M, et al: PALLAS: Palbociclib with adjuvant endocrine therapy in early breast cancer (PALLAS): Interim analysis of a multicentre, open-label, randomised, phase 3 study. Lancet Oncol 22:212-222, 2021 16. Johnston SRD, Harbeck N, Hegg R, et al: Abemaciclib combined with endocrine therapy for the adjuvant treatment of HR1, HER2-, node-positive, high-risk, early breast cancer (monarchE). J Clin Oncol 38:3987-3998, 2020 17. von Minckwitz G, Huang CS, Mano MS, et al: Trastuzumab emtansine for residual invasive HER2-positive breast cancer. N Engl J Med 380:617-628, 2019 18. Hershman DL, Kushi LH, Shao T, et al: Early discontinuation and nonadherence to adjuvant hormonal therapy in a cohort of 8,769 early-stage breast cancer patients. J Clin Oncol 28:4120-4128, 2010 19. Loibl S, Skacel T, Nekljudova V, et al: Evaluating the impact of Relative Total Dose Intensity (RTDI) on patients’ short and long-term outcome in taxane- and anthracycline-based chemotherapy of metastatic breast cancer- a pooled analysis. BMC Cancer 11:131, 2011 20. Johnston S, Puhalla S, Wheatley D, et al: Randomized phase II study evaluating palbociclib in addition to letrozole as neoadjuvant therapy in estrogen receptorpositive early breast cancer: PALLET trial. J Clin Oncol 37:178-189, 2019 21. Ma CX, Gao F, Luo J, et al: NeoPalAna: Neoadjuvant palbociclib, a cyclin-dependent kinase 4/6 inhibitor, and anastrozole for clinical stage 2 or 3 estrogen receptor-positive breast cancer. Clin Cancer Res 23:4055-4065, 2017 22. von Minckwitz G, Schmitt WD, Loibl S, et al: Ki67 measured after neoadjuvant chemotherapy for primary breast cancer. Clin Cancer Res 19:4521-4531, 2013 23. Loibl S, Weber K, Huober J, et al. Risk assessment after neoadjuvant chemotherapy in luminal breast cancer using a clinicomolecular predictor. Clin Cancer Res 24:3358-3365, 2018 24. Masuda N, Lee SJ, Ohtani S, et al: Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med 376:2147-2159, 2017 25. von Minckwitz G, Rezai M, Tesch H, et al: Zoledronate for patients with invasive residual disease after anthracyclines-taxane-based chemotherapy for early breast cancer—the phase III NeoAdjuvant Trial Add-oN (NaTaN) study (GBG 36/ABCSG 29). Eur J Cancer 64:12-21, 2016 
+
+n n n 
+
+1530 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Palbociclib for Residual High-Risk Invasive HR-Positive and HER2-Negative Early Breast Cancer—The Penelope-B Trial The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Sibylle Loibl Honoraria: Chugai Pharma Consulting or Advisory Role: Pﬁzer, Roche, Novartis, Seattle Genetics, Celgene, Lilly, AstraZeneca/MedImmune, Bristol-Myers Squibb, Merck KGaA, Abbvie, Amgen, Prime/Medscape, Daiichi Sankyo, Samsung, Puma Biotechnology, Pierre Fabre, Immunomedics, GlaxoSmithKline, EirGenix, Bayer Research Funding: Abbvie, AstraZeneca, Vifor Pharma, Amgen, Celgene, Novartis, Pﬁzer, Roche, Myriad Genetics, Immunomedics, Seattle Genetics, Daiichi Sankyo, Pierre Fabre Patents, Royalties, Other Intellectual Property: Patent Pending EP14153692.0 Frederik Marmé Honoraria: Roche/Genentech, Novartis, Pﬁzer, AstraZeneca, Tesaro, Clovis Oncology, Clovis Oncology, Eisai, Celgene, Genomic Health, PharmaMar, Amgen, CureVac, MSD Oncology, Janssen-Cilag, Immunomedics, Seagen, Myriad Genetics Consulting or Advisory Role: AstraZeneca, Tesaro, Pﬁzer, Roche, Novartis, Genomic Health, CureVac, Amgen, Vaccibody, Immunomedics, Celgene, Eisai, Janssen-Cilag, Immunomedics, Immunomedics Research Funding: Roche/Genentech, Novartis, AstraZeneca, Eisai, Tesaro, Tesaro, Tesaro, Clovis Oncology, MSD Oncology, Vaccibody Travel, Accommodations, Expenses: Roche, Roche, Pﬁzer, Novartis, PharmaMar, AstraZeneca Miguel Martin Honoraria: Roche/Genentech, Lilly, Pﬁzer, Novartis, Pierre Fabre Consulting or Advisory Role: Roche/Genentech, Novartis, Pﬁzer, Lilly, AstraZeneca, Taiho Pharmaceutical, PharmaMar Speakers’ Bureau: Lilly/ImClone, Lilly/ImClone, Roche/Genentech, Pierre Fabre Research Funding: Novartis, Roche, Puma Biotechnology Michael Untch Honoraria: AstraZeneca, Art tempi, Bristol-Myers Squibb, Celgene, Daiji Sankyo, Roche Pharma AG, Pﬁzer, Mundipharma, MSD Oncology, Pierre Fabre, Sanoﬁ, Seattle Genetics, Agendia Consulting or Advisory Role: Amgen, Abbvie, Celgene, Lilly, Mundipharma, Novartis, MSD Oncology, Pﬁzer, Roche Pharma AG, Agendia, Pierre Fabre, Seattle Genetics Hervé Bonnefoi Honoraria: Roche Research Funding: Bayer Travel, Accommodations, Expenses: Roche, Pﬁzer Sung-Bae Kim Honoraria: DAEHWA Pharmaceutical, ISU ABXIS Consulting or Advisory Role: Lilly, AstraZeneca, DAEHWA Pharmaceutical, ISU Abxis Research Funding: Novartis, Dongkook Pharma, Genzyme Harry Bear Stock and Other Ownership Interests: Abbvie, Pﬁzer, Viatris Honoraria: Genomic Health, Merck Consulting or Advisory Role: Merck, RNADx Speakers’ Bureau: Genomic Health Research Funding: Merck Travel, Accommodations, Expenses: Merck Open Payments Link: https://openpaymentsdata.cms.gov/physician/691364 Nicole McCarthy Consulting or Advisory Role: Roche, Pﬁzer, Novartis, Lilly Travel, Accommodations, Expenses: Novartis Karen Gelmon Honoraria: AstraZeneca, Merck Sharp & Dohme Consulting or Advisory Role: Pﬁzer, Novartis, Astrazeneca, Merck, Lilly, BristolMyers Squibb, NanoString Technologies, Genomic Health, Janssen Oncology, Roche, Mylan Research Funding: Pﬁzer, Bristol-Myers Squibb, AstraZeneca, Roche Expert Testimony: Genentech 
+
+José Angel Garcı́a-Sáenz Consulting or Advisory Role: Novartis, AstraZeneca, Lilly, Seagen, Daiichi Sankyo, Eisai, MSD Research Funding: AstraZeneca Travel, Accommodations, Expenses: Roche, Novartis Catherine M. Kelly Honoraria: Roche, Pﬁzer, Novartis, MSD Oncology, Exact Sciences, Daiichi Sankyo Europe GmbH Travel, Accommodations, Expenses: Roche, pﬁzer Toralf Reimer Consulting or Advisory Role: Pﬁzer Research Funding: Else KrÃ¶ner-Fresenius-Stiftung, German Cancer Aid Other Relationship: Pﬁzer Masakazu Toi Honoraria: Novartis, TAKEDA, AstraZeneca, Eisai, Chugai Pharma, Taiho Pharmaceutical, Daiichi Sankyo, Yakult Pharmaceutical, Shimadzu, Pﬁzer, Konica Minolta, Lilly, Kyowa Kirin, Devicore medical Japan, Exact Sciences, Nippon Kayaku Consulting or Advisory Role: Daiichi Sankyo, Kyowa Kirin, Bertis, Athenex, Bristol-Myers Squibb, Kansai Medical Net, Terumo, Luxonus, Luxonus, AstraZeneca, Lilly Speakers’ Bureau: Pﬁzer, AstraZeneca, Lilly, Daiichi Sankyo Research Funding: Taiho Pharmaceutical, Chugai Pharma, Shimadzu, Astellas Pharma, AFI technology, Japan Breast Cancer Research Group, Pﬁzer, Eisai, Daiichi Sankyo, AstraZeneca, Ono Pharmaceutical, Nippon Kayaku, Kyoto Breast cancer Research Network Patents, Royalties, Other Intellectual Property: JP 2017-143763 WO2017/ 131162A1, PCT/JP2016/004374 Travel, Accommodations, Expenses: Eisai, Takeda Other Relationship: Japan Breast Cancer Research Group, Kyoto Breast Cancer Research Network, Organization for Oncology and Translational Research Hope S. Rugo Consulting or Advisory Role: Samsung, Celltrion, Puma Biotechnology Research Funding: Macrogenics, OBI Pharma, Eisai, Pﬁzer, Novartis, Lilly, Genentech, Merck, Immunomedics, Odonate Therapeutics, Daiichi Sankyo, Seattle Genetics Travel, Accommodations, Expenses: Pﬁzer, Novartis, Macrogenics, Mylan, Daiichi Sankyo, AstraZeneca Spain Open Payments Link: https://openpaymentsdata.cms.gov/summary Carsten Denkert Stock and Other Ownership Interests: Sividon Diagnostics (now Myriad) Honoraria: Novartis, Roche Consulting or Advisory Role: MSD Oncology, Daiichi Sankyo, Molecular Health Research Funding: Myriad Genetics Patents, Royalties, Other Intellectual Property: VMScope digital pathology software, Patent application: EP18209672—cancer immunotherapy, Patent application EP20150702464—therapy response, Patent application EP20150702464—therapy response Travel, Accommodations, Expenses: Roche Michael Gnant Employment: Sandoz Honoraria: Celgene, Roche, Novartis, AstraZeneca, Amgen, NanoString Technologies, Lilly, Medison, Pﬁzer Consulting or Advisory Role: AstraZeneca, Lilly Travel, Accommodations, Expenses: AstraZeneca, Pﬁzer, Amgen, Ipsen, Lilly, Medtronic, Roche/Genentech Andreas Makris Honoraria: NanoString Technologies, Lilly, Roche, Pﬁzer Consulting or Advisory Role: Roche, Lilly, Pﬁzer Speakers’ Bureau: NanoString Technologies, Pﬁzer, Lilly, Roche Travel, Accommodations, Expenses: Roche 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al Maria Koehler Employment: Bicycle Therapeutics, Repare Therapeutics Stock and Other Ownership Interests: Pﬁzer, Agios, Amgen, Merck, Gilead Sciences Honoraria: GLG, Atheneum Consulting or Advisory Role: ERVAXX, Lilly Asia Ventures Cynthia Huang-Bartelett Employment: Pﬁzer, Merck, AstraZeneca Stock and Other Ownership Interests: Pﬁzer, AstraZeneca 
+
+Maria Jose Lechuga Frean Employment: Pﬁzer Stock and Other Ownership Interests: Pﬁzer Sabine Seiler Stock and Other Ownership Interests: Roche Consulting or Advisory Role: Mundipharma, Amgen Travel, Accommodations, Expenses: Novartis Gunter von Minckwitz Stock and Other Ownership Interests: CARA GmbH No other potential conﬂicts of interest were reported. 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+APPENDIX 1 Patient Selection and Study Design Further main eligibility criteria were Eastern Cooperative Oncology Group performance status 0 or 1; the resolution of all acute toxic effects of previous anticancer therapy or surgical procedures to National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 grade # 1 (except alopecia or other toxicities not considered a safety risk for the patient at investigator’s discretion); an estimated life expectancy of $ 5 years irrespective of the diagnosis of breast cancer; no known severe hypersensitivity reactions to compounds similar to palbociclib or palbociclib/placebo excipients or endocrine treatments; no inadequate organ function immediate before random assignment, including hemoglobin , 10 g/dL (100 g/L); absolute neutrophil count (ANC) , 2,000/mm³ (,2.0 3 109/L); platelets , 100,000/mm³ (,100 3 109/L); AST or ALT . 1.5 3 upper limit of normal (ULN); alkaline phosphatase . 2.5 3 ULN; total serum bilirubin . 1.25 3 ULN; serum creatinine . 1.25 3 ULN; or estimated creatinine clearance , 60 mL/min as calculated using the method standard for the institution; severe and relevant co-morbidity that would interact with the participation in the study; no evidence for infection including wound infections, HIV, or any type of Hepatitis; QTc # 480 msec; no uncontrolled electrolyte disorders (eg, hypocalcemia, hypokalemia, and hypomagnesemia); no myocardial infarction, severe or unstable angina, ongoing cardiac dysrhythmias of National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 grade $ 2, atrial ﬁbrillation of any grade, coronary or peripheral artery bypass graft, symptomatic congestive heart failure, cerebrovascular accident including transient ischemic attack, or symptomatic pulmonary embolism within 6 months of random assignment; no active inﬂammatory bowel disease or chronic diarrhea, short bowel syndrome, or any upper GI surgery including gastric resection; no previous malignancy (including invasive or ductal in situ breast cancer) within 5 years before random assignment, except curatively treated basal cell carcinoma of the skin and carcinoma in situ of the cervix; no current severe acute or uncontrolled chronic systemic disease (eg, diabetes mellitus) or psychiatric condition or laboratory abnormality that may increase the risk associated with study participation or investigational product administration or may interfere with the interpretation of study results and, in the judgment of the investigator, would make the patient inappropriate for entry into this study; no recent (within the past year) or active suicidal behavior; no pregnancy or lactation period (women of childbearing potential had to implement adequate nonhormonal contraceptive measures during study treatment and for 90 days after discontinuation, negative serum pregnancy test in premenopausal women or women with amenorrhea of , 12 months); no major surgery within 2 weeks before random assignment; no previous treatment with any cyclin-dependent kinase 4 and 6 inhibitor; no treatment within the last 7 days before random assignment with and/or concurrent use of drugs known to be strong CYP3A4 inhibitors or inducers; no concurrent treatment with other experimental drugs; and no participation in another clinical trial with any investigational not marketed drug within 30 days before random assignment. CPS-EG score for the inclusion was calculated according to the following table: 
+
+Objectives and end points. Among other end points, distant disease-free survival was deﬁned as the time period between random assignment and diagnosis of any distant recurrence of disease, any second primary invasive cancer (nonbreast), or death because of any cause, whichever occurs ﬁrst; overall survival was deﬁned as the time period in months between random assignment and death because of any cause; locoregional relapse-free interval was deﬁned as the time period in months between random assignment and diagnosis of any stand-alone locoregional (ipsilateral breast (invasive or ductal 
+
+Clinical stage 
+
+Points 
+
+I 
+
+T1N0; T0N1mi; T1N1mi 
+
+0 
+
+IIA 
+
+T0N1; T1N1; T2N0 
+
+0 
+
+IIB 
+
+T2N1; T3N0 
+
+1 
+
+IIIA 
+
+T0-2N2 
+
+1 
+
+IIIB 
+
+T4N0-2 
+
+2 
+
+IIIC 
+
+Any T N3 
+
+2 
+
+Pathologic stage after neoadjuvant chemotherapy 0 
+
+T0/isN0 
+
+0 
+
+I 
+
+T1N0; T0N1mi; T1N1mi 
+
+0 
+
+IIA 
+
+T0N1; T1N1; T2N0 
+
+1 
+
+IIB 
+
+T2N1; T3N0 
+
+1 
+
+IIIA 
+
+T0-2 N2; T3N1-2 
+
+1 
+
+IIIB 
+
+T4 N0-2 
+
+1 
+
+IIIC 
+
+Any T N3 
+
+2 
+
+Tumor biologic factors ER-negative 
+
+1 
+
+Nuclear grade 3 
+
+1 
+
+According to Mittendorf et al.3 
+
+carcinoma in situ) and local or regional lymph nodes) recurrence of disease or any stand-alone invasive contralateral breast cancer, whichever occurs ﬁrst; distant recurrence, second primary invasive nonbreast cancers, and death were considered competing events. Relative total dose intensity (RTDI) is the total dose intensity within the entire treatment achieved by a patient relative to intended dose intensity based on the planned schedule of the treatment. RTDI was calculated according to the following step-by-step algorithm: Planned dose is the amount of a drug planned to be given in a cycle. Planned total dose is the planned cumulative dose over the entire treatment duration, ie, if a patient was planned to receive n cycles of drug, then sum the total amount of drug planned during those n cycles, n 
+
+ie; 
+
+PTDðmgÞ 5 
+
+å PD : 
+
+i 51 
+
+i 
+
+Planned total dose intensity (PTDI) is the planned average dose intensity over the entire treatment duration, ie; 
+
+PTDI ðmg=wkÞ 5 
+
+PTD : planned duration of therapy ðwkÞ 
+
+Actual dose is the total amount of drug that the patient has received over one cycle. Actual total dose (ATD) is the cumulative dose of the drug that has been given over the treatment duration of n cycles, n 
+
+ie; 
+
+ATD ðmgÞ 5 
+
+å actual dose : 
+
+i 51 
+
+ATD is similar to the cumulative dose. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+i 
+
+Loibl et al 
+
+Actual total dose intensity (ATDI) is deﬁned as the dose intensity of what has actually been administered over the n cycles, ie; 
+
+ATDI ðmg=wkÞ 5 
+
+ATD : duration of therapy ðwkÞ 
+
+If a patient has not received the drug at all, ATDI is considered to be 0. RTDI is the ratio of ATDI and PTDI, expressed as a percentage (described as RDI in the study Protocol), ie; 
+
+RTDI ð%Þ 5 
+
+(continued) Restart Palbociclib/Placebo Treatment at 
+
+Toxicity Grade $ 3 nonhematologic toxicity (including nausea, vomiting, diarrhea, and hypertension only if persisting despite optimal medical treatment) 
+
+ATDI 3 100: PTDI 
+
+↓ 1 Dose level and ↓ additional Dose level if repeated toxicity in next cycle. Consider ↓ 2 Dose level if recovery from grade 3 delayed.a Consider introduction of 3 days of treatment break in the middle of the next cycle. 
+
+Note that RTDI expresses the effect of reductions, interruptions, and delays and premature discontinuation of a treatment. For patients who die during study treatment or who discontinue study treatment because of disease relapse or second primary invasive nonbreast cancers, in the calculation of the planned total dose and the planned total dose intensity, the planned number of weeks of the last cycle and remaining cycles was equal to the number of weeks actually completed and the remaining cycles were not counted. For all other patients who discontinued treatment prematurely, the actual dose of the remaining weeks was considered zero doses without delay. Available dose levels are as follows: 
+
+Dose Level 
+
+Palbociclib/Placebo for 3 of 4 Weeks (3/1 Schedule) 
+
+Starting dose 125 mg/d 21 
+
+100 mg/d 
+
+22 
+
+75 mg/da 
+
+Discontinue study treatment or consider 75 mg/d 2/2 schedule 
+
+Toxicity management is given as follows: Protocol A: Restart Palbociclib/Placebo Treatment at 
+
+Toxicity Any grade 2 toxicities for more than 3 weeks 
+
+↓ 1 Dose Level 
+
+Uncomplicated grade 3 neutropenia (ANC 500 to , 1,000/mm3) 
+
+Same dose level ↓ 1 Dose level if neutrophil recovery delayed 
+
+Grade 3 neutropenia (ANC , ↓ 1 Dose level; 1,000/mm3) associated with a ↓ 2 Dose levels if neutrophil documented infection or fever recovery delayeda $ 38.5°C Grade 4 neutropenia (ANC , 500/ ↓ 1 Dose level mm3) ↓ 2 Dose levels if neutrophil recovery delayed,a consider in addition, introduction of 3 days of treatment break in the middle of the next cycle. Grade 3 or grade 4 thrombocytopenia (platelet count , 50,000/mm3) 
+
+↓ 1 Dose levelb 
+
+(continued in next column) 
+
+Protocol G11: 
+
+Toxicity 
+
+First Episode 
+
+Second Episode 
+
+Subsequent Episodes 
+
+Uncomplicated grade Same dose Same DL 3 neutropenia level (DL) (ANC 500 to , 1,000/mm3) with recovery to # grade 2 until planned D1 of next cycle 
+
+Same DL 
+
+Uncomplicated grade Reduce to dose 3 or 4 neutropenia level-1 without recovery to (DL-1) # grade 2 at planned D1 of next cycle Uncomplicated grade 4 neutropenia (ANC , 500/mm3) with recovery to # grade 2 until planned D1 of next cycle 
+
+DL-1 and break from day 10-12 
+
+DL-2 and break from day 10 to 12. Next episode is stopped or continued with 2 weeks treatment and 2 weeks holiday 
+
+Neutropenia grade 3 DL-1 and or 4 associated with either a documented break from day infection; 10-12 or Febrile neutropenia 2 week Thrombocytopenia grade 3 or 4 drug holiday 
+
+DL-2 and either break from day 10-12 or 2 week drug holiday 
+
+Stop 
+
+Any grade 2 toxicities DL-1 for more than 3 weeks (except for neutropenia or alopecia) 
+
+DL-2 
+
+Stop 
+
+DL-2 Consider break from day 10-12 Consider DL-2 for 2 weeks or 2 weeks holiday if recovery is delayed 
+
+Stop 
+
+Nonhematologic toxicity grade 3 or 4 (including nausea, vomiting, diarrhea, and hypertension only if persisting despite optimal medical treatment; nonincluding alopecia) 
+
+DL-1 Consider break from day 10-12 Consider DL-2 for 2 weeks or 2 weeks holiday if recovery is delayed 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+Method for sample size re-estimation. The study design in the PENELOPEB trial included the possibility of a sample size re-estimation (SSR) to increase the number of events based on the result of the ﬁrst interim analysis. For the decision about the SSR, the promising zone10 for the possible outcomes of the interim analysis was deﬁned based on conditional power (the probability of achieving statistical signiﬁcance at the end of the trial, given the interim analysis’ result) to be ranging from 30% conditional power (lower limit) to 85% conditional power (upper limit). In case the results of the ﬁrst interim analysis fall in the promising zone, it was planned to perform a ﬁxed sample size increase to a predeﬁned maximum 
+
+number of events, to prevent reverse engineering, the possibility to back calculate the interim analysis treatment effect on the basis of the increase of events. An upper limit of approximately 14% increase from the planned number of 255 events to a maximum number of 290 events was deﬁned, corresponding to a maximum sample size of 1,250 patients. The ﬁrst interim analysis was performed by an unblinded statistician providing the results to the Independent Data Monitoring Committee where the decision about the SSR was made based on predeﬁned rules determined in the Independent Data Monitoring Committee charter. The study team remained blinded to the interim result. 
+
+TABLE A1. Overview of First Endocrine Therapy by Menopausal Status, ITT Analysis Set Premenopausal (n 5 616), No. (Valid %) 
+
+Postmenopausal (n 5 634), No. (Valid %) 
+
+Overall (N 5 1,250), No. (Valid %) 
+
+P 
+
+Started ET before palbociclib/placebo 
+
+558 (90.6) 
+
+559 (88.2) 
+
+1,117 (89.4) 
+
+.170 
+
+Concomitant start of ET and palbociclib/placebo 
+
+58 (9.4) 
+
+75 (11.8) 
+
+133 (10.6) 
+
+526 (85.4) 
+
+96 (15.1) 
+
+622 (49.8) 
+
+AI 6 ovarian suppression 
+
+90 (14.6) 
+
+538 (84.9) 
+
+628 (50.2) 
+
+Additional ovarian ablation 
+
+203 (33.0) 
+
+18 ( 2.8) 
+
+221 (17.7) 
+
+First Endocrine Therapy 
+
+First ET applied Tamoxifen 6 ovarian suppression 
+
+Abbreviations: AI, aromatase inhibitor; ET, endocrine treatment; ITT, intent-to-treat. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+, .001 
+
+Loibl et al 
+
+TABLE A2. Participating Investigators (the following investigators have contributed patients to the Penelope-B study) Organization 
+
+Department 
+
+City 
+
+Country 
+
+First Name 
+
+Last Name 
+
+No. of Patients 
+
+Universitätsklinikum Hamburg-Eppendorf 
+
+Klinik und Poliklinik für Gynäkologie Hamburg 
+
+Germany 
+
+Isabell 
+
+Witzel 
+
+9 
+
+Universitätsklinikum Heidelberg 
+
+NCT, Gynäkologische Onkologie 
+
+Germany 
+
+Andreas 
+
+Schneeweiss 
+
+34 
+
+Heidelberg 
+
+Universitätsklinikum Mannheim GmbH 
+
+Frauenklinik 
+
+Mannheim 
+
+Germany 
+
+Frederik 
+
+Marmé 
+
+1 
+
+Universitätsmedizin Mainz, Klinik für Gynäkologie und Frauenheilkunde 
+
+Gebäude 102, Raum 502 (EG) 
+
+Mainz am Rhein 
+
+Germany 
+
+Marcus 
+
+Schmidt 
+
+3 
+
+Rotkreuzklinikum München 
+
+Frauenklinik 
+
+München 
+
+Germany 
+
+Claus 
+
+Hanusch 
+
+16 
+
+Klinikum rechts der Isar der Techn. Univ. München Frauenklinik, Studienzentrale (Zi 1.31) 
+
+München 
+
+Germany 
+
+Stefan 
+
+Paepke 
+
+4 
+
+Klinikum am Steinenberg 
+
+Frauenklinik 
+
+Reutlingen 
+
+Germany 
+
+Martina 
+
+Negwer 
+
+2 
+
+Agaplesion Ev. Klinikum Schaumburg 
+
+Frauenklinik 
+
+Obernkirchen 
+
+Germany 
+
+Sabine 
+
+Lemster 
+
+1 
+
+Universitätsklinikum Münster 
+
+Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe 
+
+Münster 
+
+Germany 
+
+Joke 
+
+Tio 
+
+6 
+
+Klinikum Südstadt 
+
+Universitätsfrauenklinik 
+
+Rostock 
+
+Germany 
+
+Toralf 
+
+Reimer 
+
+4 
+
+Klinikum Kassel GmbH 
+
+Frauenklinik 
+
+Kassel 
+
+Germany 
+
+Gabriele 
+
+FeiselSchwickardi 
+
+4 
+
+ViDia Christliche Kliniken/St Vincentius-Kliniken 
+
+Klinik für Gynäkologie und Geburtshilfe 
+
+Karlsruhe 
+
+Germany 
+
+Oliver 
+
+Tomé 
+
+5 
+
+Universitätsklinikum Ulm 
+
+Frauenklinik 
+
+Ulm 
+
+Germany 
+
+Jens 
+
+Huober 
+
+12 
+
+Praxis für Frauenheilkunde und Geburtshilfe 
+
+Facharzt für Frauenheilkunde und Geburtshilfe 
+
+Wunstorf 
+
+Germany 
+
+Guido 
+
+Süttmann 
+
+1 
+
+DIAKOVERE Henriettenstift Gynäkologie 
+
+Frauenklinik 
+
+Hannover 
+
+Germany 
+
+Kristina Maria 
+
+Lübbe 
+
+11 
+
+Universitätsklinikum Schleswig-Holstein 
+
+Klinik für Gynäkologie und Geburtshilfe SGO Kiel 
+
+Kiel 
+
+Germany 
+
+Marion Tina 
+
+van Mackelenbergh 
+
+12 
+
+Sana Klinikum Offenbach GmbH 
+
+Frauenklinik, Studienambulanz AOZ 
+
+Offenbach am Main 
+
+Germany 
+
+Christian 
+
+Jackisch 
+
+8 
+
+Brustzentrum Mittelthüringen 
+
+Onkologische Praxis 
+
+Gemeinschaftspraxis für Hämatologie und Onkologie 
+
+Mühlhausen 
+
+Germany 
+
+Stefﬁ 
+
+Busch 
+
+1 
+
+Langen 
+
+Germany 
+
+Roswitha 
+
+Fuchs 
+
+2 
+
+Klinikum Bremen Mitte 
+
+Klinik für Gynäkologie und Geburtshilfe 
+
+Bremen 
+
+Germany 
+
+Mustafa 
+
+Aydogdu 
+
+2 
+
+Kliniken Essen-Mitte Evang. Huyssens-Stiftung/ Knappschaft GmbH 
+
+Klinik für Senologie/Brustzentrum 
+
+Essen 
+
+Germany 
+
+Sherko 
+
+Kümmel 
+
+16 
+
+Klinikum Hanau GmbH 
+
+Frauenklinik 
+
+Hanau 
+
+Germany 
+
+Thomas 
+
+Müller 
+
+4 
+
+Universitätsklinikum Carl Gustav Carus an der Technischen Universität Dresden 
+
+Frauenklinik 
+
+Dresden 
+
+Germany 
+
+Theresa 
+
+Link 
+
+16 
+
+Klinikum Rosenheim 
+
+Abt. Gynäkologie u. Geburtshilfe 
+
+Rosenheim 
+
+Germany 
+
+Andreas 
+
+Schnelzer 
+
+1 
+
+Charité Universitätsmedizin Campus Charité Mitte 
+
+Klinik für Gynäkologie & Brustzentrum 
+
+Berlin 
+
+Germany 
+
+Jens-Uwe 
+
+Blohmer 
+
+2 
+
+Evangelisches Krankenhaus 
+
+Klinik für Senologie 
+
+Gelsenkirchen 
+
+Germany 
+
+Hans Holger 
+
+Fischer 
+
+6 
+
+Universitätsklinikum Tübingen 
+
+Frauenklinik 
+
+Tübingen 
+
+Germany 
+
+Eva-Maria 
+
+Grischke 
+
+6 
+
+g.SUND Gynäkologie Kompetenzzentrum Stralsund Studiensekretariat 
+
+Stralsund 
+
+Germany 
+
+Carsten 
+
+Hielscher 
+
+1 
+
+Kreiskrankenhaus Torgau 
+
+Gynäkologie 
+
+Torgau 
+
+Germany 
+
+Eike 
+
+Simon 
+
+4 
+
+SRH Wald-Klinikum Gera GmbH 
+
+Gera Zentrum für klinische Studien; Standort 1/Hauptgebäude/Ebene 1 
+
+Germany 
+
+Dirk-Michael 
+
+Zahm 
+
+9 
+
+DONAUISAR Klinikum Deggendorf 
+
+Abt. f. Senologie, Mammazentrum 
+
+Deggendorf 
+
+Germany 
+
+Sara 
+
+Tato-Varela 
+
+4 
+
+HELIOS Dr Horst Schmidt Kliniken Wiesbaden 
+
+Klinik für Gynäkologie und Wiesbaden gynäkologischen Onkologie Zentrallager, Weiterleitung an Studiensekr., Fr. Sabine Schoen, Station A63 Raum 06 A3 05 oder 06 A3 06 
+
+Germany 
+
+Tatjana 
+
+Cordes 
+
+4 
+
+Schwerpunktpraxis 
+
+der Gynäkologie und Onkologie 
+
+Fürstenwalde 
+
+Germany 
+
+Georg 
+
+Heinrich 
+
+7 
+
+Vinzenz-von-Paul-Kliniken, Marienhospital 
+
+Frauenklinik 
+
+Stuttgart 
+
+Germany 
+
+Manfred 
+
+Hofmann 
+
+9 
+
+(continued on following page) 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+TABLE A2. Participating Investigators (the following investigators have contributed patients to the Penelope-B study) (continued) Organization 
+
+Department 
+
+City Frankfurt am Main 
+
+Country Germany 
+
+First Name Joachim 
+
+Last Name Rom 
+
+No. of Patients 
+
+Klinikum Frankfurt Höchst GmbH 
+
+Klinik für Gynäkologie und Geburtshilfe 
+
+4 
+
+MediOnko-Institut GbR 
+
+Praxisklinik Krebsheilkunde 
+
+Berlin 
+
+Germany 
+
+Peter 
+
+Klare 
+
+9 
+
+Johanniter-Krankenhaus Genthin-Stendal 
+
+Klinik für Frauenheilkunde und Geburtshilfe 
+
+Stendal 
+
+Germany 
+
+Andrea 
+
+Stefek 
+
+1 
+
+Heinrich-Heine-Universität Düsseldorf 
+
+Frauenklinik 
+
+Düsseldorf 
+
+Germany 
+
+Eugen 
+
+Ruckhäberle 
+
+2 
+
+Ruppiner Kliniken 
+
+Frauenklinik 
+
+Neuruppin 
+
+Germany 
+
+Bernd 
+
+Christensen 
+
+2 
+
+HELIOS Klinikum Berlin Buch 
+
+Frauenklinik, Studiensekretariat, Brustzentrum, B2, Raum B2U012 
+
+Berlin 
+
+Germany 
+
+Michael 
+
+Untch 
+
+9 
+
+Kreiskliniken Böblingen gGmbH 
+
+Frauenklinik 
+
+Böblingen 
+
+Germany 
+
+Grischa 
+
+Wachsmann 
+
+6 
+
+MVZ in der Klinik Dr Hancken 
+
+Onkologie/Hämatologie 
+
+Stade 
+
+Germany 
+
+Johannes 
+
+Meiler 
+
+3 
+
+Centrum für Hämatologie und Onkologie am Bethanien-Krankenhaus 
+
+Onkologie/Tagesklinik 
+
+Frankfurt am Main 
+
+Germany 
+
+Hans 
+
+Tesch 
+
+17 
+
+Universitätsklinikum Erlangen 
+
+Frauenklinik mit Poliklinik 
+
+Erlangen 
+
+Germany 
+
+Peter 
+
+Fasching 
+
+7 
+
+Universitätsklinikum Essen 
+
+Klinik für Frauenheilkunde und Geburtshilfe; Brustzentrum, Studiensekretariat Raum 0.26 
+
+Essen 
+
+Germany 
+
+Oliver 
+
+Hoffmann 
+
+4 
+
+MVZ Nordhausen gGmbH im Südharz Krankenhaus 
+
+Frauenklinik 
+
+Nordhausen 
+
+Germany 
+
+Andrea 
+
+Grafe 
+
+3 
+
+Caritasklinik St Theresia 
+
+Frauenklinik 
+
+Saarbrücken 
+
+Germany 
+
+Mustafa 
+
+Deryal 
+
+7 
+
+Schwarzwald-Baar-Klinikum 
+
+Klinik für Frauenheilkunde und Geburtshilfe 
+
+VillingenSchwenningen 
+
+Germany 
+
+Judith 
+
+Maier Burgoa 
+
+2 
+
+Onkologische Schwerpunktpraxis 
+
+Studiengesellschaft Onkologie Bielefeld GbR 
+
+Bielefeld 
+
+Germany 
+
+Marianne 
+
+Just 
+
+10 
+
+Klinikum der Otto-v.-Guericke-Universität 
+
+Frauenklinik 
+
+Magdeburg 
+
+Germany 
+
+Franziska 
+
+Thele 
+
+2 
+
+Klinikum Wels-Grieskirchen GmbH 
+
+Abt. f. Innere Medizin IV 
+
+Wels-Grieskirchen 
+
+Österreich 
+
+Renate 
+
+Pusch 
+
+2 
+
+Brustzentrum Kärnten am Krankenhaus der Barmherzigen Brüder 
+
+Interne Abteilung 
+
+St Veit a. d. Glan 
+
+Österreich 
+
+Harald 
+
+Weiss 
+
+1 
+
+Christliches Klinikum Unna Mitte 
+
+Geburtshilﬂich-Gynäkologische Abteilung 
+
+Unna 
+
+Germany 
+
+Van Anh 
+
+Tran Nguyen 
+
+1 
+
+Ortenau Klinikum Offenburg-Kehl 
+
+Frauenklinik mit Brustzentrum 
+
+Offenburg 
+
+Germany 
+
+Matthias 
+
+Frank 
+
+7 
+
+Brustzentrum im Hanuschkrankenhaus 
+
+III. Med. Abteilung 
+
+Wien 
+
+Germany 
+
+Ursula 
+
+Selim 
+
+1 
+
+Gemeinschaftspraxis 
+
+Dres. Heinrich/Bangerter 
+
+Augsburg 
+
+Germany 
+
+Bernhard 
+
+Heinrich 
+
+8 
+
+Krankenhaus St Elisabeth und St Barbara Halle 
+
+Klinik für Gynäkologie und Geburtshilfe 
+
+Halle 
+
+Germany 
+
+Tilmann 
+
+Lantzsch 
+
+1 2 
+
+St Elisabeth-Krankenhaus 
+
+Brustzentrum Köln-Hohenlind 
+
+Köln 
+
+Germany 
+
+Gertrud 
+
+Helling-Giese 
+
+Klinikum Chemnitz 
+
+Frauenklinik 
+
+Chemnitz 
+
+Germany 
+
+Petra 
+
+Krabisch 
+
+3 
+
+Caritas-Krankenhaus St Josef 
+
+Klinik für Frauenheilkunde und Geburtshilfe 
+
+Regensburg 
+
+Germany 
+
+Stephan 
+
+Seitz 
+
+1 
+
+Klinikum Esslingen GmbH 
+
+Klinik für Frauenheilkunde, Brustzentrum 
+
+Esslingen am Neckar 
+
+Germany 
+
+Thorsten 
+
+Kühn 
+
+14 
+
+GOSPL - Gesellschaft für onkologische Studien 
+
+Hämatologie und Onkologie 
+
+Troisdorf 
+
+Germany 
+
+Helmut 
+
+Forstbauer 
+
+1 
+
+Cardiac Research/Onco Research/St Johannes Hospital 
+
+Klinische Forschung 
+
+Dortmund 
+
+Germany 
+
+Georg 
+
+Kunz 
+
+4 
+
+Düsseldorf 
+
+Germany 
+
+Maren 
+
+Darsow 
+
+7 
+
+Luisenkrankenhaus GmbH & Co KG Johannes Wesling Klinikum Minden 
+
+Zentrum für Innere Medizin, Klinik für Hämatologie/Onkologie 
+
+Minden 
+
+Germany 
+
+Martin 
+
+Grießhammer 
+
+1 
+
+Hochwaldkrankenhaus, Gesundheitszentrum Wetterau gGmbH 
+
+Frauenklinik, Gynäkologie— Senologie 
+
+Bad Nauheim 
+
+Germany 
+
+Ulrich 
+
+Groh 
+
+4 
+
+Sana Klinikum Hameln-Pyrmont 
+
+Frauenklinik/Brustzentrum 
+
+Hameln 
+
+Germany 
+
+Thomas 
+
+Noesselt 
+
+3 
+
+Helios Klinikum Gifhorn 
+
+Interdisziplinäres Brustzentrum 
+
+Gifhorn 
+
+Germany 
+
+Thomas H. 
+
+Dewitz 
+
+2 
+
+Kliniken der Stadt Köln GmbH 
+
+Brustzentrum Köln-Holweide 
+
+Köln 
+
+Germany 
+
+Mathias 
+
+Warm 
+
+4 
+
+Gemeinschaftspraxis Dr Illmer, Dr Wolf, Dr Jacobasch, Dr Freiberg-Richter 
+
+Innere Medizin/Hämatologie 
+
+Dresden 
+
+Germany 
+
+Thomas 
+
+Illmer 
+
+1 
+
+(continued on following page) 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+TABLE A2. Participating Investigators (the following investigators have contributed patients to the Penelope-B study) (continued) Organization 
+
+Department 
+
+Klinikum Oldenburg AöR 
+
+City 
+
+Universitätsklinik für Innere Medizin Oldenburg - Onkologie und Hämatologie 
+
+Country 
+
+First Name 
+
+Last Name 
+
+No. of Patients 
+
+Germany 
+
+Claus-Henning 
+
+Köhne 
+
+3 
+
+Hämato-Onkologie im Medicum 
+
+Bremen 
+
+Germany 
+
+Ralf 
+
+Meyer 
+
+6 
+
+Robert-Bosch-Krankenhaus 
+
+Stuttgart 
+
+Germany 
+
+Andreas 
+
+Gerteis 
+
+4 
+
+Gemeinschaftspraxis für Gynäkologie und Geburtshilfe 
+
+Salzgitter 
+
+Germany 
+
+Wolfgang 
+
+Dietz 
+
+2 
+
+Diakonissen-Stiftungs-Krankenhaus Speyer 
+
+Klinik für Gynäkologie und Geburtshilfe/ Studienmanagement 
+
+Speyer 
+
+Germany 
+
+Anette 
+
+Ligl-Löhner 
+
+1 
+
+Leopoldina-Krankenhaus der Stadt Schweinfurt 
+
+Frauenklinik 
+
+Schweinfurt 
+
+Germany 
+
+Michael 
+
+Weigel 
+
+3 
+
+Gynäkologisches Zentrum Schwerpunkt Gyn. Onkologie 
+
+Gynäkol. Onkologie 
+
+Bonn 
+
+Germany 
+
+Christian 
+
+Kurbacher 
+
+1 
+
+Gemeinschaftspraxis Saarbrücken 
+
+Drs. Hauptmann, Wagner, Brandner 
+
+Saarbrücken 
+
+Germany 
+
+Steffen 
+
+Wagner 
+
+5 
+
+Klinikum Darmstadt 
+
+Frauenklinik 
+
+Darmstadt 
+
+Germany 
+
+Sven 
+
+Ackermann 
+
+3 
+
+Marienhospital Bottrop gGmbH 
+
+Klinik f. Gynäkologie u. Geburtshilfe Bottrop 
+
+Germany 
+
+Hans-Christian 
+
+Kolberg 
+
+2 
+
+Studienzentrum Onkologie Ravensburg 
+
+Fachärzte für Innere Medizin, Hämatologie und Onkologie 
+
+Germany 
+
+Thomas 
+
+Decker 
+
+6 
+
+Ravensburg 
+
+Klinikum Ludwigsburg 
+
+Frauenklinik 
+
+Ludwigsburg 
+
+Germany 
+
+Claudia 
+
+Hänle 
+
+2 
+
+Praxis Dr B. Adhami 
+
+Facharzt für Frauenheilkunde und Geburtshilfe 
+
+Erkelenz 
+
+Germany 
+
+Barmak 
+
+Adhami 
+
+2 
+
+Koblenz am Rhein 
+
+Germany 
+
+Jörg 
+
+Thomalla 
+
+5 
+
+Österreich 
+
+Daniel 
+
+Egle 
+
+1 
+
+Institut für Versorgungsforschung in der Onkologie Praxisklinik für Hämatologie und Onkologie Universitäts Klinikum Innsbruck 
+
+Klinische Abteilung für Gynäkologie Innsbruck und Geburtshilfe 
+
+Oncologianova GmbH 
+
+Onkologie 
+
+Gynäkologische Schwerpunktpraxis 
+
+Recklinghausen 
+
+Deutschland 
+
+Till-Oliver 
+
+Emde 
+
+9 
+
+Wolfenbüttel 
+
+Germany 
+
+Walter 
+
+Dallacker 
+
+1 
+
+St Josef KH 
+
+Brustgesundheitszentrum— Vinzenzgruppe Wien 
+
+Wien 
+
+Österreich 
+
+Leopold 
+
+Öhler 
+
+4 
+
+KH Hietzing Wien 
+
+Gyn. Abt.; Karl Landsteiner Institut f. Wien gyn. Onkologie 
+
+Österreich 
+
+Paul 
+
+Sevelda 
+
+3 
+
+Österreich 
+
+Vesna 
+
+Bjelic-Radisic 
+
+2 
+
+MedUni Graz—Univ-. Klinik f. Frauenheilkunde u. Klin. Abt. f. Gynäkologie Geb.hilfe 
+
+Graz 
+
+MedUni Graz—Med. Univ.-Klinik 
+
+Klin. Abt. f. Onkologie 
+
+Graz 
+
+Österreich 
+
+Herbert 
+
+Stöger 
+
+2 
+
+LKH Rottenmann 
+
+Chir. Abteilung 
+
+Rottenmann 
+
+Österreich 
+
+Dieter 
+
+Gunegger 
+
+1 
+
+Ballarat Oncology and Haematology Services 
+
+Wendouree 
+
+Australia 
+
+George 
+
+Kannourakis 
+
+1 
+
+Cabrini Hospital 
+
+Brighten 
+
+Australia 
+
+Yoland 
+
+Antill 
+
+15 
+
+Icon Cancer Care Wesley 
+
+Wesley Medical Center 
+
+Macarthur Cancer Therapy Center Maroondah Hospital 
+
+Maroondah Breast Clinic 
+
+Mater Adult Hospital, Brisbane 
+
+Division of Cancer Services 
+
+Mater Hospital, Sydney 
+
+Auchenﬂower 
+
+Australia 
+
+Nicole 
+
+McCarthy 
+
+1 
+
+Campbelltown 
+
+Australia 
+
+Belinda 
+
+Kiely 
+
+7 
+
+Ringwood East 
+
+Australia 
+
+Jacqueline 
+
+Chirgwin 
+
+7 
+
+South Brisbane 
+
+Australia 
+
+Natasha 
+
+Woodward 
+
+10 
+
+North sydney 
+
+Australia 
+
+Frances 
+
+Boyle 
+
+14 
+
+Monash Health 
+
+Clinical Trial Center, Level 7 
+
+Clayton 
+
+Australia 
+
+Michelle 
+
+White 
+
+12 
+
+Royal Adelaide Hospital 
+
+Medical Oncology 
+
+Adelaide 
+
+Australia 
+
+Nick 
+
+Murray 
+
+1 
+
+Royal Brisbane and Women’s Hospital 
+
+Cancer Care Services 
+
+Herston, Brisbane 
+
+Australia 
+
+Po-ling 
+
+Inglis 
+
+1 
+
+Fiona Stanley Hospital 
+
+Dept. Oncology 
+
+Royal Prince Alfred Hospital/Chris O’Brien Lifehouse 
+
+Murdoch 
+
+Australia 
+
+Andrew 
+
+Redfern 
+
+6 
+
+Camperdown 
+
+Australia 
+
+Jane 
+
+Beith 
+
+4 
+
+Victorian Breast & Oncology Care 
+
+Victorian Breast & Oncology Care 
+
+East Melbourne 
+
+Australia 
+
+Mitchell 
+
+Chipman 
+
+8 
+
+Sunshine Hospital 
+
+Department of Cancer 
+
+St Albans 
+
+Australia 
+
+Catherine 
+
+Oakman 
+
+2 
+
+Hospital Teresa Herrera, Complejo Hospitalario A Coruña 
+
+Servicio de Oncologı́a 
+
+A Coruña 
+
+Spain 
+
+Lourdes 
+
+Calvo Martı́nez 
+
+8 
+
+Jaen 
+
+Spain 
+
+Maria 
+
+Lomas Garrido 
+
+2 
+
+Complejo Hospitalario de Jaen 
+
+(continued on following page) 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+TABLE A2. Participating Investigators (the following investigators have contributed patients to the Penelope-B study) (continued) Organization 
+
+Department 
+
+City 
+
+Servicio de Oncologı̀a Médica 
+
+Hospital Gregorio Marañon 
+
+Country 
+
+First Name 
+
+Last Name 
+
+No. of Patients 
+
+Madrid 
+
+Spain 
+
+Miguel 
+
+Martin 
+
+Hospital Clinic i Provincial 
+
+Barcelona 
+
+Spain 
+
+Montserrat 
+
+Muñoz Mateu 
+
+4 
+
+Hospital Universitario de Canarias 
+
+Tenerife 
+
+Spain 
+
+Joseﬁna 
+
+Cruz Jurado 
+
+17 
+
+HU ARNAU DE VILANOVA 
+
+11 
+
+Lleida 
+
+Spain 
+
+Seraﬁn 
+
+Morales 
+
+1 
+
+Servicio Oncologı́a Planta sotano 
+
+Cordoba 
+
+Spain 
+
+Juan 
+
+de la Haba Rodriguez 
+
+12 
+
+Murcia 
+
+Spain 
+
+Jose Luis 
+
+Alonso Romero 
+
+8 
+
+Centro de Investigacı́on Clinica e Área de Salud de Badajoz Planta Semisótano 
+
+Badajoz 
+
+Spain 
+
+Juan Ignacio 
+
+Delgado Mingorance 
+
+5 
+
+Caceres 
+
+Spain 
+
+Santiago 
+
+González Santiago 
+
+6 
+
+Clinica del Servicio de Oncologia Medica 
+
+Valencia 
+
+Spain 
+
+Amparo 
+
+Ruiz Simon 
+
+12 
+
+Hospital Parc Tauli 
+
+Sabadell 
+
+Spain 
+
+Elsa 
+
+Dalmau Portulas 
+
+9 
+
+Hospital Clinico Universitario Virgen De La Victoria 
+
+Malaga 
+
+Spain 
+
+Emilio 
+
+Alba Conejo 
+
+14 
+
+Seoul National University Hospital 
+
+Seoul 
+
+Korea, Republik (Südkorea) 
+
+Seock-Ah 
+
+Im 
+
+22 
+
+Asan Medical Center 
+
+Seoul 
+
+Korea, Republik (Südkorea) 
+
+Sung-Bae 
+
+Kim 
+
+28 
+
+Kyoto University Hospital 
+
+Kyoto 
+
+Japan 
+
+Masahiro 
+
+Takada 
+
+3 
+
+Tsukuba University Hospital 
+
+Nagoya 
+
+Japan 
+
+Hiroko 
+
+Bando 
+
+7 
+
+Chiba Cancer Center 
+
+Chiba 
+
+Japan 
+
+Naohito 
+
+Yamamoto 
+
+12 
+
+Tokyo Metropolitan Komagome Hospital 
+
+Tokyo 
+
+Japan 
+
+Tomoyuki 
+
+Aruga 
+
+7 
+
+National Hospital Organization Osaka National Hospital 
+
+Osaka 
+
+Japan 
+
+Masuda 
+
+Norikazu 
+
+6 
+
+Hospital Reina Soﬁa Hospital Clinico Univ Virgen de la Arrixaca Hospital Universitario Infanta Cristina 
+
+Hospital San Pedro de Alcantara Instituto Valenciano Oncologia 
+
+National Kyushu Cancer Center Institut Bergonié 
+
+Oncologie Médicale 
+
+Fukuoka 
+
+Japan 
+
+Eriko 
+
+Tokunaga 
+
+10 
+
+Bordeaux 
+
+Frankreich/France 
+
+Hervè, Renè, Claude 
+
+Bonnefoi 
+
+19 1 
+
+CHD Vendee - Service Onco-hematologie 
+
+La Roche-sur-Yon 
+
+Frankreich/France 
+
+Tifenn 
+
+l\\9Haridon 
+
+Center Georges François Leclerc 
+
+Dijon 
+
+Frankreich/France 
+
+Bruno 
+
+Coudert 
+
+8 
+
+Strasbourg 
+
+Frankreich/France 
+
+Thierry 
+
+Petit 
+
+1 
+
+Center Paul Strauss 
+
+Oncologie Médicale 
+
+Institut Sainte Catherine 
+
+Avignon 
+
+Frankreich/France 
+
+Julien 
+
+Grenier 
+
+1 
+
+Center Alexis Vautrin, Institut cancérologie de Lorraine 
+
+Vandœuvre-lèsNancy 
+
+Frankreich/France 
+
+Elisabeth 
+
+Luporsi 
+
+1 
+
+CHU Limoges 
+
+Limoges 
+
+Frankreich/France 
+
+Laurence 
+
+Venat-Bouvet 
+
+6 
+
+Hôpital René Huguenin/Institut Curie 
+
+Saint-Cloud 
+
+Frankreich/France 
+
+Etienne 
+
+Brain 
+
+10 
+
+Clinique Mutualiste de l\\9Estuaire 
+
+Saint-Nazaire 
+
+Frankreich/France 
+
+Valérie 
+
+Delecroix 
+
+1 
+
+Center François Baclesse 
+
+Caen 
+
+Frankreich/France 
+
+Christelle 
+
+Levy 
+
+5 9 
+
+Center Eugène Marquis 
+
+Rennes 
+
+Frankreich/France 
+
+Thibault 
+
+De la Motte Rouge 
+
+Center Henri Becquerel 
+
+Rouen 
+
+Frankreich/France 
+
+Cristian 
+
+Moldovan 
+
+6 
+
+CHU Brest Morvan, ICH, Bat 3 
+
+Brest 
+
+Frankreich/France 
+
+Hélène 
+
+Simon 
+
+5 
+
+Hopitaux Universitaires de Strasbourg 
+
+Strasbourg 
+
+Frankreich/France 
+
+JeanEmmanuel 
+
+Kurtz 
+
+7 
+
+Hospital Universitario Ramón y Cajal 
+
+Madrid 
+
+Spain 
+
+Noelia 
+
+Martinez Janez 
+
+22 
+
+Hospital Germans Trias i Pujol 
+
+Badalona 
+
+Spain 
+
+Mireia 
+
+Margeli Vila 
+
+9 
+
+H. Santa Creu I Sant Pau 
+
+Barcelona 
+
+Spain 
+
+Agusti 
+
+Barnadas Molins 
+
+5 
+
+Bilbao 
+
+Spain 
+
+Puriﬁcación 
+
+Martı́nez Del Prado 
+
+6 
+
+Valencia 
+
+Spain 
+
+Ana 
+
+Santaballa Bertrán 
+
+4 
+
+Hospital Universitario Basurto Hospital Universitario La Fe 
+
+Servicio de Oncologı́a médica 
+
+Hospital Universitario Miguel Servet 
+
+Zaragoza 
+
+Spain 
+
+Antonı́o 
+
+Antón Torres 
+
+18 
+
+Center Catherine de Sienne 
+
+Nantes 
+
+Frankreich/France 
+
+Alain 
+
+Lortholary 
+
+6 
+
+(continued on following page) 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Loibl et al 
+
+TABLE A2. Participating Investigators (the following investigators have contributed patients to the Penelope-B study) (continued) Organization 
+
+Department 
+
+City 
+
+Institut Claudius Regaud 
+
+Country 
+
+First Name 
+
+Last Name 
+
+No. of Patients 
+
+Toulouse 
+
+Frankreich/France 
+
+Florence 
+
+Dalenc 
+
+11 
+
+Medical University of Vienna 
+
+Brustambulanz AKH Wien 
+
+Wien 
+
+Österreich 
+
+Günther 
+
+Steger 
+
+3 
+
+Ordensklinikum Linz 
+
+Internal Medicine I: Medical Oncology and Hematology 
+
+Linz 
+
+Österreich 
+
+Andreas 
+
+Petzer 
+
+3 
+
+Salzburg 
+
+Univ. Klinik für Innere Medizin III 
+
+Österreich 
+
+Richard 
+
+Greil 
+
+2 
+
+Department of Medical Oncology C Iowa City 32 GH 
+
+United States 
+
+Mark 
+
+Karwal 
+
+2 
+
+Hillman Cancer Center 
+
+Pittsburgh 
+
+United States 
+
+Adam 
+
+Brufsky 
+
+2 
+
+UPMC Cancer Center McKeesport 
+
+McKeesport 
+
+United States 
+
+Adam 
+
+Brufsky 
+
+2 
+
+University of Iowa Hospitals and Clinics 
+
+Magee Women’s Hospital of UPMC 
+
+Pittsburgh 
+
+United States 
+
+Adam 
+
+Brufsky 
+
+3 
+
+UPMC Cancer Center Passavant (OHA) 
+
+Pittsburgh 
+
+United States 
+
+Adam 
+
+Brufsky 
+
+1 
+
+SMBD Jewish General Hosptial 
+
+Montreal 
+
+Canada 
+
+Jean-Francois 
+
+Boileau 
+
+3 
+
+Stefanie Spielman Comprehensive Breast Center 
+
+Columbus 
+
+United States 
+
+William B. 
+
+Farrar 
+
+6 
+
+Rush University Medical Center 
+
+Chicago 
+
+United States 
+
+Melody 
+
+Cobleigh 
+
+1 
+
+McGill University Health Centre-Montreal General Hospital 
+
+Montreal 
+
+Canada 
+
+Michael 
+
+Thirlwell 
+
+4 
+
+Cross Cancer Institute 
+
+Edmonton 
+
+Canada 
+
+Karen 
+
+King 
+
+8 
+
+Rex Cancer Center 
+
+Raleigh 
+
+United States 
+
+Susan 
+
+Moore 
+
+2 
+
+Rex Cancer Center 
+
+Raleigh 
+
+United States 
+
+Susan 
+
+Moore 
+
+1 
+
+CHU de Québec - Hopital du SaintSacrementCentre des Maladies du Sein Deschênes-Fabia 
+
+Quebec City 
+
+Canada 
+
+Louise 
+
+Provencher 
+
+19 
+
+Breast Cancer Care Consultants 
+
+Vancouver 
+
+Canada 
+
+Karen 
+
+Gelmon 
+
+18 
+
+Columbia University 
+
+New York 
+
+United States 
+
+Melissa 
+
+Accordino 
+
+9 
+
+Cleveland Clinic Foundation 
+
+Cleveland 
+
+United States 
+
+Jame 
+
+Abraham 
+
+2 
+
+Stanford University 
+
+Stanford 
+
+United States 
+
+Irene 
+
+Wapnir 
+
+6 
+
+UF Cancer Center at Orlando Health 
+
+Orlando 
+
+United States 
+
+Reagan 
+
+Rostorfer 
+
+7 
+
+Penn State Hershey Cancer Inst 
+
+Hershey 
+
+United States 
+
+Cristina 
+
+Truica 
+
+3 
+
+West Penn Hosptial 
+
+Pittsburgh 
+
+United States 
+
+Thomas 
+
+Julian 
+
+1 
+
+Covenant Health System dba Joe Arrington Cancer Research and Treatment Center 
+
+Lubbock 
+
+United States 
+
+Ibrahim 
+
+Shalaby 
+
+1 
+
+Virginia Commonwealth University Health System, Massey Cancer Center 
+
+Richmond 
+
+United States 
+
+Hetal 
+
+Vachhani 
+
+2 
+
+Center Hospitalier de l’Université de Montréal (CHUM)-Hôtel Dieu 
+
+Montreal 
+
+Canada 
+
+Andre 
+
+Robidoux 
+
+4 
+
+Long Beach Memorial 
+
+Long Beach 
+
+United States 
+
+Bichlien 
+
+Nguyen 
+
+2 
+
+Stroger Hospital 
+
+Chicago 
+
+United States 
+
+Thomas 
+
+Lad 
+
+3 
+
+University Hospitals Case Medical Center - Seidman Cancer Center 
+
+Cleveland 
+
+United States 
+
+Robert 
+
+Shenk 
+
+1 
+
+UHHS Westlake-Seidman Cancer Center 
+
+Westlake 
+
+United States 
+
+Robert 
+
+Shenk 
+
+1 
+
+UHHS Chagrin Highlands-Seidman Cancer Center 
+
+Orange Village 
+
+United States 
+
+Robert 
+
+Shenk 
+
+1 
+
+The Methodist Hospital 
+
+Houston 
+
+United States 
+
+Jenny 
+
+Chang 
+
+4 
+
+Avera Cancer Institute 
+
+Sioux Falls 
+
+United States 
+
+Amy 
+
+Krie 
+
+5 
+
+Colorado Cancer Research Program 
+
+Denver 
+
+United States 
+
+Keren 
+
+Sturtz 
+
+2 
+
+Providence Portland Medical Center 
+
+Portland 
+
+United States 
+
+Alison 
+
+Conlin 
+
+2 
+
+Kaiser Permanente 
+
+San Diego 
+
+United States 
+
+Jonathan 
+
+Polikoff 
+
+2 
+
+Kaiser Permanente 
+
+Riverside 
+
+United States 
+
+Jonathan 
+
+Polikoff 
+
+1 
+
+UC San Deigo Moores Cancer Center 
+
+La Jolla 
+
+United States 
+
+Anne 
+
+Wallace 
+
+1 
+
+UCSF 
+
+San Francisco 
+
+United States 
+
+Hope 
+
+Rugo 
+
+7 
+
+Swedish Cancer Institute 
+
+Seattle 
+
+United States 
+
+Henry 
+
+Kaplan 
+
+3 
+
+Loyola University Medical Center 
+
+Maywood 
+
+United States 
+
+Kathy 
+
+Albain 
+
+1 
+
+(continued on following page) 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 14 
+
+Palbociclib for Residual Invasive HR1 and HER22 Breast Cancer 
+
+TABLE A2. Participating Investigators (the following investigators have contributed patients to the Penelope-B study) (continued) Organization 
+
+Department 
+
+First Name 
+
+Last Name 
+
+No. of Patients 
+
+City 
+
+Country 
+
+University of Minnesota 
+
+Minneapolis 
+
+United States 
+
+Heather 
+
+Beckwith 
+
+Women and Infants Hospital-Breast Health Center 
+
+Providence 
+
+United States 
+
+William 
+
+Sikov 
+
+6 
+
+Blood and Cancer Ca 
+
+Laguna Hills 
+
+United States 
+
+Bichlien 
+
+Nguyen 
+
+1 
+
+3 
+
+Bon Secours Hospital 
+
+Cork 
+
+Ireland 
+
+Conleth 
+
+Murphy 
+
+4 
+
+St James’s Hospital 
+
+Dublin 
+
+Ireland 
+
+John 
+
+Kennedy 
+
+8 
+
+University Hospital Waterford 
+
+Waterford 
+
+Ireland 
+
+Miriam 
+
+O’Connor 
+
+2 
+
+Park Nicollet Frauenshuh Cancer Center 
+
+Saint Louis Park 
+
+United States 
+
+Michaela 
+
+Tsai 
+
+4 
+
+Minnesota Oncology Minneapolis 
+
+Minneapolis 
+
+United States 
+
+Michaela 
+
+Tsai 
+
+2 
+
+Hennepin County Medical Center 
+
+Minneapolis 
+
+United States 
+
+Michaela 
+
+Tsai 
+
+1 
+
+Cleveland Clinic Florida 
+
+Weston 
+
+United States 
+
+Jame 
+
+Abraham 
+
+3 
+
+Cancer Care Specialist of Central Illinois 
+
+Decatur 
+
+United States 
+
+James 
+
+Wade 
+
+1 
+
+West Virginia University 
+
+Morgantown 
+
+United States 
+
+Mohamad Adham 
+
+Salkeni 
+
+2 
+
+Royal Bournemouth Hospital 
+
+Bournemouth 
+
+Großbritannien/United Tamas Kingdom 
+
+Hickish 
+
+2 
+
+Western General Hospital 
+
+Edinburgh 
+
+Großbritannien/United Olga Kingdom 
+
+Oikonomidou 
+
+2 
+
+Tom Baker Cancer Center 
+
+Department of Medicine 
+
+Calgary 
+
+Canada 
+
+Alexander 
+
+Paterson 
+
+4 
+
+St Vincent’s Uni Hospital 
+
+Medical Oncology 
+
+Dublin 
+
+Ireland 
+
+Giuseppe 
+
+Gullo 
+
+9 
+
+Cork Uni Hospital 
+
+Oncology Dept 
+
+Cork 
+
+Ireland 
+
+Seamus 
+
+O’Reilly 
+
+5 
+
+Beaumont Hospital 
+
+Cancer Clinical Trials Unit 
+
+Dublin 
+
+Ireland 
+
+Patrick 
+
+Morris 
+
+2 
+
+Mater Misericordiae Uni Hospital 
+
+Oncology 
+
+Dublin 
+
+Ireland 
+
+Catherine 
+
+Kelly 
+
+8 
+
+Galway Uni Hospital 
+
+Oncology Dept 
+
+Galway 
+
+Ireland 
+
+Maccon 
+
+Keane 
+
+9 
+
+Louisville 
+
+United States 
+
+John 
+
+Hamm 
+
+1 
+
+Norton Healthcare Inc Barwon Health 
+
+Andrew Love Cancer Center 
+
+Geelong 
+
+Australia 
+
+Karen Louise 
+
+White 
+
+1 
+
+Hospital Universitario Clı́nico San Carlos 
+
+Servicio Oncologı́a 
+
+Madrid 
+
+Spain 
+
+José Ángel 
+
+Garcı́a Sáenz 
+
+28 
+
+Hosp San Joan de Reus 
+
+Reus 
+
+Spain 
+
+Kepa 
+
+Amillano Parraga 
+
+28 
+
+Hospital Universitario Virgen del Rocio 
+
+Sevilla 
+
+Spain 
+
+Manuel 
+
+Ruiz Borrego 
+
+10 
+
+Hospital Clı́nico Universitario de Valencia 
+
+Servicio de Oncologia Médica 
+
+Valencia 
+
+Spain 
+
+Begoña 
+
+Bermejo de las Heras 
+
+15 
+
+Hospital Vall d’Hebron 
+
+Servicio de Oncologia Medica 
+
+Barcelona 
+
+Spain 
+
+Meritxell 
+
+Bellet Ezquerra 
+
+9 
+
+Institut Curie 
+
+Paris 
+
+Frankreich/France 
+
+Paul 
+
+Cottu 
+
+12 
+
+Center Oscar Lambret 
+
+Lille 
+
+Frankreich/France 
+
+Audrey 
+
+Mailliez 
+
+6 
+
+Center Antoine Lacassagne 
+
+Nice 
+
+Frankreich/France 
+
+Jean Marc 
+
+Ferrero 
+
+2 
+
+Institut Jean Godinot 
+
+Reims 
+
+Frankreich/France 
+
+Christelle 
+
+Jouannaud 
+
+4 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.36 on October 10, 2022 from 139.226.100.036 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+ 

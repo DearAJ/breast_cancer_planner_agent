@@ -1,0 +1,405 @@
+VOLUME 24 䡠 NUMBER 36 䡠 DECEMBER 20 2006 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+From the Department of Medical Oncology, Institut Claudius Régaud, Toulouse; Department of Medical Oncology, Centre Georges-François Leclerc, Dijon; Department of Medical Oncology, Institut Gustave Roussy, Villejuif; Department of Medical Oncology, Centre François Baclesse, Caen; Department of Medical Oncology, Institut Sainte-Catherine, Avignon; Department of Medical Oncology, Centre Eugène Marquis, Rennes; Department of Medical Oncology, Centre Paul Papin, Angers; Department of Medical Oncology, Hospices Civils, Strasbourg; Department of Medical Oncology, Institut Paoli-Calmettes, Marseille; Department of Medical Oncology, Centre Hospitalier André Boulloche, Montbéliard; Department of Medical Oncology, Centre René Gauducheau, Nantes Saint-Herblain; Department of Medical Oncology, Centre Hospitalier de Bretagne Sud, Lorient; Department of Medical Oncology, Centre Oscar Lambret, Lille; Department of Medical Oncology, Centre Antoine Lacassagne, Nice; Fédération Nationale des Centres de Lutte Contre le Cancer; Department of Biostatistics, Institut Curie, Paris, France; Department of Medical Oncology, Centre Hospitalier Notre DameReine Fabiola, Charleroi; Department of Medical Oncology, Cliniques Universitaires Saint-Luc, Bruxelles; and the Department of Medical Oncology, Clinique Sainte-Elisabeth, Namur, Belgium. Submitted June 2, 2006; accepted October 5, 2006; published online ahead of print at www.jco.org on November 20, 2006. Supported in part by the Ligue Nationale Contre le Cancer, sanofi-aventis (France), Pfizer (France), and Amgen (France). Presented in oral format at the 27th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-11, 2004. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Address reprint requests to Henri Roché, MD, Department of Medical Oncology, Institut Claudius Régaud, 20 –24 rue du Pont Saint-Pierre, 31052 Toulouse, France; e-mail: roche.henri@claudiusregaud.fr. © 2006 by American Society of Clinical Oncology 0732-183X/06/2436-5664/$20.00 DOI: 10.1200/JCO.2006.07.3916 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Sequential Adjuvant Epirubicin-Based and Docetaxel Chemotherapy for Node-Positive Breast Cancer Patients: The FNCLCC PACS 01 Trial Henri Roché, Pierre Fumoleau, Marc Spielmann, Jean-Luc Canon, Thierry Delozier, Daniel Serin, Michel Symann, Pierre Kerbrat, Patrick Soulié, Françoise Eichler, Patrice Viens, Alain Monnier, Anita Vindevoghel, Mario Campone, Marie-Josèphe Goudier, Jacques Bonneterre, Jean-Marc Ferrero, Anne-Laure Martin, Jean Genève, and Bernard Asselain A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The PACS 01 trial compared six cycles of fluorouracil, epirubicin, and cyclophosphamide (FEC) with a sequential regimen of three cycles of FEC followed by three cycles of docetaxel (FEC-D) as adjuvant treatment for women with node-positive early breast cancer. Patients and Methods Between June 1997 and March 2000, 1,999 patients with operable node-positive breast cancer were randomly assigned to either FEC every 21 days for six cycles, or three cycles of FEC followed by three cycles of docetaxel, both given every 21 days. Hormone-receptor–positive patients received tamoxifen for 5 years after chemotherapy. The primary end point was 5-year disease-free survival (DFS). Results Median follow-up was 60 months. Five-year DFS rates were 73.2% with FEC and 78.4% with FEC-D (unadjusted P ⫽ .011; adjusted P ⫽ .012). Multivariate analysis adjusted for prognostic factors showed an 18% reduction in the relative risk of relapse with FEC-D. Five-year overall survival rates were 86.7% with FEC and 90.7% with FEC-D, demonstrating a 27% reduction in the relative risk of death (unadjusted P ⫽ .014; adjusted P ⫽ .017). The incidence of grade 3 to 4 neutropenia, the need for hematopoietic growth factor, and incidence of nausea/vomiting were higher with FEC. Docetaxel was associated with more febrile neutropenia in the fourth cycle, stomatitis, edema, and nail disorders. Though rare overall, there were fewer cardiac events after FEC-D (P ⫽ .03), attributable mainly to the lower anthracycline cumulative dose. Conclusion Sequential adjuvant chemotherapy with FEC followed by docetaxel significantly improves diseasefree and overall survival in node-positive breast cancer patients and has a favorable safety profile. J Clin Oncol 24:5664-5671. © 2006 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Anthracyclines and taxanes are the most active cytotoxic drugs for the treatment of breast cancer. In the adjuvant setting, the pivotal role of anthracyclinebased chemotherapy has been established in successive overviews by the Early Breast Cancer Trialists’ Collaborative Group.1 Compared with the combination of cyclophosphamide, methotrexate, and fluorouracil, anthracycline-based regimens reduce the annual breast cancer death rate by approximately 38% in women younger than 50 years, and by approximately 20% for those age 50 to 69 years. Taxanes were introduced in the 1990s for treatment of advanced breast cancer. First-line single- 
+
+agent docetaxel (D) 100 mg/m2 resulted in an overall response rate (ORR) of 67.7%, and showed a doseeffect relationship at doses between 75 mg/m2 and 100 mg/m2.2 As second-line therapy, D resulted in ORRs ranging from 53% to 57% in anthracyclineresistant patients.3,4 Recent results of a randomized trial that directly compared docetaxel and paclitaxel in advanced breast cancer showed the superiority of docetaxel over paclitaxel.5 These results have led to the evaluation of various taxane-anthracycline regimens aimed at optimizing efficacy. Phase II trials confirmed the high activity of taxane-anthracycline combinations, with ORRs ranging from 57% to 94%.6-18 As first-line treatment for advanced breast cancer, randomized 
+
+5664 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Sequential Epirubicin ⴙ Docetaxel for Breast Cancer 
+
+trials demonstrated significant and constant improvements in ORRs for anthracycline-taxane combinations compared with anthracycline minus taxane regimens, as well as increased time to tumor progression in half of the trials.19-26 In general, the concomitant use of an anthracycline and a taxane resulted in higher toxicity, requiring dose reduction of both agents. In the adjuvant setting, three major trials have shown a significant improvement in disease-free survival (DFS) when a taxane was added sequentially or concomitantly to an anthracycline regimen.27-29 Presently, the optimal strategy for combining an anthracycline with a taxane in the adjuvant setting has not been completely defined in terms of timing (sequential or concomitant), number of cycles, anthracycline (doxorubicin or epirubicin), taxane (docetaxel or paclitaxel), or doses. Based on the results of the French Adjuvant Study Group (FASG) 05 trial, the FEC regimen (fluorouracil, epirubicin [100 mg/m2], and cyclophosphamide) was considered to be one of the reference treatments for node-positive breast cancer.30 Previously, the FASG-01 trial showed that six cycles of FEC significantly improved 10-year DFS compared with three cycles of FEC in premenopausal node-positive patients.31 Based on these data, we initiated the PACS 01 trial to evaluate our reference adjuvant chemotherapy regimen of six cycles of FEC compared with a sequential regimen of three cycles of FEC followed by three cycles of D in patients with node-positive breast cancer. Our aim was to use optimal doses of epirubicin and docetaxel and limit adverse effects, while using a six-cycle regimen. PATIENTS AND METHODS Study Population Women eligible for the study were between 18 and 64 years old and had undergone primary surgery with clear margins (ie, modified mastectomy or tumorectomy) plus axillary dissection for unilateral operable carcinoma of the breast (stage ⬍ T4a). Pre- and postmenopausal women with histologically proven axillary lymph-node involvement (at least five nodes removed) were included. Main eligibility criteria included WHO performance status less than 2; adequate hematologic (granulocyte count ⱖ 2 ⫻ 109/L, platelet count ⱖ 100 ⫻ 109/L) and hepatic (transaminases ⱕ 1.5⫻ the upper limit of normal [ULN], alkaline phosphatases ⱕ 2.5⫻ ULN, and bilirubin ⱕ ULN) tests; and normal cardiac function (baseline left ventricular ejection fraction [LVEF] ⱖ ULN for each center). Exclusion criteria included pregnancy, documented history of cardiac disease contraindicating anthracyclines, previous cancer (except treated basal cell and squamous cell carcinoma of the skin or cancer of the uterine cervix), previous radiation therapy, hormone therapy, or chemotherapy for breast cancer, or if more than 42 days had passed since initial breast cancer surgery. Potentially eligible patients underwent bone scan, chest x-ray, abdominal ultrasound, and contralateral mammography. Written informed consent was obtained before randomization. The protocol was reviewed and approved by the ethics committee/institutional review board and the study was conducted according to the Declaration of Helsinki and European Good Clinical Practice requirements. Study Design and Treatment This was a randomized multicenter open-label phase III study. Randomization procedures were centralized and balanced per block. Patients were assigned to receive fluorouracil 500 mg/m2, epirubicin 100 mg/m2, and cyclophosphamide 500 mg/m2 (FEC) intravenously on day 1 every 21 days for six cycles or the same regimen of FEC for three cycles followed by D 100 mg/m2 intravenously on day 1 every 21 days for three cycles. Stratification was by age (⬍ 50 and ⱖ 50 years), number of positive axillary nodes (1 to 3, and ⬎ 3), and 
+
+center. To prevent docetaxel-related hypersensitivity or fluid retention, patients received premedication with six doses of corticosteroids— each equivalent to 50 mg of prednisolone—starting 12 hours before and ending 18 hours after the docetaxel infusion. Primary prophylaxis with granulocyte colonystimulating factors (G-CSF) and antibiotics was prohibited. Antiemetics (5-HT3 receptor antagonists) were prescribed routinely before each cycle. Treatment was interrupted for at least 1 week in the event of an absolute granulocyte count less than 1.5 ⫻ 109/L and/or a platelet count less than 100 ⫻ 109/L on day 21. G-CSF (filgrastim 5 ␮g/kg/d on days 4 to 11) was prescribed for all subsequent chemotherapy cycles. If G-CSF was prescribed during the first three cycles of FEC, it was withdrawn for the first cycle of D. In the event of febrile neutropenia, G-CSF was added after the first episode. If a second episode occurred, the doses of epirubicin or docetaxel were reduced by 25%. The docetaxel dose was reduced by 25% for transaminases more than 1.5⫻ ULN, alkaline phosphatases more than 2.5⫻ ULN, and/or bilirubin more than ULN. 
+
+Table 1. Baseline Characteristics of Patients and Tumors FEC (n ⫽ 996) Characteristic Age, years Median Range ⬍ 50 Premenopausalⴱ Premenopausal and ⱖ 50 yearsⴱ Surgery Breast conservation Modified mastectomy Histologic tumor size, cm ⬍2 2-5 ⱖ5 Missing SBR grade I II III Not gradable Missing No. of positive nodes 1 to 3 ⬎3 Hormone receptors† Positive (ER and/or PR) Negative (ER and PR) Missing Estrogen receptor† Positive Negative Missing Progesterone receptor Positive Negative Missing 
+
+No. of Patients 
+
+% 
+
+FEC-D (n ⫽ 1,003) No. of Patients 
+
+50 26-67 
+
+% 
+
+50 25-65 
+
+505 613 131 
+
+50.7 62.4 13.3 
+
+500 598 129 
+
+49.8 60.4 13.0 
+
+510 486 
+
+51.2 48.8 
+
+531 472 
+
+52.9 47.1 
+
+313 524 71 88 
+
+34.5 57.7 7.8 
+
+360 490 70 83 
+
+39.1 53.3 7.6 
+
+102 438 389 47 20 
+
+10.4 44.9 39.9 4.8 
+
+126 430 385 44 18 
+
+12.8 43.7 39.1 4.5 
+
+611 385 
+
+61.3 38.6 
+
+626 377 
+
+62.4 37.6 
+
+760 222 14 
+
+77.4 22.6 
+
+802 192 9 
+
+80.7 19.3 
+
+707 283 6 
+
+71.4 28.6 
+
+765 235 3 
+
+76.5 23.5 
+
+635 348 13 
+
+64.6 35.4 
+
+648 347 8 
+
+65.1 34.9 
+
+Abbreviations: FEC, fluorouracil, epirubicin, and cyclophosphamide; FEC-D, fluorouracil, epirubicin, and cyclophosphamide followed by docetaxel; SBR, Scarff–Bloom Richardson; ER, estrogen receptor; PR, progesterone receptor. ⴱ Percentages were calculated among patients for whom information on menopausal status was available (983 patients in the FEC group and 990 in the FEC-D group). †P ⫽ .02. 
+
+5665 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Roché et al 
+
+Table 2. Analysis of Events in the ITT Population FEC (n ⫽ 996) 
+
+FEC-D (n ⫽ 1,003) 
+
+Event 
+
+No. of Patients 
+
+% 
+
+No. of Patients 
+
+% 
+
+HR 
+
+95% CI 
+
+Pⴱ 
+
+First event† Relapse of breast cancer Local only Regional (with or without local) Distant (with or without local or regional) Contralateral breast cancer Death Contralateral breast cancer Second cancer Any death Of breast cancer Of second cancer Due to toxic effects Other causes 
+
+264 235 40 15 180 23 6 30 25 135 123 5 3 4 
+
+26.5 23.6 4.0 1.5 18.1 2.3 0.6 3.0 2.5 13.5 12.3 0.5 0.3 0.4 
+
+218 190 28 12 150 21 7 24 17 100 89 3 4 4 
+
+21.7 18.9 2.8 1.2 14.9 2.1 0.7 2.4 1.7 10.0 8.9 0.3 0.4 0.4 
+
+0.80 0.78 
+
+0.67 to 0.96 0.64 to 0.94 
+
+.012 .010 
+
+0.80 0.65 0.73 
+
+0.47 to 1.37 0.35 to 1.21 0.56 to 0.94 
+
+.43 .17 .017 
+
+Abbreviations: ITT, intent-to-treat; FEC, fluorouracil, epirubicin, and cyclophosphamide; FEC-D, fluorouracil, epirubicin, and cyclophosphamide followed by docetaxel; HR, hazard ratio. ⴱ Log-rank test adjusted for nodal involvement and age. †First event defined according to the disease-free survival criteria (ie, local relapse, regional relapse, distant relapse, contralateral breast cancer, death of any cause). 
+
+Discontinuation of treatment was required for disease progression, unacceptable toxicity, WHO grade 3 to 4 cardiac event, or fluid retention associated with weight gain. Treatment could also be discontinued at the discretion of the patient or investigator. Adjuvant Treatment After Chemotherapy Completion Tamoxifen 20 mg/d was started after chemotherapy completion and continued for 5 years. Initially, tamoxifen was required for postmenopausal women with hormone receptor (HR) –positive (estrogen [ER] and/or progesterone [PR] receptors) tumors. Tamoxifen was given at the investigator’s discretion for patients with HR-negative tumors; however, the policy had to be similar for both treatment arms at each center. In December 1998, the study protocol was amended to require tamoxifen treatment for premenopausal women with HR-positive tumors. HR status was assessed by immunohistochemistry or biochemistry. Radiotherapy was initiated within 4 weeks after the last cycle of chemotherapy and was mandatory for all patients who had undergone breastconserving surgery. Radiation to the chest wall, supraclavicular area, and internal mammary chain was recommended following mastectomy. Irradiation of the axilla was prohibited. Radiotherapy procedures had to be similar for both arms at a given center. Evaluations The tolerability of chemotherapy was evaluated before each cycle. In addition, an ECG and an absolute blood count were performed on day 21, and nonhematologic toxicity was evaluated during the period between cycles. Toxicity was graded according to WHO criteria and serious adverse events were defined according to International Conference on Harmonization guidelines. The resting LVEF was measured by radioisotopic or echocardiographic methods at baseline, within 3 weeks after completion of adjuvant chemotherapy, and then after 1 and 5 years. A physical examination was performed every 4 months for the first 2 years, then every 6 months for the following 3 years. Imaging studies (ie, mammography, chest x-ray, liver ultrasound, and bone scan) were performed 1 year after the initial surgery, then yearly thereafter for 5 years. Beyond this period, a mammography was performed annually. Sample Size Determination and Statistical Analysis The primary end point was 5-year DFS. DFS was defined as the time from randomization until first relapse (local, regional, or distant), contralateral breast cancer, or death from any cause. This trial was designed to detect a 7.5% difference in DFS with 90% power and a two-sided type I error of 5%. These 5666 
+
+hypotheses required enrolling 1,600 patients, and 469 events. Because the accrual rate was higher than expected, the sample size was expanded to 2,000 patients to increase the power of the trial from 90% to 95%. Data were analyzed according to the intent-to-treat (ITT) principle. 
+
+Table 3. Cox Regression Model Analysis for Disease-Free Survival in the ITT Population Factors Arm FEC FEC-D Age, years ⬍ 50 ⱖ 50 Positive nodes 1 to 3 ⬎3 Histologic tumor size, mm ⬍ 20 ⱖ 20 SBR grade 1 2 3 Hormone receptor ER⫺/PR⫺ ER⫺/PR⫹ ER⫹/PR⫺ ER⫹/PR⫹ Tamoxifen No Yes 
+
+HR 
+
+95% CI 
+
+P 
+
+1 0.82 
+
+0.69 to 0.99 
+
+.034 
+
+1 0.86 
+
+0.72 to 1.04 
+
+.123 
+
+1 2.13 
+
+1.77 to 2.55 
+
+⬍ .001 
+
+1 1.75 
+
+1.39 to 2.20 
+
+⬍ .001 
+
+1 1.98 2.53 
+
+1.24 to 3.15 1.58 to 4.03 
+
+.004 ⬍ .001 
+
+1 1.20 1.39 0.89 
+
+0.80 to 1.80 1.01 to 1.90 0.67 to 1.17 
+
+.38 .041 .40 
+
+1 0.57 
+
+0.45 to 0.73 
+
+⬍ .001 
+
+Abbreviations: ITT, intent-to-treat; HR, hazard ratio; FEC, fluorouracil, epirubicin, and cyclophosphamide; FEC-D, fluorouracil, epirubicin, and cyclophosphamide followed by docetaxel; SBR, Scarff-Bloom Richardson; ER, estrogen receptor; PR, progesterone receptor. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Sequential Epirubicin ⴙ Docetaxel for Breast Cancer 
+
+Fig 1. Disease-free survival: (A) KaplanMeier estimates; (B) hazard ratios and 95% CIs in different subgroups (Forest plot analysis). FEC, fluorouracil, epirubicin, and cyclophosphamide; FEC-D, fluorouracil, epirubicin, and cyclophosphamide, followed by docetaxel; ER, estrogen receptor; PR, progesterone receptor; SBR, Scarff– Bloom Richardson. 
+
+Secondary end points were overall survival (OS), defined as the time from randomization until death from any cause, and safety. Patients who received at least one dose of study drug were analyzed for safety. The DFS and OS rates were calculated by the Kaplan-Meier method. Treatment arms were compared using a log-rank test stratified for the number of positive axillary lymph nodes (N) and age. A supportive multivariate analysis (Cox regression model) was preplanned, and was adjusted for age, N, histologic tumor size, HR status, Scarff–Bloom Richardson (SBR) grade, and tamoxifen. Each interaction between variables and DFS has been explored. One interim efficacy analysis was prospectively planned at 2 years after the recruitment of the last patient. This was conducted conservatively with a type I error of .001 in order to maintain an overall type I error of 5%.32 All analyses were presented to an independent data monitoring committee. 
+
+RESULTS 
+
+Patient Characteristics Between June 1997 and March 2000, 85 centers in France and Belgium enrolled 1,999 women (996 on the FEC arm; 1,003 on the FEC-D arm). Three patients did not receive treatment (1 FEC; 2 FEC-D). A total of 1,944 patients were eligible (976 FEC; 968 FEC-D) for treatment, and of these 1,827 received the complete protocol-specified treatment and were considered the per protocol population (928 FEC; 899 FEC-D). Baseline characteristics were well balanced between treatment arms, except for combined 5667 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Roché et al 
+
+Table 4. Adverse Events Experienced per Patient % of Patients Event 
+
+Fig 2. Kaplan-Meier estimates of overall survival. FEC, fluorouracil, epirubicin, and cyclophosphamide; FEC-D, fluorouracil, epirubicin, and cyclophosphamide, followed by docetaxel. 
+
+hormone-receptor status (HR) and estrogen-receptor status (P ⫽ .02; Table 1). Treatment Characteristics Six treatment cycles were completed by 97% of patients in the FEC group and by 96.1% of the patients in the FEC-D group. In the FEC group, four patients received docetaxel instead of FEC in the last three cycles. In the FEC-D group, 29 patients received FEC instead of D, and of those patients, 20 received FEC in cycles 5 or 6. Almost all treated patients received radiotherapy. Tamoxifen use was well balanced between arms (65.5% in the FEC arm and 68.4% in the FEC-D arm; P ⫽ .16), including both premenopausal (younger than and older than 50 years) and postmenopausal women. Efficacy Results The cutoff date for this analysis was September 2004 and the median follow-up time was 60 months from randomization. In the ITT population, 482 patients relapsed (Table 2). The 5-year DFS rates were 73.2% on the FEC arm and 78.4% on the FEC-D arm (unadjusted P ⫽ .011; adjusted P ⫽ .012). This difference was due mainly to the reduction in distant metastasis with FEC-D (Table 2). Similar results were observed in the eligible and per protocol populations. The multivariate analysis adjusted for prognostic factors showed a 18% reduction in the relative risk of relapse with FEC-D (hazard ratio [HR] ⫽ 0.82; 95% CI, 0.69 to 0.99; P ⫽ .034; Table 3; Fig 1A). Figure 1B shows the treatment effect in different subgroups. In the subgroup of patients with one to three positive nodes, FEC-D significantly reduced the risk of relapse compared with FEC (P ⫽ .04). In the subgroup of patients with more than three involved nodes, the benefit was almost the same showing a 17% reduction in the risk of relapse with FEC-D (P ⫽ .12; Fig 1B). Women age 50 years or older derived significant benefit in DFS from treatment with FEC-D (P ⫽ .001), but this advantage was not found in younger women (P ⫽ .65). Using the Cox regression model, a significant interaction between age and treatment was shown (P ⫽ .028), suggesting a heterogeneity of the treatment effect in the two age groups. Patients receiving tamoxifen showed improved DFS rates, irrespective of age. 5668 
+
+Hematologic grade 3-4 Neutropenia on day 21 Cycles 4-6 Febrile neutropenia Cycles 4-6 Cycle 4 Cycle 5 Cycle 6 G-CSF Cycles 5 and 6 Infection Anemia Thrombocytopenia Nonhematologic Nausea-vomiting grade 3-4 Cycles 4-6 Stomatitis grade 3-4 Cycles 4-6 Alopecia grade 3 Edema moderate or severe, cycle 4-6 Nail disorder moderate or severe, cycle 4-6 Chemotherapy-induced amenorrhea Cardiac Any events reported as SAE CHF Decrease in LVEF Cardiac death Other Changes in LVEF at the end of chemotherapy Below ULN Decrease ⬎ 20% of baseline value Changes in LVEF at one year‡ Below ULN Decrease ⬎ 20% of baseline value 
+
+FEC FEC-D (n ⫽ 995) (n ⫽ 1,001) 
+
+P 
+
+33.6 20.2 8.4 3.7 1.0 1.5 1.7 27.0 24.8 1.6 1.4 0.3 
+
+28.1 10.9 11.2 7.4 4.6 2.3 1.2 22.2 9.5 1.6 0.7 0.4 
+
+.008 ⬍ .001 .03 .005 
+
+20.5 11.0 4.0 2.3 83.9 0.3 
+
+11.2 1.6 5.9 4.0 82.6 4.8 
+
+⬍ .001 ⬍ .001 .054 .03 .40 ⬍ .001 
+
+1.0 
+
+10.3 
+
+⬍ .001 
+
+72.4 
+
+68.4 
+
+.13 
+
+1.3 0.4 0.4 0.1 0.4ⴱ 
+
+0.4 0.0 0.1 0.1 0.2† 
+
+.03 
+
+10.9 7.0 
+
+9.9 6.5 
+
+.48 .63 
+
+13.2 10.0 
+
+10.0 7.8 
+
+.03 .09 
+
+.01 ⬍ .001 .99 .12 .71 
+
+Abbreviations: FEC, fluorouracil, epirubicin, and cyclophosphamide; FEC-D, fluorouracil, epirubicin, and cyclophosphamide followed by docetaxel; G-CSF, granulocyte colony-stimulating factor; SAE, serious adverse event; CHF, congestive heart failure; LVEF, left ventricular ejection fraction; ULN, upper limit of normal. ⴱ Arrhythmia (n ⫽ 2), myocardial infarction (n ⫽ 1), dyspnea (n ⫽ 1). †Pericarditis (n ⫽ 1), menace syndrome (n ⫽ 1). ‡Changes in LVEF at the end of chemotherapy were evaluated for 947 and 941 patients in the FEC and FEC-D groups, respectively, and changes at 1 year were evaluated for 356 and 330 patients, respectively. 
+
+Of the 235 deaths, 135 were in the FEC group and 100 were in the FEC-D group (Table 2). The 5-year OS rates were 86.7% with FEC and 90.7% with FEC-D, demonstrating a 27% reduction in the relative risk of death for FEC-D (HR ⫽ 0.73; 95% CI, 0.56 to 0.94; Fig 2). Acute and Delayed Toxic Effects At least one serious adverse event occurred in 13.9% of patients in the FEC group and in 15.1% of patients in the FEC-D group (P ⫽ .38). The incidence of grade 3 or 4 neutropenia on day 21 was higher with FEC, whereas the incidence of febrile neutropenia was higher with D at cycle 4 (Table 4). Use of G-CSF was highest in the FEC group. In the JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Sequential Epirubicin ⴙ Docetaxel for Breast Cancer 
+
+FEC and FEC-D groups, respectively, G-CSF was administered to 27.0% and 22.2% of patients overall (P ⫽ .01) and to 24.8% and 9.5% of patients at cycles 5 and 6 (P ⬍ .001). Grade 3 or 4 nausea and vomiting were more frequent with FEC, and an increase in grade 3 or 4 stomatitis was reported with D. Docetaxel-related toxicities such as edema and nail disorders were reported as expected when full doses were given for three cycles (Table 4). No early toxic deaths occurred. Although cardiac events were uncommon in both treatment arms, there were significantly fewer cardiac events after FEC-D (Table 4). One delayed cardiac death was reported in each treatment arm, but neither event could be clearly related to chemotherapy. Three cases of acute myeloid leukemia occurred in the FEC group and one occurred in the FEC-D group. Other hematologic malignancies were one case each of lymphoma (FEC), myeloma (FEC-D), and chronic myeloid leukemia (FEC-D). Three patients who received adjuvant tamoxifen presented with an endometrial carcinoma. Nineteen other second cancers were reported after FEC and 13 were reported after FEC-D. DISCUSSION 
+
+The PACS 01 trial of adjuvant chemotherapy in node-positive breast cancer patients showed that the sequential use of the epirubicin-based regimen FEC followed by docetaxel significantly improved DFS and OS after 5 years of follow-up. Our results highlight several important issues when considered in context with previous clinical trials of taxanes in the adjuvant setting. First, we compared two six-cycle regimens of equal treatment duration, which is similar to the strategy used in the Breast Cancer International Research Group (BCIRG) 001 trial.29 However, in trials that evaluated the addition of paclitaxel to an anthracycline, the treatment duration was longer in the paclitaxel arms of the study, and this could partially explain the improved outcomes.27,28 In contrast, in our trial, the reference treatment regimen (FEC) provided higher 5-year DFS and OS durations than the reference regimens used in other adjuvant trials involving taxanes. Moreover, a side-by-side comparison of FEC and docetaxel/doxorubicin/ cyclophosphamide (TAC) yielded similar results.33 Four cycles of doxorubicin plus cyclophosphamide, although effective, were probably of too short duration in node-positive breast cancer.27,28,34 Subgroup analysis revealed a treatment benefit in favor of FEC-D for patients age 50 years and older but not for younger patients. REFERENCES 1. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 2. Chevallier B, Fumoleau P, Kerbrat P, et al: Docetaxel is a major cytotoxic drug for the treatment of advanced breast cancer: A phase II trial of the Clinical Screening Cooperative Group of the European Organization for Research and Treatment of Cancer. J Clin Oncol 13:314-322, 1995 3. Valero V, Holmes FA, Walters RS, et al: Phase II trial of docetaxel: A new, highly effective antineoplastic agent in the management of patients with anthracycline-resistant metastatic breast cancer. J Clin Oncol 13:2886-2894, 1995 
+
+Furthermore, the treatment benefit with FEC-D was superior to FEC in postmenopausal women but not in premenopausal women, even though it has been shown that adjuvant chemotherapy provides a greater benefit in terms of DFS and OS for premenopausal women.1 We searched for any potential bias in prognostic factors, but identified no important imbalances between age groups, except a higher rate of SBR grade 3 tumors and a higher rate of PR-positive status in women younger than 50 years old (data not shown). The proportion of women receiving tamoxifen was similar in both groups, as well as in the premenopausal subgroups of each treatment arm. The incidence of chemotherapy-induced amenorrhea was similar between arms. However, subgroup analyses should be considered exploratory and underpowered as illustrated by the large confidence intervals framing the estimates of relative risk. Our findings with respect to treatment effect and nodal status were similar to those of the BCIRG 001 trial, in which a greater benefit of adding docetaxel was observed in patients with fewer than four involved nodes.29 Although fewer episodes of severe neutropenia and nausea and vomiting were observed with FEC-D, the higher rate of febrile events occurring mainly during the first D cycle could be prevented with G-CSF primary prophylaxis. Despite administering lower doses of each drug, combination therapy is generally associated with more severe acute toxicities. Using systematic antibiotic prophylaxis, TAC is associated with a high rate of grade 3 and 4 neutropenia and febrile neutropenia requiring G-CSF.29 A reduction in the epirubicin cumulative dose from 600 mg/m2 to 300 mg/m2 may reduce long-term toxicities (ie, cardiac toxicity and secondary acute leukemia).30,35-37 In our trial, after 5 years of follow-up, FEC-D was associated with a significantly lower rate of cardiac events (0.4% v 1.3%) and less secondary leukemia (1 case v 3 cases) compared with FEC. This observation is probably related to a 50% reduction in anthracycline total dose in the FEC-D group, but longer follow-up is required to further evaluate this trend. In conclusion, sequential adjuvant chemotherapy with three cycles of FEC followed by three cycles of D significantly improves DFS and OS in patients with node-positive breast cancer. This regimen could be adjusted in terms of number of cycles and the addition of trastuzumab. Although the magnitude of the benefit observed with FEC-D is lower in some subgroups of patients, differences in the toxicity profiles of FEC and FEC-D may influence the choice of treatment for patients with node-positive early breast cancer. 
+
+4. Ravdin PM, Burris HA 3rd, Cook G, et al: Phase II trial of docetaxel in advanced anthracyclineresistant or anthracenedione-resistant breast cancer. J Clin Oncol 13:2879-2885, 1995 5. Jones SE, Erban J, Overmoyer B, et al: Randomized phase III study of docetaxel compared with paclitaxel in metastatic breast cancer. J Clin Oncol 23:5542-5551, 2005 6. Gianni L, Munzone E, Capri G, et al: Paclitaxel by 3-hour infusion in combination with bolus doxorubicin in women with untreated metastatic breast cancer: High antitumor efficacy and cardiac effects in a dose-finding and sequence-finding study. J Clin Oncol 13:2688-2699, 1995 7. Dombernowsky P, Boesgaard M, Andersen E, et al: Doxorubicin plus paclitaxel in advanced breast cancer. Semin Oncol 24:S17-S18, 1997 (suppl 17) 
+
+8. Luck HJ, Thomssen C, Du Bois A, et al: Metastatic breast cancer: Experience with the combination paclitaxel plus epirubicin. Oncology (Williston Park) 12:36-39, 1998 (suppl 1) 9. Conte PF, Gennari A, Salvadori B, et al: Paclitaxel plus epirubicin in advanced breast cancer. Oncology (Williston Park) 12:40-44, 1998 (suppl 1) 10. Misset JL, Dieras V, Gruia G, et al: Dosefinding study of docetaxel and doxorubicin in firstline treatment of patients with metastatic breast cancer. Ann Oncol 10:553-560, 1999 11. Nabholtz JM, Mackey JR, Smylie M, et al: Phase II study of docetaxel, doxorubicin, and cyclophosphamide as first-line chemotherapy for metastatic breast cancer. J Clin Oncol 19:314-321, 2001 12. Sparano JA, O’Neill A, Schaefer PL, et al: Phase II trial of doxorubicin and docetaxel plus granulocyte colony-stimulating factor in metastatic 5669 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Roché et al 
+
+breast cancer: Eastern Cooperative Oncology Group Study E1196. J Clin Oncol 18:2369-2377, 2000 13. Viens P, Roché H, Kerbrat P, et al: Epirubicin– docetaxel combination in first-line chemotherapy for patients with metastatic breast cancer: Final results of a dose-finding and efficacy study. Am J Clin Oncol 24:328-335, 2001 14. Pagani O, Sessa C, Nole F, et al: Epidoxorubicin and docetaxel as first-line chemotherapy in patients with advanced breast cancer: A multicentric phase I–II study. Ann Oncol 11:985-991, 2000 15. Mavroudis D, Alexopoulos A, Ziras N, et al: Front-line treatment of advanced breast cancer with docetaxel and epirubicin: A multicenter phase II study. Ann Oncol 11:1249-1254, 2000 16. Venturini M, Michelotti A, Papaldo P, et al: Identification of the highest dose of docetaxel associable with active doses of epirubicin: Results from a dose-finding study in advanced breast cancer patients. Ann Oncol 12:1097-1106, 2001 17. Milla-Santos A, Milla L, Rallo L, et al: Highdose epirubicin plus docetaxel at standard dose with lenograstim support as first-line therapy in advanced breast cancer. Am J Clin Oncol 24:138-142, 2001 18. Morales S, Lorenzo A, Ramos M, et al: Docetaxel plus epirubicin is a highly active, welltolerated, first-line chemotherapy for metastatic breast cancer: Results of a large, multicentre phase II study. Cancer Chemother Pharmacol 53:75-81, 2004 19. Jassem J, Pienkowski T, Pluzanska A, et al: Doxorubicin and paclitaxel versus fluorouracil, doxorubicin, and cyclophosphamide as first-line therapy for women with metastatic breast cancer: Final results of a randomized phase III multicenter trial. J Clin Oncol 19:1707-1715, 2001 20. Biganzoli L, Cufer T, Bruning P, et al: Doxorubicin and paclitaxel versus doxorubicin and cyclophosphamide as first-line chemotherapy in metastatic breast cancer: The European Organisation for Research and Treatment of Cancer Multicenter Phase III Trial 10961. J Clin Oncol 20:3114-3121, 2002 21. Luck H, Thomssen C, Untch M, et al: Multicentric phase III study in first line treatment of advanced metastatic breast cancer: Epirubicin/pacli- 
+
+taxel vs epirubicin/cyclophosphamide—A study of the AGO Breast Cancer Group. Proc Am Soc Clin Oncol 19: 73a, 2000 (abstr 280) 22. Langley RE, Carmichael J, Jones AL, et al: Phase III trial of epirubicin plus paclitaxel compared with epirubicin plus cyclophosphamide as first-line chemotherapy for metastatic breast cancer: United Kingdom National Cancer Res Institute trial AB01. J Clin Oncol 23:8322-8330, 2005 23. Nabholtz JM, Falkson C, Campos D, et al: Docetaxel and doxorubicin compared with doxorubicin and cyclophosphamide as first-line chemotherapy for metastatic breast cancer: Results of a randomized, multicenter, phase III trial. J Clin Oncol 21:968-975, 2003 24. Mackey JR, Paterson A, Dirix LY, et al: Final results of the phase III randomized trial comparing docetaxel, doxorubicin, and cyclophosphamide to FAC as first line chemotherapy for patients with metastatic breast cancer. Proc Am Soc Clin Oncol 21: 35a, 2002 (abstr 137) 25. Bontenbal M, Creemers GJ, Braun HJ, et al: Phase II to III study comparing doxorubicin and docetaxel with fluorouracil, doxorubicin, and cyclophosphamide as first-line chemotherapy in patients with metastatic breast cancer: Results of a Dutch Community Setting Trial for the Clinical Trial Group of the Comprehensive Cancer Centre. J Clin Oncol 23:7081-7088, 2005 26. Bonneterre J, Dieras V, Tubiana-Hulin M, et al: Phase II multicentre randomised study of docetaxel plus epirubicin vs 5-fluorouracil plus epirubicin and cyclophosphamide in metastatic breast cancer. Br J Cancer 91:1466-1471, 2004 27. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 28. Mamounas EP, Bryant J, Lembersky B, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP B-28. J Clin Oncol 23:3686-3696, 2005 
+
+29. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 30. Bonneterre J, Roche H, Kerbrat P, et al: Epirubicin increases long-term survival in adjuvant chemotherapy of patients with poor-prognosis, node-positive, early breast cancer: 10-year follow-up results of the French Adjuvant Study Group 05 randomized trial. J Clin Oncol 23:2686-2693, 2005 31. Fumoleau P, Kerbrat P, Romestaing P, et al: Randomized trial comparing six versus three cycles of epirubicin-based adjuvant chemotherapy in premenopausal, node-positive breast cancer patients: 10-year follow-up results of the French Adjuvant Study Group 01 trial. J Clin Oncol 21:298-305, 2003 32. Peto R, Pike MC, Armitage P, et al: Design and analysis of randomized clinical trials requiring prolonged observation of each patient, I: Introduction and design. Br J Cancer 34:585-612, 1976 33. Fumoleau P, Bonneterre J, Luporsi E: Adjuvant chemotherapy for node-positive breast cancer patients: Which is the reference today? J Clin Oncol 21:1190-1192, 2003 34. National Institutes of Health Consensus Development Panel: National Institutes of Health consensus development conference statement: Adjuvant therapy for breast cancer, November 1-3, 2000. J Natl Cancer Inst 93:979-989, 2001 35. Bonneterre J, Roche H, Kerbrat P, et al: Long-term cardiac follow-up in relapse-free patients after six courses of fluorouracil, epirubicin, and cyclophosphamide, with either 50 or 100 mg of epirubicin, as adjuvant therapy for node-positive breast cancer: French adjuvant study group. J Clin Oncol 22:3070-3079, 2004 36. Fumoleau P, Roche H, Kerbrat P, et al: Longterm cardiac toxicity after adjuvant epirubicin-based chemotherapy in early breast cancer: French Adjuvant Study Group Results. Ann Oncol 17:85-92, 2006 37. Campone M, Roche H, Kerbrat P, et al: Secondary leukemia after epirubicin-based adjuvant chemotherapy in operable breast cancer patients: 16 years experience of the French Adjuvant Study Group. Ann Oncol 16:1343-1351, 2005 
+
+■ ■ ■ 
+
+Acknowledgment We are indebted to the women and the 85 institutions in France and Belgium who participated in the study. We thank Isabelle Chapelle-Marcillac for her editorial assistance. Appendix The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). 
+
+5670 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+Sequential Epirubicin ⴙ Docetaxel for Breast Cancer 
+
+Authors’ Disclosures of Potential Conflicts of Interest Although all authors completed the disclosure declaration, the following authors or their immediate family members indicated a financial interest. No conflict exists for drugs or devices used in a study if they are not being evaluated as part of the investigation. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Authors 
+
+Employment 
+
+Leadership 
+
+Consultant 
+
+Pierre Fumoleau 
+
+GlaxoSmithKline; sanofi-aventis; Schering-Plough 
+
+Marc Spielmann 
+
+sanofi-aventis 
+
+Jean-Luc Canon Henri Roché 
+
+sanofi-aventis 
+
+Alain Monnier 
+
+Novartis; Pfizer 
+
+Jacques Bonneterre 
+
+Stock 
+
+Honoraria 
+
+Research Funds 
+
+sanofi-aventis 
+
+sanofi-aventis 
+
+Novartis; Pfizer; Amgen 
+
+Pfizer 
+
+Testimony 
+
+Other 
+
+Pfizer 
+
+Author Contributions Conception and design: Henri Roché, Pierre Fumoleau, Jean-Luc Canon, Patrice Viens, Bernard Asselain Administrative support: Henri Roché, Jean-Luc Canon, Anne-Laure Martin, Jean Genève Provision of study materials or patients: Henri Roché, Pierre Fumoleau, Marc Spielmann, Jean-Luc Canon, Thierry Delozier, Daniel Serin, Michel Symann, Pierre Kerbrat, Patrick Soulié, Françoise Eichler, Patrice Viens, Alain Monnier, Anita Vindevoghel, Mario Campone, Marie-Josèphe Goudier, Jacques Bonneterre, Jean-Marc Ferrero Collection and assembly of data: Jean-Luc Canon, Anne-Laure Martin, Bernard Asselain Data analysis and interpretation: Henri Roché, Pierre Fumoleau, Jean-Luc Canon, Anne-Laure Martin, Bernard Asselain Manuscript writing: Henri Roché, Pierre Fumoleau, Bernard Asselain Final approval of manuscript: Henri Roché, Pierre Fumoleau, Marc Spielmann, Jean-Luc Canon, Thierry Delozier, Daniel Serin, Michel Symann, Pierre Kerbrat, Patrick Soulié, Françoise Eichler, Patrice Viens, Alain Monnier, Anita Vindevoghel, Mario Campone, Marie-Josèphe Goudier, Jacques Bonneterre, Jean-Marc Ferrero, Anne-Laure Martin, Jean Genève, Bernard Asselain 
+
+5671 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on August 30, 2008 . For personal use only. No other uses without permission. Copyright © 2006 by the American Society of Clinical Oncology. All rights reserved. 
+
+ 

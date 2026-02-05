@@ -1,0 +1,1913 @@
+Articles 
+
+Adjuvant bevacizumab-containing therapy in triple-negative breast cancer (BEATRICE): primary results of a randomised, phase 3 trial David Cameron, Julia Brown, Rebecca Dent, Christian Jackisch, John Mackey, Xavier Pivot, Guenther G Steger, Thomas M Suter, Masakazu Toi, Mahesh Parmar, Rita Laeuﬂe, Young-Hyuck Im, Gilles Romieu, Vernon Harvey, Oleg Lipatov, Tadeusz Pienkowski, Paul Cottu, Arlene Chan, Seock-Ah Im, Peter S Hall, Lida Bubuteishvili-Pacaud, Volkmar Henschel, Regula J Deurloo, Celine Pallaud, Richard Bell 
+
+Summary Background The addition of bevacizumab to chemotherapy improves progression-free survival in metastatic breast cancer and pathological complete response rates in the neoadjuvant setting. Micrometastases are dependent on angiogenesis, suggesting that patients might beneﬁt from anti-angiogenic strategies in the adjuvant setting. We therefore assessed the addition of bevacizumab to chemotherapy in the adjuvant setting for women with triplenegative breast cancer. 
+
+Lancet Oncol 2013; 14: 933–42 
+
+Methods For this open-label, randomised phase 3 trial we recruited patients with centrally conﬁrmed triple-negative operable primary invasive breast cancer from 360 sites in 37 countries. We randomly allocated patients aged 18 years or older (1:1 with block randomisation; stratiﬁed by nodal status, chemotherapy [with an anthracycline, taxane, or both], hormone receptor status [negative vs low], and type of surgery) to receive a minimum of four cycles of chemotherapy either alone or with bevacizumab (equivalent of 5 mg/kg every week for 1 year). The primary endpoint was invasive disease-free survival (IDFS). Eﬃcacy analyses were based on the intention-to-treat population, safety analyses were done on all patients who received at least one dose of study drug, and plasma biomarker analyses were done on all treated patients consenting to biomarker analyses and providing a measurable baseline plasma sample. This trial is registered with ClinicalTrials.gov, number NCT00528567. 
+
+University of Edinburgh and Cancer Services, NHS Lothian, Edinburgh, UK (Prof D Cameron MD); Clinical Trials Research Unit, University of Leeds, Leeds, UK (Prof J Brown MSc); Sunnybrook Health Sciences Center and University of Toronto, Toronto, ON, Canada (R Dent MD); Department of Medical Oncology, National Cancer Center, Singapore, Singapore (R Dent); Department of Obstetrics and Gynecology and Breast Cancer Center, Klinikum Oﬀenbach, Oﬀenbach, Germany (C Jackisch MD); Cross Center Institute, Edmonton, AL, Canada (Prof J Mackey MD); Service Oncologie Medicale, University Hospital Jean Minjoz, Besançon, France (X Pivot MD); Department of Internal Medicine, Division of Oncology, Medical University of Vienna, Vienna, Austria (Prof G G Steger MD); Swiss Cardiovascular Center, Bern University Hospital, Inselspital, Bern, Switzerland (Prof T M Suter MD); Faculty of Medicine, Kyoto University, Kyoto, Japan (Prof M Toi MD); Medical Research Council Clinical Trials Unit, London, UK (M Parmar DPhil); F HoﬀmannLa Roche Ltd, Basel, Switzerland (R Laeuﬂe MD, L Bubuteishvili-Pacaud MD, V Henschel PhD, R J Deurloo PhD, C Pallaud PhD); Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea (Y-H Im MD); Institut du Cancer Montpellier, Val d’Aurelle, France (G Romieu MD); Regional Cancer and Blood Centre, Auckland City Hospital, Auckland, 
+
+Findings Between Dec 3, 2007, and March 8, 2010, we randomly assigned 1290 patients to receive chemotherapy alone and 1301 to receive bevacizumab plus chemotherapy. Most patients received anthracycline-containing therapy; 1638 (63%) of the 2591 patients had node-negative disease. At the time of analysis of IDFS, median follow-up was 31·5 months (IQR 25·6–36·8) in the chemotherapy-alone group and 32·0 months (27·5–36·9) in the bevacizumab group. At the time of the primary analysis, IDFS events had been reported in 205 patients (16%) in the chemotherapyalone group and in 188 patients (14%) in the bevacizumab group (hazard ratio [HR] in stratiﬁed log-rank analysis 0·87, 95% CI 0·72–1·07; p=0·18). 3-year IDFS was 82·7% (95% CI 80·5–85·0) with chemotherapy alone and 83·7% (81·4–86·0) with bevacizumab and chemotherapy. After 200 deaths, no diﬀerence in overall survival was noted between the groups (HR 0·84, 95% CI 0·64–1·12; p=0·23). Exploratory biomarker assessment suggests that patients with high pre-treatment plasma VEGFR-2 might beneﬁt from the addition of bevacizumab (Cox interaction test p=0·029). Use of bevacizumab versus chemotherapy alone was associated with increased incidences of grade 3 or worse hypertension (154 patients [12%] vs eight patients [1%]), severe cardiac events occurring at any point during the 18-month safety reporting period (19 [1%] vs two [<0·5%]), and treatment discontinuation (bevacizumab, chemotherapy, or both; 256 [20%] vs 30 [2%]); we recorded no increase in fatal adverse events with bevacizumab (four [<0·5%] vs three [<0·5%]). Interpretation Bevacizumab cannot be recommended as adjuvant treatment in unselected patients with triplenegative breast cancer. Further follow-up is needed to assess the potential eﬀect of bevacizumab on overall survival. Funding F Hoﬀmann-La Roche. 
+
+Introduction Triple-negative breast cancer was identiﬁed in the early 2000s as a clinically important subgroup of breast cancer characterised by an especially poor prognosis. The risk of distant recurrence was substantially higher in patients with triple-negative breast cancer than in those with nontriple-negative breast cancer, peaking 3 years after diagnosis.1 However, less was known about outcomes for triple-negative breast cancer after adjuvant chemotherapy, and no targeted treatments were available. www.thelancet.com/oncology Vol 14 September 2013 
+
+Subgroup analyses of the phase 3 E2100 trial,2 which assessed paclitaxel with or without the humanised monoclonal antibody bevacizumab in HER2-negative metastatic breast cancer, showed a similar magnitude of beneﬁt from bevacizumab in metastatic triple-negative breast cancer as in the overall study population. However, the absolute beneﬁt was potentially more clinically relevant in view of the poor prognosis and limited treatment options in this setting. Subsequent results of the RIBBON-2 trial in the second-line metastatic breast 
+
+Published Online August 7, 2013 http://dx.doi.org/10.1016/ S1470-2045(13)70335-8 See Comment page 910 
+
+933 
+
+Articles 
+
+New Zealand (V Harvey MD); Republican Clinical Oncology Dispensary, Ufa, Russia (O Lipatov MD); Postgraduate Medical Center, Warsaw, Poland (T Pienkowski MD); Department of Medical Oncology, Institut Curie, Paris, France (P Cottu MD); Curtin University, Breast Cancer Research Centre-WA, Perth, Australia (Prof A Chan MD); Department of Internal Medicine, Cancer Research Institute, Seoul National University College of Medicine, Seoul, South Korea (Prof S-A Im MD); Leeds Institute of Health Sciences, University of Leeds, Leeds, UK (P S Hall PhD); and Andrew Love Cancer Centre, Geelong, Australia (Prof R Bell MD) Correspondence to: Prof David Cameron, University of Edinburgh and Cancer Services, NHS Lothian, Crewe Road South, Edinburgh, EH4 2XU, UK d.cameron@ed.ac.uk 
+
+cancer setting3 and the neoadjuvant GeparQuinto trial4 showed promising activity in triple-negative breast cancer, although exploratory analyses of another neoadjuvant trial showed a weaker bevacizumab eﬀect in triple-negative disease than in hormone-receptor-positive disease.5 There was also a biological rationale for assessing adjuvant bevacizumab in triple-negative breast cancer. Hormone-receptor-negative tumours are associated with high concentrations of VEGF,6 the target of bevacizumab, and micrometastases seem to be dependent on angiogenesis.7 Theoretically, targeting the anti-angiogenic switch before tumour vascularisation, when few proangiogenic factors are involved, might be the most appropriate time for anti-angiogenic therapy. We therefore designed the BEATRICE trial to assess the addition of 1 year of bevacizumab to standard adjuvant chemotherapy for triple-negative breast cancer. 
+
+Methods Study design and participants BEATRICE is a multinational open-label randomised phase 3 trial. Eligible patients had operable primary invasive breast cancer (T1b–T3 or T1a with ipsilateral axillary node involvement) centrally conﬁrmed as 
+
+HER2-negative by ﬂuorescence or chromogenic in-situ hybridisation and with either negative or low hormone receptor status (total Allred score 2 or 3 [intensity score 1; proportion score 1 or 2]). Deﬁnitive surgery (breastconserving or mastectomy) had to be completed 4–11 weeks before randomisation. Patients were aged 18 years or older with an Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1, adequate renal, hepatic, and haematological function, and a leftventricular ejection fraction of 55% measured up to 3 months before randomisation, as assessed by 
+
+Chemotherapy (n=1290) 
+
+Chemotherapy plus bevacizumab (n=1301) 
+
+Age Median age in years (range) 
+
+50 (22–80) 
+
+50 (20–84) 
+
+<40 years 
+
+253 (20%) 
+
+231 (18%) 
+
+≥40 years to <65 years 
+
+916 (71%) 
+
+952 (73%) 
+
+≥65 years 
+
+121 (9%) 
+
+118 (9%) 
+
+Premenopausal 
+
+665 (52%) 
+
+676 (52%) 
+
+0 
+
+1186 (93%) 
+
+1202 (92%) 
+
+1 
+
+94 (7%) 
+
+98 (8%) 
+
+2 
+
+1 (<0·5%) 
+
+0 
+
+ECOG performance status* 
+
+Ethnic origin 3558 assessed for eligibility 
+
+967 excluded* 
+
+Asian 
+
+280 (22%) 
+
+Black 
+
+32 (2%) 
+
+333 (26%) 29 (2%) 
+
+White 
+
+968 (75%) 
+
+932 (72%) 
+
+Other 
+
+10 (1%) 
+
+7 (1%) 
+
+T1 (>0 cm to <2 cm) 
+
+457 (35%) 
+
+482 (37%) 
+
+T2 (2 cm to <5 cm) 
+
+759 (59%) 
+
+755 (58%) 
+
+T3 (≥5 cm) 
+
+71 (6%) 
+
+61 (5%) 
+
+1224 (95%) 
+
+1229 (94%) 
+
+66 (5%) 
+
+72 (6%) 
+
+0 
+
+814 (63%) 
+
+824 (63%) 
+
+1–3 
+
+326 (25%) 
+
+322 (25%) 
+
+≥4 
+
+150 (12%) 
+
+155 (12%) 
+
+1183 (92%) 
+
+1209 (93%) 
+
+Tumour size† 2591 randomised 
+
+1290 allocated to chemotherapy alone 1270 received chemotherapy alone 18 received no study drug 2 received bevacizumab 
+
+1301 allocated to bevacizumab plus chemotherapy 1286 received bevacizumab plus chemotherapy 14 received no study drug 1 received no bevacizumab 
+
+89 lost to follow-up 308 discontinued chemotherapy 5 died 60 breast cancer recurrence or second primary malignancy 29 adverse event or intercurrent illness 17 violation criteria at entry 55 withdrew consent 42 refused treatment or did not cooperate 4 failure to return 21 other protocol violations 75 administrative or other reason 
+
+1290 in eﬃcacy analysis 1271 in safety analysis 
+
+1301 in eﬃcacy analysis 1288 in safety analysis 
+
+Figure 1: Trial proﬁle *Violation of at least one inclusion or exclusion criterion. 
+
+934 
+
+73 lost to follow-up 431 discontinued bevacizumab and/or chemotherapy 4 died 30 breast cancer recurrence or second primary malignancy 255 adverse event or intercurrent illness 3 violation criteria at entry 59 withdrew consent 52 refused treatment or did not cooperate 1 failure to return 5 other protocol violations 22 administrative or other reason 
+
+Hormone receptor status Negative Low Positive axillary nodes 
+
+Histology Ductal or invasive Lobular 
+
+20 (2%) 
+
+14 (1%) 
+
+Medullary 
+
+40 (3%) 
+
+43 (3%) 
+
+47 (4%) 
+
+35 (3%) 
+
+Grade 3 tumour 
+
+Other 
+
+895 (69%) 
+
+912 (70%) 
+
+AJCC stage I 
+
+388 (30%) 
+
+382 (29%) 
+
+Breast-conserving surgery 
+
+817 (63%) 
+
+827 (64%) 
+
+Data are n (%) unless otherwise speciﬁed. AJCC=American Joint Committee on Cancer. ECOG= Eastern Cooperative Oncology Group. *Data available for 2581 patients (1281 in the chemotherapy group and 1300 in the chemotherapy plus bevacizumab group). †Data available for 2585 patients (1287 in the chemotherapy group and 1298 in the chemotherapy plus bevacizumab group). 
+
+Table 1: Baseline characteristics 
+
+www.thelancet.com/oncology Vol 14 September 2013 
+
+Articles 
+
+Randomisation and masking After surgical resection, eligible patients were stratiﬁed by axillary nodal status (0 vs 1–3 vs ≥4 positive lymph nodes), selected chemotherapy (anthracycline vs taxane vs anthracycline and taxane), hormone receptor status (negative vs low), and surgery (breast-conserving vs mastectomy). Patients were randomised in a one-to-one ratio to receive either chemotherapy followed by observation or the same chemotherapy combined with bevacizumab and followed by single-agent bevacizumab. Randomisation was done centrally with an interactive voice response system and a block design randomisation procedure with random length block size. 
+
+Procedures At screening, all patients underwent medical history and physical examinations. Patients with four or more involved axillary nodes had a baseline CT scan to exclude metastatic disease. Cardiovascular examination included assessment of risk factors for cardiovascular disease, physical examination, electrocardiogram, and left ventricular systolic function assessment (by echocardiogram or multi-gated acquisition scan). Patients received at least four cycles of anthracycline or taxane therapy, or six to eight cycles of anthracycline and taxane therapy (three or four cycles of each). Patients who underwent breast-conserving surgery received locoregional adjuvant radiotherapy either before randomisation or after completing adjuvant chemotherapy, as per local guidelines. We gave bevacizumab at a dose equivalent to 5 mg/kg every week (15 mg/kg every 3 weeks or 10 mg/kg every 2 weeks) with the selected chemotherapy. Bevacizumab www.thelancet.com/oncology Vol 14 September 2013 
+
+100 Invasive disease-free survival (%) 
+
+echocardiogram (or multi-gated acquisition scan according to each institution’s standard practice). Key exclusion criteria were as follows: previous systemic chemotherapy or anti-VEGF therapy; uncontrolled hypertension; history of transient ischaemic attack or cerebrovascular accident; major surgery, open biopsy, or signiﬁcant traumatic injury in the 28 days before randomisation; risk of developing a venous thromboembolic event outweighing the potential beneﬁt of trial participation; and history of abdominal ﬁstula (including gastrointestinal perforation) within 6 months before randomisation. Before randomisation, investigators selected each patient’s chemotherapy from a prespeciﬁed list of standard chemotherapy options. All patients provided written informed consent. The study was approved by the institutional review board at each participating centre. It was done according to the principles of Good Clinical Practice, the provisions of the Declaration of Helsinki, and other applicable local regulations. Trial conduct and progress were monitored by an international steering group, which included employees of the study funder. 
+
+80 60 40 20 
+
+Bevacizumab plus chemotherapy Chemotherapy 
+
+0 0 Number at risk Bevacizumab plus chemotherapy 1301 Chemotherapy 1290 
+
+6 
+
+12 
+
+18 
+
+24 30 Time (months) 
+
+36 
+
+42 
+
+48 
+
+54 
+
+1244 1221 
+
+1193 1151 
+
+1129 1086 
+
+1058 994 
+
+409 383 
+
+122 105 
+
+4 2 
+
+0 0 
+
+814 772 
+
+Figure 2: Invasive disease-free survival (intent-to-treat population) 
+
+dose reduction was not allowed except for when a patient had a bodyweight change of more than 10%. Bevacizumab was interrupted or discontinued if indicated (appendix). Chemotherapy-related toxicities were treated according to local practice guidelines and in accordance with the summary of product characteristics for the relevant agent. After completing chemotherapy, patients randomly allocated to bevacizumab continued singleagent bevacizumab until they had completed 1 year of bevacizumab in total. Patients underwent clinical examination before each chemotherapy cycle. After completing chemotherapy, patients underwent clinical and laboratory assessments every 3 weeks for the ﬁrst year after randomisation, although clinic visits could be alternated with telephone contact in the chemotherapyalone group after completing chemotherapy. Thereafter, all patients underwent annual mammography with clinical review every 3 months for 2 years, then every 6 months for 2 years, and subsequently annual clinic visits coinciding with mammography. We recorded adverse events, graded according to National Cancer Institute Common Terminology Criteria for Adverse Events (version 3.0), at every clinic visit. The trial included an optional translational programme assessing several candidate biomarkers as a secondary objective. Inclusion in the biomarker study required separate written informed consent. Consenting patients provided 9 mL plasma EDTA samples at baseline (after surgery, before systemic therapy), during study treatment, and at relapse. Samples were analysed centrally with immunological multi-parametric chip technology (IMPACT).8,9 
+
+See Online for appendix 
+
+Statistical analysis The primary objective was to compare invasive diseasefree survival (IDFS) in patients treated with chemotherapy alone versus those given chemotherapy plus bevacizumab. IDFS was deﬁned as the interval between randomisation and ﬁrst invasive recurrence of breast cancer, contralateral invasive breast cancer, second (primary) non-breast invasive cancer, or death from any 935 
+
+Articles 
+
+Subgroups (events/number of patients) Age (years) 
+
+Baseline ECOG PS Region 
+
+Ethnic origin 
+
+Menopausal status Tumour size, cm 
+
+Number of positive lymph nodes 
+
+(74/484) 
+
+0·95 (0·60–1·51) 
+
+40–<65 
+
+(281/1868) 
+
+0·82 (0·65–1·03) 
+
+≥65 
+
+(38/239) 
+
+1·24 (0·65–2·34) 
+
+0 
+
+(362/2388) 
+
+0·90 (0·73–1·11) 
+
+1 
+
+(27/192) 
+
+0·66 (0·31–1·41) 
+
+Australia, western and northern Europe, USA, Canada 
+
+(227/1575) 
+
+0·81 (0·63–1·05) 
+
+Central and southern Europe, Israel, Russia 
+
+(52/308) 
+
+1·03 (0·60–1·77) 
+
+South America 
+
+(10/59) 
+
+1·63 (0·47–5·69) 
+
+Asia, New Zealand, South Africa 
+
+(104/649) 
+
+0·92 (0·62–1·35) 
+
+Asian 
+
+(94/613) 
+
+0·99 (0·66–1·48) 
+
+Black 
+
+(9/61) 
+
+2·35 (0·59–9·41) 
+
+Other 
+
+(3/17) 
+
+2·77 (0·25–30·60) 
+
+White 
+
+(287/1900) 
+
+0·81 (0·64–1·02) 
+
+Post 
+
+(181/1250) 
+
+0·93 (0·70–1·25) 
+
+Pre 
+
+(212/1341) 
+
+0·83 (0·64–1·09) 
+
+0–<2 
+
+(96/939) 
+
+0·85 (0·57–1·27) 
+
+≥2–5 
+
+(251/1514) 
+
+0·87 (0·68–1·12) 
+
+≥5 
+
+(45/132) 
+
+1·13 (0·63–2·03) 
+
+0 
+
+(183/1640) 
+
+0·74 (0·55–0·99) 
+
+1–3 
+
+(36/638) 
+
+0·94 (0·64–1·38) 
+
+≥4 
+
+(106/313) 
+
+1·12 (0·76–1·64) 
+
+(121/947) 
+
+0·70 (0·49–1·01) 
+
+Anthracycline and taxane 
+
+(251/1508) 
+
+0·98 (0·77–1·26) 
+
+Taxane 
+
+(21/136) 
+
+0·82 (0·35–1·92) 
+
+(378/2453) 
+
+0·85 (0·69–1·04) 
+
+ER or PgR low, or both low 
+
+(15/138) 
+
+2·52 (0·80–7·93) 
+
+Breast-conserving surgery 
+
+(214/1644) 
+
+0·84 (0·64–1·09) 
+
+Mastectomy 
+
+(179/947) 
+
+0·93 (0·70–1·25) 
+
+All 
+
+(393/2591) 
+
+0·88 (0·72–1·07) 
+
+Adjuvant chemotherapy Anthracycline 
+
+Hormone receptor status ER and PgR negative Surgery All 
+
+Hazard ratio (95% CI) 
+
+<40 
+
+0·2 
+
+0·5 
+
+1 
+
+Favours bevacizumab plus chemotherapy 
+
+2 
+
+5 
+
+Favours chemotherapy 
+
+Figure 3: Invasive disease-free survival: subgroup analyses ECOG PS=Eastern Cooperative Oncology Group performance status. ER=oestrogen-receptor. PgR=progesterone receptor. 
+
+cause.10 We calculated the sample size assuming a 24-month recruitment period, 29 months’ minimum follow-up, and a 5-year IDFS of 72·0% with chemotherapy alone versus 78·2% with bevacizumab (hazard ratio [HR] 0·75). To provide 80% power to detect this HR at a twosided α of 0·05, 388 IDFS events were needed. This required 1140 patients in each group; assuming 10% dropout, the target accrual was 2530 patients. Secondary endpoints included overall survival, breast cancer-free interval, disease-free survival (DFS), distant DFS, and safety. Overall survival analysis is prespeciﬁed to occur after 340 deaths or 5 years’ median follow-up, whichever occurs ﬁrst, and has 75% power to detect an HR of 0·75 at a two-sided α of 0·05. Severe cardiac events were predeﬁned as New York Heart Association class III or IV congestive heart failure accompanied by a ten-point or more left-ventricular ejection fraction decrease from baseline to less than 50%, probable cardiac death (unexplained sudden death within 24 h), or deﬁnite cardiac death (from congestive heart failure, myocardial infarction, or documented primary arrhythmia). We 936 
+
+regarded deaths with cause recorded as unknown as probable cardiac deaths. We tested eﬃcacy endpoints with a two-sided stratiﬁed log-rank test and plotted Kaplan-Meier estimates by treatment group. We expressed estimates of the treatment eﬀect as HRs with 95% CIs. Plasma VEGF-A and VEGFR-2 assessment was prespeciﬁed in the protocol to conﬁrm previous results in metastatic breast,8 pancreatic,11 and gastric (VEGF-A only)12 cancers. The biomarker-assessable population (all patients consenting to biomarker research who received any study drug and who had protein-marker concentrations measured in baseline plasma samples) was dichotomised with the median baseline concentration of each marker as the cutoﬀ between high and low cohorts. We also did exploratory analyses by quartile. We assessed correlations between baseline concentrations of candidate biomarkers and IDFS using log-rank testing and Cox regression. We used SAS (version 8.2) for all statistical analyses. This trial is registered with ClinicalTrials.gov, number NCT00528567. www.thelancet.com/oncology Vol 14 September 2013 
+
+Articles 
+
+Role of the funding source 
+
+Results Between Dec 3, 2007, and March 8, 2010, we enrolled 2591 patients from 360 sites in 37 countries (ﬁgure 1). Baseline characteristics were much the same between treatment groups (table 1). Almost two-thirds of patients in both groups had node-negative disease. Most patients received anthracycline and taxane therapy (756 [59%] of 1290 patients in the chemotherapy-alone group vs 752 [58%] of 1301 patients in the bevacizumab group). About a third received non-taxane anthracycline-containing chemotherapy (468 [36%] of 1290 patients in the chemotherapy-alone group vs 479 [37%] of 1301 patients in the bevacizumab group). 66 (5%) patients in the chemotherapy-alone group and 70 (5%) patients in the bevacizumab group were treated with a nonanthracycline taxane regimen (53 [7%] of 806 patients vs 56 [7%] of 834 in the subgroup of patients who were node-negative). Similar proportions of patients received radiotherapy (953 [74%] in the chemotherapy-alone vs 952 [73%] in the bevacizumab group) and adjuvant endocrine therapy (seven patients [1%] vs four patients [<0·5%]). At the time of data cutoﬀ (Feb 29, 2012), median duration of follow-up was 31·5 months (IQR 25·6–36·8) in the chemotherapy-alone group and 32·0 months (27·5–36·9) in the bevacizumab group. Chemotherapy was completed as planned in 1192 patients (92%) in the chemotherapy-alone group and 1205 patients (93%) in the bevacizumab group; bevacizumab was completed as planned in 887 patients (68%). The most common reasons for premature bevacizumab discontinuation were adverse events or intercurrent illness (233 patients [18%]) and withdrawal of consent (57 [4%])—30 patients (2%) discontinued bevacizumab because of breast cancer recurrence or occurrence of a second primary cancer. At data cutoﬀ, 205 patients (16%) in the chemotherapy alone group and 188 (14%) in the bevacizumab and chemotherapy group had had an IDFS event. There was no diﬀerence between groups in IDFS (HR 0·87 stratiﬁed log-rank analysis [95% CI 0·72–1·07]; 3-year IDFS 82·7% [95% CI 80·5–85·0] in the chemotherapy group vs 83·7% [81·4–86·0] in the bevacizumab group; p=0·18; ﬁgure 2). www.thelancet.com/oncology Vol 14 September 2013 
+
+Chemotherapy (n=1290) 
+
+Chemotherapy plus bevacizumab (n=1301) 
+
+Hazard ratio (95% CI) 
+
+Log-rank p value 
+
+Disease-free survival 
+
+208 (16%) 
+
+191 (15%) 
+
+0·87 (0·72–1·07) 
+
+0·18 
+
+Breast-cancer-free interval 
+
+183 (14%) 
+
+172 (13%) 
+
+0·89 (0·72–1·10) 
+
+0·28 
+
+Distant-disease-free survival 
+
+164 (13%) 
+
+152 (12%) 
+
+0·90 (0·72–1·12) 
+
+0·33 
+
+Overall survival 
+
+107 (8%) 
+
+93 (7%) 
+
+0·84 (0·64–1·12) 
+
+0·23 
+
+Data are number of events (%) unless otherwise speciﬁed. 
+
+Table 2: Secondary eﬃcacy outcome measures 
+
+100 80 Overall survival (%) 
+
+F Hoﬀmann-La Roche sponsored the trial and was jointly responsible with the University of Leeds Clinical Trials Unit for statistical analyses. The trial database was held independently from the sponsor (which had no access to eﬃcacy data except to resolve safety queries) but was shared with the sponsor after primary analysis. Safety review was done by the sponsor. Eﬃcacy review was done by Leeds Clinical Trials Unit. The sponsor supported medical writing assistance for this paper and had the opportunity to review the content, but the ﬁnal decision to submit for publication was the responsibility of the corresponding author, in agreement with the trial steering group. 
+
+60 40 20 
+
+Bevacizumab plus chemotherapy Chemotherapy 
+
+0 0 Number at risk Bevacizumab plus chemotherapy 1301 Chemotherapy 1290 
+
+6 
+
+12 
+
+18 
+
+24 30 Time (months) 
+
+36 
+
+42 
+
+48 
+
+54 
+
+1264 1248 
+
+1234 1215 
+
+1196 1169 
+
+1130 1087 
+
+443 424 
+
+128 113 
+
+4 4 
+
+0 0 
+
+863 831 
+
+Figure 4: Overall survival (59% of required events) 
+
+The sites of recurrence were much the same in the two treatment groups, the most common being distant recurrence (137 patients [11%] receiving chemotherapy alone vs 137 patients [11%] also receiving bevacizumab). The most frequent sites of distant recurrence were lung (37 [27%] of 137 distant recurrences vs 39 [28%] of 137 distant recurrences), liver (21 [15%] vs 28 [20%]), and bone (27 [20%] vs 23 [17%]). Distant CNS or meningeal recurrence accounted for 16 recurrences (12%) in the chemotherapy group and ten (7%) in the bevacizumab group. Subgroup analyses according to stratiﬁcation factors and other clinically important characteristics showed no evidence of diﬀerences in IDFS between treatment groups (ﬁgure 3). All secondary eﬃcacy endpoints seemed to favour bevacizumab, but none was statistically signiﬁcant (table 2). At data cutoﬀ, 107 (8%) patients in the chemotherapy group and 93 (7%) patients in the bevacizumab group had died (HR 0·84, 95% CI 0·64–1·12; p=0·23; ﬁgure 4), with the most common cause of death being breast cancer (95 [89% of the 107] patients in the chemotherapy group and 86 [92% of the 93] in the bevacizumab group). Almost all patients had adverse events (1252 [99%] patients in the chemotherapy group and 1274 [99%] patients in the bevacizumab group; table 3). Grade 3 or higher adverse events occurred in 722 (57%) of 1271 patients receiving chemotherapy alone and 924 (72%) of 1288 patients receiving bevacizumab. We 937 
+
+Articles 
+
+Chemotherapy phase 
+
+Observation or single-agent bevacizumab phase 
+
+Chemotherapy (n=1271) 
+
+Neutropenia or neutrophil count decreased Febrile neutropenia Leucopenia 
+
+Chemotherapy plus bevacizumab (n=1288) 
+
+Chemotherapy (n=1271) 
+
+Chemotherapy plus bevacizumab (n=1288) 
+
+1–2 
+
+3–4 
+
+5 
+
+1–2 
+
+3–4 
+
+5 
+
+1–2 
+
+3–4 
+
+5 
+
+1–2 
+
+3–4 
+
+5 
+
+101 (8%) 
+
+407 (32%) 
+
+0 
+
+104 (8%) 
+
+454 (35%) 
+
+0 
+
+27 (2%) 
+
+7 (1%) 
+
+0 
+
+30 (2%) 
+
+11 (1%) 
+
+0 
+
+0 
+
+75 (6%) 
+
+0 
+
+1 (<0·5%) 103 (8%) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 (<0·5%) 
+
+0 
+
+111 (9%) 
+
+97 (8%) 
+
+0 
+
+90 (7%) 
+
+116 (9%) 
+
+0 
+
+20 (2%) 
+
+1 (<0·5%) 
+
+0 
+
+19 (1%) 
+
+4 (<0·5%) 
+
+0 0 
+
+Anaemia 
+
+155 (12%) 
+
+11 (1%) 
+
+0 
+
+120 (9%) 
+
+13 (1%) 
+
+0 
+
+14 (1%) 
+
+1 (<0·5%) 
+
+0 
+
+12 (1%) 
+
+0 
+
+Nausea 
+
+855 (67%) 
+
+17 (1%) 
+
+0 
+
+837 (65%) 
+
+35 (3%) 
+
+0 
+
+36 (3%) 
+
+0 
+
+0 
+
+63 (5%) 
+
+0 
+
+0 
+
+Stomatitis 
+
+448 (35%) 
+
+22 (2%) 
+
+0 
+
+579 (45%) 
+
+71 (6%) 
+
+0 
+
+8 (1%) 
+
+0 
+
+0 
+
+59 (5%) 
+
+0 
+
+0 
+
+Vomiting 
+
+419 (33%) 
+
+30 (2%) 
+
+0 
+
+417 (32%) 
+
+42 (3%) 
+
+0 
+
+28 (2%) 
+
+0 
+
+0 
+
+58 (5%) 
+
+0 
+
+0 
+
+Constipation 
+
+385 (30%) 
+
+3 (<0·5%) 
+
+0 
+
+420 (33%) 
+
+1 (<0·5%) 0 
+
+25 (2%) 
+
+0 
+
+0 
+
+37 (3%) 
+
+0 
+
+0 
+
+Diarrhoea 
+
+319 (25%) 
+
+13 (1%) 
+
+0 
+
+342 (27%) 
+
+22 (2%) 
+
+0 
+
+26 (2%) 
+
+0 
+
+0 
+
+91 (7%) 
+
+2 (<0·5%) 
+
+0 0 
+
+Dyspepsia 
+
+147 (12%) 
+
+1 (<0·5%) 
+
+0 
+
+175 (14%) 
+
+2 (<0·5%) 0 
+
+27 (2%) 
+
+0 
+
+0 
+
+26 (2%) 
+
+0 
+
+Alopecia 
+
+830 (65%) 
+
+0 
+
+0 
+
+804 (62%) 
+
+0 
+
+0 
+
+6 (<0·5%) 
+
+0 
+
+0 
+
+9 (1%) 
+
+0 
+
+0 
+
+Nail disorder 
+
+132 (10%) 
+
+0 
+
+0 
+
+128 (10%) 
+
+0 
+
+0 
+
+18 (1%) 
+
+0 
+
+0 
+
+53 (4%) 
+
+1 (<0·5%) 
+
+0 
+
+Fatigue 
+
+477 (38%) 
+
+26 (2%) 
+
+0 
+
+446 (35%) 
+
+37 (3%) 
+
+0 
+
+74 (6%) 
+
+0 
+
+0 
+
+88 (7%) 
+
+4 (<0·5%) 
+
+0 
+
+Asthenia 
+
+197 (15%) 
+
+14 (1%) 
+
+0 
+
+191 (15%) 
+
+13 (1%) 
+
+0 
+
+30 (2%) 
+
+1 (<0·5%) 
+
+0 
+
+46 (4%) 
+
+2 (<0·5%) 
+
+0 
+
+Pyrexia 
+
+160 (13%) 
+
+1 (<0·5%) 
+
+0 
+
+213 (17%) 
+
+2 (<0·5%) 0 
+
+14 (1%) 
+
+0 
+
+0 
+
+21 (2%) 
+
+0 
+
+0 
+
+Headache 
+
+233 (18%) 
+
+6 (<0·5%) 
+
+0 
+
+333 (26%) 
+
+14 (1%) 
+
+0 
+
+64 (5%) 
+
+1 (<0·5%) 
+
+0 
+
+163 (13%) 
+
+8 (1%) 
+
+0 
+
+Dysgeusia 
+
+222 (17%) 
+
+0 
+
+0 
+
+228 (18%) 
+
+0 
+
+0 
+
+12 (1%) 
+
+0 
+
+0 
+
+18 (1%) 
+
+0 
+
+0 
+
+Myalgia 
+
+241 (19%) 
+
+6 (<0·5%) 
+
+0 
+
+195 (15%) 
+
+6 (<0·5%) 0 
+
+39 (3%) 
+
+0 
+
+0 
+
+80 (6%) 
+
+2 (<0·5%) 
+
+0 
+
+Arthralgia 
+
+151 (12%) 
+
+4 (<0·5%) 
+
+0 
+
+180 (14%) 
+
+16 (1%) 
+
+108 (8%) 
+
+1 (<0·5%) 
+
+0 
+
+246 (19%) 
+
+5 (<0·5%) 
+
+0 
+
+Epistaxis 
+
+70 (6%) 
+
+0 
+
+0 
+
+409 (32%) 
+
+3 (<0·5%) 0 
+
+6 (<0·5%) 
+
+0 
+
+0 
+
+99 (8%) 
+
+0 
+
+0 
+
+Cough 
+
+117 (9%) 
+
+2 (<0·5%) 
+
+0 
+
+139 (11%) 
+
+0 
+
+0 
+
+47 (4%) 
+
+0 
+
+0 
+
+77 (6%) 
+
+0 
+
+0 
+
+Oropharyngeal pain 
+
+81 (6%) 
+
+0 
+
+0 
+
+148 (11%) 
+
+1 (<0·5%) 0 
+
+17 (1%) 
+
+0 
+
+0 
+
+40 (3%) 
+
+0 
+
+0 
+
+Hypertension 
+
+36 (3%) 
+
+5 (<0·5%) 
+
+0 
+
+139 (11%) 
+
+85 (7%) 
+
+16 (1%) 
+
+3 (<0·5%) 
+
+0 
+
+196 (15%) 
+
+68 (5%) 
+
+0 
+
+Hot ﬂush 
+
+144 (11%) 
+
+6 (<0·5%) 
+
+0 
+
+139 (11%) 
+
+3 (<0·5%) 0 
+
+57 (4%) 
+
+2 (<0·5%) 
+
+0 
+
+70 (5%) 
+
+2 (<0·5%) 
+
+0 
+
+Decreased appetite 
+
+210 (17%) 
+
+4 (<0·5%) 
+
+0 
+
+238 (18%) 
+
+6 (<0·5%) 0 
+
+14 (1%) 
+
+0 
+
+0 
+
+24 (2%) 
+
+0 
+
+0 
+
+Lacrimation increased 
+
+105 (8%) 
+
+1 (<0·5%) 
+
+0 
+
+143 (11%) 
+
+0 
+
+Insomnia 
+
+168 (13%) 
+
+2 (<0·5%) 
+
+0 
+
+157 (12%) 
+
+1 (<0·5%) 0 
+
+Proteinuria 
+
+14 (1%) 
+
+1 (<0·5%) 
+
+0 
+
+34 (3%) 
+
+8 (1%) 
+
+0 
+
+8 (1%) 
+
+Radiation skin injury 
+
+13 (1%) 
+
+0 
+
+0 
+
+7 (1%) 
+
+0 
+
+0 
+
+165 (13%) 
+
+Left ventricular dysfunction* 
+
+88 (7%) 
+
+3 (<0·5%) 
+
+0 
+
+88 (7%) 
+
+7 (1%) 
+
+0 
+
+62 (5%) 
+
+Gamma glutamyltransferase increase 
+
+35 (3%) 
+
+4 (<0·5%) 
+
+0 
+
+41 (3%) 
+
+26 (2%) 
+
+0 
+
+6 (<0·5%) 
+
+0 
+
+0 
+
+0 
+
+3 (<0·5%) 
+
+0 
+
+0 
+
+13 (1%) 
+
+0 
+
+0 
+
+56 (4%) 
+
+0 
+
+0 
+
+30 (2%) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+132 (10%) 
+
+24 (2%) 
+
+0 
+
+12 (1%) 
+
+0 
+
+129 (10%) 
+
+5 (<0·5%) 
+
+0 
+
+1 (<0·5%) 
+
+0 
+
+132 (10%) 
+
+12 (1%) 
+
+0 
+
+0 
+
+0 
+
+14 (1%) 
+
+5 (<0·5%) 
+
+0 
+
+Data are number of patients with events (%). *Left ventricular dysfunction according to National Cancet Institute Common Terminology Criteria for Adverse Events (NCI CTCAE; version 3.0); treatment decisions were made on the basis of the protocol-speciﬁed deﬁnition of severe cardiac events (as in table 4) rather than NCI CTCAE grading. 
+
+Table 3: Summary of adverse events occurring in more than 10% of patients (any grade) or 2% or more of patients (for grade 3 of higher) 
+
+recorded a high incidence of grade 3 or higher haematological adverse events with both treatments. Hypertension was the most common nonhaematological grade 3 or worse adverse event with bevacizumab (158 [12%] of 1288 patients vs ten [1%] of 1271 patients in the chemotherapy-alone group over the entire treatment period). Hypertension and proteinuria were the dominant grade 3 or worse adverse events during single-agent bevacizumab treatment (table 3). The safety proﬁle of the bevacizumab-containing regimen was generally consistent with previous phase 3 trials of bevacizumab in metastatic breast cancer (table 4). Severe cardiac events occurring at any point during the 18-month safety reporting period were more common 938 
+
+with bevacizumab (19 [1%] of 1288 patients given bevacizumab vs two [<0·5%] of 1271 patients given chemotherapy alone). All cases in the bevacizumab group occurred in patients receiving anthracyclinecontaining therapy. At data cutoﬀ, 12 (86%) of 14 severe cardiac events (excluding probable cardiac deaths shown in table 4) in the bevacizumab group were regarded by the treating investigator to be resolved, although patients could have been receiving ongoing cardiac medication. Further analyses of cardiac safety, including long-term follow-up, will be reported separately. Adverse events led to study treatment discontinuation less often in the chemotherapy group (30 [2%] of 1271 patients) than in the bevacizumab group (256 [20%] of 1288 patients). More bevacizumab discontinuations (128 www.thelancet.com/oncology Vol 14 September 2013 
+
+Articles 
+
+[56%] of 229) occurred during the post-chemotherapy phase compared with during the chemotherapy phase (appendix). The adverse events that most commonly led to bevacizumab discontinuation were hypertension, left ventricular dysfunction, proteinuria, and left-ventricular ejection fraction decrease (table 5; appendix). Fatal adverse events occurred in three (<0·5%) patients in the chemotherapy-alone group (neutropenic sepsis, pneumonia, and shock, all during the chemotherapy period and regarded as treatment-related) and in four (<0·5%) bevacizumab-treated patients (one unexplained treatment-related death on day 11, preceded by moderate diarrhoea and nausea from day 5; two treatment-related deaths during the single-agent bevacizumab period [coronary artery disease, multi-organ failure]; and one death from sepsis after stopping bevacizumab treatment but within 18 months of randomisation, which was not treatment-related). Of the 2591 patients enrolled, 1273 (49%) consented to the biomarker study and 1178 (45%) were included in the biomarker-assessable population (573 receiving chemotherapy alone and 605 receiving bevacizumab). Overall, the baseline characteristics of the biomarkerassessable population were similar to those of the intention-to-treat population except for fewer Asian patients (141 [12%] of 1178 biomarker-assessable patients vs 613 [24%] of 2591 intention-to-treat patients; appendix). IDFS was similar in the biomarker-assessable and intentto-treat populations. Baseline characteristics in the biomarker-assessable population were balanced between groups (appendix). We recorded no correlation between baseline circulating VEGFR-2 and VEGF-A concentrations (r=0·0757). Analysis of baseline plasma VEGF-A concentration showed neither prognostic nor predictive value using the median (77·0 pg/mL) as the cutoﬀ (ﬁgure 5). Exploratory analyses with an upper quartile cutoﬀ (133·6 pg/mL, similar to the median cutoﬀ values in the AVADO and AVEREL trials in metastatic breast cancer8,13) seemed to show a greater IDFS beneﬁt in the subgroup with high baseline plasma VEGF-A than in those with low baseline plasma VEGF-A, but diﬀerences were not statistically signiﬁcant (ﬁgure 5). The median baseline plasma VEGFR-2 concentration was 10·2 ng/mL, similar to median values in AVADO (11·0 ng/mL)8 and AVEREL (14·1 ng/mL).13 Plasma VEGFR-2 concentrations showed no prognostic value but potential predictive value for bevacizumab eﬃcacy (ﬁgure 5). We detected an IDFS beneﬁt in only patients with high baseline plasma VEGFR-2 concentrations (ﬁgure 5). 
+
+Discussion The addition of bevacizumab to chemotherapy during adjuvant therapy did not improve IDFS for patients with triple-negative breast cancer. To our knowledge, BEATRICE is the ﬁrst randomised phase 3 trial www.thelancet.com/oncology Vol 14 September 2013 
+
+All grade 3 or higher adverse events of special interest 
+
+Chemotherapy phase 
+
+Observation or single-agent bevacizumab phase 
+
+Chemotherapy Chemotherapy (n=1271) plus bevacizumab (n=1288) 
+
+Chemotherapy (n=1271) 
+
+Chemotherapy plus bevacizumab (n=1288) 
+
+33 (3%) 
+
+12 (1%) 
+
+122 (9%) 
+
+143 (11%) 
+
+Arterial thromboembolic event 
+
+2 (<0·5%) 
+
+2 (<0·5%) 
+
+1 (<0·5%) 
+
+Venous thromboembolic event 
+
+15 (1%) 
+
+21 (2%) 
+
+4 (<0·5%) 
+
+4 (<0·5%) 1 (<0·5%) 
+
+Bleeding 
+
+2 (<0·5%) 
+
+8 (1%) 
+
+2 (<0·5%) 
+
+0 
+
+Severe cardiac events* 
+
+0 
+
+4 (<0·5%) 
+
+0 
+
+12 (1%) 
+
+Non-severe cardiac events† 
+
+12 (1%) 
+
+21 (2%) 
+
+8 (1%) 
+
+32 (2%) 
+
+Hypertension 
+
+6 (<0·5%) 
+
+88 (7%) 
+
+4 (<0·5%) 
+
+70 (5%) 
+
+Fistula or abscess 
+
+2 (<0·5%) 
+
+0 
+
+0 
+
+1 (<0·5%) 
+
+Gastrointestinal perforation 
+
+0 
+
+6 (<0·5%) 
+
+0 
+
+0 
+
+Proteinuria 
+
+1 (<0·5%) 
+
+8 (1%) 
+
+0 
+
+24 (2%) 
+
+Reversible posterior leucoencephalopathy syndrome 
+
+0 
+
+1 (<0·5%) 
+
+0 
+
+1 (<0·5%) 
+
+Wound-healing complication 
+
+3 (<0·5%) 
+
+3 (<0·5%) 
+
+0 
+
+1 (<0·5%) 
+
+Data are number of patients with events using MEDRA basket terms (%). LVEF=left ventricular ejection fraction; NYHA=New York Heart Association. *Predeﬁned as NYHA class III or IV congestive heart failure accompanied by a decrease in LVEF of more than 10 percentage points to below 50%, or probable or deﬁnite cardiac death. Four deaths were counted as probable cardiac death (one in the chemotherapy group, three in the chemotherapy plus bevacizumab group) with death recorded in the survival follow-up rather than as an adverse event, but considered in a conservative approach as probable cardiac death. The remaining two patients considered to have had probable cardiac death were from multi-organ failure in one patient and coronary artery disease in one patient (both in the chemotherapy plus bevacizumab group). †Deﬁned as LVEF below 50% together with either NYHA class I, missing NYHA but described as asymptomatic by the investigator, or NYHA class II congestive heart failure. 
+
+Table 4: Grade 3 or higher adverse events reported in previous clinical trials of bevacizumab 
+
+Single-agent Chemotherapy plus bevacizumab bevacizumab phase (n=1288) phase (n=1288) Total 
+
+101 (8%) 
+
+128 (10%) 
+
+Vascular disorders 
+
+22 (2%) 
+
+27 (2%) 
+
+Cardiac disorders 
+
+15 (1%) 
+
+31 (2%) 
+
+Renal and urinary disorders 
+
+3 (<0·5%) 
+
+19 (1%) 
+
+Gastrointestinal disorders 
+
+16 (1%) 
+
+3 (<0·5%) 
+
+Data are number of patients (%). See appendix for a full list of adverse events leading to bevacizumab treatment discontinuation. 
+
+Table 5: Summary of selected adverse event categories leading to bevacizumab treatment discontinuation by treatment phase 
+
+speciﬁcally in patients with centrally conﬁrmed early triple-negative breast cancer. The trial provides important information not only about adjuvant bevacizumab, but also about the outcomes of patients with this subtype of disease receiving standard chemotherapy (panel). 3-year IDFS in both treatment groups was higher than expected, suggesting that the prognosis for these patients is better than previously thought. The low rate of recurrences might also be attributable to the high proportion of patients with node-negative disease enrolled into BEATRICE, a ﬁnding that could have important implications for interpretation and follow-up. The timing of the primary analysis was planned with few available 939 
+
+Articles 
+
+A 
+
+Events/number of patients 
+
+Hazard ratio (95% CI) 
+
+Interaction p value 
+
+Chemotherapy Chemotherapy plus bevacizumab Median (77·0 pg/mL) 
+
+Low 42/275 
+
+46/309 
+
+0·89 (0·58–1·36) 
+
+High 45/285 
+
+40/286 
+
+0·81 (0·53–1·26) 
+
+Third quartile (133·6 pg/mL) 
+
+Low 62/421 
+
+65/446 
+
+0·92 (0·65–1·31) 
+
+High 25/139 
+
+21/149 
+
+0·64 (0·35–1·16) 0·2 
+
+0·7415 
+
+0·3551 0·5 
+
+1 
+
+Favours bevacizumab plus chemotherapy 
+
+B 
+
+2 
+
+5 
+
+Favours chemotherapy 
+
+Invasive disease-free survival (%) 
+
+100 80 60 40 Chemotherapy low VEGF-A Chemotherapy high VEGF-A Bevacizumab plus chemotherapy low VEGF-A Bevacizumab plus chemotherapy high VEGF-A 
+
+20 0 0 
+
+Number at risk Bevacizumab plus 149 chemotherapy high Bevacizumab plus 446 chemotherapy low Chemotherapy high 139 Chemotherapy low 421 
+
+C 
+
+6 
+
+12 
+
+18 
+
+24 30 Time (months) 
+
+36 
+
+42 
+
+48 
+
+54 
+
+146 
+
+139 
+
+133 
+
+126 
+
+104 
+
+51 
+
+18 
+
+1 
+
+0 
+
+437 
+
+418 
+
+392 
+
+375 
+
+297 
+
+144 
+
+35 
+
+1 
+
+0 
+
+137 403 
+
+128 382 
+
+120 365 
+
+112 344 
+
+84 288 
+
+42 148 
+
+11 41 
+
+1 0 
+
+0 0 
+
+Events/number of patients 
+
+Hazard ratio (95% CI) 
+
+Interaction p value 
+
+Chemotherapy Chemotherapy plus bevacizumab Median (10·2 ng/mL) 
+
+Low 42/291 
+
+52/295 
+
+1·24 (0·82–1·89) 
+
+High 45/278 
+
+34/308 
+
+0·61 (0·39–0·97) 
+
+Third quartile (12·7 ng/mL) 
+
+Low 64/431 
+
+68/448 
+
+1·03 (0·73–1·46) 
+
+High 23/138 
+
+18/155 
+
+0·51 (0·26–0·98) 0·2 
+
+0·0291 
+
+0·0776 0·5 
+
+Favours bevacizumab plus chemotherapy 
+
+D 
+
+1 
+
+2 
+
+5 
+
+Favours chemotherapy 
+
+Invasive disease-free survival (%) 
+
+100 80 60 40 Chemotherapy low VEGFR-2 Chemotherapy high VEGFR-2 Bevacizumab plus chemotherapy low VEGFR-2 Bevacizumab plus chemotherapy high VEGFR-2 
+
+20 0 0 
+
+Number at risk Bevacizumab plus 308 chemotherapy high Bevacizumab plus 295 chemotherapy low Chemotherapy high 278 Chemotherapy low 291 
+
+940 
+
+6 
+
+12 
+
+18 
+
+24 30 Time (months) 
+
+36 
+
+42 
+
+48 
+
+54 
+
+302 
+
+292 
+
+278 
+
+265 
+
+211 
+
+107 
+
+33 
+
+2 
+
+0 
+
+285 
+
+269 
+
+251 
+
+239 
+
+191 
+
+88 
+
+20 
+
+0 
+
+0 
+
+270 279 
+
+256 263 
+
+244 250 
+
+229 235 
+
+186 192 
+
+93 100 
+
+24 31 
+
+1 0 
+
+0 0 
+
+data for outcomes in this setting. Although the protocolspeciﬁed number of events for the primary analysis was reached, the data are arguably immature for full interpretation with 183 (56%) of 325 IDFS events in node-negative patients, who make up most of the trial population. The balance of events between patients with node-negative and node-positive disease might be expected to have altered by the time of the ﬁnal analysis. Bevacizumab had no statistically signiﬁcant eﬀect on the secondary time-related endpoints (DFS, breast cancer-free interval, distant DFS). That we recorded no diﬀerence is unlikely to be attributable to compromised chemotherapy dosing. Although conventional calculations of dose intensity are not possible because we did not record data for the planned number of chemotherapy cycles, the high and very balanced rates of chemotherapy completion in both groups suggest no detrimental eﬀect of bevacizumab on the ability to deliver chemotherapy. Further follow-up is needed to establish any potential eﬀect of bevacizumab on overall survival, with the prespeciﬁed overall survival analysis anticipated in early 2014. The spectrum and incidence of adverse events with bevacizumab were consistent with the safety proﬁle established in previous bevacizumab trials in metastatic breast cancer and other solid tumour types. We recorded no increase in the incidence of toxic deaths; this ﬁnding is in agreement with meta-analyses in metastatic breast cancer14,15 and contrasts with meta-analyses across a range of solid tumour types.16 Bevacizumab discontinuation was quite frequent in BEATRICE, possibly in part owing to the open-label design and the adjuvant setting. The discontinuation rate might be indicative of patients’ intolerance of treatment, attributable to either adverse eﬀects or reluctance to attend clinic visits for regular infusions during extended treatment. The main toxicities were hypertension and proteinuria. There was a slight increase in severe cardiac events in the bevacizumab group; all cases occurred in patients receiving anthracycline-based therapy, consistent with previous experience.17,18 Most cardiac events with bevacizumab were regarded as reversible, and therefore data are needed on the longer-term bevacizumab eﬀects on cardiac function. Local VEGF concentrations are important in driving tumour angiogenesis. However, assessment of VEGF bioactivity has been elusive. Tumour VEGF-A expression, assessed by immunohistochemistry or qPCR, has shown prognostic value but no correlation with anti-VEGF activity. Plasma biomarkers suggested potential predictive value for bevacizumab eﬃcacy in the AVADO (HER2-negative metastatic breast cancer8), AVEREL Figure 5: Invasive disease-free survival according to pre-treatment plasma concentration of VEGF-A (A and B) and VEGFR-2 (C and D) Graphs show data for concentrations of VEGF-A (median vs third quartile cutoﬀ; A), VEGF-A (third quartile cutoﬀ; B), VEGFR-2 (median vs third quartile cutoﬀ; C), and VEGFR-2 (median cutoﬀ; D). 
+
+www.thelancet.com/oncology Vol 14 September 2013 
+
+Articles 
+
+(HER2-positive metastatic breast cancer13), and AViTA (advanced pancreatic cancer11) trials. In BEATRICE, pretreatment plasma VEGFR-2 showed some evidence of a predictive eﬀect, lending support to previous ﬁndings. However, the similar circulating concentrations of VEGFR-2 in the adjuvant and metastatic breast cancer settings suggest that soluble VEGFR-2 concentrations are not necessarily related to tumour burden. Further research is needed to understand factors driving plasma VEGFR-2 variance and their eﬀect on host vascular biology and angiogenesis. It will also be important to see whether this hypothesis is substantiated on mature data for overall survival. Plasma VEGF-A results using a median cutoﬀ showed neither prognostic nor predictive value. Although preanalytical factors and sample handling in BEATRICE were similar to AVADO and AVEREL, the median concentration (77·0 pg/mL) in BEATRICE was lower than seen in metastatic breast cancer (125·0 pg/mL in AVADO,8 129·1 pg/mL in AVEREL13). Tumour cells are a major source of circulating VEGF-A, and therefore the possible eﬀect of tumour resection immediately before treatment needs further investigation, together with exploration of the eﬀect of diﬀering biology in the adjuvant setting. Two previous randomised phase 3 trials assessing adjuvant bevacizumab in colon cancer (C-0819 and AVANT20) showed no improvement in DFS (the primary endpoint) with 1 year of bevacizumab added to standard chemotherapy. The IDFS results of BEATRICE are consistent with the primary endpoint results of the colon cancer trials. We recorded no evidence of a diﬀerence in outcome between treatments by the end of the study period, with Kaplan-Meier curves eventually coming together after bevacizumab discontinuation in all three trials. In AVANT (but not in C-08) there was a suggestion of worse outcome in the bevacizumab group, whereas in BEATRICE the Kaplan-Meier curve favoured the bevacizumab group. This diﬀerence is maintained throughout the follow-up period and contradicts suggestions of a putative rebound eﬀect in AVANT.21 The absence of a statistically signiﬁcant eﬀect of adjuvant bevacizumab in colon and breast cancers draws attention to our poor understanding of the dependency of micrometastases on angiogenesis. There has been little assessment of anti-angiogenic strategies in preclinical models of adjuvant systemic therapy, and characterisation of the mechanism of anti-VEGF treatment has focused largely on macrometastatic disease, which seems to behave diﬀerently from micrometastatic disease.22,23 It is unclear whether bevacizumab is insuﬃciently active or the schedule or selection of patients was suboptimal. The transient eﬀect of 1 year of adjuvant bevacizumab has led some to question whether longer bevacizumab exposure is needed to show an eﬀect.23 Indeed, the 1-year duration was arbitrarily selected. However, without improved www.thelancet.com/oncology Vol 14 September 2013 
+
+Panel: Research in context Systematic review We searched PubMed for clinical trials published in English between Jan 1, 2000, and March 1, 2013, assessing systemic therapy speciﬁcally in triple-negative breast cancer, using the search terms “triple negative”, “breast”, and either “adjuvant” or “neoadjuvant”. Interpretation To our knowledge, BEATRICE is the ﬁrst phase 3 trial assessing the addition of systemic therapy to standard chemotherapy for triple-negative breast cancer, and the ﬁrst randomised trial to assess bevacizumab as adjuvant therapy for breast cancer. Bevacizumab did not improve IDFS, the primary endpoint, and on the basis of these data cannot be recommended as adjuvant treatment for primary triplenegative breast cancer. Longer follow-up is needed to determine the eﬀect of bevacizumab on overall survival, a secondary outcome measure. Prespeciﬁed biomarker analyses suggested potential predictive value of pretreatment plasma VEGFR-2 concentrations on IDFS. This potential predictive eﬀect is consistent with ﬁndings in metastatic breast cancer and pancreatic cancer. 
+
+selection of patients, assessment of a longer bevacizumab duration might be hard to justify based on the riskbeneﬁt proﬁle seen in the BEATRICE trial. Two further trials in early breast cancer—BETH (NSABP B-44; NCT00625898) and E5103 (NCT00433511)—are assessing adjuvant bevacizumab-containing regimens. In a broader context, the population enrolled into BEATRICE is the largest cohort of patients with triple-negative breast cancer studied to date, and therefore provides an unprecedented opportunity to improve our knowledge of the outcomes and potential prognostic factors in early triple-negative breast cancer, including sites, rates, and timing of relapse. Further analyses are ongoing in an eﬀort to understand the diﬀerent subgroups of patients included within BEATRICE and to learn more about the biology of triple-negative breast cancer. Triple-negative breast cancer is a heterogeneous group of disease entities,24 and future assessment of therapeutic strategies for triple-negative breast cancer should diﬀerentiate between molecular subtypes. On the basis of our ﬁndings, bevacizumab cannot be recommended as adjuvant therapy for breast cancer in the overall population of patients treated in BEATRICE. Nevertheless, biomarker results suggest that within this population, there might be subsets of patients in whom bevacizumab has an eﬀect. Identiﬁcation of those patients who stand to beneﬁt most from bevacizumab, in both the metastatic and adjuvant settings, is a priority. Contributors DC, RB, GGS, CJ, and MP designed the trial. DC, JB, RD, CJ, JM, XP, GGS, TLS, MT, Y-HI, GR, VHa, OL, TP, PC, AC, PSH, and S-AI were involved in data collection. VHe and JB were involved in data analysis. 
+
+941 
+
+Articles 
+
+All authors participated in data interpretation and revision and ﬁnalisation of the paper. Conﬂicts of interest DC’s institution has received reimbursement for his advice and consultancy on Roche products, as well as from Amgen, Sanoﬁ, AstraZeneca, Novartis, and Pﬁzer. DC has received travel reimbursement for conference attendance. JB has received grant and research support from Roche, AstraZeneca, Novartis, GlaxoSmithKline, Generx, and Orthobiotech. RD has received honoraria for speaker engagements from Roche, GlaxoSmithKline, Novartis, AstraZeneca, Sanoﬁ, and Eisai, and has received honoraria for advisory boards from Roche, GlaxoSmithKline, Novartis, AstraZeneca, and Sanoﬁ. JM is a consultant for Roche Oncology and GlaxoSmithKline Oncology and has received a speaker honorarium for CME activities from Sanoﬁ. XP has received honoraria for speaker engagements from Sanoﬁ and for advisory boards from Roche, Eisai, and GlaxoSmithKline. GGS has received grant and research support from Roche Austria and speaker honoraria from Roche (Basel and Austria). TMS has received grant and research support from Roche, speaker honoraria from Ratiopharm, and honoraria for advisory boards from Novar and Astex. MT has received a research grant and speaker honoraria from Chugai Pharmaceutical Company. MP’s institution (Medical Research Council, UK) has received support from Roche for three trials of bevacizumab sponsored by the Medical Research Council. RL, LB-P, VHe, RJD, and CP are employees of F Hoﬀmann-La Roche; RL, VHe, and CP hold shares in Roche. GR’s institution has received reimbursement for his advice and consultancy on Roche products; GR has received honoraria from Roche for participation in advisory boards. VHa has received research funding from Roche New Zealand and speaker honoraria from F Hoﬀmann-La Roche (Basel), Roche New Zealand, Chugai Pharmaceuticals (Japan), and Sanoﬁ. PC has received speaker honoraria from Roche and Novartis, and travel reimbursement for conference attendance from Roche. AC has received research grants and honoraria for speaker engagements and advisory boards from Roche, GlaxoSmithKline, and Sanoﬁ. S-AI has received honoraria for advisory boards from Roche, Novartis, and AstraZeneca. PSH was employed by the University of Leeds on a research grant from Roche (2008–12). RB has participated in advisory boards for Roche. CJ, Y-HI, OL, and TP declare that they have no conﬂicts of interest. Acknowledgments We are grateful to Louis Viviers, Stefan J Scherer, Annabelle Monnet, and Tanya Taran, all former or current employees of F Hoﬀmann-La Roche, for their important contributions to BEATRICE. We thank Anna Waterhouse for her contribution to the eﬃcacy review. We also thank all investigators (appendix) for their continued work and eﬀorts on the BEATRICE trial. F Hoﬀmann-La Roche (Basel, Switzerland) funded the trial and third-party writing assistance for this paper, provided by Jennifer Kelly (Medi-Kelsey Ltd, Ashbourne, UK). References 1 Dent R, Trudeau M, Pritchard KI, et al. Triple-negative breast cancer: clinical features and patterns of recurrence. Clin Cancer Res 2007; 13: 4429–34. 2 Miller K, Wang M, Gralow J, et al. Paclitaxel plus bevacizumab versus paclitaxel alone for metastatic breast cancer. N Engl J Med 2007; 357: 2666–76. 3 Brufsky A, Valero V, Tiangco B, et al. Second-line bevacizumabcontaining therapy in patients with triple-negative breast cancer: subgroup analysis of the RIBBON-2 trial. Breast Cancer Res Treat 2012; 133: 1067–75. 4 von Minckwitz G, Eidtmann H, Rezai M, et al, for the German Breast Group, and the Arbeitsgemeinschaft Gynäkologische Onkologie–Breast Study Groups. Neoadjuvant chemotherapy and bevacizumab for HER2-negative breast cancer. N Engl J Med 2012; 366: 299–309. 5 Bear HD, Tang G, Rastogi P, et al. Bevacizumab added to neoadjuvant chemotherapy for breast cancer. N Engl J Med 2012; 366: 310–20. 
+
+942 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 22 23 24 
+
+Foekens JA, Peters HA, Grebenchtchikov N, et al. High tumor levels of vascular endothelial growth factor predict poor response to systemic therapy in advanced breast cancer. Cancer Res 2001; 61: 5407–14. Holmgren L, O’Reilly MS, Folkman J. Dormancy of micrometastases: balanced proliferation and apoptosis in the presence of angiogenesis suppression. Nat Med 1995; 1: 149–53. Miles DW, de Haas SL, Dirix LY, et al. Biomarker results from the AVADO phase 3 trial of ﬁrst-line bevacizumab plus docetaxel for HER2-negative metastatic breast cancer. Br J Cancer 2013; 108: 1052–60. Claudon A, Vergnaud P, Valverde C, Mayr A, Klause U, Garnero P. New automated multiplex assay for bone turnover markers in osteoporosis. Clin Chemistry 2008; 54: 1554–63. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized deﬁnitions for eﬃcacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol 2007; 25: 2127–32. Van Cutsem E, Jayson G, Dive C, et al. Analysis of blood plasma factors in the AVITA phase III randomized study of bevacizumab (bev) with gemcitabine-erlotinib (GE) in patients (pts) with metastatic pancreatic cancer (mPC). European Multidisciplinary Cancer Congress, 23–27 September 2011, Stockholm, Sweden (abstr 803). Van Cutsem E, de Haas S, Kang YK, et al. Bevacizumab in combination with chemotherapy as ﬁrst-line therapy in advanced gastric cancer: a biomarker evaluation from the AVAGAST randomized phase III trial. J Clin Oncol 2012; 30: 2119–27. Gianni L, Chan A, Mansutti M, et al. Biomarker (BM) results from the phase III AVEREL trial of 1st-line bevacizumab (BV), trastuzumab (H) + docetaxel (T) for HER2-positive locally recurrent/metastatic breast cancer (LR/mBC). Ann Oncol 2012; 23 (suppl 9): ix531 (abstr 1657P). Cortes J, Calvo V, Ramírez-Merino N, et al. Adverse events risk associated with bevacizumab addition to breast cancer chemotherapy: a meta-analysis. Ann Oncol 2012; 23: 1130–37. Wagner AD, Thomssen C, Haerting J, Unverzagt S. Vascular-endothelial-growth-factor (VEGF) targeting therapies for endocrine refractory or resistant metastatic breast cancer. Cochrane Database Syst Rev 2012; 7: CD008941. Ranpura V, Hapani S, Wu S. Treatment-related mortality with bevacizumab in cancer patients: a meta-analysis. JAMA 2011; 305: 487–94. Choueiri TK, Mayer EL, Je Y, et al. Congestive heart failure risk in patients with breast cancer treated with bevacizumab. J Clin Oncol 2011; 29: 632–38. Miller KD, O’Neill A, Dang C, Northfelt D, Gradishar W, Sledge GW. Bevacizumab (B) in the adjuvant treatment of breast cancer – ﬁrst toxicity results from Eastern Cooperative Oncology Group trial E5103. Cancer Res 2012; 72 (suppl 24): 462s (abstr P5-17-01). Allegra CJ, Yothers G, O’Connell MJ, et al. Phase III trial assessing bevacizumab in stages II and III carcinoma of the colon: results of NSABP protocol C-08. J Clin Oncol 2011; 29: 11–16. de Gramont A, Van Cutsem E, Schmoll HJ, et al. Bevacizumab plus oxaliplatin-based chemotherapy as adjuvant treatment for colon cancer (AVANT): a phase 3 randomised controlled trial. Lancet Oncol 2012; 13: 1225–33. Seymour MT. Adjuvant bevacizumab in colon cancer: where did we go wrong? Lancet Oncol 2012; 13: 1176–77. Van Cutsem E. Lessons from the adjuvant bevacizumab trial on colon cancer: What next? J Clin Oncol 2011; 29: 1–4. Oyan B. Why do targeted agents not work in the adjuvant setting in colon cancer? Expert Rev Anticancer Ther 2012; 12: 1337–45. Prat A, Adamo B, Cheang MC, Anders CK, Carey LA, Perou CM. Molecular characterization of basal-like and non-basal-like triple-negative breast cancer. Oncologist 2013; 18: 123–33. 
+
+www.thelancet.com/oncology Vol 14 September 2013 
+
+ 

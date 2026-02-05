@@ -1,0 +1,263 @@
+original article 
+
+Annals of Oncology 19: 1090–1096, 2008 doi:10.1093/annonc/mdn005 Published online 21 February 2008 
+
+Estimating the magnitude of trastuzumab effects within patient subgroups in the HERA trial 
+
+original article 
+
+1 Helios Klinikum Berlin Buch, Academic Hospital of the University Charite Berlin, Berlin, Germany; 2Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Boston, MA, USA; 3Klinikum Offenbach, Offenbach, Germany; 4Frontier Science, Kincraig, Kingussie, UK; 5Vall d’Hebron University Hospital, Barcelona, Spain; 6Andrew Love Cancer Centre, Geelong, Australia; 7NCRN Coordinating Centre, University of Leeds, UK; 8Istituto Nazionale Tumori, Milan, Italy; 9 Royal Marsden Hospital, Sutton/Surrey, UK; 10Winship Cancer Institute, Emory University School of Medicine, Atlanta, GA, USA; 11Medical Oncology Clinic and BrEAST Data Centre, Jules Bordet Institute, Université Libre de Bruxelles, Brussels, Belgium; 12Hoffmann-La Roche, 4070 Basel, Switzerland; 13Tatarstan Republic Oncological Hospital, Kazan, Russian Federation; 14Chinese Academy of Medical Science, Beijing, China; 15Klinikum Lippe Lemgo, Lemgo, Germany; 16Hospital Clinico Universitario de Zaragoza, Spain; 17Veterans General Hospital, Taipei, Taiwan; 18Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China; 19Hospital Clinico Universitario de Valencia, Valencia, Spain; 20Medical University of Gdansk, Gdansk, Poland; 21Bristol Oncology Centre, Bristol, UK; 22 LKH Voecklabruck, Voecklabruck, Austria; 23Hospital Regional Issste Merida, Merida, Mexico; 24Faculty of Medicine, Siriraj Hospital, Bangkok, Thailand; 25Department of Medicine, European Institute of Oncology, Milan, Italy; 26School of Public Health, University of Sydney, Sydney, Australia; 27Department of Medicine and Breast International Group, Jules Bordet Institute, Université Libre de Bruxelles, Brussels, Belgium; 28Oncology Institute of Southern Switzerland, Bellinzona, Switzerland 
+
+Received 24 October 2007; accepted 2 January 2008 
+
+Background: Trastuzumab (Herceptin) improves disease-free survival (DFS) and overall survival for patients with human epidermal growth factor receptor 2 (HER2)-positive early breast cancer. We aimed to assess the magnitude of its clinical benefit for subpopulations defined by nodal and steroid hormone receptor status using data from the Herceptin Adjuvant (HERA) study. Patients and methods: HERA is an international multicenter randomized trial comparing 1 or 2 years of trastuzumab treatment with observation after standard chemotherapy in women with HER2-positive breast cancer. In total, 1703 women randomized to 1-year trastuzumab and 1698 women randomized to observation were included in these analyses. Median follow-up was 23.5 months. The primary endpoint was DFS. Results: The overall hazard ratio (HR) for trastuzumab versus observation was 0.64 [95% confidence interval (CI) 0.54–0.76; P < 0.0001], ranging from 0.46 to 0.82 for subgroups. Estimated improvement in 3-year DFS in subgroups ranged from +11.3% to +0.6%. Patients with the best prognosis (those with node-negative disease and tumors 1.1– 2.0 cm) had benefit similar to the overall cohort (HR 0.53, 95% CI 0.26–1.07; 3-year DFS improvement +4.6%, 95% CI 24.0% to 13.2%). Conclusions: Adjuvant trastuzumab therapy reduces the risk of relapse similarly across subgroups defined by nodal status and steroid hormone receptor status, even those at relatively low risk for relapse. Key words: adjuvant therapy, breast cancer, disease-free survival, HER2-oncogene, subgroubs, trastuzumab 
+
+introduction Trastuzumab (Herceptin) has been shown in several large randomized clinical trials [1,2,3,4] to be highly effective in reducing the risk of relapse and death for patients with HER2positive early breast cancer. In these studies, adjuvant trastuzumab improved disease-free survival (DFS) when compared with the respective control groups without *Correspondence to: Prof R. D. Gelber, Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Boston, MA, USA. Tel: +1 617 632-3603, Fax: +1 617 632-5444; E-mail: gelber@jimmy.harvard.edu 
+
+trastuzumab therapy for the various patient subgroups examined. Recently, the Herceptin Adjuvant (HERA) trial published results at 2 years of median follow-up showing that 1 year of treatment with trastuzumab administered following completion of all neoadjuvant and/or adjuvant chemotherapy, and radiotherapy if indicated, provided a statistically significant improvement in overall survival [Hazard ratio (HR) 0.66; 95% confidence interval (CI) 0.47–0.91; P = 0.0115] and DFS (HR 0.64; 95% CI 0.54–0.76; P < 0.0001) [5]. While it is clear that trastuzumab is an effective adjuvant therapy, questions remain regarding whether the magnitude of the benefit derived from 
+
+ª The Author 2008. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For Permissions, please email: journals.permissions@oxfordjournals.org 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+M. Untch1, R. D. Gelber2*, C. Jackisch3, M. Procter4, J. Baselga5, R. Bell6, D. Cameron7, M. Bari8, I. Smith9, B. Leyland-Jones10, E. de Azambuja11, P. Wermuth12, R. Khasanov13, F. Feng-yi14, C. Constantin15, J. I. Mayordomo16, C.-H. Su17, S.-Y. Yu18, A. Lluch19, E. SenkusKonefka20, C. Price21, F. Haslbauer22, T. Suarez Sahui23, V. Srimuninnimit24, M. Colleoni25, A. S. Coates26, M. J. Piccart-Gebhart27 & A. Goldhirsch25,28 for the HERA Study Team 
+
+original article 
+
+Annals of Oncology 
+
+patients and methods HERA is an international multicentre randomized trial comparing 1 or 2 years of trastuzumab treatment with observation alone after standard neoadjuvant or adjuvant chemotherapy in women with HER2-positive node-positive or high-risk node-negative breast cancer. In total, 5102 women participated in the trial. The HERA data set reported by Smith et al. [5] used for this report comprised data from 1703 women who had been randomized for treatment with trastuzumab for 1 year and 1698 women from the observation group, with median follow-up of 23.5 months (range 0–48 months). The 2-year trastuzumab group remains blinded as the comparison of 1 year versus 2 years of trastuzumab is continuing to be monitored by the independent data monitoring committee. The primary endpoint of the trial was DFS defined as time from randomization to the first occurrence of any of the following events: recurrence of breast cancer at any site, the development of ipsilateral or contralateral breast cancer including ductal carcinoma in situ but not lobular carcinoma in situ, second nonbreast malignant disease other than basal cell or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, or death from any cause without documentation of a cancerrelated event. We calculated Kaplan–Meier [7] estimates for DFS curves for subgroups and estimated standard errors and 95% CIs according to the Greenwood formula [8]. Hazard function estimates [9] were calculated 
+
+using the data in six monthly intervals to provide annualized event rates—the proportion of patients estimated to experience a DFS event per year of follow-up. Hormone receptor status [estrogen (ER) or progesterone (PgR)] was assessed through the data collected in the case report form on the basis of local assessment with positive or negative status defined according to criteria applied by the local pathologist. The trial was sponsored and funded by Roche. The collection, analysis, and interpretation of the data were done entirely independently, under the auspices of the Breast International Group. RDG and MU led the writing of the paper with input from the HERA executive committee, which includes three Roche representatives who were not allowed to influence the paper in any way other than as approved by the executive committee. All authors had access to all the data. The trial’s steering committee had final responsibility to submit the manuscript for publication. 
+
+results Figure 1 shows the DFS hazard function whisker plot for the group as a whole and for subgroups according to steroid hormone receptor status and nodal status. At 23.5 months of median follow-up, the relative risk reduction estimates for the overall cohort and for subgroups indicate consistent reductions in the risk of relapse with no evidence that the HR in any subgroup differed from that observed overall. Table 1 extends this analysis to show the 3-year DFS percentages and the relative HR estimates for selected patient subgroups. Excluding the small cohort of patients who received neoadjuvant chemotherapy (in whom tumor size and nodal status are therefore not assessable), all groups showed an improvement in estimated 3-year DFS, though with the estimates of the magnitude of absolute improvement ranging fairly widely from 0.6% for patients with hormone receptornegative, node-negative disease (HR = 0.68) to 11.3% for patients with hormone receptor-positive, node-negative disease (HR = 0.46). The protocol specified that patients with nodenegative disease were eligible only if the pathologic tumor size exceeded 1 cm; in fact 90.4% of the node-negative cohort (994 of 1099 patients) was known to have tumors >1 cm in diameter. Results for the 510 patients with node-negative disease and tumors ranging from 1.1 to 2.0 cm in diameter are 
+
+Figure 1. Exploratory disease-free survival subgroup analysis showing hazard ratios for 1 year of trastuzumab versus observation with 23.5 months of median follow-up (modified with permission from Smith et al. [5]). 
+
+Volume 19 | No. 6 | June 2008 
+
+doi:10.1093/annonc/mdn005 | 1091 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+adjuvant trastuzumab is sufficiently large to justify its routine use for all subgroups of patients with HER2-positive early breast cancer, in view of its economic cost and the risks of cardiac damage [6]. Risk and benefit may also differ across subgroups over time, and such differences may be relevant to treatment decisions. In order to further inform this assessment, we examined the magnitude of the benefit of trastuzumab therapy within various subgroups of the HERA trial population, especially as defined by steroid hormone receptor status and nodal status. To supplement the whisker plot displays of the relative risk reduction already described with trastuzumab in various subgroups [5], we also present estimates of the absolute differences in 3-year DFS. Finally, we examined the hazard function plots to study the time course of events for different subgroups and explore when during the course of follow-up trastuzumab showed most influence on the risk of relapse. 
+
+original article 
+
+Annals of Oncology 
+
+Table 1. Absolute and relative treatment effects on disease-free survival (DFS) comparing 1-year trastuzumab versus observation according to subgroups defined by steroid hormone receptor status and nodal status Population/treatment 
+
+No. of patients 
+
+No. (%) of DFS events 
+
+1092 | Untch et al. 
+
+Difference in 3-year DFS % (95% CI) 
+
+Hazard ratio (95% CI) 
+
+80.6% (77.7%, 83.4%) 74.3% (71.4%, 77.1%) 
+
+6.3% (2.2%, 10.4%) 
+
+0.64 (0.54, 0.76) 
+
+76.4% (72.0%, 80.8%) 70.3% (66.4%, 74.3%) 
+
+6.1% (0.2%, 12.0%) 
+
+0.62 (0.50, 0.77) 
+
+84.6% (80.9%, 88.3%) 78.0% (73.8%, 82.3%) 
+
+6.6% (0.9%, 12.2%) 
+
+0.68 (0.51, 0.89) 
+
+85.4% (80.4%, 90.4%) 77.0% (70.8%, 83.2%) 
+
+8.4% (0.5%, 16.4%) 
+
+0.63 (0.43, 0.93) 
+
+82.9% (76.2%, 89.6%) 80.1% (74.0%, 86.3%) 
+
+2.8% (26.3%, 11.8%) 
+
+0.82 (0.50, 1.34) 
+
+90.8% (87.1%, 94.4%) 84.9% (80.4%, 89.5%) 
+
+5.8% (0.0%, 11.7%) 
+
+0.59 (0.39, 0.91) 
+
+91.3% (85.3%, 97.2%) 86.7% (80.5%, 92.9%) 
+
+4.6% (24.0%, 13.2%) 
+
+0.53 (0.26, 1.07) 
+
+84.7% (80.4%, 88.9%) 75.9% (70.6%, 81.1%) 
+
+8.8% (2.0%, 15.6%) 
+
+0.61 (0.43, 0.87) 
+
+67.8% (60.6%, 75.0%) 62.2% (55.9%, 68.6%) 
+
+5.6% (24.0%, 15.1%) 
+
+0.64 (0.49, 0.83) 
+
+70.6% (60.3%, 80.8%) 66.5% (58.5%, 74.5%) 
+
+4.1% (28.9%, 17.1%) 
+
+0.66 (0.43, 1.00) 
+
+87.1% (80.9%, 93.3%) 86.5% (82.0%, 91.0%) 
+
+0.6% (27.0%, 8.3%) 
+
+0.68 (0.40, 1.16) 
+
+78.3% (70.7%, 85.9%) 69.6% (61.2%, 78.0%) 
+
+8.7% (22.6%, 20.1%) 
+
+0.62 (0.40, 0.98) 
+
+61.8% (51.2%, 72.4%) 56.1% (47.6%, 64.7%) 
+
+5.7% (27.9%, 19.3%) 
+
+0.62 (0.44, 0.86) 
+
+74.7% (63.8%, 85.5%) 62.2% (51.4%, 72.9%) 
+
+12.5% (22.7%, 27.7%) 
+
+0.51 (0.29, 0.91) 
+
+94.8% (91.4%, 98.2%) 83.4% (75.6%, 91.2%) 
+
+11.3% (2.8%, 19.8%) 
+
+0.46 (0.23, 0.93) 
+
+89.6% (85.0%, 94.3%) 81.0% (74.5%, 87.5%) 
+
+8.7% (0.6%, 16.7%) 
+
+0.58 (0.33, 1.02) 
+
+73.9% (64.4%, 83.5%) 68.8% (59.4%, 78.2%) 
+
+5.1% (28.3%, 18.5%) 
+
+0.67 (0.44, 1.03) 
+
+Volume 19 | No. 6 | June 2008 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+Overall study population 1-year trastuzumab 1703 218 (12.8%) Observation 1698 321 (18.9%) Hormone receptor status Hormone receptor negative 1-year trastuzumab 843 131 (15.5%) Observation 843 198 (23.5%) Hormone receptor positive 1-year trastuzumab 860 87 (10.1%) Observation 855 123 (14.4%) ER+ and PgR+ 1-year trastuzumab 525 46 (8.8%) Observation 459 61 (13.3%) ER+ and PgR2 1-year trastuzumab 210 26 (12.4%) Observation 250 39 (15.6%) Nodal status Node negativea 1-year trastuzumab 544 34 (6.3%) Observation 555 58 (10.5%) Node negative (1.1–2.0 cm) 1-year trastuzumab 252 12 (4.8%) Observation 258 23 (8.9%) One to three positive nodes 1-year trastuzumab 486 50 (10.3%) Observation 490 80 (16.3%) Four or more positive nodes 1-year trastuzumab 479 95 (19.8%) Observation 474 132 (27.8%) Not assessed (neoadjuvant chemotherapy) 1-year trastuzumab 194 39 (20.1%) Observation 178 50 (28.1%) Hormone receptor status and nodal status Hormone receptor negative and node negative 1-year trastuzumab 281 23 (8.2%) Observation 285 33 (11.6%) Hormone receptor negative and one to three positive nodes 1-year trastuzumab 221 31 (14.0%) Observation 215 48 (22.3%) Hormone receptor negative and four or more positive nodes 1-year trastuzumab 241 58 (24.1%) Observation 241 83 (34.4%) Hormone receptor negative and nodes not assessed 1-year trastuzumab 100 19 (19.0%) Observation 101 33 (32.7%) Hormone receptor positive and node negative 1-year trastuzumab 263 11 (4.2%) Observation 270 25 (9.3%) Hormone receptor positive and one to three positive nodes 1-year trastuzumab 265 19 (7.2%) Observation 275 32 (11.6%) Hormone receptor positive and four or more positive nodes 1-year trastuzumab 238 37 (15.5%) Observation 233 49 (21.0%) 
+
+3-year DFS % (95% CI) 
+
+original article 
+
+Annals of Oncology 
+
+Table 1. (Continued) Population/treatment 
+
+No. of patients 
+
+No. (%) of DFS events 
+
+Hormone receptor positive and nodes not assessed 1-year trastuzumab 94 20 (21.3%) Observation 77 17 (22.1%) 
+
+3-year DFS % (95% CI) 
+
+Difference in 3-year DFS % (95% CI) 
+
+Hazard ratio (95% CI) 
+
+66.9% (50.7%, 83.1%) 72.5% (60.9%, 84.2%) 
+
+25.6% (225.6%, 14.3%) 
+
+0.94 (0.49, 1.80) 
+
+a 
+
+The node-negative cohort of 1099 patients includes 12 with unknown tumor size, 60 with tumor size <1 cm, 33 with tumor size = 1.0 cm, 510 with tumor size between 1.1 and 2.0 cm, and 484 with tumor size ‡2.1 cm. CI, confidence interval; ER, estrogen; PgR, progesterone. 
+
+discussion Subgroup analyses must be interpreted with caution due to the increased likelihood of false-positive and false-negative results arising by the play of chance [10]. Such analyses, however, if prospectively defined and biologically motivated, should be available to inform assessment of potential benefits of treatment for subpopulations [10]. To reduce the risk of inflating false-positive results, we prospectively defined nodal status (a marker for risk of relapse—prognostic) and steroid hormone receptor status (a marker for potential differential treatment response—predictive) as factors of interest. Tumor grade was also suggested for subgroup analysis by the executive committee, but not included due to the difficulties to standardize grading across a large number of international clinical settings. It is not the intent of these analyses to show ‘significant’ treatment effects in separate subgroups. In particular, failure to obtain a statistically significant P value within a subgroup should not be taken as evidence against trastuzumab for that subgroup. Rather, we provide estimates and 95% CIs for the magnitude of trastuzumab treatment effect (compared with observation following completion of any (neo)adjuvant chemotherapy) evident from various subgroups of the total HER2-positive patient population. Results were examined in terms of estimated relative treatment effect (HR estimated with 2 years of median follow-up), estimated absolute treatment effect (absolute percentage difference in predicted 3-year DFS 
+
+Volume 19 | No. 6 | June 2008 
+
+percentage), and estimated hazard functions over time during the first 3 years after randomization. We note that the CIs for the estimated 3-year absolute effects tend to be wide and that differences among subgroups may be due to the play of chance. It is particularly relevant, however, to have some information from the patient cohorts thought to have a lower risk of relapse overall, as these are the subgroups for which the benefit-to-risk ratio might be challenged. For example, results for the cohort of women with node-negative disease are particularly useful as only the HERA and Breast Cancer International Research Group 006 studies included substantial numbers of these patients. We were unable to identify a subgroup for which the potential absolute benefit of trastuzumab was small enough to indicate that the treatment might not be clinically beneficial. Cost–benefit analysis [6] is beyond the scope of the present report, and acceptable limits will in any event differ internationally. However, even patients with node-negative disease gained substantially from use of trastuzumab, and indeed, among the node-negative cohort, those with small tumors still indicated a worthwhile benefit of treatment. Trastuzumab is likely to be meaningfully effective for all cohorts of patients included in the randomized trials. In addition to nodal status and hormone receptor status, other factors might also be considered for subgroup analysis [5]. Patient age, for example, might be considered primarily on the basis of an apparent reduced effect of trastuzumab for women ‡60 years of age [5]. This observed result is statistically unreliable, however, due to the retrospective definition of the subgroup and the small number of patients included. Even if some age-related biologic factor is eventually shown to influence the magnitude of benefit from trastuzumab, denying this effective adjuvant therapy to patients on the basis of age alone is inappropriate; age is not a therapeutic target, though prior cardiac comorbidity could be relevant to the decision on trastuzumab therapy, and is likely to be more common among older patients. Examining the magnitude of benefit according to molecularly defined subgroups holds promise to improve tailoring treatments for the future. For example, assessing treatment effects for the HER2-positive cohort according to the presence or absence of co-amplification of the c-Myc oncogene, the expression levels of PTEN (phosphatase and tensin homolog deleted on chromosome 10), and the presence or absence of p95HER2 receptor might be considered. Analyses according to each of these potential markers for anti-HER2 treatment responsiveness have been prospectively planned, e.g. in the recently launched international ALTTO (Adjuvant Lapatinib and Trastuzumab Treatment Optimization) study 
+
+doi:10.1093/annonc/mdn005 | 1093 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+displayed separately in Table 1 and demonstrate that the benefit of trastuzumab effect appears to extend even to this relatively favorable prognosis subgroup. Figure 2 shows Kaplan–Meier curves and hazard function plots comparing 1 year of trastuzumab versus observation for subgroups defined by hormone receptor status and nodal status. The observation group among the hormone receptornegative cohort (both ER and PgR reported as negative) experienced a very high risk of early recurrence, which was reduced for the trastuzumab group. Among patients with negative hormone receptors, the risk of relapse declined substantially during the second and third years of follow-up for the observation group and during the third year of follow-up for the trastuzumab group. By contrast, for the hormone receptor-positive cohort, the risk of relapse for both treatment and observation groups was relatively consistent over time, with the trastuzumab treatment effect apparent both early and later during follow-up. 
+
+original article 
+
+Annals of Oncology 
+
+which evaluates the role of 52 weeks of trastuzumab, lapatinib, their combination, and their sequence. Our analyses are limited by the fact that relatively few relapses have occurred and the 2-year follow-up is relatively short in the context of early-stage breast cancer. The HERA trial, as well as other large trials investigating trastuzumab in early breast cancer, reported the results earlier than the anticipated final analysis time point at the recommendation of the independent data monitoring committee. The observed treatment benefits were striking at the first interim analysis—both clinically and statistically. Furthermore, 50% of patients with endocrine responsive disease have the opportunity to respond to endocrine therapies, which may influence longer term outcomes. These two features make evaluation of the magnitude of trastuzumab effect within subgroups potentially more hazardous than usual. The results presented here should, therefore, not be overinterpreted. 
+
+1094 | Untch et al. 
+
+Our analyses provide clear evidence that hormone receptornegative and hormone receptor-positive diseases have fundamentally different patterns of relapse. Even if estimates at a single point in follow-up indicate similar magnitude of treatment effects for these two cohorts, the pattern of treatment effects may differ over follow-up time. For the receptornegative cohort, trastuzumab substantially reduces the risk of early relapse, but the opportunity for later improvement is low as the observation group has a relatively low risk of relapse during later follow-up. By contrast, despite use of both chemotherapy and endocrine therapy, moderate risk of relapse persists over time for the receptor-positive cohort offering an opportunity for modest but sustained reduction in risk over time with trastuzumab. Thus, the receptor-negative cohort may have contributed disproportionately to the early results, which motivated reporting outcomes from HERA and the other large trastuzumab trials at a shorter follow-up than originally 
+
+Volume 19 | No. 6 | June 2008 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+Figure 2. Kaplan–Meier plots (left side) and annualized hazard rates (right side) for disease-free survival for the overall patient population (A) and for subgroups defined by steroid hormone receptor status (B and C) and nodal status (D, E, and F) for 1 year of trastuzumab and observation with 23.5 months of median follow-up. Patients with hormone receptor-positive disease (defined as estrogen receptor positive or progesterone receptor positive) received adjuvant endocrine therapy (ET). Note that confidence intervals (shown as vertical lines on the annualized hazard rate plots) are very wide, especially beyond 24 months. 
+
+Annals of Oncology 
+
+original article 
+
+anticipated. Furthermore, on the basis of time trends reported here, the future HERA comparison of 1 year versus 2 years of trastuzumab will be evaluated separately according to steroid hormone receptor status. The difference observed between receptor-negative and receptor-positive breast cancer emphasizes the need to tailor future trials for cohorts of patients defined by steroid hormone receptor and HER2 status of the primary tumor. 
+
+funding Roche. 
+
+acknowledgements We are indebted to the women who participated in the study, to the Breast European Adjuvant Study Team (BrEAST) data center, to the Frontier Science Team, to the Breast International Group Secretariat, to the HERA steering committee, to the independent data monitoring committee, to the cardiac 
+
+Volume 19 | No. 6 | June 2008 
+
+advisory board, to the Pathology Laboratory, Kassel, Germany, to Hoffman-La Roche, and to all the doctors, nurses and data managers who actively contributed to the success of the HERA trial. We thank James Goodbrand for preparation of the figures and Sebastien Guillaume for administrative assistance. The collection, analysis, and interpretation of the data were performed entirely independently, under the auspices of the Breast International Group (BIG). The HERA executive committee is responsible for the content of this manuscript and the HERA steering committee is responsible for the decision to submit for publication. Conflict of interest statement: MU has received speaker’s honoraria from Roche. CJ received speaker’s honoraria from Roche. MP has no conflict of interest. JB is a member of the Roche herceptin advisory board. RB has received honoraria from Roche for lectures and attendance at advisory boards. DC has received honoraria and consultancy fees from Roche. MB has no conflict of interest. IS has received honoraria from Roche for lectures and attendance at advisory boards. EDA has no conflict of interest. PW is an employee of Roche. RK has 
+
+doi:10.1093/annonc/mdn005 | 1095 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+Figure 2. Continued. 
+
+original article no conflict of interest. FF-Y has no conflict of interest. CC has no conflict of interest. JIM has received honoraria from Roche for lectures. C-HS has no conflict of interest. S-YY has no conflict of interest. AL has no conflict of interest. ES-K has received investigator fees from Roche. CP has received honoraria and travel expenses from Roche. FH has no conflict of interest. TSS has no conflict of interest. VS has no conflict of interest. MC has no conflict of interest. ASC has no conflict of interest. MJP-G has served on an advisory board on Aromasin, has received consulting fees from GlaxoSmithKline, and an unrestricted educational grant from Roche on behalf of the Breast International Group. AG has received honoraria and travel expenses from Roche and GlaxoSmithKline. 
+
+1. Piccart-Gebhart MJ, Procter M, Leyland-Jones B et al. Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 2005; 353: 1659–1672. 2. Romond EH, Perez EA, Bryant J et al. Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 2005; 353: 1673–1684. 
+
+1096 | Untch et al. 
+
+3. Slamon D, Eiermann W, Robert N et al. BCIRG 006: 2nd interim analysis phase III randomized trial comparing doxorubicin and cyclophosphamide followed by docetaxel (ACT) with doxorubicin and cyclophosphamide followed by docetaxel and trastuzumab (ACTH) with docetaxel, carboplatin and trastuzumab (TCH) in Her2neu positive early breast cancer patients. Breast Cancer Res Treat 2007; 100: (Abstr 52). 4. Joensuu H, Kellokumpu-Lehtinen PL, Bono P et al. Adjuvant docetaxel or vinorelbine with or without trastuzumab for breast cancer. N Engl J Med 2006; 354: 809–820. 5. Smith I, Procter M, Gelber RD et al. 2-year follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer: a randomized controlled trial. Lancet 2007; 369: 29–36. 6. Hind D, Pilgrim H, Ward S. Questions about adjuvant trastuzumab still remain. Lancet 2007; 369: 3–5. 7. Kaplan EL, Meier P. Nonparametric estimation from incomplete observation. J Am Stat Assoc 1958; 5: 457–481. 8. Greenwood M. Reports on public health and medical subjects. The Natural Duration of Cancer. London: HM Stationary Office 1926; 1–26. vol. 33. 9. Simes RJ, Zelen M. Exploratory data analysis and the use of the hazard function for interpreting survival data: an investigator’s primer. J Clin Oncol 1985; 10: 1418–1431. 10. Lagakos SW. The challenge of subgroup analyses—reporting without distorting. N Engl J Med 2006; 354: 1667–1669. 
+
+Volume 19 | No. 6 | June 2008 
+
+Downloaded from http://annonc.oxfordjournals.org/ at F. Hoffmann-La Roche Ltd on January 31, 2012 
+
+references 
+
+Annals of Oncology 
+
+ 

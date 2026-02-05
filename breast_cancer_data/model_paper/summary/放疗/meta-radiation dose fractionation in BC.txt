@@ -1,0 +1,969 @@
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+Randomised controlled trials on radiation dose fractionation in breast cancer: systematic review and meta-analysis with emphasis on side effects and cosmesis Shing Fung Lee,1,2 Samantha K F Kennedy,3 Saverio Caini,4 Henry C Y Wong,5 Pui Lam Yip,1,2,6 Philip M Poortmans,7,8 Icro Meattini,9,10 Orit Kaidar-Person,11,12,13 Abram Recht,14 Tarek Hijal,15 Mylin A Torres,16 Jeffrey Q Cao,17 Kimberly S Corbin,18 J Isabelle Choi,19 Wee Yao Koh,1,2 Jennifer Y Y Kwan,20,21 Irene Karam,21,22 Adrian W Chan,21,22 Edward Chow,21,22 Gustavo N Marta23,24,25 For numbered affiliations see end of the article Correspondence to: S F Lee leesf@nuhs.edu.sg (ORCID 0000-0003-4696-9434) Additional material is published online only. To view please visit the journal online. Cite this as: BMJ 2023;386:e079089 http://dx.doi.org/10.1136/ bmj-2023‑079089 
+
+Accepted: 25 July 2024 
+
+ABSTRACT OBJECTIVE To provide a comprehensive assessment of various fractionation schemes in radiation therapy for breast cancer, with a focus on side effects, cosmesis, quality of life, risks of recurrence, and survival outcomes. 
+
+DATA SYNTHESIS Pooled risk ratios (RRs) and hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated using a random effects model. Heterogeneity was analysed using Cochran’s Q test and I2 statistic. Network metaanalysis was used to integrate all available evidence. 
+
+DESIGN Systematic review and meta-analysis. 
+
+MAIN OUTCOME MEASURES The pre-specified primary outcome was grade ≥2 acute radiation dermatitis and late radiation therapy related side effects; secondary outcomes included cosmesis, quality of life, recurrence, and survival metrics. 
+
+DATA SOURCES Ovid MEDLINE, Embase, and Cochrane Central Register of Controlled Trials (from inception to 23 October 2023). STUDY SELECTION Included studies were randomised controlled trials focusing on conventional fractionation (CF; daily fractions of 1.8-2 Gy, reaching a total dose of 50-50.4 Gy over 5-6 weeks), moderate hypofractionation (MHF; fraction sizes of 2.65-3.3 Gy for 13-16 fractions over 3-5 weeks), and/or ultra-hypofractionation (UHF; schedule of only 5 fractions). DATA EXTRACTION Two independent investigators screened studies and extracted data. Risk of bias and quality of evidence were assessed using the Cochrane Collaboration’s tool and the GRADE (Grading of Recommendations, Assessment, Development, and Evaluations) approach, respectively. 
+
+WHAT IS ALREADY KNOWN ON THIS TOPIC Postoperative radiation therapy for breast cancer has been greatly influenced by clinical trials comparing conventional fractionation (CF) schemes with moderate hypofractionation (MHF) and more recently ultra-hypofractionation (UHF) No comprehensive assessment has been made of the overall benefit, frequency and severity of potential side effects, aesthetic consequences, and implications for quality of life across fractionation schemes 
+
+WHAT THIS STUDY ADDS A reduced risk of grade ≥2 acute radiation dermatitis was seen with MHF and UHF compared with CF following both post-mastectomy and breast conserving therapy MHF shows an improved safety profile, cosmesis, and quality of life compared with CF while maintaining equivalent oncological outcomes Fewer trials have compared UHF with other fractionation schedules, but its safety profile and oncological effectiveness seem to be comparable on the basis of early experience the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+RESULTS From 1754 studies, 59 articles representing 35 trials (20 237 patients) were assessed; 21.6% of outcomes showed low risk of bias, whereas 78.4% had some concerns or high risk, particularly in outcome measurement (47.4%). The RR for grade ≥2 acute radiation dermatitis for MHF compared with CF was 0.54 (95% CI 0.49 to 0.61; P<0.001) and 0.68 (0.49 to 0.93; P=0.02) following breast conserving therapy and mastectomy, respectively. Hyperpigmentation and grade ≥2 breast shrinkage were less frequent after MHF than after CF, with RRs of 0.77 (0.62 to 0.95; P=0.02) and 0.92 (0.85 to 0.99; P=0.03), respectively, in the combined breast conserving therapy and mastectomy population. However, in the breast conserving therapy only trials, these differences in hyperpigmentation (RR 0.79, 0.60 to 1.03; P=0.08) and breast shrinkage (0.94, 0.83 to 1.07; P=0.35) were not statistically significant. The RR for grade ≥2 acute radiation dermatitis for UHF compared with MHF was 0.85 (0.47 to 1.55; P=0.60) for breast conserving therapy and mastectomy patients combined. MHF was associated with improved cosmesis and quality of life compared with CF, whereas data on UHF were less conclusive. Survival and recurrence outcomes were similar between UHF, MHF, and CF. CONCLUSIONS MHF shows improved safety profile, cosmesis, and quality of life compared with CF while maintaining equivalent oncological outcomes. Fewer randomised controlled trials have compared UHF with other fractionation schedules, but its safety and oncological effectiveness seem to be similar with short term follow-up. Given the advantages of reduced treatment time, enhanced convenience for patients, and potential cost effectiveness, MHF and UHF should be considered as preferred options over CF in appropriate 
+
+1 
+
+clinical settings, with further research needed to solidify these findings. SYSTEMATIC REVIEW REGISTRATION PROSPERO CRD42023460249. 
+
+Introduction Breast cancer is the most prevalent malignancy in women, contributing significantly to the global cancer burden.1 Postoperative radiation therapy represents an essential part of the multi-modality treatment for breast cancer, especially after breast conserving therapy, with a primary goal of reducing locoregional recurrence and improving disease-free and overall survival rates.2-4 Conventional fractionation radiation therapy, typically consisting of a total dose of about 50 Gray (Gy) delivered over five to six weeks in 1.8-2 Gy daily fractions, has been the historical standard of care for treatment of patients with breast cancer in most of the world since the 1970s. In more recent years, hypofractionated radiation therapy has emerged as an increasingly used alternative, primarily owing to studies conducted by researchers in the UK and Canada.5-11 This approach delivers a dose greater than 2 Gy per fraction to give a reduced total dose over a shorter overall treatment time than conventional fractionation.12 Hypofractionation regimens can be subdivided into moderate hypofractionation and ultrahypofractionation, with the second generally defined as using fractions larger than 3.3 Gy.11 12 Multiple randomised controlled trials conducted since the 1980s have shown that moderate hypofractionation is not inferior to conventional fractionation with regards to key oncological metrics such as overall survival and disease-free survival, with advantages in convenience, cost efficiency, and safety profile.7 9-11 13-16 More recent trials have compared ultra-hypofractionation with moderate hypofractionation or conventional fractionation.17-20 Despite clinical evidence supporting these hypofractionated approaches, their integration into practice varies considerably across different healthcare settings, primarily owing to concerns about potential side effects and the relative novelty of ultra-hypofractionation, for which the follow-up data are shorter. Financial considerations may also play a role; for example, conventional fractionation may be preferred by practitioners in healthcare systems where reimbursement is calculated on a per fraction basis, whereas moderate hypofractionation or ultrahypofractionation might be more popular where treatment reimbursement is capitated.21 22 Given the imperative to optimise patients’ outcomes and convenience while minimising adverse effects, elucidating the impact of radiation therapy fractionation regimens on patients’ daily lives is crucial, as this can significantly influence their treatment preferences. This systematic review and meta-analysis of randomised controlled trials goes beyond traditional comparisons of survival 2 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+outcomes to provide a multidimensional perspective on the implications of choice of radiation therapy fractionation. By specifically emphasising side effects, cosmetic outcomes, and quality of life, areas essential for informed clinical decision making yet often underrepresented in research, the study aims to offer insights that can guide both clinicians and patients towards treatments that not only extend life but also enhance its quality. 
+
+Methods The analysis was conducted and findings were reported according to the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guideline.23 The protocol was registered in the PROSPERO database (CRD42023460249). Two investigators (SFL and SKFK) independently did the literature search and assessed study eligibility following the strategies stated below. Any disagreement between the reviewers was resolved through discussion and consensus or through arbitration by a third investigator (HCYW). 
+
+Search strategy We did a systematic search in Ovid MEDLINE, Embase, and the Cochrane Central Register of Controlled Trials (CENTRAL) to identify eligible articles on the efficacy and safety of postoperative radiation therapy for breast cancer. The initial search on 7 February 2023 was updated on 23 October 2023. Search terms included “breast cancer”, “radiation therapy”, and “hypofractionation”. The detailed search strategies for each database are summarised in online appendix 1. We screened reference lists of relevant studies and reviews and consulted experts to uncover additional studies. We applied no geographical or language filters, but we included for analysis only studies conducted in humans and reported in the English language. 
+
+Inclusion and exclusion criteria We categorised regimens as using conventional fractionation if the intact breast or chest wall/ reconstructed breast was treated using daily fractions of 1.8-2 Gy, typically delivering a total dose of 5050.4 Gy in 25-28 fractions over five to six weeks. We categorised trials as using moderate hypofractionation if they used fraction sizes of 2.65-3.3 Gy, giving 1316 fractions over three to five weeks (supplementary table S1). Lastly, we categorised regimens as using ultra-hypofractionation when only five fractions were used. Some trials allowed the treating physicians to give an additional boost dose to the tumour bed for patients in the control and experimental arms, at their discretion, or incorporated randomisation to receive a boost or not. Inclusion criteria were that the study was a randomised controlled trial; postoperative external beam radiation therapy was directed at the whole breast or chest wall, with or without regional nodal irradiation; and the study compared any combination of conventional fractionation, moderate doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH hypofractionation, and ultra-hypofractionation. We excluded studies if they used intraoperative or partial breast radiation therapy or proton therapy, failed to provide quantifiable data or adequate statistical parameters for analysis, or exclusively reported on patients aged under 18 years. 
+
+Data extraction Data extraction in Microsoft Excel (version 2310) was carried out by SFL and checked independently by the second investigator (SKFK). Detailed information on radiation therapy technique in the intervention and control arms, such as radiation doses, scheme, and duration of treatment, was collected. Outcome data were extracted, including primary and secondary outcome measures and follow-up time points. Quality and risk of bias assessment and certainty of evidence Risk of bias and quality and certainty of evidence were independently assessed at the outcome levels by SFL and a second investigator (SKFK, HCYW, or AWC) using the Cochrane Collaboration’s risk of bias tool 2.0 for randomised trials.24 They typically classified a study as having a high risk of bias in the presence of one or more of the following characteristics: selection from multiple outcome measurements without multiple data analyses; no indication of a pre-specified data analysis plan; or substantial missing data for the primary outcome potentially affecting the results. For the assessment of the overall quality (certainty) of the evidence included in the meta-analysis, we adopted the GRADE (Grading of Recommendations, Assessment, Development, and Evaluations) approach, taking into consideration all relevant GRADE domains: methodological limitations, inconsistency, imprecision, indirectness, 
+
+and publication bias.25 In the case of network metaanalysis, we evaluated the confidence in the findings by using the web based application of the Confidence in Network Meta-Analysis (CINeMA) framework. This framework assesses six domains: within study bias, reporting bias, indirectness, imprecision, heterogeneity, and incoherence.26 Any disagreements were resolved through consensus or discussion with a third investigator (SC). 
+
+Systematic review and statistical analyses Primary outcomes of interest were grade ≥2 acute radiation dermatitis and late radiation therapy related side effects. Secondary outcomes were cosmesis, quality of life, local recurrence (in the breast for patients treated with breast conserving therapy or in the chest wall for those undergoing mastectomy), locoregional recurrence, disease-free survival, and overall survival. We assessed Common Terminology Criteria for Adverse Events or Radiation Therapy Oncology Group grade ≥2 side effects (or at least moderate if grading was not reported) because of their clinical relevance, which typically require medical management and may affect the treatment course and quality of life. We categorised assessment of acute side effects as up to three months after the completion of radiation therapy and late side effects as occurring later than that. Some but not all trials also reported dosimetric analysis, alterations in pulmonary and cardiac function tests, occurrence of secondary primary cancers, economic implications related to health, and workload; we did not analyse these outcomes here. For meta-analysis, we used a random effects model to calculate the summary estimate of each risk ratio and hazard ratio, along with 95% confidence intervals (CIs).27 We quantified heterogeneity between effect estimates among studies by two statistical tests: 
+
+Table 1 | Overview of clinical trials comparing fractionation regimens in breast cancer radiation therapy Fractionations No of trials 
+
+Breast conserving surgery trials Moderate hypofractionation versus conventional fractionation 
+
+Total No of patients 
+
+14 
+
+8076 
+
+Ultra-hypofractionation versus moderate 2 hypofractionation Ultra-hypofractionation versus conventional 1 fractionation Mastectomy trials Moderate hypofractionation versus 11 conventional fractionation 
+
+260 
+
+Dose fractionations in experimental arm 
+
+Dose fractionations in control arm 
+
+Median follow-up (months) 
+
+40 Gy in 15 fractions over 3 weeks; 39 Gy in 13 fractions 50 Gy in 25 fractions over 5 weeks; 42.9 Gy in 13 fractions over 5 weeks; over 5 weeks 42.5–43.2 Gy in 16 fractions over 3 weeks; 43.5 Gy in 15 fractions over 3 weeks 28.5 Gy in 5 fractions over 1 week; 26 Gy in 5 fractions over 40 Gy in 15 fractions 1 week over 3 weeks 30 Gy in 5 fractions over 5 weeks; 28.5 Gy in 5 fractions over 50 Gy in 25 fractions 5 weeks over 5 weeks 
+
+16-202.8 
+
+39 Gy in 13 fractions over 3 weeks; 40 Gy in 15 fractions 50 Gy in 25 fractions over 3 weeks; 42.5 Gy in 15 fractions over 3 weeks; 43.5 Gy over 5 weeks in 15 fractions over 3 weeks; 42.6–42.7 Gy in 16 fractions over 3 weeks Ultra-hypofractionation versus moderate 1 300 27 Gy in 5 fractions over 1 week 40 Gy in 15 fractions hypofractionation over 3 weeks Trials including both breast conserving surgery and mastectomy patients Moderate hypofractionation versus 4 4660 39 Gy in 13 fractions over 5 weeks; 41.6 Gy in 13 fractions 50 Gy in 25 fractions conventional fractionation over 5 weeks; 40 Gy in 15 fractions over 3 weeks; 42 Gy in over 5 weeks 15 fractions over 3 weeks Ultra-hypofractionation versus moderate 2 4367 27 Gy in 5 fractions over 1 week; 26 Gy in 5 fractions over 40 Gy in 15 fractions hypofractionation 1 week over 3 weeks 
+
+34-58.5 
+
+915 
+
+1659 
+
+the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+18 118.8 
+
+Not reported 
+
+111.6-124.8 71.5 
+
+3 
+
+1730 Records identiﬁed through online databases searching 
+
+24 Records identiﬁed through other sources 
+
+1543 Records screened aer duplicates removed 1362 Records excluded 181 Full text articles assessed for eligibility 122 Full text articles excluded 52 Abstract or poster only 45 Study in accrual phase or study protocol 3 Insufficient information 7 Wrong study design 3 Wrong intervention or disease settings 12 Non-English 59 Studies included in synthesis 
+
+Fig 1 | PRISMA diagram of study selection 
+
+Percentage of studies 
+
+the Cochran’s Q statistical test for between study variability and the I2 statistic for the proportion of total variation across studies due to statistical heterogeneity instead of chance.28 We did a sensitivity analysis to assess whether excluding studies with a high risk of bias influenced the estimated effect or heterogeneity of the outcome. We also did network meta-analysis to combine all available data and to verify the findings from the main meta-analysis. The analysis used a frequentist random effects model for risk ratios and hazard ratios. We used the P score, which is analogous to the surface 
+
+100 
+
+Risk of bias High Some concerns 
+
+Low 
+
+80 60 40 20 
+
+ias ko ris 
+
+all er Ov 
+
+po re of n 
+
+ct io le 
+
+fb 
+
+su re rte d 
+
+tc ou of Se 
+
+ur ea s M 
+
+lt 
+
+e om 
+
+ta da em 
+
+g in iss M 
+
+en t 
+
+ou 
+
+in te d de te n 
+
+in m fro 
+
+tc om 
+
+en rv 
+
+pr n tio isa om nd Ra 
+
+e 
+
+tio 
+
+oc es 
+
+s 
+
+ns 
+
+0 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+under the cumulative ranking curve and estimates the extent of certainty that one treatment is superior to another treatment, to rank the radiation therapy dose fractionation regimens.29 All P values were two tailed, and we considered P values of <0.05 to be statistically significant. The meta-analyses and graphs were generated using Review Manager (RevMan), version 5.4, and we used R Statistical Software (v4.3.2) and netmeta package to do the network meta-analysis. 
+
+Patient and public involvement No patients were involved in setting the research question, outcome measures, study design, or data interpretation. Although members of the public were not directly involved in this study because of funding limitations, the focus of this work is aligned with the research priorities of patients with breast cancer, which include rigorous evaluations of dose fractionation regimens to optimise treatment outcome and quality of life. Plain language messages about the results will be shared with lay audience (for example, via social media feeds). Results Search results and characteristics of included studies The initial literature search identified 1754 articles. After the exclusion of 211 duplicates, 1543 articles were screened for relevance on the basis of titles and abstracts, resulting in 59 studies that met the inclusion criteria. These studies encompassed 35 trials conducted from 1986 to 2023, with a cumulative patient count of 20 237. Patient enrolment per trial ranged from 30 to 4096. Our analysis incorporated data from 29 trials comparing moderate hypofractionation with conventional fractionation (14 395 patients), five trials comparing ultra-hypofractionation with moderate hypofractionation (4927 patients), and one trial comparing ultra-hypofractionation with conventional fractionation (915 patients) (table 1, fig 1, and table S2).5-11 15-20 30-75 
+
+Risk of bias and GRADE assessment Overall, 21.6% of outcomes were rated as having a low risk of bias, and 78.4% were rated as having some concerns or a high risk of bias (fig 2). Specifically, the domain with the poorest reporting was the measurement of outcomes, with 47.4% categorised as having some concerns (see table 2 for a concise summary of results with certainty of evidence). The detailed risk of bias and GRADE assessments for the included studies are shown in tables S3 and S4, respectively. After the evaluation of level of evidence using CINeMA, most pairwise comparison results were deemed to have moderate or high confidence (table S5). 
+
+4 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+De via 
+
+tio 
+
+ns Fig 2 | Risk of bias by outcome (percentage) 
+
+Outcomes Side effects outcomes: acute skin side effect The risk ratio for grade ≥2 acute radiation dermatitis for moderate hypofractionation compared with 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH conventional fractionation was 0.59 (95% CI 0.51 to 0.69; P<0.001; fig 3) in the 20 trials comparing them for all patients, 0.54 (0.49 to 0.61; P<0.001; fig 4) for the eight trials giving results for only patients treated with breast conserving therapy, and 0.68 (0.49 to 0.93; P=0.02; fig 5) for the 10 trials giving results for only those treated with mastectomy. Combining the six trials comparing ultra-hypofractionation with moderate hypofractionation, the risk ratio for grade ≥2 acute radiation dermatitis was 0.85 (95% CI 0.47 to 
+
+1.55; P=0.60; fig 6). We found significant heterogeneity between studies (χ2=30.2, df=5; P<0.001; I2=83%). In the two trials that specifically compared ultrahypofractionation with moderate hypofractionation in patients treated with breast conserving therapy, the risk ratio was 1.72 (95% CI 0.24 to 12.40; P=0.59; fig 7). Of note, grade ≥2 acute dermatitis was particularly low in the two ultra-hypofractionation regimens (28.5 Gy or 30 Gy given in five fractions delivered once weekly over five weeks) of the FAST trial compared 
+
+Table 2 | Summary of findings for primary and secondary outcomes Outcomes Moderate hypofractionation v conventional fractionation Grade ≥2 acute radiation dermatitis Grade ≥2 telangiectasia Any hyperpigmentation Grade ≥2 breast or chest wall induration/fibrosis Grade ≥2 breast shrinkage Grade ≥2 breast oedema Grade ≥2 breast pain Grade ≥2 lymphoedema Grade ≥2 pneumonitis/symptomatic lung fibrosis Ischaemic heart disease Moderate/marked shoulder stiffness/dysfunction Symptomatic rib fracture Cosmetic outcomes Quality of life Local recurrence Locoregional recurrence Disease-free survival Overall survival Ultra-hypofractionation v moderate hypofractionation Grade ≥2 acute radiation dermatitis Grade ≥2 telangiectasia Grade ≥2 breast or chest wall induration/fibrosis Grade ≥2 breast shrinkage Grade ≥2 breast oedema Grade ≥2 lymphoedema Grade ≥2 pneumonitis/symptomatic lung fibrosis Ischaemic heart disease Moderate/marked shoulder stiffness/dysfunction Symptomatic rib fracture Cosmetic outcomes Quality of life Local recurrence Locoregional recurrence Disease-free survival Overall survival Ultra-hypofractionation v conventional fractionation Grade ≥2 acute radiation dermatitis Grade ≥2 telangiectasia Grade ≥2 breast or chest wall induration/fibrosis Grade ≥2 breast shrinkage Grade ≥2 breast oedema Grade ≥2 pneumonitis/symptomatic lung fibrosis Ischaemic heart disease Symptomatic rib fracture Cosmesis Ipsilateral breast disease 
+
+Effect estimate (95% CI) 
+
+No of trials* 
+
+Certainty of evidence (GRADE) 
+
+RR 0.59 (0.51 to 0.69)† RR 0.84 (0.66 to 1.06) RR 0.77 (0.62 to 0.95)† RR 0.92 (0.80 to 1.06) RR 0.92 (0.85 to 0.99)† RR 0.82 (0.62 to 1.09) RR 0.94 (0.43 to 2.06) RR 1.00 (0.78 to 1.29) RR 1.57 (0.81 to 3.02) RR 0.95 (0.56 to 1.58) RR 1.14 (0.69 to 1.89) RR 2.82 (0.87 to 9.14) HR 0.97 (0.80 to 1.18) HR 0.98 (0.81 to 1.19) HR 0.92 (0.84 to 1.02) HR 0.96 (0.86 to 1.07) 
+
+20 10 4 15 7 8 3 13 16 8 7 8 16 7 7 6 9 8 
+
+High High Moderate‡ Moderate‡ Moderate‡ Low§ Moderate‡ Moderate‡ Moderate¶ Moderate¶ Low** Low** High High High High High High 
+
+RR 0.85 (0.47 to 1.55) RR 1.42 (0.88 to 2.30) RR 1.86 (1.19 to 2.92)† RR 1.38 (1.07 to 1.76)† RR 2.44 (1.32 to 4.52)† RR 0.84 (0.61 to 1.16) RR 1.33 (0.63 to 2.80) RR 0.87 (0.49 to 1.56) RR 0.89 (0.64 to 1.23) RR 2.07 (1.04 to 4.12)† HR 0.77 (0.52 to 1.13) HR 0.73 (0.53 to 1.01) HR 0.94 (0.78 to 1.12) HR 1.04 (0.85 to 1.27) 
+
+6 2 3 2 2 3 2 2 2 3 3 1 2 2 2 2 
+
+Low§ Moderate‡ Moderate‡ Moderate‡ Moderate‡ Moderate‡ Low** Low** Moderate‡ Low** Moderate‡ High Moderate‡ Moderate‡ Moderate‡ Moderate‡ 
+
+RR 0.27 (0.19 to 0.40)† RR 1.86 (0.11 to 30.23) RR 1.97 (0.58 to 6.71) RR 1.83 (1.09 to 3.07)† RR 3.05 (0.13 to 74.09) RR 0.82 (0.25 to 2.70) RR 0.82 (0.25 to 2.70) RR 0.87 (0.31 to 2.45) HR 1.35 (0.47 to 3.94) 
+
+2 2 2 2 2 2 2 2 2 2 
+
+High Moderate¶ Moderate¶ High Moderate¶ Moderate¶ Moderate¶ Moderate¶ High High 
+
+CI=confidence interval; GRADE=Grading of Recommendations, Assessment, Development, and Evaluations; HR=hazard ratio; RR=risk ratio. *Treatment arms using different dose fractionations in START-Pilot, START-A, START-B, and FAST trial were analysed separately in meta-analyses and shown separately in forest plots. †Statistically significant. ‡Downgraded by one level for risk of bias of included studies. §Downgraded by two levels for risk of bias and inconsistency of included studies. ¶Downgraded by one level for imprecision of included studies. **Downgraded by two levels for risk of bias and imprecision of included studies. 
+
+the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+5 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 
+
+9/73 28/73 OCOG trial 6/15 9/15 Cairo trial 207/777 390/831 BIG 3-07/TROG 07.01 11/365 27/363 Chinese trial 103/149 MD Anderson Cancer Center trial 50/138 9/120 25/120 Italy trial 5/45 9/41 Iran trial 19/70 30/70 Germany trial 14/401 32/409 Beijing trial 6/25 2/22 Egypt trial 13/55 13/53 NRSMC trial 3/25 10/25 Bikaner trial 4/25 9/25 Assam trial 2/120 5/102 Kolkata trial 27/47 52/54 India trial 2/30 7/30 Faridkot trial 9/30 8/30 Rohtak trial 21/50 20/50 Rajasthan trial 13/37 9/32 Belgium trial 15/53 19/33 Brazil trial 445/2501 807/2527 Total (95% CI) Test for heterogeneity: τ2=0.03; χ2=30.19, df=19, P=0.05; I2=37% Test for overall effect: Z=6.78, P<0.001 
+
+4.0 3.4 16.3 3.9 12.7 3.7 2.1 6.8 4.7 1.0 4.1 1.6 1.9 0.9 12.5 1.0 3.0 6.8 3.8 5.9 100.0 0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.32 (0.16 to 0.63) 0.67 (0.32 to 1.40) 0.57 (0.49 to 0.65) 0.41 (0.20 to 0.80) 0.52 (0.41 to 0.67) 0.36 (0.18 to 0.74) 0.51 (0.18 to 1.39) 0.63 (0.40 to 1.01) 0.45 (0.24 to 0.82) 2.64 (0.59 to 11.76) 0.96 (0.49 to 1.88) 0.30 (0.09 to 0.96) 0.44 (0.16 to 1.26) 0.34 (0.07 to 1.72) 0.60 (0.46 to 0.77) 0.29 (0.06 to 1.26) 1.13 (0.50 to 2.52) 1.05 (0.66 to 1.68) 1.25 (0.62 to 2.53) 0.49 (0.29 to 0.83) 0.59 (0.51 to 0.69) 
+
+5 10 Favours CF 
+
+Fig 3 | Forest plot showing risk ratios for grade ≥2 acute radiation dermatitis for moderate versus conventional fractionation in all trials. Cairo trial used RTOG toxicity criteria for acute radiation dermatitis. Beijing trial reported incidence of acute radiation dermatitis across grade 1–2 and 3; however, only grade 3 data have been included in this forest plot for analysis. Kolkata trial reported incidence of only grade ≥3 acute radiation dermatitis. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+with conventional fractionation, with a risk ratio of 0.27 (95% CI 0.19 to 0.40; P<0.001 (figure S1).18 In sensitivity analyses assessing the influence of studies at high risk of bias on the cumulative findings, the risk ratio for acute radiation dermatitis comparing moderate hypofractionation with conventional fractionation remained significant at 0.58 (95% CI 0.49 to 0.68; P<0.001; n=11), with no substantial heterogeneity observed (χ2=13.67, df=10; P=0.19; I2=27%) (figure S2). Criteria for assessment and timing are detailed in table S6. We did subgroup analyses delineating individual fractionation regimens on the basis of the number of fractions (figure S3). Across the compared regimens, the 15 fraction and 16 fraction schedules showed similar decreased risk ratios (0.56, 95% CI 0.46 to 0.68; P<0.001; n=10 and 0.60, 0.47 to 0.76; P<0.001; n=10, respectively) for acute radiation dermatitis, compared with the 50 Gy in 25 fractions approach. 
+
+Side effects outcomes: late skin and soft tissue side effects 
+
+In trials comparing moderate hypofractionation with conventional fractionation, the risk ratio was 0.84 
+
+6 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+(95% CI 0.66 to 1.06; P=0.14; n=10; fig 8) for grade ≥2 telangiectasia, 0.77 (0.62 to 0.95; P=0.02; n=4; fig 9) for any hyperpigmentation, 0.92 (0.80 to 1.06; P=0.24; n=15; fig 10) for grade ≥2 breast or chest wall induration or fibrosis, 0.92 (0.85 to 0.99; P=0.03; n=7; fig 11) for grade ≥2 breast shrinkage, and 0.82 (0.62 to 1.09; P=0.18; n=8; fig 12) for grade ≥2 breast oedema. However, in the subset of trials that reported results exclusively for patients treated with breast conserving therapy, the outcomes for telangiectasia (fig 13), hyperpigmentation (fig 14), breast induration or fibrosis (fig 15), breast shrinkage (fig 16), breast oedema (fig 17), and breast pain (fig 18) were not found to be statistically significant. Comparing ultra-hypofractionation with moderate hypofractionation, data mainly from the FAST-Forward trial indicated increased risks associated with ultrahypofractionation in terms of induration or fibrosis (risk ratio 1.86, 95% CI 1.19 to 2.92; P=0.007; n=3; figure S4B), breast shrinkage (1.38, 1.07 to 1.76; P=0.01; n=2; figure S4C), and breast oedema (2.44, 1.32 to 4.52; P=0.005; n=2; figure S4D). The FAST trial also suggested higher risks of breast shrinkage for ultra-hypofractionation compared with conventional fractionation (risk ratio 1.83, 95% CI 1.09 to 3.07; doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+9/73 28/73 OCOG trial 6/15 9/15 Cairo trial 207/777 390/831 BIG 3-07/TROG 07.01 11/365 27/363 Chinese trial 103/149 MD Anderson Cancer Center trial 50/138 9/120 25/120 Italy trial 5/45 9/41 Iran trial 19/70 30/70 Germany trial 316/1603 621/1662 Total (95% CI) Test for heterogeneity: τ2=0.00; χ2=5.52, df=7, P=0.60; I2=0% Test for overall effect: Z=10.87, P<0.001 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 2.6 2.2 63.8 2.6 19.9 2.3 1.2 5.5 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.32 (0.16 to 0.63) 0.67 (0.32 to 1.40) 0.57 (0.49 to 0.65) 0.41 (0.20 to 0.80) 0.52 (0.41 to 0.67) 0.36 (0.18 to 0.74) 0.51 (0.18 to 1.39) 0.63 (0.40 to 1.01) 0.54 (0.49 to 0.61) 
+
+5 10 Favours CF 
+
+Fig 4 | Forest plot showing risk ratios for grade ≥2 acute radiation dermatitis for moderate versus conventional fractionation in breast conserving treatment trials. Cairo trial used RTOG toxicity criteria for acute radiation dermatitis. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+P=0.02; n=2; figure S5C). Subgroup analyses based on the number of fractions are shown in figures S6 to S8. 
+
+Side effects outcomes: late non-skin side effects 
+
+Comparing moderate hypofractionation and conventional fractionation, the risk ratio for grade ≥2 arm lymphoedema in the combined breast conserving therapy and mastectomy population was 1.00 (95% CI 0.78 to 1.29; P=0.98; n=13; fig 19). The risk ratio for grade ≥2 pneumonitis or symptomatic lung fibrosis was 1.57 (95% CI 0.81 to 3.02; P=0.18; n=16; fig 20). The risk ratio for ischaemic heart disease for all patients combined (regardless of surgery) was 0.95 
+
+(95% CI 0.56 to 1.58; P=0.83; n=8; fig 21). The risk ratio for shoulder stiffness or dysfunction was 1.14 (95% CI 0.69 to 1.89; P=0.62; n=7; fig 22), and the risk ratio for symptomatic rib fracture was 2.82 (0.87 to 9.14; P=0.08; n=8; fig 23). In a study assessing late side effects in the heart and lungs among patients with left breast carcinoma irradiated after mastectomy, pulmonary function tests and echocardiography did not show increased cardiopulmonary side effects of moderate hypofractionation (13 fractions) compared with conventional fractionation over an 18 month follow-up.63 Figure S9 shows the forest plots for late non-skin side effects among the breast conserving 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+14/401 32/409 Beijing trial 6/25 2/22 Egypt trial 13/55 13/53 NRSMC trial 3/25 10/25 Bikaner trial 4/25 9/25 Assam trial 2/120 5/102 Kolkata trial 27/47 52/54 India trial 2/30 7/30 Faridkot trial 9/30 8/30 Rohtak trial 21/50 20/50 Rajasthan trial 101/808 158/800 Total (95% CI) Test for heterogeneity: τ2=0.10; χ2=16.32, df=9, P=0.06; I2=45% 0.1 0.2 Test for overall effect: Z=2.40, P=0.02 Favours MHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 13.5 3.9 12.3 5.8 6.9 3.4 23.4 3.9 9.9 17.1 100.0 0.1 
+
+1 
+
+2 
+
+5 10 Favours CF 
+
+0.45 (0.24 to 0.82) 2.64 (0.59 to 11.76) 0.96 (0.49 to 1.88) 0.30 (0.09 to 0.96) 0.44 (0.16 to 1.26) 0.34 (0.07 to 1.72) 0.60 (0.46 to 0.77) 0.29 (0.06 to 1.26) 1.13 (0.50 to 2.52) 1.05 (0.66 to 1.68) 0.68 (0.49 to 0.93) 
+
+Fig 5 | Forest plot showing risk ratios for grade ≥2 acute radiation dermatitis for moderate versus conventional fractionation in mastectomy trials. Beijing trial reported incidence of acute radiation dermatitis across grade 1–2 and 3; however, only grade 3 data have been included in this forest plot for analysis. Kolkata trial reported incidence of only grade ≥3 acute radiation dermatitis. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+7 
+
+No of events/total Study or subgroup 
+
+UHF 
+
+MHF 
+
+Risk ratio M-H, random (95% CI) 
+
+YO-HAI5 trial 17/106 19/94 Serbia trial 5/27 1/33 Pakistan trial 67/100 38/100 FAST-Forward (26Gy arm) 19/53 22/43 FAST-Forward (27Gy arm) 12/41 22/43 HYPORT trial 4/135 15/136 Total (95% CI) 124/462 117/449 Test for heterogeneity: τ2=0.41; χ2=30.20, df=5, P<0.001; I2=83% 0.1 0.2 Test for overall effect: Z=0.53, P=0.60 Favours UHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 18.9 6.1 22.0 20.4 19.3 13.3 100.0 0.1 
+
+1 
+
+2 
+
+0.79 (0.44 to 1.43) 6.11 (0.76 to 49.21) 1.76 (1.33 to 2.35) 0.70 (0.44 to 1.11) 0.57 (0.33 to 1.00) 0.27 (0.09 to 0.79) 0.85 (0.47 to 1.55) 
+
+5 10 Favours MHF 
+
+Fig 6 | Forest plot showing risk ratios for grade ≥2 acute radiation dermatitis for ultra-hypofractionation versus moderate hypofractionation in all trials. CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation; UHF= ultra-hypofractionation 
+
+therapy only and mastectomy only trials comparing moderate hypofractionation and conventional fractionation regimens. For ultra-hypofractionation versus moderate hypofractionation, the risk ratio for symptomatic rib fractures was found to be statistically significant at 2.07 (95% CI 1.04 to 4.12; P=0.04; n=3; figure S10E), whereas for ultra-hypofractionation versus conventional fractionation, the comparisons did not yield statistically significant results (figure S11). Severe late side effects were rare and comparable between moderate hypofractionation and conventional fractionation groups across studies. In the subgroup analysis focusing on individual fractionation regimens based on the number of fractions, we detected no significant variations in these late non-skin side effects across the studied regimens (figures S12-S14). Table S7 offers a detailed overview of late side effects when we compared different dose fractionation regimens, categorised by the time elapsed since breast/chest wall radiation therapy. 
+
+Cosmetic outcomes 
+
+The DBCG HYPO trial indicated a modest improvement in cosmetic outcomes with a moderate hypofractionation regimen.39 The START-PILOT trial reported fewer cases 
+
+of fair or poor cosmetic results at five and 10 years in patients receiving 39 Gy in 13 fractions compared with those treated with 50 Gy in 25 fractions.11 Furthermore, the Germany trial found that cosmetic assessments were significantly better in patients undergoing moderate hypofractionation compared with conventional fractionation.50 In the FAST-Forward trial, we observed no significant cosmetic differences when comparing an ultra-hypofractionation regimen at 26 Gy in five fractions with moderate hypofractionation at 40 Gy in 15 fractions. Nevertheless, a higher dose of ultra-hypofractionation at 27 Gy in five fractions was associated with a significant risk of changes in breast appearance at both two and five years, relative to moderate hypofractionation.17 The FAST trial, comparing ultra-hypofractionation with conventional fractionation, showed that the incidence of mild or marked changes in photographic breast appearance at two or five years was significantly higher for 30 Gy than for 50 Gy. However, no significant difference was detected between 28.5 Gy and 50 Gy.18 Details on the timing and methods of these assessments are available in table S8. 
+
+No of events/total Study or subgroup 
+
+UHF 
+
+MHF 
+
+YO-HAI5 trial 17/106 19/94 Serbia trial 5/27 1/33 Total (95% CI) 22/133 20/127 Test for heterogeneity: τ2=1.54; χ2=3.52, df=1, P=0.06; I2=72% Test for overall effect: Z=0.54, P=0.59 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 62.1 37.9 100.0 
+
+0.01 0.1 Favours UHF 
+
+1 
+
+10 
+
+0.79 (0.44 to 1.43) 6.11 (0.76 to 49.21) 1.72 (0.24 to 12.40) 
+
+100 Favours MHF 
+
+Fig 7 | Forest plot showing risk ratios for grade ≥2 acute radiation dermatitis for ultra-hypofractionation versus moderate hypofractionation in breast conserving surgery trials. CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation; UHF= ultra-hypofractionation 8 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+START-Pilot (39Gy arm) 23/269 37/271 START-Pilot (42.9Gy arm) 38/266 37/271 BIG 3-07/TROG 07.01 14/777 13/831 DBCG HYPO trial 75/734 67/718 Tehran trial 3/30 2/22 MD Anderson Cancer Center trial 1/97 0/108 Iran trial 2/45 2/41 START-A (39Gy arm) 18/723 42/730 START-A (41.6Gy arm) 43/733 42/730 START-B 34/1094 52/1081 Total (95% CI) 251/4768 294/4803 Test for heterogeneity: τ2=0.05; χ2=14.67, df=9, P=0.10; I2=39% 0.1 0.2 Test for overall effect: Z=1.48, P=0.14 Favours MHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 12.8 15.1 7.3 19.4 1.8 0.5 1.4 11.4 15.4 15.0 100.0 0.1 
+
+1 
+
+2 
+
+0.63 (0.38 to 1.02) 1.05 (0.69 to 1.59) 1.15 (0.54 to 2.43) 1.10 (0.80 to 1.50) 1.10 (0.20 to 6.04) 3.34 (0.14 to 80.96) 0.91 (0.13 to 6.18) 0.43 (0.25 to 0.74) 1.02 (0.67 to 1.54) 0.65 (0.42 to 0.99) 0.84 (0.66 to 1.06) 
+
+5 10 Favours CF 
+
+Fig 8 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 telangiectasia in all trials. Iran trial, Tehran trial, and DBCG HYPO trial reported incidence of any grade of telangiectasia. CI=confidence interval; CF=conventional fractionation; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+Quality of life 
+
+and conventional fractionation cohorts, and the START trials similarly noted minimal quality of life discrepancies between moderate hypofractionation and conventional fractionation.39 65 Lastly, the YOHAI5 trial, comparing ultra-hypofractionation and moderate hypofractionation, indicated that patients in the ultra-hypofractionation group showed less decline in the physical and social functioning aspects of quality of life two to four weeks after radiation therapy.19 
+
+The MD Anderson Cancer Center and BIG 3–07/TROG 07.01 trials showed that moderate hypofractionation improves physical well being at six months and enhances body image at the end of treatment, respectively, in comparison with conventional fractionation.36 41 44 Additionally, the OCOG trial showed an improved quality of life relating to breast side effects, attractiveness, fatigue, and convenience at six weeks following moderate hypofractionation compared with conventional fractionation.31 In the Belgium trial, moderate hypofractionation was associated with superior quality of life relative to conventional fractionation, highlighting the potential role of treatment delivery methods; specifically, the use of tomotherapy in moderate hypofractionation facilitated better dose homogeneity.69 73 Conversely, the DBCG HYPO trial observed equivalent levels of satisfaction with breast appearance over a five year period across both moderate hypofractionation 
+
+Oncological outcomes 
+
+We found no statistically significant differences in the respective hazard ratios between moderate hypofractionation and conventional fractionation for local/locoregional recurrence, disease-free survival, and overall survival. Notably, we detected no significant heterogeneity for these estimates of survival (all P>0.05) (figure S15). In the subgroup analyses focusing on the number of fractions (comparing 13 fraction and 15 fraction regimens with 50 Gy in 25 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+DBCG HYPO trial 51/734 69/718 MD Anderson Cancer Center trial 22/97 23/108 Iran trial 9/45 13/41 Brazil trial 26/48 19/26 Total (95% CI) 108/924 124/893 Test for heterogeneity: τ2=0.00; χ2=1.97, df=3, P=0.58; I2=0% Test for overall effect: Z=2.40, P=0.02 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 37.6 17.0 8.3 37.1 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.72 (0.51 to 1.02) 1.06 (0.64 to 1.78) 0.63 (0.30 to 1.32) 0.74 (0.52 to 1.05) 0.77 (0.62 to 0.95) 
+
+5 10 Favours CF 
+
+Fig 9 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: any hyperpigmentation in all trials. CI=confidence interval; CF=conventional fractionation; M-H=Mantel-Haenszel; MHF=moderate hypofractionation the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+9 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+55/269 77/271 START-Pilot (39Gy arm) 108/266 77/271 START-Pilot (42.9Gy arm) 81/777 78/831 BIG 3-07/TROG 07.01 67/734 85/718 DBCG HYPO trial 27/365 28/363 Chinese trial 3/30 2/22 Tehran trial 1/108 MD Anderson Cancer Center trial 2/97 11/58 17/62 Italy trial 2/45 3/41 Iran trial 7/25 9/25 Assam trial 110/617 142/616 START-A (39Gy arm) 150/627 142/616 START-A (41.6Gy arm) 129/1006 153/1003 START-B 6/24 9/24 Belgium trial 4/48 1/26 Brazil trial 762/4988 824/4997 Total (95% CI) Test for heterogeneity: τ2=0.03; χ2=25.64, df=14, P=0.03; I2=45% 0.1 0.2 Test for overall effect: Z=1.17, P=0.24 Favours MHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 
+
+0.1 
+
+1 
+
+2 
+
+10.3 12.5 10.5 10.2 5.6 0.7 0.3 3.7 0.6 2.6 13.0 13.9 13.2 
+
+0.72 (0.53 to 0.97) 1.43 (1.13 to 1.81) 1.11 (0.83 to 1.49) 0.77 (0.57 to 1.04) 0.96 (0.58 to 1.59) 1.10 (0.20 to 6.04) 2.23 (0.21 to 24.17) 0.69 (0.35 to 1.35) 0.61 (0.11 to 3.46) 0.78 (0.34 to 1.76) 0.77 (0.62 to 0.97) 1.04 (0.85 to 1.27) 0.84 (0.68 to 1.04) 
+
+2.4 0.4 100.0 
+
+0.67 (0.28 to 1.58) 2.17 (0.26 to 18.39) 0.92 (0.80 to 1.06) 
+
+5 10 Favours CF 
+
+Fig 10 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast or chest wall induration or fibrosis in all trials. Iran trial reported the incidence of grade ≥2 breast induration or fibrosis. Tehran trial, DBCG HYPO trial, Chinese trial, Italy trial, and Belgium trial reported incidence of any grade of breast induration or fibrosis. CI=confidence interval; CF=conventional fractionation; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+fractions), most survival outcomes did not show significant differences (figures S16-S18). However, the 15 fraction regimens showed a reduced hazard ratio for disease-free survival of 0.86 (95% CI 0.76 to 0.98; P=0.03; n=6; figure S17C) compared with 50 Gy in 25 fractions. Several randomised controlled trials did not provide enough information to be included in this meta-analysis, but generally the survival outcomes 
+
+between the regimens show no statistically significant difference.9 32 40 44 47 54 59 62 68 69 71 The FAST-Forward trial compared two different doses of ultra-hypofractionation with moderate hypofractionation.17 Neither 27 Gy in five fractions nor 26 Gy in five fractions resulted in significant differences compared with moderate hypofractionation in several crucial outcomes with a median follow-up of 71.5 months (figure S19).17 Finally, in the FAST trial 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+START-Pilot (39Gy arm) 124/269 147/271 START-Pilot (42.9Gy arm) 148/266 147/271 MD Anderson Cancer Center trial 11/97 11/108 Iran trial 2/28 3/21 START-A (39Gy arm) 140/617 165/616 START-A (41.6Gy arm) 168/627 165/616 START-B 221/1006 256/1003 Total (95% CI) 814/2910 894/2906 Test for heterogeneity: τ2=0.00; χ2=5.71, df=6, P=0.46; I2=0% Test for overall effect: Z=2.23, P=0.03 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 19.9 24.3 0.9 0.2 14.9 16.9 23.0 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.85 (0.72 to 1.01) 1.03 (0.88 to 1.20) 1.11 (0.51 to 2.45) 0.50 (0.09 to 2.73) 0.85 (0.70 to 1.03) 1.00 (0.83 to 1.20) 0.86 (0.74 to 1.01) 0.92 (0.85 to 0.99) 
+
+5 10 Favours CF 
+
+Fig 11 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast shrinkage in all trials. Iran trial reported incidence of any grade of breast shrinkage. CI=confidence interval; CF=conventional fractionation; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 10 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+START-Pilot (39Gy arm) 29/269 34/271 START-Pilot (42.9Gy arm) 54/266 34/271 DBCG HYPO trial 7/734 7/718 MD Anderson Cancer Center trial 1/97 0/108 Iran trial 21/45 25/41 START-A (39Gy arm) 43/617 78/616 START-A (41.6Gy arm) 67/627 78/616 START-B 49/1006 86/1003 Total (95% CI) 271/3661 342/3644 Test for heterogeneity: τ2=0.10; χ2=21.58, df=7, P=0.003; I2=68% 0.1 0.2 Test for overall effect: Z=1.35, P=0.18 Favours MHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 13.6 15.2 5.6 0.8 15.1 16.1 17.1 16.4 100.0 0.1 
+
+1 
+
+2 
+
+0.86 (0.54 to 1.37) 1.62 (1.09 to 2.40) 0.98 (0.34 to 2.77) 3.34 (0.14 to 80.96) 0.77 (0.51 to 1.14) 0.55 (0.39 to 0.79) 0.84 (0.62 to 1.15) 0.57 (0.40 to 0.80) 0.82 (0.62 to 1.09) 
+
+5 10 Favours CF 
+
+Fig 12 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast oedema in all trials. Iran trial and DBCG HYPO trial reported incidence of any grade of breast oedema. CI=confidence interval; CF=conventional fractionation; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+comparing ultra-hypofractionation with conventional fractionation, the hazard ratio for ipsilateral breast recurrence combining both ultra-hypofractionation arms was 1.35 (95% CI 0.47 to 3.94; P=0.58) (figure S20).18 
+
+Effects of other factors on side effects Results related to the effects of tumour bed boost, breast size, and smoking status are provided in the data supplement (appendix 2). Network meta-analysis For our network meta-analysis, we included data from 28 trials comparing moderate hypofractionation and conventional fractionation, encompassing 14 344 
+
+patients. Additionally, five trials compared ultrahypofractionation and moderate hypofractionation, involving 4927 patients, and one trial compared ultrahypofractionation and conventional fractionation, with 915 patients (table S9). On the basis of the network meta-analysis approach, we found that moderate hypofractionation significantly reduced the incidence of grade ≥2 acute radiation dermatitis compared with conventional fractionation, with a risk ratio of 0.56 (95% CI 0.46 to 0.68; P<0.001; figure S21A). Ultra-hypofractionation showed an even more favourable reduction in grade ≥2 acute radiation dermatitis compared with conventional fractionation (risk ratio 0.41, 95% CI 0.29 to 0.58; P<0.001; figure S21A) and a non-significant trend towards a lower 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+START-Pilot (39Gy arm) 23/269 37/271 START-Pilot (42.9Gy arm) 38/266 37/271 BIG 3-07/TROG 07.01 14/777 13/831 DBCG HYPO trial 75/734 67/718 Tehran trial 3/30 2/22 MD Anderson Cancer Center trial 1/97 0/108 Iran trial 2/45 2/41 Total (95% CI) 156/2218 158/2262 Test for heterogeneity: τ2=0.00; χ2=4.52, df=6, P=0.61; I2=0% Test for overall effect: Z=0.15, P=0.88 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 18.3 25.2 7.9 45.4 1.5 0.4 1.2 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.63 (0.38 to 1.02) 1.05 (0.69 to 1.59) 1.15 (0.54 to 2.43) 1.10 (0.80 to 1.50) 1.10 (0.20 to 6.04) 3.34 (0.14 to 80.96) 0.91 (0.13 to 6.18) 0.98 (0.80 to 1.21) 
+
+5 10 Favours CF 
+
+Fig 13 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 telangiectasia in and breast conserving treatment trials. Iran trial, Tehran trial, and DBCG HYPO trial reported incidence of any grade of telangiectasia. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+11 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+DBCG HYPO trial 51/734 69/718 MD Anderson Cancer Center trial 22/97 23/108 Iran trial 9/45 13/41 Total (95% CI) 82/876 105/867 Test for heterogeneity: τ2=0.00; χ2=1.90, df=2, P=0.39; I2=0% Test for overall effect: Z=1.74, P=0.08 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 59.8 27.0 13.2 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.72 (0.51 to 1.02) 1.06 (0.64 to 1.78) 0.63 (0.30 to 1.32) 0.79 (0.60 to 1.03) 
+
+5 10 Favours CF 
+
+Fig 14| Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: any hyperpigmentation in breast conserving treatment trials. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+incidence than moderate hypofractionation (0.74, 0.53 to 1.02; P=0.07; figure S21B). According to P score rankings, ultra-hypofractionation (98.4%) was the most favourable option, followed by moderate hypofractionation (51.6%) and conventional fractionation (0%), despite significant heterogeneity being observed (I2=65.1%, 95% CI 47.6% to 76.8%; Q test=74.50; P<0.001). Additionally, moderate hypofractionation was associated with a reduced risk of breast shrinkage compared with conventional fractionation (risk ratio 0.92, 95% CI 0.86 to 0.99; P=0.04; figure S22E). Conversely, ultra-hypofractionation was linked to an increased risk of breast or chest wall induration and fibrosis (risk ratio 1.66, 95% CI 1.12 to 2.48; P=0.01 against conventional fractionation (figure S22C); 1.80, 1.23 to 2.64; P=0.002 against moderate hypofractionation (figure S22D)) and breast shrinkage (risk ratio 1.36, 1.08 to 1.71; P=0.009 against conventional fractionation (figure S22E); 1.47, 1.18 
+
+to 1.84; P=0.007 against moderate hypofractionation (figure S22F)) in comparison with both moderate hypofractionation and conventional fractionation. Heterogeneity across these outcomes was not significant. The P score rankings for breast or chest wall induration and fibrosis were highest for moderate hypofractionation at 94.0%, followed by conventional fractionation at 55.7% and ultra-hypofractionation at 0.4%. For grade ≥2 breast shrinkage, the rankings were moderate hypofractionation at 99.1%, conventional fractionation at 50.7%, and ultra-hypofractionation at 0.3%. Ultra-hypofractionation also increased the risk of grade ≥2 breast oedema compared with moderate hypofractionation (risk ratio 2.49, 95% CI 1.21 to 5.10; P=0.01; Figure S22H), with evidence of heterogeneity (I2=58.4%, 95% CI 16.3% to 79.4%; Q test=21.66; P=0.01). The P score rankings for grade ≥2 breast oedema were most favourable for moderate hypofractionation at 96.0%, followed by conventional fractionation at 52.1% and ultra-hypofractionation 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+START-Pilot (39Gy arm) 55/269 77/271 START-Pilot (42.9Gy arm) 108/266 77/271 BIG 3-07/TROG 07.01 81/777 78/831 DBCG HYPO trial 67/734 85/718 Chinese trial 27/365 28/363 Tehran trial 3/30 2/22 MD Anderson Cancer Center trial 2/97 1/108 Italy trial 11/58 17/62 Iran trial 2/45 3/41 Total (95% CI) 356/2641 368/2687 Test for heterogeneity: τ2=0.06; χ2=18.51, df=8, P=0.02; I2=57% 0.1 0.2 Test for overall effect: Z=0.41, P=0.68 Favours MHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 18.1 20.3 18.4 18.1 11.9 1.9 1.0 8.6 1.8 100.0 0.1 
+
+1 
+
+2 
+
+0.72 (0.53 to 0.97) 1.43 (1.13 to 1.81) 1.11 (0.83 to 1.49) 0.77 (0.57 to 1.04) 0.96 (0.58 to 1.59) 1.10 (0.20 to 6.04) 2.23 (0.21 to 24.17) 0.69 (0.35 to 1.35) 0.61 (0.11 to 3.46) 0.95 (0.75 to 1.21) 
+
+5 10 Favours CF 
+
+Fig 15 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast or chest wall induration or fibrosis in breast conserving treatment trials. Tehran trial, DBCG HYPO trial, Chinese trial, and Italy trial reported incidence of any grade of breast induration or fibrosis. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 12 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+START-Pilot (39Gy arm) 124/269 147/271 START-Pilot (42.9Gy arm) 148/266 147/271 MD Anderson Cancer Center trial 11/97 11/108 Iran trial 2/28 3/21 Total (95% CI) 285/660 308/671 Test for heterogeneity: τ2=0.00; χ2=3.32, df=3, P=0.34; I2=10% Test for overall effect: Z=0.93, P=0.35 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 44.7 52.1 2.6 0.6 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.85 (0.72 to 1.01) 1.03 (0.88 to 1.20) 1.11 (0.51 to 2.45) 0.50 (0.09 to 2.73) 0.94 (0.83 to 1.07) 
+
+5 10 Favours CF 
+
+Fig 16 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast shrinkage in breast conserving treatment trials. Iran trial reported incidence of any grade of breast shrinkage. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+at 2.0%. Late non-skin side effects and survival outcomes showed no significant differences across the fractionation regimens. Details of the network metaanalysis are in appendix 3. The forest plots, network plots, and league tables, which visualise the pairwise comparisons, can be found in figures S21-S35 and tables S10-S33, respectively. 
+
+Discussion Previous systematic reviews and meta-analyses of trials of breast radiation therapy fractionation primarily focused on disease recurrences and survival metrics.76-79 Our study adds a patient centred perspective crucial for informed decision making by examining not only oncological outcomes but also acute and late side effects, cosmetic outcomes, and quality of life associated with moderate hypofractionation and ultra-hypofractionation, compared with conventional fractionation. In our analysis, moderate hypofractionation showed either comparable or reduced acute and late side effects compared with conventional fractionation, and notably, improved cosmetic outcomes were 
+
+reported in some cases. This suggests that moderate hypofractionation may provide superior quality of life for patients. Ultra-hypofractionation, although less extensively studied, has shown promising results, particularly with its substantial reduction in duration of treatment, which may further improve patients’ convenience and quality of life. These findings have been corroborated by the network meta-analysis, and to our knowledge this is the first study assessing those outcomes by using this approach; the consistency of the results with those of the main analyses lends robust support to our conclusions. Our review also identified several factors influencing treatment outcomes, such as the application of a tumour bed boost, breast size, and smoking status. These factors highlight the need for tailored treatment approaches to optimise outcomes.80 81 
+
+Comparison with guidelines and other studies Current guidelines recommend moderate hypofractionation as the standard of care for a broad range of patients with breast cancer, irrespective of the patient’s age, systemic therapy, and disease 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+START-Pilot (39Gy arm) 29/269 34/271 START-Pilot (42.9Gy arm) 54/266 34/271 DBCG HYPO Trial 7/734 7/718 MD Anderson Cancer Center trial 1/97 0/108 Iran trial 21/45 25/41 Total (95% CI) 112/1411 100/1409 Test for heterogeneity: τ2=0.09; χ2=8.53, df=4, P=0.07; I2=53% Test for overall effect: Z=0.20, P=0.84 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 27.1 30.4 10.8 1.5 30.3 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.86 (0.54 to 1.37) 1.62 (1.09 to 2.40) 0.98 (0.34 to 2.77) 3.34 (0.14 to 80.96) 0.77 (0.51 to 1.14) 1.04 (0.70 to 1.54) 
+
+5 10 Favours CF 
+
+Fig 17 | Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast oedema in breast conserving treatment trials. Iran trial and DBCG HYPO trial reported incidence of any grade of breast oedema. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+13 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 
+
+BIG 3-07/TROG 07.01 112/777 81/831 DBCG HYPO trial 27/734 42/718 MD Anderson Cancer Center trial 0/97 1/108 Total (95% CI) 139/1608 124/1657 Test for heterogeneity: τ2=0.30; χ2=10.05, df=2, P=0.007; I2=80% 0.01 0.1 Test for overall effect: Z=0.16, P=0.87 Favours MHF 
+
+50.0 44.6 5.4 100.0 1 
+
+10 
+
+1.48 (1.13 to 1.93) 0.63 (0.39 to 1.01) 0.37 (0.02 to 9.00) 0.94 (0.43 to 2.06) 
+
+100 Favours CF 
+
+Fig 18| Forest plot showing risk ratios for late skin and soft tissue side effects for moderate versus conventional fractionation trials: grade ≥2 breast pain in breast conserving treatment trials. CF=conventional fractionation; CI=confidence interval; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+stage.3 82 However, the need for robust evidence that confirms minimal differences between moderate hypofractionation and conventional fractionation in long term side effects, notably concerning lung and cardiac health,83 has slowed the adoption of hypofractionation in the US.84 The role of moderate hypofractionation in regional lymph node and chest wall irradiation remains controversial,83 but the safety of moderate hypofractionation for these indications is increasingly supported by evidence from randomised controlled trials, including those from the START and Chinese trials.7 15 85 86 Results from real world data and multiple randomised studies show that moderate hypofractionation also produces equivalent results 
+
+to conventional fractionation for young patients and those treated with many different systemic therapies.15 16 44 62 87 88 The use of ultra-hypofractionation as per the FASTForward trial garners differing levels of endorsement across major guidelines, reflecting ongoing debates. The European Society for Radiotherapy and Oncology (ESTRO) and the Italian Association for Radiotherapy and Clinical Oncology endorse 26 Gy in five fractions for both whole breast and chest wall irradiation without reconstruction as standard of care.82 89 For chest wall irradiation after breast reconstruction, ESTRO advises its use only within clinical trials.82 Similarly, in the UK, the National Institute for Health 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+START-Pilot (39Gy arm) 16/269 17/271 START-Pilot (42.9Gy arm) 22/266 27/271 Chinese trial 2/365 2/363 MD Anderson Cancer Center trial 1/97 0/108 Beijing trial 3/401 3/409 Bikaner trial 7/25 8/25 Kolkata trial 5/120 4/102 Faridkot trial 11/30 11/30 Rajasthan trial 6/50 5/50 START-A (39Gy arm) 6/92 15/117 START-A (41.6Gy arm) 16/95 15/117 START-B 3/81 7/73 Brazil trial 6/48 3/26 Total (95% CI) 104/1939 107/1962 Test for heterogeneity: τ2=0.00; χ2=6.41, df=12, P=0.89; I2=0% Test for overall effect: Z=0.03, P=0.98 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 14.7 17.3 1.7 0.6 2.5 8.9 3.9 14.6 5.1 7.8 15.2 3.7 3.8 100.0 
+
+0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.95 (0.49 to 1.84) 1.32 (0.72 to 2.43) 0.99 (0.14 to 7.02) 3.34 (0.14 to 80.96) 1.02 (0.21 to 5.02) 0.88 (0.37 to 2.05) 1.06 (0.29 to 3.85) 1.00 (0.51 to 1.94) 1.20 (0.39 to 3.68) 0.51 (0.21 to 1.26) 1.31 (0.69 to 2.52) 0.39 (0.10 to 1.44) 1.08 (0.29 to 3.98) 1.00 (0.78 to 1.29) 
+
+5 10 Favours CF 
+
+Fig 19 | Forest plot showing risk ratios for late non-skin side effects for moderate versus conventional fractionation: grade ≥2 lymphoedema. Beijing trial reported incidence of lymphoedema across grades 1-2 and grade 3; however, only grade 3 data have been included in this forest plot for analysis. Chinese trial reported only incidence of grade 2 lymphoedema. Kolkata trial reported incidence of only grade ≥3 lymphoedema. CF=conventional fractionation; CI=confidence interval; IHD=ischaemic heart disease; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 14 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+BIG 3-07/TROG 07.01 6/777 3/831 Greece trial 1/30 1/31 Chinese trial 0/365 1/363 MD Anderson Cancer Center trial 0/97 0/108 Beijing trial 0/401 0/409 Egypt trial 3/25 1/22 NRSMC trial 0/55 0/53 Assam trial 0/25 0/25 Kolkata trial 4/120 4/102 India trial 0/47 0/54 Rohtak trial 0/30 0/30 Rajasthan trial 1/50 3/50 START-A (39Gy arm) 1/737 0/749 START-A (41.6Gy arm) 2/750 0/749 START-B 8/1110 2/1105 Brazil trial 0/53 0/33 Total (95% CI) 26/4672 15/4714 Test for heterogeneity: τ2=0.00; χ2=6.17, df=8, P=0.63; I2=0% Test for overall effect: Z=1.35, P=0.18 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 22.5 5.8 4.2 
+
+9.0 
+
+23.2 
+
+8.6 4.2 4.7 17.9 100.0 0.01 0.1 Favours UHF 
+
+1 
+
+10 
+
+2.14 (0.54 to 8.52) 1.03 (0.07 to 15.78) 0.33 (0.01 to 8.11) Not estimable Not estimable 2.64 (0.30 to 23.58) Not estimable Not estimable 0.85 (0.22 to 3.31) Not estimable Not estimable 0.33 (0.04 to 3.10) 3.05 (0.12 to 74.72) 4.99 (0.24 to 103.83) 3.98 (0.85 to 18.71) Not estimable 1.57 (0.81 to 3.02) 
+
+100 Favours MHF 
+
+Fig 20 | Forest plot showing risk ratios for late non-skin side effects for moderate versus conventional fractionation: grade ≥2 pneumonitis or symptomatic lung fibrosis. Beijing trial reported incidence of lung fibrosis across grades 1-2 and grade 3; however, only grade 3 data have been included in this forest plot for analysis. Chinese trial reported only incidence of grade 2 lung fibrosis. Kolkata trial reported incidence of only grade ≥3 lung side effects. CF=conventional fractionation; CI=confidence interval; IHD=ischaemic heart disease; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+and Care Excellence (NICE) recommends 26 Gy in five fractions over one week for patients with invasive breast cancer undergoing partial breast, whole breast, or chest wall radiation therapy, excluding those requiring regional lymph node irradiation, following breast conserving therapy or mastectomy.90 For implant based reconstruction, NICE recommends moderate hypofractionation using 40 Gy in 15 
+
+fractions.90 By contrast, the National Comprehensive Cancer Network guideline recommends that the FASTForward regimen of 26 Gy in five fractions should be offered as an alternative to the FAST regimen (28.5 Gy in five weekly fractions) for selected early stage disease, noting that the efficacy and safety results of the former are not yet available beyond five years.91 The German Society of Radiation Oncology (DEGRO) 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 
+
+BIG 3-07/TROG 07.01 4/777 1/831 Chinese trial 6/365 4/363 Beijing trial 7/401 4/409 Assam trial 0/25 0/25 START-A (39Gy arm) 6/737 7/749 START-A (41.6Gy arm) 5/750 7/749 START-B 8/1110 16/1105 Brazil trial 0/53 0/33 Total (95% CI) 36/4218 39/4264 Test for heterogeneity: τ2=0.06; χ2=5.83, df=5, P=0.32; I2=14% Test for overall effect: Z=0.21, P=0.83 
+
+5.3 14.7 15.5 18.9 17.3 28.2 100.0 0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+4.28 (0.48 to 38.19) 1.49 (0.42 to 5.24) 1.78 (0.53 to 6.05) Not estimable 0.87 (0.29 to 2.58) 0.71 (0.23 to 2.24) 0.50 (0.21 to 1.16) Not estimable 0.95 (0.56 to 1.58) 
+
+5 10 Favours CF 
+
+Fig 21 | Forest plot showing risk ratios for late non-skin side effects for moderate versus conventional fractionation: ischaemic heart disease. CF=conventional fractionation; CI=confidence interval; IHD=ischaemic heart disease; M-H=Mantel-Haenszel; MHF=moderate hypofractionation the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+15 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+START-Pilot (39Gy arm) 14/97 13/102 START-Pilot (42.9Gy arm) 34/99 13/102 Chinese trial 0/365 1/363 Beijing trial 1/401 1/409 START-A (39Gy arm) 8/92 14/117 START-A (41.6Gy arm) 10/95 14/117 START-B 3/81 4/73 Total (95% CI) 70/1230 60/1283 Test for heterogeneity: τ2=0.18; χ2=10.70, df=6, P=0.10; I2=44% 0.1 0.2 Test for overall effect: Z=0.50, P=0.62 Favours MHF 
+
+Weight Risk ratio M-H, (%) random (95% CI) 21.7 25.1 2.3 3.1 18.7 20.1 9.0 100.0 0.1 
+
+1 
+
+2 
+
+1.13 (0.56 to 2.28) 2.69 (1.51 to 4.79) 0.33 (0.01 to 8.11) 1.02 (0.06 to 16.25) 0.73 (0.32 to 1.66) 0.88 (0.41 to 1.89) 0.68 (0.16 to 2.92) 1.14 (0.69 to 1.89) 
+
+5 10 Favours CF 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+Fig 22 | Forest plot showing risk ratios for late non-skin side effects for moderate versus conventional fractionation: grade ≥2 shoulder stiffness or dysfunction. Beijing trial reported incidences of shoulder dysfunction across grades 1-2 and grade 3; however, only grade 3 data have been included in this forest plot for analysis. Chinese trial reported only incidence of grade 2 shoulder stiffness. CF=conventional fractionation; CI=confidence interval; IHD=ischaemic heart disease; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 
+
+recommends cautious use of postoperative whole breast radiation therapy in five fractions (FAST and FAST-Forward regimens), especially in patients with good long term prognosis.92 DEGRO also advises against ultra-hypofractionation in post-mastectomy patients or those needing regional nodal irradiation and urges caution in younger patients.92 These guidelines collectively indicate a growing acceptance of ultra-hypofractionation, particularly for early stage breast or chest wall radiation therapy. However, the body of evidence, particularly long term data, for ultrahypofractionation is less comprehensive compared with that for moderate hypofractionation regimens, and hence uncertainty remains about its long term control and side effects. Similarly to a previous meta-analysis,79 our study found that moderate hypofractionation yields similar 
+
+rates of local and locoregional recurrence and diseasefree and overall survival to conventional fractionation. We observed a slightly improved disease-free survival for the 15 fraction moderate hypofractionation regimens compared with 50 Gy in 25 fractions. However, this subtle difference necessitates cautious interpretation, acknowledging the potential for statistical variance. Specifically, the observed variance may be related to an increased risk of type I errors stemming from multiple hypothesis testing. 
+
+Strengths and limitations of study Our study has several limitations, including the risk of bias due to the lack of blinding of patients and/or outcome evaluators. However, masking is not possible in this kind of intervention, and survival outcomes such as local and locoregional control and disease-free and 
+
+No of events/total Study or subgroup 
+
+MHF 
+
+CF 
+
+Risk ratio M-H, random (95% CI) 
+
+Weight Risk ratio M-H, (%) random (95% CI) 
+
+OCOG trial 0/394 1/358 Italy trial 0/58 0/62 Beijing trial 0/401 0/409 India trial 0/47 0/54 START-A (39Gy arm) 1/737 0/749 START-A (41.6Gy arm) 2/750 0/749 START-B 8/1100 2/1105 Brazil trial 0/53 0/33 Total (95% CI) 11/3540 3/3519 Test for heterogeneity: τ2=0.00; χ2=2.21, df=3, P=0.53; I2=0% Test for overall effect: Z=1.72, P=0.08 
+
+13.6 
+
+13.5 15.0 57.9 100.0 0.1 0.2 Favours MHF 
+
+0.1 
+
+1 
+
+2 
+
+0.30 (0.01 to 7.41) Not estimable Not estimable Not estimable 3.05 (0.12 to 74.72) 4.99 (0.24 to 103.83) 4.02 (0.86 to 18.88) Not estimable 2.82 (0.87 to 9.14) 
+
+5 10 Favours CF 
+
+Fig 23 | Forest plot showing risk ratios for late non-skin side effects for moderate versus conventional fractionation: symptomatic rib fracture. CF=conventional fractionation; CI=confidence interval; IHD=ischaemic heart disease; M-H=Mantel-Haenszel; MHF=moderate hypofractionation 16 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH overall survival are unlikely to have been influenced by the lack of blinding. To ensure a comprehensive assessment, we used a rigorous approach to evaluate the risk of bias and quality of evidence. Sensitivity analysis confirmed robustness even when high risk studies were excluded, reinforcing the strength of evidence despite limitations. Another limitation is that not all outcomes were reported for all trials, especially for side effects and cosmesis, hindering the drawing of definitive conclusions. Our findings nevertheless indicate a generally low heterogeneity between the included studies, enhancing the robustness of our conclusions. 
+
+Conclusions and policy implications In summary, our study corroborates the efficacy of moderate hypofractionation in radiation therapy for breast cancer, highlighting additional benefits including reduced side effects, increased convenience, and potential cost effectiveness. These findings justify the wider adoption of moderate hypofractionation as the preferred approach, given its balance of therapeutic efficacy and improved safety. This approach not only enhances convenience for patients but also improves resource use in healthcare facilities by reducing administrative costs and boosting the operational efficiency of treatment centres through the reallocation of machine time to treat additional patients. Although conventional fractionation remains a treatment option in some parts of the world, our study should facilitate the choice between moderate hypofractionation and conventional fractionation, encouraging a personalised approach that considers patients’ preferences and specific clinical circumstances. To date, results for ultra-hypofractionation support its use as a new strategy, particularly for breast and chest wall only radiation therapy, owing to its potential to further improve patients’ convenience and quality of life. However, a definitive unrestricted adoption of ultra-hypofractionation awaits longer follow-up data. Future research should strengthen the evidence base for selecting fractionation regimens and ensure that clinical decisions align with economic sustainability and patient centred care. AUTHOR AFFILIATIONS 
+
+1 
+
+Department of Radiation Oncology, National University Cancer Institute, National University Hospital, Singapore 2 Department of Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore 3 Odette Cancer Centre, Sunnybrook Health Sciences Centre, University of Toronto, Toronto, ON, Canada 4 Cancer Risk Factors and Lifestyle Epidemiology Unit, Institute for Cancer Research, Prevention and Clinical Network (ISPO), Florence, Italy 5 Department of Oncology, Princess Margaret Hospital, Hospital Authority, Hong Kong 6 Department of Clinical Oncology, Tuen Mun Hospital, New Territories West Cluster, Hospital Authority, Hong Kong 7 Department of Radiation Oncology, Iridium Netwerk, WilrijkAntwerp, Belgium 8 Faculty of Medicine and Health Sciences, University of Antwerp, Wilrijk-Antwerp, Belgium 9 Department of Experimental and Clinical Biomedical Sciences “M Serio”, University of Florence, Florence, Italy 
+
+the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+10 Radiation Oncology Unit, Oncology Department, Azienda Ospedaliero Universitaria Careggi, Florence, Italy 11 Breast Cancer Radiation Therapy Unit, Sheba Medical Center, Ramat Gan, Israel 12 School of Medicine, Tel-Aviv University, Tel-Aviv, Israel 13 GROW-School for Oncology and Reproductive (Maastro), Maastricht University, Maastricht, Netherlands 14 Department of Radiation Oncology, Beth Israel Deaconess Medical Center, Boston, MA, USA 15 Division of Radiation Oncology, McGill University Health Centre, Montreal, QC, Canada 16 Department of Radiation Oncology, Winship Cancer Institute, Emory University, Atlanta, GA, USA 17 Section of Radiation Oncology, Department of Oncology, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada 18 Department of Radiation Oncology, Mayo Clinic, Rochester, MN, USA 19 Department of Radiation Oncology, New York Proton Center and Memorial Sloan Kettering Cancer Center, New York, NY, USA 20 Radiation Medicine Program, Princess Margaret Cancer Centre, University Health Network, Toronto, ON, Canada 21 Department of Radiation Oncology, University of Toronto, Toronto, ON, Canada 22 Odette Cancer Centre, Sunnybrook Health Sciences Centre, University of Toronto, Toronto, ON, Canada 23 Department of Radiation Oncology, Hospital Sírio-Libanês, São Paulo, Brazil 24 Latin America Cooperative Oncology Group, Porto Alegre, Brazil 25 Postgraduate Program, Department of Radiology and Oncology, Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil 
+
+Contributors: This study was conceptualised and designed collaboratively by all authors. SKFK, SFL, AWC, and HCYW did the literature review, with SC providing expertise on the analytical methods. SFL, SKFK, SC, GNM, and EC were responsible for preparing the materials, collecting the data, and doing the analysis. SFL and SKFK wrote the initial draft of the manuscript, and all authors provided feedback on subsequent drafts. All authors have reviewed and given their approval for the final version of the manuscript. The corresponding author attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted. SFL and SKFK are credited with equal contributions, serving as co-first authors; EC and GNM are recognised as co-senior authors. SFL is the guarantor. Funding: No funds, grants, or other support were received during the preparation of this manuscript. Competing interests: All authors have completed the ICMJE uniform disclosure form at https://www.icmje.org/disclosure-of-interest/ and declare: no support from any organisation for the submitted work; IC has received consulting fees from Pfizer, Novartis, Eli Lilly, Seagen, Gilead, Astra Zeneca, Daiichi Sankyo, and Menarini StemLine and is a clinical board member of the European Society for Radiotherapy and Oncology (unpaid); JQC has received funding from the Canadian Institutes of Health Research and honorariums from Roche, Pfizer, Novartis, AstraZeneca, Well Doc Alberta, Merck, La Roche-Posay, Knight, Seagen, Oncology Education, and Gilead; no other relationships or activities that could appear to have influenced the submitted work. 
+
+Ethical approval: As this study is a systematic review and metaanalysis based solely on previously published data, no ethical approval was needed or obtained. This research involved no direct human participation, experimentation, or use of personal data. The study strictly adhered to the principles of research integrity and ethical publication standards. All analyses were done using data from publicly available sources and published studies. 
+
+Data sharing: Data analysed were based on published data. Template data forms, the data extracted from included studies, and data used for analyses are available from the corresponding author on reasonable request. The study protocol is published on PROSPERO (ID: CRD42023460249) Transparency: The lead author (the manuscript’s guarantor) affirms that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have 
+
+17 
+
+been omitted; and that any discrepancies from the study as originally planned (and, if relevant, registered) have been explained. Dissemination to participants and related patient and public communities: The results of this work will be disseminated to the public via press releases, presentations at conferences oriented towards clinicians who serve patients with breast cancer, and plain language summaries posted on websites and social media. These findings will also inform a future clinical trial that includes robust patient involvement in evaluation of the acceptability and tolerability of the intervention. Provenance and peer review: Not commissioned; externally peer reviewed This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is noncommercial. See: http://creativecommons.org/licenses/by-nc/4.0/. 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 11 
+
+12 
+
+13 14 
+
+15 
+
+18 
+
+Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin 2021;71:209-49. doi:10.3322/caac.21660 Cardoso F, Kyriakides S, Ohno S, et al. ESMO Guidelines Committee. Electronic address: clinicalguidelines@esmo.org. Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and followup†. Ann Oncol 2019;30:1194-220. doi:10.1093/annonc/mdz173 Smith BD, Bellon JR, Blitzblau R, et al. Radiation therapy for the whole breast: Executive summary of an American Society for Radiation Oncology (ASTRO) evidence-based guideline. Pract Radiat Oncol 2018;8:145-52. doi:10.1016/j.prro.2018.01.012 McGale P, Taylor C, Correa C, et al. EBCTCG (Early Breast Cancer Trialists’ Collaborative Group). Effect of radiotherapy after mastectomy and axillary surgery on 10-year recurrence and 20-year breast cancer mortality: meta-analysis of individual patient data for 8135 women in 22 randomised trials. Lancet 2014;383:2127-35. doi:10.1016/S0140-6736(14)60488-8 Bentzen SM, Agrawal RK, Aird EG, et al. START Trialists’ Group. The UK Standardisation of Breast Radiotherapy (START) Trial B of radiotherapy hypofractionation for treatment of early breast cancer: a randomised trial. Lancet 2008;371:1098-107. doi:10.1016/S01406736(08)60348-7 Bentzen SM, Agrawal RK, Aird EG, et al. START Trialists’ Group. The UK Standardisation of Breast Radiotherapy (START) Trial A of radiotherapy hypofractionation for treatment of early breast cancer: a randomised trial. Lancet Oncol 2008;9:331-41. doi:10.1016/ S1470-2045(08)70077-9 Haviland JS, Owen JR, Dewar JA, et al. START Trialists’ Group. The UK Standardisation of Breast Radiotherapy (START) trials of radiotherapy hypofractionation for treatment of early breast cancer: 10-year follow-up results of two randomised controlled trials. Lancet Oncol 2013;14:1086-94. doi:10.1016/S1470-2045(13)70386-3 Owen JR, Ashton A, Bliss JM, et al. Effect of radiotherapy fraction size on tumour control in patients with early-stage breast cancer after local tumour excision: long-term results of a randomised trial. Lancet Oncol 2006;7:467-71. doi:10.1016/S1470-2045(06)70699-4 Whelan T, MacKenzie R, Julian J, et al. Randomized trial of breast irradiation schedules after lumpectomy for women with lymph node-negative breast cancer. J Natl Cancer Inst 2002;94:1143-50. doi:10.1093/jnci/94.15.1143 Whelan TJ, Pignol JP, Levine MN, et al. Long-term results of hypofractionated radiation therapy for breast cancer. N Engl J Med 2010;362:513-20. doi:10.1056/NEJMoa0906260 Yarnold J, Ashton A, Bliss J, et al. Fractionation sensitivity and dose response of late adverse effects in the breast after radiotherapy for early breast cancer: long-term results of a randomised trial. Radiother Oncol 2005;75:9-17. doi:10.1016/j.radonc.2005.01.005 Marta GN, Coles C, Kaidar-Person O, et al. The use of moderately hypofractionated post-operative radiation therapy for breast cancer in clinical practice: A critical review. Crit Rev Oncol Hematol 2020;156:103090. doi:10.1016/j. critrevonc.2020.103090 Xu X, Soulos PR, Herrin J, et al. Physician trajectories of abandoning long-course breast radiotherapy and their cost impact. Health Serv Res 2021;56:497-506. doi:10.1111/1475-6773.13572 Yang J, Qi SN, Fang H, et al. Cost-effectiveness of postmastectomy hypofractionated radiation therapy vs conventional fractionated radiation therapy for high-risk breast cancer. Breast 2021;58:72-9. doi:10.1016/j.breast.2021.04.002 Wang SL, Fang H, Song YW, et al. Hypofractionated versus conventional fractionated postmastectomy radiotherapy for patients with high-risk breast cancer: a randomised, non-inferiority, openlabel, phase 3 trial. Lancet Oncol 2019;20:352-60. doi:10.1016/ S1470-2045(18)30813-1 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+16 Wang SL, Fang H, Hu C, et al. Hypofractionated Versus Conventional Fractionated Radiotherapy After Breast-Conserving Surgery in the Modern Treatment Era: A Multicenter, Randomized Controlled Trial From China. J Clin Oncol 2020;38:3604-14. doi:10.1200/ JCO.20.01024 17 Murray Brunt A, Haviland JS, Wheatley DA, et al. FAST-Forward Trial Management Group. Hypofractionated breast radiotherapy for 1 week versus 3 weeks (FAST-Forward): 5-year efficacy and late normal tissue effects results from a multicentre, non-inferiority, randomised, phase 3 trial. Lancet 2020;395:1613-26. doi:10.1016/S01406736(20)30932-6 18 Brunt AM, Haviland JS, Sydenham M, et al. Ten-Year Results of FAST: A Randomized Controlled Trial of 5-Fraction Whole-Breast Radiotherapy for Early Breast Cancer. J Clin Oncol 2020;38:3261-72. doi:10.1200/ JCO.19.02750 19 Van Hulle H, Vakaet V, Monten C, et al. Acute toxicity and healthrelated quality of life after accelerated whole breast irradiation in 5 fractions with simultaneous integrated boost. Breast 2021;55:10511. doi:10.1016/j.breast.2020.12.009 20 Chakraborty S, Chatterjee S, Hyport Adjuvant Author Group. HYPORT adjuvant acute toxicity and patient dosimetry quality assurance results - Interim analysis. Radiother Oncol 2022;174:59-68. doi:10.1016/j.radonc.2022.07.003 21 Konski A, Yu JB, Freedman G, Harrison LB, Johnstone PA. Radiation Oncology Practice: Adjusting to a New Reimbursement Model. J Oncol Pract 2016;12:e576-83. doi:10.1200/JOP.2015.007385 22 Marta GN, Ramiah D, Kaidar-Person O, et al. The Financial Impact on Reimbursement of Moderately Hypofractionated Postoperative Radiation Therapy for Breast Cancer: An International Consortium Report. Clin Oncol (R Coll Radiol) 2021;33:322-30. doi:10.1016/j. clon.2020.12.008 23 Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration. BMJ 2009;339:b2700. doi:10.1136/bmj.b2700 24 Higgins JP, Altman DG, Gøtzsche PC, et al. Cochrane Bias Methods GroupCochrane Statistical Methods Group. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ 2011;343:d5928. doi:10.1136/bmj.d5928 25 Guyatt G, Gutterman D, Baumann MH, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: report from an american college of chest physicians task force. Chest 2006;129:174-81. doi:10.1378/chest.129.1.174 26 Nikolakopoulou A, Higgins JPT, Papakonstantinou T, et al. CINeMA: An approach for assessing confidence in the results of a network meta-analysis. PLoS Med 2020;17:e1003082. doi:10.1371/journal. pmed.1003082 27 DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials 1986;7:177-88. doi:10.1016/0197-2456(86)90046-2 28 Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ 2003;327:557-60. doi:10.1136/bmj.327.7414.557 29 Rücker G, Schwarzer G. Ranking treatments in frequentist network meta-analysis works without resampling methods. BMC Med Res Methodol 2015;15:58. doi:10.1186/s12874-015-0060-8 30 Spooner D, Stocken DD, Jordan S, et al. West Midlands Oncology Breast Cancer Group. A randomised controlled trial to evaluate both the role and the optimal fractionation of radiotherapy in the conservative management of early breast cancer. Clin Oncol (R Coll Radiol) 2012;24:697-706. doi:10.1016/j.clon.2012.08.003 31 Arsenault J, Parpia S, Goldberg M, et al. Acute Toxicity and Quality of Life of Hypofractionated Radiation Therapy for Breast Cancer. Int J Radiat Oncol Biol Phys 2020;107:943-8. doi:10.1016/j. ijrobp.2020.03.049 32 Goldberg M, Parpia S, Rakovitch E, et al. Long-term outcomes and effects of hypofractionated radiotherapy in microinvasive breast cancer: Analysis from a randomized trial. Breast 2023;68:189-93. doi:10.1016/j.breast.2023.02.005 33 Taher AN, El-Baradie MM, Essa H, Zaki O, Ezzat S. Hypofractionation versus conventional fractionation radiotherapy after conservative treatment of breast cancer: early skin reactions and cosmetic results. J Egypt Natl Canc Inst 2004;16:178-87. 34 Zhao S, Liu Y, Huang F, Chen X, Cao X, Yu J. The long-term outcome of adjuvant hypofractionated radiotherapy and conventional fractionated radiotherapy after breast-conserving surgery for early breast cancer: a prospective analysis of 107 cases. J Thorac Dis 2017;9:3840-50. doi:10.21037/jtd.2017.09.125 35 Olivotto IA, Link E, Phillips C, et al. BIG 03-07/TROG 07.01 trial investigators. International comparison of cosmetic outcomes of breast conserving surgery and radiation therapy for women with ductal carcinoma in situ of the breast. Radiother Oncol 2020;142:180-5. doi:10.1016/j.radonc.2019.07.024 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 36 King MT, Link EK, Whelan TJ, et al. BIG 3-07/TROG 07.01 trial investigators. Quality of life after breast-conserving therapy and adjuvant radiotherapy for non-low-risk ductal carcinoma in situ (BIG 3-07/TROG 07.01): 2-year results of a randomised, controlled, phase 3 trial. Lancet Oncol 2020;21:685-98. doi:10.1016/S14702045(20)30085-1 37 Chua BH, Link EK, Kunkler IH, et al. BIG 3–07/TROG 07.01 trial investigators. Radiation doses and fractionation schedules in non-low-risk ductal carcinoma in situ in the breast (BIG 3-07/ TROG 07.01): a randomised, factorial, multicentre, open-label, phase 3 study. Lancet 2022;400:431-40. doi:10.1016/S01406736(22)01246-6 38 Fragkandrea I, Kouloulias V, Mavridis P, et al. Radiation induced pneumonitis following whole breast radiotherapy treatment in early breast cancer patients treated with breast conserving surgery: a single institution study. Hippokratia 2013;17:233-8. 39 Offersen BV, Alsner J, Nielsen HM, et al. Danish Breast Cancer Group Radiation Therapy Committee. Hypofractionated Versus Standard Fractionated Radiotherapy in Patients With Early Breast Cancer or Ductal Carcinoma In Situ in a Randomized Phase III Trial: The DBCG HYPO Trial. J Clin Oncol 2020;38:3615-25. doi:10.1200/ JCO.20.01363 40 Amouzegar Hashemi F, Barzegartahamtan M, Mohammadpour RA, Sebzari A, Kalaghchi B, Haddad P. Comparison of Conventional and Hypofractionated Radiotherapy in Breast Cancer Patients in Terms of 5-Year Survival, Locoregional Recurrence, Late Skin Complications and Cosmetic Results. Asian Pac J Cancer Prev 2016;17:4819-23. 41 Shaitelman SF, Schlembach PJ, Arzu I, et al. Acute and Short-term Toxic Effects of Conventionally Fractionated vs Hypofractionated Whole-Breast Irradiation: A Randomized Clinical Trial. JAMA Oncol 2015;1:931-41. doi:10.1001/jamaoncol.2015.2666 42 Swanick CW, Lei X, Shaitelman SF, et al. Longitudinal analysis of patient-reported outcomes and cosmesis in a randomized trial of conventionally fractionated versus hypofractionated whole-breast irradiation. Cancer 2016;122:2886-94. doi:10.1002/cncr.30121 43 Reddy JP, Lei X, Huang SC, et al. Quantitative Assessment of Breast Cosmetic Outcome After Whole-Breast Irradiation. Int J Radiat Oncol Biol Phys 2017;97:894-902. doi:10.1016/j.ijrobp.2016.12.021 44 Shaitelman SF, Lei X, Thompson A, et al. Three-Year Outcomes With Hypofractionated Versus Conventionally Fractionated Whole-Breast Irradiation: Results of a Randomized, Noninferiority Clinical Trial. J Clin Oncol 2018;36:JCO1800317. doi:10.1200/JCO.18.00317 45 Weng JK, Lei X, Schlembach P, et al. Five-Year Longitudinal Analysis of Patient-Reported Outcomes and Cosmesis in a Randomized Trial of Conventionally Fractionated Versus Hypofractionated WholeBreast Irradiation. Int J Radiat Oncol Biol Phys 2021;111:360-70. doi:10.1016/j.ijrobp.2021.05.004 46 Chapman BV, Lei X, Patil P, et al. Quantitative 3-Dimensional Photographic Assessment of Breast Cosmesis After Whole Breast Irradiation for Early Stage Breast Cancer: A Secondary Analysis of a Randomized Clinical Trial. Adv Radiat Oncol 2020;5:824-33. doi:10.1016/j.adro.2020.04.035 47 De Felice F, Ranalli T, Musio D, et al. Relation between Hypofractionated Radiotherapy, Toxicity and Outcome in Early Breast Cancer. Breast J 2017;23:563-8. doi:10.1111/tbj.12792 48 Hosseini S, Shahabadi M, Salek R, et al. Accelerated Hypofractionated Whole Breast Radiotherapy for Early Breast Cancer; A Randomized Phase III Clinical Trial. Acta Med Iran 2020;57:645-52. 49 Schmeel LC, Koch D, Schmeel FC, et al. Acute radiation-induced skin toxicity in hypofractionated vs. conventional whole-breast irradiation: An objective, randomized multicenter assessment using spectrophotometry. Radiother Oncol 2020;146:172-9. doi:10.1016/j.radonc.2020.02.018 50 Dejonckheere CS, Abramian A, Lindner K, et al. Objective, Clinicianand Patient-Reported Evaluation of Late Toxicity Following Adjuvant Radiation for Early Breast Cancer: Long-Term Follow-Up Results of a Randomised Series. J Clin Med 2023;12:4212. doi:10.3390/ jcm12134212 51 Ivanov O, Milovančev A, Petrović B, et al. Ultra-Hypofractionated vs. Moderate Fractionated Whole Breast Three Dimensional Conformal Radiotherapy during the COVID-19 Pandemic. Medicina (Kaunas) 2022;58:745. doi:10.3390/medicina58060745 52 Agrawal RK, Alhasso A, Barrett-Lee PJ, et al. FAST Trialists group. First results of the randomised UK FAST Trial of radiotherapy hypofractionation for treatment of early breast cancer (CRUKE/04/015). Radiother Oncol 2011;100:93-100. doi:10.1016/j.radonc.2011.06.026 53 Ali EM, Abd AlMageed MK.Post-mastectomy hypofractionation radiotherapy in breast cancer patients. Cancer Oncol Res 2014; 2:87-93. 54 Das P, Das T, Jana A, Gupta P, Gupta P, Das S. Comparison of result and outcome of conventional and hypofractionated radiotherapy in post-operative breast cancer patients. Int J Med Sci Public Health 2018;7:452-6. doi:10.5455/ijmsph.2018.0102010032018. 
+
+the bmj | BMJ 2023;386:e079089 | doi: 10.1136/bmj-2023-079089 
+
+55 Purohit RC, Sharma N, Sharma N, Kumar R, Jakhar SL. Comparison of Acute Toxicities in Conventional and Hypofractionated Radiotherapy in Post-Mastectomy Breast Cancer. J Med Sci Clin Res 2016;4:107214. doi:10.18535/jmscr/v4i6.07. 56 Kalita AK, Bhattacharyya M, Jagtap VK, et al. Radiotherapy in Post Mastectomy High Risk Breast Cancer: Early results of a Prospective Study comparing Conventional versus Hypofractionated Radiotherapy. J Med Sci Clin Res 2018;7:743-51. 57 Bhattacharyya M, Kalita A, Medhi P, et al. Hypofractionated radiotherapy in post mastectomy locally advanced breast cancer: a study from a regional cancer center in North East India. Int J Res Med Sci 2018;6:3942. doi:10.18203/2320-6012.ijrms20184887. 58 Maiti S, Meyur S, Mandal BC, et al. Comparison of conventional and hypofractionated radiation after mastectomy in locally advanced breast cancer: a prospective randomised study on dosimetric evaluation and treatment outcome. J Radiother Pract 2021;20:30-8. doi:10.1017/S1460396919000992. 59 Kumar S, Singh S, Prasad SN, Korde M, Elhence A, Shakya V. A prospective study to compare hypo-fractionated radiotherapy versus conventional radiotherapy in carcinoma breast. Int J Pharm Sci Res 2019;10:2071-8. 60 Bedi N, Yadav HP, Banipal RPS, et al. Hypofractionated radiotherapy in breast cancer: Is it safe?HECS Int J Comm Health MedRes 2018;4:47-53. 61 Abhilash GH, Dhull AK, Atri R, et alComparison of hypofractionated radiation therapy versus conventional radiation therapy in post mastectomy breast cancer. J Evid Based Med Healthc 2016;3:117781. doi:10.18410/jebmh/2016/270. 62 Rastogi K, Jain S, Bhatnagar AR, Bhaskar S, Gupta S, Sharma N. A Comparative Study of Hypofractionated and Conventional Radiotherapy in Postmastectomy Breast Cancer Patients. Asia Pac J Oncol Nurs 2018;5:107-13. doi:10.4103/apjon.apjon_46_17 63 Saha S, Chatterjee K, Mukherjee P, et al. Randomized study assessing the cardiopulmonary toxicities from postoperative conventional versus hypofractionated radiotherapy in locally advanced left breast carcinoma. Cancer Res Stat Treat 2022;5:408-16. doi:10.4103/crst. crst_294_21. 64 Shahid A, Athar MA, Asghar S, Zubairi T, Murad S, Yunas N. Post mastectomy adjuvant radiotherapy in breast cancer: a comparision of three hypofractionated protocols. J Pak Med Assoc 2009;59:282-7. 65 Hopwood P, Haviland JS, Sumo G, Mills J, Bliss JM, Yarnold JR, START Trial Management Group. Comparison of patient-reported breast, arm, and shoulder symptoms and body image after radiotherapy for early breast cancer: 5-year follow-up in the randomised Standardisation of Breast Radiotherapy (START) trials. Lancet Oncol 2010;11:231-40. doi:10.1016/S1470-2045(09)70382-1 66 Haviland JS, Bentzen SM, Bliss JM, Yarnold JR, START Trial Management Group. Prolongation of overall treatment time as a cause of treatment failure in early breast cancer: An analysis of the UK START (Standardisation of Breast Radiotherapy) trials of radiotherapy fractionation. Radiother Oncol 2016;121:420-3. doi:10.1016/j. radonc.2016.08.027 67 Haviland JS, Mannino M, Griffin C, et al. START Trialists’ Group. Late normal tissue effects in the arm and shoulder following lymphatic radiotherapy: Results from the UK START (Standardisation of Breast Radiotherapy) trials. Radiother Oncol 2018;126:155-62. doi:10.1016/j.radonc.2017.10.033 68 Van Parijs H, Miedema G, Vinh-Hung V, et al. Short course radiotherapy with simultaneous integrated boost for stage I-II breast cancer, early toxicities of a randomized clinical trial. Radiat Oncol 2012;7:80. doi:10.1186/1748-717X-7-80 69 Van Parijs H, Vinh-Hung V, Fontaine C, et al. Cardiopulmonary-related patient-reported outcomes in a randomized clinical trial of radiation therapy for breast cancer. BMC Cancer 2021;21:1177. doi:10.1186/ s12885-021-08916-z 70 Verbanck S, Hanon S, Schuermans D, et al. Small airways function in breast cancer patients before and after radiotherapy. Breast Cancer Res Treat 2012;135:857-65. doi:10.1007/s10549-012-2201-7 71 Verbanck S, Hanon S, Schuermans D, et al. Mild Lung Restriction in Breast Cancer Patients After Hypofractionated and Conventional Radiation Therapy: A 3-Year Follow-Up. Int J Radiat Oncol Biol Phys 2016;95:937-45. doi:10.1016/j.ijrobp.2016.02.008 72 Verbanck S, Van Parijs H, Schuermans D, et al. Lung Restriction in Patients With Breast Cancer After Hypofractionated and Conventional Radiation Therapy: A 10-Year Follow-up[published Online First: 2022/03/02]. Int J Radiat Oncol Biol Phys 2022;113:561-9. doi:10.1016/j.ijrobp.2022.02.021 73 Versmessen H, Vinh-Hung V, Van Parijs H, et al. Health-related quality of life in survivors of stage I-II breast cancer: randomized trial of post-operative conventional radiotherapy and hypofractionated tomotherapy. BMC Cancer 2012;12:495. doi:10.1186/1471-240712-495 
+
+19 
+
+74 Gil GOB, de Andrade WP, Diniz PHC, et al. A phase II randomized clinical trial to assess toxicity and quality of life of breast cancer patients with hypofractionated versus conventional fractionation radiotherapy with regional nodal irradiation in the context of COVID-19 crisis. Front Oncol 2023;13:1202544. doi:10.3389/ fonc.2023.1202544 75 Brunt AM, Wheatley D, Yarnold J, et al. FAST-Forward Trial Management Group. Acute skin toxicity associated with a 1-week schedule of whole breast radiotherapy compared with a standard 3-week regimen delivered in the UK FAST-Forward Trial. Radiother Oncol 2016;120:114-8. doi:10.1016/j.radonc.2016.02.027 76 Andrade TRM, Fonseca MCM, Segreto HRC, Segreto RA, Martella E, Nazário ACP. Meta-analysis of long-term efficacy and safety of hypofractionated radiotherapy in the treatment of early breast cancer. Breast 2019;48:24-31. doi:10.1016/j.breast.2019.08.001 77 Liu L, Yang Y, Guo Q, et al. Comparing hypofractionated to conventional fractionated radiotherapy in postmastectomy breast cancer: a meta-analysis and systematic review. Radiat Oncol 2020;15:17. doi:10.1186/s13014-020-1463-1 78 Gu L, Dai W, Fu R, et al. Comparing Hypofractionated With Conventional Fractionated Radiotherapy After Breast-Conserving Surgery for Early Breast Cancer: A Meta-Analysis of Randomized Controlled Trials. Front Oncol 2021;11:753209. doi:10.3389/ fonc.2021.753209 79 Marta GN, Riera R, Pacheco RL, et al. Moderately hypofractionated post-operative radiation therapy for breast cancer: Systematic review and meta-analysis of randomized clinical trials. Breast 2022;62:8492. doi:10.1016/j.breast.2022.01.018 80 Vesprini D, Davidson M, Bosnic S, et al. Effect of Supine vs Prone Breast Radiotherapy on Acute Toxic Effects of the Skin Among Women With Large Breast Size: A Randomized Clinical Trial. JAMA Oncol 2022;8:994-1000. doi:10.1001/jamaoncol.2022.1479 81 Perdyan A, Jassem J. Impact of Tobacco Smoking on Outcomes of Radiotherapy: A Narrative Review. Curr Oncol 2022;29:2284-300. doi:10.3390/curroncol29040186 82 Meattini I, Becherini C, Boersma L, et al. European Society for Radiotherapy and Oncology Advisory Committee in Radiation Oncology Practice consensus recommendations on patient selection and dose and fractionation for external beam radiotherapy in early breast cancer. Lancet Oncol 2022;23:e21-31. doi:10.1016/S14702045(21)00539-8 83 Vinh-Hung V, Nguyen NP, Verschraegen C. Hypofractionated Nodal Irradiation for Breast Cancer: A Case for Caution. JAMA Oncol 2019;5:13-4. doi:10.1001/jamaoncol.2018.5061 
+
+20 
+
+BMJ: first published as 10.1136/bmj-2023-079089 on 11 September 2024. Downloaded from https://www.bmj.com/ on 27 November 2025 at Shanghai Jiao Tong University School of Medicine . Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+
+RESEARCH 
+
+84 Kang MM, Hasan Y, Waller J, Saulsberry L, Huo D. Has Hypofractionated Whole-Breast Radiation Therapy Become the Standard of Care in the United States? An Updated Report from National Cancer Database. Clin Breast Cancer 2022;22:e8-20. doi:10.1016/j.clbc.2021.05.016 85 Leong N, Truong PT, Tankel K, Kwan W, Weir L, Olivotto IA. Hypofractionated Nodal Radiation Therapy for Breast Cancer Was Not Associated With Increased Patient-Reported Arm or Brachial Plexopathy Symptoms. Int J Radiat Oncol Biol Phys 2017;99:116672. doi:10.1016/j.ijrobp.2017.07.043 86 Chitapanarux I, Klunklin P, Pinitpatcharalert A, et al. Conventional versus hypofractionated postmastectomy radiotherapy: a report on long-term outcomes and late toxicity. Radiat Oncol 2019;14:175. doi:10.1186/s13014-019-1378-x 87 Rock K, Ng S, Murray L, Su J, Fyles A, Koch CA. Local control in young women with early-stage breast cancer treated with hypofractionated whole breast irradiation. Breast 2018;41:89-92. doi:10.1016/j. breast.2018.07.002 88 Meattini I, Poortmans P, Kirova Y, et al. Hypofractionated whole breast irradiation after conservative surgery for patients aged less than 60 years: a multi-centre comparative study. Acta Oncol 2020;59:18895. doi:10.1080/0284186X.2019.1695061 89 Meattini I, Palumbo I, Becherini C, et al. The Italian Association for Radiotherapy and Clinical Oncology (AIRO) position statements for postoperative breast cancer radiation therapy volume, dose, and fractionation. Radiol Med 2022;127:1407-11. doi:10.1007/ s11547-022-01563-9 90 National Institute for Health and Care Excellence. Guidelines. Early and locally advanced breast cancer: diagnosis and management. NICE, 2023. 91 National Comprehensive Cancer Network. Breast Cancer (Version 4.2023). https://www.nccn.org/professionals/physician_gls/pdf/ breast.pdf. 92 Krug D, Baumann R, Combs SE, et al. Breast Cancer Expert Panel of the German Society of Radiation Oncology (DEGRO). Moderate hypofractionation remains the standard of care for whole-breast radiotherapy in breast cancer: Considerations regarding FAST and FAST-Forward. Strahlenther Onkol 2021;197:269-80. doi:10.1007/ s00066-020-01744-3 
+
+Web appendix: Supplementary appendices, tables, and figures 
+
+doi: 10.1136/bmj-2023-079089 | BMJ 2023;386:e079089 | the bmj 
+
+ 

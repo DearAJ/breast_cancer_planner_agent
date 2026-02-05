@@ -1,0 +1,435 @@
+VOLUME 23 䡠 NUMBER 33 䡠 NOVEMBER 20 2005 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+From the University of Arkansas for Medical Sciences, Little Rock, AR; Southwest Oncology Group Statistical Center; Puget Sound Oncology Consortium, Seattle, WA; University of Texas Health Science Center, San Antonio; Baylor College of Medicine, Houston, TX; Johns Hopkins Medical Center, Baltimore, MD; Missouri Baptist Medical Center, St Louis, MO; and John Wayne Cancer Institute, Santa Monica, CA. Submitted August 11, 2004; accepted September 12, 2005. Supported in part by the following PHS Cooperative Agreement Grants No. awarded by the National Cancer Institute, Department of Health and Human Services: CA36926, CA32102, CA37981, CA22433, CA20319, CA16116, CA04920, CA35431, CA76447, CA45660, CA12644, CA14028, CA58416, CA35281, CA13612, CA04919, CA35090, CA35176, CA58686, CA58861, CA45466, CA46113, CA58882, CA32734, CA46282, CA35128, CA27057, CA28862, CA46136, CA45450, CA35261, CA35192, CA12213, CA16385, CA58348, CA58658, CA46441, CA58723, CA76462, CA45377, CA35119, CA42777, CA58415, CA52420, CA35178, CA52757, CA52654, CA52650, CA35200, CA03096, CA35262, CA35996, CA35117, CA35084, CA52623, CA76429. Presented at the 34th Annual Meeting of the American Society of Clinical Oncology, May 16-19, 1998, Los Angeles, CA. Authors’ disclosures of potential conflicts of interest are found at the end of this article. Address reprint requests to Southwest Oncology Group (Protocol #8897) 14890 Omicron Drive, San Antonio, TX 78245-3217; e-mail: pubs@swog.org. © 2005 by American Society of Clinical Oncology 0732-183X/05/2333-8313/$20.00 DOI: 10.1200/JCO.2005.08.071 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Randomized, Controlled Trial of Cyclophosphamide, Methotrexate, and Fluorouracil Versus Cyclophosphamide, Doxorubicin, and Fluorouracil With and Without Tamoxifen for High-Risk, Node-Negative Breast Cancer: Treatment Results of Intergroup Protocol INT-0102 Laura F. Hutchins, Stephanie J. Green, Peter M. Ravdin, Danika Lew, Silvana Martino, Martin Abeloff, Alan P. Lyss, Craig Allred, Saul E. Rivkin, and C. Kent Osborne A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose We evaluated the efficacy of cyclophosphamide, methotrexate, and fluorouracil (CMF) versus cyclophosphamide, doxorubicin, and fluorouracil (CAF) in node-negative breast cancer patients with and without tamoxifen (TAM), overall and by hormone receptor (HR) status. Patients and Methods Node-negative patients identified by tumor size (⬎ 2 cm), negative HR, or high S-phase fraction (n ⫽ 2,690) were randomly assigned to CMF, CAF, CMF ⫹ TAM (CMFT), or CAF ⫹ TAM (CAFT). Cox regression evaluated overall survival (OS) and disease-free survival (DFS) for CAF versus CMF and TAM versus no TAM separately. Two-sided CIs and one-sided P values for planned comparisons were calculated. Results Ten-year estimates indicated that CAF was not significantly better than CMF (P ⫽ .13) for the primary outcome of DFS (77% v 75%; HR ⫽ 1.09; 95% CI, 0.94 to 1.27). CAF had slightly better OS than CMF (85% v 82%, HR ⫽ 1.19 for CMF v CAF; 95% CI, 0.99 to 1.43); values were statistically significant in the planned one-sided test (P ⫽ .03). Toxicity was greater with CAF and did not increase with TAM. Overall, TAM had no benefit (DFS, P ⫽ .16; OS, P ⫽ .37), but the TAM effect differed by HR groups. For HR-positive patients, TAM was beneficial (DFS, HR ⫽ 1.32 for no TAM v TAM; 95% CI, 1.09 to 1.61; P ⫽ .003; OS, HR ⫽ 1.26; 95% CI, 0.99 to 1.61; P ⫽ .03), but not for HR-negative patients (DFS, HR ⫽ 0.81 for no TAM v TAM; 95% CI, 0.64 to 1.03; OS, HR ⫽ 0.79; 95% CI, 0.60 to 1.05). Conclusion CAF did not improve DFS compared with CMF; there was a slight effect on OS. Given greater toxicity, we cannot conclude CAF to be superior to CMF. TAM is effective in HR-positive disease, but not in HR-negative disease. J Clin Oncol 23:8313-8321. © 2005 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+By the 1980s, systemic adjuvant therapy was proven to improve disease-free survival (DFS) and overall survival (OS) for patients with lymph node–positive breast cancer. Premenopausal patients were believed to benefit more from chemotherapy, whereas 
+
+postmenopausal hormone receptor (HR) –positive patients were believed to derive greater benefit from adjuvant tamoxifen (TAM) therapy. Cytotoxic chemotherapy and TAM in HR-positive patients, evaluated in randomized, controlled trials, demonstrated improved efficacy compared with either modality alone.1-5 Some studies, as well 8313 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+Hutchins et al 
+
+as the Early Breast Cancer Trialists’ Collaborative Group’s overview analysis, suggested a possible small benefit of TAM for HR-negative patients.2,6-9 Trials involving lymph node–negative breast cancer patients, begun in the 1980s, limited adjuvant treatment to patients at high risk for relapse (defined by HR status and tumor size) and demonstrated the efficacy of adjuvant chemotherapy (both HR groups) and TAM (HR-positive patients).10,11 In that setting, this study prospectively evaluates the value of adding TAM to chemotherapy in both HR groups. It attempts to determine whether anthracycline-based regimens are superior to the most commonly used regimen at the time (cyclophosphamide, methotrexate, fluorouracil [CMF]). A third objective of this trial is to validate an earlier trial, INT-0011, which evaluated high-risk node-negative patients by randomly assigning them to observation versus CMF.10 A retrospective correlative study was performed to evaluate S-phase fraction as a prognostic tool to identify node-negative patients with low risk of recurrence for whom adjuvant chemotherapy can be avoided.12,13 The current trial tested this objective prospectively and this aspect will be considered in a separate evaluation along with additional biomarker information. Thus, only the results of the two randomized treatment factors are reported here. We evaluate OS and DFS after a median follow-up of 10.8 years among patients still alive. PATIENTS AND METHODS Patients Patients were registered from the Southwest Oncology Group, Eastern Cooperative Oncology Group, and Cancer and Leukemia Group B. Before any therapy or study-related procedures commenced, all patients signed a study-specific informed consent form that was approved by the institutional review boards of the participating institutions. Eligible patients included premenopausal and postmenopausal women with T1 to T3a nodenegative invasive adenocarcinoma of the breast. Estrogen and progesterone receptors were analyzed by biochemical ligand- 
+
+binding assay. Patients with tumors too small for assay were prospectively observed in the low-risk group without systemic therapy. Primary surgical treatment was modified radical mastectomy or lumpectomy with axillary dissection and radiation therapy. At least six removed lymph nodes were examined histologically to determine the absence of axillary metastases. Adequate bone marrow, hepatic, and renal function were required. Radiation therapy was not allowed for mastectomy patients, and the interval between surgery and registration had to be less than 12 weeks. Prior systemic therapy, bilateral invasive breast cancer, positive resection margins, prior or concurrent malignancy, and substantial comorbidities were exclusion criteria. Trial Design Figure 1 shows the schema of the trial design. Patients were classified initially to the following risk groups: high risk, which included patients whose tumors measured ⱖ 2 cm or were HR negative; low risk, which included patients whose tumors were too small (generally ⱕ 1 cm in diameter) for biochemical HR assay; or uncertain risk, which included patients whose tumors measured less than 2 cm and who were HR positive. These uncertain-risk patients were classified subsequently as high risk if the S-phase fraction was ⱖ 4.4 for diploid tumors or ⱖ 7 for aneuploid tumors, or if the S-phase fraction was unknown and tumor size was more than 1 cm. Patients with low S-phase fraction or those with an unknown S-phase fraction and a tumor that measured ⱕ 1 cm were classified as low risk. Although the reclassification of the uncertain-risk group is necessary to determine whether they will be randomly assigned or not, the initial label of uncertain was retained for stratification and analysis. The S-phase fraction was determined by DNA flow cytometry done at the University of Texas Health Sciences Center at San Antonio (San Antonio, TX).12,13 High-risk patients were randomly assigned to one of four treatment arms (CMF, cyclophosphamide, doxorubicin, and fluorouracil (CAF), CMF ⫹ TAM [CMFT], or CAF ⫹ TAM [CAFT]). Patients were randomly assigned according to a dynamic allocation scheme.14 The balancing algorithm was applied separately to groups of patients defined by risk category and cooperative group. Balancing factors included menopausal status, time from surgery to random assignment, and receptor status. Treatment Plan CMF chemotherapy was administered per guidelines established in Bonadonna et al,15 with cyclophosphamide 100 mg/m2 
+
+Fig 1. Schematic of trial design. Patient numbers reflect eligible patients who completed registration. CMF, cyclophosphamide, methotrexate, and fluorouracil; TAM, tamoxifen; CAF, cyclophosphamide, doxorubicin, and fluorouracil. 
+
+8314 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+CAF v CMF ⴞ TAM in Breast Cancer 
+
+orally on days 1 to 14, methotrexate 40 mg/m2 intravenously on days 1 and 8, fluorouracil 600 mg/m2 intravenously on days 1 and 8, repeated at 28-day intervals for six cycles; and CAF chemotherapy per guidelines established in Bull et al,16 with cyclophosphamide 100 mg/m2 orally on days 1 to 14, doxorubicin 30 mg/m2 intravenously on days 1 and 8, fluorouracil 500 mg/m2 intravenously on days 1 and 8, repeated at 28 day intervals for six cycles. Doses were delayed for up to 2 weeks for granulocytopenia or thrombocytopenia, and then given at reduced levels if granulocytopenia or thrombocytopenia persisted. Doses on day 8 were decreased or withheld accordingly. Hematopoietic growth factors were not used. In TAM arms, TAM 20 mg/d was started on day 29 of cycle six and was continued for 5 years. End Point Definitions and Statistical Analysis Start date is the registration date for patients immediately classified and reregistration date for those who required flow cytometry. OS was from the start date until the date of death as a result of any cause. DFS was from the start date to the first date of a second breast primary tumor, recurrence, or death. DFS was censored at the date of latest contact for patients last known to be alive with no recurrence or no second breast primary tumor. ␹2 tests were used to test discrete data. The method of Kaplan and Meier17 was used for graphs of time-to-event data. Cox models18 were used to compare treatments, assess association of patient characteristics with OS and DFS, test interactions with treatment, and estimate hazard ratios and 95% two-sided CIs. Cox regression analyses included the stratifying variables (time between surgery, initial risk level, hormone receptor status, and menopausal status) as explicit covariates in the model.14 The assumption of proportional hazards for treatment over time was tested to examine whether that the effect of treatment was constant over time. The study was designed to have 87% power to detect a CMF versus CAF HR of 1.25 (CAF and CMF arms combined, under the assumption of no interaction with TAM) for a one-sided, .05-level test. Similarly, power for no TAM versus TAM would also be 87% under the same assumptions. The study was also designed to have 80% power to detect a no-TAM-to-TAM HR of 1.33 within both HR subsets. For Data and Safety Monitoring Committee reporting, one interim analysis was planned for 1 year after completion of accrual. Per protocol, one-sided P values (adjusted for stratification factors) are given for the primary hypotheses (CAF is better than CMF and TAM is better than no TAM, overall and for both HR subsets). Two-sided P values and 95% CIs are also given per journal policy. All eligible randomly assigned patients were included in the DFS and OS analyses according to the randomized treatment arm. For toxicity, patients who did not receive the assigned treatment were excluded from the analyses. Standard toxicity criteria defined for the Southwest Oncology Group were used.19 The cardiac toxicities were collected in a structured manner for congestive heart failure, dysrhythmia, or cardiac ischemia during the first year from registration. After 1 year the cardiac toxicities were reported with less specificity. 
+
+RESULTS 
+
+This report presents the definitive 10-year results for the randomized treatments of this adjuvant trial. 
+
+Patient Characteristics Between July 1989 and February 1993, 4,406 patients were registered onto the study. Of these, 441 (10%) were ineligible (inadequate baseline data, n ⫽ 169; incorrect risk group registration, n ⫽ 74; no biochemical assay for HR status, n ⫽ 32; incorrect radiation therapy timing, n ⫽ 31; and no invasive disease, n ⫽ 25). Among eligible patients, 2,163 were initially high risk and were randomly assigned to a treatment arm. Of the 1,141 eligible patients initially of uncertain risk, 69 were not reregistered to observation or treatment arms. Among the remaining 1,072 patients, 527 were found to be high risk and were randomly assigned to a treatment arm. Table 1 summarizes patient characteristics by risk group and treatment arm. By definition, uncertain-risk patients had smaller sized tumors and HR-positive disease. In the initial high-risk group, 84% of patients had tumors ⱖ 2 cm and 54% were HR negative. Characteristics by treatment arm were well balanced. Protocol Compliance Table 2 summarizes protocol compliance. More patients in CMF arms completed chemotherapy than did patients in CAF arms, and major deviations were less common in the CMF arms. In a sample of 277 treated patients, chemotherapy was delivered to more patients in the CMF arms, and a greater percentage of patients in CMF arms began cycles 4 to 6 than did patients in the CAF arms. Dates when patients discontinued TAM have been reported for 1,243 patients. Of those receiving at least 4.5 years of TAM, 62% were HR positive and 38% HR negative. Previous Analyses The study did not meet reporting criteria at the time of interim analysis. At the time of the planned final analysis (performed in 1997),20 CAF was marginally superior to CMF with respect to DFS and OS (one-sided P ⫽ .03 for each). TAM was beneficial only in receptor-positive patients for DFS and OS (one-sided P ⫽ .01 and P ⫽ .02, respectively; interaction P ⫽ .005 and P ⫽ .009, respectively). Follow-up analysis in 2000 gave similar results. CAF remained superior to CMF (one-sided P ⫽ .02 for DFS; P ⫽ .008 for OS), and TAM remained beneficial only in receptor-positive patients (one-sided P ⫽ .003 for DFS and P ⫽ .004 for OS; interaction P ⫽ .005 for DFS, P ⫽ .004 for OS). Following are results with 2.5 additional years of follow-up. DFS and OS DFS and OS estimates for CMF, CMFT, CAF, and CAFT are shown in Figures 2 and 3. There have been 670 treatment failures: 163 CAF, 160 CAFT, 182 CMF, and 165 CMFT; 107 contralateral breast cancers (17 subsequently developed advanced disease), 396 distant relapses, 38 ipsilateral recurrences after breast-sparing surgery (11 8315 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+Hutchins et al 
+
+Table 1. Patient Characteristics by Risk Group (at initial registration) and Treatment Arm 
+
+Characteristic Race White, non-Hispanic Black, non-Hispanic Hispanic Other Menopausal status Premenopausal Postmenopausal Postmenopausal estrogen Yes No Primary treatment BSP, delayed RT BSP, RT prior to registration Mastectomy Receptor status Receptor positive ER and PgR negative Tumor size, cm ⱕ1 1.1-1.9 2-5 ⬎5 Risk group Initially high High by flow cytometry Age, years Median Minimum Maximum 
+
+% High Risk (n ⫽ 2,163) 
+
+% Uncertain Risk (n ⫽ 527) 
+
+% CMF (n ⫽ 676) 
+
+% CAF (n ⫽ 669) 
+
+% CMFT (n ⫽ 674) 
+
+% CAFT (n ⫽ 671) 
+
+81 12 4 3 
+
+88 6 2 4 
+
+86 8 3 3 
+
+81 12 3 4 
+
+84 10 4 2 
+
+81 11 4 4 
+
+56 44 
+
+51 49 
+
+54 46 
+
+55 45 
+
+56 44 
+
+55 45 
+
+15 85 
+
+13 87 
+
+15 85 
+
+13 87 
+
+15 85 
+
+15 85 
+
+16 6 78 
+
+18 12 70 
+
+17 8 75 
+
+16 5 79 
+
+16 9 75 
+
+17 9 74 
+
+46 54 
+
+100 0 
+
+56 44 
+
+57 43 
+
+57 43 
+
+58 42 
+
+2 14 78 6 
+
+24 76 0 0 
+
+34 62 4 
+
+34 61 5 
+
+32 63 5 
+
+33 63 4 
+
+NA 
+
+NA 
+
+80 20 
+
+81 19 
+
+81 19 
+
+80 20 
+
+47 16 82 
+
+49 27 85 
+
+48 27 78 
+
+48 16 79 
+
+47 25 79 
+
+48 23 85 
+
+Abbreviations: CMF, cyclophosphamide, methotrexate, and fluorouracil; CAF, cyclophosphamide, doxorubicin, and fluorouracil; CMFT, CMF plus tamoxifen; CAFT, CAF plus tamoxifen; BSP, breast-sparing surgery; RT, radiation therapy; ER, estrogen receptor; PgR, progesterone receptor; NA, not applicable. 
+
+subsequently developed advanced disease), and 129 deaths without breast cancer. A total of 462 deaths have occurred: 109 CAF, 103 CAFT, 126 CMF, and 124 CMFT. Causes of death other than breast cancer primarily were due to cardiovascular causes or other cancers, and included 33 in the CMF arm, 40 in the CAF arm, 24 in the CMFT arm, and 32 in the CAFT arm (Table 3). The median follow-up for patients last known alive was 10.8 years. CAF Versus CMF Combined CAF and CAFT arms were compared collapsing over TAM use (Fig 2). In DFS, CAF arms were slightly superior to CMF arms (10-year estimated DFS 77% v 75%), as hypothesized, but the HR (CMF/CAF) was not significant (HR ⫽ 1.09; 95% CI, 0.94 to 1.27; one-sided P ⫽ .13 per design; two-sided P ⫽ .26) The OS difference for CAF (85%) versus CMF (82%) at 10 years was larger than the difference for DFS (HR ⫽ 1.19; 95% CI, 0.99 to 1.43; one-sided P ⫽ .03; two-sided P ⫽ .06). There was no evidence of CAF-TAM interaction for either DFS (P ⫽ .71) or OS (P ⫽ .69). 8316 
+
+TAM Versus No TAM Overall, TAM was not superior to no TAM for either DFS (HR ⫽ 1.08 for no TAM v TAM; 95% CI, 0.93 to 1.26; one-sided P ⫽ .16; two-sided P ⫽ .33) or OS (HR ⫽ 1.03; 95% CI, 0.86 to 1.24; one-sided P ⫽ .37; two-sided P ⫽ .74). However, a goal of the trial was to test the effectiveness of TAM within HR subgroups; thus, comparisons were legitimate despite no overall TAM effect. The TAM-HR interactions were significant (P ⫽ .002 and P ⫽ .014 for DFS and OS, respectively), indicating the TAM effect was different in the two HR groups shown in Figures 4 and 5. Within the HR-positive subset, DFS showed a benefit in favor of TAM (78% v 72%; HR ⫽ 1.32; 95% CI, 1.09 to 1.61; one-sided P ⫽ .003; two-sided P ⫽ .005). OS showed a benefit for TAM versus no TAM (85% v 82%; HR ⫽ 1.26; 95% CI, 0.99 to 1.61), but was statistically significant only in the one-sided test (P ⫽ .03), but not in the two-sided test (P ⫽ .06). Within the HR-negative subset, the effect of TAM was not superior as had been hypothesized, but had a slight JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+CAF v CMF ⴞ TAM in Breast Cancer 
+
+Table 2. Protocol Compliance Section I. Completion/Noncompletion of Chemotherapy (%) 
+
+Completed chemotherapy Reason for withdrawal Toxicity/adverse effects Refused therapy Other causes Major deviations (included within % withdrawing) 
+
+CMF/CMFT Arms 89 
+
+CAF/CAFT Arms 84 
+
+5 4 2 9ⴱ 
+
+9 6 1 12† 
+
+Section II. Discontinuance of TAM (%; n ⫽ 1,243) CMFT/CAFT Combined 57 
+
+Received at least 4.5 years of TAM after chemotherapy Reason TAM discontinued prior to year 4.5 Disease relapse Toxicity/adverse effects Refused therapy Other reasons Received no TAM 
+
+8 11 8 7 9 
+
+Section III. Receipt of Planned Doses of Chemotherapy (n ⫽ 277) % of dose received in cycles 1-3 % of patients beginning cycles 4-6 % of dose received in cycles 4-6 among those beginning cycles 4-6 
+
+CMF/CMFT Arms 92 92 83 
+
+CAF/CAFT Arms 81 78 74 
+
+Abbreviations: CMF, cyclophosphamide, methotrexate, and fluorouracil; CMFT, CMF plus tamoxifen; CAF, cyclophosphamide, doxorubicin, and fluorouracil; CAFT, CAF plus tamoxifen; TAM, tamoxifen. ⴱ Reasons for major deviations in CMF/CMFT arms: no CMF/1 day of CMF (1%); received ⬎ 1 day CMF, but did not receive TAM on CMFT or did receive TAM on CMF (7%); postchemotherapy radiation therapy not done for lumpectomy patients (1%). †Reasons for major deviations in CAF/CAFT: no CAF/1 day of CAF (3%); received ⬎ 1 day CAF, but did not receive TAM on CAFT or did receive TAM on CAF (8%); postchemotherapy radiation therapy not done for lumpectomy patients (1%). 
+
+detrimental effect on DFS (82% v 85%; HR ⫽ 0.81; 95% CI, 0.64 to 1.03; one-sided P ⫽ .96; two-sided P ⫽ .08) as well as on OS (75% v 79%; HR ⫽ 0.79; 95% CI, 0.60 to 1.05; one-sided P ⫽ .95; two-sided P ⫽ .11). Toxicity Acute toxicities. Acute (within 1 year) toxicities are listed in Table 4. Only a subset of toxicities was recorded; 
+
+Fig 2. Disease-free survival by chemotherapy arm: cyclophosphamide, doxorubicin, and fluorouracil (CAF) and CAF plus tamoxifen (CAFT) versus cyclophosphamide, methotrexate, and fluorouracil (CMF) and CMF plus tamoxifen (CMFT). 
+
+CAF arms had a higher percentage of toxic events. Shortterm toxicity-related deaths were rare (n ⫽ 3), but occurred in both CMF (one sepsis) and CAF (one dysrhythmia, one pneumonia) arms. Cardiac effects. Cardiac toxicity events were collected in two segments: events within 1 year and events occurring after 1 year. Similar numbers of cardiac events within 1 year were reported (14 in CMF arms, 19 in CAF arms), although 
+
+Fig 3. Overall survival by chemotherapy arm: cyclophosphamide, doxorubicin, and fluorouracil (CAF) and CAF plus tamoxifen (CAFT) versus cyclophosphamide, methotrexate, and fluorouracil (CMF) and CMF plus tamoxifen (CMFT). 
+
+8317 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+Hutchins et al 
+
+Table 3. DFS Failures in Eligible High-Risk Patients Randomly Assigned onto Trial S8897 HR Negative (ER negative and PgR negative) Death without relapse Opposite breast relapse Other first site of relapse Total HR-negative failures HR Positive (ER positive and/or PgR positive) Death without relapse Opposite breast relapse Other first site of relapse Total HR-positive failures Total failures 
+
+CMF (n ⫽ 295) 
+
+CAF (n ⫽ 288) 
+
+CMF/TAM (n ⫽ 292) 
+
+CAF/TAM (n ⫽ 285) 
+
+16 11 44 71 
+
+10 11 33 54 
+
+9 12 50 71 
+
+12 14 49 75 
+
+CMF (n ⫽ 381) 
+
+CAF (n ⫽ 381) 
+
+CMF/TAM (n ⫽ 382) 
+
+CAF/TAM (n ⫽ 386) 
+
+17 21 73 111 182 
+
+30 19 60 109 163 
+
+15 7 72 94 165 
+
+20 12 53 85 160 
+
+Abbreviations: DFS, disease-free survival; HR, hormone receptor; ER, estrogen receptor; PgR, progesterone receptor; CMF, cyclophosphamide, methotrexate, and fluorouracil; CAF, cyclophosphamide, doxorubicin, and fluorouracil; TAM, tamoxifen. 
+
+severity was worse in CAF arms (11 severe in CAF arms, including one fatal, v four severe in CMF arms). Cardiac events after 1 year were reported before relapse in 53 patients in CMF arms and 63 patients in CAF arms. Events included cardiomyopathy, cardiomegaly, or congestive heart failure in 22 patients in CMF arms and 27 patients in CAF arms. Rates for all effects were 0.5 per 100 patient-years of follow-up before recurrence in CMF arms and 0.58 in CAF arms. Rates for cardiomyopathy/cardiomegaly/congestive heart failure were 0.21 and 0.25, respectively. Other Cancers As expected, more endometrial cancers were reported in eligible patients in TAM arms (n ⫽ 14) than in chemotherapy-alone arms (n ⫽ 7) There were 139 other second primary tumors reported (in addition to oppositebreast and endometrial cancers); the most frequent was lung cancer (n ⫽ 28), followed by nonmelanoma skin (n ⫽ 16), ovarian (n ⫽ 13), colon (n ⫽ 11), melanoma (n ⫽ 10), acute myelogenous leukemia/myelodysplastic syndrome (nine total: CMF, n ⫽ 4, CAF, n ⫽ 5), and cervical (n ⫽ 5). There were 46 other nonbreast second primary cancers and one at an unknown site. 
+
+Fig 4. Disease-free survival (DFS) by hormone receptor (HR) status with and without tamoxifen (TAM). HR⫹, HR positive; HR⫺, HR negative. 
+
+8318 
+
+There were 110 opposite-breast relapses. Of those who were initially HR positive and who experienced a relapse, 40 received no TAM and 20 received TAM. Of those initially HR negative and who experienced a relapse, 23 received no TAM and 27 received TAM. DISCUSSION 
+
+INT-0102 is one of the largest prospective, randomized studies comparing an anthracycline with a nonanthracycline regimen in the adjuvant therapy of breast cancer and prospectively assessing the value of TAM in patients with HR-negative cancers. It found that CAF had similar DFS to CMF and only slightly better OS. Statistical analysis shows statistical significance only if the planned protocol analysis using a one-sided ␣ ⫽ .05 level test is performed. If a two-sided statistical test is applied (per Journal of Clinical Oncology policy), the result is not statistically significant. Furthermore, these data have undergone earlier analysis, so comparisons that are barely statistically significant should be interpreted cautiously. Both the HRs for DFS and OS 
+
+Fig 5. Overall survival (OS) by hormone receptor (HR) status with and without tamoxifen (TAM). HR⫹, HR positive; HR⫺, HR negative. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+CAF v CMF ⴞ TAM in Breast Cancer 
+
+Table 4. Acute Toxicities Within 1 Year of Registration Toxicity (grade) Granulocytopenia 3 4 Leukopenia 3 4 Thrombocytopenia 3 4 Nausea 2 3 Vomiting 2 3 4 Stomatitis 2 3 4 Cardiac toxicity 1-2 or unknown 3-4 5 Total grade 4 Nonhematologic grade 4 Toxicity-related deaths 
+
+% CMF % CAF % CMFT % CAFT (n ⫽ 673) (n ⫽ 652) (n ⫽ 664) (n ⫽ 660) 25 37 
+
+21 53 
+
+26 35 
+
+22 58 
+
+49 7 
+
+52 21 
+
+50 9 
+
+54 20 
+
+2.5 1.3 
+
+1.7 0.31 
+
+1.7 1.1 
+
+2.3 0.45 
+
+20 5 
+
+27 9 
+
+21 5 
+
+25 8 
+
+12 2 0.74 
+
+20 5 1.2 
+
+15 3 0.75 
+
+18 5 1.2 
+
+8 3 0.45 
+
+20 8 0.31 
+
+9 3 0.9 
+
+19 6 0.61 
+
+1.2 0.3 0 39 2.1ⴱ 0 
+
+0.61 0.61 0.15 59 3.1† 0.31 
+
+0.3 0.3 0 39 3.2‡ 0.15 
+
+0.61 0.91 0 62 3.3§ 0 
+
+Abbreviations: CFM, cyclophosphamide, methotrexate, and fluorouracil; CAF, cyclophosphamide, doxorubicin, and fluorouracil; CMFT, CMF plus tamoxifen; CAFT, CAF plus tamoxifen. ⴱ Grade 4 nonhematologic toxicities, other than cardiac, included diarrhea (n ⫽ 2), pulmonary embolism (n ⫽ 2), ileus (n ⫽ 1), and allergic reaction (n ⫽ 1). †Grade 4 nonhematologic toxicities, other than cardiac, included diarrhea (n ⫽ 4), pulmonary embolism (n ⫽ 2), infection (n ⫽ 2), pain (n ⫽ 1), and renal failure (n ⫽ 1). ‡Grade 4 nonhematologic toxicities, other than cardiac, included diarrhea (n ⫽ 7), ulcer (n ⫽ 1), pulmonary embolism (n ⫽ 1), and infection (n ⫽ 1). §Grade 4 nonhematologic toxicities, other than cardiac, included vomiting (n ⫽ 8), stomatitis (n ⫽ 4), diarrhea (n ⫽ 6), pulmonary embolism (n ⫽ 1), infection (n ⫽ 1), and depression (n ⫽ 1). 
+
+show a narrow advantage for CAF that was not as strong as had been hypothesized. For the last two decades, anthracyclines have been considered among the most efficacious agents for treating metastatic breast cancer21; however, their superiority in the adjuvant setting has been less well studied.2 Prior randomized trials have demonstrated mixed results. These trials can be grouped into three categories. The first group compared intravenous regimens of fluorouracil, doxorubicin, and cyclophosphamide, or fluorouracil, epirubicin, and cyclophosphamide given every 21 days versus intravenous CMF regimens given every 21 days. Two of these studies showed outcomes favoring the anthracycline regimens.22-25 In metastatic disease, the intravenous, 21-day schedule of CMF 
+
+has been shown to be inferior to the so-called classic CMF using oral cyclophosphamide in the dose and schedule used in our study.26 The second group compared various anthracycline therapies to classic CMF, as used in this trial. Two of the four studies demonstrated superiority of the anthracycline regimens.27-30 The third group of studies are unequal comparisons in dose, schedule, or duration of treatment, and show equivalence except for the results of National Surgical Adjuvant Breast and Bowel Project (NSABP) B11 and B12, which showed a benefit of adding doxorubicin to melphalan and fluorouracil.31-36 A recent 10-year update of a smaller study done in premenopausal, lymph node–positive patients showed a continued statistically significant survival benefit. This study was similar in design to ours with the exception that epirubicin was used in place of doxorubicin and that the participants were younger, nodepositive patients who would be expected to have larger absolute benefits from chemotherapy.37 The benefit of CAF for six cycles in a low-risk node-negative population would confer larger absolute benefits in higher risk groups. However, questions remain about the optimal anthracycline agent, dose, combination, and schedule. Reports show that a threshold exists with both doxorubicin and epirubicin, below which efficacy suffers,38-41 but direct efficacy comparisons between the two agents are not available. Cardiac toxicity was modest with either CMF or CAF, and was comparable with the results in previous reports.42 Hematologic toxicities were slightly more common in anthracycline arms; however, colony-stimulating factors were restricted in this study. These agents may reduce febrile neutropenic episodes and increase dose delivery, which could increase the effectiveness of the CAF regimen. Nausea and vomiting were also more common in the CAF arms. Importantly, increased acute leukemia and myelodysplasia were not noted in the CAF treated patients. Use of TAM as an adjunct to chemotherapy has been well established for postmenopausal HR-positive patients.2 This trial examined the use of TAM in both HR-positive and HR-negative patients. There are few prospective, randomized data for HR-negative patients. Data from retrospective analyses showed conflicting results. These older trials either did not regularly require rigorous measurement of the HR, or found benefit in older patients regardless of HR status.9-11 Our trial required HR to be measured in certified laboratories for the patient to be eligible. An overall benefit of TAM was not observed because of the significant interaction of HR status and treatment with tamoxifen. The benefit seen in HR-positive patients was dramatic. The study was designed as a one-sided test of the superiority of TAM in both the HR-positive and HR-negative subgroups. In HR-positive patients this prediction was supported. However, it was not supported in HR-negative patients. Strict statistical interpretation of one-sided tests do not permit testing a result in the opposite direction, hence the one-sided P values 8319 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+Hutchins et al 
+
+were high. Retrospective application of two-sided tests showed that TAM was also not significantly worse than no TAM in HR-negative patients. This study, together with a similar study reported earlier (NSABP B-23), clearly show there is no benefit of TAM for patients with HR-negative cancers.43 In this trial, administration of TAM followed completion of chemotherapy, eliminating concern for possible kinetic or pharmacologic interactions with the chemotherapy. No increase in thromboembolic events was recorded, in contrast to regimens administering both modalities concurrently.9,33,44 Of note, the occurrence of contralateral breast cancer was not reduced in patients whose primary tumor was HR negative, a finding consistent with NSABP B-23. The explanation for this finding is as yet unknown. However, there is no indication for TAM in the HR-negative subset even to reduce contralateral primary tumors. The question of benefit relative to toxicity is valid. The benefit of anthracyclines in reducing breast cancer recurrence has been demonstrated by this study and others. The 
+
+magnitude of benefit was not large in this study. Comorbid conditions that may affect life span or toxicity must be evaluated with clinical judgment, whereas additional evaluations of their effects are addressed scientifically. In a physiologically sound patient with adequate risk of relapse, the increased toxicity may be justified by the increased benefit. Results from the natural history and biologic correlations section of this study will be discussed in a separate article. Those results as well as others aimed at identifying better markers for prediction and prognosis will help identify patients who benefit the most from treatment. The question for an individual patient remains an assessment to be made by her and her physician, who must help evaluate the risks and benefits of any medical intervention. ■ ■ ■ 
+
+Acknowledgment We thank Jean Barce and Diana Lowry for their contributions as data coordinators. 
+
+Authors’ Disclosures of Potential Conflicts of Interest Although all authors completed the disclosure declaration, the following authors or their immediate family members indicated a financial interest. No conflict exists for drugs or devices used in a study if they are not being evaluated as part of the investigation. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Authors 
+
+Employment 
+
+Leadership 
+
+Consultant 
+
+Stock 
+
+Honoraria 
+
+Research Funds 
+
+Laura F. Hutchins 
+
+Genentech (A); AstraZeneca (A); Pfizer (A); Aventis (A) 
+
+Craig Allred 
+
+AstraZeneca (A) 
+
+AstraZeneca (A) 
+
+C. Kent Osborne 
+
+AstraZeneca (A) 
+
+AstraZeneca (A); Merck (A); Pfizer (A) 
+
+Dollar Amount Codes 
+
+REFERENCES 1. Bonadonna G, Valagussa P, Rossi A, et al: Ten-year experience with CMF-based adjuvant chemotherapy in resectable breast cancer. Breast Cancer Res Treat 5:95-115, 1985 2. Early Breast Cancer Trialists’ Collaborative Group: Effects of adjuvant tamoxifen and of cytotoxic therapy on mortality in early breast cancer: An overview of 61 randomized trials among 28,896 women. N Engl J Med 319:16811692, 1988 3. Fisher B, Redmond C, Brown A, et al: Adjuvant chemotherapy with and without tamoxifen in the treatment of primary breast cancer: 5-year results from the National Surgical Adjuvant Breast and Bowel Project trial. J Clin Oncol 4:459-471, 1986 4. Fisher B, Brown A, Redmond C, et al: Prolonging tamoxifen therapy for primary breast cancer: Findings from the National Surgical Adjuvant Breast and Bowel Project clinical trial. Ann Intern Med 106:649-654, 1987 
+
+8320 
+
+(A) ⬍ $10,000 
+
+(B) $10,000-99,999 
+
+Testimony 
+
+Other 
+
+Genentech (A); AstraZeneca (A); Pfizer (A); Aventis (A) 
+
+(C) ⱖ $100,000 
+
+5. Bonadonna G, Valagussa P, Tancini G, et al: Current status of Milan adjuvant chemotherapy trials for node-positive and node-negative breast cancer. J Natl Cancer Inst Monogr 1:4549, 1986 6. Baum M, Brinkley DM, Dossett JA, et al: Improved survival among patients treated with adjuvant tamoxifen after mastectomy for early breast cancer. Lancet 2:450, 1983 7. Controlled trial of tamoxifen as single adjuvant agent in management of early breast cancer: Analysis at six years by Nolvadex Adjuvant Trial Organisation. Lancet 1:836-840, 1985 8. Adjuvant tamoxifen in the management of operable breast cancer: The Scottish Trial. Report from the Breast Cancer Trials Committee, Scottish Cancer Trials Office (MRC), Edinburgh. Lancet 2:171-175, 1987 9. Fisher B, Redmond C, Brown A, et al: Treatment of primary breast cancer with chemotherapy and tamoxifen. N Engl J Med 305:1-6, 1981 10. Mansour E, Gray R, Shatila A, et al: Efficacy of adjuvant chemotherapy in high-risk 
+
+AstraZeneca (C) 
+
+(N/R) Not Required 
+
+node-negative breast cancer. N Engl J Med 320:485-490, 1989 11. Fisher B, Costantine J, Redmond C, et al: A randomized clinical trial evaluating tamoxifen in the treatment of patients with node-negative breast cancer who have estrogen-receptor-positive tumors. N Engl J Med 320:479-484, 1989 12. ClarkGM, Dressler LG, Owens MA, et al: DNA flow cytometry predicts time to recurrence and survival in 606 axillary node-negative breast cancer patients. Proc Am Soc Clin Oncol 7:14, 1988 (abstr 52) 13. Clark GM, Mathieu MC, Owens MA, et al: Prognostic significance of S-phase fraction in good-risk, node-negative breast cancer patients. J Clin Oncol 10:428-432, 1992 14. Pocock S, Simon R: Sequential treatment assignment with balancing for prognostic factors in the controlled clinical trial. Biometrics 31:103115, 1975 15. Bonadonna G, Brusamolino E, Valagussa P, et al: Combination chemotherapy as an adjuvant treatment in operable breast cancer. N Engl J Med 294:405-410, 1976 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+CAF v CMF ⴞ TAM in Breast Cancer 
+
+16. Bull JM, Tormey DC, Li SH, et al: A randomized comparative trial of Adriamycin versus methotrexate in combination drug therapy. Cancer 41:1649-1657, 1978 17. Kaplan E, Meier P: Nonparametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 18. Cox D: Regression models and life-tables (with discussion). J R Stat Soc B 34:187-220, 1972 19. Green S, Weiss G: Southwest Oncology Group standard response criteria, endpoint definitions and toxicity criteria. Invest New Drugs 10:239-253, 1992 20. Hutchins L, Green S, Ravdin P, et al: CMF versus CAF with and without tamoxifen in high-risk node-negative breast cancer patients and a natural history follow-up study in low-risk node-negative patients: First results of Intergroup Trial INT 0102. Proc Am Soc Clin Oncol 17:1a, 1998 (abstr 2) 21. Ellis MJ, Hayes DF, Lippman ME: Treatment of metastatic breast cancer, in: Harris JR, Lippman ME, Morrow MM, et al (eds): Diseases of the Breast (ed 2). Philadelphia, PA, Lippincott Williams & Wilkins, 2000, pp 749-797 22. Martin M, Villar A, Sole-Calvo A, et al: Doxorubicin in combination with fluorouracil and cyclophosphamide (i.v. FAV regimen, day 1, 21) versus methotrexate in combination with fluorouracil and cyclophosphamide (i.v. CMF regimen, day 1, 21) as adjuvant chemotherapy for operable breast cancer: A study by the GEICAM group. Ann Oncol 14:833-842, 2003 23. Mouridsen HT, Andersen J, Andersson M, et al: Adjuvant anthracycline in breast cancer: Improved outcome in premenopausal patients following substitution of methotrexate in the CMF combination with epirubicin. Proc Am Soc Clin Oncol 18:68a, 1999 (abstr 254) 24. Mauriac L, Durand M, Chauvergne J, et al: Randomized trial of adjuvant chemotherapy for operable breast cancer comparing i.v. CMF with an epirubicin containing regimen. Ann Oncol 3:439-443, 1992 25. Carpenter JT, Velez-Garcia E, Aron BS, et al: Five year results of a randomized comparison of cyclophosphamide, doxorubicin and fluorouracil versus cyclophosphamide, methotrexate, and fluorouracil for node positive breast cancer. Proc Am Soc Clin Oncol 13:66, 1991 (abstr 68) 26. Engelsman E, Kligin JC, Rubens RD, et al: “Classical” CMF versus 3-weekly intravenous CMF schedule in postmenopausal women with advanced breast cancer: An EORTC breast cancer co-operative group phase III trial (10808). Eur J Cancer 27:966-970, 1991 
+
+27. Piccart M, Di Leo A, Beauduin M, et al: Phase III trial comparing two dose levels of epirubicin combined with cyclophosphamide with cyclophosphamide, methotrexate, and fluorouracil in node-positive breast cancer. J Clin Oncol 19:3103-3110, 2001 28. Misset JL, di Palma M, Delgado M, et al: Adjuvant treatment of node-positive breast cancer with cyclophosphamide, doxorubicin, fluorouracil and vincristine versus cyclophosphamide, methotrexate, and fluorouracil: Final report after a 16-year median follow-up duration. J Clin Oncol 14:1136-1145, 1996 29. Levine MN, Bramell VH, Pritchard KI, et al: Randomized trial of intensive cyclophosphamide, epirubicin, and fluorouracil chemotherapy compared with cyclophosphamide, methotrexate, and fluorouracil in pre-menopausal women with node-negative breast cancer. J Clin Oncol 16: 2651-2658, 1998 30. Coombes RC, Bliss JM, Wils J, et al: Adjuvant cyclophosphamide, methotrexate, and fluorouracil versus fluorouracil, epirubicin, and cyclophosphamide chemotherapy in premenopausal women with axillary node-positive operable breast cancer: Results of a randomized trial. J Clin Oncol 14:35-45, 1996 31. Budd GR, Green S, O’Bryan RM, et al: Short-course FAC-M versus 1 year of CMFVP in node-positive, hormone-receptor negative breast cancer: An intergroup study. J Clin Oncol 13:831839, 1995 32. Fisher B, Redmond C, Wickerham DL, et al: Doxorubicin-containing regimens for the treatment of stage II breast cancer: The National Surgical Adjuvant Breast and Bowel Project. J Clin Oncol 7:572-582, 1989 33. Fisher B, Brown AB, Dimitrov NV, et al: Two months of doxorubicin-cyclophosphamide with and without Interval reinduction therapy compared with 6 months of cyclophosphamide, methotrexate and fluorouracil in positive-node breast cancer patients with tamoxifen-nonresponsive tumors: Results from the National Surgical Adjuvant Breast and Bowel Project B-15. J Clin Oncol 8:1483-1496, 1990 34. Moliterni A, Bonnadonna G, Valagussa P, et al: Cyclophosphamide, methotrexate, and fluorouracil with and without doxorubicin in the adjuvant treatment of resectable breast cancer with one to three positive axillary nodes. J Clin Oncol 9:1124-1130, 1991 35. Tormey D, Gray R, Abeloff MD, et al: Adjuvant therapy with a doxorubicin regimen and long-term tamoxifen in premenopausal breast cancer patients: An Eastern Oncology Coopera- 
+
+tive Oncology Group Trial. J Clin Oncol 10:18481856, 1992 36. Bang SM, Heo DS, Lee KH, et al: Adjuvant doxorubicin and cyclophosphamide versus cyclophosphamide, methotrexate, and 5-fluorouracil chemotherapy in premenopausal women with axillary lymph node positive breast carcinoma. Cancer 89:2521-2526, 2000 37. Levine M, Pritchard K, Bramwell V, et al: Randomized trial comparing cyclophosphamide, epirubicin, and fluorouracil with cyclohosphamide, methotrexate, and fluorouracil in premenopausal women with node-positive breast cancer: Update of the National Cancer Institute of Canada Clinical Trials Group trial MA5. J Clin Oncol 23:5166-5177, 2005 38. Henderson I, Berry D, Demetri G, et al: Improved outcomes from adding sequential paclitaxel but not from the escalating Doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 39. Wood WC, Budman DR, Korzun AH, et al: Dose and dose intensity of adjuvant chemotherapy for stage II, node-positive breast carcinoma. N Engl J Med 330:1253-1259, 1994 40. Ackland SP, Anton A, Breitbach GP, et al: Dose-intensive epirubicin-based chemotherapy is superior to an intensive intravenous cyclophosphamide, methotrexate, and fluorouracil regimen in metastatic breast cancer: A randomized multinational study. J Clin Oncol 19:943-953, 2001 41. Benefit of a high-dose epirubicin regimen in adjuvant chemotherapy for node-positive breast cancer patients with poor prognostic factors: 5-year follow-up results of French Adjuvant Study Group 05 randomized trial. J Clin Oncol 19:602-611, 2001 42. Zambetti M, Moliterni A, Materazzo C, et al: Long-term cardiac sequelae in operable breast cancer patients given adjuvant chemotherapy with or without doxorubicin and breast irradiation. J Clin Oncol 19:37-43, 2001 43. Fisher B, Anderson S, Tan-Chiu E, et al: Tamoxifen and chemotherapy for axillary nodenegative, estrogen receptor-negative breast cancer: Findings from National Surgical Adjuvant Breast and Bowel Project B-23. J Clin Oncol 19:931-942, 2001 44. Fisher B, Redmond C, Legault-Poisson S, et al: Postoperative chemotherapy and tamoxifen compared with tamoxifen alone in the treatment of positive-node breast cancer patients aged 50 years and older with tumors responsive to tamoxifen: Results from the National Surgical Adjuvant Breast and Bowel Project B-16. J Clin Oncol 8:1005-1018, 1990 
+
+8321 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on December 23, 2008 . For personal use only. No other uses without permission. Copyright © 2005 by the American Society of Clinical Oncology. All rights reserved. 
+
+ 

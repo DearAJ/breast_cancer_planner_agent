@@ -1,0 +1,763 @@
+ORIGINAL ARTICLE 
+
+Adjuvant abemaciclib combined with endocrine therapy for high-risk early breast cancer: updated efﬁcacy and Ki-67 analysis from the monarchE study N. Harbeck1*y, P. Rastogi2y, M. Martin3, S. M. Tolaney4, Z. M. Shao5, P. A. Fasching6, C. S. Huang7, G. G. Jaliffe8, A. Tryakin9, M. P. Goetz10, H. S. Rugo11, E. Senkus12, L. Testa13, M. Andersson14, K. Tamura15, L. Del Mastro16,17, G. G. Steger18, H. Kreipe19, R. Hegg20, J. Sohn21, V. Guarneri22,23, J. Cortés24,25, E. Hamilton26, V. André27, R. Wei27, S. Barriga27, S. Sherwood27, T. Forrester27, M. Munoz27, A. Shahir27, B. San Antonio27, S. C. Nabinger27, M. Toi28, S. R. D. Johnston29z & J. O’Shaughnessy30z, On behalf of the monarchE Committee Members 1 
+
+Breast Center, Department of OB & GYN and CCC Munich, LMU University Hospital, Munich, Germany; 2University of Pittsburgh/UPMC, NSABP Foundation, Pittsburgh, USA; 3Hospital General Universitario Gregorio Marañon, Universidad Complutense, CIBERONC, GEICAM, Madrid, Spain; 4Dana-Farber Cancer Institute, Boston, USA; 5Fudan University Shanghai Cancer Center, Shanghai, China; 6University Hospital Erlangen, Department of Gynecology and Obstetrics, Comprehensive Cancer Center Erlangen-EMN, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany; 7National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan; 8Grupo Medico Camino S.C., Mexico City, Mexico; 9N.N.Blokhin Russian Cancer Research Center, Moscow, Russia; 10 Mayo Clinic, Rochester; 11Department of Medicine (Hematology/Oncology), University of California San Francisco, San Francisco, USA; 12Department of Oncology & Radiotherapy, Medical University of Gda nsk, Gda nsk, Poland; 13Instituto D’Or de Pesquisa e Ensino (IDOR), Sao Paulo, Brazil; 14Rigshospitalet, Copenhagen, Denmark; 15 National Cancer Center Hospital, Tokyo, Japan; 16IRCSS Ospedale Policlinico San Martino, UO Breast Unit, Genoa; 17Università di Genova, Department of Internal Medicine and Medical Specialties (DIM), Genoa, Italy; 18Medical University of Vienna, Vienna, Austria; 19Medizinische Hochschule Hannover, Hannover, Germany; 20 Clin. Pesq. e Centro São Paulo, São Paulo, Brazil; 21Yonsei Cancer Center, Seoul, Korea; 22Department of Surgery, Oncology and Gastroenterology, University of Padova, Padua; 23Istituto Oncologico Veneto IOV-IRCCS, Padua, Italy; 24International Breast Cancer Center (IBCC), Madrid & Barcelona, and Vall d’Hebron Institute of Oncology, Barcelona; 25Universidad Europea de Madrid, Faculty of Biomedical and Health Sciences, Department of Medicine, Madrid, Spain; 26Sarah Cannon Research Institute/Tennessee Oncology, Nashville; 27Eli Lilly and Company, Indianapolis, USA; 28Kyoto University Hospital, Kyoto, Japan; 29Royal Marsden NHS Foundation Trust, London, UK; 30Baylor University Medical Center, Texas Oncology, US Oncology, Dallas, USA 
+
+Available online 14 October 2021 
+
+Background: Adjuvant abemaciclib combined with endocrine therapy (ET) previously demonstrated clinically meaningful improvement in invasive disease-free survival (IDFS) and distant relapse-free survival (DRFS) in hormone receptor-positive, human epidermal growth factor receptor 2-negative, node-positive, high-risk early breast cancer at the second interim analysis, however follow-up was limited. Here, we present results of the prespeciﬁed primary outcome analysis and an additional follow-up analysis. Patients and methods: This global, phase III, open-label trial randomized (1 : 1) 5637 patients to adjuvant ET for 5 years  abemaciclib for 2 years. Cohort 1 enrolled patients with 4 positive axillary lymph nodes (ALNs), or 1-3 positive ALNs and either grade 3 disease or tumor 5 cm. Cohort 2 enrolled patients with 1-3 positive ALNs and centrally determined high Ki-67 index (20%). The primary endpoint was IDFS in the intent-to-treat population (cohorts 1 and 2). Secondary endpoints were IDFS in patients with high Ki-67, DRFS, overall survival, and safety. Results: At the primary outcome analysis, with 19 months median follow-up time, abemaciclib þ ET resulted in a 29% reduction in the risk of developing an IDFS event [hazard ratio (HR) ¼ 0.71, 95% conﬁdence interval (CI) 0.58-0.87; nominal P ¼ 0.0009]. At the additional follow-up analysis, with 27 months median follow-up and 90% of patients off treatment, IDFS (HR ¼ 0.70, 95% CI 0.59-0.82; nominal P < 0.0001) and DRFS (HR ¼ 0.69, 95% CI 0.57-0.83; nominal P < 0.0001) beneﬁt was maintained. The absolute improvements in 3-year IDFS and DRFS rates were 5.4% and 4.2%, respectively. Whereas Ki-67 index was prognostic, abemaciclib beneﬁt was consistent regardless of Ki-67 index. Safety data were consistent with the known abemaciclib risk proﬁle. Conclusion: Abemaciclib þ ET signiﬁcantly improved IDFS in patients with hormone receptor-positive, human epidermal growth factor receptor 2-negative, node-positive, high-risk early breast cancer, with an acceptable safety proﬁle. Ki-67 index was prognostic, but abemaciclib beneﬁt was observed regardless of Ki-67 index. Overall, the robust treatment beneﬁt of abemaciclib extended beyond the 2-year treatment period. Key words: abemaciclib, adjuvant, CDK4/6, early breast cancer, Ki-67 
+
+*Correspondence to: Prof Nadia Harbeck, Brustzentrum, LMU Klinikum, Marchioninistrasse 15, 81377 Munich, Germany. Tel: þ49-89-4400-77581 E-mail: Nadia.Harbeck@med.uni-muenchen.de (N. Harbeck). y 
+
+These authors have contributed equally to this work as ﬁrst authors. 
+
+Volume 32 - Issue 12 - 2021 
+
+z These authors have contributed equally to this work as senior authors. 0923-7534/© 2021 The Authors. Published by Elsevier Ltd on behalf of European Society for Medical Oncology. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+1571 
+
+N. Harbeck et al. 
+
+Annals of Oncology INTRODUCTION Since the introduction of aromatase inhibition in the early 2000s, there have been limited advancements to the standard (neo)adjuvant therapies available for patients with hormone receptor-positive (HRþ), human epidermal growth factor receptor 2-negative (HER2) early breast cancer (EBC).1 While treatment optimizations including extended endocrine therapy (ET), ovarian suppression in premenopausal patients,2 and chemotherapy personalization based on clinicopathological and molecular features have further improved outcomes, unmet need exists for those at the highest risk of recurrence.3,4 Novel strategies are needed to improve outcomes for these patients. Cyclin-dependent kinase 4 and 6 (CDK4 and 6) inhibitors administered in combination with ET have markedly improved outcomes for patients with HRþ, HER2, advanced breast cancer.5-7 While small studies in the preoperative setting have also suggested potential activity of CDK4 and 6 inhibitors in EBC, the beneﬁt of these agents in the adjuvant setting remained unknown.8,9 To evaluate this important question, monarchE, an openlabel, global, phase III, randomized trial comparing adjuvant ET for at least 5 years with or without abemaciclib for 2 years, was conducted in patients with HRþ, HER2, node-positive, high-risk EBC. High risk was deﬁned by a compilation of clinical and pathologic factors including nodal status, tumor size, grade, and a marker of cellular proliferation (Ki-67). Ki-67 has previously been shown to be prognostic of clinical outcome in EBC,3,10 as well as a predictor of response to neoadjuvant chemotherapy or ET.11,12 In hormone-sensitive disease, prospective data demonstrated that suppression of Ki-67 in the setting of preoperative ET is prognostic for recurrence-free survival.12,13 Preoperative abemaciclib has also been shown to substantially lower Ki-67 expression, further suggesting CDK4 and 6 inhibition may be effective in tumors with a high degree of cellular proliferation.8 Therefore, in monarchE, Ki-67 expression was used together with clinicopathological features, to identify patients with a high risk of recurrence. Ki-67 20% was used to differentiate between low and high values according to the deﬁnition from the St Gallen International Expert Consensus.14 At a previous preplanned interim analysis, monarchE met its primary endpoint when abemaciclib þ ET demonstrated a statistically signiﬁcant improvement in invasive diseasefree survival (IDFS) in the intent-to-treat (ITT) population compared with ET alone.15 Here, we present updated results from two timepoints: (i) the prespeciﬁed primary outcome (PO) analysis and (ii) an additional follow-up analysis, conducted at regulatory request. Outcomes will also be reported from prespeciﬁed subpopulations based on Ki-67 levels. METHODS Study design and participants monarchE (Clinicaltrials.gov registration: NCT03155997) included women and men, with HRþ, HER2, EBC at high 1572 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+risk of recurrence according to clinicopathological features.15 Patients were assigned to one of two cohorts. Cohort 1 enrolled patients with either 4 positive axillary lymph nodes (ALNs), or 1-3 positive ALNs and at least one of the following: tumor size 5 cm or histologic grade 3. Cohort 2 started enrolling 1 year after cohort 1 and included patients with 1-3 positive ALNs, tumor size <5 cm, grade <3, and a centrally determined high Ki-67 index (20%). Ki67 index was also determined centrally in cohort 1 patients with a suitable breast tumor tissue sample, but Ki-67 determination was not required for enrollment. All patients were required to have radiographic staging between diagnosis and randomization. The inclusion criteria for selecting the patient population at high risk of recurrence were based on efﬁcacy outcome data from the West German Group (WSG) Plan B trial3 and the NSABP B-28 trial.16 Among a subset of the Plan B patient population who satisﬁed the monarchE criteria for high risk disease, the estimated 5-year IDFS rate was 82.5% [95% conﬁdence interval (CI) 77.8% to 87.2%], reﬂecting that approximately 17.5% of those patients who were at high risk of recurrence would develop recurrence events within the ﬁrst 5 years. This study, including all amendments, was approved by Institutional Review Boards and was conducted in accordance with consensus ethic principles derived from international ethic guidelines, including the Declaration of Helsinki and Council for International Organizations of Medical Sciences (CIOMS) and the International Conference on HarmonisationGood Clinical Practice (ICH-GCP) Guidelines. Treatment Patients were randomized (1 : 1) to receive adjuvant abemaciclib plus ET or ET alone for 2 years (treatment period), with ET prescribed for at least 5 years. Patients were stratiﬁed by prior chemotherapy, menopausal status at the time of breast cancer diagnosis, and region. Abemaciclib was administered orally at 150 mg twice daily. ET was administered per physician’s choice including antiestrogen agents (e.g. tamoxifen) or aromatase inhibitors, with or without a gonadotropin-releasing hormone agonist per standard practice. Further details about the randomization, stratiﬁcation, and other study procedures have been previously described.15 Ki-67 central assay Ki-67 index was determined centrally in all suitable untreated breast primary tumor samples using an investigational Ki-67 immunohistochemistry assay developed by Agilent Technologies (formerly Dako; Santa Clara, CA).17 The assay was carried out in formalin-ﬁxed parafﬁn-embedded tissue using the anti-Ki-67 antibody, MIB-1, and Negative Control Reagent in an automated platform. Results were interpreted using a light microscope by a certiﬁed pathologist using a standardized scoring algorithm involving the evaluation of the entire tissue slide. A cut-off of 20% was used to deﬁne high Ki-67 index. Volume 32 - Issue 12 - 2021 
+
+N. Harbeck et al. 
+
+Outcomes The primary endpoint was IDFS per the Standardized Deﬁnitions for Efﬁcacy End Points in Adjuvant Breast Cancer Trials (STEEP) criteria in the ITT population (cohorts 1 þ 2).18 Key secondary endpoints included distant relapse-free survival (DRFS), overall survival (OS), IDFS in the Ki-67 high population (both ITT and cohort 1), and safety. All patients who received at least one dose of study treatment were included in the safety analysis. Adverse events (AEs) were graded according to the Common Terminology Criteria for Adverse Events version 4.0. Statistical analyses The primary objective of IDFS in the ITT population was met at the second efﬁcacy interim analysis.15 A secondary objective was to test the superiority of abemaciclib þ ET versus ET alone in patients whose tumors had high Ki-67 index in both the ITT population as well as those enrolled in cohort 1. The overall type I error was controlled with gate-keeping strategy for IDFS in the ITT and Ki-67 high populations. The PO analysis was preplanned at w390 IDFS events, which was reached on 8 July 2020. At PO, IDFS in the ITT Ki67 high and cohort 1 Ki-67 high populations was tested sequentially, with two-sided P value boundaries of 0.0424 and 0.0426, respectively, calculated using the method of Slud and Wei.19 In addition, exploratory analyses evaluated IDFS in cohort 1 patients whose tumors had Ki-67 <20% (cohort 1 Ki-67 low), IDFS in cohort 2 patients, as well as DRFS in the Ki-67 subpopulations. An additional analysis was conducted in response to regulators, with a data cut-off date on 1 April 2021 (additional follow-up 1 [AFU1]) at which point the majority of patients had discontinued or completed the study treatment period. For efﬁcacy endpoints, a stratiﬁed Cox proportional hazard model was used to estimate the treatment effect hazard ratio (HR). Unless otherwise speciﬁed, all P values were reported using a two-sided alpha level and all CIs used a 95% level. Additionally, an exploratory analysis was carried out to estimate the piecewise yearly HR for IDFS and DRFS at AFU1. This analysis breaks the observation period into yearly time intervals and assesses treatment effect within each interval using a Bayesian piecewise exponential model. The reported 95% credible intervals (Crls) were calculated by equal tails in the posterior samples of the Bayesian exponential model. RESULTS A total of 5637 patients were randomized to receive abemaciclib þ ET (n ¼ 2808) or ET alone (n ¼ 2829) (Supplementary Figure S1, available at https://doi.org/10. 1016/j.annonc.2021.09.015); of those, 5120 were enrolled in cohort 1. Some 44.3% of all randomized patients and 39.1% of patients in cohort 1 had tumors with high Ki-67 index. Within cohort 1, 37.4% of patients had tumors with low Ki-67 index and 23.5% of patients had unavailable Ki-67 Volume 32 - Issue 12 - 2021 
+
+Annals of Oncology index (Supplementary Figure S2, available at https://doi. org/10.1016/j.annonc.2021.09.015). Baseline demographics and disease characteristics were balanced between the treatment arms in the ITT and ITT Ki67-high populations (Table 1). In cohort 1, the frequency of grade 3 tumors was higher in patients with Ki-67-high tumors, while the proportion of patients with 4 positive lymph nodes was higher in the Ki-67-low population (Supplementary Table S1, available at https://doi.org/10. 1016/j.annonc.2021.09.015). Supplementary Figure S3, available at https://doi.org/10.1016/j.annonc.2021.09.015, demonstrates the percentages of patients in cohort 1 with Ki-67-high and -low tumors within each clinicopathological feature. From the preplanned PO analysis (data cut-off: 8 July 2020) to AFU1 (data cut-off: 1 April 2021), the median follow-up increased from 19 to 27 months. The percentage of patients who were off the study treatment period increased from 40.9% at PO to 89.6% at AFU1, including 4071 (72.2%) who completed the 2-year treatment period and 982 (17.4%) who discontinued prematurely (Supplementary Figure S1, available at https://doi.org/10. 1016/j.annonc.2021.09.015). Efﬁcacy data from both PO and AFU1 are presented to show the evolution of the treatment effect over time (Table 2). Efﬁcacy Efﬁcacy in the ITT population (PO, median follow-up 19 months). After reaching statistical signiﬁcance at the interim analysis, abemaciclib þ ET continued to demonstrate clinically meaningful beneﬁt in IDFS with a greater magnitude of effect size at PO (Table 2; HR ¼ 0.71, 95% CI 0.58-0.87; nominal P < 0.001). There was also an absolute improvement of 3.0% in the 2-year IDFS rates (abemaciclib þ ET: 92.3% versus ET alone: 89.3%). Similarly, abemaciclib þ ET continued to demonstrate clinically meaningful beneﬁt in DRFS (Table 2; HR ¼ 0.69, 95% CI 0.55-0.86; nominal P < 0.001), corresponding to an absolute difference of 3.0% at 2 years (abemaciclib þ ET: 93.8% versus ET alone: 90.8%). Efﬁcacy in the ITT population (AFU1, median follow-up 27 months). With 8 months of additional median follow-up, the beneﬁt of abemaciclib þ ET was maintained for IDFS (Table 2; HR ¼ 0.70, 95% CI 0.59-0.82; nominal P < 0.0001) and DRFS (Table 2; HR ¼ 0.69, 95% CI 0.57-0.83; nominal P < 0.0001). The KaplaneMeier (KM) curves (Figure 1A, Supplementary Figure S4A, available at https://doi.org/10. 1016/j.annonc.2021.09.015) continued to show the beneﬁt of abemaciclib, even beyond the 2-year study treatment period. With more patients at risk for recurrence at 3 years, the data demonstrated an absolute improvement of 5.4% for 3-year IDFS rates (abemaciclib þ ET: 88.8% versus ET alone: 83.4%) and 4.2% for 3-year DRFS rates (abemaciclib þ ET: 90.3% versus ET alone: 86.1%). Treatment beneﬁt in IDFS and DRFS was generally consistent across prespeciﬁed subgroups (Figure 1B, Supplementary Figure S4B, available at https://doi.org/10.1016/j.annonc. https://doi.org/10.1016/j.annonc.2021.09.015 
+
+1573 
+
+N. Harbeck et al. 
+
+Annals of Oncology Table 1. Baseline characteristics ITT populationd 
+
+Category 
+
+Age, median (range) <65 65 Female Male Hormone receptor status Estrogen receptor-positive Estrogen receptor-negative Progesterone receptor-positive Progesterone receptor-negative Menopausal statusb,c Premenopausal Postmenopausal Prior chemotherapyb Neoadjuvant chemotherapy Adjuvant chemotherapy No chemotherapy Regionb North American/Europe Asia Other Positive axillary lymph nodes 0 1-3 4 Histopathological grade at diagnosis Grade 1 Grade 2 Grade 3 Grade cannot be assessed Pathologic tumor size <2 cm 2-5 cm 5 cm Ki-67 index <20% 20% TNM stage (derivede) IA IIA IIB IIIA IIIB IIIC 
+
+ITT Ki-67-high population (‡20%) 
+
+Abemaciclib þ ET N ¼ 2808, n (%)a 
+
+ET alone N ¼ 2829, n (%)a 
+
+Abemaciclib þ ET N ¼ 1262, n (%)a 
+
+ET alone N ¼ 1236, n (%)a 
+
+51 (23-89) 2371 (84.4%) 437 (15.6%) 2787 (99.3%) 21 (0.7%) 
+
+51 (22-86) 2416 (85.4%) 413 (14.6%) 2814 (99.5%) 15 (0.5%) 
+
+51 (23-88) 1095 (86.8%) 167 (13.2%) 1250 (99.0%) 12 (1.0%) 
+
+51 (24-86) 1070 (86.6%) 166 (13.4%) 1227(99.3%) 9 (0.7%) 
+
+2786 (99.2%) 16 (0.6%) 2426 (86.4%) 298 (10.6%) 
+
+2810 (99.3%) 17 (0.6%) 2456 (86.8%) 295 (10.4%) 
+
+1251 (99.1%) 8 (0.6%) 1062 (84.2%) 165 (13.1%) 
+
+1224 (99.0%) 11 (0.9%) 1043 (84.4%) 152 (12.3%) 
+
+1221 (43.5%) 1587 (56.5%) 
+
+1232 (43.5%) 1597 (56.5%) 
+
+575 (45.6%) 687 (54.4%) 
+
+564 (45.6%) 672 (54.4%) 
+
+1039 (37.0%) 1642 (58.5%) 127 (4.5%) 
+
+1048 (37.0%) 1647 (58.2%) 134 (4.7%) 
+
+457 (36.2%) 749 (59.4%) 56 (4.4%) 
+
+472 (38.2%) 704 (57.0%) 60 (4.9%) 
+
+1470 (52.4%) 574 (20.4%) 764 (27.2%) 
+
+1479 (52.3%) 582 (20.6%) 768 (27.1%) 
+
+692 (54.8%) 272 (21.6%) 298 (23.6%) 
+
+674 (54.5%) 280 (22.7%) 282 (22.8%) 
+
+7 (0.2%) 1118 (39.8%) 1682 (59.9%) 
+
+7 (0.2%) 1142 (40.4%) 1680 (59.4%) 
+
+2 (0.2%) 672 (53.2%) 588 (46.8%) 
+
+2 (0.2%) 668 (54.0%) 566 (45.8%) 
+
+209 (7.4%) 1377 (49.0%) 1086 (38.7%) 126 (4.5%) 
+
+216 (7.6%) 1395 (49.3%) 1064 (37.6%) 141 (5.0%) 
+
+60 (4.8%) 546 (43.3%) 605 (47.9%) 49 (3.9%) 
+
+53 (4.3%) 531 (43.0%) 590 (47.7%) 56 (4.5%) 
+
+781 (27.8%) 1372 (48.9%) 607 (21.6%) 
+
+767 (27.1%) 1419 (50.2%) 610 (21.6%) 
+
+384 (30.4%) 664 (52.6%) 199 (15.8%) 
+
+371 (30.0%) 663 (53.6%) 185 (15.0%) 
+
+953 (33.9%) 1262 (44.9%) 
+
+974 (34.4%) 1233 (43.6%) 
+
+1262 (100.0%) 
+
+1236 (100.0%) 
+
+2 (0.1%) 324 (11.5%) 392 (14.0%) 1029 (36.6%) 99 (3.5%) 950 (33.8%) 
+
+1 (0.0%) 353 (12.5%) 387 (13.7%) 1026 (36.3%) 88 (3.1%) 963 (34.0%) 
+
+2 (0.2%) 225 (17.8%) 258 (20.4%) 356 (28.2%) 37 (2.9%) 379 (30.0%) 
+
+0 (0.0%) 235 (19.0%) 252 (20.4%) 340 (27.5%) 34 (2.8%) 367 (29.7%) 
+
+ET, endocrine therapy; ITT, intent-to-treat; n, number of patients; N, number of patients in population; TNM, tumor, node, metastasis. a Where values do not add up to 100%, remaining data are missing, unavailable, or could not be assessed. b Per interactive web response system. c Menopausal status is at the time of diagnosis and all males are considered postmenopausal. d Thirty-eight patients were found not to meet the high risk criteria and hence were considered ineligible but were included in the ITT population. e Derived TNM stage based on the pathological tumor size and number of positive lymph nodes. 
+
+2021.09.015). Bone and liver were the most common sites of distant recurrence with fewer recurrences in the abemaciclib arm (Supplementary Table S2, available at https:// doi.org/10.1016/j.annonc.2021.09.015). OS data remained immature as the required number of events was not reached at the time of this analysis. The piecewise HR estimates within each year for IDFS demonstrated increasing magnitude of effect size over time: from the ﬁrst year (0-1 year HR ¼ 0.80, 95% CrI 0.59-1.03) to the second year (1-2 year HR ¼ 0.68, 95% CrI 0.52-0.87), and strengthened beyond the 2-year study treatment period (2þ year HR ¼ 0.60, 95% CrI 0.40-0.86). Similarly, 1574 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+there was also an evolution of the piecewise DRFS HR estimates from the ﬁrst year (0-1 year HR ¼ 0.73, 95% CrI 0.52-0.99) to the second year (1-2 year HR ¼ 0.68, 95% CrI 0.51-0.88), which further persisted beyond the 2-year study treatment period (2þ year HR ¼ 0.69, 95% CrI 0.45-1.03). Efﬁcacy in the ITT Ki-67-high population. At PO, abemaciclib þ ET signiﬁcantly reduced the risk of developing an IDFS event by 31% (HR ¼ 0.69, 95% CI 0.52-0.92, two-sided P ¼ 0.0111) for the prespeciﬁed, alphacontrolled, ITT Ki-67-high population. Two-year IDFS rates were 91.6% in the abemaciclib arm and 87.1% in the control Volume 32 - Issue 12 - 2021 
+
+N. Harbeck et al. 
+
+Annals of Oncology 
+
+Table 2. Evolution of IDFS and DRFS data in the intent-to-treat population at PO and AFU1 Primary outcome Data cut-off date Patients off study treatment period Completed 2-year study treatment period Efﬁcacy results Median follow-up, months IDFS Events, n IDFS rates, % (95% CI)  2-year  3-year HR (95% CI) P value DRFS Events, n DRFS rates, % (95% CI)  2-year  3-year HR (95% CI) 
+
+8 July 2020 41.0% 25.5% Abemaciclib þ ET 19.1 
+
+Additional follow-up 1 
+
+ET alone 
+
+163 
+
+232 
+
+ET alone 
+
+232 
+
+92.3 (90.9-93.5) 89.3 (87.7-90.7) Not estimable Not estimable 0.71 (0.58-0.87) a Nominal P value ¼ 0.0009 131 
+
+1 April 2021 89.6% 72.2% Abemaciclib þ ET 27.1 
+
+193 
+
+92.7 (91.6-93.6) 90.0 (88.8-91.1) 88.8 (87.0-90.3) 83.4 (81.3-85.3) 0.70 (0.59-0.82) a Nominal P value <0.0001 191 
+
+93.8 (92.6-94.9) 90.8 (89.3-92.1) Not estimable Not estimable 0.69 (0.55-0.86) 
+
+333 
+
+278 
+
+94.1 (93.2-95.0) 91.6 (90.5-92.6) 90.3 (88.6-91.8) 86.1 (84.2-87.9) 0.69 (0.57-0.83) 
+
+AFU1, additional follow up 1; DRFS, distant relapse-free survival; HR, hazard ratio; IDFS, invasive disease-free survival; PO, primary outcome. a The primary efﬁcacy endpoint was statistically signiﬁcant at interim analysis 2. 
+
+arm; with an absolute improvement of 4.5%. At AFU1, the clinically meaningful beneﬁt in IDFS was of greater magnitude (Figure 2A; HR ¼ 0.66, 95% CI 0.52-0.84; nominal P ¼ 0.0006), with an absolute improvement of 6.0% in 3-year IDFS rates. Consistently, there was a 36% reduction in the risk of developing a DRFS event (Supplementary Table S3, available at https://doi.org/10.1016/j.annonc.2021.09.015; HR ¼ 0.64, 95% CI 0.49-0.83; nominal P ¼ 0.0006) with an absolute improvement of 4.0% in the 3-year DRFS rates. Efﬁcacy in the cohort 1 Ki-67-high and -low populations. At PO, abemaciclib þ ET signiﬁcantly reduced the risk of developing an IDFS event in the prespeciﬁed, alphacontrolled, cohort 1 Ki-67-high population by 36% (HR ¼ 0.64, 95% CI 0.48-0.87; two-sided P ¼ 0.0042). The 2-year IDFS rates were 91.3% in abemaciclib þ ET and 86.1% in ET alone, with an absolute improvement of 5.2% at PO. Similarly, abemaciclib beneﬁt was observed in the cohort 1 Ki-67-low population, with 31% reduction in the risk of developing an IDFS event (HR ¼ 0.69, 95% CI 0.46-1.02; nominal P ¼ 0.059) and an absolute difference in 2-year IDFS rate of 2.8% (94.8% in abemaciclib þ ET and 92.0% in ET alone). At AFU1, analyses of Ki-67 subpopulations in cohort 1 showed consistent results with PO. The clinically meaningful beneﬁt in IDFS and DRFS in the cohort 1 Ki-67-high population was maintained (Figure 2B; IDFS HR ¼ 0.63, 95% CI 0.49-0.80; nominal P ¼ 0.0002 and Supplementary Table S3, available at https://doi.org/10.1016/j.annonc.2021.09.015; DRFS HR ¼ 0.60, 95% CI 0.46-0.79; nominal P ¼ 0.0002), with an absolute improvement of 7.1% and 5.2% in 3-year IDFS and DRFS rates, respectively. Numerical beneﬁt was also observed in the cohort 1 Ki-67-low population (IDFS HR ¼ 0.70, 95% CI 0.51-0.98; nominal P ¼ 0.036), suggesting that abemaciclib þ ET resulted in an IDFS beneﬁt regardless of the Ki-67 index in cohort 1 (Figure 3). In addition, the 3-year IDFS rates in the control arm suggested Volume 32 - Issue 12 - 2021 
+
+that patients with Ki-67-high tumors had a higher risk of developing an IDFS event than those with Ki-67-low tumors (79.0% versus 87.2%, respectively), thus indicating the prognostic value of Ki-67 in this patient population. The data for IDFS in cohort 2 remained immature. Safety At AFU1, the median duration of abemaciclib and ET in both arms was 24 months. A higher incidence of grade 3 AEs and serious AEs was observed with abemaciclib þ ET versus ET alone (50% versus 16% and 15% versus 9%, respectively). The most frequent AEs were diarrhea, neutropenia, and fatigue in the abemaciclib arm, and arthralgia, hot ﬂush, and fatigue in the control arm (Supplementary Table S4, available at https://doi.org/10.1016/j.annonc.2021.09.015). In total, 181 patients (6.5%) in the abemaciclib þ ET arm and 30 patients (1.1%) in the control arm discontinued from the 2-year study treatment period due to AEs. DISCUSSION At the prespeciﬁed PO analysis of monarchE, with a median follow-up of 19 months and 41% of patients off study treatment, abemaciclib þ ET reduced the risk of developing an IDFS event by 29%. At the AFU1, with a longer median follow-up of 27 months and 90% of patients having completed or discontinued from the study treatment period, the beneﬁt of abemaciclib þ ET was conﬁrmed in terms of IDFS (30% risk reduction) and DRFS (31% risk reduction). The separation of the KM curves, in addition to the increasing magnitude of yearly piecewise HR estimates, demonstrates the continued treatment beneﬁt over time that extended beyond the 2-year treatment period of abemaciclib. The observed improvement in IDFS to date reﬂects abemaciclib was efﬁcacious in preventing early recurrence in patients with primary resistance to ET as deﬁned by https://doi.org/10.1016/j.annonc.2021.09.015 
+
+1575 
+
+N. Harbeck et al. 
+
+Annals of Oncology 100 Invasive disease−free survival (%) 
+
+A 
+
+2-year rate: 92.7% 
+
+3-year rate: 88.8% 
+
+90 2-year rate: 90.0% 
+
+80 
+
+3-year rate: 83.4% 
+
+70 60 50 40 
+
+Nominal P < 0.0001 HR = 0.70 (95% CI 0.59-0.82) 
+
+30 20 
+
+Abemaciclib + ET ET alone 
+
+10 
+
+Patients 2808 2829 
+
+Events 232 333 
+
+12 
+
+18 
+
+0 0 
+
+3 
+
+6 
+
+9 
+
+15 
+
+21 
+
+24 
+
+27 
+
+30 
+
+33 
+
+36 
+
+39 
+
+42 
+
+45 
+
+2808 2680 2621 2579 2547 2508 2477 2430 1970 1287 2829 2700 2652 2608 2572 2513 2472 2400 1930 1261 
+
+919 906 
+
+522 528 
+
+275 281 
+
+67 64 
+
+8 10 
+
+0 0 
+
+Time (months) Number at risk Abemaciclib + ET ET alone 
+
+B ET alone 
+
+Abemaciclib + ET 
+
+No. 
+
+Favors ET alone 
+
+HR (95% CI) 
+
+Events 
+
+No. 
+
+Events 
+
+232 
+
+2829 
+
+333 
+
+0.70 (0.59-0.82) 
+
+75 75 80 
+
+1142 1126 554 
+
+105 126 102 
+
+0.72 (0.54-0.97) 0.61 (0.46-0.81) 0.74 (0.55-0.99) 
+
+11 101 112 
+
+216 1395 1064 
+
+12 146 151 
+
+0.94 (0.42-2.13) 0.70 (0.54-0.90) 0.72 (0.57-0.92) 
+
+40 125 62 
+
+767 1419 610 
+
+86 155 87 
+
+0.45 (0.31-0.66) 0.84 (0.66-1.06) 0.70 (0.51-0.97) 
+
+119 101 
+
+1048 1647 
+
+184 135 
+
+0.63 (0.50-0.80) 0.75 (0.58-0.97) 
+
+85 147 
+
+1232 1597 
+
+142 191 
+
+0.58 (0.44-0.76) 0.79 (0.64-0.98) 
+
+111 41 80 
+
+1479 582 768 
+
+156 60 117 
+
+0.72 (0.56-0.92) 0.66 (0.45-0.99) 0.69 (0.52-0.92) 
+
+192 40 
+
+2416 413 
+
+285 48 
+
+0.68 (0.56-0.81) 0.83 (0.54-1.26) 
+
+42 185 
+
+295 2456 
+
+58 270 
+
+0.71 (0.48-1.06) 0.69 (0.57-0.83) 
+
+15 31 73 100 
+
+353 387 1026 963 
+
+28 32 104 156 
+
+0.57 (0.30-1.07) 0.99 (0.60-1.62) 0.70 (0.52-0.95) 0.63 (0.49-0.82) 
+
+2405 401 
+
+193 39 
+
+2369 455 
+
+280 52 
+
+0.67 (0.56-0.80) 0.90 (0.59-1.36) 
+
+1947 675 146 
+
+166 47 17 
+
+1978 669 140 
+
+237 75 16 
+
+0.71 (0.58-0.86) 0.60 (0.42-0.86) 1.12 (0.57-2.22) 
+
+Overall 2808 Number of pos. lymph nodes 1-3 1118 4-9 1107 10 or more 575 Histologic grade Grade 1 209 Grade 2 1377 Grade 3 1086 Primary tumor size 781 <2 cm 2-5 cm 1371 ≥5 cm 607 Prior chemotherapy Neoadjuvant 1039 Adjuvant 1642 Menopausal status Premenopausal 1221 Postmenopausal 1587 Region 1470 North America/Europe Asia 574 Other 764 Age <65 years 2371 ≥65 years 437 Progesterone receptor Negative 298 Positive 2426 Tumor stage Stage IIA 324 Stage IIB 392 1029 Stage IIIA Stage IIIC 950 Baseline ECOG PS 0 1 Race White Asian All others 
+
+Favors Abemaciclib + ET 
+
+Interaction P value 
+
+0.597 
+
+0.787 
+
+0.024 
+
+0.339 
+
+0.082 
+
+0.938 
+
+0.391 
+
+0.846 
+
+0.422 
+
+0.207 
+
+0.299 
+
+0.5 
+
+1 
+
+2 
+
+3 
+
+Figure 1. Invasive disease-free survival (IDFS) in the intent-to-treat (ITT) population at additional follow-up 1 (AFU1). CI, conﬁdence interval; ECOG PS, Eastern Cooperative Oncology Group performance status; ET, endocrine therapy; HR, hazard ratio. 
+
+ESO-ESMO criteria (recurrence within 2 years of beginning adjuvant ET).20 Early recurrences represent the rapid outgrowth of endocrine-resistant subclinical disease that persist despite optimal systemic adjuvant treatment. The high rate of invasive recurrence in the ET alone arm of 1576 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+monarchE (16.6% after 3 years) demonstrates that the trial enrolled a high-risk population, that could be placed in perspective by considering the outcomes from the patient population in Plan B that would have met enrollment criteria for monarchE (17.5% risk at 5 years). Volume 32 - Issue 12 - 2021 
+
+N. Harbeck et al. 
+
+Annals of Oncology 
+
+A 
+
+100 
+
+2-year rate: 91.9% 3-year rate: 86.8% 
+
+Invasive disease−free survival (%) 
+
+90 80 
+
+2-year rate: 87.9% 
+
+3-year rate: 80.8% 
+
+70 60 50 40 
+
+Nominal P = 0.0006 HR = 0.66 (95% CI 0.52-0.84) 
+
+30 20 10 
+
+Patients 
+
+Events 
+
+Abemaciclib + ET 
+
+1262 
+
+118 
+
+ET alone 
+
+1236 
+
+172 
+
+0 0 
+
+3 
+
+6 
+
+9 
+
+12 
+
+15 
+
+18 
+
+21 
+
+24 
+
+27 
+
+30 
+
+33 
+
+36 
+
+39 
+
+42 
+
+45 
+
+546 520 
+
+377 367 
+
+203 198 
+
+109 107 
+
+25 25 
+
+2 3 
+
+0 0 
+
+Time (months) Number at risk Abemaciclib + ET ET alone 
+
+1262 1236 
+
+1221 1197 
+
+1189 1177 
+
+1167 1158 
+
+1155 1142 
+
+1139 1114 
+
+1123 1096 
+
+1094 1041 
+
+870 827 
+
+B Invasive disease−free survival (%) 
+
+100 
+
+2-year rate: 91.5% 3-year rate: 86.1% 
+
+90 80 
+
+2-year rate: 86.4% 
+
+3-year rate: 79.0% 
+
+70 60 50 40 
+
+Nominal P = 0.0002 HR = 0.63 (95% CI 0.49-0.80) 
+
+30 20 
+
+Patients 
+
+Events 
+
+1017 986 
+
+104 158 
+
+Abemaciclib + ET ET alone 
+
+10 0 0 
+
+3 
+
+6 
+
+9 
+
+12 
+
+15 
+
+18 
+
+21 
+
+24 
+
+27 
+
+30 
+
+33 
+
+36 
+
+39 
+
+42 
+
+45 
+
+484 457 
+
+348 333 
+
+203 197 
+
+109 107 
+
+25 25 
+
+2 3 
+
+0 0 
+
+Time (months) Number at risk Abemaciclib + ET ET alone 
+
+1017 986 
+
+989 955 
+
+963 938 
+
+946 922 
+
+936 906 
+
+922 883 
+
+908 868 
+
+894 835 
+
+733 687 
+
+Figure 2. Invasive disease-free survival (IDFS) in (A) ITT Ki-67-high and (B) cohort 1 Ki-67-high populations at additional follow-up 1 (AFU1). CI, conﬁdence interval; ET, endocrine therapy; HR, hazard ratio. 
+
+Collectively, these data suggest that 2 years of abemaciclib treatment provide a meaningful beneﬁt for this patient population. A 2-year abemaciclib treatment duration was selected to manage patients through their period of highest relapse-risk while simultaneously balancing the risk potential for side-effects.21 Further follow-up is needed to determine the impact of adjuvant abemaciclib on later recurrences. OS data remained immature and follow-up for survival outcomes is ongoing. Given the substantial reduction in the risk of developing invasive disease as well as distant recurrence and the maintenance of the treatment beneﬁt over time, it is anticipated that the robust treatment beneﬁt will translate to survival beneﬁt. Two phase III studies investigating palbociclib, another CDK4 and 6 inhibitor, in patients with HRþ, HER2 EBC Volume 32 - Issue 12 - 2021 
+
+have recently reported no improvement in IDFS with the addition of adjuvant palbociclib to ET.22,23 PALLAS enrolled 5760 patients with stage II-III disease and Penelope-B enrolled 1250 patients with residual disease after neoadjuvant chemotherapy and a clinical pathological stagingestrogen receptor grading score of 3, or score ¼ 2 and tumor involvement in lymph nodes. The reasons for the differences in outcomes between these studies and monarchE are unclear. While the studies enrolled patients with different risks of recurrence, there was no numerical beneﬁt in the subgroup of high-risk patients (58.7%) in PALLAS deﬁned as having 4 positive nodes or 1-3 positive nodes with either T3/T4 and/or grade 3 disease. The treatment durations with the CDK4 and 6 inhibitors also differed between Penelope-B (1 year) and monarchE and PALLAS (2 years). In Penelope-B, the observed numerical difference https://doi.org/10.1016/j.annonc.2021.09.015 
+
+1577 
+
+N. Harbeck et al. 
+
+Annals of Oncology 100 
+
+2-year rate: 94.4% 2-year rate: 92.9% 
+
+95 
+
+Invasive disease–free survival (%) 
+
+3-year rate: 91.7% 90 3-year rate: 87.2% 
+
+2-year rate: 91.5% 2-year rate: 86.4% 
+
+| | 
+
+85 
+
+3-year rate: 86.1% 
+
+80 
+
+Cohort 1 Ki-67-high 
+
+75 
+
+Patients 
+
+Events 
+
+Abemaciclib + ET 
+
+1017 
+
+104 
+
+ET alone 
+
+986 
+
+158 
+
+Abemaciclib + ET 
+
+946 
+
+62 
+
+ET alone 
+
+968 
+
+86 
+
+3-year rate: 79.0% HR = 0.63 (95% CI 0.49-0.80) 
+
+Cohort 1 Ki-67-low HR = 0.70 (95% CI 0.51-0.98) 
+
+70 0 
+
+3 
+
+6 
+
+9 
+
+12 
+
+15 
+
+18 
+
+21 
+
+24 
+
+27 
+
+30 
+
+33 
+
+36 
+
+39 
+
+42 
+
+45 
+
+Time (months) 
+
+Figure 3. Kaplan-Meier curves of invasive disease-free survival in Cohort 1 Ki-67 high versus Ki-67 low at additional follow-up 1 (AFU1). CI, conﬁdence interval; ET, endocrine therapy; HR, hazard ratio. 
+
+favoring the palbociclib arm in the IDFS rates (4.3% and 3.5% at 2 and 3 years, respectively) was not sustained over time and the study did not show a statistically signiﬁcant beneﬁt. It remains unknown if the early separation of the IDFS KM curves reﬂected a transient treatment effect from palbociclib that diminished over time or could be attributed to statistical variability related to a small number of events at the earlier timepoints. In monarchE, the treatment beneﬁt of abemaciclib þ ET was statistically signiﬁcant and clinically meaningful. This beneﬁt was maintained over time and extended beyond the 2-year study treatment period. Another potential explanation for the discordant outcomes to date for monarchE, PALLAS, and Penelope-B are the differences between drugs. Whereas abemaciclib is administered continuously daily, palbociclib is administered daily for 3 weeks followed by 1-week rest. In preclinical studies, abemaciclib has shown a tolerability proﬁle that allows for a continuous dosing required for sustainable G1/S arrest and inhibition of tumor growth.24,25 In addition, continuous inhibition of CDK4 and 6 by abemaciclib led to cell senescence and apoptosis to a greater extent than was seen with palbociclib.25,26 It can be speculated that the differences in mechanism of action and the continuous versus intermittent dosing schedules may be more important in eradicating micrometastatic cells in an adjuvant setting, as opposed to established macrometastatic disease where both abemaciclib and palbociclib have shown relatively similar anticancer activity in regard to progression-free survival. Differences, 1578 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+however, in OS beneﬁt between abemaciclib and palbociclib have also been observed in the metastatic setting in combination with fulvestrant in patients who progressed after prior ET.Whereas palbociclib in combination with fulvestrant failed to show signiﬁcant OS differences in the ITT population,27 abemaciclib plus fulvestrant demonstrated a statistically signiﬁcant OS beneﬁt in the ITT population.28 The use of Ki-67 in clinical practice is historically challenging due to the high inter-observer variability and the lack of a standard threshold for determining high versus low values.29 In monarchE, Ki-67 was measured at a central laboratory using a validated assay that was shown to be highly reproducible across different pathologists and laboratories using an automated staining protocol with a standardized scoring method.17 This is the ﬁrst phase III registration trial that has prospectively analyzed the utility of a prespeciﬁed, centrally conﬁrmed Ki-67 threshold of 20% using a standardized assay and methodology. Abemaciclib þ ET signiﬁcantly improved IDFS in patients with Ki-67-high tumors in the ITT and cohort 1 populations. Within cohort 1, the beneﬁt of abemaciclib was consistently observed regardless of Ki-67 index, suggesting Ki-67 is not predictive of abemaciclib treatment beneﬁt. Because patients in cohort 1 with Ki67-high tumors had a greater risk of recurrence than those with Ki-67-low tumors, we concluded that Ki-67 index was prognostic of recurrence. Overall, these data support use of Ki-67 20% together with high-risk Volume 32 - Issue 12 - 2021 
+
+N. Harbeck et al. 
+
+clinicopathological features to identify patients with an even greater risk of recurrence. In conclusion, adjuvant abemaciclib combined with ET showed statistically signiﬁcant and clinically meaningful improvement in IDFS for patients with HRþ, HER2, nodepositive, high-risk, EBC. Ki-67 index was a prognostic factor for recurrence in this treatment setting but was not predictive of the treatment effect with abemaciclib beneﬁt being observed regardless of Ki-67 status. With 27 months median follow-up, abemaciclib þ ET continued to provide a clinically meaningful beneﬁt in IDFS and DRFS that extended beyond the 2-year treatment period, with a tolerable and manageable safety proﬁle. ACKNOWLEDGEMENTS The authors and Eli Lilly and Company would like to thank the patients and their families/caregivers for participating in this trial. monarchE would not have been possible without the investigators and their support staff who participated in this work. Finally, the authors are grateful for the time and efforts of the monarchE Executive and Steering Committees. Medical writing support was provided by Trish Huynh, employee of Eli Lilly and Company, and editorial assistance provided by Dana Schamberger, employee of Syneos Health. All writing, editorial assistance, and statistical analysis were funded by Eli Lilly and Company. FUNDING This work was supported by the sponsor (Eli Lilly and Company) and designed together with the study Executive Committee (no grant number). DISCLOSURE NH reports research grants from Eli Lilly and Company to her institution; personal fees and other for lectures and consulting from Amgen, AstraZeneca, Daiichi-Sankyo, Eli Lilly and Company, Merck Sharp & Dohme (MSD), Novartis, Pﬁzer, Pierre-Fabre, Roche/Genentech, Sandoz, and SeaGen outside the submitted work. SJ reports personal fees from AstraZeneca, Eli Lilly and Company, Novartis, Pﬁzer, and Puma Biotechnology for consulting and advisory role; personal fees from AstraZeneca, Novartis, Pﬁzer, Eisai, and Roche/Genentech for speaker’s bureau; personal fees and other from AstraZeneca, Eli Lilly and Company, Novartis, Pﬁzer, Puma Biotechnology, and Roche/Genentech for research funding, outside the submitted work. PR reports other compensation for travel/accommodations from Eli Lilly and Company, AstraZeneca, and Roche/Genentech; and other non-compensated fees for Ad Board participation, outside the submitted work. MM reports grants from Novartis and personal fees from Amgen, Roche, AstraZeneca, and Pﬁzer, outside of the submitted work. ZMS, MA, RH, and KT have nothing to disclose. SMT reports grants and personal fees from Eli Lilly and Company, during the conduct of the study; grants and personal fees from Immunomedics/Gilead, AstraZeneca, grants and personal fees from Eli Lilly and Company, Odonate, grants and Volume 32 - Issue 12 - 2021 
+
+Annals of Oncology personal fees from Merck, grants and personal fees from Nektar, grants and personal fees from Novartis, grants and personal fees from Pﬁzer, grants and personal fees from Genentech/Roche, grants and personal fees from Exelixis, grants and personal fees from Bristol Myers Squibb, grants and personal fees from Eisai, Sanoﬁ, and grants and personal fees from Nanostring; personal fees from Chugai Pharma, Ellipses Pharma, 4D Pharma, BeyondSpring Pharma, OncXerna, Inﬁnity Therapeutics, OncoSec, Seattle Genetics, Celldex, Certara, Mersana Therapeutics, Silverback Therapeutics, Daiichi-Sankyo, G1 Therapeutics, CytomX, Samsung Bioepis Inc., Athenex, OncoPep, Kyowa Kirin Pharmaceuticals, and Puma; grants from Cyclacel, grants and personal fees from Sanoﬁ, personal fees from Celldex, grants and personal fees from Odonate, personal fees from Seattle Genetics, personal fees from Silverback Therapeutics, personal fees from G1 Therapeutics, personal fees from Athenex, personal fees from OncoPep, personal fees from Kyowa Kirin Pharmaceuticals, personal fees from DaiichiSankyo, personal fees from CytomX, personal fees from Samsung Bioepis Inc., personal fees from Certara, personal fees from Mersana Therapeutics, grants and personal fees from Immunomedics/Gilead, personal fees from OncoSec, personal fees from Chugai Pharma, personal fees from Ellipses Pharma, personal fees from 4D Pharma, personal fees from BeyondSpring Pharma, personal fees from OncXerna, personal fees from Inﬁnity Therapeutics, outside the submitted work. PAH reports personal fees from Novartis, Pﬁzer, Daiichi-Sankyo, AstraZeneca, Eisai, MSD, Eli Lilly and Company, Pierre Fabre, Seattle Genetics, Roche/Genentech, and Hexal; and grants from Biontech, and Cepheid, outside of the submitted work. CH reports grants and personal fees for advisory role from Eli Lilly and Company; personal fees and non-ﬁnancial support for advisory role, speaker’s bureaus, and travel expense from Amgen; and grants, personal fees, and non-ﬁnancial support for advisory role, speaker bureaus, and travel expenses from Pﬁzer and Roche/Genentech; grants and personal fees for speaker bureaus from Novartis; grants, personal fees, and non-ﬁnancial support for travel expenses, and grants from EirGenix, OBI Pharma, MSD, and Daiichi-Sankyo, outside the submitted work. GGJ reports personal fees from Eli Lilly and Company, during the conduct of the study; personal fees from Amgen, AstraZeneca, Clinigen, Egis, Eli Lilly and Company, Exact Sciences, Novartis, Oncompass Medicine, Pﬁzer, Pierre Fabre, Roche/ Genentech, Sandoz, Samsung, and TLC Biopharmaceuticals, outside the submitted work. AT reports personal fees and non-ﬁnancial support from Eli Lilly and Company, Bayer and Novartis, Bristol Myers Squibb, MSD, Biocad, and Merck; personal fees from AstraZeneca, Eisai Co., Ltd, and Amgen, outside the submitted work. MPG receives consulting fees to institution from Eagle pharmaceuticals, Eli Lilly and Company, Biovica, Novartis, Sermonix, Context Pharm, Pﬁzer, and Biotheranostics; and grants from Pﬁzer, and Eli Lilly and Company; and grants to institution from Sermonix, outside the submitted work. HSR reports grants to institution from Pﬁzer, Merck, Novartis, Eli Lilly and Company, Roche/Genentech, OBI, Odonate, Daiichi-Sankyo, Seattle https://doi.org/10.1016/j.annonc.2021.09.015 
+
+1579 
+
+N. Harbeck et al. 
+
+Annals of Oncology Genetics, Eisai, MacroGenics, Sermonix, Immunomedics, and AstraZeneca; non-ﬁnancial travel support for educational meeting from Daiichi-Sankyo, Mylan, Pﬁzer, Merck, AstraZeneca, Novartis, and MacroGenics; personal fees for honoraria from Puma and Mylan; other fees for limited consulting from Samsung, outside of the submitted work. ES reports personal fees for honoraria from Amgen, AstraZeneca, Clinigen, Egis, Eli Lilly and Company, Exact Sciences, Novartis, Oncompas Medicine, Pﬁzer, Pierre Fabre, Roche/ Genentech, Sandoz, and TLC Biopharmaceuticals; personal fees for travel support from Amgen, AstraZeneca, Egis, Novartis, Pﬁzer, and Roche/Genentech; personal fees for clinical research from Amgen, AstraZeneca, Novartis, Pﬁzer, and Roche/Genentech, and Samsung, outside the submitted work. LT reports other fees for non-CME received directly from commercial interest or their agents from Eli Lilly and Company, Novartis, Pﬁzer, Roche/Genentech, and Libbs; and personal fees for travel from Pﬁzer, Roche/Genentech, Libbs, and United Medical. LDM reports grant for research from Eli Lilly and Company; personal fees from Eli Lilly and Company, Novartis, Roche, MSD, Pﬁzer, Genomic Health, Pierre Fabre, Daiichi-Sankyo, AstraZeneca, Seattle Genetics, Eisai, and Ipsen; and non-ﬁnancial support from Roche, Pﬁzer, and Eisai, outside the submitted work. GGS reports personal fees and non-ﬁnancial support from Novartis, Pﬁzer, AstraZeneca, and Roche; non-ﬁnancial support from Teva; personal fees from Astro Pharma; and grants from Roche, outside the submitted work. HK reports personal fees for lectures and presentations during professional and scientiﬁc meetings from AstraZeneca, Genomic Health, Roche/Genentech, and Pﬁzer, outside the submitted work. JS reports research grant funding to institution from MSD, Roche, Novartis, AstraZeneca, Eli Lilly, Pﬁzer, GlaxoSmithKline (GSK), Daiichi Sankyo, Sanoﬁ, and Boehringer Ingelheim, outside the submitted work. VG reports personal fees from Eli Lilly and Company, Novartis, Roche, and MSD an advisory board role and speaker’s bureau, outside the submitted work, and grant to institution from Roche, outside the submitted work. JC reports fees from Roche, Celgene, Cellestia, AstraZeneca, Biothera Pharmaceuticals, Merus, Seattle Genetics, Daiichi Sankyo, Erytech, Athenex, Polyphor, Eli Lilly and Company, Servier, MSD, GSK, Leuko, Bioasis, Clovis Oncology, and Boehringer Ingelheim for consulting and advisory role; honoraria from Roche, Novartis, Celgene, Eisai, Pﬁzer, Samsung Bioepis, Eli Lilly and Company, MSD, Daiichi Sankyo; research funding to institution from Roche, Ariad Pharmaceuticals, AstraZeneca, Baxalta, GMBH/Servier Affaires, Bayer Healthcare, Eisai, F. Hoffman-La Roche, Guardant Health, MSD, Pﬁzer, Piqur Therapeutics, Puma C, and Queen Mary University of London; stock, patents, and intellectual property from MedSIR; and travel, accommodation, and expenses from Roche, Novartis, Eisai, Pﬁzer, and Daiichi Sankyo, outside the submitted work. EH reports grants from Eli Lilly and Company, during the conduct of the study; grants and other from Pﬁzer, Silverback Therapeutics, Black Diamond, Daiichi, AstraZeneca, Novartis, Mersana, Cascadian Therapeutics, and Genentech/Roche; personal fees from Flatiron Health; 1580 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+grants and other from Cascadian Therapeutics, grants from Hutchinson MediPharma, grants from OncoMed, grants from MedImmune, grants from StemCentrx, grants from Abbvie, grants from Curis, grants from Verastem, grants from Zymeworks, grants from Syndax, grants from Lycera, grants from Rgenix, grants and other from Novartis, grants and other from Mersana, grants from TapImmune, grants from BerGenBio, grants from Tesaro, grants from Medivation, grants from Kadmon, grants from Boehringer Ingelheim, grants from Eisai, grants from H3 Biomedicine, grants from Radius Health, grants from Acerta, grants from Takeda, grants from MacroGenics, grants from Immunomedics, grants from FujiFilm, grants from Effector, grants from Syros, grants from Unum, grants and other from Daiichi, grants and other from AstraZeneca, grants from Sutro, grants from Aravive, grants from Deciphera, grants from Clovis, grants from Sermonix, grants from Zenith, grants from Arvinas, grants from ArQule, grants from Torque, grants from Harpoon, grants from Fochon, grants from Orinove, grants from Molecular Template, grants and other from Silverback Therapeutics, grants and other from Black Diamond, grants from Seattle Genetics, outside the submitted work. VA, RW, SB, SS, TF, SCN, BSA, MM, AS are fulltime employees of Eli Lilly and Company and/or Eli Lilly and Company shareholders. MT reports grants and personal fees for research and honoraria from Chugai, Takeda, Pﬁzer, Kyowa-Kirin, Taiho, Eisai, Daiichi-Sankyo, AstraZeneca, Shimadzu, Yakult, and Nippon Kayaku; other fees for advisory role for drug development from Kyowa-Kirin and DaiichiSankyo; research grants from JBCRG association, Astellas, AFI Technologies, Shionogi, and GL Science; personal and other fees from Eli Lilly and Company for advisory role; personal fees for honoraria from MSD, Exact Science, and Novartis; personal fees and other for honoraria and advisory role from Konica Minolta; other fees for honoraria and advisory role from Bristol Myers Squibb; other fees for advisory role from Athenex Oncology, Bertis, Terumo, and Kansai Medical Net; and serves as a board of director for JBCRG association, Organisation for Oncology and Translational Research, and Kyoto Breast Cancer Research Network, outside the submitted work. JO reports personal fees from Abbvie, Aptitude Health, AstraZeneca, Agendia, Bristol Myers Squibb, Celgene, Eisai, G1 Therapeutics, Genentech, Immunomedics, Eli Lilly and Company, Merck, Novartis, Pﬁzer, Puma Biotechnology, Roche/Genentech, and Seattle Genentech, outside the submitted work. DATA SHARING Lilly provides access to all individual participant data collected during the trial, after anonymization, with the exception of pharmacokinetic or genetic data. Data are available to request 6 months after the indication studied has been approved in the USA and EU or after primary publication acceptance, whichever is later. No expiration date for data requests is set once the data are made available. Access is provided after a proposal has been approved by an independent review committee identiﬁed Volume 32 - Issue 12 - 2021 
+
+N. Harbeck et al. 
+
+for this purpose and after receipt of a signed data-sharing agreement. Data and documents, including the study protocol, statistical analysis plan, clinical study report, and blank or annotated case report forms, will be provided in a secure data-sharing environment. For details on submitting a request, see the online instructions. REFERENCES 1. Goss PE, Ingle JN, Pritchard KI, et al. Extending aromatase-inhibitor adjuvant therapy to 10 years. N Engl J Med. 2016;375:209-219. 2. Francis PA, Pagani O, Fleming GF, et al. Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med. 2018;379:122137. 3. Nitz U, Gluz O, Christgen M, et al. Reducing chemotherapy use in clinically high-risk, genomically low-risk pN0 and pN1 early breast cancer patients: ﬁve-year data from the prospective, randomised phase 3 West German Study Group (WSG) PlanB trial. Breast Cancer Res Treat. 2017;165:573-583. 4. Martin M, Brase JC, Ruiz A, et al. Prognostic ability of EndoPredict compared to research-based versions of the PAM50 risk of recurrence (ROR) scores in node-positive, estrogen receptor-positive, and HER2negative breast cancer. A GEICAM/9906 sub-study. Breast Cancer Res Treat. 2016;156:81-89. 5. Goetz MP, Toi M, Campone M, et al. MONARCH 3: abemaciclib as initial therapy for advanced breast cancer. J Clin Oncol. 2017;35:3638-3646. 6. Finn RS, Martin M, Rugo HS, et al. Palbociclib and letrozole in advanced breast cancer. N Engl J Med. 2016;375:1925-1936. 7. Hortobagyi GN, Stemmer SM, Burris HA, et al. Updated results from MONALEESA-2, a phase III trial of ﬁrst-line ribociclib plus letrozole versus placebo plus letrozole in hormone receptor-positive, HER2negative advanced breast cancer. Ann Oncol. 2019;30:1842. 8. Hurvitz SA, Martin M, Press MF, et al. Potent cell-cycle inhibition and upregulation of immune response with abemaciclib and anastrozole in neoMONARCH, phase II neoadjuvant study in HR(þ)/HER2(-) breast cancer. Clin Cancer Res. 2020;26:566-580. 9. Johnston S, Puhalla S, Wheatley D, et al. Randomized phase II study evaluating palbociclib in addition to letrozole as neoadjuvant therapy in estrogen receptor-positive early breast cancer: PALLET trial. J Clin Oncol. 2019;37:178-189. 10. de Azambuja E, Cardoso F, de Castro G Jr, et al. Ki-67 as prognostic marker in early breast cancer: a meta-analysis of published studies involving 12,155 patients. Br J Cancer. 2007;96:1504-1513. 11. Chen X, He C, Han D, et al. The predictive value of Ki-67 before neoadjuvant chemotherapy for breast cancer: a systematic review and meta-analysis. Future Oncol. 2017;13:843-857. 12. Dowsett M, Smith IE, Ebbs SR, et al. Prognostic value of Ki67 expression after short-term presurgical endocrine therapy for primary breast cancer. J Natl Cancer Inst. 2007;99:167-170. 13. Smith I, Robertson J, Kilburn L, et al. Long-term outcome and prognostic value of Ki67 after perioperative endocrine therapy in postmenopausal women with hormone-sensitive early breast cancer (POETIC): an open-label, multicentre, parallel-group, randomised, phase 3 trial. Lancet Oncol. 2020;21:1443-1454. 
+
+Volume 32 - Issue 12 - 2021 
+
+Annals of Oncology 14. Coates AS, Winer EP, Goldhirsch A, et al. Tailoring therapies e improving the management of early breast cancer: St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2015. Ann Oncol. 2015;26:1533-1546. 15. Johnston SRD, Harbeck N, Hegg R, et al. Abemaciclib combined with endocrine therapy for the adjuvant treatment of HRþ, HER2-, nodepositive, high-risk, early breast cancer (monarchE). J Clin Oncol. 2020;38:3987-3998. 16. Mamounas EP, Tang G, Paik S, et al. 21-Gene Recurrence Score for prognosis and prediction of taxane beneﬁt after adjuvant chemotherapy plus endocrine therapy: results from NSABP B-28/NRG Oncology. Breast Cancer Res Treat. 2018;168:69-77. 17. Nielsen G, Gu Y, Weaver A, et al. Development of a novel clinical trial immunohistochemistry (IHC) assay using Ki-67, clone MIB-1, monoclonal antibody for Dako Omnis. VIRCHOWS ARCHIV Eur J Pathol. 2020;477:S1-S390. 18. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized deﬁnitions for efﬁcacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol. 2007;25:2127-2132. 19. Slud E, Wei LJ. Two-sample repeated signiﬁcance tests based on the modiﬁed Wilcoxon statistic. J Am Stat Assoc. 1982;77:6. 20. Cardoso F, Paluch-Shimon S, Senkus E, et al. 5th ESO-ESMO international consensus guidelines for advanced breast cancer (ABC 5). Ann Oncol. 2020;31:1623-1649. 21. Colleoni M, Sun Z, Price KN, et al. Annual hazard rates of recurrence for breast cancer during 24 years of follow-up: results from the international breast cancer study group trials I to V. J Clin Oncol. 2016;34:927935. 22. Mayer EL, Dueck AC, Martin M, et al. Palbociclib with adjuvant endocrine therapy in early breast cancer (PALLAS): interim analysis of a multicentre, open-label, randomised, phase 3 study. Lancet Oncol. 2021;22:212-222. 23. Loibl S, Marme F, Martin M, et al. Palbociclib for residual high-risk invasive HR-positive and HER2-negative early breast cancer-the penelope-B trial. J Clin Oncol. 2021;39:1518-1530. 24. Gelbert LM, Cai S, Lin X, et al. Preclinical characterization of the CDK4/ 6 inhibitor LY2835219: in-vivo cell cycle-dependent/independent antitumor activities alone/in combination with gemcitabine. Invest New Drugs. 2014;32:825-837. 25. Torres-Guzman R, Calsina B, Hermoso A, et al. Preclinical characterization of abemaciclib in hormone receptor positive breast cancer. Oncotarget. 2017;8:69493-69507. 26. Torres-Guzmán R, Ganado MP, Pérez CM, et al. Abemaciclib, a CDK4 and 6 inhibitor with unique pharmacological properties for breast cancer therapy. J Clin Oncol. 2021;39:e12506. 27. Turner NC, Slamon DJ, Ro J, et al. Overall survival with palbociclib and fulvestrant in advanced breast cancer. N Engl J Med. 2018;379:19261936. 28. Sledge GW Jr, Toi M, Neven P, et al. The effect of abemaciclib plus fulvestrant on overall survival in hormone receptor-positive, ERBB2-negative breast cancer that progressed on endocrine therapy-MONARCH 2: a randomized clinical trial. JAMA Oncol. 2020;6:116-124. 29. Polley MY, Leung SC, McShane LM, et al. An international Ki67 reproducibility study. J Natl Cancer Inst. 2013;105:1897-1906. 
+
+https://doi.org/10.1016/j.annonc.2021.09.015 
+
+1581 
+
+ 

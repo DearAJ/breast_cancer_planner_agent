@@ -1,0 +1,403 @@
+REVIEW 
+
+Extended adjuvant endocrine therapy in early breast cancer: ﬁnding the individual balance S. Lobo-Martins1 , L. Arecco1,2 , T. P. Cabral3 , E. Agostinetto1 , C. Dauccia1,4 , M. A. Franzoi5 , L. del Mastro2,6 , M. Lambertini2,6 , M. Piccart7 & E. de Azambuja1,7 1 
+
+Université libre de Bruxelles (ULB), Hôpital Universitaire de Bruxelles (H.U.B.), Institut Jules Bordet, Academic Trials Promoting Team, Brussels, Belgium; 2Department of Internal Medicine and Medical Sciences (DiMI), School of Medicine, University of Genova, Genova, Italy; 3Medical Oncology Department, Hospital de São Francisco Xavier, Unidade Local de Saúde Lisboa Ocidental, Lisbon, Portugal; 4Department of Medical Oncology, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy; University of Pavia, Pavia, Italy; 5Cancer Survivorship Group, Inserm Unit 981, Gustave Roussy, Villejuif, France; 6Medical Oncology Department, U.O.C. Clinica di Oncologia Medica, IRCCS Ospedale Policlinico San Martino, Genova, Italy; 7Université libre de Bruxelles (ULB), Hôpital Universitaire de Bruxelles (H.U.B.), Institut Jules Bordet, Brussels, Belgium 
+
+Available online 24 April 2025 
+
+Endocrine therapy (ET) is a cornerstone in the management of patients with hormone receptor-positive early breast cancer, which accounts for over 70% of cases worldwide. The efﬁcacy of adjuvant ET for 5 years in reducing the risk of recurrence and improving survival outcomes is well documented. However, the risk for late relapses, occurring >5 years after initial treatment, has prompted exploration of longer treatment durations. Extending ET beyond the traditional 5-year period offers additional beneﬁt in reducing the risk of recurrence and improving long-term outcomes. Nevertheless, determining the optimal duration and identifying suitable candidates for extended therapy is often nuanced. This review aims to comprehensively evaluate the current landscape of extended ET in breast cancer management. It provides an overview of the rationale behind extending endocrine treatment in both premenopausal and postmenopausal women, with a focus on clinical trials and observational studies supporting extended therapy. Furthermore, it emphasizes the signiﬁcance of considering associated toxicities in patient management. It also explores novel strategies involving the combination of ET with new drugs, leading to an evolution of treatment paradigms that may make the need for extended therapy obsolete. Key words: breast cancer, hormone receptor-positive, extended endocrine therapy, adjuvant, early setting, predictive tools 
+
+INTRODUCTION Hormone receptor-positive breast cancer (BC) is deﬁned by the positive expression of estrogen receptors (1%) and/or progesterone receptors (1%).1-3 This subtype stands as the most common, accounting for almost 70% of all BC diagnoses.4 Adjuvant endocrine therapy (ET) with tamoxifen, a selective estrogen receptor modulator (SERM), demonstrated its impact in reducing risk of relapse in early BC.5 Comparably, aromatase inhibitor (AI) can further reduce this risk by w30%.6,7 A standard duration of 5 years of adjuvant ET is indicated for all hormone receptor-positive BC, unless contraindicated.2 *Correspondence to: Dr Soraia Lobo-Martins, Institut Jules Bordet, Rue Meylemeersch, 90 (Rez Haut Nord), B-1070 Anderlecht, Belgium E-mail: soraialobomartins@gmail.com (S. Lobo-Martins). Prof. Evandro de Azambuja, Institut Jules Bordet, Rue Meylemeersch, 90 (Rez Haut Nord), B-1070 Anderlecht, Belgium E-mail: evandro.deazambuja@hubruxelles.be (E. de Azambuja). 2059-7029/© 2025 The Authors. Published by Elsevier Ltd on behalf of European Society for Medical Oncology. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+Volume 10 - Issue 5 - 2025 
+
+Despite such approach, risk of relapse in patients with hormone receptor-positive BC remains even 20 years after the initial diagnosis. In a meta-analysis led by the Early Breast Cancer Trialists Collaborative Group (EBCTCG) on >80 trials and 80 000 patients, the rate of distant relapse at 15 years after ﬁnishing 5 years of adjuvant ET ranged from 13% to 41%, according to disease stage and tumour grade, and the tumour diameter and nodal status represented the strongest prognostic factors.8 Thus, extended adjuvant ET (EET) has been the subject of intense research activity in the last few years. The choice of the type and duration of ET for each patient in clinical practice is multifactorial and must consider, among others, patient menopausal status, risk of recurrence, ET toxicity proﬁle, and patient preferences.2 This review evaluates the current landscape of EET in BC, highlighting the rationale for extending treatment in premenopausal and postmenopausal women based on clinical trials and observational studies. We also discuss associated toxicities and explore novel combination strategies with new drugs to inform evolving treatment approaches (Figure 1). https://doi.org/10.1016/j.esmoop.2025.105057 
+
+1 
+
+ESMO Open 
+
+S. Lobo-Martins et al. 
+
+Figure 1. Summary of recommendations for adjuvant endocrine therapy for hormone receptor-positive/HER2-negative breast cancer. AI, aromatase inhibitor; CDK4/6i, cyclin-dependent kinase 4/6 inhibitor; ET, endocrine therapy; OFS, ovarian function suppression; PARPi, poly (ADP-ribose) polymerase inhibitor; Tam, tamoxifen. a Higher-risk characteristics include intermediate to high-grade or higher-risk genomic signature, lower ER expression, higher baseline Ki67, or lack of decline in Ki67 with preoperative ET. b High-risk criteria deﬁned according to the inclusion criteria of the monarchE, NATALEE, and OlympiA trialsdfor more complete information, please refer to Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop.2025.105057. Created with BioRender.com. 
+
+PREMENOPAUSAL WOMEN Menopausal status is a clear prognostic factor in patients with hormone receptor-positive early BC, even for late 2 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+recurrences.8,9 Evaluating menopausal status before starting adjuvant ET is crucial, as ongoing ovarian estrogen production inﬂuences therapy choice. In patients with Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. 
+
+chemotherapy-induced amenorrhea, testing folliclestimulating hormone and oestradiol levels can help assess menopausal state, though these levels may temporarily mimic postmenopausal status, with ovarian function potentially recovering up to 2 years after chemotherapy.10 Though this hormonal change has a direct impact on the choice of the best adjuvant ET,11,12 adjuvant tamoxifen remains a standard approach in premenopausal patients.5 Given the greater reduction in recurrence risk with an AI compared with tamoxifen in postmenopausal women,6 studies questioned the effect of ovarian function suppression (OFS) in premenopausal patients with hormone receptor-positive BC, along with its combination with an AI or a SERM. A combined analysis of the SOFT and TEXT studies demonstrated signiﬁcantly higher 12-year rates of disease-free survival (DFS) but not overall survival (OS) when comparing exemestane plus OFS and tamoxifen plus OFS.13 High-risk patients exposed to chemotherapy beneﬁt more from combining OFS with AI.13 These results establish OFS as an important consort to adjuvant ET in premenopausal women.1 Additionally, a meta-analysis of four randomized clinical trials (RCTs) indicated a lower 5-year recurrence rate with OFS with AI compared with tamoxifen (6.9% versus 10.1%, P ¼ 0.0005).7 As referred, the choice of adjuvant ET in premenopausal women include tamoxifen alone, or OFS combined with tamoxifen or AI.11,12 Escalating treatment with cyclindependent kinase 4/6 inhibitors (CDK4/6i) and poly (ADPribose) polymerase inhibitors (PARPi) has shown beneﬁts in high-risk patients,14-16 but the optimal duration of adjuvant ET beyond the 5 years remains unclear. The composite-risk Subpopulation Treatment Effect Pattern Plot score was designed to illustrate the similarities between patients in SOFT and TEXT with characteristics of the patient tested regarding response to ET þ OFS in a median follow-up of 8-9 years. The composite-risk value was obtained from a Cox model that incorporated age, nodal status, tumour size, grade and estrogen receptor, progesterone receptor, and Ki-67 labelling index expression levels. Although not a prediction model, it allows the clinician to better understand those in need of escalating therapy in the ﬁrst 5 years, as this score provides knowledge of absolute improvements in 8-year freedom from distant recurrence with exemestane plus OFS versus tamoxifen plus OFS or tamoxifen alone. As the potential beneﬁt of escalating ET is higher in high recurrence risk, these patients may beneﬁt from ET (available at https:// rconnect.dfci.harvard.edu/CompositeRiskSTEPP/).17 Current literature on selection of EET in premenopausal patients rely solely on subgroup analyses conducted within RCTs (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop.2025.105057). EET after upfront 5 years of tamoxifen The ATLAS trial explored the beneﬁt of 5 additional years of tamoxifen versus no EET following an initial 5 years of tamoxifen. In total, 12 894 women with early BC were enrolled, but only 1058 (8%) of them were identiﬁed as Volume 10 - Issue 5 - 2025 
+
+ESMO Open premenopausal at the time of trial enrolment.18 In the overall population, EET resulted in reduced risk of recurrence [rate ratio (RR) 0.85, standard error (SE) 0.05, P ¼ 0.001]. BC-speciﬁc mortality (RR 0.84, SE 0.06, P ¼ 0.006) and overall mortality (RR 0.89, SE 0.04, P ¼ 0.01) were also improved (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop.2025.1050 57).18 When analysing the subgroup of premenopausal patients, similar results have been shown, where 64 of 326 patients (20%) in the EET arm and 73 of 304 patients (24%) in the control arm experienced recurrences after 10 years from randomization (RR 0.81, SE 0.15). Similarly, the aTToM study evaluated the beneﬁt of extending tamoxifen therapy to 10 years after 5 years of tamoxifen therapy, without age or menopausal state restriction. Overall, continuation of tamoxifen reduced BC recurrence (P ¼ 0.003) and BC mortality (P ¼ 0.05) (Figure 2 and Supplementary Table S1, available at https://doi.org/ 10.1016/j.esmoop.2025.105057). It is worth noting that the study was initially presented as an abstract and has not been formally published, with the data on the premenopausal population remaining undisclosed.19 A third but negative study, the NSABP B-14 trial, aimed to assess the efﬁcacy of EET with tamoxifen after 5 years of tamoxifen. It is of note that this trial enrolled only patients with node-negative disease. A total of 1172 women were enrolled of whom 26% were aged <50 years. This trial demonstrated no beneﬁt for EET, regardless of age.20 As menopausal status ﬂuctuates over the standard 5-year adjuvant ET period, trials beyond this timeframe for postmenopausal patients randomize those who were premenopausal at diagnosis and became postmenopausal during this period. It is the case of the NCIC CTGeMA.17 trial, designed to evaluate the efﬁcacy of EET with 5-year letrozole in postmenopausal women who have completed 5 years of adjuvant tamoxifen (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop. 2025.105057).21 Among the 5166 patients included, 877 were categorized as premenopausal when starting adjuvant tamoxifen. Overall, EET with letrozole notably increased DFS and revealed a marginal advantage in distant DFS (DDFS) for premenopausal women. It is of note that premenopausal women at diagnosis experienced a greater DFS beneﬁt with letrozole in EET than those postmenopausal at diagnosis [hazard ratio (HR) 0.26, P ¼ 0.0003 versus HR 0.67, P ¼ 0.006; respectively].22 Premenopausal patients with positive nodes had a signiﬁcant difference between letrozole and placebo in 4-year DFS [93.8% versus 85.0%, HR 0.40, 95% conﬁdence interval (CI) 0.18-0.85]. Results on premenopausal women with negative nodes cannot be analysed due to the fact that no events were observed in the letrozole arm, while 15.0% of premenopausal patients in the placebo arm had a 4-year DFS event.22 EET after ovarian function suppression There are no data so far supporting the continuation of ET beyond the ﬁfth year in premenopausal patients treated https://doi.org/10.1016/j.esmoop.2025.105057 
+
+3 
+
+ESMO Open 
+
+S. Lobo-Martins et al. 
+
+Figure 2. Summary of extended adjuvant endocrine therapy trials for hormone receptor-positive/HER2-negative breast cancer. The solid ﬁll background represents the period before trial randomization. The pills are colour-coded as follows: orange for tamoxifen, blue for AI, and yellow for any ET before randomization. For more detailed information on the clinical trials design and results, please consult Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop.2025.105057. AI, aromatase inhibitor; CI, conﬁdence interval; CT, chemotherapy; DFS, disease-free survival; ET, endocrine therapy; Exe, exemestane; HR, hazard ratio; Nþ, node positive disease; NR, not reported; OS, overall survival; Tam, tamoxifen. a The trials of extended tamoxifen therapy showed a time-dependent HR. After 10 years (i.e. 5 years after random assignment), the HR was 0.75 for DFS, but it was lower in earlier years of follow-up. b Adjusted Cox models for unbalanced demographic and disease characteristics. c Starting 3 years after randomization. 
+
+4 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. 
+
+with 5 years of OFS in combination with either tamoxifen or exemestane. EET in these patients must be based on patient-adapted riskebeneﬁt ratio and menopausal status after the ﬁrst 5 years of adjuvant ET.2,12 A phase II study aiming to answer this question had been initiated by including patients who had already received >4.5 years of OFS to receive an additional 2 years of OFS; however, enrolment was discontinued after only 16 patients had been included out of a planned 50 patients, and the main reason was the difﬁculty for patients to tolerate OFS longer than the ﬁrst 5 years. Poor accrual suggests that young women may not be highly motivated to pursue longer time of OFS and that future studies of this approach may be challenging.23 EET in premenopausal patients is currently a subject of debate. This is due to lack of data on the beneﬁt of EET in patients with a high risk of recurrence who received 5 years of OFS with tamoxifen or AI. It is in such populations where potential candidates for EET reside. Furthermore, there are no available data on the beneﬁt of EET in premenopausal patients who received targeted drugs, such as CDK4/6i or PARPi. However, new trials involving oral selective estrogen receptor degraders (SERDs), such as CAMBRIA-1 (NCT05774951) and CAMBRIA-2 (NCT05952557), mandate the use of OFS for premenopausal women (in the experimental arm for CAMBRIA-1 and for both arms in CAMBRIA2), which will provide future data on extending OFS beyond 5 years.24,25 POSTMENOPAUSAL WOMEN Over 70% of new cases of BC were diagnosed in women over the age of 55 years in 2022 in the United States.26 As in premenopausal women, the continuation of ET beyond 5 years must be based on the riskebeneﬁt ratio, depending on risk of recurrence, previous treatments, competing comorbidities, side-effects, and patient’s preference (Figure 1).27 Based on the upfront strategy taken for the ﬁrst 5 years of adjuvant ET, different options for the extended period have been studied (Figure 2 and Supplementary Table S1, available at https://doi.org/10. 1016/j.esmoop.2025.105057). EET after upfront 5 years of tamoxifen Two studies have evaluated an additional 5 years of tamoxifen after an initial 5 years of tamoxifen: ATLAS18 and aTTom trials (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop.2025.105057). Both studies demonstrated a reduction in recurrence, BC mortality, and OS, with RR dependent on time [in ATLAS, BC outcomes presented an RR of 0.90 (95% CI 0.79-1.02) during years 5-9 and 0.75 (0.62-0.90) in later years].18,19 Alternatively, the EET can be proposed with 5 years of AI after 5 years of tamoxifen. Two trials, the MA.1728-30 and the NSABP B-3331 studies, investigated this option (Figure 2 and Supplementary Table S1, available at https://doi.org/ 10.1016/j.esmoop.2025.105057). In MA.17, risk of relapse, locoregional and distant, was reduced with EET by 4.6% and Volume 10 - Issue 5 - 2025 
+
+ESMO Open 2.9%, respectively (5-year DFS, HR 0.37, 95% CI 0.23-0.61; 5year DDFS, HR 0.38, 95% CI 0.20-0.73).28,29 This beneﬁt was seen independently of lymph node status and previous use of chemotherapy. Improvement in OS was demonstrated only in the subgroup of patients with axillary lymph node involvement (node-positive: HR 0.61, 95% CI 0.38-0.98; node-negative: HR 1.52, 95% CI 0.76-3.06).28,30 In the NSABP B-33 study, where 44% of patients crossed over from placebo to AI after unblinding, there was no difference in OS. However, exemestane exhibited a tendency for better DFS, particularly in node-positive disease (DFS, HR 0.50, 95% CI 0.30-0.86).31 In the ABCSG-6a trial, patients who remained disease free after 5 years of tamoxifen were randomized to receive either 3 years of anastrozole or no further treatment (Figure 2 and Supplementary Table S1, available at https:// doi.org/10.1016/j.esmoop.2025.105057). Risk of recurrence, local and distant, was reduced with additional treatment (HR 0.62, 95% CI 0.40-0.96).32 
+
+EET after sequencing tamoxifen and AI After 2-3 years of tamoxifen, patients can be proposed to switch to 2-3 years of AI (total of 5 years of adjuvant ET) or extended adjuvant AI to a total of 7/8 years of adjuvant ET (Figure 2 and Supplementary Table S1, available at https:// doi.org/10.1016/j.esmoop.2025.105057). In the GIM-4 trial, a total duration of 8 years of ET led to signiﬁcant advantages in both invasive DFS (iDFS) and OS, with absolute increases of 5% and 4%, respectively.33 It should be noted that patients with stage I-III histologically proven and operable invasive hormone receptor-positive BC were eligible and w40% of the patients included had nodepositive disease. DFS beneﬁt was more pronounced in patients 55 years old or more, and with node-negative disease.33 The greater beneﬁt in node-negative patients may result from the timing of randomization, which occurred after 2-3 years of tamoxifen; high-risk patients, such as those with node-positive disease, may have already experienced recurrence by that point and thus were not eligible for enrolment. In the NSABP B-4234,35 and AERAS36,37 trials, postmenopausal women were randomized to an additional 5 years of AI after 5 years of adjuvant ET (sequencing tamoxifen and AI, or just AI) (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop. 2025.105057). In both studies the exposure to tamoxifen was low. In NSABP B-42, w70% of patients received >4 years of AI as previous therapy. Those who received tamoxifen presented a better DFS (HR 0.75, 95% CI 0.570.99; versus no tamoxifen, HR 0.91, 0.75-1.10), and for the entire population, the beneﬁt in DFS was only seen after a median follow-up of 10 years.34,35 In the AERAS trial, although only 10% of patients had received tamoxifen, 10 years of adjuvant ET was associated with a 7.5% absolute reduction at 5-year DFS.36,37 Neither study demonstrated OS advantages. https://doi.org/10.1016/j.esmoop.2025.105057 
+
+5 
+
+S. Lobo-Martins et al. 
+
+ESMO Open In trying to understand the adequate time duration of EET, the DATA study demonstrated a better tendency favouring EET with 6 years of anastrozole in DFS compared with 3 years of anastrozole (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop. 2025.105057).38 An exploratory subgroup analysis revealed a greater beneﬁt with 6 years of EET in patients who had received chemotherapy (10-year DFS, absolute beneﬁt of 3.9%).38 Two studies compared 7-7.5 years to 10 years of EET with no improvements in outcomes, DFS or OS (Figure 2 and Supplementary Table S1, available at https://doi.org/10. 1016/j.esmoop.2025.105057). In the IDEAL trial, 60% of patients were previously treated with sequential tamoxifen and AI, and 25% did not have nodal involvement.39 In the ABCSG-16 trial, 40% received sequential and 30% presented positive lymph node disease.40 More recently, a prospective-retrospective translational study of IDEAL demonstrated that patients at high risk of recurrence assessed by the Breast Cancer Index (BCI) derived an absolute beneﬁt of 9.8% on recurrence with 10 years of adjuvant ET (HR 0.42, 95% CI 0.21-0.84, P ¼ 0.011).41 However, these ﬁndings suggest that patients who receive AI upfront are unlikely to gain additional beneﬁt from extending ET beyond 7-8 years, emphasizing the need for careful patient selection in determining EET duration. EET after 10 years of ET In the MA.17R, 1918 postmenopausal women who had already completed a full 10 years of adjuvant ET [4.5-6 years of tamoxifen (w70%) followed by 4.5-6 years of AI] were randomized to receive an additional 5 years of letrozole or placebo (Figure 2 and Supplementary Table S1, available at https://doi.org/10.1016/j.esmoop.2025.105057).42 Despite DFS favouring EET (P ¼ 0.01), distant recurrence differences were modest (4.4% for letrozole versus 5.5% for placebo) and no OS beneﬁt was demonstrated.42 Alternative regimens Trying to overcome secondary resistance to ET, the SOLE trial assessed the superiority of intermittent versus continuous letrozole, for an additional 5 years in postmenopausal women who were relapse free after 4-6 years of adjuvant ET.43,44 The biological rational was based on animal models, where resistance was reversed with intermittent treatment with AI. The trial did not meet its primary endpoint, with similar 7-year DFS (HR 1.03, P ¼ 0.64) and similar rates of reported adverse events (AEs) in both arms.43,44 Intermittent administration was associated with less symptom worsening during the ﬁrst year of treatment, particularly hot ﬂushes, vaginal problems, musculoskeletal pain, sleep disturbances, physical well-being, and mood alterations.45 Although not designed for non-inferiority, intermittent administration might be considered for women experiencing decreased quality of life (QoL) due to symptom burden. 6 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+Haddad et al. showed a threefold increase in risk of BC events, for patients who presented higher levels of estrone or oestradiol while on anastrozole therapy.46 Among postmenopausal women, they studied the role of high doses of anastrozole in patients with inadequate suppression of estrogen levels (w30% of the population in the study). With dose escalation, the majority achieved adequate values of suppression.46 Hence, we are now facing a shift in the paradigm of the standard doses of ET, especially in the concept of ‘one size ﬁts all’. 
+
+NEW COMBINATIONS New targeted agents such as CDK4/6i or PARPi have contributed for important improvements in survival outcomes for the metastatic setting. Several trials evaluated the role of these compounds in the adjuvant setting (Table 1). Initial ﬁndings from the PALLAS and Penelope-B trials, which investigated the use of palbociclib in combination with adjuvant ET in high-risk patients, failed to show improved outcomes, and therefore, palbociclib is not approved in the adjuvant setting.14,47-50 On the contrary, in the monarchE trial, the addition of 2 years of abemaciclib to ET showed an absolute increase of 7.6% and 6.7% in 5-year iDFS and DDFS, respectively.15,51 Likewise, the results for the NATALEE trial showed that ribociclib induces an absolute beneﬁt of 3.3% and 2.2% in terms of iDFS and DDFS, respectively, at 3 years (P < 0.005) and follow-up of patients continue in this trial.16,52 Of note, w30% of patients eligible for NATALEE would not be eligible for monarchE. In the OlympiA trial, adjuvant olaparib demonstrated signiﬁcant survival beneﬁts in patients with germline BRCA 1/2 pathogenic or likely pathogenic variants in human epidermal growth factor receptor 2 (HER2)-negative BC, with a 9.9% increase in 3-year iDFS and 3.4% increase in 4year OS.14,53 These beneﬁts also exist in the subgroup of hormone receptor-positive BC patients, although with limited data due to their smaller representation in the trial (18.2%).14,53 For patients eligible for both CDK4/6i and olaparib, the best option or sequence is yet unknown.54 The 2024 European Society for Medical Oncology (ESMO) guidelines do not recommend combining the two therapies, but do consider the possibility of sequential therapy starting with olaparib.1 The implications of extended duration of ET combined with CDK4/6i remain uncertain, as the carry-over effect of these drugs is not well established. In monarchE, 2 years of abemaciclib has impacted iDFS at 5 years, while palbociclib did not seem to present the same effect in the Penelope-B trial.49,51 Currently, the long-term impact of the addition of these agents is still unknown. Patients included in these four trials will receive at least 5 years of ET. However, how many will extend adjuvant treatment with ET is not clear. Moreover, since these patients are at high risk, it is advisable to continue EET for at least 7-8 years and in some cases up to 10 years. Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. 
+
+ESMO Open 
+
+Table 1. Summary of trials of ET combined with CDK4/6 or PARP inhibitors in hormone receptor-positive/HER2-negative breast cancer PALLAS47,48,107 
+
+Penelope-B49,108 
+
+monarchE15,51,109,110 
+
+NATALEE16,52,111 
+
+OlympiA14,53,112 
+
+Men and women Pre- and postmenopausal Stage II Stage III N0-N3 
+
+Women Pre- and postmenopausal Residual invasive disease after NACT 16 weeks (including 6 weeks of taxane) CPSþEG 3 or 2 if ypNþ N0-N3 
+
+Men and women Pre- and postmenopausal Cohort 1 4 ALN or 1-3 ALN and tumour size 5 cm and/or G3 Cohort 2 1-3 ALN and Ki-67 20% 
+
+Men and women Pre- and postmenopausal Stage III Stage IIB and IIA N1 Stage IIA N0 G3 or N0 G2 and Ki-67 20% or high risk by genetic test 
+
+ET partner 
+
+AI or Tam (LHRH agonist) Palbociclib 125 mg q.d. (3 weeks on/1 week off) 2 years 
+
+Standard adjuvant ET (AI, Tam  LHRH agonist) Abemaciclib 150 mg b.i.d. 
+
+LET or ANA (LHRH agonist) 
+
+Dose 
+
+Standard adjuvant ET (AI, Tam  LHRH agonist) Palbociclib 125 mg q.d. (3 weeks on/1 week off) w13 months 
+
+Men and women Pre- and postmenopausal Neoadjuvant group TNBC: non-pCR HRþ/HER2a: non-pCR and CPSþEG score 3 Adjuvant group TNBC: pT2 or pN1 HRþ/HER2a: 4 ALN Standard adjuvant ET for HRþ/HER2 
+
+52 (45-61) years 54%b 56% 
+
+Trial design Sex Menopausal status Disease severity 
+
+Duration of TKI Baseline characteristic Age Median (min-max) Menopausal status Men and prePostmenopausal Anatomical stage IIA/IIB III Nodal status at diagnosis N0/N1/N2-3 Prior (neo)adj CT Study efﬁcacy Median follow-up iDFS 3 years HR DDFS 3 years 
+
+Olaparib 300 mg b.i.d. 
+
+2 years 
+
+Ribociclib 400 mg q.d. (3 weeks on/1 week off) 3 years 
+
+49 (22-76) years 
+
+51 (23-89) years 
+
+52 (24-90) years 
+
+42 (36-49) years 
+
+47% 53% 
+
+43% 57%c 
+
+44% 56% 
+
+62% 38% 
+
+12%/14% 74% 
+
+20%/20% 60% 
+
+1 year 
+
+13%/49%/38% 83% 
+
+11%e/69%e/20%e 100%e 
+
+0%/40%/66% 98% 
+
+27%/41%/19% 88% 
+
+57%d/15%d 22%d o NR 100% 
+
+31 months 
+
+43 months 
+
+54 months 
+
+28 months 
+
+42 months 
+
+88.2% versus 88.5% 
+
+81.2% versus 77.7% 
+
+89.2% versus 84.4% 
+
+90.4% versus 87.1% 
+
+0.96 (0.81-1.14) 
+
+0.93 (0.74-1.17) 
+
+0.68 (0.60-0.77) 
+
+0.75 (0.62-0.91) 
+
+86.1% versus 77.3% 0.63 (0.50-0.78) HRþ/HER2, 0.68 (0.40-1.13) 
+
+89.3% versus 90.7% 
+
+NR 
+
+90.9% versus 86.7% 
+
+90.8% versus 88.6% 
+
+0.68 (0.59-0.77) 
+
+0.74 (0.60-0.91) 
+
+17%/34% 49% 
+
+d d 
+
+HR 
+
+1.05 (0.87-1.28) 
+
+OS 3 years 
+
+96.8% versus 96% 
+
+93.6% versus 90.5% 
+
+Immature data 
+
+Immature data 
+
+HR 
+
+1.32 (0.98-1.78) 
+
+0.87 (0.61-1.22) 
+
+0.90 (0.75-1.09) 
+
+0.76 (0.54-1.07) 
+
+88.0% versus 81.0% 0.61 (0.48-0.77) HRþ/HER2, 0.69 (0.40-1.18) 92.8% versus 89.1% 0.68 (0.47-0.97) HRþ/HER2, 0.90 (0.50-1.78) 
+
+Toxicity 
+
+Any grade 
+
+Grade ‡3 
+
+Any grade 
+
+Grade ‡3 
+
+Any grade 
+
+Grade ‡3 
+
+Any grade 
+
+Grade ‡3 
+
+Any grade 
+
+Grade ‡3 
+
+Neutropenia, % Diarrhoea, % Nausea, % Fatigue, % Arthralgia, % QT prolongation, % Discontinuation rate 
+
+83.5 16.7 19.4 41.0 38.2 d 44.9% 
+
+62.0 0.7 0.2 2.1 1.1 d 
+
+95.7 18.3 23.7 66.4 41.2 d 17.5 
+
+70.0 0.2 0.3 2.7 0.8 d 
+
+26.3 75.7 29.1 38.0 26.2 d 27.7% 
+
+19.7 7.8 0.5 2.9 0.3 d 
+
+62.1 14.2 23.0 21.9 36.5 4.2 19% 
+
+43.8 0.6 0.2 0.7 1.0 0.2 
+
+16.0 17.6 56.9 40.1 9.2 d 10.8% 
+
+4.9 0.3 13.3 1.8 0.2 d 
+
+AI, aromatase inhibitor; ALN, axillary lymph node; ANA, anastrozole; b.i.d., twice daily; CDK4/6, cyclin-dependent kinase 4/6; CPSþEG, clinical pathological staging-estrogen receptor grading; CT, chemotherapy; DDFS, distant disease-free survival; ET, endocrine therapy; G, grade; HR, hazard ratio; HRþ/HER2, hormone receptor-positive/human epidermal growth factor receptor 2-negative; iDFS, invasive disease-free survival; LET, letrozole; LHRH, luteinizing hormone-releasing hormone; N, node; NACT, neoadjuvant CT; NR, not reported; OS, overall survival; PARP, poly (ADP-ribose) polymerase; pCR, pathological complete response; q.d., once daily; Tam, tamoxifen; TKI, tyrosine-kinase inhibitor; TNBC, triple-negative breast cancer. a In OlympiA, 18.2% of patients had HRþ/HER2 BC (results are presented for both TNBC and HRþ/HER2 BC). b Men not included. c In monarchE, all men were considered postmenopausal. d Pathological staging only in the adjuvant group. e Clinical nodal status by sonography. 
+
+Volume 10 - Issue 5 - 2025 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+7 
+
+S. Lobo-Martins et al. 
+
+ESMO Open 
+
+Figure 3. Toxicity of standard duration of ET versus extended ET. AI, aromatase inhibitor; EET, extended endocrine therapy; Tam, tamoxifen. Created with BioRender.com. 
+
+ADVERSE EVENTS AND TOXICITIES Despite the demonstrated beneﬁt on clinical outcomes,55 adjuvant ET with tamoxifen or AI is associated with sideeffects that can negatively impact QoL and treatment adherence (Figure 3).56 Early discontinuation and nonadherence to ET have been linked to increased mortality in BC survivors57 and the rate of discontinuation range from 31% to 73% after 5 years of adjuvant ET.58 Importantly, early discontinuation is also substantial within the ﬁrst 5 years, varying between 35% and 50%.56,59 Therefore, continuous monitoring of side-effects and optimizing their management are paramount. Osteoporosis and bone fractures Circulating estrogens play a crucial role in regulating bone turnover by inﬂuencing osteoblastic and osteoclastic 8 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+activities.60 Consequently, estrogen deﬁciency increases the rate of bone loss leading to osteoporosis and a higher risk of bone fractures. In postmenopausal women, adjuvant tamoxifen plays an estrogen-agonistic effect on bone, reducing bone loss.61 However, its effects on bone density can vary depending on the menopausal status. In premenopausal women it can induce bone loss, especially in the lumbar spine, increasing the risk of osteoporosis.62,63 Bone fracture rates were similar in 10 versus 5 years of adjuvant tamoxifen (RR 0.86, 95% CI 0.61-1.21).18 Bone-related toxicities seem to be higher in patients receiving EET with AI. In trials such as MA.17 and ABCSG-6a, where patients switched from tamoxifen to extended AI therapy, differences were observed in fracture rates. The ABCSG-6a trial, which involved an additional 3 years of AI, showed similar fracture incidence between treatment arms (0.8% for observation versus 1.1% for anastrozole),32 Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. 
+
+whereas the MA.17 trial, with an additional 5 years of AI, reported increased clinical fractures (5.2% versus 3.1%, P ¼ 0.02) and diagnoses of osteoporosis (5.3% versus 1.6%, P < 0.0001).29 Moreover, in trials with sequential ET with tamoxifen followed by AI, such as GIM-4, DATA, and AERAS, increased rates of fractures, osteoporosis, and osteopenia were consistently observed.33,37,38 However, the NSABP-42 trial reported similar incidence of osteoporotic fractures (4.8% versus 5.4%).34 For those treated with AI for 10 years, such as in the MA.17R trial, even with bisphosphonate use, prolonged AI therapy for 10 years was associated with a higher incidence of fractures, highlighting the ongoing risk despite preventive measures (14% versus 9%, P ¼ 0.001).42 In addition to ﬁndings from individual trials, two metaanalyses, of 7 and 11 RCTs, revealed an increase in bone fractures in the group of patients treated with extended AI [odds ratio (OR) 1.34, 95% CI 1.16-1.55; and OR 1.33, 95% CI 1.18-1.59, respectively].64,65 Given the signiﬁcant impact of EET on bone health, in both premenopausal and postmenopausal women, it is crucial to clearly explain the potential risks of bone loss and fractures to all patients before the start of treatment. Implementing proactive strategies and lifestyle modiﬁcation to prevent osteoporosis and fractures is essential to reduce the risk of complications associated with EET. Weightbearing exercises, adequate calcium and vitamin D intake, and smoking cessation can signiﬁcantly contribute to maintain bone health.63,66 Additionally, close monitoring of bone density and early intervention with pharmacological agents are key components of fracture prevention strategies.63,67 Endometrial cancer The use of tamoxifen is associated with an increased risk of endometrial cancer and the incidence appears to increase when prolonging therapy beyond 5 years.5,68 The aTTom trial showed an increased risk of endometrial cancer with 10 years of tamoxifen versus 5 years (RR 2.20, 95% CI 1.312.34) with more endometrial cancer death (1.1% versus 0.6%, absolute hazard 0.5%, P ¼ 0.02).19 Similarly, in the ATLAS trial, endometrial cancer incidence during years 5-14 was 3.1% in the prolonged tamoxifen arm versus 1.6% in the control arm (RR 1.74, 95% CI 1.30-2.34).18 Cardiovascular adverse events Circulating estrogens play a role in cardiometabolic health. Among patients with early BC, cardiovascular death emerges as a signiﬁcant competing risk, in particular for older woman 5 years after the diagnosis.69 Lowering circulating estrogen levels is associated with detrimental effects on both blood vessels and myocardium.70 Ten years of tamoxifen use was associated with higher rates of pulmonary embolus (RR 1.87, 95% CI 1.13-3.07) and lower rates of ischaemic heart disease (RR 0.75, 95% CI 0.60-0.95). Additionally, the risk of stroke was similar in the two arms (RR 1.06, 95% CI 0.83-1.36).18 Compared with tamoxifen, the use of AI is associated with higher incidence of Volume 10 - Issue 5 - 2025 
+
+ESMO Open cardiovascular disease, and prolonged therapy is associated with even higher risk.64,71 The impact of EET on cardiovascular toxicity is still controversial. The MA.17 trial revealed no signiﬁcant difference in cardiovascular events between treatment arms (4.1% versus 3.1%, P ¼ 0.17).29 In sequential ET trials such as GIM-4 and DATA, no disparities in cardiovascular events were observed, while GIM-4 showed a higher incidence of grade 1 hypertension (1.8% versus 0.7%).33,38 However, the NSABP B-42 study reported increased thrombotic events following prolonged letrozole therapy (HR 1.85, 95% CI 1.18-2.88).34 On the other hand, the MA.17R trial, involving 10 years of AI therapy, showed no signiﬁcant difference in cardiovascular events (12% versus 10%, P ¼ 0.21).42 These ﬁndings emphasize the necessity for tailored approaches to mitigate cardiac toxicity risks in patients with hormone receptor-positive BC undergoing EET. Quality of life and adherence QoL and adherence are critical considerations in the use of EET. Ferreira et al. revealed that QoL deterioration can persist up to 2 years after diagnosis, with ET having a more signiﬁcant negative impact than chemotherapy.72 This underscores the need for careful patient selection when considering ET escalation, as long-term QoL impacts may inﬂuence treatment tolerance. Persistent, bothersome symptoms, such as insomnia, fatigue, menopausal symptoms, and arthralgia, often lead to early discontinuation of ET. Pistilli et al. further highlighted adherence issues, ﬁnding that 16% of patients had tamoxifen serum levels below the adherence threshold, despite more than half of these patients self-reporting adherence.73 Nonadherent patients demonstrated signiﬁcantly shorter DDFS.73 Although there is limited evidence on QoL speciﬁcally in EET, smaller studies, such as that by Kool et al.74, provide some insights. Larger prospective cohorts, such as the CANTO study (NCT01993498),75 may offer valuable insights into patientreported outcomes in EET, addressing the ongoing need to balance efﬁcacy with tolerability in long-term therapy. PREDICTING LATE RELAPSES Hormone receptor-positive BC is the most susceptible subtype of late recurrences,8,9 with around 20%-40% of patients developing distant metastasis, half of which occur 5 or more years after the primary tumour diagnosis.76 This underscores the importance of predicting the personal risk and of adjusting adjuvant ET accordingly. Continuing adjuvant ET beyond 5 years must be considered based on a riskebeneﬁt assessment, as EET is associated with AEs that must be weighed in the therapeutic decision. While traditional criteria such as tumour size, lymph node involvement, and tumour grade consistently correlate with late recurrences,77-79 determining which patients are at real risk of late recurrences remains challenging. In recent years, various tools have emerged to aid physicians in this effort, assessing both adjuvant treatment beneﬁt and risk of late BC recurrences. https://doi.org/10.1016/j.esmoop.2025.105057 
+
+9 
+
+S. Lobo-Martins et al. 
+
+ESMO Open Online clinical tools The Clinical Treatment Score post-5 years (CTS5) is a freely accessible online tool designed to estimate the risk of late recurrences in postmenopausal patients who have completed 5 years of adjuvant ET without recurrence.80 Developed according to clinicopathological parameters from the ATAC trial as the training set and the Breast International Group (BIG) 1-98 trial as the testing set,81,82 CTS5 uses tumour size and grade, number of involved nodes, and patients’ age at diagnosis to identify patients at higher risk of recurrence and for whom EET can be useful.80,83 A retrospective study by Richman et al. found a 10year distant relapse risk of 2.9% for the CTS5-low group, compared with 7.2% for the intermediate-risk and 12.9% for the high-risk groups, suggesting patients with a higher CTS5 risk may beneﬁt substantially from adjuvant ET beyond 5 years.84 Genomic testing To date, several genomic multi-parametric tests have been designed to assess an individual’s risk of BC recurrence by analysing the expression proﬁle of speciﬁc cancer-related genes. The OncotypeDX, PAM50, MammaPrint, and EndoPredict assays have been developed based on intrinsic tumour biology to try to predict the beneﬁt of de-escalating adjuvant chemotherapy.85 However, many of these tests are not created to predict late recurrences in addition to early recurrences (relapse <5 years after initial treatment) and only a few have shown to be prognostic for late relapses (Table 2).79 OncotypeDX, a well-established multi-gene assay, assesses the risk of recurrence in women with hormone receptor-positive BC. In the transATAC trial, it was not predictive of late distant recurrences (years 5-10) when adjusted for clinical parameters.78,113 The PAM50 Prosigna assay added prognostic information for distant late 
+
+recurrences and was more effective than OncotypeDX.114 The MammaPrint assay has also been evaluated in many subgroups of patients, but the prognostic information added by this assay is limited to the ﬁrst 5 years after diagnosis and there are no solid data regarding the potential role of MammaPrint in informing the potential beneﬁts of EET.116 The EndoPredict assay and EPclin score have been developed with the aim of combining the EndoPredict score with clinical information, such as nodal status and tumour size.115 Both are available as continuous scores or categorized into low- and high-risk groups. These signatures have been speciﬁcally investigated for their association with late distant recurrences, with EPclin demonstrating superior predictive accuracy compared with the genomic score alone.115 Patients with negative lymph nodes or 1-3 positive lymph nodes and who have already completed 5 years of adjuvant ET may have EET-guided decision based on their BCI.117 BCI is an RTePCR test that can be carried out on formalin-ﬁxed, parafﬁn-embedded BC tissue and integrates two biomarkers based on the expression of both genes that assess tumour responsiveness to ET (HOXB13 : IL17BR ratio) and the molecular grade index (MGI), which consists of the average expression of ﬁve cell cycle-associated genes. The BCI test is able to provide a quantitative estimate of the risk of late distant recurrences 5 years after diagnosis and the cumulative risk of distant recurrence over 10 years, and a prediction of the probability of beneﬁt from EET.117 An exploratory analysis was also carried out to further clarify which of the two components of the BCI score predicts late distant recurrences, and results showed that only the HOXB13 : IL17BR ratio signiﬁcantly predicted late recurrences.118 MGI seems not to be prognostic for late distant recurrences, similarly to proliferation-related tumour markers such as Ki67 or clinical tumour grade.78 Although these tests provide insights for predicting late recurrences, the decision to continue ET beyond the ﬁrst 5 
+
+Table 2. Principal genomic tests and their clinical validations to investigate predictive and prognostic value of late recurrence Oncotype DX78,113 
+
+Prosigna (PAM50)114 
+
+EndoPredict115 
+
+MammaPrint116 
+
+Breast Cancer Index (BCI)41,117,118 
+
+Type of assay 
+
+21-gene recurrence score Centralized 
+
+50-gene assay Decentralized 
+
+12-gene assay Decentralized 
+
+70-gene assay Centralized 
+
+Tissue sample Technique 
+
+FFPE qRT-PCR 
+
+FFPE qRT-PCR 
+
+FFPE qRT-PCR 
+
+Results presentation 
+
+Low-, intermediate-, and high-risk groups 
+
+Continuous variable 
+
+Fresh frozen or FFPE DNA microarray and qRT-PCR Dichotomous: Good and poor prognosis ABCSG-8 (n ¼ 658 patients) 
+
+2-gene ratio (H/I) and molecular grade index Decentralized FFPE qRT-PCR 
+
+Clinical validation TransATAC trial (n ¼ 785 for late recurrence patients) 
+
+Dichotomous: Low and high-risk groups TransATAC trial (n ¼ 785 ABCSG-6 and ABCSG-8 patients) trials (n ¼ 1702 ABCSG-8 (n ¼ 1246 patients) patients) 
+
+Continuous variable 
+
+TransATTOM (n ¼ 583) MA-17 (n ¼ 249 patients) IDEAL (n ¼ 454 patients) NSABP-B42 (n ¼ 2179 patients) Clinical application Early relapses Early and late relapses Early and late relapses Early relapses Early and late relapses of the assay Predictive and Prognostic for Prognostic for pN0 and Prognostic for pN0 and Prognostic for pN0 and Predictive and prognostic of pN0 and pN1 (1-3 positive pN1 (1-3 positive nodes) pN1 (1-3 positive nodes) pN1 (1-3 positive nodes) beneﬁt of extended adjuvant nodes) ET 
+
+FFPE, formalin-ﬁxed parafﬁn-embedded; qRT-PCR, real-time quantitative reverse transcription PCR. 
+
+10 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. 
+
+years must always account for the context of the single patient. OPEN QUESTIONS In the context of hormone receptor-positive/HER2-negative advanced BC, patients who progressed on CDK4/6i do not seem to derive the same beneﬁt from continuing standard ET. As so, several novel ETs are being studied: SERDs (e.g. elacestrant), complete estrogen receptor antagonists (CERANs; e.g. palazestrant; NCT04505826, NCT05508906, NCT05266105), proteolysis-targeting chimera (PROTAC, e.g. vepdegestrant/ARV-471), selective estrogen receptor covalent antagonists (SERCAs; e.g. H3B-6545; NCT04288089), SERMs (e.g. lasofoxifene; NCT01042379, NCT05696626).86 Some of these drugs are already being tested in clinical trials in patients with early disease, in particular oral SERD, PROTAC, and SERM (Supplementary Table S2, available at https://doi.org/10.1016/j.esmoop.2025.105057).87-100 Trials such as CAMBRIA-1 and EMBER-4 are searching the added value of new anti-estrogen-receptor therapies in patients already treated for 2-5 years with standard ET  CDK4/ 6i.101 Additionally, the coopERA study, a phase II trial, has shown promising results for oral SERDs plus palbociclib, demonstrating signiﬁcant reductions in Ki67 levels after 2 weeks of neoadjuvant therapy.102 The introduction of immunotherapy in hormone receptor-positive/HER2-negative BC is supported by early results from KEYNOTE 756 and CHECKMATE 7FL.103,104 The combination of anti-programmed cell death protein 1 agents with neoadjuvant chemotherapy increased rates of pathological complete response compared with placebo. However, with short follow-up durations, long-term efﬁcacy remains unclear, particularly with EET. Additionally, the potential for combining these therapies with CDK4/6i and their additional/synergistic effect is still under investigation. Moreover, antibodyedrug conjugates are being explored in an earlier setting of BC and a new generation of CDK4/6i is coming, more selective for CDK4105 or even CDK2106 (Supplementary Table S2, available at https://doi.org/10. 1016/j.esmoop.2025.105057). The impact of these combinations in adjuvant ET, particularly EET, is not known and will remain unknown, until the follow-up for these trials is long enough to allow some conclusions. CONCLUSIONS The broad investigation of EET through several trials has left the search for the optimal agent and treatment duration somewhat unclear. Such complexities are pronounced in premenopausal women, where ongoing debates persist due to lack of strong evidence, particularly in patients who have received OFS with tamoxifen or AIs during the ﬁrst 5 years of adjuvant ET. Conversely, in postmenopausal patients, there is evidence in favour of prolonging adjuvant ET, particularly among those with an increased risk of recurrence (such as the use of adjuvant chemotherapy or the presence of positive lymph nodes) and those who have been exposed to tamoxifen during the ﬁrst 5 years of Volume 10 - Issue 5 - 2025 
+
+ESMO Open treatment; however, high rates of hot ﬂushes, vaginal symptoms, and the increased risk of osteoporosis (particularly in cases treated with long-lasting AI) underline the delicate balance between therapeutic beneﬁts and adverse effects, potentially leading to lower rates of patient compliance. Supporting the choice of prolonged treatment means balancing the QoL against the costs of toxicity (Figure 1). The evolving therapeutic landscape for patients with hormone receptor-positive BC is witnessing the integration of new targeted agents like CDK4/6i and PARPi, adding complexity to the search for evidence supporting prolonged ET. While the standard minimum duration of adjuvant therapy in these trials is 5 years, patients have the option to extend this treatment. However, due to the relatively short follow-up periods in trials assessing these new agents, the long-term impact (over 10-15 years) of incorporating these treatments remains uncertain and should be conﬁrmed. As research progresses, it becomes imperative to bridge these knowledge gaps to reﬁne and personalize the approach to prolonged adjuvant ET, ensuring optimal outcomes for patients with BC in the constantly evolving landscape of oncology. FUNDING None declared. DISCLOSURE SLM: ﬁnancial: honoraria and/or advisory board from Roche, Novartis, Pﬁzer, BMS, AstraZeneca, MSD, and Gilead Sciences; support for attending medical conferences from Roche, Novartis, Daiichi Sankyo, AstraZeneca, BMS, Pierre Fabre, MSD, Lilly, Pﬁzer, Sanoﬁ, Amgen, and Gilead Sciences. All disclosures are outside the submitted work. EA: consultancy fee or honoraria from Eli Lilly, Sandoz, AstraZeneca, and Novartis; advisory board: AstraZeneca; research grant to the institution from Gilead; support for attending medical conferences from Novartis, Roche, Eli Lilly, Genetic, Istituto Gentili, Daiichi Sankyo, and AstraZeneca. All disclosures are outside the submitted work. MAF: consultancy fee or honoraria: Novartis; research grant to the institution from Gilead and Resilience. All disclosures are outside the submitted work. LdM: consultancy fee or honoraria: Eli Lilly, Gilead, Daiichi Sankyo, Menarini Stemline, Novartis, Olema, AstraZeneca, Roche, Pﬁzer, MSD, Seagen, Pierre Fabre, Eisai, Exact Sciences, Ipsen, GSK, and Agendia; research grant to the institution (for patient enrolment in studies) from Eli Lilly, Novartis, Roche, Daiichi Sankyo, Seagen, AstraZeneca, Gilead, and Pierre Fabre; support for attending medical conferences from Roche, Pﬁzer, Eisai, Daiichi Sankyo, AstraZeneca, and Gilead. All disclosures are outside the submitted work. ML: consultancy fee or honoraria: Roche, Lilly, Novartis, AstraZeneca, Pﬁzer, Seagen, Gilead, MSD, Exact Sciences, Pierre Fabre, Menarini, Takeda, Ipsen, Sandoz, Libbs, Knight, and Daiichi Sankyo; research grant to the institution from Gilead; support for attending medical conferences from Gilead, Daiichi Sankyo, and Roche. All https://doi.org/10.1016/j.esmoop.2025.105057 
+
+11 
+
+ESMO Open disclosures are outside the submitted work. MP is a scientiﬁc board member for Oncolytics and reports personal fees for consultancy roles for AstraZeneca, Gilead, Lilly, Menarini, MSD, Novartis, Pﬁzer, Roche-Genentech, Seattle Genetics, Seagen, NBE Therapeutics, and Frame Therapeutics; institutional research grants from AstraZeneca, Lilly, Menarini, MSD, Novartis, Pﬁzer, Radius, Roche-Genentech, Servier, Synthon, and Gilead. All disclosures are outside the submitted work. EdeA: ﬁnancial: honoraria and/or advisory board from Roche/GNE, Novartis, Seagen, Zodiac, Libbs, Pierre Fabre, Lilly, AstraZeneca, MSD, and Gilead Sciences; travel grants from AstraZeneca and Gilead; research grant to their institution from Roche/GNE, AstraZeneca, GSK/ Novartis, and Gilead Sciences; non-ﬁnancial: ESMO director of Membership 2023-2025; BSMO President 2023-2026. All disclosures are outside the submitted work. All other authors have declared no conﬂicts of interest. 
+
+REFERENCES 1. Loibl S, André F, Bachelot T, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2024;35(2):159-182. 2. Cardoso F, Kyriakides S, Ohno S, et al. Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2019;30(8):1194-1220. 3. Allison KH, Hammond MEH, Dowsett M, et al. Estrogen and progesterone receptor testing in breast cancer: ASCO/CAP Guideline update. J Clin Oncol. 2020;38(12):1346-1366. 4. Waks AG, Winer EP. Breast cancer treatment: a review. JAMA. 2019;321(3):288-300. 5. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG)Davies C, Godwin J, Gray R, et al. Relevance of breast cancer hormone receptors and other factors to the efﬁcacy of adjuvant tamoxifen: patient-level meta-analysis of randomised trials. Lancet. 2011;378 (9793):771-784. 6. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Aromatase inhibitors versus tamoxifen in early breast cancer: patient-level meta-analysis of the randomised trials. Lancet. 2015;386(10001): 1341-1352. 7. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Aromatase inhibitors versus tamoxifen in premenopausal women with oestrogen receptor-positive early-stage breast cancer treated with ovarian suppression: a patient-level meta-analysis of 7030 women from four randomised trials. Lancet Oncol. 2022;23(3):382-392. 8. Pan H, Gray R, Braybrooke J, et al. 20-Year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years. N Engl J Med. 2017;377(19):1836-1846. 9. Lambertini M, Blondeaux E, Bisagni G, et al. Prognostic and clinical impact of the endocrine resistance/sensitivity classiﬁcation according to international consensus guidelines for advanced breast cancer: an individual patient-level analysis from the Mammella InterGruppo (MIG) and Gruppo Italiano Mammella (GIM) studies. EClinicalMedicine. 2023;59:101931. 10. Kabirian R, Franzoi MA, Havas J, et al. Chemotherapy-related amenorrhea and quality of life among premenopausal women with breast cancer. JAMA Network Open. 2023;6(11):e2343910. 11. Paluch-Shimon S, Cardoso F, Partridge AH, et al. ESO-ESMO ﬁfth international consensus guidelines for breast cancer in young women (BCY5). Ann Oncol. 2022;33(11):1097-1118. 12. Sella T, Ruddy KJ, Carey LA, Partridge AH. Optimal endocrine therapy in premenopausal women: a pragmatic approach to unanswered questions. JCO Oncol Pract. 2022;18(3):211-216. 13. Pagani O, Walley BA, Fleming GF, et al. Adjuvant exemestane with ovarian suppression in premenopausal breast cancer: long-term 
+
+12 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+S. Lobo-Martins et al. follow-up of the combined TEXT and SOFT trials. J Clin Oncol. 2023;41(7):1376-1382. 14. Geyer CE Jr, Garber JE, Gelber RD, et al. Overall survival in the OlympiA phase III trial of adjuvant olaparib in patients with germline pathogenic variants in BRCA1/2 and high-risk, early breast cancer. Ann Oncol. 2022;33(12):1250-1268. 15. Johnston SRD, Toi M, O’Shaughnessy J, et al. Abemaciclib plus endocrine therapy for hormone receptor-positive, HER2-negative, node-positive, high-risk early breast cancer (monarchE): results from a preplanned interim analysis of a randomised, open-label, phase 3 trial. Lancet Oncol. 2023;24(1):77-90. 16. Slamon DJ, Stroyakovskiy D, Yardley DA, et al. Ribociclib and endocrine therapy as adjuvant treatment in patients with HRþ/HER2 early breast cancer: primary results from the phase III NATALEE trial. J Clin Oncol. 2023;41(suppl 17):LBA500. 17. Pagani O, Francis PA, Fleming GF, et al. Absolute improvements in freedom from distant recurrence to tailor adjuvant endocrine therapies for premenopausal women: results from TEXT and SOFT. J Clin Oncol. 2020;38(12):1293-1303. 18. Davies C, Pan H, Godwin J, et al. Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years after diagnosis of oestrogen receptor-positive breast cancer: ATLAS, a randomised trial. Lancet. 2013;381(9869):805-816. 19. Gray RG, Rea D, Handley K, et al. aTTom: long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years in 6,953 women with early breast cancer. J Clin Oncol. 2013;31(suppl 18):5. 20. Fisher B, Dignam J, Bryant J, Wolmark N. Five versus more than ﬁve years of tamoxifen for lymph node-negative breast cancer: updated ﬁndings from the National Surgical Adjuvant Breast and Bowel Project B-14 randomized trial. J Natl Cancer Inst. 2001;93(9):684-690. 21. Goss PE, Ingle JN, Martino S, et al. A randomized trial of letrozole in postmenopausal women after ﬁve years of tamoxifen therapy for early-stage breast cancer. N Engl J Med. 2003;349(19):1793-1802. 22. Goss PE, Ingle JN, Martino S, et al. Impact of premenopausal status at breast cancer diagnosis in women entered on the placebo-controlled NCIC CTG MA17 trial of extended adjuvant letrozole. Ann Oncol. 2013;24(2):355-361. 23. Ruddy KJ, DeSantis SD, Barry W, et al. Extended therapy with letrozole and ovarian suppression in premenopausal patients with breast cancer after tamoxifen. Clin Breast Cancer. 2014;14(6):413-416. 24. A study of camizestrant in ERþ/HER2 early breast cancer after at least 2 years of standard adjuvant endocrine therapy. ClinicalTrials.gov. Available at https://clinicaltrials.gov/study/NCT05774951. Accessed December 14, 2023. 25. An adjuvant endocrine-based therapy study of camizestrant (AZD9833) in ERþ/HER2 early breast cancer (CAMBRIA-2). ClinicalTrials.gov. Available at https://clinicaltrials.gov/study/NCT05952 557. Accessed December 14, 2023. 26. Cancer of the Breast (Female) e Cancer Stat Facts. SEER. Available at https://seer.cancer.gov/statfacts/html/breast.html. Accessed December 13, 2023. 27. Curigliano G, Burstein HJ, Gnant M, et al. Understanding breast cancer complexity to improve patient outcomes: the St. Gallen International Consensus Conference for the primary therapy of individuals with early breast cancer 2023. Ann Oncol. 2023;34(11):970986. 28. Goss PE, Ingle JN, Martino S, et al. Randomized trial of letrozole following tamoxifen as extended adjuvant therapy in receptor-positive breast cancer: updated ﬁndings from NCIC CTG MA.17. J Natl Cancer Inst. 2005;97(17):1262-1271. 29. Goss PE, Ingle JN, Pater JL, et al. Late extended adjuvant treatment with letrozole improves outcome in women with early-stage breast cancer who complete 5 years of tamoxifen. J Clin Oncol. 2008;26(12): 1948-1955. 30. Jin H, Tu D, Zhao N, Shepherd LE, Goss PE. Longer-term outcomes of letrozole versus placebo after 5 years of tamoxifen in the NCIC CTG MA.17 trial: analyses adjusting for treatment crossover. J Clin Oncol. 2012;30(7):718-721. 
+
+Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. 31. Mamounas EP, Jeong JH, Wickerham DL, et al. Beneﬁt from exemestane as extended adjuvant therapy after 5 years of adjuvant tamoxifen: intention-to-treat analysis of the National Surgical Adjuvant Breast and Bowel Project B-33 trial. J Clin Oncol. 2008;26(12): 1965-1971. 32. Jakesz R, Greil R, Gnant M, et al. Extended adjuvant therapy with anastrozole among postmenopausal breast cancer patients: results from the randomized Austrian Breast and Colorectal Cancer Study Group Trial 6a. J Natl Cancer Inst. 2007;99(24):1845-1853. 33. Del Mastro L, Mansutti M, Bisagni G, et al. Extended therapy with letrozole as adjuvant treatment of postmenopausal patients with early-stage breast cancer: a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2021;22(10):1458-1467. 34. Mamounas EP, Bandos H, Lembersky BC, et al. Use of letrozole after aromatase inhibitor-based therapy in postmenopausal breast cancer (NRG Oncology/NSABP B-42): a randomised, double-blind, placebocontrolled, phase 3 trial. Lancet Oncol. 2019;20(1):88-99. 35. Mamounas EP, Bandos H, Rastogi P, et al. Ten-year update: NRG Oncology/National Surgical Adjuvant Breast and Bowel Project B-42 randomized trial: extended letrozole therapy in early-stage breast cancer. J Natl Cancer Inst. 2023;115(11):1302-1309. 36. Ohtani S, Iijima K, Higaki K, et al. Abstract GS3-04: A prospective randomized multi-center open-label phase III trial of extending aromatase-inhibitor adjuvant therapy to 10 years e results from 1697 postmenopausal women in the N-SAS BC 05 trial: Arimidex extended adjuvant randomized study (AERAS). Cancer Res. 2019;79(suppl 4): GS3-GS04. 37. Iwase T, Saji S, Iijima K, et al. Postoperative adjuvant anastrozole for 10 or 5 years in patients with hormone receptor-positive breast cancer: AERAS, a randomized multicenter open-label phase III trial. J Clin Oncol. 2023;41(18):3329-3338. 38. Tjan-Heijnen VCG, Lammers SWM, Geurts SME, et al. Extended adjuvant aromatase inhibition after sequential endocrine therapy in postmenopausal women with breast cancer: follow-up analysis of the randomised phase 3 DATA trial. EClinicalMedicine. 2023;58:101901. 39. Blok EJ, Kroep JR, Meershoek-Klein Kranenbarg E, et al. Optimal duration of extended adjuvant endocrine therapy for early breast cancer; results of the IDEAL trial (BOOG 2006-05). J Natl Cancer Inst. 2018;110(1):40-48. 40. Gnant M, Fitzal F, Rinnerthaler G, et al. Duration of adjuvant aromatase-inhibitor therapy in postmenopausal breast cancer. N Engl J Med. 2021;385(5):395-405. 41. Noordhoek I, Treuner K, Putter H, et al. Breast cancer index predicts extended endocrine beneﬁt to individualize selection of patients with HRþ early-stage breast cancer for 10 years of endocrine therapy. Clin Cancer Res. 2021;27(1):311-319. 42. Goss PE, Ingle JN, Pritchard KI, et al. Extending aromatase-inhibitor adjuvant therapy to 10 years. N Engl J Med. 2016;375(3):209-219. 43. Colleoni M, Luo W, Karlsson P, et al. Extended adjuvant intermittent letrozole versus continuous letrozole in postmenopausal women with breast cancer (SOLE): a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2018;19(1):127-138. 44. Jerusalem G, Farah S, Courtois A, et al. Continuous versus intermittent extended adjuvant letrozole for breast cancer: ﬁnal results of randomized phase III SOLE (Study of Letrozole Extension) and SOLE Estrogen Substudy. Ann Oncol. 2021;32(10):1256-1266. 45. Ribi K, Luo W, Colleoni M, et al. Quality of life under extended continuous versus intermittent adjuvant letrozole in lymph nodepositive, early breast cancer patients: the SOLE randomised phase 3 trial. Br J Cancer. 2019;120(10):959-967. 46. Haddad TC, Suman V, Giridhar KV, et al. Abstract OT1-04-02: Anastrozole dose escalation for optimal estrogen suppression in postmenopausal early stage breast cancer: a prospective trial. Cancer Res. 2023;83(suppl 5). OT1-04-02. 47. Mayer EL, Dueck AC, Martin M, et al. Palbociclib with adjuvant endocrine therapy in early breast cancer (PALLAS): interim analysis of a multicentre, open-label, randomised, phase 3 study. Lancet Oncol. 2021;22(2):212-222. 
+
+Volume 10 - Issue 5 - 2025 
+
+ESMO Open 48. Gnant M, Dueck AC, Frantal S, et al. Adjuvant palbociclib for early breast cancer: the PALLAS trial results (ABCSG-42/AFT-05/BIG-14-03). J Clin Oncol. 2022;40(3):282-293. 49. Loibl S, Marmé F, Martin M, et al. Palbociclib for residual high-risk invasive HR-positive and HER2-negative early breast cancerdthe Penelope-B trial. J Clin Oncol. 2021;39(14):1518-1530. 50. Agostinetto E, Arecco L, de Azambuja E. Adjuvant CDK4/6 inhibitors for early breast cancer: how to choose wisely? Oncol Ther. 2024;12(1):19-29. 51. Harbeck N, Rastogi P, O’Shaughnessy J, et al. LBA17 Adjuvant abemaciclib plus endocrine therapy for HRþ, HER2, high-risk early breast cancer: results from a preplanned monarchE overall survival interim analysis, including 5-year efﬁcacy outcomes. Ann Oncol. 2023;34(suppl 2):S1256. 52. Slamon D, Lipatov O, Nowecki Z, et al. Ribociclib plus endocrine therapy in early breast cancer. N Engl J Med. 2024;390(12):10801091. 53. Tutt ANJ, Garber JE, Kaufman B, et al. Adjuvant olaparib for patients with BRCA1- or BRCA2-mutated breast cancer. N Engl J Med. 2021;384(25):2394-2405. 54. Guidelines Detail. NCCN. Acute Lymphoblastic Leukemia. Available at https://www.nccn.org/guidelines/guidelines-detail. Accessed December 11, 2023. 55. Dowsett M, Cuzick J, Ingle J, et al. Meta-analysis of breast cancer outcomes in adjuvant trials of aromatase inhibitors versus tamoxifen. J Clin Oncol. 2010;28(3):509-518. 56. Henry NL, Azzouz F, Desta Z, et al. Predictors of aromatase inhibitor discontinuation as a result of treatment-emergent symptoms in earlystage breast cancer. J Clin Oncol. 2012;30(9):936-942. 57. Hershman DL, Shao T, Kushi LH, et al. Early discontinuation and nonadherence to adjuvant hormonal therapy are associated with increased mortality in women with breast cancer. Breast Cancer Res Treat. 2011;126(2):529-537. 58. Franzoi MA, Agostinetto E, Perachino M, et al. Evidence-based approaches for the management of side-effects of adjuvant endocrine therapy in patients with breast cancer. Lancet Oncol. 2021;22(7): e303-e313. 59. Yanez B, Gray RJ, Sparano JA, et al. Association of modiﬁable risk factors with early discontinuation of adjuvant endocrine therapy: a post hoc analysis of a randomized clinical trial. JAMA Oncol. 2021;7(8):1196-1202. 60. Rogers A, Saleh G, Hannon RA, Greenﬁeld D, Eastell R. Circulating estradiol and osteoprotegerin as determinants of bone turnover and bone density in postmenopausal women. J Clin Endocrinol Metab. 2002;87(10):4470-4475. 61. Love RR, Mazess RB, Barden HS, et al. Effects of tamoxifen on bone mineral density in postmenopausal women with breast cancer. N Engl J Med. 1992;326(13):852-856. 62. Cha C, Lee SJ, Hong H, Choi YY, Chung MS. Adverse effects of adjuvant tamoxifen treatment on bone mineral density in premenopausal breast cancer patients: a systematic review and meta-analysis. J Clin Oncol. 2021;39(suppl 15). e12500-e12500. 63. Lambertini M, Arecco L, Woodard TL, Messelt A, Rojas KE. Advances in the management of menopausal symptoms, fertility preservation, and bone health for women with breast cancer on endocrine therapy. Am Soc Clin Oncol Educ Book. 2023;(43):e390442. 64. Goldvaser H, Barnes TA, Seruga B, et al. Toxicity of extended adjuvant therapy with aromatase inhibitors in early breast cancer: a systematic review and meta-analysis. J Natl Cancer Inst. 2018;110(1):31-39. 65. Zhao F, Ren D, Shen G, et al. Toxicity of extended adjuvant endocrine with aromatase inhibitors in patients with postmenopausal breast cancer: a systemtic review and meta-analysis. Crit Rev Oncol Hematol. 2020;156:103114. 66. Shapiro CL, Van Poznak C, Lacchetti C, et al. Management of osteoporosis in survivors of adult cancers with nonmetastatic disease: ASCO Clinical Practice Guideline. J Clin Oncol. 2019;37(31):2916-2946. 67. Meeta M, Harinarayan CV, Marwah R, Sahay R, Kalra S, Babhulkar S. Clinical practice guidelines on postmenopausal osteoporosis: an 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+13 
+
+ESMO Open executive summary and recommendations eupdate 2019-2020. J Midlife Health. 2020;11(2):96-112. 68. Fisher B, Costantino JP, Wickerham DL, et al. Tamoxifen for the prevention of breast cancer: current status of the National Surgical Adjuvant Breast and Bowel Project P-1 Study. J Natl Cancer Inst. 2005;97(22):1652-1662. 69. Abdel-Qadir H, Austin PC, Lee DS, et al. A population-based study of cardiovascular mortality following early-stage breast cancer. JAMA Cardiol. 2017;2(1):88-93. 70. Knowlton AA, Lee AR. Estrogen and the cardiovascular system. Pharmacol Ther. 2012;135(1):54-70. 71. Amir E, Seruga B, Niraula S, Carlsson L, Ocaña A. Toxicity of adjuvant endocrine therapy in postmenopausal breast cancer patients: a systematic review and meta-analysis. J Natl Cancer Inst. 2011;103(17): 1299-1309. 72. Ferreira AR, Di Meglio A, Pistilli B, et al. Differential impact of endocrine therapy and chemotherapy on quality of life of breast cancer survivors: a prospective patient-reported outcomes analysis. Ann Oncol. 2019;30(11):1784-1795. 73. Pistilli B, Paci A, Ferreira AR, et al. Serum detection of nonadherence to adjuvant tamoxifen and breast cancer recurrence risk. J Clin Oncol. 2020;38(24):2762-2772. 74. Kool M, Fontein DBY, Meershoek-Klein Kranenbarg E, et al. Long term effects of extended adjuvant endocrine therapy on quality of life in breast cancer patients. Breast. 2015;24(3):224-229. 75. UNICANCER. A prospective cohort to investigate survivorship issues in patients with early cancer. Clinicaltrials.gov. 2024. Available at https://clinicaltrials.gov/study/NCT01993498. Accessed November 4, 2024. 76. Zhang XHF, Giuliano M, Trivedi MV, Schiff R, Osborne CK. Metastasis dormancy in estrogen receptor-positive breast cancer. Clin Cancer Res. 2013;19(23):6389-6397. 77. Kennecke HF, Olivotto IA, Speers C, et al. Late risk of relapse and mortality among postmenopausal women with estrogen responsive early breast cancer after 5 years of tamoxifen. Ann Oncol. 2007;18(1): 45-51. 78. Sestak I, Dowsett M, Zabaglo L, et al. Factors predicting late recurrence for estrogen receptorepositive breast cancer. J Natl Cancer Inst. 2013;105(19):1504-1511. 79. Sestak I, Cuzick J. Markers for the identiﬁcation of late breast cancer recurrence. Breast Cancer Res. 2015;17(1):10. 80. Dowsett M, Sestak I, Regan MM, et al. Integration of clinical variables for the prediction of late distant recurrence in patients with estrogen receptor-positive breast cancer treated with 5 years of endocrine therapy: CTS5. J Clin Oncol. 2018;36(19):1941-1948. 81. Cuzick J, Sestak I, Baum M, et al. Effect of anastrozole and tamoxifen as adjuvant treatment for early-stage breast cancer: 10-year analysis of the ATAC trial. Lancet Oncol. 2010;11(12):1135-1141. 82. Regan MM, Neven P, Giobbie-Hurder A, et al. Assessment of letrozole and tamoxifen alone and in sequence for postmenopausal women with steroid hormone receptor-positive breast cancer: the BIG 1-98 randomised clinical trial at 8$1 years median follow-up. Lancet Oncol. 2011;12(12):1101-1108. 83. CTS5 Calculator. Available at https://cts5-calculator.com/. Accessed December 11, 2023. 84. Richman J, Ring A, Dowsett M, Sestak I. Clinical validity of clinical treatment score 5 (CTS5) for estimating risk of late recurrence in unselected, non-trial patients with early oestrogen receptor-positive breast cancer. Breast Cancer Res Treat. 2021;186(1):115-123. 85. Hayes DF. Clinical utility of genetic signatures in selecting adjuvant treatment: risk stratiﬁcation for early vs. late recurrences. Breast. 2015;24(suppl 2):S6-S10. 86. Shastry M, Hamilton E. Novel estrogen receptor-targeted agents for breast cancer. Curr Treat Options Oncol. 2023;24(7):821-844. 87. DNA-guided second line adjuvant therapy for high residual risk, stage II-III, hormone receptor positive, HER2 negative breast cancer. ClinicalTrials.gov. Available at https://clinicaltrials.gov/study/NCT0456 7420. Accessed December 13, 2023. 
+
+14 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+S. Lobo-Martins et al. 88. AstraZeneca. A randomised, open-label, parallel-group, pre-surgical study to investigate the biological effects of AZD9833 in women with ER-positive, HER2-negative primary breast cancer (SERENA-3). clinicaltrials.gov. 2023. Available at https://clinicaltrials.gov/study/ NCT04588298. Accessed January 1, 2023. 89. A study evaluating the efﬁcacy and safety of adjuvant giredestrant compared with physician’s choice of adjuvant endocrine monotherapy in participants with estrogen receptor-positive, HER2-negative early breast cancer (lidERA Breast Cancer). ClinicalTrials.gov. Available at https://clinicaltrials.gov/study/NCT04961996. Accessed December 13, 2023. 90. Neven P, Stahl N, Vidal M, et al. Abstract P6-10-06: A preoperative window-of-opportunity study of imlunestrant in estrogen receptorpositive, HER2-negative early breast cancer: results from the EMBER2 study. Cancer Res. 2023;83(suppl 5). P6-10-06. 91. Elacestrant in preoperative setting, a window of opportunity study. ClinicalTrials.gov. Available at https://www.clinicaltrials.gov/study/ NCT04797728. Accessed December 13, 2023. 92. Elacestrant for treating ERþ/HER2 breast cancer patients with ctDNA relapse (TREAT ctDNA. ClinicalTrials.gov. Available at https:// clinicaltrials.gov/ct2/show/NCT05512364. Accessed December 13, 2023. 93. Chien AJ, Kalinsky KM, Molina-Vega J, et al. Abstract OT1-10-02: ISPY2 endocrine optimization protocol (EOP): a pilot neoadjuvant endocrine therapy study with amcenestrant as monotherapy or in combination with abemacicilib or letrozole in molecularly selected HRþ/HER2 clinical stage 2/3 breast cancer. Cancer Res. 2022;82(suppl 4). OT1-10-02. 94. Campone M, Dong Y, Ling B, Wang L, Herold CI. AMEERA-4: A preoperative window-of-opportunity (WOO) study to assess the pharmacodynamic (PD) activity of amcenestrant or letrozole in postmenopausal patients with ERþ/HER2 primary breast cancer. J Clin Oncol. 2022;40(suppl 16):528. 95. Meyskens T, Metzger O, Poncet C, et al. Adjuvant study of amcenestrant (SAR439859) versus tamoxifen for patients with hormone receptor-positive (HRþ) early breast cancer (EBC), who have discontinued adjuvant aromatase inhibitor therapy due to treatmentrelated toxicity (AMEERA-6). J Clin Oncol. 2022;40(suppl 16):TPS607. 96. A trial using ARV-471 or anastrozole in post-menopausal women with breast cancer prior to surgery. ClinicalTrials.gov. Available at https:// clinicaltrials.gov/study/NCT05549505. Accessed December 13, 2023. 97. QuantumLeap Healthcare Collaborative. I-SPY Trial (Investigation of Serial Studies to Predict Your Therapeutic Response with Imaging and moLecular Analysis 2). ClinicalTrials.gov. 2024. Available at https:// clinicaltrials.gov/study/NCT01042379. Accessed January 28, 2025. 98. Trastuzumab deruxtecan alone or in combination with anastrozole for the treatment of early stage HER2 low, hormone receptor positive breast cancer. ClinicalTrials.gov. Available at https://clinicaltrials.gov/ study/NCT04553770?cond¼HR%2B%2FHER2-breast%20Cancer&intr ¼Trastuzumab%20deruxtecan&rank¼1. Accessed December 13, 2023. 99. A phase III randomised study to evaluate dato-DXd and durvalumab for neoadjuvant/adjuvant treatment of triple-negative or hormone receptor-low/HER2-negative breast cancer. ClinicalTrials.gov. . Available at https://clinicaltrials.gov/ct2/show/NCT06112379. Accessed December 13, 2023. 100. Sacituzumab govitecan in primary HER2-negative breast cancer. ClinicalTrials.gov. Available at https://clinicaltrials.gov/study/NCT04 595565?cond¼Breast%20Cancer&intr¼Sacituzumab%20Govitecan&li mit¼100&page¼1&rank¼17. Accessed December 13, 2023. 101. Eli Lilly and Company. EMBER-4: A randomized, open-label, phase 3 study of adjuvant imlunestrant vs standard adjuvant endocrine therapy in patients who have previously received 2 to 5 years of adjuvant endocrine therapy for ERþ, HER2 early breast cancer with an increased risk of recurrence. ClinicalTrials.gov. 2023. Available at https://clinicaltrials. gov/study/NCT05514054. Accessed January 1, 2023. 102. Hurvitz SA, Bardia A, Quiroga V, et al. Neoadjuvant palbociclib plus either giredestrant or anastrozole in oestrogen receptor-positive, 
+
+Volume 10 - Issue 5 - 2025 
+
+S. Lobo-Martins et al. HER2-negative, early breast cancer (coopERA Breast Cancer): an open-label, randomised, controlled, phase 2 study. Lancet Oncol. 2023;24(9):1029-1041. 103. Cardoso F, McArthur HL, Schmid P, et al. LBA21 KEYNOTE-756: phase III study of neoadjuvant pembrolizumab (pembro) or placebo (pbo) þ chemotherapy (chemo), followed by adjuvant pembro or pbo þ endocrine therapy (ET) for early-stage high-risk ERþ/HER2e breast cancer. Ann Oncol. 2023;34:S1260-S1261. 104. Loi S, Curigliano G, Salgado RF, et al. LBA20 A randomized, doubleblind trial of nivolumab (NIVO) vs placebo (PBO) with neoadjuvant chemotherapy (NACT) followed by adjuvant endocrine therapy (ET)  NIVO in patients (pts) with high-risk, ERþ HER2 primary breast cancer (BC). Ann Oncol. 2023;34:S1259-S1260. 105. Yap TA, Giordano A, Hamilton EP, et al. First-in-human ﬁrst-in-class phase 1/2a study of the next generation CDK4-selective inhibitor PF07220060 in patients (pts) with advanced solid tumors, enriched for HRþ HER2 mBC who progressed on prior CDK4/6 inhibitors and endocrine therapy. J Clin Oncol. 2023;41(16):3009. 106. Yap TA, Elhaddad AM, Grisham RN, et al. First-in-human phase 1/2a study of a potent and novel CDK2-selective inhibitor PF-07104091 in patients (pts) with advanced solid tumors, enriched for CDK4/6 inhibitor resistant HRþ/HER2 breast cancer. J Clin Oncol. 2023;41(16):3010. 107. PALbociclib CoLlaborative Adjuvant Study. ClinicalTrials.gov. Available at https://clinicaltrials.gov/study/NCT02513394?cond¼NCT02513394 &rank¼1. Accessed October 17, 2023. 108. A study of palbociclib in addition to standard endocrine treatment in hormone receptor positive Her2 normal patients with residual disease after neoadjuvant chemotherapy and surgery. ClinicalTrials.gov. Available at https://www.clinicaltrials.gov/study/NCT01864746. Accessed October 17, 2023. 109. Endocrine therapy with or without abemaciclib (LY2835219) following surgery in participants with breast cancer. ClinicalTrials.gov. Available at https://www.clinicaltrials.gov/study/NCT03155997?cond¼NCT031 55997&rank¼1. Accessed October 17, 2023. 110. Johnston SRD, Harbeck N, Hegg R, et al. Abemaciclib combined with endocrine therapy for the adjuvant treatment of HRþ, HER2, 
+
+Volume 10 - Issue 5 - 2025 
+
+ESMO Open node-positive, high-risk, early breast cancer (monarchE). J Clin Oncol. 2020;38(34):3987-3998. 111. A trial to evaluate efﬁcacy and safety of ribociclib with endocrine therapy as adjuvant treatment in patients with HRþ/HER2 early breast cancer. ClinicalTrials.gov. Available at https://www. clinicaltrials.gov/study/NCT03701334?cond¼NCT03701334&rank¼1. Accessed October 17, 2023. 112. Olaparib as adjuvant treatment in patients with germline BRCA mutated high risk HER2 negative primary breast cancer. ClinicalTrials. gov. Available at https://www.clinicaltrials.gov/study/NCT02032823? cond¼NCT02032823&rank¼1. Accessed October 17, 2023. 113. Dowsett M, Cuzick J, Wale C, et al. Prediction of risk of distant recurrence using the 21-gene recurrence score in node-negative and node-positive postmenopausal patients with breast cancer treated with anastrozole or tamoxifen: a TransATAC study. J Clin Oncol. 2010;28(11):1829-1834. 114. Dowsett M, Sestak I, Lopez-Knowles E, et al. Comparison of PAM50 risk of recurrence score with oncotype DX and IHC4 for predicting risk of distant recurrence after endocrine therapy. J Clin Oncol. 2013;31(22):2783-2790. 115. Dubsky P, Brase JC, Jakesz R, et al. The EndoPredict score provides prognostic information on late distant metastases in ERþ/HER2 breast cancer patients. Br J Cancer. 2013;109(12):2959-2964. 116. Dubsky P, Van’t Veer L, Gnant M, et al. A clinical validation study of MammaPrint in hormone receptor-positive breast cancer from the Austrian Breast and Colorectal Cancer Study Group 8 (ABCSG-8) biomarker cohort. ESMO Open. 2020;6(1):100006. 117. Zhang Y, Schnabel CA, Schroeder BE, et al. Breast cancer index identiﬁes early-stage estrogen receptor-positive breast cancer patients at risk for early- and late-distant recurrence. Clin Cancer Res. 2013;19(15):4196-4205. 118. Sgroi DC, Sestak I, Cuzick J, et al. Prediction of late distant recurrence in patients with oestrogen-receptor-positive breast cancer: a prospective comparison of the breast-cancer index (BCI) assay, 21-gene recurrence score, and IHC4 in the TransATAC study population. Lancet Oncol. 2013;14(11):1067-1076. 
+
+https://doi.org/10.1016/j.esmoop.2025.105057 
+
+15 
+
+ 

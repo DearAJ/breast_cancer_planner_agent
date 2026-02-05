@@ -1,0 +1,1307 @@
+Published Ahead of Print on April 4, 2016 as 10.1200/JCO.2015.64.3171 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2015.64.3171 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Absolute Beneﬁt of Adjuvant Endocrine Therapies for Premenopausal Women With Hormone Receptor–Positive, Human Epidermal Growth Factor Receptor 2–Negative Early Breast Cancer: TEXT and SOFT Trials Meredith M. Regan, Prudence A. Francis, Olivia Pagani, Gini F. Fleming, Barbara A. Walley, Giuseppe Viale, Marco Colleoni, István Láng, Henry L. Gómez, Carlo Tondini, Graziella Pinotti, Karen N. Price, Alan S. Coates, Aron Goldhirsch, and Richard D. Gelber Author afﬁliations appear at the end of this article. Published online ahead of print at www.jco.org on April 4, 2016. Written on behalf of the SOFT and TEXT investigators and the International Breast Cancer Study Group. Support information appears at the end of this article. Presented in part at the 14th St Gallen International Breast Cancer Conference on Primary Therapy of Early Breast Cancer, Vienna, Austria, March 18-21, 2015. Authors’ disclosures of potential conﬂicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article. Clinical trial information: NCT00066690, NCT00066703. Corresponding author: Meredith M. Regan, ScD, Dana-Farber Cancer Institute, 450 Brookline Ave, Boston, MA 02215, Mailstop CLS-11007; e-mail: mregan@jimmy.harvard.edu. © 2016 by American Society of Clinical Oncology 0732-183X/16/3499-1/$20.00 DOI: 10.1200/JCO.2015.64.3171 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Risk of recurrence is the primary consideration in breast cancer adjuvant therapy recommendations. The TEXT (Tamoxifen and Exemestane Trial) and SOFT (Suppression of Ovarian Function Trial) trials investigated adjuvant endocrine therapies for premenopausal women with hormone receptor– positive breast cancer, testing exemestane plus ovarian function suppression (OFS), tamoxifen plus OFS, and tamoxifen alone. We examined absolute treatment effect across a continuum of recurrence risk to individualize endocrine therapy decision making for premenopausal women with human epidermal growth factor receptor 2 (HER2) –negative disease. Patients and Methods The TEXT and SOFT hormone receptor–positive, HER2-negative analysis population included 4,891 women. The end point was breast cancer–free interval (BCFI), deﬁned as time from random assignment to ﬁrst occurrence of invasive locoregional, distant, or contralateral breast cancer. A continuous, composite measure of recurrence risk for each patient was determined from a Cox model incorporating age, nodal status, tumor size and grade, and estrogen receptor, progesterone receptor, and Ki-67 expression levels. Subpopulation treatment effect pattern plot methodology revealed differential treatment effects on 5-year BCFI according to composite risk. Results SOFT patients who remained premenopausal after chemotherapy experienced absolute improvement of 5% or more in 5-year BCFI with exemestane plus OFS versus tamoxifen plus OFS or tamoxifen alone, reaching 10% to 15% at intermediate to high composite risk; the beneﬁt of tamoxifen plus OFS versus tamoxifen alone was apparent at the highest composite risk. The SOFT no-chemotherapy cohort—for whom composite risk was lowest on average—did well with all endocrine therapies. For TEXT patients, the beneﬁt of exemestane plus OFS versus tamoxifen plus OFS in 5-year BCFI ranged from 5% to 15%; patients not receiving chemotherapy and with lowest composite risk did well with both treatments. Conclusion Premenopausal women with hormone receptor–positive, HER2-negative disease and high recurrence risk, as deﬁned by clinicopathologic characteristics, may experience improvement of 10% to 15% in 5-year BCFI with exemestane plus OFS versus tamoxifen alone. An improvement of at least 5% may be achieved for women at intermediate risk, and improvement is minimal for those at lowest risk. J Clin Oncol 34. © 2016 by American Society of Clinical Oncology INTRODUCTION 
+
+For premenopausal women with hormone receptor–positive early breast cancer, adjuvant tamoxifen for at least 5 years1,2 has been a standard 
+
+treatment during the past 15 years. Adjuvant chemotherapy and/or ovarian function suppression (OFS) may be recommended in addition to tamoxifen. Two international randomized phase III trials—TEXT (Tamoxifen and Exemestane Trial) and SOFT (Suppression of Ovarian Function © 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Copyright 2016 by American Society of Clinical Oncology 
+
+1 
+
+Regan et al 
+
+Trial)3—recently demonstrated that 5 years of adjuvant treatment with the aromatase inhibitor (AI) exemestane, in combination with OFS, improves outcomes relative to tamoxifen plus OFS or tamoxifen alone.4,5 SOFT further showed that tamoxifen plus OFS improves outcomes relative to tamoxifen alone in women who are at sufﬁcient risk to warrant adjuvant chemotherapy and remain premenopausal afterward and that tamoxifen alone remains an appropriate option for some premenopausal women.5 The improvements in efﬁcacy have tradeoffs, with adverse effects and events,4-7 and follow-up is currently too short to assess impact on overall survival. The population relative treatment effects (ie, hazard ratios [HRs]) and 5-year estimates of breast cancer–free interval (BCFI) are imprecise for individualized treatment decisions. In subgroup analyses, the relative treatment effects seemed consistent across subgroups deﬁned by conventional clinicopathologic factors.4,5 The TEXT and SOFT trial results were also considered separately according to chemotherapy use, which was determined by physician and patient choice and reﬂected an assessment of recurrence risk. For example, lymph node–positive disease was much more frequent in the TEXTand SOFT chemotherapy cohorts (66% and 57%, respectively) than in the no-chemotherapy cohorts (21% and 9%, respectively).4 Although the treatment efﬁcacy HRs were consistent regardless of chemotherapy use (eg, exemestane plus OFS v tamoxifen: BCFI HR, 0.65 [95% CI, 0.49 to 0.87] and 0.59 [95% CI, 0.32 to 1.14] in the SOFT chemotherapy and nochemotherapy cohorts, respectively), the absolute treatment effect at 5 years was greater for patients who received chemotherapy than those who did not (7.7% and 1.3%, respectively).4,5 With trials conducted at 510 institutions in 27 countries, patients’ clinicopathologic characteristics were heterogeneous within the cohorts deﬁned by chemotherapy use.8 A standardized characterization of all patients’ recurrence risk may provide further elucidation of the absolute treatment effect, beyond that estimated according to chemotherapy status alone. To better inform selection among three adjuvant endocrine therapy options for premenopausal patients, we investigated the absolute magnitude of treatment beneﬁt in TEXT and SOFT according to a quantitative composite measure of recurrence risk. The composite measure was a means to systematically characterize the spectrum of recurrence risk of all trial patients, as done previously for postmenopausal women.9 The evaluation was conducted according to trial and chemotherapy use, which reﬂect uncontrolled physician choices, to isolate the randomized endocrine therapy comparisons. We focused here on patients with human epidermal growth factor receptor 2 (HER2)–negative disease because adjuvant trastuzumab with chemotherapy is now indicated for most patients with HER2-positive disease, a practice that changed during trial conduct; the HER2-positive population will be the subject of a separate investigation. 
+
+PATIENTS AND METHODS Study Designs The designs and conduct of the trials have been described previously.3-5 In both trials, eligible premenopausal women had invasive early breast cancer assessed as 10% or more estrogen receptor (ER) or progesterone receptor (PgR)–expressing cells by local determination. 2 
+
+© 2016 by American Society of Clinical Oncology 
+
+TEXT was designed to determine the role of adjuvant therapy with the AI exemestane versus tamoxifen in premenopausal women treated with OFS from the start of adjuvant therapy. Between November 2003 and March 2011, 2,672 eligible women were randomly assigned at a 1:1 ratio to 5 years of exemestane plus OFS or 5 years of tamoxifen plus OFS. OFS was performed through gonadotropin-releasing hormone agonist triptorelin administration, bilateral oophorectomy, or ovarian irradiation. Chemotherapy was optional and, if administered, was started concurrently with triptorelin. Random assignment was stratiﬁed according to intended use of adjuvant chemotherapy and lymph node status. SOFT was designed to determine the value of adding OFS to tamoxifen and the role of exemestane plus OFS in two cohorts of premenopausal women: those who remained premenopausal after completion of (neo)adjuvant chemotherapy and those for whom adjuvant tamoxifen alone was considered suitable treatment. Between December 2003 and January 2011, 3,066 eligible women were randomly assigned at a 1:1:1 ratio to 5 years of exemestane plus OFS, tamoxifen plus OFS, or tamoxifen alone. Random assignment was stratiﬁed according to use of prior chemotherapy, lymph node status, and intended initial method of OFS (if randomly assigned to OFS). The ethics committee at each participating center approved the study protocols, and all patients provided written informed consent for trial participation, including protocol-mandated central pathology review. Eighty-four percent of trial patients had tumor tissue prospectively collected for central review of histopathologic features and expression of ER, PgR, and HER2 and Ki-67 labeling index (hereafter, Ki-67) at the International Breast Cancer Study Group Central Pathology Ofﬁce as previously described.10 
+
+End Point and Statistical Considerations The analysis population included 4,891 patients with hormone receptor–positive, HER2-negative tumors. Excluded from the intentionto-treatment trial populations (n = 5,707) were: ﬁve ineligible patients (locally assessed as hormone receptor negative and no central assessment), 64 patients for whom central assessment of submitted material did not detect any ER or PgR, and 747 patients with tumors assessed centrally or locally as HER2 positive (Fig 1). The end point for this analysis was BCFI, deﬁned as time from random assignment to ﬁrst appearance of invasive breast cancer recurrence (local, regional, or distant) or invasive contralateral breast cancer; in the absence of an event, patients were censored at date of last follow-up. BCFI, rather than disease-free survival, was chosen as the end point to disregard second (nonbreast) malignancies that occurred at similar frequencies across treatment groups and the few deaths that occurred without a prior cancer event.4,5 The median follow-up was 6 years in TEXT and 5.6 years in SOFT. To deﬁne the composite measure of recurrence risk (hereafter referred to as composite risk), a Cox proportional hazards model for BCFI, stratiﬁed by cohort (deﬁned by trial and chemotherapy use) and treatment assignment, was estimated for the entire hormone receptor–positive, HER2-negative analytic population. This stratiﬁed model, rather than a model estimated in the control group patients only,11,12 was necessary because the two trials did not have a common control group, and we preferred to examine the two trial populations using the same risk scale. Prognostic factors included in the model and their groupings were speciﬁed a priori on the basis of usual clinical cutpoints and prior St Gallen Consensus statements, and there was no intention to optimize the model on the basis of model selection procedures (Table 1). The exceptions were as follows: grouping those with ER levels lower than 50% together, instead of creating two groups of ER levels lower than 10% (n = 39) and ER levels between 11% and 49% (n = 157), because of small numbers with low ER expression in this hormone receptor–positive, HER2-negative population; adding a subgroup of Ki-67 $ 26% or higher, corresponding to the upper 20th percentile of the distribution; and omitting peritumoral lymphovascular invasion JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Absolute Beneﬁt of Endocrine Therapies for Breast Cancer 
+
+TEXT and SOFT ITT population (N = 5,707) 
+
+Excluded Submitted material; not hormone receptor positive Ineligible; locally determined hormone receptor negative Tumor HER2 positive by central or local determination 
+
+(n = 816) (n = 64) (n = 5) (n = 747) 
+
+TEXT and SOFT hormone receptor–positive, HER2-negative analysis population (n = 4,891) 
+
+SOFT no-chemotherapy (n = 1,353) cohort Exemestane plus OFS (n = 454) (n = 449) Tamoxifen plus OFS (n = 450) Tamoxifen alone 
+
+TEXT no-chemotherapy cohort Exemestane plus OFS Tamoxifen plus OFS 
+
+(n = 991) (n = 493) (n = 498) 
+
+TEXT chemotherapy (n = 1,276) cohort Exemestane plus OFS (n = 644) (n = 632) Tamoxifen plus OFS 
+
+SOFT prior-chemotherapy (n = 1,271) cohort Exemestane plus OFS (n = 416) (n = 423) Tamoxifen plus OFS (n = 432) Tamoxifen alone 
+
+Fig 1. Flow diagram of the 4,891 patients included in the TEXT (Tamoxifen and Exemestane Trial) and SOFT (Suppression of Ovarian Function Trial) hormone receptor–positive, human epidermal growth factor receptor 2 (HER2) –negative analysis population. OFS, ovarian function suppression. 
+
+because it did not add to the model (parameter estimate 6 standard error, 0.04 6 0.10). Unknown categories were included because of unavailable data. For tumor grade and ER and PgR expression, the centrally determined values were used when available, and locally determined values were used otherwise; Ki-67 expression was available only from central assessment. For each trial patient, the value of composite risk was calculated by summing the model parameter estimates corresponding to her observed clinicopathologic factor values. The nonparametric sliding-window subpopulation treatment effect pattern plot (STEPP) methodology13,14 was used to investigate patterns in absolute treatment effect, as measured by Kaplan-Meier estimates of 5-year BCFI (y-axis), across the continuum of the values of composite risk (x-axis). 
+
+RESULTS 
+
+Characteristics of the 4,891 patients in the hormone receptor– positive, HER2-negative analysis population according to cohort, as deﬁned by trial and chemotherapy use, are summarized in Table 1. The relation of each factor with BCFI, without regard for cohort or treatment assignment, is summarized in Figure 2. The clinicopathologic characteristics with greatest contribution to the composite measure of recurrence risk relative to the complementary reference categories were young age (, 35 years), four or more positive lymph nodes, and grade 2 to 3 tumor (Table 2). Overall, the 5-year BCFI was 90.8% (473 of 4,891 patients had invasive breast cancer events), ranging from 98.6% to 77.5% among patients with composite risk in the lowest and highest quartiles, respectively (Fig 3). The sliding-window STEPP similarly illustrates 5-year BCFI across the continuum of composite risk, ranging near 100% in STEPP subpopulations with the lowest composite risk to below 70% in the subpopulation with the www.jco.org 
+
+highest composite risk. As expected from the distributions of the individual factors (Table 1) and their role in decision making about chemotherapy, the composite risk distributions were shifted lower in the cohorts that did not receive chemotherapy and higher in those that did (Fig 4). The STEPPs of 5-year BCFI according to composite risk showed distinct patterns of absolute treatment effect (Fig 4). 
+
+Patients for Whom Tamoxifen Alone Was Considered Appropriate Adjuvant Therapy: SOFT No-Chemotherapy Cohort In the SOFT cohort of patients who did not receive chemotherapy, in which tamoxifen alone was considered an appropriate therapy for eligible patients, the composite risk was lowest, and 5-year BCFI was 96.1% overall (Figs 4A and 4B). Patients did well with all endocrine therapies. There was no apparent pattern across the spectrum of composite risk, suggesting no clinically relevant improvement in 5-year BCFI with exemestane plus OFS or tamoxifen plus OFS versus tamoxifen alone (standard of care) in this lower-risk patient cohort. Patients for Whom OFS Was Planned As Part of Adjuvant Therapy: TEXT Cohorts In the TEXT cohort of patients whose treatment included OFS but not chemotherapy, 5-year BCFI was 96.1% overall, and exemestane plus OFS on average improved 5-year BCFI by 3.6% versus tamoxifen plus OFS. The pattern of treatment effect according to composite risk distribution was striking (Figs 4C and 4D). Improvement in 5-year BCFI was minimal—approximately 1%—in subpopulations with lowest composite risk for whom 5-year BCFI was consistently 95% or more in both treatment © 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+3 
+
+Regan et al 
+
+Table 1. Clinicopathologic Characteristics of the Hormone Receptor–Positive, HER2-Negative Analysis Population Cohort 
+
+Characteristic Age at random assignment, years , 35 35-39 40-44 45-49 $ 50 No. of positive nodes 0 1-3 $4 Tumor size (pathologic), cm Unknown #2 .2 ER expression, % Unknown , 50 $ 50 PgR expression, % Unknown , 20 20-49 $ 50 Tumor grade 1 2 3 Ki-67 expression, % Unknown , 14 14-19 20-25 $ 26 
+
+No Chemotherapy SOFT (n = 1,353) 
+
+No Chemotherapy TEXT (n = 991) 
+
+Chemotherapy TEXT (n = 1,276) 
+
+Prior Chemotherapy SOFT (n = 1,271) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+20 103 370 625 235 
+
+1.5 7.6 27.3 46.2 17.4 
+
+37 113 341 385 115 
+
+3.7 11.4 34.4 38.8 11.6 
+
+141 221 442 403 69 
+
+11.1 17.3 34.6 31.6 5.4 
+
+232 375 407 213 44 
+
+18.3 29.5 32.0 16.8 3.5 
+
+430 812 1,560 1,626 463 
+
+8.8 16.6 31.9 33.2 9.5 
+
+1,235 117 1 
+
+91.3 8.6 0.1 
+
+776 213 2 
+
+78.3 21.5 0.2 
+
+401 561 314 
+
+31.4 44.0 24.6 
+
+527 510 234 
+
+41.5 40.1 18.4 
+
+2,939 1,401 551 
+
+60.1 28.6 11.3 
+
+9 1,162 182 
+
+0.7 85.9 13.5 
+
+3 791 197 
+
+0.3 79.8 19.9 
+
+21 593 662 
+
+1.6 46.5 51.9 
+
+50 630 591 
+
+3.9 49.6 46.5 
+
+83 3,176 1,632 
+
+1.7 64.9 33.4 
+
+14 36 1,303 
+
+1.0 2.7 96.3 
+
+17 20 954 
+
+1.7 2.0 96.3 
+
+23 65 1,188 
+
+1.8 5.1 93.1 
+
+17 75 1,179 
+
+1.3 5.9 92.8 
+
+71 196 4,624 
+
+1.5 4.0 94.5 
+
+22 55 66 1,210 
+
+1.6 4.1 4.9 89.4 
+
+19 58 70 844 
+
+1.9 5.9 7.1 85.2 
+
+26 163 133 954 
+
+2.0 12.8 10.4 74.8 
+
+23 233 131 884 
+
+1.8 18.3 10.3 69.6 
+
+90 509 400 3,892 
+
+1.8 10.4 8.2 79.6 
+
+504 724 125 
+
+37.3 53.5 9.2 
+
+252 587 152 
+
+25.4 59.2 15.3 
+
+165 725 386 
+
+12.9 56.8 30.3 
+
+199 729 343 
+
+15.7 57.4 27.0 
+
+1,120 2,765 1,006 
+
+22.9 56.5 20.6 
+
+270 506 324 152 101 
+
+20.0 37.4 23.9 11.2 7.5 
+
+189 269 262 135 136 
+
+19.1 27.1 26.4 13.6 13.7 
+
+240 199 293 234 310 
+
+18.8 15.6 23.0 18.3 24.3 
+
+266 248 303 216 238 
+
+20.9 19.5 23.8 17.0 18.7 
+
+965 1,222 1,182 737 785 
+
+19.7 25.0 24.2 15.1 16.0 
+
+All Patients (N = 4,891) 
+
+NOTE. Values for grade and ER and PgR expression were centrally determined if available and locally determined otherwise; Ki-67 expression was available only by central determination. Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial; TEXT, Tamoxifen and Exemestane Trial. 
+
+groups. In contrast, in the subpopulations with highest composite risk, the treatment effect for exemestane plus OFS versus tamoxifen plus OFS was on the order of 10% absolute improvement in 5-year BCFI, with exemestane plus OFS achieving 5-year BCFI of 95% or more, as in subpopulations with lower composite risk in this cohort who did not receive chemotherapy. Among TEXT patients initiating adjuvant chemotherapy and gonadotropin-releasing hormone analog concurrently, overall 5-year BCFI was 89.3%, with an average 5.8% absolute improvement with exemestane plus OFS versus tamoxifen plus OFS. Consistent beneﬁt was evident in this cohort across the entire continuum of composite risk (Figs 4E and 4F). The smallest absolute improvement in 5-year BCFI was approximately 3% among patients in the subpopulation with lowest composite risk and 5-year BCFI of 95% or more in both treatment groups. Improvement in 5-year BCFI ranged from 5% to 15% as composite risk increased in this cohort of patients who received chemotherapy. 4 
+
+© 2016 by American Society of Clinical Oncology 
+
+Patients Remaining Premenopausal After (neo)Adjuvant Chemotherapy: SOFT Prior-Chemotherapy Cohort In the SOFT cohort of patients who remained premenopausal after chemotherapy, overall 5-year BCFI was 82.5%. On average, exemestane plus OFS improved 5-year BCFI by 5.4% and 7.4% versus tamoxifen plus OFS and tamoxifen alone, respectively, with a 2.0% improvement for tamoxifen plus OFS versus tamoxifen alone. A consistent beneﬁt with exemestane plus OFS was evident across the continuum of composite risk (Figs 4G and 4H). The absolute beneﬁt was smallest—on the order of 3% absolute beneﬁt—in the subpopulations with lowest composite risk, in which 5-year BCFI was more than 90% for all three treatment groups. Thereafter, with increasing composite risk, the absolute beneﬁt with exemestane plus OFS ranged from approximately 5% to upward of 10% to 15% versus tamoxifen alone. Also apparent was the beneﬁt, on the order of approximately 5%, of adding OFS to tamoxifen versus tamoxifen alone for subpopulations with higher composite risk; this beneﬁt diminished in subpopulations with lower composite risk. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Absolute Beneﬁt of Endocrine Therapies for Breast Cancer 
+
+A 
+
+B 
+
+100 
+
+100 80 
+
+60 40 20 
+
+0 
+
+No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+50 
+
+463 
+
+24 
+
+95.6 ± 1.0 
+
+45–49 
+
+1,626 
+
+89 
+
+94.9 ± 0.6 
+
+40–44 
+
+1,560 
+
+138 
+
+91.2 ± 0.8 
+
+35–39 
+
+812 
+
+125 
+
+85.1 ± 1.4 
+
+< 35 
+
+430 
+
+97 
+
+79.2 ± 2.1 
+
+1 
+
+2 
+
+3 
+
+BCFI (%) 
+
+BCFI (%) 
+
+80 
+
+4 
+
+5 
+
+60 40 20 
+
+6 
+
+0 
+
+D 
+
+100 
+
+BCFI (%) 
+
+BCFI (%) 
+
+40 
+
+2cm > 2cm 
+
+1 
+
+No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+3,176 1,632 
+
+191 265 
+
+94.5 ± 0.4 84.0 ± 1.0 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+N4+ 
+
+551 
+
+154 
+
+72.8 ± 2.1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+40 
+
+0 
+
+F 
+
+50% 
+
+1 
+
+No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+4,624 196 
+
+423 42 
+
+91.2 ± 0.5 82.7 ± 2.8 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+100 80 
+
+BCFI (%) 
+
+BCFI (%) 
+
+89.2 ± 0.9 
+
+Time Since Random Assignment (years) 
+
+60 40 
+
+No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+3,892 
+
+293 
+
+92.6 ± 0.5 
+
+20% to 49% 
+
+400 
+
+66 
+
+85.9 ± 1.8 
+
+< 20% 
+
+509 
+
+103 
+
+81.4 ± 1.8 
+
+50% 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+60 40 20 
+
+6 
+
+Time Since Random Assignment (years) 
+
+G 
+
+158 
+
+1 
+
+20 
+
+80 
+
+0 
+
+1,401 
+
+< 50% 
+
+100 
+
+20 
+
+94.9 ± 0.4 
+
+N1–3 
+
+5-year BCFI (% ± SE) 
+
+60 
+
+Time Since Random Assignment (years) 
+
+E 
+
+161 
+
+80 
+
+60 
+
+0 
+
+2,939 
+
+100 
+
+80 
+
+20 
+
+Events 
+
+N0 
+
+Time Since Random Assignment (years) 
+
+Time Since Random Assignment (years) 
+
+C 
+
+No. of patients 
+
+0 
+
+1 
+
+No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+Grade 1 
+
+1,120 
+
+30 
+
+97.9 ± 0.5 
+
+Grade 2 
+
+2,765 
+
+261 
+
+90.9 ± 0.6 
+
+Grade 3 
+
+1,006 
+
+182 
+
+82.1 ± 1.3 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time Since Random Assignment (years) 
+
+100 
+
+BCFI (%) 
+
+80 60 No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+1,222 
+
+52 
+
+96.7 ± 0.5 
+
+14% to 19% 1,182 
+
+91 
+
+92.5 ± 0.8 
+
+20% to 25% 
+
+737 
+
+93 
+
+86.6 ± 1.4 
+
+26% 
+
+785 
+
+141 
+
+82.9 ± 1.4 
+
+40 < 14% 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time Since Random Assignment (years) 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+5 
+
+Regan et al 
+
+Table 2. Cox Proportional Hazards Model for Deﬁning the Composite Measure of Recurrence Risk for the Hormone Receptor–Positive, HER2-Negative Analysis Population of TEXT and SOFT Parameter Age at random assignment, years , 35 35-39 40-44 45-49 $ 50 No. of positive nodes 0 1-3 $4 Tumor size, cm Unknown #2 .2 ER expression, % Unknown , 50 $ 50 PgR expression, % Unknown , 20 20-49 $ 50 Tumor grade 1 2 3 Ki-67 expression, % Unknown , 14 14-19 20-25 $ 26 
+
+Parameter Estimate 
+
+SE 
+
+x2 
+
+P 
+
+HR 
+
+95% CL 
+
+0.81 0.54 0.23 0 (ref) 0.16 
+
+0.16 0.15 0.14 
+
+25.7 13.4 2.8 
+
+, .01 , .01 .10 
+
+2.2 1.7 1.3 
+
+1.6 to 3.1 1.3 to 2.3 1.0 to 1.7 
+
+0.23 
+
+0.5 
+
+.49 
+
+1.2 
+
+0.7 to 1.8 
+
+0.12 0.13 
+
+9.2 69.1 
+
+, .01 , .01 
+
+1.5 3.1 
+
+1.1 to 1.9 2.4 to 4.0 
+
+0.61 0 (ref) 0.42 
+
+0.26 
+
+5.4 
+
+.02 
+
+1.8 
+
+1.1 to 3.1 
+
+0.10 
+
+16.1 
+
+, .01 
+
+1.5 
+
+1.2 to 1.9 
+
+20.10 0.23 0 (ref) 
+
+0.58 0.17 
+
+0.0 1.8 
+
+.86 .18 
+
+0.9 1.3 
+
+0.3 to 2.8 0.9 to 1.8 
+
+0.95 0.45 0.27 0 (ref) 
+
+0.51 0.12 0.14 
+
+3.5 13.7 3.6 
+
+.06 , .01 .06 
+
+2.6 1.6 1.3 
+
+1.0 to 7.0 1.2 to 2.0 1.0 to 1.7 
+
+0.21 0.24 
+
+18.6 20.8 
+
+, .01 , .01 
+
+2.5 3.0 
+
+1.7 to 3.8 1.9 to 4.9 
+
+0.19 
+
+0.2 
+
+.66 
+
+1.1 
+
+0.7 to 1.6 
+
+0.19 0.19 0.21 
+
+0.1 2.2 4.7 
+
+.72 .14 .03 
+
+1.1 1.3 1.6 
+
+0.7 to 1.6 0.9 to 1.9 1.0 to 2.3 
+
+0 (ref) 0.38 1.12 
+
+0 (ref) 0.93 1.10 0.08 0 (ref) 0.07 0.29 0.45 
+
+Abbreviations: CL, conﬁdence limit; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hazard ratio; PgR, progesterone receptor; ref, referent; SOFT, Suppression of Ovarian Function Trial; TEXT, Tamoxifen and Exemestane Trial. 
+
+DISCUSSION 
+
+The TEXT and SOFT trial results provide new adjuvant endocrine therapy options for premenopausal women that require individual decision making considering potential beneﬁts and adverse effects. The complementary trials were designed to account for the differences worldwide in the use of chemotherapy and OFS as part of adjuvant therapy for premenopausal women with hormone receptor–positive disease. In our analysis, we emulated a clinician’s synthesis of available information to estimate the individual patient’s risk of recurrence by calculating a composite measure of recurrence risk from conventional clinicopathologic factors, including age, nodal status, tumor size, tumor grade, and ER, PgR, and Ki-67 expression. On average, the magnitude of absolute beneﬁt with exemestane plus OFS versus tamoxifen with or without OFS was as great as the beneﬁt with 5 years of AI versus tamoxifen for postmenopausal women— approximately 3% to 4% at 5 years.15-17However, it ranged widely from less than 1% to greater than 15% depending on risk of 
+
+recurrence, as quantiﬁed by the composite measure of recurrence risk. Among women at lowest risk of recurrence who had excellent outcomes with all endocrine therapies—exceeding 95% freedom from breast cancer at 5 years—minimal beneﬁt with exemestane plus OFS was evident. For these women, any beneﬁt of exemestane plus OFS over tamoxifen alone may be judged insufﬁcient to outweigh the additional adverse effects. For women at higher risk of recurrence, initiation and continuation of exemestane plus OFS was of greater beneﬁt, in the range of 10% to 15% at 5 years. Moreover, when the AI cannot be tolerated, the beneﬁt of tamoxifen plus OFS versus tamoxifen alone was also apparent for these women. For women whose recurrence risk was intermediate, the beneﬁt of exemestane plus OFS over tamoxifen with or without OFS was moderate, approximately 5% at 5 years, requiring a balanced discussion of beneﬁts and adverse effects. OFS results in menopausal symptoms and sexual effects,5,7 and the use of an AI versus tamoxifen requires consideration of adverse event tradeoffs,4,6 as documented among postmenopausal women.15,17 Consideration of preference, tolerance, and cost should also 
+
+Fig 2. Kaplan-Meier estimates of breast cancer–free interval (BCFI) in the overall hormone receptor–positive, human epidermal growth factor receptor 2–negative analysis population according to patient and tumor characteristics. (A) Age at random assignment, (B) nodal status, (C) tumor size, (D) estrogen receptor expression, (E) progesterone expression, (F) tumor grade, and (G) Ki-67 expression. 
+
+6 
+
+© 2016 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Absolute Beneﬁt of Endocrine Therapies for Breast Cancer 
+
+A 100 
+
+BCFI (%) 
+
+80 
+
+60 
+
+40 
+
+No. of patients 
+
+Events 
+
+5-year BCFI (% ± SE) 
+
+1,273 
+
+22 
+
+98.6 ± 0.3 
+
+Second quartile 1,179 
+
+59 
+
+95.4 ± 0.7 
+
+Third quartile 
+
+1,219 
+
+105 
+
+91.2 ± 0.9 
+
+Fourth quartile 
+
+1,220 
+
+287 
+
+77.5 ± 1.3 
+
+First quartile 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time Since Random Assignment (years) Quartile 
+
+B 
+
+C 
+
+1st 
+
+3rd 
+
+4th 
+
+600 
+
+100 
+
+500 
+
+80 
+
+No. of Patients 
+
+5-Year BCFI (%) 
+
+2nd 
+
+60 
+
+40 
+
+20 
+
+400 300 200 100 
+
+0 0.16 
+
+0.92 
+
+1.39 1.81 2.16 
+
+2.61 2.98 3.35 
+
+Median Composite Risk in Subpopulations 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Composite Risk 
+
+Fig 3. Breast cancer–free interval (BCFI) in the overall hormone receptor–positive, human epidermal growth factor receptor 2 (HER2) –negative population according to composite risk. (A) Kaplan-Meier estimate of BCFI according to quartile of composite risk distribution. (B) Subpopulation treatment effect pattern plot of 5-year BCFI (y-axis) according to composite risk subpopulation (x-axis). (C) distribution of composite risk scores with quartiles of the distribution marked by horizontal lines. The vertical dashed line indicates the median composite risk of 1.59 in the overall hormone receptor–positive, HER2-negative analysis population; the 25th and 75th percentiles are 1.01 and 2.21, respectively. The rug plot along the x-axis illustrates the distribution of composite risk values. 
+
+inform the decision-making process in this subset of patients at intermediate risk of recurrence. One such scenario was represented by the patients with lower composite risk who were premenopausal after chemotherapy and enrolled in SOFT. These women had 5-year freedom from breast cancer exceeding 90% and an absolute beneﬁt with exemestane plus OFS on the order of 3%. A second intermediate clinical risk scenario were patients enrolled in TEXT with higher composite risk for whom OFS but not chemotherapy was planned. For patients enrolled in TEXT, the decision not to administer chemotherapy included knowledge that all patients would receive OFS, whereas in SOFT, OFS was administered by random assignment. Consequently, the TEXT nochemotherapy cohort tended to have higher-risk characteristics than the SOFT no-chemotherapy cohort of patients, who were considered suitable for tamoxifen alone (Table 3). The magnitude of beneﬁt with exemestane plus OFS versus tamoxifen plus OFS displayed a distinct pattern for patients in this scenario, with an www.jco.org 
+
+absolute beneﬁt of approximately 10% among subpopulations at the higher end of composite risk. The patients assigned to exemestane plus OFS from the start of adjuvant therapy had excellent outcomes using combined endocrine therapy without chemotherapy. The TEXT results suggest that in the intermediaterisk clinical scenario where the physician and patient decide to forego chemotherapy but use OFS, initiation of adjuvant OFS with the AI rather than with tamoxifen provides the greatest probability of remaining free from breast cancer at 5 years. The composite measure of recurrence risk was derived within the TEXT and SOFT populations; it may not be directly applicable to other trial or patient cohorts and was not intended to be applied to future individual patients. The composite risk was an efﬁcient means to systematically characterize a population of nearly 5,000 patients as a representation of algorithms and assays that may be used clinically worldwide. It is worth considering the distribution of patient characteristics relative to the overall median composite risk, because the treatment effect © 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+7 
+
+Regan et al 
+
+B 
+
+5-Year BCFI (%) 
+
+100 80 60 40 Exemestane plus OFS 
+
+20 
+
+250 
+
+No. of Patients 
+
+A 
+
+Tamoxifen plus OFS 
+
+200 150 100 50 
+
+Tamoxifen alone 
+
+0 0.16 0.51 
+
+1.00 
+
+0 
+
+1.50 
+
+1 
+
+D 
+
+5-Year BCFI (%) 
+
+100 80 60 40 20 
+
+3 
+
+4 
+
+3 
+
+4 
+
+3 
+
+4 
+
+3 
+
+4 
+
+250 
+
+No. of Patients 
+
+C 
+
+2 
+
+Composite Risk 
+
+Median Composite Risk in Subpopulation 
+
+Exemestane plus OFS 
+
+200 150 100 50 
+
+Tamoxifen plus OFS 
+
+0 0.45 
+
+1.01 
+
+1.55 
+
+0 
+
+2.08 
+
+1 
+
+F 
+
+5-Year BCFI (%) 
+
+100 80 60 40 20 
+
+250 
+
+No. of Patients 
+
+E 
+
+2 
+
+Composite Risk 
+
+Median Composite Risk in Subpopulation 
+
+Exemestane plus OFS 
+
+200 150 100 50 
+
+Tamoxifen plus OFS 
+
+0 1.10 
+
+1.59 
+
+2.07 
+
+2.61 2.99 
+
+0 
+
+1 
+
+Median Composite Risk in Subpopulation 
+
+H 
+
+100 
+
+5-Year BCFI (%) 
+
+Composite Risk 
+
+80 60 40 Exemestane plus OFS 
+
+20 
+
+Tamoxifen plus OFS 
+
+250 
+
+No. of Patients 
+
+G 
+
+2 
+
+200 150 100 50 
+
+Tamoxifen alone 
+
+0 1.35 
+
+1.93 
+
+2.47 
+
+3.08 
+
+Median Composite Risk in Subpopulation 
+
+8 
+
+© 2016 by American Society of Clinical Oncology 
+
+0 
+
+1 
+
+2 
+
+Composite Risk 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Absolute Beneﬁt of Endocrine Therapies for Breast Cancer 
+
+Table 3. Distribution of Composite Measure of Recurrence Risk According to Clinicopathologic Characteristics Composite Risk Quartile (%)* Characteristic Cohort SOFT no chemotherapy TEXT no chemotherapy TEXT chemotherapy SOFT prior chemotherapy Age at random assignment, years , 35 35-39 40-44 45-49 $ 50 No. of positive nodes 0 1-3 $4 Tumor size (pathologic), cm Unknown #2 .2 ER expression, % Unknown , 50 $ 50 PgR expression, % Unknown , 20 20-49 $ 50 Tumor grade 1 2 3 Ki-67 expression, % Unknown , 14 14-19 20-25 $ 26 
+
+No. of Patients 
+
+1 
+
+2 
+
+3 
+
+4 
+
+1,353 991 1,276 1,271 
+
+50 33 11 10 
+
+34 34 13 17 
+
+14 26 30 30 
+
+3 6 45 43 
+
+430 812 1,560 1,626 463 
+
+3 10 19 45 33 
+
+4 16 26 27 40 
+
+22 30 32 18 18 
+
+71 44 23 10 8 
+
+2,939 1,401 551 
+
+37 13 — 
+
+33 15 2 
+
+22 38 9 
+
+8 35 89 
+
+83 3,176 1,632 
+
+4 36 8 
+
+7 31 11 
+
+34 22 30 
+
+55 11 51 
+
+71 196 4,624 
+
+13 12 27 
+
+17 12 25 
+
+28 18 25 
+
+42 58 23 
+
+90 509 400 3,892 
+
+9 3 13 31 
+
+17 8 13 28 
+
+26 22 26 25 
+
+49 67 48 16 
+
+1,120 2,765 1,006 
+
+85 12 — 
+
+10 35 10 
+
+4 31 31 
+
+1 22 59 
+
+965 1,222 1,182 737 785 
+
+25 64 20 2 0 
+
+23 21 37 28 9 
+
+26 11 27 36 31 
+
+26 5 15 35 59 
+
+NOTE. Percentages sum across the rows. Abbreviations: ER, estrogen receptor; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial; TEXT, Tamoxifen and Exemestane Trial. *Quartiles deﬁned by composite risk cutoffs of 1.01, 1.59, and 2.21. 
+
+patterns generally diverged around this point in the spectrum of composite risk. For example, the 2015 St Gallen Consensus Panel considered age younger than 35 years, four or more positive lymph nodes, persistent premenopausal estrogen level after adjuvant chemotherapy (ie, the SOFT chemotherapy cohort), and grade 3 tumor as factors warranting the use of OFS or an AI plus OFS.18 Indeed, in the TEXT and SOFT hormone receptor–positive, HER2-negative population, age younger than 35 years, four or more positive lymph nodes, and grade 3 tumor were the most inﬂuential features contributing to a high composite risk relative to their referent categories (Data Supplement). When 
+
+considered with coexisting factors, 93% (age , 35 years), 98% ($ four positive nodes), and 90% (grade 3 tumor) of patients had composite risk greater than the overall median of the distribution (Table 3; Data Supplement). Chemotherapy was administered to 87%, 99%, and 72% of these patients, respectively (Table 1), and the beneﬁt of exemestane plus OFS versus tamoxifen, with or without OFS, would have been at least 5% and could have been as much as 10% to 15% for most of these patients, depending on composite risk. Thus, in addition to younger patients, those patients considered—by clinicopathologic features or an assay—to be at high risk of recurrence have potential for large absolute beneﬁt with the use of adjuvant exemestane plus OFS. That our model for composite risk included Ki-67 measured in a central laboratory may be considered a limitation. The clinical utility of Ki-67 measured locally by immunohistochemistry remains uncertain. 19,20 However the inclusion of proliferation genes in multigene assays underscores the importance of including a measure of proliferation as part of a prognostic measure.21,22 The STEPP method facilitated investigation of a continuous factor in relation to disease outcome, but some features may be considered shortcomings. Investigating absolute treatment effect required the speciﬁcation of the 5-year time point. The method illustrates pattern rather than focusing on testing comparisons of 5-year BCFI or deﬁning cutpoints for the continuous factor. In addition, TEXT and SOFT did not investigate sequential treatment strategies analogous to tamoxifen followed by AI for postmenopausal women, and we do not know if 5 years of exemestane plus OFS is more efﬁcacious than a sequential strategy. At the median follow-up of fewer than 6 years, 4% of patients with hormone receptor–positive, HER2-negative disease had died, and followup was too short to estimate treatment effects on overall survival. Further follow-up of TEXT and SOFT patients is essential to guide patient care. TEXT and SOFT demonstrated that premenopausal women with hormone receptor–positive disease beneﬁt, on average, from exemestane plus OFS versus tamoxifen with or without OFS. However, individualized treatment decisions should weigh the beneﬁts against the adverse effects and costs of these therapy options. In the absence of predictive biomarkers, consideration of a patient’s prognosis, as illustrated by STEPP analysis of a composite measure of recurrence risk in the TEXT and SOFT populations, is integral to this decision making. The STEPP analysis further supports the option of adjuvant tamoxifen alone without chemotherapy for some premenopausal women with hormone receptor–positive, HER2-negative disease at low risk of recurrence. It also demonstrates that the absolute improvement in 5-year BCFI with exemestane plus OFS over tamoxifen—with or without OFS—is substantial in some women with hormone receptor–positive, HER2-negative disease, particularly those regarded as having high recurrence risk. 
+
+Fig 4. Subpopulation treatment effect pattern plot of 5-year breast cancer–free interval (BCFI) in the hormone receptor–positive, human epidermal growth factor receptor 2 (HER2) –negative population according to (A, C, E, G) composite risk subpopulations and (B, D, F, H) distribution of composite risk for each of the four cohorts deﬁned by trial and chemotherapy use. (A, B) SOFT (Suppression of Ovarian Function Trial) no-chemotherapy cohort, (C, D) TEXT (Tamoxifen and Exemestane Trial) no-chemotherapy cohort, (E, F) TEXT chemotherapy cohort, and (G, H) SOFT prior-chemotherapy cohort. The vertical dashed lines indicate the median composite risk of 1.59 in the overall hormone receptor–positive, HER2-negative analysis population. OFS, ovarian function suppression. 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+9 
+
+Regan et al 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at www.jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Meredith M. Regan, Prudence A. Francis, Olivia Pagani, Gini F. Fleming, Giuseppe Viale, Alan S. Coates, Aron Goldhirsch, Richard D. Gelber 
+
+REFERENCES 1. Burstein HJ, Temin S, Anderson H, et al: Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: American Society of Clinical Oncology clinical practice guideline focused update. J Clin Oncol 32:2255-2269, 2014 2. Goldhirsch A, Winer EP, Coates AS, et al: Personalizing the treatment of women with early breast cancer: Highlights of the St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2013. Ann Oncol 24:2206-2223, 2013 3. Regan MM, Pagani O, Fleming GF, et al: Adjuvant treatment of premenopausal women with endocrine-responsive early breast cancer: Design of the TEXT and SOFT trials. Breast 22:1094-1100, 2013 4. Pagani O, Regan MM, Walley BA, et al: Adjuvant exemestane with ovarian suppression in premenopausal breast cancer. N Engl J Med 371: 107-118, 2014 5. Francis PA, Regan MM, Fleming GF, et al: Adjuvant ovarian suppression in premenopausal breast cancer. N Engl J Med 372:436-446, 2015 6. Bernhard J, Luo W, Ribi K, et al: Patientreported outcomes with adjuvant exemestane versus tamoxifen in premenopausal women with early breast cancer undergoing ovarian suppression (TEXT and SOFT): A combined analysis of two phase 3 randomised trials. Lancet Oncol 16:848-858, 2015 7. Ribi K, Luo W, Bernhard J, et al: Adjuvant tamoxifen plus ovarian function suppression versus tamoxifen alone in premenopausal women with early 
+
+Administrative support: Karen N. Price Provision of study materials or patients: Prudence A. Francis, Olivia Pagani, Gini F. Fleming, Barbara A. Walley, Giuseppe Viale, Marco Colleoni, István Láng, Henry L. Gómez, Carlo Tondini, Graziella Pinotti, Collection and assembly of data: Meredith M. Regan, Prudence A. Francis, Olivia Pagani, Gini F. Fleming, Barbara A. Walley, Giuseppe Viale, Marco Colleoni, István Láng, Henry L. Gómez, Carlo Tondini, Graziella Pinotti Data analysis and interpretation: Meredith M. Regan, Prudence A. Francis, Olivia Pagani, Gini F. Fleming, Barbara A. Walley, Giuseppe Viale, Karen N. Price, Alan S. Coates, Aron Goldhirsch, Richard D. Gelber Manuscript writing: All authors Final approval of manuscript: All authors 
+
+breast cancer: Patient-reported outcome in the SOFT trial. J Clin Oncol doi:10.1200/JCO.2015.64.8675 8. Regan MM, Pagani O, Walley B, et al: Premenopausal endocrine-responsive early breast cancer: Who receives chemotherapy? Ann Oncol 19: 1231-1241, 2008 9. Viale G, Regan MM, Dell’Orto P, et al: Which patients beneﬁt most from adjuvant aromatase inhibitors? Results using a composite measure of prognostic risk in the BIG 1-98 randomized trial. Ann Oncol 22:2201-2207, 2011 10. Regan MM, Pagani O, Francis PA, et al: Predictive value and clinical utility of centrally assessed ER, PgR, and Ki-67 to select adjuvant endocrine therapy for premenopausal women with hormone receptor-positive, HER2-negative early breast cancer: TEXT and SOFT trials. Breast Cancer Res Treat 154:275-286, 2015 11. Pocock SJ, Lubsen J: More on subgroup analyses in clinical trials. N Engl J Med 358:2076, 2008; author reply 2076-2077 12. Pocock SJ, Stone GW, Mehran R, et al: Individualizing treatment choices using quantitative methods. Am Heart J 168:607-610, 2014 13. Lazar AA, Cole BF, Bonetti M, et al: Evaluation of treatment-effect heterogeneity using biomarkers measured on a continuous scale: Subpopulation treatment effect pattern plot. J Clin Oncol 28: 4539-4544, 2010 14. Bonetti M, Gelber RD: Patterns of treatment effects in subsets of patients in clinical trials. Biostatistics 5:465-481, 2004 15. Colleoni M, Giobbie-Hurder A, Regan MM, et al: Analyses adjusting for selective crossover show 
+
+improved overall survival with adjuvant letrozole compared with tamoxifen in the BIG 1-98 study. J Clin Oncol 29:1117-1124, 2011 16. Regan MM, Neven P, Giobbie-Hurder A, et al: Assessment of letrozole and tamoxifen alone and in sequence for postmenopausal women with steroid hormone receptor-positive breast cancer: The BIG 1-98 randomised clinical trial at 8$1 years median follow-up. Lancet Oncol 12:1101-1108, 2011 17. Howell A, Cuzick J, Baum M, et al: Results of the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial after completion of 5 years’ adjuvant treatment for breast cancer. Lancet 365: 60-62, 2005 18. Coates AS, Winer EP, Goldhirsch A, et al: -Tailoring therapies-improving the management of early breast cancer: St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2015. Ann Oncol 26:1533-1546, 2015 19. Polley MY, Leung SC, McShane LM, et al: An international Ki67 reproducibility study. J Natl Cancer Inst 105:1897-1906, 2013 20. Polley MY, Leung SC, Gao D, et al: An international study to increase concordance in Ki67 scoring. Mod Pathol 28:778-786, 2015 21. de Azambuja E, Cardoso F, de Castro G Jr, et al: Ki-67 as prognostic marker in early breast cancer: A meta-analysis of published studies involving 12,155 patients. Br J Cancer 96:1504-1513, 2007 22. Wirapati P, Sotiriou C, Kunkel S, et al: Metaanalysis of gene expression proﬁles in breast cancer: Toward a uniﬁed understanding of breast cancer subtyping and prognosis signatures. Breast Cancer Res 10: R65, 2008 
+
+Affiliations Meredith M. Regan and Richard D. Gelber, Dana-Farber Cancer Institute, Harvard Medical School; Karen N. Price and Richard D. Gelber, Frontier Science and Technology Research Foundation; Richard D. Gelber, Harvard T.H. Chan School of Public Health, Boston, MA; Prudence A. Francis, MacCallum Cancer Center, St Vincent’s Hospital, University of Melbourne, Melbourne; University of Newcastle, Newcastle; Alan S. Coates, University of Sydney, Sydney, Australia; Olivia Pagani, Institute of Oncology of Southern Switzerland, Lugano Viganello, Switzerland; Gini F. Fleming, University of Chicago Medical Center, Chicago, IL; Barbara A. Walley, National Cancer Institute of Canada Clinical Trials Group, Calgary, Alberta, Canada; Giuseppe Viale, University of Milan; Giuseppe Viale, Marco Colleoni, and Aron Goldhirsch, European Institute of Oncology, Milan; Carlo Tondini, Ospedale Papa Giovanni XXIII, Bergamo; Graziella Pinotti, Ospedale di Circolo and Fondazione Macchi, Varese, Italy; István Láng, National Institute of Oncology, Budapest, Hungary; Henry L. Gómez, Instituto Nacional de Enfermedades Neoplásticas, Lima, Peru. 
+
+10 
+
+© 2016 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Absolute Beneﬁt of Endocrine Therapies for Breast Cancer 
+
+Support Supported by the International Breast Cancer Study Group (IBCSG), the National Cancer Institute, and Pﬁzer, which along with Ipsen also provided trial drugs (SOFT and TEXT trials); by the Frontier Science and Technology Research Foundation, the Swiss Group for Clinical Cancer Research, Cancer Research Switzerland/Oncosuisse, the Foundation for Clinical Cancer Research of Eastern Switzerland, Grant No. CA75362 from the National Cancer Institute, Promise Grant No. KG080081 from Susan G. Komen for the Cure, and the Breast Cancer Research Foundation (IBCSG); by Grants No. 351161 and 510788 from the National Health and Medical Research Council to the Australia and New Zealand Breast Cancer Trials Group; by Grant No. CA32102 from the National Institutes of Health (NIH) to SWOG; by Grant No. CA180821 from the NIH to the Alliance for Clinical Trials in Oncology; by Grants No. CA21115 and CA16116 from the NIH to the Eastern Cooperative Oncology Group–American College of Radiology Imaging Network; by Grants No. U10-CA-12027, U10-CA69651, U10-CA-37377, and U10-CA-69974 from the NIH to the National Surgical Adjuvant Breast and Bowel Project/NRG Oncology; by Grant No. CA077202 from the NIH and Grants No. 015469 and 021039 from the Canadian Cancer Society Research Institute to the National Cancer Institute of Canada Clinical Trials Group; and by Cancer Research UK (CRUK), Grants No. 03/022, 03/023, and A15955 from CRUK, the National Institute for Health Research Royal Marsden/Institute of Cancer Research (ICR) Biomedical Research Centre, and the NIHR Cambridge Biomedical Research Centre to the ICR–Clinical Trials and Statistics Unit (CTSU) on behalf of the National Cancer Research Institute (NCRI) Breast Clinical Studies Group (BCSG) United Kingdom (NCRI-BCSG–ICR-CTSU partnership). n n n 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+11 
+
+Regan et al 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Absolute Beneﬁt of Adjuvant Endocrine Therapies for Premenopausal Women With Hormone Receptor–Positive, Human Epidermal Growth Factor Receptor 2–Negative Early Breast Cancer: TEXT and SOFT Trials The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc. Meredith M. Regan Research Funding: Veridex (Inst), OncoGenex (Inst), Pﬁzer (Inst), Ipsen (Inst), Novartis (Inst), Merck (Inst), Ferring Pharmaceuticals (Inst), Celgene (Inst), AstraZeneca (Inst) Prudence A. Francis Travel, Accommodations, Expenses: Roche, Pﬁzer Olivia Pagani Honoraria: Novartis, Pﬁzer 
+
+István Láng No relationship to disclose Henry L. Gómez No relationship to disclose Carlo Tondini No relationship to disclose Graziella Pinotti No relationship to disclose 
+
+Gini F. Fleming Research Funding: Corcept Therapeutics (Inst) Other Relationship: Aeterna Zentaris 
+
+Karen N. Price No relationship to disclose 
+
+Barbara A. Walley No relationship to disclose 
+
+Alan S. Coates No relationship to disclose 
+
+Giuseppe Viale Honoraria: GlaxoSmithKline Consulting or Advisory Role: Dako, Genentech, AstraZeneca Speakers’ Bureau: Novartis Travel, Accommodations, Expenses: Roche 
+
+Aron Goldhirsch No relationship to disclose Richard D. Gelber Research Funding: AstraZeneca (Inst), GlaxoSmithKline (Inst), Novartis (Inst), Roche (Inst), Celgene (Inst), Merck (Inst), Pﬁzer (Inst) 
+
+Marco Colleoni Honoraria: Novartis Consulting or Advisory Role: Boehringer Ingelheim, AbbVie, AstraZeneca, Pierre Fabre, Pﬁzer 
+
+© 2016 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+Absolute Beneﬁt of Endocrine Therapies for Breast Cancer 
+
+Acknowledgment We thank the patients, physicians, nurses, trial coordinators, and pathologists who participated in the TEXT and SOFT clinical trials. 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at University of Ca San Diego on April 4, 2016 from Copyright © 2016 American Society of Clinical Oncology. All rights reserved. 132.239.1.231 
+
+ 

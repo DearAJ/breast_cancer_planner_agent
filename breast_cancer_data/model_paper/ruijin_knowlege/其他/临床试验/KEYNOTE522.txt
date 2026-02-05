@@ -1,0 +1,749 @@
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Original Article 
+
+Pembrolizumab for Early Triple-Negative Breast Cancer P. Schmid, J. Cortes, L. Pusztai, H. McArthur, S. Kümmel, J. Bergh, C. Denkert, Y.H. Park, R. Hui, N. Harbeck, M. Takahashi, T. Foukakis, P.A. Fasching, F. Cardoso, M. Untch, L. Jia, V. Karantza, J. Zhao, G. Aktan, R. Dent, and J. O’Shaughnessy, for the KEYNOTE-522 Investigators*​​ 
+
+A BS T R AC T BACKGROUND The authors’ full names, academic degrees, and affiliations are listed in the Appendix. Address reprint requests to Dr. Schmid at the Centre for Experimental Cancer Medicine, Barts Cancer Institute, Queen Mary University of London, Old Anatomy Bldg., Charterhouse Sq., London EC1M 6BQ, United Kingdom, or at ­p​.­schmid@​­qmul​.­ac​.­uk. *A complete list of investigators who participated in the KEYNOTE-522 trial is provided in the Supplementary Appendix, available at NEJM.org. Drs. Dent and O’Shaughnessy contributed equally to this article. N Engl J Med 2020;382:810-21. DOI: 10.1056/NEJMoa1910549 Copyright © 2020 Massachusetts Medical Society. 
+
+Previous trials showed promising antitumor activity and an acceptable safety profile associated with pembrolizumab in patients with early triple-negative breast cancer. Whether the addition of pembrolizumab to neoadjuvant chemotherapy would significantly increase the percentage of patients with early triple-negative breast cancer who have a pathological complete response (defined as no invasive cancer in the breast and negative nodes) at definitive surgery is unclear. METHODS 
+
+In this phase 3 trial, we randomly assigned (in a 2:1 ratio) patients with previously untreated stage II or stage III triple-negative breast cancer to receive neoadjuvant therapy with four cycles of pembrolizumab (at a dose of 200 mg) every 3 weeks plus paclitaxel and carboplatin (784 patients; the pembrolizumab–chemotherapy group) or placebo every 3 weeks plus paclitaxel and carboplatin (390 patients; the placebo–chemotherapy group); the two groups then received an additional four cycles of pembrolizumab or placebo, and both groups received doxorubicin–cyclophosphamide or epirubicin–cyclophosphamide. After definitive surgery, the patients received adjuvant pembrolizumab or placebo every 3 weeks for up to nine cycles. The primary end points were a pathological complete response at the time of definitive surgery and event-free survival in the intention-to-treat population. RESULTS 
+
+At the first interim analysis, among the first 602 patients who underwent randomization, the percentage of patients with a pathological complete response was 64.8% (95% confidence interval [CI], 59.9 to 69.5) in the pembrolizumab–chemotherapy group and 51.2% (95% CI, 44.1 to 58.3) in the placebo–chemotherapy group (estimated treatment difference, 13.6 percentage points; 95% CI, 5.4 to 21.8; P<0.001). After a median follow-up of 15.5 months (range, 2.7 to 25.0), 58 of 784 patients (7.4%) in the pembrolizumab–chemotherapy group and 46 of 390 patients (11.8%) in the placebo–chemotherapy group had disease progression that precluded definitive surgery, had local or distant recurrence or a second primary tumor, or died from any cause (hazard ratio, 0.63; 95% CI, 0.43 to 0.93). Across all treatment phases, the incidence of treatment-related adverse events of grade 3 or higher was 78.0% in the pembrolizumab–chemotherapy group and 73.0% in the placebo–chemotherapy group, including death in 0.4% (3 patients) and 0.3% (1 patient), respectively. CONCLUSIONS 
+
+Among patients with early triple-negative breast cancer, the percentage with a pathological complete response was significantly higher among those who received pembrolizumab plus neoadjuvant chemotherapy than among those who received placebo plus neoadjuvant chemotherapy. (Funded by Merck Sharp & Dohme [a subsidiary of Merck]; KEYNOTE-522 ClinicalTrials.gov number, NCT03036488.) 810 
+
+n engl j med 382;9 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+Pembrolizumab for Triple-Negative Breast Cancer 
+
+H 
+
+igh-risk early triple-negative breast cancer is frequently associated with early recurrence and high mortality.1 Neoadjuvant chemotherapy is the preferred treatment approach.2-4 In addition to potentially increasing the likelihood of tumor resectability and breast conservation, patients who have a pathological complete response after neoadjuvant therapy have longer event-free survival (defined as the time from randomization to the date of disease progression that precluded definitive surgery, the date of local or distant recurrence or the occurrence of a second primary tumor, or the date of death from any cause) and overall survival.5-8 Accordingly, regulatory guidance supports the use of the pathological complete response as an end point for clinical testing of neoadjuvant treatment in patients with early triple-negative breast cancer.9,10 Pembrolizumab (Keytruda, Merck Sharp & Dohme), an anti–programmed death 1 (PD-1) monoclonal antibody, has been shown to have antitumor activity and a range of mainly lowgrade toxic effects in patients with metastatic triple-negative breast cancer, especially when used as first-line treatment.11-13 Immune checkpoint inhibition may enhance endogenous anticancer immunity after increased release of tumor-specific antigens with chemotherapy.14 Preliminary results from the phase 1b KEYNOTE-173 trial showed that pembrolizumab plus neoadjuvant chemotherapy, with or without carboplatin, had promising antitumor activity without a major increase in serious toxic effects in patients with locally advanced triple-negative breast cancer.15 In the phase 2 I-SPY2 trial, the estimated percentage of patients with human epidermal growth factor receptor 2 (HER2)–negative breast cancers who had a pathological complete response was higher among those who received pembrolizumab combined with neoadjuvant chemotherapy than among those who received neoadjuvant chemotherapy alone.16 We conducted the phase 3 KEYNOTE-522 trial to evaluate the efficacy and safety of neoadjuvant pembrolizumab–chemotherapy as compared with neoadjuvant placebo–chemotherapy, followed by adjuvant pembrolizumab or placebo in patients with early triple-negative breast cancer. 
+
+firmed triple-negative breast cancer in all foci (as defined by the guidelines of the American Society of Clinical Oncology–College of American Pathologists)17-19; newly diagnosed, previously untreated, nonmetastatic disease (tumor stage T1c, nodal stage N1-2, or tumor stage T2-4, nodal stage N0-2, according to the primary tumor–regional lymph node staging criteria of the American Joint Committee on Cancer, 7th edition),20 as determined by the investigator in radiologic assessment, clinical assessment, or both; an Eastern Cooperative Oncology Group performance-status score21 of 0 or 1 (on a 5-point scale, with higher numbers indicating greater disability); and adequate organ function. Patients with bilateral or multifocal primary tumors and inflammatory breast cancers were eligible for enrollment. Exclusion criteria included active autoimmune disease for which the patient had received systemic treatment within the previous 2 years, a diagnosis of immunodeficiency or use of immunosuppressive therapy within the previous week, a history of human immunodeficiency virus infection, a history of noninfectious pneumonitis for which the patient had received glucocorticoids, current pneumonitis, active tuberculosis, active hepatitis B virus or hepatitis C virus infection, any active infection for which the patient was receiving systemic therapy, and clinically significant cardiovascular disease. Full eligibility criteria are listed in the trial protocol, available with the full text of this article at NEJM.org. Trial Design and Treatment 
+
+In this randomized, double-blind trial, patients received treatment in a neoadjuvant phase and an adjuvant phase; no crossover was permitted between the phases. Randomization was performed with the use of a central interactive voice-response system with an integrated Webresponse system. Patients were stratified before randomization according to nodal status (positive or negative), tumor size (T1 to T2 or T3 to T4), and schedule of carboplatin administration (once weekly or every 3 weeks). Patients were randomly assigned, in a 2:1 ratio, to receive either pembrolizumab or placebo. In the neoadjuvant phase, they received four cycles of an intravenous infusion of pembrolizumab Me thods (200 mg) or placebo once every 3 weeks plus pac­ Patients litaxel (80 mg per square meter of body-surface Patients were eligible for enrollment if they were area once weekly) plus carboplatin (at a dose based at least 18 years of age and had centrally con- on an area under the concentration–time curve of n engl j med 382;9 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+811 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+5 mg per milliliter per minute once every 3 weeks or 1.5 mg per milliliter per minute once weekly in the first 12 weeks) (first neoadjuvant treatment), followed by four cycles of pembrolizumab or placebo plus doxorubicin (60 mg per square meter) or epirubicin (90 mg per square meter) plus cyclophosphamide (600 mg per square meter once every 3 weeks in the subsequent 12 weeks) (second neoadjuvant treatment). Patients who either completed or discontinued the first neoadjuvant treatment could start the second neoadjuvant treatment or undergo surgery, and those who completed or discontinued the second neoadjuvant treatment could undergo surgery. Patients underwent definitive surgery (breast conservation or mastectomy with sentinel lymphnode evaluation or axillary dissection) 3 to 6 weeks after the last cycle of the neoadjuvant phase. In the adjuvant phase, patients received radiation therapy as indicated and pembrolizumab or placebo once every 3 weeks for up to nine cycles. Adjuvant capecitabine was not allowed according to the protocol. Trial treatment was discontinued in patients with disease progression or recurrence or unacceptable toxic effects. Assessments 
+
+After the patients completed neoadjuvant therapy, the pathological complete response was assessed according to definitions of the pathological stages (postneoadjuvant, abbreviated yp) ypT0/Tis ypN0, ypT0 ypN0, and ypT0/Tis (Table S1 in the Supplementary Appendix, available at NEJM.org), as determined by a local pathologist who was unaware of the trial-group assignments. Event-free survival, which was defined as the time from randomization to disease progression that precludes definitive surgery, local or distant recurrence, a second primary cancer, or death from any cause, whichever occurred first, was determined by an investigator who was unaware of the trial-group assignments. PD-L1 expression in archival or newly obtained formalin-fixed tumor samples was assessed at a central laboratory by means of the PD-L1 IHC 22C3 pharmDx assay (Agilent Technologies). Expression was characterized according to the combined positive score, defined as the number of PD-L1–positive cells (tumor cells, lymphocytes, and macrophages) divided by the total number of tumor cells multiplied by 100; specimens with a combined positive score of 1 or 812 
+
+n engl j med 382;9 
+
+greater were considered PD-L1–positive. Patients were eligible for the trial regardless of PD-L1 status. Adverse events were monitored throughout the trial and for 30 days after discontinuation of treatment (90 days for serious adverse events) and graded according to the Common Terminology Criteria for Adverse Events, version 4.0, of the National Cancer Institute.22 Immune-related adverse events were determined from a prespecified list of terms from the Medical Dictionary for Regulatory Activities (MedDRA),23 which was updated with each new version of MedDRA. Long-term followup for disease status and survival was scheduled every 3 months for the first 2 years after randomization, then every 6 months for years 3 to 5, and then annually for years 6 to 8. End Points 
+
+The two primary end points were a pathological complete response, defined as pathological stage ypT0/Tis ypN0 at the time of definitive surgery, and event-free survival in the intention-to-treat population. Secondary end points included a pathological complete response, defined as ypT0 ypN0 and ypT0/Tis in all patients, a pathological complete response according to all definitions in patients with PD-L1–positive tumors, eventfree survival among patients with PD-L1–positive tumors, and overall survival among all patients and patients with PD-L1–positive tumors. Safety during the neoadjuvant and adjuvant phases was evaluated in all patients who received at least one trial drug, underwent surgery, or both. Trial Oversight 
+
+This trial was developed by a scientific advisory committee and employees of the sponsor (Merck Sharp & Dohme, a subsidiary of Merck [in Kenil­ worth, New Jersey]). An external, independent data monitoring committee oversaw the trial, periodically assessed safety, and assessed efficacy at prespecified interim analyses. The trial protocol and all amendments were approved by the appropriate ethics body at each participating institution. All the patients provided written informed consent before enrollment. All the authors attest that the trial was conducted in accordance with the protocol and its amendments and with the standards of Good Clinical Practice. All the authors had access to the data used to prepare the manuscript and par- 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+Pembrolizumab for Triple-Negative Breast Cancer 
+
+ticipated in the writing or critical review and editing of the manuscript. The first draft of the manuscript was written by the first author with editorial assistance provided by a medical writer employed by the sponsor. All the authors approved the submitted draft and vouch for the accuracy and completeness of the data reported and the fidelity of the trial to the protocol. Statistical Analysis 
+
+Efficacy was assessed in the intention-to-treat population, which included all the patients who had undergone randomization. Safety was assessed in the as-treated population, which included all patients who had undergone randomization and received at least one trial drug, underwent surgery, or both. The stratified method of Miettinen and Nurminen,24 with weights proportional to the stratum size, was used to compare betweengroup differences in the percentages of patients with a pathological complete response. Patients for whom no results with respect to pathological complete response were available because of discontinuation of trial treatment or missing data were considered not to have had a response. The Kaplan–Meier method was used to estimate event-free survival. The treatment difference in event-free survival was assessed with the use of the stratified log-rank test for all patients and patients with PD-L1–positive tumors; hazard ratios and associated 95% confidence intervals were analyzed with the use of a stratified Cox proportional-hazards model and Efron’s method of handling ties to assess the magnitude of the treatment difference. The 95% confidence intervals associated with the between-group differences in the percentages of patients with a pathological complete response and event-free survival were not adjusted for multiple comparisons and hence cannot be used to infer effects. The stratification factors used at randomization were used in all stratified analyses. The graphical method of Maurer and Bretz was used to strictly control the type I error rate at a one-sided alpha level of 0.025 across both primary end points and all interim and final analyses (Statistical Methods section in the Supplementary Appendix).25 The Lan–DeMets O’Brien–Fleming spending function was used to control the type I error in the interim and final analyses. The primary objective of the first interim analysis was to evaluate the superiority of pembrolizumab–chen engl j med 382;9 
+
+motherapy over placebo–chemotherapy with respect to the percentage of patients with a pathological complete response (stage ypT0/Tis, ypN0); this analysis was to occur after enrollment was completed and at least 500 patients would have had definitive surgery after 6 months of neoadjuvant therapy. The second interim analysis was the first event-free survival assessment and was to occur approximately 24 months after the first patient underwent randomization (approximately 93 events were anticipated). We estimated that with enrollment of approximately 1000 patients, the trial would have 95% power to detect a true difference in the percentage of patients with a pathological complete response (stage ypT0/Tis ypN0) of 15 percentage points for the comparison of the pembrolizumab– chemotherapy group with the placebo–chemotherapy group, at a one-sided alpha level of 0.005. We estimated that with enrollment of approximately 1150 patients, the trial would have 80% power to detect a hazard ratio for disease progression (precluding definitive surgery), local or distant recurrence or a second primary tumor, or death from any cause of 0.71, at a one-sided alpha level of 0.02 at the final analysis. The full statistical analysis plan is provided in the protocol. 
+
+R e sult s Patients and Treatment 
+
+From March 2017 through September 2018, a total of 1174 patients from 181 sites (plus 2 satellite sites) in 21 countries were randomly assigned to the pembrolizumab–chemotherapy group (784 patients) or the placebo–chemotherapy group (390 patients) (Fig. S1). The baseline demographic and disease characteristics were as expected and were well balanced between the two groups (Table 1 and Tables S2 and S3). At the second interim analysis (data cutoff, April 24, 2019; median duration of follow-up, 15.5 months [range, 2.7 to 25.0]), 1167 patients had received the first neoadjuvant treatment, 1095 patients had received the second neoadjuvant treatment, 1138 patients had undergone known definitive surgery, and 861 patients had received adjuvant treatment. The median duration of treatment exposure was 51.1 weeks (range, 0.1 to 88.4) in the pembrolizumab–chemotherapy group and 54.1 weeks (range, 0.1 to 79.3) in the placebo– chemotherapy group (Table S4). The median num- 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+813 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 1. Characteristics of the Patients at Baseline.* Pembrolizumab– Chemotherapy (N = 784) 
+
+Characteristic 
+
+Placebo– Chemotherapy (N = 390) 
+
+Age Median (range) — yr 
+
+49 (22–80) 
+
+48 (24–79) 
+
+<65 yr — no. (%) 
+
+701 (89.4) 
+
+342 (87.7) 
+
+Premenopausal 
+
+438 (55.9) 
+
+221 (56.7) 
+
+Postmenopausal 
+
+345 (44.0) 
+
+169 (43.3) 
+
+Positive 
+
+656 (83.7) 
+
+317 (81.3) 
+
+Negative 
+
+127 (16.2) 
+
+69 (17.7) 
+
+0 
+
+678 (86.5) 
+
+341 (87.4) 
+
+1 
+
+106 (13.5) 
+
+49 (12.6) 
+
+≤ULN 
+
+631 (80.5) 
+
+309 (79.2) 
+
+>ULN 
+
+149 (19.0) 
+
+80 (20.5) 
+
+Every 3 wk 
+
+335 (42.7) 
+
+167 (42.8) 
+
+Weekly 
+
+449 (57.3) 
+
+223 (57.2) 
+
+T1 to T2 
+
+580 (74.0) 
+
+290 (74.4) 
+
+T3 to T4 
+
+204 (26.0) 
+
+100 (25.6) 
+
+Positive 
+
+405 (51.7) 
+
+200 (51.3) 
+
+Negative 
+
+379 (48.3) 
+
+190 (48.7) 
+
+Stage II 
+
+590 (75.3) 
+
+291 (74.6) 
+
+Stage III 
+
+194 (24.7) 
+
+98 (25.1) 
+
+0–1 
+
+595 (75.9) 
+
+286 (73.3) 
+
+2+ 
+
+188 (24.0) 
+
+104 (26.7) 
+
+Menopausal status — no. (%) 
+
+PD-L1 status — no. (%)† 
+
+ECOG performance-status score — no. (%)‡ 
+
+Lactase dehydrogenase level — no. (%) 
+
+Administration of carboplatin — no. (%) 
+
+Primary tumor classification — no. (%) 
+
+Nodal involvement — no. (%) 
+
+Overall disease stage — no. (%) 
+
+HER2 status score — no. (%)§ 
+
+*	Data shown are for the intention-to-treat population. Percentages may not total 100 because of rounding and missing data. ULN denotes upper limit of normal range. †	Programmed death ligand 1 (PD-L1) positivity was defined as a combined positive score of 1 or greater. The PD-L1 combined positive score was defined as the number of PD-L1–positive cells (tumor cells, lymphocytes, and macrophages) divided by the total number of tumor cells multiplied by 100. ‡	Eastern Cooperative Oncology Group (ECOG) performance-status scores range from 0 to 5, with 0 indicating no symptoms and higher scores indicating greater disability. §	Tumors with human epidermal growth factor receptor 2 (HER2) expression of 0 or 1 according to immunohistochemical analysis were negative. All tumors with HER2 expression of 2+ according to immunohistochemical analysis were negative for HER2 amplification on in situ hybridization. 
+
+814 
+
+n engl j med 382;9 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+Pembrolizumab for Triple-Negative Breast Cancer 
+
+Table 2. Pathological Complete Response, According to Pathological Stage.* 
+
+Variable 
+
+Pembrolizumab– Chemotherapy (N = 401) 
+
+Placebo– Chemotherapy (N = 201) 
+
+Estimated Treatment Difference† 
+
+P Value 
+
+percentage points (95% CI) Pathological stage ypT0/Tis ypN0 No. of patients Percentage of patients with response (95% CI) 
+
+260 
+
+103 
+
+64.8 (59.9–69.5) 
+
+51.2 (44.1–58.3) 
+
+13.6 (5.4–21.8) 
+
+P<0.001 
+
+Pathological stage ypT0 ypN0 No. of patients Percentage of patients with response (95% CI) 
+
+240 
+
+91 
+
+59.9 (54.9–64.7) 
+
+45.3 (38.3–52.4) 
+
+275 
+
+108 
+
+68.6 (63.8–73.1) 
+
+53.7 (46.6–60.8) 
+
+14.5 (6.2–22.7) 
+
+Pathological stage ypT0/Tis No. of patients Percentage of patients with response (95% CI) 
+
+14.8 (6.8–23.0) 
+
+*	Patients were considered to have not had a response if they did not receive trial medication, discontinued trial treatment and continued neoadjuvant treatment with drugs in categories not specified by the trial before definitive surgery (regardless of the surgical outcome), discontinued trial treatment for reasons that precluded definitive surgery, or had missing data with respect to pathological complete response for any reason. According to the current staging criteria of the American Joint Committee on Cancer and assessment by the local pathologist at the time of definitive surgery after completion of neoadjuvant systemic therapy, patients with pathological stage ypT0/Tis ypN0 have no residual invasive cancer in the complete resected breast specimen and all sampled regional lymph nodes, those with stage ypT0 ypN0 have no residual invasive and in situ cancer in the complete resected breast specimen and all sampled regional lymph nodes, and those with stage ypT0/Tis have no invasive cancer in the breast, irrespective of ductal carcinoma in situ or nodal involvement. CI denotes confidence interval. †	The estimated treatment difference is based on the Miettinen and Nurminen method, stratified according to nodal status (positive or negative), tumor size (T1 to T2 or T3 to T4), and administration of carboplatin (once weekly or once every 3 weeks). 
+
+bers of doses of chemotherapy administered were of ypT0 ypN0 and ypT0/Tis (Table 2). The benefits of pembrolizumab–chemotherapy with respect similar in both treatment groups. to pathological complete response were generally Efficacy consistent across subgroups, including PD-L1– At the primary analysis of pathological complete expression subgroups (Fig. 1). The percentages response (data cutoff, September 24, 2018), of patients with a pathological complete response among the first 602 patients who underwent (stage ypT0/Tis ypN0) were 68.9% (230 of 334 randomization, 64.8% (260 of 401 patients) in patients) among those who received pembrolizu­ the pembrolizumab–chemotherapy group and mab–chemotherapy and 54.9% (90 of 164 patients) 51.2% (103 of 201 patients) in the placebo–che- among those who received placebo–chemotheramotherapy group had a complete response py in the PD-L1–positive population and 45.3% (pathological stage ypT0/Tis ypN0) (estimated (29 of 64 patients) among those who received treatment difference, 13.6 percentage points pembrolizumab–chemotherapy and 30.3% (10 of [95% CI, 5.4 to 21.8]; P<0.001) (Table 2). Accord- 33 patients) among those who received placebo– ing to the prespecified statistical criterion of chemotherapy in the PD-L1–negative population. P = 0.003 at the interim analysis, the percentage With 104 events (of 327 expected at the final of patients with a pathological complete response analysis), Kaplan–Meier estimates of the perwas significantly higher among those who re- centage of patients at 18 months who were alive ceived pembrolizumab–chemotherapy than among without disease progression that precluded dethose who received placebo–chemotherapy. Con- finitive surgery, without local or distant recursistent results were observed with respect to the rence, and without a second primary tumor were percentage of patients with a pathological com- 91.3% (95% CI, 88.8 to 93.3) in the pembroliz­ plete response defined as secondary end points umab–chemotherapy group and 85.3% (95% CI, n engl j med 382;9 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+815 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Subgroup 
+
+Pembrolizumab– Chemotherapy 
+
+Placebo– Chemotherapy 
+
+Difference in Pathological Complete Response (95% CI) 
+
+no. of patients with response/no. of patients (%) Overall 260/401 (64.8) Nodal status 136/210 (64.8) Positive 124/191 (64.9) Negative Tumor size 207/295 (70.2) T1 to T2 53/106 (50.0) T3 to T4 Carboplatin schedule 105/165 (63.6) Every 3 wk 154/231 (66.7) Weekly PD-L1 status 230/334 (68.9) Positive 29/64 (45.3) Negative Age 235/355 (66.2) <65 yr 25/46 (54.3) ≥65 yr ECOG performance-status score 215/328 (65.5) 0 45/73 (61.6) 1 
+
+percentage points 
+
+103/201 (51.2) 
+
+13.6 (5.4 to 21.8) 
+
+45/102 (44.1) 58/99 (58.6) 
+
+20.6 (8.9 to 31.9) 6.3 (–5.3 to 18.2) 
+
+84/149 (56.4) 19/52 (36.5) 
+
+13.8 (4.3 to 23.3) 13.5 (–3.1 to 28.8) 
+
+47/84 (56.0) 56/116 (48.3) 
+
+7.7 (–5.0 to 20.6) 18.4 (7.4 to 29.1) 
+
+90/164 (54.9) 10/33 (30.3) 
+
+14.2 (5.3 to 23.1) 18.3 (–3.3 to 36.8) 
+
+95/176 (54.0) 8/25 (32.0) 
+
+12.2 (3.4 to 21.0) 22.3 (–2.1 to 43.5) 
+
+85/173 (49.1) 18/28 (64.3) 
+
+16.4 (7.3 to 25.4) –2.6 (–22.1 to 18.9) 
+
+−30 
+
+−20 
+
+−10 
+
+Placebo– Chemotherapy Better 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+Pembrolizumab– Chemotherapy Better 
+
+Figure 1. Subgroup Analysis of Difference in Percentages of Patients with a Pathological Complete Response (Stage ypT0/Tis ypN0). An analysis of pathological complete response in key subgroups is shown. For the overall population and the programmed death ligand 1 (PD-L1) subgroups, the analysis is based on the Miettinen and Nurminen method stratified according to nodal status (positive or negative), tumor size (T1 [diameter >1.0 cm to 2.0 cm] to T2 [diameter >2.0 cm to 5.0 cm] or T3 [diameter >5.0 cm] to T4 [locally advanced disease]), and frequency of carboplatin administration (once weekly or once every 3 weeks). For the other subgroups, the analysis is based on the unstratified Miettinen and Nurminen method. Eastern Cooperative Oncology Group (ECOG) performance-status scores range from 0 to 5, with higher scores indicating greater disability. 
+
+80.3 to 89.1) in the placebo–chemotherapy group; the median was not reached in either group. The hazard ratio for disease progression (precluding definitive surgery), local or distant recurrence or a second primary tumor, or death from any cause favored the pembrolizumab–chemotherapy group (hazard ratio, 0.63; 95% CI, 0.43 to 0.93) (Fig. 2). The most common event was distant recurrence (Table S5). Safety 
+
+In the neoadjuvant phase, adverse events of any grade that were considered by the investigators to be related to the trial treatment occurred in 99.0% of the 781 patients in the pembrolizumab–chemotherapy group and 99.7% of the 389 patients in the placebo–chemotherapy group (Table 3). These treatment-related adverse events were grade 3 or 816 
+
+n engl j med 382;9 
+
+higher in 76.8% and 72.2% of the patients, respectively. Serious treatment-related adverse events occurred in 32.5% of the patients in the pembrolizumab–chemotherapy group and 19.5% of the patients in the placebo–chemotherapy group, with febrile neutropenia (14.6% and 12.1%, respectively), anemia (2.6% and 2.1%, respectively), and pyrexia (2.6% and 0.3%, respectively) being the most common. Treatmentrelated adverse events led to discontinuation of any trial drug in 23.3% of the patients in the pembrolizumab–chemotherapy group and 12.3% of the patients in the placebo–chemotherapy group (Table S6). Adverse events of interest occurred in 38.9% of the patients in the pembroliz­ umab–chemotherapy group and 18.3% of patients in the placebo–chemotherapy group; events of grade 3 or higher occurred in 12.9% and 1.8% of 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+Patients without an Event or Death (%) 
+
+Pembrolizumab for Triple-Negative Breast Cancer 
+
+100 90 80 70 60 50 Pembrolizumab–chemotherapy 
+
+40 
+
+Placebo–chemotherapy 
+
+30 20 10 0 
+
+Hazard ratio for an event or death, 0.63 (95% CI, 0.43–0.93) 0 
+
+3 
+
+6 
+
+9 
+
+12 
+
+15 
+
+18 
+
+21 
+
+24 
+
+27 
+
+242 116 
+
+73 35 
+
+2 1 
+
+0 0 
+
+Months No. at Risk 
+
+Pembrolizumab–chemotherapy Placebo–chemotherapy 
+
+784 390 
+
+780 386 
+
+765 380 
+
+666 337 
+
+519 264 
+
+376 186 
+
+Figure 2. Kaplan–Meier Estimates of Event-free Survival, According to Trial Group in the Intention-to-Treat Population. Tick marks indicate data censored at the last time the patient was known to be alive and without an event (disease progression that precludes definitive surgery; local or distant recurrence or a second primary tumor; or death from any cause). The hazard ratio and confidence interval were analyzed with the use of a Cox regression model with treatment as a covariate stratified according to the randomization stratification factors of nodal status (positive or negative), tumor size (T1 to T2 or T3 to T4), and frequency of carboplatin administration (once weekly or once every 3 weeks). 
+
+the patients, respectively. The only adverse events of interest of grade 3 or higher that occurred in 10 or more patients were severe skin reactions (in 3.8% of the patients), infusion reactions (in 2.6%), and adrenal insufficiency (in 1.3%) in the pembrolizumab–chemotherapy group (Table 3 and Table S7). Most treatment-related adverse events and adverse events of interest occurred during the neoadjuvant phase. In the adjuvant phase, treatment-related adverse events occurred in 48.1% of the 547 patients in the pembrolizumab–chemotherapy group and in 43.0% of the 314 patients in the placebo-chemotherapy group (Table S8). Across both phases, treatment-related adverse events led to death in 3 patients (0.4%) in the pembrolizumab–chemotherapy group (1 from pulmonary embolism, 1 from sepsis and multiple organ dysfunction syndrome, and 1 from pneumonitis) and 1 patient (0.3%) in the placebo–chemotherapy group (septic shock). 
+
+patients in the pembrolizumab–chemotherapy group than in the placebo–chemotherapy group had a pathological complete response at the time of definitive surgery. The benefit of pembrolizumab–chemotherapy with respect to pathological complete response was generally consistent across subgroups, including PD-L1–expression subgroups. This finding differs from the results of the IMpassion130 trial, which showed efficacy of a PD-L1 inhibitor only in patients with PD-L1–positive metastatic triple-negative breast cancer26,27; the inconsistent results may be related to the different drugs or inhibition pathways, disease stages (early rather than late), PD-L1 assays, or all of these factors. Analyses of molecular biomarkers that might predict a clinical response to pembrolizumab are ongoing in our trial. The percentage of patients with a pathological complete response in the placebo–chemotherapy group was consistent with percentages reported in other studies of platinum-containing neoadjuvant regimens in patients with early breast cancer.28,29 Discussion The present results are consistent with findIn this randomized phase 3 trial involving patients ings from previous studies of neoadjuvant pemwith previously untreated, early triple-negative brolizumab for the treatment of triple-negative breast cancer, a significantly higher percentage of breast cancer. In the phase 1b KEYNOTE-173 n engl j med 382;9 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+817 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 3. Adverse Events during the Neoadjuvant Phase at the Second Interim Analysis.* Pembrolizumab–Chemotherapy (N = 781) 
+
+Event 
+
+Any Grade 
+
+Grade ≥3 
+
+Placebo–Chemotherapy (N = 389) Any Grade 
+
+Grade ≥3 
+
+number of patients (percent) Any adverse event 
+
+777 (99.5) 
+
+633 (81.0) 
+
+389 (100.0) 
+
+295 (75.8) 
+
+Treatment-related adverse event† 
+
+773 (99.0) 
+
+600 (76.8) 
+
+388 (99.7) 
+
+281 (72.2) 
+
+Nausea 
+
+490 (62.7) 
+
+26 (3.3) 
+
+246 (63.2) 
+
+5 (1.3) 
+
+Alopecia 
+
+471 (60.3) 
+
+14 (1.8) 
+
+220 (56.6) 
+
+8 (2.1) 
+
+Anemia 
+
+430 (55.1) 
+
+142 (18.2) 
+
+215 (55.3) 
+
+58 (14.9) 
+
+Neutropenia 
+
+365 (46.7) 
+
+270 (34.6) 
+
+183 (47.0) 
+
+129 (33.2) 
+
+Fatigue 
+
+321 (41.1) 
+
+27 (3.5) 
+
+147 (37.8) 
+
+6 (1.5) 
+
+Diarrhea 
+
+230 (29.4) 
+
+17 (2.2) 
+
+92 (23.7) 
+
+5 (1.3) 
+
+Elevated alanine aminotransferase level 
+
+199 (25.5) 
+
+41 (5.2) 
+
+96 (24.7) 
+
+9 (2.3) 
+
+Vomiting 
+
+199 (25.5) 
+
+18 (2.3) 
+
+85 (21.9) 
+
+6 (1.5) 
+
+Asthenia 
+
+191 (24.5) 
+
+25 (3.2) 
+
+99 (25.4) 
+
+9 (2.3) 
+
+Constipation 
+
+185 (23.7) 
+
+0 
+
+82 (21.1) 
+
+0 
+
+Decreased neutrophil count 
+
+185 (23.7) 
+
+146 (18.7) 
+
+112 (28.8) 
+
+90 (23.1) 
+
+Rash 
+
+170 (21.8) 
+
+7 (0.9) 
+
+59 (15.2) 
+
+1 (0.3) 
+
+Peripheral neuropathy 
+
+154 (19.7) 
+
+15 (1.9) 
+
+82 (21.1) 
+
+4 (1.0) 
+
+Adverse event of interest‡ 
+
+304 (38.9) 
+
+101 (12.9) 
+
+71 (18.3) 
+
+7 (1.8) 
+
+Infusion reaction 
+
+132 (16.9) 
+
+20 (2.6) 
+
+43 (11.1) 
+
+4 (1.0) 
+
+Hypothyroidism 
+
+107 (13.7) 
+
+3 (0.4) 
+
+13 (3.3) 
+
+0 
+
+Hyperthyroidism 
+
+36 (4.6) 
+
+2 (0.3) 
+
+4 (1.0) 
+
+0 
+
+Severe skin reaction 
+
+34 (4.4) 
+
+30 (3.8) 
+
+4 (1.0) 
+
+1 (0.3) 
+
+Adrenal insufficiency 
+
+18 (2.3) 
+
+10 (1.3) 
+
+0 
+
+0 
+
+*	Listed are all adverse events that occurred during the trial period or within 30 days after the trial period (within 90 days for serious events). The events are listed in descending order of frequency in the pembrolizumab–chemotherapy group. The as-treated population included all the patients who had undergone randomization and received at least one trial treatment. The severity of adverse events was graded according to the Common Terminology Criteria for Adverse Events, version 4.0, of the National Cancer Institute. †	Treatment-related adverse events were events that were attributed to a trial treatment by the investigators. Treatment-related adverse events that occurred in at least 20% of the patients or those that were considered by the investigators to be medically relevant are reported. Patients may have had more than one event. ‡	Adverse events of interest were determined according to a list of terms specified by the sponsor, regardless of attribution to any trial treatment by the investigators. Adverse events of interest that occurred in at least 15 patients are reported. 
+
+study of neoadjuvant pembrolizumab plus chemotherapy, with or without carboplatin, for locally advanced triple-negative breast cancer, the percentage of patients with a pathological complete response was 60% (90% CI, 30 to 85).15 In the phase 2 I-SPY2 trial of pembrolizumab with non–platinum-based neoadjuvant chemotherapy, among patients with hormone receptor–positive, HER2–negative breast cancer, the estimated percentage with a pathological complete response was 21 percentage points higher in the pembrolizumab–chemotherapy group than in the che818 
+
+n engl j med 382;9 
+
+motherapy group, and among patients with triplenegative breast cancer, the estimated percentage of patients with a pathological complete response was 40 percentage points higher in the pembroliz­ umab–chemotherapy group than in the chemotherapy group.16 Of note, a similar benefit was not observed with the addition of the poly(adenosine diphosphate [ADP]–ribose) polymerase (PARP) inhibitor veliparib to standard neoadjuvant chemotherapy in patients with triple-negative breast cancer.30 Taken together, these results suggest that immune checkpoint inhibitors added to 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+Pembrolizumab for Triple-Negative Breast Cancer 
+
+neoadjuvant chemotherapy may increase the percentage of patients with triple-negative breast cancer who have a pathological complete response. In the present trial, which used a standard neoadjuvant chemotherapy backbone with anthracycline, taxane, and platinum, the follow-up period was not long enough to show longer event-free survival in the pembrolizumab–chemotherapy group than in the placebo–chemotherapy group. However, other studies suggest a sustained clinical benefit in patients with triplenegative breast cancer who have a pathological complete response after neoadjuvant chemotherapy.5-8,31,32 A large, pooled meta-analysis of individual patient data showed a strong association of pathological complete response (defined in the meta-analysis as no tumor in either breast or lymph nodes [stage ypT0 ypN0 or ypT0/Tis yp N0]) after neoadjuvant chemotherapy with an improved long-term benefit with respect to event-free and overall survival.5 This association was strongest in patients with triple-negative breast cancer, with a hazard ratio for disease progression (precluding definitive surgery), local or distant recurrence, or death from any cause of 0.24 and a hazard ratio for death of 0.16 in favor of patients with a pathological complete response as compared with patients without a pathological complete response. Adverse events observed in the pembroliz­ umab–chemotherapy group were generally consistent with the known safety profiles of platinum-containing neoadjuvant chemotherapy for patients with early triple-negative breast cancer and with the known safety profiles of pembroliz­ umab monotherapy. The addition of pembroliz­ umab did not increase chemotherapy-related toxic effects such as myelosuppression, nausea and vomiting, renal insufficiency, and neuropathy. The most common adverse events of grade 3 or higher in both treatment groups (neutropenia, anemia, decreased neutrophil count, and febrile neutropenia) were consistent with the toxic effects typically observed with platinumbased chemotherapy.33,34 The incidence of serious treatment-related adverse events was higher in the pembrolizumab–chemotherapy group than in the placebo–chemotherapy group. However, this did not hamper the ability to administer neoadjuvant chemotherapy, which is important, since administration of fewer doses of neoadjun engl j med 382;9 
+
+vant chemotherapy than planned is associated with worse long-term outcomes.7 The incidence of adverse events of interest was higher in the pembrolizumab–chemotherapy group than in the placebo–chemotherapy group; this incidence was primarily driven by infusion reactions and severe skin reactions, reflecting the contribution of both pembrolizumab and neoadjuvant chemotherapy. The severity and outcome of these reactions were consistent with those previously reported for pembrolizumab monotherapy and the neoadjuvant chemotherapy regimens. As reported previously,35 immune-mediated adverse events of the endocrine system may be irreversible and, in addition to early treatment with immunosuppressive agents, may also lead to the long-term use of hormone-replacement therapy. In the KEYNOTE-522 trial, we evaluated the effect of neoadjuvant treatment on pathological complete response at the time of definitive surgery as well as the effect of both neoadjuvant and adjuvant treatments on survival in a single patient population, eliminating delays and the use of resources associated with the typical multistudy model (e.g., a study of only pathological complete response and a confirmatory study of survival). A key strength of our trial is the inclusion of a control group of patients who received platinum therapy; this permits the direct comparison of the pembrolizumab–chemotherapy combination with the neoadjuvant chemotherapy regimen that has been associated with the highest rate of pathological complete response among patients with early triple-negative breast cancer. However, adjuvant capecitabine was not incorporated into the trial design. Although the Capecitabine for Residual Cancer as Adjuvant Therapy (CREATE-X) trial showed that adjuvant capecitabine prolonged survival among patients with triple-negative breast cancer,36 the present trial was designed before these results were reported. Trial retention was high, and similar proportions of patients in both groups completed neoadjuvant and adjuvant treatment and underwent definitive surgery. Nonetheless, the most appropriate duration of pembrolizumab therapy is uncertain because the trial was not designed to discern the relative contributions of the neoadjuvant and adjuvant treatment phases. Another prospective trial would be required to answer this question. In addition, the short duration of follow-up at this early time point pre- 
+
+nejm.org 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+819 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+cludes the assessment of mature survival data and the long-term safety profile, both of which are important considerations in patients receiving potentially curative treatment. Subsequent analyses are ongoing to further assess survival and safety. In summary, the addition of pembrolizumab to platinum-containing neoadjuvant chemotherapy resulted in a significant increase in the percentage of patients who had a pathological complete response. The benefit with respect to pathological complete response was observed across most prognostic risk categories, including the category of patients with low PD-L1 expression. Safety was consistent with the known profiles of each regimen. Supported by Merck Sharp & Dohme, a subsidiary of Merck. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. A data sharing statement provided by the authors is available with the full text of this article at NEJM.org. 
+
+We thank the patients and their families and caregivers for participating in this trial, all the investigators and site personnel, and the following employees of Merck Sharp & Dohme, a subsidiary of Merck, Kenilworth, NJ: Konstantinos Tryfonidis, for collection of data and supervision of research; Ana Viquez and Jill Chapman, for supervision of research; Luis Ortega, for collection of data, supervision of research, and review of all documents related to the primary end points; David Hernandez, for collection of data; Christine McCrary Sisk and Melanie Leiby, for medical writing and editorial assistance with an earlier version of the manuscript; Johnny Viscusi, for supervision of research, administrative or logistical support, and authoring the core protocol; Sui Yan, for provision of trial materials or referral of patients; Shelly Zhang, for review, assessment, and interpretation of safety data; Joseph C. Naggar and Michele McColgan, for administrative or logistical support; Fikret Karahoda, for analysis and reporting of data; Sesinando Daval-Santos, for technical help, supervision of research, provision of trial materials or referral of patients, and administrative or logistical support; Yu Ding, for collection of data and statistical expertise; Deborah Dukeman, for provision of the list of KEYNOTE-522 investigators; and Shana Hamm, for collection of data and supervision of research; and Craig Pritch, formerly an employee of Merck, for collection of data and administrative or logistical support. 
+
+Appendix The authors’ full names and academic degrees are as follows: Peter Schmid, M.D., Javier Cortes, M.D., Lajos Pusztai, M.D., Heather McArthur, M.D., Sherko Kümmel, M.D., Jonas Bergh, M.D., Carsten Denkert, M.D., Yeon Hee Park, M.D., Rina Hui, Ph.D., Nadia Harbeck, M.D., Masato Takahashi, M.D., Theodoros Foukakis, M.D., Peter A. Fasching, M.D., Fatima Cardoso, M.D., Michael Untch, M.D., Liyi Jia, Ph.D., Vassiliki Karantza, M.D., Jing Zhao, Ph.D., Gursel Aktan, M.D., Rebecca Dent, M.D., and Joyce O’Shaughnessy, M.D., The authors’ affiliations are as follows: Barts Cancer Institute, Queen Mary University of London, London (P.S.); International Oncology Bureau Institute of Oncology, Quirón Group, Madrid, and Vall d’Hebron Institute of Oncology, Barcelona (J.C.) — both in Spain; Yale School of Medicine, Yale Cancer Center, New Haven, CT (L.P.); Cedars-Sinai Medical Center, Los Angeles (H.M.); Kliniken EssenMitte, Essen (S.K.), the Institute of Pathology, Philipps-University Marburg and University of Marburg, Marburg (C.D.), the Breast Center, Department of Obstetrics and Gynecology and Comprehensive Cancer Center Ludwig Maximilian University of Munich, University of Munich, Munich (N.H.), University Hospital Erlangen, Department of Gynecology and Obstetrics, Comprehensive Cancer Center Erlangen–European Metropolitan Region of Nuremberg, Erlangen (P.A.F.), and the Breast Cancer Center, Helios Klinikum Berlin-Buch, Berlin (M.U.) — all in Germany; the Department of Oncology-Pathology, Karolinska Institutet and Breast Cancer Center, Theme Cancer, Karolinska University Hospital, Solna, Sweden (J.B., T.F.); Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea (Y.H.P.); Westmead Breast Cancer Institute, Westmead Hospital and the University of Sydney, Sydney (R.H.); Department of Breast Surgery, National Hospital Organization Hokkaido Cancer Center, Sapporo, Japan (M.T.); the Breast Unit, Champalimaud Clinical Center, Champalimaud Foundation, Lisbon, Portugal (F.C.); Merck, Kenilworth, NJ (L.J., V.K., J.Z., G.A.); the National Cancer Center Singapore, Duke–National University of Singapore Medical School, Singapore (R.D.); and Baylor University Medical Center, Texas Oncology and US Oncology, Dallas (J.O.). References 1. Hudis CA, Gianni L. Triple-negative breast cancer: an unmet medical need. Oncologist 2011;​16:​Suppl 1:​1-11. 2. Burstein HJ, Curigliano G, Loibl S, et al. Estimating the benefits of therapy for early-stage breast cancer: the St. Gallen International Consensus Guidelines for the primary therapy of early breast cancer 2019. Ann Oncol 2019;​30:​1541-57. 3. Cardoso F, Kyriakides S, Ohno S, et al. Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2019;​30:​1194220. 4. Pusztai L, Foldi J, Dhawan A, DiGiovanna MP, Mamounas EP. Changing frameworks in treatment sequencing of triple-negative and HER2-positive, earlystage breast cancers. Lancet Oncol 2019;​ 20:​e390-e396. 
+
+820 
+
+5. Cortazar P, Zhang L, Untch M, et al. 
+
+Pathological complete response and longterm clinical benefit in breast cancer: the CTNeoBC pooled analysis. Lancet 2014;​ 384:​164-72. 6. Huang M, Qi CZ, Ramsey S, et al. Evaluation of pathological complete response as a trial-level surrogate for longterm survival outcomes among triplenegative breast cancer patients receiving neoadjuvant therapy. Presented at ESMO Breast Cancer, Berlin, May 2–4, 2019. 7. Sikov WM, Polley M-Y, Twohy E, et al. CALGB (Alliance) 40603: Long-term outcomes (LTOs) after neoadjuvant chemotherapy (NACT) +/− carboplatin (Cb) and bevacizumab (Bev) in triple-negative breast cancer (TNBC). J Clin Oncol 2019;​ 37:​Suppl:​591. abstract. 8. Spring LM, Fell G, Arfe A, et al. 
+
+n engl j med 382;9 
+
+nejm.org 
+
+Pathological complete response after neoadjuvant chemotherapy and impact on breast cancer recurrence and mortality, stratified by breast cancer subtypes and adjuvant chemotherapy usage: individual patient-level meta-analyses of over 27,000 patients. Cancer Res 2019;​ 79:​ Suppl 4:​ GS2-03. abstract. 9. Guidance for industry:​pathological complete response in neoadjuvant treatment of high- risk early-stage breast cancer:​use as an endpoint to support accelerated approval. Silver Spring, MD:​Food and Drug Administration, October 2014. 10. The role of the pathological complete response as an endpoint in neoadjuvant breast cancer studies. London:​European Medicines Agency, 2014 (https://www​ .ema​.europa​.eu/​en/​documents/​scientific​ -­guideline/​draft​-­guideline​-­role​-­pathological​ 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+Pembrolizumab for Triple-Negative Breast Cancer 
+
+-­complete​-­response​-­endpoint​-­neoadjuvant​ -­breast​-­c ancer​-­studies_en​.pdf). 11. Adams S, Loi S, Toppmeyer D, et al. Pembrolizumab monotherapy for previously untreated, PD-L1-positive, metastatic triple-negative breast cancer: cohort B of the phase II KEYNOTE-086 study. Ann Oncol 2019;​30:​405-11. 12. Adams S, Schmid P, Rugo HS, et al. Pembrolizumab monotherapy for previously treated metastatic triple-negative breast cancer: cohort A of the phase II KEYNOTE-086 study. Ann Oncol 2019;​30:​ 397-404. 13. Nanda R, Chow LQ, Dees EC, et al. Pembrolizumab in patients with advanced triple-negative breast cancer: phase Ib KEYNOTE-012 study. J Clin Oncol 2016;​ 34:​2460-7. 14. Farkona S, Diamandis EP, Blasutig IM. Cancer immunotherapy: the beginning of the end of cancer? BMC Med 2016;​ 14:​73. 15. Schmid P, Park YH, Muñoz-Couselo E, et al. Pembrolizumab (pembro) + chemotherapy (chemo) as neoadjuvant treatment for triple negative breast cancer (TNBC): preliminary results from KEYNOTE-173. J Clin Oncol 2017;​35:​Suppl:​556. abstract. 16. Nanda R, Liu MC, Yau C, et al. Pembrolizumab plus standard neoadjuvant therapy for high-risk breast cancer (BC): results from I-SPY 2. J Clin Oncol 2017;​35:​ Suppl:​506. abstract. 17. Hammond ME, Hayes DF, Dowsett M, et al. American Society of Clinical Oncology/College of American Pathologists guideline recommendations for immuno­ histochemical testing of estrogen and progesterone receptors in breast cancer. Arch Pathol Lab Med 2010;​134:​907-22. 18. Hammond ME, Hayes DF, Dowsett M, et al. American Society of Clinical Oncology/College of American Pathologists guideline recommendations for immunohistochemical testing of estrogen and progesterone receptors in breast cancer. J Clin Oncol 2010;​28:​2784-95. 19. Wolff AC, Hammond ME, Schwartz JN, et al. American Society of Clinical Oncology/College of American Pathologists 
+
+guideline recommendations for human epidermal growth factor receptor 2 testing in breast cancer. J Clin Oncol 2007;​25:​ 118-45. 20. Edge SB, Compton CC. The American Joint Committee on Cancer:​the 7th edition of the AJCC cancer staging manual and the future of TNM. Ann Surg Oncol 2010;​17:​1471-4. 21. Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol 1982;​5:​649-55. 22. Common Terminology Criteria for Ad­ verse Events (CTCAE), version 4.0. National Cancer Institute, 2009 (https://evs​.nci​.nih​ .gov/​f tp1/​CTCAE/​CTCAE_4​.03/​A rchive/​ CTCAE_4​.0_2009​-­05​-­29_QuickReference _8​.5x11​.pdf). 23. Medical Dictionary for Regulatory Activities (https://www​.meddra​.org/​). 24. Miettinen O, Nurminen M. Comparative analysis of two rates. Stat Med 1985;​ 4:​213-26. 25. Bretz F, Maurer W, Brannath W, Posch M. A graphical approach to sequentially rejective multiple test procedures. Stat Med 2009;​28:​586-604. 26. Emens L, Adams S, Rugo H, et al. IMpassion130: Efficacy in immune bio­ marker subgroups from the global, randomized, double-blind, placebo-controlled phase III study of atezolizumab plus nab paclitaxel in patients with treatment-naive, locally advanced or metastatic triple negative breast cancer. Presented at the San Antonio Breast Cancer Symposium, San Antonio, TX, December 4–8, 2018. abstract. 27. Schmid P, Adams S, Rugo HS, et al. Atezolizumab and nab-paclitaxel in advanced triple-negative breast cancer. N Engl J Med 2018;​379:​2108-21. 28. Sikov WM, Berry DA, Perou CM, et al. Impact of the addition of carboplatin and/ or bevacizumab to neoadjuvant once-perweek paclitaxel followed by dose-dense doxorubicin and cyclophosphamide on pathologic complete response rates in stage II to III triple-negative breast cancer: CALGB 40603 (Alliance). J Clin Oncol 2015;​33:​13-21. 
+
+n engl j med 382;9 
+
+nejm.org 
+
+29. von Minckwitz G, Schneeweiss A, Loibl S, et al. Neoadjuvant carboplatin in patients with triple-negative and HER2positive early breast cancer (GeparSixto; GBG 66): a randomised phase 2 trial. Lancet Oncol 2014;​15:​747-56. 30. Loibl S, O’Shaughnessy J, Untch M, et al. Addition of the PARP inhibitor veliparib plus carboplatin or carboplatin alone to standard neoadjuvant chemotherapy in triple-negative breast cancer (BrighTNess): a randomised, phase 3 trial. Lancet Oncol 2018;​19:​497-509. 31. Briggs A, Huang M, Zhao J, Ramsey SD. Early prediction of survival outcomes — modeling approaches for translation of tumor response to long-term clinical benefits in early stage cancer. Presented at ISPOR, New Orleans, May 18–22, 2019. 32. Qi C,Huang M, Haiderali A, et al. Association between pathological complete responses and long-term survival outcomes among triple-negative breast cancer patients receiving neoadjuvant chemotherapy. Presented at the NCCN Annual Conference, Orlando, March 21– 23, 2019. 33. Hassett MJ, O’Malley AJ, Pakes JR, Newhouse JP, Earle CC. Frequency and cost of chemotherapy-related serious adverse effects in a population sample of women with breast cancer. J Natl Cancer Inst 2006;​98:​1108-17. 34. Rashid N, Koh HA, Baca HC, et al. Clinical impact of chemotherapy-related adverse events in patients with metastatic breast cancer in an integrated health care system. J Manag Care Spec Pharm 2015;​ 21:​863-71. 35. Yoest JM. Clinical features, predictive correlates, and pathophysiology of immune-related adverse events in immune checkpoint inhibitor treatments in cancer: a short review. Immunotargets Ther 2017;​6:​73-82. 36. Masuda N, Lee S-J, Ohtani S, et al. Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med 2017;​376:​2147-59. Copyright © 2020 Massachusetts Medical Society. 
+
+February 27, 2020 
+
+The New England Journal of Medicine Downloaded from nejm.org at LATROBE UNIVERSITY on February 26, 2020. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. 
+
+821 
+
+ 

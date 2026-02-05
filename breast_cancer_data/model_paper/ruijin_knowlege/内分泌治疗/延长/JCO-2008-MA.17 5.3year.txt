@@ -1,0 +1,541 @@
+Published Ahead of Print on March 10, 2008 as 10.1200/JCO.2007.11.6798 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2007.11.6798 VOLUME 
+
+26 
+
+䡠 
+
+NUMBER 
+
+12 
+
+䡠 
+
+APRIL 
+
+20 
+
+2008 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Late Extended Adjuvant Treatment With Letrozole Improves Outcome in Women With Early-Stage Breast Cancer Who Complete 5 Years of Tamoxifen Paul E. Goss, James N. Ingle, Joseph L. Pater, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Martine J. Piccart, Monica Castiglione, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer, and Dongsheng Tu From the Massachusetts General Hospital Cancer Center, Boston, MA; Mayo Clinic, Rochester, MN; Angeles Clinic and Research Institute, Los Angeles, CA; Inova Fairfax Hospital, Falls Church, VA; University of Vermont, Burlington, VT; Institut Jules Bordet, Brussels, Belgium; International Breast Cancer Study Group Coordinating Center, Bern, Switzerland; National Cancer Institute of Canada, Clinical Trials Group, Kingston, Ontario, Canada; Toronto Sunnybrook Odette Cancer Centre, University of Toronto, Ontario, Canada; University of Washington, Seattle, WA; Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore; Cancer Therapy Evaluation Program, Clinical Investigations Branch, National Cancer Institute, Rockville, MD; Memorial SloanKettering Cancer Center, New York, NY; Mayo Clinic, Jacksonville, FL; and Edinburgh Breast Unit, Western General Hospital, Edinburgh, Scotland. Submitted March 12, 2007; accepted September 11, 2007; published online ahead of print at www.jco.org on March 10, 2008. Supported by the Canadian Cancer Society Grant No. 10362 from the National Cancer Institute of Canada; by Grants No. CA31946, CA21115, CA25224, CA38926, and CA32102 from the National Cancer Institute; the Pharmacia Corp, a Pfizer Company, New York, NY; and Novartis Pharmaceutials (support and provision of study medication). Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Paul Goss, MD, PhD, Massachusetts General Hospital Cancer Center, 55 Fruit St, Lawrence House, LRH-302, Boston, MA 02114; e-mail: pgoss@partners.org. © 2008 by American Society of Clinical Oncology 0732-183X/08/2612-1/$20.00 DOI: 10.1200/JCO.2007.11.6798 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The National Cancer Institute of Canada Clinical Trials Group MA.17 trial examined the efficacy of letrozole (LET) started within 3 months of 5 years of adjuvant tamoxifen in postmenopausal hormone receptor–positive early-stage breast cancer. When the trial was unblinded, patients who received placebo (PLAC) were offered LET. Patients and Methods This cohort analysis describes the outcomes of women assigned PLAC at the initial random assignment after unblinding. Efficacy outcomes of women who chose LET (PLAC-LET group) were compared with those who did not (PLAC-PLAC group) by the hazard ratios and by P values calculated from Cox models that adjusted for imbalances between the groups. Toxicity analyses included only events that occurred after unblinding. Results There were 1,579 women in the PLAC-LET group (median time from tamoxifen, 2.8 years) and 804 in the PLAC-PLAC group. Patients in the PLAC-LET group were younger; had a better performance status; and were more likely to have had node-positive disease, axillary dissection, and adjuvant chemotherapy than those in the PLAC-PLAC group. At a median follow-up of 5.3 years, disease-free survival (DFS; adjusted hazard ratio [HR], 0.37; 95% CI, 0.23 to 0.61; P ⬍ .0001) and distant DFS (HR, 0.39; 95% CI, 0.20 to 0.74; P ⫽ .004) were superior in the PLAC-LET group. More self-reported new diagnoses of osteoporosis and significantly more clinical fractures occurred in the women who took LET (5.2% v 3.1%, P ⫽ .02). Conclusion Interpretation of this cohort analysis suggests that LET improves DFS and distant DFS even when there has been a substantial period of time since the discontinuation of prior adjuvant tamoxifen. J Clin Oncol 26. © 2008 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Antagonizing estrogen in hormone-dependent breast cancer is a longstanding method of reducing tumor growth.1 Five years of treatment with the antiestrogen tamoxifen, a selective estrogen receptor modulator, has been shown to reduce the risks of disease recurrence and breast cancer mortality by 41% and 34%, respectively, and continues to be recommended as one of several options for patients with early-stage estrogen receptor–positive breast cancer.2-4 Data from the Oxford overview of hormonal therapy for early-stage breast cancer indicate that more than half of all breast cancer recurrences and 
+
+deaths occur after 5 years of adjuvant tamoxifen,2,5,6 yet longer durations of tamoxifen have not been shown to afford additional benefit.6,7 The aromatase (ie, estrogen synthetase) inhibitor letrozole (LET) is active after tamoxifen therapy in preclinical models as well as in patients with advanced metastatic breast cancer.8,9 Thus, the National Cancer Institute of Canada Clinical Trials Group (NCIC CTG) MA.17 trial randomly assigned 5,187 postmenopausal women who were within 3 months of completing 4.5 to 6 years of tamoxifen to receive LET or placebo (PLAC).10 Results of the protocol-mandated first interim analysis (median follow-up, 2.4 years) showed a hazard ratio (HR) for disease recurrence of 0.57 (95% CI, 0.43 to 0.75; P ⫽ .00008). An 1 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Copyright 2008 by American Society of Clinical Oncology 
+
+Goss et al 
+
+updated final analysis, conducted at a median follow-up of 2.5 years, confirmed a disease-free survival (DFS) benefit for patients randomly assigned to LET (HR, 0.58; 95% CI, 0.45 to 0.76; P ⬍ .001) and a survival benefit in patients with node-positive disease at primary presentation (HR, 0.61; 95% CI, 0.38 to 0.98; P ⫽ .04).11 In accordance with the recommendations of the data safety monitoring committee responsible for the trial, the treatment allocation was unblinded at the time the results of the first interim analysis were made public, and women on the PLAC arm were offered treatment with LET for a planned 5 years. In the MA.17 trial, a maximum of 3 months off tamoxifen was allowed before random assignment. The positive findings from the MA.17 trial provided evidence for the use of LET after tamoxifen, but clinicians and regulatory agencies have restricted its use to the protocol specified 3 months after stopping tamoxifen. Many women worldwide, therefore, have not been offered this therapy, because they have been off tamoxifen for longer than 3 months. A clinical trial to address this situation is being considered but will not provide relevant outcomes for many years. Thus, examination of the outcomes of the PLAC patients on MA.17 provides a unique opportunity to determine whether a later intervention with the aromatase inhibitor also might benefit the many breast cancer patients to whom it may apply. This information is of importance both to breast oncologists and to primary care and other physicians, who may be providing long-term follow-up of women with a history of early-stage breast cancer. PATIENTS AND METHODS Study Design Details of the design and inclusion criteria for the original MA.17 trial have been reported previously.10,11 In brief, MA.17 was a phase III, randomized, double-blind, placebo-controlled clinical trial to investigate the efficacy of LET in preventing disease recurrence in postmenopausal women with primary breast cancer who were disease free and who were within 3 months of completing approximately 5 years (range, 4.5 to 6 years) of adjuvant tamoxifen. Patients were randomly allocated in a double-blind fashion to oral LET 
+
+2.5 mg or to PLAC daily for 5 years after stratification on the basis of hormone receptor status of the tumor (positive or unknown), lymph node involvement (positive, negative, or unknown), and prior chemotherapy (yes or no). The protocol allowed women with unknown receptor status to be enrolled, providing an effort had been made to determine the receptor status of the primary tumor by immunocytochemistry. Some women had tumors that were receptor-negative or receptor-missing after random assignment, and these women were included in the analysis on the basis of an intent-to-treat principle. In accordance with the study protocol, the MA.17 trial was unblinded in 2003 on the recommendation of the data safety monitoring committee after the first interim analysis demonstrated a statistically highly significant effect on DFS and a trend toward a survival advantage in patients who received LET compared with those who received PLAC.10 At unblinding of the treatment arms, participants were informed of the results and of their treatment allocation, and those receiving PLAC were offered LET for a planned period of 5 years. All women initially randomly assigned on MA.17 have continued and a protocol-mandated follow-up scheduled annually until death. Sites were queried if follow-up documentation had not been received in a timely manner. Very few patients have been lost to follow-up or have withdrawn their consent to be followed, but a continued effort is made to collect follow-up documentation on all patients as appropriate, regardless of their status post-unblinding. This post-unblinding analysis included all women who were originally randomly assigned to PLAC and were still alive and disease free at the time of unblinding (Fig 1), because women who died or whose disease recurred before the time of unblinding did not have the opportunity to switch to LET; including them in the PLAC-PLAC group in the analysis would seriously overestimate the difference between the two groups when compared. The postunblinding treatment status of these women was determined by information from the case report forms or through direct queries to the investigator centers. The outcome data were updated and cleaned, and the database for this analysis was locked on July 28, 2006. Because all women were followed to death, there were no missing outcome data. Statistical Analysis The end points in this analysis were defined as in the analysis of the original MA.17 trial. Specifically, DFS was defined as the time from random assignment to the time of recurrence of the primary disease (in the breast, chest wall, nodal, or metastatic sites) or to the development of new contralateral primary breast cancer (CLBC). Deaths without recurrence or without CLBC or a secondary malignancy were not considered events. Overall survival (OS) 
+
+Median follow-up 30 months 
+
+Letrozole 
+
+n = 2,593 
+
+Placebo 
+
+n = 2,594 
+
+54 months 
+
+Letrozole 
+
+n = 2,457 
+
+LET 
+
+Tamoxifen N = 5,187 n = 804 
+
+PLAC 
+
+5 years 
+
+Fig 1. Trial diagram for the MA.17 post-unblinding analysis. LET, letrozole; PLAC, placebo. 
+
+5 years 
+
+Letrozole 
+
+1998 
+
+2003 
+
+n = 1,579 
+
+PLAC-LET 
+
+2005 
+
+Unblinding 
+
+2 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Late Extended Adjuvant Treatment With Letrozole 
+
+Table 1. Pretreatment Demographic Characteristics Treatment Group PLAC-LET (n ⫽ 1,579) Characteristic Ethnicity White Black Hispanic Asian or Pacific Islander Native North American or native Alaskan Other Unknown Missing Age, years Median Range ⬍ 70 ⱖ 70 ECOG PS 0 1 2 Postmenopausal status at start of adjuvant tamoxifen treatment Age ⱖ 50 years Age ⬍ 50 years and considered postmenopausal Age ⬍ 50 years and underwent bilateral oophorectomy Age ⬍ 50 years and became amenorrheic Postmenopausal levels of LH or FSH Missing Time from initial diagnosis to date of random assignment (mos) No. of patients Median Range Pathologic T stage of disease at first diagnosis 1 2 3 4 X Missing Pathologic N stage of disease at first diagnosis 0 1 2 3 X Missing Hormone receptor status Positive Negative Unknown Missing Time on tamoxifen, years No. of patients assessed Median Range ⬍ 4.5 4.5-5 5-5.5 5.5-6 ⬎6 Missing 
+
+PLAC-PLAC (n ⫽ 804) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+1,451 46 23 16 11 4 13 15 
+
+91.9 2.9 1.5 1.0 0.7 0.2 0.8 0.9 
+
+724 42 14 10 1 4 4 5 
+
+90.0 5.2 1.7 1.2 0.1 0.5 0.5 0.6 
+
+P .03 
+
+⬍ .0001 60.7 35-88 
+
+64.5 38-95 
+
+1,261 318 
+
+79.9 20.1 
+
+542 262 
+
+67.4 32.6 
+
+1,458 116 5 
+
+92.3 7.4 0.3 
+
+698 102 4 
+
+86.8 12.7 0.5 
+
+1,178 102 66 224 8 1 
+
+74.7 6.5 4.2 14.2 0.5 0.1 
+
+629 34 30 105 6 0 
+
+78.2 4.2 3.7 13.1 0.8 0 
+
+⬍ .0001 
+
+.14 
+
+⬍ .0001 1,578 64.7 2.4-169.1 
+
+801 63.7 44.8-203.8 .12 
+
+915 534 83 23 20 4 
+
+57.9 33.8 5.3 1.5 1.3 0.1 
+
+509 244 34 8 7 2 
+
+63.3 30.3 4.2 1.0 0.9 0.2 
+
+773 724 22 3 52 5 
+
+49.0 45.9 1.4 0.2 3.2 0.3 
+
+443 304 9 0 47 1 
+
+55.1 37.8 1.0 0 5.8 0.1 
+
+1,552 2 19 6 
+
+98.3 0.1 1.2 0.4 
+
+768 4 25 7 
+
+95.5 0.5 3.1 0.9 
+
+.0002 
+
+.001 
+
+.07 1,578 5.0 4.0 to 6.0 7 705 802 58 6 1 
+
+802 5.0 0 to 6.0 0.4 44.6 50.8 3.7 0.4 0.1 
+
+10 387 372 31 2 2 
+
+1.2 48.1 46.3 3.9 0.2 0.2 
+
+(continued on following page) 
+
+3 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Goss et al 
+
+Table 1. Pretreatment Demographic Characteristics (continued) Treatment Group PLAC-LET (n ⫽ 1,579) Characteristic Prior adjuvant chemotherapy Yes No Missing Prior surgery Biopsy Axillary node dissection Lumpectomy or segmental mastectomy Mastectomy 
+
+PLAC-PLAC (n ⫽ 804) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+777 800 2 
+
+49.2 50.7 0.1 
+
+298 505 1 
+
+37.1 62.8 0.1 
+
+1,323 1,527 905 798 
+
+83.8 96.7 57.3 50.5 
+
+652 751 465 387 
+
+81.1 93.4 57.8 48.1 
+
+P ⬍ .0001 
+
+.10 .0002 .81 .27 
+
+Abbreviations: PLAC-PLAC, placebo-placebo group; PLAC-LET, placebo-letrozole group; ECOG PS, Eastern Cooperative Oncology Group performance status; LH, luteinizing hormone; FSH, follicle-stimulating hormone. 
+
+was defined as the time to death from any cause.10 Because of a potential imbalance in the demographics and disease characteristics between women in the PLAC-LET and PLAC-PLAC groups, the efficacy outcomes between these two groups were compared on the basis of the Cox models that adjusted for demographic and disease characteristics that were significantly different between the two groups: ethnicity (white v nonwhite), age (⬍ 70 years v ⱖ 70 years), performance status (0 v 1 or 2), time from initial diagnosis to random assignment (⬍ 5 years v ⱖ 5 years), pathologic N stage (0 v others), hormone receptor status (positive v others), prior chemotherapy (yes v no), and axillary node dissection (yes v no). Because the times of starting LET varied for women in the PLAC-LET group, a sensitivity analysis also was performed by taking the treatment indicator variable as a time-dependent covariate in the Cox model (equal to 0 until the time when a woman switched to LET, and equal to 1 afterwards) and by including all women randomly assigned to PLAC. Only adverse events observed after unblinding were included in the toxicity analysis. Their frequency was compared between the two groups with ␹2 tests. MA.17 was supported by Novartis oncology. The design of the study, the data collection, analysis and interpretation, writing of the report, and decision to submit the paper for publication were under the sole jurisdiction of the NCIC CTG and the MA.17 academic steering committee and were entirely independent of Novartis. 
+
+RESULTS 
+
+Patient Population Among the 2,587 MA.17 patients who were originally randomly assigned to PLAC, 204 experienced recurrence or death before the date of unblinding, which resulted in 2,383 patients whose information was used for this analysis. On the basis of case report forms and queries to centers, 1,579 of these 2,383 women (66%) were confirmed to have switched to letrozole (PLAC-LET), and 804 (34%) elected no further treatment (PLAC-PLAC) after unblinding. Baseline characteristics of the two groups are presented in Table 1. Women in the PLAC-LET group were significantly more likely to be white and younger and to have had an Eastern Cooperative Oncology Group (ECOG) performance status of 0. Women in the PLAC-LET group also had a significantly longer period between initial diagnosis and random assignment on MA.17 and were more likely to have had an axillary lymph node dissection, to have had positive axillary nodes, to have had positive hormone receptor status at breast cancer diagnosis, and to have received prior adjuvant chemotherapy (Table 1). In the PLAC4 
+
+LET group, the median time from the end of tamoxifen treatment to the start of LET was 2.8 years (range, 1.1 to 7.1 years). The protocol allowed women with unknown receptor status to be enrolled, providing an effort had been made to determine the receptor status of the primary tumor by immunocytochemistry. Tumors in some women were identified as receptor-negative or receptor-missing after random assignment, and women with these tumors were included in the analysis on the basis of an intent-to-treat principle. Patient Outcomes At a median follow-up of 5.3 years from initial random assignment on MA.17 and 2.8 years from unblinding, a total of 31 patients (2.0%) in the PLAC-LET group had a DFS event compared with 39 patients (4.9%) in the PLAC-PLAC group. Local breast recurrence as an only site of recurrence occurred in 0.3% and 0.9% of patients in the two respective groups. Distant recurrence only (1.0% v 2.4%) and CLBC only (0.3% v 1.2%) also tended to occur more frequently in the PLAC-PLAC group than the PLAC-LET group. There were 21 deaths in the PLAC-LET group (1.3%) and 36 deaths in the PLAC-PLAC group (4.5%). Breast cancer was the cause of death in eight patients (0.5%) in the PLAC-LET group and in eight patients (1.0%) in the PLAC-PLAC group. Other primary malignancy (0.3% v 1.9%) and other conditions/circumstances (0.4% v 1.4%) were listed as cause of death in the PLAC-LET versus PLAC-PLAC groups. The Kaplan-Meier curves of DFS and distant DFS are shown in Figures 2A and 2B, respectively. Table 2 presents the Kaplan-Meier estimates for the DFS, distant DFS, and OS at 2 to 6 years from the initial random assignment on MA.17. Table 3 shows the results of the multivariate Cox regression model for DFS, distant DFS, OS, and CLBC outcomes in the two groups. The adjusted HR for DFS in the PLAC-LET group compared with the PLAC-PLAC group was 0.37 (95% CI, 0.23 to 0.61; P ⬍ .0001), which corresponded to a 63% reduction in disease recurrence for patients electing to cross over to LET from PLAC. Distant DFS was also improved by switching to LET. A significant 61% reduction in the risk of developing metastases was observed (adjusted HR, 0.39; 95% CI, 0.20 to 0.74; P ⫽ .004; Table 3). The analysis of the OS for the two groups yielded an adjusted HR of 0.30 for the PLAC-LET compared with the PLAC-PLAC group. The annual incidence rate for new CLBC was 0.06 in the PLAC-LET group JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Late Extended Adjuvant Treatment With Letrozole 
+
+A 
+
+Table 2. Outcomes of Follow-Up 
+
+100 
+
+Treatment Group Response (%) 
+
+Percentage 
+
+80 
+
+Survival Outcome (years) 60 
+
+40 
+
+Adjusted hazard ratio between PLAC-LET and LET: 0.37; 95% CI, 0.23 to 0.61; P < .0001 
+
+20 
+
+PLAC-LET PLAC 
+
+0 
+
+20.0 
+
+40.0 
+
+60.0 
+
+80.0 
+
+100 
+
+Time From Random Assignment (months) No. at risk PLAC-LET PLAC 
+
+B 
+
+1,579 804 
+
+1,578 725 
+
+1,223 519 
+
+407 219 
+
+28 32 
+
+0 0 
+
+100 
+
+Percentage 
+
+80 
+
+PLAC-PLAC (n ⫽ 804) 
+
+Difference 
+
+95% CI 
+
+99.8 99.5 98.7 97.4 95.1 
+
+99.3 97.6 96.0 93.4 91.0 
+
+0.5 1.9 2.7 4.0 4.1 
+
+⫺0.2 to 1.1 0.7 to 3.2 1.0 to 4.4 1.4 to 6.5 0.5 to 8.0 
+
+99.9 99.6 99.0 98.2 97.7 
+
+99.7 98.6 98.2 96.2 95.6 
+
+0.2 1.0 0.8 2.0 2.1 
+
+⫺0.3 to 0.6 0.0 to 1.9 ⫺0.4 to 2.0 0.0 to 4.1 ⫺0.5 to 4.7 
+
+99.9 99.6 99.1 98.3 96.8 
+
+99.5 98.3 97.1 93.8 90.2 
+
+0.4 1.3 2.0 4.5 6.6 
+
+⫺0.1 to 1.0 0.3 to 2.4 0.6 to 3.5 2.0 to 6.9 2.5 to 10.7 
+
+NOTE. Outcome reported in years from date of original random assignment. Abbreviations: PLAC-LET, placebo-letrozole group; PLAC-PLAC, placeboplacebo group. 
+
+60 
+
+40 
+
+Disease free 2 3 4 5 6 Distant disease free 2 3 4 5 6 Overall survival 2 3 4 5 6 
+
+PLAC-LET (n ⫽ 1,579) 
+
+Adjusted hazard ratio between PLAC-LET and LET: 0.38; 95% CI, 0.20 to 0.73; P = .0004 
+
+20 PLAC-LET PLAC 
+
+0 
+
+20.0 
+
+DISCUSSION 40.0 
+
+60.0 
+
+80.0 
+
+100 
+
+Time From Random Assignment (months) No. at risk PLAC-LET PLAC 
+
+1,579 804 
+
+1,578 725 
+
+1,223 519 
+
+407 219 
+
+28 32 
+
+0 0 
+
+Fig 2. Kaplan-Meier estimates of (A) disease-free survival and (B) distant diseasefree survival; both are calculated from the time of original random assignment. PLAC-LET, placebo-letrozole group; LET, letrozole. 
+
+and 0.38 in the PLAC-PLAC group, which corresponded to an 82% reduction in CLBC (adjusted HR, 0.18; 95% CI, 0.06 to 0.58; P ⫽ .004). Results were similar when a Cox model with a timedependent treatment covariate was used to compare the difference between two groups (Table 4). Safety Results of the safety analysis are shown in Table 5. After unblinding, more clinical fractures were observed in patients who received PLAC-LET than in those who received PLAC-PLAC (5.2% v 3.1%; P ⫽ .02). There were also more self-reported new diagnoses of osteoporosis in women in the PLAC-LET group (5.3% v 1.6%; P ⬍ .0001). A total of 4.2% of patients in the PLAC-LET group experienced cardiac events compared with 3.1% in the PLAC-PLAC group (P ⫽ .17). Thromboembolic events occurred rarely in both groups. The percentage of patients with other malignancies or with bone marrow dysplasias was not different between the PLAC-LET and PLAC-PLAC groups (1.5% v 1.0%). 
+
+Outside of a clinical trial, the use of tamoxifen for more than 5 years is not recommended presently,12 although the risk of disease recurrence in this post-tamoxifen period remains significant.2,13 There is a need to address this ongoing risk of breast cancer recurrence for the large number of patients worldwide who currently are about to complete or have previously completed tamoxifen therapy. The MA.17 trial was the first randomized, double-blind, placebocontrolled trial to clearly demonstrate the efficacy of an aromatase inhibitor as an extended adjuvant therapy after standard tamoxifen. This result led to regulatory approval and a change in clinical 
+
+Table 3. Cox Regression Model for Outcomes Multivariate Analysisⴱ Outcome 
+
+Adjusted HR† 
+
+95% CI 
+
+P (Cox regression) 
+
+Disease-free survival Distant disease-free survival Overall survival Contralateral breast cancer 
+
+0.37 0.38 0.30 0.18 
+
+0.23 to 0.61 0.20 to 0.73 0.17 to 0.53 0.06 to 0.58 
+
+⬍ .0001 .004 ⬍ .0001 .004 
+
+NOTE. Calculated from time of original random assignment and excluding those who died or relapsed before unblinding. Treating group indicator used as a fixed covariate. Abbreviations: HR, hazard ratio; PLAC-LET, placebo-letrozole group; PLACPLAC, placebo-placebo group. ⴱ Hazard ratio of PLAC-LET to PLAC-PLAC. †Adjusted for ethnicity (white v nonwhite), age (⬍ 70 v ⱖ 70 years), performance status (0 v 1 or 2), time from initial diagnosis to random assignment (⬍ 5 v ⱖ 5 years), pathologic N stage (0 v others), hormone receptor status (positive v others), prior chemotherapy (yes v no), and axillary node dissection (yes v no). 
+
+5 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Goss et al 
+
+Table 4. Cox Regression Model for Outcomes of All Patients Multivariate Analysis† Outcome 
+
+Adjusted HRⴱ 
+
+95% CI 
+
+P (Cox regression) 
+
+Disease-free survival Distant disease-free survival Overall survival Contralateral breast cancer 
+
+0.39 0.37 
+
+0.25 to 0.60 0.21 to 0.67 
+
+⬍ .0001 .0008 
+
+0.32 0.21 
+
+0.20 to 0.51 0.06 to 0.71 
+
+⬍ .0001 .012 
+
+NOTE. Treating group indicator used as time-dependent treatment covariate. Abbreviations: HR, hazard ratio; PLAC-LET, placebo-letrozole group; PLACPLAC, placebo-placebo group. ⴱ Hazard ratio of PLAC-LET to PLAC-PLAC. †Adjusted for ethnicity (white v nonwhite), age (⬍ 70 v ⱖ 70 years), performance status (0 v 1 or 2), time from initial diagnosis to random assignment (⬍ 5 v ⱖ 5 years), pathologic N stage (0 v others), hormone receptor status (positive v others), prior chemotherapy (yes v no), and axillary node dissection (yes v no). 
+
+practice in many areas of the world. However, because the interval between the prior tamoxifen therapy and the initiation of the aromatase inhibitor was restricted to 3 months in the trial, physicians, regulatory agencies, and health care funders had no information on which to base recommendations for women who had been off tamoxifen for more than 3 months. Consequently, 
+
+some and probably most women who might have benefited from this therapy were not offered it. Despite the evolving evidence that aromatase inhibitors should be part of adjuvant therapy, there are still many women worldwide for whom tamoxifen alone is the only endocrine adjuvant therapy. For these women, the question of whether the addition of LET more than 3 months after stopping tamoxifen is beneficial is highly relevant. Ideally, the answer to this question should come from a randomized trial that addresses it directly. Such a trial is being considered, but— even if feasible—its results will not be available for many years. In the interim, the experience of patients in the placebo arm of MA.17 who did or did not start LET provides the only available information that can be used to inform the decision these women and their physicians face. As described earlier, these data suggest that women who decided to take LET had a much-reduced chance of developing breast cancer events. The interpretation of these results is, of course, made difficult because this therapeutic intervention was self-selected, not randomly allocated; consequently, the P values we have assigned in our results to DFS and distant DFS should be viewed in the context of an adjusted, retrospective multivariate analysis and not as a prospective, randomized trial. However, not surprisingly, it appears that the patients who chose to take LET were, in terms of the characteristics of their original cancers, at greater risk of recurrence than those who chose to remain on no active therapy. The fact that 
+
+Table 5. Toxicities, Adverse Events, and Intercurrent Illness Observed After Unblinding Treatment Group PLAC-LET (n ⫽ 1,579) 
+
+PLAC-PLAC (n ⫽ 804) 
+
+Reaction 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+Bone fracture Location of bone fractureⴱ Spine Wrist Pelvis Hip Femur Tibia Ankle Other Time from unblinding to first bone fracture, years Median Range New osteoporosis Time from unblinding to first new osteoporosis, years Median Range Cardiovascular disease Type of cardiovascular diseaseⴱ Myocardial infarction Stroke/transient ischemic attack New or worsening angina Angina requiring PTCA Angina requiring CABG Thromboembolic event Other 
+
+82 
+
+5.2 
+
+25 
+
+3.1 
+
+.02 
+
+1.6 
+
+⬍ .0001 
+
+3.1 
+
+.17 
+
+8 18 3 4 6 3 5 47 
+
+3 2 1 4 2 2 2 11 1.1 0-2.5 
+
+83 
+
+1.1 0.2-1.9 5.3 
+
+13 
+
+0.8 0-2.3 67 6 8 8 1 2 8 43 
+
+0.9 0-2.1 4.2 
+
+25 5 5 5 2 1 2 12 
+
+Abbreviations: PLAC-LET, placebo-letrozole group; PLAC-PLAC, placebo-placebo group; PTCA, percutaneous transluminal coronary angioplasty; CABG, coronary artery bypass graft. ⴱ A patient may have more than one type of fracture or cardiovascular disease. 
+
+6 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Late Extended Adjuvant Treatment With Letrozole 
+
+women who would have been expected to have a higher rate of recurrence actually did better on LET strongly suggests that LET was responsible for the reduced frequency of breast cancer events in these patients. The interpretation of the survival results is much more difficult. It seems likely that women with other illnesses, particularly cardiovascular risk factors and disease, would have been less likely to have chosen to take LET. Thus, the fact that the patients in the PLAC-LET group had even greater reduction in the risk of dying than of developing a breast cancer event may be caused by a lower risk of death in these women from a cause other than breast cancer. Because data on risk factors for non– breast cancer events were not collected in MA.17, it is not possible to deal with this question in an adjusted analysis. Thus, whether the administration of LET affects OS cannot be addressed in these data. For the present, therefore, the benefits of offering LET to women who are more than 3 months past the completion of tamoxifen adjuvant therapy must be assessed on the basis of the DFS and distant DFS data presented here. As for any adjuvant therapy, balanced against these benefits are the adverse effects of prolonged aromatase inhibitor exposure, particularly with respect to bone health. The results presented in this analysis confirm those of the main study that indicate that women who take LET are at greater risk of developing osteoporosis and clinical fractures. However, women in MA.17 were not treated routinely with bisphosphonates, and it is possible that these complications could be prevented in this way. Emerging data confirm that careful evaluation of baseline bone mineral density with subsequent monitoring and with appropriate vitamin D and calcium replacement therapy are able to obviate concern about the adverse effects of aromatase inhibitors on bone in most instances.14-18 Whether it is reasonable for an individual woman to take LET after she has been off of adjuvant tamoxifen for more than 3 months depends on several factors; namely, her risk of developing recurrence, which is probably best assessed from the experience before unblinding of the placebo group on MA.17; the degree to which the effect of adding LET in this setting is reflected in the HRs presented above; and the level of concern about adverse effects. In our view, this decision is informed by the results presented here. Finally, irrespective of their clinical implications, the results presented here add important information to our understandREFERENCES 1. Clemons M, Goss PE: Mechanisms of disease: Estrogen and the risk of breast cancer. N Engl J Med 344:276-285, 2001 2. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 3. Winer EP, Hudis C, Burstein HJ, et al: American Society of Clinical Oncology Technology Assessment Working Group Update: Use of aromatase inhibitors in the adjuvant setting. J Clin Oncol 21:2597-2599, 2003 4. Winer EP, Hudis C, Burstein HJ, et al: American Society of Clinical Oncology Technology Assessment on the use of aromatase inhibitors as adjuvant therapy for postmenopausal women with hormone receptor–positive breast 
+
+ing of the biology of endocrine-responsive breast cancer. It appears that most cancers remain estrogen-dependent for long periods in follow-up and that their clinical courses can be improved by the judicious use of aromatase inhibitors, even very late in follow-up. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following authors or their immediate family members indicated a financial interest. No conflict exists for drugs or devices used in a study if they are not being evaluated as part of the investigation. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment: N/A Leadership: N/A Consultant: Paul E. Goss, Pfizer, AstraZeneca, Novartis; James N. Ingle, Novartis; David A. Cameron, AstraZeneca, Novartis, Pfizer Stock: N/A Honoraria: Paul E. Goss, Pfizer, AstraZeneca, Novartis; James N. Ingle, Novartis Research Funds: Joseph L. Pater, Novartis; David A. Cameron, Novartis Testimony: N/A Other: N/A 
+
+AUTHOR CONTRIBUTIONS Conception and design: Paul E. Goss Administrative support: Silvana Martino Provision of study materials or patients: Paul E. Goss, James N. Ingle, Joseph L. Pater, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Monica Castiglione, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer Collection and assembly of data: Joseph L. Pater, Hyman B. Muss, Martine J. Piccart, Dongsheng Tu Data analysis and interpretation: Paul E. Goss, James N. Ingle, Joseph L. Pater, Hyman B. Muss, Martine J. Piccart, Dongsheng Tu Manuscript writing: Paul E. Goss, Joseph L. Pater, Martine J. Piccart, Dongsheng Tu Final approval of manuscript: Paul E. Goss, James N. Ingle, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Monica Castiglione, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer 
+
+cancer: Status report 2004. J Clin Oncol 23:619629, 2005 5. Fisher B, Dignam J, Bryant J, et al: Five versus more than five years of tamoxifen therapy for breast cancer patients with negative lymph nodes and estrogen receptor-positive tumors. J Natl Cancer Inst 88:1529-1542, 1996 6. Fisher B, Dignam J, Bryant J, et al: Five versus more than five years of tamoxifen for lymph node-negative breast cancer: Updated findings from the National Surgical Adjuvant Breast and Bowel Project B-14 randomized trial. J Natl Cancer Inst 93:684-690, 2001 7. Stewart HJ, Forrest AP, Everington D, et al: Randomised comparison of 5 years of adjuvant tamoxifen with continuous therapy for operable breast cancer: The Scottish Cancer Trials Breast Group. Br J Cancer 74:297-299, 1996 8. Brodie A: Aromatase inhibitor development and hormone therapy: A perspective. Semin Oncol 30:12-22, 2003 (suppl 14) 
+
+9. Mouridsen H, Gershanovich M, Sun Y, et al: Phase III study of LET versus tamoxifen as firstline therapy of advanced breast cancer in postmenopausal women: Analysis of survival and update of efficacy from the International LET Breast Cancer Group. J Clin Oncol 21:2101-2109, 2003 10. Goss PE, Ingle JN, Martino S, et al: A randomized trial of LET in postmenopausal women after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 349:17931802, 2003 11. Goss PE, Ingle JN, Martino S, et al: Randomized trial of LET following tamoxifen as extended adjuvant therapy in receptor-positive breast cancer: Updated findings from NCIC CTG MA. 17. J Natl Cancer Inst 97:1262-1271, 2005 12. National Cancer Institute: Adjuvant therapy of breast cancer: Tamoxifen update. Bethesda, MD, National Institutes of Health, 1995. http://www.nlm .nih.gov/databases/alerts/tamoxifen.html 7 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Goss et al 
+
+13. Hortobagyi GN, Kau SW, Buzdar AU, et al: What is the prognosis of patients with operable breast cancer (BC) five years after diagnosis? J Clin Oncol 22:23s, 2004 (suppl 15; abstr 585) 14. Chien AJ, Goss PE: Aromatase inhibitors and bone health in women with breast cancer. J Clin Oncol 24:5305-5312, 2006 15. Goss PE, Chlebowski RT, LeBoff MS, et al: Recommendations on bone health managements 
+
+for women with early-stage breast cancer. Am J Onc Review 5:34-43, 2006 16. Brufsky A, Harker WG, Beck JT, et al: Zoledronic acid inhibits adjuvant letrozole–induced bone loss in postmenopausal women with early breast cancer. J Clin Oncol 25:829-836, 2007 17. Bundred N, Campbell I, Coleman R, et al: Zoledronic acid in the prevention of cancer treatment-induced bone loss in postmenopausal 
+
+women receiving letrozole as adjuvant therapy for early breast cancer (ZO-FAST study). Eur J Cancer 1006; 4: 48 (suppl; abstr 12) 18. Perez EA, Josse RG, Pritchard KI, et al: Effect of letrozole versus placebo on bone mineral density in women with primary breast cancer completing 5 or more years of adjuvant tamoxifen: A companion study to NCIC CTG MA.17. J Clin Oncol 24:36293635, 2006 
+
+■ ■ ■ 
+
+Acknowledgment We thank the women who participated in the study, the trial committee, and the investigators. 
+
+8 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on March 10, 2008 . For personal use only. No other uses without permission. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+ 

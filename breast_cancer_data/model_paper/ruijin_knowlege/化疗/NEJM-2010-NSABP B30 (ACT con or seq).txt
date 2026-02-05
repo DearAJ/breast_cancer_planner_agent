@@ -1,0 +1,1173 @@
+new england journal of medicine The 
+
+established in 1812 
+
+june 3, 2010 
+
+vol. 362 
+
+no. 22 
+
+Longer Therapy, Iatrogenic Amenorrhea, and Survival in Early Breast Cancer Sandra M. Swain, M.D., Jong-Hyeon Jeong, Ph.D., Charles E. Geyer, Jr., M.D., Joseph P. Costantino, Dr.P.H., Eduardo R. Pajon, M.D., Louis Fehrenbacher, M.D., James N. Atkins, M.D., Jonathan Polikoff, M.D., Victor G. Vogel, M.D., M.H.S., John K. Erban, M.D., Priya Rastogi, M.D., Robert B. Livingston, M.D., Edith A. Perez, M.D., Eleftherios P. Mamounas, M.D., M.P.H., Stephanie R. Land, Ph.D., Patricia A. Ganz, M.D., and Norman Wolmark, M.D. 
+
+A BS T R AC T Background 
+
+Chemotherapy regimens that combine anthracyclines and taxanes result in improved disease-free and overall survival among women with operable lymph-node–positive breast cancer. The effectiveness of concurrent versus sequential regimens is not known. Methods 
+
+We randomly assigned 5351 patients with operable, node-positive, early-stage breast cancer to receive four cycles of doxorubicin and cyclophosphamide followed by four cycles of docetaxel (sequential ACT); four cycles of doxorubicin and docetaxel (doxorubicin–docetaxel); or four cycles of doxorubicin, cyclophosphamide, and docetaxel (con­current ACT). The primary aims were to examine whether concurrent ACT was more effective than sequential ACT and whether the doxorubicin–docetaxel regimen would be as effective as the concurrent-ACT regimen. The secondary aims were to assess toxic effects and to correlate amenorrhea with outcomes in premenopausal women. Results 
+
+At a median follow-up of 73 months, overall survival was improved in the sequentialACT group (8-year overall survival, 83%) as compared with the doxorubicin–docetaxel group (overall survival, 79%; hazard ratio for death, 0.83; P = 0.03) and the concurrentACT group (overall survival, 79%; hazard ratio, 0.86; P = 0.09). Disease-free survival was improved in the sequential-ACT group (8-year disease-free survival, 74%) as compared with the doxorubicin–docetaxel group (disease-free survival, 69%; hazard ratio for recurrence, a second malignant condition, or death, 0.80; P = 0.001) and the concurrent-ACT group (disease-free survival, 69%; hazard ratio, 0.83; P = 0.01). The doxorubicin–docetaxel regimen showed noninferiority to the concurrent-ACT regimen for overall survival (hazard ratio, 0.96; 95% confidence interval, 0.82 to 1.14). Overall survival was improved in patients with amenorrhea for 6 months or more across all treatment groups, independently of estrogen-receptor status. Conclusions 
+
+Sequential ACT improved disease-free survival as compared with doxorubicin–docetaxel or concurrent ACT, and it improved overall survival as compared with doxorubicin– docetaxel. Amenorrhea was associated with improved survival regardless of the treatment and estrogen-receptor status. (ClinicalTrials.gov number, NCT00003782.) n engl j med 362;22 
+
+nejm.org 
+
+From the National Surgical Adjuvant Breast and Bowel Project (NSABP) (S.M.S., C.E.G., E.R.P., L.F., J.N.A., J.P., V.G.V., P.R., E.P.M., S.R.L., P.A.G., N.W.); Washington Cancer Institute at Washington Hospital Center, Washington, DC (S.M.S.); NSABP Biostatistical Center and Department of Biostatistics, Graduate School of Public Health, University of Pittsburgh (J.-H.J., J.P.C., S.R.L.), Allegheny General Hospital (C.E.G., N.W.), and University of Pittsburgh Cancer Institute (V.G.V., P.R.) — all in Pittsburgh; Colorado Cancer Research Program, Denver (E.R.P.); Kaiser Permanente Northern California, Vallejo, CA (L.F.); Southeast Cancer Control Consortium, Clinical Cancer Oncology Program, Goldsboro, NC (J.N.A.); Southern California Kaiser Permanente, San Diego (J.P.); American Cancer Society, Atlanta (V.G.V.); Massachusetts General Hospital Cancer Center and Harvard Medical School — both in Boston (J.K.E.); the Eastern Cooperative Oncology Group, Philadelphia (J.K.E.); Arizona Cancer Center, University of Arizona, Tucson (R.B.L.); the Southwest Oncology Group, Ann Arbor, MI (R.B.L.); Mayo Clinic, Jacksonville, Jacksonville, FL (E.A.P.); the North Central Cancer Treatment Group, Rochester, MN (E.A.P.); Aultman Health Foundation, Canton, OH (E.P.M.); and the University of California Los Angeles School of Medicine and Public Health, Jonsson Comprehensive Cancer Center, Los Angeles (P.A.G.). Address reprint requests to Dr. Swain at Washington Cancer Institute, Washington Hospital Center, 110 Irving St. NW, Washington, DC 20010, or at sandra.m.swain@medstar.net. N Engl J Med 2010;362:2053-65. Copyright © 2010 Massachusetts Medical Society. 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2053 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+C 
+
+hemotherapy regimens that combine anthracyclines and taxanes with other agents such as cyclophosphamide result in improved disease-free and overall survival among women with operable lymph-node–positive breast cancer.1,2 The contribution of cyclophosphamide to these regimens has not been defined. Initial evaluations of taxanes in the adjuvant setting used a sequential approach of administration after completion of the anthracycline-based regimen. Phase 3 trials in advanced breast cancer have shown superiority with a doxorubicin–docetaxel combination as compared with doxorubicin– cyclophosphamide and with doxorubicin, cyclophosphamide, and docetaxel (ACT, also known as the TAC regimen), and as compared with fluoroura­ cil, doxorubicin, and cyclophosphamide.3,4 These studies provided the rationale for the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-30 trial. This trial was designed to compare the sequential regimen of doxorubicin and cyclophospha­ mide followed by docetaxel (sequential ACT) with the doxorubicin–docetaxel combination and with the concurrent regimen of doxorubicin, cyclophosphamide, and docetaxel (concurrent ACT), while keeping the number of cycles of doxorubicin and docetaxel the same in all three groups. Specific questions addressed in this trial were whether four cycles of the concurrent-ACT regimen would improve overall survival and diseasefree survival as compared with the sequential regimen and whether a four-cycle regimen of doxorubicin–docetaxel without cyclophosphamide would be at least as effective as four cycles of concurrent ACT. The development of amenorrhea during and after adjuvant chemotherapy has been associated with clinically important effects on symptoms and quality of life in women with early breast cancer.5 To assess the effect of amenorrhea on the outcome end points, we prospectively documented menstrual status after therapy in premenopausal patients. 
+
+Me thods Patients 
+
+Women were eligible for randomization if they presented with invasive adenocarcinoma (tumor stage T1, T2, or T3, clinical nodal stage N0 or N1, and metastasis stage M0)6 and had undergone primary surgery with total mastectomy or lumpectomy plus axillary nodal dissection with margins 2054 
+
+n engl j med 362;22 
+
+of resection that were histologically free of invasive tumor or ductal carcinoma in situ. Histologic evidence of tumor in at least one lymph node was required. Randomization must have occurred within 84 days after the final surgery. Analysis of estrogen-receptor (ER) and progesterone-receptor (PR) expression and the intended plan for radiotherapy were required before entry into the study. Exclusion criteria included bilateral breast cancer, previous therapy for breast cancer, current administration of hormone therapy or raloxifene, previous anthracycline-containing or taxane-containing chemotherapy for any malignant condition, pregnancy, and grade 2 or higher peripheral neuropathy. Before randomization, a history and physical examination, chest radiography, bilateral mammography, and electrocardiography were required. The study was approved by the ethics committees or institutional review boards of all participating institutions. Written informed consent was required. Study Design 
+
+This randomized, multicenter, phase 3 trial was conducted by the NSABP in collaboration with the Eastern Cooperative Oncology Group, the Southwest Oncology Group, and the North Central Cancer Treatment Group. Patients were stratified according to the number of positive lymph nodes (1 to 3, 4 to 9, or ≥10), type of local therapy, and planned use or nonuse of tamoxifen. To keep the doses of doxorubicin and cyclophospha­ mide equivalent across the study groups, the original treatment regimens were as follows: four cycles of doxorubicin at a dose of 60 mg per square meter of body-surface area plus cyclophosphamide at a dose of 600 mg per square meter every 3 weeks, followed by four cycles of docetaxel at a dose of 100 mg per square meter every 3 weeks (the sequential-ACT regimen); four cycles of doxo­ rubicin at a dose of 60 mg per square meter plus docetaxel at a dose of 60 mg per square meter every 3 weeks (the doxorubicin­–docetaxel regimen); and four cycles of doxorubicin at a dose of 60 mg per square meter plus cyclophosphamide at a dose of 600 mg per square meter plus do­ce­ taxel at a dose of 60 mg per square meter every 3 weeks (the concurrent-ACT regimen). In September 2000, after five deaths were reported among patients assigned to the concurrent-ACT regimen, the doses for this regimen were modified as follows: doxorubicin at a dose of 50 mg per square meter, cyclophosphamide at nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+Iatrogenic Amenorrhea and Survival in Early Breast Cancer 
+
+a dose of 500 mg per square meter, and docetaxel at a dose of 75 mg per square meter. To maintain consistency with the aims of the study, the doses in the doxorubicin–docetaxel group were also changed (doxorubicin at a dose of 50 mg per square meter and docetaxel at a dose of 75 mg per square meter). The protocol was also amended to include primary prophylaxis with granulocyte or granulocyte–macrophage colony-stimulating factors in these two treatment groups. Initially, patients with ER-positive tumors, PR-positive tumors, or both received 20 mg of tamoxifen daily for 5 years starting concurrently with chemotherapy. An amendment in October 2002 required tamoxifen treatment after the completion of chemotherapy; in addition, anastrozole was allowed in postmenopausal women. If indicated, radiotherapy was administered after chemotherapy. Clinical, hematologic, and biochemical assessments, including assessments of toxic effects (according to the National Cancer Institute’s Common Toxicity Criteria, version 2 [http://ctep.cancer .gov/protocoldevelopment/electronic_applications/ docs/ctcv20_4-30-992.pdf ]), were required on day 1 of each cycle, at 6-month intervals through year 5, and every 12 months thereafter. The patient’s menstrual history was assessed at baseline, day 1 of cycle 4, and months 6, 12, 18, and 24; quality of life was assessed on day 1 of each cycle and at 6-month intervals up to month 24. The investigators designed the study and analyzed the data, and they vouch for the accuracy and completeness of the data. All authors contributed to the writing of and the decision to publish the article. The first draft of the manuscript was written by the first author with the writing assistance of the Phillips Group, which was funded by the Washington Hospital Center Foundation. Docetaxel was donated by Sanofi-Aventis, which had no role in the study design, data accrual, data analysis, or manuscript preparation. 
+
+random assignment. The study was designed to detect a 25% reduction in overall survival between the concurrent-ACT group and the sequential-ACT group (two-sided superiority test, 80% power), and to test equivalence between doxorubicin–docetaxel versus concurrent ACT and doxorubicin–docetaxel versus sequential ACT (noninferiority analysis, 90% power). Secondary aims were to compare disease-free survival and quality of life, and to determine the association between the occurrence of amenorrhea for at least 6 months in the 24 months after randomization with quality of life, disease-free survival, and overall survival among menstruating premenopausal and perimenopausal women who had received the treatment regimens. These results have been reported elsewhere.7,8 An independent data monitoring committee met semiannually to monitor safety information and the outcome data. The formal, prespecified interim monitoring plan used for assessing outcomes included three interim analyses. The boundaries used as stopping rules for the interim analyses were determined with the use of the method described by Fleming et al.9 We evaluated all patients who had follow-up, regardless of eligibility status. Distributions of time-to-event analyses were estimated by means of the Kaplan–Meier method10; differences in the end points of overall survival and disease-free survival between treatment groups were assessed by means of the two-sided log-rank test.11 The stratified Cox proportional-hazards model was used to adjust for potential confounding factors, and the chi-square test was used to compare proportions in toxicity data among treatment groups.12,13 The proportion of each specific subtype of first events included in the disease-free survival end point was estimated and compared among treatment groups with the use of Gray’s method.14 Forest plots were used to summarize the results of various subgroup analyses. All reported P values are two-sided. 
+
+Statistical Analysis 
+
+Events used for the analysis of the end point of overall survival included death from any cause. Events used for the analysis of the end point of disease-free survival included local, regional, or distant breast-cancer recurrence, second primary cancer (other than squamous-cell or basal-cell carcinoma of the skin or carcinoma in situ of the cervix), and death from any cause before recurrence. All events were measured from the date of n engl j med 362;22 
+
+R e sult s Patients 
+
+Between 1999 and 2004, a total of 5351 patients were randomly assigned from 185 North American centers. Eighty-seven patients (2%) were lost to follow-up and excluded from analyses (30 in the sequential-ACT group, 31 in the doxorubicin– docetaxel group, and 26 in the concurrent-ACT nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2055 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Operable breast cancer Histologically positive nodes 
+
+Stratification No. of positive nodes (1–3, 4–9, ≥10) Tamoxifen administration (yes, no) Surgery and radiotherapy Mastectomy, no local or regional radiotherapy Mastectomy, local or regional radiotherapy, or both Lumpectomy, local radiotherapy Lumpectomy, local and regional radiotherapy 
+
+5351 Patients underwent randomization 
+
+1783 Were assigned to sequential ACT 
+
+1784 Were assigned to doxorubicin– docetaxel 
+
+1784 Were assigned to concurrent ACT 
+
+5264 Had follow-up 
+
+1753 Had data analyzed 
+
+1753 Had data analyzed 
+
+1758 Had data analyzed 
+
+Figure 1. Enrollment, Randomization, and Follow-up of Study Participants. 
+
+49 (<1%) because they withdrew from the study or declined the protocol therapy, 14 (<1%) because of other disease, and 28 (<1%) for other reasons. Of the 1753 patients randomly assigned to sequential ACT and who had follow-up, 1748 began protocol therapy. Of these patients, 99% completed four cycles of doxorubicin and cyclophospha­ mide, and 86% completed all eight treatment cycles. A total of 1729 patients in the doxorubicin– docetaxel group and 1740 in the concurrent-ACT group began protocol therapy; 97% of the patients in each group completed all four cycles. Cycle delays occurred in 53% of patients in the sequential-ACT group, 22% of the patients in the doxoTreatment rubicin–docetaxel group, and 24% of the patients The protocol therapy was discontinued early in in the concurrent-ACT group; hematologic toxicity 370 patients (7%); of these patients, 279 (5%) dis- was the most frequent reason for cycle delay (in continued the study drug because of toxic effects, 22%, 3%, and 3% of the patients, respectively). group) (Fig. 1). The remaining 5264 patients were included in the intention-to-treat population (1753 in the sequential-ACT group, 1753 in the doxorubicin–docetaxel group, and 1758 in the concurrent-ACT group). Results are reported after a median follow-up of 73 months. Of the patients enrolled in the study, 93 (2%) were ineligible but were included in the intention-to-treat analysis (38 in the sequential-ACT group, 27 in the doxorubicin–docetaxel group, and 28 in the concurrent-ACT group). The treatment groups were well balanced with respect to demographic and tumor characteristics (Table 1). 
+
+2056 
+
+n engl j med 362;22 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+Iatrogenic Amenorrhea and Survival in Early Breast Cancer 
+
+Table 1. Demographic and Baseline Disease Characteristics of the Patients. Sequential-ACT Group (N = 1783) 
+
+Characteristic 
+
+Doxorubicin–Docetaxel Group (N = 1784) 
+
+Concurrent-ACT Group (N = 1784) 
+
+Age at study entry Median (yr) 
+
+51 
+
+50 
+
+51 
+
+<50 yr (%) 
+
+46 
+
+46 
+
+44 
+
+Premenopausal or perimenopausal 
+
+45 
+
+47 
+
+45 
+
+Postmenopausal 
+
+54 
+
+51 
+
+54 
+
+Unknown 
+
+1 
+
+1 
+
+1 
+
+1–3 
+
+64 
+
+65 
+
+65 
+
+Menopausal status (%) 
+
+No. of positive nodes (%) 4–9 
+
+25 
+
+24 
+
+25 
+
+≥10 
+
+8 
+
+8 
+
+8 
+
+Unknown 
+
+3 
+
+3 
+
+2 
+
+Estrogen-receptor status (%)* Positive 
+
+75 
+
+75 
+
+75 
+
+Negative 
+
+25 
+
+25 
+
+25 
+
+Tumor size (%) ≤2 cm 
+
+42 
+
+42 
+
+43 
+
+>2–4 cm 
+
+40 
+
+41 
+
+40 
+
+>4 cm 
+
+15 
+
+14 
+
+15 
+
+Unknown 
+
+3 
+
+3 
+
+2 
+
+Lumpectomy 
+
+49 
+
+49 
+
+49 
+
+Mastectomy 
+
+51 
+
+51 
+
+51 
+
+Type of surgery (%)† 
+
+Type of radiotherapy (%) None after mastectomy 
+
+23 
+
+21 
+
+22 
+
+Local after mastectomy 
+
+28 
+
+30 
+
+29 
+
+Local after lumpectomy 
+
+24 
+
+23 
+
+24 
+
+Local or regional after lumpectomy 
+
+24 
+
+25 
+
+24 
+
+None after lumpectomy 
+
+1 
+
+1 
+
+1 
+
+* Assessment of estrogen-receptor (ER) and progesterone-receptor status was required before randomization. ERpositive tumors were defined by a finding of ≥10 fmol of cytosol protein per milligram by the dextran-coated charcoal or sucrose-density gradient method or as positive by the enzyme immunoassay method or by immunocytochemical assay. Patients without definitive negative results (e.g., those with results deemed to be marginal or borderline) were considered to have positive results. † Patients were required to have undergone primary breast-cancer surgery to be eligible for study entry. 
+
+Efficacy 
+
+A total of 803 deaths (240 in the sequential-ACT group, 285 in the doxorubicin–docetaxel group, and 278 in the concurrent-ACT group) as of ­August 31, 2008, led to the definitive analysis. Kaplan–Meier estimates of overall survival and disease-free survival in the intention-to-treat pop- 
+
+n engl j med 362;22 
+
+ulation are shown in Figures 2A and 2B. In the primary end-point analysis, treatment with sequential ACT (8-year overall survival, 83%) was associated with a significant 17% reduction in mortality as compared with doxorubicin–docetaxel (overall survival, 79%; hazard ratio, 0.83; P = 0.03) and a nonsignificant reduction of 14% as compared 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2057 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+A 
+
+B No. of No. of Patients Events Sequential ACT 
+
+1753 
+
+Doxorubicin–docetaxel 1753 Concurrent ACT 1758 
+
+240 
+
+285 278 
+
+Hazard Ratio 
+
+P Value 
+
+0.86 vs. concurrent ACT 0.83 vs. doxorubicin–docetaxel 
+
+0.09 
+
+0.96 vs. doxorubicin–docetaxel 
+
+0.67 
+
+No. of No. of Patients Events Sequential ACT 
+
+Doxorubicin–docetaxel 1753 Concurrent ACT 1758 
+
+468 457 
+
+Disease-free Survival (%) 
+
+Overall Survival (%) 
+
+388 
+
+0.03 
+
+100 80 60 40 20 0 
+
+1753 
+
+0 
+
+2 
+
+4 
+
+6 
+
+Hazard Ratio 
+
+P Value 
+
+0.83 vs. concurrent 0.01 ACT 0.80 vs. doxorubi- 0.001 cin–docetaxel 0.96 vs. doxorubicin–docetaxel 
+
+0.58 
+
+100 80 60 40 20 0 
+
+8 
+
+0 
+
+2 
+
+Years since Randomization 
+
+4 
+
+6 
+
+8 
+
+Years since Randomization 
+
+No. at Risk 
+
+No. at Risk 
+
+Total 5264 Sequential 1753 ACT Doxorubicin– 1753 docetaxel Concurrent 1758 ACT 
+
+5042 1685 
+
+4620 1533 
+
+2300 775 
+
+779 271 
+
+1668 
+
+1531 
+
+752 
+
+253 
+
+1689 
+
+1556 
+
+773 
+
+Total 5264 Sequential 1753 ACT Doxorubicin– 1753 docetaxel Concurrent 1758 ACT 
+
+255 
+
+C 
+
+4743 1600 
+
+4158 1414 
+
+2021 709 
+
+679 242 
+
+1557 
+
+1349 
+
+652 
+
+222 
+
+1586 
+
+1395 
+
+660 
+
+215 
+
+D No. of No. of Patients Events 
+
+Status 
+
+Amenorrhea 1868 No amenorrhea 475 
+
+247 103 
+
+Amenorrhea 1868 No amenorrhea 475 
+
+Disease-free Survival (%) 
+
+Overall Survival (%) 
+
+100 80 
+
+Hazard ratio, 0.76 P=0.04 
+
+60 40 20 0 
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+424 173 
+
+100 80 Hazard ratio, 0.70 P<0.001 
+
+60 40 20 0 
+
+0 
+
+Years since Randomization 
+
+2 
+
+4 
+
+6 
+
+8 
+
+Years since Randomization 
+
+No. at Risk Total Amenorrhea No amenorrhea 
+
+No. of No. of Patients Events 
+
+Status 
+
+No. at Risk 2343 1868 475 
+
+2251 1825 426 
+
+2067 1685 382 
+
+1111 897 214 
+
+373 284 89 
+
+Total Amenorrhea No amenorrhea 
+
+2343 1868 475 
+
+2101 1705 396 
+
+1838 1519 319 
+
+974 797 177 
+
+323 250 73 
+
+Figure 2. Overall Survival and Disease-free Survival. Panels A and B show the Kaplan–Meier estimates of survival and disease-free survival in the three treatment groups over the follow-up period. P values are by two-sided log-rank tests. At the prespecified significance level of 0.05, a significant improvement in overall survival was associated with doxorubicin and cyclophosphamide followed by docetaxel (sequential ACT) as compared with doxorubicin–­docetaxel (P = 0.03), and a marginal benefit was associated with sequential ACT over concurrent administration of doxorubicin, docetaxel, and ­c yclophosphamide (concurrent ACT) (P = 0.09) (Panel A). There was a statistically significant decrease in disease recurrence, a second malignant condition, or death in the sequential-ACT group as compared with the concurrent-ACT group (P = 0.01). In addition, the rate of disease-free survival was significantly higher among patients in the sequential-ACT group than among patients in the doxorubicin– docetaxel group (P = 0.001) (Panel B). Panels C and D show the effect of amenorrhea on overall survival and disease-free survival, respectively, for the combined treatment groups adjusted for treatment, estrogen-receptor status, age, lymph-node status, tumor size, and use or nonuse of hormone therapy. Overall survival (hazard ratio for death, 0.76; P = 0.04) and disease-free survival (hazard ratio for disease recurrence, a second malignant condition, or death, 0.70; P<0.001) were ­improved among patients with amenorrhea for 6 months or more. 
+
+2058 
+
+n engl j med 362;22 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+Iatrogenic Amenorrhea and Survival in Early Breast Cancer 
+
+Table 2. Events in the Intention-to-Treat Population. Sequential-ACT Doxorubicin–Docetaxel Concurrent-ACT Group (N = 1753) Group (N = 1753) Group (N = 1758) 
+
+Variable 
+
+P Value* 
+
+no. of patients (%) No events 
+
+1365 (78) 
+
+1285 (73) 
+
+1301 (74) 
+
+–— 
+
+Any event 
+
+388 (22) 
+
+468 (27) 
+
+457 (26) 
+
+0.01 for sequential ACT vs. concurrent ACT; 0.001 for sequential ACT vs. doxorubicin–docetaxel; 0.58 for concurrent ACT vs. doxorubicin– docetaxel 
+
+50 (3) 
+
+55 (3) 
+
+44 (3) 
+
+0.53 
+
+Recurrence Local Regional 
+
+16 (1) 
+
+22 (1) 
+
+35 (2) 
+
+0.02 
+
+Distant 
+
+218 (12) 
+
+280 (16) 
+
+257 (15) 
+
+0.01 
+
+Contralateral breast cancer 
+
+31 (2) 
+
+38 (2) 
+
+42 (2) 
+
+0.42 
+
+Second primary tumor, nonbreast 
+
+55 (3) 
+
+50 (3) 
+
+49 (3) 
+
+0.84 
+
+18 (1) 
+
+23 (1) 
+
+30 (2) 
+
+0.20 
+
+Death, no evidence of disease 
+
+* Except for the “any event” category, P values are for the comparison among the three groups in cumulative incidence rates over the entire follow-up period. 
+
+with concurrent ACT (overall survival, 79%; hazard ratio, 0.86; P = 0.09). There was no difference in overall survival for doxorubicin–docetaxel as compared with concurrent ACT (hazard ratio, 0.96; 95% confidence interval, 0.82 to 1.14; P = 0.67). In the analysis of disease-free survival, a total of 1313 events were observed. Patients treated with sequential ACT (8-year disease-free survival, 74%) had a significant reduction in the likelihood of disease recurrence, a second malignant condition, or death as compared with either concurrent ACT (disease-free survival, 69%; hazard ratio, 0.83; P = 0.01) or doxorubicin–docetaxel (disease-free survival, 69%; hazard ratio, 0.80; P = 0.001). No difference was noted in diseasefree survival between the doxorubicin–docetaxel group and the concurrent-ACT group (hazard ratio for disease recurrence, a second malignant condition, or death, 0.96; P = 0.58). Most disease recurrence was distant (Table 2). The group that received sequential ACT had significantly fewer distant recurrences as first events (12%) as compared with the other groups (16% in the doxorubicin–docetaxel group and 15% in the concurrentACT group, P = 0.01 for the comparison among the three groups) (Table 2). In a planned multivariate subgroup analysis, sequential ACT appeared to be more efficacious than either concurrent ACT or doxorubicin–do­ ce­taxel in all subgroups tested with respect to n engl j med 362;22 
+
+both overall survival (Fig. 3A and 3C) and disease-free survival (Fig. 3B and 3D), with the exception of tumors that were less than 2 cm in diameter in patients receiving doxorubicin–docetaxel (Fig. 3C). No evidence of interaction between treatment effect and any of the factors tested was noted. For the comparison of sequential ACT versus concurrent ACT, the P values for interaction for treatment according to ER status Figure 3 (next pages). Hazard Ratios for Various ­Subgroups, According to Treatment. Panel A shows the reduced risk of death associated with doxorubicin and cyclophosphamide followed by docetaxel (sequential ACT) as compared with concurrent administration of all three agents (concurrent ACT). Panel B shows the reduced risk of disease recurrence, a second malignant condition, or death associated with sequential ACT as compared with concurrent ACT. Panel C shows the reduced risk of death associated with sequential ACT as compared with doxorubicin– docetaxel. Panel D shows the reduced risk of disease recurrence, a second malignant condition, or death associated with sequential ACT as compared with doxorubicin–docetaxel. Panels E and F show data from the menstrual-history study. Panel E shows the risk of death according to subgroups, adjusted for lymph-node status and tumor size. Panel F shows the risk of disease recurrence, a second malignant condition, or death according to subgroups, adjusted for lymph-node status and tumor size. The size of the squares is proportional to the size of the subgroups. CI denotes confidence interval, and ER estrogen receptor. 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2059 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+A Risk of Death: Sequential ACT vs. Concurrent ACT Subgroup 
+
+No. of Patients 
+
+Age <50 yr 1578 ≥50 yr 1933 ER status Negative 868 Positive 2643 No. of positive lymph nodes 1–3 2295 ≥4 1170 Tumor size ≤2 cm 1508 >2 cm 1952 Hormone therapy Yes 2773 No 738 Menopausal status Premenopausal 1594 Postmenopausal 1917 
+
+No. of Events 
+
+Hazard Ratio 
+
+Concurrent ACT 
+
+Sequential ACT 
+
+135 143 
+
+119 121 
+
+0.86 0.85 
+
+119 159 
+
+109 131 
+
+0.93 0.82 
+
+138 139 
+
+105 131 
+
+0.76 0.95 
+
+77 200 
+
+71 165 
+
+0.94 0.81 
+
+174 104 
+
+143 97 
+
+0.81 0.96 
+
+124 154 
+
+116 124 
+
+0.95 0.79 
+
+Hazard Ratio with 95% CI 
+
+0.6 0.7 0.8 0.9 1.0 1.1 1.2 
+
+Sequential ACT Better 
+
+Concurrent ACT Better 
+
+C Risk of Death: Sequential ACT vs. Doxorubicin–Docetaxel Subgroup 
+
+No. of Patients 
+
+Age <50 yr 1608 ≥50 yr 1898 ER status Negative 861 Positive 2645 No. of positive lymph nodes 1–3 2281 ≥4 1164 Tumor size ≤2 cm 1478 >2 cm 1960 Hormone therapy Yes 2773 No 733 Menopausal status Premenopausal 1628 Postmenopausal 1878 
+
+No. of Events 
+
+Hazard Ratio 
+
+Doxorubicin– Docetaxel 
+
+Sequential ACT 
+
+136 149 
+
+119 121 
+
+0.89 0.78 
+
+125 160 
+
+109 131 
+
+0.84 0.81 
+
+133 148 
+
+105 131 
+
+0.78 0.87 
+
+61 220 
+
+71 165 
+
+1.16 0.73 
+
+176 109 
+
+143 97 
+
+0.80 0.86 
+
+127 158 
+
+116 124 
+
+0.98 0.72 
+
+Hazard Ratio with 95% CI 
+
+0.6 0.8 1.0 1.2 1.4 1.6 
+
+Sequential Doxorubicin– ACT Better Docetaxel Better 
+
+E Risk of Death, According to Menstrual-History Subgroup Subgroup Sequential ACT Doxorubicin–docetaxel Concurrent ACT Age <40 yr 40–44 yr >44 yr ER status Negative Positive 
+
+No. of Patients 
+
+No. of Events 
+
+Hazard Ratio 
+
+752 788 771 
+
+No Amenorrhea 22 47 33 
+
+Amenorrhea 88 74 83 
+
+0.52 0.63 0.49 
+
+528 477 1203 
+
+51 25 23 
+
+47 60 116 
+
+0.72 0.63 0.37 
+
+592 1719 
+
+66 36 
+
+98 147 
+
+0.68 0.73 
+
+Hazard Ratio with 95% CI 
+
+0.4 
+
+0.6 
+
+0.8 
+
+1.0 
+
+Amenorrhea Better No Amenorrhea Better 
+
+2060 
+
+n engl j med 362;22 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+Iatrogenic Amenorrhea and Survival in Early Breast Cancer 
+
+B Risk of Disease Recurrence, a Second Malignant Condition, or Death: Sequential ACT vs. Concurrent ACT Subgroup 
+
+No. of Patients 
+
+Age <50 yr 1578 ≥50 yr 1933 ER status Negative 868 Positive 2643 No. of positive lymph nodes 1–3 2295 ≥4 1170 Tumor size ≤2 cm 1508 >2 cm 1952 Hormone therapy Yes 2773 No 738 Menopausal status Premenopausal 1594 Postmenopausal 1917 
+
+Hazard Ratio Hazard Ratio with 95% CI 
+
+No. of Events Concurrent ACT 
+
+Sequential ACT 
+
+216 241 
+
+183 205 
+
+0.81 0.84 
+
+172 285 
+
+146 242 
+
+0.84 0.82 
+
+250 205 
+
+196 182 
+
+0.77 0.86 
+
+144 310 
+
+125 252 
+
+0.88 0.78 
+
+306 151 
+
+262 126 
+
+0.83 0.84 
+
+215 242 
+
+188 200 
+
+0.88 0.79 0.7 0.8 0.9 1.0 1.1 
+
+Sequential ACT Better 
+
+Concurrent ACT Better 
+
+D Risk of Disease Recurrence, a Second Malignant Condition, or Death: Sequential ACT vs. Doxorubicin–Docetaxel Subgroup 
+
+No. of Patients 
+
+Age <50 yr 1608 ≥50 yr 1898 ER status Negative 861 Positive 2645 No. of positive lymph nodes 1–3 2281 ≥4 1164 Tumor size ≤2 cm 1478 >2 cm 1960 Hormone therapy Yes 2773 No 733 Menopausal status Premenopausal 1628 Postmenopausal 1878 
+
+Hazard Ratio 
+
+No. of Events Doxorubicin– Docetaxel 
+
+Sequential ACT 
+
+235 233 
+
+183 205 
+
+0.77 0.83 
+
+177 291 
+
+146 242 
+
+0.77 0.81 
+
+244 220 
+
+196 182 
+
+0.78 0.78 
+
+134 329 
+
+125 252 
+
+0.92 0.72 
+
+313 155 
+
+262 126 
+
+0.81 0.77 
+
+223 245 
+
+188 200 
+
+0.88 0.73 
+
+Hazard Ratio with 95% CI 
+
+0.7 0.8 0.9 1.0 1.1 
+
+Sequential ACT Better 
+
+Doxorubicin– Docetaxel Better 
+
+F Risk of Disease Recurrence, a Second Malignant Condition, or Death, According to Menstrual-History Subgroup Subgroup 
+
+No. of Patients 
+
+Sequential ACT Doxorubicin–docetaxel Concurrent ACT Age <40 yr 40–44 yr >44 yr ER status Negative Positive 
+
+Hazard Ratio Hazard Ratio with 95% CI 
+
+No. of Events 
+
+752 788 771 
+
+No Amenorrhea 34 83 55 
+
+Amenorrhea 143 127 150 
+
+0.53 0.56 0.53 
+
+528 477 1203 
+
+98 34 32 
+
+71 91 227 
+
+0.55 0.70 0.49 
+
+592 1719 
+
+96 76 
+
+147 273 
+
+0.71 0.62 0.4 
+
+0.6 
+
+0.8 
+
+1.0 
+
+Amenorrhea Better No Amenorrhea Better 
+
+n engl j med 362;22 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2061 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+were 0.18 for overall survival and 0.96 for diseasefree survival. For the comparison of sequential ACT versus doxorubicin–docetaxel, the P values for interaction for treatment according to ER status were 0.89 for overall survival and 0.64 for disease-free survival (see Table 1 in the Supplementary Appendix, available with the full text of this article at NEJM.org). For the comparison of sequential ACT versus concurrent ACT, the P values for interaction according to menopausal status were 0.27 and 0.47. For the comparison of sequential ACT versus doxorubicin–docetaxel, the P values for interaction according to menopausal status were 0.08 and 0.17. Disease-free survival was also tested for the interaction between the treatment effect of the regimens and amendment implementation (before and after dosage changes in the doxorubicin–docetaxel and concurrent-ACT groups and tamoxifen scheduling). These analyses suggested that the protocol changes did not affect outcome. Safety 
+
+There was an increased incidence of grade 3 or 4 adverse events among patients in the sequentialACT group (65%), as compared with 45% of patients in the doxorubicin–docetaxel group and 48% of patients in the concurrent-ACT group. Significant increases in stomatitis, febrile neutropenia, and infection were observed in the group that received sequential ACT as compared with the other groups, and arthralgia, fatigue, and vomiting were reported less often in the doxorubicin– docetaxel group (Table 3). Treatment-related deaths occurred in 24 patients overall (<1%): 5 in the sequential-ACT group (<1%), 7 in the doxorubicin–docetaxel group (<1%), and 12 in the concurrent-ACT group (<1%). Two deaths occurred in the sequential-ACT group, two deaths occurred in the doxorubicin–docetaxel group, and five deaths occurred in the concurrent-ACT group before the September 18, 2000, amendment. Menstrual History Study 
+
+Of the 2445 premenopausal patients who were eligible for the menstrual history study, follow-up menstrual history was available for 2343 (97%). Both overall survival (relative risk, 0.76; P = 0.04) and disease-free survival (relative risk, 0.70; P<0.001) were significantly increased among patients who had amenorrhea (no menstruation for ≥6 months during 24 months of follow-up) as 2062 
+
+n engl j med 362;22 
+
+compared with those who did not (Fig. 2C and 2D); hazard ratios and P values were adjusted according to treatment, ER status, age, lymph-node status, tumor size, and use or nonuse of hormone therapy. Results were consistent across all subgroups analyzed, with no interaction for treatment, age, or ER status (Fig. 3E and 3F). 
+
+Discussion This trial showed that the sequential administration of ACT in the adjuvant treatment of operable node-positive breast cancer provided a significant 17% reduction in mortality over doxorubicin– docetaxel (P = 0.03) and a nonsignificant 14% reduction in mortality over concurrent ACT (P = 0.09). The sequential-treatment schedule had a more pronounced advantage for disease-free survival. The findings of this trial suggest that a shorter course of treatment is not as effective as a longer course. One explanation is that a higher total dose of docetaxel (400 mg per square meter vs. 240 or 300 mg per square meter) or a higher dose per cycle (100 mg per square meter vs. 60 or 75 mg per square meter) was delivered in the sequential-ACT regimen as compared with the other groups (before and after the dosage amendment, respectively). A dose–response relationship has been established between docetaxel and outcome in metastatic breast cancer across a dose range of 60 to 100 mg per square meter per treatment cycle; this supports the findings of this trial.15 However, this per-cycle dose–response effect would not explain the results of the Breast Cancer International Research Group 005 trial (ClinicalTrials.gov number, NCT00312208), which showed that six cycles of concurrent ACT (do­ce­ tax­el dose per cycle, 75 mg per square meter; cumulative dose, 450 mg per square meter) was as effective as sequential ACT (docetaxel dose per cycle, 100 mg per square meter; cumulative dose, 400 mg per square meter).16 The results of the studies taken together suggest that the cumulative dose of docetaxel may be more important than the dose intensity per cycle. A second possible explanation for the inferiority of the doxorubicin–docetaxel and concurrent-ACT regimens is the lower cumulative dose of doxorubicin at 200 mg per square meter, after the amendment, as compared with 240 mg per square meter in the sequential-ACT group. Initially, this trial was designed to compare equal nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+Iatrogenic Amenorrhea and Survival in Early Breast Cancer 
+
+Table 3. Grade 3 or 4 Adverse Events, According to Treatment Group. Sequential-ACT Group (N = 1749) 
+
+Event 
+
+Doxorubicin–Docetaxel Group (N = 1750) 
+
+Concurrent-ACT Group (N = 1749) 
+
+P Value 
+
+16 
+
+<0.001 
+
+percent of patients Febrile neutropenia 
+
+22 
+
+13 
+
+Infection with neutropenia 
+
+8 
+
+6 
+
+6 
+
+0.004 
+
+Allergic reaction 
+
+3 
+
+3 
+
+2 
+
+0.76 
+
+Arthralgia 
+
+7 
+
+1 
+
+2 
+
+<0.001 
+
+Fatigue 
+
+12 
+
+8 
+
+10 
+
+<0.001 
+
+Nausea 
+
+9 
+
+7 
+
+9 
+
+0.08 
+
+Vomiting 
+
+8 
+
+5 
+
+7 
+
+0.003 
+
+Stomatitis or pharyngitis 
+
+5 
+
+1 
+
+2 
+
+<0.001 
+
+Diarrhea 
+
+4 
+
+4 
+
+6 
+
+0.001 
+
+Thrombosis or embolism 
+
+3 
+
+2 
+
+2 
+
+0.35 
+
+Left ventricular dysfunction 
+
+1 
+
+1 
+
+<1 
+
+0.89 
+
+cumulative doses and numbers of cycles of doxorubicin among all three treatment groups; however, because of toxicity, the dose of doxorubicin in the doxorubicin–docetaxel and concurrent-ACT groups was reduced. Although randomized trials have established a threshold dose of doxorubicin, with no dose–response effect noted above 60 mg per square meter, the Cancer and Leukemia Group B 8541 trial reported that “low” doses (30 mg per square meter) of doxorubicin, as compared with high doses (60 mg per square meter) and moderate doses (40 mg per square meter) were associated with inferior survival.17,18 The cumulative dose for the low-dose doxorubicin regimen was 120 mg per square meter versus 240 mg per square meter for the high-dose and moderate-dose regimens. Despite these findings, we found no evidence that the dose change of doxorubicin in this trial affected the outcome. Taken together, the results of these trials suggest that a longer course (sequential ACT), a higher dose of docetaxel, or both are important for maximum efficacy. Ovarian ablation or suppression has been associated with an improved outcome in premenopausal women,2,19 and the incidence and effect of amenorrhea have been reported in studies of adjuvant treatment of breast cancer.20 A remaining question is whether ovarian suppression is needed in addition to chemotherapy. In an overview analysis, a significant reduction in both disease recurrence and death was seen with the addition of a luteinizing hormone–releasing hor- 
+
+n engl j med 362;22 
+
+mone (LHRH) agonist and tamoxifen to chemotherapy in premenopausal women with ER-positive tumors.19 There was a significant reduction in disease recurrence and death among women 40 years of age or younger with the addition of an LHRH agonist to chemotherapy with or without tamoxifen. One study21 evaluated chemotherapy followed by goserelin versus either agent alone and showed a nonsignificant improvement in disease-free survival among premenopausal women with ER-positive tumors who received the combination. Prolonged amenorrhea occurred in patients who received chemotherapy and goserelin. Another study22 showed that the addition of tamoxifen to chemotherapy and goserelin improved outcomes in premenopausal women with nodepositive, ER-positive breast cancer, whereas the addition of goserelin alone to chemotherapy did not. Our large prospective study with menstrual history data provides support for the added benefit of ovarian suppression induced by chemotherapy to improve outcome. However, one cannot rule out that the association of improved outcome with increased frequency of ovarian suppression might be correlative rather than cause and effect. Another possibility includes altered drug metabolism in individual patients which could lead to differences in efficacy or rates of ovarian suppression. One of the most intriguing findings of this trial was that the outcome improved regardless of the treatment received or the ER content of the tumor in patients in whom protocol-defined 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2063 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+amenorrhea developed. Inaccuracy of the determination of ER status by local laboratories is not an explanation. Tumor specimens from 66% of the premenopausal women in this study were provided to the central pathology laboratory. Among these cases, agreement in ER status between local and central testing was 94%. When the analysis was restricted to the use of data from central testing, the findings among premenopausal women were confirmed (data not shown). It has been hypothesized that the benefit of chemotherapy in premenopausal women may be due in part to ovarian suppression. Other factors associated with improved overall survival among patients with hormone-sensitive and hormone-insensitive tumors besides estrogen deprivation have been postulated, including modulation of the immune system. The findings from this trial have clinical implications for women with early-stage, nodepositive breast cancer (approximately 27% of women with breast cancer23), regardless of their menopausal status. Taken in context with other recently reported trials, sequential-ACT therapy, as compared with four cycles of concurrent chemotherapy, is a highly effective treatment option for women with operable node-positive breast cancer. Supported by Public Health Service grants (U10-CA-37377, U10CA-69974, U10-CA-12027, and U10-CA-69651 to the National SurgiReferences 1. Brewster AM, Hortobagyi GN, Broglio KR, et al. Residual risk of breast cancer recurrence 5 years after adjuvant therapy. J Natl Cancer Inst 2008;100:1179-83. 2. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomized trials. Lancet 2005;365:1687-717. 3. Nabholtz JM, Falkson C, Campos D, et al. Docetaxel and doxorubicin compared with doxorubicin and cyclophosphamide as first-line chemotherapy for metastatic breast cancer: results of a randomized, multicenter, phase III trial. J Clin Oncol 2003;21:968-75. [Erratum, J Clin Oncol 2003;21:2048.] 4. Mackey JR, Paterson A, Dirix LY, et al. Final results of the phase III randomized trial comparing docetaxel (T), doxorubicin (A) and cyclophosphamide (C) to FAC as first line chemotherapy (CT) for patients (pts) with metastatic breast cancer (MBC). Proc Am Soc Clin Oncol 2002;21:35a. abstract. 5. Knobf MT. The influence of endocrine effects of adjuvant therapy on quality of 
+
+2064 
+
+cal Adjuvant Breast and Bowel Project; CA07190 to Dr. Erban; CA2115 to the Eastern Cooperative Oncology Group; CA-25224 to the North Central Cancer Treatment Group; and CA-32102, CA13612, CA-58348, and CA-45808 to the Southwest Oncology Group) from the National Cancer Institute, National Institutes of Health, Department of Health and Human Services; and by Sanofi-Aventis. Presented in part at the 31st Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 10–14, 2008, abstract 75. Dr. Swain reports receiving consulting fees from RhônePoulenc-Rhorer, grant support from Genentech, Sanofi-Aventis, Bristol-Myers Squibb, the Susan G. Komen for the Cure Foundation, Living in Pink, and Safeway, donations to the Washington Hospital Center Foundation from Genentech, Sanofi-Aventis, and Eisai, in-kind travel fees from Sanofi-Aventis, and grants to her institution (Medstar Research Institute) from Genentech, GlaxoSmithKline, Pfizer, Onyx, Novartis, Roche, Abraxis, BiPar, and Wyeth. Dr. Pajon reports receiving travel fees from the NSABP, which also provided fees to cover the clinical research associates and data managers; and owning stocks with his spouse in Gilead, Abbott, and Bristol-Myers Squibb. Dr. Fehrenbacher reports receiving grants and travel fees from Kaiser Permanente. Dr. Vogel reports receiving grants to the University of Pittsburgh from Sanofi-Aventis. Dr. Erban reports receiving grants from the Eastern Cooperative Oncology Group. Dr. Mamounas reports receiving consulting and lecture fees and serving on an advisory board for Sanofi-Aventis. Dr. Ganz reports receiving research support from the Lance Armstrong Foundation and the Breast Cancer Research Foundation. Drs. Geyer and Wolmark report receiving funding from Sanofi-Aventis for work performed by the NSABP to cover costs for non–standard of care procedures required by the study. No other potential conflict of interest relevant to this article was reported. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. We thank Barbara C. Good, Ph.D., director of scientific publications for the NSABP, Wendy L. Rea, editorial assistant for the NSABP, and the Phillips Group for writing assistance. 
+
+life outcomes in younger breast cancer survivors. Oncologist 2006;11:96-110. 6. American Joint Committee on Cancer. AJCC cancer staging manual. 5th ed. Philadelphia: Lippincott-Raven, 1997. 7. Ganz PA, Land SR, Geyer CE, et al. NSABP B-30: definitive analysis of quality of life (QOL) and menstrual history outcomes from a randomized trial evaluating different women with operable, nodepositive breast cancer. Presented at the 31st annual San Antonio Breast Cancer Symposium, December 10–14, 2008. abstract. 8. Swain SM, Land SR, Ritter MW, et al. Amenorrhea in premenopausal women on the doxorubicin-and-cyclophosphamidefollowed-by-docetaxel arm of NSABP B-30 trial. Breast Cancer Res Treat 2009;113: 315-20. 9. Fleming TR, Harrington DP, O’Brien PC. Designs for group sequential tests. Control Clin Trials 1984;5:348-61. 10. Kaplan EL, Meier P. Nonparametric estimation from incomplete observations. J Am Stat Assoc 1958;53:457-81. 11. Peto R, Peto J. Asymptotically efficient rank invariant test procedures (with discussion). J R Stat Soc [A] 1972;135:185-206. 
+
+n engl j med 362;22 
+
+nejm.org 
+
+12. Cox DR. Regression models and life- 
+
+tables. J R Stat Soc [B] 1972;34:187-220. 13. Wilson EB. Probable inference, the law of succession, and statistical inference. J Am Stat Assoc 1927;22:209-12. 14. Gray RJ. A class of K-sample tests for comparing the cumulative incidence of competing risk. Ann Stat 1988;16:114154. 15. Harvey V, Mouridsen H, Semiglazov V, et al. Phase III trial comparing three doses of docetaxel for second-line treatment of advanced breast cancer. J Clin Oncol 2006; 24:4963-70. 16. Eiermann W, Pienkowski T, Crown J, et al. [77]BCIRG 005 main efficacy analysis: a phase III randomized trial comparing docetaxel in combination with doxorubicin and cyclophosphamide (TAC) versus doxorubicin and cyclophosphamide followed by docetaxel (AC→T) in women with Her-2/neu negative axillary lymph node positive early breast cancer. Presented at the 32nd annual San Antonio Breast Cancer Symposium, December 9–13, 2009. abstract. 17. Henderson IC, Berry DA, Demetri GD, et al. Improved outcomes from adding se- 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+Iatrogenic Amenorrhea and Survival in Early Breast Cancer quential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with nodepositive primary breast cancer. J Clin Oncol 2003;21:976-83. 18. Budman DR, Berry DA, Cirrincione CT, et al. Dose and dose intensity as determinants of outcome in the adjuvant treatment of breast cancer: the Cancer and Leukemia Group B. J Natl Cancer Inst 1998;90:1205-11. 19. Cuzick J, Ambroisine L, Davidson N, et al. Use of luteinising-hormone-releasing hormone agonists as adjuvant treatment in premenopausal patients with 
+
+hormone-receptor-positive breast cancer: a meta-analysis of individual patient data from randomised adjuvant trials. Lancet 2007;369:1711-23. 20. Walshe JM, Denduluri N, Swain SM. Amenorrhea in premenopausal women after adjuvant chemotherapy for breast cancer. J Clin Oncol 2006;24:5769-79. 21. Castiglione-Gertsch M, O’Neill A, Price KN, et al. Adjuvant chemotherapy followed by goserelin versus either modality alone for premenopausal lymph node-negative breast cancer: a randomized trial. J Natl Cancer Inst 2003;95:183346. 
+
+22. Davidson NE, O’Neill AM, Vukov AM, 
+
+et al. Chemoendocrine therapy for premenopausal women with axillary lymph node-positive, steroid hormone receptorpositive breast cancer: results from INT 0101 (E5188). J Clin Oncol 2005;23:597382. 23. Surveillance, Epidemiology, and End Results. SEER cancer statistics review 1975–2006. (Accessed May 7, 2010, at http://www.seer.cancer.gov/csr/1975_2006/ results_merged/sect_04_breast.pdf.) Copyright © 2010 Massachusetts Medical Society. 
+
+full text of all journal articles on the world wide web 
+
+Access to the complete contents of the Journal on the Internet is free to all subscribers. To use this Web site, subscribers should go to the Journal’s home page (NEJM.org) and register by entering their names and subscriber numbers as they appear on their mailing labels. After this one-time registration, subscribers can use their passwords to log on for electronic access to the entire Journal from any computer that is connected to the Internet. Features include a library of all issues since January 1993 and abstracts since January 1975, a full-text search capacity, and a personal archive for saving articles and search results of interest. All articles can be printed in a format that is virtually identical to that of the typeset pages. Beginning 6 months after publication, the full text of all Original Articles and Special Articles is available free to nonsubscribers. 
+
+n engl j med 362;22 
+
+nejm.org 
+
+june 3, 2010 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2010 Massachusetts Medical Society. All rights reserved. 
+
+2065 
+
+ 

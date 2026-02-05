@@ -1,0 +1,927 @@
+Research 
+
+JAMA Oncology | Original Investigation 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation After Implant-Based Reconstruction A Randomized Clinical Trial Julia S. Wong, MD; Hajime Uno, PhD; Angela C. Tramontano, MPH; Lauren Fisher, MPH; Catherine V. Pellegrini, BS; Gregory A. Abel, MD, MPH; Harold J. Burstein, MD, PhD; Yoon S. Chun, MD; Tari A. King, MD; Deborah Schrag, MD, MPH; Eric Winer, MD; Jennifer R. Bellon, MD; Matthew D. Cheney, MD, PhD; Patricia Hardenbergh, MD; Alice Ho, MD, MBA; Kathleen C. Horst, MD; Janice N. Kim, MD; Kara-Lynne Leonard, MD, MS; Meena S. Moran, MD; Catherine C. Park, MD; Abram Recht, MD; Daniel E. Soto, MD, MS; Ron Y. Shiloh, MD; Susan F. Stinson, MD; Kurt M. Snyder, MD; Alphonse G. Taghian, MD, PhD; Laura E. Warren, MD; Jean L. Wright, MD; Rinaa S. Punglia, MD, MPH Visual Abstract IMPORTANCE Postmastectomy radiation therapy (PMRT) improves local-regional disease 
+
+Supplemental content 
+
+control and patient survival. Hypofractionation (HF) regimens have comparable efficacy and complication rates with improved quality of life compared with conventional fractionation (CF) schedules. However, the use of HF after mastectomy in patients undergoing breast reconstruction has not been prospectively examined. OBJECTIVE To compare HF and CF PMRT outcomes after implant-based reconstruction. DESIGN, SETTING, AND PARTICIPANTS This randomized clinical trial assessed patients 18 years or older undergoing mastectomy and immediate expander or implant reconstruction for breast cancer (Tis, TX, or T1-3) and unilateral PMRT from March 8, 2018, to November 3, 2021 (median [range] follow-up, 40.4 [15.4-63.0] months), at 16 US cancer centers or hospitals. Analyses were conducted between September and December 2023. INTERVENTIONS Patients were randomized 1:1 to HF or CF PMRT. Chest wall doses were 4256 cGy for 16 fractions for HF and 5000 cGy for 25 fractions for CF. Chest wall toxic effects were defined as a grade 3 or higher adverse event. MAIN OUTCOMES AND MEASURES The primary outcome was the change in physical well-being (PWB) domain of the Functional Assessment of Cancer Therapy–Breast (FACT-B) quality-of-life assessment tool at 6 months after starting PMRT, controlling for age. Secondary outcomes included toxic effects and cancer recurrence. RESULTS Of 400 women (201 in the CF arm and 199 in the HF arm; median [range] age, 47 [23-79] years), 330 patients had PWB scores at baseline and at 6 months. There was no difference in the change in PWB between the study arms (estimate, 0.13; 95% CI, −0.86 to 1.11; P = .80), but there was a significant interaction between age group and study arm (P = .03 for interaction). Patients younger than 45 years had higher 6-month absolute PWB scores if treated with HF rather than CF regimens (23.6 [95% CI, 22.7-24.6] vs 22.0 [95% CI, 20.7-23.3]; P = .047) and reported being less bothered by adverse effects (mean [SD], 3.0 [0.9] in the HF arm and 2.6 [1.2] in the CF arm; P = .02) or nausea (mean [SD], 3.8 [0.4] in the HF arm and 3.6 [0.8] in the CF arm; P = .04). In the as-treated cohort, there were 23 distant (11 in the HF arm and 12 in the CF arm) and 2 local-regional (1 in the HF arm and 1 in the CF arm) recurrences. Chest wall toxic effects occurred in 39 patients (20 in the HF arm and 19 in the CF arm) at a median (IQR) of 7.2 (1.8-12.9) months. Fractionation was not associated with chest wall toxic effects on multivariate analysis (HF arm: hazard ratio, 1.02; 95% CI, 0.52-2.00; P = .95). Fewer patients undergoing HF vs CF regimens had a treatment break (5 [2.7%] vs 15 [7.7%]; P = .03) or required unpaid time off from work (17 [8.5%] vs 34 [16.9%]; P = .02). CONCLUSIONS AND RELEVANCE In this randomized clinical trial, the HF regimen did not significantly improve change in PWB compared with the CF regimen. These data add to the increasing experience with HF PMRT in patients with implant-based reconstruction. TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT03422003 
+
+JAMA Oncol. 2024;10(10):1370-1378. doi:10.1001/jamaoncol.2024.2652 Published online August 8, 2024. 1370 
+
+Author Affiliations: Author affiliations are listed at the end of this article. Corresponding Author: Rinaa S. Punglia, MD, Department of Radiation Oncology, Dana-Farber Cancer Institute, 450 Brookline Ave, Boston, MA 02215 (rinaa_punglia@ dfci.harvard.edu). (Reprinted) jamaoncology.com 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+B 
+
+reast cancer is the most common malignant neoplasm among women globally.1 Approximately 40% of patients in the US undergo mastectomy,2 with most undergoing breast reconstruction.3-5 Breast reconstruction options include autologous tissue, an implant, or a combination of these approaches. There are psychological benefits to immediate reconstruction (performed at the time of mastectomy) rather than delayed reconstruction (performed months later).6 The most common immediate reconstruction techniques use either a temporary tissue expander (TE) followed by later placement of a permanent implant (PI) or immediate (direct) placement of a PI.4,7 Many patients benefit from postmastectomy radiation therapy (PMRT) to the ipsilateral chest wall with or without regional lymph nodes to improve local-regional control and survival.8-10 Hypofractionated (HF) regimens using smaller numbers of treatment sessions but a higher daily dose show comparable oncologic efficacy and complication rates11,12 with improved quality of life (QOL) compared with conventional fractionation (CF) schedules and are now the preferred approach after breast-conserving surgery.13 However, few studies have examined HF after mastectomy, with a lack of prospective data on HF after mastectomy in patients undergoing breast reconstruction. A single, prospective randomized clinical trial comparing HF and CF schedules for PMRT found no difference in localregional recurrence or disease-free or overall survival, but this trial specifically excluded patients undergoing immediate reconstruction.14 Several retrospective studies of patients having implant-based reconstruction suggest comparability of HF to CF.15,16 Although the efficacy of HF with regard to tumor control in breast cancer has been established, the effects of shorter schedules on reconstruction outcomes remain unclear. Implant-based reconstructions are at risk for complications, including infection, capsular contracture, malposition, and rupture, which may be exacerbated by PMRT.17-19 Therefore, we designed the prospective, randomized Study of Radiation Fractionation on Patient Outcomes After Breast Reconstruction (FABREC) to compare HF and CF PMRT for this population undergoing immediate implant-based reconstruction. We hypothesized that, compared with baseline, there would be improvement in physical well-being for those treated with HF relative to CF. 
+
+Methods Study Design and Participants The FABREC trial recruited patients from 16 institutions in the US between March 8, 2018, and November 3, 2021, and was reported following the Consolidated Standards of Reporting Trials (CONSORT) guidelines. The ethics committees of all participating institutions and the lead site (Dana-Farber Cancer Institute) approved the protocol (see the trial protocol in Supplement 1). Patients provided written informed consent and were enrolled by the treating radiation oncologist. Patients 18 years or older who underwent mastectomy and immediate implant-based reconstruction with placement of jamaoncology.com 
+
+Original Investigation Research 
+
+Key Points Question What are the outcomes of hypofractionated (16 treatments) postmastectomy radiation therapy in the setting of implant-based reconstruction compared with conventionally fractionated (25 treatments) radiation therapy? Findings In this multi-institutional randomized clinical trial of 400 patients, there was no statistically significant increase in change in physical well-being at 6 months (primary study outcome) with hypofractionation. However, among younger patients (aged <45 years), the hypofractionation group had higher physical well-being scores and were less bothered by treatment-related adverse effects compared with those randomized to conventional fractionation at 6 months. Meaning This study’s finding that hypofractionation did not result in significantly improved physical well-being at 6 months adds to the growing body of data on hypofractionated postmastectomy radiation therapy. 
+
+a TE or PI and were to receive PMRT for clinical or pathologic stage 0 to III breast cancer were eligible. Patients with T4 disease, prior ipsilateral breast radiation therapy, uncontrolled intercurrent illness, or bilateral radiation therapy were excluded, as were those with other prior malignant tumors, unless disease free for 5 years or more or deemed to be at low risk for recurrence. Systemic therapy was recorded, and chemotherapy concurrent with PMRT was not allowed. Concurrent trastuzumab was permitted. Local-regional recurrence event rate monitoring was used to compare against stopping criterion for safety. 
+
+Randomization and Masking Patients were allocated (1:1) to the HF or CF regimen with a computer-generated random sequence and an interactive webbased system using stratified permuted-block randomization. Randomization was stratified by treatment center and age (<45 vs ≥45 years). The assigned treatment could not be masked due to the different durations. Study staff did not have access to the randomization sequence and thus did not know group assignments until interventions were designated. 
+
+Treatment Patients randomized to the CF group received 5000 cGy (25 fractions) to the chest wall, with or without the internal mammary nodes, and discretionary irradiation of 4600 to 5000 cGy in 23 to 25 fractions to the supraclavicular lymph nodes, with or without axillary lymph nodes. Patients randomized to the HF group received 4256 cGy (16 fractions) to the chest wall with or without internal mammary nodes or supraclavicular nodal irradiation (3990 cGy, 15 fractions). Treatment was given daily on weekdays (excluding holidays) using either 3-dimensional conformal or intensity-modulated radiation techniques and field arrangements in accordance with institutional policy using photon energies of 6 MV or higher (proton irradiation was not permitted). Tissue-equivalent bolus (to increase the skin dose) over the mastectomy scar or entire chest wall was prescribed at physician discretion. A boost dose to the scar or other areas was not allowed. Radiation therapy planning included the goal (Reprinted) JAMA Oncology October 2024 Volume 10, Number 10 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+1371 
+
+Research Original Investigation 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+of achieving an even dose (homogeneity) throughout the target area. Institutional guidelines for prescription points, normalization conventions, and target and normal-tissue dosevolume goals were used, with the requirement that the maximum dose in the chest wall and nodal fields be no greater than 110% of the prescribed dose. Patients in the HF arm were treated with the CF regimen if inhomogeneity constraints could not be met. 
+
+Outcomes Patients completed questionnaires that included Functional Assessment of Cancer Therapy–Breast (FACT-B), version 420,21 at baseline (before radiation therapy initiation) and 6, 12, and 18 months after radiation therapy initiation and completed measures of treatment burden at 6 months (eAppendix in Supplement 2). The primary study outcome was change in physical well-being (PWB) derived from the PWB domain of FACT-B at 6 months with prespecified stratification by age (<45 years vs ≥45 years). The PWB of FACT-B was selected to be the most important outcome from a prior study of similar patients, where younger patients had worse PWB scores.22 The 6-month time point from start of radiation therapy was selected as a compromise between capturing QOL differences resulting from shorter therapy and including recovery from short-term radiation adverse effects. Serious adverse events were defined by the Common Terminology Criteria for Adverse Events, version 423 and reported at time of occurrence. Reportable events included the following: brachial plexopathy (grades 1-3), chest wall pain (grade 3), lymphedema (grade 3), myocardial infarction (grades 3-5), pneumonitis (grades 1-5), treatment-related secondary malignant tumor (grades 3-5), death (grade 5), or any unexpected event (grade 3 or 4) with a possible, probable, or definite attribution to PMRT. Chest wall toxic effects were defined as any grade 3 or higher adverse event in the ipsilateral chest wall area after PMRT began (infection, delayed wound healing, TE or implant removal, or unplanned surgical intervention), including 3 patients with a qualifying adverse event during PMRT (after 1, 3, and 7 fractions, respectively). Patients who underwent bilateral mastectomy and reconstruction who had contralateral chest wall toxic effects were followed up for ipsilateral events. 
+
+Statistical Analysis The primary population for analysis was the as-randomized population (N = 400), based on the intention-to-treat principle, excluding patients for whom baseline data were not available. The as-treated population (n = 385) included all randomized patients for whom baseline and radiation therapy information was known but excluded 1 patient who received a radiation boost. The 3 patients initially assigned to the HF group who were converted to the CF group due to homogeneity constraints were included in the HF arm for the astreated population analyses. Patients were censored at the time of study withdrawal or development of any recurrence. A difference of 2.8 in PWB scores was informed by the survey study22 and expected correlation in scores between the time points. A change in PWB score of 2.0 or greater has been 1372 
+
+defined as clinically meaningful in a study of patients with lung cancer receiving radiation therapy.24 The study sample size (N = 400) was determined to be sufficiently powered to detect the between-group difference in change in PWB scores and the interaction between treatment group and age group (<45 and ≥45 years). This was expected to have greater than 99% power (2-sided α = .05) for a marginal treatment difference of 2.8 in PWB scores and adequate power to accommodate nonresponse. The power for the interaction test was 80% when the expected treatment differences for the younger and older groups were 4.0 and 2.0, respectively, with an expected SD for change in PWB scores of 3.5. Analysis of covariance was performed for change in PWB scores from baseline to 6 months, with age group and study arm as covariates. Likert responses for the analyses of individual questions were made categorical. We further analyzed this change by performing an analysis of covariance that included an interaction between age group and study arm. Patients for whom missing data comprised more than 50% of the FACT-B were excluded from FACT-B analyses. For the PWB score analyses, patients with missing data for greater than 50% were excluded. When missing data comprised less than or equal to 50% of the scale, the missing item was imputed by taking the mean of the completed items. The QOL scores were compared using 2-sample t tests. Kaplan-Meier estimates of time to occurrence of chest wall toxic effects were stratified by treatment arm and compared using the log-rank test. Cox proportional hazards regression models were used to assess the bivariate associations between individual variables and study treatment toxic effects. We did not consider treatment center as a variable due to the small numbers of patients with toxic effects relative to the numbers of centers. We developed a multivariable Cox proportional hazards regression model that included variables determined to be statistically significant in the univariable Cox proportional hazards regression model, plus forced inclusion of treatment arm, patient age, and interval from surgery to PMRT. The final multivariable Cox proportional hazards regression model included treatment arm, age, and surgery-toPMRT interval, plus those variables that remained significant using backward elimination. Statistical significance was defined as P < .05 in a 2-sided test. All statistical analyses were performed using SAS software, version 9.4 (SAS Institute Inc). Due to the multiple comparisons and introduction of possible type I errors, secondary analyses should be considered exploratory. Analyses were conducted between September and December 2023. 
+
+Results Among the 400 total women, the median age was 47 (range, 23-79) years; self-reported race included Asian (33 [8.2%]), Black or African-American (14 [3.5%]), White (318 [79.5%]), and other (35 [8.8%]), including American Indian or Alaska Native, Native Hawaiian or other Pacific Islander, more than 1 race, or any other race not listed. A total of 201 were assigned to the CF arm and 199 to the HF arm (Figure 1). Detailed character- 
+
+JAMA Oncology October 2024 Volume 10, Number 10 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+jamaoncology.com 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+Original Investigation Research 
+
+Figure 1. Study Flow Diagram 6837 Assessed for eligibility 6437 Excluded 6176 Did not meet inclusion criteria 173 Eligible but declined to participate 88 Eligible but neither declined nor agreed 
+
+400 Patients randomized 
+
+199 Randomized to HF arm 192 Baseline PWB data 166 6-mo PWB data 164 Both baseline and 6-mo data 
+
+201 Randomized to CF arm 199 Baseline PWB data 166 6-mo PWB data 166 Both baseline and 6-mo data 
+
+6 Excluded 5 Withdrew before radiation therapy 1 Excluded due to boost dose 
+
+9 Excluded (withdrew before radiation therapy) 
+
+3 Switched arms per protocol 195 Included in as-treated analysis 
+
+190 Included in as-treated analysis 
+
+istics of the cohort were well balanced between both arms (Table 1; eTable 1 in Supplement 2). A total of 166 patients (82.6%) in the CF cohort and 164 (82.4%) in the HF cohort had both baseline and 6-month PWB scores (Figure 1). There was no significant difference in change in PWB scores at 6 months between the 2 treatment arms as randomized (CF arm: mean difference, 0.05; 95% CI, −0.63 to 0.74; HF arm: mean difference, 0.18; 95% CI, −0.53 to 0.88; P = .81). Patients for whom PWB data were available at both time points (n = 330) did not differ with respect to age and treatment arm from those patients for whom these data were not available. In a model of change in PWB scores (primary study outcome) at 6 months controlling for age group, an improvement of 0.13 with the HF regimen was not significant (95% CI, −0.86 to 1.11; P = .80) (Table 2). However, the interaction between age and study arm was significant in the interaction model (P = .03 for interaction) (Table 2). There was a significant improvement in the difference in scores at 6 months for bothered by nausea (mean [SD], 0.16 [0.68] in the HF arm and −0.16 [0.73] in the CF arm; P = .01) and feeling ill (mean [SD], 0.19 [0.87] in the HF arm and −0.12 [0.77] in the CF arm; P = .03) among patients younger than 45 years in the HF cohort vs those randomized to the CF arm (eFigure 1 in Supplement 2). At 6 months after PMRT initiation, the total PWB score for patients younger than 45 years in the HF arm was higher than that for patients in the CF arm (23.6 [95% CI, 22.7-24.6] vs 22.0 [95% CI, 20.7-23.3], P = .047) (eFigure 2 in Supplement 2). Younger patients treated with the HF regimen less frequently reported being bothered by nausea (mean [SD], 3.8 [0.4] vs 3.6 [0.8]; P = .04) and bothered by adverse effects of treatment (mean [SD], 3.0 [0.9] vs 2.6 [1.2]; P = .02) than younger patients treated with the CF regimen at the 6-month time point (eFigure 2 in Supplement 2). jamaoncology.com 
+
+CF indicates conventionally fractionated; HF, hypofractionated; PWB, physical well-being. 
+
+The median follow-up for assessment of toxic effects in the as-treated population was 40.4 months (range, 15.4-63.0 months). A total of 316 patients (79.0%) were irradiated to a TE and the remainder to a PI; 225 patients (58.0%) had prepectoral placement of the reconstruction, with the remainder being subpectoral (eTable 2 in Supplement 2). The median (IQR) time from surgery to PMRT was 2.7 (1.8-5.2) months for CF and 2.4 (1.8-4.9i) months for HF (P = .63). Postoperative infections requiring antibiotics developed in 24 patients (6.2%) (13 in the CF arm and 11 in the HF arm). Patients receiving the HF regimen were less likely to have an unplanned treatment break, defined as weekdays without treatment not due to holidays or machine issues (5 [2.7%] in the HF arm vs 15 [7.7%] in the CF arm, P = .03). The mean (SD) total break time (for those having a break) was 2.8 (2.0) days for the HF arm and 3.3 (2.8) days for the CF arm, with most breaks being less than 4 days. Fewer patients in the HF arm required unpaid time off from work (17 [8.5%] in the HF arm vs 34 [16.9%] in the CF arm, P = .02), with the mean (SD) number of such hours per patient reduced to 14.8 (43.3) hours from 39.8 (82.8) in the CF cohort (P = .01). There were 4 deaths (2 in the HF arm and 2 in the CF arm), all following distant recurrence of breast cancer; 23 distant recurrences (11 in the HF arm and 12 in the CF arm); and 2 localregional recurrences (1 in each arm). One patient in the CF arm and 3 in the HF arm developed grade 1 or 2 pneumonitis 1.6 to 3.6 months after starting PMRT. Chest wall toxic effects occurred in 39 patients (20 in the HF arm and 19 in the CF arm, P = .80) at a median (IQR) time of 7.2 (1.8-12.9) months (Figure 2). The median (IQR) time to observed chest wall toxic effects was 3.5 (1.9-11.9) and 7.6 (1.6-15.6) months after PMRT initiation in the HF and CF arms, respectively (P = .65). In univariable Cox proportional hazards regression analyses, variables associated with developing chest wall toxic ef(Reprinted) JAMA Oncology October 2024 Volume 10, Number 10 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+1373 
+
+Research Original Investigation 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+Table 1. Cohort Characteristics 
+
+Characteristic Patient characteristics 
+
+Table 1. Cohort Characteristics (continued) No. (%) Conventional Hypofractionated therapy (n = 201) therapy (n = 199) 
+
+Characteristic Tumor size 
+
+Age, y 
+
+No. (%) Conventional Hypofractionated therapy (n = 201) therapy (n = 199) 
+
+≤2 
+
+114 (61.3) 
+
+99 (55.0) 
+
+<40 
+
+41 (21.4) 
+
+42 (21.7) 
+
+>2-≤5 
+
+49 (26.3) 
+
+60 (33.3) 
+
+40-50 
+
+90 (46.9) 
+
+84 (43.3) 
+
+>5 
+
+23 (12.4) 
+
+21 (11.7) 
+
+51-60 
+
+42 (21.9) 
+
+49 (25.3) 
+
+Missing 
+
+15 
+
+19 
+
+≥60 
+
+19 (9.9) 
+
+19 (9.8) 
+
+Missing, No. 
+
+9 
+
+5 
+
+Negative 
+
+126 (63.3) 
+
+118 (59.9) 
+
+Other 
+
+73 (36.7) 
+
+79 (40.1) 
+
+Missing 
+
+2 
+
+2 
+
+Lymphatic vessel invasion 
+
+Race Asian 
+
+12 (6.0) 
+
+21 (10.6) 
+
+Black or African American 
+
+8 (4.0) 
+
+6 (3.0) 
+
+Total No. of positive nodes 
+
+White 
+
+161 (80.1) 
+
+157 (78.9) 
+
+0 
+
+52 (26.8) 
+
+56 (29.2) 
+
+Othera 
+
+20 (10.0) 
+
+15 (7.5) 
+
+1 
+
+76 (39.2) 
+
+65 (33.9) 
+
+2 
+
+32 (16.5) 
+
+33 (17.2) 
+
+Ethnicity Non-Hispanic 
+
+174 (86.6) 
+
+180 (90.5) 
+
+≥3 
+
+34 (17.5) 
+
+38 (19.8) 
+
+Hispanic or Latino 
+
+27 (13.4) 
+
+19 (9.5) 
+
+Missing 
+
+7 
+
+7 
+
+Educational level 
+
+Treatment characteristics 
+
+No college 
+
+29 (14.5) 
+
+20 (10.3) 
+
+Some college 
+
+42 (21.0) 
+
+32 (16.4) 
+
+College graduate 
+
+57 (28.5) 
+
+63 (32.3) 
+
+No 
+
+112 (55.7) 
+
+99 (49.8) 
+
+Some graduate or graduate degree 72 (36.0) 
+
+80 (41.0) 
+
+Yes 
+
+89 (44.3) 
+
+100 (50.3) 
+
+Missing, No. 
+
+1 
+
+4 
+
+9.0 (0-27) 
+
+8.5 (0-36) 
+
+<20 
+
+11 (5.5) 
+
+18 (9.1) 
+
+20.0-24.9 
+
+75 (37.5) 
+
+79 (39.9) 
+
+Prepectoral 
+
+118 (59.9) 
+
+115 (57.7) 
+
+Subpectoral 
+
+79 (40.1) 
+
+84 (42.2) 
+
+NA or unknown 
+
+4 
+
+0 
+
+Expander 
+
+156 (77.6) 
+
+160 (80.4) 
+
+Implant 
+
+45 (22.4) 
+
+39 (19.6) 
+
+Surgery Axillary node dissection 
+
+No. of axillary nodes removed, median (range) Location of device 
+
+BMI 
+
+25.0-29.9 
+
+60 (30.0) 
+
+55 (27.8) 
+
+30.0-34.9 
+
+34 (17.0) 
+
+30 (15.2) 
+
+≥35.0 
+
+20 (10.0) 
+
+16 (8.1) 
+
+Missing, No. 
+
+1 
+
+1 
+
+Device irradiated 
+
+Smoking status Never smoked 
+
+140 (69.7) 
+
+147 (73.9) 
+
+Current or former smoker 
+
+61 (30.4) 
+
+52 (26.1) 
+
+Systemic therapy Neoadjuvant chemotherapy 
+
+Prior infection No 
+
+187 (93.0) 
+
+188 (94.5) 
+
+Yes 
+
+14 (7.0) 
+
+11 (5.5) 
+
+Laterality Right 
+
+93 (46.5) 
+
+113 (56.8) 
+
+Left 
+
+107 (53.5) 
+
+86 (43.2) 
+
+137 (68.8) 
+
+67 (33.3) 
+
+62 (31.2) 
+
+Unknown 
+
+0 
+
+0 
+
+1 
+
+Yes 
+
+39 (19.4) 
+
+46 (23.2) 
+
+No 
+
+162 (80.6) 
+
+152 (76.8) 
+
+Unknown 
+
+0 
+
+1 
+
+Radiation therapy 
+
+0 
+
+Hormone receptor positive Positive 
+
+174 (86.7) 
+
+162 (81.4) 
+
+Negative 
+
+27 (13.4) 
+
+37 (18.6) 
+
+Chest wall and nodes 
+
+160 (87.4) 
+
+170 (90.0) 
+
+Chest wall alone 
+
+23 (12.6) 
+
+19 (10.1) 
+
+Missing due to study withdrawal 
+
+9 
+
+5 
+
+IMRT 
+
+78 (41.0) 
+
+82 (42.9) 
+
+Three-dimensional conformal 
+
+112 (59.0) 
+
+109 (57.1) 
+
+Missing 
+
+2 
+
+3 
+
+2.7 (1.8-5.3) 
+
+2.4 (1.8-4.9) 
+
+Technique 
+
+ERBB2 status Equivocal 
+
+134 (66.7) 
+
+No Neoadjuvant endocrine therapy 
+
+Cancer characteristics 
+
+Missing 
+
+Yes 
+
+11 (5.5) 
+
+11 (5.5) 
+
+Negative 
+
+149 (74.9) 
+
+146 (73.3) 
+
+Positive 
+
+39 (19.6) 
+
+42 (21.1) 
+
+Unknown 
+
+2 
+
+0 
+
+14 (7.0) 
+
+25 (12.6) 
+
+Time from surgery to radiation therapy, median (IQR), mo 
+
+Histology Both Invasive ductal 
+
+147 (73.1) 
+
+139 (69.9) 
+
+Invasive lobular 
+
+32 (15.9) 
+
+29 (14.5) 
+
+Other 
+
+8 (4.0) 
+
+6 (3.1) 
+
+Poorly differentiated 
+
+78 (38.8) 
+
+82 (41.2) 
+
+Moderately differentiated 
+
+96 (47.7) 
+
+95 (47.7) 
+
+Well differentiated 
+
+26 (12.9) 
+
+20 (10.1) 
+
+NA 
+
+1 (0.5) 
+
+2 (1.0) 
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); IMRT, intensity-modulated radiation therapy; NA, not applicable. a 
+
+Other includes American Indian or Alaska Native, Native Hawaiian or other Pacific Islander, more than 1 race, and any other race not listed. 
+
+Grade 
+
+(continued) 
+
+1374 
+
+fects included higher body mass index (hazard ratio [HR], 1.02; 95% CI, 1.00-1.03; P = .003), having a postoperative infection (HR, 3.14; 95% CI, 1.32-7.50; P = .01), undergoing axillary dissection (HR, 2.07; 95% CI, 1.08-3.98; P = .03), the number of 
+
+JAMA Oncology October 2024 Volume 10, Number 10 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+jamaoncology.com 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+Table 2. Models for the Primary Outcome Adjusted for Patient Age Variable 
+
+Estimate (SE) [95% CI] 
+
+P value 
+
+CF therapy 
+
+1.0 [Reference] 
+
+NA 
+
+HF therapy 
+
+0.13 (0.50) [−0.86 to 1.11] 
+
+.80 
+
+<45 
+
+1.0 [Reference] 
+
+NA 
+
+≥45 
+
+−0.21 (0.51) [−1.21 to 0.80] .68 
+
+Original Investigation Research 
+
+Figure 2. Kaplan-Meier Plot for Freedom From Chest Wall Toxic Effects by Treatment Arm 
+
+Model controlling for age 
+
+Age group, y 
+
+Subgroup analysis of age Age <45 y CF therapy 
+
+1.0 [Reference] 
+
+NA 
+
+HF therapy 
+
+1.46 (0.83) [−0.18 to 3.11] 
+
+.08 
+
+Chest wall toxic effects probability 
+
+1.0 0.8 0.6 0.4 CF arm HF arm 
+
+0.2 0 0 
+
+6 
+
+12 
+
+CF therapy 
+
+1.0 [Reference] 
+
+NA 
+
+HF therapy 
+
+−0.73 (0.62) [−1.95 to 0.49] .24 
+
+Model with age interaction 1.0 [Reference] 
+
+NA 
+
+HF therapy 
+
+1.46 (0.80) [−0.10 to 3.03] 
+
+.07 
+
+<45 
+
+1.0 [Reference] 
+
+NA 
+
+≥45 
+
+0.87 (0.71) [−0.54 to 2.27] 
+
+.23 .03a 
+
+Study arm and age interaction <45 y and CF therapy 
+
+−0.32 (0.45) [−1.20 to 0.56] .47 
+
+<45 y and HF therapy 
+
+0.40 (0.45) [−0.49 to 1.30] 
+
+.38 
+
+≥45 y and CF therapy 
+
+1.00 (0.57) [−0.13 to 2.13] 
+
+.08 
+
+≥45 y and HF therapy 
+
+−0.46 (0.55) [−1.55 to 0.62] .40 
+
+Abbreviations: CF, conventionally fractionated; HF, hypofractionated; NA, not applicable. P value for interaction. 
+
+nodes removed (per node: HR, 1.05; 95% CI, 1.01-1.10; P = .01), irradiation of a TE vs PI (HR, 3.32; 95% CI, 1.02-10.80; P = .04), and preoperative endocrine therapy (HR, 2.99; 95% CI, 1.595.64; P = .001) (eTable 3 in Supplement 2). Only infection (HR, 3.19; 95% CI, 1.18-8.65; P = .02), irradiation of a TE (HR, 4.44; 95% CI, 1.05-18.75; P = .04), receipt of neoadjuvant endocrine therapy (HR, 2.80; 95% CI, 1.42-5.50; P = .003), and the number of nodes removed (per node: HR, 1.06; 95% CI, 1.021.10; P = .008) remained significant in the multivariable Cox proportional hazards regression model (Table 3). Fractionation schedule was not significantly associated with chest wall toxic effects (HF arm: HR, 1.02; 95% CI, 0.52-2.00; P = .95). 
+
+Discussion The use of PMRT improves local-regional control and breast cancer–specific survival rates for patients with breast cancer at elevated risk of local-regional recurrence.8-10,25 However, it has been unclear how to best integrate PMRT with immediate breast reconstruction surgery to minimize the risk of complications. In this large, multicenter, prospective randomized clinical trial, we found no significant improvement in change in PWB scores with hypofractionation and no difference in recurrence or toxic effects between HF and CF PMRT in pajamaoncology.com 
+
+24 
+
+30 
+
+36 
+
+147 148 
+
+124 121 
+
+101 99 
+
+No. at risk CF arm HF arm 
+
+195 190 
+
+185 178 
+
+178 171 
+
+168 168 
+
+CF indicates conventionally fractionated; HF, hypofractionated. 
+
+CF therapy 
+
+Age group, y 
+
+a 
+
+18 
+
+Time, mo 
+
+Age >45 y 
+
+tients having mastectomy with immediate implant-based reconstruction. Although the primary outcome, change in PWB scores at 6 months stratified by age, was not improved with the HF regimen, the timing of giving patients their baseline surveys was not specified relative to randomization; hence, some patients were aware of their treatment assignment when they received that survey. Patients randomized to the HF arm reported more energy at baseline than those randomized to the CF arm, which may have also contributed to better baseline FACT-B scores of younger patients who were randomized to the HF arm. Higher baseline scores may have limited the opportunity to fully assess the degree of improvement at the 6-month time point. Still, although the change in PWB was not significant for the entire population, younger patients randomized to the HF arm had better total PWB scores at 6 months compared with those randomized to the CF arm, which may indicate that HF has more targeted benefits in younger populations. Moreover, younger patients had less bother from nausea and from other treatment adverse effects with the HF vs the CF regimen. Although statistical benefit in QOL may not necessarily be clinically significant,24 our findings were consistent with the magnitude of benefit with HF at 6 months in a prior study of breast-conserving surgery,13 despite our patient population having more extensive surgery (on average) and systemic treatment. In addition, perhaps the 6-month time point after PMRT initiation was too late to capture the full benefit of decreased irradiation duration. Nevertheless, longerterm QOL is important to understand the full impact of a given treatment. The absolute risk of chest wall toxic effects was lower in both arms than that previously reported for patients with implant-based reconstruction undergoing PMRT. This finding may perhaps reflect improvements in surgical technique and improved radiation dose homogeneity with current techniques. We found higher complication rates after irradiation of TE than PI, similar to some26-29 but not all studies.30 We also found a significantly increased risk of chest wall toxic effects with neoadjuvant endocrine therapy. Most patients received (Reprinted) JAMA Oncology October 2024 Volume 10, Number 10 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+1375 
+
+Research Original Investigation 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+Table 3. Multivariable Cox Proportional Hazards Regression Model for Chest Wall Toxic Effects Variable Treatment arm 
+
+HR (95% CI) 
+
+P value 
+
+CF treatment 
+
+1.0 [Reference] 
+
+NA 
+
+HF treatment 
+
+1.02 (0.52-2.00) 
+
+.95 
+
+Age, y <40 
+
+1.0 [Reference] 
+
+NA 
+
+40-50 
+
+1.65 (0.65-4.17) 
+
+.29 
+
+51-60 
+
+1.32 (0.46-3.78) 
+
+.60 
+
+≥60 
+
+0.89 (0.18-4.45) 
+
+.88 
+
+0.99 (0.84-1.17) 
+
+.92 
+
+Time from surgery to PMRT, mo Postoperative infection No 
+
+1.0 [Reference] 
+
+NA 
+
+Yes 
+
+3.19 (1.18-8.65) 
+
+.02 
+
+Device irradiated Permanent implant 
+
+1.0 [Reference] 
+
+NA 
+
+Expander 
+
+4.44 (1.05-18.75) 
+
+.04 
+
+Neoadjuvant endocrine therapy No 
+
+1.0 [Reference] 
+
+NA 
+
+Yes 
+
+2.8 (1.42-5.5) 
+
+.003 
+
+1.06 (1.02-1.1) 
+
+.008 
+
+No. of nodes removed (continuous) 
+
+had as few as 2 to 5 days of interruption.34 The shorter duration of treatment may also have economic implications for patients because fewer patients receiving HF therapy (compared with CF therapy) required unpaid time off from work. 
+
+Limitations We recognize several limitations of our study. Although it included a broad spectrum of patients who typically receive PMRT and the treatment arms were well balanced and randomized, the trial had a limited number of events. Although capsular contracture is common for such patients, we did not include this outcome due to concerns regarding the subjectivity of evaluation and the difficulty of achieving interobserver consistency, particularly because this is not routinely assessed by radiation oncologists. Our median follow-up exceeded the median time to development of chest wall toxic effects, although follow-up time was modest with regard to the course of recurrence. Other studies of HF therapy suggest that a substantial increase in local-regional failure rates at later time points is unlikely. The COVID-19 pandemic may have caused some deviation from usual practice patterns and certainly resulted in slower accrual than expected, which may have introduced subtle changes in outcome. 
+
+Abbreviations: CF, conventionally fractionated; HF, hypofractionated; HR, hazard ratio; NA, not applicable; PMRT, postmastectomy radiation therapy. 
+
+radiotherapy and endocrine therapy concurrently in our study, raising the question of whether concurrent endocrine therapy and radiotherapy increases toxic effects in this specific patient population, although it does not appear to be a risk factor in the overall breast radiation population.31,32 Neoadjuvant endocrine therapy was perhaps used more frequently in our patients than in most studies because of the COVID-19 pandemic, as a method to delay surgery when hospitals were overwhelmed. We also found that HF therapy decreased the number of unplanned treatment breaks. Unplanned radiation treatment interruptions have been associated with worse cancer outcomes.33 Although most treatment breaks in our study were less than 4 days, a recent analysis demonstrated inferior outcomes among patients with triple-negative breast cancer who 
+
+ARTICLE INFORMATION Accepted for Publication: April 2, 2024. Published Online: August 8, 2024. doi:10.1001/jamaoncol.2024.2652 Author Affiliations: Dana-Farber Cancer Institute, Boston, Massachusetts (Wong, Uno, Tramontano, Fisher, Pellegrini, Abel, Burstein, King, Bellon, Shiloh, Warren, Punglia); Harvard Medical School, Boston, Massachusetts (Wong, Uno, Abel, Burstein, Chun, King, Bellon, Recht, Shiloh, Taghian, Warren, Punglia); Brigham and Women’s Hospital, Boston, Massachusetts (Wong, Burstein, Chun, King, Bellon, Shiloh, Warren, Punglia); Memorial Sloan Kettering Cancer Center, New York, New York (Schrag); Yale Cancer Center, New Haven, Connecticut (Winer, Moran); Maine Medical Center, Portland, Maine (Cheney); Vail Health, Vail, Colorado (Hardenbergh); Duke University Medical Center, 
+
+1376 
+
+Conclusions Patients surveyed after CF PMRT and implant-based immediate reconstruction22 underscore the potential effect of shorter treatment duration on well-being and clinical experience. The results of this randomized clinical trial reveal that the primary outcome of change in PWB scores was not significantly improved with hypofractionation. The overall toxicity profile and oncologic outcomes of HF PMRT were comparable to those of CF PMRT. Hypofractionated therapy was associated with significantly higher QOL domains at 6 months among younger patients, fewer treatment breaks, and less disruption to employment. These data add to the increasing experience with HF PMRT after immediate implant-based reconstruction for breast cancer. Future reports will include other patientreported and outcomes data with longer follow-up. 
+
+Durham, North Carolina (Ho); Stanford University School of Medicine, Stanford, California (Horst); Fred Hutchinson Cancer Center/UW Medicine, Seattle, Washington (Kim); Warren Alpert Medical School of Brown University, Providence, Rhode Island (Leonard); Rhode Island Hospital, Providence (Leonard); UCSF Helen Diller Family Comprehensive Cancer Center, San Francisco, California (Park); Beth Israel Deaconess Medical Center, Boston, Massachusetts (Recht); Massachusetts General Hospital, Boston (Soto, Taghian); Johns Hopkins School of Medicine, Baltimore, Maryland (Stinson, Wright); Northern Light Health, Brewer, Maine (Snyder). Author Contributions: Drs Wong and Punglia had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Concept and design: Wong, Abel, Schrag, Winer, 
+
+Bellon, Leonard, Moran, Punglia. Acquisition, analysis, or interpretation of data: Wong, Uno,Tramontano,Fisher,Pellegrini,Abel,Burstein,Chun, King, Bellon, Cheney, Hardenbergh, Ho, Horst, Kim, Leonard, Moran, Park, Recht, Soto, Shiloh, Stinson, Snyder, Taghian, Warren, Wright, Punglia. Drafting of the manuscript: Wong, Uno, Tramontano, Pellegrini, Abel, Burstein, Moran, Recht, Punglia. Critical review of the manuscript for important intellectual content: Wong, Uno, Fisher, Abel, Burstein, Chun, King, Schrag, Winer, Bellon, Cheney, Hardenbergh, Ho, Horst, Kim, Leonard, Moran, Park, Soto, Shiloh, Stinson, Snyder, Taghian, Warren, Wright, Punglia. Statistical analysis: Uno, Tramontano, Abel, Punglia. Obtained funding: Wong, Punglia. Administrative, technical, or material support: Wong, Fisher, Pellegrini, Abel, Burstein, Chun, 
+
+JAMA Oncology October 2024 Volume 10, Number 10 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+jamaoncology.com 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+Schrag, Hardenbergh, Leonard, Moran, Recht, Soto, Warren. Supervision: Wong, Burstein, Chun, Bellon, Cheney, Ho, Soto, Shiloh, Punglia. Conflict of Interest Disclosures: Dr Wong reported receiving personal fees from UpToDate outside the submitted work. Dr Chun reported receiving personal fees from Integra LifeSciences and grants from Surgical Innovation Associates outside the submitted work. Dr King reported receiving compensation for an advisory board role and speaker’s honoraria from Exact Sciences. Dr Schrag reported receiving personal fees from JAMA for serving as an associate editor, receiving grants from Grail to Dana Farber Cancer Institute, and having a family member with equity in Merck outside the submitted work. Dr Ho reported receiving consulting fees from L'Oreal Inc, AstraZeneca, and Seattle Genetics and grants from Natera Inc, Merck Research, and GSK Inc, outside the submitted work. Dr Leonard reported receiving personal fees from the American College of Radiation Oncology outside the submitted work and book royalties from Springer Inc. Dr Moran reported serving as the vice chair of the National Comprehensive Cancer Network Breast Cancer Panel. Dr Recht reported receiving personal fees from EviCore National Radiation Oncology Benefit Management Program, Exact Sciences Breast Radiation Omission Score Advisory Board, and Imagine Scientific, Inc outside the submitted work. No other disclosures were reported. Funding/Support: Research reported in this publication was funded through Patient-Centered Outcomes Research Institute (PCORI) Award CER-1609-36063. Role of the Funder/Sponsor: PCORI had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. Disclaimer: The statements in this report are solely the responsibility of the authors and do not necessarily represent the views of PCORI or its Board of Governors or Methodology Committee. Data Sharing Statement: See Supplement 3. Additional Contributions: We acknowledge the contributions of Sindy Pimentel, BA (Foundation Medicine, Inc, Cambridge, Massachusetts), Apoorva Indraghanty, MS (University of California, San Francisco), Avery Abel, BS (Nationwide Children’s Hospital, Columbus, Ohio), and Jennifer Banks, MA, MPM (WEP Clinical, Morrisville, North Carolina); as well as Barclay Lee, PhD (Dana-Farber Cancer Institute; Boston, Massachusetts), for his help with manuscript preparation and submission. These individuals received no compensation beyond their normal salaries. We acknowledge our patients and other stakeholders for their guidance with study design and execution. REFERENCES 1. Ferlay J, Colombet M, Soerjomataram I, et al. Estimating the global cancer incidence and mortality in 2018: GLOBOCAN sources and methods. Int J Cancer. 2019;144(8):1941-1953. doi:10.1002/ijc.31937 2. Greenberg CC, Lipsitz SR, Hughes ME, et al. Institutional variation in the surgical treatment of breast 
+
+jamaoncology.com 
+
+Original Investigation Research 
+
+cancer: a study of the NCCN. Ann Surg. 2011;254(2): 339-345. doi:10.1097/SLA.0b013e3182263bb0 3. Pusic AL, Matros E, Fine N, et al. Patient-reported outcomes 1 year after immediate breast reconstruction: results of the Mastectomy Reconstruction Outcomes Consortium Study. J Clin Oncol. 2017;35(22):2499-2506. doi:10.1200/JCO. 2016.69.9561 4. Albornoz CR, Bach PB, Mehrara BJ, et al. A paradigm shift in U.S. breast reconstruction: increasing implant rates. Plast Reconstr Surg. 2013; 131(1):15-23. doi:10.1097/PRS.0b013e3182729cde 5. Nguyen AT, Chang DW. Discussion: a paradigm shift in U.S. breast reconstruction: increasing implant rates. Plast Reconstr Surg. 2013;131(1):24-25. doi:10.1097/PRS.0b013e3182729d83 6. Al-Ghazal SK, Sully L, Fallowfield L, Blamey RW. The psychological impact of immediate rather than delayed breast reconstruction. Eur J Surg Oncol. 2000;26(1):17-19. doi:10.1053/ejso.1999.0733 7. Frasier LL, Holden S, Holden T, et al. Temporal trends in postmastectomy radiation therapy and breast reconstruction associated with changes in National Comprehensive Cancer Network Guidelines. JAMA Oncol. 2016;2(1):95-101. doi:10. 1001/jamaoncol.2015.3717 8. Overgaard M, Hansen PS, Overgaard J, et al. Postoperative radiotherapy in high-risk premenopausal women with breast cancer who receive adjuvant chemotherapy: Danish Breast Cancer Cooperative Group 82b Trial. N Engl J Med. 1997;337(14):949-955. doi:10.1056/ NEJM199710023371401 9. Overgaard M, Jensen MB, Overgaard J, et al. Postoperative radiotherapy in high-risk postmenopausal breast-cancer patients given adjuvant tamoxifen: Danish Breast Cancer Cooperative Group DBCG 82c randomised trial. Lancet. 1999;353(9165):1641-1648. doi:10.1016/ S0140-6736(98)09201-0 10. McGale P, Taylor C, Correa C, et al; EBCTCG (Early Breast Cancer Trialists’ Collaborative Group). Effect of radiotherapy after mastectomy and axillary surgery on 10-year recurrence and 20-year breast cancer mortality: meta-analysis of individual patient data for 8135 women in 22 randomised trials. Lancet. 2014;383(9935):2127-2135. doi:10. 1016/S0140-6736(14)60488-8 11. Whelan TJ, Pignol JP, Levine MN, et al. Long-term results of hypofractionated radiation therapy for breast cancer. N Engl J Med. 2010;362 (6):513-520. doi:10.1056/NEJMoa0906260 12. Haviland JS, Owen JR, Dewar JA, et al; START Trialists’ Group. The UK Standardisation of Breast Radiotherapy (START) trials of radiotherapy hypofractionation for treatment of early breast cancer: 10-year follow-up results of two randomised controlled trials. Lancet Oncol. 2013;14 (11):1086-1094. doi:10.1016/S1470-2045(13)70386-3 13. Shaitelman SF, Schlembach PJ, Arzu I, et al. Acute and short-term toxic effects of conventionally fractionated vs hypofractionated whole-breast irradiation: a randomized clinical trial. JAMA Oncol. 2015;1(7):931-941. doi:10.1001/ jamaoncol.2015.2666 14. Wang SL, Fang H, Song YW, et al. Hypofractionated versus conventional fractionated postmastectomy radiotherapy for patients with high-risk breast cancer: a randomised, 
+
+non-inferiority, open-label, phase 3 trial. Lancet Oncol. 2019;20(3):352-360. doi:10.1016/S1470-2045(18) 30813-1 15. Poppe MM, Yehia ZA, Baker C, et al. 5-Year update of a multi-institution, prospective phase 2 hypofractionated postmastectomy radiation therapy trial. Int J Radiat Oncol Biol Phys. 2020;107 (4):694-700. doi:10.1016/j.ijrobp.2020.03.020 16. Kim DY, Park E, Heo CY, et al. Influence of hypofractionated versus conventional fractionated postmastectomy radiation therapy in breast cancer patients with reconstruction. Int J Radiat Oncol Biol Phys. 2022;112(2):445-456. doi:10.1016/j.ijrobp. 2021.09.031 17. Tallet AV, Salem N, Moutardier V, et al. Radiotherapy and immediate two-stage breast reconstruction with a tissue expander and implant: complications and esthetic results. Int J Radiat Oncol Biol Phys. 2003;57(1):136-142. doi:10.1016/ S0360-3016(03)00526-1 18. Ascherman JA, Hanasono MM, Newman MI, Hughes DB. Implant reconstruction in breast cancer patients treated with radiation therapy. Plast Reconstr Surg. 2006;117(2):359-365. doi:10.1097/ 01.prs.0000201478.64877.87 19. Ho AL, Bovill ES, Macadam SA, Tyldesley S, Giang J, Lennox PA. Postmastectomy radiation therapy after immediate two-stage tissue expander/implant breast reconstruction: a University of British Columbia perspective. Plast Reconstr Surg. 2014;134(1):1e-10e. doi:10.1097/PRS. 0000000000000292 20. Brady MJ, Cella DF, Mo F, et al. Reliability and validity of the Functional Assessment of Cancer Therapy-Breast quality-of-life instrument. J Clin Oncol. 1997;15(3):974-986. doi:10.1200/JCO.1997.15.3.974 21. Nguyen J, Popovic M, Chow E, et al. EORTC QLQ-BR23 and FACT-B for the assessment of quality of life in patients with breast cancer: a literature review. J Comp Eff Res. 2015;4(2):157-166. doi:10.2217/cer.14.76 22. Punglia RS, Ortiz Pimentel S, Cronin AM, et al. Patient-preferred outcomes measurement after post-mastectomy radiation therapy and immediate reconstruction. Breast J. 2020;26(2):319-321. doi:10.1111/tbj.13592 23. U.S. Department of Health and Human Services, National Institutes of Health, National Cancer Institute. Common Terminology Criteria for Adverse Events (CTCAE). v4.03. April 19, 2021. Accessed June 19, 2024. https://ctep.cancer.gov/ protocoldevelopment/electronic_applications/ctc. htm 24. Movsas B, Hu C, Sloan J, et al. Quality of life analysis of a radiation dose-escalation study of patients with non-small-cell lung cancer: a secondary analysis of the Radiation Therapy Oncology Group 0617 randomized clinical trial. JAMA Oncol. 2016;2(3):359-367. doi:10.1001/ jamaoncol.2015.3969 25. Ragaz J, Jackson SM, Le N, et al. Adjuvant radiotherapy and chemotherapy in node-positive premenopausal women with breast cancer. N Engl J Med. 1997;337(14):956-962. doi:10.1056/ NEJM199710023371402 26. Jagsi R, Momoh AO, Qi J, et al. Impact of radiotherapy on complications and patient-reported outcomes after breast 
+
+(Reprinted) JAMA Oncology October 2024 Volume 10, Number 10 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+1377 
+
+Research Original Investigation 
+
+Hypofractionated vs Conventionally Fractionated Postmastectomy Radiation 
+
+reconstruction. J Natl Cancer Inst. 2018;110(2): 157-165. doi:10.1093/jnci/djx148 27. Cordeiro PG, Albornoz CR, McCormick B, et al. What is the optimum timing of postmastectomy radiotherapy in two-stage prosthetic reconstruction: radiation to the tissue expander or permanent implant? Plast Reconstr Surg. 2015;135 (6):1509-1517. doi:10.1097/PRS. 0000000000001278 28. Nava MB, Pennati AE, Lozza L, Spano A, Zambetti M, Catanuto G. Outcome of different timings of radiotherapy in implant-based breast reconstructions. Plast Reconstr Surg. 2011;128(2): 353-359. doi:10.1097/PRS.0b013e31821e6c10 29. Naoum GE, Salama L, Niemierko A, et al. Single stage direct-to-implant breast reconstruction has lower complication rates than tissue expander and 
+
+1378 
+
+implant and comparable rates to autologous reconstruction in patients receiving postmastectomy radiation. Int J Radiat Oncol Biol Phys. 2020;106(3):514-524. doi:10.1016/j.ijrobp.2019. 11.008 30. Santosa KB, Chen X, Qi J, et al. Postmastectomy radiation therapy and two-stage implant-based breast reconstruction: is there a better time to irradiate? Plast Reconstr Surg. 2016; 138(4):761-769. doi:10.1097/PRS. 0000000000002534 31. McGee SF, Vandermeer L, Mazzarello S, et al. Physician survey of timing of adjuvant endocrine therapy relative to radiotherapy in early stage breast cancer patients. Clin Breast Cancer. 2019;19 (1):e40-e47. doi:10.1016/j.clbc.2018.08.012 
+
+32. Li YF, Chang L, Li WH, et al. Radiotherapy concurrent versus sequential with endocrine therapy in breast cancer: a meta-analysis. Breast. 2016;27:93-98. doi:10.1016/j.breast.2015.09.005 33. Bese NS, Sut PA, Ober A. The effect of treatment interruptions in the postoperative irradiation of breast cancer. Oncology. 2005;69(3): 214-223. doi:10.1159/000087909 34. Chow R, Hasan S, Choi JI, et al. Effect of treatment interruptions on overall survival in patients with triple-negative breast cancer. J Natl Cancer Inst. 2023;115(9):1029-1035. doi:10.1093/ jnci/djad127 
+
+JAMA Oncology October 2024 Volume 10, Number 10 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 11/28/2025 
+
+jamaoncology.com 
+
+ 

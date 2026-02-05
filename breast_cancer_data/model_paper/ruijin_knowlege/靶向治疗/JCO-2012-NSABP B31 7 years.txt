@@ -1,0 +1,579 @@
+VOLUME 30 䡠 NUMBER 31 䡠 NOVEMBER 1 2012 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Seven-Year Follow-Up Assessment of Cardiac Function in NSABP B-31, a Randomized Trial Comparing Doxorubicin and Cyclophosphamide Followed by Paclitaxel (ACP) With ACP Plus Trastuzumab As Adjuvant Therapy for Patients With Node-Positive, Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer Edward H. Romond, Jong-Hyeon Jeong, Priya Rastogi, Sandra M. Swain, Charles E. Geyer Jr, Michael S. Ewer, Vikas Rathi, Louis Fehrenbacher, Adam Brufsky, Catherine A. Azar, Patrick J. Flynn, John L. Zapas, Jonathan Polikoff, Howard M. Gross, David D. Biggs, James N. Atkins, Elizabeth Tan-Chiu, Ping Zheng, Greg Yothers, Eleftherios P. Mamounas, and Norman Wolmark See accompanying editorial on page 3769 Author affiliations appear at the end of this article. Submitted October 26, 2011; accepted July 16, 2012; published online ahead of print at www.jco.org on September 17, 2012. Supported by Grants No. U10-CA12027, U10-CA-69651, U10-CA-37377, and U10-CA-69974 from the National Cancer Institute, Department of Health and Human Services, Public Health Service, and by Genentech. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical trial information: NCT00004067. Corresponding author: Priya Rastogi, MD, National Surgical Adjuvant Breast and Bowel Project, East Commons Professional Building, Four Allegheny Center, 5th Floor, Pittsburgh, PA 15212; e-mail: rastogip@upmc.edu. © 2012 by American Society of Clinical Oncology 0732-183X/12/3031-3792/$20.00 DOI: 10.1200/JCO.2011.40.0010 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Cardiac dysfunction (CD) is a recognized risk associated with the addition of trastuzumab to adjuvant chemotherapy for human epidermal growth factor receptor 2–positive breast cancer, especially when the treatment regimen includes anthracyclines. Given the demonstrated efficacy of trastuzumab, ongoing assessment of cardiac safety and identification of risk factors for CD are important for optimal patient care. Patients and Methods In National Surgical Adjuvant Breast and Bowel Project B-31, a phase III adjuvant trial, 1,830 patients who met eligibility criteria for initiation of trastuzumab were evaluated for CD. Recovery from CD was also assessed. A statistical model was developed to estimate the risk of severe congestive heart failure (CHF). Baseline patient characteristics associated with anthracyclinerelated decline in cardiac function were also identified. Results At 7-year follow-up, 37 (4.0%) of 944 patients who received trastuzumab experienced a cardiac event (CE) versus 10 (1.3%) of 743 patients in the control arm. One cardiac-related death has occurred in each arm of the protocol. A Cardiac Risk Score, calculated using patient age and baseline left ventricular ejection fraction (LVEF) by multiple-gated acquisition scan, statistically correlates with the risk of a CE. After stopping trastuzumab, the majority of patients who experienced CD recovered LVEF in the normal range, although some decline from baseline often persists. Only two CEs occurred more than 2 years after initiation of trastuzumab. Conclusion The late development of CHF after the addition of trastuzumab to paclitaxel after doxorubicin/ cyclophosphamide chemotherapy is uncommon. The risk versus benefit of trastuzumab as given in this regimen remains strongly in favor of trastuzumab. J Clin Oncol 30:3792-3799. © 2012 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Trastuzumab given concurrently with or after adjuvant chemotherapy has been shown to improve disease-free survival (DFS) and overall survival in early-stage human epidermal growth factor receptor 2 (HER2) –positive breast cancer.1-3 Cardiac dysfunction (CD) is the most concerning toxicity asso3792 
+
+ciated with these regimens, especially when the chemotherapy includes an anthracycline. We previously reported a detailed analysis of cardiac safety with a median follow-up of 27 months for National Surgical Adjuvant Breast and Bowel Project (NSABP) protocol B-31, which randomly assigned patients with HER2-positive, node-positive breast cancer to receive four cycles of doxorubicin (60 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Seven-Year Cardiac Follow-Up on NSABP B-31: ACP ⴞ Trastuzumab 
+
+mg/m2) and cyclophosphamide (600 mg/m2; AC) followed by either four cycles of paclitaxel (175 mg/m2) every 3 weeks or 12 weekly doses of paclitaxel (80 mg/m2; ACP) versus the same chemotherapy plus weekly trastuzumab (4 mg/kg loading dose, then 2 mg/kg; ACPH) for 52 weeks starting with the first paclitaxel dose.4 We now update the cardiac safety evaluation of patients on protocol B-31 with an additional 5 years of follow-up. The primary purpose of the cardiac safety analysis is to assess the incremental increase in cardiac toxicity specifically attributable to the addition of trastuzumab to paclitaxel after AC. In B-31, patients in the experimental arm were not permitted to receive trastuzumab if they developed symptomatic myocardial dysfunction during AC, demonstrated an asymptomatic absolute decline in left ventricular ejection fraction (LVEF) of more than 15% from baseline value after AC, or had a post-AC LVEF below the local institution’s lower limit of normal. As a result, the formal cardiac safety study was restricted to patients in either arm whose post-AC cardiac function met the criteria to allow initiation of trastuzumab. Given the demonstrated efficacy of trastuzumab, it is critical to identify risk factors that predispose patients to CD and, conversely, to identify patients who may gain considerable clinical benefit from this regimen with minimal cardiac risk. For this purpose, we have developed a prediction model for cumulative incidence of cardiac events (CEs) based on identified pretreatment risk factors. Finally, it is important to evaluate recovery from CD not only in patients with severe toxicity, but also in those who experience asymptomatic declines in LVEF. 
+
+patients who did not meet these criteria, and asymptomatic patients who discontinued trastuzumab because of a decline in LVEF on scheduled evaluations. After the initial efficacy report of the joint analysis of B-31 and the North Central Cancer Treatment Group (NCCTG) protocol N9831, which showed a 52% reduction in the rate of DFS events, patients in the control arm of B-31 were permitted to receive trastuzumab if they were still receiving or were within 6 months of having completed chemotherapy. Time to a CE was defined as time from day 1 of cycle 5 to when a CE occurred. Patients who crossed over from ACP to ACPH were censored at the time of crossover for the cumulative incidence analysis. The cumulative proportions of CEs were estimated and compared by using the cumulative incidence function.6,7 The competing events were any first event of recurrence, second primary cancers, and deaths precluding CEs. The Cox cause-specific proportional hazards model was used to evaluate the association between time to CHF and cardiac risks factors. A parametric regression model on causespecific subdistribution hazard was used to build a prediction model for 5-year probability of developing CEs with 95% point-wise CIs, adjusting for significant risk factors.8 All the covariates with P ⬍ .05 from the univariate analysis were re-evaluated in a multiple covariate model and screened to be included in the final model. To evaluate the ability of discrimination of the prediction model, the rank correlation (C-index) among pairs of time to a CE and a corresponding predicted probability of not experiencing CEs was measured.9 To evaluate the amount of potential bias in the model, the calibration plot between observed and predicted probabilities of not experiencing CEs is provided. Subsets of patients are consecutively selected by sliding a window with a fixed width after ordering the predicted probabilities.10 The C-index value was further validated using 200 bootstrap samples with replacement.11 Mean decreases in LVEF between treatment groups were evaluated using a two-sample t test. All P values are compared with a two-sided significance level of P ⫽ .05. (See additional statistical information in the Appendix, online only.) 
+
+PATIENTS AND METHODS RESULTS A detailed description of the treatment protocol and cardiac monitoring procedures has been presented previously.4 In summary, patients enrolled onto B-31 must have had histologically node-positive, HER2-positive primary breast cancer without evidence of distant metastatic disease and must have completed breast surgery and axillary dissection. All patients were required to have normal LVEF as assessed by multiple-gated acquisition (MUGA) scans and no significant past or active cardiac disease. MUGA scans were chosen over echocardiograms in B-31 to minimize interobserver variability across institutions when applying stopping rules for trastuzumab in asymptomatic patients.5 Protocol approval by the local human investigations committee and written informed consent were required. Patients in both arms were considered evaluable for assessment of cardiac effects if they met protocol requirements for initiation of trastuzumab after AC and received at least one dose of post-AC therapy. Cardiac history forms were submitted at entry, every 6 months for the first 5 years, and yearly thereafter. Any indications of possible late CEs were followed up with specific queries. MUGA scans were required in both arms before entry; after AC; and at 6, 9, and 18 months. A CE was defined as a definite or probable cardiac death or congestive heart failure (CHF) manifested by dyspnea with normal activity or at rest and associated with an absolute decrease in LVEF of greater than 10 percentage points from baseline to a value less than 55% or a decrease of more than 5% to a value below the lower limit of normal. Prompt reporting within 14 days was required for any patients with symptoms of possible CHF regardless of severity. The source documents were collected, blinded centrally regarding whether the patient received trastuzumab, and reviewed by each member of the external cardiac advisory panel consisting of three cardiologists. A majority decision of the cardiac advisory panel determined whether the protocol criteria for a CE were met. In addition, criteria were established for withholding trastuzumab and repeating MUGA scans in asymptomatic patients if 6- and 9-month LVEF values did not remain within predefined limits.4 As a result, the following three cohorts were identified with evidence of CD: symptomatic patients who met the protocol criteria for a CE, symptomatic www.jco.org 
+
+Accrual and Patient Characteristics The trial opened February 21, 2000, and closed to accrual April 29, 2005, with 2,119 patients (mean age, 49 years) enrolled. Figure 1 summarizes their treatment, evaluation, and follow-up as of April 2010. Median follow-up is 87 months. Of 2,091 patients who began therapy, 81 patients (7.8%) assigned to ACP and 66 patients (6.3%) assigned to ACPH had unacceptable post-AC LVEF or had cardiac symptoms during AC that precluded initiation of trastuzumab had they been assigned to the investigational arm. In addition, 83 patients had unknown status of their post-AC evaluation. Of the remaining patients, 1,830 started post-AC therapy and constitute the primary evaluable cohort. Patient characteristics are balanced by treatment arm.4 After the initial efficacy report, 140 of 883 patients in the control arm received trastuzumab. Rate of CEs With an additional 5 years of data since our previous report, 16 additional CEs have been confirmed, six in the trastuzumab arm and 10 in the control arm, including five CEs that occurred among 140 patients who crossed over to receive investigational trastuzumab. These five patients were censored at the time of first dose of trastuzumab for the cumulative incidence analysis. Among 743 evaluable patients in the control arm with follow-up information who did not cross over to receive trastuzumab, 10 met criteria for a CE (nine patients with CHF and one probable cardiac death). Among patients assigned to receive ACPH, 947 had follow-up information for the © 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3793 
+
+Romond et al 
+
+Random Assignment (N = 2,119) 
+
+ACP (n = 1,061) 
+
+ACPH (n = 1,058) 
+
+Consent withdrawal prior to AC therapy (n = 4) 
+
+Began AC therapy (n = 1,035) 
+
+Refused AC therapy (n = 22) 
+
+Refused AC therapy (n = 2) 
+
+Began AC therapy (n = 1,056) 
+
+Post-AC cardiac evaluation status unknown (n = 53) 
+
+Post-AC cardiac evaluation okay (n = 901) 
+
+Post-AC LVEF < LLN or LVEF ↓ > 15% or symptoms (n = 81) 
+
+Post-AC LVEF < LLN or LVEF ↓ > 15% or symptoms (n = 66) 
+
+Post-AC cardiac evaluation okay (n = 960) 
+
+Received P with follow-up (n = 743) 
+
+Received P +/– H with follow-up (n = 947) 
+
+CHF (n = 9) Cardiac death (n = 1) 
+
+CHF (n = 36) Cardiac death (n = 1) 
+
+Received P with follow-up 
+
+Missing follow-up data (n = 18) 
+
+Crossed over to receive H (n = 140) CHF (n = 5) 
+
+Post-AC cardiac evaluation status unknown (n = 30) 
+
+Missing follow-up data (n = 13) 
+
+Fig 1. CONSORT diagram of cardiac follow-up and events for the National Surgical Adjuvant Breast and Bowel Project B-31 trial. Evaluable cohort for comparison of cardiac dysfunction (n ⫽ 1,830). AC, doxorubicin and cyclophosphamide; ACP, doxorubicin, cyclophosphamide, and paclitaxel; ACPH, doxorubicin, cyclophosphamide, paclitaxel, and trastuzumab; CHF, congestive heart failure; H, trastuzumab; LLN, lower limit of normal; LVEF, left ventricular ejection fraction; P, paclitaxel. 
+
+cumulative incidence analysis. Thirty-seven of the 947 patients experienced a CE (36 patients with CHF and one cardiac death). The cumulative incidence of CE in the control arm 7 years after day 1 of cycle 5 was 1.3% (95% CI, 0.5% to 2.1%), and the cumulative inci- 
+
+Patients With Cardiac Events (%) 
+
+5 
+
+ACPH; 4.0% ACP; 1.3% 
+
+Recovery of Cardiac Function After CE Among the 37 evaluable patients who received trastuzumab and met criteria for a CE, one has died because of CHF. Of the remaining 36 patients, 33 were without symptoms of CD when assessed ⱖ 6 months after their diagnosis of CHF, although 21 patients continued to receive cardiac medications (Table 1). All 36 patients had LVEF assessments at least 6 months after the diagnosis of CHF, and of these, 25 patients had decreased LVEF relative to baseline at their last available MUGA. On the basis of the most recent MUGA evaluation, LVEF measurements recovered to at least 50% in 21 patients (Figs 3A and 3D). 
+
+4 
+
+3 P < .001; HR, 3.3 
+
+2 
+
+1 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time Since Cycle 5, Day 1 (years) Fig 2. Cumulative incidence of cardiac events in National Surgical Adjuvant Breast and Bowel Project B-31. ACP, doxorubicin, cyclophosphamide, and paclitaxel; ACPH, doxorubicin, cyclophosphamide, paclitaxel, and trastuzumab; HR, hazard ratio. 3794 
+
+© 2012 by American Society of Clinical Oncology 
+
+dence among trastuzumab-treated evaluable patients was 4.0% (95% CI, 2.8% to 5.2%; Fig 2). The difference was 2.7% (95% CI, 1.2% to 4.2%). The relative risk of a CE was 3.30 in trastuzumab-treated patients versus patients in the control arm (95% CI, 1.63 to 6.66; P ⬍ .001). Only two of the 37 CEs in the ACPH arm occurred more than 2 years after initiation of trastuzumab. Seven CEs occurred before day 1 of cycle 5 (four in ACP arm and three in ACPH arm) and are not included in the evaluable cohort. 
+
+Recovery of Cardiac Function in Symptomatic Patients Who Did Not Meet Criteria for a CE Fifty evaluable patients receiving ACPH reported symptoms of CD that did not meet protocol criteria for a CE; for example, they did not have dyspnea with normal activity or at rest or had dyspnea for noncardiac reasons. Forty-nine patients have been observed at least 6 JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Seven-Year Cardiac Follow-Up on NSABP B-31: ACP ⴞ Trastuzumab 
+
+Table 1. Follow-Up and Recovery of Evaluable Patients Reporting Symptoms of Possible Cardiac Dysfunction in NSABP B-31 No. of Patients ACP (n ⫽ 743) 1 
+
+1 
+
+10 
+
+36 
+
+ⴱ 
+
+4/10 
+
+36/36ⴱ 
+
+2/4ⴱ 
+
+3/36ⴱ 
+
+2/4ⴱ 
+
+21/36ⴱ 
+
+15 
+
+50 
+
+ⴱ 
+
+49/50ⴱ 
+
+0/8ⴱ 
+
+0/49ⴱ 
+
+1/8ⴱ 
+
+12/49ⴱ 
+
+Abbreviations: ACP, doxorubicin, cyclophosphamide, and paclitaxel; ACPH, doxorubicin, cyclophosphamide, paclitaxel, and trastuzumab; CE, cardiac event; CHF, congestive heart failure; FU, follow-up; NSABP, National Surgical Adjuvant Breast and Bowel Project; NYHA, New York Heart Association. ⴱ No. of patients/total No. of patients. 
+
+months since their onset of symptoms, none of whom reported symptoms of CD at last follow-up, although 12 patients continued to receive cardiac medication (Table 1). MUGA results have been reported ⱖ 6 months after onset of symptoms for 42 of these patients. 
+
+Meeting Criteria for CE 
+
+30 20 10 
+
+50 
+
+(n = 42) 
+
+40 30 20 10 ≤ 24 25-29 30-34 35-39 
+
+LVEF 
+
+20 10 0 
+
+20 10 
+
+F 50 
+
+(n = 42) 
+
+40 30 20 10 40-44 45-49 50-54 55-59 60-64 65-69 70-74 > 75 
+
+≤ 24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 > 75 
+
+≤ 24 25-29 30-34 35-39 
+
+0 
+
+0 
+
+LVEF 
+
+50 
+
+(n = 69) 
+
+40 30 20 10 0 ≤ 24 25-29 30-34 35-39 
+
+30 
+
+In Cohort at Follow-Up (%) 
+
+(n = 36) 
+
+40 
+
+LVEF 
+
+30 
+
+LVEF 
+
+E 50 
+
+(n = 69) 
+
+LVEF 
+
+D 
+
+LVEF 
+
+40 
+
+40-44 45-49 50-54 55-59 60-64 65-69 70-74 > 75 
+
+0 
+
+0 
+
+50 
+
+≤ 24 25-29 30-34 35-39 
+
+(n = 36) 
+
+40 
+
+Stopped As a Result of 
+
+C In Cohort at Nadir LVEF (%) 
+
+50 
+
+In Cohort at Nadir LVEF (%) 
+
+B 
+
+≤ 24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 > 75 
+
+In Cohort at Nadir LVEF (%) 
+
+Cardiac Risk Factors and Incidence of CHF Table 2 lists potential risk factors for CHF. A marginally normal LVEF by MUGA of 50% to 54%, assessed either at baseline or after AC, was strongly associated with CHF (P ⬍ .001) as a CE. Age at entry (P ⫽ .02) and receiving antihypertensive medications at baseline (P ⫽ .03) were also predictive. There was no increase in CHF among 
+
+Not Meeting Criteria for CE 
+
+A 
+
+In Cohort at Follow-Up (%) 
+
+Discontinuation of Trastuzumab Therapy in Patients Receiving ACPH Of 947 evaluable patients receiving ACPH, trastuzumab was discontinued for symptomatic or asymptomatic cardiac-related reasons in 147 patients (15.5%), including 17 patients (1.8%) during the first quarter of therapy, 61 patients (6.4%) during the second quarter, 49 patients (5.2%) during the third quarter, and 20 patients (2.1%) during the final quarter. 
+
+40-44 45-49 50-54 55-59 60-64 65-69 70-74 > 75 
+
+8/15 
+
+Recovery of Cardiac Function in Asymptomatic Patients With CD Of 114 evaluable patients who discontinued trastuzumab as a result of asymptomatic declines in LVEF, 27 patients subsequently reported symptoms of possible CD and have been included in the cohorts described earlier. Of the remaining 87 patients, LVEF has been reported in 69 patients at least 6 months after discontinuation of trastuzumab. For 15 of these patients, the most current LVEFs are less than 50% (Figs 3C and 3F). 
+
+40-44 45-49 50-54 55-59 60-64 65-69 70-74 > 75 
+
+Cardiac death Patients with confirmed NYHA class III/IV CHF (CE) Observed ⱖ 6 months from diagnosis of CHF Reported symptoms during last documented 6-month FU interval On medications during last documented 6-month FU interval Patients reporting symptoms not meeting criteria for CE Observed ⱖ 6 months from report of symptoms Reported symptoms during last documented 6-month FU interval On medications during last documented 6-month FU interval 
+
+ACPH (n ⫽ 947) 
+
+In Cohort at Follow-Up (%) 
+
+Reported Outcomes 
+
+Six patients had persistent LVEF measurements less than 50%, and 29 patients had decreased LVEF relative to baseline at last evaluation, suggesting some persistent decrement in function (Figs 3B and 3E). 
+
+LVEF 
+
+Fig 3. (A to F) Histograms of doxorubicin, cyclophosphamide, paclitaxel, and trastuzumab (ACPH) cohorts with left ventricular dysfunction in National Surgical Adjuvant Breast and Bowel Project B-31. (A,D) ACPH symptomatic patients meeting criteria for cardiac event (CE; A) in the cohort at nadir left ventricular ejection fraction (LVEF) and (D) in the cohort at follow-up; (B,E) ACPH symptomatic patients not meeting criteria for CE (B) in the cohort at nadir LVEF and (E) in the cohort at follow-up; (C,F) ACPH asymptomatic patients who stopped as a result of 2 LVEF (C) in the cohort at nadir LVEF and (F) in the cohort at follow-up. www.jco.org 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3795 
+
+Romond et al 
+
+Table 2. Risk Factors for Trastuzumab-/Chemotherapy-Induced Cardiac Events in NSABP B-31 CHF Risk Factor 
+
+No. of Patients 
+
+No. 
+
+% 
+
+P 
+
+Hazard Ratio 
+
+95% CI 
+
+485 311 148 
+
+11 17 9 
+
+2.3 5.5 6.1 
+
+Reference .022 .025 
+
+2.43 2.73 
+
+1.14 to 5.19 1.13 to 6.60 
+
+562 374 
+
+19 18 
+
+3.4 4.8 
+
+Reference .26 
+
+1.45 
+
+0.76 to 2.77 
+
+590 354 
+
+24 13 
+
+4.1 3.7 
+
+Reference .78 
+
+0.91 
+
+0.46 to 1.78 
+
+866 68 
+
+34 3 
+
+3.9 4.4 
+
+Reference .81 
+
+1.15 
+
+0.35 to 3.76 
+
+744 193 
+
+24 13 
+
+3.2 6.7 
+
+Reference .03 
+
+2.10 
+
+1.07 to 4.13 
+
+901 36 
+
+37 0 
+
+4.1 0.0 
+
+859 70 
+
+35 2 
+
+4.1 2.9 
+
+Reference .61 
+
+0.69 
+
+0.17 to 2.86 
+
+423 451 70 
+
+9 19 9 
+
+2.1 4.2 12.9 
+
+Reference .092 ⬍ .001 
+
+1.98 6.72 
+
+0.89 to 4.37 2.67 to 16.92 
+
+351 473 111 
+
+4 19 14 
+
+1.1 4.0 12.6 
+
+Reference .020 ⬍ .001 
+
+3.58 11.84 
+
+1.22 to 10.52 3.90 to 35.99 
+
+Age, years ⬍ 50 50-59 ⱖ 60 History of smoking No Yes Left-sided tumor and radiation No Yes Family history of cardiac disease No Yes Hypertension medications No Yes Diabetes medications No Yes Lipid medications No Yes Baseline LVEF ⱖ 65% 55%-64% 50%-54% Post-AC LVEF ⱖ 65% 55%-64% 50%-54% 
+
+Abbreviations: AC, doxorubicin and cyclophosphamide; CHF, congestive heart failure; LVEF, left ventricular ejection fraction; NSABP, National Surgical Adjuvant Breast and Bowel Project. 
+
+women with left-sided lesions receiving radiotherapy (hazard ratio, 0.91; P ⫽ .78). In regression analysis, only age and baseline LVEF remained statistically significant, and using these baseline risk factors, a prediction model has been developed for the cumulative probability of CEs up to year 5 in patients who start post-AC therapy. On the basis of parametric regression on cause-specific subdistribution hazard,8 a Cardiac Risk Score (CRS) can be calculated as follows: 关 7.0 ⫹ 共 0.04 ⫻ Age in years 兲–共0.1 ⫻ Baseline percent LVEF兲兴 ⫻ 100 4.76 
+
+The value from the CRS calculation can then be plotted on the graph in Figure 4A to obtain the estimated predicted probability of a CE using the B-31 treatment regimen. The C-index value for this prediction model was 72%, which implies a high level of discrimination ability of the developed model in associating the length of time to a CE with the probability of not experiencing CEs. By bootstrap analysis, the unbiased estimate after optimism correction was also high at 70%. Figure 4B displays the calibration plot assessing the bias of the prediction model. Each point indicates the Kaplan-Meier estimate (observed probability) of not experiencing CEs among a subset of patients versus the mean value of the corresponding predicted 3796 
+
+© 2012 by American Society of Clinical Oncology 
+
+probabilities in that subset. The closeness of the smoothed dotted line of observed and model-based probabilities and the ideal relationship (dashed line) implies that the bias from the prediction model is minimal. The clinical accuracy of the CRS assumes that the patient eligibility characteristics, cardiac monitoring rules, and stopping rules for trastuzumab are applied as previously described (Appendix Table A1, online only).4 Changes in Cardiac Function During AC Precluding Initiation of Trastuzumab One hundred forty-seven patients (6.9% of patients randomly assigned in both arms) did not meet criteria for initiation of trastuzumab had they been assigned to ACPH (Appendix Table A2, online only). Of interest, 70 patients (47.6%) had a post-AC LVEF ⱖ 50%, and 37 patients (25.2%) had a post-AC LVEF ⱖ 55%. Patients with baseline LVEF of 50% to 54% were twice as likely not to meet eligibility criteria for initiation of trastuzumab compared with patients whose baseline LVEF was ⱖ 55% (13.8% v 6.3%, respectively; P ⬍ .001). Similarly, patients who, at baseline, were receiving antihypertensive medications (11.6% v 5.8%, respectively; P ⬍ .001), diabetes medications (18.8% v 6.5%, respectively; P ⬍ .001), and lipid-lowering medications (20.1% v 5.8%, respectively; P ⬍ .001) were two to three times JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Seven-Year Cardiac Follow-Up on NSABP B-31: ACP ⴞ Trastuzumab 
+
+A 
+
+(P ⬍ .001) in both arms (Fig 5). There was an additional decrease in LVEF after paclitaxel with or without trastuzumab. At 6, 9, and 18 months, the mean declines in LVEF from baseline values were 5%, 5%, and 4%, respectively, with ACPH compared with 3%, 3%, and 3%, respectively, with ACP. Although an analysis of variance over time was significant (P ⬍ .001), the mean absolute decline in LVEF at 18 months with ACPH was just 1% greater than with ACP (P ⫽ .06). 
+
+Predicted Probability of CE (%) 
+
+40 
+
+30 
+
+DISCUSSION 20 
+
+b 
+
+10 
+
+a 
+
+0 
+
+20 
+
+40 
+
+60 
+
+80 
+
+100 
+
+Cardiac Risk Score 
+
+Observed Probability of No CE 
+
+B 0.98 
+
+Ideal correlation Model-based correlation 
+
+0.97 
+
+0.96 
+
+The clinical benefit experienced by patients who received trastuzumab in the phase III adjuvant trials arguably represents one of the most striking improvements in outcome for any group of women with early-stage breast cancer in many years. In the 4-year follow-up of the joint efficacy analysis from NSABP B-31 and NCCTG N9831, the addition of trastuzumab to chemotherapy resulted in a 48% reduction in DFS events, and 93% of patients who received trastuzumab were alive 4 years after diagnosis.12 Because of these encouraging results, potential cardiac toxicity remains an important concern. In NSABP B-31, the 7-year difference in cumulative incidence of protocol-defined CEs between the experimental and control arms is 2.7% (4.0% v 1.3%, respectively). This is similar to the 3.0% difference in CEs at 3 years seen in the comparable arms of NCCTG N9831.13 In the Herceptin Adjuvant (HERA) trial, which required for random assignment an LVEF ⱖ 55% after completion of all chemotherapy and radiation, the cumulative incidence of severe CHF with trastuzumab therapy was only 0.8% at a median follow-up of 3.6 years.14 When all symptomatic CHF was included, however, the difference in CD between trastuzumab and observation arms was 2.0%.15 The Breast Cancer International Research Group 006 study, which randomly assigned patients to AC followed by docetaxel with or without trastuzumab or to a third arm of trastuzumab, 
+
+0.95 
+
+0.94 ACP ACPH 
+
+64 
+
+0.93 0.94 
+
+0.95 
+
+0.95 
+
+0.97 
+
+0.98 
+
+Predicted Probability of No CE LVEF (%) 
+
+Fig 4. (A) Predicted probability of cardiac event (CE) at year 5 by Cardiac Risk Score (CRS) in National Surgical Adjuvant Breast and Bowel Project B-31. (Some examples are as follows: [a] age 45 years, left ventricular ejection fraction [LVEF] ⫽ 65%, CRS ⫽ 48.3, risk of CE ⫽ 2%; and [b] age 65 years, LVEF ⫽ 55%, CRS ⫽ 86.1, risk of CE ⫽ 13%). (B) Calibration plot. Observed and predicted probabilities of not experiencing a cardiac event. (See Table A1 for the CRS of each of the patients receiving doxorubicin, cyclophosphamide, paclitaxel, and trastuzumab who experienced a CE.) 
+
+62 
+
+60 
+
+58 
+
+as likely not to meet eligibility criteria for trastuzumab initiation compared with those not receiving these medications. 
+
+0 
+
+3 
+
+6 
+
+9 
+
+18 
+
+Time (months) Changes in LVEF During Treatment MUGA scans were completed through 18 months in 660 patients receiving ACP and 855 patients receiving ACPH. The mean baseline LVEF was 64% and the mean absolute decrease after AC was 2% www.jco.org 
+
+Fig 5. Mean left ventricular ejection fraction (LVEF) measurements over time in National Surgical Adjuvant Breast and Bowel Project B-31. Vertical bars represent 95% CIs. ACP, doxorubicin, cyclophosphamide, and paclitaxel; ACPH, doxorubicin, cyclophosphamide, paclitaxel, and trastuzumab. 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3797 
+
+Romond et al 
+
+carboplatin, and docetaxel, has a low reported incidence of protocoldefined CEs (0.7% in the control arm, 2.0% in the anthracycline arm with trastuzumab, and 0.4% in the nonanthracycline experimental arm).3 On the basis of pretreatment risk factors for a CE in B-31, we have developed a CRS that may provide a tool for estimating cardiac risk associated with the addition of trastuzumab to paclitaxel after AC. This model conforms closely with B-31 data but should be validated in other studies using similar chemotherapy regimens. For patients who have a higher CRS, there may be overall greater potential benefit from a regimen that has proven efficacy but excludes anthracyclines such as that evaluated in the Breast Cancer International Research Group 006 study. Alternatively, patients with low cardiac risk and more advanced clinical features of their cancers may derive excellent overall benefit from the treatment regimen in B-31. In B-31, the rules for precluding initiation of trastuzumab in the investigational arm were purposely conservative. As a result, almost half of the patients who were precluded from starting trastuzumab had a post-AC LVEF ⱖ 50%, and one fourth would have met the eligibility criterion of LVEF ⱖ 55% for random assignment in the HERA trial. In B-31, a baseline LVEF of 50% to 54% by MUGA and receiving antihypertensive, diabetic, or lipid-lowering medications correlated with changes in myocardial function during AC that resulted in patients not meeting the protocol criteria for initiation of trastuzumab. Concern has been raised about the potential long-term cardiac effects of adjuvant trastuzumab after anthracycline chemotherapy and the degree to which CD is reversible.16 Most patients in B-31 who discontinued trastuzumab as a result of symptomatic or asymptomatic CD have recovered LVEF measurements ⱖ 50%. In all, 36 patients (3.8% of the entire evaluable cohort) who discontinued trastuzumab for cardiac reasons have persistent LVEF values less than 50%. It has been suggested that the CD seen with trastuzumab therapy is qualitatively different from the cardiac injury seen with anthracyclines.17 Whether trastuzumab may exacerbate an underlying toxicity caused by anthracyclines is unclear, although possible mechanisms have been proposed.18 Also, studies are evaluating whether cardiac biomarkers may be useful as predictors of CD.19,20 However, it is encouraging that only two CEs have occurred more than 2 years after initiation of trastuzumab. Thus far, there has been only one cardiac-related death in each arm of the evaluable B-31 cohort. Nevertheless, extended long-term follow-up is essential.21,22 Cardiac history forms continue to be submitted annually on all patients. A long-term quality-of-life REFERENCES 1. Piccart-Gebhart MJ, Proctor M, LeylandJones B, et al: Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 353:1659-1672, 2005 2. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 3. Slamon D, Eiermann W, Robert N, et al: Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med 365:1273-1283, 2011 4. Tan-Chiu E, Yothers G, Romond E, et al: Assessment of cardiac dysfunction in a randomized trial comparing doxorubicin and cyclophosphamide fol3798 
+
+© 2012 by American Society of Clinical Oncology 
+
+and cardiac assessment of B-31 patients who remain disease free is currently under way. At present, the risk versus benefit of adjuvant trastuzumab as given in NSABP protocol B-31 remains strongly in favor of trastuzumab therapy. Careful selection of patients with consideration of risk factors for CD would further improve the therapeutic index for this regimen. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) and/or an author’s immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Sandra M. Swain, Genentech/Roche (U); Charles E. Geyer Jr, Genentech (C); Michael S. Ewer, AstraZeneca; Boehringer Ingelheim; Genentech (C), GlaxoSmithKline (C); Greg Yothers, Genetech (C); Norman Wolmark, Genentech/Roche (U) Stock Ownership: None Honoraria: Charles E. Geyer Jr, Genentech; Michael S. Ewer, Roche Laboratories; Patrick J. Flynn, Genentech Research Funding: Sandra M. Swain, Genentech/Roche Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Sandra M. Swain, Charles E. Geyer Jr, Patrick J. Flynn, Elizabeth Tan-Chiu, Eleftherios P. Mamounas, Norman Wolmark Provision of study materials or patients: Louis Fehrenbacher, Adam Brufsky, Catherine A. Azar, Patrick J. Flynn, Jonathan Polikoff, Howard M. Gross, David D. Biggs, Eleftherios P. Mamounas Collection and assembly of data: Jong-Hyeon Jeong, Priya Rastogi, Charles E. Geyer Jr, Michael S. Ewer, Louis Fehrenbacher, Adam Brufsky, Catherine A. Azar, Patrick J. Flynn, John L. Zapas, Jonathan Polikoff, Howard M. Gross, David D. Biggs, James N. Atkins, Ping Zheng, Greg Yothers, Eleftherios P. Mamounas Data analysis and interpretation: Edward H. Romond, Jong-Hyeon Jeong, Priya Rastogi, Sandra M. Swain, Charles E. Geyer Jr, Vikas Rathi, Louis Fehrenbacher, Ping Zheng, Eleftherios P. Mamounas Manuscript writing: All authors Final approval of manuscript: All authors 
+
+lowed by paclitaxel with or without trastuzumab as adjuvant therapy in node-positive, human epidermal growth factor receptor 2– overexpressing breast cancer: NSABP B-31. J Clin Oncol 23:7811-7819, 2005 5. van Royen N, Jaffe CC, Krumholz HM, et al: Comparison and reproducibility of visual echocardiographic and quantitative radionuclide left ventricular ejection fractions. Am J Cardiol 77:843-850, 1996 6. Kalbfleisch JD, Prentice RL: The Statistical Analysis of Failure Time Data. New York, NY, John Wiley & Sons, 1980 7. Gray RJ: A class of K-sample tests for comparing the cumulative incidence of a competing risk. Ann Stat 16:1141-1154, 1988 8. Jeong JH, Fine JP: Parametric regression on cumulative incidence function. Biostatistics 8:184196, 2007 
+
+9. Harrell FE, Califf RM, Pryor DB, et al: Evaluating the yield of medical tests. JAMA 247:2543-2546, 1982 10. Bonetti M, Gelber RD: A graphical method to assess treatment-covariate interactions using the Cox model on subsets of the data. Stat Med 19: 2595-2609, 2000 11. Harrell FE, Lee KL, Mark DB: Multivariate prognostic models: Issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors. Stat Med 15:361-387, 1996 12. Perez EA, Romond EH, Suman VJ, et al: Four-year follow-up of trastuzumab plus adjuvant chemotherapy for operable human epidermal growth factor receptor 2-positive breast cancer: Joint analysis of data from NCCTG N9831 and NSABP B-31. J Clin Oncol 29:3366-3373, 2011 JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Seven-Year Cardiac Follow-Up on NSABP B-31: ACP ⴞ Trastuzumab 
+
+13. Perez EA, Suman VJ, Davidson NE, et al: Cardiac safety analysis of doxorubicin and cyclophosphamide followed by paclitaxel with or without trastuzumab in the North Central Cancer Treatment Group N9831 adjuvant breast cancer trial. J Clin Oncol 26:1231-1238, 2008 14. Procter M, Suter TM, de Azambuja E, et al: Longer-term assessment of trastuzumab-related cardiac events in the Herceptin Adjuvant (HERA) trial. J Clin Oncol 28:3422-3428, 2010 15. Gianni L, Dafni U, Gelber RD, et al: Treatment with trastuzumab for 1 year after adjuvant chemotherapy in patients with HER2-positive early breast cancer: A 4-year follow-up of a randomized control trial. Lancet Oncol 12:236-244, 2011 
+
+16. Telli ML, Hunt SA, Carlson RW, et al: Trastuzumab-related cardiotoxicity: Calling into question the concept of reversibility. J Clin Oncol 25:3525-3533, 2007 17. Ewer M, Lippman S: Type II chemotherapyrelated cardiac dysfunction: Time to recognize a new entity. J Clin Oncol 23:2900-2902, 2005 18. Ewer M: The anthracycline-trastuzumab interaction: Upregulated binding may provide vital mechanistic insight. Eur J Cancer 43:2024-2025, 2007 19. Cardinale D, Colombo A, Torrisi R, et al: Trastuzumab-induced cardiotoxicity: Clinical and prognostic implications of troponin I evaluation. J Clin Oncol 28:3910-3916, 2010 
+
+20. Morris PG, Chen C, Steingart R, et al: Troponin I and C-reactive protein are commonly detected in patients with breast cancer treated with dose-dense chemotherapy incorporating trastuzumab and lapatinib. Clin Cancer Res 17:3490-3499, 2011 21. Du XL, Xia R, Burau K: Cardiac risk associated with the receipt of anthracycline and trastuzumab in a large nationwide cohort of older women with breast cancer, 1998-2005. Med Oncol 28:S80 –S90, 2011 (suppl) 22. Pinder MC, Duan Z, Goodman JS, et al: Congestive heart failure in older women treated with adjuvant anthracycline chemotherapy for breast cancer. J Clin Oncol 25:3808-3815, 2007 
+
+Affiliations Edward H. Romond, Jong-Hyeon Jeong, Priya Rastogi, Sandra M. Swain, Charles E. Geyer Jr, Louis Fehrenbacher, Adam Brufsky, Catherine A. Azar, Patrick J. Flynn, John L. Zapas, Jonathan Polikoff, Howard M. Gross, David D. Biggs, James N. Atkins, Ping Zheng, Greg Yothers, Eleftherios P. Mamounas, and Norman Wolmark, National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical Center; Jong-Hyeon Jeong, Ping Zheng, and Greg Yothers, Graduate School of Public Health, University of Pittsburgh; Priya Rastogi and Adam Brufsky, University of Pittsburgh School of Medicine (UPMC), Magee-Women’s Hospital; Norman Wolmark, Allegheny Cancer Center at Allegheny General Hospital, Pittsburgh, PA; Edward H. Romond, Lucille Parker Markey Cancer Center, University of Kentucky, Lexington, KY; Sandra M. Swain, Washington Cancer Institute, Washington Hospital Center, Washington, DC; Charles E. Geyer Jr, University of Texas Southwestern Medical Center, Dallas; Michael S. Ewer, The University of Texas MD Anderson Cancer Center, Houston, TX; Vikas Rathi, Bon Secours Health System, Midlothian, VA; Louis Fehrenbacher, Kaiser Permanente Northern California, Vallejo; Jonathan Polikoff, Kaiser Permanente, San Diego, San Diego, CA; Catherine A. Azar, Community Clinical Oncology Program (CCOP), Colorado Cancer Research Program, Denver, CO; Patrick J. Flynn, CCOP, Metro-Minnesota, St Louis Park, MN; John L. Zapas, Franklin Square Hospital Center, Baltimore, MD; Howard M. Gross, CCOP, Dayton; Eleftherios P. Mamounas, Aultman Hospital Cancer Center, Canton, OH; David D. Biggs, CCOP, Christiana Care Health Services, Newark, DE; James N. Atkins, CCOP Southeast Cancer Control Consortium, Goldsboro, NC; and Elizabeth Tan-Chiu, Florida Cancer Research Institute, Plantation, FL. ■ ■ ■ 
+
+www.jco.org 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3799 
+
+ 

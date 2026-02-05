@@ -1,0 +1,613 @@
+Randomized Trial of Letrozole Following Tamoxifen as Extended Adjuvant Therapy in Receptor-Positive Breast Cancer: Updated Findings from NCIC CTG MA.17 Paul E. Goss, James N. Ingle, Silvana Martino, Nicholas J. Robert, Hyman B. Muss, Martine J. Piccart, Monica Castiglione, Dongsheng Tu, Lois E. Shepherd, Kathleen I. Pritchard, Robert B. Livingston, Nancy E. Davidson, Larry Norton, Edith A. Perez, Jeffrey S. Abrams, David A. Cameron, Michael J. Palmer, Joseph L. Pater Background: Most recurrences in women with breast cancer receiving 5 years of adjuvant tamoxifen occur after 5 years. The MA.17 trial, which was designed to determine whether extended adjuvant therapy with the aromatase inhibitor letrozole after tamoxifen reduces the risk of such late recurrences, was stopped early after an interim analysis showed that letrozole improved disease-free survival. This report presents updated findings from the trial. Methods: Postmenopausal women completing 5 years of tamoxifen treatment were randomly assigned to a planned 5 years of letrozole (n = 2593) or placebo (n = 2594). The primary endpoint was disease-free survival (DFS); secondary endpoints included distant disease-free survival, overall survival, incidence of contralateral tumors, and toxic effects. Survival was examined using Kaplan–Meier analysis and log-rank tests. Planned subgroup analyses included those by axillary lymph node status. All statistical tests were two-sided. Results: After a median follow-up of 30 months (range = 1.5–61.4 months), women in the letrozole arm had statistically significantly better DFS and distant DFS than women in the placebo arm (DFS: hazard ratio [HR] for recurrence or contralateral breast cancer = 0.58, 95% confidence interval [CI] = 0.45 to 0.76; P<.001; distant DFS: HR = 0.60, 95% CI = 0.43 to 0.84; P = .002). Overall survival was the same in both arms (HR for death from any cause = 0.82, 95% CI = 0.57 to 1.19; P = .3). However, among lymph node–positive patients, overall survival was statistically significantly improved with letrozole (HR = 0.61, 95% CI = 0.38 to 0.98; P = .04). The incidence of contralateral breast cancer was lower in women receiving letrozole, but the difference was not statistically significant. Women receiving letrozole experienced more hormonally related side effects than those receiving placebo, but the incidences of bone fractures and cardiovascular events were the same. Conclusion: Letrozole after tamoxifen is well-tolerated and improves both disease-free and distant disease–free survival but not overall survival, except in node-positive patients. [J Natl Cancer Inst 2005;97:1262–71] Estrogen is intimately linked to the pathogenesis of breast cancer (1). Tamoxifen antagonizes growth of estrogen-dependent breast cancer, and 5 years of tamoxifen has been the standard adjuvant endocrine therapy for women with estrogen receptor (ER)–positive breast cancer (2,3). Improvements in disease-free survival and overall survival from 5 years of tamoxifen continue up to at least 15 years following diagnosis (4). Extending adjuvant 1262 ARTICLES 
+
+tamoxifen for more than 5 years has not been shown to further improve survival (5,6), and in 1995 the U.S. National Cancer Institute issued a clinical directive to limit adjuvant tamoxifen use to 5 years (7). Despite these benefits, women who have been treated with 5 years of tamoxifen subsequently experience substantial rates of both new primary tumors and relapses at all sites, the latter at a frequency related to nodal status at presentation, and these events are associated with ongoing mortality (8). Indeed, most recurrences in women receiving 5 years of adjuvant tamoxifen treatment for breast cancer occur after 5 years. The MA.17 trial was designed to determine whether the aromatase inhibitor letrozole, given after 5 years of tamoxifen, could further decrease the risk of late relapse and improve survival. The hypothesis was that, if the micrometastatic cells that are the source of subsequent breast cancer in tamoxifen-treated women become resistant to or dependent on tamoxifen, then these cells might be particularly vulnerable to aromatase inhibition (9–16). The choice of letrozole was supported by the findings of its substantial benefits in preclinical models (17) and in women with metastatic breast cancer, including those with disease progression on tamoxifen (18,19). 
+
+Affiliations of authors: The Division of Hematology-Oncology, Massachusetts General Hospital, Boston, MA (PEG); Mayo Clinic, Rochester, MN (JNI); John Wayne Cancer Institute, Santa Monica, CA (SM); Inova Fairfax Hospital, Falls Church, VA (NJR); University of Vermont, Burlington, VT (HBM); Institut Jules Bordet, Brussels, Belgium (MJ Piccart); SAAK/IBCSG Operations Office, Bern, Switzerland (MC); National Cancer Institute of Canada, Clinical Trials Group, Kingston, Ontario, Canada (DT, LES, MJ Palmer, JLP); Toronto-Sunnybrook Regional Cancer Centre, Toronto, Ontario, Canada (KIP); University of Washington, Seattle, WA (RBL); Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD (NED); Memorial Sloan-Kettering Cancer Center, New York, NY (LN); Mayo Clinic, Jacksonville, FL (EAP); Clinical Investigations Branch, National Cancer Institute, Rockville, MD (JSA); Edinburgh Breast Unit, Western General Hospital, Edinburgh, Scotland (DAC). Correspondence to: Paul E. Goss, MD, PhD, FRCPC, FRCP (UK), Massachusetts General Hospital Cancer Center, 55 Fruit St., Cox Bldg., Suite 640, Boston, MA 02114 (e-mail: pgoss@partners.org). See “Notes” following “References.” DOI: 10.1093/jnci/dji250 © The Author 2005. Published by Oxford University Press. All rights reserved. The online version of this article has been published under an Open Access model. Users are entitled to use, reproduce, disseminate, or display the Open Access version of this article for non-commercial purposes provided that: the original authorship is properly and fully attributed; the Journal and Oxford University Press are attributed as the original place of publication with the correct citation details given; if an article is subsequently reproduced or disseminated not in its entirety but only in part or as a derivative work this must be clearly indicated. For commercial re-use, please contact: journals.permissions@oupjournals.org. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+The MA.17 trial began accruing breast cancer patients who had been treated with 5 years of tamoxifen in August 1998. The targeted sample size, 4800, was reached at the end of May 2002. However, the study stayed open for several more months in selected centers to allow recruitment to a bone density and bone biomarker substudy to meet its target accrual. Enrollment to MA.17 was closed on September 4, 2002, with 5187 patients randomly assigned to 5 years of letrozole or placebo. However, the study was stopped by the Data Safety Monitoring Committee (DSMC) of the National Cancer Institute of Canada Clinical Trials Group (NCIC CTG) approximately 1 year earlier than planned, in October 2003, after the first protocol–prespecified interim efficacy analysis. The DSMC was presented with the results of the interim analysis in August 2003, at a median follow-up of 2.4 years, after 207 events had occurred; it revealed a 6% difference in 4-year disease-free survival, which increased from 87% in the placebo arm to 93% in the letrozole arm (P<.001). This difference exceeded the predefined O’Brien– Fleming stopping boundary. Prespecified subset analyses were not planned for the first interim analysis, but an unplanned analysis demonstrated that the improvement in disease-free survival with letrozole was statistically significant in both lymph node–positive and lymph node–negative patients. All study participants were notified of the results, and those who had been taking placebo were offered the option to cross over to letrozole treatment. Because of the nature of interim analyses, our first report of the MA.17 trial (20) included only the efficacy results based on events observed before August 19, 2003, and toxic effects documented before February 28, 2003. In this article, we present the final efficacy and toxicity results, including all preplanned subset analyses, based on all events that occurred up to the unblinding of study participants in October 2003. 
+
+SUBJECTS AND METHODS Patients and Study Design The MA.17 trial was a randomized, double-blind, placebocontrolled trial of letrozole (2.5 mg orally daily) versus placebo (orally daily), given for a period of 5 years. Criteria for eligibility in the trial included: previous adjuvant tamoxifen therapy lasting 4.5–6 years; histologically confirmed primary breast cancer; a tumor that was positive for estrogen receptor (ER), progesterone receptor (PR), or both (defined by a level of 10 fmol/mg protein or a positive result on immunohistochemical analysis of ER or PR); discontinuation of tamoxifen therapy less than 3 months before enrollment; an Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2 (scored on a scale of 0 to 4, with lower scores indicating better function); a life expectancy of more than 5 years; and postmenopausal status. Women were defined as being postmenopausal if they were at least 50 years of age at the start of adjuvant tamoxifen therapy, were younger than 50 years at the start of tamoxifen therapy but postmenopausal at the initiation of tamoxifen therapy, were younger than 50 years at the start of tamoxifen therapy but had undergone bilateral oophorectomy, were premenopausal and younger than 50 years of age at the start of tamoxifen therapy but became amenorrheic during chemotherapy or treatment with tamoxifen, or were any age but had postmenopausal levels of luteinizing hormone or follicle-stimulating hormone prior to study enroll- 
+
+ment. Women with unknown hormone receptor status were eligible, provided an effort was made to determine the receptor status of the primary tumor. Patients were stratified according to tumor hormone receptor status (ER- and/or PR-positive or unknown), lymph node status (negative, positive, or unknown), and prior adjuvant chemotherapy (yes or no). The MA.17 trial was led by the NCIC CTG and included the North American Breast Intergroup and the Breast International Group. Each institution’s ethics review board approved the study protocol. All patients gave written informed consent. Data were received, reviewed, and analyzed by NCIC CTG. Statistical Analysis The primary endpoint of MA.17 was disease-free survival, which was defined as time from randomization to the earliest recurrence of breast cancer (breast, chest wall, regional nodes, or distant metastasis) or a contralateral new primary breast cancer. Secondary endpoints defined in the original protocol included overall survival, calculated as the time from randomization until death from any cause; annual incidence rate of contralateral breast cancer; long-term safety and tolerability; and overall and menopause-specific quality of life. Distant disease–free survival was a secondary endpoint defined in the final analysis; it was calculated as the time from random assignment until the first observation of distant metastasis. The survival curves for all time-to-event endpoints were estimated by the Kaplan–Meier method (21) and compared primarily with a stratified log-rank test adjusting for the three stratification factors (hormone receptor status, lymph node status, and prior adjuvant chemotherapy). The hazard ratios (HRs) between treatment groups for these endpoints and associated 95% confidence intervals (CIs) were calculated from the stratified Cox proportional hazards model with a single treatment covariate and adjustment for the same three stratification factors. For the primary endpoint, exploratory multivariable analyses were performed with the same stratified Cox proportional hazards model but that included as covariates treatment and the other two potential prognostic factors—menopausal status at the start of tamoxifen treatment (≥50 years of age at the start of treatment with adjuvant tamoxifen versus other definitions of menopause) and duration of tamoxifen treatment (≤5 years versus >5 years)—to verify the impact of the three stratification factors and these two additional potential prognostic factors on the treatment effect. The proportional hazards assumption in the Cox model was verified by the Grambsch– Therneau test (22). In an analysis plan prepared before the interim analysis was conducted, it was specified that the analyses for disease-free and overall survival would be presented for the subgroups defined by the levels of the three stratification factors and the two additional potential prognostic factors mentioned above for the exploratory multivariable analysis. A total of 4800 patients were needed to permit the detection of a hazard rate of 0.78, which corresponds to a 2.5% improvement in 4-year disease-free survival with letrozole, from 88% to 90.5%, with 80% power and a two-sided test of significance at the 5% level. Two interim analyses were scheduled when 171 and 342 events were observed. Lan–DeMets alpha spending function with conventional O’Brien–Fleming stopping rules (23) were specified a priori for interim monitoring. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+ARTICLES 
+
+1263 
+
+All available events occurring on or before October 9, 2003, were analyzed for this update. All patients, apart from 17 (all of the patients from one center) who were excluded due to “good clinical practice” violations, were included in all the analyses of pretreatment characteristics and of survival and breast cancer outcomes. Safety and study drug exposure were analyzed on all patients who received at least one dose of study medication. Statistical Analysis System (SAS) version 8 was used in all the analyses except the verification of proportional hazard assumptions, which used S-Plus version 5. All P values were two-sided. 
+
+RESULTS Study Population A total of 5187 patients were randomly assigned to the letrozole (n = 2593) and placebo (n = 2594) arms (Fig. 1). Because of noncompliance with “good clinical practice” guidelines, 17 patients (10 in the letrozole arm and 7 in the placebo arm) were excluded from all analyses, leaving 5170 patients (2583 in the letrozole arm and 2587 in the placebo arm). All other patients were included in the analyses of time-to-event endpoints based on the treatment groups to which they had been randomly assigned. Among the randomly assigned patients, 50 (25 receiving letrozole and 25 receiving placebo) were deemed ineligible for the following reasons: improper duration of time on (n = 7) or off (n = 7) adjuvant tamoxifen, premenopausal status (n = 6), prior recurrence (n = 12), prior or concurrent malignancy (n = 2), inadequate primary surgery (n = 2), hormone receptor–negative tumor (n = 6), inadequate baseline investigation (n = 3), simultaneous hormone therapy (n = 3), or other concomitant medication (n = 2). Thirtythree patients (22 receiving letrozole and 11 receiving placebo) had major protocol violations during the study. All 50 ineligible patients and the 33 patients with major protocol violations were included in the analyses. Twenty-one patients (7 in the letrozole arm and 14 in the placebo arm) never received study medication and were excluded from the safety analyses. Five patients who had been randomly assigned to letrozole received placebo, and one who had been assigned to placebo received letrozole. These patients were included in the safety analyses but in the treatment group to which they crossed over; therefore, the safety analyses included 5149 patients (2572 receiving letrozole and 2577 receiv- 
+
+ing placebo). The median follow-up of patients was 30 months, and the range was 1.5 to 61.4 months. The two treatment arms appeared balanced in terms of baseline pretreatment characteristics, tumor characteristics, and prior therapy for breast cancer (Table 1). The median time between initial diagnosis of breast cancer and random assignment in this study was 64.3 months (range 0.1 to 204 months). The initial analysis of the MA.17 trial (20), which was published in October 2003, was based on data received by August 2003. That analysis included 207 breast cancer events, 73 deaths, 384 patients followed for 40 months, and a median follow-up of 2.4 years. This final analysis, updated to the time of unblinding (October 9, 2003) includes 247 breast cancer events; 113 deaths; 1115 and 503 patients followed for 40 and 48 months, respectively; and a median follow-up of 2.5 years. Disease-Free Survival Among the 247 events observed for the disease-free survival analysis, 92 occurred in women in the letrozole arm of the trial and 155 occurred in women in the placebo arm. The sites of recurrence are summarized in Table 2. The Kaplan–Meier curves for diseasefree survival are presented in Fig. 2 for the two treatment groups. The 4-year disease-free survival for patients receiving letrozole was 94.4% and for patients receiving placebo was 89.8%, representing an absolute reduction in recurrence of 4.6% for patients receiving letrozole. The stratified log-rank test for the difference in disease-free survival, adjusting for receptor status, lymph node status, and prior adjuvant treatment at random assignment, yielded P<.001. The hazard ratio for recurrence or contralateral breast cancer in those receiving letrozole relative to those receiving placebo was 0.58 (95% CI = 0.45 to 0.76), a relative reduction in risk of disease recurrence of 42% for women receiving letrozole. The treatment effect remained statistically significant after adjustment for two additional potential prognostic factors in a stratified Cox model—menopausal status at the start of tamoxifen treatment and duration of tamoxifen treatment (adjusted HR = 0.59; 95% CI = 0.45 to 0.76). Prespecified subgroup analyses (Fig. 3) showed that letrozole was superior to placebo in almost all of the subgroups, except for the subgroups of patients with unknown hormone receptor status and those with unknown lymph node status, both of which contained very few patients. 
+
+5187 randomized 
+
+Fig. 1. CONSORT trial flow diagram for MA.17 trial. 
+
+1264 ARTICLES 
+
+2593 to letrozole 
+
+2594 to placebo 
+
+10 non-compliance with “Good Clinical Practice” Guidelines 
+
+7 non-compliance with “Good Clinical Practice” Guidelines 
+
+25 ineligible 22 major protocol violations 
+
+2583 in analyses for time-to-event endpoints 
+
+2587 in analyses for time-to-event endpoints 
+
+25 ineligible 11 major protocol violations 
+
+7 never received study medication 
+
+5 received placebo 
+
+1 received letrozole 
+
+14 never received study medication 
+
+2572 in safety analyses 
+
+2577 in safety analyses 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+Table 1. Pretreatment characteristics at baseline* for all patients randomly assigned to letrozole or placebo in MA.17 
+
+Table 2. Summary of sites of events in the analysis of disease-free survival 
+
+Characteristic 
+
+Event 
+
+Letrozole, no. (%) 
+
+Placebo, no. (%) 
+
+All patients Any event Recurrence Local breast recurrence only Local chest well recurrence only Regional recurrence only Distant recurrence only* Bone marrow Lungs Bone Pleural effusion Liver Central nervous system Other Multiple sites of recurrence Contralateral breast cancer only 
+
+2583 (100) 92 (3.6) 75 9 2 7 52 4 11 37 1 16 0 13 5 17 
+
+2587 (100) 155 (6.0) 127 22 8 3 82 6 20 55 10 15 2 21 12 28 
+
+Placebo, no. (%) 
+
+2583 (100) 
+
+2587 (100) 
+
+2339 (90.6) 86 (3.3) 117 (4.5) 27 (1.0) 14 (0.5) 
+
+2369 (91.6) 93 (3.6) 87 (3.4) 17 (0.7) 21 (0.8) 
+
+1901 (73.6) 682 (26.4) 62 years 
+
+1946 (75.2) 641 (24.8) 62 years 
+
+1964 (76.0) 
+
+1961 (75.8) 
+
+179 (6.9) 
+
+144 (5.6) 
+
+92 (3.6) 
+
+101 (3.9) *Patients may have had more than one site of recurrence. 
+
+332 (12.9) 
+
+364 (14.1) 
+
+14 (0.5) 
+
+15 (0.6) 
+
+2 (0.1) 
+
+2 (0.1) 
+
+1292 (50.0) 1171 (45.3) 113 (4.4) 7 (0.3) 
+
+1276 (49.3) 1189 (46.0) 113 (4.4) 9 (0.3) 
+
+2516 (97.4) 2 (0.1) 45 (1.7) 20 (0.8) 
+
+2519 (97.4) 6 (0.2) 46 (1.8) 16 (0.6) 
+
+1160 (44.9) 1420 (55.0) 5.0 3 (0.1) 
+
+1208 (46.7) 1374 (53.1) 5.0 5 (0.2) 
+
+1402 (54.3) 1177 (45.6) 4 (0.2) 
+
+1418 (54.8) 1166 (45.1) 3 (0.1) 
+
+1482 (57.4) 
+
+1499 (57.9) 
+
+1328 (51.4) 2474 (95.8) 
+
+1334 (51.6) 2479 (95.8) 
+
+*Baseline refers to assessments made at the time of the randomization. †At the start of adjuvant tamoxifen treatment. ‡Women were considered postmenopausal as defined in the “Subjects and Methods” section. §Positive refers to positivity for the estrogen receptor, progesterone receptor, or both. 
+
+those receiving letrozole (difference = 1.8 per 1000, 95% CI = −1.3 to 4.9 per 1000). Comparison of time-to-contralateral breast cancer curves (Fig. 5) showed a 37.5% relative risk reduction with letrozole that was not statistically significant (HR = 0.63, 95% CI = 0.18 to 2.21, P = .12). Overall Survival A total of 113 patients had died at the time of unblinding (51 in the letrozole arm and 62 in the placebo arm). Of these, breast cancer was the cause of death for 16 patients in the letrozole arm and 22 in the placebo arm, a combination of breast cancer and nonprotocol treatment complication was the cause of one death in each arm, other primary malignancies were the cause of nine deaths in the letrozole arm and 11 in the placebo arm, other conditions or circumstances were the cause of 24 deaths in the letrozole arm and 28 in the placebo arm, and one death in the letrozole arm was due to unknown causes. Four-year overall survival was 
+
+100 
+
+Proportion disease free 
+
+All patients Race White Black Other Unknown Missing Age, years <70 ≥70 Median Menopausal status† Postmenopausal (i.e., ≥50 years of age) Postmenopausal but <50 years of age‡ Postmenopausal (<50 years of age, underwent bilateral oophorectomy) Postmenopausal (<50 years of age, became amenorrheic) Postmenopausal levels of luteinizing hormone or folliclestimulating hormone at random assignment Missing Axillary lymph node status Negative Positive Unknown Missing Hormone receptor status§ Positive Negative Unknown Missing Duration of tamoxifen treatment ≤5 years >5 years Median Missing Prior adjuvant chemotherapy No Yes Missing Prior surgery Lumpectomy or segmental mastectomy Mastectomy Axillary node dissection 
+
+Letrozole, no. (%) 
+
+Letrozole also led to a statistically significant improvement in distant disease–free survival: there was a 40% reduction in risk of distant recurrence in the letrozole group as compared with the placebo group (HR = 0.60, 95% CI = 0.43 to 0.84, P = .002) (Fig. 4). Contralateral Breast Cancer Incidence The annual incidence rate of contralateral breast cancer, per 1000 patients, was 4.8 for those receiving placebo and 3.0 for 
+
+80 
+
+60 Month 12 24 36 48 
+
+40 
+
+20 
+
+Letrozole N S 95%CI 2425 98.5 (98.1, 99.0) 96.9 (96.1, 97.6) 1555 768 95.7 (94.8, 96.7) 244 94.4 (93.0, 95.8) 
+
+Placebo N 2409 1530 723 231 
+
+S 95%CI 97.9 (97.4, 98.5) 95.4 (94.6, 96.3) 92.2 (90.9, 93.6) 89.8 (87.9, 91.8) 
+
+0 0.0 
+
+10.0 
+
+20.0 
+
+30.0 
+
+40.0 
+
+50.0 
+
+60.0 
+
+2583 2587 
+
+2497 2489 
+
+1905 1874 
+
+1110 1075 
+
+541 519 
+
+176 164 
+
+6 8 
+
+Time from randomization (months) # At Risk(Letrozole) # At Risk(Placebo) 
+
+Fig. 2. Kaplan–Meier curves for disease-free survival. An event is defined as recurrence of breast cancer (breast, chest wall, regional nodes, or distant metastasis) or a contralateral breast cancer (whichever occurs first). N = number at risk; S = survival percent, with 95% confidence intervals in parentheses. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+ARTICLES 
+
+1265 
+
+hazard ratio 95% CI 
+
+Subgroup (No.) 
+
+Hormone Receptor Status Fig. 3. Forest plots of the treatment effect (letrozole versus placebo), in terms of disease-free survival, in subgroups defined by hormone receptor status, lymph node status, previous chemotherapy, menopausal criteria, and duration of tamoxifen treatment. For each subgroup, the hazard ratio for recurrence or contralateral breast cancer is plotted as a solid square, and the area of the square is proportional to the variance of the estimated effect. The length of the horizontal line through the square indicates the 95% confidence interval (CI). The arrow at the end of the horizontal line indicates that the confidence interval is larger than the scale of the figure. 
+
+0.58 [0.45, 0.76] 1.22 [0.17, 8.92] 
+
+Receptor Positive (5035) Receptor Unknown (91) 
+
+Nodal Status 0.45 [0.27, 0.73] 0.61 [0.45, 0.84] 2.00 [0.50, 7.98] 
+
+Negative (2568) Positive (2360) Unknown (226) 
+
+Previous Chemotherapy 0.58 [0.40, 0.83] 0.58 [0.40, 0.84] 
+
+Yes (2343) No (2820) 
+
+Menopausal Criteria 0.73 [0.55, 0.98] 0.25 [0.13, 0.46] 
+
+> 50 at start of Tamoxifen (3925) Other (1241) 
+
+Duration of Tamoxifen 0.58 [0.40, 0.84] 0.59 [0.41, 0.84] 
+
+< 5 years (2368) > 5 years (2794) 0.2 
+
+0.5 
+
+1 
+
+Favors Letrozole 
+
+2 
+
+5 
+
+Favors Placebo 
+
+95.4% for patients receiving letrozole and 95.0% for patients receiving placebo, an absolute increase of 0.4%. Kaplan–Meier analysis (Fig. 6) showed a reduced risk of death in the letrozole arm compared with the placebo arm, but the difference was not statistically significant (HR of death from any cause = 0.82, 95% CI = 0.57 to 1.19, stratified log-rank P = .3). The results of prespecified subgroup analyses (Fig. 7) revealed that letrozole was associated with statistically significant improvements in overall survival, compared with placebo, both in node-positive patients (HR = 0.61, 95% CI = 0.38 to 0.98, P = .04) and in patients who had taken tamoxifen for more than 5 years (HR = 0.56, 95% CI = 0.33 to 0.97, P = .04). 
+
+taking placebo (P = .25). Median time from random assignment to a new bone fracture was 1.06 years for those taking letrozole and 0.86 years for those taking placebo. Cardiovascular events were observed in 149 (5.8%) and 144 (5.6%) of patients in the letrozole and placebo arms, respectively (P = .76). Finally, we analyzed the occurrence of other malignancies in the two arms. Four patients who received letrozole and 11 who received placebo developed endometrial cancer (P = .12); no differences were observed in the incidence of any other malignancies. 
+
+Treatment Discontinuation and Toxicity 
+
+Despite the benefits of 5 years of adjuvant tamoxifen, more than 50% of breast cancer relapses and more than two-thirds of deaths occur after the initial 5 years after surgery (2,3). These recurrences are predominantly distant visceral and skeletal metastases, whatever the patient’s initial lymph node status. 
+
+1266 ARTICLES 
+
+Proportion distant recurrence-free 
+
+There were three major reasons for patients discontinuing protocol treatment: patient refusal (11.4% of the patients receiving letrozole and 11.1% of those receiving placebo, P = .79), toxicity (4.9% of the patients receiving letrozole and 3.6% of those receiving placebo, P = .019), and “other reasons” (3.8% of the patients receiving letrozole and 4.7% of those receiving placebo, P = .097). Table 3 shows toxicities for which there was more than 1 percentage point difference between the two treatment groups or an incidence rate greater than or equal to 5% in either arm during the protocol treatment. Hot flashes, anorexia, arthralgia, myalgia, and alopecia were all statistically significantly more common in those receiving letrozole, and vaginal bleeding was statistically significantly more common in those receiving placebo. Additional specific toxicities related to bone metabolism and cardiovascular disease are shown in Table 4. More patients receiving letrozole had a fracture, a new diagnosis of osteoporosis, or cardiovascular disease on study, but only the incidence of self-reported new osteoporosis was statistically significantly different between the two arms. Diagnoses of new osteoporosis were reported by 364 patients, 209 (8.1%) of those receiving letrozole and 155 (6.0%) of those receiving placebo (P = .003), with median times to occurrence of 0.70 years for those receiving letrozole and 0.52 years for those receiving placebo. Of a total of 256 patients who experienced a clinical fracture during the study period, 137 (5.3%) were taking letrozole and 119 (4.6%) were 
+
+DISCUSSION 
+
+100 
+
+80 
+
+60 
+
+40 
+
+Month 12 24 36 48 
+
+20 
+
+Letrozole N S 95%CI 2425 99.1 (98.7, 99.4) 1555 98.0 (97.4, 98.6) 768 97.2 (96.4, 98.0) 244 96.6 (95.6, 97.6) 
+
+Placebo N 2409 1530 723 231 
+
+S 95%CI 98.8 (98.4, 99.2) 97.5 (96.9, 98.2) 95.1 (94.0, 96.2) 93.7 (92.1, 95.3) 
+
+0 0.0 
+
+10.0 
+
+20.0 
+
+30.0 
+
+40.0 
+
+50.0 
+
+60.0 
+
+2583 2587 
+
+2497 2489 
+
+1905 1874 
+
+1110 1075 
+
+541 519 
+
+176 164 
+
+6 8 
+
+Time from randomization (months) # At Risk(Letrozole) # At Risk(Placebo) 
+
+Fig. 4. Kaplan–Meier curves for distant recurrence–free survival. Any distant metastasis is defined as an event. N = number at risk; S = survival percent, with 95% confidence intervals in parentheses. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+Cumulative rate (per 1,000) 
+
+30 Year 1 2 3 4 
+
+20 
+
+Letrozole N H 95%CI 2449 3.15 (0.97, 5.33) 1580 6.23 (2.94, 9.52) 783 8.32 (4.26, 12.4) 250 13.5 (5.15, 21.9) 
+
+Placebo 95%CI N H 2439 6.35 (3.25, 9.45) 1571 10.0 (5.86, 14.1) 760 13.9 (8.26, 19.5) 243 22.4 (11.2, 33.6) 
+
+10 
+
+0 0.0 
+
+1.0 
+
+2.0 
+
+3.0 
+
+4.0 
+
+5.0 
+
+2583 2587 
+
+2449 2439 
+
+1580 1571 
+
+783 760 
+
+250 243 
+
+6 8 
+
+Years After Randomization # At Risk(Letrozole) # At Risk(Placebo) 
+
+Fig. 5. Cumulative hazard curves for contralateral breast cancer–free survival. Development of contralateral breast cancer is defined as an event. N = number at risk; H = cumulative hazard rate per 1000, with 95% confidence intervals in parentheses. 
+
+We demonstrated a statistically significant improvement in disease-free survival for women taking letrozole after standard adjuvant tamoxifen, with substantial reductions in local, distant, and contralateral events, and an improvement in overall survival in women with lymph node–positive disease. At the outset of the trial, we anticipated that additional genetic changes would have occurred when primary breast tumors metastasize to the micrometastatic environment and that this progressive genetic instability at the site of metastases would be reflected in lower proportional reductions in distant disease recurrence than in local recurrence. However, we found that distant micrometastases that have survived 5 years of tamoxifen therapy appear to remain highly estrogen sensitive and responsive to extended adjuvant letrozole treatment and, therefore, to be as preventable as early in-breast or locoregional lesions. Although we did not observe an increase in overall survival, it should be noted that disease-free survival has historically been an 100 
+
+Proportion alive 
+
+80 
+
+60 Month 12 24 36 48 
+
+40 
+
+20 
+
+Letrozole N S 95%CI 2456 99.8 (99.6, 1.00) 1587 99.1 (98.7, 99.5) 788 97.6 (96.7, 98.4) 253 95.4 (93.7, 97.0) 
+
+Placebo N 2453 1585 771 250 
+
+S 95%CI 99.7 (99.5, 99.9) 98.7 (98.2, 99.2) 97.1 (96.2, 98.0) 95.0 (93.5, 96.4) 
+
+0 0.0 
+
+10.0 
+
+20.0 
+
+30.0 
+
+40.0 
+
+50.0 
+
+60.0 
+
+2583 2587 
+
+2523 2522 
+
+1937 1928 
+
+1138 1130 
+
+556 559 
+
+182 175 
+
+6 8 
+
+Time from randomization (months) # At Risk(Letrozole) # At Risk(Placebo) 
+
+Fig. 6. Kaplan–Meier curves for overall survival. An event is defined as death from any cause. N = number at risk; S = survival percent, with 95% confidence intervals in parentheses. 
+
+acceptable endpoint of both Food and Drug Administration and National Cancer Institute trials of endocrine therapy in the adjuvant setting. We feel that it is the appropriate primary endpoint for trials of well-tolerated anticancer endocrine therapies, such as this trial, for two major reasons. First, accumulated experience from studies of other endocrine therapies, including oophorectomy and tamoxifen, suggests that disease-free survival is a surrogate for overall survival (2,3). Second, preventing breast cancer recurrence is, of itself, important because women with distant metastases inevitably die of breast cancer; moreover, because recurrences can have adverse psychological effects, preventing recurrence is important for psychological reasons as well. Women who suffer an in-breast recurrence often require the mastectomy that their initial management was intended to avoid, and women who develop new breast cancer repeat the trauma of their initial diagnosis and treatment. Indeed, the psychological morbidity of a second breast cancer event has been shown to have a greater impact on women than their first diagnosis (24–27). The importance of preventing breast cancer recurrences is also underscored by the rate of these events in our study. In the placebo arm of MA.17, the event rate in lymph node–negative women was approximately 2% per year and in lymph node–positive women was 4% per year, indicating an ongoing and substantial rate of late recurrences that did not decrease over the study period and is comparable to that seen in both the Oxford overview (2–4) and in reports by others (8). Since our initial publication, it has been suggested that MA.17 was unblinded prematurely because of the stopping rules related to overall disease-free survival and that a statistically significant improvement in distant disease–free survival would have been a more meaningful endpoint (28). Our updated analysis indicates that letrozole treatment did result in a statistically significant improvement in distant disease–free survival (P = .002). Our prespecified subset analyses indicate that letrozole use was also associated with a statistically significant improvement in overall survival among women with positive axillary lymph nodes. Although subgroup analyses have some limitations— including, for example, multiple comparison issues—these analyses provide what is, to our knowledge, the first suggestion of a survival advantage obtained with the use of any aromatase inhibitor in early-stage breast cancer and also the first suggestion that extending adjuvant endocrine therapy beyond 5 years of tamoxifen can afford a survival advantage. The reduction in the risk of overall recurrence was greater for lymph node–negative patients (55%) than for lymph node–positive patients (39%) (Fig. 3), although the reduction in the risk of recurrence with letrozole in lymph node–negative women did not translate into an improvement in overall survival (HR of death from any cause = 1.52, 95% CI = 0.76 to 3.06; Fig. 7). All-cause mortality, as well as breast cancer–specific mortality, is important when offering adjuvant therapy to relatively healthy elderly women. Among 33 deaths in women with lymph node–negative disease (20 receiving letrozole and 13 receiving placebo), there were 17 non–breast cancer deaths in women receiving letrozole (five cardiovascular, two fatal strokes, five second malignancies, and five other) and 11 in women receiving placebo (five cardiovascular, one fatal stroke, two second malignancies, and three other). A review, blinded to treatment allocation, of the medical information submitted as supporting documentation for the cause of death among the 33 women with lymph node–negative disease found no probable causal 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+ARTICLES 
+
+1267 
+
+hazard ratio 95% CI 
+
+Subgroup (No.) 
+
+Hormone Receptor Status Receptor Positive (5035) Receptor Unknown (91) 
+
+Fig. 7. Forest plots of the treatment effect (letrozole versus placebo), in terms of overall survival, in subgroups defined by hormone receptor status, lymph node status, previous chemotherapy, menopausal criteria, and duration of tamoxifen treatment. For each subgroup, the hazard ratio for death from any cause is plotted as a solid square, and the area of the square is proportional to the variance of the estimated effect. The length of the horizontal line through the square indicates the 95% confidence interval (CI). The arrow at the end of the horizontal line indicates that the confidence interval is larger than the scale of the figure. 
+
+Nodal Status Negative (2568) Positive (2360) Unknown (226) 
+
+Previous Chemotherapy Yes (2343) No (2820) 
+
+Menopausal Criteria > 50 at start of Tamoxifen (3925) Other (1241) 
+
+Duration of Tamoxifen < 5 years (2368) > 5 years (2794) 0.2 
+
+0.5 
+
+1 
+
+Favors Letrozole 
+
+relationship between these deaths and letrozole. In addition, there was no excess of non–breast cancer deaths in women on the letrozole arm as compared with women on the placebo arm in the study overall, and no reason to think that nodal status should be related to the risk of intercurrent deaths. Although letrozole was associated with statistically significantly improved disease-free survival in women who had taken tamoxifen both for more or less than 5 years, an apparent overall survival advantage with letrozole was seen only in those who had taken tamoxifen for more than 5 years. This difference may reflect the inherently better prognosis and slower growth of 
+
+2 
+
+5 
+
+Favors Placebo 
+
+tumors among women who took tamoxifen for longer or may suggest that longer duration of tamoxifen-resistant or -dependent disease is more vulnerable to the benefits achieved with subsequent letrozole. The question of the optimal duration of initial tamoxifen treatment is of major interest given the recent report of Coombes et al. (29), who showed that switching to exemestane after 2–3 years of tamoxifen treatment is superior in terms of disease-free recurrence than staying on tamoxifen for a full 5 years. Thus, since the original publication of MA.17 switching to an aromatase inhibitor after 5 years, or after 2–3 years, of prior tamoxifen treatment have both become choices in the clinic. 
+
+Table 3. Acute toxicities reported by patients in MA.17* Letrozole (N = 2572) Toxicity Edema Hypertension Hot flashes/flushes Fatigue Sweating Anorexia Constipation Diarrhea Nausea Vaginal bleeding Infection without neutropenia Arthritis Hypercholesterolemia Dizziness Insomnia Depression Headache Arthralgia Myalgia Bone pain Dyspnea Alopecia Vaginal dryness 
+
+Grade 1 
+
+Grade 2 
+
+Grade 3 
+
+470 54 823 801 551 115 297 125 267 121 34 
+
+96 21 661 183 231 26 60 29 35 22 63 
+
+5 55 2 14 
+
+110 379 386 119 85 546 381 241 81 
+
+46 37 59 45 42 138 245 121 46 143 12 72 
+
+10 2 13 2 14 22 25 18 13 14 
+
+114 75 
+
+Grade 4 
+
+1 
+
+1 6 14 6 2 27 1 
+
+2 
+
+1 4 
+
+Placebo (N = 2577) Total, no. (%) 
+
+Grade 1 
+
+Grade 2 
+
+Grade 3 
+
+Grade 4 
+
+Total, no. (%) 
+
+P value† 
+
+571 (22) 130 (5) 1486 (58) 999 (39) 782 (30) 142 (6) 363 (14) 168 (7) 308 (12) 145 (6) 124 (5) 
+
+428 48 782 795 543 87 313 140 267 141 35 
+
+110 13 601 195 217 19 66 26 38 50 62 
+
+3 68 
+
+1 
+
+7 
+
+1 
+
+3 3 10 9 3 13 
+
+1 
+
+542 (21) 129 (5) 1383 (54) 998 (39) 760 (29) 110 (4) 382 (15) 176 (7) 314 (12) 196 (8) 112 (4) 
+
+.31 .94 .003 .95 .48 .039 .48 .69 .83 .005 .42 
+
+167 (6) 418 (16) 458 (18) 166 (6) 143 (6) 706 (27) 651 (25) 380 (15) 141 (5) 161 (6) 126 (5) 147 (6) 
+
+92 357 383 103 74 519 338 211 92 
+
+41 48 51 30 49 140 172 88 44 142 5 69 
+
+4 6 6 2 7 25 22 11 12 18 
+
+137 (5) 411 (16) 441 (17) 135 (5) 131 (5) 685 (27) 532 (21) 310 (12) 149 (6) 163 (6) 89 (3) 129 (5) 
+
+.07 .79 .53 .06 .45 .49 < .001 .004 .67 .95 .01 .26 
+
+84 60 
+
+2 2 
+
+1 1 1 1 3 
+
+*Only toxicities that affected more than 5% of subjects or that differed by more than 1 percentage points between arms are shown. Toxicities were graded according to Common Toxicity Criteria Version 2.0. Empty cells indicate that the toxicity was not observed. †P values are from Fisher’s exact test. 
+
+1268 ARTICLES 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+Table 4. Bone and cardiovascular toxicities, adverse events, and intercurrent illnesses in patients on MA.17* Event All patients Clinical bone fractures Yes No Missing Location of bone fracture Spinal Wrist Pelvis Hip Femur Tibia Ankle Other New osteoporosis Yes No Missing Cardiovascular disease Yes No Missing Type of cardiovascular disease Myocardial infarction Stroke/transient ischemic attack New or worsening angina Angina requiring PTCA Angina requiring CABG Thromboembolic event Other 
+
+Letrozole, no. (%) 
+
+Placebo, no. (%) 
+
+2572 
+
+2577 
+
+137 (5.3) 2424 (94.2) 11 (0.4) 
+
+119 (4.6) 2446 (94.9) 12 (0.5) 
+
+15 (0.6) 33 (1.3) 5 (0.2) 5 (0.2) 3 (0.1) 6 (0.2) 13 (0.5) 75 (2.9) 
+
+10 (0.4) 22 (0.9) 4 (0.2) 8 (0.3) 2 (0.1) 2 (0.1) 11 (0.4) 69 (2.7) 
+
+209 (8.1) 2352 (91.4) 11 (0.4) 
+
+155 (6.0) 2410 (93.5) 12 (0.5) 
+
+.003 
+
+149 (5.8) 2412 (93.8) 11 (0.4) 
+
+144 (5.6) 2421 (93.9) 12 (0.5) 
+
+.76 
+
+9 (0.3) 17 (0.7) 
+
+11 (0.4) 15 (0.6) 
+
+31 (1.2) 3 (0.1) 5 (0.2) 11 (0.4) 100 (3.9) 
+
+23 (0.9) 7 (0.3) 12 (0.5) 6 (0.2) 95 (3.7) 
+
+P value† 
+
+.25 
+
+*A patient may have more than one type of fracture or cardiovascular disease. PTCA = percutaneous transluminal coronary angioplasty; CABG = coronary artery bypass graft. †P values are from Fisher’s exact test. 
+
+It is known that aromatase inhibitors do not fully suppress estrogen production in premenopausal women and may induce ovulation and result in an ovarian hyperstimulation syndrome (30,31). Consequently, we recommend that aromatase inhibitors not be used as monotherapy in premenopausal women. Because a proportion of women who are younger than 50 years of age at diagnosis may regain ovarian function during or after tamoxifen cessation, women being considered for letrozole treatment should meet stringent criteria for being postmenopausal. Because the outcome of women in our trial was not affected by our definition of menopause, it would be appropriate to use the criteria defined in our study when applying the results in clinical practice. The value of adjuvant aromatase inhibitors in women who had received prior chemotherapy has been questioned since the initial report of the ATAC (Arimidex, tamoxifen, alone or in combination) trial failed to show a benefit of anastrozole in women who had received prior adjuvant chemotherapy (32). In our trial of post-tamoxifen treatment, letrozole was equally effective in women who had or had not received prior adjuvant chemotherapy. Letrozole was extremely well tolerated in the MA.17 trial. Hot flashes, myalgia, arthralgia, and alopecia—all of which differed between the trial arms—are probably related to depleted estrogen levels. However, the role of estrogen in the incidence of arthralgia and arthritis in menopause generally is controversial, and symptoms of myalgia and arthralgia appeared promptly in many women receiving letrozole, leaving their etiology unclear. More rigorous 
+
+evaluation of these symptoms to distinguish arthralgia from arthritis and myalgia would be desirable in future trials. Although alopecia was more common in women receiving letrozole than in women receiving placebo, it was generally mild and of minimal, if any, cosmetic significance. Of importance, no excess of urogenital symptoms was reported by women receiving letrozole. Women enrolled on MA.17 had recently completed 5 years of tamoxifen, which is associated with an increased risk of vaginal bleeding (2–4). It is therefore of note that vaginal bleeding was more common in women receiving placebo than in women receiving letrozole. This difference may reflect inhibition of endometrial proliferation by the aromatase inhibitor. Indeed, Garrone et al. (33) found that endometrial thickness is reduced more rapidly after tamoxifen by administering an aromatase inhibitor than by simply stopping tamoxifen. The absence of endometrial stimulation has also been demonstrated for anastrozole in the ATAC endometrial substudy (34). A phase II trial of letrozole in advanced endometrial cancer has further described the antiproliferative effects of this agent (35). Letrozole was associated with a statistically significant increase in newly diagnosed osteoporosis but only with a non– statistically significant increase in clinical fractures. These findings are compatible with the known increase in bone resorption associated with aromatase inhibitor–induced estrogen depletion (36). Of importance, however, is the fact that a loss of bone mineral density over the 5 years of MA.17 in women assigned to letrozole may be offset in part by the benefit experienced from tamoxifen during the preceding 5 years. The latter was demonstrated in the bone substudy of the ATAC trial (37). Because decreases in bone mineral density can be monitored and treated, the important improvements in cancer outcome achieved by extended adjuvant letrozole should not be outweighed by excessive concern about bone loss. All patients enrolled on the MA.17 trial will continue to be followed with respect to new diagnoses of osteoporosis and clinical fractures. In the interim, women given extended adjuvant letrozole therapy should be advised to take calcium and vitamin D as per osteoporosis guidelines and to follow recommendations for bone health, including regular monitoring of their bone mineral density, as suggested by an expert panel of the American Society of Clinical Oncology (38). The optimal duration of adjuvant tamoxifen remains controversial. In the National Surgical Adjuvant Breast and Bowel Project B-14 trial (5,6), the Scottish trial (39), and the ECOG (40) trial, women completing their initial 5 years of adjuvant tamoxifen were randomly assigned to a further 5 years of tamoxifen or placebo. In addition, the French Breast Cancer Group (41) randomly assigned patients late in follow-up who had not taken initial tamoxifen to adjuvant tamoxifen or not, starting 2–6 years after diagnosis. MA.17 is unique in that patients were randomly assigned to a novel agent after initial adjuvant therapy, thus extending the duration of the adjuvant treatment period beyond 5 years. MA.17 is also the first double-blind, placebo-controlled trial of an aromatase inhibitor in early breast cancer, allowing a true assessment of toxicities. However, it should be borne in mind that all participants received 5 years of prior tamoxifen, which could influence end-organ and other toxic effects, such as bone metabolism and cardiovascular risk. This extended influence is a particular concern because tamoxifen has a long plasma and tissue half-life (42,43). This study shows that extended adjuvant letrozole given for 5 years after tamoxifen reduces the risk of breast cancer recurrence 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+ARTICLES 
+
+1269 
+
+and may be associated with an improvement in overall survival in women with lymph node–positive disease. Letrozole was well tolerated, and the patients were highly compliant. An extension to MA.17, randomly assigning patients to a further 5 years of letrozole versus placebo, is under way. This extension of MA.17 will allow a better determination of the optimal duration of treatment both for efficacy and long-term toxicities. The MA.17 trial results have changed clinical practice, but because the median follow-up was short the question of duration of therapy remains unanswered for the time being. In addition, it is uncertain from the results whether women should be offered extended adjuvant therapy with letrozole if more than 3 months have elapsed since cessation of tamoxifen treatment. A reanalysis of the entire study after unblinding, including those patients who switched to letrozole after variable times of taking placebo, will address this question. Chronic toxicity assessment, although currently limited, will be further addressed by ongoing follow-up of all MA.17 participants and by the extension of MA.17. In summary, this final analysis of unblinded data confirms our earlier finding (20) of a substantial reduction in risk of recurrence and excellent tolerability with extended adjuvant letrozole. The findings of a distant disease–free survival advantage with letrozole and an apparent overall survival advantage in women presenting with metastasis to the lymph nodes are particularly noteworthy. The American Society of Clinical Oncology Technology Assessment Committee has recently recommended the use of an aromatase inhibitor as initial therapy or in sequence with tamoxifen as appropriate treatment for postmenopausal receptor-positive early-stage breast cancer (44). Our results support these recommendations. Adjuvant letrozole should be discussed with all postmenopausal women completing standard adjuvant tamoxifen therapy. 
+
+REFERENCES (1) Clemons M, Goss PE. Mechanisms of disease: estrogen and the risk of breast cancer. N Engl J Med 2001;344:276–85. (2) Early Breast Cancer Trialists’ Collaborative Group. Systemic treatment of early breast cancer by hormonal, cytotoxic, or immune therapy: 133 randomized trials involving 31000 recurrences and 24000 deaths among 75000 women—parts 1 and 2. Lancet 1992;339:1–15, 71–8. (3) Early Breast Cancer Trialists’ Collaborative Group. Tamoxifen for early breast cancer: an overview of the randomized trials. Lancet 1998;351: 1451–67. (4) Early Breast Cancer Trialists’ Collaborative Group. Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomized trials. Lancet. 2005;365:1687–717. (5) Fisher B, Dignam J, Bryant J, et al. Five versus more than 5 years of tamoxifen therapy for breast cancer patients with negative lymph nodes and estrogen receptor-positive tumors. J Natl Cancer Inst 1996;88:1529–42. (6) Fisher B, Dignam J, Bryant J, and Wolmark N. Five versus more than 5 years of tamoxifen for lymph node-negative breast cancer: updated findings from the National Surgical Adjuvant Breast and Bowel Project B-14 randomized trial. J Natl Cancer Inst 2001;93:684–90. (7) National Cancer Institute. Clinical announcement: adjuvant therapy of breast cancer—tamoxifen update. Bethesda (MD): National Institutes of Health; 1995. (8) Saphner T, Tormey DC, Gray R. Annual hazard rates of recurrence for breast cancer after primary therapy. J Clin Oncol 1996;14:2738–46. (9) Gottardis MM, Jordan VC. Development of tamoxifen-stimulated growth of MCF-7 tumors in athymic mice after long-term antiestrogen administration. Cancer Res 1988;48:5183–7. (10) Osborne CK. Mechanisms for tamoxifen resistance in breast cancer: possible role of tamoxifen metabolism. J Steroid Biochem Mol Biol 1993;47:83–9. 
+
+1270 ARTICLES 
+
+(11) Norris JD, Paige LA, Christensen DJ, Chang C-Y, Huacani MR, Fan D, et al. Peptide antagonists of the human estrogen receptor. Science 1999;285:744–6. (12) McGuire WL, Chamness GC, Fuqua SA. Estrogen receptor variants in clinical breast cancer. Mol Endocrinol 1991;5:1571–7. (13) Bilimoria MM, Assikis VJ, Muenzner HD, Wolf DM, Satyaswaroop PG, Jordan VC. An analysis of tamoxifen-stimulated carcinomas for mutations in the AF-2 region of the estrogen receptor. J Steroid Biochem Mol Biol 1996;58:479–88. (14) Dowsett M, Daffada A, Chan CM, Johnston SR. Oestrogen receptor mutants and variants in breast cancer. Eur J Cancer 1997;33:1177–83. (15) Osborne CK, Coronado E, Allred DC, Wiebe V, De Gregorio M. Acquired tamoxifen resistance: correlation with reduced breast tumor levels of tamoxifen and isomerization of trans-4-hydroxytamoxifen. J Natl Cancer Inst 1991;83:1477–82. (16) Ali S, Coombes RC. Endocrine-responsive breast cancer and strategies for combating resistance. Nat Rev Cancer 2002;2:101–12. (17) Brodie A, Lu Q, Liu Y, Long B. Aromatase inhibitors and their antitumor effects in model systems. Endocr Relat Cancer 1999;6:205–10. (18) Goss PE, Strasser K. Aromatase inhibitors in the treatment and prevention of breast cancer. J Clin Oncol 2001;19:881–94. (19) Hamilton A, Piccart M. The third generation non-steroidal aromatase inhibitors: a review of their clinical benefits in the second-line hormonal treatment of advanced breast cancer. Ann Oncol 1999;10:377–84. (20) Goss PE, Ingle JN, Martino S, Robert NJ, Muss HB, Piccart MJ, et al. A randomized trial of letrozole in postmenopausal women after 5 years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 2003; 349:1793–802. (21) Klein JP, Moeschberger ML. Survival analysis: techniques for censored and truncated data. 2nd ed. New York (NY): Springer-Verlag; 2003. (22) Grambsch P, Therneau T. Proportional hazards test and diagnostics based on weighted residuals. Biometrika 1994;8:515–26. (23) Lan G, DeMets D. Discrete sequential boundaries for clinical trials. Biometrika 1983;70:659–63. (24) Okamura H, Yamamoto N, Watanabe T, Katsumata N, Takashima S, Adachi I, et al. Psychological distress following first recurrence of disease in patients with breast cancer: prevalence and risk factors. Breast Cancer Res Treat 2000;61:131–7. (25) Northouse L, Mood D, Kershaw T, Schafenacker A, Mellon S, Walker J, et al. Quality of life of women with recurrent breast cancer and their family members. J Clin Oncol 2002;20:4050–64. (26) Bull A, Meyerowitz BE, Hart S, Mosconi P, Apolone G, Liberati A. Quality of life in women with recurrent breast cancer. Breast Cancer Res Treat 1999;54:47–57. (27) Okano Y, Okamura H, Watanabe T, Narabayashi M, Katsumata N, Ando M, et al. Mental adjustment to first recurrence and correlated risk factors in patients with breast cancer. Breast Cancer Res Treat 2001;67:255–62. (28) Bryant J, Wolmark N. Letrozole after tamoxifen for breast cancer—what is the price of success? N Engl J Med 2003;349:1855–7. (29) Coombes RC, Hall E, Gibson LJ, Paridaens R, Jassem J, Delozier T, et al. A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 2004;350:1081–92. (30) Sinha S, Kaseta J, Santner SJ, Demers LM, Bremmer WJ, Santen RJ. Effects of CGS 20267 on ovarian aromatase and gonadotropin levels in the rat. Breast Cancer Res Treat 1998;48:45–51. (31) Mitwally MF, Casper RF. Aromatase inhibition for ovarian stimulation: future avenues for infertility management. Curr Opin Obstet Gynecol 2002;14:255–63. (32) Baum M, Budzar AU, Cuzick J, Forbes J, Houghton JH, Klijn JG, et al. Anastrozole alone or in combination with tamoxifen versus tamoxifen alone for adjuvant treatment of postmenopausal women with early breast cancer: first results of the ATAC randomised trial. Lancet 2002;359:2131–9. (33) Garrone O, Ortu S, Occelli M, Mezi S, Principe E, Chetri MC, et al. Reversal of tamoxifen induced endometrial modifications by switching to letrozole: a prospective transvaginal ultrasound (TVUS) study in early breast cancer [abstract 276]. Proc Am Soc Clin Oncol 2003;22:69. (34) Duffy SR, Jackson TL, on behalf of the ATAC Trialists’ Group. The ATAC (‘Arimidex,’ tamoxifen, alone or in combination) Early Breast Cancer (EBC) trial in postmenopausal (PM) patients: endometrial sub-protocol results [abstract 158]. Proc Am Soc Clin Oncol 2002;21:40a. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+(35) Ma BBY, Oza A, Eisenhauer E, Stanimir G, Carey M, Chapman W, et al. The activity of letrozole in patients with advanced or recurrent endometrial cancer and correlation with biological markers—a study of the NCIC CTG. Int J Gynecol Cancer 2004;14:650–8. (36) Riggs BL, Khosla S, Melton LI. A unitary model for involutional osteoporosis: estrogen deficiency causes both type I and type II osteoporosis in postmenopausal women and contributes to bone loss in aging men. J Bone Miner Res 1998;13:763–73. (37) Howell A, on behalf of the ATAC Trialists’ Group. Effect of anastrozole on bone mineral density: 2-year results of the ‘Arimidex’ (anastrozole), tamoxifen, alone or in combination (ATAC) trial [abstract 129]. Br Cancer Res Treat 2003;82 Suppl 1:S27. (38) Hillner BE, Ingle JN, Chlebowski RT, Gralow J, Yee GC, Janjan NA, et al. American Society of Clinical Oncology 2003 update on the role of bisphosphonates and bone health issues in women with breast cancer. J Clin Oncol 2003;21:4042–57. (39) Stewart HJ, Forrest AP, Everington D, McDonald CC, Dewar JA, Hawkins RA, et al. Randomised comparison of 5 years of adjuvant tamoxifen with continuous therapy for operable breast cancer. Br J Cancer 1996;74:297–9. (40) Tormey DC, Gray R, Falkson HC. Postchemotherapy adjuvant tamoxifen therapy beyond 5 years in patients with lymph node-positive breast cancer. Eastern Cooperative Oncology Group. J Natl Cancer Inst 1996;88: 1828–33. (41) Delozier T, Switsers O, Genot JY, Ollivier JM, Hery M, Namer M, et al. Delayed adjuvant tamoxifen: ten-year results of a collaborative randomized controlled trial in early breast cancer (TAM-02 trial). Ann Oncol 2000;11:515–9. (42) Fabian C, Sternson L, Barnett M. Clinical pharmacology of tamoxifen in patients with breast cancer: comparison of traditional and loading dose schedules. Cancer Treat Rep 1980;64:765–73. (43) Fabian C, Sternson L, el-Serafi M, Cain L, Hearne E. Clinical pharmacology of tamoxifen in patients with breast cancer: correlation with clinical data. Cancer 1981;48:876–82. 
+
+(44) Winer EP, Hudis C, Burstein HJ, Wolff AC, Pritchard KI, Ingle JN, et al. American Society of Clinical Oncology technology assessment on the use of aromatase inhibitors as adjuvant therapy for postmenopausal women with hormone receptor-positive breast cancer: status report 2004. J Clin Oncol 2005;23:619–29. 
+
+NOTES Drs. Goss, Ingle, Piccart, Pritchard, and Norton report having received consulting fees from Novartis; Drs. Goss, Ingle, Pritchard, Cameron, and Piccart report having received lecture fees from Novartis; and Drs. Shepherd, Pritchard, Perez, and Pater report having received research support from Novartis. Drs. Goss, Pritchard, Cameron, and Ingle report having received honoraria from Pfizer Inc. Drs. Cameron and Ingle have received lecture fees and honoraria from AstraZeneca. This study was supported by the Canadian Cancer Society through National Cancer Institute of Canada grant 10362, grants from the National Cancer Institute in the United States (CA31946, CA21115, CA25224, CA38926, and CA32102), and Novartis Pharmaceuticals. We are indebted to the women who participated in this study; to the trial committee; to the investigators, clinical research associates, and pharmacists from the National Cancer Institute of Canada Clinical Trials Group (NCIC CTG), the Southwest Oncology Group, the Eastern Cooperative Oncology Group, the Cancer and Leukemia Group B, the North Central Cancer Treatment Group, the European Organization for Research and Treatment of Cancer, the International Breast Cancer Study Group, and centers in England including the Royal Marsden, St. George’s, and Withington Hospitals; to the members of the Data Safety Monitoring Committee; and to the central office staff of the NCIC CTG who contributed to the conduct of the trial. Funding to pay the Open Access publication charges for this article was provided by the Massachusetts General Hospital Cancer Center. Manuscript received January 26, 2005; revised June 21, 2005; accepted July 8, 2005. 
+
+Journal of the National Cancer Institute, Vol. 97, No. 17, September 7, 2005 
+
+ARTICLES 
+
+1271 
+
+ 

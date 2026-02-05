@@ -1,0 +1,1021 @@
+Articles 
+
+Subcutaneous versus intravenous administration of (neo)adjuvant trastuzumab in patients with HER2-positive, clinical stage I–III breast cancer (HannaH study): a phase 3, open-label, multicentre, randomised trial Gustavo Ismael, Roberto Hegg, Susanne Muehlbauer, Dominik Heinzmann, Bert Lum, Sung-Bae Kim, Tadeusz Pienkowski, Mikhail Lichinitser, Vladimir Semiglazov, Bohuslav Melichar, Christian Jackisch 
+
+Summary Background A subcutaneous formulation of trastuzumab has been developed, oﬀering potential improvements in patient convenience and resource use compared with the standard intravenous infusion of the drug. We compared the pharmacokinetic proﬁle, eﬃcacy, and safety of the subcutaneous and intravenous formulations in patients with HER2-positive early breast cancer. 
+
+Lancet Oncol 2012; 13: 869–78 
+
+Methods The HannaH study was a phase 3, randomised, international, open-label, trial in the (neo)adjuvant setting. Patients with HER2-positive, operable, locally advanced or inﬂammatory breast cancer were randomly assigned to eight cycles of neoadjuvant chemotherapy administered concurrently with trastuzumab every 3 weeks either intravenously (8 mg/kg loading dose, 6 mg/kg maintenance dose) or subcutaneously (ﬁxed dose of 600 mg); 1:1 ratio. Chemotherapy consisted of four cycles of docetaxel (75 mg/m²) followed by four cycles of ﬂuorouracil (500 mg/m²), epirubicin (75 mg/m²), and cyclophosphamide (500 mg/m²), every 3 weeks. After surgery, patients continued trastuzumab to complete 1 year of treatment. Coprimary endpoints were serum trough concentration (Ctrough) at predose cycle 8 before surgery (non-inferiority margin for the ratio between groups of 0·80) and pathological complete response (pCR; non-inferiority margin for the diﬀerence between groups of –12·5%), analysed in the per-protocol population. This study is registered with ClinicalTrials.gov, number NCT00950300. 
+
+See Comment page 850 
+
+Findings 299 patients were randomly assigned to receive intravenous trastuzumab and 297 to receive subcutaneous trastuzumab. The geometric mean presurgery Ctrough was 51·8 μg/mL (coeﬃcient of variation 52·5%) in the intravenous group and 69·0 μg/mL (55·8%) in the subcutaneous group. The geometric mean ratio of Ctrough subcutaneous to Ctrough intravenous was 1·33 (90% CI 1·24–1·44). 107 (40·7%) of 263 patients in the intravenous group and 118 (45·4%) of 260 in the subcutaneous group achieved a pCR. The diﬀerence between groups in pCR was 4·7% (95% CI –4·0 to 13·4). Thus subcutaneous trastuzumab was non-inferior to intravenous trastuzumab for both coprimary endpoints. The incidence of grade 3–5 adverse events was similar between groups. The most common of these adverse events were neutropenia (99 [33·2%] of 298 patients in the intravenous group vs 86 [29·0%] of 297 in the subcutaneous group), leucopenia (17 [5·7%] vs 12 [4·0%]), and febrile neutropenia (10 [3·4%] vs 17 [5·7%]). However, more patients had serious adverse events in the subcutaneous group (62 [21%] of 297 patients) than in the intravenous group (37 [12%] of 298); the diﬀerence was mainly attributable to infections and infestations (24 [8·1%] in the subcutaneous group vs 13 [4·4%] in the intravenous group). Four adverse events led to death (one in the intravenous group and three in the subcutaneous group), all of which occurred during the neoadjuvant phase. Of these, two—both in the subcutaneous group—were deemed to be treatment related. Interpretation Subcutaneous trastuzumab, administered over about 5 min, has a pharmacokinetic proﬁle and eﬃcacy non-inferior to standard intravenous administration, with a similar safety proﬁle to intravenous trastuzumab, and therefore oﬀers a valid treatment alternative. 
+
+Published Online August 9, 2012 http://dx.doi.org/10.1016/ S1470-2045(12)70329-7 
+
+Hospital Amaral Carvalho, Jaú, Brazil (G Ismael MD); Hospital Perola Byington and FMUSP São Paulo, Brazil (R Hegg MD); F Hoﬀmann-La Roche, Basel, Switzerland (S Muehlbauer PhD, D Heinzmann PhD); Genentech, San Francisco, CA, USA (B Lum PharmD); Asan Medical Center, Uni Ulsan College of Medicine, Seoul, South Korea (S-B Kim MD); Centrum Onkologii, Instytut im. Marii Sklodowskiej-Curie, Warsaw, Poland (T Pienkowski MD); Blokhin Cancer Research Center, Moscow, Russia (M Lichinitser MD); Federal State Establishment, St Petersburg, Russia (V Semiglazov MD); Lekarska fakulta Univerzity Palackeho a Fakultni nemocnice, Olomouc, Czech Republic (B Melichar MD); and Klinikum Oﬀenbach, Oﬀenbach, Germany (Prof C Jackisch MD) Correspondence to: Dr Gustavo Ismael, Hospital Amaral Carvalho, Rua Dona Silvéria, 150 Chácara Bráz Miraglia, Jaú, Brazil gismael@uol.com.br 
+
+Funding F Hoﬀmann-La Roche. 
+
+Introduction Treatment with trastuzumab represents the standard of care for HER2-positive breast cancer.1–4 This drug is administered every 3 weeks for 1 year in patients with early breast cancer, or until disease progression in patients with metastatic disease.5 A 90 min intravenous infusion is administered for the ﬁrst dose and if well www.thelancet.com/oncology Vol 13 September 2012 
+
+tolerated, delivered as a 30 min infusion for subsequent doses, with dosage adjusted according to bodyweight.5 A new subcutaneous trastuzumab formulation, containing a ﬁxed dose of 600 mg and recombinant human hyaluronidase PH-20 (rHuPH-20) as an excipient, administered every 3 weeks, has been developed as an alternative to the intravenous regimen. rHuPH-20 is 869 
+
+Articles 
+
+an enzyme that temporarily degrades interstitial hyaluronan in the subcutaneous space, thereby increasing the volume that can be administered subcutaneously and aiding delivery of trastuzumab to the circulation.6,7 Subcutaneous trastuzumab injection typically takes less than 5 min. Potential beneﬁts of such administration include improved patient convenience, better compliance, reduced pharmacy preparation times, and optimisation of medical resources.8 The ﬁxed dose of 600 mg subcutaneous trastuzumab given every 3 weeks was determined by pharmacokinetic modelling of data from a phase 1 study that investigated diﬀerent weight-based doses.9 Dose selection was made on the basis of several factors. First, trastuzumab is an antibody with a mechanism of action that is mediated through binding to the target receptor HER2. Full receptor saturation is expected to drive eﬃcacy; therefore, the subcutaneous ﬁxed dose should provide serum trough concentrations (Ctrough; the lowest serum concentration following a dose) at least as high as those obtained with the intravenous formulation given every 3 weeks to ensure similar eﬃcacy. Second, to omit a loading dose, Ctrough after the cycle-1 dose should exceed the trastuzumab therapeutic target threshold concentration of 20 μg/mL10 and be similar to the Ctrough achieved with the intravenous loading dose. Third, serum trastuzumab exposure, as measured by the area under the concentration–time curve (AUC), should be similar to the intravenous regimen given every 3 weeks. We investigated the comparability of the 600 mg subcutaneous trastuzumab ﬁxed dose and the registered intravenous formulation with respect to pharmacokinetics, eﬃcacy, and safety. 
+
+Methods Study design and patients The HannaH study (enHANced treatment with NeoAdjuvant Herceptin) was a phase 3, randomised, international, open-label, study in the (neo)adjuvant setting. 
+
+Adjuvant treatment 
+
+Randomisation 1:1 
+
+18 cycles/1 year 
+
+Surgery 
+
+Subcutaneous trastuzumab Patients with HER2-positive early breast cancer 
+
+Intravenous trastuzumab 
+
+Follow-up: 2 years 
+
+Neoadjuvant treatment 
+
+Coprimary endpoints: Ctrough and pCR Trastuzumab subcutaneous 600 mg (5 mL) given every 3 weeks Trastuzumab intravenous 8 mg/kg loading dose; 6 mg/kg given every 3 weeks Docetaxel 75 mg/m2 Fluorouracil (500 mg/m2), epirubicin (75 mg/m2), and cyclophosphamide (500 mg/m2) given every 3 weeks 
+
+Figure 1: Study design Stratiﬁcation factors: breast-cancer type (operable vs locally advanced vs inﬂammatory) and oestrogen-receptor status (positive vs negative vs unknown). Ctrough=serum trough concentration. pCR=pathological complete response. 
+
+870 
+
+Eligible patients were aged 18 years or older, had HER2positive (deﬁned as immunohistochemistry 3+ or in-situ hybridisation positive), newly diagnosed, non-metastatic, primary, invasive adenocarcinoma of the breast (clinical stage I to IIIC) with primary tumours 1 cm or larger by ultrasound or 2 cm or larger by palpation, a baseline Eastern Cooperative Oncology Group performance status of 0 to 1 and baseline left ventricular ejection fraction (LVEF) of 55% or more (by echocardiography or multiple gated acquisition). HER2 status was conﬁrmed centrally.11 The study was done in accordance with Good Clinical Practice guidelines and the Declaration of Helsinki. All patients provided written informed consent. Approval for the protocol was obtained from independent ethics committees at participating institutions. Enrolment has been completed and follow-up is ongoing. 
+
+Randomisation and masking Patients were randomly assigned (1:1 ratio) to receive either intravenous or subcutaneous trastuzumab via a central interactive voice recognition system with a randomised block design. Stratiﬁcation factors were disease stage (operable vs locally advanced vs inﬂammatory) and oestrogen receptor status (positive vs negative vs unknown). Neither patients nor investigators were masked to treatment assignment. 
+
+Procedures The treatment schedule is shown in ﬁgure 1. Intravenous trastuzumab was given every 3 weeks as per the manufacturer’s label (8 mg/kg loading dose, 6 mg/kg maintenance dose).5 Subcutaneous trastuzumab was given at a ﬁxed dose of 600 mg in a volume of 5 mL (including 10 000 U rHuPH-20) and was injected into the thigh with a hand-held syringe at a steady rate over about 5 min by the nursing team at alternating sites every 3 weeks. No loading dose was required for subcutaneous trastuzumab administration. Chemotherapy consisted of four cycles of docetaxel (75 mg/m²) every 3 weeks, followed by four cycles of ﬂuorouracil (500 mg/m²), epirubicin (75 mg/m²), and cyclophosphamide (500 mg/m²) every 3 weeks. Concurrent administration of anthracyclines and trastuzumab seemed acceptable on the basis of the low rate of cardiac safety concerns reported for low-dose anthracycline-trastuzumab combination therapy (up to 60 mg/m² doxorubicin and 90 mg/m² epirubicin) in patients with early breast cancer.12–15 Surgery was done according to local practice. In the adjuvant phase, radiotherapy and hormonal therapy were administered as per local practice. After surgery, patients continued to receive trastuzumab as assigned to completion of 1 year of treatment. Blood samples were taken on day 1 of cycles 1–13 for pharmacokinetic analyses. In cycles 1, 7, 9, and 12, more extensive pharmacokinetic blood sampling was done. Blood samples for analysis of antidrug antibodies were taken on day 1 of cycles 2, 5, 13, and 18, and at months 3, 6, www.thelancet.com/oncology Vol 13 September 2012 
+
+Articles 
+
+833 patients screened 
+
+237 excluded 31 consent withdraw 8 HER2 status not conﬁrmed locally 137 HER2 status not conﬁrmed centrally 5 baseline LVEF <55% 56 other reason 
+
+596 randomly assigned 
+
+299 intravenous trastuzumab +chemotherapy 
+
+20 prematurely withdrawn 2 safety reasons (1 adverse event, 1 death) 1 insuﬃcient therapeutic response 1 violation of inclusion criteria (presence bone metastasis) 2 refused treatment 2 failure to return 12 disease progression 
+
+297 subcutaneous trastuzumab +chemotherapy 
+
+1 did not receive study drug (violation of inclusion criteria [elevated AST]) 
+
+1 inoperable due to unresectable breast tumour 
+
+278 surgery 
+
+275 surgery 
+
+278 entered adjuvant treatment (intravenous trastuzumab) 
+
+274 entered adjuvant treatment (subcutaneous trastuzumab) 
+
+18 prematurely withdrawn 4 adverse events 2 insuﬃcient therapeutic response 1 other protocol violation 2 refused treatment 8 disease recurrence 1 other reason 
+
+8 no disease recurrence 
+
+23 prematurely withdrawn* 7 safety reasons (4 adverse events, 3 deaths) 1 violation of inclusion criteria (surgery before enrolment) 3 refused treatment 1 failure to return 11 disease progression 
+
+116 completed adjuvant treatment 
+
+17 prematurely withdrawn 10 adverse events 2 refused treatment 5 disease recurrence 
+
+144 ongoing adjuvant treatment 
+
+123 entered follow-up phase† 
+
+116 completed adjuvant treatment 
+
+141 ongoing adjuvant treatment 
+
+11 no disease recurrence† 
+
+125 entered follow-up phase 
+
+Figure 2: Trial proﬁle Patients who withdrew for any reason in the neoadjuvant phase, had disease recurrences in the adjuvant phase, or discontinued treatment during follow-up were followed up for survival only. AST=aspartate aminotransferase. LVEF=left ventricular ejection fraction. *Two patients were withdrawn during the neoadjuvant treatment phase due to disease progression after completion of 8 cycles of treatment but nevertheless underwent surgery and are included in the primary analyses. †Despite completion of the adjuvant phase, one patient in the intravenous trastuzumab group and two in the subcutaneous trastuzumab group had no data entered for follow-up at the time of data cut oﬀ, therefore patient numbers do not add up. 
+
+12, 18, and 24 after completion of treatment. Pathologial responses were assessed by the local pathologist. Review of pathological tumour assessment results was done by a masked medical reviewer. Clinical tumour response was assessed by ultrasound or by clinical examination at baseline, on day 1 of cycles 3, 5, and 7, and before surgery. Safety was assessed by physical examination, vital signs, and laboratory parameters every 3 months. Cardiac function was monitored by echocardiography or multiple gated acquisition scan and electrocardiogram every 3 months. Adverse events were reported and severity was graded according to the National Cancer Institute www.thelancet.com/oncology Vol 13 September 2012 
+
+Common Toxicity Scale (NCI CTC; version 3.0).16 Congestive heart failure was graded according to the New York Heart Association (NYHA) functional classiﬁcation. Reporting of serious adverse events followed International Conference on Harmonisation E2A guidelines:17 a serious adverse event was classed as any event that was either fatal, life-threatening, required inpatient hospital admission or extension of existing hospital admission, resulted in persistent or signiﬁcant disability or incapacity, was a congenital anomaly or birth defect, was medically signiﬁcant, or required intervention to prevent any of the outcomes listed above. 871 
+
+Articles 
+
+Intravenous trastuzumab (n=263) 
+
+Subcutaneous trastuzumab (n=260) 
+
+Age (years) 
+
+50·0 (24–77) 
+
+50·0 (25−81) 
+
+Body weight (kg) 
+
+66·0 (44·4−137·1) 
+
+68·0 (43·0−136·0) 
+
+Eastern Europe 
+
+105 (39·9%) 
+
+94 (36·2%) 
+
+Asia-Paciﬁc 
+
+54 (20·5%) 
+
+59 (22·7%) 
+
+Western Europe and Canada 
+
+51 (19·4%) 
+
+48 (18·5%) 
+
+South America 
+
+42 (16·0%) 
+
+46 (17·7%) 
+
+South Africa 
+
+11 (4·2%) 
+
+13 (5·0%) 
+
+White 
+
+181 (68·8%) 
+
+171 (65·8%) 
+
+Asian 
+
+56 (21·3%) 
+
+60 (23·1%) 
+
+Other 
+
+26 (9·9%) 
+
+29 (11·2%) 
+
+65·0% (55−82) 
+
+66·0% (53−83) 
+
+Operable‡ 
+
+149 (56·7%) 
+
+136 (52·3%) 
+
+Locally advanced§ 
+
+99 (37·6%) 
+
+105 (40·4%) 
+
+Inﬂammatory 
+
+15 (5·7%) 
+
+19 (7·3%) 
+
+Ductal 
+
+240 (91·3%) 
+
+240 (92·3%) 
+
+Lobular 
+
+17 (6·5%) 
+
+12 (4·6%) 
+
+Other 
+
+6 (2·3%) 
+
+8 (3·1%) 
+
+Negative 
+
+132 (50·2%) 
+
+125 (48·1%) 
+
+Positive 
+
+130 (49·4%) 
+
+135 (51·9%) 
+
+Unknown 
+
+1 (<1%) 
+
+Region 
+
+Ethnic origin 
+
+Left ventricular ejection fraction* Breast cancer type† 
+
+Breast cancer subtype 
+
+Oestrogen receptor status† 
+
+0 
+
+Histological grade 6 (2·3%) 
+
+12 (4·6%) 
+
+Moderately diﬀerentiated 
+
+Well diﬀerentiated 
+
+136 (51·7%) 
+
+142 (54·6%) 
+
+Poorly diﬀerentiated 
+
+120 (45·6%) 
+
+106 (40·8%) 
+
+Anaplastic 
+
+1 (<1%) 
+
+0 
+
+Clinical nodal status CN0 
+
+57 (21·7%) 
+
+64 (24·6%) 
+
+CN1 
+
+137 (52·1%) 
+
+115 (44·2%) 
+
+CN2 
+
+41 (15·6%) 
+
+47 (18·1%) 
+
+CN3 
+
+28 (10·6%) 
+
+27 (10·4%) 
+
+Clinical tumour status T1b 
+
+0 
+
+1 (<1%) 
+
+T1c 
+
+19 (7·2%) 
+
+17 (6·5%) 
+
+T2 
+
+119 (45·2%) 
+
+113 (43·5%) 
+
+T3 
+
+45 (17·1%) 
+
+47 (18·1%) 
+
+T4abc 
+
+65 (24·7%) 
+
+63 (24·2%) 
+
+T4d 
+
+15 (5·7%) 
+
+19 (7·3%) 
+
+Data are median (range) or number (%). *n=262 for the intravenous trastuzumab group and n=259 for subcutaneous trastuzumab group. †Stratiﬁcation factors. ‡Clinical stage T1b–T3, N0–N1. §Clinical stage T1b–T4c, N2–N3. 
+
+Table 1: Baseline patient demographic and tumour characteristics for the per-protocol eﬃcacy population 
+
+Patients were followed up until 24 months after the end of treatment or until disease recurrence (whichever occurred ﬁrst). 872 
+
+Ctrough recorded before surgery (predose cycle 8) and pathological complete response (pCR; deﬁned as the absence of invasive neoplastic cells in the breast; remaining ductal carcinoma in situ was accepted) were coprimary endpoints. The presurgery trastuzumab serum Ctrough was chosen because at this timepoint it would be expected to reﬂect the steady-state drug concentration. Although no formal surrogacy has been established for pCR, it was previously shown to correlate with long-term outcome.12,13,18 Secondary endpoints included the pharmacokinetic proﬁle, total pCR (tpCR; deﬁned as the absence of invasive neoplastic cells in the breast and ipsilateral lymph nodes), the proportion of patients who achieved an overall response (deﬁned as clinical complete or partial tumour response), time to response (deﬁned as the time from ﬁrst drug administration to the date of the ﬁrst clinical complete or partial response), event-free survival (deﬁned as time from randomisation to disease recurrence or progression [local, regional, distant, or contralateral], or death due to any cause), overall survival, safety and tolerability, and immunogenicity [the presence of antitrastuzumab and anti-rHuPH-20–antidrug antibodies]). 
+
+Statistical analyses Primary pharmacokinetic and eﬃcacy analyses were done in the per-protocol populations. The primary analyses were done when all patients had completed surgery (unless prematurely withdrawn) and at least 100 patients in each study group had completed 1 year of treatment. Sensitivity analyses for the primary eﬃcacy endpoint were done in the intention-to-treat population. The safety population included all patients who had received one dose or more of trastuzumab, and includes information from both neoadjuvant and adjuvant phases. For the coprimary pharmacokinetic endpoint, noninferiority was established if the lower limit of the twosided 90% CI of the geometric mean ratio Ctrough subcutaneous/Ctrough intravenous was 0·8 or more.19,20 A sample size of 130 patients per group was needed to reach 80% power when assuming an interpatient coeﬃcient of variation of 60% and a diﬀerence in geometric means of 5%. For the coprimary eﬃcacy endpoint, non-inferiority was established if the lower limit of the two-sided 95% CI for the diﬀerence in pCR rate (subcutaneous minus intravenous) was above –12·5%.19–21 Assuming 40% or more of patients in both groups would achieve a pCR, 552 patients were necessary to conclude non-inferiority in terms of pCR with a power of 80%, allowing for a 10% drop-out rate in the patient population. In view of the much smaller sample size requirement for the pharmacokinetic endpoint, the sample size was set to 552 patients. A multiple logistic regression analysis of pCR, adjusting for stratiﬁcation factors and selected baseline characteristics (oestrogen receptor status, breast-cancer type, race, weight, age, breast-cancer subtype, focality, www.thelancet.com/oncology Vol 13 September 2012 
+
+Articles 
+
+and histological grade), was done to investigate if the results were still consistent with the unadjusted result for the primary eﬃcacy endpoint. Analysis of pharmacokinetic data was done with standard non-compartmental pharmacokinetic methods and statistical analyses were done with SAS (version 8.2). This study is registered with ClinicalTrials.gov, number NCT00950300. 
+
+Role of the funding source The sponsor was involved in study design and data interpretation. Employees of the sponsor gathered and managed data, and undertook statistical analyses. The principal investigators (GI and CJ) had full access to all study data and had ﬁnal responsibility for the decision to submit for publication. 
+
+Results 596 patients were enrolled into the study from Oct 19, 2009, to Dec 1, 2010 (ﬁgure 2) at 81 centres (Europe, 47 centres; Asia, 12; South America and Central America, 17; North America, one; and Africa, four). At the time of the primary analysis, 116 patients in each group had completed full treatment, and no patient had completed the follow-up phase. The median duration of follow-up was 12·2 (range 1·0–20·8) months in the intravenous group and 12·4 (0·3–20·4) months in the subcutaneous group. Baseline patient demographic and tumour characteristics were well balanced (table 1). The baseline characteristics of the per-protocol and intention-to-treat populations were much the same (appendix). The median trastuzumab dose intensity was 135·9 mg/week (range 87·0−234·6) in the intravenous group and 195·9 mg/week (152·2−211·9) in the subcutaneous group. The relative dose intensity was above 96% in both treatment groups. The median relative dose intensity for all chemotherapy agents was 99% in both treatment groups (appendix). 205 (68·8%) of 298 patients in the intravenous group and 211 (71·0%) of 297 patients received locoregional radiotherapy after surgery. Hormonal therapy was initiated in hormone receptor-positive patients after primary surgery. Tamoxifen was the most frequently used hormonal treatment, which was given to 76 (25·5%) of 298 patients in the intravenous group and 90 (30·3%) of 297 in the subcutaneous group. In the intravenous group, 20 (6·7%) of 298 patients were treated with anastrozole and 21 (7·0%) were treated with letrozole. In the subcutaneous group 17 (5·7%) of 297 patients were treated with anastrozole and 13 (4·4%) were treated with letrozole. Among the gonadotropin and analogues class, goserelin was the drug given most often: eight (2·7%) of 298 patients in the intravenous trastuzumab group and nine (3·0%) of 297 in the subcutaneous trastuzumab group received this drug. 235 patients in the intravenous group and 234 in the subcutaneous group were included in the per-protocol www.thelancet.com/oncology Vol 13 September 2012 
+
+Subcutaneous trastuzumab (n=234) 
+
+Intravenous trastuzumab (n=235) Primary pharmacokenetic endpoint 
+
+Ctrough predose cycle 8 Mean (μg/mL; SD) 
+
+57·8 (30·3) 
+
+78·7 (43·9) 
+
+Geometric mean (μg/mL; percentage coeﬃcient of variation)* 
+
+51·8 (52·5%) 
+
+69·0 (55·8%) 
+
+Secondary pharmacokinetic endpoints 
+
+Patients >20 μg/mL at predose cycle 8 
+
+232 (98·7%) 
+
+227 (97·0%) 
+
+Mean (SD) Cmax at cycle 7 (μg/mL)† 
+
+221 (118·0) 
+
+149 (64·8) 
+
+Mean (SD) Tmax at cycle 7 (days)‡ 
+
+0·05 (0·04) 
+
+4·12 (2·91) 
+
+Mean (SD) AUC0-21 days (μg/mL×day) 
+
+2056 (598) 
+
+2268 (875) 
+
+Geometric mean AUC0-21 days (μg/mL×day; percentage coeﬃcient of variation)§ 
+
+1978 (29·1%) 
+
+2108 (38·5%) 
+
+AUC0_21 days=area under the serum concentration–time curve from 0-21 days; Cmax=maximum serum concentration. Tmax=time to Cmax. *Geometric mean ratio 1·33 (90% CI 1·24–1·44). †Geometric mean ratio 0·67 (90% CI 0·63–0·71). ‡n=233 in subcutaneous trastuzumab group. §Geometric mean ratio 1·07 (90% CI 1·01–1·12). 
+
+Table 2: Trastuzumab pharmacokinetic parameters before surgery in the per-protocol pharmacokinetic population 
+
+Intravenous trastuzumab 
+
+Subcutaneous trastuzumab 
+
+Pathological complete response 
+
+107/263 (40·7%, 34·7–46·9) 
+
+118/260 (45·4%, 39·2–51·7) 
+
+Total pathological complete response 
+
+90/263 (34·2%, 28·5–40·3) 
+
+102/260 (39·2%, 33·3–45·5) 
+
+Overall response* 
+
+231/260 (88·8%, 84·4–92·4) 
+
+225/258 (87·2%, 82·5–91·0) 
+
+Complete response 
+
+55/260 (21·2%, 16·4–26·6) 
+
+56/258 (21·7%, 16·8–27·2) 
+
+Partial response 
+
+176/260 (67·7%, 61·6–73·3) 
+
+169/258 (65·5%, 59·4–71·3) 
+
+Stable disease 
+
+10/260 (3·8%, 1·9–7·0) 
+
+16/258 (6·2%, 3·6–9·9) 
+
+Progressive disease 
+
+5/260 (1·9%, 0·6–4·4) 
+
+6/258 (2·3%, 0·9–5·0) 
+
+Missing, no response assessment 
+
+14/260 (5·4%) 
+
+11/258 (4·3%) 
+
+Median time to response (weeks)† 
+
+6·0 (3 to 25) 
+
+6·0 (2 to 28) 
+
+Data are n/N (%, 95% CI), n/N (%), or median (range). *Only patients with measurable disease at baseline were included. †n=231 in the intravenous group and n=225 in the subcutaneous group. 
+
+Table 3: Summary of eﬃcacy ﬁndings in the per-protocol eﬃcacy population 
+
+population for pharmacokinetic analyses. Subcutaneous trastuzumab was non-inferior to intravenous trastuzumab in terms of Ctrough before surgery: the geometric mean ratio was 1·33 (90% CI 1·24–1·44), with the lower limit of the two-sided 90% CI being greater than the prespeciﬁed non-inferiority margin (table 2). Variability in Ctrough, as measured by the coeﬃcient of variation, was similar in the intravenous and subcutaneous groups (table 2). Almost all patients achieved presurgery Ctrough concentrations exceeding the target therapeutic level of 20 μg/mL (table 2).9 The geometric mean of the maximum serum concentration (Cmax) before surgery (cycle 7) was higher in the intravenous group than in the subcutaneous group (geometric mean ratio 0·67, 90% CI 0·63–0·71 ; table 2). Exposure to trastuzumab, shown by values for the geometric mean area under the serum−concentration time curve from 0−21 days (AUC0–21 days), was similar in each group (table 2; geometric mean ratio 1·07, 90% CI 1·01–1·12). 
+
+See Online for appendix 
+
+873 
+
+Articles 
+
+Intravenous trastuzumab (n=263) Subcutaneous trastuzumab (n=260) 
+
+60 
+
+Patients achieving pCR (%) 
+
+50 
+
+40 
+
+30 
+
+20 
+
+10 40·7 
+
+45·4 
+
+34·2 
+
+39·2 
+
+0 pCR 
+
+tpCR 
+
+Figure 3: Proportion of patients who achieved a pathological complete response Responses assessed in the eﬃcacy per-protocol population. pCR=pathological complete response (deﬁned as the absence of invasive neoplastic cells in the breast). tpCR=total pathological complete response (deﬁned as the absence of invasive neoplastic cells in the breast and lymph nodes). 
+
+Intravenous trastuzumab (n=298) 
+
+Subcutaneous trastuzumab (n=297) 
+
+Patients with ≥1 adverse event (any grade) 
+
+280 (93·9%) 
+
+289 (97·3%) 
+
+Patients with ≥1 severe adverse event (grade 3–5) 
+
+155 (52·0%) 
+
+154 (51·9%) 
+
+Patients with ≥1 serious adverse event 
+
+37 (12·4%) 
+
+62 (20·9%) 
+
+Patients with adverse event leading to death 
+
+1 (<1%) 
+
+3 (1·0%) 
+
+Data are number (%). 
+
+Table 4: Safety overview (safety population) 
+
+Intravenous trastuzumab 
+
+Subcutaneous trastuzumab 
+
+Adverse events 
+
+Serious adverse events 
+
+Adverse events 
+
+Serious adverse events 
+
+Total 
+
+4171 
+
+50 (1·2%) 
+
+4178 
+
+90 (2·2%) 
+
+Grade 1 
+
+2669 
+
+3 (0·1%) 
+
+2732 
+
+3 (0·1%) 
+
+Grade 2 
+
+1125 
+
+6 (0·5%) 
+
+1111 
+
+17 (1·5%) 
+
+Grade 3 
+
+273 
+
+21 (7·7%) 
+
+254 
+
+46 (18·1%) 
+
+Grade 4 
+
+81 
+
+19 (23·5%) 
+
+73 
+
+21 (28·8%) 
+
+Grade 5 
+
+1 
+
+1 (100·0%) 
+
+3 
+
+3 (100·0%) 
+
+Missing 
+
+22 
+
+0 (<0·1%) 
+
+5 
+
+0 (<0·1%) 
+
+Grade 1–2 
+
+3794 
+
+9 (0·2%) 
+
+3843 
+
+20 (0·5%) 
+
+Grade ≥3 
+
+377 
+
+41 (10·9%) 
+
+335 
+
+70 (20·9%) 
+
+Data are number or number (% of adverse events). All events were counted irrespective of multiple occurrences in a patient. 
+
+Table 5: Adverse events and serious adverse events by severity 
+
+After the ﬁrst dose at cycle 1, similar trough serum trastuzumab concentrations were recorded, with a mean of 34·5 μg/mL (SD 16·3) in the intravenous group and 32·7 μg/mL (18·5) in the subcutaneous group. Before 874 
+
+the cycle 3 dose, the serum trastuzumab concentrations in the intravenous (45·0 μg/mL [SD 42·1]) and subcutaneous (48·4 μg/mL [23·4]) groups were also similar. From the predose cycle 3 timepoint onwards, mean serum trastuzumab Ctrough in the subcutaneous group was higher than that in the intravenous group, which increased to a steady state by cycle 8. 263 patients in the intravenous group and 260 in the subcutaneous group were included in the per-protocol analyses for eﬃcacy. Subcutaneous trastuzumab was non-inferior to intravenous trastuzumab in terms of the proportion of patients who achieved a pCR: 118 (45·4%) of 260 patients in the subcutaneous group and 107 (40·7%) of 263 in the intravenous group achieved a pCR (table 3, ﬁgure 3). The diﬀerence between groups (subcutaneous minus intravenous) was 4·7% (95% CI –4·0 to 13·4); the lower limit of the two-sided 95% CI for the diﬀerence was greater than the prespeciﬁed non-inferiority margin (–12·5%; table 3, ﬁgure 3). The proportion of patients who achieved a pCR in the intention-to-treat population was consistent with that obtained in the per-protocol population: a pCR was achieved by 124 (42·2%, 95% CI 36·5–48·0) of 294 patients in the subcutaneous group and 111 (37·4%, 31·9–43·1) of 297 in the intravenous group. Similar results were seen for tpCR (including response in the axilla; diﬀerence between groups 5·0%, 95% CI –3·5 to 13·5; table 3, ﬁgure 3). Multiple logistic regression analysis of pCR, adjusting for stratiﬁcation factors and selected baseline characteristics, was in line with the corresponding unadjusted results, and no interaction between bodyweight and pCR was detected. The proportion of patients who achieved an overall response was much the same in the intravenous and subcutaneous groups and the median time to response was much the same in both treatment groups (table 3). Eﬃcacy results in the intention-to-treat population were consistent with those obtained in the per-protocol population (data not shown). Event-free and overallsurvival data were immature at the time of the analysis. The number of patients experiencing an adverse event of any grade was comparable between the intravenous trastuzumab and subcutaneous trastuzumab groups (table 4). The most common adverse events of any grade (>25% in either group) were alopecia (62·8% [187 of 298] in the intravenous group vs 62·6% [186 of 297] in the subcutaneous group), nausea (48·7% [145 of 298] vs 48·5% [144 of 297]), neutropenia (46·3% [138 of 298] vs 44·1% [131 of 297]), diarrhoea (36·6% [109 of 298] vs 33·7% [100 of 297]), asthenia (25·2% [75 of 298] vs 24·6% [73 of 297]), and fatigue (26·5% [79 of 298] vs 22·6% [67 of 297]). The same proportion of patients (52%) in each group had a severe adverse event (tables 4, 5). There were numerically more grade 3 and grade 4 adverse events in the intravenous group than in the subcutaneous group (table 5). The pattern of severe adverse events was comparable between study groups www.thelancet.com/oncology Vol 13 September 2012 
+
+Articles 
+
+(table 6). Most grade 3 or worse adverse events were haematological toxic eﬀects, followed by gastrointestinal disorders (table 6). The most common severe adverse events were neutropenia, leucopenia, and febrile neutropenia (table 6). The incidence of serious adverse events was lower in the intravenous group than in the subcutaneous group (table 4). This diﬀerence was partly attributable to infections and infestations; the remaining serious adverse events were spread across various organ system classes (table 7). The most common serious adverse events were febrile neutropenia and neutropenia (table 7). New or extended hospital admissions were by far the most common reasons to report a serious adverse event (appendix). The increased incidence of infections was not accompanied by an imbalance in haematological laboratory parameters. No infection was associated with a subcutaneous trastuzumab injection site. Overall, the type of serious adverse event reported was in line with what would be expected of the investigated trial population and study treatment. Four adverse events led to death (one [<1%] of 298 in the intravenous group vs three [1%] of 297 in the subcutaneous group), all of which occurred during the neoadjuvant phase of the study. In the intravenous group, a 66-year-old obese patient with a history of pulmonary ﬁbrosis experienced fatal acute pneumonia. In the subcutaneous group, one 59-year-old obese patient with a history of hypertension and hyperuricaemia died of a myocardial infarction 8 days after the ﬁrst study drug; one 71-year-old overweight patient with hypertension and diabetes experienced sudden death; and one 77-year-old patient with prior grade 2 and 3 anaemia developed grade 4 febrile neutropenia and thrombocytopenia, leading to fatal septic shock. Two of the deaths in the subcutaneous group—those from septic shock and myocardial infarction—were judged to be treatment related by the investigator. A systematic analysis including assessment of potentially confounding baseline factors, pharmacokinetic variables, and medical review of all cases, did not show any speciﬁc clinical explanation for the imbalance in reporting of serious adverse events. A multiple logistic regression analysis (including interactions between treatment, weight, and AUC) did not show a correlation between serum trastuzumab exposure and bodyweight on the rates of serious adverse events. However, a diﬀerence in reporting pattern depending on severity between the study groups was identiﬁed. While the proportion of grade 3 adverse events was similar in both groups the relative percentage of those classiﬁed as serious adverse events was 7·7% (21 of 273) for intravenous trastuzumab, but 18·1% (46 of 254) for subcutaneous trastuzumab (table 5). A similar ﬁnding was made for grade 2 adverse events, of which 0·5% (six of 1125) were classed as serious adverse events in the intravenous group versus 1·5% (17 of 1111) in the subcutaneous group (table 5). www.thelancet.com/oncology Vol 13 September 2012 
+
+No cases of symptomatic congestive heart failure NYHA class III or IV were reported. Two patients in the subcutaneous group had NYHA class II congestive heart failure compared with none in the intravenous group. Both patients were obese with a history of hypertension. Six (2·1%) of 298 patients in the intravenous group and seven (2·4%) of 297 in the subcutaneous group had a signiﬁcant LVEF drop (decrease ≥10 percentage points from baseline to <50%). 33 (11·1%) of 297 patients in the subcutaneous group had injection-site reactions, with injection-site pain as the most common adverse event. Apart from two grade 2 events, all adverse events were of grade 1 intensity. Using a conservative approach, which included all patients who were antidrug-antibody-positive after Intravenous trastuzumab (n=298) 
+
+Subcutaneous trastuzumab (n=297) 
+
+All body systems Total patients with ≥1 adverse event 
+
+155 (52·0%) 
+
+154 (51·9%) 
+
+Total number of adverse events 
+
+266 
+
+242 
+
+Haematological toxic eﬀects 
+
+110 (36·9%) 
+
+105 (35·4%) 
+
+Neutropenia 
+
+99 (33·2%) 
+
+86 (29·0%) 
+
+Leucopenia 
+
+17 (5·7%) 
+
+12 (4·0%) 
+
+Febrile neutropenia 
+
+10 (3·4%) 
+
+17 (5·7%) 
+
+Granulocytopenia 
+
+6 (2·0%) 
+
+4 (1·3%) 
+
+Anaemia 
+
+3 (1·0%) 
+
+1 (<1%) 
+
+19 (6·4%) 
+
+17 (5·7%) 
+
+Gastrointestinal disorders Diarrhoea 
+
+8 (2·7%) 
+
+8 (2·7%) 
+
+Nausea 
+
+4 (1·3%) 
+
+4 (1·3%) 
+
+Vomiting 
+
+6 (2·0%) 
+
+2 (<1%) 
+
+Stomatitis 
+
+1 (<1%) 
+
+3 (1·0%) 
+
+15 (5·0%) 
+
+20 (6·7%) 
+
+Infections and infestations Cellulitis 
+
+0 
+
+3 (1·0%) 
+
+12 (4·0%) 
+
+12 (4·0%) 
+
+Menstruation irregular 
+
+7 (2·3%) 
+
+5 (1·7%) 
+
+Amenorrhoea 
+
+4 (1·3%) 
+
+3 (1·0%) 
+
+11 (3·7%) 
+
+8 (2·7%) 
+
+Reproductive system and breast disorders 
+
+General disorders and administration site conditions Fatigue 
+
+5 (1·7%) 
+
+1 (<1%) 
+
+Asthenia 
+
+4 (1·3%) 
+
+1 (<1%) 
+
+Skin and subcutaneous tissue disorders 
+
+12 (4·0%) 
+
+7 (2·4%) 
+
+6 (2·0%) 
+
+4 (1·3%) 
+
+Vascular disorders 
+
+6 (2·0%) 
+
+11 (3·7%) 
+
+Hypertension 
+
+1 (<1%) 
+
+5 (1·7%) 
+
+Investigations 
+
+7 (2·3%) 
+
+5 (1·7%) 
+
+3 (1·0%) 
+
+2 (<1%) 
+
+Alopecia 
+
+Alanine aminotransferase increased Aspartate aminotransferase increased Musculoskeletal and connective tissue disorders 
+
+3 (1·0%) 
+
+0 
+
+6 (2·0%) 
+
+6 (2·0%) 
+
+Back pain 
+
+3 (1·0%) 
+
+1 (<1%) 
+
+Bone pain 
+
+0 
+
+3 (1·0%) 
+
+Metabolism and nutrition disorders Hyperglycaemia 
+
+8 (2·7%) 
+
+3 (1·0%) 
+
+3 (1·0%) 
+
+2 (<1%) 
+
+Data number (%). Multiple occurrences of the same adverse event in an individual were counted only once. 
+
+Table 6: Summary of severe (≥grade 3) adverse events with an incidence of ≥1% 
+
+875 
+
+Articles 
+
+Intravenous trastuzumab (n=298) 
+
+Subcutaneous trastuzumab (n=297) 
+
+Patients with serious adverse events by system organ class Haematological toxicity 
+
+19 (6·4%) 
+
+21 (7·1%) 
+
+Infections and infestations 
+
+13 (4·4%) 
+
+24 (8·1%) 
+
+Injury, poisoning, and procedural complications 
+
+4 (1·3%) 
+
+3 (1·0%) 
+
+Cardiac disorders 
+
+2 (<1%) 
+
+4 (1·3%) 
+
+Gastrointestinal disorders 
+
+4 (1·3%) 
+
+2 (0·7%) 
+
+General disorders and administration site disorders 
+
+0 
+
+4 (1·3%) 
+
+Respiratory, thoracic, and mediastinal disorders 
+
+0 
+
+4 (1·3%) 
+
+Vascular disorders 
+
+1 (<1%) 
+
+3 (1·0%) 
+
+Nervous system disorders 
+
+0 
+
+3 (1·0%) 
+
+Serious adverse events occurring in ≥2 patients Febrile neutropenia 
+
+10 (3·4%) 
+
+13 (4·4%) 
+
+Neutropenia 
+
+9 (3·0%) 
+
+7 (2·4%) 
+
+Bronchopneumonia 
+
+2 (<1%) 
+
+1 (<1%) 
+
+Pneumonia 
+
+2 (<1%) 
+
+1 (<1%) 
+
+Tonsillitis 
+
+0 
+
+3 (1·0%) 
+
+Cellulitis 
+
+0 
+
+2 (<1%) 
+
+Postoperative wound infection 
+
+0 
+
+2 (<1%) 
+
+Pleural eﬀusion 
+
+0 
+
+2 (<1%) 
+
+Pulmonary embolism 
+
+0 
+
+2 (<1%) 
+
+Table 7: Overview of serious adverse events 
+
+baseline assessment irrespective of their antidrugantibody result at baseline, ten (3·4%) of 295 patients in the intravenous group and 20 (6·8%) of 295 in the subcutaneous group had anti-trastuzumab antibodies. 34 (11·5%) of 295 patients in the subcutaneous group had anti-rHuPH-20 antibodies. No neutralising antibodies to either protein were detected during treatment. The presence of antidrug antibodies to trastuzumab or rHuPH-20 did not have an eﬀect on Ctrough predose cycle 8, pCR, or infusion-related reactions (data not shown). 
+
+Discussion Our study shows that, in terms of pharmacokinetics and pCR, subcutaneous trastuzumab given at a ﬁxed dose of 600 mg every 3 weeks is non-inferior to the licensed bodyweight-based intravenous trastuzumab regimen given every 3 weeks (panel). The trastuzumab Ctrough concentration before surgery was about 30% higher in the subcutaneous groups. Most patients in the subcutaneous group showed Ctrough concentrations above the therapeutic target threshold of 20 μg/mL, suggesting that the ﬁxed dose was appropriate and should not be lower to ensure adequate receptor saturation and tumour exposure. Despite the higher trastuzumab Ctrough in the subcutaneous group, overall exposure on the basis of AUC was similar between both formulations owing to the lower Cmax seen in the subcutaneous group. Both AUC and Cmax can be classed as pharmacokinetic parameters relevant for the assessment of drug safety.22 With similar AUC and 876 
+
+lower Cmax, no safety issues would be expected for the 600 mg ﬁxed subcutaneous dose from a pharmacokinetic perspective. The maximum tolerable dose has not been identiﬁed for intravenous trastuzumab, despite the use of much higher doses in phase 1 trials. The proportion of patients who achieved a pCR in the subcutaneous group was non-inferior to that in the intravenous group. The median time to response was 6 weeks in both treatment groups (ie, after two treatment cycles), suggesting that the lack of a loading dose in the subcutaneous regimen does not compromise eﬃcacy. Using the most frequently published pCR deﬁnition (ypT0/is, ypN0), the pCR results in our study are consistent with previous studies investigating trastuzumab given concurrently with taxanes and anthracyclines in the neoadjuvant setting (table 3). The Geparquattro13 and Geparquinto23 trials that enrolled patients with a similar spectrum of disease showed pCR rates of 40% and 45%, respectively. In our study, pathological response was assessed by the local pathologist after review of pathological tumour assessment results by a masked medical reviewer. This approach is in line with the practice in other neoadjuvant trials.12,13,23 Central review of pathology specimens has not become a standard procedure in this setting because of the lack of internationally accepted guidelines for the pathological workup and because of diﬃculties in accurately assessing specimens centrally after processing by the local pathologist. Although pCR has been associated with long-term clinical beneﬁt, there has yet to be a formal validation of its surrogacy. Patients in our study will continue to be followed up to substantiate eﬃcacy results. The protocol speciﬁed follow-up of 2 years might not be enough to provide mature event-free survival and overall survival data because of the good prognosis of the enrolled patient population. An extension of the study follow-up period is currently under discussion. The median relative dose intensity of trastuzumab and chemotherapy was high (above 96%) and similar between intravenous and subcutaneous groups, suggesting good tolerability of subcutaneous trastuzumab. Taking into account the number of patients experiencing an adverse event, the overall number of adverse events, the severity distribution and the type of adverse events, the safety proﬁle of subcutaneous trastuzumab was comparable with that of intravenous trastuzumab. We noted an imbalance in reporting of serious adverse events but this was not reﬂected in the incidence of severe adverse events (NCI CTC, version 3.0), which was the same in both study groups (table 4). Despite a systematic analysis, no underlying clinical explanation for this diﬀerence could be identiﬁed. Serum trastuzumab exposure and bodyweight were not correlated with the recorded imbalance. The fact that the reporting of serious adverse events was diﬀerent between the study groups (ie, more grade 2 and grade 3 events were reported as serious adverse events in the www.thelancet.com/oncology Vol 13 September 2012 
+
+Articles 
+
+Panel: Research in context Systematic review The standard route of administration of trastuzumab is by intravenous injection. When recombinant human hyaluronidase (rHuPH-20) became available, development of a subcutaneous formulation of trastuzumab was possible allowing for administration of larger volumes. At the time of study design, results from a phase 1 study were available, which showed that subcutaneous trastuzumab could be given in about 5 min, and could lead to similar systemic exposure and was well tolerated.9 On the basis of pharmacokinetic data from this study, the ﬁxed dose of 600 mg subcutaneous trastuzumab was developed. Interpretation Subcutaneous trastuzumab could provide a valid treatment alternative to the licensed intravenous regimen. Subcutaneous treatment could also provide substantial time-saving for patients, physicians, and nursing staﬀ. 
+
+subcutaneous group compared with the intravenous group) suggests that investigators might have adopted a more conservative attitude towards patients receiving subcutaneous trastuzumab in this open-label trial, resulting in diﬀerences in clinical management (ie, a higher rate of hospital admission). The cardiac safety proﬁle was comparable between both study groups. No severe symptomatic congestive heart failure was reported. Two patients in the subcutaneous trastuzumab group developed congestive heart failure NYHA class II, and both had pre-existing risk factors: obesity and hypertension. The rate of symptomatic congestive heart failure was in line with previous reports for patients with early operable or locally advanced HER2positive breast cancer treated with trastuzumab concurrently with an anthracycline.12–14,22 None of the fatal adverse events seemed to be causally related to trastuzumab per se. Causality assessment of the patient with pneumonia in the intravenous group and the patient with septic shock in the subcutaneous group was confounded by underlying pulmonary ﬁbrosis and febrile neutropenia, respectively. The other two fatalities (both in the subcutaneous group) were attributed to myocardial infarction and sudden death, and both occurred in patients with recognised cardiovascular concurrent risk factors associated with trastuzumab (aged >50 years, receiving antihypertensive therapy, obese or borderline obese). We detected antidrug antibodies to trastuzumab and rHuPH-20, both without an eﬀect on pharmacokinetics, eﬃcacy, or safety. In view of the limited follow-up, more mature data will be needed to fully assess the immunogenic proﬁle of the subcutaneous versus the intravenous formulation. In conclusion, the HannaH trial showed that a ﬁxed dose of 600 mg of subcutaneous trastuzumab without the need of a loading dose is non-inferior to the www.thelancet.com/oncology Vol 13 September 2012 
+
+intravenous formulation. Overall, the safety proﬁles of the intravenous and subcutaneous formulations were comparable, and they were consistent with the known safety proﬁle of intravenous trastuzumab. The imbalance in reporting of serious adverse events might have been related to diﬀerences in investigator behaviour and interpretation of the reported adverse events. The risk– beneﬁt ratio of subcutaneous trastuzumab is much the same as that for intravenous trastuzumab. Subcutaneous trastuzumab at a ﬁxed dose of 600 mg administered every 3 weeks in about 5 min could thus provide a valid alternative to the intravenous regimen given every 3 weeks for HER2-positive breast cancer. The shortened duration of administration with subcutaneous trastuzumab compared with intravenous delivery suggests the potential for substantial time-saving for patients, physicians, and nursing staﬀ. Investigation of patient convenience, patient preference for the route of administration, and medical resource use is being assessed in the PrefHer trial (NCT01344863).24 Contributors All authors had reviewed the data analyses, contributed to data interpretation, contributed to the writing of the report, and approved the ﬁnal version of the submitted report. DH, CJ, BL, and SM contributed to the study design. GI, RH, S-BK, TP, ML, VS, BM, and CJ enrolled patients. DH undertook statistical analysis. DH, BL, and SM contributed to data collation and generation of tables and ﬁgures. A full list of study investigators can be found in the appendix. Conﬂicts of interest GI is participating in clinical trials funded by F Hoﬀmann-La Roche and has received honoraria from F Hoﬀmann-La Roche for participation in conferences. TP is participating in clinical research sponsored by F Hoﬀmann-La Roche and has received travel grants from F HoﬀmannLa Roche. BM has received speakers’ honoraria and honoraria from F Hoﬀman-La Roche for participation in advisory board meetings. CJ has received speakers honoraria from F Hoﬀmann-La Roche. BL is an employee of Genentech and a stockholder in Roche Holding AG. SM and DH are employees of F Hoﬀmann-La Roche and have stock ownership in F Hoﬀmann-La Roche. RH, SK, ML, and VS declare that they have no conﬂicts of interest. Acknowledgments We thank the patients, their families, the nurses, and the investigators who participated in this study. Support for third-party writing assistance for this manuscript, by Glenn Martin, was provided by F Hoﬀmann-La Roche. This work was supported by F Hoﬀmann-La Roche. References 1 Aebi S, Davidson T, Gruber G, Cardoso F, and the ESMO Guidelines Working Group. Primary breast cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol 2011; 22 (suppl 6): 12–24. 2 Cardoso F, Fallowﬁeld L, Costa A, Castiglione M, Senkus E, and the ESMO Guidelines Working Group. Locally recurrent or metastatic breast cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol 2011; 22 (suppl 6): 25–30. 3 Goldhirsch A, Wood WC, Coates AS, Gelber RD, Thürlimann B, Senn HJ, and the Panel members. Strategies for subtypes—dealing with the diversity of breast cancer: highlights of the St. Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2011. Ann Oncol 2011; 22: 1736–47. 4 NCCN Clinical Practice Guidelines in Oncology. Breast cancer. Version I. 2012. http://www.nccn.org (accessed Feb 11, 2012). 5 European Medicines Agency. Herceptin. Summary of product characteristics. http://www.ema.europa.eu/docs/en_GB/document_ library/EPAR_-_Product_Information/human/000278/ WC500074922.pdf (accessed Feb 11, 2012). 
+
+877 
+
+Articles 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+878 
+
+Bookbinder LH, Hofer A, Haller MF, et al. A recombinant human enzyme for enhanced interstitial transport of therapeutics. J Control Release 2006; 114: 230–41. Halozyme Therapeutics. HYLENEX recombinant (hyaluronidase human injection) 150 USP units/mL. http://www.hylenex.com/ Theme/Hylenex/ﬁles/doc_downloads/LBL293-03.pdf (accessed May 23, 2012). Haller MF. Converting intravenous dosing to subcutaneous dosing with recombinant human hyaluronidase. Pharm Tech 2007; 10: 861–64. Wynne C, Harvey V, Schwabe C, Waaka D, McIntyre C, Bittner B. Comparison of subcutaneous and intravenous administration of trastuzumab: a phase I/Ib trial in healthy male volunteers and patients with HER2-positive breast cancer. J Clin Pharmacol 2012; published online Feb 22. DOI:10.1177/0091270012436560. Pegram M, Hsu S, Lewis G, et al. Inhibitory eﬀects of combinations of HER-2/neu antibody and chemotherapeutic agents used for treatment of human breast cancers. Oncogene 1999; 18: 2241–51. Carlson RW, Moench SJ, Hammond ME, et al, and the NCCN HER2 Testing in Breast Cancer Task Force. HER2 testing in breast cancer: NCCN Task Force report and recommendations. J Natl Compr Canc Netw 2006; 4 (suppl 3): 1–22. Gianni L, Eiermann W, Semiglazov V, et al. Neoadjuvant chemotherapy with trastuzumab followed by adjuvant trastuzumab versus neoadjuvant chemotherapy alone, in patients with HER2-positive locally advanced breast cancer (the NOAH trial): a randomised controlled superiority trial with a parallel HER2-negative cohort. Lancet 2010; 375: 377–84. Untch M, Rezai M, Loibl S, et al. Neoadjuvant treatment with trastuzumab in HER2-positive breast cancer: results from the GeparQuattro study. J Clin Oncol 2010; 28: 2024–31. Buzdar AU, Valero V, Ibrahim NK, et al. Neoadjuvant therapy with paclitaxel followed by 5-ﬂuorouracil, epirubicin, and cyclophosphamide chemotherapy and concurrent trastuzumab in human epidermal growth factor receptor 2-positive operable breast cancer: an update of the initial randomized study population and data of additional patients treated with the same regimen. Clin Cancer Res 2007; 13: 228–33. Dawood S, Gonzalez-Angulo AM, Peintinger F, et al. Eﬃcacy and safety of neoadjuvant trastuzumab combined with paclitaxel and epirubicin: a retrospective review of the M. D. Anderson experience. Cancer 2007; 110: 1195–200. 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+DCTD, NCI, NIH, DHHS. Cancer therapy evaluation program, common terminology criteria for adverse events, Version 3.0. http://ctep.cancer.gov (accessed Feb 11, 2012). Harmonised Tripartite Guideline ICH. Clinical safety data management: deﬁnitions and standards for expedited reporting E2A. http://www.emea.europa.eu/docs/en_GB/document_library/ Scientiﬁc_guideline/2009/09/WC500002749.pdf (accessed May 30, 2012). van der Hage JA, Mieog JS, van de Vijver MJ, van de Velde CJ, and the European Organization for Research and Treatment of Cancer. Eﬃcacy of adjuvant chemotherapy according to hormone receptor status in young patients with breast cancer: a pooled analysis. Breast Cancer Res 2007; 9: 70–79. European Medicines Agency. Guideline on the choice of non-inferiority margin Margin. EMEA/CPMP/EWP/2158/99. http:// www.ema.europa.eu/docs/en_GB/document_library/Scientiﬁc_ guideline/2009/09/WC500003636.pdf (accessed June 28, 2012). European Medicines Agency. Guideline on the investigation of bioequivalence. CPMP/EWP/QWP/1401/98 Rev. 1/ Corr. http:// www.emea.europa.eu/docs/en_GB/document_library/Scientiﬁc_ guideline/2010/01/WC500070039.pdf (accessed June 28, 2012). US Department of Health and Human Services Food and Drug Administration Center for Drug Evaluation and Research. Statistical approaches to establishing bioequivalence (CDER). http://www.fda. gov/downloads/Drugs/GuidanceComplianceRegulatory Information/Guidances/ucm070244.pdf (accessed June 28, 2012). Zandvliet AS, Schellens JH, Beijnen JH, Huitema AD. Population pharmacokinetics and pharmacodynamics for treatment optimization in clinical oncology. Clin Pharmacokinet 2008; 47: 487–513. Untch M, Loibl S, Bischoﬀ J, et al, and the German Breast Group (GBG), and the Arbeitsgemeinschaft Gynäkologische Onkologie-Breast (AGO-B) study group. Lapatinib versus trastuzumab in combination with neoadjuvant anthracycline-taxane-based chemotherapy (GeparQuinto, GBG 44): a randomised phase 3 trial. Lancet Oncol 2012; 13: 135–44. Pivot X, Knoop A, Curigliano G, et al. PrefHer: a clinical trial to evaluate patient preference for trastuzumab administered subcutaneously or intravenously in patients with HER2-positive early breast cancer. 8th European Breast Cancer Conference (EBCC-8), Vienna, Austria; March 21–24, 2012. Abstract 445. 
+
+www.thelancet.com/oncology Vol 13 September 2012 
+
+ 

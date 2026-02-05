@@ -1,0 +1,283 @@
+VOLUME 
+
+26 
+
+䡠 
+
+NUMBER 
+
+8 
+
+䡠 
+
+MARCH 
+
+10 
+
+2008 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+The Safety of Dose-Dense Doxorubicin and Cyclophosphamide Followed by Paclitaxel With Trastuzumab in HER-2/neu Overexpressed/Amplified Breast Cancer Chau Dang, Monica Fornier, Steven Sugarman, Tiffany Troso-Sandoval, Diana Lake, Gabriella D’Andrea, Andrew Seidman, Nancy Sklarin, Maura Dickler, Violante Currie, Theresa Gilewski, Mary Ellen Moynahan, Pamela Drullinsky, Mark Robson, Carolyn Wasserheit-Leiblich, Nancy Mills, Richard Steingart, Katherine Panageas, Larry Norton, and Clifford Hudis From the Memorial Sloan-Kettering Cancer Center, Department of Medicine; Memorial Sloan-Kettering Cancer Center, Department of Biostatistics, New York, NY. Submitted April 6, 2007; accepted December 7, 2007. Supported by Genentech and Amgen. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Chau Dang, MD, Memorial Sloan- Kettering Cancer Center, 1275 York Ave, Howard 713, New York, NY 10021; e-mail: dangc@ mskcc.org. © 2008 by American Society of Clinical Oncology 0732-183X/08/2608-1216/$20.00 DOI: 10.1200/JCO.2007.12.0733 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Dose-dense (dd) doxorubicin and cyclophosphamide (AC) followed by paclitaxel (P) is superior to every 3-weekly AC followed by P. Given the demonstrated cardiac safety for trastuzuamb (T) with conventionally scheduled AC followed by P, we tested the safety of dd AC followed by P with T. The primary end point was cardiac safety, and the secondary end points were time to recurrence and overall survival. Methods Patients with HER-2/neu immunohistochemistry (IHC) 3⫹ or fluorescent in situ hybridization (FISH)-amplified breast cancer and baseline left ventricular ejection fraction (LVEF) of ⱖ 55% were enrolled, regardless of tumor size or nodal status. Treatment consisted of AC (60/600 mg/m2) ⫻ 4 followed by P (175 mg/m2) ⫻ 4 every 2-weekly with pegfilgrastim (6 mg on day 2) ⫹ T ⫻1 year. LVEF by radionuclide scan was obtained at baseline, at months 2, 6, 9, and 18. Results From January 2005 to November 2005, 70 patients were enrolled. The median age was 49 years (range, 27 to 72 years); median LVEF at baseline was 68% (range, 55% to 81%). At month 2 in 70 of 70 patients, the median LVEF was 67% (range, 58% to 79%); at month 6 in 67 of 70 patients, it was 66% (range, 52% to 75%); at month 9 in 68 of 70 patients, it was 65% (range, 50% to 75%); and at month 18 in 48 of 70 patients, it was 66% (range, 57% to 75%). As of December 1, 2007, the median follow-up was 28 months (range, 25 to 35 months). One patient (1%) experienced conestive heart failure (CHF). There were no cardiac deaths. Conclusion Dose-dense AC followed by P/T followed by T is feasible and is not likely to increase the incidence of cardiac events compared to established regimens. J Clin Oncol 26:1216-1222. © 2008 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+HER2/neu (c-erb-B2) is a proto-oncogene encoding the HER-2/neu protein, a transmembrane tyrosine kinase receptor that is part of the human epidermal growth factor receptor family. The gene is amplified in approximately 25% of human breast cancers leading to HER-2/neu protein overexpression. In breast cancer, HER-2 amplification/overxpression is associated with shortened time to relapse and overall survival (OS).1 Trastuzumab (T; Herceptin, Genentech, South San Francisco, CA) is a humanized monoclonal antibody that binds the extracellular domain of HER-2/neu. Based on activity in a ran- 
+
+domized trial,2 the US Food and Drug Administration first approved trastuzumab in combination with taxanes and as first-line therapy for women with metastatic breast cancer whose tumors overexpress HER-2/neu.3 Subsequently, four large trials (and one smaller one) using trastuzumab in the adjuvant setting showed remarkably consistent activity leading to approval for this agent in the adjuvant setting.4-8 In trials that have evaluated conventionally scheduled doxorubicin and cyclophosphamide (AC) 3 paclitaxel (P) every 3-weekly, the incidence of clinically important cardiac arrhythmias, congestive heart failure (CHF), and changes in left 
+
+1216 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab and Dose-Dense Chemotherapy in Adjuvant Treatment of Breast Cancer 
+
+ventricular ejection fraction (LVEF) was up to 2% during study treatment.9-10 In Cancer and Leukemia Group (CALGB) 9741 the incidence of grade 3 to 4 cardiac events was 2.5% in conventionally scheduled AC followed by P versus 1% in the dose-dense (dd;every other week) schedule.11 Because dd (every other week) AC followed by P is superior to conventionally scheduled AC followed by P11-12 with no evidence of increased cardiac toxicity, we were motivated to explore the safety (primarily cardiac) of this regimen combined with trastuzumab. We therefore conducted this phase 2 study of dd AC 3 P/T3 T. METHODS 
+
+Study and Biostatistical Design This is a nonrandomized phase II trial of dose-dense adjuvant/ neoadjuvant chemotherapy with trastuzumab in HER-2/neu–positive cancer. Patients with estrogen-receptor (ER)– or progesteronereceptor (PR)–positive tumors received tamoxifen or aromatase inhibitors as appropriate, and radiation therapy was recommended per institutional guidelines. The primary objective was to determine the cardiac safety of this regimen as determined by incidence of cardiac events. Because the early results of National Surgical Adjuvant Breast and Bowel Project (NSABP) B-3113 and North Central Cancer Treatment Group (NCCTG) 983114 demonstrated a 6.7% patient dropout rate after AC due to asymptomatic LVEF decline, we anticipated an 8% patient dropout rate post-AC that would prohibit patients from starting trastuzumab. To study at least 64 assessable patients, we enrolled 70 patients (as up to an 8% post-AC dropout rate would yield 64 patients). Evaluable patients were those who completed AC and were able to initiate trastuzumab. A stopping rule was implemented. Assuming 64 patients were treated with this regimen, the trial would be terminated if there were three or more cardiac events (three of 64 ⫽ 4.7%). This could comprise of one cardiac death and two symptomatic CHF events or three symptomatic CHF events. If more than one cardiac death was observed, the trial would be terminated. The intent of this study was to explore if the cardiac event rate was less than 4%. Other toxicities would be tabulated according to the NCI Common Toxicity Criteria. 
+
+w/ pegfilgrastim 
+
+Table A1 shows the probability of declaring the regimen to be safe for a range of true cardiac event rates.19 The probability of stopping the trial is 84% and 93% if the true cardiac event rate is 8% and 10%, respectively.19 Patients Eligible patients had HER-2/neu immunohistochemistry (IHC) 3⫹ or fluorescent in situ hybridization (FISH) –amplified breast cancer, regardless of nodal status or tumor size; an absolute neutrophil count (ANC) ⱖ 1,000/␮L and platelet count ⱖ 100,000/␮L; normal total bilirubin; and transaminases ⱕ 2.5 upper limit of normal. In addition, a normal LVEF by multiple-gated acquisition (MUGA) scan ⱖ 55% was required. Subsequent MUGA scans were performed serially at months 2, 6, 9, and 18 from the beginning of treatment. Patients with known history of unstable angina, myocardial infarction, CHF, or serious medical illnesses; inability to give consent; or if pregnant were excluded. An informed consent was obtained for each patient. This study was reviewed and approved by the institutional review board at Memorial Sloan-Kettering Cancer Center. Treatment Treatment consisted of AC (60/600 mg/m2) ⫻ 4 intravenously (IV) every 2 weeks followed by paclitaxel (175 mg/m2) ⫻ 4 IV every 2 weeks, with pegfilgrastim (6 mg on day 2) (Fig 1). Trastuzumab was started with the first paclitaxel cycle (4 mg/kg bolus followed by 2 mg/kg weekly). At the completion of paclitaxel, trastuzumab was administered every 3 weeks at 6 mg/kg to complete a year’s duration. Premedications for AC and paclitaxel were standardly given. Trastuzumab was not to be initiated in those patients with a post-AC LVEF (month 2) that declined more than 15 percentage points, or ⱕ 15 percentage points but also below lower limit of normal (LLN). During trastuzumab administration, parameters were set for holding trastuzumab for patients with asymptomatic LVEF declines as described in Table 1. Toxicity Assessments and Dose Modifications Toxicities were assessed by the NCI Common Toxicity Criteria (CTC) version 3.0 for toxicity: (1) AC and paclitaxel: Patients experiencing neutropenic fever and/or grade 3 or 4 nonhematologic toxicity had day 1 doses in 
+
+Radiation given concurrent w/ Trastuzumab ............................. x 52 weeks 
+
+MUGA at month 0 
+
+6 ........................... 9 .............................................18 
+
+2 
+
+Fig 1. Treatment schema. MUGA, multigated acquisition scan; AC, doxorubicin and cyclophosphamide; q w, every week; q 3 w, every 3 weeks. 
+
+Paclitaxel = 175 mg/m2 AC = 60/600 mg/m2 
+
+Trastuzumab 2 mg/kg q w 
+
+Trastuzumab 6 mg/kg q 3 w 
+
+1217 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Dang et al 
+
+Table 1. Guidelines for Continuation or Discontinuation of Trastuzumab Based on LVEF Results Relationship of LVEF to the Lower Limit of Normal 
+
+Absolute Decrease of 10% 
+
+Within radiology facility’s normal limits 1% to 5% below the LLN ⱖ 6% below the LLN 
+
+Absolute Decrease of 10% to 15% 
+
+Continue T 
+
+Continue T 
+
+Continue T 
+
+Hold T and repeat MUGA after 4 wk* Hold T and repeat MUGA after 4 wk* 
+
+Hold T and repeat MUGA after 4 wk* 
+
+Absolute Decrease of 16% Hold T and repeat MUGA after 4 wk* Hold Tn and repeat MUGA after 4 wk* Hold T and repeat MUGA after 4 wk* 
+
+Abbreviations: LVEF, left ventricular ejection fraction; LLN, lower limit of normal; MUGA, multigated acquisition scan; T, trastuzumab. * A repeat MUGA was obtained within 4 weeks after each cessation. If the LVEF improved from a “hold” to a “continue and repeat MUGA” category, trastuzumab was then restarted. If the LVEF did not improve from a “hold” category, trastuzumab was then permanently held. Trastuzumab was also permanently held if there were three intermittent interruptions or true clinical cardiac events (congestive heart failure, cardiac death). 
+
+subsequent cycles reduced by 25%. A maximum of two dose reductions were allowed. If on the day that chemotherapy was due, platelet counts were less than 100,000/␮L and/or ANC less than 1,000/␮L and/or nonhematologic toxicities (excluding alopecia) had not recovered to ⱕ grade 1, treatment was delayed by up to a week, and CBC and toxicity grading were repeated weekly. If a treatment delay of more than 2 consecutive weeks was required, the patient was to be taken off study. (2) Trastuzumab: There was no dose modification for trastuzumab. RESULTS 
+
+From January of 2005 to November of 2005, we enrolled 70 patients. All patients had breast cancer that was either HER-2/neu IHC 3 ⫹ or FISH-amplified or both. The median age was 49 years (range, 27 to 72 years). Sixty-eight of 70 (97%) patients received adjuvant treatment and two (3%) of 70 received treatment in the neoadjuvant setting. Of those who received adjuvant treatment, 41 (60%) of 68 had nodepositive disease and 27 (40%) of 68 had node-negative disease (Table 2). Thirty-two (46%) of 70 patients had ER-positive disease and 38 (54%) of 70 patients had PR-positive disease. Three patients withdrew from study for personal reasons. Five patients had trastuzumab held due to significant asymptomatic LVEF declines, and two of five patients were not rechallenged. One patient suffered CHF and received only 2 months of trastuzumab. Thus, in total six (9%) of 70 patients did not complete a year of trastuzumab and 64 (91%) of 70 did. A total of 50 (71%) of 70 patients had breast and/or chest radiation. Of these 50 patients, 21 (42%) patients had left-sided and 29 (58%) had rightsided radiation. Cardiac Outcomes The median baseline LVEF was 68% (range, 55% to 81%). All patients had the month 2 MUGA (after dd AC), and there were no significant LVEF declines with a median LVEF of 67% (range, 58% to 79%). Sixty-seven patients had the month 6 MUGA with a median LVEF of 66% (range, 52% to 75%). Sixty-eight patients had the month 9 MUGA with a median LVEF of 65% (range, 50% to 75%). Fortyeight patients had the post-treatment MUGA at month 18 and the median LVEF was 66% (range, 57% to 75%; Fig 2). Five (7%) of 70 patients experienced asymptomatic LVEF decline during the course of trastuzumab treatment. Three patients (4%) with month 6 MUGA had asymptomatic LVEF decline as described in 1218 
+
+Table 3. Because these three patients did not have appropriate LVEF recovery within 4 weeks, trastuzumab was stopped by the study (Table 3). Patient #3 was rechallenged with trastuzumab (off-study) by the treating physician and tolerated treatment without further significant 
+
+Table 2. Patient Characteristics (N ⫽ 70) Characteristics Age, years Median Range ⬍ 40 40-49 50-59 60-69 70⫹ Menopausal status Premenopausal Perimenopausal Postmenopausal Tumor size, cm ⬍2 2.1-5 ⬎5 No. of involved nodes (N ⫽ 68 with adjuvant treatment) 0 1-3 4-9 10⫹ ER status Positive Negative PR status Positive Negative Surgical treatment Lumpectomy Modified radical mastectomy Neoadjuvant Breast/chest radiation Left sided radiation Right sided radiation 
+
+No. of Patients 
+
+% 49 27-72 
+
+14 23 22 9 2 
+
+20 33 31 13 3 
+
+33 5 32 
+
+47 7 46 
+
+40 25 3 
+
+59 37 4 
+
+27 20 16 5 
+
+40 29 24 7 
+
+32 38 
+
+46 54 
+
+23 47 
+
+33 67 
+
+36 32 2 50 21/50 29/50 
+
+51 46 3 71 42 58 
+
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor; IHC, immunohistochemistry; FISH, fluorescent in situ hybridization. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab and Dose-Dense Chemotherapy in Adjuvant Treatment of Breast Cancer 
+
+85 
+
+Med Med 68 % 67 % (n = 70) (n = 70) 
+
+Med 66 % (n = 67) 
+
+repair. These two events were not considered cardiac events as prospectively defined in this study. With a median follow-up of 25 months (range, 19 to 29), two patients (3%) have developed progressive disease. One patient experienced brain metastasis during month 10 of treatment, and another developed disease in mediastinal nodes 3 months after the completion of adjuvant trastuzumab. 
+
+Med 65 % (n = 48) 
+
+Med 65 % (n = 68) 
+
+LVEF Results (%) 
+
+80 75 70 65 
+
+Hematologic and Nonhematologic Toxicities The hematologic and nonhematologic toxicities are summarized in Tables A2 and A3. The toxicities were as expected. Darbepoetin alfa was initiated in 44 (63%) of 70 patients, usually towards the end of the AC phase or the beginning of paclitaxel and trastuzumab phase. 
+
+60 55 50 45 40 Baseline 2 
+
+4 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+18 
+
+Month Fig 2. Left ventricular ejection fraction (LVEF) results. Med, median. 
+
+LVEF decline. Two patients (3%) with month 9 MUGA had asymptomatic LVEF decline, and trastuzumab was held temporarily. Both patients had adequate LVEF recovery one month later and were successfully rechallenged with trastuzumab. In terms of true cardiac events, only one of 70 (1.4%; 95%CI, 0% to 7.4%) patients experienced CHF during treatment (Table 2). Patient #56 developed shortness of breath with clinical CHF shortly after completing paclitaxel cycle 4 with trastuzumab (month 4). Her LVEF was more than 75% at baseline, 79% post AC, but dropped to 45% (based on an echocardiogram) at the time of clinical symptoms. She was evaluated by a cardiologist and was treated with a diuretic, a beta-blocker, and an ACE-inhibitor. Trastuzumab was held off permanently. Her LVEF recovered to 50% (based on a MUGA) about 5 months after the event. The patient is currently clinically well on these cardiac medications. There were no cardiac deaths on this study. In terms of other cardiac findings, one patient had pericarditis and atrial fibrillation while receiving chest radiation and trastuzumab concurrently. Another patient had sinus bradycardia; her cardiologist felt it was most likely due to her prior patent foramen ovale surgical 
+
+Hospitalizations There were 22 hospitalizations in 21 (30%) of 70 patients as described in Table 4. One patient had two hospitalizations. One hospitalization was due to pneumonitis. To elaborate, this patient experienced left-sided pneumonitis while receiving concurrent chest radiation and trastuzumab. She presented with dyspnea during this period and was ruled out for pulmonary embolus as well as any cardiac dysfunction (LVEF was 70% during this period). Computed tomography of the chest showed multiple left lung opacities which could be due to radiation changes or pneumonitis. The radiation treatment was interrupted temporarily and her symptoms improved while continuing on trastuzumab. It was difficult to determine if the pneumonitis was due to radiation alone or the combination of radiation and trastuzumab. She recovered well. 
+
+DISCUSSION 
+
+Clinical trials have demonstrated that trastuzumab significantly reduces the risk for recurrence for women with early stage HER-2/neu– overexpressing breast cancer.4-8 Despite the differences in the adjuvant trials using trastuzumab (ie, node status, chemotherapy regimens, time of randomization, and median follow-up times), they generally demonstrated approximately 50% improvements in disease-free survival (DFS).4-8 Significant improvement in OS with 1 
+
+Table 3. Patients With Significant LVEF Declines and Trastuzumab Held Patient 
+
+LVEF at Baseline, % 
+
+LVEF at Month 2, % 
+
+LVEF at Month 6, % 
+
+LVEF at Month 9, % 
+
+3 42 54 56 
+
+74 66 69 ⬎ 75 
+
+65 66 70 79 
+
+Asymptomatic 2 56* (⬎ 16 2 from baseline) Asymptomatic 2 52† (⬍ LLN of 55) Asymptomatic 2 54‡ (⬍ LLN of 55) Not done at month 6 symptomatic CHF, (LVEF 2 45 on ECHO at month 4)§ 
+
+66 63 54 50 
+
+Abbreviations: LVEF, left ventricular ejection fraction; ECHO, echocardiogram; MUGA, multigated acquisition scan; LLN, lower limit of normal; CHF, congestive heart failure. * Patient’s LVEF was 56% (⬎ 16% decline from baseline) with month 6 MUGA, recovered only to 57% one month later at month 7 (still ⬎ 16% decline from baseline) (trastuzumab was stopped completely by study), but recovered to 66% with both month 8 and month 9 MUGAs. She was restarted on trastuzumab (off-study) and had no further LVEF decline. †Patient’s LVEF was 52% (⬍ LLN of 55%) with mild global hypokinesis on month 6 MUGA (started on carvedilol), recovered only to 53% 1 month later at month 7 (trastuzumab was stopped completely by study), and recovered to 63% with month 9 MUGA. ‡Patient’s LVEF was 54% (⬍ LLN of 55%), recovered only to 54% one month later (trastuzumab was stopped completely by study), and recovered to 58% with month 11 MUGA. §Patient had clinical CHF shortly after the last dose of paclitaxel with trastuzumab (month 4). Patient’s trastuzumab was stopped and she was treated with cardiac medications. She is currently asymptomatic and doing well. 
+
+1219 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Dang et al 
+
+Table 4. Hospitalizations During Treatment Diagnoses During AC Febrile neutropenia Deep venous thrombosis Abdominal pain Diarrhea Colitis Dyspepsia During paclitaxel ⫹ trastuzumab Diverticulitis Fever (non-neutropenic) Sinusitis Pneumonia Ungual infection Hyperglycemia During trastuzumab alone Congestive heart failure Pericarditis and transient atrial fibrillation Pneumonitis Cellulitis Sinus bradycardia 
+
+No. of Hospitalizations 4 2 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 
+
+Abbreviation: AC, doxorubicin and cyclophosphamide. 
+
+year of trastuzumab was similarly observed in the combined analysis of NSABP B-31 and NCCTG 9831, the HERA Women’s Cancer Foundation (HERA), and recently the Breast Cancer International Research Group (BCIRG) 006.4,6,7 Recently, with a longer follow-up of a median of 2.9 years, Perez et al20 reported a sustained benefit in DFS and OS with the addition of trastuzumab to chemotherapy in the combined analysis of NSABP B-31 and NCCTG 9831. Given the efficacy of trastuzumab, the four large adjuvant trials have shown that the cardiotoxicity of this treatment is acceptable with rates of congestive heart failure below 4% and very rare cardiac deaths.4-7,15-18 Although our pilot study was much smaller than these randomized trials, we observed a CHF rate of only 1.4% (one patient) with no cardiac deaths suggesting that dd therapy is unlikely to add significant cardiac risk to that of conventional anthracycline and taxane sequences. Furthermore, there was no significant asymptomatic LVEF decline after dd AC so that all enrolled patients received trastuzumab. This is in distinction to the 6.7% rate of asymptomatic LVEF decline after every 3-weekly AC as reported in the combined analysis of NSABP B-31 and NCCTG 9831.4 There are several possible explanations for the apparently favorable cardiac outcome in our study. First, dd therapy does not appear to increase the risk of cardiac toxicity as compared to every third week dosing. The 6.5-year follow-up of CALGB 9741 indicated numerically fewer (by half) cardiac events with every second week treatment compared to every third.11 Second, our study defined eligibility using an LVEF of at least 55% (similar to HERA) but this is higher than the lower limit of normal for NSABP B-31, NCCTG 9831, and the BCIRG 006. If this is important, then we may have selected a healthier group of patients with lower baseline risk for cardiac events. We did not have a younger group of patients compared to the larger trials. In our study, 53% of the patients were less than 50 years of age, 31% were between 50 and 59 years of age, and 16% were 60 years of age or older. This 1220 
+
+population is nearly identical to the group in NSABP B-31 and NCCTG 9831 (51% patients ⬍ 50 years of age, 33% patients between 50 and 59 years of age, and 16% patients ⱖ 60 years of age).4 We conservatively chose an LVEF lower limit of 55% when the trial was written as we did not know if dd AC would have a more deleterious effect on cardiac function than conventional AC. In future trials, we would be comfortable allowing an LVEF lower limit of 50%. Third, this was a single center study and only serial MUGA evaluations were allowed for objective LVEF measurements. This may have limited the variability in interpretation of the MUGA scans as compared to the broad community testing used in the large adjuvant trials. On the other hand, if this last factor is important, it raises the possibility that some patients have unnecessarily been denied trastuzumab because of false positive findings by sequential assessments of cardiac function in the multicenter trials. In this study, trastuzumab was discontinued permanently before 52 weeks in two (3%) of 70 patients with asymptomatic LVEF declines, one (1.4%) of 70 patients with symptomatic CHF, and three (4%) of 70 for personal reasons. This compares favorably to results reported by the combined analysis of NSABP B-31 and NCCTG 9831 in which trastuzumab was permanently discontinued in 14.2% of patients for asymptomatic LVEF declines, 4.7% for symptomatic CHF or other adverse cardiac effects, and 6% for personal reasons.4 Like the NSABP B-31 and NCCTG 9831, we defined a cardiac event as symptomatic CHF or a probable cardiac death. Although we report that two patients had arrhythmias while receiving trastuzumab (one with atrial fibrillation with pericarditis and one with sinus bradycardia), these two patients did not meet the criteria for cardiac events. Although the BCIRG 006 included grade 3 to 4 arrhythmias as part of the definition of cardiac events, the incidence of arrhythmias was lower in the AC followed by docetaxel (D)T followed by T than in the other two arms (seven patients in AC followed by D v four patients in AC followed by DT followed by T v nine patients in DCT [TCH]).7 Thus, the data does not support the hypothesis that trastuzumab after an anthracycline increases the incidence of grade 3 to 4 arrhythmias. In terms of hospitalizations, although 21 (30%) of 70 were hospitalized, many of the causes for the hospitalization might have been managed in the outpatient setting (two deep venous thromboses, one dyspepsia, one sinusitis, one ungual infection, one hyperglycemia from dexamethasone). Only three hospitalizations were for cardiac reasons (one CHF, one pericarditis and atrial fibrillation, and one sinus bradycardia). One patient had pneumonitis. Overall, 64 (91%) of 70 patients completed a full year of trastuzumab and only six (9%) of 70 patients did not. This compares favorably to the combined analysis of NSABP B-31 and NCCTG 9831 in which 31.4% patients discontinued trastuzumab before 52 weeks.4 Approximately 16% of our patients were ⱖ 60 years and since older age was found to be a significant risk factor for cardiac toxicity,15 more data or longer follow-up of this smaller group of patients is warranted. Our study demonstrates that trastuzumab with dd AC followed by P is safe and feasible. Ideally, a randomized trial would be required to establish this regimen as a standard but randomization for schedule (dd) or for the use of trastuzumab is unlikely to be acceptable to clinicians. On the other hand, we are not concerned about the shorter concurrent administration of trastuzumab with paclitaxel (four cycles of dd P over 8 weeks). First, the number of chemotherapy administration in our study was identical to that in NSABP B-314 (four cycles of AC and four cycles of paclitaxel), and it has been demonstrated that JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab and Dose-Dense Chemotherapy in Adjuvant Treatment of Breast Cancer 
+
+the duration of therapy is not important if all cycles of chemotherapy can be given successfully in a dose-dense fashion as demonstrated in CALGB 9741.11-12 Second, a higher percentage of our patients were able to successfully complete a year’s duration of trastuzumab than reported in NSABP B-31 and NCCTG 9831.4 As this is a feasibility study of 70 patients, we were able to see a signal that the cardiac event rate was less than 4% with dd AC followed by P with trastuzumab. The cardiac event rates did not increase (still ⬍ 4%) with longer follow-up in NCCTG 9831 and NSABP B-31, recently reported at the American Society of Clinical Oncology meeting, Chicago, IL, in June 2007.20-21 Thus, we do not anticipate the cardiac event rate of our study to be more than 4% with continued follow-up. Hence, our regimen should be considered an appropriate option for patients with HER-2–positive early stage breast cancer. At a median follow-up of 36 months, the BCIRG 006 has recently demonstrated that every 3-weekly AC followed by DT followed by T group had nominally fewer DFS events and OS events than the DCT (TCH) group, but the differences were not at all statistically significant and the toxicity profiles differed especially with regard to cardiac events. To determine the worth and safety of omitting an anthracycline, a randomized trial of dose-dense AC followed by PT compared to DCT (TCH) could be considered. There are several new targeted agents effective for the treatment of HER-2/neu–positive breast cancer. Lapatinib (Tykerb, GlaxoSmithKline, Research Triangle, NC), a dual inhibitor of both epidermal growth factor and HER-2/neu tyrosine kinase activity, has demonstrated activity as a single agent,22 combined with trastuzumab,23 as well as with chemotherapy.24 Other anti–HER-2/neu drugs in development include HKI-272 and heat shock protein 90 inhibitors (ie, 17-allyl-amino-geldanamycin),each of which has activity in trastuzumab-refractory disease.25,26 Currently, clinical trials are planned testing lapatinib with trastuzumab as adjuvant therapy for HER-2–positive breast cancer. To provide safety data for dose-dense chemotherapy, based on our cardiac safety data with trastuzumab, we are currently conducting a trial of dd AC followed by P with both trastuzumab and lapatinib. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about 
+
+REFERENCES 1. Slamon DJ, Clark GM, Wong SG, et al: Human breast cancer: Correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235:177-182, 1987 2. Slamon DJ, Leyland-Jones B, Shak S, et al: Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 344:783-792, 2001 3. US Food and Drug Administration: FDA Clinical Review of BLA 98-0369: Herceptin Trastuzumab 
+
+ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Chau Dang, Genentech (C), Amgen (C); Monica Fornier, Genentech (C); Steven Sugarman, Genentech (C), Amgen (C); Diana Lake, Genentech (C); Andrew Seidman, Genentech (C), Amgen (C); Maura Dickler, Genentech (C); Theresa Gilewski, Genentech (C); Clifford Hudis, Genentech (C), Amgen (C) Stock Ownership: None Honoraria: Chau Dang, Genentech, Amgen; Monica Fornier, Genentech; Steven Sugarman, Genentech, Amgen; Diana Lake, Genentech; Andrew Seidman, Genentech, Amgen; Maura Dickler, Genentech; Theresa Gilewski, Genenetch; Clifford Hudis, Genentech Research Funding: Chau Dang, Genentech, Amgen; Monica Fornier, Genentech; Maura Dickler, Genentech; Clifford Hudis, Genentech, Amgen Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Chau Dang, Clifford Hudis Administrative support: Chau Dang Provision of study materials or patients: Chau Dang, Monica Fornier, Steven Sugarman, Tiffany Troso-Sandoval, Diana Lake, Gabriella D’Andrea, Andrew Seidman, Nancy Sklarin, Maura Dickler, Violante Currie, Theresa Gilewski, Mary Ellen Moynahan, Pamela Drullinsky, Mark Robson, Carolyn Wasserheit-Leiblich, Nancy Mills, Richard Steingart, Katherine Panageas, Larry Norton, Clifford Hudis Collection and assembly of data: Chau Dang, Monica Fornier, Steven Sugarman, Tiffany Troso-Sandoval, Diana Lake, Gabriella D’Andrea, Andrew Seidman, Nancy Sklarin, Maura Dickler, Violante Currie, Theresa Gilewski, Mary Ellen Moynahan, Pamela Drullinsky, Mark Robson, Carolyn Wasserheit-Leiblich, Nancy Mills, Richard Steingart, Katherine Panageas, Larry Norton, Clifford Hudis Data analysis and interpretation: Chau Dang, Monica Fornier, Tiffany Troso-Sandoval, Diana Lake, Gabriella D’Andrea, Andrew Seidman, Nancy Sklarin, Maura Dickler, Violante Currie, Theresa Gilewski, Mary Ellen Moynahan, Pamela Drullinsky, Mark Robson, Carolyn Wasserheit-Leiblich, Nancy Mills, Richard Steingart, Katherine Panageas, Larry Norton, Clifford Hudis Manuscript writing: Chau Dang, Monica Fornier, Steven Sugarman, Tiffany Troso-Sandoval, Diana Lake, Gabriella D’Andrea, Andrew Seidman, Nancy Sklarin, Maura Dickler, Violante Currie, Theresa Gilewski, Mary Ellen Moynahan, Pamela Drullinsky, Mark Robson, Carolyn Wasserheit-Leiblich, Nancy Mills, Richard Steingart, Katherine Panageas, Larry Norton, Clifford Hudis Final approval of manuscript: Chau Dang, Monica Fornier, Steven Sugarman, Tiffany Troso-Sandoval, Diana Lake, Gabriella D’Andrea, Andrew Seidman, Nancy Sklarin, Maura Dickler, Violante Currie, Theresa Gilewski, Mary Ellen Moynahan, Pamela Drullinsky, Mark Robson, Carolyn Wasserheit-Leiblich, Nancy Mills, Richard Steingart, Katherine Panageas, Larry Norton, Clifford Hudis 
+
+(rhuMAb HER2), 1998. http://www.fda.gov/cder/ biologics/review/trasgen092598r1p1.pdf 4. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 5. Piccart-Gebhart MJ, Procter M, LeylandJones B, et al: Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 353:1659-1672, 2005 6. Smith I: Trastuzumab following adjuvant chemotherapy in HER2-positive early breast cancer (HERA Trial): Disease-free and overall survival after 2 
+
+years median follow-up. Proc Am Soc Clin Oncol 24, 2006 7. Slamon DJ, Eiermann W, Robert NJ, et al: Phase III trial comparing doxorubicin and cyclophosphamide followed by docetaxel with doxorubicin and cyclophosphamide followed by docetaxel and trastuzumab with docetaxel, carboplatin and trastuzumab in HER2 positive early breast cancer patients: Second interim analysis of the BCIRG 006 study. Presented at the San Antonio Breast Cancer Symposium, San Antonio, TX, December 13-17, 2006 8. Joensuu H, Kellokumpu-Lehtinen PL, Bono P, et al: Adjuvant docetaxel or vinorelbine with or 
+
+1221 
+
+www.jco.org 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Dang et al 
+
+without trastuzumab for breast cancer. N Engl J Med 354:809-820, 2006 9. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol, 21:976-983, 2003 10. Mamounas EP, Bryant J, Lembersky BC, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP-B 28. J Clin Oncol, 23:3686-3696, 2005 11. Hudis C, Citron ML, Berry D, et al: Five year follow-up of INT C9741: Dose dense (DD) chemotherapy (CRx) is safe and effective. Breast Cancer Res 94:S20, 2005 (suppl 1) 12. Citron ML, Berry DA, Cirrincione C, et al: Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: First report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin Oncol 21:1431-1439, 2003 13. Geyer CE, Yothers G, Romond E, et al: Cardiac safety analysis of the first stage of NSABP B-31: A randomized trial of AC/Taxol with and without Herceptin in women with node-positive HER-2 overexpressing breast cancer. Presented at the San Antonio Breast Cancer Symposium, San Antonio, TX, December 3-6, 2003 
+
+14. Perez EA. Suman VJ, Davidson PA, et al: Effect of doxorubicin plus cyclophosphamide (AC) on left ventricular ejection fraction (LVEF) in the NCCTG N 9831 Intergroup Adjuvant Trial. Proc Am Clin Oncol 21:19s,2003 (abstr 75) 15. Tan-Chiu E, Yothers G, Romond E, et al: Assessment of cardiac dysfunction in a randomized trial comparing doxorubicin and cyclophosphamide followed by paclitaxel, with or without trastuzumab as adjuvant therapy in node-positive, human epidermal growth factor receptor 2-overexpressing breast cancer: NSABP B-31. J Clin Oncol 23:7811-7819, 2005 16. Geyer CE, Bryant JL, Romond EH, et al: Update of cardiac dysfunction on NSABP B-31, a randomized trial of sequential doxorubicin/cyclophosphamide (AC) 3 paclitaxel (T) vs AC 3 T with trastuzumab (H) Proc Am Soc Clin Oncol 24:18s, 2006 (abstr 581) 17. Perez EA, Suman VJ, Davidson NE, et al: Interim cardiac safety analysis of NCCTG N9831 intergroup adjuvandt trastuzumab trial. Proc Am Clin Oncol 23:17s, 2005 (abstr 556) 18. Perez EA, Suman VJ, Davidson NE, et al: Exploratory analysis from NCCTG N9831: Do clinical and laboratory characteristics predict cardiac toxicity of trastuzumab when administered as a component of adjuvant therapy? Breast Cancer Res 94:S96, 2005 (suppl 1) 19. Rosner, B: Fundamentals of Biostatistics (ed 3). Boston, MA, PWS-Kent Publishing Company, 1990, pp. 82-83 20. Perez EA, Romond EH, Suman VJ, et al: Updated results of the combined analysis of NCCTG 
+
+N9831 and NSABP B-31 adjuvant chemotherapy wih/without trastuzumab in patients with HER2positive breast cancer. Proc Am Clin Oncol 25:6s, 2007 (abstr 512) 21. Rastogi P, Jeong J, Geyer CE, et al: Five-year update of cardiac dysfunction on NSABP B-31, a randomized trial of sequential doxorubicin/cyclophosphamide (AC) 3 paclitaxel (T) compared to AC 3 T with trastuzumab (H). Proc Am Clin Oncol 25:6s, 2007 (abstr LBA513) 22. Gomez H, Chavez M, Doval D, et al: A Phase II, randomized trial using the small molecule tyrosine kinase inhibitor lapatinib as a first-line treatment in patients with FISH positive advanced or metastatic breast cancer. Proc Am Soc Clin Oncol 23:203s, 2005 (abstr 3046) 23. Storniolo A, Burris H, Pegram M, et al: Phase I, open-label study of lapatinib (GW572016) plus trastuzumab; a clinically active regimen. Proc Am Clin Oncol 23:18s, 2005 (abstr 559) 24. Geyer CE, Forster J, Lindquist D, et al: Lapatinib plus capecitabine for HER2-positive advanced breast cancer. N Engl J Med 355:2733-2743, 2006 25. Wong KK, Fracasso PM, Bukowski RM, et al: HKI-272, an irreversible pan erbB receptor tyrosine kinase inhibitor: Preliminary phase I results in patients with solid tumors. Proc Am Soc Clin Oncol 24:125s, 2006 (abstr 3018) 26. Modi S, Stopeck A, Gordon MS, et al: Phase I trial of KOS-953, a heat shock protein 90 inhibitor, and trastuzumab (T). Proc Am Soc Clin Oncol 24:2s, 2006 (abstr 501) 
+
+■ ■ ■ 
+
+Acknowledgment We thank the following individuals for their contributions to this work: Dr Catherine vanPoznak and Dr Roshini George; Dr Karen Smith (for assistance with data assessment); and Marcel Smith and Charles Edwards (research study assistants). Appendix The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). 
+
+1222 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on April 25, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+ 

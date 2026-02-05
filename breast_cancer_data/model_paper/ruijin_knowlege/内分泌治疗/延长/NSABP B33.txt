@@ -1,0 +1,569 @@
+VOLUME 
+
+26 
+
+䡠 
+
+NUMBER 
+
+12 
+
+䡠 
+
+APRIL 
+
+20 
+
+2008 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Benefit From Exemestane As Extended Adjuvant Therapy After 5 Years of Adjuvant Tamoxifen: Intention-to-Treat Analysis of the National Surgical Adjuvant Breast and Bowel Project B-33 Trial From the National Surgical Adjuvant Breast and Bowel Project Operations and Biostatistical Centers; Department of Biostatistics, Graduate School of Public Health, University of Pittsburgh; Allegheny General Hospital; Shadyside Hospital, University of Pittsburgh; University of Pittsburgh Cancer Institute, Magee-Womens Hospital, Pittsburgh, PA; Aultman Health Foundation, Canton, OH; University of California at Los Angeles, Jonsson Comprehensive Cancer Center, Los Angeles; Scripps Clinic, San Diego; Kaiser Permanente Northern California, Vallejo, CA; Ohio State University, Columbus, OH; CCOP Southeast Cancer Control Consortium, Winston-Salem, NC; CCOP Colorado Cancer Research Program, Denver, CO; Arkansas Cancer Research Center, Little Rock, AK; Toronto Sunnybrook Regional Cancer Center, North York, Ontario; Centre Hospitalier de l’Université de Montréal, Québec, Canada; CCOP Marshfield Clinic, Marshfield, WI; and the Mayo Clinic, Rochester, MN. Submitted August 15, 2007; accepted October 1, 2007; published online ahead of print at www.jco.org on March 10, 2008. Supported by Public Health Service Grants No. U10CA-12027, U10CA69974, U10CA-37377, and U10CA69651 from the National Cancer Institute, Department of Health and Human Services; and by the Pharmacia Corporation, a Pfizer Company, New York, NY. Presented in part in abstract format in the Breast Cancer Research Treatment 100:S22, 2006 (suppl; abstr A40). Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Eleftherios P. Mamounas, MD, Aultman Health Foundation, 2600 6th St, SW. Canton, OH 44710; e-mail: tmamounas@aultman.com. © 2008 by American Society of Clinical Oncology 0732-183X/08/2612-1965/$20.00 DOI: 10.1200/JCO.2007.14.0228 
+
+Eleftherios P. Mamounas, Jong-Hyeon Jeong, D. Lawrence Wickerham, Roy E. Smith, Patricia A. Ganz, Stephanie R. Land, Andrea Eisen, Louis Fehrenbacher, William B. Farrar, James N. Atkins, Eduardo R. Pajon, Victor G. Vogel, Joan F. Kroener, Laura F. Hutchins, André Robidoux, James L. Hoehn, James N. Ingle, Charles E. Geyer Jr, Joseph P. Costantino, and Norman Wolmark A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Patients with early-stage, hormone receptor–positive breast cancer have considerable residual risk for recurrence after completing 5 years of adjuvant tamoxifen. In May 2001, the National Surgical Adjuvant Breast and Bowel Project (NSABP) initiated accrual to a randomized, placebo-controlled, double-blind clinical trial to evaluate the steroidal aromatase inhibitor exemestane as extended adjuvant therapy in this setting. Patients and Methods Postmenopausal patients with clinical T1-3N1M0 breast cancer who were disease free after 5 years of tamoxifen were randomly assigned to 5 years of exemestane (25 mg/d orally) or 5 years of placebo. Our primary aim was to test whether exemestane prolongs disease-free survival (DFS). In October 2003, results of National Cancer Institute of Canada (NCIC) MA.17 showing benefit from adjuvant letrozole in this setting necessitated termination of accrual to B-33, unblinding, and offering of exemestane to patients in the placebo group. Results At the time of unblinding, 1,598 patients had been randomly assigned; 72% in the exemestane group continued on exemestane and 44% in the placebo group elected to receive exemestane. With 30 months of median follow-up, original exemestane assignment resulted in a borderline statistically significant improvement in 4-year DFS (91% v 89%; relative risk [RR] ⫽ 0.68; P ⫽ .07) and in a statistically significant improvement in 4-year relapse-free survival (RFS; 96% v 94%; RR ⫽ 0.44; P ⫽ .004). Toxicity, assessed up to time of unblinding, was acceptable for the adjuvant setting. Conclusion Despite premature closure and crossover to exemestane by a substantial proportion of patients, original exemestane assignment resulted in non–statistically significant improvement in DFS and in statistically significant improvement in RFS. J Clin Oncol 26:1965-1971. © 2008 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Adjuvant hormonal therapy significantly improves the outcome of patients with resected stage I to III breast cancer who have hormone receptor–positive tumors.1,2 For many years, adjuvant tamoxifen was the undisputed standard of treatment for these cancers, but the introduction of third-generation aromatase inhibitors in the adjuvant setting has challenged the primacy of tamoxifen in postmenopausal women.3-15 Adjuvant aromatase inhibitors have been found effective as up-front 
+
+therapy, as sequential therapy after 2 to 3 years of tamoxifen, and as extended adjuvant therapy after 5 years of tamoxifen. The rationale for evaluating aromatase inhibitors as extended adjuvant therapy is based on the observation that estrogen receptor (ER)-positive patients continue to exhibit significant residual risk for recurrence and death long after the initial 5 years of tamoxifen therapy.16 In the Oxford overview analysis, more than half of the recurrences and more than two thirds of the deaths in tamoxifen-treated patients occur after the first 5 years of follow-up.2 © 2008 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+1965 
+
+Mamounas et al 
+
+Although the majority of the recurrences are still hormone sensitive, extending tamoxifen administration beyond 5 years provides no additional benefit.17,18 Thus, a more promising strategy after 5 years of this agent might be to evaluate novel hormonal agents with a different mechanism of action. On the basis of this rationale, in May 2001 the National Surgical Adjuvant Breast and Bowel Project (NSABP) initiated accrual into protocol B-33, a phase III, randomized, doubleblind, placebo-controlled trial evaluating exemestane in early-stage breast cancer patients who were disease-free after completing 5 years of adjuvant tamoxifen. Exemestane, a potent, orally active, selective, irreversible, steroidal aromatase inactivator, binds covalently (irreversibly) to the substrate-binding site of aromatase, resulting in marked decrease in plasma estrogen levels, comparable to those obtained with the third generation nonsteroidal aromatase inhibitors.19 In patients with advanced breast cancer, exemestane has shown antitumor activity in several phase II trials20-22 and has resulted in significant prolongation in time to progression and overall survival (OS) in postmenopausal women who experienced failure with tamoxifen.23 Since the initiation of the B-33 trial, exemestane was also found superior to tamoxifen as first-line therapy in patients with advanced breast cancer24 and in the adjuvant setting after 2 to 3 years of tamoxifen.25,26 When accrual to the B-33 trial was initiated, no other information existed on benefit from aromatase inhibitors in this setting. However, in October 2003, while accrual to B-33 was ongoing (1,598 patients had been accrued of 3,000 required), interim analysis results from another similarly designed trial (National Cancer Institute of Canada [NCIC] MA.17) demonstrating benefit from letrozole in patients who had completed 5 years of tamoxifen became available.12 In view of these results, the NSABP Data Monitoring Committee recommended to permanently stop accrual to B-33, unblind the treatment assignment, and offer exemestane to patients in the placebo group. Patients in the exemestane group were offered continuation of exemestane for a total of 5 years. Patient follow-up continued as described in the protocol. In this report, we present an outcome analysis based on the original exemestane assignment by random assignment (intention-to-treat). Initial results from this analysis were presented at the 2006 San Antonio Breast Cancer Symposium and are described here in more detail. PATIENTS AND METHODS Study Aims The primary aim of the trial was to determine whether adjuvant exemestane after 5 years of tamoxifen would prolong disease-free survival (DFS). Secondary aims were to determine whether adjuvant exemestane would prolong overall survival (OS) and relapse-free survival (RFS) and to evaluate the effect of exemestane and of tamoxifen withdrawal on bone mineral density, blood lipid profile, and quality of life (QOL). Results from the bone mineral density and blood lipid substudies are not available at present. Results on the QOL substudy are included in this report. Patient Eligibility Eligible patients signed an approved consent form that met federal and institutional guidelines, and the study was reviewed and approved by the institutional review boards of the participating organizations. Eligible women were required to be postmenopausal at random assignment and must have received tamoxifen for a total of 57 to 66 months for clinical stage T1-3 N0-1 M0, ER and/or progesterone receptor (PgR)-positive, invasive breast cancer. Post1966 
+
+© 2008 by American Society of Clinical Oncology 
+
+menopausal status required either previous bilateral oophorectomy or, for women who had not undergone hysterectomy, the absence of spontaneous menstrual cycles for more than 1 year. Women younger than 55 years who had had a hysterectomy but not bilateral oophorectomy were required to have FSH within postmenopausal range. Patients had to be disease-free at random assignment, and the interval between tamoxifen completion and random assignment was required to be less than 180 days. Original surgical treatment could have been lumpectomy or mastectomy with either axillary dissection or sentinel node biopsy. Prior adjuvant or neoadjuvant chemotherapy was allowed. Postlumpectomy breast radiotherapy was required but other types of locoregional radiotherapy were optional. Patients were required to have adequate hematologic, hepatic, and renal function. Protocol Therapy The original protocol design randomly assigned patients to 2 years of exemestane versus 2 years of placebo. However, before any of the patients completed the 2 years of assigned therapy, the protocol was amended to extend the duration of both exemestane and placebo to 5 years. This treatment extension was implemented recognizing the continuing risk of recurrence in this population of patients and was supported by additional data on the safety of aromatase inhibitors, in general, and of exemestane, in particular. QOL Substudy The QOL substudy compared self-reported symptoms in patients treated with exemestane versus those treated with placebo. Generic measures of health-related QOL were not used. Although treatment with aromatase inhibitors may improve some aspects of QOL in patients with advanced breast cancer,27 generic QOL measures are not sensitive enough to detect specific effects associated with hormonal therapy in relatively healthy women who are free of distant disease.28,29 The MA.17 trial QOL study, for example, showed few differences between letrozole and placebo on a generic measure of QOL in the same patient population.30 Patient-reported symptoms were assessed with the Menopause-Specific Quality-of-Life Questionnaire (MENQOL) developed by Hilditch et al.31 This questionnaire consists of 29 items and has demonstrated validity, reliability, and responsiveness in postmenopausal women.31 It includes four scales for vasomotor, psychosocial, physical and sexual domains, each scored on a range from 1 (no symptoms) to 8 (high severity). The MENQOL was also used in the MA.17 trial of letrozole after tamoxifen.30 Statistical Design and Analysis Randomization and treatment assignments. Treatment assignment was balanced with respect to nodal status at the time of original diagnosis (negative or positive) and institution, using a biased-coin minimization algorithm.32 End points. The primary end point for the study was DFS, which included local recurrence in the chest wall after mastectomy or in the ipsilateral breast after lumpectomy, regional and distant recurrence, second primary cancer (other than squamous or basal cell carcinoma of the skin, carcinoma in situ of the cervix, or lobular carcinoma in situ of the breast), and death resulting from any cause before recurrence or second primary. Secondary end points were OS (death resulting from any cause) and RFS (time to recurrence or contralateral breast cancer). Other second primary cancers and deaths without evidence of disease were treated as censored events for RFS. All end points (DFS, OS, and RFS) were measured from the date of random assignment. Design and Analysis for the Main Study The study was designed to detect a 21.3% reduction in DFS in the exemestane versus the placebo group with a power of 80%, using a two-sided .05-level log-rank test. Based on these assumptions, the required number of DFS events to be reached was 547, and the sample size of 3,000 would allow the definitive analysis to be performed 6 years after the initiation of the study. The distributions of event times were nonparametrically estimated by the Kaplan-Meier method.33 Differences in primary and secondary end points between the placebo and exemestane groups were assessed by the two-sided log-rank test with significance level of .05.34 The proportional hazards regression model was used to estimate the hazard ratio (HR).35 The ␹2-test was used to compare proportions in fracture and toxicity data. Competing risks analysis JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Exemestane After 5 Years of Tamoxifen 
+
+based on the cumulative incidence function was used to estimate and compare cumulative proportions of a subset of the DFS events over time under censoring.36 All reported P values are two sided. The analysis results presented here are based on the original exemestane assignment by random assignment. Patients were enrolled from May 2001 through October 9, 2003, with the follow-up cutoff date of December 31, 2005. Results from both intention-to-treat and eligible-patients-only analyses are presented. Statistical Considerations for the QOL Substudy The QOL substudy was designed to include the first 600 patients enrolled by Community Clinical Oncology Program (CCOP) institutions. This sample size would result in 80% power to detect a mean difference of .5 in any of the domains. Assessments were scheduled at baseline and every 6 months for 5.5 years. Repeated measures analysis (mixed-effects modeling) was used to estimate differences between treatment groups. 
+
+tane and placebo groups who did not choose to receive exemestane as part of the study was not collected. After unblinding, information on treatment assignment was promptly provided to participating NSABP institutions. However, patients who crossed over to exemestane started treatment at various time intervals. Among the 344 placebo patients who switched to exemestane, we have information on the exemestane starting dates for 246 patients. Only 3.6% of the patients switched to exemestane within 6 months after unblinding, 67.5% switched between 6 and 12 months, 21.5% switched between 12 and 18 months, and the remaining 7.3% switched between 18 and 24 months after unblinding. 
+
+Table 1. Distribution of Patient and Tumor Characteristics in the NSABP B-33 Cohort % 
+
+RESULTS Characteristic 
+
+Between May 2001 and October 2003, 1,598 patients were randomly assigned (Fig 1). Of those, 1,577 were eligible and 1,562 were eligible with follow-up; reasons for ineligibility are summarized in Figure 1. On unblinding, 560 of 783 eligible patients with follow-up on exemestane (72%) chose to continue exemestane. Of the 779 eligible patients with follow-up on placebo, 344 (44%) switched to exemestane (Fig 1). Information on other treatments received for patients in the exemes- 
+
+Original sample size (N = 3,000) Accrual as of October 2003 (accrual stopped) (n = 1,598) Eligible (n = 1,577) Eligible with follow-up (n = 1,562) 
+
+Ineligible (n = 21)* No follow-up (n = 15) 
+
+Exemestane (n = 783) 
+
+Placebo (n = 779) 
+
+Continued on Exemestane after unblinding (n = 560) 72% 
+
+Crossover to Exemestane after unblinding (n = 344) 44% 
+
+Fig 1. CONSORT diagram of the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-33 trial. (*) Reasons for ineligibility: abnormal pre-entry studies (n ⫽ 2); required pre-entry studies not performed (n ⫽ 4); or not performed as specified (n ⫽ 5); premenopausal status (n ⫽ 1); prior breast cancer other than lobular carcinoma in situ (n ⫽ 2); prior recurrence (n ⫽ 1); unknown/negative estrogen-/progesterone-receptor status (n ⫽ 3); tamoxifen therapy outside the prespecified range (n ⫽ 1); original tumor not invasive carcinoma (n ⫽ 1); unknown margin status (n ⫽ 1). www.jco.org 
+
+Exemestane Placebo All Patients (n ⫽ 799) (n ⫽ 799) (N ⫽ 1,598) 
+
+Age, years ⬍ 60 ⱖ 60 Tumor size, cm 0-2 ⬎2 Unknown No. of positive nodes 0 1-3 4⫹ Hormone receptor status ER⫹/PR⫹ ER⫹/PR– ER–/PR⫹ ER–/PR– Unknown Type of surgery Lumpectomy Mastectomy Unknown Prior adjuvant therapy Chemotherapy Other treatment Both None Duration of adjuvant tamoxifen, months 57-59 60 61-67 Time from completion of tamoxifen to randomization, days 0-59 60-119 120-180 Postmenopausal status determination Bilateral oophorectomy No bilateral oophorectomy and no hysterectomy Hysterectomy but no oophorectomy, ⱖ 55 years Hysterectomy but no oophorectomy, ⬍ 55 years 
+
+49 51 
+
+51 49 
+
+50 50 
+
+61 38 1 
+
+61 38 1 
+
+61 38 1 
+
+52 33 15 
+
+52 33 15 
+
+52 33 15 
+
+82 12 3 0 3 
+
+80 14 2 ⬍1 4 
+
+81 13 3 ⬍1 3 
+
+50 48 2 
+
+51 46 3 
+
+51 47 2 
+
+56 1 5 38 
+
+55 2 5 38 
+
+55 1 5 39 
+
+15 57 28 
+
+16 60 24 
+
+15 59 26 
+
+65 20 15 
+
+65 18 17 
+
+65 19 16 
+
+20 63 
+
+23 61 
+
+21 62 
+
+15 
+
+14 
+
+15 
+
+2 
+
+2 
+
+2 
+
+Abbreviations: NSABP: National Surgical Adjuvant Breast and Bowel Project; ER, estrogen receptor; PR, progesterone receptor. 
+
+© 2008 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+1967 
+
+Mamounas et al 
+
+100 
+
+89% 
+
+HR = 0.68 P = 0.07 
+
+60 40 
+
+N Group 779 Placebo Exemestane 783 
+
+20 
+
+0 
+
+1 
+
+Events 52 37 
+
+2 
+
+94% 
+
+80 
+
+Event-Free (%) 
+
+Event-Free (%) 
+
+80 
+
+96% 
+
+100 
+
+91% 
+
+60 
+
+HR = 0.44 P = 0.004 
+
+40 
+
+3 
+
+4 
+
+5 
+
+0 
+
+Time After Randomization (years) No. at risk Placebo Exemestane 
+
+743 752 
+
+562 599 
+
+N Group 779 Placebo Exemestane 783 
+
+20 
+
+162 196 
+
+1 
+
+Events 37 17 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Time After Randomization (years) No. at risk Placebo Exemestane 
+
+16 15 
+
+743 752 
+
+562 599 
+
+162 196 
+
+16 15 
+
+Fig 2. Kaplan-Meier estimates of disease-free survival with exemestane versus placebo (intent-to-treat) for eligible patients with follow-up. HR, hazard ratio. 
+
+Fig 4. Kaplan-Meier estimates of relapse-free survival with exemestane versus placebo (intent-to-treat) for eligible patients with follow-up. HR, hazard ratio. 
+
+Patient and tumor characteristics were well balanced between the exemestane and the placebo groups (Table 1). Approximately half of the patients were under the age of 60, approximately two thirds had tumors 2 cm or smaller, and approximately half had negative axillary nodes. Eighty-one percent of the tumors were ER⫹ /PgR⫹, 13% were ER⫹ /PgR–, and 3% were ER–/PgR⫹. 
+
+v 16 events) and opposite breast cancer (two v eight events). There were 13 nonbreast second primary cancers in each group. There were seven deaths without recurrence in the exemestane versus two in the placebo group. None of these differences (based on 4-year cumulative incidence rates) were statistically significant except for opposite-breast cancer (P ⫽ .05). Per protocol definition, local, regional, and distant recurrence and opposite-breast cancer were the only events included in the RFS end point. Analysis of RFS demonstrated that original exemestane assignment significantly reduced breast cancer recurrence by 56%, translating into a 2% absolute improvement in the 4-year RFS estimate (94% for placebo v 96% for exemestane: P ⫽ .004; Fig 4). Analysis including all patients with follow-up also showed a statistically significant 52% reduction in RFS event in favor of the exemestane group (P ⫽ .008). Although not a prespecified end point of the trial, analysis of distant DFS demonstrated that original random assignment to 
+
+Effect of Exemestane on Outcome Median follow-up for this intention-to-treat analysis was 30 months. Analysis of DFS for eligible patients with follow-up demonstrated that original exemestane assignment resulted in a 32%, non– statistically significant reduction in DFS event, translating to a 2% absolute improvement in 4-year DFS estimate (89% for placebo v 91% for exemestane; P ⫽ .07; Fig 2). Analysis including all patients with follow-up showed a similar 29% reduction in DFS event in favor of the exemestane group (P ⫽ .09). Analysis of sites of first treatment failure (Fig 3) demonstrated fewer events in the exemestane versus the placebo group for local (four v 10 events), regional (zero v three events), and distant recurrence (11 
+
+No. of Events 
+
+20 
+
+Exemestane Placebo 
+
+P = 0.3 
+
+15 
+
+16 
+
+13 11 
+
+10 
+
+13 
+
+P = 0.05 
+
+7 
+
+P = 0.08 4 0 
+
+0 Local Recurrence 
+
+3 
+
+Regional Recurrence 
+
+2 Distant Recurrence 
+
+Opposite Breast Ca 
+
+2 2nd Primary Non-Breast 
+
+Death NED 
+
+DFS Events RFS Events 
+
+Fig 3. Sites of first event with exemestane versus placebo. P values are based on 4-year cumulative incidence rates. RFS, relapse-free survival; DFS, diseasefree survival; Ca, cancer; NED, no evidence of disease. 1968 
+
+p-value 
+
+< 60 years (n = 777) 
+
+0.53 
+
+P = .06 
+
+≥ 60 years (n = 785) 
+
+0.80 
+
+P = .43 
+
+≤ 2 cm (n = 955) > 2 cm (n = 558) 
+
+0.79 0.49 
+
+P = .40 P = .04 
+
+ER +\ and PR + (n = 1266) ER + or PR + (n = 248) 
+
+0.70 0.52 
+
+P = .15 P = .17 
+
+Node-negative (n = 807) 
+
+1.13 
+
+P = .74 
+
+Node-positive (n = 755) 
+
+0.50 
+
+P = .01 
+
+Prior adj. chemo (n = 863) 
+
+0.58 
+
+P = .05 
+
+No. prior adj. chemo (n = 699) 
+
+0.90 
+
+P = .43 
+
+P = 0.1 
+
+8 
+
+5 
+
+HR 
+
+P = 0.9 
+
+P = 0.1 
+
+10 
+
+Subgroup (no. patients) 
+
+© 2008 by American Society of Clinical Oncology 
+
+0.0 
+
+0.5 
+
+Exemestane better 
+
+1.0 HR 
+
+1.5 
+
+2.0 
+
+Placebo better 
+
+Fig 5. Reductions in disease-free survival event with exemestane versus placebo according to patient subgroups. ER, estrogen receptor; PR, progesterone receptor; HR, hazard ratio. JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Exemestane After 5 Years of Tamoxifen 
+
+8 
+
+B 
+
+Exemestane Placebo 
+
+8 
+
+7 
+
+7 
+
+6 
+
+6 
+
+Score 
+
+Score 
+
+A 
+
+5 
+
+5 
+
+4 
+
+4 
+
+3 
+
+3 
+
+2 
+
+2 
+
+1 
+
+Exemestane Placebo 
+
+1 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+0 
+
+Assessment Time Point (month) 8 
+
+D 
+
+Exemestane Placebo 
+
+12 
+
+8 
+
+7 
+
+7 
+
+6 
+
+6 
+
+Score 
+
+Score 
+
+C 
+
+6 
+
+18 
+
+24 
+
+Assessment Time Point (month) 
+
+5 
+
+Exemestane Placebo 
+
+5 
+
+4 
+
+4 
+
+3 
+
+3 
+
+2 
+
+2 1 
+
+1 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+Assessment Time Point (month) 
+
+0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+Assessment Time Point (month) 
+
+Fig 6. Comparison of exemestane versus placebo on various components of the Menopause-Specific Quality-of-Life Questionnaire (MENQOL). (A) MENQOL vasomotor scale, (B) MENQOL psychosocial scale, (C) MENQOL physical scale, and (D) MENQOL sexual scale. 
+
+exemestane resulted in a nonsignificant reduction in distant recurrence by 31% (P ⫽ .13). OS was not significantly different between the two groups, but there were too few deaths in each group to draw definitive conclusions (16 deaths for exemestane v 13 for placebo). In an exploratory subset analysis among eligible patients with follow-up, we examined the reductions in DFS events, according to age, tumor size, nodal status, ER/PgR status, and prior adjuvant chemotherapy administration. The effect of original exemestane assignment in reducing DFS events was more pronounced in patients younger than 60 years (HR ⫽ 0.53; 95% CI, 0.27 to 1.03), in those with tumors larger than 2 cm (HR ⫽ 0.49; 95% CI, 0.24 to 0.98), in those with positive nodes (HR ⫽ 0.50; 95% CI, 0.30 to 0.86), and in those who received prior adjuvant chemotherapy (HR ⫽ 0.58; 95% CI, 0.34 to 1.01; Fig 5). Subset analysis for RFS also showed that original exemestane assignment significantly reduced RFS events in patients younger than 60 years (HR ⫽ 0.27; 95% CI, 0.10 to 0.73), in those with tumors larger than 2 cm (HR ⫽ 0.28; 95% CI, 0.11 to 0.71), in those with positive nodes (HR ⫽ 0.33; 95% CI, 0.16 to 0.68), in those who received prior adjuvant chemotherapy (HR ⫽ 0.28; 95% CI, 0.12 to www.jco.org 
+
+0.66), and in those with tumors that were both ER and PgR positive (HR ⫽ 0.40; 95% CI, 0.21 to 0.80). Subset analyses both for DFS and RFS including all patients with follow-up showed similar results (data not shown). Effect of Exemestane on Toxicity Toxicity was assessed up to the time of unblinding. There were no treatment-related deaths in the exemestane group. There were no significant differences in grade 4 toxicity between the two groups (1% each). Grade 3 toxicity was significantly higher with exemestane versus placebo (9% v 6% respectively; P ⫽ .03). Most commonly observed grade 3/4 toxicities in the exemestane versus placebo groups were arthralgia (1.0% v 0.5%), fatigue (0.9% v 0.5%), and bone pain (0.5% v 0.7%). At 6 months after unblinding, there were 28 patients with fractures in the exemestane group versus 20 in the placebo group (P ⫽ .33). Effect of Exemestane on QOL Of the planned sample size of 600 patients, 470 were enrolled in the QOL substudy before closure of accrual. Of those, 454 provided a © 2008 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+1969 
+
+Mamounas et al 
+
+baseline assessment and are included in our analyses. Assessments were available through 24 months of follow-up. Compliance with questionnaires was high, ranging from 80% to 97% of expected questionnaires. Although patients assigned to exemestane had numerically higher symptom severity on all four scales, there were no significant treatment effects in the vasomotor (P ⫽ .87), psychosocial (P ⫽ .27), physical (P ⫽ .13), or sexual (P ⫽ .23) scales (Figs 6A-6D). DISCUSSION 
+
+It is interesting but not entirely surprising that, despite the early stopping of accrual and the significant crossover to exemestane in the placebo group, there was a non–statistically significant 32% reduction in DFS event and a statistically significant 56% reduction in RFS event in patients who had initially been randomly assigned to exemestane. Crossover to exemestane in the placebo group did not occur immediately after unblinding in the majority of the patients, allowing the original treatment assignment to continue its effects for a considerable time period after unblinding and contributing in part to the observed differences presented here. Supporting this is the observation that the effect of exemestane was more pronounced in the subsets of patients at higher risk for early recurrence (ie, those with larger tumors, those with positive nodes, and those who had received prior adjuvant chemotherapy); those subsets were more likely than the rest to encounter events in the early follow-up period before crossover. Finally, the benefit from exemestane was realized early (median follow-up, 30 months), in line with reports from other aromatase inhibitor trials in which the treatment benefit was generally realized with only 2 to 3 years of median follow-up. The reductions in DFS and RFS events observed in our trial are of a magnitude similar to those seen with the nonsteroidal aromatase inhibitors letrozole and anastrozole in the same setting. The NCIC MA.17 trial demonstrated a 42% reduction in recurrence with letrozole over placebo after 5 years of tamoxifen.12,13 Similarly, a smaller trial by the Austrian Breast Cancer Study Group (ABCSG; trial 6A) demonstrated a 36% reduction in DFS event, with 3 years of anastrozole versus placebo after 5 years of tamoxifen.15 The lack of OS difference with exemestane in our trial is also not surprising given the small number of deaths that have occurred. Neither of the other trials noted herein has shown a significant difference in OS for the whole study population because of the few deaths that have been observed, although the MA.17 trial showed a significant survival benefit from letrozole in node-positive patients.13 It is also reassuring that the effect of exemestane was more pronounced in reducing RFS events than in reducing DFS events. Given the results of previously reported adjuvant trials with aromatase inhibitors, one would not expect differences in second primary cancers or deaths without evidence of recurrence as a result of treatment with the aromatase inhibitor. Although the International Exemestane Study showed a significant reduction in nonbreast second primary malignancies with exemestane versus tamoxifen, no such differences have been observed in any of the trials with nonsteroidal aromatase inhibitors or with exemestane in the B-33 trial. Finally, regarding the QOL results, in our trial, differences in the patient-reported symptoms between those taking exemestane and those taking placebo were small, generally smaller than the protocolspecified difference of 0.5. Similarly, the NCIC MA.17 trial, with a QOL sub-study of 3,612 participants, reported differences between 1970 
+
+© 2008 by American Society of Clinical Oncology 
+
+letrozole and placebo groups smaller than 0.2 standard deviations (significant at only some of the time points in the MENQOL vasomotor and sexual scales).30 These data suggest that exemestane after tamoxifen is well tolerated, and women who took this medication reported a mild, but insignificant, increase in symptoms compared with women who took placebo. In conclusion, despite early closure of accrual and considerable crossover to exemestane, original exemestane assignment in our trial resulted in reductions in DFS and RFS events of a magnitude similar to those seen with nonsteroidal aromatase inhibitors in the same setting. These findings demonstrate that exemestane may provide another option for the extended adjuvant treatment of postmenopausal women with hormone-receptor–positive breast cancer who complete 5 years of adjuvant tamoxifen. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Eleftherios P. Mamounas, Pfizer, Novartis, AstraZeneca (C); Victor G. Vogel, Pfizer Oncology (C); Joan F. Kroener, Pfizer (C), Novartis (C); André Robidoux, Pfizer Canada (C); James N. Ingle, Novartis (C), AstraZeneca (C) Stock Ownership: None Honoraria: Eleftherios P. Mamounas, Novartis (C), Pfizer (C); D. Lawrence Wickerham, AstraZeneca (C) Novartis (C), Eli Lilly & Co (C); André Robidoux, Pfizer Canada (C); James N. Ingle, Novartis (C), AstraZeneca (C) Research Funding: Victor G. Vogel, Pfizer Oncology Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Eleftherios P. Mamounas, Jong-Hyeon Jeong, Roy E. Smith, Patricia A. Ganz, Joseph P. Costantino Administrative support: Roy E. Smith, James N. Atkins, Eduardo R. Pajon, Joseph P. Costantino, Norman Wolmark Provision of study materials or patients: Eleftherios P. Mamounas, Andrea Eisen, Louis Fehrenbacher, William B. Farrar, James N. Atkins, Eduardo R. Pajon, Victor G. Vogel, Joan F. Kroener, André Robidoux, James L. Hoehn, James N. Ingle Collection and assembly of data: Eleftherios P. Mamounas, Jong-Hyeon Jeong, D. Lawrence Wickerham, Roy E. Smith, Stephanie R. Land, Louis Fehrenbacher, William B. Farrar, Eduardo R. Pajon, Joan F. Kroener, André Robidoux, Joseph P. Costantino Data analysis and interpretation: Eleftherios P. Mamounas, Jong-Hyeon Jeong, Roy E. Smith, Patricia A. Ganz, Stephanie R. Land, Charles E. Geyer Jr Manuscript writing: Eleftherios P. Mamounas, Jong-Hyeon Jeong, D. Lawrence Wickerham, Patricia A. Ganz, Stephanie R. Land, Victor G. Vogel, James L. Hoehn, Joseph P. Costantino Final approval of manuscript: Eleftherios P. Mamounas, Jong-Hyeon Jeong, D. Lawrence Wickerham, Roy E. Smith, Patricia A. Ganz, Stephanie R. Land, Andrea Eisen, Louis Fehrenbacher, William B. Farrar, James N. Atkins, Eduardo R. Pajon, Victor G. Vogel, Joan F. Kroener, Laura F. Hutchins, André Robidoux, James L. Hoehn, James N. Ingle, Charles E. Geyer Jr, Joseph P. Costantino, Norman Wolmark JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+Exemestane After 5 Years of Tamoxifen 
+
+REFERENCES 1. Early Breast Cancer Trialists’ Collaborative Group: Tamoxifen for early breast cancer: An overview of the randomised trials—Early Breast Cancer Trialists’ Collaborative Group. Lancet 351:14511467, 1998 2. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomized trials. Lancet 365:1687-1717, 2005 3. Baum M, Budzar AU, Cuzick J, et al: The ATAC Trialists’ Group: Anastrozole alone or in combination with tamoxifen versus tamoxifen alone for adjuvant treatment of postmenopausal women with early breast cancer: First results of the ATAC randomised trial. Lancet 359:2131-2139, 2002 4. Howell A, Cuzick J, Baum M, et al: Results of the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial after completion of 5 years’ adjuvant treatment for breast cancer. Lancet 365:60-62, 2005 5. Thürlimann B, Keshaviah A, Coates AS, et al: A comparison of letrozole and tamoxifen in postmenopausal women with early breast cancer. N Engl J Med 353:2747-2757, 2005 6. Coombes RC, Hall E, Snowdon CF, et al: The Intergroup Exemestane Study: A randomized trial in postmenopausal patients with early breast cancer who remain disease-free after two to three years of tamoxifen-updated survival analysis. Br Ca Res Treat 88:S7, 2004 (abstr 3) 7. Coombs RC, Paridaens R, Jassem J, et al: First mature analysis of the Intergroup Exemestane Study. J Clin Oncol 24:933s, 2006 (abstr LBA527) 8. Boccardo F, Rubagotti A, Puntoni M, et al: Switching to anastrozole versus continued tamoxifen treatment of early breast cancer: Preliminary results of the Italian Tamoxifen Anastrozole Trial. J Clin Oncol 23:5138-5147, 2005 9. Boccardo F, Rubagotti A, Gugliemini P, et al: Switching to anastrozole versus continued tamoxifen treatment of early breast cancer: Updated results of the Italian tamoxifen anastrozole (ITA) trial. Ann Oncol 17:vii10-vii14, 2006 (suppl 7) 10. Jakesz R, Jonat W, Gnant M, et al: Switching of postmenopausal women with endocrineresponsive early breast cancer to anastrozole after 2 years’ adjuvant tamoxifen: Combined results of ABCSG trial 8 and ARNO 95 trial. Lancet 366:455462, 2005 11. Kaufmann M, Jonat W, Hilfrich H, et al: Survival benefit of switching to anastrozole after 2 years’ treatment with tamoxifen versus continued 
+
+tamoxifen therapy: The ARNO 95 study. J Clin Oncol 24:547, 2006 (suppl; abstr 547) 12. Goss PE, Ingle JN, Martino S, et al: A randomized trial of letrozole in postmenopausal women after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 349:1793-1802, 2003 13. Goss PE, Ingle JN, Martino S, et al: Randomized trial of letrozole following tamoxifen as extended adjuvant therapy in receptor-positive breast cancer: Updated findings from NCIC CTG MA. 17. J Natl Cancer Inst 97:1262-1271, 2005 14. Jakesz R, Samonigg H, Greil R, et al: Extended adjuvant treatment with anastrozole: Results from the Austrian Breast and Colorectal Cancer Study Group Trial 6a (ABCSG-6a). J Clin Oncol 23:10s, 2005 (suppl; abstr 527) 15. Jakesz R, Gnant M, Greil R, et al: The benefits of sequencing adjuvant tamoxifen and anastrozole in postmenopausal women with hormone-responsive breast cancer: 5 year-analysis of ABCSG Trial 8. Br Ca Res Treat 94:S10, 2005 (abstr 13) 16. Saphner T, Tormey DC, Gray R: Annual hazard rates of recurrence for breast cancer after primary therapy. J Clin Oncol 14:2738-2746, 1996 17. Fisher B, Dignam J, Bryant J, et al: Five versus more than five years of tamoxifen therapy for breast cancer patients with negative lymph nodes and estrogen receptor-positive tumors. J Natl Cancer Inst 88:1529-1542, 1996 18. Fisher B, Dignam J, Bryant J, et al: Five versus more than five years of tamoxifen for lymph nodenegative breast cancer: Updated findings from the National Surgical Adjuvant Breast and Bowel Project B-14 randomized trial. J Natl Cancer Inst 93:684690, 2001 19. Di Salle E, Briatico G, Giudici D, et al: Novel aromatase and 5 alpha-reductase inhibitors. J Steroid Biochem Mol Biol 49:289-294, 1994 20. Jones S, Vogel C, Arkhipov A, et al: Multicenter, phase II trial of exemestane as third-line hormonal therapy of postmenopausal women with metastatic breast cancer: Aromasin Study Group. J Clin Oncol 17:3418-3425, 1999 21. Lønning PE, Bajetta E, Murray R, et al: Activity of exemestane in metastatic breast cancer after failure of nonsteroidal aromatase inhibitors: A phase II trial. J Clin Oncol 18:2234-2244, 2000 22. Kvinnsland S, Anker G, Dirix LY, et al: High activity and tolerability demonstrated for exemestane in postmenopausal women with metastatic breast cancer who had previously failed on tamoxifen treatment. Eur J Cancer 36:976-982, 2000 23. Kaufmann M, Bajetta E, Dirix LY, et al: Exemestane is superior to megestrol acetate after tamoxifen failure in postmenopausal women with 
+
+advanced breast cancer: Results of a phase III randomized double-blind trial—The Exemestane Study Group. J Clin Oncol 18:1399-1411, 2000 24. Paridaens R, Dirix L, Lohrisch C, et al: Mature results of a randomized phase II multicenter study of exemestane versus tamoxifen as first-line hormone therapy for postmenopausal women with metastatic breast cancer. Ann Oncol 14:1391-1398, 2003 25. Coombes RC, Hall E, Gibson LJ, et al: A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 350:1081-1092, 2004 26. Coombes RC, Kilburn LS, Snowdon CF, et al: Survival and safety of exemestane versus tamoxifen after 2-3 years’ tamoxifen treatment (Intergroup Exemestane Study): A randomised controlled trial. Lancet 369:559-570, 2007 27. Weinfurt KP, Wait SL, Boyko W, et al: Psychosocial quality of life in a Phase III trial of letrozole. Proc Am Soc Clin Oncol 16:108a, 1998 (abstr 417) 28. Day R, Ganz PA, Costantino JP, et al: Healthrelated quality of life and tamoxifen in breast cancer prevention: A report from the National Surgical Adjuvant Breast and Bowel Project P-1 Study. J Clin Oncol 17:2659-2669, 1999 29. Land SR, Ganz PA: Quality of life issues with endocrine chemoprevention, in Morrow M, Jordan VC (eds): Managing Breast Cancer Risk. Hamilton, Ontario, Canada, BC Decker Inc, 2003 30. Whelan TJ, Goss PE, Ingle JN, et al: Assessment of quality of life in MA.17: A randomized, placebo-controlled trial of letrozole after 5 years of tamoxifen in postmenopausal women. J Clin Oncol 23:6931-6340, 2005 31. Hilditch JR, Lewis J, Peter A, et al: A menopause-specific quality of life questionnaire: Development and psychometric properties. Maturitas 24:161-175, 1996 32. White S, Freedman LS: Allocation of patients to treatment groups in a controlled clinical study. Br J Cancer 37:849-857, 1978 33. Kaplan E, Meier P: Nonparametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 34. Peto R, Peto J: Asymptotically efficient rank invariant test procedures (with discussion). J Royal Statist Soc 135:185-206, 1972 35. Cox DR: Regression models and life tables. J Royal Stat Soc 34:187-220, 1972 36. Gray RJ: A class of K-sample tests for comparing the cumulative incidence of a competing risk. Ann Stat 16:1141-1154, 1988 
+
+■ ■ ■ 
+
+Acknowledgment We thank National Surgical Adjuvant Breast and Bowel Project Director of Scientific Publications Barbara C. Good, PhD, for editorial assistance with this article. 
+
+www.jco.org 
+
+© 2008 by American Society of Clinical Oncology 
+
+Downloaded from jco.ascopubs.org on October 30, 2015. For personal use only. No other uses without permission. Copyright © 2008 American Society of Clinical Oncology. All rights reserved. 
+
+1971 
+
+ 

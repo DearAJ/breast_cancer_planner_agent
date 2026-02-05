@@ -1,0 +1,6341 @@
+original reports 
+
+Absolute Improvements in Freedom From Distant Recurrence to Tailor Adjuvant Endocrine Therapies for Premenopausal Women: Results From TEXT and SOFT Olivia Pagani, MD1; Prudence A. Francis, MD2; Gini F. Fleming, MD3; Barbara A. Walley, MD4; Giuseppe Viale, MD5; Marco Colleoni, MD5,6; István Láng, MD, PhD7; Henry L. Gómez, MD, PhD8; Carlo Tondini, MD9; Graziella Pinotti, MD10; Angelo Di Leo, MD, PhD11; Alan S. Coates, MD12; Aron Goldhirsch, MD5,6; Richard D. Gelber, PhD13; and Meredith M. Regan, ScD13,14 for the SOFT and TEXT Investigators and International Breast Cancer Study Group 
+
+abstract 
+
+PURPOSE The Tamoxifen and Exemestane Trial (TEXT)/Suppression of Ovarian Function Trial (SOFT) showed superior outcomes for premenopausal women with hormone receptor (HR)–positive breast cancer treated with adjuvant exemestane plus ovarian function suppression (OFS) or tamoxifen plus OFS versus tamoxifen alone. We previously reported the magnitude of absolute improvements in freedom from any recurrence across a continuous, composite measure of recurrence risk to tailor decision making. With longer follow-up, we now focus on distant recurrence. METHODS The TEXT/SOFT HR-positive/human epidermal growth factor receptor 2 (HER2)–negative analysis population included 4,891 women stratiﬁed by predetermined chemotherapy use. Kaplan-Meier estimates of 8-year freedom from distant recurrence were analyzed using subpopulation treatment effect pattern plot (STEPP) methodology across subpopulations deﬁned by the continuous composite measure of recurrence risk. For each patient, the composite risk value was obtained from a Cox model that incorporated age; nodal status; tumor size; grade; and estrogen receptor, progesterone receptor, and Ki-67 labeling index expression levels. RESULTS The overall rate of 8-year freedom from distant recurrence was 91.1% and ranged from approximately 100% to 63% across lowest to highest composite risks. TEXT patients who received chemotherapy had an average absolute improvement with exemestane plus OFS versus tamoxifen plus OFS of 5.1%, and STEPP analysis showed improvements from less than 1% to more than 15% from lowest to highest composite risks. SOFT patients who remained premenopausal after chemotherapy had an average 5.2% absolute improvement with exemestane plus OFS versus tamoxifen and reached 10% across composite risks; for tamoxifen plus OFS versus tamoxifen, the maximum improvement was approximately 3.5%. Women who did not receive chemotherapy had a more than 97% rate of 8-year freedom from distant recurrence, and improvements with exemestane plus OFS ranged from 1% to 4%. 
+
+ASSOCIATED CONTENT See accompanying Oncology Grand Rounds doi 10.1200/ JCO.19.02242 
+
+CONCLUSION Premenopausal women with HR-positive/HER2-negative breast cancer and high recurrence risk, as deﬁned by clinicopathologic characteristics, may experience a 10% to 15% absolute improvement in 8-year freedom from distant recurrence with exemestane plus OFS versus tamoxifen plus OFS or tamoxifen alone. The potential beneﬁt of escalating endocrine therapy versus tamoxifen alone is minimal for those at low recurrence risk. J Clin Oncol 37. © 2019 by American Society of Clinical Oncology 
+
+Appendix Author afﬁliations and support information (if applicable) appear at the end of this article. 
+
+INTRODUCTION 
+
+Accepted on August 29, 2019 and published at jco.org on October 16, 2019: DOI https://doi.org/10. 1200/JCO.18.01967 
+
+Adjuvant endocrine therapy recommendations for premenopausal women with hormone receptor (HR)– positive breast cancer have changed on the basis of the 5-year results of the Tamoxifen and Exemestane Trial (TEXT) and the Suppression of Ovarian Function Trial (SOFT; ClinicalTrials.gov identiﬁers: NCT00066703 and NCT00066690, respectively).1,2 Tamoxifen alone remains the standard of care in women at low risk of 
+
+relapse, as deﬁned by clinical and pathologic features, and by genomic parameters, when available. Ovarian function suppression (OFS) should be proposed to patients at higher risk for recurrence in addition to oral endocrine therapy with either tamoxifen or an aromatase inhibitor.3-6 A secondary analysis of the women enrolled in TEXT and SOFT with HR-positive/human epidermal growth factor receptor 2 (HER2)–negative cancers estimated 
+
+1 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+absolute improvements in 5-year freedom from breast cancer (including invasive locoregional, distant, or contralateral breast cancer) according to recurrence risk deﬁned from clinicopathologic characteristics. The women at high recurrence risk experienced absolute improvements of 10% to 15% with exemestane plus OFS versus tamoxifen plus OFS and versus tamoxifen alone, and improvements were of at least 5% for women at intermediate risk.7 In contrast, improvement was minimal for women at lowest risk. Such estimates of the absolute magnitude of improvement can help clinicians to weigh beneﬁts against adverse effects in treatment decisions with individual patients. Recent updates of TEXT and SOFT after a median follow-up of 9 and 8 years, respectively, demonstrated signiﬁcant improvement in disease-free and overall survival with the addition of OFS to tamoxifen in the SOFT population.8 The combined analysis of TEXT and SOFT demonstrated sustained improvements with exemestane plus OFS versus tamoxifen plus OFS in disease-free survival, freedom from breast cancer, and freedom from distant recurrence but not from overall survival.8 Among the patients with HR-positive/ HER2-negative tumors, the rate of freedom from distant recurrence was improved by 3.6% with the use of exemestane plus OFS versus tamoxifen and by 3.5% with exemestane plus OFS versus tamoxifen plus OFS. Distant recurrence in a premenopausal woman has personal, economic, and social costs of greater impact than locoregional recurrence.9 Greater toxicity may be acceptable in prevention of distant recurrence, which generally portends premature death as a result of breast cancer. With extended follow-up, we are now able to reﬁne the estimates of absolute treatment effects in preventing distant recurrence across the spectrum of recurrence risk in the subgroup of women with HR-positive/HER2-negative cancers. METHODS Study Designs The designs and conduct of the trials have been described previously.1,2 In both trials, eligible premenopausal women had invasive early breast cancer assessed as 10% or greater estrogen receptor (ER)– and/or progesterone receptor (PgR)–expressing cells by local determination. The ethics committee at each participating center approved the study protocols, and all patients provided written informed consent for trial participation and mandatory tissue collection for central pathology assessment. Central review of histopathologic features and expression of ER, PgR, HER2, and Ki-67 labeling index (Ki-67) was conducted for 84% of trial patients in the International Breast Cancer Study Group Central Pathology Ofﬁce.10 In TEXT, all women received OFS by gonadotropinreleasing hormone agonist triptorelin from the start of adjuvant therapy; after at least 6 months of triptorelin, patients 
+
+could opt for bilateral oophorectomy or ovarian irradiation. Chemotherapy was optional and if administered, was started concurrently with triptorelin. Between November 2003 and March 2011, 2,672 premenopausal women were randomly assigned to 5 years of exemestane plus OFS or tamoxifen plus OFS. Randomization was stratiﬁed according to intended use of adjuvant chemotherapy and lymph node status. SOFT was designed to determine the value of adding OFS to tamoxifen and the role of exemestane plus OFS in two cohorts of premenopausal women: those who remained premenopausal after completion of (neo)adjuvant chemotherapy and those for whom adjuvant tamoxifen without chemotherapy was considered suitable treatment. Between December 2003 and January 2011, 3,066 women were randomly assigned to 5 years of exemestane plus OFS or tamoxifen plus OFS or tamoxifen alone. Randomization was stratiﬁed according to prior use of chemotherapy, lymph node status, and intended initial method of OFS (if randomly assigned to OFS). End Point and Statistical Considerations The analysis population was previously deﬁned and included 4,891 patients with tumors centrally assessed as HR positive/HER2 negative7 (Appendix Fig A1, online only). Distant recurrence–free interval (DRFI) was deﬁned as the duration of time from random assignment until ﬁrst appearance of invasive breast cancer recurrence at a distant site; in the absence of a distant recurrence, DRFI was censored at date of last follow-up. The median follow-up was 9 years in TEXT and 8 years in SOFT.8 While following the approach previously described,7 the composite measure of recurrence risk (hereafter referred to as composite risk) was determined for the entire HRpositive/HER2-negative analysis population by ﬁtting a Cox proportional hazards regression model for DRFI, stratiﬁed by cohort (deﬁned by trial and chemotherapy use) and treatment assignment. This use of a stratiﬁed model provided the same risk scale for the two trials, which do not share a common control group. Prognostic factors included in the model and their groupings were speciﬁed a priori, and there was no intention to optimize the model on the basis of model selection procedures (Table 1; Appendix Table A1, online only). For tumor grade and ER and PgR expression, the centrally determined values were used when available, and locally determined values were used otherwise; Ki-67 expression was available only from central assessment. Unknown categories were used to avoid systematic exclusion of patients without centrally assessed tumor features. After estimating the model parameters, the composite risk value was calculated for each trial patient by summing the model parameter estimates corresponding to her observed values of clinicopathologic factors. Nonparametric sliding window subpopulation treatment effect pattern plot (STEPP) methodology11,12 was used to 
+
+2 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+TABLE 1. Clinicopathologic Characteristics of the HR-Positive/HER2-Negative Analysis Population of TEXT and SOFT Patients, % Model TEXT Chemotherapy (n = 1,276) 
+
+SOFT Prior Chemotherapy (n = 1,271) 
+
+TEXT No Chemotherapy (n = 991) 
+
+SOFT No Chemotherapy (n = 1,353) 
+
+All Patients (N = 4,891) 
+
+Parameter Estimate 
+
+SE 
+
+Hazard Ratio (95% CI) 
+
+, 35 
+
+11.1 
+
+18.3 
+
+3.7 
+
+1.5 
+
+8.8 
+
+0.77 
+
+0.17 
+
+2.2 (1.6 to 3.0) 
+
+35-39 
+
+17.3 
+
+29.5 
+
+11.4 
+
+7.6 
+
+16.6 
+
+0.62 
+
+0.15 
+
+1.9 (1.4 to 2.5) 
+
+40-44 
+
+34.6 
+
+32.0 
+
+34.4 
+
+27.3 
+
+31.9 
+
+0.17 
+
+0.15 
+
+1.2 (0.9 to 1.6) 
+
+45-49 
+
+31.6 
+
+16.8 
+
+38.8 
+
+46.2 
+
+33.2 
+
+0 (ref) 
+
+$ 50 
+
+5.4 
+
+3.5 
+
+11.6 
+
+17.4 
+
+9.5 
+
+0.06 
+
+0.26 
+
+1.1 (0.6 to 1.8) 
+
+0 
+
+31.4 
+
+41.5 
+
+78.3 
+
+91.3 
+
+60.1 
+
+0 (ref) 
+
+1-3 
+
+44.0 
+
+40.1 
+
+21.5 
+
+8.6 
+
+28.6 
+
+0.54 
+
+0.13 
+
+1.7 (1.3 to 2.2) 
+
+$4 
+
+24.6 
+
+18.4 
+
+0.2 
+
+0.1 
+
+11.3 
+
+1.38 
+
+0.14 
+
+4.0 (3.0 to 5.2) 
+
+Unknown 
+
+1.6 
+
+3.9 
+
+0.3 
+
+0.7 
+
+1.7 
+
+0.89 
+
+0.26 
+
+2.4 (1.5 to 4.0) 
+
+#2 
+
+46.5 
+
+49.6 
+
+79.8 
+
+85.9 
+
+64.9 
+
+0 (ref) 
+
+.2 
+
+51.9 
+
+46.5 
+
+19.9 
+
+13.5 
+
+33.4 
+
+0.58 
+
+0.11 
+
+1.8 (1.4 to 2.2) 
+
+Characteristic Age at random assignment, years 
+
+No. of positive nodes 
+
+Tumor size, cm 
+
+ER expression, % Unknown 
+
+1.8 
+
+1.3 
+
+1.7 
+
+1.0 
+
+1.5 
+
+20.20 
+
+0.62 
+
+0.8 (0.2 to 2.8) 
+
+, 50 
+
+5.1 
+
+5.9 
+
+2.0 
+
+2.7 
+
+4.0 
+
+0.14 
+
+0.18 
+
+1.2 (0.8 to 1.7) 
+
+$ 50 
+
+93.1 
+
+92.8 
+
+96.3 
+
+96.3 
+
+94.5 
+
+0 (ref) 
+
+PgR expression, % Unknown 
+
+2.0 
+
+1.8 
+
+1.9 
+
+1.6 
+
+1.8 
+
+1.17 
+
+0.53 
+
+3.2 (1.1 to 9.1) 
+
+, 20 
+
+12.8 
+
+18.3 
+
+5.9 
+
+4.1 
+
+10.4 
+
+0.44 
+
+0.13 
+
+1.6 (1.2 to 2.0) 
+
+20-49 
+
+10.4 
+
+10.3 
+
+7.1 
+
+4.9 
+
+8.2 
+
+0.29 
+
+0.15 
+
+1.3 (1.0 to 1.8) 
+
+$ 50 
+
+74.8 
+
+69.6 
+
+85.2 
+
+89.4 
+
+79.6 
+
+0 (ref) 
+
+1 
+
+12.9 
+
+15.7 
+
+25.4 
+
+37.3 
+
+22.9 
+
+0 (ref) 
+
+2 
+
+56.8 
+
+57.4 
+
+59.2 
+
+53.5 
+
+56.5 
+
+0.81 
+
+0.23 
+
+2.3 (1.4 to 3.5) 
+
+3 
+
+30.3 
+
+27.0 
+
+15.3 
+
+9.2 
+
+20.6 
+
+0.78 
+
+0.26 
+
+2.2 (1.3 to 3.6) 
+
+Unknown 
+
+18.8 
+
+20.9 
+
+19.1 
+
+20.0 
+
+19.7 
+
+20.08 
+
+0.20 
+
+0.9 (0.6 to 1.4) 
+
+, 14 
+
+15.6 
+
+19.5 
+
+27.1 
+
+37.4 
+
+25.0 
+
+0 (ref) 
+
+14-19 
+
+23.0 
+
+23.8 
+
+26.4 
+
+23.9 
+
+24.2 
+
+20.10 
+
+0.20 
+
+0.9 (0.6 to 1.3) 
+
+20-25 
+
+18.3 
+
+17.0 
+
+13.6 
+
+11.2 
+
+15.1 
+
+0.26 
+
+0.20 
+
+1.3 (0.9 to 1.9) 
+
+$ 26 
+
+24.3 
+
+18.7 
+
+13.7 
+
+7.5 
+
+16.0 
+
+0.49 
+
+0.21 
+
+1.6 (1.1 to 2.5) 
+
+Tumor grade 
+
+Ki-67 expression, % 
+
+NOTE. Characteristics are overall and according to cohort deﬁned by trial and chemotherapy use, and parameter estimates of the Cox proportional hazards regression model deﬁne the composite measure of recurrence risk (n = 4,891). Values of grade and ER and PgR expression were centrally determined if available and locally determined otherwise; Ki-67 expression was available only by central determination. Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hormone receptor; Ki-67, labeling index Ki-67; PgR, progesterone receptor; ref, referent group; SOFT, Suppression of Ovarian Function Trial; TEXT, Tamoxifen and Exemestane Trial. 
+
+investigate patterns in absolute treatment effects as measured by Kaplan-Meier estimates of 8-year freedom from distant recurrence (y-axis) across the continuum of 
+
+composite risk values (x-axis). The STEPP of the overall analysis population had a window size of 500 and was slid by 300 patient values to form each subpopulation. For 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+3 
+
+Pagani et al 
+
+SOFT and TEXT, the size of windows were 420 and 300, respectively, and slid by 120 and 150 patient values, respectively. With this approach, most composite risk values are represented in more than one subpopulation. RESULTS Among the 4,891 patients in the HR-positive/HER2negative analysis population, the clinicopathologic characteristics across the four trial cohorts reﬂected the selection of adjuvant chemotherapy use and whether OFS would be received by all patients (TEXT) or by random assignment (SOFT; Table 1; Appendix Table A1). Poor prognostic features were more frequent on average among the cohorts who received chemotherapy. The distribution of age (youngest among patients in SOFT who received chemotherapy before enrollment) reﬂected the SOFT eligibility criteria that patients remain premenopausal after chemotherapy. The relationship of each of the seven clinicopathologic characteristics individually with DRFI is shown in Figure 1. The estimated 8-year freedom from distant recurrence rates are shown for each characteristic by treatment group, along with the relative treatment effects, in Figure 2 and Appendix Figures A2 and A3 (online only) and listed in Appendix Tables A2-A6 (online only). The clinicopathologic characteristic with the greatest contribution to the multivariable model for the composite measure of recurrence risk, relative to the complementary reference category, was four or more positive nodes followed by tumor grade 2 or 3 and younger age (Table 1); one to three positive nodes, tumor size greater than 2 cm, PgR less than 20%, and Ki-67 of 26% or more contributed similarly. ER less than 50% had a very small contribution possibly because only 4% of patients had low ER expression described.10 The distribution of resulting composite risks is illustrated for the overall population in Figure 3 and summarized by each characteristic subgroup in Appendix Table A7 (online only). Overall, for the 4,891 patients, 433 distant recurrences were reported, and the 8-year freedom from distant recurrence rate was 91.1% (95% CI, 90.2% to 92.0%). When the clinicopathologic features were integrated as a composite measure of recurrence risk (median, 1.42; interquartile range [IQR], 0.81-2.15), the 8-year freedom from distant recurrence rate varied markedly across patient populations, ranging from approximately 100% to 63% among patients in the subpopulations with lowest composite risks to highest composite risks, respectively (Fig 3). As expected, the majority of distant recurrences occurred among patients who received chemotherapy (Fig 4). Patients for Whom Chemotherapy Was Part of Adjuvant Therapy The patients who received chemotherapy, whether in TEXT or SOFT, had similar distributions of composite risk values 
+
+(Figs 5A and 5B), with a median composite risk of 2.02 (IQR, 1.43-2.71) and 2.00 (IQR, 1.42-2.68), respectively. TEXT patients who received chemotherapy after enrollment had an average 8-year freedom from distant recurrence rate of 87.5% (159 distant recurrences among 1,276 patients after a median follow-up of 9 years). The average absolute improvement in freedom from distant recurrence with exemestane plus OFS versus tamoxifen plus OFS was 5.1% (90.0% v 84.9%; Fig 4A). The STEPP analysis showed a distinct pattern of increasing magnitude of improvement with exemestane plus OFS as composite risk increased and reached more than 15% in the subpopulation with the highest composite risks (Fig 5A). Patients enrolled in SOFT who remained premenopausal after chemotherapy had an 8-year freedom from distant recurrence rate of 82.5% (216 distant recurrences among 1,271 patients after a median follow-up of 8 years). The average absolute improvement with exemestane plus OFS versus tamoxifen was 5.2% (86.2% v 81.0%; Fig 4B). The STEPP analysis suggested that all patients across composite risks beneﬁted from exemestane plus OFS versus tamoxifen, with the maximum absolute improvement of approximately 10% (Fig 5B). The absolute improvement with tamoxifen plus OFS versus tamoxifen alone ranged from 0 to at most approximately 3.5% for the subpopulations with the highest composite risks. Patients for Whom Endocrine Therapy Alone Was Planned as Adjuvant Therapy In contrast to the patients who received chemotherapy, those who received only adjuvant endocrine therapy had lower composite risks. In TEXT, the median composite risk was 1.13 (IQR, 0.72-1.56), and in SOFT, the median was 0.81 (IQR, 0.17-1.27; Fig 5). Among the 991 patients in TEXT who did not receive chemotherapy, 35 experienced a distant recurrence after a median follow-up of 9 years, and the overall 8-year freedom from distant recurrence rate was 97.0%. The overall absolute improvement in 8-year freedom from distant recurrence with exemestane plus OFS versus tamoxifen plus OFS was less than 1% (97.4% v 96.5%; Fig 4C). The STEPP analysis showed absolute improvement with exemestane plus OFS only in the subpopulations with the highest composite risks, for a maximum magnitude of improvement in the range of 2.5% to 4% (Fig 5C). The 1,353 patients in SOFT who did not receive chemotherapy had the lowest composite risks, 23 patients experienced a distant recurrence after a median follow-up of 8 years. The overall 8-year freedom from distant recurrence rate was 98.5%, and for exemestane plus OFS, tamoxifen plus OFS, and tamoxifen, the rate was 99.3%, 98.3%, and 98.0%, respectively (Fig 4D). The absolute improvement in 8-year freedom from distant recurrence with exemestane plus OFS versus tamoxifen ranged from approximately 1% to 2.5%, and the improvement with 
+
+4 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+B 
+
+A 
+
+100 
+
+80 Age at random assignment, years Patients DRs 8-Year % (95% CI) 
+
+60 
+
+ 50 45-49 40-44 35-39  35 
+
+40 20 
+
+0 
+
+1 
+
+2 
+
+463 1,626 1,560 812 430 
+
+3 
+
+4 
+
+18 78 120 129 88 
+
+5 
+
+96.7 (94.4 to 98.0) 95.3 (94.0 to 96.3) 92.1 (90.5 to 93.4) 84.2 (81.2 to 86.7) 78.5 (74.0 to 82.3) 
+
+6 
+
+7 
+
+8 
+
+Patients Free From DR (%) 
+
+Patients Free From DR (%) 
+
+100 
+
+80 60 
+
+0 
+
+9 
+
+1 
+
+2 
+
+3 
+
+2,939 1,401 551 
+
+114 151 168 
+
+4 
+
+5 
+
+96.3 (95.5 to 97.0) 89.5 (87.7 to 91.1) 67.8 (63.4 to 71.8) 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) 
+
+D 
+
+C 
+
+100 
+
+80 60 40 
+
+Tumor size, Patients DRs cm 
+
+20 
+
+2 2 
+
+0 
+
+1 
+
+2 
+
+3 
+
+8-Year % (95% CI) 
+
+3,176 1,632 
+
+145 270 
+
+95.5 (94.7 to 96.3) 83.2 (81.2 to 85.0) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Patients Free From DR (%) 
+
+100 
+
+Patients Free From DR (%) 
+
+0 1-3 ≥4 
+
+20 
+
+Time Since Random Assignment (years) 
+
+80 60 40 
+
+ER expression, Patients DRs 8-Year % (95% CI) % 
+
+20 
+
+ 50  50 
+
+0 
+
+9 
+
+1 
+
+2 
+
+3 
+
+4,624 196 
+
+390 91.5 (90.6 to 92.4) 36 82.7 (76.2 to 87.5) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) 
+
+Time Since Random Assignment (years) 
+
+F 
+
+E 
+
+100 
+
+80 60 PgR expression, Patients DRs 8-Year % (95% CI) % 
+
+40 
+
+ 50 20-49 < 20 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+3,892 400 509 
+
+264 63 96 
+
+93.4 (92.5 to 94.2) 85.1 (80.9 to 88.3) 79.5 (75.4 to 82.9) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) 
+
+Patients Free From DR (%) 
+
+100 
+
+Patients Free From DR (%) 
+
+No. of positive lymph nodes Patients DRs 8-Year % (95% CI) 
+
+40 
+
+80 60 40 
+
+Tumor grade Patients DRs 8-Year % (95% CI) 1 2 3 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+1,120 2,765 1,006 
+
+27 97.8 (96.6 to 98.6) 240 91.5 (90.3 to 92.6) 166 82.7 (80.0 to 85.1) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) 
+
+G Patients Free From DR (%) 
+
+100 80 Ki-67 expression, % Patients DRs 8-Year % (95% CI) 
+
+60 40 
+
+< 14 14-19 20-25  26 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+1,222 1,182 737 785 
+
+49 75 91 137 
+
+96.1 (94.7 to 97.2) 93.9 (92.3 to 95.2) 87.3 (84.4 to 89.7) 82.2 (79.2 to 84.9) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) FIG 1. Kaplan-Meier estimates of distant recurrence (DR)–free interval in the overall hormone receptor–positive/human epidermal growth factor receptor 2–negative analysis population according to seven clinicopathologic characteristics. (A) Age at random assignment, (B) number of positive lymph nodes, (C) tumor size, (D) estrogen receptor (ER) expression, (E) progesterone receptor (PgR) expression, (F) tumor grade, and (G) labeling index Ki-67 (Ki67) expression. Unknown values are omitted. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+5 
+
+Pagani et al 
+
+Overall TEXT Chemotherapy 
+
+Characteristic 
+
+TAM + OFS 
+
+SOFT Prior Chemotherapy 
+
+EXEM + OFS 
+
+TAM 
+
+TEXT No Chemotherapy 
+
+SOFT No Chemotherapy 
+
+Age at random assignment, years 50 45-49 40-44 35-39 < 35 No. of positive nodes 0 1-3 ≥4 Tumor size, cm 2 >2 ER expression, % 50 < 50 PgR expression, % 50 20-49 < 20 Tumor grade 1 2 3 Ki-67 expression, % < 14 14-19 20-25 26 50 
+
+60 
+
+70 
+
+80 
+
+90 100 50 
+
+60 
+
+70 
+
+80 
+
+90 100 50 
+
+60 
+
+70 
+
+80 
+
+90 100 50 
+
+60 
+
+70 
+
+80 
+
+90 100 
+
+8-Year Freedom From Distant Recurrence (95% CI) FIG 2. Kaplan-Meier estimates of 8-year freedom from distant recurrence in seven clinicopathologic subgroups in the four patient cohorts deﬁned by trial and chemotherapy use according to treatment assignment. The values are listed in Appendix Tables A3 and A6. Unknown values are omitted. ER, estrogen receptor; EXEM, exemestane; Ki-67, Ki-67 labeling index; OFS, ovarian function suppression; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial; TAM, tamoxifen; TEXT, Tamoxifen and Exemestane Trial. 
+
+tamoxifen plus OFS versus tamoxifen was at most 1% (Fig 5D). DISCUSSION After 5 years of adjuvant endocrine therapy, breast cancer recurrences steadily occur up to 20 years. In an Early Breast Cancer Trialists’ Collaborative Group meta-analysis (62,923 patients disease free after 5 years of endocrine therapy), the risk of distant recurrence was strongly correlated with stage (13% and 41% in T1N0 and T2N2 disease, respectively) and tumor grade (10% and 17% for low-grade T1N0 and high-grade disease, respectively).13 In the absence of predictive biomarkers, standard clinicopathologic characteristics continue to provide meaningful prognostic information about risk of distant recurrence and guide treatment decision making. We put these features together into a composite measure of recurrence risk, which allows clinicians to better understand and estimate the magnitude of beneﬁt of escalating adjuvant endocrine therapy in premenopausal women with HR-positive/HER2negative breast cancer. The combined analysis of TEXT/SOFT, without regard to tumor HER2 status, showed an average 2.1% absolute 
+
+improvement in freedom from distant recurrence at 8 years in premenopausal women treated with an aromatase inhibitor versus tamoxifen with OFS.8 This beneﬁt is comparable to that observed for postmenopausal women in the Early Breast Cancer Trialists’ Collaborative Group metaanalysis, wherein 5 years of aromatase inhibitors were associated with a 2% absolute 10-year reduction in distant recurrence compared with 5 years of tamoxifen (16.3% v 14.3%, respectively).14 We focused on the predominant subgroup with HRpositive/HER2-negative cancers. As previously highlighted,15 SOFT/TEXT data suggest differential relative treatment efﬁcacy by HER2 status and show lesser beneﬁt of aromatase inhibitors and greater beneﬁt from adding OFS to tamoxifen for HER2-positive than for HER2-negative cancers. Secondary analyses from the Hormonal Adjuvant Treatment Bone Effects (HOBOE)16 and Adjuvant Lapatinib and/or Trastuzumab Treatment Optimization (ALTTO)17 trials were consistent with this observation. A closer analysis of the HER2-positive subgroup is planned. Among women with HR-positive/HER2-negative tumors who received chemotherapy (on average, a higher-risk group), an average 5% absolute improvement was 
+
+6 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+A 100 91.1 
+
+400 
+
+80 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+B 
+
+60 40 20 
+
+300 
+
+200 
+
+100 
+
+0 0 0.06 0.58 
+
+1.21 1.69 2.27 
+
+2.94 3.40 0 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Composite Risk 
+
+FIG 3. (A) Subpopulation treatment effect pattern plot of 8-year freedom from distant recurrence according to median composite risk in subpopulations and (B) histogram of the composite risk distribution in the overall hormone receptor (HR)–positive/human epidermal growth factor receptor 2 (HER2)–negative analysis population. The horizontal lines above the histogram indicate the ranges of composite risks in subpopulations that are plotted at the subpopulation median value. The overall 8-year freedom from distant recurrence rate of 91.1% also is indicated on the y-axis. The overall median composite risk of 1.42 is indicated by the vertical dashed lines. 
+
+achieved by escalating endocrine therapy to exemestane plus OFS in both TEXT and SOFT. In the STEPP analysis, the composite risk for a high-risk scenario (eg, 35 to 39 years of age, grade 3, pT2pN1a, ER and PgR of 50% or 
+
+A 
+
+greater, Ki-67 26% or greater; composite risk, 3.00; Appendix Fig A4A, online only) was represented in subpopulations that had an absolute improvement greater than the average (range, 7% to 10%). The magnitude of 
+
+B 
+
+TEXT Chemotherapy 
+
+100 
+
+80 TAM + OFS 
+
+60 
+
+EXEM + OFS 
+
+40 20 
+
+Difference at 8-Year % Patients DRs 8 Years, % (95% CI) TAM + OFS 632 93 84.9 (81.6 to 87.6) EXEM + OFS 644 66 90.0 (87.2 to 92.2) 5.1 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Patients Free From DR (%) 
+
+Patients Free From DR (%) 
+
+100 
+
+C 
+
+TAM + OFS 
+
+60 
+
+EXEM + OFS 
+
+40 20 
+
+8-Year % Difference at 8 (95% CI) Years v TAM, % 
+
+Patients DRs 
+
+TAM 432 80 81.0 (76.6 to 84.6) TAM + OFS 423 80 80.3 (75.9 to 84.0) EXEM + OFS 416 56 86.2 (82.2 to 89.4) 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+–0.7 5.2 
+
+9 
+
+Time Since Random Assignment (years) 
+
+100 
+
+SOFT No Chemotherapy 100 
+
+TAM + OFS 
+
+80 
+
+EXEM + OFS 
+
+60 Difference at 8-Year % Patients DRs 8 Years, % (95% CI) TAM + OFS 498 20 96.5 (94.2 to 97.9) EXEM + OFS 493 15 97.4 (95.3 to 98.6) 0.9 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) 
+
+Patients Free From DR (%) 
+
+Patients Free From DR (%) 
+
+TAM 
+
+D 
+
+TEXT No Chemotherapy 
+
+20 
+
+80 
+
+9 
+
+Time Since Random Assignment (years) 
+
+40 
+
+SOFT Prior Chemotherapy 
+
+TAM 
+
+80 
+
+TAM + OFS EXEM + OFS 
+
+60 40 20 
+
+8-Year % Difference at 8 (95% CI) Years v TAM, % 9 98.0 (95.6 to 99.1) 0.3 9 98.3 (96.5 to 99.2) 1.3 5 99.3 (97.8 to 99.8) 
+
+Patients DRs TAM 450 TAM + OFS 449 EXEM + OFS 454 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time Since Random Assignment (years) 
+
+FIG 4. Kaplan-Meier estimates of distant recurrence (DR)–free interval in the four patient cohorts deﬁned by trial and chemotherapy use according to treatment assignment. (A) Tamoxifen and Exemestane Trial (TEXT) chemotherapy, (B) Suppression of Ovarian Function Trial (SOFT) prior chemotherapy, (C) TEXT no chemotherapy, and (D) SOFT no chemotherapy. EXEM, exemestane; OFS, ovarian function suppression; TAM, tamoxifen. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+7 
+
+Pagani et al 
+
+A 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+TEXT Chemotherapy 100 80 60 40 20 
+
+100 50 
+
+EXEM + OFS TAM + OFS 
+
+0 
+
+0 0.89 1.42 1.79 2.27 
+
+3.02 3.40 
+
+0 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+B 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+80 60 40 EXEM + OFS 
+
+20 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+SOFT Prior Chemotherapy 100 
+
+100 50 
+
+TAM + OFS TAM 
+
+0 
+
+0 1.22 1.73 2.13 
+
+2.77 3.04 
+
+0 
+
+Median Composite Risk in HR-Positive/HER2-Negative Subpopulations 
+
+C 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+TEXT No Chemotherapy 100 80 60 40 20 
+
+100 50 
+
+EXEM + OFS TAM + OFS 
+
+0 
+
+0 0.46 
+
+1.07 
+
+1.61 1.91 
+
+0 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+D 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+200 80 60 40 EXEM + OFS 
+
+20 
+
+TAM + OFS 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+SOFT No Chemotherapy 100 
+
+150 100 50 
+
+FIG 5. Subpopulation treatment effect pattern plots of 8-year freedom from distant recurrence according to median composite risk in subpopulations and histograms of the composite risk distributions for each of the four cohorts in the hormone receptor (HR)–positive/human epidermal growth factor receptor 2 (HER2)–negative analysis population according to treatment assignment. (A) Tamoxifen and Exemestane Trial (TEXT) chemotherapy, (B) Suppression of Ovarian Function Trial (SOFT) prior chemotherapy, (C) TEXT no chemotherapy, and (D) SOFT no chemotherapy. The horizontal lines above each histogram indicate the ranges of composite risks in subpopulations that are plotted at the subpopulation median composite risk value. The vertical dashed lines indicate the median composite risk of 1.42 in the overall HR-positive/ HER2-negative analysis population. EXEM, exemestane; OFS, ovarian function suppression; TAM, tamoxifen. 
+
+TAM 
+
+0 
+
+0 0.06 0.54 0.89 1.30 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+improvement with exemestane plus OFS versus tamoxifen with or without OFS was larger in TEXT than in SOFT highrisk patients, but improvement was consistently observed in both cohorts. In contrast, in low-risk patients (Appendix Fig 
+
+0 
+
+1 
+
+2 
+
+3 
+
+5 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+A4C) who did not receive chemotherapy, the 8-year freedom from distant recurrence was improved on average by approximately 1% in patients who received exemestane plus OFS compared with tamoxifen alone or tamoxifen plus 
+
+8 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+OFS in both SOFT and TEXT. The STEPP analysis suggested that this low-risk scenario (eg, 40 to 44 years of age, grade 2, pT1pN0, ER and PgR of 50% or greater, Ki-67 of 14% to 19%; composite risk, 0.89) was well characterized by the average improvement of approximately 1%. Most intermediate-risk patients in SOFT and TEXT received chemotherapy. In this patient scenario (eg, 40 to 44 years of age, grade 2, pT1pN1a, ER and PgR of 50% or greater, Ki-67 of 20% to 25%; composite risk, 1.78; Appendix Fig A4B), the absolute improvement with exemestane plus OFS was estimated to be less than the average improvement of 5%. Of note, intermediate-risk patients in TEXT who did not receive chemotherapy were estimated to have an improvement with exemestane plus OFS that exceeded 4%; these patients also achieved approximately 10% improvement in freedom from any breast cancer recurrence at 5 years with exemestane plus OFS.7 TEXT and SOFT results may encourage physicians to reconsider the indication for adjuvant chemotherapy in intermediate-risk premenopausal women with HR-positive/ HER2-negative breast cancer. The patient selection for chemotherapy differed in SOFT and TEXT. The knowledge that all patients would receive OFS in TEXT, whereas OFS was administered by random assignment in SOFT, possibly prompted the prescription of chemotherapy for some SOFT patients. For instance, more patients younger than 40 years of age (47.8% and 28.4%) and with node-negative disease (41.5% and 31.4%) received chemotherapy in SOFT than in TEXT. This also can be inferred by the higher median composite risk in TEXT patients in the no-chemotherapy cohorts (eg, 21.5% of patients who received endocrine therapy alone in TEXT had one to three positive nodes; Fig 4) compared with 8.6% in SOFT. These different clinical characteristics of women who received adjuvant chemotherapy in SOFT and TEXT might partly explain the slightly different absolute improvements. Premenopausal women represented approximately 30% of patients in the clinical trials that addressed the added beneﬁt of adjuvant chemotherapy over endocrine therapy18-20 in HR-positive/ HER2-negative breast cancer. Tamoxifen was the standard of care in premenopausal women when these trials were designed and conducted, and the additional beneﬁt of adjuvant chemotherapy in this age-group cannot be extrapolated to women treated with combined endocrine therapy as in TEXT and SOFT. The Rx for Positive Node, Endocrine Responsive Breast Cancer (RxPONDER) trial (ClinicalTrials.gov identiﬁer: NCT01272037) enrolled patients with one to three positive nodes between 2011 and 2015 who may have received combined endocrine therapy and could provide additional insight for intermediate-risk patients. Several gene expression assays also have been developed for postmenopausal women21 to estimate better the risk of early (0 to 5 years) and late (5 to 10 years) distant recurrence22-24 of patients with HR-positive early breast 
+
+cancer and tailor their adjuvant endocrine treatment. None of these tests was developed to select which endocrine therapy is more appropriate according to genomic risk. The prognostic information provided by these assays should not be interpreted automatically as a prediction of treatment beneﬁt.25 Although the risk of late distant recurrence is seemingly similar across age-groups,13 the different algorithms cannot be applied to premenopausal patients without further validation because most of the data derive from postmenopausal women. The 5% to 15% absolute improvement in freedom from distant recurrence from escalating endocrine therapy to tamoxifen plus OFS or exemestane plus OFS needs to be integrated in the clinical situation of each individual patient. The results in patients at higher risk of recurrence who received chemotherapy are of particular clinical relevance. A retrospective cohort study of 1,616 women showed that the median time to all-cause mortality was signiﬁcantly longer in women with locoregional recurrence than in those with distant metastases (6.4 v 3.4 years, respectively).26 Moreover, the 10-year survival rate of 101 women with local recurrence was 56% compared with 9% in those with distant recurrence.27 In patients with HER2-negative disease who did not receive adjuvant chemotherapy, the majority with a lower risk of recurrence, after 8 to 9 years median follow-up in SOFT and TEXT, very few distant recurrences (23 and 35, respectively) occurred. In these patients, the beneﬁt of treatment escalation is derived largely from locoregional and contralateral breast cancer reduction.7 Given the impact on patients’ quality of life from escalating endocrine therapy,28 clinicians need to weigh the risk of recurrence and the expected absolute improvement in disease outcomes carefully against the added adverse effects. With all women beyond the 5-year treatment period, the toxicity proﬁles of exemestane plus OFS and tamoxifen plus OFS are similar to postmenopausal women, and no new toxicity signal has emerged.8 Nonadherence and early discontinuation of oral adjuvant endocrine therapy is frequent among young women29 and associated with reduced overall survival.30 In TEXT/SOFT, early discontinuation of all assigned endocrine therapy was approximately 20% in each treatment group, which is in line with published data.29 Several demographic and clinical characteristics can help physicians to identify patients at risk for nonpersistence/adherence.31 By better quantifying treatment beneﬁts in the individual patient, our results may allow for a more-tailored risk/beneﬁt discussion and an increase in women’s motivation, particularly those at highest risk of distant recurrence, to follow treatment prescriptions. Given the potential for late recurrences of HR-positive breast cancer, conclusions about overall survival remain premature. In postmenopausal women, the beneﬁt of aromatase inhibitors versus tamoxifen on breast cancer mortality only emerged at 10 years14 (2.1% absolute gain, 14.2% v 12.1%, respectively). 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+9 
+
+Pagani et al 
+
+The current results add to our earlier study7 to assist physicians and patients with estimating the individual riskbased beneﬁt of escalating endocrine therapy. A recent survey showed that practicing US medical oncologists underestimated the absolute improvement in 5-year freedom from breast cancer with the use of aromatase 
+
+inhibitors plus OFS versus tamoxifen for high-risk patients (physician estimate, 5.9%) compared with our previous study ﬁndings of 10% to 15%.7,32 An online tool is in development to assist clinicians with using SOFT/TEXT in their daily practice risk/beneﬁt calculations in premenopausal women with HR-positive/HER2-negative breast cancer. 
+
+AFFILIATIONS 
+
+and Medical Research Council grants 351161, 510788, and 1105058); Institute of Cancer Research Clinical Trials and Statistics Unit on behalf of the National Cancer Research Institute Breast Clinical Studies Group United Kingdom (Cancer Research UK grants CRUKE/03/022 and CRUKE/03/023 and grant A15955 National Institute for Health Research Royal Marsden/Institute of Cancer Research Biomedical Research Centre, National Institute for Health Research/Cambridge Biomedical Research Centre); Alliance for Clinical Trials in Oncology (US National Institutes of Health [NIH] grant CA180821); SWOG (US NIH grant CA32102); Eastern Cooperative Oncology Group-American College of Radiology Imaging Network Cancer Research Group (US NIH grants CA21115 and CA16116); NRG Oncology (US NIH grants U10CA180868, U10CA180822, and UG1CA189867); and Canadian Cancer Trials Group (US NIH grant CA077202 and Canadian Cancer Society Research Institute grants 015469 and 021039). 
+
+1 
+
+Institute of Oncology of Southern Switzerland, Geneva University Hospitals, and Swiss Group for Clinical Cancer Research (SAKK), Lugano Viganello, Switzerland 2 Peter MacCallum Cancer Center, St Vincent’s Hospital, and University of Melbourne, Melbourne, Victoria, Australia 3 The University of Chicago Medical Center, Chicago, IL 4 University of Calgary and Canadian Cancer Trials Group, Calgary, Alberta, Canada 5 International Breast Cancer Study Group Central Pathology Center, IEO, European Institute of Oncology IRCCS, and University of Milan, Milan, Italy 6 IEO, European Institute of Oncology IRCCS and International Breast Cancer Study Group, Milan, Italy 7 National Institute of Oncology, Budapest, Hungary 8 Instituto Nacional de Enfermedades Neoplásicas, Lima, Peru 9 Ospedale Papa Giovanni XXIII, Bergamo, Italy 10 ASST Settelaghi Ospedale di Circolo e Fondazione Macchi, Varese, Italy 11 Hospital of Prato-AUSL Toscana Centro and International Breast Cancer Study Group, Prato, Italy 12 International Breast Cancer Study Group and University of Sydney, New South Wales, Australia 13 International Breast Cancer Study Group Statistical Center, DanaFarber Cancer Institute, Harvard Medical School, Harvard T.H. Chan School of Public Health, and Frontier Science and Technology Research Foundation, Boston, MA 14 International Breast Cancer Study Group Statistical Center, DanaFarber Cancer Institute, Harvard Medical School, Boston, MA 
+
+CORRESPONDING AUTHOR Meredith M. Regan, ScD, International Breast Cancer Study Group Statistical Center, Division of Biostatistics, Dana-Farber Cancer Institute, 450 Brookline Ave, Boston, MA 02215; e-mail: mregan@ jimmy.harvard.edu. 
+
+PRIOR PRESENTATION Presented at the 2018 Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, June 1-5, 2018. 
+
+SUPPORT Supported by Pﬁzer, the International Breast Cancer Study Group, the US National Cancer Institute, and the Breast Cancer Research Foundation (16-185, 17-187, and 18-003) for Tamoxifen and Exemestane Trial and Suppression of Ovarian Function Trial conduct. Pﬁzer and Ipsen provided the drug supply. Support for central pathology included Susan G. Komen for the Cure Promise Grant KG080081 and the Breast Cancer Research Foundation. Support for the coordinating group, International Breast Cancer Study Group, was from the US National Cancer Institute (CA075362), Frontier Science and Technology Research Foundation, Swiss Group for Clinical Cancer Research, Cancer Research Switzerland, Oncosuisse, Cancer League Switzerland, Foundation for Clinical Cancer Research of Eastern Switzerland. Support of cooperative groups was as follows: Breast Cancer Trials Australia & New Zealand (National Health 
+
+CLINICAL TRIAL INFORMATION Clinical trials information: NCT00066690 and NCT00066703. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.18.01967. AUTHOR CONTRIBUTIONS Conception and design: Olivia Pagani, Prudence A. Francis, Gini F. Fleming, Barbara A. Walley, Giuseppe Viale, Alan S. Coates, Aron Goldhirsch, Richard D. Gelber, Meredith M. Regan Provision of study material or patients: Prudence A. Francis, Barbara A. Walley, Giuseppe Viale, István Láng, Henry L. Gómez, Carlo Tondini, Graziella Pinotti Collection and assembly of data: Prudence A. Francis, Marco Colleoni, István Láng, Henry L. Gómez, Carlo Tondini, Aron Goldhirsch, Meredith M. Regan Data analysis and interpretation: Olivia Pagani, Prudence A. Francis, Gini F. Fleming, Barbara A. Walley, Giuseppe Viale, Henry L. Gómez, Carlo Tondini, Graziella Pinotti, Angelo Di Leo, Aron Goldhirsch, Meredith M. Regan Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors ACKNOWLEDGMENT We thank the patients, physicians, nurses, trial coordinators, and pathologists who participated in the TEXT and SOFT clinical trials. The trials were coordinated by the International Breast Cancer Study Group in collaboration with the Breast International Group and its cooperative groups and US National Cancer Institute National Clinical Trials Network cooperative groups. We thank Hui Huang for programming assistance with the online tool. 
+
+10 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+REFERENCES 1. 
+
+Pagani O, Regan MM, Walley BA, et al: Adjuvant exemestane with ovarian suppression in premenopausal breast cancer. N Engl J Med 371:107-118, 2014 
+
+2. 
+
+Francis PA, Regan MM, Fleming GF, et al: Adjuvant ovarian suppression in premenopausal breast cancer. N Engl J Med 372:436-446, 2015 
+
+3. 
+
+Paluch-Shimon S, Pagani O, Partridge AH, et al: ESO-ESMO 3rd International Consensus Guidelines for Breast Cancer in Young Women (BCY3). Breast 35: 203-217, 2017 
+
+4. 
+
+Curigliano G, Burstein HJ, Winer EP, et al: De-escalating and escalating treatments for early-stage breast cancer: The St. Gallen International Expert Consensus Conference on the Primary Therapy of Early Breast Cancer 2017. Ann Oncol 28:2153, 2018 
+
+5. 
+
+Burstein HJ, Lacchetti C, Anderson H, et al: Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: American Society of Clinical Oncology clinical practice guideline update on ovarian suppression. J Clin Oncol 34:1689-1701, 2016 
+
+6. 
+
+Senkus E, Kyriakides S, Ohno S, et al: Primary breast cancer: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol 26:v8-v30, 2015 
+
+7. 
+
+Regan MM, Francis PA, Pagani O, et al: Absolute beneﬁt of adjuvant endocrine therapies for premenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative early breast cancer: TEXT and SOFT trials. J Clin Oncol 34:2221-2231, 2016 
+
+8. 
+
+Francis PA, Pagani O, Fleming GF, et al: Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med 379:122-137, 2018 
+
+9. 
+
+Di Lascio S, Pagani O: Is it time to address survivorship in advanced breast cancer? A review article. Breast 31:167-172, 2017 
+
+10. Regan MM, Pagani O, Francis PA, et al: Predictive value and clinical utility of centrally assessed ER, PgR, and Ki-67 to select adjuvant endocrine therapy for premenopausal women with hormone receptor-positive, HER2-negative early breast cancer: TEXT and SOFT trials. Breast Cancer Res Treat 154:275-286, 2015 11. Bonetti M, Gelber RD: Patterns of treatment effects in subsets of patients in clinical trials. Biostatistics 5:465-481, 2004 12. Lazar AA, Cole BF, Bonetti M, et al: Evaluation of treatment-effect heterogeneity using biomarkers measured on a continuous scale: Subpopulation treatment effect pattern plot. J Clin Oncol 28:4539-4544, 2010 13. Pan H, Gray R, Braybrooke J, et al: 20-Year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years. N Engl J Med 377:1836-1846, 2017 14. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Aromatase inhibitors versus tamoxifen in early breast cancer: Patient-level meta-analysis of the randomised trials. Lancet 386:1341-1352, 2015 15. Regan MM, Fleming GF, Walley B, et al: Adjuvant systemic treatment of premenopausal women with hormone receptor-positive early breast cancer: Lights and shadows. J Clin Oncol 37:862-866, 2019 16. Perrone F, De Laurentiis M, De Placido S, et al: Adjuvant zoledronic acid and letrozole plus ovarian function suppression in premenopausal breast cancer: HOBOE phase 3 randomised trial. Eur J Cancer 118:178-186, 2019 17. Lambertini M, Campbell C, Bines J, et al: Adjuvant anti-HER2 therapy, treatment-related amenorrhea, and survival in premenopausal HER2-positive early breast cancer patients. J Natl Cancer Inst 111:86-94, 2019 18. Sparano JA, Gray RJ, Makower DF, et al: Prospective validation of a 21-gene expression assay in breast cancer. N Engl J Med 373:2005-2014, 2015 19. Cardoso F, van’t Veer LJ, Bogaerts J, et al: 70-Gene signature as an aid to treatment decisions in early-stage breast cancer. N Engl J Med 375:717-729, 2016 20. Sparano JA, Gray RJ, Makower DF, et al: Adjuvant chemotherapy guided by a 21-gene expression assay in breast cancer. N Engl J Med 379:111-121, 2018 21. Harris LN, Ismaila N, McShane LM, et al: Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology Clinical practice guideline. J Clin Oncol 34:1134-1150, 2016 22. Sgroi DC, Sestak I, Cuzick J, et al: Prediction of late distant recurrence in patients with oestrogen-receptor-positive breast cancer: A prospective comparison of the breast-cancer index (BCI) assay, 21-gene recurrence score, and IHC4 in the TransATAC study population. Lancet Oncol 14:1067-1076, 2013 23. Dowsett M, Sestak I, Lopez-Knowles E, et al: Comparison of PAM50 risk of recurrence score with oncotype DX and IHC4 for predicting risk of distant recurrence after endocrine therapy. J Clin Oncol 31:2783-2790, 2013 24. Sestak I, Buus R, Cuzick J, et al: Comparison of the performance of 6 prognostic signatures for estrogen receptor-positive breast cancer: A secondary analysis of a randomized clinical trial. JAMA Oncol 4:545-553, 2018 25. Cuzick J: Prognosis vs treatment interaction. JNCI Cancer Spectrum 2:pky006, 2018 26. Lamerato L, Havstad S, Gandhi S, et al: Economic burden associated with breast cancer recurrence: Findings from a retrospective analysis of health system data. Cancer 106:1875-1882, 2006 27. Lê MG, Arriagada R, Spielmann M, et al: Prognostic factors for death after an isolated local recurrence in patients with early-stage breast carcinoma. Cancer 94: 2813-2820, 2002 28. Rosenberg SM, Stanton AL, Petrie KJ, et al: Symptoms and symptom attribution among women on endocrine therapy for breast cancer. Oncologist 20:598-604, 2015 29. Murphy CC, Bartholomew LK, Carpentier MY, et al: Adherence to adjuvant hormonal therapy among breast cancer survivors in clinical practice: A systematic review. Breast Cancer Res Treat 134:459-478, 2012 30. Hershman DL, Kushi LH, Shao T, et al: Early discontinuation and nonadherence to adjuvant hormonal therapy in a cohort of 8,769 early-stage breast cancer patients. J Clin Oncol 28:4120-4128, 2010 31. Lambert LK, Balneaves LG, Howard AF, et al: Patient-reported factors associated with adherence to adjuvant endocrine therapy after breast cancer: An integrative review. Breast Cancer Res Treat 167:615-633, 2018 32. Patel R, Maxwell S, Yan D, et al: Medical oncologists’ perception of antiestrogen therapy beneﬁt in premenopausal women with hormone receptor-positive earlystage breast cancer. Ann Oncol 29:772-773, 2018 
+
+n n n 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+11 
+
+Pagani et al AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Absolute Improvements in Freedom From Distant Recurrence to Tailor Adjuvant Endocrine Therapies for Premenopausal Women: Results From TEXT and SOFT The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Prudence A. Francis Honoraria: AstraZeneca, Novartis Travel, Accommodations, Expenses: Pﬁzer Gini F. Fleming Honoraria: Curio Science Research Funding: Corcept Therapeutics (Inst), AbbVie (Inst), Genentech (Inst), Tesaro (Inst), Syndax (Inst), Forty Seven (Inst), Iovance Biotherapeutics (Inst), Syros Pharmaceuticals (Inst), Astex Pharmaceuticals (Inst), Merck (Inst), Sanoﬁ (Inst), Sermonix Pharmaceuticals (Inst), Compugen (Inst), Incyte (Inst), Leap Therapeutics (Inst), Hoffmann La Roche (Inst) Giuseppe Viale Honoraria: MSD Oncology, Pﬁzer Consulting or Advisory Role: Dako, Roche, Genentech, Astellas Pharma, Novartis, Bayer AG Speakers’ Bureau: Roche, Genentech Research Funding: Roche, Genentech, Ventana Medical Systems (Inst), Dako (Inst), Agilent Technologies (Inst) Travel, Accommodations, Expenses: Roche, Celgene Marco Colleoni Honoraria: Novartis Consulting or Advisory Role: Pierre Fabre, Pﬁzer, OBI Pharma, Puma Biotechnology, Celldex, AstraZeneca 
+
+Angelo Di Leo Honoraria: Roche, Novartis, Pﬁzer, AstraZeneca, Eisai (I), Eli Lilly, Bayer AG, Celgene (I), Amgen Consulting or Advisory Role: Roche, Novartis, Pﬁzer, AstraZeneca, Eli Lilly, Celgene (I), Puma Biotechnology, Ipsen, Genentech, Amgen, Seattle Genetics, Genomic Health Research Funding: Novartis (Inst), Pﬁzer (Inst), Genomic Health (Inst) Travel, Accommodations, Expenses: Roche (I), Pﬁzer, Celgene, Eli Lilly Richard D. Gelber Research Funding: AstraZeneca (Inst), Novartis (Inst), Roche (Inst), Celgene (Inst), Merck (Inst), Pﬁzer (Inst), Ipsen (Inst), Ferring Pharmaceuticals (Inst) Meredith M. Regan Consulting or Advisory Role: Ipsen (Inst) Research Funding: Veridex (Inst), OncoGenex (Inst), Pﬁzer (Inst), Ipsen (Inst), Novartis (Inst), Merck (Inst), Ferring Pharmaceuticals (Inst), Celgene (Inst), AstraZeneca (Inst), Pierre Fabre (Inst), Bayer AG (Inst), Bristol-Myers Squibb (Inst), Roche (Inst), Astellas Pharma (Inst), Medivation (Inst), Janssen Pharmaceuticals (Inst), Millennium Pharmaceuticals (Inst), Sanoﬁ (Inst), Sotio (Inst), Dendreon (Inst), TerSera (Inst) Travel, Accommodations, Expenses: Bristol-Myers Squibb No other potential conﬂicts of interest were reported. 
+
+Carlo Tondini Consulting or Advisory Role: Myriad Genetics Speakers’ Bureau: Amgen Travel, Accommodations, Expenses: Roche, Genentech, Novartis, Celgene 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+APPENDIX 
+
+TEXT and SOFT ITT (N = 5,707) 
+
+Excluded (n = 816)  Submitted material; not HR positive (n = 64) Ineligible (locally determined HR negative) (n = 5) Tumor HER2 positive by central or local determination (n = 747) 
+
+TEXT and SOFT HR-positive/HER2-negative analysis population (n = 4,891) 
+
+SOFT no chemotherapy (n = 1,353) EXEM + OFS (n = 454) TAM + OFS (n = 449) TAM (n = 450) 
+
+TEXT no chemotherapy (n = 991) EXEM + OFS (n = 493) TAM + OFS (n = 498) 
+
+TEXT chemotherapy (n = 1,276)  EXEM + OFS (n = 644) TAM + OFS (n = 632) 
+
+SOFT prior chemothearpy (n = 1,271)  EXEM + OFS (n = 416)  TAM + OFS (n = 423)  TAM (n = 432) 
+
+FIG A1. Flow diagram of the 4,891 patients included in the Suppression of Ovarian Function Trial (SOFT) and the Tamoxifen and Exemestane Trial (TEXT) hormone receptor (HR)–positive/human epidermal growth factor receptor 2 (HER2)–negative analysis population. EXEM, exemastane; ITT, intent to treat; OFS, ovarian function suppression; TAM, tamoxifen. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+TAM + OFS 
+
+Characteristic 
+
+EXEM + OFS 
+
+TAM 
+
+TEXT 
+
+SOFT 
+
+Age at random assignment, years ≥ 50 45-49 40-44 35-39 < 35 No. of positive nodes 0 1-3 ≥4 Tumor size, cm ≤2 >2 ER expression, % ≥ 50 < 50 PgR expression, % ≥ 50 20-49 < 20 Tumor grade 1 2 3 Ki-67 expression, % < 14 14-19 20-25 ≥ 26 50 
+
+55 
+
+60 
+
+65 
+
+70 
+
+75 
+
+80 
+
+85 
+
+90 
+
+95 
+
+100 50 
+
+55 
+
+60 
+
+65 
+
+70 
+
+75 
+
+80 
+
+85 
+
+90 
+
+95 
+
+100 
+
+8-Year Freedom From Distant Recurrence (95% CI) FIG A2. Kaplan-Meier estimates of 8-year freedom from distant recurrence in seven clinicopathologic subgroups, according to treatment assignment, separately by trial. The plotted values are provided in Tables A2 and A5. Unknown values are omitted. ER, estrogen receptor; EXEM, exemestane; Ki-67, Ki-67 labeling index; PgR, progesterone receptor; OFS, ovarian function suppression; SOFT, Suppression of Ovarian Function Trial; TAM, tamoxifen; TEXT, Tamoxifen and Exemestane Trial. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+A DRFI Subgroups for TEXT HR Positive/HER2 Negative EXEM + OFS Events 
+
+Subgroup 
+
+TAM + OFS 
+
+Patients 
+
+Events 
+
+1,137 
+
+113 
+
+Patients 
+
+Hazard Ratio 
+
+95% CI 
+
+DRFI TEXT HR positive/HER2 negative 81 
+
+1,130 
+
+0.69 
+
+0.52 to 0.92 
+
+Age at randomization, years < 35 
+
+20 
+
+94 
+
+20 
+
+84 
+
+0.87 
+
+0.47 to 1.61 
+
+35-39 
+
+18 
+
+176 
+
+30 
+
+158 
+
+0.49 
+
+0.27 to 0.87 
+
+40-44 
+
+23 
+
+392 
+
+35 
+
+391 
+
+0.67 
+
+0.39 to 1.13 
+
+45-49 
+
+16 
+
+373 
+
+24 
+
+415 
+
+0.72 
+
+0.38 to 1.35 
+
+≥ 50 
+
+4 
+
+102 
+
+4 
+
+82 
+
+0.70 
+
+0.17 to 2.79 
+
+No. of nodes positive 0 
+
+16 
+
+592 
+
+31 
+
+585 
+
+0.50 
+
+0.28 to 0.92 
+
+1-3 
+
+27 
+
+379 
+
+39 
+
+395 
+
+0.70 
+
+0.43 to 1.14 
+
+≥4 
+
+38 
+
+166 
+
+43 
+
+150 
+
+0.75 
+
+0.49 to 1.17 
+
+Tumor size, cm ≤2 
+
+25 
+
+686 
+
+38 
+
+698 
+
+0.67 
+
+0.41 to 1.12 
+
+>2 
+
+55 
+
+438 
+
+74 
+
+421 
+
+0.67 
+
+0.47 to 0.94 
+
+Unknown 
+
+1 
+
+13 
+
+1 
+
+11 
+
+< 50 
+
+6 
+
+46 
+
+8 
+
+39 
+
+0.66 
+
+0.23 to 1.91 
+
+≥ 50 
+
+74 
+
+1,072 
+
+104 
+
+1,070 
+
+0.68 
+
+0.51 to 0.92 
+
+Unknown 
+
+1 
+
+19 
+
+1 
+
+21 
+
+ER expression, % 
+
+PgR expression, % < 20 
+
+18 
+
+114 
+
+25 
+
+107 
+
+0.64 
+
+0.35 to 1.18 
+
+20-49 
+
+10 
+
+106 
+
+20 
+
+97 
+
+0.39 
+
+0.18 to 0.84 
+
+≥ 50 
+
+51 
+
+894 
+
+67 
+
+904 
+
+0.76 
+
+0.52 to 1.09 
+
+Unknown 
+
+2 
+
+23 
+
+1 
+
+22 
+
+1 
+
+5 
+
+204 
+
+3 
+
+213 
+
+1.92 
+
+0.46 to 8.05 
+
+2 
+
+37 
+
+659 
+
+61 
+
+653 
+
+0.57 
+
+0.38 to 0.85 
+
+3 
+
+39 
+
+274 
+
+49 
+
+264 
+
+0.73 
+
+0.48 to 1.11 
+
+Tumor grade 
+
+Ki-67 expression, % < 14 
+
+6 
+
+211 
+
+4 
+
+257 
+
+1.82 
+
+0.51 to 6.47 
+
+14-19 
+
+13 
+
+281 
+
+17 
+
+274 
+
+0.77 
+
+0.37 to 1.58 
+
+20-25 
+
+16 
+
+189 
+
+32 
+
+180 
+
+0.48 
+
+0.26 to 0.87 
+
+≥ 26 
+
+29 
+
+227 
+
+42 
+
+219 
+
+0.55 
+
+0.34 to 0.89 
+
+Unknown 
+
+17 
+
+229 
+
+18 
+
+200 
+
+0.83 
+
+0.43 to 1.61 
+
+0.25 
+
+0.5 
+
+0.69 
+
+Favors EXEM + OFS 
+
+1 
+
+1.5 
+
+2 
+
+Favors TAM + OFS 
+
+FIG A3. Estimated relative treatment effects on distance recurrence–free interval (DRFI) overall and according to seven clinicopathologic subgroups for the hormone receptor (HR)–positive/human epidermal growth factor receptor (HER2)–negative analysis population. The hazard ratios were estimated from Cox proportional hazards models stratiﬁed by cohort. Estimates not provided for unknown groups of , 50 patients. Estimates in subgroups having few events should be interpreted with caution. (A) The Tamoxifen and Exemestane Trial (TEXT) cohorts comparing exemestane (EXE) 1 ovarian function suppression (OFS) versus tamoxifen (TAM) 1 OFS. (B) Combined TEXT and Suppression of Ovarian Function Trial (SOFT) cohorts comparing EXE 1 OFS versus TAM 1 OFS. (C) SOFT cohorts comparing EXE 1 OFS versus TAM. (D) SOFT cohorts comparing TAM 1 OFS versus TAM. ER, estrogen receptor; Ki-67, Ki67 labeling index; PgR, progesterone receptor. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+B DRFI Subgroups for Combined SOFT + TEXT HR Positive/HER2 Negative EXEM + OFS Subgroup 
+
+Events 
+
+Patients 
+
+TAM + OFS Events 
+
+Hazard Ratio 
+
+95% CI 
+
+2,002 
+
+0.69 
+
+0.55 to 0.85 
+
+Patients 
+
+DRFI HR positive/HER2 negative 
+
+142 
+
+2,007 
+
+202 
+
+Age at randomization, years < 35 
+
+31 
+
+183 
+
+37 
+
+166 
+
+0.72 
+
+0.45 to 1.16 
+
+35-39 
+
+43 
+
+333 
+
+56 
+
+312 
+
+0.66 
+
+0.44 to 0.99 
+
+40-44 
+
+38 
+
+633 
+
+58 
+
+659 
+
+0.69 
+
+0.46 to 1.04 
+
+45-49 
+
+25 
+
+654 
+
+43 
+
+692 
+
+0.62 
+
+0.38 to 1.02 
+
+≥ 50 
+
+5 
+
+204 
+
+8 
+
+173 
+
+0.46 
+
+0.15 to 1.41 
+
+No. of nodes positive 0 
+
+32 
+
+1,192 
+
+56 
+
+1,165 
+
+0.55 
+
+0.36 to 0.85 
+
+1-3 
+
+44 
+
+575 
+
+73 
+
+606 
+
+0.60 
+
+0.42 to 0.88 
+
+≥4 
+
+66 
+
+240 
+
+73 
+
+231 
+
+0.89 
+
+0.64 to 1.25 
+
+≤2 
+
+47 
+
+1,297 
+
+60 
+
+1,277 
+
+0.78 
+
+0.53 to 1.14 
+
+>2 
+
+91 
+
+682 
+
+134 
+
+691 
+
+0.65 
+
+0.50 to 0.84 
+
+Unknown 
+
+4 
+
+28 
+
+8 
+
+34 
+
+0.54 
+
+0.16 to 1.79 
+
+< 50 
+
+13 
+
+88 
+
+12 
+
+71 
+
+0.91 
+
+0.41 to 1.99 
+
+≥ 50 
+
+127 
+
+1,889 
+
+186 
+
+1,896 
+
+0.67 
+
+0.54 to 0.84 
+
+2 
+
+30 
+
+4 
+
+35 
+
+0.58 
+
+0.11 to 3.19 
+
+< 20 
+
+32 
+
+222 
+
+42 
+
+190 
+
+0.59 
+
+0.37 to 0.94 
+
+20-49 
+
+18 
+
+171 
+
+33 
+
+165 
+
+0.43 
+
+0.24 to 0.76 
+
+≥ 50 
+
+88 
+
+1,575 
+
+123 
+
+1,610 
+
+0.75 
+
+0.57 to 0.98 
+
+Unknown 
+
+4 
+
+39 
+
+4 
+
+37 
+
+1.06 
+
+0.26 to 4.23 
+
+0.30 to 2.17 
+
+Tumor size, cm 
+
+ER expression, % 
+
+Unknown PgR expression, % 
+
+Tumor grade 1 
+
+7 
+
+435 
+
+9 
+
+445 
+
+0.81 
+
+2 
+
+77 
+
+1,154 
+
+114 
+
+1,137 
+
+0.65 
+
+0.48 to 0.86 
+
+3 
+
+58 
+
+418 
+
+79 
+
+420 
+
+0.72 
+
+0.51 to 1.01 
+
+< 14 
+
+16 
+
+478 
+
+17 
+
+508 
+
+0.99 
+
+0.50 to 1.96 
+
+14-19 
+
+27 
+
+494 
+
+32 
+
+476 
+
+0.85 
+
+0.51 to 1.41 
+
+20-25 
+
+27 
+
+299 
+
+50 
+
+308 
+
+0.55 
+
+0.35 to 0.88 
+
+≥ 26 
+
+45 
+
+337 
+
+69 
+
+333 
+
+0.59 
+
+0.40 to 0.86 
+
+Unknown 
+
+27 
+
+399 
+
+34 
+
+377 
+
+0.72 
+
+0.44 to 1.20 
+
+Ki-67 expression, % 
+
+0.25 
+
+0.5 0.69 
+
+1 
+
+2 
+
+4 
+
+Favors EXEM + OFS Favors TAM + OFS 
+
+FIG A3. (Continued). 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+C DRFI Subgroups for SOFT HR Positive/HER2 Negative EXEM + OFS TAM Events Patients Events Patients 
+
+Subgroup 
+
+Hazard Ratio 
+
+95% CI 
+
+DRFI SOFT HR positive/HER2 negative 61 
+
+870 
+
+89 
+
+882 
+
+0.68 
+
+0.49 to 0.95 
+
+Age at randomization, years < 35 
+
+11 
+
+89 
+
+20 
+
+81 
+
+0.45 
+
+0.22 to 0.94 
+
+35-39 
+
+25 
+
+157 
+
+30 
+
+167 
+
+0.79 
+
+0.46 to 1.34 
+
+40-44 
+
+15 
+
+241 
+
+24 
+
+268 
+
+0.74 
+
+0.39 to 1.41 
+
+45-49 
+
+9 
+
+281 
+
+10 
+
+280 
+
+0.87 
+
+0.35 to 2.14 
+
+≥ 50 
+
+1 
+
+102 
+
+5 
+
+86 
+
+0.18 
+
+0.02 to 1.56 
+
+0 
+
+16 
+
+600 
+
+26 
+
+582 
+
+0.58 
+
+0.31 to 1.08 
+
+1-3 
+
+17 
+
+196 
+
+34 
+
+220 
+
+0.54 
+
+0.30 to 0.97 
+
+≥4 
+
+28 
+
+74 
+
+29 
+
+80 
+
+0.95 
+
+0.56 to 1.59 
+
+≤2 
+
+22 
+
+611 
+
+38 
+
+602 
+
+0.56 
+
+0.33 to 0.94 
+
+>2 
+
+36 
+
+244 
+
+45 
+
+259 
+
+0.84 
+
+0.54 to 1.30 
+
+Unknown 
+
+3 
+
+15 
+
+6 
+
+21 
+
+0.46 
+
+0.12 to 1.84 
+
+No. of nodes positive 
+
+Tumor size, cm 
+
+ER expression, % < 50 
+
+7 
+
+42 
+
+11 
+
+37 
+
+0.43 
+
+0.17 to 1.11 
+
+≥ 50 
+
+53 
+
+817 
+
+77 
+
+839 
+
+0.70 
+
+0.49 to 0.99 
+
+Unknown 
+
+1 
+
+11 
+
+1 
+
+6 
+
+< 20 
+
+14 
+
+108 
+
+22 
+
+97 
+
+0.50 
+
+0.26 to 0.99 
+
+20-49 
+
+8 
+
+65 
+
+12 
+
+64 
+
+0.58 
+
+0.24 to 1.43 
+
+≥ 50 
+
+37 
+
+681 
+
+53 
+
+707 
+
+0.74 
+
+0.49 to 1.13 
+
+Unknown 
+
+2 
+
+16 
+
+2 
+
+14 
+
+PgR expression, % 
+
+Tumor grade 1 
+
+2 
+
+231 
+
+11 
+
+240 
+
+0.19 
+
+0.04 to 0.87 
+
+2 
+
+40 
+
+495 
+
+49 
+
+474 
+
+0.77 
+
+0.50 to 1.16 
+
+3 
+
+19 
+
+144 
+
+29 
+
+168 
+
+0.71 
+
+0.40 to 1.27 
+
+< 14 
+
+10 
+
+267 
+
+16 
+
+236 
+
+0.52 
+
+0.24 to 1.15 
+
+14-19 
+
+14 
+
+213 
+
+16 
+
+212 
+
+0.89 
+
+0.43 to 1.82 
+
+20-25 
+
+11 
+
+110 
+
+14 
+
+130 
+
+0.80 
+
+0.36 to 1.76 
+
+≥ 26 
+
+16 
+
+110 
+
+23 
+
+115 
+
+0.76 
+
+0.40 to 1.44 
+
+Unknown 
+
+10 
+
+170 
+
+20 
+
+189 
+
+0.54 
+
+0.25 to 1.14 
+
+Ki-67 expression, % 
+
+0.25 
+
+0.5 0.68 
+
+Favors EXEM + OFS 
+
+1 
+
+2 
+
+4 
+
+Favors TAM 
+
+FIG A3. (Continued). 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+D DRFI Subgroups for SOFT HR Positive/HER2 Negative Subgroup 
+
+TAM + OFS 
+
+TAM 
+
+Events Patients 
+
+Events Patients 
+
+Hazard Ratio 
+
+95% CI 
+
+882 
+
+1.00 
+
+0.74 to 1.34 
+
+DRFI SOFT HR positive/HER2 negative 89 
+
+872 
+
+89 
+
+Age at randomization, years < 35 
+
+17 
+
+82 
+
+20 
+
+81 
+
+0.81 
+
+0.42 to 1.54 
+
+35-39 
+
+26 
+
+154 
+
+30 
+
+167 
+
+0.89 
+
+0.53 to 1.51 
+
+40-44 
+
+23 
+
+268 
+
+24 
+
+268 
+
+0.99 
+
+0.56 to 1.76 
+
+45-49 
+
+19 
+
+277 
+
+10 
+
+280 
+
+1.71 
+
+0.80 to 3.68 
+
+≥ 50 
+
+4 
+
+91 
+
+5 
+
+86 
+
+0.91 
+
+0.24 to 3.39 
+
+25 
+
+580 
+
+26 
+
+582 
+
+0.96 
+
+0.55 to 1.66 
+
+1-3 
+
+34 
+
+211 
+
+34 
+
+220 
+
+1.08 
+
+0.67 to 1.73 
+
+≥4 
+
+30 
+
+81 
+
+29 
+
+80 
+
+0.84 
+
+0.50 to 1.39 
+
+≤2 
+
+22 
+
+579 
+
+38 
+
+602 
+
+0.59 
+
+0.35 to 0.99 
+
+>2 
+
+60 
+
+270 
+
+45 
+
+259 
+
+1.33 
+
+0.91 to 1.96 
+
+Unknown 
+
+7 
+
+23 
+
+6 
+
+21 
+
+0.83 
+
+0.28 to 2.47 
+
+No. of nodes positive 0 
+
+Tumor size, cm 
+
+ER expression, % < 50 
+
+4 
+
+32 
+
+11 
+
+37 
+
+0.30 
+
+0.10 to 0.95 
+
+≥ 50 
+
+82 
+
+826 
+
+77 
+
+839 
+
+1.07 
+
+0.79 to 1.47 
+
+Unknown 
+
+3 
+
+14 
+
+1 
+
+6 
+
+PgR expression, % < 20 
+
+17 
+
+83 
+
+22 
+
+97 
+
+0.88 
+
+0.47 to 1.66 
+
+20-49 
+
+13 
+
+68 
+
+12 
+
+64 
+
+1.24 
+
+0.57 to 2.72 
+
+≥ 50 
+
+56 
+
+706 
+
+53 
+
+707 
+
+1.00 
+
+0.69 to 1.46 
+
+Unknown 
+
+3 
+
+15 
+
+2 
+
+14 
+
+1 
+
+6 
+
+232 
+
+11 
+
+240 
+
+0.62 
+
+0.23 to 1.68 
+
+2 
+
+53 
+
+484 
+
+49 
+
+474 
+
+1.02 
+
+0.69 to 1.51 
+
+3 
+
+30 
+
+156 
+
+29 
+
+168 
+
+1.04 
+
+0.62 to 1.73 
+
+0.36 to 1.54 
+
+Tumor grade 
+
+Ki-67 expression, % < 14 
+
+13 
+
+251 
+
+16 
+
+236 
+
+0.74 
+
+14-19 
+
+15 
+
+202 
+
+16 
+
+212 
+
+0.96 
+
+0.47 to 1.94 
+
+20-25 
+
+18 
+
+128 
+
+14 
+
+130 
+
+1.18 
+
+0.59 to 2.37 
+
+≥ 26 
+
+27 
+
+114 
+
+23 
+
+115 
+
+1.18 
+
+0.68 to 2.07 
+
+Unknown 
+
+16 
+
+177 
+
+20 
+
+189 
+
+0.90 
+
+0.46 to 1.73 
+
+0.25 
+
+0.5 
+
+Favors TAM + OFS 
+
+1 
+
+2 
+
+4 
+
+Favors TAM 
+
+FIG A3. (Continued). 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+A Composite Risk, 3.0 
+
+100 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+TEXT Chemotherapy 
+
+80 60 40 
+
+100 50 
+
+20 
+
+EXEM + OFS TAM + OFS 
+
+0 
+
+0 0.89 
+
+1.42 1.79 2.27 
+
+3.02 3.40 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+SOFT Prior Chemotherapy 100 80 60 40 EXEM + OFS 
+
+20 
+
+100 50 
+
+TAM + OFS TAM 
+
+0 
+
+0 1.22 1.73 2.13 
+
+2.77 3.04 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+TEXT No Chemotherapy 100 80 60 40 
+
+100 50 
+
+20 
+
+EXEM + OFS TAM + OFS 
+
+0 
+
+0 0.46 
+
+1.07 
+
+1.611.91 
+
+200 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+SOFT No Chemotherapy 100 80 60 40 EXEM + OFS 
+
+20 
+
+150 100 50 
+
+TAM + OFS TAM 
+
+0 0.06 0.54 0.89 1.30 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+0 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+FIG A4. Subpopulation treatment effect pattern plots (STEPP) of 8-year freedom from distant recurrence (y-axis) according to median composite risk in subpopulations (x-axis) and histograms of the composite risk distributions for each of (continued on following page)the four cohorts in the hormone receptor (HR)–positive/human epidermal growth factor receptor 2 (HER2)–negative analysis population according to treatment assignment. The horizontal lines above each histogram indicate the ranges of composite risks in subpopulations that are plotted at the subpopulation median composite risk value in each corresponding STEPP. The red vertical line on the histograms indicates the selected composite risk, and intersects one or more subpopulations in which the composite risk value is represented. The dark orange circles on the STEPPs indicate the corresponding subpopulations in which the selected composite risk is represented. The black vertical dashed lines indicate the median composite risk of 1.42 in the overall HR-positive/HER2-negative analysis population. Three scenarios are presented: (A) A high-risk scenario (composite risk 5 3.00; 35-39 years of age, pT2pN1a, grade 3, estrogen receptor [ER] $ 50%, progesterone receptor [PgR] $ 50% and Ki-67 labeling index [Ki-67] $ 26%). In this scenario, there are no circles on the Tamoxifen and Exemestane Trial (TEXT) no chemotherapy and Suppression of Ovarian Function Trial (SOFT) no chemotherapy STEPPs because there were too few patients with the same or similar composite risk values. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+B Composite Risk, 1.78 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+TEXT Chemotherapy 100 80 60 40 
+
+50 
+
+EXEM + OFS TAM + OFS 
+
+20 
+
+100 
+
+0 
+
+0 0.89 
+
+1.42 1.79 2.27 
+
+3.02 3.40 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+80 60 40 EXEM + OFS TAM + OFS 
+
+20 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+SOFT Prior Chemotherapy 100 
+
+100 50 
+
+TAM 0 
+
+0 1.22 
+
+1.73 2.13 
+
+2.77 3.04 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+TEXT No Chemotherapy 100 80 60 40 
+
+100 50 
+
+20 
+
+EXEM + OFS TAM + OFS 
+
+0 0.46 
+
+1.07 
+
+0 
+
+1.61 1.91 
+
+200 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+SOFT No Chemotherapy 100 80 60 40 EXEM + OFS 20 
+
+150 100 50 
+
+TAM + OFS TAM 
+
+0 0.06 0.54 0.89 1.30 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+0 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+FIG A4. (Continued). (B) An intermediate-risk scenario (composite risk 5 1.78; 40-44 years of age, pT1pN1a, grade 2, ER $ 50%, PgR $ 50%, and Ki-67 20-25%). 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+C Composite Risk, 0.89 
+
+TEXT Chemotherapy 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+100 
+
+Patients (No.) 
+
+80 60 40 
+
+100 
+
+50 
+
+20 
+
+EXEM + OFS TAM + OFS 
+
+0 
+
+0 0.89 
+
+1.42 1.79 2.27 
+
+3.02 3.40 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+SOFT Prior Chemotherapy 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+100 
+
+Patients (No.) 
+
+80 60 40 EXEM + OFS 20 
+
+100 
+
+50 
+
+TAM + OFS TAM 
+
+0 
+
+0 1.22 
+
+1.73 2.13 
+
+2.77 3.04 
+
+TEXT No Chemotherapy 
+
+Patients (No.) 
+
+8-YearFreedom From Distant Recurrence (%) 
+
+100 80 60 40 20 
+
+100 
+
+50 
+
+EXEM + OFS TAM + OFS 
+
+0 
+
+0 0.46 
+
+1.07 
+
+1.611.91 
+
+SOFT No Chemotherapy 200 
+
+Patients (No.) 
+
+8-Year Freedom From Distant Recurrence (%) 
+
+100 80 60 40 EXEM + OFS 
+
+20 
+
+150 
+
+100 
+
+50 
+
+TAM + OFS TAM 
+
+0 0.06 0.54 0.89 1.30 
+
+Composite Risk in HR-Positive/HER2-Negative Subpopulations (median) 
+
+0 
+
+Composite Risk in HR Positive/HER2 Negative 
+
+FIG A4. (Continued). (C) A low-risk scenario (composite risk 5 0.89; 40-44 years of age, pT1pN0, grade 2, ER $ 50%, PgR $ 50%, and Ki-67 14-19%). 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+TABLE A1. Clinicopathologic Characteristics of the HR-Positive/HER2-Negative Analysis Population of TEXT and SOFT Overall and According to Cohort Deﬁned by Trial and Chemotherapy Use TEXT SOFT Prior TEXT No SOFT No Chemotherapy Chemotherapy Chemotherapy Chemotherapy All Patients Characteristic 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. of patients 
+
+1,276 
+
+100 
+
+1,271 
+
+100 
+
+991 
+
+100 
+
+1,353 
+
+100 
+
+4,891 
+
+100 
+
+, 35 
+
+141 
+
+11.1 
+
+232 
+
+18.3 
+
+37 
+
+3.7 
+
+20 
+
+35-39 
+
+221 
+
+17.3 
+
+375 
+
+29.5 
+
+113 
+
+11.4 
+
+103 
+
+7.6 
+
+812 
+
+16.6 
+
+40-44 
+
+442 
+
+34.6 
+
+407 
+
+32.0 
+
+341 
+
+34.4 
+
+370 
+
+27.3 
+
+1,560 
+
+31.9 
+
+45-49 
+
+403 
+
+31.6 
+
+213 
+
+16.8 
+
+385 
+
+38.8 
+
+625 
+
+46.2 
+
+1,626 
+
+33.2 
+
+$ 50 
+
+69 
+
+5.4 
+
+44 
+
+3.5 
+
+115 
+
+11.6 
+
+235 
+
+17.4 
+
+463 
+
+9.5 
+
+0 
+
+401 
+
+31.4 
+
+527 
+
+41.5 
+
+776 
+
+78.3 
+
+1,235 
+
+91.3 
+
+2,939 
+
+60.1 
+
+1-3 
+
+561 
+
+44.0 
+
+510 
+
+40.1 
+
+213 
+
+21.5 
+
+117 
+
+8.6 
+
+1,401 
+
+28.6 
+
+$4 
+
+314 
+
+24.6 
+
+234 
+
+18.4 
+
+2 
+
+0.2 
+
+1 
+
+0.1 
+
+551 
+
+11.3 
+
+Age at random assignment, years 1.5 
+
+430 
+
+8.8 
+
+No. of positive nodes 
+
+Tumor size, cm Unknown 
+
+21 
+
+1.6 
+
+50 
+
+3.9 
+
+3 
+
+0.3 
+
+9 
+
+0.7 
+
+83 
+
+1.7 
+
+#2 
+
+593 
+
+46.5 
+
+630 
+
+49.6 
+
+791 
+
+79.8 
+
+1,162 
+
+85.9 
+
+3,176 
+
+64.9 
+
+.2 
+
+662 
+
+51.9 
+
+591 
+
+46.5 
+
+197 
+
+19.9 
+
+182 
+
+13.5 
+
+1,632 
+
+33.4 
+
+23 
+
+1.8 
+
+17 
+
+1.3 
+
+17 
+
+1.7 
+
+14 
+
+1.0 
+
+71 
+
+1.5 
+
+ER expression, % Unknown , 50 
+
+65 
+
+5.1 
+
+75 
+
+5.9 
+
+20 
+
+2.0 
+
+36 
+
+2.7 
+
+196 
+
+4.0 
+
+$ 50 
+
+1,188 
+
+93.1 
+
+1,179 
+
+92.8 
+
+954 
+
+96.3 
+
+1,303 
+
+96.3 
+
+4,624 
+
+94.5 
+
+26 
+
+2.0 
+
+23 
+
+1.8 
+
+19 
+
+1.9 
+
+22 
+
+1.6 
+
+90 
+
+1.8 
+
+PgR expression, % Unknown , 20 
+
+163 
+
+12.8 
+
+233 
+
+18.3 
+
+58 
+
+5.9 
+
+55 
+
+4.1 
+
+509 
+
+10.4 
+
+20-49 
+
+133 
+
+10.4 
+
+131 
+
+10.3 
+
+70 
+
+7.1 
+
+66 
+
+4.9 
+
+400 
+
+8.2 
+
+$ 50 
+
+954 
+
+74.8 
+
+884 
+
+69.6 
+
+844 
+
+85.2 
+
+1,210 
+
+89.4 
+
+3,892 
+
+79.6 
+
+1 
+
+165 
+
+12.9 
+
+199 
+
+15.7 
+
+252 
+
+25.4 
+
+504 
+
+37.3 
+
+1,120 
+
+22.9 
+
+2 
+
+725 
+
+56.8 
+
+729 
+
+57.4 
+
+587 
+
+59.2 
+
+724 
+
+53.5 
+
+2,765 
+
+56.5 
+
+3 
+
+386 
+
+30.3 
+
+343 
+
+27.0 
+
+152 
+
+15.3 
+
+125 
+
+9.2 
+
+1,006 
+
+20.6 
+
+240 
+
+18.8 
+
+266 
+
+20.9 
+
+189 
+
+19.1 
+
+270 
+
+20.0 
+
+965 
+
+19.7 
+
+Tumor grade 
+
+Ki-67 expression, % Unknown , 14 
+
+199 
+
+15.6 
+
+248 
+
+19.5 
+
+269 
+
+27.1 
+
+506 
+
+37.4 
+
+1,222 
+
+25.0 
+
+14-19 
+
+293 
+
+23.0 
+
+303 
+
+23.8 
+
+262 
+
+26.4 
+
+324 
+
+23.9 
+
+1,182 
+
+24.2 
+
+20-25 
+
+234 
+
+18.3 
+
+216 
+
+17.0 
+
+135 
+
+13.6 
+
+152 
+
+11.2 
+
+737 
+
+15.1 
+
+$ 26 
+
+310 
+
+24.3 
+
+238 
+
+18.7 
+
+136 
+
+13.7 
+
+101 
+
+7.5 
+
+785 
+
+16.0 
+
+Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hormone receptor; Ki-67, Ki-67 labeling index; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial; TEXT, Tamoxifen and Exemestane Trial. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+TABLE A2. TEXT: Kaplan-Meier Estimates of 8-Year Freedom From DR in Clinicopathologic Subgroups According to Treatment Assignment Characteristic 
+
+Patients 
+
+DRs 
+
+Exemestane Plus OFS, 8-Year % (95% CI) 
+
+Tamoxifen Plus OFS, 8-Year % (95% CI) 
+
+All patients 
+
+2,267 
+
+194 
+
+93.2 (91.5 to 94.6) 
+
+90.1 (88.0 to 91.8) 
+
+, 35 
+
+178 
+
+40 
+
+77.5 (66.6 to 85.3) 
+
+75.5 (63.8 to 83.8) 
+
+35-39 
+
+334 
+
+48 
+
+91.7 (86.1 to 95.1) 
+
+82.8 (75.5 to 88.1) 
+
+40-44 
+
+783 
+
+58 
+
+93.5 (90.3 to 95.7) 
+
+90.8 (87.2 to 93.4) 
+
+45-49 
+
+788 
+
+40 
+
+96.1 (93.4 to 97.7) 
+
+93.8 (90.7 to 95.9) 
+
+$ 50 
+
+184 
+
+8 
+
+98.0 (92.2 to 99.5) 
+
+96.1 (88.2 to 98.7) 
+
+0 
+
+1,177 
+
+47 
+
+98.0 (96.3 to 98.9) 
+
+94.9 (92.5 to 96.5) 
+
+1-3 
+
+774 
+
+66 
+
+93.7 (90.6 to 95.8) 
+
+90.6 (87.0 to 93.2) 
+
+$4 
+
+316 
+
+81 
+
+75.7 (67.8 to 81.9) 
+
+70.2 (61.5 to 77.3) 
+
+Age at random assignment, years 
+
+No. of positive nodes 
+
+Tumor size, cm #2 
+
+1,384 
+
+63 
+
+96.9 (95.1 to 98.1) 
+
+94.9 (92.8 to 96.4) 
+
+.2 
+
+859 
+
+129 
+
+87.6 (83.9 to 90.5) 
+
+82.0 (77.7 to 85.5) 
+
+Unknown 
+
+24 
+
+2 
+
+ER expression, % , 50 
+
+85 
+
+14 
+
+87.5 (72.4 to 94.7) 
+
+80.3 (63.0 to 90.1) 
+
+$ 50 
+
+2,142 
+
+178 
+
+93.5 (91.7 to 94.9) 
+
+90.3 (88.2 to 92.1) 
+
+40 
+
+2 
+
+221 
+
+43 
+
+82.1 (72.9 to 88.4) 
+
+75.5 (65.6 to 82.9) 
+
+Unknown PgR expression, % , 20 20-49 
+
+203 
+
+30 
+
+90.7 (82.8 to 95.0) 
+
+80.9 (70.9 to 87.7) 
+
+$ 50 
+
+1,798 
+
+118 
+
+95.1 (93.3 to 96.4) 
+
+92.8 (90.7 to 94.4) 
+
+45 
+
+3 
+
+1 
+
+417 
+
+8 
+
+97.8 (94.1 to 99.2) 
+
+99.0 (95.9 to 99.7) 
+
+2 
+
+1,312 
+
+98 
+
+94.9 (92.7 to 96.5) 
+
+91.2 (88.6 to 93.3) 
+
+3 
+
+538 
+
+88 
+
+85.7 (80.6 to 89.6) 
+
+79.7 (73.7 to 84.4) 
+
+, 14 
+
+468 
+
+10 
+
+97.1 (93.0 to 98.8) 
+
+98.6 (95.6 to 99.5) 
+
+14-19 
+
+555 
+
+30 
+
+95.9 (92.4 to 97.8) 
+
+94.2 (90.3 to 96.5) 
+
+20-25 
+
+369 
+
+48 
+
+91.3 (85.6 to 94.8) 
+
+83.2 (76.3 to 88.2) 
+
+Unknown Tumor grade 
+
+Ki-67 expression, % 
+
+$ 26 
+
+446 
+
+71 
+
+88.3 (83.1 to 92.0) 
+
+78.7 (72.0 to 84.0) 
+
+Unknown 
+
+429 
+
+35 
+
+93.1 (88.5 to 95.9) 
+
+91.7 (86.6 to 94.9) 
+
+NOTE. Estimates not provided for unknown groups of , 50 patients. Estimates in subgroups that had few events should be interpreted with caution. Abbreviations: DR, distant recurrence; ER, estrogen receptor; Ki-67, Ki-67 labeling index; OFS, ovarian function suppression; PgR, progesterone receptor; TEXT, Tamoxifen and Exemestane Trial. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+TABLE A3. TEXT: Kaplan-Meier Estimates of 8-Year Freedom From DR in Clinicopathologic Subgroups According to Chemotherapy Use and Treatment Assignment Chemotherapy No Chemotherapy Exemestane Plus OFS, Tamoxifen Plus OFS, Characteristic Patients DRs 8-Year % (95% CI) 8-Year % (95% CI) Patients DRs 8-Year % (95% CI) All patients 
+
+1,276 
+
+159 
+
+90.0 (87.2 to 92.2) 
+
+84.9 (81.6 to 87.6) 
+
+991 
+
+35 
+
+97.0 (95.5 to 97.9) 
+
+, 35 
+
+141 
+
+36 
+
+73.9 (61.2 to 83.0) 
+
+73.2 (59.4 to 82.9) 
+
+37 
+
+4 
+
+87.5 (69.7 to 95.2) 
+
+35-39 
+
+221 
+
+37 
+
+89.0 (81.3 to 93.6) 
+
+78.7 (68.6 to 85.9) 
+
+113 
+
+11 
+
+93.3 (86.5 to 96.8) 
+
+40-44 
+
+442 
+
+49 
+
+90.3 (84.9 to 93.8) 
+
+85.6 (79.9 to 89.8) 
+
+341 
+
+9 
+
+97.8 (95.3 to 98.9) 
+
+45-49 
+
+403 
+
+31 
+
+95.0 (90.6 to 97.4) 
+
+89.7 (84.3 to 93.4) 
+
+385 
+
+9 
+
+97.6 (95.0 to 98.9) 
+
+$ 50 
+
+69 
+
+6 
+
+97.6 (83.9 to 99.7) 
+
+88.7 (69.0 to 96.2) 
+
+115 
+
+2 
+
+99.1 (93.7 to 99.9) 
+
+Age at random assignment, years 
+
+No. of positive nodes 0 
+
+401 
+
+20 
+
+98.4 (95.0 to 99.5) 
+
+92.9 (87.8 to 95.9) 
+
+776 
+
+27 
+
+96.8 (95.1 to 97.9) 
+
+1-3 
+
+561 
+
+58 
+
+92.8 (88.8 to 95.4) 
+
+87.2 (82.4 to 90.7) 
+
+213 
+
+8 
+
+97.5 (93.9 to 98.9) 
+
+$4 
+
+314 
+
+81 
+
+75.7 (67.8 to 81.9) 
+
+70.2 (61.5 to 77.3) 
+
+2 
+
+0 
+
+Tumor size, cm #2 
+
+593 
+
+38 
+
+95.6 (92.2 to 97.6) 
+
+92.6 (88.5 to 95.2) 
+
+791 
+
+25 
+
+97.2 (95.6 to 98.3) 
+
+.2 
+
+662 
+
+119 
+
+85.3 (80.8 to 88.8) 
+
+77.7 (72.5 to 82.1) 
+
+197 
+
+10 
+
+95.7 (91.6 to 97.8) 
+
+Unknown 
+
+21 
+
+2 
+
+3 
+
+0 
+
+— 
+
+, 50 
+
+65 
+
+13 
+
+83.7 (65.1 to 92.9) 
+
+74.5 (53.8 to 87.0) 
+
+20 
+
+1 
+
+$ 50 
+
+1,188 
+
+144 
+
+90.4 (87.6 to 92.7) 
+
+85.3 (82.0 to 88.1) 
+
+954 
+
+34 
+
+96.8 (95.3 to 97.8) 
+
+23 
+
+2 
+
+17 
+
+1 
+
+— 
+
+, 20 
+
+163 
+
+36 
+
+79.6 (68.7 to 87.0) 
+
+72.5 (60.2 to 81.6) 
+
+58 
+
+7 
+
+85.8 (72.1 to 93.1) 
+
+20-49 
+
+133 
+
+25 
+
+87.6 (76.6 to 93.6) 
+
+75.0 (61.2 to 84.5) 
+
+70 
+
+5 
+
+94.1 (85.0 to 97.7) 
+
+$ 50 
+
+954 
+
+95 
+
+92.6 (89.7 to 94.8) 
+
+88.0 (84.5 to 90.8) 
+
+844 
+
+23 
+
+97.9 (96.5 to 98.7) 
+
+Unknown 
+
+26 
+
+3 
+
+19 
+
+0 
+
+— 
+
+1 
+
+165 
+
+6 
+
+93.6 (83.8 to 97.6) 
+
+98.7 (91.2 to 99.8) 
+
+252 
+
+2 
+
+99.6 (97.0 to 99.9) 
+
+2 
+
+725 
+
+81 
+
+92.7 (89.2 to 95.0) 
+
+85.4 (80.9 to 88.9) 
+
+587 
+
+17 
+
+97.9 (96.1 to 98.9) 
+
+3 
+
+386 
+
+72 
+
+83.7 (77.3 to 88.4) 
+
+77.2 (69.8 to 83.0) 
+
+152 
+
+16 
+
+88.4 (81.3 to 92.9) 
+
+, 14 
+
+199 
+
+8 
+
+94.6 (86.2 to 98.0) 
+
+97.9 (92.0 to 99.5) 
+
+269 
+
+2 
+
+98.9 (95.7 to 99.7) 
+
+14-19 
+
+293 
+
+26 
+
+92.3 (86.1 to 95.8) 
+
+89.9 (83.3 to 94.1) 
+
+262 
+
+4 
+
+99.6 (97.2 to 99.9) 
+
+20-25 
+
+234 
+
+41 
+
+90.1 (82.2 to 94.6) 
+
+76.5 (67.1 to 83.6) 
+
+135 
+
+7 
+
+94.5 (88.1 to 97.6) 
+
+$ 26 
+
+310 
+
+58 
+
+86.0 (79.4 to 90.5) 
+
+74.9 (66.1 to 81.6) 
+
+136 
+
+13 
+
+90.0 (82.8 to 94.2) 
+
+Unknown 
+
+240 
+
+26 
+
+90.0 (82.6 to 94.3) 
+
+86.9 (78.5 to 92.2) 
+
+189 
+
+9 
+
+97.1 (93.3 to 98.8) 
+
+ER expression, % 
+
+Unknown PgR expression, % 
+
+Tumor grade 
+
+Ki-67 expression, % 
+
+NOTE. Estimates provided for treatment groups combined in the no-chemotherapy cohort because of a small number of events and were not reported when # 20 patients. Estimates not provided for unknown groups of , 50 patients overall. Estimates in subgroups that had few events should be interpreted with caution. Abbreviations: DR, distant recurrence; ER, estrogen receptor; Ki-67, Ki-67 labeling index; OFS, ovarian function suppression; PgR, progesterone receptor; TEXT, Tamoxifen and Exemestane Trial. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+TABLE A4. Combined SOFT and TEXT Cohorts Treated With Ovarian Suppression: Kaplan-Meier Estimates of 8-Year Freedom From DR in Clinicopathologic Subgroups According to Treatment Assignment Characteristic 
+
+Patients 
+
+DRs 
+
+Exemestane Plus OFS, 8-Year % (95% CI) 
+
+Tamoxifen Plus OFS, 8-Year % (95% CI) 
+
+All patients 
+
+4,009 
+
+344 
+
+93.1 (91.8 to 94.2) 
+
+89.8 (88.3 to 91.1) 
+
+, 35 
+
+349 
+
+68 
+
+82.3 (75.5 to 87.4) 
+
+76.2 (68.4 to 82.4) 
+
+35-39 
+
+645 
+
+99 
+
+87.7 (83.3 to 91.0) 
+
+82.7 (77.6 to 86.7) 
+
+40-44 
+
+1,292 
+
+96 
+
+93.6 (91.2 to 95.4) 
+
+90.8 (88.2 to 92.9) 
+
+45-49 
+
+1,346 
+
+68 
+
+96.6 (94.7 to 97.8) 
+
+93.8 (91.5 to 95.5) 
+
+$ 50 
+
+377 
+
+13 
+
+98.5 (95.3 to 99.5) 
+
+95.3 (90.2 to 97.7) 
+
+0 
+
+2,357 
+
+88 
+
+97.9 (96.8 to 98.7) 
+
+95.2 (93.7 to 96.4) 
+
+1-3 
+
+1,181 
+
+117 
+
+92.6 (90.0 to 94.6) 
+
+88.0 (84.9 to 90.4) 
+
+$4 
+
+471 
+
+139 
+
+70.9 (64.2 to 76.6) 
+
+67.7 (60.8 to 73.7) 
+
+#2 
+
+2,574 
+
+107 
+
+96.7 (95.4 to 97.6) 
+
+95.3 (93.9 to 96.4) 
+
+.2 
+
+1,373 
+
+225 
+
+86.7 (83.7 to 89.1) 
+
+80.4 (77.0 to 83.3) 
+
+62 
+
+12 
+
+88.4 (68.2 to 96.1) 
+
+75.3 (56.6 to 86.8) 
+
+Age at random assignment, years 
+
+No. of positive nodes 
+
+Tumor size, cm 
+
+Unknown ER expression, % , 50 
+
+159 
+
+25 
+
+87.3 (77.5 to 93.0) 
+
+83.3 (71.9 to 90.4) 
+
+$ 50 
+
+3,785 
+
+313 
+
+93.4 (92.1 to 94.5) 
+
+90.1 (88.6 to 91.4) 
+
+65 
+
+6 
+
+91.1 (68.8 to 97.7) 
+
+86.7 (68.2 to 94.8) 
+
+, 20 
+
+412 
+
+74 
+
+83.7 (77.6 to 88.2) 
+
+76.2 (69.0 to 82.0) 
+
+20-49 
+
+336 
+
+51 
+
+91.0 (85.3 to 94.6) 
+
+80.3 (72.9 to 85.8) 
+
+$ 50 
+
+3,185 
+
+211 
+
+94.8 (93.5 to 95.9) 
+
+92.5 (91.0 to 93.7) 
+
+76 
+
+8 
+
+86.8 (68.4 to 94.8) 
+
+87.3 (69.4 to 95.0) 
+
+Unknown PgR expression, % 
+
+Unknown Tumor grade 1 
+
+880 
+
+16 
+
+98.4 (96.3 to 99.3) 
+
+98.2 (96.3 to 99.2) 
+
+2 
+
+2,291 
+
+191 
+
+93.7 (92.0 to 95.1) 
+
+90.0 (88.0 to 91.7) 
+
+3 
+
+838 
+
+137 
+
+86.0 (82.0 to 89.1) 
+
+80.5 (76.0 to 84.2) 
+
+, 14 
+
+986 
+
+33 
+
+96.6 (94.2 to 98.0) 
+
+97.0 (94.8 to 98.2) 
+
+14-19 
+
+970 
+
+59 
+
+95.0 (92.5 to 96.7) 
+
+93.2 (90.4 to 95.3) 
+
+20-25 
+
+607 
+
+77 
+
+90.6 (86.4 to 93.6) 
+
+83.9 (78.9 to 87.9) 
+
+$ 26 
+
+670 
+
+114 
+
+87.1 (82.9 to 90.4) 
+
+78.2 (73.0 to 82.5) 
+
+Unknown 
+
+776 
+
+61 
+
+93.6 (90.4 to 95.8) 
+
+90.9 (87.3 to 93.5) 
+
+Ki-67 expression, % 
+
+NOTE. Estimates not provided for unknown groups of , 50 patients. Estimates in subgroups that had few events should be interpreted with caution. Abbreviations: DR, distant recurrence; ER, estrogen receptor; Ki-67, Ki-67 labeling index; OFS, ovarian function suppression; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial; TEXT, Tamoxifen and Exemestane Trial. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+TABLE A5. SOFT: Kaplan-Meier Estimates of 8-Year Freedom From DR in Clinicopathologic Subgroups According to Treatment Assignment Characteristic 
+
+Patients 
+
+DRs 
+
+Exemestane Plus OFS, 8-Year % (95% CI) 
+
+Tamoxifen Plus OFS, 8-Year % (95% CI) 
+
+Tamoxifen, 8-Year % (95% CI) 
+
+All patients 
+
+2,624 
+
+239 
+
+93.0 (90.9 to 94.6) 
+
+89.5 (87.2 to 91.5) 
+
+89.7 (87.3 to 91.7) 
+
+, 35 
+
+252 
+
+48 
+
+87.2 (78.0 to 92.7) 
+
+77.4 (66.0 to 85.3) 
+
+74.5 (62.5 to 83.1) 
+
+35-39 
+
+478 
+
+81 
+
+83.1 (75.5 to 88.6) 
+
+82.6 (74.7 to 88.2) 
+
+79.7 (71.4 to 85.8) 
+
+40-44 
+
+777 
+
+62 
+
+93.9 (89.7 to 96.4) 
+
+91.0 (86.7 to 93.9) 
+
+91.8 (87.4 to 94.6) 
+
+45-49 
+
+838 
+
+38 
+
+97.2 (94.2 to 98.7) 
+
+93.8 (90.0 to 96.2) 
+
+95.9 (92.3 to 97.8) 
+
+$ 50 
+
+279 
+
+10 
+
+99.0 (92.9 to 99.9) 
+
+94.6 (86.1 to 98.0) 
+
+95.2 (87.7 to 98.2) 
+
+0 
+
+1,762 
+
+67 
+
+97.9 (96.1 to 98.8) 
+
+95.6 (93.4 to 97.1) 
+
+95.3 (92.8 to 96.9) 
+
+1-3 
+
+627 
+
+85 
+
+90.6 (85.3 to 94.1) 
+
+83.0 (76.8 to 87.7) 
+
+85.5 (79.7 to 89.7) 
+
+$4 
+
+235 
+
+87 
+
+60.3 (47.3 to 71.0) 
+
+63.5 (51.5 to 73.2) 
+
+59.0 (46.0 to 69.8) 
+
+Age at random assignment, years 
+
+No. of positive nodes 
+
+Tumor size, cm #2 
+
+1,792 
+
+82 
+
+96.4 (94.5 to 97.7) 
+
+95.9 (93.6 to 97.3) 
+
+93.6 (91.0 to 95.5) 
+
+.2 
+
+773 
+
+141 
+
+84.9 (79.3 to 89.1) 
+
+77.9 (72.2 to 82.6) 
+
+81.7 (75.9 to 86.2) 
+
+Unknown 
+
+59 
+
+16 
+
+85.1 (52.3 to 96.1) 
+
+69.6 (46.6 to 84.2) 
+
+73.9 (48.2 to 88.2) 
+
+ER expression, % , 50 
+
+111 
+
+22 
+
+87.0 (71.2 to 94.4) 
+
+86.7 (68.3 to 94.8) 
+
+70.1 (51.0 to 82.8) 
+
+$ 50 
+
+2,482 
+
+212 
+
+93.3 (91.2 to 94.9) 
+
+89.9 (87.5 to 91.9) 
+
+90.6 (88.2 to 92.5) 
+
+31 
+
+5 
+
+288 
+
+53 
+
+85.6 (76.9 to 91.3) 
+
+77.2 (65.4 to 85.5) 
+
+76.5 (66.2 to 84.1) 
+
+Unknown PgR expression, % , 20 20-49 
+
+197 
+
+33 
+
+91.6 (81.0 to 96.5) 
+
+79.7 (67.6 to 87.7) 
+
+81.4 (68.8 to 89.3) 
+
+$ 50 
+
+2,094 
+
+146 
+
+94.4 (92.2 to 96.0) 
+
+92.2 (89.8 to 94.1) 
+
+92.3 (89.7 to 94.2) 
+
+45 
+
+7 
+
+1 
+
+703 
+
+19 
+
+98.9 (95.7 to 99.7) 
+
+97.6 (94.2 to 99.0) 
+
+95.9 (91.7 to 98.0) 
+
+2 
+
+1,453 
+
+142 
+
+92.1 (89.1 to 94.3) 
+
+88.4 (85.0 to 91.1) 
+
+90.0 (86.6 to 92.5) 
+
+3 
+
+468 
+
+78 
+
+86.6 (79.6 to 91.4) 
+
+81.9 (74.7 to 87.2) 
+
+79.9 (72.1 to 85.7) 
+
+, 14 
+
+754 
+
+39 
+
+96.2 (92.4 to 98.1) 
+
+95.4 (91.5 to 97.5) 
+
+93.0 (88.0 to 96.0) 
+
+14-19 
+
+627 
+
+45 
+
+94.0 (89.7 to 96.6) 
+
+92.2 (87.3 to 95.2) 
+
+93.0 (88.0 to 95.9) 
+
+20-25 
+
+368 
+
+43 
+
+89.5 (81.8 to 94.0) 
+
+84.8 (76.3 to 90.4) 
+
+87.6 (79.8 to 92.6) 
+
+Unknown Tumor grade 
+
+Ki-67 expression, % 
+
+$ 26 
+
+339 
+
+66 
+
+84.7 (76.2 to 90.4) 
+
+77.2 (68.1 to 84.0) 
+
+79.2 (70.0 to 85.8) 
+
+Unknown 
+
+536 
+
+81 
+
+94.4 (89.0 to 97.2) 
+
+90.0 (84.1 to 93.7) 
+
+89.8 (84.3 to 93.5) 
+
+NOTE. Estimates not provided for unknown groups of , 50 patients. Estimates in subgroups that had few events should be interpreted with caution. Abbreviations: DR, distant recurrence; ER, estrogen receptor; Ki-67, Ki-67 labeling index; OFS, ovarian function suppression; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Freedom From Distant Recurrence With Endocrine Therapies 
+
+TABLE A6. SOFT: Kaplan-Meier Estimates of 8-Year Freedom From DR in Clinicopathologic Subgroups According to Chemotherapy Use and Treatment Assignment Prior Chemotherapy 
+
+Characteristic 
+
+No Chemotherapy Exemestane Plus OFS, Tamoxifen Plus OFS, Tamoxifen, Patients DRs 8-Year % (95% CI) 8-Year % (95% CI) 8-Year % (95% CI) Patients DRs 8-Year % (95% CI) 
+
+All patients 
+
+1,271 
+
+216 
+
+86.2 (82.2 to 89.4) 
+
+80.3 (75.9 to 84.0) 81.0 (76.6 to 84.6) 
+
+1,353 
+
+, 35 
+
+232 
+
+48 
+
+86.0 (76.2 to 92.0) 
+
+75.3 (63.2 to 83.9) 72.9 (60.4 to 82.0) 
+
+20 
+
+0 
+
+35-39 
+
+375 
+
+79 
+
+79.7 (70.8 to 86.2) 
+
+77.4 (67.7 to 84.5) 75.9 (66.2 to 83.2) 
+
+103 
+
+2 96.6 (85.5 to 99.2) 
+
+40-44 
+
+407 
+
+53 
+
+90.0 (82.6 to 94.4) 
+
+83.5 (76.1 to 88.9) 88.1 (81.2 to 92.5) 
+
+370 
+
+9 97.8 (95.3 to 99.0) 
+
+45-49 
+
+213 
+
+29 
+
+90.1 (79.2 to 95.5) 
+
+82.0 (70.9 to 89.2) 84.1 (70.8 to 91.7) 
+
+625 
+
+9 99.2 (98.0 to 99.7) 
+
+$ 50 
+
+44 
+
+7 
+
+93.3 (61.3 to 99.0) 
+
+87.5 (38.7 to 98.1) 77.0 (49.7 to 90.7) 
+
+235 
+
+3 98.5 (95.4 to 99.5) 
+
+0 
+
+527 
+
+47 
+
+94.2 (89.0 to 97.0) 
+
+89.1 (82.8 to 93.1) 88.2 (81.3 to 92.6) 
+
+1,235 
+
+20 98.7 (97.8 to 99.2) 
+
+1-3 
+
+510 
+
+82 
+
+89.2 (83.0 to 93.3) 
+
+79.7 (72.3 to 85.3) 83.4 (76.8 to 88.2) 
+
+117 
+
+3 96.0 (87.0 to 98.8) 
+
+$4 
+
+234 
+
+87 
+
+60.3 (47.3 to 71.0) 
+
+63.5 (51.5 to 73.2) 58.3 (45.2 to 69.3) 
+
+1 
+
+23 98.5 (97.6 to 99.1) 
+
+Age at random assignment, years 
+
+No. of positive nodes 
+
+0 
+
+Tumor size, cm #2 
+
+630 
+
+70 
+
+90.5 (85.5 to 93.9) 
+
+90.4 (84.8 to 94.0) 84.1 (77.7 to 88.8) 
+
+1,162 
+
+12 99.1 (98.2 to 99.5) 
+
+.2 
+
+591 
+
+130 
+
+81.6 (74.7 to 86.8) 
+
+71.6 (64.4 to 77.6) 79.0 (72.3 to 84.2) 
+
+182 
+
+11 94.7 (89.3 to 97.4) 
+
+Unknown 
+
+50 
+
+16 
+
+83.3 (48.2 to 95.6) 
+
+66.7 (42.5 to 82.5) 64.6 (34.7 to 83.5) 
+
+9 
+
+0 
+
+, 50 
+
+75 
+
+20 
+
+80.9 (59.4 to 91.7) 
+
+81.0 (56.7 to 92.4) 61.3 (36.4 to 78.9) 
+
+36 
+
+2 94.4 (79.6 to 98.6) 
+
+$ 50 
+
+1,179 
+
+191 
+
+86.7 (82.6 to 89.9) 
+
+80.7 (76.1 to 84.5) 82.1 (77.6 to 85.8) 
+
+1,303 
+
+21 98.6 (97.7 to 99.2) 
+
+17 
+
+5 
+
+, 20 
+
+233 
+
+52 
+
+20-49 
+
+131 
+
+32 
+
+90.6 (76.8 to 96.4) 
+
+64.4 (46.5 to 77.6) 73.5 (57.2 to 84.5) 
+
+66 
+
+1 98.4 (89.4 to 99.8) 
+
+$ 50 
+
+884 
+
+125 
+
+87.0 (82.1 to 90.7) 
+
+84.9 (80.1 to 88.6) 84.4 (79.2 to 88.4) 
+
+1,210 
+
+21 98.5 (97.5 to 99.1) 
+
+Unknown 
+
+23 
+
+7 
+
+1 
+
+199 
+
+15 
+
+96.4 (85.9 to 99.1) 
+
+2 
+
+729 
+
+127 
+
+3 
+
+343 
+
+74 
+
+, 14 
+
+248 
+
+14-19 20-25 
+
+— 
+
+ER expression, % 
+
+Unknown 
+
+— 
+
+14 
+
+0 
+
+55 
+
+1 98.1 (87.6 to 99.7) 
+
+PgR expression, % 82.9 (72.7 to 89.5) 
+
+70.5 (56.1 to 81.0) 72.1 (60.0 to 81.1) 
+
+— 
+
+22 
+
+0 
+
+92.3 (80.8 to 97.1) 90.3 (79.5 to 95.5) 
+
+504 
+
+4 99.2 (97.4 to 99.8) 
+
+85.1 (79.5 to 89.2) 
+
+78.9 (72.8 to 83.8) 82.4 (76.4 to 86.9) 
+
+724 
+
+15 98.3 (96.8 to 99.0) 
+
+82.5 (73.3 to 88.8) 
+
+77.4 (68.3 to 84.1) 72.8 (63.0 to 80.5) 
+
+125 
+
+4 97.5 (92.5 to 99.2) 
+
+33 
+
+88.5 (77.8 to 94.3) 
+
+86.5 (75.6 to 92.8) 81.8 (69.7 to 89.4) 
+
+506 
+
+6 99.4 (97.5 to 99.9) 
+
+303 
+
+40 
+
+87.6 (79.2 to 92.8) 
+
+85.3 (76.4 to 91.0) 88.7 (79.9 to 93.8) 
+
+324 
+
+5 98.5 (95.8 to 99.5) 
+
+216 
+
+38 
+
+85.8 (74.4 to 92.3) 
+
+76.4 (63.8 to 85.0) 80.6 (67.8 to 88.7) 
+
+152 
+
+5 96.5 (91.8 to 98.5) 
+
+$ 26 
+
+238 
+
+61 
+
+78.6 (66.9 to 86.6) 
+
+72.1 (60.7 to 80.7) 71.4 (59.6 to 80.2) 
+
+101 
+
+5 96.0 (89.6 to 98.5) 
+
+Unknown 
+
+266 
+
+44 
+
+88.8 (78.6 to 94.3) 
+
+80.3 (69.4 to 87.6) 81.0 (71.1 to 87.7) 
+
+270 
+
+2 99.1 (96.4 to 99.8) 
+
+Tumor grade 
+
+Ki-67 expression, % 
+
+NOTE. Estimates provided for treatment groups combined in the no-chemotherapy cohort because of the small number of events and not provided when # 20 patients. Estimates not provided for unknown groups of , 50 patients overall (chemotherapy and no-chemotherapy combined). Estimates in subgroups that had a few events should be interpreted with caution. Abbreviations: DR, distant recurrence; ER, estrogen receptor; Ki-67, Ki-67 labeling index; OFS, ovarian function suppression; PgR, progesterone receptor; SOFT, Suppression of Ovarian Function Trial. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Pagani et al 
+
+TABLE A7. Distribution of the Composite Measures of Recurrence Risk in Clinicopathologic Subgroups Composite Risk Measure 
+
+Patients 
+
+DRs 
+
+Median 
+
+Quartile 1 
+
+Quartile 3 
+
+Minimum 
+
+Maximum 
+
+All HR-positive/HER2-negative 
+
+4,891 
+
+433 
+
+1.42 
+
+0.81 
+
+2.16 
+
+–0.28 
+
+4.60 
+
+Age at random assignment, years , 35 
+
+430 
+
+88 
+
+2.49 
+
+1.95 
+
+3.16 
+
+0.67 
+
+4.59 
+
+35-39 
+
+812 
+
+129 
+
+2.01 
+
+1.49 
+
+2.80 
+
+0.52 
+
+4.60 
+
+40-44 
+
+1,560 
+
+120 
+
+1.44 
+
+0.89 
+
+2.02 
+
+0.07 
+
+3.84 
+
+45-49 
+
+1,626 
+
+78 
+
+1.07 
+
+0.72 
+
+1.65 
+
+20.28 
+
+4.01 
+
+$ 50 
+
+463 
+
+18 
+
+0.79 
+
+0.50 
+
+1.36 
+
+20.04 
+
+3.87 
+
+0 
+
+2,939 
+
+114 
+
+0.98 
+
+0.72 
+
+1.47 
+
+20.28 
+
+3.26 
+
+1-3 
+
+1,401 
+
+151 
+
+1.91 
+
+1.42 
+
+2.43 
+
+0.44 
+
+3.91 
+
+$4 
+
+551 
+
+168 
+
+3.18 
+
+2.71 
+
+3.59 
+
+1.30 
+
+4.60 
+
+No. of positive nodes 
+
+Tumor size, cm Unknown 
+
+83 
+
+18 
+
+2.49 
+
+2.13 
+
+3.15 
+
+0.89 
+
+4.60 
+
+#2 
+
+3,176 
+
+145 
+
+1.07 
+
+0.72 
+
+1.59 
+
+20.28 
+
+4.01 
+
+.2 
+
+1,632 
+
+270 
+
+2.27 
+
+1.73 
+
+2.92 
+
+0.48 
+
+4.59 
+
+ER expression, % Unknown 
+
+71 
+
+7 
+
+1.85 
+
+1.61 
+
+2.42 
+
+20.28 
+
+4.60 
+
+, 50 
+
+196 
+
+36 
+
+2.10 
+
+1.32 
+
+2.96 
+
+0.06 
+
+4.59 
+
+$ 50 
+
+4,624 
+
+390 
+
+1.39 
+
+0.77 
+
+2.09 
+
+20.10 
+
+4.44 
+
+90 
+
+10 
+
+2.14 
+
+1.67 
+
+2.63 
+
+0.90 
+
+4.60 
+
+PgR expression, % Unknown , 20 
+
+509 
+
+96 
+
+2.37 
+
+1.79 
+
+3.03 
+
+0.36 
+
+4.59 
+
+20-49 
+
+400 
+
+63 
+
+2.14 
+
+1.40 
+
+2.90 
+
+0.21 
+
+4.32 
+
+$ 50 
+
+3,892 
+
+264 
+
+1.29 
+
+0.73 
+
+1.89 
+
+20.28 
+
+4.03 
+
+Tumor grade 1 
+
+1,120 
+
+27 
+
+0.35 
+
+0.06 
+
+0.75 
+
+20.28 
+
+2.94 
+
+2 
+
+2,765 
+
+240 
+
+1.46 
+
+0.98 
+
+2.10 
+
+0.72 
+
+4.60 
+
+3 
+
+1,006 
+
+166 
+
+2.29 
+
+1.75 
+
+2.98 
+
+0.69 
+
+4.59 
+
+965 
+
+81 
+
+1.41 
+
+0.79 
+
+2.11 
+
+20.28 
+
+4.60 
+
+, 14 
+
+1,222 
+
+49 
+
+0.75 
+
+0.17 
+
+1.39 
+
+0.00 
+
+3.82 
+
+14-19 
+
+1,182 
+
+75 
+
+1.29 
+
+0.77 
+
+1.87 
+
+20.10 
+
+3.85 
+
+20-25 
+
+737 
+
+91 
+
+1.79 
+
+1.24 
+
+2.42 
+
+0.26 
+
+4.39 
+
+$ 26 
+
+785 
+
+137 
+
+2.36 
+
+1.87 
+
+3.00 
+
+0.49 
+
+4.59 
+
+Ki-67 expression, % Unknown 
+
+NOTE. Values of grade, ER, and PgR expression were centrally determined if available and locally determined otherwise; Ki-67 expression was available only by central determination. Abbreviations: DR, distant recurrence; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hormone receptor; Ki-67, Ki-67 labeling index; PgR, progesterone receptor. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by DFG Deutsche Forschungsgemeinschaft on October 20, 2019 from 129.187.254.047 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+ 

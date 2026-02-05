@@ -1,0 +1,307 @@
+VOLUME 
+
+25 
+
+䡠 
+
+NUMBER 
+
+6 
+
+䡠 
+
+FEBRUARY 
+
+20 
+
+2007 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Sequenced Compared With Simultaneous Anthracycline and Cyclophosphamide in High-Risk Stage I and II Breast Cancer: Final Analysis From INT-0137 (S9313) Hannah M. Linden, Charles M. Haskell, Stephanie J. Green, C. Kent Osborne, George W. Sledge Jr, Charles L. Shapiro, James N. Ingle, Danika Lew, Laura F. Hutchins, Robert B. Livingston, and Silvana Martino From the Puget Sound Oncology Consortium; Southwest Oncology Group Statistical Center, Seattle, WA; University of California School of Medicine, Los Angeles, CA; Baylor College of Medicine, Houston, TX; Indiana University Medical Center, Indianapolis, IN; Dana-Farber Cancer Institute, Boston, MA; Mayo Clinic, Rochester, MN; University of Arkansas for Medical Science, Little Rock, AR; and the Angeles Clinic and Research Institute, Santa Monica, CA. Submitted May 1, 2006; accepted November 29, 2006. Supported in part by the US Public Health Service Cooperative Agreement grants awarded by the National Cancer Institute, Department of Health and Human Services: Grants No. CA38926, CA32102, CA49883, CA21115, CA25224, CA31946, CA32291, CA37981, CA35431, CA45377, CA58416, CA22433, CA58686, CA46113, CA04919, CA46441, CA58861, CA46282, CA35261, CA27057, CA76132, CA35192, CA76447, CA76462, CA45450, CA76429, CA63845, CA12644, CA20319, CA63844, CA45560, CA58415, CA14028, CA58658, CA42777, CA35119, CA35090, CA35117, CA13612, CA16385, CA67575, CA68183, CA46368, CA04920, CA74647, and CA52654. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Address reprint requests to Southwest Oncology Group (SWOG-9313) Operations Office, 14980 Omicron Dr, San Antonio, TX 78245-3217; e-mail: pubs@swog.org. © 2007 by American Society of Clinical Oncology 0732-183X/07/2506-656/$20.00 DOI: 10.1200/JCO.2006.07.0847 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose We conducted a phase III randomized study of two adjuvant treatment schedules of doxorubicin (A) and cyclophosphamide (C) in early-stage breast cancer to determine if administration of sequential single agents (A 3 C) results in superior disease-free survival (DFS) and overall survival (OS) versus the same total dose given in combination (AC). Patients and Methods High-risk node-negative or low-risk node-positive breast cancer patients received AC given: (arm I) concurrently (AC) doxorubicin 54 mg/m2 and cyclophosphamide 1.2 g/m2 intravenously (IV) every 3 weeks for six cycles; or (arm II) in sequence (A 3 C) doxorubicin 40.5 mg/m2 IV days 1 and 2 every 3 weeks for four cyles followed by cyclophosphamide 2.4 gm/m2 IV every 2 weeks for three cycles. Total dose and duration were identical, but the intensity of each drug was increased on A 3 C. Both arms included granulocyte colony-stimulating factor support and prophylactic antibiotics. All but premenopausal women with receptor negative tumors received tamoxifen after chemotherapy. Results Between 1994 and 1997, 3,176 patients were randomly assigned. Arms were well balanced; 48% of eligible patients were node-negative and 48% were estrogen receptor–positive. No significant differences in OS or DFS were observed; 5-year estimates of OS (95% CI) were 88% (87% to 90%) on AC and 89% (87% to 91%) on A 3 C. Grade 4 hematologic toxicity was greater on A 3 C, but nonhematological grade 4 was similar. Conclusion The overall result does not support superiority of dose-intense sequenced single agents. The greater toxicity of higher doses of single agents does not support their sequential use. J Clin Oncol 25:656-661. © 2007 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Dose-intensity, duration, density, and sequencing of adjuvant anthracycline-based chemotherapy regimens in breast cancer have been examined in numerous clinical trials. While cumulative results of such trials have shown improved outcomes, the optimal doxorubicin plus cyclophosphamide (AC) program remains to be determined. Increased dose-intensity of cyclophosphamide, methotrexate, and fluorouracil (CMF) -type regimens appears to improve outcomes, as reported in a retrospective analysis.1 Dose-intensity of the anthracycline (in AC) must be maintained above a moderate threshold, but efforts to further increase the dose-intensity of the anthracycline have resulted in mixed conclusions and excessive 
+
+toxicity.2-4 Cancer and Leukemia Group B (CALGB) 8541 demonstrated that a minimum moderate dose-intensity (15 mg/m2/wk rather than 7.5 mg/m2/wk) of doxorubicin is critical for efficacy.5-7 National Surgical Adjuvant Breast and Bowel Project (NSABP) B-22 and B-25 showed that increasing the dose of cyclophosphamide results in increased leukemogenicity without an improved breast cancer outcome.8,9 Improved dose-intensity is an appealing strategy to allow increased exposure to pharmacologically significant levels of the therapeutic agent. Doseintensity is defined by the amount of treatment delivered per unit of time, wherein 60 mg/m2 of doxorubicin given at 3-week intervals results in a dose-intensity of 20 mg/m2/wk. The optimal dose of doxorubicin appears to be 20 to 24 mg/m2/wk, 
+
+656 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2007 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Sequenced Versus Simultaneous AC INT-0137 
+
+based on studies with doxorubicin4 (or epirubicin)6,7 given every 3 weeks with cyclophosphamide. Sequencing chemotherapy regimens has received relatively little scrutiny. The European Institute of Oncology (Milan, Italy) showed that alternating therapies, rather than sequencing (CMF and AC) reduces efficacy10; however, the two study arms were not wellbalanced. Norton et al11 proposed an optimal strategy based on mathematical modeling in which single agents are given sequentially at high dose-intensity.11,12 The Memorial Sloan-Kettering Cancer Center (New York, NY) has used a sequential doxorubicin followed by cyclophosphamide (A 3 C) strategy in phase II trials with promising results.13,14 However, few studies have rigorously compared a sequential with simultaneous strategy, and none has determined which is superior. The present study design isolated the treatment schedule. Questions of sequence and intensity were distinguished, maintaining total dose and duration constant. Patients in both arms received identical total doses of both chemotherapeutic agents followed by tamoxifen (if hormone receptor–positive or postmenopausal). Earlier preliminary analysis reported in abstract form found no significant differences between the treatment arms.15 Herein, we present the final analysis of INT-0137. PATIENTS AND METHODS Patients This intergroup trial was coordinated by the Southwest Oncology Group (S9313), with participation from the Eastern Cooperative Group, North Central Cancer Treatment Group (NCCTG 93-30-51), and CALGB 9394. It was open for accrual from April 1994 to May 1997 to patients with early-stage high-risk breast cancer. Patients were eligible if tumors were estrogen receptor (ER) –negative and progesterone receptor (PR) –negative and ⬎ 1 cm, ⬎ 2 cm regardless of hormone receptor status, or node-positive, with 1 to 3 positive axillary nodes, stage I or II by the most recent American Joint Committee on Cancer guidelines.16 Patients with ductal carcinoma in situ, lobular carcinoma in situ in addition to invasive disease (including TxN1a), metaplastic carcinoma, and bilateral synchronous tumors were eligible. Recurrent, locally advanced disease, pure tubular, papillary, mucinous, sarcoma, lymphoma, apocrine, adenocystic, or squamous cell breast cancers were excluded. Primary surgical treatment was required, mastectomy or breast-sparing procedure, and axillary dissection, with a minimum of six nodes removed and examined. The extent of further staging studies was left to the discretion of the treating physician. However, a minimum of a chest x-ray, contralateral mammogram, and no clear gross and microscopically positive surgical margins was required. Normal baseline cardiac ejection function, hematological function, and hepatic and renal functions were also required. Patients were informed of the experimental nature of the study and were provided written informed consent in accordance with institutional and federal guidelines. Treatment Designed to be administered on an outpatient basis, all chemotherapy (Fig 1) was initiated within 85 days of primary surgery. Patients were randomly assigned to receive either (arm I) AC given in combination (AC) doxorubicin 54 mg/m2 and cyclophosphamide 1.2 g/m2 intravenously (IV) every 3 weeks for six cycles or (arm II) in sequence (A 3 C) doxorubicin 40.5 mg/m2 IV days 1 and 2 of a 21-day cycle for four cycles, followed by cyclophosphamide 2.4 gm/m2 IV every 2 weeks for three cycles. Granulocyte colony-stimulating factor (G-CSF) was administered day 3 after cyclophosphamide doses and continued until day 12 or until a postnadir count of 10,000 granulocytes. Prophylactic ciprofloxacin was administered for high-dose cyclophosphamide given in arm II. However, after an episode of neutropenia, all patients were 
+
+A 
+
+Dose-intensity* (mg/m2/wk) Doxorubicin 18 
+
+Cyclophosphamide 400 
+
+B Dose-intensity* (mg/m2/wk) Doxorubicin 27 
+
+Cyclophosphamide 1,200 
+
+Fig 1. Treatment schedule for INT-0137 is shown schematically with doxorubicin in blue and cyclophosphamide in yellow. Identical total doses were given over the entire period of adjuvant therapy. (A) High-dose AC given in combination. (B) In arm II, therapy was sequential and the dose-intensity of each drug (*calculated for the period when the drug was administered) was increased. A, doxorubin; C, cyclophosphamide; AC, doxorubin and cyclophosphamide. 
+
+given prophylactic antibiotics with subsequent cycles. Vigorous hydration was administered parenterally and encouraged orally with high-dose cyclophosphamide. Mesna was instituted for hemorrhagic cystitis. The sequential dosing schedule of the experimental arm was intended to be similar to concurrent phase II studies at the Memorial Sloan-Kettering Cancer Center using doxorubicin at 75 mg in a q3 week schedule in sequence with cyclophosphamide at 3 g/m2 every 2 weeks supported by G-CSF.13 Reduction of cyclophosphamide and institution of G-CSF and prophylactic antibiotics was based on safety concerns. Doses of the regimens were designed such that all patients received the same total dose of each drug (324 mg/m2 doxorubicin, 7.2 g/m2 of cyclophosphamide) and were treated during an 18-week period. However, in the experimental sequential arm, the doseintensity of both drugs was increased (27 v 18 mg/m2/wk of doxorubicin and 1,200 v 400 mg/m2/wk of cyclophosphamide) and calculated for the period of intended delivery of each drug. SWOG toxicity criteria were employed.17 Complete blood cell counts were obtained before each treatment. If absolute neutrophil count was less than 1,500 per microliter, chemotherapy was withheld until neutrophil count recovery, but no dose reductions were allowed. If treatment delay was greater than 2 weeks, the patient was removed from protocol treatment. Dose was not adjusted for anemia, nor for transfusion. For grade 4 thrombocytopenia (platelets ⬍ 25,000 per microliter), the chemotherapy dose was reduced by 25%. The doxorubicin dose was reduced for grade 2 toxicity (transaminases 2.6-5) and held for grade 3 (transaminases ⬎ 5 ⫻ institutional upper limit of normal [IULN] t. bilirubin 1.5-3 ⫻ IULN). Patients were removed from the protocol for grade 4 (transaminases ⬎ 20 ⫻ IULN or t. bilirubin ⬎ 3 ⫻ IULN) or persistent grade 3 hepatotoxicity. The doxorubicin dose was reduced for mucositis, and both doxorubicin and cyclophosphamide were reduced for grade 4 nausea and vomiting. External beam radiation therapy was deferred until after chemotherapy, but it must have been planned before trial entry for patients treated with less than a mastectomy. Premenopausal women with hormone receptor–positive tumors, and all postmenopausal women, were treated daily with tamoxifen 20 mg orally for 5 years after chemotherapy. Design Patients were randomly assigned to receive combination AC or sequential treatment with doxorubicin followed by cyclophosphamide (A 3 C). Stratification factors were not used due to large sample size. It was hypothesized that sequential therapy should be superior to combined. The sample size of 1,500 patients per arm was chosen such that onesided .05 level log-rank test of the equality of disease-free survival (DFS) 657 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2007 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Linden et al 
+
+distributions would have power .9 to detect a hazard ratio (HR) of 1.3 in favor of sequential treatment. Levels for two interim tests were specified to be .005, with the final analysis to be done at the .045 level.18 In addition, a tissue sample block (when available) from patients enrolled onto INT-0137 was collected for future biologic correlative studies. Statistical Methods DFS is defined as time from registration to first occurrence of contralateral breast cancer; local, regional, or distant recurrence; or death due to any cause. Survival is defined as the time from registration to time of death due to any cause. For time-to-event data, the Kaplan-Meier method19 was used for estimating distributions. The log-rank test20 was used for testing DFS and overall survival (OS) differences between arms. Cox models21 were used for assessing association of patient characteristics with survival and DFS, for testing treatment-patient characteristic interactions, and for estimating HRs. ␹2 tests for contingency tables were used for testing differences in toxicities.22 All reported P values are two sided. One-sided values also are given for the primary comparison (AC DFS v A 3 C DFS), as the study specified a one-sided hypothesis for this question. All patients are analyzed according to the assigned arm. The only exception is for toxicity, where patients who received none of the chemotherapy in the assigned arm were omitted from statistical analysis of toxicity. Interim analysis was performed after accrual of one third and two thirds of the anticipated number of events. After treatment, patients were followed for 5 years at 6-month intervals and then annually to monitor for relapse, long-term cardiac effects, recurrence or second primary, tamoxifen compliance, death, and cause of death. 
+
+RESULTS 
+
+Between April 1994 and May 1997, 3,176 women enrolled onto a study. Criteria for early stopping and reporting were not met at either interim analysis, so accrual and follow-up were completed as planned. The median follow-up for patients still alive at time of analysis is 7.2 years. Sixty-two patients (2%) were ineligible: 14 had insufficient baseline documentation of eligibility, 14 lacked documented high-risk disease, eight had positive margins, nine had more than three lymph nodes involved, six did not have invasive adenocarcinoma, three had inadequate left ventricular ejection fraction, and eight were ineligible for miscellaneous reasons. There are 1,590 eligible patients on the AC arm and 1,524 on A 3 C. Modest over accrual is due to faster accrual and lower ineligibility rates than anticipated. One eligible patient with no follow-up is included only in baseline tables. Patient characteristics, summarized in Table 1, show wellbalanced arms for age, menopausal status, race, ethnicity, type of surgery, number of positive nodes, receptor status, and tumor size. Overall, 52% of the patients on study had one to three positive nodes, 48% were ER-positive, and the majority had T2 primary tumors (only 7% had tumor size ⬎ 5 cm). Eighty-eight percent of patients on the AC arm completed chemotherapy compared with 84% on the A 3 C arm. Two thirds of the patients went off treatment early because of toxicity or adverse effects. DFS DFS is shown in Figure 2A. The sequential arm was not superior to combined (two-sided, log-rank P ⫽ .20, one-sided .10 by design). The 5-year DFS estimate (with 95% CI) on AC is 79% (77% to 81%) versus 81% (79% to 83%) on A 3 C. Factors associated with DFS were number of positive nodes, ER status, PR status, and tumor size. After adjustment for these factors, the estimated AC/A 3 C HR is 1.09, with 658 
+
+Table 1. INT-0137 Patient Characteristics Characteristic Age, years Median Range ⱖ 65, % Menopausal status, % Premenopausal Postmenopausal Race/ethnicity, % Hispanic, Yes No White Black Asian Pacific Islander Native American Multiracial Unknown Primary therapy, % Mastectomy Breast sparing surgery Number of positive nodes, % 0 1-3 Estrogen receptor status, % Positive Negative Unknown Progesterone receptor status, % Positive Negative Unknown Tumor size, % ⱕ2 2-5 ⬎5 
+
+AC (n ⫽ 1,590) 
+
+A 3 C (n ⫽ 1,524) 
+
+47 22.8-76.9 4 
+
+47.5 21.9-76.6 4 
+
+63 37 
+
+61 39 
+
+5 95 86 10 3 ⬍1 ⬍1 ⬍1 1 
+
+5 95 88 9 2 ⬍1 ⬍1 ⬍1 1 
+
+61 39 
+
+62 38 
+
+48 52 
+
+48 52 
+
+47 51 1 
+
+49 50 1 
+
+45 53 2 
+
+48 50 2 
+
+34 59 7 
+
+32 61 7 
+
+NOTE. Patient characteristics were balanced between two randomized arms. Abbreviation: AC, doxorubicin and cyclophosphamide. 
+
+95% CI from 0.95 to 1.26. Thus, the HR of 1.3 that the study was designed to detect is ruled out. OS OS is shown in Figure 2B. The sequential arm also is not superior with respect to survival (two-sided, log-rank P ⫽ .25). The 5-year estimate for AC is 88% (95% CI, 87% to 90%) versus 89% (87% to 91%) for A 3 C. Factors associated with survival were the same factors as for DFS, with the addition of menopausal status. After adjustment for these, the estimated AC/A 3 C HR is 1.11, with 95% CI from 0.93 to 1.32. Subset Analysis The approach used to explore whether sequential treatment might be superior in some subsets was to test treatment-patient characteristic interactions. A significant interaction suggests a differential effect of treatment according to subset. However, it should be noted that in the context of an overall negative result, an observed improvement in one subset cannot be viewed as definitive evidence of benefit due to the sequential arm, even with a significant interaction test. Interaction tests for nodal involvement, tumor size, primary JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2007 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Sequenced Versus Simultaneous AC INT-0137 
+
+A Disease-Free Survival (%) 
+
+Table 2. Relapse and Causes of Death on INT-0137 100 80 60 40 5-Year At Risk Failures Estimate (%) Combined AC 1,590 407 79 Sequential A → C 1,523 358 81 
+
+20 P = .20 
+
+2 
+
+0 
+
+4 
+
+6 
+
+8 
+
+10 
+
+Years From Registration 
+
+B 
+
+AC (n ⫽ 247) 
+
+AC (n ⫽ 237) 
+
+Relapsed breast cancer Other cancers Cardiovascular disease Accident or suicide Hepatic necrosis or cirrhosis Pulmonary Embolism Aspergillus Scleroderma Surgical complications Respiratory failure Perforated diverticuli Unknown 
+
+198 16 6 3 2 1 0 0 1 0 1 19 
+
+191 16 7 4 0 1 1 1 1 3 0 12 
+
+NOTE. Incidence of relapse and nonrelapse-associated causes of death and in protocol participants are shown; no significant difference was noted between two treatments. 
+
+100 
+
+Overall Survival (%) 
+
+Variable 
+
+80 60 40 5-Year At Risk Deaths Estimate (%) 88 Combined AC 1,590 274 237 89 Sequential A → C 1,523 
+
+20 P = .25 
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+Years From Registration Fig 2. Disease-free survival (DFS) and overall survival (OS) are shown in Figures 2A and B, respectively. Arm 1, combined therapy, appears in blue; arm 2, sequential therapy, appears in yellow. There is no significant difference between the two treatment arms in either DFS or OS (P ⫽ .20; P ⫽ .25). A, doxorubin; C, cyclophosphamide; AC, doxorubin and cyclophosphamide. 
+
+treatment, and menopausal status were all nonsignificant. The interaction test for hormone receptor status was significant for both DFS and OS (P ⫽ .009 and .002, respectively) benefits for A 3 C noted in hormone receptor–positive patients (ER positive and/or PR positive). The DFS in node-negative patients at 5 years was 83% and 82% in AC and A 3 C, respectively. In patients with one to three positive nodes, 5-year DFS was 76% and 81% for AC and A 3 C, respectively. For hormone receptor–positive (HR⫹) patients, DFS at 5 years was 81% in patients in the control arm given AC concurrently, and 86% in patients in the experimental arm given A 3 C sequentially (P ⫽ .01), whereas no difference appreciated in hormone receptor–negative (HR⫺) patients. Progressive Disease Outcomes Three hundred fifty-eight breast cancer failures occurred on AC and 312 on A 3 C. Sites were known for 639 of the following: opposite breast primaries (15%), local/regional relapses (28%), and distant metastases (57%). There have been 247 deaths on AC and 237 on A 3 C. Forty nine and 46 of these, respectively, were deaths without relapse. Causes of death are summarized in Table 2. Toxicity Only a subset of toxicities was recorded: grade 4 to 5 hematologic and grade 3 to 5 nonhematologic toxicities. Two treatment-related deaths occurred, both on the A3 C arm, one due to Aspergillus and one due to pulmonary embolism. More patients on the A3 C arm 
+
+had grade 4 hematologic toxicities than on AC (P ⬍ .0001), shown in Table 3. However, grade 4 nonhematologic toxicities occurred with equal and modest (8%) frequency (P ⫽ .99), as presented in Table 4. Grade 3 toxicities were manageable, observed as maximum degree in 9% (AC) and 8% (A3 C). Cardiac, diarrhea, dyspnea, fever without infection, infection, malaise/fatigue/lethargy, pharynx/esophagitis, phlebitis/thrombosis/embolism, and stomatitis were significantly worse in the sequential arm, while vomiting was significantly worse in the combined AC arm. Nausea, reported in 13% of AC-treated patients and 11% of A3 C, was not significantly different between arms. Grade 3 or 4 congestive heart failure was seen in 0.4% and 1.1% of patients treated with AC and A3 C, respectively. Second Primaries Sixty-three nonbreast second primaries have been reported on the AC arm, including six each with lung, colon, and endometrial cancer; five with squamous cell and eight with basal cell cancer; four with ovarian; three each with cervical, melanoma, and thyroid; nine with acute myeloid leukemia (AML); and four with myelodysplastic syndrome (MDS). Sixty six have been reported on A 3 C, including 10 with lung cancer; nine with basal cell; six each with ovarian and colon; five with squamous cell cancer; four with endometrial; three each with pancreas, melanoma, and sarcoma; 11 with AML; and four with MDS. Twenty-eight patients (0.9%) overall developed AML/MDS 
+
+Table 3. INT-0137 Grade 4 Acute Hematologic Toxicity Toxicity Granulocytopenia, % No. Leukopenia, % No. Thrombocytopenia No. Total hematologic No. 
+
+Combined AC (n ⫽ 1,582) 
+
+Sequential A 3 C (n ⫽ 1,511) 
+
+30 476 29 455 4 70 47 751 
+
+45 686 50 749 10 149 65 980 
+
+NOTE. Each grade 4 hematologic toxicity was greater in the experimental arm (P ⬍ .0001). 
+
+659 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2007 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Linden et al 
+
+Table 4. INT-0137 Grade 3 and 4 Acute Nonhematologic Toxicities Combined AC (n ⫽ 1,582) 
+
+Sequential A 3 C (n ⫽ 1,511) 
+
+Toxicity 
+
+Grade 3 As Max 
+
+Grade 4 As Max 
+
+Grade 3 or 4 (%) 
+
+Grade 3 As Max 
+
+Grade 4 As Max 
+
+Grade 3 or 4 (%) 
+
+Cardiac Diarrheaⴱ Dyspneaⴱ Edema Fever without infectionⴱ Hypotension Infectionⴱ Malaise/fatigue/lethargyⴱ Nausea Pharynx/esophagitisⴱ Phlebitis/thrombosis/embolismⴱ† Stomatitisⴱ Vomitingⴱ Overall nonhematologic toxicity, % 
+
+5 11 11 0 5 4 40 67 204 4 6 33 109 22 
+
+2 10 1 1 1 2 3 0 0 0 0 1 90 8 
+
+⬍1 1 1 ⬍1 ⬍1 ⬍1 3 4 13 ⬍1 ⬍1 2 13 30 
+
+12 30 22 4 15 5 64 92 171 13 11 68 87 28 
+
+4 16 5 1 1 2 6 0 0 1 3 2 61 8 
+
+1 3 2 ⬍1 1 ⬍1 5 6 11 1 1 5 10 36 
+
+ⴱ 
+
+NOTE. Nonhematologic grade 3 and 4 toxicities had significant differences. Abbreviations: AC, doxorubicin and cyclophosphamide; A, doxorubicin; C, cyclophosphamide; Max, maximal toxicity. ⴱ All but the latter worse in the sequential arm. †Includes one grade 5 case on the sequential arm. 
+
+at a rate of 0.138 per 100 person-years of follow-up. No difference in the rates of AML/MDS were seen between the two arms (P ⫽ .69). Delivered Dose-Intensity In a sample of all eligible patients registered in year 1 with submitted dose data (90% submission rate), more than 80% of patients received at least 95% of planned dose-intensity on schedule for both anthracycline and cyclophosphamide in the AC arm and for anthracycline in the A 3 C arm, with 76% of patients in the A 3 C arm receiving 95% of planned dose-intensity on schedule for C. Table 5 presents the delivered dose-intensity for these patients. DISCUSSION 
+
+Long-term follow-up of INT-0137 demonstrates the outcomes in both arms, which compare favorably with contemporaneous NSABP studies using concurrent doxorubicin and cyclophosphamide.8,9 We administered a dose-intense program of AC and modified the sequence (but neither total dose nor duration) of treatment in the experimental arm to sequence the two drugs as single agents and to 
+
+Table 5. INT-0137 Delivered Dose-Intensity AC (n ⫽ 380) 
+
+AC (n ⫽ 342) 
+
+Variable 
+
+A 
+
+C 
+
+A 
+
+C 
+
+Protocol-specified DDI, mg/m2/wk Patients given planned DDI, % Patients given ⬎ planned DDI, % Patients ⬎ 95% DDI, % Patients receiving all cycles of Rx, % 
+
+18 68 4 81 85 
+
+400 68 5 82 86 
+
+27 68 7 82 92 
+
+1,200 62 6 76 79 
+
+NOTE. A planned subset analysis of delivered dose-intensity reveals no significant difference between treatment arms. Abbreviation: DDI, delivered dose-intensity. 
+
+660 
+
+increase the dose intensity and density. We found no significant difference between the protocol-specified outcomes in the two wellbalanced arms with relatively younger women with high-risk earlystage breast cancer. In the trial reported herein, the dose-intensity in the experimental A 3 C arm (calculated for the period during which the drug was given) was increased by a third for doxorubicin (18 to 27 mg/m2/wk) and three-fold for cyclophosphamide (400 to 1,200 mg/m2/wk). Our failure to show an improved outcome from increased dose-intensity agrees with the outcome of C93444 in which the interval between cycles was constant. In the recently completed C9741 trial, the variables examined were sequence and density, rather than intensity. Paclitaxel was administered sequentially in both arms after doxorubicin and cyclophosphamide. The C9741 study, similar to INT-0137, found no difference in the outcome related to sequential single agents versus initial combined AC followed by paclitaxel, but found a marked advantage to the dose-dense approach (every 2 weeks) versus the standard (every 3 weeks). In a subset analysis of C9741 (412 of 2,005 patients), fewer transfusions were observed in the sequential therapy group.23 In contrast, we observed greater hematologic toxicity with sequential (and more dose-intense) therapy in the experimental arm of INT-0137. Final analysis of INT-0137 demonstrates safety and feasibility of the administration of a dose-intense sequential A 3 C regimen compared with identical total doses given in combination, AC, over the same total period of time. While hematologic toxicities were significant and what would be anticipated from a dose-intense schedule, acute and late cardiac effects and increased incidence of MDS and leukemia were not greater than with similar regimens.24,25 No significant benefit was observed between the experimental dose-intense sequential regimen and the control dose-intense concomitant AC regimen. Our findings suggest that further exploration of sequential versus simultaneous AC chemotherapy is not indicated, despite the theory, given at the time of study conceptualization, that an advantage would be observed for sequential over concomitant chemotherapy.14 JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2007 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Sequenced Versus Simultaneous AC INT-0137 
+
+It is difficult to determine how these findings impact modern practice, as the doses in the trial are higher than standard AC and the study was conducted before routine adjuvant taxane use. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST The authors indicated no potential conflicts of interest. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Hannah M. Linden, Charles M. Haskell, Stephanie J. Green, C. Kent Osborne, George W. Sledge Jr, Silvana Martino 
+
+REFERENCES 1. Hryniuk WM, Levine MN, Levin L: Analysis of dose intensity for chemotherapy in early (stage II) and advanced breast cancer. NCI Monogr 1:87-94, 1986 2. Therasse P, Mauriac L, Welnicka-Jaskiewicz M, et al: Final results of a randomized phase III trial comparing cyclophosphamide, epirubicin, and fluorouracil with a dose-intensified epirubicin and cyclophosphamide ⫹ filgrastim as neoadjuvant treatment in locally advanced breast cancer: An EORTC-NCIC-SAKK multicenter study. J Clin Oncol 21:843-850, 2003 3. National Institutes of Health Consensus Development Conference statement: Adjuvant therapy for breast cancer, November 1-3, 2000. J Natl Cancer Inst Monogr: 5-15, 2001 4. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential Paclitaxel but not from escalating Doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:963-964, 2003 5. Wood WC, Budman DR, Korzun AH, et al: Dose and dose intensity of adjuvant chemotherapy for stage II, node-positive breast carcinoma. N Engl J Med 330:1253-1259, 1994 6. Piccart MJ, Di Leo A, Beauduin M, et al: Phase III trial comparing two dose levels of epirubicin combined with cyclophosphamide with cyclophosphamide, methotrexate, and fluorouracil in node-positive breast cancer. J Clin Oncol 19:31033110, 2001 7. French Adjuvant Study Group: Benefit of a high-dose epirubicin regimen in adjuvant chemotherapy for node-positive breast cancer patients with poor prognostic factors: Five-year follow-up results 
+
+Administrative support: Charles M. Haskell, C. Kent Osborne, Silvana Martino Provision of study materials or patients: Charles M. Haskell, Charles L. Shapiro, James N. Ingle, Laura F. Hutchins Collection and assembly of data: Charles M. Haskell Data analysis and interpretation: Hannah M. Linden, Charles M. Haskell, Stephanie J. Green, George W. Sledge Jr, James N. Ingle, Danika Lew, Robert B. Livingston Manuscript writing: Hannah M. Linden, Charles M. Haskell, C. Kent Osborne, George W. Sledge Jr, James N. Ingle, Robert B. Livingston Final approval of manuscript: Hannah M. Linden, Charles M. Haskell, Charles L. Shapiro, James N. Ingle, Robert B. Livingston, Silvana Martino Other: Silvana Martino [SWOG Breast Cancer Committee Chair] 
+
+of FASF 05 randomized trial. J Clin Oncol 19:602611, 2000 8. Fisher B, Anderson S, Wickerham DL, et al: Increased intensification and total dose of cyclophosphamide in a doxorubicin-cyclophosphamide regimen for the treatment of primary breast cancer: Findings from National Surgical Adjuvant Breast and Bowel Project B-22. J Clin Oncol 15:1858-1869, 1997 9. Fisher B, Anderson S, DeCillis A, et al: Further evaluation of intensified and increased total dose of cyclophosphamide for the treatment of primary breast cancer: Findings from National Surgical Adjuvant Breast and Bowel Project B-25. J Clin Oncol 17:3374-3388, 1999 10. Bonadonna G, Zambetti M, Valagussa P: Sequential or alternating doxorubicin and CMF regimens in breast cancer with more than three positive nodes: Ten-year results. JAMA 273:542-547, 1995 11. Norton L, Simon R: The Norton-Simon hypothesis revisited. Cancer Treat Rep 70:163-169, 1986 12. Skipper HE: Kinetics of mammary tumor cell growth and implications for therapy. Cancer 28: 1479-1499, 1971 13. Hudis C, Fornier M, Riccio L, et al: 5-year results of dose-intensive sequential adjuvant chemotherapy for women with high-risk node-positive breast cancer: A phase II study. J Clin Oncol 17: 1118, 1999 14. Hudis C: Sequential dose-dense adjuvant therapy with doxorubicin, paclitaxel, and cyclophosphamide. Oncology (Williston Park). 11:15-18, 1997 (suppl) 15. Haskell CM, Green SJ, Sledge GW, et al: Phase III comparison of adjuvant high-dose doxorubicin plus cyclophosphamide (AC) versus sequential doxorubicin followed by cyclophosphamide (A 3 C) in breast cancer patients with 0-3 positive nodes. (INTERGROUP 0137). Proc Am Soc Clin Oncol 21: 36a, 2002 (abstr 142) 
+
+16. Singletary SE, Allred C, Ashley P, et al: Revision of the American Joint Committee on Cancer staging system for breast cancer. J Clin Oncol 20:3628-3636, 2002 17. Green S, Weiss GR: Southwest Oncology Group standard response criteria, endpoint definitions and toxicity criteria. Invest New Drugs 10:239253, 1992 18. Fleming TR, Harrington DP, O’Brien PC: Designs for group sequential tests. Control Clin Trials 5:348-361, 1984 19. Kaplan EL, Meier P: Non-parametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 20. Mantel N: Evaluation of survival data and two new rank order statistics arising in its consideration. Cancer Chemother Rep 50:163-170, 1966 21. Cox D: Regression models and life tables. J R Stat Soc B 34:187-202, 1972 22. Fleiss J: Statistical Methods for Rates and Proportions. New York, John Wiley & Sons, 1981 23. Citron ML, Berry DA, Cirrincione C, et al: Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: First report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin Oncol 21:1431-1439, 2003 24. Crump M, Tu D, Shepherd L, et al: Risk of acute leukemia following epirubicin-based adjuvant chemotherapy: A report from the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 21:3066-3071, 2003 25. Smith RE, Bryant J, DeCillis A, et al: Acute myeloid leukemia and myelodysplastic syndrome after doxorubicin-cyclophosphamide adjuvant therapy for operable breast cancer: The National Surgical Adjuvant Breast and Bowel Project Experience. J Clin Oncol 21:1195-1204, 2003 
+
+■ ■ ■ 
+
+661 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2007 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+ 

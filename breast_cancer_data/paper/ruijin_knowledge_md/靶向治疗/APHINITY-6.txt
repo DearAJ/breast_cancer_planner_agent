@@ -1,0 +1,937 @@
+original reports 
+
+Adjuvant Pertuzumab and Trastuzumab in Early HER2-Positive Breast Cancer in the APHINITY Trial: 6 Years’ Follow-Up Martine Piccart, MD, PhD1; Marion Procter, PhD2; Debora Fumagalli, MD, PhD3; Evandro de Azambuja, MD, PhD1; Emma Clark, MSc4; Michael S. Ewer, MD, JD, PhD5; Eleonora Restuccia, MD6; Guy Jerusalem, MD, PhD7; Susan Dent, BSc, MD8; Linda Reaby, AM, PHD9,10; Hervé Bonnefoi, MD11; Ian Krop, MD, PhD12; Tsang-Wu Liu, MD13; Tadeusz Pieńkowski, MD, PhD14; Masakazu Toi, MD, PhD15; Nicholas Wilcken, PhD16,17; Michael Andersson, MD, DMSci19,18; Young-Hyuck Im, MD, PhD19; Ling Ming Tseng, MD20; Hans-Joachim Lueck, MD21; Marco Colleoni, MD22; Estefania Monturus, PhD6; Mihaela Sicoe, MSc3; Sébastien Guillaume, MSc1; José Bines, MD, PhD23; Richard D. Gelber, PhD24; Giuseppe Viale, MD25; and Christoph Thomssen, MD26 for the APHINITY Steering Committee and Investigators 
+
+abstract 
+
+PURPOSE APHINITY, at 45 months median follow-up, showed that pertuzumab added to adjuvant trastuzumab and chemotherapy signiﬁcantly improved invasive disease–free survival (IDFS) (hazard ratio 0.81 [95% CI, 0.66 to 1.00], P 5 .045) for patients with early human epidermal growth factor receptor 2 (HER2)–positive breast cancer (BC), speciﬁcally those with node-positive or hormone receptor (HR)–negative disease. We now report the preplanned second interim overall survival (OS) and descriptive updated IDFS analysis with 74 months median follow-up. METHODS After surgery and central HER2-positive conﬁrmation, 4,805 patients with node-positive or high-risk node-negative BC were randomly assigned (1:1) to either 1-year pertuzumab or placebo added to standard adjuvant chemotherapy and 1-year trastuzumab. RESULTS This interim OS analysis comparing pertuzumab versus placebo did not reach the P 5 .0012 level required for statistical signiﬁcance (P 5 .17, hazard ratio 0.85). Six-year OS were 95% versus 94% with 125 deaths (5.2%) versus 147 (6.1%), respectively. IDFS analysis based on 508 events (intent-to-treat population) showed a hazard ratio of 0.76 (95% CI, 0.64 to 0.91) and 6-year IDFS of 91% and 88% for pertuzumab and placebo groups, respectively. The node-positive cohort continues to derive clear IDFS beneﬁt from pertuzumab (hazard ratio 0.72 [95% CI, 0.59 to 0.87]), 6-year IDFS being 88% and 83%, respectively. Beneﬁt was not seen in the node-negative cohort. In a subset analysis, IDFS beneﬁt from pertuzumab showed a hazard ratio of 0.73 (95% CI, 0.59 to 0.92) for HR-positive disease and a hazard ratio of 0.83 (95% CI, 0.63 to 1.10) for HR-negative disease. Primary cardiac events remain , 1% in both the treatment groups. No new safety signals were seen. CONCLUSION This analysis conﬁrms the IDFS beneﬁt from adding pertuzumab to standard adjuvant therapy for patients with node-positive HER2-positive early BC. Longer follow-up is needed to fully assess OS beneﬁt. J Clin Oncol 39:1448-1457. © 2021 by American Society of Clinical Oncology 
+
+ASSOCIATED CONTENT Data Supplement Protocol Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on December 24, 2020 and published at ascopubs.org/journal/ jco on February 4, 2021: DOI https://doi. org/10.1200/JCO.20. 01204 
+
+INTRODUCTION The human epidermal growth factor receptor 2 (HER2) is the second most important target for systemic breast cancer (BC) therapy after the estrogen receptor. HER2 overexpression is found in 15%-20% of patients with BC. Today, HER2-directed therapies are considered standard of care in the advanced- and early-disease settings.1–3 Trastuzumab when added to chemotherapy has shown improvement in overall survival (OS) in patients with advanced and early HER2-positive BC.4–7 Interest in dual HER2 blockade grew rapidly in view of the improvement in OS seen in the advanced disease and improvements in pathological complete response 
+
+rates in several neoadjuvant trials.8–14 Pertuzumab plus trastuzumab and taxane is now considered the standard ﬁrst-line treatment for patients with advanced disease and as part of a neoadjuvant regimen for patients in high-risk subgroups.9,12 In the adjuvant setting, the approval of pertuzumab in combination with trastuzumab and chemotherapy was based on the primary analysis of APHINITY, which showed an improved invasive disease–free survival (IDFS) hazard ratio of 0.81 (95% CI, 0.66 to 1.00, P 5 .045; 0.9% difference in 3-year IDFS percent) in favor of the dual HER2 blockade strategy.15 Cardiac events were infrequent in both the treatment groups although diarrhea grade $ 3 was more frequent with 
+
+1448 Volume 39, Issue 13 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+APHINITY Trial: 6 Years’ Follow-Up 
+
+CONTEXT Key Objective To provide updates on the efﬁcacy and safety of adjuvant pertuzumab, trastuzumab, and chemotherapy after 6 years median follow-up. Knowledge Generated The second interim analysis of overall survival in APHINITY did not show statistically signiﬁcant beneﬁt but data are still immature at this time. Statistically signiﬁcant improvement in invasive disease–free survival for patients with nodepositive, human epidermal growth factor receptor 2 (HER2)–positive early breast cancer was reinforced and cardiac safety was conﬁrmed with longer follow-up after adjuvant dual anti-HER2 treatment. Relevance The longer-term magnitude of beneﬁt of adding pertuzumab to standard adjuvant therapy may not depend upon hormone receptor status of the primary tumor. At this time, there is no evidence to justify the routine use of dual anti-HER2 treatment for patients with node-negative early breast cancer. 
+
+the pertuzumab group than with placebo. The beneﬁt appeared more pronounced in patients at higher risk of relapse such as those with node-positive disease, with a hazard ratio of 0.77 (95% CI, 0.62 to 0.96; 3-year IDFS 92% v 90%), and in those with hormone receptor (HR)– negative disease for whom the hazard ratio was 0.76 (95% CI, 0.56 to 1.04; 3-year IDFS 93% v 91%). These results led to regulatory approvals in several countries of pertuzumab for patients at high risk of recurrence. A ﬁrst preplanned interim analysis for OS was performed at the time of primary analysis (hazard ratio 0.89; 95% CI, 0.66 to 1.21, P 5 .47) with a median follow-up of 45 months. In this paper, we report the results of the second, preplanned, and time-driven interim analysis for OS as well as the updated preplanned descriptive IDFS and safety results in APHINITY with a median follow-up of 74 months. 
+
+included nodal status, adjuvant chemotherapy regimen, HR status, geographical region, and Protocol version (onlline only). Patients with high-risk node-negative tumors were initially eligible if they had tumors . 1 cm or between 0.5 and 1.0 cm and histological or nuclear grade 3 disease, HR-negative disease, or age , 35. There were 3,655 patients randomly assigned worldwide under this version of the Protocol. Under a Protocol amendment (Protocol B), patients with node-negative disease were excluded. Of note, eligibility criteria included a baseline left ventricular ejection fraction (LVEF) of $ 55%. Patients with preexisting cardiac conditions were excluded from the trial. Radiotherapy was given as per local or national guidelines after chemotherapy and concomitantly with anti-HER2 treatment. Patients with HR-positive tumors received at least 5 years of standard endocrine therapy per local guidelines. Procedures 
+
+METHODS Study Design, Participants, Randomization, and Masking APHINITY (BIG4-11; ClinicalTrials.gov identiﬁer: NCT01358877) is a randomized, placebo-controlled, phase III, doubleblind, multicenter trial. The full details of the trial methods have been previously described.15 Brieﬂy, 4,805 patients were recruited in 545 hospitals across 42 countries between November 2011 and August 2013 after giving informed consent. Eligible patients were randomly assigned after adequate excision of a histologically conﬁrmed invasive HER2-positive BC (deﬁned as a 3 1 immunohistochemical score or ampliﬁcation of the HER2 gene) to chemotherapy plus either 1 year of trastuzumab and placebo or 1 year of trastuzumab and pertuzumab.16 Patients were not eligible if they had received systemic neoadjuvant therapy. A Web-based system was used to collect patient screening information and to randomly assign eligible patients in a 1:1 ratio to one of the two treatment groups. A permuted blocks randomization procedure was used. Stratiﬁcation factors 
+
+Trastuzumab was given with a loading dose of 8 mg/kg of body weight intravenously then at 6 mg/kg once every 3 weeks for 1 year (corresponding to 18 cycles). Patients assigned to the pertuzumab group received a loading ﬁxed dose of 840 mg intravenously, then a ﬁxed dose of 420 mg once every 3 weeks for 1 year. Investigators were allowed to choose between two types of chemotherapy regimen, with anti-HER2 therapy started concomitantly with the ﬁrst taxane administration, either a sequential anthracycline-taxane regimen or 3-weekly docetaxel plus carboplatin (ie, with no anthracycline) 3 six cycles (Data Supplement, online only). Details on clinical follow-up have previously been reported; importantly, cardiac monitoring including measurement of LVEF by multi-gated acquisition scanning or echocardiography was performed every 3 months during treatment, every 6 months up to month 36, and yearly thereafter. Investigators collected data about any BC recurrence, contralateral BC, and second primaries (nonbreast) in 
+
+Journal of Clinical Oncology 
+
+1449 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Piccart et al 
+
+addition to European Organisation for Research and Treatment of Cancer Quality of Life C30 questionnaires. Any cardiac event had to be classiﬁed into a primary or a secondary event and was reviewed by a cardiac advisory board, as reported previously.12 Patients are being followed annually for disease relapse and vital status until 10 years after random allocation of the last patient. Outcomes This analysis is a preplanned efﬁcacy and safety analysis of APHINITY, based on a time-driven second interim OS analysis, and provides descriptive updates of IDFS from the intent-to-treat (ITT) population and in relevant subgroups as well as updates on cardiac safety. Deﬁnitions of all end points were provided in the primary analysis paper. Of note, the primary end point IDFS used in APHINITY differs from the STEEP deﬁnition as it excludes second primary non-BCs as events. It includes ipsilateral invasive BC recurrence, locoregional invasive BC recurrence, contralateral invasive BC, distant recurrence, and death because of any cause.15,17 Statistical Analysis The ﬁrst interim OS analysis took place at the time of primary IDFS analysis. Two subsequent time-driven interim analyses were planned with a ﬁnal event-driven OS analysis planned after 640 deaths have occurred. Here, we report the second interim OS analysis, with a clinical cutoff date of June 19, 2019, 2.5 years after the primary analysis. The stratiﬁed log-rank test was used to compare OS percents between the two treatment groups; a two-sided P value , .0012 was required for statistical signiﬁcance to control the overall alpha level at 0.05. The Kaplan-Meier approach was used to estimate 6-year percentages for each group. The stratiﬁed Cox proportional-hazards model was used to estimate hazard ratios and their 95% CIs. The strata for efﬁcacy analysis are nodal status, Protocol version, central HR status, and adjuvant chemotherapy regimen. Region is not considered in the stratiﬁed log-rank test. We estimated the standard errors and 95% CIs for the KaplanMeier estimates according to the Greenwood formula. The analysis was based on the ITT population. Updated descriptive IDFS results were based on 508 events. Descriptive analyses of IDFS in the overall ITT population and in key demographic subgroups were preplanned to be performed at the time of the interim OS analyses. Patients who received at least one dose of study treatment were included in the safety analysis, according to the treatment given. Primary cardiac events included heart failure or cardiac death; secondary cardiac events included asymptomatic or mildly symptomatic LVEF decrease.15 Role of the Funding Source F. Hoffmann-La Roche/Genentech was the study sponsor. APHINITY was designed by the Breast International Group 
+
+(BIG) in collaboration with the sponsor. Study conduct was overseen by the joint study management team (composed of representatives of the sponsor, BIG headquarters, and independent data management and statistical centers) and a cardiac advisory board under the auspices of BIG. The trial involved the collaboration of 23 BIG groups, all of which were represented in the Steering Committee of APHINITY, which also included patient advocates, joint study management team members, and the cardiac advisory board. The APHINITY Steering Committee had ﬁnal responsibility for the content of the paper. The database was maintained at the Institut Jules Bordet Clinical Trials Support Unit (Brussels, Belgium), and the statistical analyses were carried out by Frontier Science (Kincraig, UK; Boston, MA). The sponsor provided study drug, site monitoring, and ﬁnancial support. RESULTS A CONSORT diagram is shown in Figure 1, and the trial schema is presented in the Data Supplement. The ITT analysis comprises all randomly assigned patients except one who was excluded from the placebo group because she had falsiﬁed personal information. Patient Demographics As shown in Table 1, the two treatment groups were generally well-balanced. Further details on patient characteristics have been described previously.15 The study had 63% of patients with axillary node-positive disease, 36% had HR-negative tumors, and 78% received anthracyclinebased adjuvant chemotherapy. With a median follow-up of 74 months (range 0-89), this interim analysis of single versus dual HER2 blockade is based on 508 IDFS events and 272 deaths (127 more IDFS events and 103 more deaths than at the primary analysis). OS Figure 2 shows OS in the ITT population. The two-sided P value of .0012 required for statistical signiﬁcance at this second interim analysis of OS was not reached (hazard ratio 0.85 [95% CI, 0.67 to 1.07; P 5 .17]). Six-year OS percents were 95% and 94% and the number of deaths were 125 (5.2%) and 147 (6.1%) for the pertuzumab and placebo groups, respectively. IDFS IDFS in the ITT population is shown in Figure 3. Consistent with the primary analysis, the present results continue to show fewer IDFS events in the pertuzumab group compared with the placebo group (221 [9.2%] and 287 [11.9%], respectively) (hazard ratio 0.76; 95% CI, 0.64 to 0.91). At 6 years from randomization, 91% of patients in the pertuzumab group and 88% of patients in the placebo 
+
+1450 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 13 
+
+APHINITY Trial: 6 Years’ Follow-Up 
+
+Patients screened (N = 6,263) 
+
+Patients randomly assigned (n = 4,805) 
+
+Randomly assigned to pertuzumab, trastuzumab, and chemotherapy (n = 2,400) 
+
+Randomly assigned to placebo, trastuzumab, and chemotherapy (n = 2,405) 
+
+ITT population (n = 2,400) Anthracycline-containing regimen (n = 1,865) Non–anthracycline-containing regimen (n = 535) Completed pertuzumab (n = 2,028) Discontinued pertuzumab (n = 372) 
+
+ITT population (n = 2,404*) Anthracycline-containing regimen (n = 1,877) Non–anthracycline-containing regimen (n = 527) Completed placebo (n = 2,100) Discontinued placebo (n = 304) 
+
+22 patients received no study treatment; excluded from safety analysis population 
+
+2,340 patients randomly assigned to pertuzumab received pertuzumab 
+
+38 patients randomly assigned to pertuzumab received study treatment but not pertuzumab 
+
+Pertuzumab safety analysis population (n = 2,364) 
+
+24 patients randomly assigned to placebo received pertuzumab 
+
+2,367 patients received study treatment and did not receive pertuzumab 
+
+13 patients received no study treatment; excluded from safety analysis population 
+
+Placebo safety analysis population (n = 2,405) 
+
+FIG 1. CONSORT diagram for the APHINITY trial. *One patient excluded from the ITT population because of her falsiﬁcation of personal information. Study treatment includes chemotherapy, trastuzumab, and pertuzumab or placebo. See the Data Supplement for a complete APHINITY trial schema including treatment details. Type of anthracycline-containing chemotherapy is summarized in Table 1. ITT, intent-to-treat. 
+
+group remain event-free, corresponding to an absolute beneﬁt of 2.8% (95% CI, 1.0 to 4.6). The majority of ﬁrst IDFS events were distant relapses, with fewer distant relapses in the pertuzumab group (141 [5.9%]) than in the placebo group (184 [7.7%]). The frequency of locoregional recurrence in the pertuzumab group was 1.2%, compared with 2.0% in the placebo group. No differences were seen in the occurrence of CNS metastases (2.0% in each group) and contralateral BC (close to 0.6% in each group) (Table 2). Distant recurrences with pertuzumab in the node-positive cohort occurred in 8.3% of patients, compared with 11.1% in the placebo group. The number of distant recurrences was low in the node-negative cohort (17 in both the groups) (Data Supplement). 
+
+IDFS by Subgroup With 2.5 additional years of follow-up, a signiﬁcant reduction in IDFS events continues to be seen in the node-positive cohort, with 173 events (11.5%) in the pertuzumab group versus 239 events (15.9%) in the placebo group. The hazard ratio was 0.72 (95% CI, 0.59 to 0.87), and the 6-year IDFS was 88% in the pertuzumab group compared with 83% in the placebo group, corresponding to an absolute beneﬁt of 4.5% (95% CI, 1.9 to 7.1) (Fig 4A). There was, however, no apparent beneﬁt from the addition of pertuzumab in the node-negative cohort, with 95% of patients in both the groups event-free at 6 years after randomization (Fig 4B). The HR-positive cohort, with additional follow-up (Fig 4D), now shows divergence of the curves and evidence of beneﬁt 
+
+Journal of Clinical Oncology 
+
+1451 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Piccart et al 
+
+TABLE 1. Demographic and Baseline Disease Characteristics Characteristic 
+
+Pertuzumab (n 5 2,400) 
+
+Placebo (n 5 2,404) 
+
+90 (3.8%) 
+
+84 (3.5%) 
+
+Nodal status 0 positive and tumor # 1 cma 0 positive nodes and tumor . 1 cm 
+
+a 
+
+807 (33.6%) 
+
+818 (34.0%) 
+
+1-3 positive nodes 
+
+907 (37.8%) 
+
+900 (37.4%) 
+
+$ 4 positive nodes 
+
+596 (24.8%) 
+
+602 (25.0%) 
+
+Adjuvant chemotherapy regimenb Anthracycline-containing regimen 
+
+1865 (77.7%) 
+
+1877 (78.1%) 
+
+Epirubicin → docetaxel 
+
+1,054 (43.9%) 
+
+1,026 (42.7%) 
+
+Doxorubicin → docetaxel 
+
+245 (10.2%) 
+
+258 (10.7%) 
+
+Epirubicin → paclitaxel 
+
+276 (11.5%) 
+
+272 (11.3%) 
+
+Doxorubicin → paclitaxel 
+
+290 (12.1%) 
+
+321 (13.4%) 
+
+535 (22.3%) 
+
+527 (21.9%) 
+
+Non–anthracycline-containing regimen Hormone receptor statusc Negative 
+
+864 (36.0%) 
+
+858 (35.7%) 
+
+Positive 
+
+1,536 (64.0%) 
+
+1,546 (64.3%) 
+
+Protocol A 
+
+1828 (76.2%) 
+
+1827 (76.0%) 
+
+Protocol B 
+
+572 (23.8%) 
+
+577 (24.0%) 
+
+, 40 
+
+326 (13.6%) 
+
+327 (13.6%) 
+
+40-64 
+
+1759 (73.3%) 
+
+1784 (74.2%) 
+
+$ 65 
+
+315 (13.1%) 
+
+293 (12.2%) 
+
+Protocol versiona 
+
+Age (years) 
+
+d 
+
+Pathological tumor size, No. of tumors (%) 
+
+n 5 2,400 
+
+0 to , 2 cm 
+
+n 5 2,405 
+
+978 (40.8%) 
+
+948 (39.4%) 
+
+2-5 cm 
+
+1,275 (53.1%) 
+
+1,283 (53.3%) 
+
+$ 5 cm 
+
+147 (6.1%) 
+
+174 (7.2%) 
+
+a 
+
+Under the original Protocol (Protocol A), patients with node-negative tumors were initially eligible for participation in the trial if at least one of the following high-risk features was present: histologic or nuclear grade 3, negativity for estrogen and progesterone receptors, or age ,35 years. Under a Protocol amendment (Protocol B), patients with node-negative disease were no longer eligible for enrollment. b The chemotherapy regimen that was planned at the time of randomization is shown; the regimen that patients received may have differed. c Hormone receptor status was based on the test results determined by a central laboratory, which repeated the testing that was performed locally at each participating center. Negative denotes estrogen receptor–negative and progesterone receptor–negative; positive denotes estrogen receptor–positive, progesterone receptor–positive, or both. d Patients with bilateral tumors have pathological characteristics reported for both tumors; therefore, pathological tumor characteristics are summarized at the tumor level. There were seven patients with bilateral cancer where a pathological tumor size for a left-side tumor and for a right-side tumor was recorded. There were 4,805 tumors summarized among 4,798 patients. There were six patients with no known pathological tumor size. 
+
+from pertuzumab with 131 (8.5%) IDFS events compared with 181 (11.7%) in the placebo group and a hazard ratio of 0.73 (95% CI, 0.59 to 0.92). At 6 years from randomization, IDFS were 91% and 88%, respectively, with an absolute beneﬁt of 3.0% (95% CI, 0.8 to 5.2). The HR-negative cohort shows numerically fewer IDFS events in the pertuzumab group as compared with the placebo group (90 [10.4%] v 106 [12.4%], hazard ratio 0.83, 95% CI, 0.63 to 1.10). IDFS results at the primary and updated analysis are summarized in the Data Supplement. As in the primary analysis, exploratory tests for interaction across all clinically relevant 
+
+subgroups have been performed for this updated analysis, all of which were not statistically signiﬁcant (Data Supplement). Safety Table 3 shows an update of cardiac safety. With 2.5 additional years of follow-up, there has been one further primary cardiac event (heart failure) in the pertuzumab group and one further secondary cardiac event in each group. Overall, the incidence of primary cardiac events remains low at 0.8% in the pertuzumab group and 0.3% in the placebo group. The incidence of secondary cardiac events was 2.7% in the pertuzumab group and 2.8% in the 
+
+1452 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 13 
+
+APHINITY Trial: 6 Years’ Follow-Up 
+
+6 years 94.8% 
+
+100 
+
+93.9% 
+
+OS (%) 
+
+80 Pertuzumab (n = 2400) 
+
+60 
+
+Events, n (%) Stratified HR (95% CI) P value Median FU, months 
+
+40 
+
+Placebo (n = 2404) 
+
+147 (6.1) 125 (5.2) 0.85 (0.67 to 1.07) .170 74.1 
+
+Six years from randomization Difference in event-free rate (%) 0.9 95% CI for difference (–0.5 to 2.2) 
+
+20 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Years From Random Assignment No. of patients at risk 2,400 
+
+2,304 
+
+2,261 
+
+2,216 
+
+2,161 
+
+2,090 
+
+1,544 
+
+2,404 
+
+2,339 
+
+2,292 
+
+2,241 
+
+2,165 
+
+2,107 
+
+1,522 
+
+FIG 2. Kaplan-Meier plot of overall survival (intent-to-treat population). FU, follow-up; HR, hazard ratio; OS, overall survival. 
+
+placebo group. There were two fatal adverse events related to a cardiac disorder in the pertuzumab group and four in the placebo group (Table 3). DISCUSSION This second time-driven preplanned analysis of APHINITY has conﬁrmed improved IDFS with the addition of pertuzumab to chemotherapy plus trastuzumab for patients with node-positive disease irrespective of HR status. The OS analysis does not demonstrate signiﬁcant impact of pertuzumab on mortality. OS data are immature at this point. Only 42.5% of the 640 deaths required for the ﬁnal analysis have occurred. Therefore, patient follow-up is essential. Of note, the 6-year OS percents are close to 95% for patients on both the treatment groups although APHINITY has a relatively high-risk population. These results further reinforce the notion that the combination of HER2directed therapy and standard chemotherapy leads to excellent outcomes in most patients with HER2-positive early BC. 
+
+3 years 94.1% 
+
+100 
+
+6 years 90.6% 
+
+93.2% 87.8% 
+
+IDFS (%) 
+
+80 Pertuzumab (n = 2400) 
+
+60 Events, n (%) Stratified HR (95% CI) Median FU, months 
+
+40 
+
+287 (11.9) 221 (9.2) 0.76 (0.64 to 0.91) 74.1 
+
+Six years from randomization Difference in event-free rate (%) 95% CI for difference 
+
+20 
+
+0 
+
+1 
+
+2 
+
+Placebo (n = 2404) 
+
+2.8 (1.0 to 4.6) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Years From Random Assignment No. of patients at risk 2,400 
+
+2,277 
+
+2,198 
+
+2,122 
+
+2,055 
+
+1,978 
+
+1,482 
+
+2,404 
+
+2,312 
+
+2,215 
+
+2,134 
+
+2,039 
+
+1,967 
+
+1,421 
+
+FIG 3. Kaplan-Meier plot of IDFS (intent-to-treat population). FU, follow-up; HR, hazard ratio; IDFS, invasive disease–free survival. 
+
+IDFS remains a valuable end point for adjuvant trials.18,19 With 2.5 years of additional follow-up, the evidence supporting IDFS beneﬁt at 74 months are strengthened in comparison with the 45-month results and remain driven by the node-positive cohort. In these patients with high-risk disease, pertuzumab reduces the relative hazard of an IDFS event by 28% and improves 6-year IDFS percent by an estimated 4.5% (95% CI, 1.9 to 7.1). A reduction in distant recurrences was seen in the node-positive cohort (124 [8.3%] v 167 [11.1%]). Updated results from this analysis strengthen the observation that patients with node-negative, HER2-positive early BC show excellent IDFS results up to 6 years from diagnosis when treated with standard adjuvant therapy without the addition of pertuzumab. As shown in the forest plot in the Data Supplement, the CI for this subgroup is wide and includes the hazard ratio estimate for the node-positive cohort. At this time, although a beneﬁt for adding pertuzumab for patients with node-positive disease is clear, there is no evidence to justify the routine use of dual anti-HER2 treatment for patients with node-negative early BC. APHINITY probably signals the end of treatment escalation for the node-negative subgroup and suggests that strategies to reduce the burden of chemotherapy experienced by these patients should be evaluated.20,21 The magnitude of beneﬁt of pertuzumab may not depend on HR status. We have learned through the long-term follow-up of women with early BC that the HR-negative population is at particularly high risk of relapse in the ﬁrst 3 years, whereas events accumulate more slowly but continually in the HR-positive cohort.22,23 In APHINITY, the absolute beneﬁt of pertuzumab for IDFS at 6 years from randomization is 2.5% (95% CI, 20.7 to 5.6) for the HRnegative cohort and 3.0% (95% CI, 0.8 to 5.2) for the HRpositive cohort. This is consistent with long-term beneﬁts of adjuvant trastuzumab, independent of HR status.7 Because no cardiac safety issues have emerged with additional follow-up, the beneﬁt-versus-harm ratio is enhanced with only one further primary cardiac event in the pertuzumab group reported since the primary analysis. Patient-reported outcomes in APHINITY have demonstrated that other side effects seen in $ 1% of patients are generally mild and do not impact global quality of life or social functioning.24 The 6% increase in the risk of grade 3 or more diarrhea with pertuzumab reported in the primary analysis (from 4% in the placebo arm v 10% in the pertuzumab arm) was indeed clinically relevant, but this side effect occurred mostly while patients were on chemotherapy, particularly with docetaxel, and rapidly improved when anti-HER2 therapies were given alone.24 There is evidence of a shift from adjuvant to neoadjuvant therapy in clinical practice as a result of personalized medicine, reducing the risk of both overtreatment and undertreatment at the individual patient level.25 The 
+
+Journal of Clinical Oncology 
+
+1453 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Piccart et al 
+
+TABLE 2. Site of First Invasive-Disease Eventa Pertuzumab (n 5 2,400) 
+
+Placebo (n 5 2,404) 
+
+221 (9.2%) 
+
+287 (11.9%) 
+
+Distant recurrence 
+
+141 (5.9%) 
+
+184 (7.7%) 
+
+CNS metastases 
+
+49 (2.0%) 
+
+49 (2.0%) 
+
+Locoregional recurrence 
+
+28 (1.2%) 
+
+49 (2.0%) 
+
+Contralateral breast cancer 
+
+13 (0.5%) 
+
+15 (0.6%) 
+
+Death without previous event 
+
+39 (1.6%) 
+
+39 (1.6%) 
+
+Event Any invasive-disease event Category of ﬁrst invasive-disease event 
+
+a Patients who had an additional invasive event within 61 days of their ﬁrst event are reported in the category according to the following hierarchy: distant recurrence, locoregional recurrence, contralateral breast cancer, and death without previous event. 
+
+possibility for salvage for patients with residual disease after neoadjuvant treatment, as conﬁrmed by the results of the KATHERINE study, can potentially limit the usefulness of intensive adjuvant treatments in the future at least in highresource settings where trastuzumab emtansine is already 
+
+A 
+
+accessible.25 However, not all regions have access to trastuzumab emtansine and not all healthcare systems can optimally monitor patients during neoadjuvant treatment. Availability of effective adjuvant therapy will still be an important component of curative treatment in these settings. 
+
+B 3 years 92.0% 
+
+100 
+
+Events, n (%) Unstratified HR (95% CI) 
+
+20 
+
+Six years from randomization Difference in event-free rate (%) 95% CI for difference 
+
+1 
+
+Placebo (n = 1502) 
+
+239 (15.9) 173 (11.5) 0.72 (0.59 to 0.87) 
+
+40 
+
+0 
+
+IDFS (%) 
+
+IDFS (%) 
+
+Pertuzumab (n = 1503) 
+
+2 
+
+4.5 (1.9 to 7.1) 
+
+3 
+
+4 
+
+5 
+
+95.0% 94.9% 
+
+80 
+
+83.4% 
+
+60 
+
+6 years 
+
+98.4% 
+
+90.2% 
+
+80 
+
+3 years 97.5% 
+
+100 
+
+6 years 87.9% 
+
+Pertuzumab (n = 897) 
+
+60 
+
+48 (5.3) 48 (5.4) 1.02 (0.69 to 1.53) 
+
+40 
+
+Events, n (%) Unstratified HR (95% CI) 
+
+20 
+
+Six years from randomization Difference in event-free rate (%) 95% CI for difference 
+
+6 
+
+0 
+
+1 
+
+Years From Random Assignment 
+
+Placebo (n = 902) 
+
+2 
+
+0.1 (–2.0 to 2.2) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Years From Random Assignment 
+
+No. patients at risk 
+
+No. patients at risk 
+
+1,503 
+
+1,420 
+
+1,357 
+
+1,301 
+
+1,257 
+
+1,205 
+
+814 
+
+897 
+
+857 
+
+841 
+
+821 
+
+798 
+
+773 
+
+668 
+
+1,502 
+
+1,439 
+
+1,359 
+
+1,288 
+
+1,223 
+
+1,176 
+
+741 
+
+902 
+
+873 
+
+856 
+
+846 
+
+816 
+
+791 
+
+680 
+
+C 
+
+D 3 years 92.8% 
+
+100 
+
+6 years 
+
+91.2% 
+
+106 (12.4) 90 (10.4) 0.83 (0.63 to 1.10) 
+
+40 
+
+Events, n (%) Unstratified HR (95% CI) 
+
+20 
+
+Six years from randomization Difference in event-free rate (%) 95% CI for difference 
+
+0 
+
+1 
+
+2 
+
+Placebo (n = 858) 
+
+2.5 (–0.7 to 5.6) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+91.2% 88.2% 
+
+80 
+
+IDFS (%) 
+
+IDFS (%) 
+
+Pertuzumab (n = 864) 
+
+6 years 
+
+94.4% 
+
+87.0% 
+
+80 60 
+
+3 years 94.8% 
+
+100 
+
+89.5% 
+
+60 
+
+Pertuzumab (n = 1536) 
+
+181 (11.7) 131 (8.5) 0.73 (0.59 to 0.92) 
+
+40 
+
+Events, n (%) Unstratified HR (95% CI) 
+
+20 
+
+Six years from randomization Difference in event-free rate (%) 95% CI for difference 
+
+0 
+
+Years From Random Assignment 
+
+1 
+
+2 
+
+Placebo (n = 1546) 
+
+3.0 (0.8 to 5.2) 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Years From Random Assignment 
+
+No. patients at risk 
+
+No. patients at risk 
+
+864 
+
+821 
+
+796 
+
+759 
+
+732 
+
+708 
+
+520 
+
+1,536 
+
+1,456 
+
+1,402 
+
+1,363 
+
+1,323 
+
+1,270 
+
+962 
+
+858 
+
+811 
+
+771 
+
+743 
+
+716 
+
+693 
+
+502 
+
+1,546 
+
+1,501 
+
+1,444 
+
+1,391 
+
+1,323 
+
+1,274 
+
+919 
+
+FIG 4. Kaplan-Meier plot of IDFS by subgroup, ITT population. IDFS in (A) the node-positive cohort, (B) the node-negative cohort, (C) the hormone receptor–negative cohort, and (D) the hormone receptor–positive cohort. HR, hazard ratio; IDFS, invasive disease–free survival; ITT, intent-to-treat. 
+
+1454 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 13 
+
+APHINITY Trial: 6 Years’ Follow-Up 
+
+TABLE 3. Summary of Adverse Events by Safety Analysis Population Event 
+
+Pertuzumab (n 5 2,364) 
+
+Placebo (n 5 2,405) 
+
+22 (0.9%) 
+
+30 (1.2%) 
+
+18 (0.8%) 
+
+8 (0.3%) 
+
+Fatal adverse eventa b 
+
+Primary cardiac event 
+
+c 
+
+Secondary cardiac event 
+
+65 (2.7%) 
+
+68 (2.8%) 
+
+Identiﬁed automatically from LVEF assessments 
+
+50 (2.1%) 
+
+47 (2.0%) 
+
+Identiﬁed by the cardiac advisory board 
+
+15 (0.6%) 
+
+21 (0.9%) 
+
+Abbreviation: LVEF, left ventricular ejection fraction. a For six of the patients, the fatal adverse event was a cardiac disorder—two (0.1%) in the pertuzumab group and four (0.2%) in the placebo group. For 30 of the patients, the fatal adverse event was in the superclass term neoplasms benign, malignant, and unspeciﬁed—13 (0.5%) patients in the pertuzumab group and 17 (0.7%) patients in the placebo arm. There was one pertuzumab patient with two fatal adverse events of a nervous system disorder. b Primary cardiac events are counted over the whole trial period, including post-treatment follow-up; one further primary cardiac event (heart failure) in the pertuzumab arm since the primary analysis. c Secondary cardiac events are counted up to the date of recurrence or the end of post-treatment follow-up, whichever occurs earlier, and are counted only for patients who have not had a primary cardiac event; one further patient with secondary cardiac event in each arm since the primary analysis. 
+
+A limitation of APHINITY is the reliance on a single, pathologic biomarker of potential beneﬁt from pertuzumab, namely nodal status. As it is possible that other patient subgroups may beneﬁt, we plan to develop a composite prognostic score that might help the clinicians identify the most suitable patients for dual as opposed to single HER2 blockade, in the same way it has contributed to improved selection of premenopausal patients who may beneﬁt from suppression of ovarian function plus exemestane, as opposed to tamoxifen in the SOFT and TEXT trials.26–28 A remaining question is whether the 12-month duration of pertuzumab is optimal. It is unclear whether shorter durations of dual HER2 blockade will be further investigated, given the many challenges raised by the ﬁve trials that were designed to demonstrate noninferiority of 6 or 3 months of adjuvant trastuzumab compared with the standard 12month duration.29–31 
+
+16 
+
+AFFILIATIONS 1 
+
+In conclusion, this second interim analysis of OS in the APHINITY trial did not demonstrate a statistically signiﬁcant OS beneﬁt from the addition of pertuzumab to standard chemotherapy plus trastuzumab in HER2-positive earlystage BC; the number of OS events to date remains relatively low. The beneﬁts of comprehensive HER2 blockade using pertuzumab and trastuzumab in the adjuvant setting for patients with node-positive disease observed at the primary analysis are reinforced in the updated analysis of IDFS. Currently, there is no evidence to justify the routine use of adjuvant dual anti-HER2 treatment for patients with nodenegative early BC. The longer-term beneﬁt of pertuzumab may not depend on the HR status of the primary tumor. No cardiac safety concerns have emerged after a median followup of 74 months. Continued follow-up of patients is important to fully assess OS beneﬁt at the time-driven third interim OS analysis planned for 2022 and the event-driven ﬁnal OS analysis planned when 640 deaths have occurred. 
+
+Institut Jules Bordet and L’Université Libre de Bruxelles (ULB), Brussels, Belgium 2 Frontier Science Scotland Ltd, Kincraig, Kingussie, United Kingdom 3 Breast International Group (BIG), Brussels, Belgium 4 Roche Products Limited, Welwyn Garden City, United Kingdom 5 University of Texas, MD Anderson Cancer Center, Huston, TX 6 Hoffmann-La Roche Ltd, Basel, Switzerland 7 CHU Liege and Liege University, Liege, Belgium 8 Duke Cancer Institute, Duke University, Durham, NC 9 Inaugural Chair—Consumer Advisory Panel, Breast Cancer Trials Group, Newcastle, Australia 10 Consumer Advisor to Breast Researchers, Garvan Institute of Research, Sydney, Australia 11 Institute Bergonié, UNICANCER, University of Bordeaux, Bordeaux, France 12 Dana-Farber Cancer Institute, Boston, MA 13 National Health Research Institutes, Taipei, Taiwan 14 Oncological Department, Postgraduate Medical Education Center, Warsaw, Poland 15 Breast Cancer Unit, Kyoto University Hospital, Kyoto, Japan 
+
+Director of Medical Oncology, Westmead Hospital, Sydney Associate Professor of Medicine, University of Sydney, Sydney, Australia 18 Department of Oncology, Rigshospitalet, University Hospital, Copenhagen, Denmark 19 Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea 20 Comprehensive Breast Health Center, Experimental Surgery, Department of Surgery, Taipei-Veterans General Hospital, Taipei, Taiwan 21 Gynäkologisch-Onkologische Praxis Hannover, Hannover, Germany 22 Division of Medical Senology, IEO, European Institute of Oncology, IRCCS, Milan, Italy 23 Instituto Nacional de Câncer, Rio de Janeiro, Brazil 24 Dana-Farber Cancer Institute, Harvard Medical School, Harvard TH Chan School of Public Health, Frontier Science Foundation, Boston, MA 25 University of Milan, IEO, European Institute of Oncology, IRCCS, Milan, Italy 26 Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany 17 
+
+Journal of Clinical Oncology 
+
+1455 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Piccart et al 
+
+CORRESPONDING AUTHOR 
+
+AUTHOR CONTRIBUTIONS 
+
+Martine Piccart, MD, PhD, Breast International Group (BIG)-aisbl Blvd. de Waterloo 76 1000 Brussels, Belgium; e-mail: m.piccart@ bigagainstbc.org. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Conception and design: Martine Piccart, Evandro de Azambuja, Eleonora Restuccia, Linda Reaby, Ian Krop, Tadeusz Pieńkowski, Masakazu Toi, Richard D. Gelber Administrative support: Martine Piccart, Evandro de Azambuja, Mihaela Sicoe, Sébastien Guillaume Collection and assembly of data: Martine Piccart, Michael S. Ewer, TsangWu Liu, Masakazu Toi, Michael Andersson, Hervé Bonnefoi, Eleonora Restuccia, Ling Ming Tseng, Marco Colleoni, Hans-Joachim Lueck, Mihaela Sicoe, Sébastien Guillaume, Richard D. Gelber, Giuseppe Viale Data analysis and interpretation: Martine Piccart, Marion Procter, Debora Fumagalli, Evandro de Azambuja, Emma Clark, Michael S. Ewer, Eleonora Restuccia, Susan Dent, Estefania Monturus, Guy Jerusalem, Hervé Bonnefoi, Ian Krop, Tadeusz Pieńkowski, Masakazu Toi, Nicholas Wilcken, Michael Andersson, Young-Hyuck Im, Sébastien Guillaume, José Bines, Richard D. Gelber, Christoph Thomssen Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.20.01204. 
+
+ACKNOWLEDGMENT 
+
+PRIOR PRESENTATION Presented at the General Session 1 of San Antonio Breast Cancer Symposium 2019, San Antonio, Texas, December 11, 2019. 
+
+SUPPORT Supported by F. Hoffmann-La Roche Ltd/Genentech. 
+
+CLINICAL TRIAL INFORMATION NCT01358877 (APHINITY) 
+
+DATA SHARING STATEMENT Qualiﬁed researchers may request access to individual patient level data through the clinical study data request platform https://vivli.org/ 18 months after the publication of the last clinical study report (CSR). Before this date, qualiﬁed researchers may request access to individual patient level data by submitting, within a call for proposals, a research proposal to BIG. Further details on Roche’s criteria for eligible studies are available here: https://vivli.org/members/ourmembers/. For further details on Roche’s Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here https://www.roche.com/research_and_development/ who_we_are_how_we_work/clinical_trials/ our_commitment_to_data_sharing.htm. 
+
+We thank the patients and their caregivers who participated in APHINITY; the doctors, nurses, and research teams from the sites and cooperative groups; Steering Committee Members; Joint Study Management Team that includes BIG Headquarters, Institut Jules Bordet Clinical Trials Support Unit, Frontier Science Foundation, F. Hoffmann-La Roche/ Genentech Ltd; Translational Advisory Committee, Scientiﬁc Review Team, Cardiac Advisory Board; the Central Laboratory Istituto Europeo di Oncologia; Independent Data Monitoring Committee; and Carmela Caballero for coordinating manuscript development. A list of the members of the APHINITY committees is provided in the Data Supplement. 
+
+REFERENCES 1. 
+
+Caparica R, Brandão M, Piccart M: Systemic treatment of patients with early breast cancer: Recent updates and state of the art. Breast 48:S7-20, 2019 
+
+2. 
+
+Godoy-Ortiz A, Sanchez-Muñoz A, Parrado MRC, et al: Deciphering HER2 breast cancer disease: Biological and clinical implications. Front Oncol 9:1124, 2019 
+
+3. 
+
+Goutsouliak K, Veeraraghavan J, Sethunath V, et al: Towards personalized treatment for early stage HER2-positive breast cancer. Nat Rev Clin Oncol 17: 233-250, 2020 
+
+4. 
+
+Slamon D, Leyland-Jones B, Shak S, et al: Use of Chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 344:783-792, 2001 
+
+5. 
+
+Perez E, Romond E, Suman V, et al: Trastuzumab plus adjuvant chemotherapy for human epidermal growth factor receptor 2-positive breast cancer: Planned joint analysis of overall survival from NSABP B-31 and NCCTG N9831. J Clin Oncol 32:3744-3752, 2014 
+
+6. 
+
+Slamon D, Eiermann W, Robert N, et al: Ten year follow-up of BCIRG-006 comparing doxorubicin plus cyclophosphamide followed by docetaxel (AC→T) with doxorubicin plus cyclophosphamide followed by docetaxel and trastuzumab (AC→TH) with docetaxel, carboplatin and trastuzumab (TCH) in HER21 early. Cancer Res 76, 2016 (suppl 5) 
+
+7. 
+
+Cameron D, Piccart-Gebhart M, Gelber R, et al: 11 years’ follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive early breast cancer: Final analysis of the HERceptin adjuvant (HERA) trial. Lancet 389:1195-1205, 2017 
+
+8. 
+
+Baselga J, Cortés J, Kim S, et al: Pertuzumab plus trastuzumab plus docetaxel for metastatic breast cancer. N Engl J Med 366:109-119, 2012 
+
+9. 
+
+Swain SM, Kim SB, Cortés J, et al: Pertuzumab, trastuzumab, and docetaxel for HER2-positive metastatic breast cancer (CLEOPATRA study): Overall survival results from a randomised, double-blind, placebo-controlled, phase 3 study. Lancet Oncol 14:461-471, 2013 
+
+10. Baselga J, Bradbury I, Eidtmann H, et al: Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): A randomised, open-label, multicentre, phase 3 trial. Lancet 379:633-640, 2012 11. Gianni L, Pienkowski T, Im Y, et al: Efﬁcacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inﬂammatory, or early HER2-positive breast cancer (NeoSphere): A randomised multicentre, open-label, phase 2 trial. Lancet Oncol 13:25-32, 2012 12. Gianni L, Pienkowski T, Im YH, et al: 5-year analysis of neoadjuvant pertuzumab and trastuzumab in patients with locally advanced, inﬂammatory, or early-stage HER2-positive breast cancer (NeoSphere): A multicentre, open-label, phase 2 randomised trial. Lancet Oncol 17:791-800, 2016 13. Schneeweiss A, Chia S, Hickish T, et al: Pertuzumab plus trastuzumab in combination with standard neoadjuvant anthracycline-containing and anthracyclinefree chemotherapy regimens in patients with HER2-positive early breast cancer: A randomized phase II cardiac safety study (tryphaena). Ann Oncol 24: 2278-2284, 2013 14. Blackwell KL, Burstein HJ, Storniolo AM, et al: Overall survival beneﬁt with lapatinib in combination with trastuzumab for patients with human epidermal growth factor receptor 2-positive metastatic breast cancer: Final results from the EGF104900 study. J Clin Oncol 30:2585-2592, 2012 
+
+1456 © 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 13 
+
+APHINITY Trial: 6 Years’ Follow-Up 15. Von Minckwitz G, Procter M, De Azambuja E, et al: Adjuvant pertuzumab and trastuzumab in early HER2-positive breast cancer. N Engl J Med 377:122-131, 2017 16. Wolff AC, Hammond MEH, Hicks DG, et al: Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update. Arch Pathol Lab Med 138:241-256, 2014 17. Hudis CA, Barlow WE, Costantino JP, et al: Proposal for standardized deﬁnitions for efﬁcacy end points in adjuvant breast cancer trials: The STEEP system. J Clin Oncol 25:2127-2132, 2007 18. Wilson MK, Collyar D, Chingos DT, et al: Outcomes and endpoints in cancer trials: Bridging the divide. Lancet Oncol 16:e43-e52, 2015 19. Cherny NI, Sullivan R, Dafni U, et al: A standardized, generic, validated approach to stratify the magnitude of clinical beneﬁt that can be anticipated from anticancer therapies: The European Society for Medical Oncology Magnitude of Clinical Beneﬁt Scale (ESMO-MCBS). Ann Oncol 26:1547-1573, 2015 20. Tolaney S, Barry W, Dang C, et al: Adjuvant paclitaxel and trastuzumab for node-negative, HER2-positive breast cancer. N Engl J Med 372:134-141, 2015 21. Tolaney SM, Guo H, Pernas S, et al: Seven-year follow-up analysis of adjuvant paclitaxel and trastuzumab trial for node-negative, human epidermal growth factor receptor 2-positive breast cancer. J Clin Oncol 37:1868-1875, 2019 22. Saphner T, Tormey DC, Gray R: Annual hazard rates of recurrence for breast cancer after primary therapy. J Clin Oncol 14:2738-2746, 1996 23. Colleoni M, Sun Z, Price KN, et al: Annual hazard rates of recurrence for breast cancer during 24 years of follow-up: Results from the international breast cancer study group trials I to V. J Clin Oncol 34:927-935, 2016 24. Baselga J, Petersen JA, Clark E, et al: Patient (pt)-reported function and symptoms in APHINITY: A randomized comparison of chemotherapy (C) 1 trastuzumab (H) 1 placebo (Pla) versus C 1 H 1 pertuzumab (P) as adjuvant therapy in pts with HER2-positive early breast cancer (EBC). J Clin Oncol 36, 2018 (suppl; abstr 521) 25. von Minckwitz G, Huang CS, Mano MS, et al: Trastuzumab emtansine for residual invasive HER2-positive breast cancer. N Engl J Med 380:617-628, 2019 26. Francis PA, Pagani O, Fleming GF, et al: Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med 379:122-137, 2018 27. Pagani O, Francis PA, Fleming GF, et al: Absolute improvements in freedom from distant recurrence to tailor adjuvant endocrine therapies for premenopausal women: Results from TEXT and SOFT. J Clin Oncol 38:1293-1303, 2019 28. Composite Risk Application. 2020. https://rconnect.dfci.harvard.edu/CompositeRiskSTEPP/ 29. Earl HM, Hiller L, Vallier AL, et al: 6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (PERSEPHONE): 4-year disease-free survival results of a randomised phase 3 non-inferiority trial. Lancet 393:2599-2612, 2019 30. Niraula S, Gyawali B: Optimal duration of adjuvant trastuzumab in treatment of early breast cancer: A meta-analysis of randomized controlled trials. Breast Cancer Res Treat 173:103-109, 2019 31. Pivot X, Romieu G, Debled M, et al: 6 months versus 12 months of adjuvant trastuzumab in early breast cancer (PHARE): Final analysis of a multicentre, openlabel, phase 3 randomised trial. Lancet 393:2591-2598, 2019 
+
+n n n 
+
+Journal of Clinical Oncology 
+
+1457 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Piccart et al AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Adjuvant Pertuzumab and Trastuzumab in Early HER2-Positive Breast Cancer in the APHINITY Trial: 6 Years’ Follow-Up The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Martine Piccart Consulting or Advisory Role: AstraZeneca, Lilly, MSD, Novartis, Pﬁzer, Debiopharm Group, Odonate Therapeutics, Menarini, Seattle Genetics, CamelIDS, Immunomedics, Roche/Genentech, Immutep Research Funding: AstraZeneca, Lilly, MSD, Novartis, Pﬁzer, Roche/Genentech, Radius Health, Synthon, Servier Other Relationship: Oncolytics, EU Cancer Mission Board Marion Procter Research Funding: Roche/Genentech Other Relationship: Roche/Genentech Debora Fumagalli Research Funding: Roche/Genentech, AstraZeneca, Novartis, GlaxoSmithKline, Servier, Pﬁzer, Tesaro Evandro de Azambuja Honoraria: Roche/Genentech, Seattle Genetics, Zodiac Pharma Consulting or Advisory Role: Roche/Genentech, Novartis Research Funding: Roche/Genentech, AstraZeneca, Servier/Pﬁzer, GlaxoSmithKline/Novartis Travel, Accommodations, Expenses: Roche/Genentech, GlaxoSmithKline Emma Clark Employment: Roche Patents, Royalties, Other Intellectual Property: Issued patent: Uses for and article of manufacture including HER2 dimerization inhibitor pertuzumab, 13/ 649591 
+
+Tadeusz Pieńkowski Honoraria: Novartis, Roche Consulting or Advisory Role: AstraZeneca Speakers’ Bureau: Roche, AstraZeneca, Novartis, Pﬁzer Travel, Accommodations, Expenses: Roche Masakazu Toi Honoraria: Novartis, Takeda, AstraZeneca, Eisai, Genomic Health, Chugai Pharma, Taiho Pharmaceutical, Daiichi Sankyo, Yakult Pharmaceutical, Shimadzu, Pﬁzer, Konica Minolta, Lilly, Kyowa Hakko Kirin, Devicore medical Japan Consulting or Advisory Role: Daiichi Sankyo, Kyowa Hakko Kirin, Konica Minolta, Bertis, Athenex, Bristol-Myers Squibb Speakers’ Bureau: Pﬁzer, AstraZeneca, Lilly Research Funding: Taiho Pharmaceutical, Chugai Pharma, Shimadzu, Astellas Pharma, AFI technology, Japan Breast Cancer Research Group, Pﬁzer, Eisai, Daiichi Sankyo, AstraZeneca, Ono Pharmaceutical, Nippon Kayaku, Kyoto Breast cancer Research Network Patents, Royalties, Other Intellectual Property: JP 2017-143763, PCT/JP2016/ 004374 Travel, Accommodations, Expenses: Eisai, Takeda Other Relationship: Japan Breast Cancer Research Group, Kyoto Breast Cancer Research Network, Organization for Oncology and Translational Research Nicholas Wilcken Honoraria: Roche/Genentech Travel, Accommodations, Expenses: Amgen 
+
+Michael S. Ewer Consulting or Advisory Role: Bayer, AstraZeneca, Boehringer Ingelheim Patents, Royalties, Other Intellectual Property: Author of the book Cancer and the Heart 
+
+Hans-Joachim Lueck Consulting or Advisory Role: AstraZeneca, GlaxoSmithKline, Lilly, Seagen, MSD Oncology Speakers’ Bureau: Roche, Pﬁzer, Amgen, Novartis 
+
+Eleonora Restuccia Employment: Hoffmann LaRoche Ltd Leadership: VectivBio AG Stock and Other Ownership Interests: Hoffmann LaRoche Ltd, VectivBio AG Travel, Accommodations, Expenses: Hoffmann LaRoche Ltd, VectivBio 
+
+Estefania Monturus Employment: Roche Stock and Other Ownership Interests: Roche Other Relationship: F. Hoffmann-La Roche Ltd (support for third-party writing assistance) 
+
+Guy Jerusalem Honoraria: Novartis, Roche, Lilly, Pﬁzer, Amgen, Bristol-Myers Squibb, AstraZeneca, Daiichi Sankyo, Abbvie Consulting or Advisory Role: Novartis, Roche, Amgen, Pﬁzer, Bristol-Myers Squibb, Lilly, AstraZeneca, Daiichi Sankyo, Abbvie Research Funding: Novartis, Roche, Pﬁzer Travel, Accommodations, Expenses: Novartis, Roche, Pﬁzer, Lilly, Amgen, Bristol-Myers Squibb, AstraZeneca, Medimmune, Merck 
+
+Mihaela Sicoe Research Funding: Roche, Pﬁzer/EMD Serono, Novartis 
+
+Susan Dent Honoraria: Novartis Canada Pharmaceuticals Inc Research Funding: Novartis Travel, Accommodations, Expenses: Novartis Linda Reaby Travel, Accommodations, Expenses: Roche Hervé Bonnefoi Honoraria: Roche Research Funding: Bayer Travel, Accommodations, Expenses: Roche, Pﬁzer Ian Krop Employment: AMAG Pharmaceuticals, Freeline Therapeutics Leadership: AMAG Pharmaceuticals, Freeline Therapeutics Stock and Other Ownership Interests: AMAG Pharmaceuticals, Freeline Therapeutics, Vertex Honoraria: Genentech/Roche, AstraZeneca, Celltrion Consulting or Advisory Role: Genentech/Roche, Seattle Genetics, Daiichi Sankyo, Macrogenics, Taiho Pharmaceutical, Context Therapeutics, Novartis, Merck, ION Pharma, Bristol-Myers Squibb Research Funding: Genentech, Pﬁzer 
+
+Sébastien Guillaume Research Funding: Roche, AstraZeneca, Novartis Travel, Accommodations, Expenses: Roche José Bines Honoraria: Roche, Lilly, Novartis, MSD, Pﬁzer Consulting or Advisory Role: Roche, Lilly, MSD Travel, Accommodations, Expenses: Roche Richard D. Gelber Research Funding: AstraZeneca, Novartis, Roche, Celgene, Merck, Pﬁzer, Ipsen, Ferring Travel, Accommodations, Expenses: Roche, AstraZeneca, Novartis Giuseppe Viale Honoraria: MSD Oncology, Pﬁzer, Daiichi Sankyo Europe GmbH Consulting or Advisory Role: Dako, Roche/Genentech, Novartis, Bayer, Daiichi Sankyo, MSD Oncology, Menarini Speakers’ Bureau: Roche/Genentech Research Funding: Roche/Genentech, Ventana Medical Systems, Dako/Agilent Technologies, Cepheid Travel, Accommodations, Expenses: Roche 
+
+© 2021 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 39, Issue 13 
+
+APHINITY Trial: 6 Years’ Follow-Up Christoph Thomssen Honoraria: AstraZeneca, Celgene, Daiichi Sankyo Europe GmbH, Eisai Germany, Lilly, Pﬁzer, Roche, Pierre Fabre, MSD, Vifor Pharma Consulting or Advisory Role: Amgen, AstraZeneca, Celgene, Daiichi Sankyo Europe GmbH, MSD, Pﬁzer, Roche Research Funding: AstraZeneca, Daiichi Sankyo Europe GmbH, Novartis, Pﬁzer, Roche Travel, Accommodations, Expenses: Daiichi Sankyo Europe GmbH, Pﬁzer, Roche No other potential conﬂicts of interest were reported. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 139.226.100.188 on October 10, 2022 from 139.226.100.188 Copyright © 2022 American Society of Clinical Oncology. All rights reserved. 
+
+ 

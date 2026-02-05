@@ -1,0 +1,457 @@
+ARTICLE 
+
+Adjuvant Chemotherapy With Sequential or Concurrent Anthracycline and Docetaxel: Breast International Group 02–98 Randomized Trial Prudence Francis, John Crown, Angelo Di Leo, Marc Buyse, Ana Balil, Michael Andersson, Bo Nordenskjöld, Istvan Lang, Raimund Jakesz, Daniel Vorobiof, Jorge Gutiérrez, Guy van Hazel, Stella Dolci, Sophie Jamin, Belguendouz Bendahmane, Richard D. Gelber, Aron Goldhirsch, Monica Castiglione-Gertsch, Martine Piccart-Gebhart On behalf of the BIG 02-98 Collaborative Group 
+
+Docetaxel is more effective than doxorubicin for patients with advanced breast cancer. The Breast International Group 02-98 randomized trial tested the effect of incorporating docetaxel into anthracycline-based adjuvant chemotherapy and compared sequential vs concurrent administration of doxorubicin and docetaxel. 
+
+Methods 
+
+Patients with lymph node–positive breast cancer (n = 2887) were randomly assigned to one of four treatments: 1) sequential control (four cycles of doxorubicin at 75 mg/m2, followed by three cycles of cyclophosphamide, methotrexate, and 5-fluorouracil [CMF]); 2) concurrent control (four cycles of doxorubicin at 60 mg/m2 plus cyclophosphamide at 600 mg/m2, followed by three cycles of CMF); 3) sequential docetaxel (three cycles of doxorubicin at 75 mg/m2, followed by three cycles of docetaxel at 100 mg/m2, followed by three cycles of CMF); 4) concurrent docetaxel (four cycles of doxorubicin at 50 mg/m2 plus docetaxel at 75 mg/m2, followed by three cycles of CMF). The primary comparison evaluated the efficacy of including docetaxel regardless of schedule and was planned after 1215 disease-free survival (DFS) events (ie, relapse, second primary cancer, or death from any cause). Docetaxel and control treatment groups were compared by log-rank tests, and hazard ratios (HR) of DFS events were calculated by Cox modeling. All statistical tests were two-sided. 
+
+Results 
+
+Due to a lower-than-anticipated rate of relapse, this analysis was performed after 5 years with 732 events. Patients in control arms had a 5-year DFS of 73% (95% confidence interval [CI] = 70% to 75%). Docetaxel treatment resulted in an improvement in DFS of borderline statistical significance compared with control treatment (HR = 0.86, 95% CI = 0.74 to 1.00; P = .05). However, DFS in the sequential docetaxel arm was better than that in the concurrent docetaxel arm (HR = 0.83, 95% CI = 0.69 to 1.00) and in the sequential control arm (HR = 0.79, 95% CI = 0.64 to 0.98). 
+
+Conclusions 
+
+Incorporating docetaxel into anthracycline-based therapy resulted in an improvement in DFS that was of borderline statistical significance. However, important differences may be related to doxorubicin and docetaxel scheduling, with sequential but not concurrent administration, appearing to produce better DFS than anthracycline-based chemotherapy. J Natl Cancer Inst 2008;100:121–133 
+
+Affiliations of authors: Peter MacCallum Cancer Centre, Melbourne, Australia (PF); Australian New Zealand Breast Cancer Trials Group, Newcastle, Australia (PF); International Breast Cancer Study Group, Bern, Switzerland (PF); Irish Clinical Oncology Research Group, Dublin, Ireland (JC); Hospital of Prato, Prato, Italy (ADL); International Drug Development Institute, Louvain-laNeuve, Belgium (MB); Grupo Español de Investigacion en Cancer de Mama, Madrid, Spain (AB); Hospital Arnau de Vilanova, Lleida, Spain (AB); Danish Breast Cancer Cooperative Group, Copenhagen, Denmark (MA); Swedish Breast Cancer Group, Universitetssjukhuset, Linkoping, Sweden (BN); National Institute of Oncology, Budapest, Hungary (IL); Austrian Breast and Colorectal Cancer Study Group, Vienna Medical School, Vienna, Austria (RJ); Sandton Oncology Centre, Johannesburg, South Africa (DV); Grupo Oncologico Cooperativo Chileno De Investigacion, Clinica Las Condes, Santiago, Chile (JG); Mount Hospital, Perth, Australia (GvH); Breast European Adjuvant Studies Team, Jules Bordet Institute, Brussels, Belgium (SD, SJ, MPG); sanofi- 
+
+jnci.oxfordjournals.org 
+
+aventis, Paris, France (BB); International Breast Cancer Study Group (IBCSG), Statistical Centre and Dana Farber Cancer Institute, Boston, MA (RDG); IBCSG Scientific Committee, European Institute of Oncology, Milan, Italy (AG); IBCSG Coordinating Centre and Inselspital, Bern, Switzerland (MCG). Correspondence to: Prudence Francis, MB, BS, Division of Haematology and Medical Oncology, Peter MacCallum Cancer Centre, Locked Bag #1, A’Beckett Street, Melbourne 8006, Australia (e-mail: prue.francis@petermac.org). See “Funding” and “Notes” following “References.” DOI: 10.1093/jnci/djm287 © The Author(s). This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/ by-nc/2.0/uk/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+JNCI | Articles 121 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+Background 
+
+CONTEXT AND CAVEATS Prior knowledge Docetaxel is more effective than doxorubicin for patients with advanced breast cancer. Study design Phase III randomized adjuvant therapy trial of sequential control (doxorubicin followed by cyclophosphamide, methotrexate, and 5-fluorouracil [CMF]), concurrent control (doxorubicin plus cyclophosphamide followed by CMF), sequential docetaxel (doxorubicin followed by docetaxel followed by CMF), and concurrent docetaxel (doxorubicin plus docetaxel followed by CMF). The primary end point was the comparison of disease-free survival (DFS) events (ie, relapse, second primary cancer, or death from any cause). 
+
+Implications Scheduling of doxorubicin and docetaxel for the treatment of breast cancer appears to warrant further study. Limitations After a median follow-up of at least 5 years, less than two-thirds of the number of DFS events originally planned had occurred at the time of this analysis. Consequently, the study had reduced power. The better sequential docetaxel result could have arisen by chance. Differences in DFS may not translate into differences in overall survival. 
+
+Thirty years ago, Bonadonna et al. (1) reported the initial results of the Milan randomized trial testing 12 months of adjuvant chemotherapy with cyclophosphamide, methotrexate, and 5-ﬂuorouracil (CMF) in patients with lymph node–positive breast cancer. Patients who received CMF had a statistically signiﬁcantly lower risk of relapse than those who did not receive chemotherapy, with relapse-free survival rates of 60% vs 45%, respectively, at 5 years (2). Subsequently, the effect on relapse rates of 12 months or 6 months of CMF were compared in a randomized trial and were not found to be statistically signiﬁcantly different (3). In 1990, the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-15 randomized trial reported no statistically signiﬁcant difference in disease-free survival (DFS) with a shorter course (3 months) of four cycles of doxorubicin plus cyclophosphamide compared with 6 months of CMF (4). However, improvements in adjuvant breast cancer therapy were needed, particularly for patients with four or more positive lymph nodes who had a 5-year relapse-free survival of only 41% in the initial CMF trial. In 1991, Buzzoni et al. (5) reported that outcomes among women treated with a strategy of sequential adjuvant chemotherapy with four cycles of doxorubicin at 75 mg/m2, followed by 6 months of intravenous CMF, were superior to those among women treated with an alternating drug schedule. That trial, which was conducted in breast cancer patients with four or more positive lymph nodes, reported a 5-year DFS of 61% for the 122 Articles | JNCI 
+
+Patients and Methods Patient Eligibility Criteria Eligible patients were aged 18–70 years with operable, clinical stage T1–3 invasive breast adenocarcinoma. They were required to have resected tumors with clear margins after either mastectomy or breast-conserving surgery and at least one positive axillary lymph node among a minimum of eight dissected lymph nodes. Registration was required within 60 days of surgery. The determination of estrogen receptor and progesterone receptor status was mandatory. Staging that included a chest x-ray or computerized tomography scan, a bone scan, and an abdominal ultrasound or computerized tomography scan was required. A normal left ventricular ejection fraction and adequate hematologic, liver, and renal function were required. Exclusion criteria included supraclavicular lymph node involvement, distant metastases, previous cancers, neuropathy of grade 2 or higher, or serious medical conditions. Written or witnessed informed consent was required. The protocol was approved by Institutional Ethics Committees. Protocol Therapy Treatment allocation was done centrally by use of a minimization procedure (12) with stratification for center, number of positive axillary lymph nodes, and age. Patients (n = 2887) were randomly assigned at a ratio of 1 : 1 : 2 : 2 to one of the following four adjuvant chemotherapy regimen arms (Fig. 1): 1) sequential control arm (four cycles of intravenous doxorubicin at 75 mg/m2 every 3 weeks, followed by three cycles of CMF); 2) concurrent control arm (four cycles of intravenous doxorubicin at 60 mg/m2 plus intravenous Vol. 100, Issue 2 | January 16, 2008 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+Contribution Incorporating docetaxel into anthracycline-based chemotherapy resulted in an improvement of DFS that was of borderline statistical significance. Important differences may be related to docetaxel and doxorubicin scheduling, with sequential administration appearing to produce better DFS than concurrent administration. 
+
+sequential arm. Consequently, in 1997 when we planned the ﬁrst randomized adjuvant chemotherapy trial conducted by the Breast International Group (BIG 02-98 trial), crossover anthracyclineCMF chemotherapy was considered to be an appropriate control treatment for patients with lymph node–positive breast cancer. For the CMF component, we chose classical CMF, which includes oral cyclophosphamide, rather than intravenous CMF, because of its superior efﬁcacy in patients with advanced disease (6). The duration of CMF treatment was also shortened, so that the total duration of control arm chemotherapy was 6 months. Docetaxel (Taxotere) is a taxane with activity in anthracyclineresistant breast cancer (7,8). A phase III trial in patients with metastatic breast cancer (9) had reported a statistically signiﬁcantly higher response rate to treatment with docetaxel at 100 mg/m2 than to treatment with doxorubicin at 75 mg/m2. It was therefore a priority to test docetaxel in the adjuvant setting. The BIG 02-98 trial was designed to test whether incorporating docetaxel into anthracycline-based adjuvant chemotherapy could improve results compared with optimal anthracycline-based adjuvant chemotherapy regimens that were administered for approximately the same duration. This trial was also designed to assess whether docetaxel should be administered sequentially after doxorubicin or concurrently with doxorubicin; concurrent administration required that the dose of both drugs be reduced (10). A pilot study (11) tested the feasibility of the experimental docetaxel arms before this phase III trial. We report the results of the BIG 02-98 trial after a median follow-up of 62.5 months. 
+
+jnci.oxfordjournals.org 
+
+Fig. 1. Treatment schema for the Breast International Group 02-98 Trial. Patients with resected lymph node–positive breast cancer were included and stratiﬁed according to center, number of positive lymph nodes (1–3 or ≥4 lymph nodes), and age (<50 or ≥50 years). The randomly allocated treatments are shown to the right above boxes, each of which represents one cycle and are ﬁlled to illustrate each treatment. A 75 = doxorubicin at 75 mg/m2; CMF = cyclophosphamide, methotrexate, and 5-ﬂuorouracil; AC 60/600 = doxorubicin at 60 mg/m2 plus cyclophosphamide at 600 mg/m2; T 100 = docetaxel at 100 mg/m2; AT 50/75 = doxorubicin at 50 mg/m2 plus docetaxel at 75 mg/m2. 
+
+in 2004 allowed for the use of sequential aromatase inhibitors in postmenopausal women and the addition of ovarian suppression in premenopausal women. This trial was conducted before the use of adjuvant trastuzumab therapy. Radiation therapy was mandatory after breast-conserving surgery and administered after mastectomy according to institutional guidelines. The protocol recommended that radiation therapy begin 4–6 weeks after day 1 of the ﬁnal cycle of CMF. Protocol-scheduled follow-up of 10 years was planned. Statistical Considerations The study was a phase III prospective, multicenter, nonblinded, randomized trial with patients stratified after breast cancer surgery according to center, number of positive lymph nodes (1–3 vs ≥4), and age (<50 vs ≥50 years). The BIG 02-98 trial design incorporated two control arms (ie, sequential and concurrent control arms) and two experimental arms (ie, sequential and concurrent docetaxel arms), with twice as many patients randomly assigned to experimental treatments as to control treatments. The primary comparison evaluated the role of docetaxel regardless of its schedule of administration: (sequential docetaxel plus concurrent docetaxel treatments) vs (sequential control plus concurrent control treatments). The secondary objectives were to compare the sequential docetaxel arm with the sequential control arm, the concurrent docetaxel arm with the concurrent control arm, and the sequential docetaxel arm with the concurrent docetaxel arm. Additional secondary objectives of the trial were to compare the overall survival and toxicity among the treatment arms and to evaluate pathologic and molecular markers. All randomly assigned patients were included in an intentionto-treat analysis and were evaluated for both disease-free and overall survival. DFS was calculated from the date of randomization to the ﬁrst date of a local, regional, or distant relapse; of the diagnosis of a second primary cancer, including contralateral JNCI | Articles 123 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+cyclophosphamide at 600 mg/m2 every 3 weeks, followed by three cycles of CMF); 3) sequential docetaxel arm (three cycles of intravenous doxorubicin at 75 mg/m2 every 3 weeks, followed by three cycles of intravenous docetaxel at 100 mg/m2 every 3 weeks, followed by three cycles of CMF); 4) concurrent docetaxel arm (four cycles of intravenous doxorubicin at 50 mg/m2 plus intravenous docetaxel at 75 mg/m2 every 3 weeks with docetaxel commencing 1 hour after doxorubicin, followed by three cycles of CMF). Patients in all arms received three cycles of CMF that were given every 4 weeks as oral cyclophosphamide at 100 mg/m2 on days 1–14 and intravenous methotrexate at 40 mg/m2 plus intravenous 5-fluorouracil at 600 mg/m2 on days 1 and 8. During the CMF cycles, if oral cyclophosphamide could not be tolerated, a switch to intravenous cyclophosphamide at 600 mg/m2 on days 1 and 8 was allowed. The planned cumulative doxorubicin dose was higher in the control arms (sequential = 300 mg/m2 or concurrent = 240 mg/ m2) than in the docetaxel arms (sequential = 225 mg/m2 or concurrent = 200 mg/m2). Both docetaxel arms had the same planned cumulative dose of docetaxel (ie, 300 mg/m2). The duration of each treatment regimen was 24 weeks, except for the sequential docetaxel regimen that was 30 weeks. Docetaxel was infused over a 1-hour period with routine steroid premedication over a 3-day period starting the day before treatment. Patients received prophylactic oral ciproﬂoxacin at 500 mg twice a day on days 6–12 of each cycle of concurrent doxorubicin plus docetaxel because of the anticipated risk of febrile neutropenia. No primary prophylaxis with granulocyte colony-stimulating factor was permitted; however, granulocyte colony-stimulating factor was recommended after subsequent doses of doxorubicin and/or docetaxel if previous febrile neutropenia, grade 3–4 infection, or a treatment delay of more than 7 days occurred because of neutropenia. If these problems recurred despite treatment with granulocyte colony-stimulating factor, then dose reduction was required. Treatment cycles were commenced if neutrophil counts were at least 1.5 × 109 neutrophils per liter and platelet counts were at least 100 × 109 platelets per liter. CMF was administered on days 8–14 if on day 8 the neutrophil count was at least 1.0 × 109 neutrophils per liter and the platelet count was at least 100 × 109 platelets per liter. A dose reduction was required for the speciﬁc drug or drug combinations if severe (grade 3 or higher) nonhematologic toxicity developed (eg, the combination of doxorubicin at 50 mg/m2 plus docetaxel at 75 mg/m2 was reduced to doxorubicin at 40 mg/m2 plus docetaxel at 60 mg/m2 or single-agent docetaxel at 100 mg/m2 was reduced to 75 mg/m2). Actual body weight was used to calculate body surface area, and, after an amendment to the study protocol, the maximum body surface area was limited to 2.0 m2. Clinical, hematologic, and biochemical assessments were required before each cycle, including assessment of toxic effects according to the Common Toxicity Criteria, Version 1, of the National Cancer Institute. After chemotherapy treatment, tamoxifen at 20 mg orally per day for 5 years was commenced for patients with hormone receptor (estrogen receptor and/or progesterone receptor)–positive tumors. Cooperative groups or institutions were allowed to declare a threshold for designating a tumor hormone receptor–positive (eg, ≥1% or ≥10% of cells positive by immunohistochemistry) for initiation of adjuvant hormonal therapy. A protocol amendment 
+
+124 Articles | JNCI 
+
+Future descriptive analyses were planned for 8 years (1215 events) and 10 years of follow-up. Trial Sponsors and Funding This trial was sponsored and funded by sanofi-aventis and conducted with BIG: the coordinating group was the Breast European Adjuvant Studies Team with the collaboration of eight BIG cooperative groups. In some countries, data monitoring was performed by sanofi-aventis or their agents. Statistical analyses were performed by the International Drug Development Institute (IDDI) statistical center and were done entirely independently from sanofiaventis, under the auspices of the BIG. 
+
+Results Patients From June 10, 1998, through June 26, 2001, 2887 patients with lymph node–positive breast cancer were randomly assigned to one of the four treatment arms. Baseline characteristics of enrolled patients were well balanced (Table 1). The median age of patients entered was 49 years (range = 21–70 years), and only 4% were older than 65 years. Fifty-five percent of patients had undergone a mastectomy, and the remainder had had breast-conserving surgery. Patients had a median of three positive lymph nodes among a median of 16 axillary lymph nodes resected, and almost half (46% of the patients) had four or more positive lymph nodes. The breast cancer was hormone receptor–positive in 76% of patients. HER2 testing of early breast cancer was not routinely performed at participating sites during the period of accrual. Twenty-two of the 2887 randomly assigned patients (1.2% assigned to control and 0.5% assigned to docetaxel treatment) never commenced their allocated protocol treatment (Fig. 2). Results are reported according to an intent-to-treat analysis. The mean relative dose intensity received for doxorubicin was similar for patients in all treatment arms (96%–97%). The mean relative docetaxel dose intensity received was 95% in the sequential arm and 97% in the concurrent arm. The mean relative CMF dose intensity received was 92% for patients in all treatment arms. Granulocyte colony-stimulating factor was administered to 15% of patients in the sequential control arm, 12% in concurrent control arm, 22% in sequential docetaxel arm, and 29% in concurrent docetaxel arm. Granulocyte colony-stimulating factor was administered during 6% of cycles in the sequential control arm, 5% in the concurrent control arm, 7% in the sequential docetaxel arm, and 12% in the concurrent docetaxel arm. Dose reductions occurred in 18% of patients in the sequential control arm, 17% in the concurrent control arm, 25% in the sequential docetaxel arm, and 20% in the concurrent docetaxel arm. In the two control arms, 93% and 94% of patients completed all seven chemotherapy cycles. For patients randomly assigned to the experimental (docetaxel) treatment regimens, 91% completed all nine chemotherapy cycles in sequential docetaxel arm and 94% completed all seven chemotherapy cycles in the concurrent docetaxel arm. Adjuvant hormonal therapy was given to 71% of patients in the sequential control arm, 74% in the concurrent control arm, 74% in the sequential docetaxel arm, and 75% in the concurrent docetaxel Vol. 100, Issue 2 | January 16, 2008 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+invasive breast cancer; or of death from any cause. The KaplanMeier product-limit method was used to estimate DFS and overall survival, and the stratiﬁed log-rank test was used to compare DFS and overall survival among treatment groups. Hazard ratios (HR) were calculated with a Cox model. All statistical tests were twosided. Heterogeneity among centers was not assessed. The primary efﬁcacy analysis was the comparison of DFS between the docetaxel treatment group and the control treatment group. The original planned sample size was 2200 patients, and control patients were expected to have a 5-year DFS of 50%. The study was powered to detect an absolute increase of 10% in DFS at 5 years, which corresponded to a 26% reduction in the risk of relapse and was considered to be a clinically meaningful difference. In December 2000, with the approval of the independent data monitoring committee and subsequent to approval of paclitaxel for lymph node–positive breast cancer by the Food and Drug Administration, the study plan was amended so that a 22% decrease in the risk of relapse in favor of the experimental (docetaxel) treatment was deemed a clinically relevant difference and the sample size was increased to 2730. With this amendment, the primary comparison would have a power of 99% to detect a clinically relevant difference with a log-rank test at a two-sided signiﬁcance level of .05. The study analysis was to be performed by use of a closed testing procedure to ensure that the overall type I error remained at the nominal level of .05 (13). The secondary comparisons of sequential docetaxel vs sequential control arms and concurrent docetaxel vs concurrent control arms would each have a power of 85% to detect a clinically relevant difference. The comparison of docetaxel administered sequentially after doxorubicin treatment vs docetaxel administered concurrently with doxorubicin treatment would evaluate whether the two docetaxel schedules produced equivalent DFS. This comparison would be performed by calculating the 95% conﬁdence interval (CI) of the hazard ratio for a DFS event. There was 86% probability that this conﬁdence interval would be within the limits of 0.80 to 1.25 if the two docetaxel schedules were truly equivalent. The primary efﬁcacy analysis was the comparison of DFS between docetaxel and control treatment groups and was planned to be a 5-year analysis, provided that 1215 events had been observed. Two interim analyses were planned, at 405 and 810 DFS events. The ﬁrst interim efﬁcacy analysis was performed after 395 events, and study continuation was recommended by the independent data monitoring committee. By September 2003, it was evident that the overall event rate in the trial was much lower than anticipated; hence, the time to the second interim analysis (810 events) and main analysis (1215 events) would occur much later than planned. After consultation with the independent data monitoring committee, an amendment to the study plan was adopted by the trial steering committee, in which the main analysis would occur after a median follow-up of 5 years or 810 events, whichever occurred ﬁrst. The rationale behind the change was that clinically relevant information is generally evident with 5 years of follow-up in lymph node–positive breast cancer trials. The change was not initiated by the trial sponsor, sanoﬁ-aventis. The main analysis would use a two-sided statistical signiﬁcance level of .0496 to account for the interim analysis that had already taken place. 
+
+Table 1. Patient characteristics by treatment arm* 
+
+Characteristic 
+
+Concurrent control arm (AC→CMF)‡ 
+
+Sequential docetaxel arm (A→T→CMF)§ 
+
+Concurrent docetaxel arm (AT→CMF)|| 
+
+Total cohort 
+
+481 
+
+487 
+
+960 
+
+959 
+
+2887 
+
+53 47 
+
+54 46 
+
+53 47 
+
+53 47 
+
+53 47 
+
+54 46 
+
+55 45 
+
+54 46 
+
+54 46 
+
+54 46 
+
+75 24 
+
+75 25 
+
+75 24 
+
+77 23 
+
+76 24 
+
+53 41 5 
+
+54 40 6 
+
+53 42 6 
+
+55 40 5 
+
+54 41 6 
+
+94 6 
+
+92 7 
+
+93 6 
+
+91 8 
+
+92 7 
+
+46 54 
+
+45 55 
+
+46 54 
+
+44 56 
+
+55 45 
+
+* CMF = cyclophosphamide, methotrexate, and 5-fluorouracil; ER = estrogen receptor; PR = progesterone receptor; pT = pathologic tumor stage. Data in various categories may not add up to expected values because of rounding. † Four cycles of doxorubicin followed by CMF (A→CMF). ‡ Four cycles of doxorubicin plus cyclophosphamide followed by CMF (AC→CMF). § Three cycles of doxorubicin followed by three cycles of docetaxel followed by CMF (A→T→CMF). || Four cycles of doxorubicin plus docetaxel followed by CMF (AT→CMF). ¶ Menopausal status was uncertain (eg, previous hysterectomy without oophorectomy). 
+
+arm. Radiation therapy was administered to 81% of patients, who were equally distributed across all treatment arms. Efficacy This analysis was performed on March 10, 2006. The median follow-up was 62.5 months (maximum 89 months), and 732 DFS 
+
+events (including relapse [local, regional, or distant]; diagnosis of a second primary cancer, including contralateral invasive breast cancer; or death from any cause) had occurred (Table 2). Thus, after 5 years of follow-up, less than two-thirds of the 1215 events originally planned had occurred. Overall, 2.8% of patients were lost to follow-up, with equal percentages from control and 
+
+Fig. 2. CONSORT diagram for patients in Breast International Group (BIG) 02-98 trial. Numbers of patients at each stage are shown in the boxes. seq = sequential; con = concurrent; A = doxorubicin; CMF = cyclophosphamide, methotrexate, and 5-ﬂuorouracil; C = cyclophosphamide; T = docetaxel. 
+
+jnci.oxfordjournals.org 
+
+JNCI | Articles 125 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+Patients, No. Age, % <50 y ≥50 y No. of positive lymph nodes, % 1–3 lymph nodes ≥4 lymph nodes Hormone receptor status, % ER and/or PR positive ER and PR negative Menopausal status, % Premenopausal Postmenopausal Other¶ Tumor stage, % pT1–2 pT3 Type of surgery, % Breast conserving Mastectomy 
+
+Sequential control arm (A→CMF)† 
+
+Table 2. Patients with first events 
+
+Event 
+
+Sequential control arm (A→CMF)* (n = 481) 
+
+Concurrent control arm (AC→CMF)† (n = 487) 
+
+Sequential docetaxel arm (A→T→CMF)‡ (n = 960) 
+
+Concurrent docetaxel arm (AT→CMF)§ (n = 959) 
+
+Total cohort (n = 2887) 
+
+Breast cancer relapse, % (No.) Death, % (No.) Contralateral breast cancer, % (No.) Other second primary cancer, % (No.) Total events||, % (No.) None|| (event-free patients), % (No.) 
+
+21.8 (105) 1.5 (7) 1.5 (7) 2.1 (10) 26.8 (129) 73.2 (352) 
+
+24.8 (121) 0.8 (4) 0.8 (4) 1.6 (8) 28.1 (137) 71.9 (350) 
+
+19.9 (191) 0.3 (3) 0.2 (2) 1.9 (18) 22.3 (214) 77.7 (746) 
+
+23.5 (225) 0.6 (6) 0.7 (7) 1.5 (14) 26.3 (252) 73.7 (707) 
+
+22.2 (642) 0.7 (20) 0.7 (20) 1.7 (50) 25.4 (732) 74.6 (2155) 
+
+* Four cycles of doxorubicin followed by cyclophosphamide, methotrexate, and 5-fluorouracil (CMF) (A→CMF). Data in some categories may not add up to the expected amounts because of rounding. † Four cycles of doxorubicin plus cyclophosphamide followed by CMF (AC→CMF). ‡ Three cycles of doxorubicin followed by three cycles of docetaxel followed by CMF (A→T→CMF). § Four cycles of doxorubicin plus docetaxel followed by CMF (AT→CMF). || The total percentage (numbers) of patients with or without events is shown. 
+
+doxorubicin. DFS was better in the sequential docetaxel arm (doxorubicin followed by docetaxel followed by CMF) than in the sequential control arm (doxorubicin followed by CMF) (HR of a DFS event = 0.79, 95% CI = 0.64 to 0.98; P = .035). DFS was similar in the concurrent docetaxel arm (doxorubicin plus docetaxel followed by CMF) and the concurrent control arm (doxorubicin plus cyclophosphamide followed by CMF) (HR of a DFS event = 0.93, 95% CI = 0.75 to 1.14; P = .48). When the two docetaxel arms were compared (doxorubicin followed by docetaxel followed by CMF vs doxorubicin plus docetaxel followed by CMF), DFS was better in the sequential docetaxel arm than in the concurrent docetaxel arm (HR of a DFS event = 0.83, 95% CI = 0.69 to 1.00). Five-year DFS was estimated by use of Kaplan-Meier analyses for the four treatment arms for all patients and for subgroups 
+
+Table 3. Hazard ratios for disease-free survival in the Breast International Group 02–98 Randomized Trial* 
+
+Comparison 
+
+No. of patients per group 
+
+Total No. of patients 
+
+Primary comparison Docetaxel vs control 
+
+1919 vs 968 
+
+2887 
+
+960 vs 481 959 vs 487 960 vs 959 
+
+1441 1446 1919 
+
+Secondary comparisons Sequential docetaxel vs sequential control Concurrent docetaxel vs concurrent control Sequential docetaxel vs concurrent docetaxel Hypothesized HR# 
+
+Treatment comparison 
+
+HR (95% CI)† 
+
+P value‡ 
+
+A→T→CMF + AT→CMF vs A→CMF + AC→CMF 
+
+0.86§ (0.74 to 1.00) 
+
+.051 
+
+A→T→CMF vs A→CMF AT→CMF vs AC→CMF A→T→CMF vs AT→CMF 
+
+0.79|| (0.64 to 0.98) 0.93 (0.75 to 1.14) 0.83 (0.69 to 1.00) 0.78 
+
+.035 .48 Not planned¶ 
+
+* HR = hazard ratio of an event including local, regional, or distant relapse; diagnosis of a second primary cancer, including contralateral invasive breast cancer; or death from any cause; CI = confidence interval; CMF = cyclophosphamide, methotrexate, and 5-fluorouracil; A→T→CMF = doxorubicin followed by docetaxel followed by CMF; AT→CMF = doxorubicin + docetaxel followed by CMF; A→CMF = doxorubicin followed by CMF; AC→CMF = doxorubicin + cyclophosphamide followed by CMF. † The primary comparison was stratified for number of positive lymph nodes, age at random assignment to treatment, and schedule of drug administration. ‡ Stratified log rank test. All statistical tests were two-sided. § For the primary comparison: in the hormone receptor–positive subgroup, HR = 0.86 (95% CI = 0.71 to 1.03); in the hormone receptor-negative subgroup, HR = 0.89 (95% CI = 0.69 to 1.15). || For the secondary sequential comparison: in the hormone receptor–positive subgroup, HR = 0.79 (95% CI = 0.61 to 1.05); in the hormone receptor-negative subgroup, HR = 0.80 (95% CI = 0.55 to 1.15). In the subgroup with one to three positive lymph nodes, HR = 0.85 (95% CI = 0.58 to 1.23); in the subgroup with four or more positive lymph nodes, HR = 0.76 (95% CI = 0.58 to 1.00). ¶ This comparison evaluated whether both treatment groups were equivalent, by use of the two-sided 95% confidence intervals only. # For the primary comparison, a 22% decrease in the risk of a disease-free survival event in favor of docetaxel would represent a clinically relevant difference. 
+
+126 Articles | JNCI 
+
+Vol. 100, Issue 2 | January 16, 2008 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+docetaxel treatment groups. The most common non-breast second primary malignancies were melanoma and colorectal and endometrial cancers. There were five cases of leukemia or myelodysplasia, with an incidence of 0.3% among patients receiving control treatment and 0.1% among patients receiving docetaxel. Results of the primary and secondary comparisons are detailed in Table 3 and Fig. 3. The primary comparison evaluated the incorporation of docetaxel, regardless of its schedule of administration, into anthracycline-based crossover adjuvant chemotherapy. Overall, the addition of docetaxel resulted in improved DFS of borderline statistical signiﬁcance (HR of a DFS event = 0.86, 95% CI = 0.74 to 1.00; P = .05). Secondary comparisons, however, found differences in efﬁcacy that may have been associated with the schedule of administration of adjuvant docetaxel and 
+
+according to hormone receptor status, lymph node status, and age (Table 4). Control patients overall had a 5-year DFS of 73% (95% CI = 70% to 75%). For patients in the sequential docetaxel arm, the estimated 4-year DFS was 82% (95% CI = 79% to 84%) and 5-year DFS was 78% (95% CI = 75% to 81%). Fewer than 15% of patients with one to three involved lymph nodes who were treated in the sequential docetaxel arm had relapsed at 5 years. Subgroup analyses did not show any evidence of heterogeneity of effect with regard to the efﬁcacy of docetaxel in subgroups according to age, lymph node status, or hormone receptor status. Patients with four or more positive lymph nodes and patients with hormone jnci.oxfordjournals.org 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+Fig. 3. Disease-free survival (DFS). A) KaplanMeier analyses of DFS in docetaxel-treated and control patients. Among the 2887 randomly assigned patients included in the intention-to-treat analysis, the hazard ratio of an event, stratiﬁed for lymph node status and age, was 0.86 (95% conﬁdence interval [CI] = 0.74 to 1.00; P = .051). Events, deﬁned as relapse (local, regional, or distant), diagnosis of a second primary cancer including contralateral invasive breast cancer, or death from any cause, occurred in 466 patients (24%) in the docetaxel-treated patients and 266 patients (27%) in the control patients. The estimated 5-year DFS for all docetaxel-treated patients was 76% (95% CI = 74% to 78%) and the estimated 5-year DFS for control patients was 73% (95% CI = 70% to 76%). B) Kaplan-Meier analyses for DFS by treatment arm. Among the 1441 patients analyzed in the secondary comparison of the sequential docetaxel arm vs the sequential control arm, the hazard ratio of an event was 0.79 (95% CI = 0.64 to 0.98; P = .035). CMF = cyclophosphamide, methotrexate, and 5-ﬂuorouracil; A→CMF = doxorubicin followed by CMF; AC→CMF = doxorubicin plus cyclophosphamide followed by CMF; A→T→CMF = doxorubicin followed by docetaxel followed by CMF; AT→CMF = doxorubicin plus docetaxel followed by CMF. 
+
+receptor–negative disease showed the largest absolute improvement in 5-year DFS when the sequential docetaxel arm (doxorubicin, followed by docetaxel, followed by CMF) was compared with the control arms. Patients with hormone receptor–negative tumors treated with the sequential docetaxel regimen had a 7% or more absolute increase in 5-year DFS compared with either control arm or the concurrent docetaxel arm (Table 4). At the time of this analysis, 403 of the 2887 patients had died. No statistically signiﬁcant differences in overall survival were observed between patients randomly assigned to docetaxel treatment and those assigned to control treatment (HR of death = 0.92, JNCI | Articles 127 
+
+Table 4. Kaplan-Meier estimates of 5-year disease-free survival in the Breast International Group 02–98 Randomized Trial* 5-y DFS, % (95% CI) 
+
+Group All patients Hormone receptor status Positive Negative Lymph node status 1–3 lymph nodes ≥4 lymph nodes Age, y <50 ≥50 
+
+Sequential control arm (A→CMF) (n = 481) 
+
+Concurrent control arm (AC→CMF) (n = 487) 
+
+Sequential docetaxel arm (A→T→CMF) (n = 960) 
+
+Concurrent docetaxel arm (AT→CMF) (n = 959) 
+
+Total cohort (n = 2887) 
+
+73 (69 to 77) 
+
+72 (68 to 76) 
+
+78 (75 to 81) 
+
+74 (71 to 77) 
+
+75 (73 to 76) 
+
+77 (72 to 81) 61 (51 to 69) 
+
+77 (72 to 81) 59 (49 to 67) 
+
+81 (78 to 84) 68 (62 to 74) 
+
+78 (75 to 81) 61 (54 to 67) 
+
+79 (77 to 80) 63 (59 to 66) 
+
+84 (78 to 88) 61 (54 to 67) 
+
+80 (74 to 84) 64 (57 to 70) 
+
+85 (82 to 88) 69 (64 to 73) 
+
+81 (77 to 84) 66 (61 to 70) 
+
+83 (81 to 85) 66 (63 to 68) 
+
+74 (68 to 79) 72 (65 to 77) 
+
+73 (67 to 78) 71 (64 to 77) 
+
+79 (75 to 82) 77 (72 to 81) 
+
+73 (69 to 77) 75 (70 to 79) 
+
+75 (73 to 77) 74 (72 to 77) 
+
+* DFS = disease-free survival; CI = confidence interval; CMF = cyclophosphamide, methotrexate, and 5-fluorouracil; A→CMF = doxorubicin followed by CMF; AC→CMF = doxorubicin + cyclophosphamide followed by CMF; A→T→CMF = doxorubicin followed by docetaxel followed by CMF; AT→CMF = doxorubicin + docetaxel followed by CMF. 
+
+Toxicity The percentages of patients who experienced grade 3 or greater toxic effects are presented in Table 5. Febrile neutropenia was more common among docetaxel-treated patients, occurring in 8% of patients in the sequential docetaxel arm compared with 12% of patients in the concurrent docetaxel arm. Severe anemia and thrombocytopenia were infrequent. Blood and platelet transfusion were given to 1% and 0.2% of patients, respectively, with similar transfusion requirements in control and docetaxel-treated patients. Erythropoetin was administered to 0.8% of patients. Hospitalization due to an adverse event at any time during treatment or follow-up was more frequent among docetaxel-treated patients than control patients. Treatment in the sequential docetaxel arm was 6 weeks (ie, two cycles) longer than that in the other arms, and more patients in the sequential docetaxel arm than in other arms experienced at least one grade 3–4 or severe adverse event. Among the 2865 patients who commenced protocol treatment, four died as the result of a toxic event, with an incidence of 0.10% among control patients and 0.16% among docetaxel-treated patients. One patient in the sequential control arm died of pneumonia during CMF treatment, one in the sequential docetaxel arm died of neutropenic sepsis during CMF treatment, one in the concurrent docetaxel arm died of probable sepsis during doxorubicin plus docetaxel treatment, and one in the concurrent docetaxel arm died of sepsis with cryptococcal meningitis during doxorubicin plus docetaxel treatment. Among these four deaths, two occurred in women aged 60 years or older, including one with a body weight of 117 kg and a 128 Articles | JNCI 
+
+body surface area of 2.2 m2. The protocol was subsequently amended to limit the body surface area to 2.0 m2. Two of the four deaths occurred during CMF, one in a 65-year-old woman and the other in a patient for whom cyclophosphamide had been changed to an intravenous route on days 1 and 8 because the oral regimen was poorly tolerated. Severe allergic reactions occurred occasionally in docetaxeltreated patients. Severe asthenia, myalgias, diarrhea, and skin toxicity were more frequent in docetaxel-treated patients than in control patients. Severe stomatitis was most frequent in the patients in the sequential docetaxel arm. Although severe edema was rare, edema of all grades was more common in docetaxeltreated patients (28% of patients) than in control patients (11%). Severe neurosensory toxicity was rare, although grade 1–2 neurosensory toxicity was frequent among docetaxel-treated patients and was more frequently reported among patients receiving sequential (47%) than concurrent (24%) docetaxel. Grade 3–4 cardiac function toxicity was observed in 0.5% of control patients and 0% of docetaxel-treated patients. Among women who were premenopausal at study entry, amenorrhea was reported in 58% of those in the sequential control arm, 63% of those in the concurrent control arm, 69% of those in the sequential docetaxel arm, and 61% of those in the concurrent docetaxel arm. 
+
+Discussion The BIG 02-98 trial found a borderline improvement in DFS among patients with lymph node–positive breast cancer when docetaxel was incorporated into anthracycline-based adjuvant chemotherapy. The strength of the BIG 02-98 trial is that it is a large randomized trial with robust control treatment arms of 24 weeks (6 months) duration. In a relatively high-risk lymph node–positive patient cohort, the control treatments resulted in a 5-year DFS of 73%. The BIG 02-98 trial, to our knowledge, is the first adjuvant trial to report outcomes for sequential vs concurrent anthracyclinedocetaxel therapy. Patients in each docetaxel arm received the same cumulative dose of docetaxel. Important differences in outcome may be related to doxorubicin and docetaxel scheduling. Sequential Vol. 100, Issue 2 | January 16, 2008 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+95% CI = 0.75 to 1.13). The estimated 5-year overall survival for patients randomly assigned to docetaxel treatment was 87% (95% CI = 85% to 88%). When survival for patients in the sequential docetaxel arm was compared with that of patients in the concurrent docetaxel arm, the hazard ratio for death was 0.80 (95% CI = 0.62 to 1.02). However, given the relatively small number of deaths that have occurred within 5 years, overall survival could not be adequately assessed at this analysis, and additional follow-up will be required to ascertain whether statistically signiﬁcant differences in survival will emerge. 
+
+Table 5. Patients experiencing grade 3 or higher toxicity* Toxic effect 
+
+Concurrent control arm‡, % of patients 
+
+5 
+
+4 
+
+8 
+
+12** 
+
+8 5 3 3 0.0 4 0.4 0.0 0 0.4 0.0 0.8 5 20 
+
+5 4 2 2 0.0 4 0.6 0.0 2 0.0 0.0 0.6 2 23 
+
+12 6 3 2 1.7 7 0.0 0.1 3 3.1‡‡ 0.6 3.3‡‡ 7‡‡ 32‡‡ 
+
+16 7 3 2 0.9 6 0.0 0.2 3 0.8 0.2 0.3 4 25 
+
+17 0.2 
+
+12 0 
+
+20 0.1 
+
+20 0.2 
+
+Febrile neutropenia (protocol defined¶)# Febrile neutropenia†† Infection# Anemia Thrombocytopenia Allergy Asthenia# Cardiac function Edema Diarrhea# Myalgia# Neurosensory Skin# Stomatitis# At least one treatment-related grade 3 or 4 or severe AE# Hospitalization due to AE# Toxic deaths 
+
+Sequential docetaxel arm§, % of patients 
+
+Concurrent docetaxel arm||, % of patients 
+
+* AE = adverse event; CMF = cyclophosphamide, methotrexate, and 5-fluorouracil. † Four cycles of doxorubicin followed by CMF. ‡ Four cycles of doxorubicin plus cyclophosphamide followed by CMF. § Three cycles of doxorubicin followed by three cycles of docetaxel followed by CMF. || Four cycles of doxorubicin plus docetaxel followed by CMF. ¶ Protocol-defined febrile neutropenia was grade 4 neutropenia, fever higher than 38°C with either hospitalization or antibiotics. # Statistically significantly higher in docetaxel-treated patients than control patients. ** Statistically significantly higher (P = .002) in the concurrent docetaxel arm than in the sequential docetaxel arm. †† Grade 3 or 4 neutropenia and fever higher than 38°C. ‡‡ Statistically significantly higher in the sequential docetaxel arm than in the concurrent docetaxel arm. 
+
+administration of docetaxel after doxorubicin appeared to produce better DFS than anthracycline-based adjuvant chemotherapy, but concurrent administration of these agents did not. Two randomized trials have recently reported that adjuvant treatment with docetaxel improves survival of patients with lymph node–positive breast cancer. In the Breast Cancer International Research Group (BCIRG) 001 trial (14) (Table 6), patients with lymph node–positive breast cancer were randomly assigned to adjuvant chemotherapy with six cycles of docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) or of 5-ﬂuorouracil (500 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2). The trial showed a statistically signiﬁcant improvement in DFS and overall survival for patients receiving docetaxel. The French Protocol Adjuvant dans le Cancer du Sein (PACS) 01 trial (15) (Table 6) randomly assigned patients to six cycles of 5-ﬂuorouracil, epirubicin (100 mg/m2), and cyclophosphamide (ie, FEC100) or to three cycles of FEC100 followed by three cycles of docetaxel at 100 mg/m2. Patients in the sequential docetaxel arm had statistically signiﬁcantly better DFS and overall survival than those receiving six cycles of FEC100. In the BIG 0298 trial, the results for 5-year DFS in the sequential docetaxel and sequential control arms were identical to those in the PACS 01 trial, at 78% and 73%, respectively (Table 6). The results of the BIG 02-98 trial are consistent with those of the reported adjuvant docetaxel trials (14,15). Although the BCIRG 001 trial showed a jnci.oxfordjournals.org 
+
+somewhat greater reduction in the relative risk of relapse than the PACS 01 and BIG 02-98 trials, patients in the control arm of the BCIRG 001 trial received a lower dose intensity of anthracycline than patients in the control arms of the other two trials. Among all published adjuvant taxane trials, the crossover anthracycline-CMF strategy used in the BIG 02-98 trial was the only control treatment that has been shown to be superior to classic CMF (16). The higher DFS observed in the sequential docetaxel arm than in the concurrent docetaxel arm in the BIG 02-98 trial may have several possible explanations. Although both arms had the same cumulative dose of docetaxel, the dose per cycle of both doxorubicin and docetaxel were higher in the sequential docetaxel arm than in the concurrent docetaxel arm. The higher dose of docetaxel in the sequential docetaxel arm (100 mg/m2) may be superior to the lower dose in the concurrent docetaxel arm (75 mg/m2). In advanced breast cancer patients, a phase III trial evaluating different doses of docetaxel found evidence of a doseresponse relationship (17). In the BIG 02-98 trial, the cumulative dose of doxorubicin (225 mg/m2) in the sequential docetaxel arm was higher than that in the concurrent docetaxel arm (200 mg/m2). The sequential docetaxel treatment was also 6 weeks (two cycles) longer than the other treatment arms, which were each 24 weeks long. Three decades ago, Norton and Simon (18) reported that the growth of solid neoplasms could be described by Gompertzian JNCI | Articles 129 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+Sequential control arm†, % of patients 
+
+Table 6. Adjuvant breast cancer trials testing the efficacy of docetaxel* Lymph node status, % of patients 
+
+Docetaxel arm 
+
+Control arm 
+
+Trial 
+
+0 LN 
+
+1–3 LN 
+
+≥4 LN 
+
+ECOG 2197 US Oncology BCIRG 001 PACS 01 BIG 02-98 Sequential arms Concurrent arms 
+
+65 47 0 0 
+
+35 41 62 62 
+
+0 12 38 38 
+
+AT × 4 TC × 4 TAC × 6 FEC × 3→T × 3 
+
+87 86 75 78 
+
+0 0 
+
+54 54 
+
+46 46 
+
+A × 3→T × 3→CMF × 3 AT × 4→CMF × 3 
+
+78 74 
+
+Regimen 
+
+DFS†, % 
+
+Regimen 
+
+DFS, % 
+
+HR (95% CI) 
+
+AC × 4 AC × 4 FAC × 6 FEC × 6 
+
+87 80 68 73 
+
+1.08 (0.89 to 1.31) 0.67 (0.50 to 0.94) 0.72 (0.59 to 0.88) 0.82 (0.69 to 0.99) 
+
+A × 4→CMF × 3 AC × 4→CMF × 3 
+
+73 72 
+
+0.79 (0.64 to 0.98) 0.93 (0.75 to 1.14) 
+
+* DFS = disease-free survival; HR = hazard ratio; CI = confidence interval; LN = positive lymph node(s); ECOG = Eastern Cooperative Oncology Group; AT × 4 = four cycles of doxorubicin + docetaxel; AC × 4 = four cycles of doxorubicin + cyclophosphamide; TC × 4 = four cycles of docetaxel + cyclophosphamide; BCIRG = Breast Cancer International Research Group; TAC × 6 = six cycles of docetaxel + doxorubicin + cyclophosphamide; FAC × 6 = six cycles of 5-fluorouracil + doxorubicin + cyclophosphamide; PACS = Protocol Adjuvant dans le Cancer du Sein; FEC × 3→T × 3 = three cycles of 5-fluorouracil + epirubicin + cyclophosphamide followed by three cycles of docetaxel; FEC × 6 = six cycles of 5-fluorouracil + epirubicin + cyclophosphamide; BIG = Breast International Group; CMF = cyclophosphamide, methotrexate, and 5-fluorouracil; A × 3→T × 3→CMF × 3 = three cycles of doxorubicin followed by three cycles of docetaxel followed by three cycles of CMF; A × 4→CMF × 3 = four cycles of doxorubicin followed by three cycles of CMF; AT × 4→CMF × 3 = four cycles of doxorubicin + docetaxel followed by three cycles of CMF; AC × 4→CMF × 3 = four cycles of doxorubicin + cyclophosphamide followed by three cycles of CMF. † DFS reported is 5-year DFS for the listed trials with the exception of ECOG 2197 trial for which 4-year DFS is reported. 
+
+130 Articles | JNCI 
+
+phosphamide followed by CMF). This result may reﬂect the fact that a reduction in the dose of each drug is required to safely administer doxorubicin and docetaxel concurrently. Other trials have also reported similar results from concurrent administration of doxorubicin and docetaxel compared with concurrent doxorubicin and cyclophosphamide; these trials include a phase III preoperative trial conducted by the Anglo-Celtic Group (23) and a phase III adjuvant trial conducted by the Eastern Cooperative Oncology Group among patients with zero to three involved axillary lymph nodes (24). The Eastern Cooperative Oncology Group trial compared four cycles of doxorubicin (60 mg/m2) combined with docetaxel (60 mg/m2) with four cycles of doxorubicin (60 mg/m2) plus cyclophosphamide (600 mg/m2), and it is plausible that the reduced dose of docetaxel in the combination treatment in this trial may have compromised its efﬁcacy (Table 6). Interestingly, a randomized trial of adjuvant therapy conducted by US Oncology among patients with predominantly zero to three positive lymph nodes reported improved DFS when docetaxel (75 mg/m2) was substituted for doxorubicin (60 mg/m2) in combination with cyclophosphamide (600 mg/m2). In that trial, the 5-year DFS for four cycles of docetaxel plus cyclophosphamide was 86% compared with 80% for doxorubicin plus cyclophosphamide (HR = 0.67, 95% CI = 0.50 to 0.94; P = .015) (25). In the BIG 02-98 trial, acute toxic effects, including severe adverse events and hospitalization, were more frequent for patients randomly assigned to docetaxel arms than to control arms. Although treatment-related mortality was low, 20% of patients in the docetaxel treatment group were hospitalized because of an adverse event. One-third of women treated with the sequential docetaxel regimen experienced at least one treatment-related severe adverse event, although many women with early breast cancer will accept acute toxic effects for a small chance of improved survival (26,27). However, late or persistent toxic effects are becoming more important because an increasing proportion of patients remain disease free after treatment for early breast cancer. The docetaxel arms in the BIG 02-98 trial Vol. 100, Issue 2 | January 16, 2008 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+curves, in which the rate of regrowth of a tumor increases as the tumor shrinks in response to therapy. The Norton–Simon hypothesis (19) predicted that this resistance might be overcome by switching from initial chemotherapy agents to new agents at the maximally tolerated dose. In the BIG 02-98 trial, the better results observed in the sequential docetaxel arm than in the concurrent docetaxel arm are consistent with this hypothesis; however, design issues (ie, dose, schedule, or treatment duration) preclude deﬁnitive conclusions as to which factors are most important. Results of other adjuvant trials, such as BCIRG 005 and NSABP B-30 trials, that are testing sequential and concurrent anthracycline-docetaxel regimens, have not yet been reported. Previous studies by the German Breast Group in the neoadjuvant setting (20) and by Grupo Español de Investigacion en Cancer de Mama in metastatic disease (21) showed higher complete response rates with sequential anthracycline–docetaxel scheduling than with concurrent scheduling and thus are consistent with our results. Sequential anthracycline–docetaxel–CMF adjuvant chemotherapy treatment provides exposure to drugs that may be effective in eradicating occult micrometastases, even if tumor cells are resistant to some of the drugs administered. Trials in anthracycline-resistant advanced breast cancer show that approximately half of patients with such disease will respond to docetaxel (7,8). Crossover treatment to CMF can increase the likelihood of a complete response after doxorubicin. In a trial conducted in patients with measurable metastatic breast cancer, patients initially received four cycles of singleagent doxorubicin (75 mg/m2) followed by a crossover to four cycles of CMF. Among 41 evaluable patients who were predominantly treatment naive, the complete response rate was 17% after doxorubicin, and it increased to 30% after completion of CMF (22). In the BIG 02-98 trial, women in the concurrent docetaxel arm (doxorubicin plus docetaxel followed by CMF) showed no statistically signiﬁcant improvement in outcome compared with women in the concurrent control arm (doxorubicin plus cyclo- 
+
+jnci.oxfordjournals.org 
+
+References 1. Bonadonna G, Brusamolino E, Valagussa P, et al. Combination chemotherapy as an adjuvant treatment in operable breast cancer. N Engl J Med. 1976;294:405–410. 2. Rossi A, Bonadonna G, Valagussa P, Veronesi U. Multimodal treatment in operable breast cancer: ﬁve year results of the CMF program. Br Med J. 1981;282:1427–1431. 3. Tancini G, Bonadonna G, Valagussa P, Marchini S, Veronesi U. Adjuvant CMF in breast cancer: comparative 5-year results of 12 versus 6 cycles. J Clin Oncol. 1983;1:2–10. 4. Fisher B, Brown AM, Dimitrov NV, et al. Two months of doxorubicincyclophosphamide with and without interval reinduction therapy with 6 months of cyclophosphamide, methotrexate, and ﬂuorouracil in positivenode breast cancer patients with tamoxifen non-responsive tumors: results from the National Surgical Adjuvant Breast and Bowel Project B-15. J Clin Oncol. 1990;8:1483–1496. 5. Buzzoni R, Bonadonna G, Valagussa P, Zambetti M. Adjuvant chemotherapy with doxorubicin plus cyclophosphamide, methotrexate, and ﬂuorouracil in the treatment of resectable breast cancer with more than three positive axillary nodes. J Clin Oncol. 1991;9:2134–2140. 6. Engelsman E, Klijn JC, Rubens RD, et al. Classical CMF versus a 3-weekly intravenous CMF schedule in postmenopausal patients with advanced breast cancer: an EORTC Breast Cancer Cooperative Group phase III trial. Eur J Cancer. 1991;27:966–970. 7. Ravdin PM, Burris HA, Cook G, et al. Phase II trial of docetaxel in advanced anthracycline-resistant or anthracenedione-resistant breast cancer. J Clin Oncol. 1995;13:2879–2885. 8. Valero V, Holmes F, Walters RS, et al. Phase II trial of docetaxel: a new, highly effective antineoplastic agent in the management of patients with anthracycline-resistant metastatic breast cancer. J Clin Oncol. 1995;13: 2886–2894. 9. Chan S, Friedrichs K, Noel D, et al. Prospective randomized trial of docetaxel versus doxorubicin in patients with metastatic breast cancer. J Clin Oncol. 1999;17:2341–2354. 10. Misset JL, Dieras V, Griua G, et al. Dose ﬁnding study of docetaxel and doxorubicin in ﬁrst line treatment of patients with metastatic breast cancer. Ann Oncol. 1999;10:553–560. 11. Di Leo A, Crown J, Nogaret JM, et al. A feasibility study evaluating docetaxel-based sequential and combination regimens in the adjuvant therapy of node-positive breast cancer. Ann Oncol. 2000;11:169–175. 12. Pocock SJ, Simon R. Sequential treatment assignment with balancing for prognostic factors in the controlled clinical trial. Biometrics. 1975;31: 103–115. 13. Chi GYH. Multiple testings: multiple comparisons and multiple endpoints. Drug Inf J. 1998;32:1347–1362. 14. Martin M, Pienkowski T, Mackey J, et al. Adjuvant docetaxel for nodepositive breast cancer. N Engl J Med. 2005;352:2302–2313. 15. Roche H, Fumoleau P, Spielman M, et al. Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node positive breast cancer patients: the FNCLCC PACS 01 Trial. J Clin Oncol. 2006;24: 5664–5671. 16. Poole CJ, Earl HM, Hiller L, et al. Epirubicin and cyclophosphamide, methotrexate and ﬂuorouracil as adjuvant therapy for early breast cancer. N Engl J Med. 2006;355:1851–1862. 17. Harvey V, Mouridsen H, Semiglazov V, et al. Phase III trial comparing three doses of docetaxel for second line treatment of advanced breast cancer. J Clin Oncol. 2006;24:4963–4970. 18. Norton L, Simon R. Predicting the course of Gompertzian growth. Nature. 1976;264:542–545. 19. Norton L, Simon R. The Norton-Simon hypothesis revisited. Cancer Treat Rep. 1986;70:163–169. 20. Von Minckwitz G, Raab G, Caputo A, et al. Doxorubicin with cyclophosphamide followed by docetaxel every 21 days compared with doxorubicin and docetaxel every 14 days as preoperative treatment in operable breast cancer: the GEPARDUO study of the German Breast Group. J Clin Oncol. 2005;23:2676–2685. 21. Alba E, Martin M, Ramos M, et al. Multicenter randomized trial comparing sequential with concomitant administration of doxorubicin and JNCI | Articles 131 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+had the advantage of limiting the cumulative dose of doxorubicin, whereas the more effective adjuvant regimens without taxanes have relatively high cumulative doses of anthracyline, which increases the risks for cardiac toxic effects and leukemia. In the BIG 02-98 trial, overall 0.8% of patients in control arms experienced grade 3–4 cardiac functional toxic effects, leukemia, or myelodysplasia compared with 0.1% of patients in the docetaxel treatment arms. Neurotoxicity may persist after therapy, particularly if it is severe. Grade 3 neurosensory toxicity was rare (<1%) among docetaxel-treated patients in the BIG 02-98 trial, which appears to be less frequent than reported with patients receiving dose-dense paclitaxel (4%) in the Cancer and Leukemia Group B trial 9741 and with patients in the weekly paclitaxel arm (8%) in the Intergroup E1199 trial (28,29). Although sequential docetaxel treatment in the BIG 02-98 trial was a relatively prolonged regimen compared with the docetaxel, doxorubicin, and cyclophosphamide (TAC) or dose-dense paclitaxel regimen, it has the potential advantages of minimizing the cumulative anthracycline dose, a low risk of severe neurotoxicity, and reducing the need for growth factors and transfusions compared with the other regimens. The estimated 4-year DFS of 82% for the sequential docetaxel arm in the BIG 02-98 trial appears similar to the estimated 4-year DFS of 82% reported by Citron et al. (28) for dosedense anthracyline-paclitaxel therapy. The BIG 02-98 trial has potential limitations. The analysis was performed after a median follow-up of at least 5 years but with less than two-thirds of the number of DFS events originally planned. Therefore, the study had reduced power to address the questions it was designed to answer. The results favoring the sequential docetaxel arm may have arisen by chance. Survival could not be adequately assessed at the time of this analysis. Analysis by HER2 status was not done but, in the future, such an analysis may provide additional insights into the trial results. Lower-than-anticipated event rates, as observed in the BIG 0298 trial, have been observed in some other recent adjuvant breast trials (24,29) and indicate how outcomes for patients with lymph node–positive breast cancer have improved over time. Among women with one to three positive lymph nodes in the BIG 02-98 trial who were randomly assigned to the sequential docetaxel arm, 85% were disease free at 5 years. Given that 76% of patients in the trial had hormone receptor–positive disease, endocrine therapy contributed to the favorable outcome. Patients with endocrineresponsive disease remain at risk for late events, which will be assessed during the protocol-speciﬁed 10-year follow-up. Translational studies in the BIG 02-98 trial may help to deﬁne the relationship between pathologic and molecular markers and a beneﬁt from adjuvant docetaxel. Incorporating docetaxel into anthracycline-based adjuvant therapy for patients with lymph node–positive breast cancer resulted in a borderline improvement in DFS. However, important differences may be related to doxorubicin and docetaxel scheduling, with sequential, but not concurrent, administration appearing to produce better DFS than anthracycline-based adjuvant chemotherapy. With optimal adjuvant therapy, most patients with lymph node–positive breast cancer can now look forward to long-term survival. 
+
+Funding National Health and Medical Research Council (project grants 100925 and 351164 to Australian New Zealand Breast Cancer Trials Group); Royal Australasian College of Physicians (Kincaid-Smith Fellowship to P. F.); US National Cancer Institute (CA075362 to R. G.). 
+
+Notes A. Balil died on 8th March 2007. P. Francis and M. Piccart-Gebhart have received honoraria of less than $10 000 from sanoﬁ-aventis. J. Crown has received research support and honoraria from the sanoﬁ-aventis speaker’s bureau. A. Di Leo has been a speaker in symposia sponsored by sanoﬁ-aventis, participated in advisory board meetings of sanoﬁ-aventis, and received a research grant from sanoﬁ-aventis. M. Buyse owns stock in the IDDI, a privately held company offering data management and statistical consulting. J. Gutiérrez is a member of the speaker’s bureau for Roche. We thank the patients, physicians, nurses, and data managers who participated in BIG 02-98 and the staff at the central ofﬁces of the cooperative groups. The following cooperative groups participated: Breast European Adjuvant Studies Team, International Breast Cancer Study Group (including Australian New Zealand Breast Cancer Trials Group), Irish Clinical Oncology Research Group, Grupo Español de Investigacion en Cancer de Mama, Danish Breast Cancer Cooperative Group, Swedish Breast Cancer Group, Austrian Breast and Colorectal Cancer Study Group, and Grupo Oncologico Cooperative Chileno De Investigacion. The study design, data collection, data analysis and interpretation, and manuscript writing and submission were performed by the authors. The following participated in the BIG 02-98 Collaborative Group Study chairs: J. Crown, P. Francis, M. Piccart-Gebhart. Steering committee: M. Andersson, A. Balil, B. Boussard, M. Buyse, B. Bendahmane, J. Crown, A. Di Leo, S. Dolci, P. Francis, R. Gelber, 132 Articles | JNCI 
+
+J. Gutiérrez, R. Jakesz, S. Jamin, B. Nordenskjöld, M. Piccart-Gebhart, C. Straehle. Independent data monitoring committee: K. Pritchard, P. Ravdin, L. J. Wei. IDDI statistical centre: M. Buyse, E. Quinaux. BIG Coordination: C. Straehle. Austrian Breast and Colorectal Cancer Study Group: Austria—R. Jakesz, G. Altorjai, T. Bachleitner, R. Bartsch, P. Dubsky, F. Fitzal, M. Fridrik, M. Gnant, R. Greil, D. Kandioler, H. Matzinger, C. Menzel, B. Mlineritsch, U. Pluschnig, A. Reichenauer, S. Roka, H. Samonigg, S. Schoppmann, E. Sporn, H. Spoula, G. Steger, M. Stierer, S. Taucher, K. Tögel, C Wenzel, V. Wette. Breast European Adjuvant Studies Team: Breast Ofﬁce Jules Bordet Brussels—M. Piccart-Gebhart, S. Dolci, S. Jamin, M. Vincente, A. Di Leo, F. Ferreira, R. Giuliani, C. Bernard, E. Azambuja, V. D’Hondt, J-Y Leroy, L. Punzalan, J. Helwin, D. Antoine; Austria—C. Dittrich, G. Gastl, E. Kubista, P, Sevelda; Belgium—M. Piccart, F. Bastin, A. Bols, M. Borms, V. Cocquyt, J. Demol, L. Dirix, P. Gobert, D. Becquart, J.-P. Kains, J. Michel, R. Paridaens, C. Van Steenlandt, V. Richard, A. Tagnon, S. Brahms, T. Velu, L. Marcelis, H. Bondue, D. Verhoeven, J. Vermorken; Brazil—O. Feher, S. Cabral Filho, G. Amorim, G. Schwartsmann, J. Vinholes; Czech Republic—K. Petrakova, L. Petruzelka; Germany—C. Oberhoff, H.-G. Meerpohl, G. Gitsch; Israel— R. Epelbaum, R. Isacson, A. Shani, B. Uziely; Italy—M. Nardi, E. Galligioni, A. Santoro; Portugal—C. De Oliveira, I. Furtado, F. Pimentel; South Africa— L. Goedhals, B Leon Rapoport, C. Slabber; United Kingdom—C. Mulatero, C. Topham, J. Clarke, C. Wilson; Slovak Republic—D. Sorkovska, B. Lubomir. Danish Breast Cancer Cooperative Group: Denmark—Department of Oncology, Rigshospitalet University Hospital: M. Andersson; Aalborg Hospital, Aarhus University: M. Ewertz; Roskilde Hospital: P Grundtvig Sorensen; Vejle Hospital: E. Jakobseen; Herlev University Hospital: C. Kamby; Naestved Hospital: P. Phillip; Odense University Hospital: S. Cold; Soenderborg Hospital: E. Lindegaard Madsen; Esbjerg Hospital: B. Bjerregaard. Grupo Español de Investigacion en Cancer de Mama: Spain—E. Adrover, J. Alés, A. Arcusa, A. Balil, A. Barnadas, A. Fernández, C. Jara, J. Lizón, A. Lluch, A. Lozano, E. Mahillo, M. Margeli, M. Muñoz, A. Oltra, C. Picó, A. Rizo, P. Sánchez-Rovira. Grupo Oncologico Cooperative Chileno De Investigacion: Chile—Clinica Las Condes, Santiago: J. Gutiérrez; Hospital San Juan de Dios, Santiago: K. Pena; Instituto nacional del Cancer, Santiago: R. Torres; Hospital San Borja, Santiago: C. Del Castillo; Hospital JJ Aguirre, Santiago: M. Fodor; Fundacion Arturo Lopez, Santiago: A. Majlis; Clinica Santa Maria, Santiago: L. Orlandi. International Breast Cancer Study Group: Coordinating centre (Bern)— M. Castiglione-Gertsch, A. Hiltbrunner, G. Egli, M. Rabaglio, B. Ruepp, R. Studer, R. Maibach, M. Bachmann; Statistical centre (Boston)—R. Gelber, K. Price; Australian New Zealand Breast Cancer Trials Group Operations Ofﬁce, Newcastle—J. Forbes, A. Coates, D. Lindsay, H. Badger, L. Boyes, S. McIlvenie, K. Hancock; National Health and Medical Research Council Clinical Trials Centre, Sydney—J. Simes; Australia—Peter MacCallum Cancer Centre, Melbourne: P. Francis; Bendigo Hospital: E. Abdi, R. Blum; Royal Melbourne Hospital and Western Hospital, Footscray: M. Green; Royal Perth Hospital: E. Bayliss; Royal Prince Alfred Hospital, Sydney: J. Beith; Newcastle Mater Hospital and Lingard Private Hospital: A. Bonaventura; Sir Charles Gairdiner Hospital, Perth: M. Byrne; Austin Health, Melbourne: M. Chipman, P. Mitchell, S. White; Canberra Hospital: P. Craft; Box Hill Hospital and Maroondah Hospital: J. Chirgwin; St George Hospital, Kogarah: P. De Souza; Royal Hobart Hospital, Tasmania: R. Lowenthal; Prince of Wales Hospital, Sydney: M. Friedlander; Ashford Cancer Centre: D. Kotasek; Andrew Love Cancer Centre, Geelong: R. McLennan; Liverpool Hospital, Sydney: E. Moylan; Royal Adelaide Hospital: I. Olver. S. Selva-Nayagam; Queen Elizabeth Hospital, Woodville: K. Pittman; Monash Medical Centre: G. Richardson, M. White; Alfred Hospital: M. Schwartz; St Vincent’s Hospital Melbourne: R. Snyder; Princess Alexandra Hospital, Brisbane: E. Walpole; Mount Hospital Perth: G. Van Hazel; Royal Brisbane and Women’s Hospital: R. Abraham, D. Wyld; Border Medical Oncology, Albury: C. Underhill; Frankston Hospital: V. Ganju; Flinders Medical Centre, South Australia: B. Koczwara; St Andrew’s Hospital, Adelaide: T. Malden; Port Macquarie Base Hospital: S. Begbie; St John Of God Hospital, Subiaco: D. Ransom; Concord Repatriation General Hospital: A. Sullivan; Royal North Shore Hospital, St Leonards: D. Bell; Westmead Hospital: N. Wilcken, New Zealand— Auckland Hospital: V. Harvey; Dunedin Hospital: D. Perez; Christchurch Vol. 100, Issue 2 | January 16, 2008 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+docetaxel as ﬁrst-line treatment of metastatic breast cancer: a Spanish Breast Cancer Research Group (GEICAM-9903) Phase III Study. J Clin Oncol. 2004;22:2587–2593. 22. Zambetti M, Giacobone A, Terenziani M, et al. Sequential adriamycin and CMF in metastatic breast cancer. Oncologist. 1997;2:223–227. 23. Evans TRJ, Yellowlees A, Foster E, et al. Phase III randomized trial of doxorubicin and docetaxel versus doxorubicin and cyclophosphamide as primary medical therapy in women with breast cancer: an Anglo-Celtic Cooperative Oncology Group Study. J Clin Oncol. 2005;23:2988–2995. 24. Goldstein LJ, O’Neill A, Sparano J, et al. E2197: Phase III AT (doxorubicin/docetaxel) vs AC (doxorubicin/cyclophosphamide) in the adjuvant treatment of node positive and high risk node negative breast cancer. J Clin Oncol. 2005;23(16S):7s. 25. Jones SE, Savin MA, Holmes FA, et al. Phase III trial comparing doxorubicin plus cyclophosphamide with docetaxel plus cyclophosphamide as adjuvant therapy for operable breast cancer. J Clin Oncol. 2006;24: 5381–5387. 26. Duric V, Francis P, Simard-Lebrun J, et al. Preferences for adjuvant chemotherapy in early breast cancer: the beneﬁts needed to make extended treatment with docetaxel, doxorubicin, and CMF worthwhile. J Clin Oncol. 2007;25(18S):329s. 27. Duric V, Stockler M. Patients’ preferences for adjuvant chemotherapy in early breast cancer: a review of what makes it worthwhile. Lancet Oncol. 2001;2(11):691–697. 28. Citron M, Berry D, Cirrincione C, et al. Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: ﬁrst report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin Oncol. 2003;21:1431–1439. 29. Sparano JA, Wang M, Martino S, et al. Phase III study of doxorubicincyclophosphamide followed by paclitaxel or docetaxel given every 3 weeks or weekly in patients with axillary node-positive or high risk node negative breast cancer: results of North American Breast Cancer Intergroup Trial E1199. Paper presented at: The 28th San Antonio Breast Cancer Symposium; December 8, 2005; San Antonio, TX. Abstract 48. 
+
+Hospital: M. Jeffery; Palmerston North Hospital: S. Allan. Hungary—National Institute of Oncology, Budapest: I. Lang. Italy—Istituto Europeo di Oncologia, Milan: A. Goldhirsch; Ospedale Infermi, Rimini: A. Ravaioli; Centro di Riferimento Oncologico, Aviano: A. Veronesi. Slovenia—Institute of Oncology, Ljubljana: T. Cufer, South Africa—Sandton Oncology Centre, Johannesburg: D. Vorobiof; Groote Schuur Hospital and University of Cape Town, Cape Town: E. Murray. Spain—Hospital Universitario “12 de Octubre”, Madrid: H. Cortes-Funes. Sweden—Mölndal Hospital, Mölndal: S. Holmberg; Sahlgrenska University Hospital, Göteborg: E. Ekman; Boras Hospital, Boras: J.-H. Svensson; Kungälvs Hospital, Kungälv: B. Lindberg; Varberg Hospital, Varberg: L.-G. Niklasson; Skaraborgs Hospital, Skövde: A. Nissborg, Switzerland—Swiss Group for Clinical Cancer Research: Kantonsspital St. Gallen, St Gallen: B. Thürlimann; Universitätsspital Zürich, Zürich: B. Pestalozzi; Kantonsspital Aarau, Aarau: A. Schönenberger; Inselspital, Bern: M. Fey; Centre Pluridisciplinaire d’Oncologie, Lausanne: L. Perey; University Hospital Basel, Basel: R. Herrmann; Spital Thun-Simmental AG, Thun: J. M. Lüthi; Institute of Oncology of Southern Switzerland, Bellinzona: O. Pagani; Rätisches Kantons-und Regionalspital, Chur: F. Egli; Hôpital 
+
+Cantonal Universitaire, Geneva: H. Bonnefoi; Brust-Zentrum, Zürich: C. Rageth; Onkologische Praxis, Rheinfelden: K. Beretta. Irish Clinical Oncology Research Group: Ireland—J. Crown, E. Egan, J. McCaffrey, L. Grogan, J. Kennedy, P. Calvert, G. Mullins, M. Jones, B. Moulton. Swedish Breast Cancer Group: Sweden—Coordinating center, Universitettsjukhuset, Linkoping: G. Olsson; Universitetssjukhuset, Linkoping: B. Nordenskjöld; Norrlands universitetssjukhus Umeas: N. Bengtsson; Akademiska sjukhuset, Uppsala: P. Nygren; Centrallasarattet, Vasteras: J. Hansen; Lanssjukhuset, Gavle: P. Edlund; Centralsjukhuset, Karlstad: L. Malmberg; Malarsjukhuset, Eskilstuna: J.-E. Westlin; Universitetssjukhuset, Malmo: L. Tennvall-Nittby; Sjukhuset, Sundsvall: L. Carsson; Radiumhemmet, Stockholm: J. Bergh. Trial pathologists: D. Larsimont, G. Viale, B. Gusterson. sanoﬁ-aventis staff: B. Boussard, B. Bendahmane, J.-F. Aussel, S. Olsen, Y. Chen. Manuscript received May 16, 2007; revised September 21, 2007; accepted November 27, 2007. 
+
+Downloaded from http://jnci.oxfordjournals.org/ by guest on May 11, 2014 
+
+jnci.oxfordjournals.org 
+
+JNCI | Articles 133 
+
+ 

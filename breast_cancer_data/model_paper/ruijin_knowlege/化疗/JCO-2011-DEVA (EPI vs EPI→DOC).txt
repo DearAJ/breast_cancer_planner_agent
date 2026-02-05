@@ -1,0 +1,715 @@
+VOLUME 
+
+29 
+
+䡠 
+
+NUMBER 
+
+24 
+
+䡠 
+
+AUGUST 
+
+20 
+
+2011 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Randomized, Phase III Trial of Sequential Epirubicin and Docetaxel Versus Epirubicin Alone in Postmenopausal Patients With Node-Positive Breast Cancer R. Charles Coombes, Marina W.K. Thomas, Justine A. Reise, Katie Wilkinson, Imperial College London; Derek Cooper, King’s College London, London; Judith M. Bliss, Lucy S. Kilburn, The Institute of Cancer Research, Sutton; Robert E. Coleman, Weston Park Hospital, Sheffield; Andrew Wardley, Christie Hospital, Manchester, United Kingdom; Marc Espie, Michel Marty, Hôpital SaintLouis, Paris; Nicole Tubiana-Mathieu, Centre Hospitalier Universitaire de Limoges, Limoges, France; Frans Erdkamp, Orbis Medisch Centrum, Sittard; Jacob Wals, Atrium Medisch Centrum, Brunssum; Marinus O. den Boer, Laurentius Ziekenhuis, Roermond; Pierre Hupperets, University Hospital Maastricht, Maastricht, the Netherlands; Alejandro Tres, Médica Hospital Clinico Universitario Lozano Blesa, Zaragoza, Spain. Submitted September 21, 2010; accepted May 31, 2011; published online ahead of print at www.jco.org on July 18, 2011. Written on behalf of the Docetaxel Epirubicin Adjuvant (DEVA) trialists. 
+
+R. Charles Coombes, Judith M. Bliss, Marc Espie, Frans Erdkamp, Jacob Wals, Alejandro Tres, Michel Marty, Robert E. Coleman, Nicole Tubiana-Mathieu, Marinus O. den Boer, Andrew Wardley, Lucy S. Kilburn, Derek Cooper, Marina W.K. Thomas, Justine A. Reise, Katie Wilkinson, and Pierre Hupperets A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The Docetaxel Epirubicin Adjuvant (DEVA) trial evaluated the efficacy and toxicity of incorporating docetaxel after epirubicin to create a sequential anthracycline-taxane regimen in early breast cancer. Patients and Methods After complete tumor excision, postmenopausal women with node-positive early breast cancer were randomly assigned to either epirubicin 50 mg/m2 on days 1 and 8 every 4 weeks for six cycles (EPI ⫻ 6) or three cycles of epirubicin 50 mg/m2 on days 1 and 8 every 4 weeks followed by three cycles of docetaxel 100 mg/m2 on day 1 every 3 weeks (EPI-DOC). A subset of patients also participated in a quality of life (QOL) study. The primary end point was disease-free survival (DFS). Results From 1997 to 2005, 803 patients entered DEVA (EPI ⫻ 6, n ⫽ 397; EPI-DOC, n ⫽ 406). At a median follow-up of 64.7 months (interquartile range, 45.2 to 84.4 months), 198 DFS events had been reported (EPI ⫻ 6, n ⫽ 114; EPI-DOC, n ⫽ 84). The 5-year DFS rates were 72.7% (95% CI, 68.0% to 77.3%) for epirubicin alone and 79.5% (95% CI, 75.2% to 83.8%) for epirubicin followed by docetaxel; evidence of improvement in DFS was observed with EPI-DOC (hazard ratio [HR], 0.68; 95% CI, 0.52 to 0.91; P ⫽ .008). One hundred twenty-seven patients have died (EPI ⫻ 6, n ⫽ 75; EPI-DOC, n ⫽ 52); a reduction in deaths was observed with EPI-DOC (HR, 0.66; 95% CI, 0.46 to 0.94; P ⫽ .02). The 5-year overall survival rates were 81.8% (95% CI, 77.7% to 85.9%) for epirubicin and 88.9% (95% CI, 85.5% to 92.2%) for epirubicin followed by docetaxel. Assessment of toxicity and QOL showed that EPI-DOC was associated with greater toxicity but with no difference in QOL between arms during follow-up. 
+
+Supported by unrestricted educational Grants No. P11958 from Pfizer and No. PX0313 from sanofi-aventis and by sanofi-aventis for docetaxel provision. 
+
+Conclusion These results suggest, within a relatively small trial, that substitution of docetaxel for epirubicin for the last three cycles of chemotherapy results in improved outcome in postmenopausal women with node-positive, early breast cancer compared with six cycles of epirubicin monotherapy. 
+
+Neither Pfizer nor sanofi-aventis had a role in trial design, data collection, statistical analysis, or interpretation or writing of the report. 
+
+J Clin Oncol 29:3247-3254. © 2011 by American Society of Clinical Oncology 
+
+Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical Trials repository link available on JCO.org. Corresponding author: R. Charles Coombes, MD, PhD, Division of Cancer, Imperial College London, 8th Floor, Medical Research Council Cyclotron Building, Hammersmith Hospital Campus, London, W12 0NN, United Kingdom; e-mail: c.coombes@imperial.ac.uk. © 2011 by American Society of Clinical Oncology 0732-183X/11/2924-3247/$20.00 DOI: 10.1200/JCO.2010.32.7254 
+
+INTRODUCTION 
+
+Breast cancer is the most common cancer in women in the developed world. Adjuvant systemic therapy has been shown to improve survival in patients with localized early breast cancer. In 1998, when the Docetaxel Epirubicin Adjuvant (DEVA) trial was being developed, the global evidence regarding adjuvant cytotoxic chemotherapy had been summarized by the Early Breast Cancer Trialists’ Collaborative Group,1 including a comparison of anthracycline-containing chemotherapy with regimens of cyclophosphamide, methotrexate, fluorouracil (CMF) showing that, overall, the addition of an anthracycline improved both disease-free survival 
+
+(DFS) and overall survival (OS). At this time, a concern existed that the adverse events of anthracycline-containing chemotherapy in postmenopausal patients could outweigh the benefits. We had previously conducted a study (ie, EpirubicinPlusTamoxifenVersusTamoxifenAlone,orEpiTam) in postmenopausal patients with early breast cancer2 to test whether the addition of single-agent anthracycline to tamoxifen could improve DFS when compared with tamoxifen alone for 4 years. The results supported this hypothesis, with a 28% relative improvement in DFS with epirubicin (hazard ratio [HR], 0.72; 95% CI, 0.54 to 0.96; P ⫽ .02) that suggested that anthracycline therapy was of benefit in postmenopausal patients with early breast cancer. © 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3247 
+
+Coombes et al 
+
+At the time that the Epi-Tam trial was reported, taxanes had emerged as active cytotoxics in metastatic breast cancer, particularly in patients resistant to anthracyclines.3 Concern about adverse effects was raised again, however, by clinicians reluctant to subject patients to potential neurologic adverse effects associated with taxanes. In 2000, the National Institutes of Health consensus panel concluded that the evidence for taxanes in node-positive patients was inconclusive4 and called for additional research. DEVA was established against this background to compare single-agent anthracycline chemotherapy with a sequential anthracycline-taxane regimen. Some issues concerning tamoxifen use were debated in the late 1990s. Early Breast Cancer Trialists’ Collaborative Group had concluded that a small but significant benefit of tamoxifen had been reported in patients with estrogen receptor (ER) –negative tumors5; however, there was uncertainty about the timing of tamoxifen because of a negative interaction between cytotoxic chemotherapy and tamoxifen6 and because of an increase in thromboembolic events in patients who had received concurrent chemotherapy and tamoxifen.7 The primary aim of DEVA, however, was to evaluate the efficacy of sequential chemotherapy with epirubicin followed by docetaxel (ie, EPI-DOC) compared with epirubicin alone (EPI ⫻ 6) in postmenopausal patients with node-positive breast cancer. PATIENTS AND METHODS Study Design DEVA is a multicenter, phase III, randomized controlled trial with partial 2 ⫻ 2 factorial design. Patients were randomly assigned in a 1:1 ratio to EPI ⫻ 6 or EPI-DOC. An optional second random assignment of the timing of tamoxifen treatment commencing either concurrently or sequentially with chemotherapy was carried out in a subset of 13 centers. This will be reported separately. Initially, tamoxifen was prescribed irrespective of ER/progesterone receptor status, and centers that opted out of the tamoxifen random assignment were to administer tamoxifen concurrently. The protocol was amended in 2001 so that tamoxifen could be omitted for ER/progesterone receptor– negative patients and in 2007 to allow use of aromatase inhibitors after positive results in aromatase inhibitor trials.8,9 Patients This study was undertaken in 36 centers in five European countries. Eligible patients were postmenopausal women with node-positive invasive early breast cancer who had undergone complete tumor excision. Postmenopausal status was defined by either last menstrual period greater than 12 months before surgery, women who had a bilateral oophorectomy, or age ⱖ 50 years and women who had a hysterectomy. All patients must have been deemed fit for treatment with chemotherapy and were required to have normal hematologic, hepatic, and renal function, with no evidence of cardiac disease as assessed by ECG and/or left ventricular ejection fraction (LVEF) estimation. LVEF had to be within each institutional range of normal as measured by multigated acquisition scan. Patients with distant metastases or a history of a previous or concomitant malignancy were excluded. All patients gave written informed consent before taking part. 
+
+weeks for six cycles. The EPI-DOC group consisted of epirubicin administered for three cycles as above followed by three cycles of docetaxel (Taxotere; sanofi-aventis, Paris, France) 100 mg/m2 administered as a 1-hour infusion on day 1 of a 3-week cycle with dexamethasone 8 mg orally twice daily for 3 days. Dose modifications and/or delays for chemotherapy were based on treatment-day hematologic and liver toxicity. Treatment delays were allowed up to a maximum of 2 weeks. If the toxicity did not resolve within 2 weeks, treatment was discontinued. The use of prophylactic granulocyte colonystimulating factor and antibiotics was recommended in the case of febrile neutropenia. Chemotherapy was discontinued for any episode of sepsis or in the event of cardiotoxicity (ie, cardiac symptoms, ECG abnormalities, or LVEF ⬎ 15% less than the lower limit of normal for the institution) or grade 4 hepatotoxicity. Tamoxifen (20 mg once daily), if given, was administered either at the beginning (concurrent) or end (sequential) of chemotherapy. Adverse events were assessed at the end of each chemotherapy cycle, with follow-up every 3 months for the remainder of year 1, every 4 months in year 2, every 6 months for years 3 and 4, and annually thereafter up to a minimum of 10 years. Clinical adverse events and changes were assessed according to the National Cancer Institute Common Toxicity Criteria (version 2)10 and were coded by using the Medical Dictionary for Regulatory Activities (MedDRA, version 10.0).11 End Points The primary end point of the study was DFS, defined as time to locoregional recurrence (ie, ipsilateral breast or axillary node relapse), distant recurrence, new primary breast cancer (ie, contralateral breast cancer) or death as a result of any cause; patients who remained alive and disease free at their last follow-up were censored at that date. Secondary end points were OS; breast cancer–free survival (BCFS) defined to end with breast cancer death; contralateral breast cancer; local recurrence or metastases with time censored at non– breast cancer death; and metastasis-free survival (MFS) defined to end with metastases, breast cancer death, or death as a result of unknown cause, with time censored at other death. The time to any event was measured from date of random assignment. When cause of death was unknown, these events were classed conservatively as breast cancer deaths. Treatment-related deaths were those that occurred within 30 days of finishing trial treatment. The planned primary end point for the tamoxifen random assignment was incidence of thromboembolic events during the first 9 months after random assignment. However, it was recognized at the outset that a larger number of patients would be required to explore the impact on disease outcome for patients treated by these two methods: concurrently or sequentially. Therefore, it was expected that data would be available for inclusion with that from other randomized trials in a large meta-analysis. 
+
+Random Assignment Independent random assignment was by telephone/fax to the International Collaborative Cancer Group Data Centre, London, United Kingdom. Computer-generated permuted blocks were used; stratification was by center and intention to treat with tamoxifen (elected/randomized or concurrent/ sequential/none). 
+
+Statistical Justification for Sample Size and Analyses Sample size was determined with the SampSize software (http:// sampsize.sourceforge.net)12 by using the 1982 Freedman13 approximation of sample size/power calculation on the basis of the log-rank test. It was calculated that the trial required 792 patients, providing 90% power (␣ ⫽ .05) to detect an improvement in 5-year DFS from 70% for EPI ⫻ 6 to 80% for EPI-DOC. No adjustment was made for accrual rate or potential loss to follow-up in the sample size. All analyses were conducted according to the intention-to-treat principle, and P ⬍ .05 was deemed statistically significant unless otherwise stated. Time-to-event analyses were conducted with Kaplan-Meier plots that graphically depicted survival functions and with log-rank tests that provided a comparison between treatment groups. HRs were determined with Cox proportional hazards regression analysis both univariately and after adjustment for selected prognostic factors, for which values less than 1 favored EPI-DOC. Comparison of treatment groups for toxicity was made with the ␹2 test, t test, or Mann-Whitney U test, as appropriate, and was analyzed by treatment actually received. P ⬍ .01 was deemed statistically significant for toxicity analyses to allow some adjustment for multiple testing. SPSS 16.0.2 (SPSS, Chicago, IL) and Stata 10.1 (STATA, Santa Monica, CA) statistical packages were used. 
+
+Procedures All treatments administered in the trial were open label. The EPI ⫻ 6 group received epirubicin 50 mg/m2 administered on days 1 and 8 every 4 
+
+Quality of Life Substudy The quality of life (QOL) study aimed to evaluate individual physical, psychological, and social factors relating to patient well-being and aimed to 
+
+3248 
+
+© 2011 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Epirubicin and Docetaxel in Node-Positive Breast Cancer 
+
+provide an overall Global Health Status score by using the validated European Organisation for Research and Treatment of Cancer (EORTC) core Quality of Life Questionnaire C30 (QLQ-C30) and the breast cancer–specific Quality of Life Questionnaire BR23 (QLQ-BR23) module; both are patient self reported. The study was carried out in a limited number of centers (and intention to participate was recorded centrally before first random assignment). Data were collected at baseline, 9 months, 2 years, and 5 years after random assignment; questionnaires were completed while patents were in clinic. Analysis of covariance was performed by using baseline values as the covariate; to take account of multiple testing, P ⫽ .01 was used to indicate significance. A higher mean score represents a better result in the Functional scales but a worsening of symptoms in the Symptom scales. 
+
+Trial Management DEVA was approved by the London Multi-Research Ethics Committee (MREC/99/2/1) and by local ethics committees of all participating centers. The International Collaborative Cancer Group Data Centre, Imperial College London, United Kingdom, had overall responsibility for trial coordination. The trial database was held at the Clinical Trials and Statistics Unit at The Institute of Cancer Research, Sutton, United Kingdom, which was also responsible for statistical analyses. The trial Steering Committee was responsible for trial oversight. Emerging safety and efficacy data were reviewed by an independent data monitoring committee. The sponsor was Imperial College London, and the trial is on the International Standard Randomized Controlled Trial Register as ISRCTN89772270. 
+
+Randomly assigned (N = 803) All included in ITT analysis 
+
+Allocated to EPI × 6 (n = 397) 
+
+Allocated to EPI-DOC (n = 406) Did not start treatment Refused treatment (n = 1) Unknown (n = 1) 
+
+Did not start treatment Refused treatment (n = 2) Adverse event (n = 1) Decreased LVEF (n = 1) Unknown (n = 3) Received cycle 1 (n = 390) 
+
+Received cycle 1 (n = 404) 
+
+Stopped treatment early Refused treatment (n = 1) Adverse event (n = 1) Recurrence, second primary (n = 2) 
+
+Stopped treatment early Adverse event (n = 2) 
+
+Received cycle 2 (n = 386) 
+
+Received cycle 2 (n = 402) 
+
+Stopped treatment early Adverse event (n = 2) Death (n = 1) Received cycle 3 (n = 383) 
+
+Received cycle 3 (n = 402) 
+
+Stopped treatment early Refused treatment (n = 1) Adverse event (n = 3) Death (n = 1) Patient preference (n = 1) LTFU (n = 1) Other (n = 2) 
+
+Stopped treatment early Refused treatment (n = 4) Adverse event (n = 1) Other (n = 2) 
+
+Received cycle 4 (n = 374) 
+
+Received cycle 4 (n = 395) 
+
+Stopped treatment early Refused treatment (n = 1) Adverse event (n = 4) Death (n = 2) Patient preference (n = 2) Decreased LVEF (n = 1) 
+
+Stopped treatment early Refused treatment (n = 6) Toxicity (n = 13) Recurrence, second primary (n = 1) Received cycle 5 (n = 364) 
+
+Received cycle 5 (n = 375) 
+
+Stopped treatment early Refused treatment (n = 1) Adverse event (n = 11) Other (n = 1) 
+
+Stopped treatment early Refused treatment (n = 2) Adverse event (n = 8) Death (n = 1) Received cycle 6 (n = 351) 
+
+www.jco.org 
+
+Fig 1. CONSORT diagram. Screening data was not routinely collected when this study was initiated and therefore was not included in the CONSORT diagram. ITT, intention to treat; EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel; LVEF, left ventricular ejection fraction; LTFU, long-term follow-up. 
+
+Received cycle 6 (n = 364) 
+
+© 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3249 
+
+Coombes et al 
+
+RESULTS 
+
+Between 1997 and 2005, a total of 803 patients (EPI ⫻ 6, n ⫽ 397; EPI-DOC, n ⫽ 406) entered DEVA (Fig 1). At the time of this analysis, median follow-up in all patients was 64.7 months (interquartile range, 45.2 to 84.4 months). Six patients were ineligible; four had no evidence of node involvement, and two had reduced LVEF at initial assessment. Only one patient withdrew consent for additional treatment and follow-up (in the EPI-DOC arm), and approximately 3% were classified as lost to follow-up; all patients were included in the intention-totreat analyses. Baseline clinicopathologic characteristics of patients were evenly balanced between treatment groups (Table 1), including histologic 
+
+Table 1. Baseline Demographic and Clinical Characteristics Treatment Arm 
+
+Characteristic Age, years ⬍ 50 50-59 60-69 70-79 Type of surgery Mastectomy Wide local excision Other Not known Side of primary Left No. with radiation therapy Right No. with radiation therapy Not known No. with radiation therapy Tumor grade 1 2 3 Not known Nodal status Negative Positive No. of nodes 1-3 ⱖ4 Not known Tumor size, cm ⱕ2 2-5 ⬎5 Not known Hormone receptor status ER and/or PR positive ER and PR negative ER and PR not known 
+
+EPI ⫻ 6 (n ⫽ 397) 
+
+EPI-DOC (n ⫽ 406) 
+
+Total (N ⫽ 803) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+11 194 163 29 
+
+2.8 48.9 41.1 7.3 
+
+12 191 175 28 
+
+2.9 47.0 43.1 6.9 
+
+23 385 338 57 
+
+2.9 47.9 42.1 7.1 
+
+203 181 10 3 
+
+51.1 45.6 2.5 0.8 
+
+207 187 11 1 
+
+51.0 46.1 2.7 0.2 
+
+410 368 21 4 
+
+51.1 45.8 2.6 0.5 
+
+188 159 161 123 48 32 
+
+47.6 
+
+176 134 184 151 46 36 
+
+43.1 
+
+364 293 345 274 94 68 
+
+45.3 
+
+54 172 129 42 
+
+13.7 43.3 32.5 10.6 
+
+42 181 148 35 
+
+10.3 44.6 36.5 8.6 
+
+96 353 277 77 
+
+12.0 44.0 34.5 9.5 
+
+1 
+
+0.3 
+
+3 
+
+0.7 
+
+4 
+
+0.5 
+
+266 125 5 
+
+67.0 31.5 1.3 
+
+265 135 3 
+
+65.3 33.3 0.7 
+
+531 260 8 
+
+66.1 32.4 1.0 
+
+184 186 24 3 
+
+46.3 46.9 6.0 0.8 
+
+172 206 27 1 
+
+42.4 50.7 6.7 0.2 
+
+356 392 51 4 
+
+44.3 48.8 6.4 0.5 
+
+309 75 13 
+
+77.8 18.9 3.3 
+
+313 82 11 
+
+77.1 20.2 2.7 
+
+622 157 24 
+
+77.5 19.5 3 
+
+40.6 12.1 
+
+45.3 11.3 
+
+43.0 
+
+© 2011 by American Society of Clinical Oncology 
+
+Tamoxifen Administration and Related Toxicities Three hundred seventy-eight patients were entered into the timing of tamoxifen random assignment (concurrent tamoxifen, n ⫽ 189; sequential tamoxifen, n ⫽ 189). The treatment groups were well balanced in relation to both any-grade and grades 3 to 4 toxicities (data not shown), and there was similar frequency in overall occurrence of thromboembolic events in the two groups (concurrent tamoxifen, n ⫽ 19; sequential tamoxifen, n ⫽ 15). In addition, an additional 316 patients were elected to have concurrent tamoxifen, and 91 patients were elected to have sequential tamoxifen; 18 patients were elected to no tamoxifen treatment. Of the 785 patients randomly assigned or elected to receive concurrent or sequential tamoxifen, 604 (77%) received tamoxifen per protocol, and 121 (15%) did not receive tamoxifen at any time. Aromatase inhibitors were taken by 33 (4%) of 803 patients (EPI ⫻ 6, n ⫽ 18; EPI-DOC, n ⫽ 15); 28 of these 33 patients received anastrozole, and five received letrozole. Efficacy In total, 198 DFS events (all nonstandardized efficacy end points [non-STEEP] events) have been reported (EPI ⫻ 6, n ⫽ 114; EPIDOC, n ⫽ 84; Table 2). An improvement in DFS was seen for EPIDOC compared with EPI ⫻ 6 (unadjusted HR, 0.68; 95% CI, 0.52 to 0.91; P ⫽ .008, Fig 2). The divergence in the curves seen after 6 months was observed for both ER-negative and ER-positive breast cancers. DFS analysis of standardized efficacy end points (STEEP), including 
+
+11.7 
+
+Abbreviations: EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel; ER, estrogen receptor; PR, progesterone receptor. 
+
+3250 
+
+subtype (not shown). Treatment compliance was good, with 88.4% of patients receiving all six cycles of EPI ⫻ 6 and 89.7% receiving all six cycles of EPI-DOC. The principal reason for early discontinuation was toxicity. Overall, 91.9% of the EPI ⫻ 6 group and 94.6% of the EPI-DOC group received at least 85% of their planned dose-intensity for cycles 1 to 3; these results were reduced to 84.1% in the EPI ⫻ 6 group and 76.1% in the EPI-DOC group for cycles 4 to 6. 
+
+Table 2. DFS Events by Treatment Group As Non-STEEP Results Treatment Arm Type of DFS First Event Local recurrence Distant relapse Concurrent local and distant relapse Breast second primary tumor Breast cancer death (no recurrence) Non–breast cancer death (no recurrence) Unknown which event first Overall events 
+
+EPI ⫻ 6 EPI ⫹ DOC Total (n ⫽ 397) (n ⫽ 406) (N ⫽ 803) 19 74 2 4 2 12ⴱ 1 114 
+
+13 63 0 1 0 7† 0 84 
+
+32 137 2 5 2 19 1 198 
+
+Abbreviations: DFS, disease-free survival; EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel; non-STEEP, nonstandardized efficacy end points. ⴱ Deaths were results of metabolic acidosis assumed to be a result of treatment, non–small-cell lung cancer, ovarian cancer, glioblastoma multiforme, metastatic gastric cancer, cardiac problem/kidney failure, cardiac event, aspiration pneumonia, myocardial infarction, unknown causes, and two congestive cardiac failures (at 6 and 9 years, respectively, after random assignment). †Deaths were results of neuroendocrine carcinoma assumed to be a result of treatment, peritoneal carcinosis/ovarian cancer, cerebral hematoma, cardiac problems, unknown cause, and alcoholic hepatic cirrhosis. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Epirubicin and Docetaxel in Node-Positive Breast Cancer 
+
+100 EPI-DOC = 52/406 EPI-DOC = 84/406 
+
+80 Absolute DFS difference at 5 years = 6.8% (95% CI, 0.5% to 13.2%) 
+
+60 
+
+EPI × 6 = 114/397 
+
+40 
+
+20 
+
+EPI × 6 EPI-DOC 
+
+Overall Survival (%) 
+
+Disease-Free Survival (%) 
+
+100 
+
+80 
+
+60 
+
+1 
+
+2 
+
+3 
+
+4 
+
+20 
+
+34/335 21/360 
+
+23/277 16/305 
+
+12/215 12/241 
+
+5 
+
+6 
+
+7 
+
+8 
+
+8/169 11/183 
+
+8/120 5/135 
+
+2/72 3/79 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Time Since Random Assignment (years) 3+2*/36 2+2*/37 
+
+Fig 2. Disease-free survival in the ITT population (N ⫽ 803). (*) Number of events/at risk in events occurring after 8 years. DFS, disease-free survival; EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel; HR, hazard ratio. 
+
+nonbreast second primaries, demonstrated a comparable improvement with EPI-DOC compared with EPI ⫻ 6 (unadjusted HR, 0.69; 95% CI, 0.52 to 0.90; P ⫽ .007). Nonbreast second primaries are shown in Table 3. The 5-year DFS rates were 72.7% for EPI ⫻ 6 (95% CI, 68.0% to 77.3%) and 79.5% for EPI-DOC (95% CI, 75.2% to 83.8%), which translated into a 5-year absolute improvement in DFS of 6.8% (95% CI, 0.5% to 13.2%) for EPI-DOC. Adjustment for known prognostic factors (ie, ER status [ER-positive or ER-negative], tumor grade [grade 1, 2, 3, or unknown], tumor size [ⱕ 2 cm, 2 to 5 cm, or ⬎5 cm], and extent of node involvement [1 to 3, or ⱖ 4]) gave an HR of 0.58 (95% CI, 0.43 to 0.79; P ⬍ .001). The human epidermal growth factor receptor 2 (HER2) status was not available in this study. Subgroup analyses show consistency with the overall effect (Appendix Fig A1, online only). 
+
+Table 3. Summary of Nonbreast Second Primary Tumors by Treatment Group Treatment Arm Type of Nonbreast Second Primary Tumor 
+
+EPI ⫻ 6 (n ⫽ 11) 
+
+EPI-DOC (n ⫽ 10) 
+
+Total (N ⫽ 21) 
+
+Skin cancer Ovarian cancer Lung cancer Endometrial adenocarcinoma Acute myeloid leukemia Glioblastoma multiforme Gastric adenocarcinoma Rectum adenocarcinoma Non-Hodgkin’s lymphoma Cervical cancer Neuroendocrine carcinoma Multiple myeloma 
+
+1 3 1 1 1 1 1 1 0 1 0 0 
+
+2 1 2 1 0 0 0 0 2 0 1 1 
+
+3 4 3 2 1 1 1 1 2 1 1 1 
+
+Abbreviations: EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel. 
+
+www.jco.org 
+
+EPI × 6 EPI-DOC HR, 0.66; 95% CI, 0.46 to 0.94; P = .02 
+
+Time Since Random Assignment (years) No. of events/at risk EPI × 6 0/397 22/372 EPI-DOC 0/406 12/391 
+
+EPI × 6 = 75/397 
+
+40 
+
+HR, 0.68; 95 % CI, 0.52 to 0.91; P = .008 
+
+0 
+
+Absolute OS difference at 5 years = 7.1% (95% CI, 1.8% to 12.4%) 
+
+No. of events/at risk EPI × 6 0/397 11/383 EPI-DOC 0/406 6/398 
+
+8/368 14/372 
+
+23/304 7/323 
+
+16/234 6/259 
+
+5/187 6/200 
+
+5/135 3/148 
+
+3/82 3/88 
+
+2+2*/43 3+4*/42 
+
+Fig 3. Overall survival in the ITT population (N ⫽ 803). (*) Number of events/at risk in events occurring after 8 years. EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel; HR, hazard ratio; OS, overall survival. 
+
+During a median follow-up of approximately 5 years, 127 patients (15.8%) have died (EPI ⫻ 6, n ⫽ 75; EPI-DOC, n ⫽ 52). One hundred seven deaths (EPI ⫻ 6, n⫽ 62; EPI-DOC ⫽ 45) were as a result of breast cancer; 18 patients (EPI ⫻ 6, n ⫽ 12; EPI-DOC, n ⫽ 6) died with no evidence of relapse of breast cancer, and two (one in each treatment arm) died as a result of an unknown cause (Table 2). There was a statistically significant improvement in OS in favor of EPI-DOC (HR, 0.66; 95% CI, 0.46 to 0.94; P ⫽ .02), and the difference in survival began to appear within 3 years of random assignment (Fig 3). The 5-year survival rates were 81.8% (95% CI, 77.7% to 85.9%) for EPI ⫻ 6 compared with 88.9% (95% CI, 85.5% to 92.2%) for EPIDOC, which provided an absolute difference in OS at 5 years of 7.1% (95% CI, 1.8% to 12.4%). BCFS and MFS both suggested improvements for EPI-DOC (HR, 0.71; 95% CI, 0.53 to 0.95; P ⫽ .02) compared with EPI ⫻ 6 (HR, 0.79; 95% CI, 0.58 to 1.08; P ⫽ .14). However, only BCFS was statistically significant. This observation is likely due to the larger number of events included in BCFS, including the smaller number of local recurrences in the EPI-DOC group, which are not included in the MFS analysis. Toxicity Overall, 791 patients (EPI ⫻ 6, n ⫽ 388; EPI-DOC, n ⫽ 403) of the 794 who received at least one chemotherapy cycle had toxicity information available (Table 4); 773 patients (EPI ⫻ 6, n ⫽ 377; EPI-DOC, n ⫽ 396) received at least cycle 4 of treatment and had toxicity information available. During chemotherapy, 45.5% of patients reported at least one grade 3 or 4 adverse event; 40.2% reported a grade 3 or 4 event between cycles 4 and 6. For cycles 1 to 3 in which all patients received epirubicin, the treatment groups were well balanced in terms of their toxicity profile. When grades 3 or 4 toxicities occurring during cycles 4 to 6 were analyzed, docetaxel appeared more toxic than epirubicin for the prespecified toxicities: febrile neutropenia (epirubicin, n ⫽ 2 [0.5%] and docetaxel, n ⫽ 34 [8.6%]; P ⬍ .001), neutropenia (epirubicin, n ⫽ 9 [2.4%] and docetaxel, n ⫽ 38 [9.6%]; P ⬍ .001), skin disorders (epirubicin, n ⫽ 0 [0.0%] and docetaxel, n ⫽ 7 [1.8%]; P ⫽ .002), and stomatitis (epirubicin, n ⫽ 6 [1.6%] and © 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3251 
+
+Coombes et al 
+
+Table 4. Number of All-Grade and Grades 3 and 4 Adverse Events by NCI-CTC During Chemotherapy All-Grade Toxicities Cycles 1-3 
+
+Toxicity Prespecified Anemia Febrile neutropenia Leukopenia Neutropenia Thrombocytopenia Alopecia Diarrhea Infection Lethargy Musculoskeletal symptoms Myalgia/arthralgia Nausea/vomiting Peripheral neuropathy Parethesia Neurological, other Edema Skin disorders Nail abnormalities Stomatitis Thromboembolic events Not prespecified Pyrexia Eye disorders 
+
+EPI ⫻ 6 (n ⫽ 388) 
+
+EPI-DOC (n ⫽ 403) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+85 10 74 53 2 350 29 71 14 
+
+21.9 2.6 19.1 13.7 0.5 90.2 7.5 18.3 3.6 
+
+89 9 83 51 0 357 30 71 24 
+
+17 7 246 4 8 51 15 29 9 149 
+
+4.4 1.8 63.4 1.0 2.1 13.1 3.9 7.5 2.3 38.4 
+
+7 10 19 
+
+Grades 3 and 4 Toxicities Cycles 4-6 
+
+EPI ⫻ 6 (n ⫽ 377) 
+
+EPI-DOC (n ⫽ 396) 
+
+P 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+22.1 2.2 20.6 12.7 0.0 88.6 7.4 17.6 6.0 
+
+1.00 .82 .59 .75 .24 .49 1.00 .85 .14 
+
+125 7 83 54 3 343 21 50 15 
+
+33.2 1.9 22.0 14.3 0.8 91.0 5.6 13.3 4.0 
+
+126 51 99 54 1 348 70 89 25 
+
+12 8 268 7 8 51 20 28 22 138 
+
+3.0 2.0 66.5 1.7 2.0 12.7 5.0 6.9 5.5 34.2 
+
+.35 1.00 .37 .55 1.00 .92 .49 .79 .03 .24 
+
+12 7 211 8 7 35 24 17 26 117 
+
+3.2 1.9 56.0 2.1 1.9 9.3 6.4 4.5 6.9 31.0 
+
+1.8 
+
+4 
+
+1.0 
+
+.38 
+
+11 
+
+2.6 4.9 
+
+15 8 
+
+3.7 2.0 
+
+.36 .03 
+
+9 4 
+
+Cycles 1-3 EPI ⫻ 6 (n ⫽ 388) 
+
+EPI-DOC (n ⫽ 403) 
+
+P 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+31.8 12.9 25.0 13.6 0.3 87.9 17.7 22.5 6.3 
+
+.70 ⬍ .001 .35 .84 .36 .20 ⬍ .001 .001 .15 
+
+13 5 9 9 1 66 0 6 0 
+
+3.4 1.3 2.3 2.3 0.3 17.0 0.0 1.5 0.0 
+
+13 5 19 14 0 82 3 11 1 
+
+30 81 179 52 41 67 64 77 107 196 
+
+7.6 20.5 45.2 13.1 10.4 16.9 16.2 19.4 27.0 49.5 
+
+.01 ⬍ .001 .003 ⬍ .001 ⬍ .001 .002 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 
+
+0 1 5 0 0 2 0 2 0 3 
+
+0.0 0.3 1.3 0.0 0.0 0.5 0.0 0.5 0.0 0.8 
+
+2.9 
+
+3 
+
+0.8 
+
+.03 
+
+1 
+
+2.4 1.1 
+
+32 21 
+
+8.1 5.3 
+
+⬍ .001 .001 
+
+1 1 
+
+Cycles 4-6 EPI ⫻ 6 (n ⫽ 377) 
+
+EPI-DOC (n ⫽ 396) 
+
+P 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+3.2 1.2 4.7 3.5 0.0 20.3 0.7 2.7 0.2 
+
+1.00 1.00 .08 .40 .49 .24 .25 .33 1.00 
+
+15 2 6 9 1 73 1 8 0 
+
+4.0 0.5 1.6 2.4 0.3 19.4 0.3 2.1 0.0 
+
+13 34 49 38 1 91 10 12 3 
+
+3.3 8.6 12.4 9.6 0.3 23.0 2.5 3.0 0.8 
+
+.70 ⬍ .001 ⬍ .001 ⬍ .001 1.00 .25 .01 .50 .25 
+
+0 0 15 0 0 3 1 0 0 6 
+
+0.0 0.0 3.7 0.0 0.0 0.7 0.2 0.0 0.0 1.5 
+
+— .49 .04 — — 1.00 1.00 .24 — .51 
+
+0 1 8 0 0 0 1 0 0 6 
+
+0.0 0.3 2.1 0.0 0.0 0.0 0.3 0.0 0.0 1.6 
+
+5 8 15 2 4 5 5 7 5 20 
+
+1.3 2.0 3.8 0.5 1.0 1.3 1.3 1.8 1.3 5.1 
+
+.06 .04 .21 .50 .12 .06 .22 .002 .06 .009 
+
+0.3 
+
+0 
+
+0.0 
+
+.49 
+
+0 
+
+0.0 
+
+0 
+
+0.0 
+
+— 
+
+0.3 0.3 
+
+2 0 
+
+0.5 0.0 
+
+1.00 .49 
+
+3 0 
+
+0.8 0.0 
+
+4 0 
+
+1.0 0.0 
+
+1.00 — 
+
+Abbreviations: NCI-CTC, National Cancer Institute Common Toxicity Criteria; EPI ⫻ 6, six cycles of epirubicin; EPI-DOC, three cycles of epirubicin followed by three cycles of docetaxel. 
+
+docetaxel, n ⫽ 20 [5.1%]; P ⫽ .009). These toxicities and several other prespecified adverse events, including diarrhea and neurologic disorders, were all more common at any grade in docetaxel-treated patients during cycles 4 to 6. The persistent adverse effects of any grade that differed significantly between the chemotherapy arms were peripheral neuropathy (EPI ⫻ 6, n ⫽ 1 [0.3%] and EPI-DOC, n ⫽ 23 [6.2%]; P ⬍ .001), edema (EPI ⫻ 6, n ⫽ 8 [2.2%] and EPI-DOC, n ⫽ 25 [6.7%]; P ⫽ .006), and nail abnormality (EPI ⫻ 6, n ⫽ 1 [0.3%] and EPI-DOC, n ⫽ 20 [5.4%]; P ⬍ .001). The median duration of these adverse effects were 20, 20, and 9 months, respectively. At baseline, nine patients had abnormal ECGs; all but one patient had chemotherapy as planned, because the clinician concluded that, despite ECG findings, there was no evidence of serious cardiac disease. In addition, 601 patients had LVEF recorded; three had abnormal assessments, of which two did not receive chemotherapy. During follow-up, four patients in the epirubicin arm but none in the EPIDOC arm developed dyspnea and were diagnosed as having congestive cardiac failure (as defined locally by cardiologist review). QOL There was no significant difference in overall QOL between treatments. A comparison of change from baseline (on overall Global 3252 
+
+© 2011 by American Society of Clinical Oncology 
+
+Health Status and by individual scales) between randomly assigned groups was performed for patients at 9 months (epirubicin, n ⫽ 45; EPI-DOC, n ⫽ 61), 2 years (epirubicin, n ⫽ 84; EPI-DOC, n ⫽ 88), and 5 years (epirubicin, n ⫽ 49; EPI-DOC, n ⫽ 65; Appendix Table A1, online only). None of the scales showed a statistically significant difference between the randomly assigned groups. 
+
+DISCUSSION 
+
+The results of this randomized, controlled trial provides evidence that, after three cycles of epirubicin monotherapy, the substitution of docetaxel for epirubicin for the last three cycles of chemotherapy results in improved DFS and OS in postmenopausal patients with breast cancer. The improvement in OS, however, comes at a cost in terms of adverse effects, because patients who switch to docetaxel suffer significantly in terms of febrile neutropenia, skin disorders, and stomatitis, and they have a higher incidence of other chemotherapy-related toxicities. However, this does not impact QOL during the follow-up period. One potential benefit of reducing the anthracycline dose would be to reduce the incidence of cardiac events.14 Indeed, cardiac failure (n ⫽ 4) was restricted to those receiving epirubicin alone. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Epirubicin and Docetaxel in Node-Positive Breast Cancer 
+
+Since we began our study, several other groups have reported the results of adjuvant studies of taxanes. These studies have different designs and use different taxanes. Broadly, there are two types of adjuvant taxane trials—those in which the taxane was added to the control regimen,15-21 and those in which the taxane was substituted for another drug in an established regimen, including trials in which the taxane was sequenced in comparison with another regimen in a similar number of cycles of treatment.19,22-26 Meta-analyses of these trials, the latest of which was presented as the Taxotere as Adjuvant Chemotherapy (TACT) trial, have shown modest benefits in terms of DFS for taxane-treated patients (DFS combined-effect HR, 0.85; 95% CI, 0.81 to 0.90).24 Our results represent a slightly larger benefit than that seen overall, and it is noteworthy that DEVA is the only trial with a single-agent control regimen. The difference in OS in our study was most clear after 2 years, similar to the Grupo Español de Investigación en Cáncer de Mama (GEICAM) 9906 study.22 Given these uncertain results, trialists have explored clinical and biologic subgroups in the hope of finding a group of patients who would clearly benefit from taxane treatment. As yet, no biomarker or disease subtypehasconsistentlybeenshowntobepredictiveofataxaneeffect.24,27 The optional random assignment of the timing of tamoxifen indicates no evidence for major differences in toxicity or thromboembolic event rates between concurrent or sequential tamoxifen, but there is insufficient power to detect small differences. In summary, DEVA suggests that replacing the final three cycles of epirubicin by docetaxel chemotherapy improves both DFS and OS in postmenopausal patients with node-positive breast cancer. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject 
+
+REFERENCES 1. Early Breast Cancer Trialists’ Collaborative Group: Polychemotherapy for early breast cancer: An overview of the randomised trials. Lancet 352: 930-942, 1998 2. Wils JA, Bliss JM, Marty M, et al: Epirubicin plus tamoxifen versus tamoxifen alone in node-positive postmenopausal patients with breast cancer: A randomized trial of the International Collaborative Cancer Group. J Clin Oncol 17:1988-1998, 1999 3. Valero V, Holmes FA, Walters RS, et al: Phase II trial of docetaxel: A new, highly effective antineoplastic agent in the management of patients with anthracycline-resistant metastatic breast cancer. J Clin Oncol 13:2886-2894, 1995 4. National Institutes of Health: Adjuvant Therapy for Breast Cancer. Bethesda, MD, NIH Consensus Statement, 2000. http://consensus.nih.gov/2000/ 2000AdjuvantTherapyBreastCancer114PDF.pdf 5. Early Breast Cancer Trialists’ Collaborative Group: Tamoxifen for early breast cancer: An overview of the randomised trials. Lancet 351:1451-1467, 1998 6. Osborne CK, Kitten L, Arteaga CL: Antagonism of chemotherapy-induced cytotoxicity for human breast cancer cells by antiestrogens. J Clin Oncol 7:710-717, 1989 7. Pritchard KI, Paterson AH, Paul NA, et al: Increased thromboembolic complications with conwww.jco.org 
+
+matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Michel Marty, sanofi-aventis (C), Debiopharm (C); Robert E. Coleman, sanofi-aventis (C); Andrew Wardley, sanofi-aventis (C) Stock Ownership: None Honoraria: R. Charles Coombes, Pfizer; Judith M. Bliss, Pfizer; Marc Espie, sanofi-aventis; Michel Marty, AstraZeneca, Roche; Robert E. Coleman, sanofi-aventis; Andrew Wardley, sanofi-aventis Research Funding: R. Charles Coombes, Pfizer, sanofi-aventis; Judith M. Bliss, Pfizer, sanofi-aventis Expert Testimony: None Other Remuneration: Judith M. Bliss, Pfizer; Andrew Wardley, sanofi-aventis 
+
+AUTHOR CONTRIBUTIONS Conception and design: R. Charles Coombes, Judith M. Bliss, Frans Erdkamp, Michel Marty, Pierre Hupperets Administrative support: Marina W.K. Thomas, Justine A. Reise, Katie Wilkinson Provision of study materials or patients: R. Charles Coombes, Marc Espie, Frans Erdkamp, Jacob Wals, Alejandro Tres, Michel Marty, Robert E. Coleman, Marinus O. den Boer, Andrew Wardley, Pierre Hupperets Collection and assembly of data: R. Charles Coombes, Marc Espie, Jacob Wals, Alejandro Tres, Michel Marty, Nicole Tubiana-Mathieu, Marinus O. den Boer, Andrew Wardley, Justine A. Reise, Katie Wilkinson Data analysis and interpretation: R. Charles Coombes, Judith M. Bliss, Frans Erdkamp, Robert E. Coleman, Andrew Wardley, Lucy S. Kilburn, Derek Cooper, Marina W.K. Thomas, Justine A. Reise Manuscript writing: All authors Final approval of manuscript: All authors 
+
+current tamoxifen and chemotherapy in a randomized trial of adjuvant therapy for women with breast cancer: National Cancer Institute of Canada Clinical Trials Group Breast Cancer Site Group. J Clin Oncol 14:2731-2737, 1996 8. Coombes RC, Kilburn LS, Snowdon CF, et al: Survival and safety of exemestane versus tamoxifen after 2-3 years’ tamoxifen treatment (Intergroup Exemestane Study): A randomised controlled trial. Lancet 369:559-570, 2007 9. Jonat W, Gnant M, Boccardo F, et al: Effectiveness of switching from adjuvant tamoxifen to anastrozole in postmenopausal women with hormone-sensitive early-stage breast cancer: A meta-analysis. Lancet Oncol 7:991-996, 2006 10. National Cancer Institute: Cancer Therapy Evaluation Program: Common Toxicity Criteria, version 2.0. National Cancer Institute, 1998 11. Northrop Grumman: Medical Dictionary for Regulatory Activities (MedDRA) Terminology. McLean, VA, Northrop Grumman, 2007 12. Machin D, Campbell M, Fayers P, et al: Sample Size Tables for Clinical Studies (version 2.5). Oxford, United Kingdom, Blackwell Science, 1997 13. Freedman LS: Tables of the number of patients required in clinical trials using the logrank test. Stat Med 1:121-129, 1982 14. Carver JR, Shapiro CL, Ng A, et al: American Society of Clinical Oncology clinical evidence review on the ongoing care of adult cancer survivors: Car- 
+
+diac and pulmonary late effects. J Clin Oncol 25: 3991-4008, 2007 15. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 16. Mamounas EP, Bryant J, Lembersky B, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP B-28. J Clin Oncol 23:3686-3696, 2005 17. Francis P, Crown J, Di Leo A, et al: Adjuvant chemotherapy with sequential or concurrent anthracycline and docetaxel: Breast International Group 02-98 randomized trial. J Natl Cancer Inst 100:121-133, 2008 18. Gianni L, Baselga J, Eiermann W, et al: European Cooperative Trial in Operable Breast Cancer (ECTO): Improved freedom from progression (FFP) from adding paclitaxel (T) to doxorubicin (A) followed by cyclophosphamide methotrexate and fluorouracil (CMF). J Clin Oncol 23:6s, 2005 (suppl; abstr 513) 19. Participating Institutions of GOIM 9902 Trial, Italian Cooperative Group: Epirubicin and cyclophosphamide (EC) versus docetaxel (D) followed by EC in adjuvant (ADJ) treatment of node positive (pN1) breast cancer (BC) in a multicenter randomized phase III Study. J Clin Oncol 20:46s, 2001 (suppl; abstr 1836) 
+
+© 2011 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+3253 
+
+Coombes et al 
+
+20. Fountzilas G, Skarlos D, Dafni U, et al: Postoperative dose-dense sequential chemotherapy with epirubicin, followed by CMF with or without paclitaxel, in patients with high-risk operable breast cancer: A randomized phase III study conducted by the Hellenic Cooperative Oncology Group. Ann Oncol 16:1762-1771, 2005 21. Bianco AR, De Matteis A, Manzione L, et al: Sequential epirubicin-docetaxel-CMF as adjuvant therapy of early breast cancer: Results of the Taxit216 multicenter phase III trial. J Clin Oncol 24:8s, 2006 (suppl; abstr LBA520) 22. Martín M, Rodríguez-Lescure A, Ruiz A, et al: Randomized phase 3 trial of fluorouracil, epirubicin, 
+
+and cyclophosphamide alone or followed by paclitaxel for early breast cancer. J Natl Cancer Inst 100:805-814, 2008 23. Roché H, Fumoleau P, Spielmann M, et al: Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: The FNCLCC PACS 01 Trial. J Clin Oncol 24:5664-5671, 2006 24. Ellis P, Barrett-Lee P, Johnson L, et al: Sequential docetaxel as adjuvant chemotherapy for early breast cancer (TACT): An open-label, phase III, randomised controlled trial. Lancet 373:1681-1692, 2009 
+
+25. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 26. Goldstein LJ, O’Neill A, Sparano JA, et al: Concurrent doxorubicin plus docetaxel is not more effective than concurrent doxorubicin plus cyclophosphamide in operable breast cancer with 0 to 3 positive axillary nodes: North American Breast Cancer Intergroup Trial E 2197. J Clin Oncol 26:40924099, 2008 27. Hayes DF, Thor AD, Dressler LG, et al: HER2 and response to paclitaxel in node-positive breast cancer. N Engl J Med 357:1496-1506, 2007 
+
+■ ■ ■ 
+
+Journal of Oncology Practice Now Available on PubMed Central Full text for all JOP articles is available on the NIH PubMed Central archive 4 months after publication. Once available, content is then delivered to PubMed, a metadata repository overseen by the National Library of Medicine and used by many scientific, technical, and medical researchers, making JOP material discoverable in PubMed. Find yourself in PubMed. Submit your manuscript to JOP at http://jop.msubmit.net. 
+
+3254 
+
+© 2011 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2011 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+ 

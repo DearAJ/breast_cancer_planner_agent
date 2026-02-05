@@ -1,0 +1,821 @@
+Articles 
+
+Adjuvant chemotherapy and timing of tamoxifen in postmenopausal patients with endocrine-responsive, node-positive breast cancer: a phase 3, open-label, randomised controlled trial Kathy S Albain, William E Barlow, Peter M Ravdin, William B Farrar, Gary V Burton, Steven J Ketchel, Charles D Cobau, Ellis G Levine, James N Ingle, Kathleen I Pritchard, Allen S Lichter, Daniel J Schneider, Martin D Abeloﬀ,* I Craig Henderson, Hyman B Muss, Stephanie J Green, Danika Lew, Robert B Livingston, Silvana Martino, C Kent Osborne, for The Breast Cancer Intergroup of North America 
+
+Summary Background Tamoxifen is standard adjuvant treatment for postmenopausal women with hormone-receptor-positive breast cancer. We assessed the beneﬁt of adding chemotherapy to adjuvant tamoxifen and whether tamoxifen should be given concurrently or after chemotherapy. Methods We undertook a phase 3, parallel, randomised trial (SWOG-8814, INT-0100) in postmenopausal women with hormone-receptor-positive, node-positive breast cancer to test two major objectives: whether the primary outcome, disease-free survival, was longer with cyclophosphamide, doxorubicin, and ﬂuorouracil (CAF) given every 4 weeks for six cycles plus 5 years of daily tamoxifen than with tamoxifen alone; and whether disease-free survival was longer with CAF followed by tamoxifen (CAF-T) than with CAF plus concurrent tamoxifen (CAFT). Overall survival and toxicity were predeﬁned, important secondary outcomes for each objective. Patients in this open-label trial were randomly assigned by a computer algorithm in a 2:3:3 ratio (tamoxifen:CAF-T:CAFT) and analysis was by intention to treat of eligible patients. Groups were compared by stratiﬁed log-rank tests, followed by Cox regression analyses adjusted for signiﬁcant prognostic factors. This trial is registered with ClinicalTrials.gov, number NCT00929591. Findings Of 1558 randomised women, 1477 (95%) were eligible for inclusion in the analysis. After a maximum of 13 years of follow-up (median 8·94 years), 637 women had a disease-free survival event (tamoxifen, 179 events in 361 patients; CAF-T, 216 events in 566 patients; CAFT, 242 events in 550 patients). For the ﬁrst objective, therapy with the CAF plus tamoxifen groups combined (CAFT or CAF-T) was superior to tamoxifen alone for the primary endpoint of disease-free survival (adjusted Cox regression hazard ratio [HR] 0·76, 95% CI 0·64–0·91; p=0·002) but only marginally for the secondary endpoint of overall survival (HR 0·83, 0·68–1·01; p=0·057). For the second objective, the adjusted HRs favoured CAF-T over CAFT but did not reach signiﬁcance for disease-free survival (HR 0·84, 0·70–1·01; p=0·061) or overall survival (HR 0·90, 0·73–1·10; p=0·30). Neutropenia, stomatitis, thromboembolism, congestive heart failure, and leukaemia were more frequent in the combined CAF plus tamoxifen groups than in the tamoxifen-alone group. Interpretation Chemotherapy with CAF plus tamoxifen given sequentially is more eﬀective adjuvant therapy for postmenopausal patients with endocrine-responsive, node-positive breast cancer than is tamoxifen alone. However, it might be possible to identify some subgroups that do not beneﬁt from anthracycline-based chemotherapy despite positive nodes. Funding National Cancer Institute (US National Institutes of Health). 
+
+Introduction The most common presentation of breast cancer is an oestrogen-receptor-positive tumour in postmenopausal women, for whom tamoxifen is the gold standard against which other systemic adjuvant treatments are compared.1–4 The addition of chemotherapy to endocrine therapy is attractive in theory,5 but there is no consensus about such treatment in postmenopausal women with tamoxifen-responsive disease.3,4 Individual phase 3 trials that compared chemotherapy plus tamoxifen with tamoxifen alone did not show a signiﬁcant survival beneﬁt in older women.6–9 A recent meta-analysis of www.thelancet.com Vol 374 December 19/26, 2009 
+
+all existing trials based on individual patient data showed that the addition of chemotherapy to tamoxifen is only marginally beneﬁcial in older women, by contrast with major survival improvements in premenopausal populations.10 Most individual trials in postmenopausal women tested the addition of regimens based on cyclophosphamide, methotrexate, and ﬂuorouracil (CMF) to tamoxifen,3,4,6–8,10 but in some breast cancer study populations, CMF might be inferior to anthracyclinebased regimens.11–16 No clinical trials have shown, however, that anthracycline-based therapy adds to the 
+
+Lancet 2009; 374: 2055–63 Published Online December 10, 2009 DOI:10.1016/S01406736(09)61523-3 See Online/Comment DOI:10.1016/S01406736(09)62097-3 See Lancet Oncol DOI:10.1016/S14702045(09)70314-6 DOI:10.1016/S14702045(09)70347-X Loyola University Stritch School of Medicine, Maywood, IL, USA (Prof K S Albain MD, D J Schneider MD); Southwest Oncology Group Statistical Center, Seattle, WA, USA (Prof W E Barlow PhD, Prof S J Green PhD, D Lew MA); University of Texas Health Science Center at San Antonio, San Antonio, TX, USA (Prof P M Ravdin MD); Ohio State University Health Center, Columbus, OH, USA (Prof W B Farrar MD); Louisiana State University, Shreveport, LA, USA (Prof G V Burton MD); University of Arizona Cancer Center, Tucson, AZ, USA (S J Ketchel MD, Prof R B Livingston MD); Flower Memorial Hospital, Sylvania, OH, USA (C D Cobau MD); Roswell Park Cancer Institute, Buﬀalo, NY, USA (E G Levine MD); Mayo Clinic, Rochester, MN, USA (Prof J N Ingle MD); Toronto Sunnybrook Regional Cancer Centre, Toronto, ON, USA (Prof K I Pritchard MD); University of Michigan, Ann Arbor, MI, USA (Prof A S Lichter MD); Johns Hopkins Medical Center, Baltimore, MD, USA (Prof M D Abeloﬀ MD); University of California, San Francisco, San Francisco, CA, USA (Prof I C Henderson MD); 
+
+2055 
+
+Articles 
+
+Vermont Cancer Center and University of Vermont, Burlington, VT, USA (Prof H B Muss MD); The Angeles Clinic and Research Institute, Santa Monica, CA, USA (S Martino DO); and Baylor College of Medicine, Houston, TX, USA (Prof C K Osborne MD) *Prof Abeloﬀ died in Sept, 2007 Correspondence to: Prof Kathy S Albain, Loyola University Medical Center, Cardinal Bernardin Cancer Center, 2160 South First Ave, Maywood, IL 60153-5589, USA kalbain@lumc.edu 
+
+beneﬁt of tamoxifen in postmenopausal patients with oestrogen-receptor-positive disease. Moreover, interference with drug-induced cytotoxicity was shown in vitro when tamoxifen was added to cancer cell lines concurrently with chemotherapy,17–20 yet concurrent tamoxifen and CMF has been common practice in clinical trials. Our two objectives were to establish whether chemotherapy, consisting of 6 months of cyclophosphamide, doxorubicin, and ﬂuorouracil (CAF) plus 5 years of tamoxifen, was superior to tamoxifen alone; and to assess whether CAF followed by tamoxifen was better than CAF plus concurrent tamoxifen. The CAF regimen we used was the most dose-intense combination among the commonly used regimens when this trial was designed.11 This report presents long-term outcomes for both objectives. 
+
+Methods Trial design Southwest Oncology Group (SWOG)-8814, INT-0100 was a phase 3, parallel, three-group, open-label, randomised controlled trial. The trial was approved by the National Cancer Institute’s Central Institutional Review Board, which manages all cooperative group trials, and the local review board at each institution. All patients gave written informed consent in the presence of an independent witness after the trial was explained by the treating oncologist. Progress of the trial and adverse event rates were reviewed by an independent data and safety monitoring committee every 6 months. 
+
+Participants Postmenopausal women (deﬁned in the protocol by use of standard National Cancer Institute criteria across all intergroup trials) with pathological stage T1–3, N1–2 (1988 criteria;21 excluding clinical N2) inﬁltrating adenocarcinoma of the breast were eligible for enrolment. Tumours were oestrogen-receptor positive or progesterone-receptor positive, or both, by biochemical assay 1558 patients randomised (based on institution designation of eligibility) 
+
+381 assigned to tamoxifen alone 
+
+20 ineligible 
+
+590 assigned to CAF-T 
+
+24 ineligible 
+
+587 assigned to CAFT 
+
+37 ineligible 
+
+361 (95%) eligible after central review of data (ITT population) 
+
+566 (96%) eligible after central review of data (ITT population) 
+
+550 (94%) eligible after central review of data (ITT population) 
+
+354 (93%) received allocated treatment 
+
+562 (95%) received allocated treatment 
+
+544 (93%) received allocated treatment 
+
+Figure 1: Trial proﬁle CAF-T=cyclophosphamide, doxorubicin, and ﬂuorouracil (CAF) followed by tamoxifen. CAFT=CAF plus concurrent tamoxifen. ITT=intention-to-treat. 
+
+2056 
+
+(≥10 fmol/mg) or classiﬁed as positive by immunohistochemistry according to institutional standards, with all tests done locally. Liver enzymes, chest radiograph, contralateral mammogram, and bone scan had to show no evidence of cancer. Deﬁnitive local therapy was modiﬁed radical mastectomy or lumpectomy with microscopically negative margins and axillary dissection. Radiotherapy was mandatory if a lumpectomy was done and optional after mastectomy if the stage was T3, four or more positive nodes were present, or if there was extranodal extension. Left-ventricular ejection fraction had to be normal, if done. Adequate renal, hepatic, and bone marrow function were required. 
+
+Randomisation and masking Patients were randomly assigned in a 2:3:3 ratio to receive tamoxifen alone, CAF followed by tamoxifen (CAF-T), or CAF with concurrent tamoxifen (CAFT). Eligible patients were stratiﬁed by number of involved nodes (1–3 vs ≥4), progesterone-receptor status (positive vs negative), and interval from surgery (≤6 weeks vs >6 weeks). Patients were allocated to treatment by a central software program that randomised within the cross-classiﬁcation of the three stratifying variables with allocation probability to each treatment being determined by the sample size goals. After a centre had entered a patient’s stratiﬁcation variables, the computer generated, reported, and recorded the randomised assignment and patient identiﬁcation number. It was not possible to know the next assignment since it was generated in real-time at the next registration. Blocking was not used. Both patient and treating physician were unmasked to randomisation assignment in this open-label study. 
+
+Interventions CAF was given every 4 weeks for six cycles: cyclophosphamide 100 mg/m² orally on days 1–14; doxorubicin 30 mg/m² and ﬂuorouracil 500 mg/m², both intravenously on days 1 and 8. The tamoxifen dose was 20 mg orally daily for 5 years. Dose reduction and toxicity reporting criteria were speciﬁed in the protocol. Standardised radiation treatment prescriptions were stipulated in the protocol. The radiation had to be completed before CAF or initiated after completion of CAF at the discretion of the physician. Radiation was begun on day 1 in the tamoxifen group. Patients were followed every 4 months for 5 years, every 6 months for 3 years, then yearly thereafter, even if patients withdrew early from treatment. Follow-up for late recurrence was terminated because of ﬁnancial constraints, but mortality information is still obtained where possible. 
+
+Primary and secondary endpoints The primary endpoint was disease-free survival, deﬁned as the time from registration (randomisation) to breast cancer relapse (local or distant), new primary breast cancer, or death due to any cause, whichever came ﬁrst. www.thelancet.com Vol 374 December 19/26, 2009 
+
+Articles 
+
+Patients who did not have an event were censored at the last follow-up visit. Prespeciﬁed secondary outcomes included overall survival and adverse event rates. Overall survival was deﬁned as the time from registration until death due to any cause. Adverse events were graded according to the SWOG Toxicity Criteria included in the protocol. 
+
+Tamoxifen (n=361) CAF-T (n=566) CAFT (n=550) All patients (n=1477) 60·0 (37–79) 
+
+60·7 (42–81) 
+
+61·8 (33–89) 
+
+61·3 (33–89) 
+
+≥65 
+
+117 (32%) 
+
+162 (29%) 
+
+191 (35%) 
+
+470 (32%) 
+
+≥70 
+
+46 (13%) 
+
+62 (11%) 
+
+82 (15%) 
+
+190 (13%) 
+
+White 
+
+307 (85%) 
+
+492 (87%) 
+
+453 (82%) 
+
+1252 (85%) 
+
+Black 
+
+38 (11%) 
+
+44 (8%) 
+
+57 (10%) 
+
+139 (9%) 
+
+Statistical analysis 
+
+Hispanic 
+
+11 (3%) 
+
+16 (3%) 
+
+23 (4%) 
+
+50 (3%) 
+
+The target sample size for each CAF plus tamoxifen group (530 patients per group) gave 89% power to detect a 33% increase in the hazard ratio (HR) for disease-free survival for CAFT versus CAF-T. The target sample size for the tamoxifen-alone group (350 patients) gave 90% power to detect a 25% reduction in the HR for diseasefree survival for the combined CAF plus tamoxifen groups compared with tamoxifen alone. Although the protocol speciﬁed one-sided tests (with overall α=0·05), only two-sided p values are reported here. The ﬁrst interim analysis was to take place when the accrual was 75% complete (α=0·010); the second was scheduled for 18 months after completion (α=0·013). The ﬁnal analysis was planned at α=0·04 so that the combined level was α=0·05 over all analyses.22 The intention-to-treat analyses included all eligible patients, irrespective of the actual treatment subsequently received. Documentation of eligibility was assessed within a few months of randomisation and centrally reviewed before outcome information was available. Patients who did not meet eligibility criteria after ﬁnal review were excluded from the analysis. Two planned analyses compared tamoxifen alone with the combined CAF plus tamoxifen groups (CAF-T plus CAFT), and CAF-T with CAFT. Secondary analyses that compared all three groups were added when interim results disclosed eﬀect of tamoxifen timing on beneﬁt from chemotherapy. We used Kaplan-Meier methods for estimation of survival times and stratiﬁed log-rank tests to test treatment eﬀects using the three stratifying variables from randomisation.23 Cox models were used to estimate HRs of treatment beneﬁt adjusted for signiﬁcant prognostic factors. All analyses were done with Stata version 10. This trial is registered with ClinicalTrials.gov, number NCT00929591. 
+
+Other 
+
+5 (1%) 
+
+14 (2%) 
+
+17 (3%) 
+
+36 (2%) 
+
+1–3 positive 
+
+207 (57%) 
+
+334 (59%) 
+
+311 (57%) 
+
+852 (58%) 
+
+≥4 positive 
+
+154 (43%) 
+
+232 (41%) 
+
+239 (43%) 
+
+625 (42%) 
+
+PgR-positive/ER-positive 
+
+261 (72%) 
+
+416 (73%) 
+
+414 (75%) 
+
+1091 (74%) 
+
+PgR-negative/ER-positive 
+
+84 (23%) 
+
+125 (22%) 
+
+111 (20%) 
+
+320 (22%) 
+
+PgR-positive/ER-negative 
+
+16 (4%) 
+
+25 (4%) 
+
+25 (5%) 
+
+66 (4%) 
+
+Tumour size T3 
+
+27 (7%) 
+
+40 (7%) 
+
+38 (7%) 
+
+105 (7%) 
+
+Role of the funding source The sponsor had no role in data analysis, writing of the report, or the decision to submit for publication. SWOG was responsible for data gathering and analysis. The corresponding author with SWOG had responsibility for the decision to submit for publication. 
+
+Results Patients were enrolled from June, 1989, to July, 1995. Criteria for early stopping were not met at the ﬁrst planned interim analysis. At the second interim analysis (after reaching the accrual goal), the comparison of www.thelancet.com Vol 374 December 19/26, 2009 
+
+Age (years) 
+
+Ethnic origin 
+
+Number of involved axillary nodes 
+
+Receptor status of tumour 
+
+Type of primary therapy Breast conservation 
+
+69 (19%) 
+
+101 (18%) 
+
+109 (20%) 
+
+279 (19%) 
+
+Mastectomy 
+
+292 (81%) 
+
+465 (82%) 
+
+441 (80%) 
+
+1198 (81%) 
+
+≤6 weeks 
+
+257 (71%) 
+
+409 (72%) 
+
+378 (69%) 
+
+1044 (71%) 
+
+>6 weeks 
+
+104 (29%) 
+
+157 (28%) 
+
+172 (31%) 
+
+433 (29%) 
+
+Interval from deﬁnitive surgery 
+
+Previous postmenopausal oestrogens Yes 
+
+76 (21%) 
+
+136 (24%) 
+
+121 (22%) 
+
+333 (23%) 
+
+No 
+
+285 (79%) 
+
+430 (76%) 
+
+429 (78%) 
+
+1144 (77%) 
+
+Data are n (%) or median (range). Percentages are based on the total in each treatment group. CAF-T=cyclophosphamide, doxorubicin, and ﬂuorouracil (CAF) followed by tamoxifen. CAFT=CAF plus concurrent tamoxifen. ER=oestrogen receptor. PgR=progesterone receptor. 
+
+Table 1: Patient and tumour characteristics 
+
+tamoxifen alone with the combined CAF plus tamoxifen groups met criteria for reporting the primary outcome.24 Additional follow-up was required for overall survival25 and the ﬁrst comparison of the two CAF plus tamoxifen groups.26 Deﬁnitive 10-year estimates of disease-free survival and overall survival for both major objectives are now available. The early analyses reported HRs as tamoxifen alone versus CAF plus tamoxifen,24–26 whereas in this analysis they are reported as CAF plus tamoxifen versus tamoxifen alone to be consistent with current clinical trial publications. The study population consisted of 1558 randomised women, of whom 1477 (95%) were eligible, with 361 assigned to tamoxifen; 566 to CAF-T; and 550 to CAFT (ﬁgure 1). Reasons for ineligibility were wrong stage or incomplete staging. The ineligibility rate did not diﬀer by treatment assignment (p=0·22). 1460 (94%) patients received allocated treatment (ﬁgure 1). Patient and tumour characteristics were well balanced across the treatment groups (table 1). Analysis of treatment delivery showed that 166 (15%) of 1116 patients did not complete six cycles of CAF because of toxicity (n=115 [10%]), disease progression or death (n=7 [1%]), or other reasons (n=44 [4%]). Completion of treatment did not diﬀer between the two 2057 
+
+Articles 
+
+A Disease-free survival 
+
+B Overall survival 
+
+75 
+
+75 Overall survival (%) 
+
+100 
+
+Disease-free survival (%) 
+
+100 
+
+50 
+
+25 Combined CAF plus tamoxifen groups (CAF-T plus CAFT) Tamoxifen alone 
+
+0 Number at risk CAF-T plus CAFT Tamoxifen alone 
+
+1116 361 
+
+1018 320 
+
+880 263 
+
+761 223 
+
+Events/number 10-year disease-free of patients survival (95% CI) 458/1116 57% (53–60) 179/361 533 162 
+
+48% (42–53) 257 69 
+
+50 
+
+25 
+
+0 
+
+33 17 
+
+1116 361 
+
+C Disease-free survival 
+
+75 
+
+Number at risk CAF-T CAFT 
+
+Overall survival (%) 
+
+75 
+
+Disease-free survival (%) 
+
+100 
+
+50 
+
+CAF-T CAFT 
+
+Events/number of patients 216/566 242/550 
+
+0 
+
+2 
+
+4 
+
+566 550 
+
+516 502 
+
+452 428 
+
+0 
+
+1067 347 
+
+963 312 
+
+856 269 
+
+145/361 608 204 
+
+60% (54–65) 293 91 
+
+42 17 
+
+6 8 10 Time from registration (years) 
+
+12 
+
+D Overall survival 
+
+100 
+
+25 
+
+Combined CAF plus tamoxifen groups (CAF-T plus CAFT) Tamoxifen alone 
+
+Events/number 10-year overall of patients survival (95% CI) 368/1116 65% (62–68) 
+
+10-year disease-free survival (95% CI) 60% (55–64) 53% (49–58) 
+
+284 249 
+
+CAF-T CAFT 
+
+Events/number of patients 176/566 192/550 
+
+0 
+
+2 
+
+4 
+
+566 550 
+
+539 528 
+
+487 476 
+
+25 
+
+0 
+
+6 8 10 Time from registration (years) 395 366 
+
+50 
+
+138 119 
+
+12 
+
+20 13 
+
+14 
+
+10-year overall survival (95% CI) 68% (64–72) 62% (57–67) 
+
+439 417 
+
+317 291 
+
+156 137 
+
+14 
+
+24 18 
+
+Figure 2: Disease-free survival and overall survival distributions and 10-year estimates for major objectives Kaplan-Meier distributions for the intention-to-treat population. (A) Disease-free survival for the combined CAF plus tamoxifen groups (CAF-T plus CAFT) versus tamoxifen alone, log-rank p=0·002, stratiﬁed by number of positive nodes, hormone-receptor status, and time from deﬁnitive surgery. (B) Overall survival for the combined CAF plus tamoxifen groups versus tamoxifen alone, stratiﬁed log-rank p=0·043. (C) Disease-free survival for CAFT versus CAF-T, stratiﬁed log-rank p=0·055. (D) Overall survival for CAFT versus CAF-T, stratiﬁed log-rank p=0·27. CAF=cyclophosphamide, doxorubicin, and ﬂuorouracil. CAF-T=CAF followed by tamoxifen. CAFT=CAF with concurrent tamoxifen. 
+
+CAF plus tamoxifen groups. Mean doses delivered (as percentage of planned doses) for cycles 1–3 were cyclophosphamide 86·6%, doxorubicin 86·1%, and ﬂuorouracil 85·8%; for cycles 4–6 these proportions were 72·4%, 74·4%, and 71·8%, respectively. 81 (5%) of 1477 patients stopped tamoxifen early because of toxicity, 17 (1%) did not receive tamoxifen, and 112 (8%) discontinued tamoxifen early for reasons other than toxicity. The ﬁrst study objective, the comparison of tamoxifen alone with the combined CAF plus tamoxifen groups, was analysed for the primary disease-free survival and secondary overall survival endpoints. After a maximum of 13 years of follow-up (median 8·94 years), there were 179 (50%) events in 361 patients in the tamoxifen-alone group (149 relapses, nine new primary breast cancers, 21 deaths from causes other than breast cancer) and 458 (41%) events in 1116 patients in the combined CAF plus tamoxifen groups (318 relapses, 27 new primary breast cancers, 113 deaths from causes other than breast cancer). Disease-free survival was signiﬁcantly longer in the combined CAF plus tamoxifen groups than in the 2058 
+
+tamoxifen-alone group (stratiﬁed log-rank test p=0·002; ﬁgure 2A). 10-year disease-free survival estimates were 57% (95% CI 53–60) for the combined CAF plus tamoxifen groups and 48% (42–53) for the tamoxifenalone group. Compared with the tamoxifen group, the HR for disease-free survival in the combined CAF plus tamoxifen groups was 0·76 (95% CI 0·64–0·91; p=0·002) by Cox regression, adjusted for the other signiﬁcant independent prognostic factors of nodal status, receptor status, tumour size, and black ethnic origin (table 2). Overall survival was signiﬁcantly longer in the combined CAF plus tamoxifen groups than in the tamoxifen-alone group (stratiﬁed log-rank test p=0·043; ﬁgure 2B). The Kaplan-Meier survival curves began to diverge after the fourth year and remained separate for the rest of the study. 10-year overall survival estimates were 65% (62–68) for the combined CAF plus tamoxifen groups and 60% (54–65) for the tamoxifen-alone group. The adjusted HR for overall survival for the combined CAF plus tamoxifen groups compared with the tamoxifenalone group was 0·83 (0·68–1·01; p=0·057; table 2). www.thelancet.com Vol 374 December 19/26, 2009 
+
+Articles 
+
+Exploratory, unplanned analyses showed that beneﬁt from the addition of CAF to tamoxifen for disease-free survival and overall survival was seen in most major subsets listed in table 1. The unadjusted HRs for diseasefree survival for these subgroups suggest that there might be variation in the eﬃcacy of chemotherapy, particularly with number of positive nodes and age (ﬁgure 3). Patients with four or more positive nodes derived more beneﬁt than did those with one to three positive nodes (test for interaction p=0·015, adjusted for prognostic factors) and patients less than 65 years might have had a greater degree of beneﬁt than did older patients (test for interaction p=0·13, adjusted for prognostic factors; table 2). Additional variation of the unadjusted HRs in ﬁgure 3 might be attributable to small numbers or factors associated with number of positive nodes, such as the type of surgical procedure used. The second study objective—the comparison of CAF-T with CAFT—was analysed for the primary disease-free survival and secondary overall survival endpoints. Event rates were lower than predicted and there was late separation of the CAF-T and CAFT survival curves for disease-free survival (ﬁgure 2C) and overall survival (ﬁgure 2D). Disease-free survival for CAF-T was marginally superior to CAFT (stratiﬁed log-rank test, p=0·055), with 10-year estimates of 60% and 53%, respectively. The adjusted HR for disease-free survival (table 2) was 0·84 (0·70–1·01; p=0·061) for CAF-T compared with CAFT. The diﬀerence in overall survival was not signiﬁcant (stratiﬁed log-rank test, p=0·27), with 10-year estimates of 68% and 62%, respectively, and adjusted HR (table 2) of 0·90 (0·73–1·10; p=0·30) for CAF-T compared with CAFT. Secondary three-way comparisons were undertaken for the primary and secondary endpoints, because the timing of tamoxifen treatment aﬀected the degree of beneﬁt from CAF. The three-sample stratiﬁed log-rank tests were signiﬁcant for disease-free survival (ﬁgure 4A; p=0·002), but did not quite reach signiﬁcance for overall survival (ﬁgure 4B; p=0·074). The adjusted HR for disease-free survival for CAF-T was 0·70 (0·57–0·85; p=0·0002) and the HR for CAFT was 0·83 (0·69–1·01; p=0·062) compared with tamoxifen alone (table 2). For overall survival, the adjusted HRs were 0·79 (0·63–0·98; p=0·032) and 0·87 (0·70–1·08; p=0·22) for CAF-T and CAFT, respectively, compared with tamoxifen alone. The absolute 10-year beneﬁts in disease-free survival for CAF-T and CAFT over tamoxifen were 12% and 5%, respectively (ﬁgure 4A). 513 women died during the study (tamoxifen, n=145; CAF plus tamoxifen, n=368). Deaths from causes other than acute treatment toxicity or breast cancer occurred in 147 (10%) patients (29% of deaths). 73 (22%) of 337 deaths in women aged less than 65 years at study entry were not caused by breast cancer or acute toxicity compared with 74 (42%) of 176 deaths in women aged 65 years or older. Speciﬁc ascertainment of the reason www.thelancet.com Vol 374 December 19/26, 2009 
+
+for these deaths (competing or unrelated cause vs late toxicity) was not possible. Mortality and morbidity during year 1 of treatment for the tamoxifen alone and combined CAF plus tamoxifen groups are shown in table 3. Events were more frequent in patients assigned to CAF than in those assigned to Disease-free survival 
+
+Overall survival 
+
+HR (95% CI) 
+
+Two-sided p value 
+
+HR (95% CI) 
+
+Two-sided p value 
+
+Combined CAF plus tamoxifen groups vs tamoxifen alone 
+
+0·76 (0·64–0·91) 
+
+0·002 
+
+0·83 (0·68–1·01) 
+
+0·057 
+
+CAF-T vs CAFT 
+
+0·84 (0·70–1·01) 
+
+0·061 
+
+0·90 (0·73–1·10) 
+
+0·30 
+
+CAF-T vs tamoxifen alone 
+
+0·70 (0·57–0·85) 
+
+0·0002 
+
+0·79 (0·63–0·98) 
+
+0·032 
+
+CAFT vs tamoxifen alone 
+
+0·83 (0·69–1·01) 
+
+0·062 
+
+0·87 (0·70–1·08) 
+
+0·22 
+
+Primary comparisons 
+
+Secondary comparisons 
+
+Relevant subset comparisons for combined CAF plus tamoxifen groups vs tamoxifen alone Number of involved axillary nodes† 1–3 positive nodes 
+
+0·98 (0·75–1·29) 
+
+0·91 
+
+0·95 (0·70–1·29) 
+
+0·76 
+
+≥4 positive nodes 
+
+0·63 (0·50–0·79) 
+
+<0·0001 
+
+0·75 (0·59–0·97) 
+
+0·026 
+
+Age (years)‡ <65 
+
+0·70 (0·57–0·86) 
+
+0·001 
+
+0·79 (0·62–1·00) 
+
+0·049 
+
+≥65 
+
+0·94 (0·69–1·29) 
+
+0·72 
+
+0·95 (0·68–1·33) 
+
+0·76 
+
+CAF=cyclophosphamide, doxorubicin, and ﬂuorouracil. CAF-T=CAF followed by tamoxifen. CAFT=CAF plus concurrent tamoxifen. *Black ethnic origin, nodal status, receptor status, tumour size. †Test for interaction p=0·015 for disease-free survival; p=0·26 for overall survival. ‡Test for interaction p=0·13 for disease-free survival; p=0·44 for overall survival. 
+
+Table 2: Survival outcomes by treatment adjusted for signiﬁcant factors in the Cox multivariate model* 
+
+Unadjusted hazard ratio (95% CI) Previous oestrogen Yes No Interval from deﬁnitive surgery >6 weeks ≤6 weeks Type of primary therapy Mastectomy Breast conservation Tumour size ≥5 cm <5 cm Receptor status of tumour PgR positive PgR negative Age ≥65 years <65 years Ethnic origin Black Not black Number of involved axillary nodes ≥4 positive 1–3 positive 
+
+0·72 (0·48–1·07) 0·79 (0·65–0·96) 0·73 (0·53–0·99) 0·79 (0·65–0·98) 0·73 (0·61–0·88) 1·06 (0·65–1·73) 0·62 (0·37–1·04) 0·80 (0·66–0·96) 0·76 (0·62–0·93) 0·84 (0·60–1·17) 1·01 (0·74–1·37) 0·69 (0·56–0·85) 0·67 (0·41–1·08) 0·79 (0·66–0·95) 0·62 (0·49–0·77) 0·98 (0·75–1·29) 
+
+Overall 
+
+0·77 (0·65–0·92) 0·4 
+
+0·6 
+
+0·8 
+
+Favours chemotherapy 
+
+1·0 
+
+1·2 
+
+1·4 
+
+1·6 
+
+1·8 
+
+Favours tamoxifen alone 
+
+Figure 3: Hazard ratios and 95% CIs for disease-free survival, by subgroup The forest plot shows the disease-free survival advantage for chemotherapy by possible subgroups unadjusted for other covariates. The dashed vertical line represents the overall unadjusted hazard ratio in each plot. PgR=progesterone. 
+
+2059 
+
+Articles 
+
+A Disease-free survival 
+
+Tamoxifen Combined CAF plus tamoxifen groups (CAF-T plus CAFT)* 
+
+100 
+
+Disease-free survival (%) 
+
+Early events (ﬁrst year of treatment; %)† 75 
+
+50 
+
+25 
+
+Events/number of patients 216/566 242/550 179/361 
+
+CAF-T CAFT Tamoxifen alone 
+
+10-year disease-free survival (95% CI) 60% (55–64) 53% (49–58) 48% (42–53) 
+
+0 
+
+4 (0·36%) 
+
+Grade 4 neutropenia 
+
+0 
+
+491 (44·4%) 
+
+≥Grade 2 emesis 
+
+1 (0·28%) 
+
+255 (23·1%) 
+
+≥Grade 2 stomatitis/mucositis 
+
+2 (0·56%) 
+
+294 (26·6%) 
+
+Thromboembolic episodes 
+
+0 
+
+40 (3·6%) 
+
+Cardiac events 
+
+0 Number at risk CAF-T CAFT Tamoxifen alone 
+
+Death 
+
+Grade 1–2 ejection fraction decline 
+
+0 
+
+4 (0·36%) 
+
+Grade 3–4 congestive heart failure 
+
+0 
+
+10 (0·90%) 
+
+Late events (after year 1, no relapse; rate‡)§ 566 550 361 
+
+516 502 320 
+
+452 428 263 
+
+395 366 223 
+
+284 249 162 
+
+138 119 69 
+
+20 13 17 
+
+B Overall survival 
+
+Congestive heart failure¶ 
+
+1 (0·048) 
+
+25 (0·36) 
+
+Any grade thromboembolic event 
+
+7 (0·33) 
+
+24|| (0·34) 
+
+Uterine neoplasm 
+
+4** (0·16) 
+
+15†† (0·19) 
+
+Endometrial 
+
+3 (0·12) 
+
+14 (0·17) 
+
+Sarcoma 
+
+100 
+
+AML/MDS 
+
+Overall survival (%) 
+
+50 
+
+25 
+
+CAF-T CAFT Tamoxifen alone 
+
+10-year overall survival (95% CI) 68% (64–72) 62% (57–67) 60% (54–65) 
+
+0 
+
+Number at risk CAF-T CAFT Tamoxifen alone 
+
+0 
+
+2 
+
+4 
+
+566 550 361 
+
+539 528 347 
+
+487 476 312 
+
+6 8 Time from registration (years) 439 417 269 
+
+317 291 204 
+
+10 
+
+12 
+
+156 137 91 
+
+24 18 17 
+
+14 
+
+Figure 4: Disease-free survival and overall survival by randomised treatment group Kaplan-Meier distributions for the intention-to-treat population. (A) Disease-free survival advantage for CAF-T, log-rank p=0·002, stratiﬁed by number of positive nodes, hormone-receptor status, and time of surgery. (B) Superior overall survival in the CAF-T group, stratiﬁed log-rank p=0·074. 10-year survival estimates and hazard ratios adjusted for prognostic covariates with 95% CIs are also shown. CAF-T=cyclophosphamide, doxorubicin, and ﬂuorouracil (CAF) followed by tamoxifen. CAFT=CAF plus concurrent tamoxifen. 
+
+tamoxifen alone. In the combined CAF plus tamoxifen groups there were four deaths during CAF and the incidence of grade 4 neutropenia was 44%, but neutropenic fever was uncommon. Grade 2–4 emesis or stomatitis was seen in 255 (23%) and 294 (27%) patients, respectively. There were 40 (3·6%) thrombotic events during CAF (mainly deep vein thromboses), ten (0·9%) reports of grade 3–4 congestive heart failure, and four patients had grade 1–2 decline of ejection fraction. No diﬀerences in toxicity were noted between treatment with CAF-T and CAFT. Table 3 also shows late treatment-related adverse events in 1430 patients who completed 1 year without early relapse. Congestive heart failure was reported in 25 patients (0·36 per 100 person-years) in the combined CAF plus tamoxifen groups and in one patient (0·048 per 100 person-years) in the tamoxifen-alone group. Pulmonary 2060 
+
+1 (0·012) 9 (0·14) 
+
+CAF=cyclophosphamide, doxorubicin, and ﬂuorouracil. CAF-T=CAF followed by tamoxifen. CAFT=CAF plus concurrent tamoxifen. AML=acute myeloid leukaemia. MDS=myelodysplastic syndrome. *No signiﬁcant diﬀerence in any event between the CAF plus tamoxifen groups (CAFT, CAF-T). †Tamoxifen, n=354; CAF plus tamoxifen groups, n=1106. ‡Rate per 100 person-years of follow-up to relapse or last contact. §Tamoxifen, n=346; CAF plus tamoxifen groups, n=1084. ¶Excludes heart failure resulting from coronary artery disease. ||Includes one death from pulmonary embolism at year 1·8. **Includes one death from uterine sarcoma. ††Includes two deaths (one uterine sarcoma; one endometrial carcinoma). 
+
+75 
+
+Deaths/number of patients 176/566 192/550 145/361 
+
+1 (0·041) 0 
+
+Table 3: Mortality and morbidity during the ﬁrst and subsequent years of treatment 
+
+embolism, deep venous thrombosis, or stroke occurred in 24 patients (0·34 per 100 person-years) assigned to CAF plus tamoxifen and in seven patients (0·33 per 100 personyears) assigned to tamoxifen alone. The rates of non-breast second primary malignancies in the tamoxifen-alone group were similar to those in the CAF plus tamoxifen groups, apart from secondary acute myeloid leukaemia or myelodysplastic syndrome (tamoxifen, no events; CAF-T plus CAFT, nine events [0·14 per 100 person-years]). There were 19 uterine malignancies, (tamoxifen, 0·16 per 100 person-years; CAF-T plus CAFT, 0·19 per 100 personyears). Rates for all of these adverse events were similar in the CAFT and CAF-T groups (data not shown). 
+
+Discussion We found that adjuvant treatment with a combination of CAF plus tamoxifen signiﬁcantly improved disease-free survival compared with tamoxifen alone in postmenopausal women with node-positive, hormonereceptor-positive breast cancer. This advantage was greater in women with four or more positive nodes and in younger postmenopausal women (aged <65 years), although beneﬁt cannot be ruled out for women with one to three positive nodes or for older women. A separate report describes subgroups of patients from this study (based on multigene analyses of tumours) www.thelancet.com Vol 374 December 19/26, 2009 
+
+Articles 
+
+who do not seem to beneﬁt, despite the overall trial ﬁnding that CAF plus tamoxifen is beneﬁcial compared with tamoxifen alone.27 The other primary objective of this study was to investigate whether potential antagonism between tamoxifen and chemotherapy (suggested by preclinical data17–20) was manifested by a worse clinical outcome for concomitant therapy than with sequential treatment. The magnitude of beneﬁt for disease-free survival when CAF was added to tamoxifen seemed greater when this drug followed chemotherapy than when it was given concurrently. Two small trials prospectively addressed timing of tamoxifen administration in relation to chemotherapy, but neither reported a signiﬁcant diﬀerence in outcome between concurrent and sequential treatment.28,29 There are several reasons why concurrent tamoxifen could interfere with chemotherapy,17–20 but none of them has been conclusively proven. Overall survival was an important secondary outcome in this population of postmenopausal women. Whereas overall survival showed the same general trend as disease-free survival, the HRs were attenuated and signiﬁcance was not reached. This study supports the use of disease-free survival as a primary outcome because of reduced follow-up time, but also shows that reaching signiﬁcance for overall survival might require longer follow-up in patients with endocrine-responsive breast cancer. Our data support the use of anthracycline-based chemotherapy followed by tamoxifen in clinical practice. On the basis of our results, the recent St Gallen consensus recommended that tamoxifen should be started after chemotherapy,4 and this approach is current policy for major cooperative group adjuvant studies. However, the concerns about concomitant tamoxifen with chemotherapy that were raised by this study should not be extrapolated to aromatase inhibitors, the other major form of endocrine adjuvant therapy, since they work by a diﬀerent mechanism in the cell. The optimum timing of these agents with respect to chemotherapy has not been studied. It is common practice to omit chemotherapy from the systemic therapy adjuvant prescription in postmenopausal women. This practice standard, recommended for some nodal and oestrogen-receptor expression level subgroups in the St Gallen consensus, is based on the small beneﬁt of chemotherapy reported in a meta-analysis10 and in individual trials that showed no added beneﬁt of chemotherapy.7–9 Most of these studies were CMF-based, prescribed tamoxifen concurrently with chemotherapy, used intravenous cyclophosphamide in the CMF regimen, or prospectively lowered doses of chemotherapy in relation to increasing patient age. Instead, our results suggest that anthracycline-based approaches for approximately 6 months could help to achieve maximum beneﬁt from chemoendocrine therapy in postmenopausal women with hormone-receptorwww.thelancet.com Vol 374 December 19/26, 2009 
+
+positive breast cancer. The National Surgical Adjuvant Breast and Bowel Project (NSABP) reported a diseasefree survival advantage from four cycles of doxorubicin plus cyclophosphamide added to tamoxifen over tamoxifen alone, but overall survival in the two groups was not signiﬁcantly diﬀerent (p=0·08), although premenopausal patients and those with receptor-negative disease were also included in the study.30 Another group reported an advantage in disease-free survival but not in overall survival of six cycles of ﬂuorouracil, epirubicin, and cyclophosphamide in postmenopausal women with oestrogen-receptor-positive breast cancer and one to three positive nodes.31 There are several limitations to our study. First, we do not know which women would beneﬁt from added chemotherapy compared with endocrine therapy alone. A subset of women with oestrogen-receptor-positive breast cancer have endocrine-responsive tumours (deﬁned by very high levels of receptor expression) that show diﬀerent biology and might not be as responsive to chemotherapy.4,9 The beneﬁt of CAF seen in our study might not occur in all patient subsets. A separate report addresses this important question of chemotherapy beneﬁt within biological subsets.27 Second, this study was done in the era before standard determination of HER2 (ERBB2) status of the breast tumour; therefore, some of the chemotherapy beneﬁt might have occurred in the HER2-positive subgroup within this trial population. This important issue is also considered in the separate report.27 Third, the small sample size (by current standards) limits the power to make deﬁnitive conclusions in key subgroups. Finally, there was no central determination of oestrogen-receptor status to conﬁrm the institutional designation of positive. This aspect was addressed in the separate report.27 The disease-free survival advantage from CAF-based treatment was not without signiﬁcant toxicity in some women, such that the frequent as well as more infrequent toxicities and late events seen should be fully presented at time of the treatment decision-making process. There was an increased risk of thrombotic episodes during the ﬁrst year of chemoendocrine therapy, as reported by others,8 and no diﬀerence in the risk between CAF-T and CAFT. Congestive heart failure was uncommon, but occurred at a greater frequency in the combined CAF plus tamoxifen groups than in the tamoxifen-alone group; the anthracycline was probably responsible for this adverse event. The risk of late acute myeloid leukaemia or myelodysplastic syndrome was less than 1%, but the conditions were only seen in the combined CAF plus tamoxifen groups (no diﬀerence between CAFT and CAF-T) and not in the tamoxifen-alone group. We believe that for postmenopausal women with few comorbidities who have a substantial risk of recurrence or death based on the prognostic proﬁle of their tumour, the risk–beneﬁt balance favours anthracycline-based chemotherapy followed by tamoxifen. However, 2061 
+
+Articles 
+
+characteristics of the tumour should also be factored into the risk–beneﬁt ratio. This study shows the necessity of long-term follow-up of adjuvant therapies to determine the outcomes of treatment. Contributors KSA was the principal investigator and participated in study design, writing the protocol, approval of the ﬁnal draft of the protocol, patient accrual, study monitoring, data and toxicity review, discipline review, ﬁnal data analyses, interpretation of results, writing of the report, and review of the completed report. HBM participated in approval of the ﬁnal draft of the protocol, patient accrual, study monitoring, data and toxicity review, discipline review, and ﬁnal data analyses. SJG participated in study design, writing the protocol, approval of the ﬁnal draft of the protocol, study monitoring, data and toxicity review, and ﬁnal data analyses. WEB, DL, RBL, SM, and CKO participated in ﬁnal data analyses. KIP, ASL, ICH, MDA, and CKO participated in study design. JNI, KIP, ASL, MDA, and CKO participated in protocol writing or review and approval of the ﬁnal protocol. PMR, EGL, KIP, DJS, and RBL participated in study monitoring, and toxicity and data review. WBF, GVB, SJK, CDC, EGL, JNI, KIP, ASL, SM, and CKO participated in patient accrual. ASL and DJS participated in discipline review. WEB, PMR, CDC, JNI, KIP, HBM, SJG, RBL, SM, and CKO participated in interpretation of results and in writing or reviewing the completed report. GVB, SJK, EGL, ASL, ICH, DJS, and WBF participated in writing of the report or review of the completed report. All authors have approved the ﬁnal report for publication, with the exception of MDA who died after initial data interpretation and manuscript draft approval. The Breast Cancer Intergroup of North America Southwest Oncology Group (SWOG), Cancer and Leukemia Group B (CALGB), Eastern Cooperative Oncology Group (ECOG), National Cancer Institute of Canada Clinical Trials Group (NCIC), North Central Cancer Treatment Group (NCCTG). 
+
+4 
+
+5 6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Conﬂicts of interest We declare that we have no conﬂicts of interest. Acknowledgments This study was solely supported by the National Cancer Institute as a High Priority Trial and was undertaken by the Southwest Oncology Group (SWOG) for The Breast Cancer Intergroup of North America. The investigation was supported in part by the following PHS Cooperative Agreement grant numbers awarded by the National Cancer Institute, Department of Health and Human Services: CA38926, CA32102, CA21115, CA02599, CA60138, CA25224, CA77202-06, CA04920, CA58658, CA13612, CA37981, CA76447, CA22433, CA58416, CA20319, CA58686, CA04919, CA46441, CA58861, CA27057, CA32734, CA35281, CA12644, CA16385, CA45560, CA58882, CA14028, CA35176, CA46282, CA46113, CA52650, CA03096, CA28862, CA35090, CA58723, CA35283, CA45807, CA35200, CA35119, CA45450, CA46136, CA42777, CA35261, CA45466, CA35117, CA46368, CA58348, CA12213, CA52654, CA35128, CA58415, CA52623, CA35192, CA45377, CA35996, CA52757, CA76132, CA35431, CA76462, CA45461, CA35084, CA76429, CA35178, CA67663, CA63844, CA52772. We thank The Breast Cancer Intergroup of North America discipline leaders for their advice or assistance during the design or conduct of this study. We thank the membership of the Breast Committees of SWOG, ECOG, NCCTG, CALGB, and NCIC for their support of this study over the long accrual period. We also thank the survivors of breast cancer who were treated and followed-up on this protocol. References 1 Early Breast Cancer Trialists’ Collaborative Group. Eﬀects of adjuvant tamoxifen and of cytotoxic and of cytotoxic therapy on mortality in early breast cancer: an overview of 61 randomised trials among 28 896 women. N Engl J Med 1988; 319: 1681–92. 2 Early Breast Cancer Trialists’ Collaborative Group. Tamoxifen for early breast cancer: an overview of the randomised trials. Lancet 1998; 351: 1451–67. 3 National Institutes of Health Consensus Development Panel. NIH consensus development conference statement: adjuvant therapy for breast cancer, November 1–3, 2000. J Natl Cancer Inst 2001; 93: 979–89. 
+
+2062 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 22 23 
+
+Goldhirsch A, Glick JH, Gelber RD, Coates AS, Thurlimann B, Senn H-J, International Consensus Panel members. Meeting highlights: international expert consensus on the primary therapy of early breast cancer. Ann Oncol 2005; 16: 1569–83. Osborne CK. Combined chemohormonal therapy in breast cancer: a hypothesis. Breast Cancer Res Treat 1981; 1: 121–23. Crivellari D, Bonetti M, Castiglione-Gertsch M, et al. Burdens and beneﬁts of adjuvant cyclophosphamide, methotrexate, and ﬂuorouracil and tamoxifen for elderly patients with breast cancer: the International Breast Cancer Study Group Trial VII. J Clin Oncol 2000; 18: 1412–22. Rivkin SE, Green S, Metch B, et al. Adjuvant CMFVP versus tamoxifen versus concurrent CMFVP and tamoxifen for postmenopausal, node-positive, and estrogen receptor-positive breast cancer patients: a Southwest Oncology Group study. J Clin Oncol 1994; 12: 2078–85. Pritchard KI, Paterson AH, Fine S, et al. Randomized trial of cyclophosphamide, methotrexate and ﬂuorouracil chemotherapy added to tamoxifen as adjuvant therapy in postmenopausal women with node-positive estrogen and/or progesterone receptor-positive breast cancer: a report of the National Cancer Institute of Canada Clinical Trials Group. Breast Cancer Site Group. J Clin Oncol 1997; 15: 2302–11. Castiglione-Gertsch M, Price KN, Goldhirsch A, et al. Endocrine responsiveness and tailoring adjuvant therapy for postmenopausal lymph node-negative breast cancer: a randomized trial of the International Breast Cancer Study Group (Trial IX). J Natl Cancer Inst 2002; 994: 1054–65. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Eﬀects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005; 365: 1687–717. Bull JM, Tormey DC, Li SH, et al. A randomized comparative trial of Adriamycin versus methotrexate in combination drug therapy. Cancer 1978; 41: 1649–57. Buzdar A, Hortobagyi G, Marcus C, Smith T, Martin R, Gehan E. Results of adjuvant chemotherapy trials in breast cancer at M D Anderson Hospital and Tumor Institute. NCI Monogr 1986; 1: 81–85. Cummings F, Gelman R, Horton J. Comparison of CAF versus CMFP in metastatic breast cancer: analysis of prognostic factors. J Clin Oncol 1985; 3: 932–40. Fisher B, Redmond C, Wickerham DL, et al. Doxorubicin-containing regimens for the treatment of stage II breast cancer: the National Surgical Breast and Bowel Project experience (B11, B12). J Clin Oncol 1989; 7: 572–82. Levine M, Bramwell V, Pritchard K, et al. Randomized trial of intensive cyclophosphamide, methotrexate and ﬂuorouracil in premenopausal women with node-positive breast cancer. National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 1998; 16: 2651–58. Perloﬀ M, Norton L, Korzun AH, et al. Postsurgical adjuvant chemotherapy of stage II breast carcinoma with or without crossover to a non-cross-resistant regimen: a Cancer and Leukemia Group B study. J Clin Oncol 1996; 14: 1589–98. Goldenberg GJ, Froese EK. Antagonism of the cytocidal activity and uptake of melphalan in human breast cancer cells in vitro. Biochem Pharmacol 1985; 34: 763–70. Osborne CK, Kitten L, Arteaga CL. Antagonism of chemotherapyinduced cytotoxicity for human breast cancer cells by antiestrogens. J Clin Oncol 1989; 7: 710–17. Hug V, Hortobagyi G, Drewinko B, Finders F. Tamoxifen citrate counteracts antitumor eﬀects of cytotoxic drugs in vitro. J Clin Oncol 1985; 3: 1672–77. Sutherland RL, Green MD, Hall RE, et al. Tamoxifen induces accumulation of MCF7 cells in the G0/G1 phase of the cell cycle. Eur J Cancer Clin Oncol 1983; 19: 615–21. American Joint Commission on Cancer (AJCC). Staging manual, 5th edn. Philadelphia, PA: Lippincott Raven, 1988. Fleming T, O’Brien P, Harrington D. Designs for group sequential tests. Control Clin Trials 1984; 5: 348–61. Mantel N. Evaluation of survival data and two new rank order statistics arising in its consideration. Cancer Chemother Rep 1966; 50: 163–70. 
+
+www.thelancet.com Vol 374 December 19/26, 2009 
+
+Articles 
+
+24 
+
+25 
+
+26 
+
+27 
+
+Albain K, Green S, Osborne K, et al. Tamoxifen (T) vs cyclophosphamide, Adriamycin, and 5-FU (CAF) plus either concurrent or sequential T in postmenopausal, receptor(+), node(+) breast cancer: a Southwest Oncology Group phase III Intergroup trial (SWOG-8814, INT-0100). 1997 ASCO Annual Meeting. Abstract 450. Albain K, Green S, Ravdin P, et al. Overall survival after cyclophosphamide, Adriamycin, 5-FU and tamoxifen is superior to tamoxifen alone in postmenopausal, receptor(+), node(+) breast cancer: new ﬁndings from phase III Southwest Oncology Group Intergroup Trial S8814 (INT-0100). 2001 ASCO Annual Meeting; San Francisco, CA, USA; May 12–15, 2001. Abstract 94. Albain KS, Green SJ, Ravdin PM, et al. Adjuvant chemohormonal therapy for primary breast cancer should be sequential instead of concurrent: initial results from Intergroup trial 0100 (SWOG-8814). 2002 ASCO Annual Meeting; Orlando, FL, USA; May 18–21, 2002. Abstract 143. Albain KS, Barlow WE, Shak S, et al, for The Breast Cancer Intergroup of North America. Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with node-positive, oestrogen-receptor-positive breast cancer on chemotherapy: a retrospective analysis of a randomised trial. Lancet Oncol 2009; published online Dec 10. DOI:10.1016/S14702045(09)70314-6. 
+
+www.thelancet.com Vol 374 December 19/26, 2009 
+
+28 
+
+29 
+
+30 
+
+31 
+
+Pico C, Martin M, Jara C, et al. Epirubicin-cyclophosphamide chemotherapy plus tamoxifen administered concurrent versus sequential: randomized phase III trial in postmenopausal node-positive breast cancer patients. GEICAM 9401 study. 2002 ASCO Annual Meeting; Orlando, FL, USA; May 18–21, 2002. Abstract 144. Sertoli MR, Pronzato P, Venturini M, et al. A randomized study of concurrent versus sequential adjuvant chemotherapy and tamoxifen in stage II breast cancer. ASCO Annual Meeting; Orlando, FL, USA; May 18–21, 2002. Abstract 182. Fisher B, Redmond C, Legault-Poisson S, et al. Postoperative chemotherapy and tamoxifen compared with tamoxifen alone in the treatment of positive-node breast cancer patients aged 50 years and older with tumors responsive to tamoxifen: results from the National Surgical Adjuvant Breast and Bowel Project B-16. J Clin Oncol 1990; 8: 1005–18. Namer M, Fargeot P, Roche H, et al. Improved disease-free survival with epirubicin-based chemoendocrine adjuvant therapy compared with tamoxifen alone in non-positive, estrogen-receptorpositive breast cancer patients: 9-year follow-up analysis from pooled FASG 02 and 07 trials. Breast Cancer Res Treat 2004; 88 (suppl 1): S54. 
+
+2063 
+
+ 

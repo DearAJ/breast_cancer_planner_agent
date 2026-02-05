@@ -1,0 +1,1291 @@
+The new england journal of medicine 
+
+original article 
+
+Adjuvant Docetaxel or Vinorelbine with or without Trastuzumab for Breast Cancer Heikki Joensuu, M.D., Pirkko-Liisa Kellokumpu-Lehtinen, M.D., Petri Bono, M.D., Tuomo Alanko, M.D., Vesa Kataja, M.D., Raija Asola, M.D., Tapio Utriainen, M.D., Riitta Kokko, M.D., Akseli Hemminki, M.D., Maija Tarkkanen, M.D., Taina Turpeenniemi-Hujanen, M.D., Sirkku Jyrkkiö, M.D., Martti Flander, M.D., Leena Helle, M.D., Seija Ingalsuo, M.D., Kaisu Johansson, M.D., Anna-Stina Jääskeläinen, M.D., Marjo Pajunen, M.D., Mervi Rauhala, M.D., Jaana Kaleva-Kerola, M.D., Tapio Salminen, M.D., Mika Leinonen, M.Sci., Inkeri Elomaa, M.D., and Jorma Isola, M.D., for the FinHer Study Investigators* 
+
+A bs t r ac t Background 
+
+We compared docetaxel with vinorelbine for the adjuvant treatment of early breast cancer. Women with tumors that overexpressed HER2/neu were also assigned to receive concomitant treatment with trastuzumab or no such treatment. Methods 
+
+We randomly assigned 1010 women with axillary-node–positive or high-risk nodenegative cancer to receive three cycles of docetaxel or vinorelbine, followed by (in both groups) three cycles of fluorouracil, epirubicin, and cyclophosphamide. The 232 women whose tumors had an amplified HER2/neu gene were further assigned to receive or not to receive nine weekly trastuzumab infusions. The primary end point was recurrence-free survival. Results 
+
+Recurrence-free survival at three years was better with docetaxel than with vinorelbine (91 percent vs. 86 percent; hazard ratio for recurrence or death, 0.58; 95 percent confidence interval, 0.40 to 0.85; P = 0.005), but overall survival did not differ between the groups (P = 0.15). Within the subgroup of patients who had HER2/neu-positive cancer, those who received trastuzumab had better three-year recurrence-free survival than those who did not receive the antibody (89 percent vs. 78 percent; hazard ratio for recurrence or death, 0.42; 95 percent confidence interval, 0.21 to 0.83; P = 0.01). Docetaxel was associated with more adverse effects than was vinorelbine. Trastuzumab was not associated with decreased left ventricular ejection fraction or cardiac failure. 
+
+From the Department of Oncology, Helsinki University Central Hospital, Helsinki (H.J., P.B., T.A., T.U., A.H., M.T., A.-S.J., I.E.); the Department of Oncology, Tampere University Hospital (P.-L.K.-L., T.S.), and the Laboratory of Cancer Biology, Institute of Medical Technology, University of Tampere and Tampere University Hospital (J.I.), Tampere; the Department of Oncology, Kuopio University Hospital, Kuopio (V.K.); Satakunta Central Hospital, Pori (R.A.); Hämeenlinna Central Hospital, Hämeenlinna (R.K.); the Department of Oncology and Radiotherapy, Oulu University Hospital, Oulu (T.T.-H.); the Department of Oncology, Turku University Central Hospital, Turku (S.J.); South Karelia Central Hospital, Lappeenranta (M.F.); Kotka Central Hospital, Kotka (L.H.); Vaasa Central Hospital, Vaasa (S.I.); Kokkola Central Hospital, Kokkola (K.J.); Jyväskylä Central Hospital, Jyväskylä (M.P.); Kajaani Central Hospital, Kajaani (M.R.); Kemi Central Hospital, Kemi (J.K.-K.); and 4Pharma, Turku (M.L.) — all in Finland. Address reprint requests to Dr. Joensuu at the Department of Oncology, Helsinki University Central Hospital, Haartmaninkatu 4, P. O.B. 180, FIN-00029 Helsinki, Finland. *Other FinHer (Finland Herceptin) Study investigators are listed in the Appendix. 
+
+Conclusions 
+
+Adjuvant treatment with docetaxel, as compared with vinorelbine, improves recurrence-free survival in women with early breast cancer. A short course of trastuzumab administered concomitantly with docetaxel or vinorelbine is effective in women with breast cancer who have an amplified HER2/neu gene. (International Standard Randomised Controlled Trial number, ISRCTN76560285.) 
+
+n engl j med 354;8 
+
+www.nejm.org 
+
+N Engl J Med 2006;354:809-20. Copyright © 2006 Massachusetts Medical Society. 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+809 
+
+The new england journal of medicine 
+
+A 
+
+djuvant (postoperative) treatment has markedly reduced rates of death due to breast cancer.1,2 However, in 15 to 25 percent of breast carcinomas, there is amplification of the HER2/neu (ErbB2) gene, an excess of the HER2 protein in the cancer cells,3 and a high risk of recurrence.4-6 Trastuzumab (Herceptin, Roche) is a humanized monoclonal antibody against the HER2 protein. When administered with chemotherapy, it improves survival in advanced HER2-positive breast cancer.7,8 When given concomitantly with paclitaxel or after chemotherapy for 12 months as adjuvant treatment for early HER2-positive breast cancer, trastuzumab reduces the risk of recurrence by approximately 50 percent and the risk of death by approximately 30 percent.9,10 In these studies, the principal adverse event attributable to trastuzumab was heart failure, which occurred in 1.7 to 4.1 percent of women treated with the antibody; approximately 10 percent of trastuzumabtreated participants had a substantial decrease in the left ventricular ejection fraction. The risk of cardiac dysfunction with trastuzumab treatment increases with the use of anthracyclines.7,11 The long-term outcome of trastuzumab-related heart failure is unknown, although symptoms usually subside with cessation of treatment with trastuzumab and management of the condition.10 Combining trastuzumab with docetaxel, vinorelbine, cisplatin, carboplatin, or paclitaxel has resulted in the highest pooled response rates to date in the treatment of breast cancer.12 Data obtained in vitro suggest that such combinations kill breast cancer cells by synergistic effects.13,14 In the FinHer (Finland Herceptin) study, we compared docetaxel with vinorelbine, administered with or without trastuzumab, as adjuvant treatment for early breast cancer. In this study, trastuzumab was administered before other cardiotoxic therapies and concomitantly with potentially synergistic chemotherapy for only nine weeks to test the hypothesis that such a schedule would limit cardiotoxicity and maintain efficacy. 
+
+Me thods Study Population 
+
+Women eligible for the study were less than 66 years of age, had a World Health Organization performance status of 0 or 1, and had undergone breast surgery with axillary-node dissection or 
+
+810 
+
+n engl j med 354;8 
+
+sentinel-node biopsy for invasive breast carcinoma. We required determination of steroid hormone– receptor status and HER2 expression by immunohistochemistry, according to the guidelines of each institution. When HER2 expression was scored 2+ or 3+ (on a scale of 0, 1+, 2+, or 3+), the number of copies of the HER2/neu gene was determined by means of chromogenic in situ hybridization in one of two reference laboratories.15 Participants were randomly assigned (centrally and with computer-assisted blinding) to a study group within 12 weeks after surgery. Eligible patients had either at least one positive axillary node (regardless of the primary tumor size or its hormone-receptor expression) or a node-negative breast-cancer mass at least 20 mm in diameter and a negative test for progesterone receptors (usually defined as staining of <10 percent of the cancer cells). The staging workup included isotope bone scanning; chest radiography or computed tomography (CT); and CT or ultrasonography of the upper abdomen. Criteria for exclusion were distant metastases, pregnancy, severe hypertension, and cardiac disease (including cardiac failure of any degree, arrhythmia requiring regular medication, and myocardial infarction within the previous 12 months). Patients were ineligible if they had a serum bilirubin level above the upper limit of normal, an alanine or aspartate aminotransferase level greater than 1.5 times the upper limit of normal, an alkaline phosphatase level above 2.5 times the upper limit of normal, a blood leukocyte count below 3.0×109 per milliliter, a neutrophil count below 1.5×109 per milliliter, or a platelet count below 120×109 per milliliter. An ethics committee at Helsinki University Central Hospital approved the study. Study participants provided written informed consent. Study Design 
+
+Figure 1 shows the design of the trial. Randomization was stratified according to HER2 status (positive vs. negative) and institution in this phase 3, open-label, multicenter trial. Permuted blocks were used to randomly assign all participants to receive three cycles of either docetaxel or vinorelbine. Docetaxel (Taxotere, Sanofi-Aventis) was given at a dose of 100 mg per square meter of body-surface area as a one-hour intravenous infusion on day 1 of each 21-day cycle. Vinorelbine (Navelbine, Pierre Fabre) was administered at a 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+DOCETAXEL OR VINORELBINE FOR EARLY BREAST CANCER 
+
+Diagnosis of invasive breast cancer (node-positive; or node-negative, tumor diameter >20 mm, and progesterone-receptor–negative) Local determination of HER2/neu expression by immunohistochemistry 
+
+Confirmation of HER2/neu amplification by CISH in one of two laboratories when immunohistochemistry findings were scored 2+ or 3+ 
+
+Randomization (N=1010) 
+
+No HER2/neu amplification (N=778) 
+
+Docetaxel plus FEC (N=390) (1 Had HER2/neupositive cancer) 
+
+Vinorelbine plus FEC (N=388) 
+
+HER2/neu amplification (N=232) 
+
+Docetaxel plus FEC; no trastuzumab (N=58) 
+
+Docetaxel plus FEC; trastuzumab (N=54) 
+
+Vinorelbine plus FEC; no trastuzumab (N=58) 
+
+Vinorelbine plus FEC; trastuzumab (N=62) (1 Excluded from efficacy analysis) 
+
+15 Recurrences or deaths 
+
+9 Recurrences or deaths 
+
+Follow-up (median, 36 mo; range, 20– 55 mo) 
+
+27 Recurrences or deaths 
+
+47 Recurrences or deaths 
+
+12 Recurrences or deaths 
+
+3 Recurrences or deaths 
+
+Figure 1. The Design of the Trial. CISH denotes chromogenic in situ hybridization, and FEC a regimen of fluorouracil, epirubicin, and cyclophosphamide. 
+
+dose of 25 mg per square meter as a 5-to-10-minute intravenous infusion on days 1, 8, and 15 of the 21-day cycles. After the completion of docetaxel or vinorelbine treatment, three cycles of a regimen consisting of intravenous fluorouracil at a dose of 600 mg per square meter, epirubicin at a dose of 60 mg per square meter, and cyclophosphamide at a dose of 600 mg per square meter, each administered on day 1 of a 21-day cycle (FEC), were given. The vinorelbine infusion on day 15 was omitted from the third cycle to allow the 
+
+n engl j med 354;8 
+
+initiation of FEC at a full dose without delay. The duration of the chemotherapy regimen was 18 weeks. Women who had verified HER2-positive cancer were randomly assigned to receive or not to receive trastuzumab. Nine trastuzumab infusions were administered at one-week intervals; the first infusion was given on day 1 of the first docetaxel or vinorelbine cycle. The first dose was 4 mg per kilogram of body weight and the subsequent doses 2 mg per kilogram, administered over pe- 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+811 
+
+The new england journal of medicine 
+
+riods of 90 and 30 minutes, respectively. Trastuzumab was infused before docetaxel or vinorelbine. No trastuzumab was given during FEC administration. The primary end point was recurrence-free survival, defined as the time from the date of randomization to the date of detection (with histologic or cytologic confirmation or with radiologic evidence) of local, distant, or contralateral invasive breast cancer or death, whichever occurred first. Secondary end points included adverse effects, the effect of treatment on the left ventricular ejection fraction, the time to distant recurrence, and overall survival, defined as time from randomization to death from any cause. Study Procedures 
+
+Concomitant Therapy 
+
+Patients assigned to docetaxel received six 7.5-mg doses of dexamethasone; the first two were given 12 hours and 1 hour before docetaxel infusion and the rest at 12-hour intervals after infusion. Use of prophylactic antibiotics or granulocyte colony-stimulating factors was not recommended unless one or more episodes of febrile neutropenia or severe infection occurred. Radiotherapy was given after the completion of chemotherapy according to each institution’s guidelines, but it was required after breast-conserving surgery. Tamoxifen at a dose of 20 mg per day was administered to patients with estrogenreceptor–positive or progesterone-receptor–positive tumors; this treatment was to be continued for five years. Dose Modifications 
+
+Chemotherapy doses were reduced by 20 percent in cases of persistent hematologic toxic effects or grade 3 or 4 nonhematologic toxic effects, defined according to the National Cancer Institute Common Toxicity Criteria (version 2.0). When either docetaxel or vinorelbine was discontinued because of adverse effects, the cycles not given were replaced by an equal number of cycles of FEC. Trastuzumab was administered at full doses regardless of blood-cell counts, but infusions were deferred whenever vinorelbine or docetaxel infusions were postponed because of adverse effects. Evaluations 
+
+Adverse effects of therapy were recorded on proto- 
+
+812 
+
+n engl j med 354;8 
+
+col-specified forms on day 21 of each chemotherapy cycle and 12 and 36 months after chemotherapy. Patients were scheduled for follow-up for a minimum of five years. Mammography was performed at one-to-two-year intervals, but otherwise follow-up was carried out according to each institution’s guidelines. In the group of patients assigned to trastuzumab treatment, the left ventricular ejection fraction was measured by either echocardiography or isotope cardiography before chemotherapy, after the last FEC cycle, and 12 and 36 months after chemotherapy. Statistical Analysis 
+
+The study was designed to have a power of 0.80 to detect an increase in five-year recurrence-free survival from 70 percent to 80 percent in the docetaxel-plus-FEC group as compared with the vinorelbine-plus-FEC group (with use of a twosided test at a significance level of 0.05); approximately 150 events were required for this purpose. We estimated that 30 percent of the participants would have breast cancer with HER2/neu amplification and that the study would be able to detect a difference in their five-year recurrence-free survival of 50 percent to 67 percent at a power of 0.80 when approximately 1000 patients were enrolled. Protocol-defined safety analyses took place in March 2001, September 2001, and December 2002.16 The current protocol specified that safety and early efficacy analyses were to be carried out when the median follow-up time exceeded three years; this point was reached in May 2005. The final analyses will be performed when 150 events have occurred or the median follow-up time exceeds five years. For the primary variable, a P value of less than 0.029 was considered to indicate significance, in order to maintain an overall type 1 error of 0.05 for the interim and final analysis.17 Frequency tables were analyzed with use of the chi-square test. Survival between groups was compared with use of the Kaplan–Meier life-table method and the Cox proportional-hazards model; the log-rank test was used to confirm the robustness of the analysis. Efficacy analyses were based on the intention-to-treat principle. The effects of treatment, time, the method of assessment, and their interactions with the left ventricular ejection fraction were analyzed in a repeated-measures analysis of covariance (ANCOVA) model; pretreat- 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+DOCETAXEL OR VINORELBINE FOR EARLY BREAST CANCER 
+
+ment measurement of the ejection fraction was used as a covariate and the ejection fractions measured later as response variables. All P values are two-sided and were not adjusted for multiple testing. Dr. Joensuu drafted the study design. The investigators initiated the study, and collected, analyzed, and maintained the data. The sponsor (the Finnish Breast Cancer Group) received grants from Sanofi-Aventis, Pierre Fabre, and Pharmacia; Roche supported the HER2/neu analyses. Trastuzumab was purchased from funds provided in the state budget of Finland; other study drugs were purchased by the participating institutions. The manuscript was drafted by Dr. Joensuu and modified by the coauthors. The authors determined the content of the manuscript and vouch for its accuracy and completeness. 
+
+R e sult s Patients 
+
+From October 2000 to September 2003, 1010 women (approximately 40 percent of the eligible women in Finland who received a diagnosis of breast cancer within this period, according to the Finnish Cancer Registry and other sources [www.cancer.fi])18 were randomly assigned to receive either docetaxel (502 women) or vinorelbine (508). Of these 1010 women, 232 who had an amplified HER2/neu gene were further randomly assigned to receive trastuzumab (116 women) or not to receive it (116). The median follow-up times were 36 and 35 months in the docetaxel and vinorelbine groups, respectively, and 37 and 35 months in the trastuzumab and no-trastuzumab (control) groups, respectively, at the time of analysis (May 19, 2005). No patient was lost to followup. Two women who did not receive the study treatments because of abnormal results on liverfunction tests were excluded from the safety analyses, and one woman (who had been assigned to the vinorelbine group and had HER2/neu-positive cancer) with overt distant metastases at randomization was excluded from the survival analyses. One woman with HER2/neu amplification did not participate in randomization with respect to trastuzumab, and seven women were ineligible. The baseline characteristics of the groups were balanced, except that larger tumors were more common in the docetaxel group than in the vinorel- 
+
+n engl j med 354;8 
+
+bine group and axillary nodal metastases tended to be more frequent in the trastuzumab group than in the group that did not receive the antibody (Table 1). Most (84.3 percent) of the cancers with strong (3+) HER2-protein expression on immunohistochemical analysis contained amplified HER2/neu. Of the cancers that stained moderately positively (2+), 26.2 percent contained amplified HER2/neu. Treatment 
+
+In February 2002, an independent study-monitoring committee recommended that the dose of docetaxel be reduced because 36.9 percent of the women treated with this agent had received a diagnosis of neutropenic fever. Therefore, 206 of the 502 patients treated with docetaxel (41.0 percent) received 100 mg per square meter and 296 (59.0 percent) received 80 mg per square meter as the starting dose. Three docetaxel cycles were completed by 472 patients (94.0 percent), and three vinorelbine cycles were completed by 483 patients (95.1 percent). Docetaxel (100 mg per square meter), docetaxel (80 mg per square meter), and vinorelbine were given at the protocol-specified dose in 64.7, 83.9, and 82.4 percent of cycles, respectively. The most common reasons for a reduction in the dose of docetaxel were neutropenia and neutropenic infections, and the most common reason for a reduction in the dose of vinorelbine was neutropenia. The full dose of trastuzumab was administered in 99.1 percent of cycles, and 93.6 and 96.6 percent of the protocol-specified trastuzumab infusions were delivered to women in the docetaxel and vinorelbine groups, respectively. Three or more FEC cycles were administered to 98.6 and 98.0 percent of the women assigned to docetaxel and vinorelbine, respectively, and 91.2 and 93.1 percent received FEC at the protocolspecified dose. Adjuvant radiotherapy was given to 97.0 and 97.6 percent of the patients, respectively, and tamoxifen to 71.1 and 73.8 percent. Within the subgroup of women with HER2/neupositive cancer, 54 of the women assigned to receive trastuzumab (46.6 percent) and 58 of those who did not receive trastuzumab (50.0 percent) were in the docetaxel group (P = 0.60). The protocol-specified 100-mg dose of docetaxel was administered in 61.1 percent and 64.4 percent of the cycles in the trastuzumab and control groups, 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+813 
+
+The new england journal of medicine 
+
+Table 1. Characteristics of the Patients and the Tumors at Baseline.* Variable 
+
+All Participants Docetaxel Vinorelbine (N = 502) (N = 508) 
+
+WHO performance status — no. (%) 
+
+Participants with HER2/neu+ Disease P Value 
+
+Trastuzumab No Trastuzumab (N = 116) (N = 116) 
+
+0.57 
+
+0 
+
+455 (91) 
+
+455 (90) 
+
+1 
+
+47 (9) 
+
+53 (10) 
+
+No. of metastatic axillary nodes — no. (%) 
+
+0.64 105 (91) 
+
+107 (92) 
+
+11 (9) 
+
+9 (8) 
+
+0.73 
+
+0.06 
+
+0 
+
+57 (11) 
+
+54 (11) 
+
+12 (10) 
+
+25 (22) 
+
+1–3 
+
+300 (60) 
+
+316 (62) 
+
+64 (55) 
+
+58 (50) 
+
+>3 
+
+145 (29) 
+
+138 (27) 
+
+40 (34) 
+
+33 (28) 
+
+52 (10) 
+
+8 (7) 
+
+8 (7) 
+
+Diameter of primary tumor — no. (%) ≤10 mm 
+
+0.02 30 (6) 
+
+0.24 
+
+11–20 mm 
+
+174 (35) 
+
+185 (36) 
+
+38 (33) 
+
+27 (23) 
+
+>20 mm 
+
+296 (59) 
+
+269 (53) 
+
+69 (59) 
+
+81 (70) 
+
+2 (<1) 
+
+2 (<1) 
+
+1 (1) 
+
+0 
+
+Not available 
+
+P Value 
+
+Histologic type — no. (%) 
+
+0.96† 
+
+0.51† 
+
+Ductal 
+
+390 (78) 
+
+398 (78) 
+
+106 (91) 
+
+103 (89) 
+
+Lobular 
+
+99 (20) 
+
+98 (19) 
+
+10 (9) 
+
+11(9) 
+
+Other 
+
+13 (3) 
+
+12 (2) 
+
+0 (0) 
+
+2 (2) 
+
+1 
+
+76 (15) 
+
+74 (15) 
+
+2 (2) 
+
+3 (3) 
+
+2 
+
+186 (37) 
+
+211 (42) 
+
+39 (34) 
+
+33 (28) 
+
+3 
+
+214 (43) 
+
+201 (40) 
+
+73 (63) 
+
+77 (66) 
+
+Not available 
+
+26 (5) 
+
+22 (4) 
+
+2 (2) 
+
+3 (3) 
+
+58 (50) 
+
+51 (44) 
+
+58 (50) 
+
+65 (56) 
+
+Histologic grade — no. (%) 
+
+0.39‡ 
+
+Estrogen-receptor status — no. (%) 
+
+0.51‡ 
+
+0.50 
+
+Positive 
+
+358 (71) 
+
+372 (73) 
+
+Negative 
+
+144 (29) 
+
+136 (27) 
+
+Progesterone-receptor status — no. (%) 
+
+0.36 
+
+0.35 
+
+0.13 
+
+Positive 
+
+283 (56) 
+
+301 (59) 
+
+45 (39) 
+
+34 (29) 
+
+Negative 
+
+219 (44) 
+
+207 (41) 
+
+71 (61) 
+
+82 (71) 
+
+Absent 
+
+389 (77) 
+
+388 (76) 
+
+0 
+
+0 
+
+Present 
+
+113 (23)§ 
+
+120 (24) 
+
+HER2/neu amplification — no. (%) 
+
+1.00 
+
+0.67 116 (100) 
+
+116 (100) 
+
+Age — yr Median 
+
+50.8 
+
+51.0 
+
+Range 
+
+25.5–65.7 
+
+26.9–65.8 
+
+0.72 
+
+51.4 
+
+49.9 
+
+25.5–65.8 
+
+27.3–64.5 
+
+0.19 
+
+* Percentages may not total 100, because of rounding. WHO denotes World Health Organization. † The P value is for the ductal type as compared with the lobular and other types. ‡ The P value is for grade 1 or 2 as compared with grade 3. § One woman who had a tumor with HER2/neu amplification did not participate in randomization for trastuzumab. 
+
+respectively; the protocol-specified 80-mg dose of docetaxel in 83.3 percent and 81.6 percent of the cycles, respectively; the protocol-specified dose of vinorelbine in 80.3 percent and 71.9 percent of the cycles, respectively; and the protocol-speci- 
+
+814 
+
+n engl j med 354;8 
+
+fied dose of epirubicin in 94.0 percent and 92.0 percent of the cycles, respectively. Efficacy 
+
+Recurrence of breast cancer or death without re- 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+DOCETAXEL OR VINORELBINE FOR EARLY BREAST CANCER 
+
+A All Participants 97.0 
+
+Docetaxel plus FEC 93.6 90.3 
+
+80 
+
+86.4 Vinorelbine plus FEC 
+
+60 40 20 
+
+99.4 99.6 
+
+100 
+
+91.3 
+
+Hazard ratio, 0.58 (95% CI, 0.40– 0.85) P= 0.005 
+
+Overall Survival (% of patients) 
+
+100 
+
+Survival Free of Recurrence (% of patients) 
+
+B All Participants 97.8 
+
+0 
+
+97.8 
+
+80 
+
+Docetaxel plus FEC 96.4 95.5 Vinorelbine plus FEC 
+
+60 40 20 
+
+Hazard ratio, 0.66 (95% CI, 0.38– 1.17) P= 0.15 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+0 
+
+1 
+
+Years 
+
+2 
+
+3 
+
+4 
+
+Years 
+
+No. at Risk 
+
+No. at Risk 491 
+
+431 
+
+250 
+
+83 
+
+492 
+
+411 
+
+233 
+
+82 
+
+Docetaxel plus 502 FEC 507 Vinorelbine plus FEC 
+
+C Participants with HER2/neu+ Cancer 97.4 
+
+100 
+
+91.3 
+
+Trastuzumab 
+
+89.3 
+
+94.0 80 
+
+499 
+
+454 
+
+266 
+
+85 
+
+505 
+
+446 
+
+261 
+
+86 
+
+98.3 
+
+97.4 
+
+96.3 
+
+100.0 
+
+Trastuzumab 
+
+95.7 
+
+D Participants with HER2/neu+ Cancer 
+
+83.6 
+
+77.6 No trastuzumab 
+
+60 40 20 
+
+Hazard ratio, 0.42 (95% CI, 0.21– 0.83) P= 0.01 
+
+100 
+
+Overall Survival (% of patients) 
+
+Docetaxel plus 502 FEC 507 Vinorelbine plus FEC 
+
+Survival Free of Recurrence (% of patients) 
+
+98.4 
+
+0 
+
+80 
+
+89.7 No trastuzumab 
+
+60 40 20 Hazard ratio, 0.41 (95% CI, 0.16– 1.08) P= 0.07 0 
+
+0 
+
+1 
+
+2 
+
+4 
+
+3 
+
+0 
+
+1 
+
+Years No. at Risk 115 Trastuzumab No trastuzumab 116 
+
+2 
+
+3 
+
+4 
+
+70 60 
+
+23 20 
+
+Years No. at Risk 
+
+112 109 
+
+97 91 
+
+64 51 
+
+115 Trastuzumab No trastuzumab 116 
+
+21 18 
+
+113 116 
+
+104 103 
+
+Figure 2. Effects of Single-Agent Docetaxel or Vinorelbine and of Trastuzumab on the Kaplan–Meier Estimates of Recurrence-free Survival (Panels A and C) and Overall Survival (Panels B and D) among Women with Breast Cancer. One-, two-, and three-year survival data are shown. Hazard ratios are for recurrence or death (Panel A) or for death (Panel B) in the docetaxel group as compared with the vinorelbine group and, among women with HER2/neu-positive cancer, for recurrence or death (Panel C) or for death (Panel D) in the group that received trastuzumab as compared with the group that did not receive trastuzumab. FEC denotes a regimen of fluorouracil, epirubicin, and cyclophosphamide, and CI confidence interval. 
+
+currence was less common among women treated with docetaxel plus FEC than among those treated with vinorelbine plus FEC (42 of 502 vs. 71 of 507; hazard ratio for recurrence or death, 0.58; 95 percent confidence interval, 0.40 to 0.85; P = 0.005) (Fig. 2A). The development of distant metastases also was less common in the docetaxel group (33, vs. 58 in the vinorelbine group; hazard ratio, 0.56; 95 percent confidence interval, 0.37 to 0.86; P = 0.008). The hazard ratios for re- 
+
+n engl j med 354;8 
+
+currence or death in the docetaxel group, as compared with the vinorelbine group, remained similar when adjusted according to center (0.58; 95 percent confidence interval, 0.40 to 0.85) or according to the number of positive nodes (0.57; 95 percent confidence interval, 0.39 to 0.83). Overall survival was not significantly different between the groups (20 patients in the docetaxel group vs. 30 in the vinorelbine group died; hazard ratio for death in the docetaxel group, as compared with 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+815 
+
+The new england journal of medicine 
+
+the vinorelbine group, 0.66; 95 percent confidence interval, 0.38 to 1.17; P = 0.15) (Fig. 2B). Of the 115 patients in the trastuzumab group who were included in the analysis of efficacy, 12 had a recurrence of breast cancer or died without recurrence, whereas in the control group (116 patients), there were 27 such cases (hazard ratio for recurrence or death in the trastuzumab group, as compared with the control group, 0.42; 95 percent confidence interval, 0.21 to 0.83; P = 0.01) (Fig. 2C). The hazard ratio remained similar when adjustment was made according to the type of chemotherapy given (0.41; 95 percent confidence interval, 0.21 to 0.82), center (0.42; 95 percent confidence interval, 0.21 to 0.83), or the number of positive nodes (0.39; 95 percent confidence interval, 0.20 to 0.77). Women who received trastuzumab had fewer distant recurrences of cancer than did women who did not receive the antibody (8 vs. 26; hazard ratio, 0.29; 95 percent confidence interval, 0.13 to 0.64; P = 0.002) (Fig. 3). In addition, their overall survival tended to be better (6 vs. 14 patients died; hazard ratio for death, 0.41; 95 percent confidence interval, 0.16 to 1.08; P = 0.07) (Fig. 2D). 
+
+neuropathy, and edema than was vinorelbine, which more frequently caused peripheral-vein phlebitis and elevation in the serum aspartate aminotransferase level. After the dose of docetaxel was reduced from 100 mg per square meter to 80 mg per square meter, the frequency of neutropenic fever decreased to 14.9 percent (P<0.001). Trastuzumab did not significantly increase the frequency of adverse events related to vinorelbine or docetaxel (Table 2). One patient had cardiac infarction and three had cardiac failure; none of these four patients had received trastuzumab. Left ventricular ejection fractions were preserved in women who received trastuzumab (Table 3). Trastuzumab-treated women had slightly better ejection fractions than those who did not receive trastuzumab; in an ANCOVA model, the estimated difference 12 months after the completion of chemotherapy was 1.7 percentage points (95 percent confidence interval, −0.1 to 3.5 percentage points; P = 0.06), and at 36 months it was 3.0 percentage points (0.7 to 5.4 percentage points, P = 0.01). In this model, vinorelbine and docetaxel had similar estimated effects on the ejection fraction at both times (P = 0.50). Four women treated with trastuAdverse Effects zumab (3.5 percent) and seven who were not (6.0 Docetaxel was more commonly associated with percent) had one or more measurements of ejecneutropenic fever, stomatitis, alopecia, nail prob- tion fraction more than 15 percentage points lems, toxic effects on the skin, allergic reactions, less than the pretreatment value. A decrease by 
+
+Survival Free of Distant Recurrence (% of patients) 
+
+100 
+
+A: HER2/neu+, trastuzumab B: HER2/neu¡, no trastuzumab 
+
+80 
+
+C: HER2/neu+, no trastuzumab 
+
+60 
+
+40 A vs. B: hazard ratio, 1.09 (95% CI, 0.52– 2.29, P= 0.82) A vs. C: hazard ratio, 0.29 (95% CI, 0.13– 0.64, P= 0.002) B vs. C: hazard ratio, 0.31 (95% CI, 0.20– 0.49, P< 0.001) 
+
+20 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+64 370 51 
+
+21 126 18 
+
+Years No. at Risk 
+
+HER2/neu+, trastuzumab HER2/neu¡, no trastuzumab HER2/neu+, no trastuzumab 
+
+115 777 117 
+
+112 764 110 
+
+98 654 93 
+
+Figure 3. Effect of HER2/neu Amplification and Trastuzumab on the Kaplan–Meier Estimates of Survival Free of a First Distant Recurrence of Breast Cancer. CI denotes confidence interval. 
+
+816 
+
+n engl j med 354;8 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+n engl j med 354;8 
+
+www.nejm.org 
+
+19.2 10.2 71.1 98.0 55.9 55.6 8.9 11.7 39.2 
+
+Elevated aspartate aminotransferase 
+
+Vomiting 
+
+Stomatitis 
+
+Alopecia 
+
+Nail problems 
+
+Toxic effects on skin (e.g., rash) 
+
+Phlebitis 
+
+Allergic reaction 
+
+Infection, no neutropenia 
+
+83.0 100.0 
+
+Fatigue 
+
+Any adverse effect‡ 
+
+100.0 
+
+8.2 
+
+1.6 
+
+0.2 
+
+1.4 
+
+23.0 
+
+5.0 
+
+2.0 
+
+0 
+
+0.9 
+
+— 
+
+— 
+
+2.7 
+
+0.5 
+
+0.2 
+
+0 
+
+98.5 
+
+0.5 
+
+Grade 3 or 4 
+
+100.0 
+
+76.0 
+
+62.0 
+
+57.4 
+
+27.5 
+
+0.0 
+
+43.1 
+
+13.5 
+
+6.0 
+
+60.0 
+
+47.9 
+
+100.0 
+
+66.0 
+
+11.8 
+
+31.4 
+
+0 
+
+0 
+
+63.0 
+
+Grade 1 or 2 
+
+100.0 
+
+8.0 
+
+0 
+
+0 
+
+0 
+
+29.6 
+
+5.9 
+
+5.8 
+
+0 
+
+0 
+
+— 
+
+— 
+
+4.0 
+
+0 
+
+0 
+
+0 
+
+100.0 
+
+0 
+
+100.0 
+
+81.4 
+
+30.0 
+
+43.7 
+
+17.7 
+
+0 
+
+30.0 
+
+2.9 
+
+31.1 
+
+21.4 
+
+9.3 
+
+52.6 
+
+40.0 
+
+8.6 
+
+47.2 
+
+0.7 
+
+28.6 
+
+66.7 
+
+Grade 1 or 2 
+
+80.9 
+
+3.2 
+
+0 
+
+1.1 
+
+2.0 
+
+2.9 
+
+2.0 
+
+0 
+
+0 
+
+0.7 
+
+— 
+
+— 
+
+0 
+
+0.5 
+
+0.7 
+
+0 
+
+58.3 
+
+0.2 
+
+Grade 3 or 4 
+
+Vinorelbine, No Trastuzumab (HER2/neu+ or HER2/neu−, N = 446) 
+
+percent 
+
+Grade 3 or 4 
+
+Docetaxel plus Trastuzumab (HER2/neu+, N = 54) 
+
+* A dash denotes that the grades were not applicable. † One patient who did not receive the study treatments was excluded from the analysis. ‡ Results are given for the subgroup of patients (71.3 percent) who had nadir cell counts determined. 
+
+61.6 
+
+49.5 
+
+Sensory 
+
+Edema 
+
+30.5 
+
+Motor 
+
+Neuropathy 
+
+0 
+
+3.7 
+
+Thrombocytopenia‡ 
+
+Neutropenic fever 
+
+1.6 
+
+66.0 
+
+Grade 1 or 2 
+
+Docetaxel, No Trastuzumab (HER2/neu+ or HER2/neu–, N = 447)† 
+
+Neutropenia‡ 
+
+Anemia‡ 
+
+Adverse Event 
+
+Table 2. Influence of Trastuzumab on Adverse Events Related to Docetaxel and Vinorelbine Treatment.* 
+
+100.0 
+
+80.3 
+
+37.7 
+
+36.1 
+
+13.1 
+
+0 
+
+32.8 
+
+10.0 
+
+50.0 
+
+18.0 
+
+16.4 
+
+50.8 
+
+50.0 
+
+3.3 
+
+58.3 
+
+0 
+
+37.7 
+
+73.8 
+
+Grade 1 or 2 
+
+75.9 
+
+4.9 
+
+0 
+
+0 
+
+1.6 
+
+4.9 
+
+1.6 
+
+0 
+
+0 
+
+0 
+
+— 
+
+— 
+
+0 
+
+0 
+
+3.3 
+
+0 
+
+55.7 
+
+0 
+
+Grade 3 or 4 
+
+Vinorelbine plus Trastuzumab (HER2/neu+, N = 61)† 
+
+DOCETAXEL OR VINORELBINE FOR EARLY BREAST CANCER 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+817 
+
+The new england journal of medicine 
+
+Table 3. Left Ventricular Ejection Fraction (LVEF) during Follow-up among Study Participants Who Had Breast Cancer with HER2/neu Amplification.* Before Chemotherapy 
+
+Treatment Group 
+
+At the Last Chemotherapy Cycle 
+
+12 Mo after Chemotherapy 
+
+36 Mo after Chemotherapy 
+
+Docetaxel plus FEC (N = 58) LVEF (%) Median 
+
+67 
+
+64 
+
+64 
+
+64 
+
+Range 
+
+53–83 
+
+48–78 
+
+45–79 
+
+52–76 
+
+No. of patients 
+
+56 
+
+51 
+
+49 
+
+24 
+
+Docetaxel plus FEC and trastuzumab (N = 54) LVEF (%) Median 
+
+66 
+
+65 
+
+66 
+
+69 
+
+Range 
+
+49–82 
+
+51–78 
+
+51–83 
+
+49–77 
+
+No. of patients 
+
+50 
+
+48 
+
+48 
+
+30 
+
+Median 
+
+65 
+
+65 
+
+65 
+
+63 
+
+Range 
+
+50–80 
+
+46–80 
+
+45–78 
+
+44–74 
+
+No. of patients 
+
+53 
+
+49 
+
+48 
+
+22 
+
+Vinorelbine plus FEC (N = 58) LVEF (%) 
+
+Vinorelbine plus FEC and trastuzumab (N = 61) LVEF (%) Median 
+
+64 
+
+63 
+
+65 
+
+64 
+
+Range 
+
+47–85 
+
+47–85 
+
+45–79 
+
+53–80 
+
+No. of patients 
+
+61 
+
+60 
+
+60 
+
+32 
+
+* FEC denotes fluorouracil, epirubicin, and cyclophosphamide. 
+
+more than 10 percentage points, resulting in an ejection fraction of less than 50 percent, occurred in three patients (none of whom had received trastuzumab). 
+
+Dis cus sion Adjuvant docetaxel, as compared with vinorelbine, improved recurrence-free survival in women with breast cancer. However, docetaxel was more toxic, and the scheduled starting dose was reduced during the study because of adverse effects. The use of granulocyte colony-stimulating factors or prophylactic antibiotics might have reduced the severity of neutropenia. Different doses of docetaxel have not been compared in the adjuvant setting. In this trial, women treated with 100 mg of docetaxel per square meter and those treated with 80 mg per square meter had similar outcomes (data not shown), but this unplanned analysis may have been underpowered. A short course of adjuvant trastuzumab given 
+
+818 
+
+n engl j med 354;8 
+
+concomitantly with chemotherapy, as compared with chemotherapy alone, was an effective treatment for HER2/neu-positive cancer. None of the women who were treated with trastuzumab had cardiac failure, and unexpectedly, these women had slightly better maintenance of left ventricular ejection fraction than did those who did not receive the antibody. Administration of trastuzumab before FEC and radiotherapy as well as the small cumulative dose of epirubicin given may have contributed to the preservation of cardiac function. Regimens containing more than 60 mg of epirubicin per square meter per cycle may have better efficacy than smaller doses,19 but epirubicin at a dose of 90 mg per square meter, given for four to six cycles with cyclophosphamide and trastuzumab, may frequently decrease the left ventricular ejection fraction and occasionally cause congestive heart failure.20 This prospective study confirms the adverse effect of HER2/neu amplification on prognosis. Survival free of distant disease was substantially 
+
+www.nejm.org 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+DOCETAXEL OR VINORELBINE FOR EARLY BREAST CANCER 
+
+less favorable among women with HER2/neu-positive cancer who did not receive trastuzumab than among those with HER2/neu-negative cancer (Fig. 3). Trastuzumab abrogates much of the adverse effect of HER2/neu amplification on outcome. The proportion of women with HER2/neupositive disease was 23 percent, and thus only 232 women participated in randomization with respect to trastuzumab. The small size of this subgroup and the short duration of the follow-up are limitations of the study. Nevertheless, the number was large enough to allow detection of a statistically significant difference in recurrencefree survival between treatments. When designing the study, we anticipated that HER2/neu amplification would be associated with frequent relapses4-6 and that trastuzumab would be effective, according to findings in studies of its use in metastatic disease.7 The likelihood of detecting a difference was expected to be further improved by the use of in situ hybridization to determine the number of copies of HER2/neu during patient selection and by the concomitant use of potentially synergistic chemotherapy.13,14 The optimal duration of adjuvant trastuzumab therapy is not known and may be clarified only in further randomized trials. Our results indicate 
+
+that a nine-week period of trastuzumab administration is effective in women with HER2/neupositive breast cancer. Regimens in which only a few cycles of trastuzumab are administered concurrently with chemotherapy reduce the number of patient visits and may be more cost-effective than regimens that require administration over a period of 12 to 24 months.9,10,21 In addition, such regimens may result in few cardiac adverse effects. Drs. Joensuu and Kellokumpu-Lehtinen report having received compensation for time served on the Sanofi-Aventis advisory board; Dr. Joensuu, compensation for time served on the Roche advisory board; Drs. Joensuu, Kellokumpu-Lehtinen, Bono, Hemminki, and Turpeenniemi-Hujanen, lecture fees from SanofiAventis; and Drs. Joensuu, Kellokumpu-Lehtinen, Bono, Alanko, Isola, and Turpeenniemi-Hujanen lecture fees from Roche. No other potential conflict of interest relevant to this article was reported. We are indebted to Professor Kaija Holli, Dr. Riikka Huovinen, and Kirsi Rouhento of the Finnish Breast Cancer Group for administrative help; to the members of the study monitoring committee, physician-in-chief Tapani Hakala, physician-in-chief Terhi Hermansson, and Professor Lyly Teppo; to member of parliament Osmo Soininvaara, editor-in-chief Jussi Huttunen, and director general Jorma Huuhtanen for their support in obtaining financing of the study; to members of the FinHer Study Group, study nurse Mrs. Kaija Seppälä, and many medical, nursing, and clerical staff members for their support at the participating centers; and to all the women participating in the FinHer trial for their contribution to this research. 
+
+appendix In addition to the authors, the following investigators participated in the FinHer Study: Helsinki University Hospital, Helsinki: A.-L. Kautio, L. Teerenhovi, M. Hernberg, and L. Vehmanen; Tampere University Hospital, Tampere: T. Korhonen; Satakunta Central Hospital, Pori: E. Korkeila; Oulu University Hospital, Oulu: G. Blanco and M. Heikkinen; Seinäjoki Central Hospital, Seinäjoki: T. Ala-Luhtala; Kuopio University Hospital, Kuopio: H. Virsunen; Joensuu Central Hospital, Joensuu: R. Keskikuru; Rovaniemi Central Hospital, Rovaniemi: A. Maiche; Vaasa Central Hospital, Vaasa: E. Thölix; and South Karelia Central Hospital, Lappeenranta: K. Möykkynen — all in Finland. References 1. Parkin DM, Bray F, Ferlay J, Pisani P. Global cancer statistics, 2002. CA Cancer J Clin 2005;55:74-108. 2. Early Breast Cancer Trialists’ Collaborative Group. Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;365:1687-717. 3. Owens MA, Horten BC, Da Silva MM. HER2 amplification ratios by fluorescence in situ hybridization and correlation with immunohistochemistry in a cohort of 6556 breast cancer tissues. Clin Breast Cancer 2004;5:63-9. 4. Slamon DJ, Godolphin W, Jones LA, et al. Studies of the HER-2/neu proto-oncogene in human breast and ovarian cancer. Science 1989;244:707-12. 5. Press MF, Bernstein L, Thomas PA, et al. HER-2/neu gene amplification characterized by fluorescence in situ hybridization: poor prognosis in node-negative 
+
+breast carcinomas. J Clin Oncol 1997;15: 2894-904. 6. Ravdin PM, Chamness GC. The c-erbB2 proto-oncogene as a prognostic and predictive marker in breast cancer: a paradigm for the development of other macromolecular markers — a review. Gene 1995;159: 19-27. 7. Slamon DJ, Leyland-Jones B, Shak S, et al. Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 2001;344:783-92. 8. Marty M, Cognetti F, Maraninchi D, et al. Randomized phase II trial of the efficacy and safety of trastuzumab combined with docetaxel in patients with human epidermal growth factor receptor 2-positive metastatic breast cancer administered as first-line treatment: the M77001 Study Group. J Clin Oncol 2005;23:426574. 9. Piccart-Gebhart MJ, Procter M, Leyland- 
+
+n engl j med 354;8 
+
+www.nejm.org 
+
+Jones B, et al. Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 2005;353:1659-72. 10. Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 2005;353:1673-84. 11. Perez EA, Rodeheffer R. Clinical cardiac tolerability of trastuzumab. J Clin Oncol 2004;22:322-9. 12. Jahanzeb M. Trastuzumab-based combinations in metastatic breast cancer: how to make a choice. Clin Breast Cancer 2003; 4:28-38. 13. Pegram M, Hsu S, Lewis G, et al. Inhibitory effects of combinations of HER-2/ neu antibody and chemotherapeutic agents used for treatment of human breast cancers. Oncogene 1999;18:2241-51. 14. Pegram MD, Konecny GE, O’Callaghan C, Beryt M, Pietras R, Slamon DJ. Rational combinations of trastuzumab with chemotherapeutic drugs used in the treat- 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+819 
+
+DOCETAXEL OR VINORELBINE FOR EARLY BREAST CANCER 
+
+ment of breast cancer. J Natl Cancer Inst 2004;96:739-49. 15. Isola J, Tanner M, Forsyth A, Cooke TG, Watters AD, Bartlett JM. Interlaboratory comparison of HER-2 oncogene amplification as detected by chromogenic and fluorescence in situ hybridization. Clin Cancer Res 2004;10:4793-8. 16. Joensuu H, Alanko T, Bono P, et al. Trastuzumab shows no short-term cardiac toxicity when given concomitantly with single-agent vinorelbine or docetaxel as adjuvant treatment for early breast cancer. Proc Am Soc Clin Oncol 2003;22:19a. abstract. 
+
+820 
+
+17. Pocock SJ. Group sequential methods 
+
+20. Untch M, Eidtmann H, du Bois A, et 
+
+in the design and analysis of clinical trials. Biometrika 1977;64:191-9. 18. Lundin J, Lundin M, Isola J, Joensuu H. A Web-based system for individualised survival estimation in breast cancer. BMJ 2003;326:29. 19. Bonneterre J, Roche H, Kerbrat P, et al. Epirubicin increases long-term survival in adjuvant chemotherapy of patients with poor-prognosis, node-positive, early breast cancer: 10-year follow-up results of the French Adjuvant Study Group 05 randomized trial. J Clin Oncol 2005; 23:2686-93. 
+
+al. Cardiac safety of trastuzumab in combination with epirubicin and cyclophosphamide in women with metastatic breast cancer: results of a phase I trial. Eur J Cancer 2004;40:988-97. 21 Perez EA, Suman VJ, Davidson NE, et al. Effect of doxorubicin plus cyclophosphamide on left ventricular ejection fraction in patients with breast cancer in the North Central Cancer Treatment Group N9831 Intergroup Adjuvant Trial. J Clin Oncol 2004;22:3700-4. [Erratum, J Clin Oncol 2005;23:1594.] 
+
+n engl j med 354;8 
+
+www.nejm.org 
+
+Copyright © 2006 Massachusetts Medical Society. 
+
+february 23, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org at Fudan University on May 15, 2015. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+ 

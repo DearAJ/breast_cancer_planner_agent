@@ -1,0 +1,1191 @@
+Articles 
+
+Extended therapy with letrozole as adjuvant treatment of postmenopausal patients with early-stage breast cancer: a multicentre, open-label, randomised, phase 3 trial Lucia Del Mastro, Mauro Mansutti, Giancarlo Bisagni, Riccardo Ponzone, Antonio Durando, Laura Amaducci, Enrico Campadelli, Francesco Cognetti, Antonio Frassoldati, Andrea Michelotti, Silvia Mura, Ylenia Urracci, Giovanni Sanna, Stefania Gori, Sabino De Placido, Ornella Garrone, Alessandra Fabi, Carla Barone, Stefano Tamberi, Claudia Bighin, Fabio Puglisi, Gabriella Moretti, Grazia Arpino, Alberto Ballestrero, Francesca Poggio, Matteo Lambertini, Filippo Montemurro, Paolo Bruzzi, on behalf of the Gruppo Italiano Mammella investigators* 
+
+Summary Lancet Oncol 2021; 22: 1458–67 Published Online September 17, 2021 https://doi.org/10.1016/ S1470-2045(21)00352-1 See Comment page 1357 For the Italian translation of the abstract see Online for appendix 1 *Members are listed in appendix 2 (p 2) Breast Unit (L Del Mastro MD, C Bighin MD, F Poggio MD, M Lambertini MD) and Epidemiology Unit (P Bruzzi MD), IRCCS Ospedale Policlinico San Martino, Genoa, Italy; Department of Internal Medicine and Medical Specialities, School of Medicine, University of Genoa, Genoa, Italy (L Del Mastro, Prof A Ballestrero MD, M Lambertini); Department of Oncology, ASUFC Santa Maria Della Misericordia, Udine, Italy (M Mansutti MD); Department of Oncology and Advanced Technologies, Oncology Unit, Azienda USL–IRCCS di Reggio Emilia, Reggio Emilia, Italy (G Bisagni MD, G Moretti MD); Gynecological Oncology Unit (R Ponzone MD, F Montemurro MD) and Multidisciplinary Outpatient Oncology Clinic (R Ponzone, F Montemurro), Candiolo Cancer Institute, FPO-IRCCS, Turin, Italy; Breast Unit Ospedale S Anna, Citta’ della Salute e della Scienza di Torino, Turin, Italy (A Durando MD); Oncology Department Area Vasta Romagna, Faenza Hospital, Faenza, Italy (L Amaducci MD, E Campadelli MD; S Tamberi MD); Department of Medical Oncology, Istituto Regina Elena per lo Studio e la Cura dei Tumori, Rome, Italy (F Cognetti MD); Department of Morphology, Surgery and 
+
+1458 
+
+Background The benefit of extending aromatase inhibitor therapy beyond 5 years in the context of previous aromatase inhibitors remains controversial. We aimed to compare extended therapy with letrozole for 5 years versus the standard duration of 2–3 years of letrozole in postmenopausal patients with breast cancer who have already received 2–3 years of tamoxifen. Methods This multicentre, open-label, randomised, phase 3 trial was done at 69 hospitals in Italy. Women were eligible if they were postmenopausal at the time of study entry, had stage I–III histologically proven and operable invasive hormone receptor-positive breast cancer, had received adjuvant tamoxifen therapy for at least 2 years but no longer than 3 years and 3 months, had no signs of disease recurrence, and had an Eastern Cooperative Oncology Group performance status of 2 or lower. Patients were randomly assigned (1:1) to receive 2–3 years (control group) or 5 years (extended group) of letrozole (2·5 mg orally once a day). Randomisation, with stratification by centre, with permuted blocks of size 12, was done with a centralised, interactive, internet-based system that randomly generated the treatment allocation. Participants and investigators were not masked to treatment assignment. The primary endpoint was invasive disease-free survival in the intention-to-treat population. Safety analysis was done for patients who received at least 1 month of study treatment. This trial was registered with EudraCT, 2005-001212-44, and ClinicalTrials.gov, NCT01064635. Findings Between Aug 1, 2005, and Oct 24, 2010, 2056 patients were enrolled and randomly assigned to receive letrozole for 2–3 years (n=1030; control group) or for 5 years (n=1026; extended group). After a median follow-up of 11·7 years (IQR 9·5–13·1), disease-free survival events occurred in 262 (25·4%) of 1030 patients in the control group and 212 (20·7%) of 1026 in the extended group. 12-year disease-free survival was 62% (95% CI 57–66) in the control group and 67% (62–71) in the extended group (hazard ratio 0·78, 95% CI 0·65–0·93; p=0·0064). The most common grade 3 and 4 adverse events were arthralgia (22 [2·2%] of 983 patients in the control group vs 29 [3·0%] of 977 in the extended group) and myalgia (seven [0·7%] vs nine [0·9%]). There were three (0·3%) serious treatment-related adverse events in the control group and eight (0·8%) in the extended group. No deaths related to toxic effects were observed. Interpretation In postmenopausal patients with breast cancer who received 2–3 years of tamoxifen, extended treatment with 5 years of letrozole resulted in a significant improvement in disease-free survival compared with the standard 2–3 years of letrozole. Sequential endocrine therapy with tamoxifen for 2–3 years followed by letrozole for 5 years should be considered as one of the optimal standard endocrine treatments for postmenopausal patients with hormone receptor-positive breast cancer. Funding Novartis and the Italian Ministry of Health. Copyright © 2021 Elsevier Ltd. All rights reserved. 
+
+Introduction Adjuvant endocrine therapy is the cornerstone of systemic treatment of patients with hormone receptor-positive breast cancer.1,2 Due to the substantial risk of late recurrence in these patients,3 several trials have evaluated extended endocrine therapy beyond 5 years. In patients who had completed 5 years of adjuvant endocrine therapy with tamoxifen, which was the standard treatment until 
+
+the early 2000s, an additional 5 years with either tamoxifen or an aromatase inhibitor was required to improved outcomes, particularly in patients with a high baseline risk of relapse.4–8 Taking into account these results, either approach is recommended for women at risk of late recurrence.1 In parallel, pivotal randomised trials9–11 published in early 2000s challenged the approach of adjuvant endocrine therapy with tamoxifen for 5 years. www.thelancet.com/oncology Vol 22 October 2021 
+
+Articles 
+
+Research in the context Evidence before this study We searched PubMed and oncology congress websites (American Society of Clinical Oncology, San Antonio Breast Cancer Symposium, European Society of Medical Oncology, and the St Gallen International Breast Cancer Conference) without language restrictions from database inception to Feb 1, 2005, using the search terms “early breast cancer”, “adjuvant treatment”, and “aromatase inhibitors”. We identified prospective trials of adjuvant endocrine therapy for postmenopausal women with breast cancer. We identified an international study (MA17) showing that extended therapy with 5 years of letrozole after 5 years of tamoxifen significantly increased disease-free survival compared with the standard 5 years of tamoxifen. Moreover, we identified four randomised trials (ATAC, ITA, IES, BIG 1–98) comparing tamoxifen for 5 years with aromatase inhibitors, administered according to the early switch strategy (ie, tamoxifen for 2–3 years followed by aromatase inhibitors for 2–3 years) or upfront (aromatase inhibitors for 5 years) schedules. These trials showed an improvement in disease-free survival by incorporating aromatase inhibitors in the first 5 years after diagnosis compared with tamoxifen. These results changed clinical practice such that either of these two approaches can be used instead of tamoxifen alone. At the time of starting our trial, the benefit of extending aromatase inhibitor therapy longer than 5 years in patients given the new standard therapy— ie, aromatase inhibitors for the first 5 years after diagnosis or 
+
+In these trials, aromatase inhibitors given upfront (instead of tamoxifen) for 5 years or given for 2–3 years after 2–3 years of tamoxifen (known as the early switch strategy) were superior to tamoxifen alone and are now the standard initial adjuvant endocrine therapy for postmenopausal patients with hormone receptor-positive breast cancer. The benefit of extending aromatase inhibitor therapy beyond 5 years in the context of previous aromatase inhibitors, given either using the upfront or early switch strategy, emerged as a clinically relevant question. The aim of this trial was to compare extended therapy with letrozole for 5 years versus the standard duration of 2–3 years of letrozole in postmenopausal patients with breast cancer who have already received 2–3 years of tamoxifen. 
+
+Methods 
+
+Study design and participants This multicentre, open-label, randomised, phase 3 trial was done at 69 hospitals in Italy (appendix p 2). Women were eligible if they met the following criteria: post­ menopausal status at the time of study entry, stage I–III histologically proven and operable invasive hormone receptor-positive breast cancer, adjuvant tamoxifen therapy received for at least 2 years but no longer than www.thelancet.com/oncology Vol 22 October 2021 
+
+2–3 years of tamoxifen followed by 2–3 years of an aromatase inhibitor—was unknown. Added value of this study To our knowledge, GIM4 is the first clinical trial of extended aromatase inhibitor therapy with the longest follow-up period to evaluate whether letrozole for 5 years is more efficacious than the standard duration of 2–3 years. We showed a disease-free survival and overall survival benefit by extending aromatase inhibitor treatment longer than 5 years. Implications of all the available evidence Considering all available evidence, particularly the disease-free survival and overall survival benefit observed in this study, the use of an aromatase inhibitor for 5 years after initial tamoxifen for 2–3 years should be considered as an optimal standard treatment for postmenopausal patients with breast cancer. Clinical practice guidelines state that an individualised approach is needed, especially in women with node-negative and limited node-positive disease, to decide the duration of adjuvant endocrine treatment on the basis of relapse risk reduction and tolerability, considering that none of the studies have shown improvement in overall survival with longer duration of aromatase inhibitor therapy. On the basis of our results from the GIM4 trial, this statement is no longer supported by the evidence and should be updated to improve clinical decision making around adjuvant endocrine therapy in postmenopausal patients with breast cancer. 
+
+3 years and 3 months, no signs of disease recurrence, and Eastern Cooperative Oncology Group performance status of 2 or lower. Previous adjuvant or neoadjuvant chemotherapy, radiotherapy, or both were allowed. Concomitant treatment with bisphosphonates was allowed. Postmenopausal status was defined as any of the following: 55 years or older and cessation of menses, younger than 55 years and cessation of menses for at least 1 year, younger than 55 years with spontaneous menses within the past 1 year and gonadotropin (folliclestimulating hormone and luteinising hormone) or oestradiol concen­ trations within the postmenopausal range, or previous bilateral oophorectomy irrespective of age. Hormone receptor positivity was defined by a finding of at least 1% of positive cells by immunohistochemical analysis. HER2 positive tumours were defined by a finding of at least 10% of tumour cells with HER2 protein expression assessed by an immunohistochemistry assay or by positivity of an in-situ hybridisation assay. We excluded males; patients with distant metastases and previous or concomitant malignancy within the past 5 years, except adequately treated basal or squamous cell carcinoma of the skin or in situ carcinoma of the cervix; those receiving concurrent treatment with any other anticancer therapy or experimental drugs; patients with other non-malignant severe systemic diseases; those 
+
+Experimental Medicine, Clinical Oncology, S Anna University Hospital, Ferrara, Italy (A Frassoldati MD); UO Medical Oncology, S Chiara Hospital, Pisa, Italy (A Michelotti MD); UOC Medical Oncology, Ospedale Civile Santissima Annunziata, Sassari, Italy (S Mura MD); Department of Medical Oncology, Hospital Businco, Cagliari, Italy (Y Urracci MD); Medical Oncology, University–Hospital of Sassari, Sassari, Italy (G Sanna MD); Medical Oncology, IRCCS Ospedale Sacro Cuore-Don Calabria, Verona, Italy (S Gori MD); Department of Clinical Medicine and Surgery, University of Naples Federico II, Naples, Italy (Prof S De Placido MD; G Arpino MD); Breast Unit, Department of Medical Oncology, AO S Croce e Carle Ospedale di Insegnamento, Cuneo, Italy (O Garrone MD); Medical Oncology 1, IRCCS Regina Elena National Cancer Institute, Rome, Italy (A Fabi MD); Medical Oncology, S Lorenzo Hospital, Turin, Italy (C Barone MD); Department of Medicine, University of Udine, and Department of Medical Oncology, Centro di Riferimento Oncologico di Aviano IRCCS, Aviano, Aviano, Italy (F Puglisi MD) Correspondence to: Dr Lucia Del Mastro, Dipartimento di Medicina Interna e Specialità Mediche, Università di Genoa, 16132 Genoa, Italy lucia.delmastro@ hsanmartino.it See Online for appendix 2 
+
+1459 
+
+Articles 
+
+For the protocol see https:// www.oncotech.org/gim4/ protocol 
+
+receiving systemic investigational drugs within the past 30 days; and those who used hormonal replacement therapy within 4 weeks before randomisation. The study was coordinated by the Gruppo Italiano Mammella (GIM) group, which was responsible for the study design, randomisation, collection and management of the data, medical review, data analysis, and reporting. Written, informed consent was obtained from all patients before study entry. The study was approved by the ethics committees of all participating institutions. The full study protocol is available online. 
+
+Randomisation and masking Eligible patients were randomly assigned (1:1) to receive either 2–3 years of letrozole (control group) after 2–3 years of tamoxifen or 5 years of letrozole (extended group) after 2–3 years of tamoxifen. Randomisation was done by a centralised, interactive, internet-based system that randomly generated the treatment allocation after a summary check of patient’s eligibility. The only stratifi­ cation factor was centre. Permuted blocks of size 12 were used within each centre in random sequence. None of the participants or investigators were masked to treatment assignment. 
+
+Procedures The participants’ baseline characteristics were recorded at randomisation. Adjuvant letrozole was given at a dose of 2·5 mg orally once a day after participants had already received 2–3 years of tamoxifen. Consequently, patients received either 5 years of adjuvant endocrine therapy (2–3 years of tamoxifen followed by 2–3 years of letrozole; control group) or 7–8 years of adjuvant endocrine therapy (2–3 years of tamoxifen followed by 5 years of letrozole; extended group). Dose reductions were not allowed. Reasons for discontinuation of treatment in the absence of disease progression were patient refusal to continue treatment or safety concerns. Intravenous zoledronic acid at 5 mg once every 6 months was allowed in patients developing osteoporosis or fractures, or both. Patients receiving zoledronic acid were advised to take daily supplements containing 500 mg of calcium and at least 400 IU of vitamin D. Patients were followed up with physical examination once every 6 months for 5 years after randomisation and every 12 months thereafter. A bilateral mammogram was required every 12 months. Blood chemistry including creatinine, alanine and aspartate aminotransferase, total bilirubin, alkaline phosphatase, total calcium, and HDL cholesterol was required every 6 months in the first 5 years. The study protocol was amended in August, 2006, to recommend a bone mineral density scan of the lumbar spine and femoral neck once every 12–24 months to monitor osteoporosis develop­ment. Adverse events were recorded at each follow-up visit, and graded according to the National Cancer Institute Common Toxicity Criteria (version 2.0), except for osteoporosis and bone fractures 1460 
+
+that were classified as present or absent without grading.12 
+
+Outcomes The primary endpoint was invasive disease-free survival. Disease-free survival was computed from the date of random assignment to one of the following events: local recurrence, distant metastasis, contralateral or ipsilateral breast tumour (excluding ductal carcinoma in situ), second primary malignancy, death from any cause, loss to follow-up, or end of study, whichever occurred first. The secondary endpoints were overall survival and safety. Overall survival was computed from the date of random assignment to the date of death from any cause, loss to follow-up, or end of study. Patients without an event at the time they were lost to follow-up or at the time of study closure had disease-free survival or overall survival censored on the date of the last contact. 
+
+Statistical analysis At initial planning in October, 2004, power calculations were based on results from studies available at the time, with an assumed 6-year disease-free survival of 80% in the control group.11 Furthermore, we assumed that the minimum therapeutic effect worth detecting was a 17% relative reduction in the risk of relapse, corresponding to a 3% increase (from 80% to 83%) in the probability of being disease-free at 6 years. To detect this relative reduction with 80% power and a 5% two-sided significance level, 909 disease-free survival events were required and the enrolment of 4050 patients was planned. In 2010, after the BIG1-98 study reported its results, the protocol was amended (approved; dated Jan 13, 2010) and sample size estimates were revised.13 The new power calculations were based on an estimated 81% disease-free survival at 6–7 years from randomisation in the control group and the minimum therapeutic effect worth detecting, as a result of increased toxic effects associated with the experimental group, was a 23% relative reduction of the risk of recurrence (hazard ratio [HR] 0·77), corresponding to a 4% absolute increase in 6–7-year disease-free survival. As a result, 464 events had to be observed to detect a 23% relative reduction in the risk of relapse with 80% power and a 5% two-sided significance level. To observe 464 events, we estimated that 2000 patients needed to be enrolled with an average follow-up of 6 years. We planned the final analysis once we had observed 464 events. No formal interim analyses were planned. In December, 2018, in light of the imminent publication of the EBCTCG meta-analysis14 which included the GIM4 trial, the Steering Committee decided to proceed with an analysis at a median followup of 10 years and the results were presented at the American Society of Clinical Oncology Congress 2019.15 Here, we report the final analysis with the planned number of events. www.thelancet.com/oncology Vol 22 October 2021 
+
+Articles 
+
+Disease-free survival and overall survival were analysed in the intention-to-treat population (ie, according to random group assignment). Kaplan-Meier curves were plotted to describe disease-free survival (primary endpoint) and overall survival (secondary endpoint) and the log-rank test was used to compare the two treatment groups. All hypothesis tests were two-tailed. CIs and median survival were calculated using the Simon method.16 Post-hoc analyses were done for patients with negative and positive nodes and shown as Kaplan-Meier diseasefree survival curves. Considering that all patients received the same therapy for 2–3 years after randomisation, a post-hoc landmark analysis was done, excluding patients with a disease-free survival event or those lost to followup before treatment divergence (2–3·3 years after randomisation, depending on the duration of prerandomisation endocrine therapy). Disease-free survival was computed from the time of treatment divergence to the date of the event. To provide estimates of treatment effects adjusted for potential confounding factors and to assess the con­ sistency of these estimates across strata of these factors (subgroup analyses), several multivariate Cox models were constructed as post-hoc analyses. The following covariates were included in the models: age, tumour size, nodal status, grade, HER2 status, hormone receptor status, previous adjuvant or neoadjuvant chemotherapy, and body-mass index (BMI). For subgroup analyses, interaction terms between treat­ ment group and each prognostic factor were introduced in the model sequentially. Statistical signifi­ cance of the interaction term was assessed by a backward procedure based on the likelihood ratio test. Since no correction for multiple testing was introduced and no subgroup analysis was anticipated in the study protocol, the results of these analyses (ie, test for interactions) should be considered as merely exploratory. Results of the subgroup analysis are summarised in forest plots. All reported p values are two-tailed. Because the two groups of patients were receiving the same therapy before treatment divergence, proportionality of the hazards could not be assumed in the intention-totreat analyses. Therefore, the proportionality assumption was assessed only in the landmark analysis by visual inspection of the plots of Schoenfeld residuals. Safety analysis was done for patients who received at least one month of study treatment. The χ² test or Fisher exact test were used to compare grade 3 and 4 toxic effects between the two groups. Comparison of bone fractures, hypercholesterolaemia, and cardiac ischaemic events between groups was prespecified in the protocol. Because of multiplicity, p values for adverse events are merely descriptive. SPSS (version 20.0) was used for all statistical analyses. This trial was registered with EudraCT, 2005-001212-44 and ClinicalTrials.gov, NCT01064635. www.thelancet.com/oncology Vol 22 October 2021 
+
+2056 randomly assigned 
+
+1030 assigned letrozole for 2–3 years (control) 
+
+27 did not receive treatment 1 had premenopausal oestradiol concentration 1 refused 24 lost to follow-up 1 missing 
+
+1003 treatment ongoing 
+
+224 discontinued treatment 37 refused 87 adverse events 35 early relapse or death 65 other causes* 
+
+779 completed treatment 1030 included in intention-to-treat analysis 
+
+1026 assigned letrozole for 5 years (extended) 
+
+35 did not receive treatment 1 had colorectal cancer 7 refused 22 lost to follow-up 5 missing 
+
+991 treatment ongoing 
+
+409 discontinued treatment 96 refused 133 adverse events 65 early relapse or death 115 other causes* 
+
+582 completed treatment 1026 included in intention-to-treat analysis 
+
+Figure 1: Trial profile Data on patients assessed for eligibility is not available. *Other causes of treatment discontinuation are not available. 
+
+Role of the funding source The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. 
+
+Results Between Aug 1, 2005, and Oct 24, 2010, 2056 patients were enrolled and randomly assigned to receive letrozole for 2–3 years (n=1030; control group) or for 5 years (n=1026; extended group). 27 patients did not receive treatment in the control group versus 35 in the extended group (figure 1). A further 224 patients discontinued treatment in the control group versus 409 in the extended group. All 2056 patients were included in the intentionto-treat analysis of the primary endpoint. Baseline demographic and tumour characteristics are shown in table 1. The median age was 61 years (IQR 54–67). Because most patients began adjuvant treatment before the approval of adjuvant trastuzumab in Italy (2006), only 15 (12∙2%) of 123 patients with known HER2-positive status received adjuvant trastu­zumab (five patients [7∙9%] in the control group vs ten [16∙7%] in the extended group). Among patients who started the treatment, letrozole treatment was discontinued by 189 (19∙5%) of 968 patients in the control group and 344 (37∙1%) of 926 patients in the extended group in the absence of disease progression (excluding 35 patients in the control group vs 65 in the extended group who had a disease-free survival event during treatment; appendix 2 p 11). Among the 344 patients in the extended group, 79 (23∙0%) discontinued letrozole 1461 
+
+Articles 
+
+2–3-year letrozole 5-year letrozole group (n=1030) group (n=1026) Age, years 
+
+60 (54–67) 
+
+61 (54–68) 
+
+pT1 
+
+704 (68·3%) 
+
+703 (68·5%) 
+
+pT2 
+
+261 (25·3%) 
+
+252 (24·6%) 
+
+pT3–4 
+
+34 (3·3%) 
+
+43 (4·2%) 
+
+Unknown 
+
+31 (3·0%) 
+
+28 (2·7%) 
+
+Tumour size 
+
+Type of breast surgery Breast-conserving surgery 
+
+777 (75·4%) 
+
+772 (75·2%) 
+
+Mastectomy 
+
+232 (22·5%) 
+
+246 (24·0%) 
+
+Unknown 
+
+15 (1·5%) 
+
+8 (0·8%) 
+
+pN0 
+
+581 (56·4%) 
+
+568 (55·4%) 
+
+pN1–2–3 
+
+411 (39·9%) 
+
+428 (41·7%) 
+
+Unknown 
+
+38 (3·7%) 
+
+30 (2·9%) 
+
+Nodal status 
+
+Tumour grade G1 
+
+156 (15·1%) 
+
+161 (15·7%) 
+
+G2 
+
+564 (54·8%) 
+
+589 (57·4%) 
+
+G3 
+
+221 (21·5%) 
+
+213 (20·8%) 
+
+Unknown 
+
+89 (8·6%) 
+
+63 (6·1%) 
+
+Oestrogen and progesterone receptor positive 
+
+855 (83·0%) 
+
+866 (84·4%) 
+
+Oestrogen or progesterone receptor positive 
+
+153 (14·9%) 
+
+146 (14·2%) 
+
+Unknown 
+
+22 (2·1%) 
+
+14 (1·4%) 
+
+Hormone receptor status 
+
+HER2 status Positive 
+
+63 (6·1%) 
+
+60 (5·8%) 
+
+Negative 
+
+851 (82·6%) 
+
+833 (81·2%) 
+
+Unknown 
+
+116 (11·3%) 
+
+133 (13·0%) 
+
+1–14 
+
+406 (39·4%) 
+
+425 (41·4%) 
+
+15–19 
+
+96 (9·3%) 
+
+111 (10·8%) 
+
+≥20 
+
+266 (25·8%) 
+
+251 (24·5%) 
+
+Unknown 
+
+262 (25·4%) 
+
+239 (23·3%) 
+
+Ki67 value (% of positive cells) 
+
+Previous neoadjuvant or adjuvant chemotherapy No 
+
+455 (44·2%) 
+
+450 (43·9%) 
+
+Yes 
+
+557 (54·1%) 
+
+565 (55·1%) 
+
+Unknown 
+
+18 (1·7%) 
+
+11 (1·1%) 
+
+2·4 (1·9–3·3) 
+
+2·5 (1·9–3·3) 
+
+Previous duration of tamoxifen, years Body-mass index, kg/m² <30 
+
+819 (79·5%) 
+
+821 (80%) 
+
+≥30 
+
+174 (16·9%) 
+
+177 (17·3%) 
+
+Unknown 
+
+37 (3·6%) 
+
+28 (2·7%) 
+
+Data are median (IQR) or n (%). The unknown category is defined as patients for whom the data were not reported in the case report form. 
+
+Table 1: Baseline characteristics 
+
+in the first 2–3 years after randomisation and 48 (14∙0%) in the subsequent years. The main reasons for discontinuation were adverse events (87 [8∙9%] of 968 in the control vs 133 [14∙4%] of 926 in the extended group) and patient refusal (37 [3∙8%] vs 96 [10∙4%]; appendix 2 1462 
+
+p 11). The most common adverse events that led to discontinuation were arthralgia (42 [4∙3%] of 968 patients in the control group vs 71 [7∙7%] of 926 patients in the extended group) and myalgia (two [<1%] vs seven [<1%]). Median duration of letrozole treatment was 2·4 years (IQR 1·9–2·8) in the control group and 5·0 years (2·5–5·0) in the extended group (appendix 2 p 11). As of Nov 30, 2020, after a median follow-up of 11·7 years (IQR 9·5–13·1), disease-free survival events occurred in 474 (23∙0%) of 2056 patients in the overall study population with 262 (25·4%) of 1030 in the control group and 212 (20·7%) of 1026 in the extended group (appendix 2 p 12). In the intention-to-treat population, the 12-year disease-free survival was 62% (95% CI 57–66) in the control group and 67% (62–71) in the extended group (HR 0·78, 95% CI 0·65–0·93; p=0·0064; figure 2). The effect did not change in a multivariate Cox model (HR 0·79, 95% CI 0·66–0·95; p=0·014). Overall, 263 (12∙8%) deaths occurred, 147 in the control group and 116 in the extended group. The 12-year overall survival was 84% (95% CI 82–87) in the control group and 88% (86–90) in the extended group (HR 0·77, 95% CI 0·60–0·98; p=0·036; figure 2). Post-hoc subgroup analyses of disease-free survival are shown in figure 3 and in appendix 2 (pp 8–9). Post-hoc analysis of disease-free survival and overall survival at 5 years and 10 years showed no differences between the two groups. 5-year disease-free survival was 92% (95% CI 91–94) in the control group versus 92% (90–94) in the extended group and 10-year disease-free survival was 74% (71–77) versus 79% (75–82). In terms of overall survival, 5-year overall survival was 97% (95% CI 96–98) in the control group versus 97% (95–98) in the extended group and 10-year overall survival was 90% (88–92) versus 91% (89–93). 1890 patients were included in a post-hoc landmark analysis excluding patients with a disease-free survival event or those lost to follow-up before treatment diver­ gence (2–3·3 years after randomisation, depending on the duration of pre-randomisation endocrine therapy). 166 patients had a disease-free survival event or were lost to follow-up before treatment divergence and were, therefore, excluded from the analysis. 10-year disease-free survival after treatment divergence was 59% (95% CI 53–64) in the control group and 68% (63–72) in the extended group (HR 0·73, 95% CI 0·60–0·90; p=0·0022; appendix 2 p 10). Plots of Schoenfeld residuals in the landmark analysis show that following treatment divergence the pro­ por­ tionality assumption was met (appendix 2 pp 3–7). Toxic effects were evaluable in 983 (95∙4%) patients in the control group (27 patients were excluded because treatment never began and 20 because of missing data) and 977 (95∙2%) patients in the extended group (35 patients were excluded because treatment never began and 14 because of missing data). The most common grade 3 and 4 adverse events were arthralgia (22 [2·2%] in the control group vs 29 [3·0%] in the extended group) and www.thelancet.com/oncology Vol 22 October 2021 
+
+Articles 
+
+A 100 90 Disease-free survival (%) 
+
+80 70 60 50 40 30 5-year letrozole (extended) 2–3-year letrozole (control) HR 0·78 (95% CI 0·65–0·93); p=0·0064 
+
+20 10 0 Number at risk (number censored) 2–3-year letrozole 5-year letrozole 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+1030 (0) 1026 (0) 
+
+999 (20) 991 (20) 
+
+966 (37) 963 (37) 
+
+919 (64) 917 (64) 
+
+878 (94) 875 (89) 
+
+816 (140) 815 (133) 
+
+746 (185) 742 (194) 
+
+636 (270) 648 (270) 
+
+515 (365) 538 (369) 
+
+394 (462) 441 (449) 
+
+310 (529) 341 (525) 
+
+217 (595) 218 (620) 
+
+139 (659) 150 (677) 
+
+64 (711) 75 (746) 
+
+13 (756) 18 (990) 
+
+0 (767) 1 (1024) 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+656 (285) 682 (264) 
+
+533 (388) 568 (370) 
+
+389 (252) 416 (511) 
+
+211 (677) 231 (686) 
+
+61 (823) 60 (850) 
+
+2 (881) 3 (907) 
+
+B 100 90 
+
+Overall survival (%) 
+
+80 70 60 50 40 30 20 10 0 Number at risk (number censored) 2–3-year letrozole 5-year letrozole 
+
+HR 0·77 (95% CI 0·60–0·98); p=0·036 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Time since randomisation (years) 1030 (0) 1026 (0) 
+
+1021 (8) 1019 (6) 
+
+1006 (17) 1006 (12) 
+
+991 (26) 988 (23) 
+
+968 (40) 965 (38) 
+
+933 (65) 941 (52) 
+
+895 (89) 916 (70) 
+
+863 (111) 868 (107) 
+
+810 (154) 823 (146) 
+
+738 (213) 755 (200) 
+
+Figure 2: Disease-free survival and overall survival in the intention-to-treat population Kaplan-Meier estimates of disease-free survival (A) and overall survival (B). HR=hazard ratio. 
+
+myalgia (seven [0·7%] vs nine [0·9%]; table 2; appendix 2 p 13). Osteoporosis occurred in 47 (4·7%) patients in the control group and 81 (8·3%) in the extended group. No difference was observed in the incidence of bone fractures (five [0·5%] in the control group vs nine [0·9%] in the extended group; p=0·28), hypercholesterol­ aemia (32 [3·1%] vs 22 [2·0%]; p=0·17), and cardio­ vascular events (one [0·1%] vs six [0·6%]; p=0·069). 121 patients (11·7%) in the control group and 165 (16·1%) in the extended group received bisphos­phonates during the study. Details on baseline bone mineral density are reported in appendix 2 (p 16). Treatment-related serious adverse events were reported in three (0·3%) patients in the control group (atrial fibrillation, bone pain, and vomiting), and eight (0·8%) patients in the extended www.thelancet.com/oncology Vol 22 October 2021 
+
+group (one pneumonia event, one macular degeneration, four thromboembolic events, and two cardiovascular events; appendix 2 p 15). No deaths related to toxic effects were observed. 
+
+Discussion Results from the GIM4 trial show that, with a median follow-up of 11∙7 years, in postmenopausal patients with hormone receptor-positive breast cancer who received adjuvant tamoxifen for 2–3 years, extended therapy with 5 years of letrozole significantly improved disease-free survival and overall survival outcomes compared with the standard 2–3 years of letrozole. In patients currently receiving 5 years of endocrine therapy—ie, upfront aromatase inhibitors for 5 years or 1463 
+
+Articles 
+
+2–3-year letrozole (control) 
+
+5-year letrozole (extended) 
+
+Events (n)/ patients (N) 
+
+12-year diseasefree survival (95% CI) 
+
+Events (n)/ patients (N) 
+
+Hazard ratio (95% CI) 
+
+pinteraction 
+
+0·69 
+
+12-year diseasefree survival (95% CI) 
+
+Age, years <55 
+
+38/275 
+
+78·2 (69·3–84·8) 
+
+44/271 
+
+74·7 (65·9–81·5) 
+
+1·054 (0·675–1·644) 
+
+55–64 
+
+102/393 
+
+66·1 (59·5–71·9) 
+
+82/386 
+
+66·3 (58·9–72·7) 
+
+0·753 (0·560–1·012) 
+
+65–75 
+
+94/304 
+
+52·7 (43·7–61·0) 
+
+63/313 
+
+64·0 (54·1–72·2) 
+
+0·708 (0·509–0·985) 
+
+≥76 
+
+28/58 
+
+13·7 (2·9–32·9) 
+
+23/56 
+
+37·0 (17·3–56·8) 
+
+0·699 (0·365–1·338) 
+
+pT1 
+
+153/704 
+
+66·9 (61·2–71·9) 
+
+135/703 
+
+68·5 (62·9–73·5) 
+
+0·864 (0·684–1·092) 
+
+pT2 
+
+86/261 
+
+51·0 (41·6–59·6) 
+
+59/252 
+
+63·4 (53·7–71·7) 
+
+0·694 (0·493–0·976) 
+
+pT3–4 
+
+15/34 
+
+51·2 (27·4–70·8) 
+
+16/43 
+
+51·0 (30·6–68·1) 
+
+0·896 (0·365–2·202) 
+
+pTx 
+
+8/31 
+
+63·2 (33·3–82·6) 
+
+2/28 
+
+81·4 (37·9–95·7) 
+
+0·125 (0·010–1·492) 
+
+pN0 
+
+122/581 
+
+63·1 (56·4–69·7) 
+
+87/568 
+
+72·7 (66·1–78·2) 
+
+0·626 (0·474–0·828) 
+
+pN+ 
+
+127/411 
+
+59·8 (53·1–65·9) 
+
+122/428 
+
+58·2 (51·2–64·5) 
+
+0·982 (0·761–1·267) 
+
+pNx 
+
+13/38 
+
+60·6 (38·0–77·2) 
+
+3/30 
+
+80·6 (44·5–94·4) 
+
+0·735 (0·144–3·753) 
+
+Tumour size 0·31 
+
+Nodal status 0·026 
+
+Histological grade G1 
+
+28/156 
+
+72·5 (60·9–81·2) 
+
+27/161 
+
+75·2 (64·1–83·3) 
+
+0·837 (0·479–1·466) 
+
+G2 
+
+148/564 
+
+61·7 (55·3–67·4) 
+
+129/589 
+
+64·9 (58·7–70·4) 
+
+0·797 (0·627–1·014) 
+
+G3 
+
+66/221 
+
+55·2 (44·3–64·8) 
+
+48/213 
+
+63·2 (52·1–72·4) 
+
+0·795 (0·537–1·176) 
+
+Gx 
+
+20/89 
+
+61·4 (40·9–76·6) 
+
+8/63 
+
+73·2 (42·2–89·4) 
+
+0·447 (0·177–1·128) 
+
+0·84 
+
+Hormone receptor Oestrogen and progesterone receptor positive 
+
+217/855 
+
+61·0 (55·7–65·8) 
+
+173/866 
+
+67·1 (61·9–71·8) 
+
+0·765 (0·625–0·937) 
+
+Oestrogen or progesterone receptor positive 
+
+39/153 
+
+67·6 (55·8–76·8) 
+
+37/146 
+
+65·0 (53·7–74·2) 
+
+1·058 (0·664–1·687) 
+
+Unknown 
+
+6/22 
+
+53·3 (14·4–81·5) 
+
+2/14 
+
+68·8 (16·3–92·6) 
+
+1·00 (0·106–9·419) 
+
+Negative 
+
+211/851 
+
+60·6 (55·1–65·6) 
+
+173/833 
+
+64·8 (59·5–69·7) 
+
+0·825 (0·673–1·011) 
+
+Positive 
+
+23/63 
+
+50·7 (33·3–65·7) 
+
+12/60 
+
+70·3 (49·9–83·6) 
+
+0·375 (0·165–0·854) 
+
+Unknown 
+
+28/116 
+
+73·9 (62·5–82·3) 
+
+27/133 
+
+74·6 (63·5–82·8) 
+
+0·651 (0·362–1·173) 
+
+No 
+
+96/455 
+
+63·8 (56·2–70·5) 
+
+80/450 
+
+69·4 (62·3–76·5) 
+
+0·810 (0·599–1·094) 
+
+Yes 
+
+159/557 
+
+61·0 (54·8–66·5) 
+
+131/565 
+
+64·3 (58·3–69·8) 
+
+0·820 (0·648–1·038) 
+
+7/18 
+
+46·6 (13·0–75·1) 
+
+1/11 
+
+83·3 (27·3–97·5) 
+
+NA 
+
+0·24 
+
+HER2 0·54 
+
+Previous chemotherapy 
+
+Unknown 
+
+0·41 
+
+Body-mass index, kg/m² <30 
+
+212/819 
+
+61·8 (56·6–66·6) 
+
+161/821 
+
+69·2 (64·2–73·6) 
+
+0·750 (0·610–0·922) 
+
+≥30 
+
+48/174 
+
+59·5 (47·3–69·8) 
+
+51/177 
+
+51·3 (37·9–63·2) 
+
+1·082 (0·100–1·649) 
+
+100·0 (NA) 
+
+NA 
+
+66·7 (62·1–70·9) 
+
+0·777 (0·648–0·931) 
+
+Unknown 
+
+2/37 
+
+95·2 (70·7–99·3) 
+
+0/28 
+
+All patients 
+
+262/1030 
+
+62·0 (57·3–66·3) 
+
+212/1026 
+
+0·42 
+
+0·014 
+
+0·06 0·13 0·25 0·5 1·0 2·0 4·0 
+
+Favours 5-year letrozole (extended) 
+
+Favours 2–3-year letrozole (control) 
+
+Figure 3: Cox proportional hazard model for disease-free survival according to treatment (post-hoc analysis) Disease-free survival events included local recurrence, distant metastases, contralateral or ipsilateral breast tumour (excluding ductal carcinoma in situ), second primary malignancy, death from any cause, and loss to follow-up or end of study. NA=not applicable. 
+
+sequential treatment with tamoxifen for 2–3 years followed by 2–3 years of aromatase inhibitors—the role of extended aromatase inhibitor has been controversial1,2 and various randomised trials17–20 addressed this issue by comparing a shorter and longer duration of extended aromatase inhibitor therapy. The DATA trial,17 with a similar design to our study, evaluated the role of extended endocrine therapy in 1860 patients homogeneously given sequential tamoxifen and aromatase inhibitors. The study reported a HR of 0·79 (95% CI 0·62–1·02; p=0·066) for 5-year disease-free survival in patients given 6 years 1464 
+
+versus 3 years of anastrozole, after 2–3 years of adjuvant tamoxifen. In the NSABP B-42 study,18 3966 patients free from disease recurrence after 5 years of treatment with an aromatase inhibitor or with sequential tamoxifen and aromatase inhibitors were randomly assigned to placebo oral tablet or an additional 5 years of letrozole. At a median follow-up of 9·3 years, there was a statistically significant improvement in 10-year disease-free survival with extended letrozole (0·84, 0·74–0·96; p=0·011), with a more pronounced effect in patients previously given sequential tamoxifen and aromatase inhibitors. www.thelancet.com/oncology Vol 22 October 2021 
+
+Articles 
+
+To our knowledge, GIM4 is the clinical trial of extended aromatase inhibitor therapy with the longest follow-up and the first study showing an overall survival benefit by extending aromatase inhibitor treatment beyond 5 years, which strongly supports the use of extended endocrine therapy with aromatase inhibitors in postmenopausal patients. Overall survival curves showed a clear separation in favour of extended letrozole therapy at follow-up of 9·5 years. This finding underscores the importance of adequate follow-up length in hormone receptor-positive early breast cancer to assess the effect of treatments and is consistent with the previously reported carryover effect of aromatase inhibitors.21 The absence of a difference in disease-free survival and overall survival at 5 years and 10 years suggests that the effect of letrozole takes several years to be seen. The optimal duration of extended therapy remains unclear because the duration was different among various studies—eg, 7–8 years in DATA and GIM4 studies and 10 years in the NSABP B-42 study. The results of the IDEAL19 and ABCSG1620 studies might help to define the optimal duration of treatment. In these two studies, patients receiving an initial 5 years of treatment with sequential tamoxifen and aromatase inhibitors or tamoxifen alone or aromatase inhibitors alone were randomly assigned to receive 5 years (total duration of 10 years of endocrine therapy) or 2 years of aromatase inhibitor (total duration of 7 years) in the ABCSG16 study and 2·5 years (total duration of 7·5 years) in the IDEAL study. Both studies showed that extended therapy for 10 years was not superior to 7–7·5 years. All these findings suggest that 7–8 years of adjuvant therapy, including at least 5 years with an aromatase inhibitor, could be the optimal duration of adjuvant endocrine therapy in postmenopausal patients with breast cancer. In fact, 7–8 years of endocrine therapy might represent the best compromise between efficacy and side-effects. The MA27.R study22 showed a small advantage in diseasefree survival, no difference in overall survival, and increased adverse events such as osteoporosis and bone fractures with aromatase inhibitor therapy extended beyond 10 years, thus confirming the clinically relevant toxic effects induced by a long duration of treatment. Notably, in our GIM4 study, longer duration of letrozole was associated with an increased incidence of sideeffects such as arthralgia, myalgia, hypertension, and osteoporosis; however, there was no difference in the incidence of bone fractures. A higher number of cardiovascular events was observed in the experimental group than the control group. This finding is consistent with the increased risk of cardiovascular events previously reported with aromatase inhibitors; however, in the GIM4 study the incidence of cardiovascular events was low (<1% in the control group vs 1% in the extended group) and unlikely to outweigh the outcome benefit.23,24 Our study confirmed the poor adherence to adjuvant endocrine therapy in women with breast cancer, with a www.thelancet.com/oncology Vol 22 October 2021 
+
+2–3-year letrozole group (n=983) 
+
+5-year letrozole group (n=977) 
+
+Grade 1–2 
+
+Grade 3 
+
+Grade 4 
+
+Grade 1–2 
+
+Grade 3 
+
+Arthralgia 
+
+263 (26·8%) 
+
+21 (2·1%) 
+
+1 (0·1%) 
+
+311 (31·8%) 
+
+27 (2·8%) 
+
+2 (0·2%) 
+
+Myalgia 
+
+65 (6·6%) 
+
+7 (0·7%) 
+
+0 
+
+95 (9·7%) 
+
+9 (0·9%) 
+
+0 
+
+Hot flashes 
+
+119 (12·5%) 
+
+NA 
+
+NA 
+
+127 (13·4%) 
+
+NA 
+
+NA 
+
+Alopecia 
+
+31 (3·1%) 
+
+NA 
+
+NA 
+
+35 (3·6%) 
+
+NA 
+
+NA 
+
+Hypercholesterolaemia 
+
+31 (3·2%) 
+
+1 (0·1%) 
+
+0 
+
+22 (2·3%) 
+
+0 
+
+0 
+
+Hypertension 
+
+7 (0·7%) 
+
+0 
+
+0 
+
+18 (1·8%) 
+
+1 (0·1%) 
+
+0 
+
+Grade 4 
+
+Cardiovascular event* 
+
+0 
+
+1 (0·1%) 
+
+0 
+
+5 (0·5%) 
+
+1 (0·1%) 
+
+0 
+
+Thrombosis or embolism 
+
+0 
+
+1 (0·1%) 
+
+0 
+
+1 (0·1%) 
+
+4 (0·4%) 
+
+0 0 
+
+Nausea 
+
+18 (1·9%) 
+
+1 (0·1%) 
+
+0 
+
+28 (2·9%) 
+
+2 (0·2%) 
+
+Vomiting 
+
+4 (0·4%) 
+
+1 (0·1%) 
+
+0 
+
+8 (0·8%) 
+
+0 
+
+0 
+
+Constipation 
+
+5 (0·5%) 
+
+1 (0·1%) 
+
+0 
+
+9 (0·9%) 
+
+0 
+
+0 
+
+Muscle cramps 
+
+16 (1·6%) 
+
+1 (0·1%) 
+
+0 
+
+15 (1·5%) 
+
+0 
+
+0 
+
+Diarrhoea 
+
+8 (0·8%) 
+
+1 (0·1%) 
+
+0 
+
+9 (0·9%) 
+
+1 (0·1%) 
+
+0 
+
+Mucositis 
+
+3 (0·3%) 
+
+0 
+
+0 
+
+1 (0·1%) 
+
+1 (0·1%) 
+
+0 
+
+Abdominal pain 
+
+31 (3·1%) 
+
+0 
+
+0 
+
+32 (3·3%) 
+
+1 (0·1%) 
+
+0 
+
+Allergic reaction 
+
+5 (0·5%) 
+
+0 
+
+0 
+
+4 (0·4%) 
+
+1 (0·1%) 
+
+0 
+
+Asthenia 
+
+53 (5·4%) 
+
+0 
+
+0 
+
+67 (6·8%) 
+
+3 (0·3%) 
+
+0 
+
+Weight gain 
+
+14 (1·4%) 
+
+0 
+
+0 
+
+18 (1·8%) 
+
+1 (0·1%) 
+
+0 
+
+Depression 
+
+14 (1·4%) 
+
+0 
+
+1 (0·1%) 
+
+26 (2·6%) 
+
+3 (0·3%) 
+
+0 
+
+Osteoporosis†‡ 
+
+47 (4·3%) 
+
+NA 
+
+NA 
+
+81 (8·3%) 
+
+NA 
+
+NA 
+
+Bone fractures† 
+
+5 (0·5%) 
+
+NA 
+
+0 
+
+9 (0·9%) 
+
+NA 
+
+NA 
+
+NA=not applicable. *Cardiovascular events include the following Common Terminology Criteria for Adverse Events (version 2.0) categories: cardiac arrhythmia and cardiac general. †Osteoporosis and bone fractures were classified as present or absent without grading. ‡103 patients (10∙4%) in the 2–3-year letrozole group and 79 (8∙0%) in the 5-year letrozole group had osteoporosis at baseline and were not included. 
+
+Table 2: Adverse events by treatment group 
+
+high discontinuation rate in both groups. A higher rate of discontinuation in the experimental group is probably due to the longer duration of treatment compared with the control group. Given prognostic relevance of the compliance to endocrine therapy, our data reinforce the importance of implementing proactive measures to manage side-effects and maximise treatment adherence and persistance.25 A limitation of this study in terms of internal validity is the absence of a double-blind and placebo-controlled design. One of the two potential biases of open-label studies—ie, bias in outcome assessment—does not appear to be of concern in trials of adjuvant therapy, in which the primary endpoint is either overall survival, which is not susceptible to bias, or disease-free survival, which is based on objective assessments. Many trials of adjuvant therapies in breast cancer, including three of four phase 3 studies17,19,20 comparing shorter and longer duration of aromatase inhibitor therapy, were open label. The other relevant bias is attrition bias—ie, differential loss to follow-up between the two treatment groups— with patients at risk of an unfavourable outcome preferentially lost to follow-up. Examination of the number of patients at risk in the Kaplan-Meier curves suggests that although some attrition bias might be present, its effect was most likely moderate. In the 1465 
+
+Articles 
+
+landmark analysis, in which differential attrition after treatment divergence (2–3·3 years after randomisation) should be more evident, the number of patients at risk was similar between the two groups during the first 2 years following treatment divergence. After these 2 years, the difference was largely driven by the difference in the number of disease-free survival events. Finally, the absence of genomic testing, not available in Italy during the study accrual, and the absence of ethnic diversity might limit the generalisability of our findings to the global breast cancer landscape. In the first 2–3 years after randomisation, the two groups received the same therapy and therefore had similar event rates. Landmark analysis was used to remove this dilution effect. These analyses provide estimates of the net benefit derived from extending therapy among patients who remain alive and receive therapy after 2–3 years. Notably, the disease-free survival curves started to differ 2–3 years after treatment divergence, in partial violation of the proportional hazard assumption, which was met thereafter. Caution is needed in the interpretation of these analyses because they might be biased by confounding introduced by differences in the reasons why patients were lost to follow-up before treatment divergence between the two groups. However, the similar number of alive patients excluded from landmark analysis seems to rule out the possibility that this bias, if present, greatly distorted the results of the analysis. The observation that the beneficial effect of extended duration of endocrine therapy was more pronounced in patients with node-negative disease in a subgroup analysis should be interpreted with caution because the finding was derived from a post-hoc analysis and this association has been not reported in other similar studies. On one hand, because we only enrolled patients free of recurrence after 2–3 years of tamoxifen, the population with early relapse, who were likely to be node-positive, was excluded, leaving only patients with better prognosis. On the other hand, patients with node-negative disease relapse later and are therefore captured by this trial with a long follow-up. This finding, together with the overall survival benefit, might change clinical practice guidelines that state that an individualised approach to treatment duration considering risk reduction and tolerability was appropriate especially in node-negative and some nodepositive cancers, since no other studies have shown improvement in overall survival with longer duration aromatase inhibitor therapy.1 On the basis of our results, this statement is no longer supported by the evidence and should be updated to improve clinical decision-making for adjuvant endocrine therapy in postmenopausal patients with breast cancer. Sequential endocrine therapy with tamoxifen for 2–3 years followed by letrozole for 5 years should be considered among the optimal standard endocrine treatments for postmenopausal patients with hormone receptor-positive breast cancer, regardless of the nodal status at diagnosis. 1466 
+
+Contributors LDM, FC, SDP, and PB contributed to the study design. LDM and PB have accessed and verified all the data in the study. LDM and PB contributed to the data analysis and interpretation. LDM, FPo, ML, FM, and PB wrote the manuscript. LDM obtained funding and supervised the study. All authors contributed to the data collection, critical revision of the manuscript, and material support. All the authors had full access to all the data in the study and had final responsibility for the decision to submit the manuscript for publication. Declaration of interests LDM receives honoraria and non-financial support from Roche, Novartis, Pfizer, MSD, Genomic Health, Takeda, Ipsen, Eisai, Eli Lilly, Celgene, Pierre Fabre, Seagen, Daiichi Sankyo, Exact Sciences, and Amgen. MM receives honoraria from Novartis, Pfizer, AstraZeneca, Roche, Eisai, Eli Lilly, and MSD. AF receives honoraria from Roche, Novartis, Eli Lilly, Daiichi Sankyo, Seagen, AstraZeneca, and Pfizer. SDP receives honoraria from Roche, Novartis, Pfizer, Celgene, Eli Lilly, AstraZeneca, Clovis, Seagen, Daichii Sankyo, and MSD. OG receives honoraria and non-financial support from Eisai, Novartis, MSD, Amgen, Eli Lilly, Pfizer, and Roche. CB receives honoraria from Novartis, Roche, and Eli Lilly. FPu receives honoraria from Eisai, Novartis, Astra Zeneca, Celgene, Roche, MSD, Daichii Sankyo, and Eli Lilly. GA receives honoraria from Roche, Amgen, AstraZeneca, Pfizer, Eli Lilly, Novartis, and MDS. FPo receives honoraria and non-financial support from MSD, Eli Lilly, and Novartis. ML acted as adviser for Roche, AstraZeneca, Eli Lilly, and Novartis; and receives honoraria from Takeda, Roche, AstraZeneca, Eli Lilly, Pfizer, Novartis, and Sandoz. FM receives honoraria from Roche, Novartis, Eli Lilly, Pierre Fabre, Novartis, Daichii Sankyo, Pfizer, AstraZeneca, Seagen, and Pierre Fabre. All other authors declare no competing interests. Data sharing All individual participant data collected during the study after deidentification are shared with Early Breast Cancer Trialists’ Cooperative Group. Individual participant data that underlie the results reported in this Article will be available for further sharing after deidentification. The study protocol and amendments are available at https://www.oncotech.org/gim4/protocol. Data will be available starting at 9 months and ending 5 years following Article publication. Data will be shared with researchers who provide a methodologically sound proposal. The types of analyses allowed will be those able to achieve aims in the approved proposal. Proposals should be directed to lucia.delmastro@hsanmartino.it. Acknowledgments This study was funded by Novartis, which provided the letrozole and zoledronic acid. This work was also supported by grants from the Italian Ministry of Health. We thank Marco Venturini, leader of the Gruppo Italiano Mammella (GIM) group, who left all of us too early. We thank patients, physicians, nurses, and trial coordinators who participated in this GIM4 trial. We thank Giovanni Cucchiara, Carlo Panzano, and Danilo Spadavecchia from the Clinical Research Technology (Salerno, Italy) for clinical record online management; and Eva Blondeaux for statistical support. Simona Pastorino and Annalisa Abate provided all the technical assistance and computer work for statistical analyses. References 1 Burstein HJ, Lacchetti C, Anderson H, et al. Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: ASCO Clinical Practice Guideline focused update. J Clin Oncol 2019; 37: 423–38. 2 Cardoso F, Kyriakides S, Ohno S, et al. Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2019; 30: 1194–220. 3 Pan H, Gray R, Braybrooke J, et al. 20-year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years. N Engl J Med 2017; 377: 1836–46. 4 Davies C, Pan H, Godwin J, et al. Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years after diagnosis of oestrogen receptor-positive breast cancer: ATLAS, a randomised trial. Lancet 2013; 381: 805–16. 
+
+www.thelancet.com/oncology Vol 22 October 2021 
+
+Articles 
+
+5 
+
+6 7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 13 14 
+
+15 
+
+Gray RG, Rea D, Handley K, et al. aTTom: Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years in 6,953 women with early breast cancer. Proc Am Soc Clin Oncol 2013; 31 (suppl 18): 5 (abstr). Goss PE, Ingle JN, Martino S, et al. A randomized trial of letrozole in postmenopausal women after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 2003; 349: 1793–802. Mamounas EP, Jeong J-H, Wickerham DL, et al. Benefit from exemestane as extended adjuvant therapy after 5 years of adjuvant tamoxifen: intention-to-treat analysis of the national surgical adjuvant breast and bowel project B-33 trial. J Clin Oncol 2008; 26: 1965–71. Jakesz R, Greil R, Gnant M, et al. Extended adjuvant therapy with anastrozole among postmenopausal breast cancer patients: results from the randomized Austrian Breast and Colorectal Cancer Study Group Trial 6a. J Natl Cancer Inst 2007; 99: 1845–53. Howell A, Cuzick J, Baum M, et al. Results of the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial after completion of 5 years’ adjuvant treatment for breast cancer. Lancet 2005; 365: 60–62. Boccardo F, Rubagotti A, Puntoni M, et al. Switching to anastrozole versus continued tamoxifen treatment of early breast cancer: preliminary results of the Italian Tamoxifen Anastrozole Trial. J Clin Oncol 2005; 23: 5138–47. Coombes RC, Hall E, Gibson LJ, et al. A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 2004; 350: 1081–92. National Cancer Institute. Common toxicity criteria, version 2.0. 1999. https://ctep.cancer.gov/protocoldevelopment/electronic_ applications/docs/ctcv20_4-30-992.pdf (accessed May 5, 2021). BIG 1–98 Collaborative Group, Mouridsen H, Giobbie-Hurder A, et al. Letrozole therapy alone or in sequence with tamoxifen in women with breast cancer. N Engl J Med 2009; 361: 766–76. Gray R, Early Breast Cancer Trialists’ Collaborative Group. Abstract GS3–03: effects of prolonging adjuvant aromatase inhibitor therapy beyond five years on recurrence and cause-specific mortality: an EBCTCG meta-analysis of individual patient data from 12 randomised trials including 24,912 women. San Antonio Breast Cancer Symposium; San Antonio, TX, USA; Dec 4–8, 2018 (abstr GS3–03). Del Mastro L, Mansutti M, Bisagni G, et al. Benefit from letrozole as extended adjuvant therapy after sequential endocrine therapy: a randomized, phase III study of Gruppo Italiano Mammella (GIM). Proc Am Soc Clin Oncol 2019; 37 (suppl 15): 504 (abstr). 
+
+www.thelancet.com/oncology Vol 22 October 2021 
+
+16 17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 23 
+
+24 25 
+
+Simon R. Confidence intervals for reporting results of clinical trials. Ann Intern Med 1986; 105: 429–35. Tjan-Heijnen VCG, van Hellemond IEG, Peer PGM, et al. Extended adjuvant aromatase inhibition after sequential endocrine therapy (DATA): a randomised, phase 3 trial. Lancet Oncol 2017; 18: 1502–11. Mamounas EP, Bandos H, Lembersky BC, et al. Ten-year results from NRG Oncology NSABP-42: a randomized, double-blinded, placebo-controlled clinical trial of extended adjuvant endocrine therapy with letrozole (L) in postmenopausal women with hormone-receptor (+) breast cancer (BC) who have completed previous adjuvant therapy with aromatase inhibitors (AI). San Antonio Breast Cancer Symposium; San Antonio, TX, USA; Dec 10–14, 2019 (abstr GS4–01). Blok EJ, Kroep JR, Meershoek-Klein Kranenbarg E, et al. Optimal duration of extended adjuvant endocrine therapy for early breast cancer; results of the IDEAL trial (BOOG 2006–05). J Natl Cancer Inst 2018; 110: 40–48. Gnant M, Steger G, Greil R, et al. Abstract GS3–01: a prospective randomized multi-center phase-III trial of additional 2 versus additional 5 years of anastrozole after initial 5 years of adjuvant endocrine therapy – results from 3,484 postmenopausal women in the ABCSG-16 trial. San Antonio Breast Cancer Symposium; San Antonio, TX, USA; Dec 5–9, 2017 (abstr GS3–01). Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Aromatase inhibitors versus tamoxifen in early breast cancer: patient-level meta-analysis of the randomised trials. Lancet 2015; 386: 1341–52. Goss PE, Ingle JN, Pritchard KI, et al. Extending aromataseinhibitor adjuvant therapy to 10 years. N Engl J Med 2016; 375: 209–19. Rabaglio M, Sun Z, Maibach R, et al. Cumulative incidence of cardiovascular events under tamoxifen and letrozole alone and in sequence: a report from the BIG 1-98 trial. Breast Cancer Res Treat 2021; 185: 697–707. Matthews A, Stanway S, Farmer RE, et al. Long term adjuvant endocrine therapy and risk of cardiovascular disease in female breast cancer survivors: systematic review. BMJ 2018; 363: k3845. Chirgwin JH, Giobbie-Hurder A, Coates AS, et al. Treatment adherence and its impact on disease-free survival in the breast international group 1–98 trial of tamoxifen and letrozole, alone and in sequence. J Clin Oncol 2016; 34: 2452–59. 
+
+1467 
+
+ 

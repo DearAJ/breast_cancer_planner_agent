@@ -1,0 +1,635 @@
+VOLUME 
+
+30 
+
+䡠 
+
+NUMBER 
+
+7 
+
+䡠 
+
+MARCH 
+
+1 
+
+2012 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Estrogen Receptor (ER) mRNA and ER-Related Gene Expression in Breast Cancers That Are 1% to 10% ER-Positive by Immunohistochemistry Takayuki Iwamoto, Daniel Booser, Vicente Valero, James L. Murray, Kimberly Koenig, Francisco J. Esteva, Naoto T. Ueno, Jie Zhang, Weiwei Shi, Yuan Qi, Junji Matsuoka, Elliana J. Yang, Gabriel N. Hortobagyi, Christos Hatzis, W. Fraser Symmans, and Lajos Pusztai See accompanying editorial on page 686 Takayuki Iwamoto, Daniel Booser, Vicente Valero, James L. Murray, Kimberly Koenig, Francisco J. Esteva, Naoto T. Ueno, Jie Zhang, Weiwei Shi, Yuan Qi, Elliana J. Yang, Gabriel N. Hortobagyi, W. Fraser Symmans, and Lajos Pusztai, The University of Texas MD Anderson Cancer Center, Houston, TX; Takayuki Iwamoto and Junji Matsuoka, Okayama University, Okayama, Japan; and Christos Hatzis, Nuvera Biosciences, Woburn, MA. Submitted March 31, 2011; accepted September 2, 2011; published online ahead of print at www.jco.org on January 30, 2012. Supported by The Breast Cancer Research Foundation (W.F.S., L.P.) Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Lajos Pusztai, MD, PhD, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, PO Box 301439, Houston, TX 77230-1439; e-mail: lpusztai@ mdanderson.org. © 2012 by American Society of Clinical Oncology 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose We examined borderline estrogen receptor (ER) –positive cancers, defined as having 1% to 10% positivity by immunohistochemistry (IHC), to determine whether they show the same global gene-expression pattern and high ESR1 mRNA expression as ER-positive cancers or if they are more similar to ER-negative cancers. Patients and Methods ER status was determined by IHC in 465 primary breast cancers and with the Affymetrix U133A gene chip. We compared expressions of ESR1 mRNA and a 106 probe set ER-associated gene signature score between ER-negative (n ⫽ 183), 1% to 9% (n ⫽ 25), 10% (n ⫽ 6), and more than 10% (n ⫽ 251) ER-positive cancers. We also assessed the molecular class by using the PAM50 classifier and plotted survival by ER status. Results Among the 1% to 9%, 10%, and more than 10% ER IHC–positive patients, 24%, 67%, and 92% were also positive by ESR1 mRNA expression. The average ESR1 expression was significantly higher in the ⱖ 10% ER-positive cohorts compared with the 1% to 9% or ER-negative cohort. The average ER gene signature scores were similar for the ER-negative and 1% to 9% IHC-positive patients and were significantly lower than in ⱖ 10% ER-positive patients. Among the 1% to 9% ER-positive patients, 8% were luminal B and 48% were basal-like; among the 10% ER-positive patients, 50% were luminal. The overall survival rate of 1% to 9% ER-positive patients with cancer was between those of patients in the ⱖ 10% ER-positive and ER-negative groups. Conclusion A minority of the 1% to 9% IHC ER–positive tumors show molecular features similar to those of ER-positive, potentially endocrine-sensitive tumors, whereas most show ER-negative, basal-like molecular characteristics. The safest clinical approach may be to use both adjuvant endocrine therapy and chemotherapy in this rare subset of patients. 
+
+0732-183X/12/3007-729/$20.00 DOI: 10.1200/JCO.2011.36.2574 
+
+J Clin Oncol 30:729-734. © 2012 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+How to define estrogen receptor (ER) positivity remains a controversial topic. Recent joint guidelines by the American Society of Clinical Oncology (ASCO) and the American College of Pathologists recommended that ER status should be considered positive if 1% or more of tumor cells demonstrate positive nuclear staining with an immunohistochemistry (IHC) assay.1 Historically, many investigators and clinicians considered 10% or greater nuclear staining as the threshold for defining ER-positive status and therefore eligibility 
+
+for endocrine therapy.2-8 The optimal threshold would ideally be clinically validated against patient outcome in prospectively conducted clinical trials or established from and independently validated in systematically collected archived specimens from randomized clinical trials.9 No such optimal threshold exists for ER. The ⱖ 1% threshold originates from an IHC study that was performed on tissue sections prepared from tumor specimens that were left over after performing an ER ligand-binding assay and were pulverized under ultracold temperatures.10 This study showed statistically significantly better survival for patients © 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on March 6, 2013 from Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+729 
+
+Iwamoto et al 
+
+B 
+
+11.5 
+
+P < .001 
+
+14 
+
+ER Gene Signature Score 
+
+Log2 Converted mRNA Expression 
+
+A 12 10 P = .174 
+
+8 
+
+P = .023 
+
+6 
+
+P < .001 
+
+P = .226 
+
+P < .001 
+
+11.0 10.5 
+
+P = .042 
+
+10.0 9.5 P = .247 
+
+9.0 P = .208 
+
+8.5 P < .001 
+
+P = .168 
+
+P = .002 
+
+8.0 
+
+4 1-9% (n = 25) 
+
+0% (n = 183) 
+
+10% (n = 6) 
+
+0% (n =183) 
+
+> 10% (n = 251) 
+
+Immunohistochemistry Group 
+
+1-9% (n = 25) 
+
+10% (n = 6) 
+
+> 10% (n = 251) 
+
+Immunohistochemistry Group 
+
+Fig 1. Estrogen receptor (ER) mRNA and ER-associated gene expression in four distinct immunohistochemistry groups. Immunohistochemistry groups were defined by the percentage of cells that were positive for nuclear ER staining. (A) Expression distribution of ESR1 mRNA. (B) ER-associated gene signature refers to the average expression of 106 probe sets that are highly coexpressed with ESR1.13 P values were calculated with the Wilcoxon test. 
+
+with ⱖ 1% ER-positive cells compared with patients who had completely negative cells, and survival also increased incrementally as the extent of ER positivity increased. Worse survival around the lower limits of the detection threshold of the ER IHC method may reflect biologic differences in these cancers or it could be due to misclassification of ER-negative cancers as borderline weakly ER positive. The contribution of progesterone receptor expression to endocrine treatment sensitivity and to the definition of potentially hormone-sensitive cancers also remains an important topic of research and controversy but is beyond the scope of this analysis. ER-positive and ER-negative cancers have large-scale geneexpression differences that extend far beyond variable expression of the ER gene (ESR1) itself. A large number of genes are coexpressed with ESR1, and they define ER-positive status in a robust manner.11,12 The aggregate expression of ER-associated genes is also predictive of benefit from adjuvant endocrine therapy.13 ER protein expression detected by IHC also correlates closely with ESR1 mRNA levels that provide a more quantitative measure of ER expression.14,15 These RNA expression-based techniques provide alternative methods for assessing ER status and gauging endocrine sensitivity. In this study, we examined the expression of ESR1 mRNA and an ER-associated gene signature from a study by Symmans et al13 in patients whose tumors showed 1% to 10% ER positivity by IHC and compared these expression values with those seen in clearly 
+
+ER-negative (0%) and ER-positive (⬎ 10%) tumors. We also assessed the intrinsic molecular class of the borderline ER-positive patients by using the PAM50 classifier.16 The purpose of these analyses was to determine whether borderline ER-positive cancers show the same global gene-expression patterns and high ESR1 mRNA expression as ER-positive cancers do or if they are more similar to ER-negative cancers. PATIENTS AND METHODS Four hundred sixty-five fine-needle aspiration specimens of newly diagnosed stage I to III breast cancer were studied. These specimens were collected under a prospective biomarker discovery study approved by the institutional review board at The University of Texas MD Anderson Cancer Center (MDACC); biomarker results were reported in a previous series of publications.11,13,15,17-19 Clinical ER status was determined by IHC using the monoclonal antibody 6F11 (Novocastra/Vector Laboratories, Burlingame, CA) on formalin-fixed paraffin-embedded core biopsies that were obtained to establish the diagnosis of invasive cancer. IHC and visual scoring were performed as part of the routine diagnostic assessment in the clinical pathology laboratory at MDACC. Gene-expression profiling was performed on the research fine-needle aspiration biopsy samples by using the Affymetrix HG-U133A gene chips (Affymetrix, Santa Clara, CA).11,13,15,17-19 Expression data were normalized with the MAS5 algorithm, mean centered to 600 and log2 transformed. Probe set 205225_at was used as the measure of ESR1 mRNA 
+
+Table 1. ER IHC Distribution by ESR1 mRNA Expression and SET Index ESR1 mRNA Expression Positive 
+
+ER IHC 
+
+SET Index 
+
+Negative 
+
+High 
+
+Intermediate 
+
+Low 
+
+IHC Level (%) 
+
+No. of Patients 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+0 1-9 10 ⬎ 10 
+
+183 25 6 251 
+
+16 6 4 232 
+
+8.7 24.0 66.7 92.4 
+
+167 19 2 19 
+
+91.3 76.0 33.3 7.6 
+
+2 0 0 12 
+
+1.1 
+
+2 0 1 27 
+
+1.1 
+
+179 25 5 212 
+
+97.8 100 83.3 84.5 
+
+4.8 
+
+16.7 10.8 
+
+Abbreviations: ER, estrogen receptor; IHC, immunohistochemistry; SET, sensitivity to endocrine therapy. 
+
+730 
+
+© 2012 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on March 6, 2013 from Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+Genomic Characteristics of Borderline ER-Positive Breast Cancer 
+
+Table 2. Molecular Class of Borderline ER-Positive Patients IHC 
+
+Molecular Subtypes by PAM50 
+
+IHC Level (%) 
+
+No. of Patients 
+
+Luminal A 
+
+Luminal B 
+
+HER2 Amplified 
+
+Basal 
+
+Normal 
+
+0 1-9 10 ⬎ 10 
+
+183 25 6 251 
+
+2 0 2 120 
+
+1 2 1 61 
+
+51 8 1 38 
+
+111 12 1 16 
+
+18 3 1 16 
+
+Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; PAM50, multigene test used to assign molecular class to individual breast cancers.16 
+
+expression, and a log2-converted value of ⱖ 10.18 was considered as ER positive on the basis of a threshold established and validated in two previous publications.15,20 The identification of the 106 probe sets with strong positive correlation with ESR1 was described previously.13 In this analysis, we used the average of the log2-transformed expression values of these probe sets as the measure of ESR1-associated gene expression. The Wilcoxon test was used to determine statistical significance of expression differences in ESR1 mRNA and ER-associated gene signature scores across the IHC groups. Spearman rank correlation coefficient was used to measure correlation between ESR1 expression and gene signature score. The PAM50 classifier and sensitivity to endocrine therapy (SET) index were used as previously reported.13,16 Kaplan-Meier survival curves were plotted for 446 patients to illustrate overall survival by ER expression, and a Cox proportional hazards model was used to test the contribution of clinical variables and ER expression to outcome. Eighteen patients were excluded from the survival analysis because they had metastatic disease diagnosed within 1 month of the research biopsy and therefore represented stage IV disease. 
+
+RESULTS 
+
+Thirty-one patients (6.7%) had 1% to 10% ER-positive status by routine clinical IHC; of these, 25 (5.4%) had 1% to 9% and six (1.3%) had exactly 10% ER-positive staining. Among the 1% to 9% IHC-positive patients, six (24%) of 25 were also ER positive by ESR1 mRNA expression. Among those with 10% or more than 10% IHC-positive staining, 67% and 92% were positive by mRNA 
+
+expression, respectively. There was no significant difference in average ESR1 mRNA expression between the IHC 0% and the 1% to 9% ER-positive cohorts but ESR1 mRNA expression levels were significantly higher in the 10% and the more than 10% IHCpositive cohorts compared with the completely negative or 1% to 9% ER-positive cohorts (Fig 1). A similar relationship was observed for the ER-associated gene signature score: the average scores were similar for the ER 0% and the 1% to 9% IHC-positive patients, and they were significantly lower than the scores in ⱖ 10% ER-positive patients (Fig 1). The SET index assigned low sensitivity to all 1% to 9% ER-positive patients and to 83% of the 10% ER-positive patients (Table 1). Molecular classification also did not assign luminal A status to any of the 1% to 9% ER-positive patients: two (8%) were luminal B, and twelve (48%) were basal-like; the rest fell into other categories (Table 2). Among the 10% ER-positive patients, two (33%) were luminal A, one (17%) was luminal B, and the rest were other subtypes (Table 2). Figure 2 illustrates the relationship between ER protein expression by IHC, ESR1 mRNA level, and ER-associated gene signature. The majority of the 1% to 9% ER-positive patients (76%) showed low ESR1 mRNA expression and low ER-associated gene signature score and were assigned ER-negative status by these metrics. In contrast, the majority of the 10% ER-positive patients showed ESR1 mRNA or ER-associated gene signature scores that were consistent with ERpositive status. It should be noted that 16 additional patients who were 0% by IHC (8.7% of all ER-negative patients) also showed ESR1 mRNA expression and ESR1-associated gene signature scores that were consistent with ER-positive status and could be considered false negatives by IHC (Table 2). Kaplan-Meier survival analysis showed significantly better overall survival for patients who were ⱖ 10% ER-positive compared with ER-negative patients; the 1% to 9% ER-positive patients had intermediate survival outcome (Table 3 and Fig 3). Better overall survival was also associated with ESR1 mRNA expression levels, and in stepwise multivariate analysis, tumor size and ESR1 expression level remained statistically significant. Since the use of adjuvant endocrine therapy was closely associated with ER status, this variable was not selected for the final model. 
+
+ER Gene Signature Score 
+
+11.5 11.0 10.5 10.0 9.5 9.0 8.5 8.0 4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+14 
+
+Fig 2. Scatter plot showing the relationship between estrogen receptor (ER) immunohistochemistry status, ESR1 mRNA expression, and ER-associated gene signature expression (n ⫽ 465). ER-associated gene signature refers to the average expression of 106 genes that are highly coexpressed with ESR1.13 ESR1 positivity was defined as log2-converted ESR1 mRNA expression value ⱖ 10.18. Spearman’s correlation coefficients (␳) between ESR1 expression and gene signature scores were calculated separately for the ESR1-negative and ESR1-positive patients. ER immunohistochemistry categories are color coded; blue, 0%; green, 1% to 9%; purple, 10%; gold, greater than 10%. 
+
+Log2 Converted ESR1 mRNA Expression (probe set = 205225_at) 
+
+www.jco.org 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on March 6, 2013 from Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+731 
+
+Iwamoto et al 
+
+Table 3. Characteristics of Patients Included in Survival Analysis (n ⫽ 446) ER IHC Level (%) 0 
+
+ⱖ 10 
+
+1-9 
+
+Characteristic 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P (0% v 1%-9%) 
+
+P (ⱖ 10% v 1%-9%) 
+
+No. of patients Tumor size at diagnosis (TNM) T1/T2 T3/T4 Lymph node Positive Negative ER mRNA level Positive Negative HER2 status Amplifiedⴱ Normal N/A Modified Black’s nuclear grade 1 2 3 N/A Adjuvant chemotherapy Paclitaxel-FAC FAC None Adjuvant endocrine therapy Yes None Adjuvant HER2-targeted therapy among patients with HER2-amplified status Yes None 
+
+179 
+
+40.1 
+
+24 
+
+5.4 
+
+243 
+
+54.5 
+
+— .513 
+
+— 1.000 
+
+105 74 
+
+23.5 16.6 
+
+16 8 
+
+3.6 1.8 
+
+164 79 
+
+36.8 17.7 .812 
+
+.273 
+
+126 53 
+
+28.3 11.9 
+
+18 6 
+
+4.0 1.3 
+
+153 90 
+
+34.3 20.2 .029 
+
+⬍ .001 
+
+16 163 
+
+3.6 36.5 
+
+6 18 
+
+1.3 4.0 
+
+222 21 
+
+49.8 4.7 .645 
+
+.040 
+
+59 119 1 
+
+13.2 26.7 0.2 
+
+8 16 0 
+
+1.8 3.6 0.0 
+
+37 206 0 
+
+8.3 46.2 0.0 1.000 
+
+⬍ .001 
+
+1 27 150 1 
+
+0.2 6.1 33.6 0.2 
+
+0 3 21 0 
+
+0.0 0.7 4.7 0.0 
+
+21 135 87 0 
+
+4.7 30.3 19.5 0.0 .795 
+
+.541 
+
+164 11 4 
+
+36.8 2.5 0.9 
+
+22 2 0 
+
+4.9 0.4 0.0 
+
+212 16 15 
+
+47.5 3.6 3.4 ⬍ .001 
+
+⬍ .001 
+
+0 179 
+
+0.0 40.1 
+
+4 20 
+
+0.9 4.5 
+
+243 0 
+
+54.5 0.0 .453 
+
+.121 
+
+33 26 
+
+31.7 25.0 
+
+6 2 
+
+5.8 1.9 
+
+15 22 
+
+14.4 21.2 
+
+NOTE. P was calculated by Fisher’s exact test. Abbreviations: ER, estrogen receptor; FAC, fluorouracil, doxorubicin, cyclophosphamide; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; N/A, not available. ⴱ HER2-amplified status, IHC 3⫹, or ⬎ 2.0 by fluorescent in situ hybridization. 
+
+DISCUSSION 
+
+Borderline ER-positive status defined as 1% to 9% ER positivity by IHC is rare. This study and previous reports indicate that approximately 6% of all breast cancers fall into this category.21 Because of the rarity of borderlineER-positivestatus,itisunlikelythat a prospective clinical trial would ever be conducted to define the optimal treatment strategy for this disease subset. Low ER-positive IHC status may arise from testing artifacts, including borderline false-positive IHC results in an ERnegative tumor or erroneously low ER results in a truly ER-positive tumor. It may also indicate the presence of a small ER-positive subpopulation of cells within a larger ER-negative tumor. mRNA-based methods to assess ER status may help resolve some of the uncertainties.14,22 We assessed gene-expression profile– based ER status in 465 primary breast cancers to find out how often weak ER-positive (1% to 10% by IHC) patients showed molecular features of ER-positive disease. The majority (67%) of the exactly 10% ER-positive cancers and a minority (24%) of the 1% to 9% ER-positive cancers showed ERpositive status by ESR1 mRNA expression and by ER-associated gene signature. Ten of the 31 patients with weakly positive status by IHC 732 
+
+© 2012 by American Society of Clinical Oncology 
+
+were clearly ER positive by mRNA-based methods, indicating that in these patients, IHC may have underestimated ER positivity. The interpretation of low ESR1 mRNA and low ER gene signature expression in weakly ER-positive cancers by IHC is less straightforward. Such a result can be equally attributed either to a false-positive weak ER immunostaining or to the presence of a truly ER-positive small subpopulation of cells within a larger ER-negative tumor. In the latter, mRNA signals from the ER-positive cells could be drowned out by the bulk of the ER-negative tumor cell population. Since these two scenarios cannot be distinguished by current analytic methods, inclusion of these tumors among ER-positive tumors is not unreasonable since some of these tumors may contain at least some potentially endocrine-sensitive tumor cells.2,6,7,10 Overall, however, the expected benefit from endocrine therapy is small in 1% to 9% IHC-positive tumors because these tumors tend to be ER-negative by ESR1 mRNA (76%), show low predicted endocrine sensitivity by the SET gene signature (100%), and are predominantly nonluminal class (92%). Considering these molecular characteristics, the most expeditious therapeutic approach may be to use both adjuvant endocrine therapy and chemotherapy in this subset of patients. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on March 6, 2013 from Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+Genomic Characteristics of Borderline ER-Positive Breast Cancer 
+
+A 
+
+B Overall Survival (proportion) 
+
+Overall Survival (proportion) 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 Log-rank P 
+
+0.2 
+
+0 
+
+High v Low : < .001 
+
+0% 
+
+Intermediate v High: .542 
+
+1-9% 
+
+Intermediate v Low: .209 
+
+≥ 10% 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 Log-rank P 
+
+0.2 
+
+108 120 
+
+0 
+
+High v Low : < .001 
+
+Low 
+
+Intermediate v High: .089 
+
+Intermediate 
+
+Intermediate v Low: .015 
+
+High 
+
+12 
+
+24 
+
+36 
+
+Time (months) No. at risk 0% 1-9% ≥ 10% 
+
+48 
+
+60 
+
+72 
+
+84 
+
+96 
+
+108 
+
+120 
+
+Time (months) No. at risk 
+
+179 24 243 
+
+168 147 24 22 237 226 
+
+128 20 206 
+
+107 20 182 
+
+75 10 134 
+
+47 7 87 
+
+29 2 49 
+
+17 1 28 
+
+10 
+
+4 
+
+14 
+
+4 
+
+Low Intermediate High 
+
+149 149 
+
+140 123 143 130 
+
+107 114 
+
+93 99 
+
+66 71 
+
+42 41 
+
+25 18 
+
+14 10 
+
+10 5 
+
+4 2 
+
+148 
+
+146 142 
+
+133 
+
+117 
+
+82 
+
+58 
+
+37 
+
+22 
+
+9 
+
+2 
+
+Fig 3. Kaplan-Meier overall survival curves by estrogen receptor immunohistochemistry status and by ESR1 mRNA expression (n ⫽ 446). (A) Immunohistochemistry groups were defined by the percentage of estrogen receptor–positive cells. (B) Cohorts represent tertiles of ESR1 mRNA expression. Log-rank P values for pairwise comparisons are provided. 
+
+This study has limitations. The number of borderline ER-positive patients is low, which is inherent in any analysis because of the rarity of this entity. Nevertheless, this study is the largest in the literature and has the advantages of using centrally reviewed IHC results and a uniformly performed gene-expression analysis that yielded generally consistent results for four different RNA-based methods to assess ER status and endocrine sensitivity. The uneven sample sizes for the ER IHC cohorts, various adjuvant therapies, and different TNM stages across cohorts limit the power of survival analysis. Nevertheless, we could show the expected significant survival difference between ERpositive and ER-negative patients, and ER mRNA expression was one of the most predictive variables for survival in multivariate analysis. The survival outcome of the borderline patients fell between the strongly ER-positive and ER-negative groups, which is consistent with the molecular observations. Overall, about one quarter of the 1% to 9% ER-positive tumors show ESR1 mRNA levels and gene signatures that are consistent with ER-positive, potentially endocrine-sensitive tumors. A second RNA-based ER assessment may help identify these ESR1 mRNA-positive IHC borderline patients. There is likely to be a small, if any, clinical benefit from endocrine therapy among the remaining IHC borderline patients with low ESR1 mRNA. To truly establish the outcome of borderline ER-positive patients after stratification by mRNA-based ER status would require a large study to first identify the 6% with borderline IHC results and then to have sufficient numbers of such patients to compare the outcome by ESR1 mRNA expression. Such data are unlikely to be generated in the near future. In the meantime, since potentially life-saving benefit from empirical adjuvant endocrine therapy cannot be completely excluded, inclusion of this small subpopulation among the ER-positive cancers is not unreasonable. However, the safest clinical approach may be to use both adjuvant endocrine therapy and chemotherapy in this rare subset of patients. www.jco.org 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: Christos Hatzis, Nuvera Biosciences (C) Consultant or Advisory Role: Gabriel N. Hortobagyi, Allergan (C), Genentech (C), sanofi-aventis (C), Novartis (C); W. Fraser Symmans, Nuvera Biosciences (U) Stock Ownership: Christos Hatzis, Nuvera Biosciences; W. Fraser Symmans, Nuvera Biosciences Honoraria: None Research Funding: Gabriel N. Hortobagyi, Novartis Expert Testimony: None Other Remuneration: W. Fraser Symmans, Nuvera Biosciences 
+
+AUTHOR CONTRIBUTIONS Conception and design: Lajos Pusztai Financial support: Lajos Pusztai Administrative support: Lajos Pusztai Provision of study materials or patients: Kimberly Koenig, W. Fraser Symmans Collection and assembly of data: Takayuki Iwamoto, Jie Zhang, Yuan Qi, Elliana J. Yang, Christos Hatzis, W. Fraser Symmans, Lajos Pusztai Data analysis and interpretation: Takayuki Iwamoto, Daniel Booser, Vicente Valero, James L. Murray, Kimberly Koenig, Francisco J. Esteva, Naoto T. Ueno, Weiwei Shi, Yuan Qi, Junji Matsuoka, Elliana J. Yang, Gabriel N. Hortobagyi, Christos Hatzis, W. Fraser Symmans, Lajos Pusztai Manuscript writing: All authors Final approval of manuscript: All authors © 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on March 6, 2013 from Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+733 
+
+Iwamoto et al 
+
+REFERENCES 1. Hammond ME, Hayes DF, Dowsett M, et al: American Society of Clinical Oncology/College of American Pathologists guideline recommendations for immunohistochemical testing of estrogen and progesterone receptors in breast cancer. J Clin Oncol 28:2784-2795, 2010 2. Elledge RM, Green S, Pugh R, et al: Estrogen receptor (ER) and progesterone receptor (PgR), by ligand-binding assay compared with ER, PgR and pS2, by immuno-histochemistry in predicting response to tamoxifen in metastatic breast cancer: A Southwest Oncology Group Study. Int J Cancer 89:111-117, 2000 3. Thomson CS, Twelves CJ, Mallon EA, et al: Adjuvant ovarian ablation vs CMF chemotherapy in premenopausal breast cancer patients: Trial update and impact of immunohistochemical assessment of ER status. Breast 11:419-429, 2002 4. Regan MM, Viale G, Mastropasqua MG, et al: Re-evaluating adjuvant breast cancer trials: Assessing hormone receptor status by immunohistochemical versus extraction assays. J Natl Cancer Inst 98:1571-1581, 2006 5. Phillips T, Murray G, Wakamiya K, et al: Development of standard estrogen and progesterone receptor immunohistochemical assays for selection of patients for antihormonal therapy. Appl Immunohistochem Mol Morphol 15:325-331, 2007 6. Viale G, Regan MM, Maiorano E, et al: Prognostic and predictive value of centrally reviewed expression of estrogen and progesterone receptors in a randomized trial comparing letrozole and tamoxifen adjuvant therapy for postmenopausal early breast cancer: BIG 1-98. J Clin Oncol 25:3846-3852, 2007 
+
+7. Dowsett M, Allred C, Knox J, et al: Relationship between quantitative estrogen and progesterone receptor expression and human epidermal growth factor receptor 2 (HER-2) status with recurrence in the Arimidex, Tamoxifen, Alone or in Combination trial. J Clin Oncol 26:1059-1065, 2008 8. Viale G, Regan MM, Maiorano E, et al: Chemoendocrine compared with endocrine adjuvant therapies for node-negative breast cancer: Predictive value of centrally reviewed expression of estrogen and progesterone receptors—International Breast Cancer Study Group. J Clin Oncol 26:14041410, 2008 9. Simon RM, Paik S, Hayes DF: Use of archived specimens in evaluation of prognostic and predictive biomarkers. J Natl Cancer Inst 101:1446-1452, 2009 10. Harvey JM, Clark GM, Osborne CK, et al: Estrogen receptor status by immunohistochemistry is superior to the ligand-binding assay for predicting response to adjuvant endocrine therapy in breast cancer. J Clin Oncol 17:1474-1481, 1999 11. Pusztai L, Ayers M, Stec J, et al: Gene expression profiles obtained from fine-needle aspirations of breast cancer reliably identify routine prognostic markers and reveal large-scale molecular differences between estrogen-negative and estrogenpositive tumors. Clin Cancer Res 9:2406-2415, 2003 12. Gruvberger S, Ringnér M, Chen Y, et al: Estrogen receptor status in breast cancer is associated with remarkably distinct gene expression patterns. Cancer Res 61:5979-5984, 2001 13. Symmans WF, Hatzis C, Sotiriou C, et al: Genomic index of sensitivity to endocrine therapy for breast cancer. J Clin Oncol 28:4111-4119, 2010 14. Badve SS, Baehner FL, Gray RP, et al: Estrogen- and progesterone-receptor status in ECOG 2197: Comparison of immunohistochemistry by local and central laboratories and quantitative 
+
+reverse transcription polymerase chain reaction by central laboratory. J Clin Oncol 26:2473-2481, 2008 15. Gong Y, Yan K, Lin F, et al: Determination of oestrogen-receptor status and ERBB2 status of breast carcinoma: A gene-expression profiling study. Lancet Oncol 8:203-211, 2007 16. Parker JS, Mullins M, Cheang MC, et al: Supervised risk predictor of breast cancer based on intrinsic subtypes. J Clin Oncol 27:1160-1167, 2009 17. Hess KR, Anderson K, Symmans WF, et al: Pharmacogenomic predictor of sensitivity to preoperative chemotherapy with paclitaxel and fluorouracil, doxorubicin, and cyclophosphamide in breast cancer. J Clin Oncol 24:4236-4244, 2006 18. Popovici V, Chen W, Gallas BG, et al: Effect of training-sample size and classification difficulty on the accuracy of genomic predictors. Breast Cancer Res 12:R5, 2010 19. Tabchy A, Valero V, Vidaurre T, et al: Evaluation of a 30-gene paclitaxel, fluorouracil, doxorubicin, and cyclophosphamide chemotherapy response predictor in a multicenter randomized trial in breast cancer. Clin Cancer Res 16:5351-5361, 2010 20. Bianchini G, Iwamoto T, Qi Y, et al: Prognostic and therapeutic implications of distinct kinase expression patterns in different subtypes of breast cancer. Cancer Res 70:8852-8862, 2010 21. Allred DC, Carlson RW, Berry DA, et al: NCCN Task Force Report: Estrogen receptor and progesterone receptor testing in breast cancer by immunohistochemistry. J Natl Compr Canc Netw 7:S1-S21, 2009 (suppl 6) 22. Li Q, Eklund AC, Juul N, et al: Minimising immunohistochemical false negative ER classification using a complementary 23 gene expression signature of ER status. PLoS One 5:e15031, 2010 
+
+■ ■ ■ 
+
+734 
+
+© 2012 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on March 6, 2013 from Copyright © 2012 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+ 

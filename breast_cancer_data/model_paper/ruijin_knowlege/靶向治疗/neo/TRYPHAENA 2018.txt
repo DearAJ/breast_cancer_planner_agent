@@ -1,0 +1,335 @@
+European Journal of Cancer 89 (2018) 27e35 
+
+Available online at www.sciencedirect.com 
+
+ScienceDirect journal homepage: www.ejcancer.com 
+
+Original Research 
+
+Long-term efficacy analysis of the randomised, phase II TRYPHAENA cardiac safety study: Evaluating pertuzumab and trastuzumab plus standard neoadjuvant anthracycline-containing and anthracycline-free chemotherapy regimens in patients with HER2-positive early breast cancer Andreas Schneeweiss a,*, Stephen Chia b, Tamas Hickish c, Vernon Harvey d, Alexandru Eniu e, Maeve Waldron-Lynch f, Jennifer Eng-Wong g, Sarah Kirk h, Javier Cortés i a 
+
+National Center for Tumor Diseases, University Hospital, Heidelberg, Germany British Columbia Cancer Agency e Vancouver Centre, University of British Columbia, Vancouver, Canada c Royal Bournemouth Hospital, Bournemouth University, Bournemouth, UK d Regional Cancer and Blood Services, Auckland City Hospital, Auckland, New Zealand e Cancer Institute “Ion Chiricuta”, Cluj-Napoca, Romania f Clinical Science, Global Product Development, Roche Products Limited, Welwyn Garden City, UK g Product Development e Oncology, Genentech, Inc., South San Francisco, CA, USA h PDBB e Biostatistics, Roche Products Limited, Welwyn Garden City, UK i Ramón y Cajal University Hospital, Madrid and Vall d’Hebron Institute of Oncology (VHIO), Barcelona, Spain b 
+
+Received 1 June 2017; received in revised form 11 October 2017; accepted 22 October 2017 Available online 8 December 2017 
+
+KEYWORDS Neoadjuvant therapy; Pertuzumab; Trastuzumab; Breast cancer; Safety; Cardiotoxicity; 
+
+Abstract Background: We report long-term efficacy and cardiac safety outcomes in patients with HER2-positive early breast cancer treated with neoadjuvant pertuzumab plus trastuzumab with anthracycline-containing or anthracycline-free chemotherapy. Methods: Descriptive efficacy analyses were conducted in patients randomised to group A (cycles 1e6: trastuzumab [8 mg/kg loading dose and 6 mg/kg maintenance] plus pertuzumab [840 mg loading dose and 420 mg maintenance], plus 5-fluorouracil, epirubicin and cyclophosphamide [FEC] [cycles 1e3; 500 mg/m2 5-fluorouracil/100 mg/m2 epirubicin/600 mg/m2 cyclophosphamide] then docetaxel [cycles 4e6; 75 mg/m2, escalated to 100 mg/m2 if well tolerated]), 
+
+* Corresponding author: National Center for Tumor Diseases, University Hospital, Im Neuenheimer Feld 460, D-69120 Heidelberg, Germany. Fax: þ49 (0)6221 56 1393. E-mail address: andreas.schneeweiss@med.uni-heidelberg.de (A. Schneeweiss). https://doi.org/10.1016/j.ejca.2017.10.021 0959-8049/ª 2017 Elsevier Ltd. All rights reserved. 
+
+28 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+Clinical efficacy; Disease-free survival 
+
+B (cycles 1e3: FEC, cycles 4e6: trastuzumab plus pertuzumab plus docetaxel as mentioned previously) or C (cycles 1e6: trastuzumab plus pertuzumab plus docetaxel [75 mg/m2, without dose escalation], and carboplatin [AUC 6]), five years after randomisation of the last patient. This study is registered with ClinicalTrials.gov, number NCT00976989. Results: Three-year KaplaneMeier survival estimates for disease-free survival (DFS) were 87% (95% confidence interval: 79e95), 88% (80e96) and 90% (82e97) in groups AeC, respectively. Progression-free survival (PFS) rates were 89% (81e96), 89% (81e96) and 87% (80e95). DFS hazard ratio for total pathological complete response (tpCR) versus no tpCR was 0.27 (0.11e0.64). During post-treatment follow-up, 2/72 (2.8%), 3/75 (4.0%) and 4/76 (5.4%) patients in groups AeC had any-grade left ventricular systolic dysfunction; eight (11.1%), 12 (16.0%) and nine (11.8%) patients experienced left ventricular ejection fraction declines 10% from baseline to <50%. Conclusions: Long-term DFS and PFS were similar between groups. Patients who achieved tpCR had improved DFS. No new safety signals were identified. ª 2017 Elsevier Ltd. All rights reserved. 
+
+1. Introduction In human epidermal growth factor receptor 2 (HER2)e over-expressing breast cancer, combining the human anti-HER2 monoclonal antibodies pertuzumab and trastuzumab provides a more comprehensive signalling blockade than can be obtained with either antibody alone [1,2]. In the phase III CLEOPATRA trial in patients with HER2-positive metastatic breast cancer, pertuzumab plus trastuzumab and docetaxel improved overall survival (OS) and progression-free survival (PFS) compared with trastuzumab and docetaxel alone [3e5]. Subsequently, in the NeoSphere study, pertuzumab plus trastuzumab and docetaxel was shown to significantly improve the rate of pathological complete response (pCR) in the breast (bpCR) and in the breast and axilla (total pCR [tpCR]) when used in the neoadjuvant setting, compared with trastuzumab and docetaxel [6]. In these studies, efficacy gains were achieved with clinically manageable toxicity and without significant increases in cardiac toxicity [4,6]. HER2-targeted treatment with trastuzumab has been associated with cardiac dysfunction [7], particularly when combined with anthracycline-containing chemotherapy at higher doses [7,8]. The phase II TRYPHAENA study was conducted to evaluate the overall safety and cardiac toxicity of pertuzumab plus trastuzumab in combination with both anthracyclinecontaining and anthracycline-free regimens in neoadjuvant treatment of HER2-positive early breast cancer (EBC) [9]. In the TRYPHAENA study, neoadjuvant pertuzumab plus trastuzumab plus chemotherapy was generally well tolerated with low rates of symptomatic left ventricular systolic dysfunction (LVSD; the primary end-point), in patients with HER2-positive, operable, locally advanced or inflammatory breast cancer. All regimens were highly clinically active in terms of pCR, with tpCR rates in the breast and axilla (ypT0/is, ypN0) 
+
+of 55e64% [9]. We report here the protocol-specified end-points of disease-free survival (DFS), PFS, OS and long-term cardiac safety 5 years after the last patient was randomised. Previous studies of HER2-targeted therapies, including meta-analyses, have indicated an association between pCR after neoadjuvant treatment and longterm clinical benefits such as DFS, PFS, event-free survival and OS [10e19]. We have therefore also explored this association in TRYPHAENA. Guidelines for the use of pCR as an end-point in clinical trials to support accelerated approval of new drugs has been issued by both the U.S. Food and Drug Administration (FDA) [20] and the European Medicines Agency (EMA) [21], both of which advocate the use of tpCR as the preferred end-point. We therefore focus on associations between tpCR and DFS in the current analysis. 2. Methods 2.1. Study design and participants TRYPHAENA (NCT00976989) was a randomised, multicentre, open-label study conducted across 44 centres in 19 countries. As previously described [9], eligible patients were women aged 18 years with untreated, operable, locally advanced or inflammatory breast cancer, with a primary tumour >2 cm. Patients were HER2positive by immunohistochemistry (IHC 3þ) or by fluorescence in situ hybridisation (mandatory for IHC 2þ tumours), with Eastern Cooperative Oncology Group performance status 0 or 1 and left ventricular ejection fraction (LVEF) 55% at baseline. Positive HER2 status was assessed locally and centrally confirmed. Oestrogen/progesterone receptor status was assessed locally. Patients were excluded if they had metastatic or bilateral breast cancer, any previous local or systemic breast cancer treatment, inadequate bone 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+marrow, liver or kidney function, uncontrolled hypertension, other malignancy (except for carcinoma in situ of the cervix, basal cell carcinoma or squamous cell carcinoma of the skin) or a history of myocardial infarction within the previous 6 months. TRYPHAENA was conducted in full accordance with the guidelines for Good Clinical Practice and the Declaration of Helsinki. Written informed consent was obtained from all participants before study procedures. Approval for the protocol and for any modifications was obtained from independent ethics committees. 2.2. Randomisation and masking Patients were randomised 1:1:1 via an interactive voice response system. All treatments were administered in an open-label fashion. 2.3. Procedures Patients were randomised to one of three treatment groups:  Group A: 5-fluorouracil, epirubicin and cyclophosphamide (FEC) for three cycles followed by three cycles of docetaxel, with pertuzumab plus trastuzumab in all cycles.  Group B: FEC for three cycles followed by three cycles of docetaxel, with pertuzumab and trastuzumab in cycles 4e6 only (i.e. with docetaxel).  Group C: Docetaxel plus carboplatin for six cycles, with pertuzumab plus trastuzumab in all cycles. 
+
+All study drugs were administered intravenously, given consecutively on the same day in the sequence: trastuzumab (8 mg/kg initial dose, then 6 mg/kg), pertuzumab (840 mg then 420 mg), FEC (5-fluorouracil 500 mg/m2, epirubicin 100 mg/m2 and cyclophosphamide 600 mg/m2) or carboplatin dosed at AUC 6, docetaxel (75 mg/m2; escalated to 100 mg/m2 in groups A and B if no dose-limiting toxicity before cycle 4). Dose modifications of trastuzumab or pertuzumab were not permitted; docetaxel could be reduced to 75 mg/m2 and 60 mg/m2 (re-escalation not permitted). FEC/carboplatin reductions were performed according to the local prescribing information. Patients were stratified by operable/locally advanced/inflammatory breast cancer and by hormone receptor status. After surgery, patients continued adjuvant trastuzumab to 1 year of treatment. Tumours were assessed by imaging at baseline, before surgery (following completion of cycle 6) and at the final visit or withdrawal. Tumour response was assessed by clinical palpation at each cycle. LVEF was assessed locally and centrally at baseline, during cycles 2, 4 and 6, before cycle 7, during cycles 10, 12, 15 (all groups) and 18 (group B only) and at the final visit or withdrawal (all groups). The additional LVEF assessment in group B reflects that HER2-targeted therapy started at cycle 4, 
+
+29 
+
+whereas groups A and C started HER2-targeted therapy at cycle 1. All patients, regardless of group, received 17 cycles of trastuzumab. LVEF was measured by echocardiography or multiple-gated acquisition, with the same method used for an individual patient throughout the study. During follow-up, LVEF was assessed every 6 months for 2 years, followed by yearly assessments for 2 more years. Adverse events (AEs) were recorded and graded per National Cancer InstituteeCommon Terminology Criteria for Adverse Events Version 3.0. Symptomatic LVSD and related serious AEs (SAEs) were reportable during the neoadjuvant, adjuvant and post-treatment follow-up periods of the study; other AEs and SAEs were reportable during study treatment and up to 28 days after the last dose of study medication but not during post-treatment follow-up. 2.4. Outcomes The primary end-point of cardiac safety (investigatorassessed symptomatic LVSD and LVEF decline of 10% from baseline to <50% during neoadjuvant treatment) has been reported previously [9]. LVSD AEs included asymptomatic LVSD, defined as: asymptomatic LVEF declines of 10% from baseline to <50% or asymptomatic declines in LVEF requiring treatment or leading to discontinuation of pertuzumab and trastuzumab in the neoadjuvant setting or trastuzumab in the adjuvant treatment period. No AE reporting was required for asymptomatic LVEF declines of 10% from baseline to <50% during the treatment-free followup period unless the patient required treatment or the investigator considered the decline to be clinically significant. The current report describes secondary endpoints: DFS, defined as the time from the first date of no disease i.e. date of surgery, to the first documentation of progressive disease (PD; defined as the recurrence of ipsilateral invasive or non-invasive breast cancer, recurrence of ipsilateral locoregional invasive breast cancer, contralateral invasive breast cancer [excluding contralateral disease in situ], a distant disease recurrence or death); PFS, defined as the time from the date of randomisation to the first documentation of PD or death, also excluding contralateral disease in situ and OS, defined as the time from randomisation to death from any cause. pCR was assessed locally at the time of surgery and defined as the absence of invasive neoplastic cells during microscopic assessment of the primary tumour (bpCR; ypT0/is) or in the breast and axilla (tpCR; ypT0/Tis, ypN0). 2.5. Statistical analysis Statistical assumptions and power calculations were based on the primary end-point (LVSD), and secondary end-points are descriptive only. The secondary efficacy end-points were analysed in the intention-to-treat 
+
+30 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+population. DFS was also evaluated in patients who did and did not achieve tpCR and bpCR. All patients who received at least one dose of study treatment were included in the safety evaluation. This study is registered with ClinicalTrials.gov, number NCT00976989. 3. Results Between December 2009 and January 2011, 300 patients were screened, and 225 were enrolled and randomised; 73 to group A, 75 to group B and 77 to group C. Of these, 202 entered adjuvant treatment and 186 completed adjuvant treatment (Supplementary Fig. 1). Baseline characteristics were generally well balanced between groups, as reported previously [9] and as shown 
+
+in Table 1. During the adjuvant treatment period, antioestrogen therapy (tamoxifen) was received by 7 (10.6%), 7 (10.9%) and 14 (22.2%) patients in groups A, B and C, respectively, and aromatase inhibitors (anastrozole or letrozole) received by 7 (10.6%), 4 (6.3%) and 4 (6.3%) patients. At the time of data cut-off for this analysis, median follow-up was 61.1 months (interquartile range: 59.4e61.8) in group A, 61.8 months (59.4e63.6) in group B and 60.9 months (57.4e62.0) in group C. DFS at 3 years was 87% (95% confidence interval [CI]: 79e95) in group A, 88% (80e96) in group B and 90% (82e97) in group C (Fig. 1A), 3-year PFS was 89% (81e96) in group A, 89% (81e96) in group B and 87% (80e95) in group C (Fig. 1B) and 3-year OS was 94% 
+
+Table 1 Baseline characteristics in the ITT population. 
+
+Median age, years (range) Median weight, kg (range) Race, n (%) Black White Oriental Other ECOG PS, n (%) 0 1 Unknown Histological grade Well differentiated Moderately differentiated Poorly differentiated Unknown ER-positive and/or PgR-positive, n (%) ER-negative and PgR-negative, n (%) Disease type, n (%) Operable Locally advanced Inflammatory HER2 status by IHC, n (%) 0 and 1þ 2þ 3þ HER2 status by FISH, n (%) Positive Negative Unknown Primary tumour size at baseline by clinical breast examination, mm; median (range) 
+
+FEC þ H þ P 3/T þ H þ P 3 (group A; n Z 73) 
+
+FEC 3/T þ H þ P 3 (group B; n Z 75) 
+
+TCH þ P 6 (group C; n Z 77) 
+
+49.0 (27e77) 63.3 (44e111) 
+
+49.0 (24e75) 64.9 (42e112) 
+
+50.0 (30e81) 66.5 (45e128) 
+
+4 (5.5) 56 (76.7) 12 (16.4) 1 (1.4) 
+
+3 (4.0) 52 (69.3) 18 (24.0) 2 (2.7) 
+
+2 (2.6) 64 (83.1) 11 (14.3) 0 
+
+66 (90.4) 6 (8.2) 1 (1.4) 
+
+66 (88.0) 9 (12.0) 0 
+
+68 (88.3) 9 (11.7) 0 
+
+3 (4.1) 28 (38.4) 25 (34.2) 17 (23.3) 39 (53.4) 34 (46.6) 
+
+2 (2.7) 34 (45.3) 26 (34.7) 13 (17.3) 35 (46.7) 40 (53.3) 
+
+2 (2.6) 32 (41.6) 27 (35.1) 16 (20.8) 40 (51.9) 37 (48.1) 
+
+53 (72.6) 15 (20.5) 5 (6.8) 
+
+54 (72.0) 17 (22.7) 4 (5.3) 
+
+49 (63.6) 24 (31.2) 4 (5.2) 
+
+1 (1.4) 5 (6.8)a 67 (91.8) 
+
+0 1 (1.3)a 74 (98.7) 
+
+0 2 (2.6)a 75 (97.4) 
+
+69 (94.5) 0 4 (5.5) 53 (10e220) 
+
+69 (92.0) 1 (1.3) 5 (6.7) 49 (19e120) 
+
+73 (94.8) 2 (2.6) 2 (2.6) 50 (15e200) 
+
+Table reproduced from Schneeweiss A et al. Pertuzumab plus trastuzumab in combination with standard neoadjuvant anthracycline-containing and anthracycline-free chemotherapy regimens in patients with HER2-positive early breast cancer: a randomized phase II cardiac safety study (TRYPHAENA). Annals of Oncology, 2013, vol 24, issue 9, 2278e2284 by permission of the European Society of Medical Oncology and the Japanese Society of Medical Oncology. ECOG PS, Eastern Cooperative Oncology Group performance status; ER, oestrogen receptor; FEC 3, three cycles of 5-fluorouracil, epirubicin and cyclophosphamide followed by three cycles of docetaxel plus trastuzumab plus pertuzumab; FEC þ H þ P 3/T þ H þ P 3, three cycles of 5-fluorouracil, epirubicin and cyclophosphamide plus trastuzumab plus pertuzumab followed by three cycles of docetaxel plus trastuzumab plus pertuzumab; FISH, fluorescence in situ hybridisation; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; ITT, intent-to-treat; LVEF, left ventricular ejection fraction; LVSD, left ventricular systolic dysfunction; PgR, progesterone receptor; TCH þ P, six cycles of docetaxel, carboplatin and trastuzumab plus pertuzumab. a All patients with HER2 IHC 2þ status had FISH-positive status. 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+31 
+
+Fig. 1. Disease-free survival (A), progression-free survival (B), and overall survival (C). 
+
+(89e100) in group A, 94% (89e100) in group B and 93% (87e99) in group C (Fig. 1C). Of 208 patients across all treatment groups who underwent surgery and had a tpCR assessment, 128 achieved a tpCR and 80 did not. Patients achieving a tpCR were more likely to be disease free at 3 years (hazard ratio [HR] 0.27, 95% CI: 0.11e0.64) (Fig. 2). Very similar results were obtained for bpCR (0.28 [95% CI: 0.12e0.65]) (Supplementary Fig. 2). In total, 223 patients received at least one dose of study treatment and were included in the safety population (72 in group A, 75 in group B and 76 in group C). Safety during the TRYPHAENA study period has been reported previously [9]. Final data for cardiac AE during neoadjuvant and adjuvant treatment and the longterm post-treatment follow-up period are summarised 
+
+in Table 2. Over the full study period, 48 patients experienced cardiac AEs (group A: 13 [18.1%]; group B: 15 [20.0%] and group C: 20 [26.3%]), three patients had symptomatic LVSD (group B: 2/75 [2.7%] and group C: 1/76 [1.3%]) and 29 patients had an LVEF decline (locally and/or centrally measured) of 10% from baseline to <50% (group A: 8/72 [11.1%]; group B: 12/75 [16.0%] and group C: 9/76 (11.8%]). During posttreatment follow-up, AEs (any grade; per protocol, only symptomatic LVSD and related SAEs were required to be reported) were experienced by 9/72 patients (12.5%) in group A, 10/75 (13.3%) in group B and 7/76 (9.2%) in group C. Two SAEs were reported during post-treatment follow-up: one LVSD event and one neutropenic infection, both in group B. Cardiac AEs were experienced by 11 patients, two in group A, five in 
+
+32 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+Fig. 2. Disease-free survival in patients with and without tpCR. 
+
+group B and four in group C (Table 2). One patient in group B experienced symptomatic LVSD during the follow-up period. This patient had withdrawn from the study after four cycles due to pneumonitis, and the LVSD event was thought to be related to off-study treatment with trastuzumab. After the treatment for the LVSD event and permanent discontinuation of trastuzumab, the locally recorded LVEF improved. Five patients in group A (7.1%), five (6.7%) in group B and five (6.8%) in group C experienced LVEF declines 10% from baseline to <50% during post-treatment follow-up. Twenty-two patients (9.9%) died during the full TRYPHAENA study period. Of these, 21/223 patients (9.4%) died during the post-treatment follow-up period: 4/72 (5.6%) in group A (three due to PD and one due to an ill-defined disorder), 7/75 (9.3%) in group B (all due to PD) and 10/76 (13.2%) in group C (nine due to PD and one missing data). 4. Discussion The TRYPHAENA study previously demonstrated that pertuzumab and trastuzumab in combination with both anthracycline-containing and anthracycline-free chemotherapy in the neoadjuvant setting is well tolerated with low rates of symptomatic LVSD. In this 5-year follow-up, we show that efficacy outcomes are numerically consistent with those of the pertuzumab- and trastuzumab-treated arms in NeoSphere, which showed improved efficacy outcomes for dual HER2 antibodies with chemotherapy in the neoadjuvant setting, compared with trastuzumab plus chemotherapy alone [12]. Efficacy and safety outcomes were comparable across the different treatment groups in TRYPHAENA, confirming the long-term efficacy of these regimens, including the FDA-approved regimens in groups B and C. A limitation of the study, however, is the lack of a comparator arm, which constrains interpretation of the efficacy data. As a substantial number of patients had not completed the 5-year post-randomisation follow-up at the time of clinical cut-off, we reported survival rates at 3 years to ensure the robustness of the data. The combination of pertuzumab with trastuzumab and anthracycline-containing or anthracycline-free 
+
+chemotherapy resulted in low rates of symptomatic LVSD (0/72 in group A [given with FEC], 2/75 (2.7%) in group B [given with docetaxel] and 1/76 (1.3%) in group C [given with carboplatin] during the total study period), even when pertuzumab and trastuzumab were given concurrently with an anthracycline [9]. Long-term follow-up demonstrates that these combinations are generally well tolerated, with no new safety signals identified. Most deaths were due to PD and, importantly, long-term cardiac toxicity was low. Our data are in agreement with previous studies that have shown that the cardiac toxicity associated with HER2-targeted therapy is uncommon and mostly occurs during treatment [8,11,12,22e24]. Our data also reflected the low rates of symptomatic LVSD and congestive heart failure reported in NeoSphere [6,12] and CLEOPATRA [4], the studies which previously demonstrated that the addition of pertuzumab to trastuzumab plus chemotherapy does not significantly increase cardiac toxicity. Overall, more than 90% of patients who received pertuzumab in combination with trastuzumab and chemotherapy in NeoSphere and CLEOPATRA did not experience any grade of LVSD or left ventricular dysfunction (LVD; depending on the definition used) [4,12]. Moreover, most LVSD or LVD events reported were asymptomatic [4,12], and/or reversible, and patients recovered without sequelae [12]. In recent years, the association between pCR and long-term efficacy outcomes has been a subject of much interest and debate. The FDA and EMA have proposed tpCR as a potential end-point to support accelerated approval processes for new drugs in the neoadjuvant setting under certain circumstances, with tpCR considered likely to be predictive of long-term benefit [20,21]. Several studies, including the meta-analysis conducted by the FDA, have demonstrated that this association is particularly strong in HER2-positive EBC [9e17]. An apparent discrepancy in the link between pCR in the neoadjuvant setting and long-term efficacy was observed in the NeoALTTO and ALTTO studies [25], where the combination of lapatinib and trastuzumab showed a significant pCR benefit over trastuzumab alone in the neoadjuvant study but failed to show a significant longterm DFS improvement in the adjuvant setting follow- 
+
+Table 2 Cardiac AEs reported during neoadjuvant and adjuvant treatment periods and post-treatment follow-up. Cardiac event 
+
+Neoadjuvant phase 
+
+Adjuvant phase 
+
+Post-treatment follow-up 
+
+Overall study period 
+
+Total number of cardiac AEs (n) Patients with any cardiac AE, n (%)a LVSD (symptomatic or asymptomatic) Symptomatic LVSDc Pulmonary valve incompetence Tricuspid valve disease or tricuspid valve incompetence Patients with LVEF declines 10%d points from baseline to <50%, n (%) 
+
+9 
+
+4 
+
+9 
+
+5 
+
+18 
+
+14 
+
+2 
+
+5 
+
+4 
+
+13 
+
+24 
+
+26 
+
+8 (11.1) 
+
+4 (5.3) 
+
+8 (10.5) 
+
+5 (7.4) 
+
+10 (15.4) 
+
+12 (17.9) 
+
+2 (2.8) 
+
+5 (6.7) 
+
+4 (5.3) 
+
+13 (18.1) 
+
+15 (20.0) 
+
+20 (26.3) 
+
+4 (5.6) 
+
+2 (2.7)b 
+
+2 (2.6) 
+
+4 (5.9) 
+
+5 (7.7) 
+
+3 (4.5) 
+
+2 (2.9) 
+
+3 (4.0)b 
+
+4 (5.4) 
+
+7 (9.7) 
+
+10 (13.3) 
+
+8 (10.5) 
+
+0 
+
+1 (1.3) 
+
+0 
+
+0 
+
+0 
+
+1 (1.5) 
+
+0 
+
+1 (1.3) 
+
+0 
+
+0 
+
+2 (2.7) 
+
+1 (1.3) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+1 (1.3) 
+
+0 
+
+0 
+
+1 (1.3) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 (3.1) 
+
+1 (1.5) 
+
+0 
+
+1 (1.3) 
+
+0 
+
+0 
+
+2 (2.7) 
+
+1 (1.3) 
+
+4 (5.6) 
+
+4 (5.3) 
+
+3 (3.9) 
+
+5 (7.4) 
+
+8 (12.3) 
+
+3 (4.5) 
+
+5 (7.1) 
+
+5 (6.7) 
+
+5 (6.8) 
+
+8 (11.1) 
+
+12 (16.0) 
+
+9 (11.8) 
+
+AE, adverse event; FEC 3, three cycles of 5-fluorouracil, epirubicin and cyclophosphamide followed by three cycles of docetaxel plus trastuzumab plus pertuzumab; FEC þ H þ P 3/T þ H þ P 3, three cycles of 5-fluorouracil, epirubicin and cyclophosphamide plus trastuzumab plus pertuzumab followed by three cycles of docetaxel plus trastuzumab plus pertuzumab; LVEF, left ventricular ejection fraction; LVSD, left ventricular systolic dysfunction; TCH þ P, six cycles of docetaxel, carboplatin, and trastuzumab plus pertuzumab. a Overall cardiac AE rates are calculated based on the full safety population; patients could experience an event during more than one period. b One patient in group B who had symptomatic LVSD during FEC and before pertuzumab, trastuzumab and docetaxel was excluded from the total for the neoadjuvant period; this patient had left ventricular dysfunction during the follow-up period and is included in the total for that period. c Each case of symptomatic LVSD occurred in a different patient. 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+FEC þ H FEC 3 /T TCH þ P 6 FEC þ H FEC 3 /T TCH þ P 6 FEC þ H FEC 3 TCH þ P 6 FEC þ H FEC 3 /T TCH þ P 6 þ P 3 /T þ H þ P 3 (group C; þ P 3 /T /T þ P 3 /T þ H þ P 3 (group C; (group C; þ P 3 /T þ H þ P 3 (group C; n Z 67) þ H þ P 3 þ H þ P 3 n Z 74) þ H þ P 3 (group B; n Z 76) þ H þ P 3 (group B; þ H þ P 3 (group B; n Z 76) n Z 65) (group A; n Z 75) (group A; (group A; (group B; (group A; n Z 75) n Z 72) n Z 68) n Z 70) n Z 75) n Z 72) 
+
+33 
+
+34 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 
+
+up [26]. A subsequent analysis by DeMichele et al. [27] highlighted the differences in patient population and methodology between the studies and showed that the observed improvement in the hazard ratio for DFS in ALTTO, though not statistically significant, was consistent with what would be predicted based on the pCR results from NeoALTTO [25,26]. Given the association between tpCR and long-term outcome, the possibility that biomarkers predictive of tpCR might aid the selection of patients for dual-antibody treatment has been considered. However, a prospectively planned biomarker analysis in TRYPHAENA failed to find any markers predictive of pCR [28]. The efficacy results of TRYPHAENA add to the large body of evidence that tpCR is indeed associated with improved long-term outcomes in HER2-positive EBC, with 70% reduced risk for a DFS event in patients with tpCR (HR 0.27 [95% CI: 0.11e0.64]). Caution should be exercised, however, as TRYPHAENA was not powered for such analyses, and results are descriptive only. Pertuzumab plus trastuzumab is currently approved by the FDA and EMA in the metastatic breast cancer setting, based on CLEOPATRA [3,4], and in the neoadjuvant setting, based on NeoSphere and TRYPHAENA [6,9,12]. The phase III APHINITY trial (NCT01358877) assessed the combination of pertuzumab and trastuzumab with chemotherapy in the adjuvant setting, and the primary analysis reported a significant improvement in invasive DFS associated with the addition of pertuzumab versus placebo to trastuzumab and chemotherapy in the adjuvant setting (HR for an invasive disease event 0.81 [95% CI: 0.66e1.00]; P Z 0.045), with low rates of primary cardiac events in both groups (<1%) [29]. The phase II BERENICE study (NCT02132949) will further assess cardiac safety of the combination of pertuzumab and trastuzumab with two different chemotherapy regimens in the early/locally advanced setting. Outcomes in APHINITY and BERENICE will determine if the addition of pertuzumab to trastuzumab and chemotherapy should be considered standardly for the neoadjuvant and adjuvant treatment of all patients with HER2-positive early/ locally advanced or inflammatory breast cancer, as suggested by the pCR rates and the associated DFS achieved in TRYPHAENA in this current analysis. 
+
+Contribution AS, SC, TH, AE and JC contributed in study concepts/ design; AS, SC, TH, VH, AE and SK in data acquisition; SK in quality control of data and algorithms; AS, SC, VH, AE, JE-W, SK, MW-L and JC in data analysis and data interpretation; SK in statistical analysis; AS, SC, AE, JE-W and MW-L in manuscript preparation and AS, SC, TH, VH, AE, MW-L, JE-W, SK and JC in manuscript editing and review. Conflict of interest statement AS reports receiving grants and personal fees from F. Hoffmann-La Roche Ltd. outside the submitted work; SC reports payment to his institution for the conduct of the study and personal fees from F. Hoffmann-La Roche Ltd. for consultancy outside the submitted work; TH reports grant support from F. Hoffmann-La Roche Ltd. during the conduct of the study; VH reports fees paid to his institution by F. Hoffmann-La Roche Ltd. for study data management, during the conduct of this study; AE reports personal fees from F. HoffmannLa Roche Ltd. during the conduct of the study; MW-L and SK are employees of Roche Products Ltd.; JE-W is an employee of Genentech, Inc. and JC reports personal fees from F. Hoffmann-La Roche Ltd., Celgene, Eisai, Novartis, Pfizer, AstraZeneca, Cellestia Biotech and Biothera Pharmaceuticals, outside the submitted work. 
+
+Acknowledgements The TRYPHAENA study was sponsored by F. Hoffmann-La Roche Ltd. Support for third-party writing assistance for this manuscript, furnished by Dr. Daniel Clyde and Dr. John Carron, was provided by F. Hoffmann-La Roche Ltd. A full list of TRYPHAENA investigators is provided in the appendix. The authors acknowledge all patients and investigators participating in this trial and also the central testing laboratories: Targos Molecular Pathology GmbH, Kassel, Germany, and Roche TRS DNS and protein laboratories, Basel, Switzerland. Appendix A. Supplementary data 
+
+Role of the funding source F. Hoffmann-La Roche Ltd funded the study, provided study drugs and was involved in the study design, protocol development, regulatory and ethics approvals, safety monitoring and reporting, data management and data analysis and interpretation. AS was directly involved in the design of the trial, had full access to all of the data and the final responsibility to submit for publication. The sponsor funded third-party writing assistance provided by Dr. Daniel Clyde and Dr. John Carron. 
+
+Supplementary data related to this article can be found at https://doi.org/10.1016/j.ejca.2017.10.021. 
+
+References [1] Nahta R, Hung MC, Esteva FJ. The HER-2-targeting antibodies trastuzumab and pertuzumab synergistically inhibit the survival of breast cancer cells. Cancer Res 2004;64:2343e6. [2] Scheuer W, Friess T, Burtscher H, Bossenmaier B, Endl J, Hasmann M. Strongly enhanced antitumor activity of 
+
+A. Schneeweiss et al. / European Journal of Cancer 89 (2018) 27e35 trastuzumab and pertuzumab combination treatment on HER2positive human xenograft tumor models. Cancer Res 2009;69: 9330e6. [3] Swain SM, Kim S, Cortés J, et al. Pertuzumab, trastuzumab, and docetaxel for HER2-positive metastatic breast cancer (CLEOPATRA study): overall survival results from a randomised, double-blind, placebo-controlled, phase 3 study. Lancet Oncol 2013;14:461e71. [4] Baselga J, Cortés J, Kim SB, et al. Pertuzumab plus trastuzumab plus docetaxel for metastatic breast cancer. N Engl J Med 2012; 366:109e19. [5] Swain SM, Baselga J, Kim SB, et al. Pertuzumab, trastuzumab, and docetaxel in HER2-positive metastatic breast cancer. N Engl J Med 2015;372:724e34. [6] Gianni L, Pienkowski T, Im YH, et al. Efficacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inflammatory, or early HER2-positive breast cancer (NeoSphere): a randomised multicentre, open-label, phase 2 trial. Lancet Oncol 2012;13:25e32. [7] Seidman A, Hudis C, Pierri MK, et al. Cardiac dysfunction in the trastuzumab clinical trials experience. J Clin Oncol 2002;20: 1215e21. [8] Slamon D, Eiermann W, Robert N, et al. Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med 2011;365:1273e83. [9] Schneeweiss A, Chia S, Hickish T, et al. Pertuzumab plus trastuzumab in combination with standard neoadjuvant anthracycline-containing and anthracycline-free chemotherapy regimens in patients with HER2-positive early breast cancer: a randomized phase II cardiac safety study (TRYPHAENA). Ann Oncol 2013;24:2278e84. [10] Cortazar P, Zhang L, Untch M, et al. Pathological complete response and long-term clinical benefit in breast cancer: the CTNeoBC pooled analysis. Lancet 2014;384:164e72. [11] de Azambuja E, Holmes AP, Piccart-Gebhart M, et al. Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): survival outcomes of a randomised, open-label, multicentre, phase 3 trial and their association with pathological complete response. Lancet Oncol 2014;15:1137e46. [12] Gianni L, Pienkowski T, Im YH, et al. 5-year analysis of neoadjuvant pertuzumab and trastuzumab in patients with locally advanced, inflammatory, or early-stage HER2-positive breast cancer (NeoSphere): a multicentre, open-label, phase 2 randomised trial. Lancet Oncol 2016;17:791e800. [13] Gianni L, Eiermann W, Semiglazov V, et al. Neoadjuvant and adjuvant trastuzumab in patients with HER2-positive locally advanced breast cancer (NOAH): follow-up of a randomised controlled superiority trial with a parallel HER2-negative cohort. Lancet Oncol 2014;15:640e7. [14] Gonzalez-Angulo AM, Parinyanitikul N, Lei X, et al. Effect of adjuvant trastuzumab among patients treated with anti-HER2based neoadjuvant therapy. Br J Cancer 2015;112:630e5. [15] Jackisch C, Hegg R, Stroyakovskiy D, et al. HannaH phase III randomised study: association of total pathological complete response with event-free survival in HER2-positive early breast cancer treated with neoadjuvant-adjuvant trastuzumab after 2 years of treatment-free follow-up. Eur J Cancer 2016;62:62e75. [16] Loibl S, von Minckwitz G, Blohmer JU, et al. pCR as a surrogate in HER2-positive patients treated with trastuzumab. Cancer Res 2011;71. Abstract S5eS4. [17] Untch M, Fasching PA, Konecny GE, et al. Pathologic complete response after neoadjuvant chemotherapy plus trastuzumab predicts favorable survival in human epidermal growth factor 
+
+35 
+
+receptor 2-overexpressing breast cancer: results from the TECHNO trial of the AGO and GBG study groups. J Clin Oncol 2011;29:3351e7. [18] von Minckwitz G, Rezai M, Fasching PA, et al. Survival after adding capecitabine and trastuzumab to neoadjuvant anthracycline-taxane-based chemotherapy for primary breast cancer (GBG 40eGeparQuattro). Ann Oncol 2014;25:81e9. [19] Broglio KR, Quintana M, Foster M, et al. Association of pathologic complete response to neoadjuvant therapy in HER2positive breast cancer with long-term outcomes: a meta-analysis. JAMA Oncol 2016;2:751e60. [20] US Food and Drug Administration (FDA) & Center for Drug Evaluation and Research (CDER). Guidance for Industry. Pathological complete response in neoadjuvant treatment of highrisk early-stage breast cancer: use as an endpoint to support accelerated approval. October 2014. http://www.fda.gov/ downloads/drugs/guidancecomplianceregulatoryinformation/ guidances/ucm305501.pdf [Accessed August 2016]. [21] European Medicines Agency (EMA) & Committee for Medicinal Products for Human Use (CHMP). Appendix 4 to the guideline on the evaluation of anticancer medicinal products in man. EMA/CHMP/703715/2012 Rev 1. July 2015. http://www.ema. europa.eu/docs/en_GB/document_library/Scientific_guideline/ 2015/10/WC500195215.pdf [Accessed August 2016]. [22] Advani PP, Ballman KV, Dockter TJ, Colon-Otero G, Perez EA. Long-term cardiac safety analysis of NCCTG N9831 (Alliance) adjuvant trastuzumab trial. J Clin Oncol 2016;34:581e7. [23] Romond EH, Jeong JH, Rastogi P, et al. Seven-year follow-up assessment of cardiac function in NSABP B-31, a randomized trial comparing doxorubicin and cyclophosphamide followed by paclitaxel (ACP) with ACP plus trastuzumab as adjuvant therapy for patients with node-positive, human epidermal growth factor receptor 2-positive breast cancer. J Clin Oncol 2012;30:3792e9. [24] Russell SD, Blackwell KL, Lawrence J, et al. Independent adjudication of symptomatic heart failure with the use of doxorubicin and cyclophosphamide followed by trastuzumab adjuvant therapy: a combined review of cardiac data from the National Surgical Adjuvant Breast and Bowel Project B-31 and the North Central Cancer Treatment Group N9831 clinical trials. J Clin Oncol 2010;28:3416e21. [25] Baselga J, Bradbury I, Eidtmann H, et al. Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): a randomised, open-label, multicentre, phase 3 trial. Lancet 2012; 379:633e40. [26] Piccart-Gebhart MJ, Holmes AP, Baselga J, et al. First results from the phase III ALTTO trial (BIG 2e06; NCCTG [Alliance] N063D) comparing one year of anti-HER2 therapy with lapatinib alone (L), trastuzumab alone (T), their sequence (T->L), or their combination (TþL) in the adjuvant treatment of HER2-positive early breast cancer (EBC). J Clin Oncol 2014;32(20 June suppl.). Abstract LBA4. [27] DeMichele A, Yee D, Berry DA, et al. The neoadjuvant model is still the future for drug development in breast cancer. Clin Cancer Res 2015;21:2911e5. [28] Schneeweiss A, Chia S, Hegg R, et al. Evaluating the predictive value of biomarkers for efficacy outcomes in response to pertuzumab- and trastuzumab-based therapy: an exploratory analysis of the TRYPHAENA study. Breast Cancer Res 2014;16:R73. [29] von Minckwitz G, Procter M, de Azambuja E, et al. Adjuvant pertuzumab and trastuzumab in early HER2-positive breast cancer. N Engl J Med 2017;377:122e31. 
+
+ 

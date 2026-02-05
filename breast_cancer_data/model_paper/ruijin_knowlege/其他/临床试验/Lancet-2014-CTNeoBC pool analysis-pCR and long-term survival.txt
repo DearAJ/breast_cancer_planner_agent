@@ -1,0 +1,581 @@
+Articles 
+
+Pathological complete response and long-term clinical beneﬁt in breast cancer: the CTNeoBC pooled analysis Patricia Cortazar, Lijun Zhang, Michael Untch, Keyur Mehta, Joseph P Costantino, Norman Wolmark, Hervé Bonnefoi, David Cameron, Luca Gianni, Pinuccia Valagussa, Sandra M Swain, Tatiana Prowell, Sibylle Loibl, D Lawrence Wickerham, Jan Bogaerts, Jose Baselga, Charles Perou, Gideon Blumenthal, Jens Blohmer, Eleftherios P Mamounas, Jonas Bergh, Vladimir Semiglazov, Robert Justice, Holger Eidtmann, Soonmyung Paik, Martine Piccart, Rajeshwari Sridhara, Peter A Fasching, Leen Slaets, Shenghui Tang, Bernd Gerber, Charles E Geyer Jr, Richard Pazdur, Nina Ditsch, Priya Rastogi, Wolfgang Eiermann, Gunter von Minckwitz 
+
+Summary Lancet 2014; 384: 164–72 Published Online February 14, 2014 http://dx.doi.org/10.1016/ S0140-6736(13)62422-8 See Comment page 115 US Food and Drug Administration, Silver Spring, MD, USA (P Cortazar MD, L Zhang PhD, T Prowell MD, G Blumenthal MD, R Justice MD, R Sridhara PhD, S Tang PhD, R Pazdur MD); HELIOS Klinikum, Berlin, Germany (Prof M Untch MD); German Breast Group, Neu-Isenburg, Germany (K Mehta MBA, Prof S Liobl MD, Prof G von Minckwitz MD); National Surgical Adjuvant Breast and Bowel Project, Pittsburgh, PA, USA (J P Costantino DrPH, N Wolmark MD, D L Wickerham MD, S Paik MD, P Rastogi MD); Institut Bergonié INSERM U916 and Université Bordeaux Segalen, Bordeaux, France (Prof H Bonnefoi MD); Edinburgh Cancer Research Centre, University of Edinburgh and NHS Lothian, UK (Prof D Cameron MD); San Raﬀaele Scientiﬁc Institute, Milan, Italy (Prof L Gianni MD); Fondazione Michelangelo, Milan, Italy (P Valagussa BS); Medstar Washington Hospital Center, Washington, DC, USA (S M Swain MD); EORTC Headquarters, Brussels, Belgium (J Bogaerts PhD, L Slaets PhD); Memorial Sloan-Kettering Cancer Center, New York, NY, USA (Prof J Baselga MD); Lineberger Comprehensive Cancer Center, Chapel Hill, NC, USA (C Perou PhD); St Gertrauden Hospital, Berlin, Germany (Prof J Blohmer MD); MD Anderson Cancer Center Orlando, Orlando, FL, USA (E P Mamounas MD); 
+
+164 
+
+Background Pathological complete response has been proposed as a surrogate endpoint for prediction of long-term clinical beneﬁt, such as disease-free survival, event-free survival (EFS), and overall survival (OS). We had four key objectives: to establish the association between pathological complete response and EFS and OS, to establish the deﬁnition of pathological complete response that correlates best with long-term outcome, to identify the breast cancer subtypes in which pathological complete response is best correlated with long-term outcome, and to assess whether an increase in frequency of pathological complete response between treatment groups predicts improved EFS and OS. Methods We searched PubMed, Embase, and Medline for clinical trials of neoadjuvant treatment of breast cancer. To be eligible, studies had to meet three inclusion criteria: include at least 200 patients with primary breast cancer treated with preoperative chemotherapy followed by surgery; have available data for pathological complete response, EFS, and OS; and have a median follow-up of at least 3 years. We compared the three most commonly used deﬁnitions of pathological complete response—ypT0 ypN0, ypT0/is ypN0, and ypT0/is—for their association with EFS and OS in a responder analysis. We assessed the association between pathological complete response and EFS and OS in various subgroups. Finally, we did a trial-level analysis to assess whether pathological complete response could be used as a surrogate endpoint for EFS or OS. Findings We obtained data from 12 identiﬁed international trials and 11 955 patients were included in our responder analysis. Eradication of tumour from both breast and lymph nodes (ypT0 ypN0 or ypT0/is ypN0) was better associated with improved EFS (ypT0 ypN0: hazard ratio [HR] 0·44, 95% CI 0·39–0·51; ypT0/is ypN0: 0·48, 0·43–0·54) and OS (0·36, 0·30–0·44; 0·36, 0·31–0·42) than was tumour eradication from the breast alone (ypT0/is; EFS: HR 0·60, 95% CI 0·55–0·66; OS 0·51, 0·45–0·58). We used the ypT0/is ypN0 deﬁnition for all subsequent analyses. The association between pathological complete response and long-term outcomes was strongest in patients with triple-negative breast cancer (EFS: HR 0·24, 95% CI 0·18–0·33; OS: 0·16, 0·11–0·25) and in those with HER2-positive, hormone-receptornegative tumours who received trastuzumab (EFS: 0·15, 0·09–0·27; OS: 0·08, 0·03, 0·22). In the trial-level analysis, we recorded little association between increases in frequency of pathological complete response and EFS (R²=0·03, 95% CI 0·00–0·25) and OS (R²=0·24, 0·00–0·70). Interpretation Patients who attain pathological complete response deﬁned as ypT0 ypN0 or ypT0/is ypN0 have improved survival. The prognostic value is greatest in aggressive tumour subtypes. Our pooled analysis could not validate pathological complete response as a surrogate endpoint for improved EFS and OS. Funding US Food and Drug Administration. 
+
+Introduction New agents to treat breast cancer have historically been approved ﬁrst in the metastatic setting, with approval for use in early-stage breast cancer following many years later on the basis of results of large randomised adjuvant trials with long follow-up. Neoadjuvant treatment— systemic therapy delivered before deﬁnitive breast cancer surgery—was once reserved to reduce the size and extent of locally advanced tumours, but is now being used more widely. In addition to increasing the likelihood of tumour control and the potential for curability in early breast cancer, neoadjuvant trials allow rapid assessment of drug eﬃcacy and could expedite development and approval of 
+
+treatments for early breast cancer.1 Pathological complete response has been proposed as a surrogate endpoint for prediction of long-term clinical beneﬁt, such as diseasefree survival and overall survival (OS).2–5 Although pathological complete response has been the most commonly used endpoint in neoadjuvant trials, it has been variably deﬁned, which has made reporting and interpretation of data challenging. One way to optimise the deﬁnition of pathological complete response, enable the interpretation of data, and investigate the association between pathological complete response and long-term outcome is via a pooled analysis of neoadjuvant trials. To obtain the requisite number of trials for this pooled www.thelancet.com Vol 384 July 12, 2014 
+
+Articles 
+
+analysis, the US Food and Drug Administration established an international working group known as Collaborative Trials in Neoadjuvant Breast Cancer (CTNeoBC) with investigators who had done neoadjuvant trials for which long-term data are available. We aimed to investigate the potential of pathological complete response as a surrogate endpoint for long-term outcomes. We had four key objectives: to establish the association between pathological complete response and event-free survival (EFS) and OS, to establish the deﬁnition of pathological complete response that correlates best with long-term outcome, to identify the breast cancer subtypes in which pathological complete response is best correlated with long-term outcome, and to assess whether an increase in frequency of pathological complete response predicts improved EFS and OS. Here, we present initial results from the CTNeoBC pooled analysis. 
+
+Methods Search strategy and selection criteria We searched PubMed, Embase, and Medline for reports of clinical trials of neoadjuvant treatment of breast cancer published between Jan 1, 1990, and Aug 1, 2011. To be eligible, studies had to meet three inclusion criteria: include at least 200 patients with primary breast cancer treated with preoperative chemotherapy followed by surgery; have available data for pathological complete response, EFS, and OS; and have a median follow-up of at least 3 years. Investigators from identiﬁed trials were invited to participate in a collaborative analysis and agreed to provide individual patient data. We excluded data from all patients randomised to postoperative treatment, patients in the HER2-negative treatment group of the NOAH trial (necessary data were unavailable for this group), and patients who never began assigned treatment. 
+
+occurrence of disease progression resulting in inoperability, locoregional recurrence (after neoadjuvant therapy), distant metastases, or death from any cause. Patients alive without an event as of the analysis cutoﬀ date were censored at last study follow-up date. Overall survival was calculated from date of randomisation to death. For patients alive on the data cutoﬀ date, survival was censored at last study follow-up date. 
+
+Statistical analysis In the pooled analysis, we categorised patients who either did not undergo surgery or who had surgery but for whom data were missing for pathological complete response as non-pathological complete responders. We compared the three deﬁnitions of pathological complete response for their association with EFS and OS. In this responder analysis, EFS and OS were compared between patients with and without pathological complete response, irrespective of treatment assignment, with a log-rank test stratiﬁed by study. We estimated hazard ratios (HRs) and 95% CIs of EFS and OS from stratiﬁed Cox regression models with study as a stratiﬁcation factor. We also obtained Kaplan-Meier estimates of EFS and OS by pathological complete response status. We assessed the association between pathological complete response and EFS and OS in various subgroups. We did multivariable analyses with Cox regression models including baseline factors (age, tumour stage, nodal status, histological type, tumour grade, and tumour subtype) and pathological complete response status. We excluded patients with missing factors from the multivariable analyses. 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+Correspondence to: Dr Patricia Cortazar, 10903 New Hampshire Avenue, Building 22, Room 2333, Silver Spring, MD 20993–0002, USA patricia.cortazar@fda.hhs.gov 
+
+13 856 patients enrolled in 12 neoadjuvant trials 
+
+1901 excluded 1667 assigned to adjuvant treatment (904 from ECTO; 763 from NSABP B-18) 99 in the HER2-negative treatment group of the NOAH trial 1 in the HER2-positive treatment group of the NOAH trial for whom no data obtained 134 never began assigned treatment (60 from GeparTrio; 74 from GeparQuattro) 
+
+Outcome measures Deﬁnitions of pathological complete response varied across trials. We compared the three most commonly used pathological complete response deﬁnitions to establish their association with long-term outcome: ypT0 ypN0 (ie, absence of invasive cancer and in-situ cancer in the breast and axillary nodes), ypT0/is ypN0 (ie, absence of invasive cancer in the breast and axillary nodes, irrespective of ductal carcinoma in situ), and ypT0/is (ie, absence of invasive cancer in the breast irrespective of ductal carcinoma in situ or nodal involvement). All trials had standard operating procedures for pathological complete response assessments. The endpoint of choice for adjuvant trials has been disease-free survival, reﬂecting the fact that patients are disease free at the time of randomisation. By contrast, EFS is used in neoadjuvant trials because all patients are not disease free at randomisation. We calculated EFS as the interval from randomisation to the earliest 
+
+KarolinskaInstitutet and University Hospital, Stockholm, Sweden (Prof J Bergh MD); NN Petrov Research Institute of Oncology, St Petersburg, Russia (Prof V Semiglazov MD); University Women’s Hospital, Kiel, Germany (H Eidtmann MD); Jules Bordet Institute, Brussels, Belgium (Prof M Piccart MD); Frauenklinik des Universitätsklinikums, Erlangen, Germany (Prof P A Fasching MD); Universitäts Frauenklinik, Rostock, Germany (Prof B Gerber MD); Virginia Commonwealth University Massey Cancer Center, Richmond, VA, USA (C E Geyer Jr MD); and Hospital of the Ludwig Maximilian University of Munich, Munich, Germany (N Ditsch MD, Prof W Eiermann MD) 
+
+11 955 included in responder analysis 
+
+2515 excluded 1713 in non-randomised neoadjuvant groups (451 from ECTO; 285 from GeparTrio–Pilot; 760 from NSABP B-18; 217 from TECHNO) 802 given additional adjuvant taxane in NSABP B-27 
+
+9440 included in the trial-level analysis 
+
+Figure 1: Study proﬁle 
+
+165 
+
+Articles 
+
+To explore the potential of pathological complete response as a surrogate endpoint for EFS or OS in a trial-level analysis, we quantiﬁed the association between treatment eﬀects on pathological complete response and EFS and OS using a weighted linear regression model on a logarithmic scale. We excluded data from patients in non-randomised groups from this analysis, because we could not estimate the treatment eﬀect size in these groups. We also excluded patients in NSABP B-27 who received additional adjuvant taxane treatment because the neoadjuvant treatment eﬀect could not be isolated. We present treatment eﬀects on EFS and OS as HRs (calculated with Cox proportional hazards models) and on pathological complete response as odds ratios (calculated with logistic regression models) within each randomised comparison. The linear regression model was weighted by sample size of each randomised comparison. Using a two-stage model to adjust for the 
+
+estimation error of treatment eﬀect size estimates,6 we calculated the coeﬃcient of determination (R²) and the associated 95% CI to measure the correlation between pathological complete response and EFS and OS by treatment eﬀect. By convention, an HR (experimental vs control) of less than 1 denotes a favourable result for EFS and OS in the experimental group, and an odds ratio (experimental vs control) of more than 1 denotes a favourable result for pathological complete response. Thus, a strong negative correlation between log hazard ratio for EFS or OS and log odds ratio for pathological complete response would validate pathological complete response as a surrogate for long-term clinical beneﬁt. All analyses were done with SAS (version 9.2). 
+
+Results We identiﬁed 12 international neoadjuvant trials: AGO 1 (n=668),7 ECTO (n=1355),8 EORTC 10994/BIG 1-00 Overall survival 100 
+
+80 
+
+80 Overall survival (%) 
+
+Event-free survival (%) 
+
+Event-free survival 100 
+
+60 40 HR 0·48 (95% CI 0·43–0·54) 20 
+
+60 40 HR 0·36 (95% CI 0·31–0·42) 20 
+
+Pathological complete response No pathological complete response 
+
+0 
+
+0 0 
+
+3 
+
+Number at risk Pathological 2131 complete response No pathological 9824 complete response 
+
+6 9 12 Time since randomisation (years) 
+
+15 
+
+18 
+
+0 
+
+3 
+
+6 9 12 Time since randomisation (years) 
+
+15 
+
+18 
+
+1513 
+
+583 
+
+337 
+
+124 
+
+35 
+
+2 
+
+2131 
+
+1618 
+
+640 
+
+383 
+
+145 
+
+43 
+
+3 
+
+6169 
+
+2674 
+
+1523 
+
+525 
+
+165 
+
+1 
+
+9824 
+
+7119 
+
+3173 
+
+1859 
+
+659 
+
+209 
+
+3 
+
+Figure 2: Associations between pathological complete response and event-free survival and overall survival ypT0/is ypN0 deﬁnition of pathological complete response (ie, absence of invasive cancer in the breast and axillary nodes, irrespective of ductal carcinoma in situ). HR=hazard ratio. Overall survival 100 
+
+80 
+
+80 Overall survival (%) 
+
+Event-free survival (%) 
+
+Event-free survival 100 
+
+60 40 ypT0 ypN0 (n=1554); HR 0·44 (95% CI 0·39–0·51) ypT0/is ypN0 (n=2131); HR 0·48 (95% CI 0·43–0·54) ypT0/is (n=2598); HR 0·60 (95% CI 0·55–0·66) 
+
+20 
+
+60 40 ypT0 ypN0 (n=1554); HR 0·36 (95% CI 0·30–0·44) ypT0/is ypN0 (n=2131); HR 0·36 (95% CI 0·31–0·42) ypT0/is (n=2598); HR 0·51 (95% CI 0·45–0·58) 
+
+20 
+
+0 
+
+0 0 
+
+5 
+
+10 15 Time since randomisation (years) 
+
+20 
+
+0 
+
+5 
+
+10 15 Time since randomisation (years) 
+
+20 
+
+Figure 3: Associations between three deﬁnitions of pathological complete response and event-free survival and overall survival We compared event-free survival and overall survival between patients who did and did not achieve a pathological complete response according to one of three deﬁnitions. Patients who did not achieve a pathological complete response are not shown. Number of patients who achieved a pathological complete response is listed for each pathological complete response deﬁnition. Patients could achieve pathological complete response according to more than one deﬁnition. ypT0 ypN0=absence of invasive cancer and in-situ cancer in the breast and axillary nodes. ypT0/is ypN0=absence of invasive cancer in the breast and axillary nodes, irrespective of ductal carcinoma in situ. ypT0/is=absence of invasive cancer in the breast, irrespective of ductal carcinoma in situ or nodal involvement. HR=hazard ratio. 
+
+166 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+Articles 
+
+(n=1856),9 GeparDuo (n=907),10 GeparQuattro (n=1495),11,12 GeparTrio (n=2072),13,14 GeparTrio-Pilot (n=285),15 NOAH (n=334),16 NSABP B-18 (n=1523),17,18 NSABP B-27 (n=2411),18,19 PREPARE (n=733),20,21 and TECHNO (n=217; appendix).22 No major trial was excluded from the pooled analysis. All 
+
+were randomised controlled trials except for TECHNO,22 which was a single-group study previously included in the pooled analysis of the German neoadjuvant trials.23 In each trial, heterogeneous populations of patients were enrolled and randomised comparisons of 
+
+A 
+
+See Online for appendix 
+
+Percentage of patients achieving pathological complete response (95% CI) 
+
+Clinical tumour stage T1 (n=785) T2 (n=7328) T3 (n=2493) T4a−c (n=781) T4d (n=482) Clinical nodal status Negative (n=6320) Positive (n=5487) Histological type Ductal (n=8567) Lobular (n=1221) Mixed (n=475) Tumour grade 1 (n=426) 2 (n=4392) 3 (n=3217) Clinical tumour subtype Hormone-receptor-positive, HER2-negative, grade 1/2 (n=1986) Hormone-receptor-positive, HER2-negative, grade 3 (n=630) HER2-positive, hormone-receptor-positive, trastuzumab (n=385) HER2-positive, hormone-receptor-positive, no trastuzumab (n=701) HER2-positive, hormone-receptor-negative, trastuzumab (n=364) HER2-positive, hormone-receptor-negative, no trastuzumab (n=471) Triple negative (n=1157) 
+
+18·3 (15·7–21·2) 19·9 (19·0–20·9) 13·0 (11·7–14·3) 14·5 (12·1–17·1) 16·0 (12·8–19·6) 18·8 (17·9–19·8) 16·9 (15·9–17·9) 15·5 (14·7–16·3) 7·8 (6·3–9·4) 22·7 (19·0–26·8) 7·8 (5·4–10·7) 12·3 (11·3–13·3) 25·8 (24·3–27·4) 7·5 (6·3–8·7) 16·2 (13·4–19·3) 30·9 (26·3–35·8) 18·3 (15·5–21·3) 50·3 (45·0–55·5) 30·2 (26·0–34·5) 33·6 (30·9–36·4) 0 
+
+10 
+
+20 30 40 Pathological complete response (%) 
+
+50 
+
+60 
+
+B 
+
+HR (95% CI) 
+
+Clinical tumour stage T1 (n=785) T2 (n=7328) T3 (n=2493) T4a−c (n=781) T4d (n=482) Clinical nodal status Negative (n=6320) Positive (n=5487) Histological type Ductal (n=8567) Lobular (n=1221) Mixed (n=475) Tumour grade 1 (n=426) 2 (n=4392) 3 (n=3217) Clinical tumour subtype Hormone-receptor-positive, HER2-negative, grade 1/2 (n=1986) Hormone-receptor-positive, HER2-negative, grade 3 (n=630) HER2-positive, hormone-receptor-positive, trastuzumab (n=385) HER2-positive, hormone-receptor-positive, no trastuzumab (n=701) HER2-positive, hormone-receptor-negative, trastuzumab (n=364) HER2-positive, hormone-receptor-negative, no trastuzumab (n=471) Triple negative (n=1157) 
+
+0·64 (0·39–1·05) 0·34 (0·27–0·42) 0·32 (0·23–0·45) 0·47 (0·28–0·78) 0·46 (0·27–0·79) 0·39 (0·31–0·49) 0·35 (0·28–0·43) 0·40 (0·32–0·49) 0·93 (0·50–1·70) 0·30 (0·14–0·65) 0·48 (0·12–1·96) 0·55 (0·40–0·75) 0·29 (0·22–0·37) 0·47 (0·21–1·07) 0·29 (0·13–0·65) 0·56 (0·23–1·37) 0·57 (0·31–1·04) 0·08 (0·03–0·22) 0·29 (0·17–0·50) 0·16 (0·11–0·25) 0·1 
+
+0·2 
+
+0·4 
+
+0·6 
+
+Overall survival better with pathological complete response 
+
+1 
+
+1·5 
+
+Overall survival better without pathological complete response 
+
+Figure 4: Percentage of patients achieving pathological complete response (A) and HRs for overall survival (B), by subgroup Information about clinical tumour stage available for 11 869 patients, about clinical nodal status for 11 807 patients, about histological type for 10 263 patients, about tumour grade for 8035 patients, and about clinical tumour subtype for 5694 patients. ypT0/is ypN0 deﬁnition of pathological complete response used. No multiplicity adjustment was made. HR=hazard ratio. 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+167 
+
+Articles 
+
+anthracycline-based and taxane-based regimens were done, with the exception of the NOAH16 and TECHNO22 trials, which were limited to patients with HER2positive locally advanced or inﬂammatory breast cancer. Patients in the NOAH16 trial were randomly assigned to preoperative chemotherapy with or without trastuzumab, and those in the TECHNO22 trial received trastuzumab and chemotherapy followed by 1 year of adjuvant trastuzumab. In the GeparQuattro trial,11,12 patients with HER2-positive tumours received trastuzumab concomitantly with chemotherapy. Overall, 1087 (55%) of 1989 patients with HER2-positive tumours included in the pooled analysis did not receive 1 year of adjuvant trastuzumab because they were treated before adjuvant trastuzumab trials were reported. All Hormone-receptor-positive, HER2-negative 
+
+patients with hormone-receptor-positive tumours were supposed to receive at least 5 years of endocrine therapy. Breast cancer subtype was established by clinicopathological criteria, such as hormone-receptor status, HER2 overexpression, and histological grade as assessed by local pathologists. The Ki-67 labelling index had not been routinely assessed in the included studies. 11 955 patients were included in our pooled responder analysis (ﬁgure 1). Baseline characteristics are shown in the appendix. Median age was 49 years (IQR 43–57). 7328 patients (61%) had T2 tumours, 482 (4%) had inﬂammatory breast cancer (ie, T4d tumours), and 5487 (46%) had clinically involved lymph nodes. 3572 (30%) patients had hormone-receptor-negative breast cancer, and 1989 (17%) had HER2-positive 
+
+Hormone-receptor-positive, HER2-negative, grade 1/2 
+
+Hormone-receptor-positive, HER2-negative, grade 3 
+
+Event-free survival (%) 
+
+100 80 60 40 20 HR 0·49 (95% CI 0·33–0·71) 
+
+HR 0·63 (95% CI 0·38–1·04) 
+
+HR 0·27 (95% CI 0·14–0·50) 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Number at risk pCR 270 244 224 184 113 69 21 No pCR 2491 2226 1978 1616 1017 658 247 
+
+6 84 
+
+2 20 
+
+2 1 
+
+HER2-positive 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+0 
+
+5 
+
+6 
+
+7 
+
+8 
+
+148 134 123 102 55 33 10 1838 1653 1493 1236 790 517 198 
+
+5 68 
+
+2 15 
+
+2 1 
+
+102 92 83 71 49 30 528 458 376 290 173 111 
+
+9 38 
+
+1 14 
+
+0 5 
+
+HER2-positive, hormone-receptor-positive 
+
+1 
+
+2 
+
+3 
+
+4 
+
+9 
+
+HER2-positive, hormone-receptor-negative 
+
+Event-free survival (%) 
+
+100 80 60 40 20 HR 0·39 (95% CI 0·31–0·50) 
+
+HR 0·58 (95% CI 0·42–0·82) 
+
+HR 0·25 (95% CI 0·18–0·34) 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+0 
+
+1 
+
+2 3 4 5 6 7 Time since randomisation (years) 
+
+Number at risk pCR 586 527 454 371 212 120 37 No pCR 1403 1157 918 713 436 269 106 
+
+4 33 
+
+2 3 
+
+1 1 
+
+247 224 194 157 91 50 839 723 617 484 306 198 
+
+17 79 
+
+2 24 
+
+8 
+
+9 
+
+0 
+
+1 
+
+2 3 4 5 6 7 Time since randomisation (years) 
+
+2 3 
+
+1 1 
+
+325 293 250 205 115 65 510 392 269 200 111 59 
+
+19 22 
+
+8 
+
+9 
+
+2 6 
+
+Triple negative pCR No pCR 
+
+Event-free survival (%) 
+
+100 80 60 40 20 HR 0·24 (95% CI 0·18–0·33) 0 0 1 2 3 4 5 6 7 Time since randomisation (years) Number at risk pCR 389 349 310 250 166 88 29 11 No pCR 768 604 429 317 198 125 50 13 
+
+8 
+
+9 
+
+1 1 
+
+Figure 5: Association between pCR and event-free survival, by breast cancer subtype pCR=pathological complete response. HR=hazard ratio. 
+
+168 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+Articles 
+
+tumours. Tumour testing for HER2 was not necessary in the earlier trials, so information about HER2-receptor status was not available for four trials (AGO-1,7 NSABP B-18,17 NSABP B-27,19 and ECTO8). Overall median followup for EFS was 5·40 years (95% CI 5·33–5·44) and for OS was 5·37 years (5·31–5·43). Overall frequency of pathological complete response was low, and the frequency decreased with increasingly stringent deﬁnitions: 22% (95% CI 21–22) of patients achieved ypT0/is, 18% (17–19) achieved ypT0/is ypN0, and 13% (12–14) achieved ypT0 ypN0. Overall, patients who achieved a pathological complete response had longer EFS and OS than did patients with residual invasive cancer (ﬁgures 2, 3). Eradication of tumour from both the breast and axillary lymph nodes (ypT0 pN0 and ypT0/is ypN0) was better associated with improved EFS and OS than was eradication of invasive tumour from the breast alone (ypT0/is; ﬁgure 3). Associations with EFS and OS were similar for ypT0 ypN0 and ypT0/is ypN0 (ﬁgure 3). Additionally, associations were consistent when we adjusted for baseline factors using multivariable Cox models. We used the ypT0/is ypN0 deﬁnition for all subsequent analyses. As expected, frequency of pathological complete responses in patients with low-grade, hormone-receptorpositive tumours was low, and more than doubled in the high-grade hormone-receptor-positive subgroup (ﬁgure 4A). The more aggressive subtypes—triplenegative and HER2-positive tumours—had increased frequencies of pathological complete response (ﬁgure 4A). Within the HER2-positive population, pathological complete response was more common for hormone-receptor-negative tumours than for hormonereceptor-positive tumours, and with the addition of trastuzumab (ﬁgure 4A). 
+
+The pathological complete response was positively associated with EFS (HR 0·49, 95% CI 0·33–0·71) and OS (0·43, 0·23–0·71) in the overall hormone-receptorpositive, HER2-negative population. The association between pathological complete response and long-term outcome was stronger in patients with high-grade tumours than in those with low-grade tumours (ﬁgures 4B, 5). Additionally, pathological complete response was associated with long-term outcome in the HER2-positive subgroup irrespective of hormonereceptor status (EFS: HR 0·39, 95% CI 0·31–0·50; OS: 0·34, 0·24–0·47). The strength of the association increased in the hormone-receptor-negative subgroup (EFS: 0·25, 0·18–0·34; OS: 0·19, 0·12–0·31). The most favourable outcomes after pathological complete response were recorded in patients with HER2-positive, hormonereceptor-negative tumours who received trastuzumab (EFS: 0·15, 0·09–0·27; OS: 0·08, 0·03–0·22), and in the triple-negative subgroup (ﬁgures 4B, 5). We analysed the association between the eﬀect of treatments on pathological complete response and longterm outcomes in ten randomised comparisons, excluding non-randomised neoadjuvant groups and patients given additional adjuvant taxane (ﬁgure 1). At a trial level, we recorded little association between increases in frequency of pathological complete response and the treatment’s eﬀect on EFS or OS (ﬁgure 6). The coeﬃcient of determination (R²) between improvement in pathological complete response and EFS was 0·03 (95% CI 0·00–0·25), and that between improvement in pathological complete response and OS was 0·24 (0·00–0·70). We also investigated the trial-level association between pathological complete response and long-term outcome by tumour subtype. We excluded patients with lowgrade, hormone-receptor-positive tumours because of low frequency of pathological complete response. The Overall survival 
+
+Event-free survival 1·2 
+
+1·2 B 
+
+Hazard ratio for overall survival 
+
+Hazard ratio for event-free survival 
+
+A 1·0 C 
+
+0·8 
+
+F E 
+
+D 
+
+G I 
+
+H 
+
+J 
+
+0·6 
+
+B 1·0 
+
+H 0·8 
+
+C E A 
+
+1·0 
+
+1·2 1·6 2·0 2·4 3·0 Odds ratio for pathological complete response 
+
+3·6 
+
+G I 
+
+J 
+
+0·6 0·8 
+
+F 
+
+D 
+
+0·8 
+
+1·0 
+
+1·2 1·6 2·0 2·4 3·0 Odds ratio for pathological complete response 
+
+3·6 
+
+Figure 6: Trial-level correlation between treatment eﬀect on pathological complete response and event-free survival or overall survival Each circle corresponds to one randomised comparison and the size of the circle represents the sample size. A=GeparQuattro (epirubicin plus cyclophosphamide followed by docetaxel then capecitabine vs epirubicin plus cyclophosphamide followed by docetaxel). B=GeparDuo. C=GeparQuattro (epirubicin plus cyclophosphamide followed by docetaxel and capecitabine vs epirubicin plus cyclophosphamide followed by docetaxel). D=EORTC 10994/BIG 1-00. E=PREPARE. F=NSABP B-27. G=responders in GeparTrio. H=non-responders in GeparTrio. I=AGO 1. J=NOAH. 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+169 
+
+Articles 
+
+results of the analyses by breast cancer subtype were consistent with ﬁndings in the overall population: no correlation between improvement in frequency of pathological complete response and the treatment’s eﬀect on EFS or OS was recorded (appendix). 
+
+Discussion In our pooled analysis, we recorded that eradication of tumours from both breast and lymph nodes (ypT0 ypN0 or ypT0/is ypN0 pathological complete response) had a stronger association with improved EFS and OS than did eradication of tumour from the breast alone (ypT0/is). The strongest association between pathological complete response and long-term outcome was in patients with aggressive breast cancer subtypes (triple negative; hormone-receptor-positive, high-grade, and HER2-negative; and HER2-positive and hormone-receptor-negative). Nevertheless, an increase in frequency of pathological complete response between treatment groups did not predict improved EFS and OS. Standardisation of the deﬁnition of pathological complete response would allow planning and interpretation of future neoadjuvant clinical trials intended to support drug approval. We propose that pathological complete response is deﬁned as either ypT0/is ypN0 or ypT0 ypN0 in future trials. However, ypT0 ypN0 is a more stringent deﬁnition and its use could lead to reduced frequencies of pathological complete response. Presence or absence of ductal carcinoma in situ did not aﬀect long-term outcome in our analysis. Additionally, a retrospective analysis24,25 of a database including more than 2000 patients treated with neoadjuvant chemotherapy showed that residual ductal carcinoma in situ in patients with complete eradication of the invasive cancer from the breast and lymph nodes did not adversely aﬀect survival. By contrast, a German pooled analysis26 of seven neoadjuvant trials showed that patients without ductal carcinoma in situ had longer survival than did patients with residual ductal carcinoma in situ when all invasive disease was eradicated. Several other groups have reported improved longterm outcomes in patients with pathological complete response compared with those with residual tumour at the time of surgery.17,19,23,24,26 Our pooled analysis conﬁrmed this ﬁnding in various tumour subtypes and in groups divided by other baseline characteristics. The strength of the association increased with trastuzumab treatment, which emphasises the importance of targeted therapy. The association between pathological complete response and long-term outcome was weakest for hormone-receptor-positive and low-grade tumours, and for HER2-positive and hormone-receptor-positive tumours. The German pooled analysis23,26 similarly showed that the association between pathological complete response and long-term outcome was strongest in patients with aggressive breast cancer subtypes. However, pathological complete response was not 170 
+
+prognostic in patients with luminal A or luminal B and HER2-positive breast cancer. The diﬀerence between patient-level analyses and triallevel analyses is a common source of confusion. Patientlevel analyses, sometimes referred to as responder analyses, compare the clinical outcome of patients with and without pathological complete response, irrespective of the treatment group. These analyses are meaningful as they predict improved survival for patients who attain pathological complete response. Because these responder analyses are independent of the treatment group, they are not useful for comparisons of treatments at a trial level. The CTNeoBC pooled analysis is the ﬁrst large analysis in which primary source data has been used to assess the association between pathological complete response and EFS and OS at a trial level. We propose four potential explanations for the ﬁnding that an increase in frequency of pathological complete response between treatment groups did not predict improved EFS and OS. First, in most of the included trials, women with heterogeneous breast cancer tumour subtypes were enrolled, which would be expected to obscure the association between pathological complete response and survival if subtypes respond diﬀerently to the same treatment, or if diﬀerent absolute improvements in frequency of pathological complete response are necessary to meaningfully aﬀect long-term outcomes. Second, a neoadjuvant therapy targeted to a speciﬁc tumour subtype (trastuzumab) was used in only three trials (GeparQuattro,12 NOAH,16 and TECHNO22), and trastuzumab used as an adjunct to chemotherapy in only the NOAH study. As a result, absolute diﬀerences in the frequency of pathological complete response between chemotherapy groups in the included trials were generally low (1–11%), but were as high as 20% for the NOAH trial, comparing trastuzumab plus chemotherapy with chemotherapy alone (ypT0/is ypN0: 35% vs 15%; odds ratio 3·04, 95% CI 1·64–5·82). Similarly, the diﬀerence in the proportion of patients achieving EFS at 5 years between treatment groups in the NOAH study was 13%, although postoperative trastuzumab in the experimental group could have partly contributed to the treatment eﬀect. Fourth, factors unrelated to primary tumour response could have had a role. In the HER2-positive subgroup, we noted that the addition of one trial with increased treatment eﬀects (NOAH) decreased the slope of the curve, suggesting a trial-level correlation between frequency of pathological complete response and long-term outcome could be identiﬁed in future trials with more homogeneous populations and incorporation of targeted therapies. Future trials of subtype-speciﬁc populations with diﬀerences in frequency of pathological complete response between treatment groups that are larger than are those in the trials we included could predict improvement in EFS or OS in early-stage breast cancer. www.thelancet.com Vol 384 July 12, 2014 
+
+Articles 
+
+The importance of individual-level association should not be overlooked; it oﬀers insight into the natural history of an individual’s disease and is thus useful to counsel patients. Trial-level association is useful to predict population treatment beneﬁts. As previously suggested,6,27 an acceptable surrogate endpoint should be correlated with outcome at both the individual and trial levels. Our pooled analysis could not establish a triallevel correlation between pathological complete response and long-term outcome. In view of the substantial improvements in survival for individual patients who attain pathological complete response, we believe that if a novel agent produces a marked absolute increase in frequency of pathological complete response compared with standard therapy alone in the intention-to-treat population, that agent could also be reasonably likely to result in long-term improvements in EFS or OS.28 In our future analyses (with genomic assays to better characterise subgroups and including additional anti-HER2 trials), we will investigate the importance of pathological complete response in deﬁned subsets and assess other promising surrogate endpoints. Contributors PC, MU, JPC, NW, LG, PV, SL, DLW, EPM, RJ, SP, CEG Jr, PR, and GvM designed the study. PC, LZ, KM, JPC, HB, DC, PV, JBo, and GvM collected and analysed data. All authors interpreted data and wrote the report. Declaration of interests DC is a consultant for Genentech, GlaxoSmithKline, and Roche. LG has received a grant or research support from Roche. SMS is an unpaid consultant for Genentech, and research grants, and her institution has received received grants from Genentech, Roche, Sanoﬁ-Aventis, Puma, and BMS. CP is a paid consultant for Sanoﬁ-Aventis. JBl has received ﬁnancial support from Amgen, Roche, and Sanoﬁ-Aventis. JBe has received grants or research support from Amgen, Bayer, Roche, and Sanoﬁ-Aventis. HE is a paid consultant for Amgen, Novartis, and Roche; and has received ﬁnancial support from Amgen, GlaxoSmithKline, Novartis, and Roche. MP is a board member for Pharmamar and is a paid consultant for Amgen, AstraZeneca, Bayer, Boehringer-Ingelheim, Roche, and Sanoﬁ. PAF has received ﬁnancial support from Novartis, Pﬁzer, Roche, and Sanoﬁ-Aventis. BG is a paid consultant for AstraZeneca and has received honoraria from AstraZeneca and GlaxoSmithKline. WE is a paid consultant for Roche, Sanoﬁ-Aventis, and Genomic Health; and has received speaker’s honoraria from Genomic Health, Novartis, Roche, and Sanoﬁ-Aventis. GvM is a paid consultant for Roche and Sanoﬁ-Aventis; and has received ﬁnancial support from Amgen, Roche, and Sanoﬁ-Aventis. The other authors declare that they have no competing interests. Acknowledgments This project was partly funded by the US Food and Drug Administration. We thank Janet Woodcock, who provided ﬁnancial support for the CTNeoBC pooled analysis; all the patients, Breast Cancer Cooperative Groups, investigators, pathologists, and statisticians who participated in the neoadjuvant trials; and Jo Anne Zujewski for her help. References 1 Prowell TM, Pazdur R. Pathological complete response and accelerated drug approval in early breast cancer. N Engl J Med 2012; 366: 2438–41. 2 Bonadonna G, Valagussa P, Brambilla C, Ferrari L. Preoperative chemotherapy in operable breast cancer. Lancet 1993; 341: 1485. 3 Cameron DA, Anderson ED, Levack P, et al. Primary systemic therapy for operable breast cancer—10-year survival data after chemotherapy and hormone therapy. Br J Cancer 1997; 76: 1099–105. 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+Liedtke C, Mazouni C, Hess KR, et al. Response to neoadjuvant therapy and long-term survival in patients with triple-negative breast cancer. J Clin Oncol 2008; 26: 1275–81. Mieog JS, van der Hage JA, van de Velde CJ. Preoperative chemotherapy for women with operable breast cancer. Cochrane Database Syst Rev 2007; 2: CD005002. Burzykowski T. An ordinal surrogate for a survival true endpoint. In: Burzykowski T, Molengerghs G, Buyse M, eds. The evaluation of surrogate endpoints. New York, NY: Springer, 2005. Untch M, Möbus V, Kuhn W, et al. Intensive dose-dense compared with conventionally scheduled preoperative chemotherapy for high-risk primary breast cancer. J Clin Oncol 2009; 27: 2938–45. Gianni L, Baselga J, Eiermann W, et al. Phase III trial evaluating the addition of paclitaxel to doxorubicin followed by cyclophosphamide, methotrexate, and ﬂuorouracil, as adjuvant or primary systemic therapy: European Cooperative Trial in Operable Breast Cancer. J Clin Oncol 2009; 27: 2474–81. Bonnefoi H, Piccart M, Bogaerts J, et al, on behalf of the EORTC 10994/BIG 1-00 Study Investigators. TP53 status for prediction of sensitivity to taxane versus non-taxane neoadjuvant chemotherapy in breast cancer (EORTC 10994/BIG 1-00): a randomised phase 3 trial. Lancet Oncol 2011; 12: 527–39. von Minckwitz G, Raab G, Caputo A, et al. Doxorubicin with cyclophosphamide followed by docetaxel every 21 days compared with doxorubicin and docetaxel every 14 days as preoperative treatment in operable breast cancer: the GEPARDUO study of the German Breast Group. J Clin Oncol 2005; 23: 2676–85. von Minckwitz G, Rezai M, Loibl S, et al. Capecitabine in addition to anthracycline- and taxane-based neoadjuvant treatment in patients with primary breast cancer: phase III GeparQuattro study. J Clin Oncol 2010; 28: 2015–23. Untch M, Rezai M, Loibl S, et al. Neoadjuvant treatment with trastuzumab in HER2-positive breast cancer: results from the GeparQuattro study. J Clin Oncol 2010; 28: 2024–31. von Minckwitz G, Kümmel S, Vogel P, et al, and the German Breast Group. Neoadjuvant vinorelbine-capecitabine versus docetaxeldoxorubicin-cyclophosphamide in early nonresponsive breast cancer: phase III randomized GeparTrio trial. J Natl Cancer Inst 2008; 100: 542–51. von Minckwitz G, Kümmel S, Vogel P, et al, and the German Breast Group. Intensiﬁed neoadjuvant chemotherapy in early-responding breast cancer: phase III randomized GeparTrio study. J Natl Cancer Inst 2008; 100: 552–62. von Minckwitz G, Blohmer JU, Raab G, et al, and the German Breast Group. In vivo chemosensitivity-adapted preoperative chemotherapy in patients with early-stage breast cancer: the GEPARTRIO pilot study. Ann Oncol 2005; 16: 56–63. Gianni L, Eiermann W, Semiglazov V, et al. Neoadjuvant chemotherapy with trastuzumab followed by adjuvant trastuzumab versus neoadjuvant chemotherapy alone, in patients with HER2-positive locally advanced breast cancer (the NOAH trial): a randomised controlled superiority trial with a parallel HER2-negative cohort. Lancet 2010; 375: 377–84. Wolmark N, Wang J, Mamounas E, Bryant J, Fisher B. Preoperative chemotherapy in patients with operable breast cancer: nine-year results from National Surgical Adjuvant Breast and Bowel Project B-18. J Natl Cancer Inst Monogr 2001; 30: 96–102. Rastogi P, Anderson SJ, Bear HD, et al. Preoperative chemotherapy: updates of National Surgical Adjuvant Breast and Bowel Project Protocols B-18 and B-27. J Clin Oncol 2008; 26: 778–85. Bear HD, Anderson S, Brown A, et al, and the National Surgical Adjuvant Breast and Bowel Project Protocol B-27. The eﬀect on tumor response of adding sequential preoperative docetaxel to preoperative doxorubicin and cyclophosphamide: preliminary results from National Surgical Adjuvant Breast and Bowel Project Protocol B-27. J Clin Oncol 2003; 21: 4165–74. Untch M, Fasching PA, Konecny GE, et al, and the Arbeitsgemeinschaft Gynäkologische Onkologie PREPARE investigators. PREPARE trial: a randomized phase III trial comparing preoperative, dose-dense, dose-intensiﬁed chemotherapy with epirubicin, paclitaxel and CMF versus a standard-dosed epirubicin/cyclophosphamide followed by paclitaxel ± darbepoetin alfa in primary breast cancer—results at the time of surgery. Ann Oncol 2011; 22: 1988–98. 
+
+171 
+
+Articles 
+
+21 
+
+22 
+
+23 
+
+24 
+
+172 
+
+Untch M, von Minckwitz G, Konecny GE, et al, and the Arbeitsgemeinschaft Gynäkologische Onkologie PREPARE investigators. PREPARE trial: a randomized phase III trial comparing preoperative, dose-dense, dose-intensiﬁed chemotherapy with epirubicin, paclitaxel, and CMF versus a standard-dosed epirubicin-cyclophosphamide followed by paclitaxel with or without darbepoetin alfa in primary breast cancer—outcome on prognosis. Ann Oncol 2011; 22: 1999–2006. Untch M, Fasching PA, Konecny GE, et al. Pathologic complete response after neoadjuvant chemotherapy plus trastuzumab predicts favorable survival in human epidermal growth factor receptor 2-overexpressing breast cancer: results from the TECHNO trial of the AGO and GBG study groups. J Clin Oncol 2011; 29: 3351–57. von Minckwitz G, Untch M, Nüesch E, et al. Impact of treatment characteristics on response of diﬀerent breast cancer phenotypes: pooled analysis of the German neo-adjuvant chemotherapy trials. Breast Cancer Res Treat 2011; 125: 145–56. Feldman LD, Hortobagyi GN, Buzdar AU, Ames FC, Blumenschein GR. Pathological assessment of response to induction chemotherapy in breast cancer. Cancer Res 1986; 46: 2578–81. 
+
+25 
+
+26 
+
+27 
+
+28 
+
+Mazouni C, Peintinger F, Wan-Kau S, et al. Residual ductal carcinoma in situ in patients with complete eradication of invasive breast cancer after neoadjuvant chemotherapy does not adversely aﬀect patient outcome. J Clin Oncol 2007; 25: 2650–55. von Minckwitz G, Untch M, Blohmer JU, et al. Deﬁnition and impact of pathologic complete response on prognosis after neoadjuvant chemotherapy in various intrinsic breast cancer subtypes. J Clin Oncol 2012; 30: 1796–804. Buyse M, Burzykowski T, Michiels S, Carroll K. Individual- and trial-level surrogacy in colorectal cancer. Stat Methods Med Res 2008; 17: 467–75. US Center for Drug Evaluation and Research. Guidance for industry: pathologic complete response in neoadjuvant treatment of high-risk early-stage breast cancer: use as an endpoint to support accelerated approval. May, 2012. http://www.fda.gov/downloads/ Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ UCM305501.pdf (accessed Jan 22, 2014). 
+
+www.thelancet.com Vol 384 July 12, 2014 
+
+ 

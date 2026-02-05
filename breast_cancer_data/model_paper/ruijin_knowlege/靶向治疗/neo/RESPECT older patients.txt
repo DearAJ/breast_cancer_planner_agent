@@ -1,0 +1,1517 @@
+rapid communications 
+
+Randomized Controlled Trial of Trastuzumab With or Without Chemotherapy for HER2-Positive Early Breast Cancer in Older Patients 
+
+abstract 
+
+PURPOSE Adjuvant trastuzumab monotherapy has not been compared with trastuzumab 1 chemotherapy. We investigated the relative value of trastuzumab monotherapy for older patients with breast cancer. 
+
+ASSOCIATED CONTENT Appendix Data Supplement Protocol Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on July 22, 2020 and published at ascopubs.org/journal/ jco on September 16, 2020: DOI https://doi. org/10.1200/JCO.20. 00184 All decisions concerning the planning, implementation and publication of this study were made by the executive committee of this study. The corporate and individual sponsors of this study are listed on the Comprehensive Support Project for Oncology Research website (http:// www.csp.or.jp/cspor/ kyousan_e.html). 
+
+Masataka Sawaki, MD, PhD1; Naruto Taira, MD, PhD2; Yukari Uemura, PhD3; Tsuyoshi Saito, MD, PhD4; Shinichi Baba, MD5; Kokoro Kobayashi, MD6; Hiroaki Kawashima, MD, PhD7; Michiko Tsuneizumi, MD, PhD8; Noriko Sagawa, MD, PhD9; Hiroko Bando, MD, PhD10; Masato Takahashi, MD, PhD11; Miki Yamaguchi, MD, PhD12; Tsutomu Takashima, MD, PhD13; Takahiro Nakayama, MD, PhD14; Masahiro Kashiwaba, MD, PhD5; Toshiro Mizuno, MD, PhD15; Yutaka Yamamoto, MD, PhD16; Hiroji Iwata, MD, PhD1; Takuya Kawahara, PhD17; Yasuo Ohashi, PhD18; and Hirofumi Mukai, MD, PhD19, for the RESPECT study group 
+
+METHODS This study was an open-label, randomized controlled study with a treatment selection design in which a noninferiority criterion was predeﬁned. Patients aged 70-80 years with surgically treated human epidermal growth factor receptor 2–positive invasive breast cancer received trastuzumab monotherapy or trastuzumab 1 chemotherapy. The primary end point was disease-free survival (DFS) with assessment of prespeciﬁed hazard ratio (HR), relapse-free survival (RFS), adverse events (AEs), health-related quality of life (HRQoL), and restricted mean survival time (RMST). RESULTS The study involved 275 patients (mean age, 73.5 years) who were followed up for a mean of 4.1 years (range, 0.3-8.0 years). The percentages of patients by cancer stage were as follows: I (pT . 0.5 cm), 43.6%; IIA, 41.7%; IIB, 13.5%; and IIIA, 1.1%. Three-year DFS was 89.5% with trastuzumab monotherapy versus 93.8% with trastuzumab 1 chemotherapy (HR, 1.36; 95% CI, 0.72 to 2.58; P 5 .51). At 3 years, RMST differed by 20.39 months between arms (95% CI, 21.71 to 0.93; P 5 .56). Three-year RFS was 92.4% with trastuzumab monotherapy versus 95.3% with trastuzumab 1 chemotherapy (HR, 1.33; 95% CI, 0.63 to 2.79; P 5 .53). Common AEs were anorexia (7.4% v 44.3%; P , .0001) and alopecia (2.2% v 71.7%; P , .0001), and grade 3/4 nonhematologic AEs occurred in 11.9% versus 29.8% (P 5 .0003) for trastuzumab monotherapy versus trastuzumab 1 chemotherapy, respectively. Clinically meaningful HRQoL deterioration rate showed signiﬁcant differences at 2 months (31% for trastuzumab monotherapy v 48% for trastuzumab 1 chemotherapy; P 5 .016) and at 1 year (19% v 38%; P 5 .009). CONCLUSION The primary objective of noninferiority for trastuzumab monotherapy was not met. However, the observed loss of survival without chemotherapy was , 1 month at 3 years. Therefore, and in light of the lower toxicity and more favorable HRQoL proﬁle, trastuzumab monotherapy can be considered an adjuvant therapy option for selected older patients. J Clin Oncol 16. © 2020 by American Society of Clinical Oncology 
+
+INTRODUCTION Trastuzumab with chemotherapy is a standard adjuvant systemic therapy for human epidermal growth factor receptor 2 (HER2)–positive primary breast cancer.1-4 Overexpression of HER2 is also associated with potentially more aggressive tumors5,6; consequently, trastuzumab is a key drug for the treatment of HER2-positive primary cancer. Trastuzumab monotherapy used as an adjuvant treatment without chemotherapy avoids toxicity, especially in older patients who are at increased risk of severe chemotherapy- 
+
+induced toxicity,7-9 but it is not used in clinical practice, because its beneﬁt has not been investigated.10 Because even the Early Breast Cancer Trialists’ Collaborative Group overview does not arrive at a clear conclusion on the usability of chemotherapy in patients . 70 years of age, due to limited data,11 no standard treatment exists for these patients. Women in Japan have the highest life expectancy in the world, at 86.8 years.12 Breast cancer is the most prevalent cancer in women; 95,257 women were diagnosed in 2016, of whom 26.3% were older than 
+
+1 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sawaki et al 
+
+CONTEXT Key Objective To compare trastuzumab with or without chemotherapy in older patients, we carried out a randomized, prospective adjuvant trial comparing trastuzumab monotherapy with trastuzumab 1 chemotherapy for human epidermal growth factor receptor 2–positive breast cancer, speciﬁcally in patients older than 70 years. Knowledge Generated The primary objective of noninferiority for trastuzumab monotherapy was not met. However, restricted mean survival time revealed that the observed loss of survival without chemotherapy was , 1 month at 3 years, and health-related quality of life (HRQoL) was better with lower rates of common adverse events. Relevance Trastuzumab 1 chemotherapy remains a standard of care. In patients . 70 years of age who need to avoid chemotherapy because of contraindications or patient preference, especially patients aged . 75 years with performance status 1 disease and estrogen-receptor positivity, we found relatively small inﬂuences on chemotherapy effects. With lower toxicity and better HRQoL proﬁle, trastuzumab monotherapy can be a reasonable option for selected older patients with favorable outcomes. 
+
+70 years. In the SEER program of the National Cancer Institute, 268,600 women were diagnosed with breast cancer in 2019, of whom 44.1% were . 65 years old. Older adults suffer the majority of cancer diagnoses and deaths, and also make up the majority of cancer survivors; however, the evidence base for treating this population is sparse. ASCO has proposed developing recommendations to improve the evidence base for treating older adults with cancer in response to a critical need.13 To address this, we designed a randomized controlled trial to investigate the beneﬁt of trastuzumab monotherapy compared with trastuzumab in combination with chemotherapy on the efﬁcacy, incidence of adverse events (AEs), and quality of life in terms of the noninferiority criterion. PATIENTS AND METHODS Patients The trial protocol is provided in the Data Supplement. We recruited patients aged 70-80 years with HER2-positive breast cancer who had undergone surgery with curative intent. Inclusion criteria comprised the following: invasive breast cancer histologically diagnosed as HER2 positive according to the ASCO and College of American Pathologists guidelines14; stage I (pathologic tumor size . 0.5 cm), IIA, IIB, or IIIA cancer; and left ventricular ejection fraction (LVEF) $ 55%. Other eligibility criteria and exclusion criteria are listed in the Data Supplement. This study was reviewed and approved by the appropriate independent ethics committees and institutional review boards. This study conformed with the Declaration of Helsinki and the Ethical Guidelines for Clinical Research of Japan’s Ministry of Health, Labor, and Welfare. Written informed consent was obtained from all patients. The protocol 
+
+was registered at the University Hospital Medical Information Network, Japan (protocol ID: UMIN000002349), on September 1, 2009, and with ClinicalTrials.gov (identiﬁer: NCT01104935) on November 6, 2009. Trial Design and Oversight This was an open-label, randomized, parallel group, comparative study with a treatment selection design in which a determining criterion was deﬁned in advance and used to demonstrate clinical beneﬁt between two groups in terms of efﬁcacy. Patients were randomly assigned in a 1:1 ratio to receive either trastuzumab monotherapy or trastuzumab 1 chemotherapy. Randomization was performed at the data center after conﬁrming patient eligibility with assignment adjustment factors, as follows: age (70-75 v 76-80 years), performance status (0 v 1), hormone receptor status (positive [$ 10%] v negative), pathologic nodal status (positive v negative), and participating institution. We hypothesized that (1) trastuzumab monotherapy is not markedly inferior to trastuzumab 1 chemotherapy in terms of disease-free survival (DFS), and (2) trastuzumab monotherapy is superior in terms of safety and health-related quality of life (HRQoL). Trastuzumab 1 chemotherapy treatment comprised a loading dose of trastuzumab at 8 mg/kg and a maintenance dose of 6 mg/kg every 3 weeks for 1 year. Chemotherapy was selected from the following regimens prespeciﬁed in the protocol, based on a joint decision by physician and patient: 1. Paclitaxel 80 mg/m2 for 12 weeks. 2. Docetaxel 75 mg/m2 for 4 cycles. 3. Doxorubicin 60 mg/m 2 and cyclophosphamide 600 mg/m2 for 4 cycles. 
+
+2 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab Without Chemotherapy in HER2-Positive Older Patients 
+
+4. Epirubicin 90 mg/m2 and cyclophosphamide 600 mg/m2 for 4 cycles. 5. Cyclophosphamide 75-100 mg orally, methotrexate 40 mg/m2, and 5-ﬂuorouracil 500-600 mg/m2 (CMF) intravenously for 6 cycles. 6. Docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 (TC) for 4 cycles. 7. Docetaxel 60-75 mg/m2, carboplatin area under the curve 5-6 mg/ml/min trastuzumab loading dose 4 mg/kg, 2 mg/kg (TCbH) for 6 cycles. Patients treated with trastuzumab monotherapy received the same dose of trastuzumab. Details, including dose modiﬁcations, are provided in the protocol (Data Supplement). End Points The primary end point was DFS, comparing treatment arms by hazard ratio (HR), and calculating restricted mean survival time (RMST) for each arm as a supplementary analysis. Secondary end points were overall survival (OS), relapse-free survival (RFS), adverse events (AEs), HRQoL, and comprehensive geriatric assessment (CGA). Assessment The protocol required assessment of LVEF at registration, every 3 months during trastuzumab administration, and every 6 months after completion of trastuzumab treatment. The HRQoL of the study population was assessed using the Functional Assessment of Cancer Therapy-general (FACT-G) scale at baseline, 2 months, 1 year, and 3 years. FACT-G is a validated, brief yet sensitive, 28-item general cancer HRQoL measure.15 The analysis of HRQoL was FACT-G total score, and a $ 5-point change from baseline score was considered meaningful.16 After completion of the protocol treatment, clinical examinations were required at each hospital visit. Statistical Analysis The primary end point required 120 events in total, given a power of 80% and a threshold HR of 1.69. Given that the probability of 3 years’ DFS in the study population was 68%-72%, and assuming that the survival time follows an exponential distribution, a total of 260 patients registered over 4 years and followed-up for 3 years was necessary to assess 120 events. To evaluate the clinical position of each treatment, the estimated HR was compared with a threshold HR of 1.69. This threshold for “addition of chemotherapy is determined to be a deﬁnite advantage” was based on the results of a questionnaire in advance answered by physicians of this medical ﬁeld (Data Supplement). The threshold was used to determine whether trastuzumab treatment was deﬁnitely equivalent (not inferior) to trastuzumab 1 chemotherapy with regard to DFS. An upper limit of the 95% CI of the HR for trastuzumab monotherapy relative to trastuzumab 1 chemotherapy, calculated by applying the proportional 
+
+hazards model, not exceeding 1.69, would demonstrate the marked noninferiority of trastuzumab monotherapy, making this a possible treatment option. In this study, RMST was calculated as a supplementary analysis because blinded annual monitoring on September 1, 2015, showed that the number of events was far fewer than expected, and the statistical power of the noninferiority test based on HR was not assured. The conventional procedure for evaluating long-term treatment effects on survival is the log-rank test and HR. However, if the number of events is too small in a noninferior study to give sufﬁcient information regarding the two treatment arms, RMST can be an option to qualify survival beneﬁt in a comparative oncology clinical study.17-19 All collected data were analyzed using SAS, version 9.4 (SAS Institute, Cary, NC). Details of the end points, assessment, and the statistical analysis are provided in the Data Supplement. RESULTS Patients The CONSORT diagram is shown in Figure 1. From October 2009 through November 2014, a total of 275 patients aged 70-80 years with HER2-positive invasive breast cancer were enrolled from 99 institutions. Nine patients (3.3%) were excluded, leaving 266 for full-set analysis (trastuzumab monotherapy [n 5 135] and trastuzumab 1 chemotherapy [n 5 131]). Characteristics of the patients at baseline are listed in Table 1. The median age of patients was 73.5 years (range, 70-80 years) and the median followup time was 4.1 years (range, 0.3-8.0 years). Most patients (43.6%) had stage I disease, 41.7% had stage IIA, 13.5% had IIB, and 1.1% had IIIA. Chemotherapy regimens were paclitaxel (35.1%), anthracycline (22.9%), CMF (19.8%), docetaxel (14.5%), or TC (3.1%). The relative dose intensity (RDI) values are shown in Appendix Table A1 (online only). The RDI of trastuzumab was 84.4% with trastuzumab monotherapy and 81.8% with trastuzumab 1 chemotherapy. Concurrent infusion of trastuzumab was allowed when combined with paclitaxel, docetaxel, or CMF, as received by 93.5%, 94.7%, and 46.2% of patients, respectively. Selective estrogen receptor (ER) modulators were administered to 14.2% of patients and aromatase inhibitors were administered to 69.3%. Partial mastectomy was performed in 80 patients (30.0%), of whom 9 received irradiation of the breast. DFS, RFS, and OS The data cutoff date was October 31, 2017. The planned analysis showed that 3-year DFS was 89.5% (95% CI, 82.9 to 93.6) with trastuzumab monotherapy versus 93.8% (95% CI, 87.9 to 96.8) with trastuzumab 1 chemotherapy (HR, 1.36; 95% CI, 0.72 to 2.58; P 5 .51; Fig 2). The cumulative total number of events in DFS was 18 with trastuzumab monotherapy and 15 with trastuzumab 1 chemotherapy. Details are listed in Appendix Table A2. 
+
+Journal of Clinical Oncology 
+
+3 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sawaki et al 
+
+Assessed for eligibility (N = 403) 
+
+Excluded (n = 128) Declined to participate (n = 123) Did not meet inclusion criteria (n = 5) 
+
+Patients randomly assigned (n = 275) 
+
+Assigned to trastuzumab monotherapy (n = 137) 
+
+Assigned to trastuzumab + chemotherapy (n = 138) 
+
+Excluded because of withdrawal (n = 6) Excluded because of difficulty of (n = 1) attending the hospital 
+
+Excluded because of withdrawal (n = 2) 
+
+Included in intention-to-treat analysis (n = 135) 
+
+Included in intention-to-treat analysis (n = 131) 
+
+FIG 1. CONSORT diagram for the RESPECT study. Patients were randomly assigned to receive adjuvant treatment either with trastuzumab monotherapy or with trastuzumab 1 chemotherapy ( investigator’s selection from regimens speciﬁed on the protocol: paclitaxel, docetaxel, doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2; epirubicin 90 mg/m2 and cyclophosphamide 600 mg/m2; ﬂuorouracil 500 mg/m2, epirubicin 75 mg/m2, and cyclophosphamide 500 mg/m2; cyclophosphamide 75-100 mg orally, methotrexate 40 mg/m2, and 5-ﬂuorouracil 500-600 mg/m2; docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2; or docetaxel 60-75 mg/m2, carboplatin area under the curve 5-6 mg/ml/min, trastuzumab loading dose 4 mg/kg, 2 mg/kg for 6 cycles). 
+
+Distant metastasis occurred in nine patients who received trastuzumab monotherapy and eight patients who received trastuzumab 1 chemotherapy. The posterior probability that the HR was , 1.69 was estimated at 74.5%. The difference in RMST for DFS between the study arms at 3 years was 20.39 months (95% CI, 21.71 to 0.93; P 5 .56). The 3-year RFS was 92.4% (95% CI, 86.3 to 95.8; n 5 17 events with seven deaths) with trastuzumab monotherapy versus 95.3% (95% CI, 89.7 to 97.8; n 5 12 events with six deaths) with trastuzumab 1 chemotherapy (HR, 1.33; 95% CI, 0.63 to 2.79; Fig 3). The difference in RMST for RFS between arms at 3 years was 20.41 months (95% CI, 21.51 to 0.68; P 5 .53). Three-year OS was 97.2% (95% CI, 91.2 to 99.1) with trastuzumab monotherapy versus 96.6% (95% CI, 89.5 to 98.9) with trastuzumab 1 chemotherapy (HR, 1.07; 95% CI, 0.36 to 3.19; Fig 4). Distant DFS at 3 years was 93.1% with trastuzumab monotherapy versus 96.8% with trastuzumab 1 chemotherapy (HR, 1.42; 95% CI, 0.64 to 3.17; P 5 .39; Appendix Fig A1, online only). Breast cancer–speciﬁc survival at 3 years was 99.2% with trastuzumab monotherapy versus 99.2% with trastuzumab 1 chemotherapy (HR, 0.20; 95% CI, 0.02 to 1.67; P 5 .14; Appendix Fig A2). 
+
+Subgroup analysis of DFS is shown in Table 2. On the basis of the Cox model prespeciﬁed subgroup analyses for background or prognostic factors conducted to estimate HR with 95% CI, age . 75 years, performance status 1 (PS1), and ER positivity had relatively small effects on the outcome of chemotherapy, which were not signiﬁcant. Safety All patients who underwent the protocol treatment were included in the safety analysis. Common AEs are listed in Table 3. Common AEs were neutropenia (9.6% with trastuzumab monotherapy v 42.0% with trastuzumab 1 chemotherapy; P , .0001), anorexia (7.4% v 44.3%; P , .0001), and alopecia (2.2% v 71.7%; P , .0001). No grade 4 hematologic AEs occurred with trastuzumab monotherapy but were reported with trastuzumab 1 chemotherapy (0% v 13.7%; P , .0001). Similarly, some grade 3 or 4 nonhematological AEs occurred with trastuzumab monotherapy but the rate more than doubled with trastuzumab 1 chemotherapy (11.9% v 29.8%; P 5 .0003). In patients who received the most-used regimen, paclitaxel 1 trastuzumab, neuropathy-sensory AEs of any grade occurred in 65.2% of patients. No patients discontinued trastuzumab treatment because of toxicity. All serious AEs resolved. 
+
+4 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab Without Chemotherapy in HER2-Positive Older Patients 
+
+TABLE 1. Baseline Characteristics of the Full Analysis Set (N 5 266) 
+
+Characteristic 
+
+Trastuzumab Monotherapy (n 5 135) 
+
+Trastuzumab 1 Chemotherapy (n 5 131) 
+
+P 
+
+Mean age, years (SD) 
+
+73.9 (2.8) 
+
+73.9 (3.0) 
+
+.79 
+
+Performance status 
+
+.76 
+
+0 
+
+126 (93.3) 
+
+121 (92.4) 
+
+1 
+
+9 (6.7) 
+
+10 (7.6) 
+
+Pathologic tumor size 
+
+HRQoL .57 
+
+T1b 
+
+10 (7.4) 
+
+11 (8.4) 
+
+T1c 
+
+55 (40.7) 
+
+54 (41.2) 
+
+T2 
+
+64 (47.4) 
+
+64 (48.9) 
+
+T3 
+
+6 (4.4) 
+
+2 (1.5) 
+
+Lymph node metastasis 
+
+All patients recovered after appropriate medication containing a diuretic agent. Hypertension of grade 3/4 occurred in ﬁve patients (3.7%) who received trastuzumab monotherapy and nine patients (6.9%) who received trastuzumab 1 chemotherapy (P 5 .043). No congestive heart failure (CHF) occurred in either group. 
+
+.39 
+
+Among study patients, 116 who received trastuzumab monotherapy and 115 who received trastuzumab 1 chemotherapy who achieved the baseline response were analyzed. We detected a signiﬁcant difference between treatment groups in clinically meaningful HRQoL deterioration rate using the FACT-G at 2 months (31% for trastuzumab monotherapy v 48% for trastuzumab 1 chemotherapy; P 5 .016), and at 1 year (19% v 38%; P 5 .009), and in clinically meaningful HRQoL improvement rate at 2 months (38% for trastuzumab monotherapy v 15% for trastuzumab 1 chemotherapy; P , .01), and at 1 year (43% v 25%; P 5 .021). There was no signiﬁcant difference between the two arms at 3 years. 
+
+Negative 
+
+111 (82.2) 
+
+103 (78.6) 
+
+Positive 
+
+23 (17.0) 
+
+24 (18.4) 
+
+Unknown 
+
+1 (0.7) 
+
+4 (3.1) 
+
+I 
+
+58 (43.0) 
+
+58 (44.3) 
+
+IIA 
+
+56 (41.5) 
+
+55 (42.0) 
+
+DISCUSSION 
+
+IIB 
+
+20 (14.8) 
+
+16 (12.2) 
+
+IIIA 
+
+1 (0.7) 
+
+2 (1.5) 
+
+Mastectomy 
+
+97 (71.9) 
+
+87 (66.4) 
+
+Partial mastectomy 
+
+36 (26.7) 
+
+44 (33.6) 
+
+Others 
+
+2 (1.5) 
+
+0 (0.0) 
+
+ER1 and/or PgR1 
+
+62 (45.9) 
+
+65 (49.6) 
+
+ER2 and PgR2 
+
+73 (54.1) 
+
+66 (50.4) 
+
+To our knowledge, this is the ﬁrst randomized prospective adjuvant trial to compare trastuzumab monotherapy with trastuzumab 1 chemotherapy for HER2-positive breast cancer. The primary end point was not met on HR, although prespeciﬁed analysis was performed supplementary to investigation of RMST. To our knowledge, it is also the ﬁrst study to speciﬁcally enroll patients older than 70 years. DFS at 3 years was 93.8% in the trastuzumab 1 chemotherapy group but 89.5% with less toxicity and a better HRQoL proﬁle in the trastuzumab monotherapy group. 
+
+Stage 
+
+.8 
+
+Surgery 
+
+.2 
+
+Hormone receptor status 
+
+.55 
+
+Major comorbidity Hypertension 
+
+.83 
+
+Absent 
+
+76 (56.3) 
+
+72 (55.0) 
+
+Present 
+
+59 (43.7) 
+
+59 (45.0) 
+
+Absent 
+
+119 (88.1) 
+
+112 (85.5) 
+
+Present 
+
+16 (11.9) 
+
+19 (14.5) 
+
+Diabetes 
+
+.52 
+
+Osteoporosis 
+
+.13 
+
+Absent 
+
+117 (86.7) 
+
+121 (92.4) 
+
+Present 
+
+18 (13.3) 
+
+10 (7.6) 
+
+Hyperlipidemia 
+
+.67 
+
+Absent 
+
+101 (74.8) 
+
+95 (72.5) 
+
+Present 
+
+34 (25.2) 
+
+36 (27.5) 
+
+NOTE. Data presented as No. (%). Abbreviations: ER, estrogen receptor; PgR, progesterone receptor; SD, standard deviation. 
+
+LVEF decreases occurred in 11 patients (8.1%) in the trastuzumab monotherapy group and in nine patients (6.8%) in the trastuzumab 1 chemotherapy group (P 5 .647). 
+
+Trastuzumab without chemotherapy has not been assessed in the adjuvant setting, as far as we are aware. In the metastatic setting, trastuzumab monotherapy has efﬁcacy with low toxicity,20,21 although combination chemotherapy with trastuzumab is generally preferred.22 In the neoadjuvant setting, trastuzumab 1 pertuzumab without chemotherapy was tested, but chemotherapy was administered after surgery.23 With regard to trastuzumab AEs, cardiac dysfunction and CHF have been reported.24-26 A long-term assessment found that the incidence of decreased LVEF was 3.6%, whereas that of severe CHF was 0.8%.27 The cardiac event rate was highest in patients who received anthracycline (1.9%-3.8%)28 and lowest in patients who received a TCbH regimen (0.4%).4 Independent predictors of cardiac events were age . 50 years and a low LVEF.29 Among older patients, a systematic review indicated that cardiac events occurred in 5% of patients.30 A large observational study indicated that the risk of cardiac function toxicity was 5.7%31 and that this risk was associated with age,31,32 although it remained manageable31 and the risks associated with trastuzumab were outweighed by the beneﬁts.30,31 In our 
+
+Journal of Clinical Oncology 
+
+5 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sawaki et al 
+
+1.0 
+
+DFS (probability) 
+
+FIG 2. Kaplan-Meier estimates 0.8 
+
+0.6 
+
+0.4 Trastuzumab + chemotherapy 
+
+0.2 
+
+Trastuzumab monotherapy 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time Since Random Assignment (years) No. at risk: Trastuzumab + chemotherapy 
+
+131 
+
+126 
+
+121 
+
+112 
+
+64 
+
+38 
+
+19 
+
+6 
+
+Trastuzumab monotherapy 
+
+135 
+
+132 
+
+125 
+
+112 
+
+71 
+
+40 
+
+17 
+
+9 
+
+trial, cardiac events occurred in 7.5% of patients, but because this was a prospective study, LVEF was routinely evaluated and, as a result, decreases in LVEF were detected, and no CHF occurred. Our results thus provide safety data on trastuzumab with or without chemotherapy for older patients. In older patients, HRQoL is important in addition to the incidence of AEs, because chemotherapy causes signiﬁcant deterioration of HRQoL.33 The European Society for Medical Oncology proposed a Clinical Beneﬁt Scale incorporating toxicity and HRQoL as outcomes of living better with adjuvant therapy,34 although there is no deﬁnitive consensus on how to assess and interpret risks and beneﬁts. The ﬁndings of our study on short-term toxicity and the impact on HRQoL are useful for treatment selection in older patients. Older adults do not differ from their younger counterparts regarding chemotherapy acceptance, but 
+
+they do differ in terms of willingness to trade survival for current QoL.35 Consequently, HRQoL deterioration, even if temporary, is important when deciding whether to receive chemotherapy. In our trial, the upper threshold of HR of 1.69, an inferior margin deﬁned in advance, was set based on a questionnaire among physicians, because older patients may not accept a small absolute beneﬁt if treatment carries a high risk of AEs, loss of independence, and cognitive impairment. For a more deﬁnitive answer to anti-HER2 therapy without chemotherapy, biomarkers will be important in selecting a suitable population to optimize beneﬁt. Meanwhile, we await the results from other studies of de-escalation. In the ATEMPT trial comparing paclitaxel 1 trastuzumab with trastuzumab emtansine (T-DM1), the latter was associated with a low rate of recurrence, although it did not meet the preplanned relative reduction in toxicity.36 The ATOP trial 
+
+RFS (probability) 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 Trastuzumab + chemotherapy 
+
+0.2 
+
+Trastuzumab monotherapy 
+
+0 
+
+1 
+
+2 
+
+3 
+
+of disease-free survival (DFS). DFS at 3 years was 89.5% (95% CI, 82.9 to 93.6) in the trastuzumab monotherapy group versus 93.8% (95% CI, 87.9 to 96.8) in the trastuzumab 1 chemotherapy group (HR, 1.36; 95% CI, 0.72 to 2.58; P 5 .51). The difference in restricted mean survival time for DFS between the study arms at 3 years was 20.39 months (95% CI, 21.71 to 0.93; P 5 .56). Tick marks indicate censored data. 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time Since Random Assignment (years) No. at risk: Trastuzumab + chemotherapy 
+
+131 
+
+126 
+
+121 
+
+112 
+
+64 
+
+38 
+
+19 
+
+6 
+
+Trastuzumab monotherapy 
+
+135 
+
+132 
+
+125 
+
+112 
+
+71 
+
+40 
+
+18 
+
+9 
+
+FIG 3. Kaplan-Meier estimates of relapse-free survival (RFS). RFS at 3 years was 92.4% (95% CI, 86.3 to 95.8, 17 events with seven deaths) in the trastuzumab monotherapy group versus 95.3% (95% CI, 89.7 to 97.8, 12 events with six deaths) in the trastuzumab 1 chemotherapy group (HR 5 1.33; 95% CI, 0.63 to 2.79). The difference in restricted mean survival time for RFS between the study arms at 3 years was -0.41 months (95% CI, -1.51 to 0.68; P 5 0.53). Tick marks indicate censored data. 
+
+6 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab Without Chemotherapy in HER2-Positive Older Patients 
+
+OS (probability) 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 Trastuzumab + chemotherapy 
+
+0.2 
+
+Trastuzumab monotherapy 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time Since Random Assignment (years) No. at risk: Trastuzumab + chemotherapy 
+
+131 
+
+129 
+
+127 
+
+118 
+
+71 
+
+43 
+
+20 
+
+6 
+
+Trastuzumab monotherapy 
+
+135 
+
+135 
+
+133 
+
+120 
+
+76 
+
+45 
+
+23 
+
+9 
+
+(ClinicalTrials.gov identiﬁer: NCT03587740) is a single-arm study of T-DM1 in patients . 60 years of age. Short duration of trastuzumab combined with chemotherapy was associated with worse outcome despite a favorable cardiotoxicity.37 In our subgroup analysis, we found age . 75 years, PS1, and ER positivity had relatively small inﬂuences on the effects of chemotherapy. There might be a difference in the impact of chemotherapy between pureHER2 and luminal-HER2 type,23 and ER positivity affected 
+
+FIG 4. Kaplan-Meier estimates of overall survival (OS). OS at 3 years was 97.2% (95% CI, 91.2 to 99.1) in the trastuzumab monotherapy group versus 96.6% (95% CI, 89.53 to 98.9) in the trastuzumab 1 chemotherapy group (HR, 1.07; 95% CI, 0.36 to 3.19). Tick marks indicate censored data. 
+
+the timing of DFS events and patterns, providing prognostic information.38 Limitations of this study include, ﬁrst, that although 266 patients were treated according to the protocol, the primary end point was not met on HR, because of the low numbers of events consequent to an underpowered analysis. As a result, no deﬁnitive conclusions regarding trastuzumab without chemotherapy in this setting can be made. The prognosis of patients in both arms was better than expected 
+
+TABLE 2. Subgroup Analysis of Disease-Free Survival 95% CI No. of Patients 
+
+No. of Events (%) 
+
+Hazard Ratio 
+
+Trastuzumab monotherapy 
+
+96 
+
+14 (14.6) 
+
+1.85 
+
+0.75 
+
+4.58 
+
+.31 
+
+Trastuzumab 1 chemotherapy 
+
+89 
+
+7 (7.9) 
+
+Trastuzumab monotherapy 
+
+39 
+
+9 (23.1) 
+
+1.04 
+
+0.41 
+
+2.61 
+
+.94 
+
+Trastuzumab 1 chemotherapy 
+
+42 
+
+9 (21.4) 
+
+Trastuzumab monotherapy 
+
+126 
+
+22 (17.5) 
+
+1.62 
+
+0.81 
+
+3.21 
+
+.17 
+
+Trastuzumab 1 chemotherapy 
+
+121 
+
+13 (10.7) 
+
+Trastuzumab monotherapy 
+
+9 
+
+1 (11.1) 
+
+0.32 
+
+0.03 
+
+3.09 
+
+.32 
+
+Trastuzumab 1 chemotherapy 
+
+10 
+
+3 (30.0) 
+
+Negative 
+
+Trastuzumab monotherapy 
+
+106 
+
+18 (17.0) 
+
+1.62 
+
+0.75 
+
+3.52 
+
+.22 
+
+Trastuzumab 1 chemotherapy 
+
+97 
+
+10 (10.3) 
+
+Positive 
+
+Trastuzumab monotherapy 
+
+29 
+
+5 (17.2) 
+
+0.91 
+
+0.28 
+
+2.99 
+
+.87 
+
+Trastuzumab 1 chemotherapy 
+
+34 
+
+6 (17.6) 
+
+Positive 
+
+Trastuzumab monotherapy 
+
+62 
+
+9 (14.5) 
+
+1.19 
+
+0.44 
+
+3.19 
+
+.74 
+
+Trastuzumab 1 chemotherapy 
+
+65 
+
+7 (10.8) 
+
+Negative 
+
+Trastuzumab monotherapy 
+
+73 
+
+14 (19.2) 
+
+1.48 
+
+0.64 
+
+3.43 
+
+.36 
+
+Trastuzumab 1 chemotherapy 
+
+66 
+
+9 (13.6) 
+
+Subgroup 
+
+Treatment 
+
+Upper 
+
+Lower 
+
+P 
+
+Age group, years 70-75 
+
+76-80 
+
+Performance status 0 
+
+1 
+
+Lymph node metastasis 
+
+Hormone receptor 
+
+Journal of Clinical Oncology 
+
+7 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sawaki et al 
+
+TABLE 3. Common Adverse Events in All Patients (N 5 266) Trastuzumab 1 Chemotherapy AE Grade (n 5 131) 
+
+Trastuzumab Monotherapy AE Grade (n 5 135) 1 Adverse Event 
+
+2 
+
+3 
+
+4 
+
+No. of Patients 
+
+3 or 4 
+
+1 
+
+% 
+
+2 
+
+3 
+
+4 
+
+No. of Patients 
+
+3 or 4 % 
+
+P 
+
+Hematologic Neutrophils 
+
+6 
+
+7 
+
+0 
+
+0 
+
+0.0 
+
+7 
+
+25 
+
+9 
+
+14 
+
+17.6 
+
+, .0001 
+
+Leukocytes 
+
+15 
+
+10 
+
+0 
+
+0 
+
+0.0 
+
+21 
+
+29 
+
+12 
+
+8 
+
+15.3 
+
+, .0001 
+
+Platelets 
+
+20 
+
+0 
+
+0 
+
+0 
+
+0.0 
+
+30 
+
+1 
+
+0 
+
+1 
+
+0.8 
+
+.026 
+
+Hemoglobin 
+
+37 
+
+7 
+
+0 
+
+0 
+
+0.0 
+
+46 
+
+25 
+
+8 
+
+3 
+
+8.4 
+
+, .0001 
+
+Left ventricular systolic dysfunction: LVEF 
+
+8 
+
+3 
+
+0 
+
+0 
+
+0.0 
+
+7 
+
+2 
+
+0 
+
+0 
+
+0.0 
+
+.647 
+
+Hypertension 
+
+9 
+
+19 
+
+5 
+
+0 
+
+3.7 
+
+10 
+
+27 
+
+9 
+
+0 
+
+6.9 
+
+.043 
+
+Diarrhea 
+
+4 
+
+0 
+
+1 
+
+0 
+
+0.7 
+
+17 
+
+3 
+
+1 
+
+0 
+
+0.8 
+
+.004 
+
+Fatigue 
+
+18 
+
+7 
+
+0 
+
+1 
+
+0.7 
+
+43 
+
+19 
+
+8 
+
+1 
+
+6.9 
+
+, .0001 
+
+0.0 
+
+33 
+
+17 
+
+8 
+
+0 
+
+6.1 
+
+, .0001 
+
+35 
+
+59 
+
+NA 
+
+NA 
+
+NA 
+
+, .0001 
+
+29 
+
+9 
+
+1 
+
+0 
+
+0.8 
+
+, .0001 
+
+39 
+
+8 
+
+NA 
+
+NA 
+
+NA 
+
+, .0001 
+
+9 
+
+4 
+
+0 
+
+0 
+
+0.0 
+
+.0037 
+
+Nonhematologic 
+
+Anorexia 
+
+8 
+
+2 
+
+0 
+
+0 
+
+Alopecia 
+
+3 
+
+0 
+
+NA 
+
+NA 
+
+Oral cavity mucositis (clinical examination) 
+
+6 
+
+1 
+
+0 
+
+0 
+
+Taste alteration (dysgeusia) 
+
+5 
+
+0 
+
+NA 
+
+NA 
+
+Vomiting 
+
+0 
+
+1 
+
+0 
+
+0 
+
+NA 0.0 NA 0.0 
+
+Nausea 
+
+9 
+
+1 
+
+0 
+
+0 
+
+0.0 
+
+26 
+
+7 
+
+4 
+
+0 
+
+3.1 
+
+, .0001 
+
+Edema: limb 
+
+10 
+
+1 
+
+0 
+
+0 
+
+0.0 
+
+18 
+
+4 
+
+0 
+
+0 
+
+0.0 
+
+.026 
+
+Neuropathy: motor 
+
+1 
+
+1 
+
+2 
+
+0 
+
+1.5 
+
+2 
+
+2 
+
+1 
+
+0 
+
+0.8 
+
+.966 
+
+Neuropathy: sensory 
+
+8 
+
+1 
+
+0 
+
+0 
+
+0 
+
+30 
+
+12 
+
+4 
+
+0 
+
+3.1 
+
+, .0001 
+
+Abbreviations: AE, adverse event; LVEF, left ventricular ejection fraction, NA, not applicable. 
+
+because . 80% of patients enrolled had stage I or stage IIA disease. In view of patients’ baseline risk, it is not always possible to apply results to all HER2-positive older patients. It was assumed that enlarging the sample size to increase the number of events would have rendered the study unfeasible because of the relatively smaller proportion of HER2-positive older patients and their heterogeneity.39 We could have extended the follow-up period to detect more events, but it was assumed that non–breast cancer deaths, as well as recurrences, would accumulate in both arms over the 8 years that had passed since the ﬁrst patient was enrolled. However, a longer follow-up period is needed to shed light on patient prognosis. Second, patients aged 70-80 years still had only a modest number of comorbidities, with LVEF $ 55%; in other words, they were healthy patients with good performance. In fact, the majority of these patients received . 80% of the RDI. These healthy patients were able to tolerate standard chemotherapy with trastuzumab, which results in the best prognosis, as supported by the results of the APT trial.40 Chronological age by itself is not a stand-alone biomarker; thus, ﬁt older patients who are 
+
+deemed suitable may be offered standard treatment. To distinguish between ﬁt or vulnerable older persons, CGA may be useful.41 In this study, we selected as many patients as possible who could be treated at least with trastuzumab as monotherapy, with optional chemotherapy regimens at the physician’s discretion. We did not exclude less-ﬁt older patients but included both ﬁt and vulnerable patients. After analyzing CGA data, we hope to create predictive tools for AEs or prognosis. In the ﬁeld of geriatric oncology, the inclusion of functional end points is needed, which can aid in shared decision-making by physicians and patients.42 In older patients considered ﬁt for chemotherapy, standard treatment can be offered, but such decisions could be individualized by weighing competing risks. In conclusion, the primary objective of noninferiority for trastuzumab monotherapy was not met. However, the observed loss of survival without chemotherapy was , 1 month at 3 years. Therefore, and in light of the lower toxicity and more favorable HRQoL proﬁle, trastuzumab monotherapy can be considered an adjuvant therapy option for selected older patients. 
+
+8 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab Without Chemotherapy in HER2-Positive Older Patients 
+
+AFFILIATIONS 
+
+SUPPORT 
+
+1 
+
+Funded by the Comprehensive Support Project for Oncology Research of the Public Health Research Foundation, Japan (M.S.). 
+
+Department of Breast Oncology, Aichi Cancer Center Hospital, Nagoya, Japan 2 Department of Breast and Endocrine Surgery, Okayama University Hospital, Okayama, Japan 3 Biostatistics Section, Department of Data Science, Center for Clinical Sciences, National Center for Global Health and Medicine, Tokyo, Japan 4 Department of Surgery, Japanese Red Cross Saitama Hospital, Saitama, Japan 5 Department of Surgery, Sagara Hospital, Kagoshima, Japan 6 Department of Medical Oncology, the Cancer Institute Hospital of the Japanese Foundation for Cancer Research, Tokyo, Japan 7 Department of Surgery, Aomori City Hospital, Aomori, Japan 8 Department of Breast Surgery, Shizuoka General Hospital, Shizuoka, Japan 9 Department of Breast Surgery, Kameda Medical Center, Kamogawa, Japan 10 Department of Breast and Endocrine Surgery, Faculty of Medicine, University of Tsukuba, Tsukuba, Japan 11 Department of Breast Surgery, National Hospital Organization Hokkaido Cancer Center, Sapporo, Japan 12 Department of Breast Surgery, JCHO Kurume General Hospital, Kurume, Japan 13 Department of Breast and Endocrine Surgery, Osaka City University Graduate School of Medicine, Osaka, Japan 14 Department of Breast and Endocrine Surgery, Osaka International Cancer Institute, Osaka Japan 15 Department of Medical Oncology, Mie University Hospital, Tsu, Japan 16 Department of Breast and Endocrine Surgery, Graduate School of Medical Sciences, Kumamoto University, Kumamoto, Japan 17 Biostatistics Division, Clinical Research Support Center, The University of Tokyo Hospital, Tokyo, Japan 18 Department of Integrated Science and Engineering for Sustainable Society, Chuo University, Tokyo, Japan 19 Department of Breast and Medical Oncology, National Cancer Center Hospital East, Kashiwa, Japan 
+
+CLINICAL TRIAL INFORMATION NCT01104935 
+
+DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.20.00184. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Masataka Sawaki, Naruto Taira, Hiroko Bando, Tsutomu Takashima, Takahiro Nakayama, Masahiro Kashiwaba, Yutaka Yamamoto, Hiroji Iwata, Yasuo Ohashi Administrative support: Naruto Taira, Hirofumi Mukai Provision of study material or patients: Masataka Sawaki, Naruto Taira, Shinichi Baba, Masato Takahashi, Miki Yamaguchi, Yutaka Yamamoto, Yasuo Ohashi, Hirofumi Mukai Collection and assembly of data: Masataka Sawaki, Naruto Taira, Tsuyoshi Saito, Shinichi Baba, Kokoro Kobayashi, Hiroaki Kawashima, Noriko Sagawa, Masato Takahashi, Miki Yamaguchi, Tsutomu Takashima, Takahiro Nakayama, Masahiro Kashiwaba, Toshiro Mizuno, Yutaka Yamamoto, Hiroji Iwata, Hirofumi Mukai Data analysis and interpretation: Masataka Sawaki, Yukari Uemura, Shinichi Baba, Michiko Tsuneizumi, Hiroko Bando, Masato Takahashi, Takahiro Nakayama, Yutaka Yamamoto, Hiroji Iwata, Takuya Kawahara, Yasuo Ohashi, Hirofumi Mukai Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+ACKNOWLEDGMENT CORRESPONDING AUTHOR Masataka Sawaki, MD, PhD, Department of Breast Oncology, Aichi Cancer Center Hospital. 1-1 Kanokoden, Chikusa-ku, Nagoya 464-8681, Japan; e-mail: m-sawaki@aichi-cc.jp. 
+
+We thank the patients who participated in this trial and their families and caregivers, and all investigators involved in this study and all members of the independent data monitoring committee for their contributions to the study. 
+
+PRIOR PRESENTATION Presented in part at the ASCO Annual Meeting, Chicago, IL, June 15, 2018. 
+
+REFERENCES 1. 
+
+Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353:1673-1684, 2005 
+
+2. 
+
+Piccart-Gebhart MJ, Procter M, Leyland-Jones B, et al: Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 353: 1659-1672, 2005 
+
+3. 
+
+Smith I, Procter M, Gelber RD, et al: 2-Year follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer: A randomised controlled trial. Lancet 369:29-36, 2007 
+
+4. 
+
+Slamon D, Eiermann W, Robert N, et al: Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med 365:1273-1283, 2011 
+
+5. 
+
+Slamon DJ, Clark GM, Wong SG, et al: Human breast cancer: Correlation of relapse and survival with ampliﬁcation of the HER-2/neu oncogene. Science 235: 177-182, 1987 
+
+6. 
+
+Slamon DJ, Godolphin W, Jones LA, et al: Studies of the HER-2/neu proto-oncogene in human breast and ovarian cancer. Science 244:707-712, 1989 
+
+7. 
+
+Pinder MC, Duan Z, Goodwin JS, et al: Congestive heart failure in older women treated with adjuvant anthracycline chemotherapy for breast cancer. J Clin Oncol 25:3808-3815, 2007 
+
+8. 
+
+Du XL, Xia R, Liu CC, et al: Cardiac toxicity associated with anthracycline-containing chemotherapy in older women with breast cancer. Cancer 115:5296-5308, 2009 
+
+9. 
+
+Patt DA, Duan Z, Fang S, et al: Acute myeloid leukemia after adjuvant breast cancer therapy in older women: Understanding risk. J Clin Oncol 25:3871-3876, 2007 
+
+10. Jahanzeb M: Adjuvant trastuzumab therapy for HER2-positive breast cancer. Clin Breast Cancer 8:324-333, 2008 
+
+Journal of Clinical Oncology 
+
+9 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sawaki et al 11. Early Breast Cancer Trialists’ Collaborative Group: Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 12. World Health Organization: World Health Statistics 2017: Monitoring health for the SDGs (sustainable development goals). https://www.who.int/gho/ publications/world_health_statistics/2017/EN_WHS2017_TOC.pdf?ua51 13. Hurria A, Levit LA, Dale W, et al: Improving the evidence base for treating older adults with cancer: American Society of Clinical Oncology statement. J Clin Oncol 33:3826-3833, 2015 14. Wolff AC, Hammond ME, Schwartz JN, et al: American Society of Clinical Oncology/College of American Pathologists guideline recommendations for human epidermal growth factor receptor 2 testing in breast cancer. J Clin Oncol 25:118-45, 2007 15. Cella DF, Tulsky DS, Gray G, et al: The Functional Assessment of Cancer Therapy scale: Development and validation of the general measure. J Clin Oncol 11: 570-579, 1993 16. Cella D, Hahn EA, Dineen K: Meaningful change in cancer-speciﬁc quality of life scores: Differences between improvement and worsening. Qual Life Res 11: 207-221, 2002 17. Uno H, Claggett B, Tian L, et al: Moving beyond the hazard ratio in quantifying the between-group difference in survival analysis. J Clin Oncol 32:2380-2385, 2014 18. Uno H, Wittes J, Fu H, et al: Alternatives to hazard ratios for comparing the efﬁcacy or safety of therapies in noninferiority studies. Ann Intern Med 163:127-134, 2015 19. Horiguchi M, Tian L, Uno H, et al: Quantiﬁcation of long-term survival beneﬁt in a comparative oncology clinical study. JAMA Oncol 4:881-882, 2018 20. Cobleigh MA, Vogel CL, Tripathy D, et al: Multinational study of the efﬁcacy and safety of humanized anti-HER2 monoclonal antibody in women who have HER2overexpressing metastatic breast cancer that has progressed after chemotherapy for metastatic disease. J Clin Oncol 17:2639-2648, 1999 21. Vogel CL, Cobleigh MA, Tripathy D, et al: Efﬁcacy and safety of trastuzumab as a single agent in ﬁrst-line treatment of HER2-overexpressing metastatic breast cancer. J Clin Oncol 20:719-726, 2002 22. Inoue K, Nakagami K, Mizutani M, et al: Randomized phase III trial of trastuzumab monotherapy followed by trastuzumab plus docetaxel versus trastuzumab plus docetaxel as ﬁrst-line therapy in patients with HER2-positive metastatic breast cancer: The JO17360 Trial Group. Breast Cancer Res Treat 119:127-136, 2010 23. Gianni L, Pienkowski T, Im YH, et al: Efﬁcacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inﬂammatory, or early HER2-positive breast cancer (NeoSphere): A randomised multicentre, open-label, phase 2 trial. Lancet Oncol 13:25-32, 2012 24. Suter TM, Procter M, van Veldhuisen DJ, et al: Trastuzumab-associated cardiac adverse effects in the herceptin adjuvant trial. J Clin Oncol 25:3859-3865, 2007 25. Costa RB, Kurra G, Greenberg L, et al: Efﬁcacy and cardiac safety of adjuvant trastuzumab-based chemotherapy regimens for HER2-positive early breast cancer. Ann Oncol 21:2153-2160, 2010 26. Cardinale D, Colombo A, Torrisi R, et al: Trastuzumab-induced cardiotoxicity: Clinical and prognostic implications of troponin I evaluation. J Clin Oncol 28: 3910-3916, 2010 27. Procter M, Suter TM, de Azambuja E, et al: Longer-term assessment of trastuzumab-related cardiac adverse events in the Herceptin Adjuvant (HERA) trial. J Clin Oncol 28:3422-3428, 2010 28. Perez EA, Suman VJ, Davidson NE, et al: Cardiac safety analysis of doxorubicin and cyclophosphamide followed by paclitaxel with or without trastuzumab in the North Central Cancer Treatment Group N9831 adjuvant breast cancer trial. J Clin Oncol 26:1231-1238, 2008 29. Russell SD, Blackwell KL, Lawrence J, et al: Independent adjudication of symptomatic heart failure with the use of doxorubicin and cyclophosphamide followed by trastuzumab adjuvant therapy: A combined review of cardiac data from the National Surgical Adjuvant breast and Bowel Project B-31 and the North Central Cancer Treatment Group N9831 clinical trials. J Clin Oncol 28:3416-3421, 2010 30. Brollo J, Curigliano G, Disalvatore D, et al: Adjuvant trastuzumab in elderly with HER-2 positive breast cancer: A systematic review of randomized controlled trials. Cancer Treat Rev 39:44-50, 2013 31. Dall P, Lenzen G, Göhler T, et al: Trastuzumab in the treatment of elderly patients with early breast cancer: Results from an observational study in Germany. J Geriatr Oncol 6:462-469, 2015 32. Vaz-Luis I, Keating NL, Lin NU, et al: Duration and toxicity of adjuvant trastuzumab in older patients with early-stage breast cancer: A population-based study. J Clin Oncol 32:927-934, 2014 33. Muss HB, Berry DA, Cirrincione CT, et al: Adjuvant chemotherapy in older women with early-stage breast cancer. N Engl J Med 360:2055-2065, 2009 [Erratum: N Engl J Med 361:1714, 2009] 34. Cherny NI, Sullivan R, Dafni U, et al: A standardised, generic, validated approach to stratify the magnitude of clinical beneﬁt that can be anticipated from anticancer therapies: The European Society for Medical Oncology Magnitude of Clinical Beneﬁt Scale (ESMO-MCBS). Ann Oncol 26:1547-1573, 2015 35. Yellen SB, Cella DF, Leslie WT: Age and clinical decision making in oncology patients. J Natl Cancer Inst 86:1766-1770, 1994 36. Tolaney SM, Trippa L, Barry W, et al: TBCRC 033: A randomized phase II study of adjuvant trastuzumab emtansine (T-DM1) vs paclitaxel (T) in combination with trastuzumab (H) for stage I HER2-positive breast cancer (BC) (ATEMPT). GS1-05. San Antonio Breast Cancer Symposium; San Antonio, TX; December 1014, 2019 37. Goldvaser H, Korzets Y, Shepshelovich D, et al: Deescalating adjuvant trastuzumab in HER2-positive early-stage breast cancer: A systemic review and metaanalysis. JNCI Cancer Spectr 3:pkz033, 2019 38. Lambertini M, Campbell C, Gelber RD, et al: Dissecting the effect of hormone receptor status in patients with HER2-positive early breast cancer: Exploratory analysis from the ALTTO (BIG 2-06) randomized clinical trial. Breast Cancer Res Treat 177:103-114, 2019 39. Leonard R, Ballinger R, Cameron D, et al: Adjuvant chemotherapy in older women (ACTION) study - what did we learn from the pilot phase? Br J Cancer 105: 1260-1266, 2011 40. Tolaney SM, Barry WT, Dang CT, et al: Adjuvant paclitaxel and trastuzumab for node-negative, HER2-positive breast cancer. N Engl J Med 372:134-141, 2015 41. Mohile SG, Dale W, Somerﬁeld MR, et al: Practical assessment and management of vulnerabilities in older patients receiving chemotherapy: ASCO guideline for geriatric oncology. J Clin Oncol 36:2326-2347, 2018 42. Hurria A, Dale W, Mooney M, et al: Designing therapeutic clinical trials for older and frail adults with cancer: U13 Conference recommendations. J Clin Oncol 32: 2587-2594, 2014 
+
+n n n 
+
+10 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab Without Chemotherapy in HER2-Positive Older Patients AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Randomized Controlled Trial of Trastuzumab With or Without Chemotherapy for HER2-Positive Early Breast Cancer in Older Patients The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Yukari Uemura Honoraria: Chugai Pharma, Teijin Pharma Consulting or Advisory Role: Pﬁzer (I), Ono Pharmaceutical (I), Zeria Pharmaceutical (I), Daiichi Sankyo (I) Speakers’ Bureau: Pﬁzer Travel, Accommodations, Expenses: Pﬁzer, Chugai Pharma Hiroko Bando Honoraria: Chugai Pharmaceutical, Kyowa Hakko Kirin, Eisai, AstraZeneca, Novartis Pharma, Eli Lilly Japan, Nippon Kayaku, Pﬁzer Japan Masato Takahashi Honoraria: AstraZeneca, Eisai, Pﬁzer, Eli Lilly, Chugai, Nippon Kayaku Research Funding: Taiho Pharmaceutical (Inst), Kyowa Hakko Kirin (Inst), Eisai (Inst), Nippon Kayaku (Inst) Recipient: Your Institution Miki Yamaguchi Speakers’ Bureau: Chugai Pharma, Pﬁzer Tsutomu Takashima Honoraria: Eisai, Taiho Pharmaceutical, Chugai Pharmaceutical, Kyowa Hakko Kirin, Pﬁzer Japan, Novartis Pharma, AstraZeneca, Daiichi Sankyo Takahiro Nakayama Honoraria: Chugai Pharma, Novartis, Eli Lilly, AstraZeneca, Takeda, Taiho Pharmaceutical, Pﬁzer Masahiro Kashiwaba Speakers’ Bureau: Chugai Pharma, Kyowa Hakko Kirin, Novartis, Pﬁzer, AstraZeneca, Eisai, Asahi Kasei, Daiichi Sankyo, Taiho Pharmaceutical, Shionogi, Eli Lilly Japan 
+
+Toshiro Mizuno Honoraria: Chugai Pharma, Nippon Kayaku, Daiichi Sankyo, Ono Pharmaceutical, AstraZeneca, Pﬁzer, Eli Lilly Japan, Kyowa Hakko Kirin, Genomic Health Yutaka Yamamoto Honoraria: Chugai, AstraZeneca, Novartis, Kyowa Hakko Kirin, Eisai, Eli Lilly Japan, Pﬁzer, Takeda, Nippon Kayaku Consulting or Advisory Role: AstraZeneca, Novartis, Chugai Pharma, Eli Lilly, Pﬁzer, Daiichi Sankyo, Nippon Kayaku Research Funding: Eli Lilly, MSD Oncology, Daiichi Sankyo, Chugai Pharma, Nippon Kayaku, Taiho Pharmaceutical, Maruho Hiroji Iwata Honoraria: Chugai Pharma, AstraZeneca, Eisai, Pﬁzer, Daiichi Sankyo, Eli Lilly Japan, Novartis, Kyowa Hakko Kirin Consulting or Advisory Role: Chugai Pharma, Daiichi Sankyo, Pﬁzer, AstraZeneca, Eli Lilly Japan, Kyowa Hakko Kirin, Novartis Research Funding: MSD (Inst), AstraZeneca (Inst), Eisai (Inst), Kyowa Hakko Kirin (Inst), GlaxoSmithKline (Inst), Daiichi Sankyo (Inst), Chugai Pharma (Inst), Nihonkayaku (Inst), Eli Lilly Japan (Inst), Novartis (Inst), Bayer (Inst), Pﬁzer (Inst) Yasuo Ohashi Leadership: Statcom Stock and Other Ownership Interests: Statcom Honoraria: Chugai Pharma, Daiichi Sankyo, Sanoﬁ, Eisai, Shionogi Research Funding: Medical Member System Hirofumi Mukai Honoraria: Pﬁzer, Daiichi Sankyo, Taiho Pharmaceutical, Takeda Research Funding: Daiichi Sankyo (Inst) No other potential conﬂicts of interest were reported. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sawaki et al 
+
+APPENDIX 
+
+DDFS (probability) 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 Trastuzumab + chemotherapy 
+
+0.2 
+
+Trastuzumab monotherapy 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time Since Random Assignment (years) No. at risk: Trastuzumab + chemotherapy 
+
+131 
+
+126 
+
+121 
+
+112 
+
+64 
+
+38 
+
+19 
+
+6 
+
+Trastuzumab monotherapy 
+
+135 
+
+132 
+
+125 
+
+112 
+
+71 
+
+40 
+
+17 
+
+9 
+
+FIG A1. Kaplan-Meier estimates of distant disease–free survival (DDFS). DDFS at 3 years was 93.1% in the trastuzumab monotherapy group versus 96.8% in the trastuzumab 1 chemotherapy group (HR, 1.42; 95% CI, 0.64 to 3.17; P 5 .39). Tick marks indicate censored data. 
+
+BCSS (probability) 
+
+1.0 
+
+0.8 
+
+0.6 
+
+0.4 Trastuzumab + chemotherapy 
+
+0.2 
+
+Trastuzumab monotherapy 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time Since Random Assignment (years) No. at risk: Trastuzumab + chemotherapy 
+
+131 
+
+129 
+
+127 
+
+118 
+
+71 
+
+43 
+
+20 
+
+6 
+
+Trastuzumab monotherapy 
+
+135 
+
+135 
+
+133 
+
+120 
+
+76 
+
+45 
+
+23 
+
+9 
+
+FIG A2. Kaplan-Meier estimates of breast cancer–speciﬁc survival (BCSS). BCSS at 3 years was 99.2% in the trastuzumab monotherapy group versus 99.2% in the trastuzumab 1 chemotherapy group (HR, 0.20; 95% CI, 0.02 to 1.67; P 5 .14). Tick marks indicate censored data. 
+
+© 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Trastuzumab Without Chemotherapy in HER2-Positive Older Patients 
+
+TABLE A1. Chemotherapy Regimen Received and Relative Dose Intensity in the Trastuzumab Plus Chemotherapy Group (n 5 131) Chemotherapy No. (%) Relative Dose Regimen (n 5 131) Intensity (%) Paclitaxel 
+
+46 (35.1) 
+
+79 
+
+Docetaxel 
+
+19 (14.5) 
+
+87 
+
+AC/EC 
+
+28 (21.4) 
+
+84/97 
+
+FEC75 
+
+2 (1.5) 
+
+62 
+
+TC 
+
+4 (3.1) 
+
+78 
+
+CMF 
+
+26 (19.8) 
+
+84 
+
+TCbH 
+
+0 
+
+— 
+
+Unknown 
+
+6 (4.6) 
+
+Abbreviations: —, Regimens speciﬁed on the protocol, Initial dose; AC, doxorubicin 60 mg/m2 1 cyclophosphamide 600 mg/m2; CMF, cyclophosphamide 75-100 mg orally, methotrexate 40 mg/m2, and ﬂuorouracil 500-600 mg/m 2 ; EC, epirubicin 90 mg/m 2 1 cyclophosphamide 600 mg/m2; FEC75, ﬂuorouracil 500 mg/m2, epirubicin 75 mg/m2, and cyclophosphamide 500 mg/m2; TC, docetaxel 75 mg/m 2 1 cyclophosphamide 600 mg/m 2 ; TCbH, docetaxel 60-75 mg/m2, carboplatin area under the curve 5-6 mg/ml/min, trastuzumab loading dose 4 mg/kg, 2 mg/kg for 6 cycles. 
+
+TABLE A2. Events in Disease-Free Survival 
+
+Variable Recurrence 
+
+Trastuzumab, No. of Events (n 5 135) 
+
+Trastuzumab 1 Chemotherapy, No. of Events (n 5 131) 
+
+18 
+
+15 
+
+Ipsilateral breast 
+
+1 
+
+1 
+
+Regional lymph node 
+
+4 
+
+3 
+
+Distant 
+
+9 
+
+8 
+
+Second malignancy 
+
+9 
+
+4 
+
+7 
+
+6 
+
+Breast cancer speciﬁc 
+
+1 
+
+5 
+
+Others 
+
+6 
+
+1 
+
+Death 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 194.104.10.176 on September 16, 2020 from 194.104.010.176 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+ 

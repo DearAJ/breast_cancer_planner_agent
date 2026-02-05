@@ -1,0 +1,637 @@
+VOLUME 
+
+26 
+
+䡠 
+
+NUMBER 
+
+8 
+
+䡠 
+
+MARCH 
+
+10 
+
+2008 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Cardiac Safety Analysis of Doxorubicin and Cyclophosphamide Followed by Paclitaxel With or Without Trastuzumab in the North Central Cancer Treatment Group N9831 Adjuvant Breast Cancer Trial Edith A. Perez, Vera J. Suman, Nancy E. Davidson, George W. Sledge, Peter A. Kaufman, Clifford A. Hudis, Silvana Martino, Julie R. Gralow, Shaker R. Dakhil, James N. Ingle, Eric P. Winer, Karen A. Gelmon, Bernard J. Gersh, Allan S. Jaffe, and Richard J. Rodeheffer From the Mayo Clinic, Jacksonville, FL; Mayo Clinic, Rochester, MN; Sidney Kimmel Cancer Center at Johns Hopkins, Baltimore, MD; Indiana University Cancer Center, Indianapolis, IN; Dartmouth Hitchcock Medical Center, Lebanon, NH; Memorial SloanKettering Cancer Center, New York, NY; Cancer Institute Medical Group, Santa Monica, CA; University of Washington, Seattle, WA; Cancer Center of Kansas, Wichita, KS; Dana Farber Cancer Institute, Boston, MA; BC Cancer Agency, Vancouver, BC, Canada. Submitted July 30, 2007; accepted October 29, 2007; published online ahead of print at www.jco.org on February 4, 2008. Supported in part by a grant from the National Institutes of Health CA25224; Genentech, Inc; and The Breast Cancer Research Foundation. Presented in part at the 41st Annual Meeting of the American Society of Clinical Oncology, Orlando, FL, May 13-17, 2005; at the 28th San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-11, 2005; and at the 43rd Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, June 1-5, 2007. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Edith A. Perez, MD, Division of Hematology/Oncology, Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224; e-mail: perez.edith@mayo.edu. © 2008 by American Society of Clinical Oncology 0732-183X/08/2608-1231/$20.00 DOI: 10.1200/JCO.2007.13.5467 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose To assess cardiac safety and potential cardiac risk factors associated with trastuzumab in the NCCTG N9831 Intergroup adjuvant breast cancer trial. Patients and Methods Patients with HER2-positive operable breast cancer were randomly assigned to doxorubicin plus cyclophosphamide (AC) followed by either weekly paclitaxel (arm A); paclitaxel then trastuzumab (arm B); or paclitaxel plus trastuzumab then trastuzumab alone (arm C). Left ventricular ejection fraction (LVEF) was evaluated at registration and 3, 6, 9, and 18 to 21 months. Results Of 2,992 patients completing AC, 5.0% had LVEF decreases disallowing trastuzumab (decrease below normal: 2.4%, decrease ⬎ 15%: 2.6%). There were 1,944 patients with satisfactory or no LVEF evaluation who proceeded to post-AC therapy. Cardiac events (congestive heart failure [CHF] or cardiac death [CD]): arm A, n ⫽ 3 (2 CHF, 1 CD); arm B, n ⫽ 19 (18 CHF, 1 CD); arm C, n ⫽ 19 (all CHF); 3-year cumulative incidence: 0.3%, 2.8%, and 3.3%, respectively. Cardiac function improved in most CHF cases following trastuzumab discontinuation and cardiac medication. Factors associated with increased risk of a cardiac event in arms B and C: older age (P ⬍ .003), prior/current antihypertensive agents (P ⫽ .005), and lower registration LVEF (P ⫽ .033). Incidence of asymptomatic LVEF decreases requiring holding trastuzumab was 8% to 10%; LVEF recovered and trastuzumab was restarted in approximately 50%. Conclusion The cumulative incidence of post-AC cardiac events at 3 years was higher in the trastuzumabcontaining arms versus the control arm, but by less than 4%. Older age, lower registration LVEF, and antihypertensive medications are associated with increased risk of cardiac dysfunction in patients receiving trastuzumab following AC. J Clin Oncol 26:1231-1238. © 2008 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Approximately 20% of primary invasive breast tumors exhibit overexpression of human epidermal growth factor receptor 2 (HER-2) protein or amplification of the HER2 oncogene.1,2 HER-2–positive breast tumors have a more aggressive disease course; and are more susceptible to recurrence than HER2normal breast tumors.1,2 Doxorubicin plus cyclophosphamide (AC) is standard adjuvant therapy for early-stage breast cancer; it significantly improves disease-free and overall survival, particularly when administered sequentially with paclitaxel.3,4 Trastuzumab (Herceptin; 
+
+Genentech Inc, San Fransisco, CA) is an anti– HER-2 monoclonal antibody recently approved for the adjuvant treatment of HER-2–positive early breast cancer, in combination with paclitaxel following AC. The joint efficacy analysis of the pivotal North Central Cancer Treatment Group (NCCTG) N9831 and National Surgical Adjuvant Breast and Bowel Project (NSABP) B-31 trials demonstrated that adding trastuzumab to this chemotherapy regimen reduced disease recurrence by 52% and risk of death by 33% compared with chemotherapy alone.5 In the adjuvant setting, it is important that the benefits outweigh the risks of short-term and long-term toxicity. Trastuzumab is generally well 1231 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Perez et al 
+
+tolerated and not associated with common cytotoxic chemotherapy adverse effects; however, cardiac dysfunction (asymptomatic decreases in left ventricular ejection fraction [LVEF] and congestive heart failure [CHF]) have been observed.6-9 The primary safety objective of NCCTG N9831 was to assess the cardiac safety of AC followed by paclitaxel alone or with trastuzumab. The effects of AC on cardiac function in this trial have been published,10 and the third interim safety analysis in April 2005 showed that 2.2% to 3.3% of patients experienced a clinically significant cardiac event during the course of trastuzumab treatment.11 This report presents updated cardiac event incidence rates, potential risk factors, and follow-up of patients who experienced cardiac events after beginning post-AC treatment. 
+
+valvular disease, uncontrolled hypertension, or other cardiovascular disorders. All patients gave written, informed consent. Methods Patients were randomly assigned to one of the three treatment arms at trial entry and AC treatment began within 7 days of registration. LVEF was to be evaluated by MUGA or ECHO scan within 3 weeks before registration, 3, 6, and 9 months following registration, and 3 months after discontinuation/ completion of study treatment (18 months after registration for arms A and C, and 21 months after registration for arm B). It was recommended that patients be monitored using the same method and radiology facility throughout the study. Patients were followed up for symptoms of cardiovascular disease. Trastuzumab was not permitted for patients whose post-AC (3-month) LVEF relative to their registration LVEF had either decreased more than 15 percentage points (absolute change), irrespective of whether it fell above or below the institutional lower limit of normal (LLN), or decreased ⱕ15% points to a value below the LLN. Trastuzumab was not permitted in patients who showed symptoms related to left ventricular dysfunction, cardiac ischemia, or arrhythmia while receiving AC. During the paclitaxel plus trastuzumab or trastuzumab alone treatments, trastuzumab was withheld if LVEF decreased more than 15 percentage points, or 10 to 15 percentage points to below the LLN, relative to registration LVEF level. If the repeat LVEF at 4 weeks again met the criteria to hold trastuzumab, trastuzumab was discontinued. We did not recommend resuming trastuzumab even if the LVEF recovered to normal after that repeat evaluation at 4 weeks. Additional LVEF testing for those patients was as described in Figure 1. LVEF changes, cardiac events, and the number of patients who had trastuzumab treatment withheld or discontinued were reviewed monthly by an independent Cardiac Safety Monitoring Committee (three board-certified cardiologists [B.J.G., A.S.J., and R.J.R.], a breast oncologist [J.N.I.], the study principal investigator [E.A.P.], and the study statistician [V.J.S.]). Probable cardiac events were investigated independently by the three cardiologists; if agreement was reached between at least two cardiologists, the event was confirmed as a cardiac event. 
+
+PATIENTS AND METHODS Study Design The NCCTG N9831 Intergroup trial is a three-armed phase III randomized study. Eligible patients were randomly assigned to AC (60/600 mg/m2) followed by: paclitaxel (80 mg/m2; control arm, arm A); paclitaxel followed by trastuzumab (4 mg/kg loading dose, then 2 mg/kg for 52 weeks; sequential arm, arm B); or paclitaxel plus trastuzumab followed by trastuzumab alone (concurrent arm, arm C; Fig 1). Radiation therapy (RT) and/or hormonal therapy were given after completion of chemotherapy, when indicated. Cardiac events were defined as symptomatic CHF (confirmed by multigated acquisition scan [MUGA]/echocardiogram [ECHO] or ECG and a chest x-ray), definite cardiac death (due to CHF, myocardial infarction, or primary arrhythmia), or probable cardiac death (sudden death without documented etiology). Eligibility Women aged ⱖ18 years with primary, operable, and histologically confirmed node-positive or high-risk node-negative invasive breast cancer, with no evidence of metastases, were eligible. Tumors had to be strongly HER-2– positive (immunohistochemistry [IHC] score of 3⫹, or positive by fluorescence in situ hybridization [FISH]), and confirmed at central or reference laboratories.12 Patients could not have received more than 4 weeks of hormonal therapy or any other prior systemic therapy for breast cancer, or prior anthracycline or taxane for any malignancy. LVEF, assessed by MUGA or ECHO scan, needed to be within the institutional normal range, and patients were to have no active cardiac disease, prior myocardial infarctions, history of CHF, arrhythmia or 
+
+Randomly assigned 
+
+Time (months) 0 
+
+Statistical Analyses Point and interval estimates for the proportion of patients whose post-AC LVEF level precluded them from receiving trastuzumab were constructed using the binomial distribution. Fisher’s exact tests and logistic regression modeling were used to assess the association between patient characteristics and preclusion of trastuzumab. For patients whose post-AC LVEF met the criteria to receive trastuzumab, the cumulative incidence of cardiac events after starting post-AC treatment was estimated nonparametrically where patients were considered at risk from day 1 of cycle 5 until recurrence, second primary cancer (including 
+
+Arm A: AC (q3w x 4) 
+
+Paclitaxel (qw x 12) 
+
+Arm B: AC (q3w x 4) 
+
+Paclitaxel (qw x 12) 
+
+Trastuzumab (qw x 52) 
+
+OBS 
+
+Arm C: AC (q3w x 4) 
+
+Paclitaxel + trastuzumab (qw x 12) 
+
+Trastuzumab (qw x 40) 
+
+OBS 
+
+9 
+
+18-21 
+
+OBS 
+
+3 
+
+6 
+
+Post-AC 
+
+Radiation and/or hormonal therapy as indicated 
+
+LVEF measurement 
+
+Pre-AC 
+
+1232 
+
+Fig 1. Trial schema. AC, doxorubicin plus cyclophosphamide; q3w, every 3 weeks; qw, weekly; OBS, observation; LVEF, left ventricular ejection fraction. AC q3w x 4 followed by; qw paclitaxel x 12 (arm A); paclitaxel, followed by qw trastuzumab x 52 (arm B); or qw paclitaxel plus trastuzumab x 12, followed by qw trastuzumab alone x 40 (arm C). 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Cardiac Safety of Adjuvant Trastuzumab 
+
+contralateral breast disease), noncardiac deaths, or last follow-up. In the subset of patients randomly assigned to trastuzumab-containing regimens, log-rank tests were used to assess potential risk factors for cardiac events where time for patients who did not develop a cardiac adverse event was censored at their last follow-up date or a maximum of 3 years. Point and interval estimates of associated hazard ratios were constructed using results of fitting a univariate Cox’s model. 
+
+RESULTS 
+
+Accrual to arm C was temporarily suspended from January to September 2002 because of concerns regarding cardiotoxicity. Patients randomly assigned to arm C who were receiving AC or paclitaxel with trastuzumab at the time of suspension were allowed to receive 12 weekly doses of paclitaxel some or all in combination with trastuzumab followed by trastuzumab alone so that maximum amount of trastuzumab given (alone plus in combination) was 52 weekly doses. Following extensive internal review by an independent cardiac safety monitoring committee, the incidence of cardiac events in arm C was less than 4% higher than in arm A, and accrual to arm C resumed. A total of 3,505 patients were enrolled between May 19, 2000, and April 29, 2005; 64 were ineligible and 28 withdrew consent before receiving treatment. After the implementation of central HER-2 testing in March 2002, 284 patients were removed from study either due to lack of tissue to complete central review or because tumors were not IHC-3–positive or FISH-HER2–positive by both central and reference laboratory testing. Of the 3,129 eligible patients who began AC treatment (all arms), 68 (2.2%) completed all four cycles of AC but did not have post-AC LVEF measurement taken, and 69 (2.2%) discontinued all study treatment before completion of four cycles of AC. Reasons for discontinuing treatment included refusal (n ⫽ 42), cardiac toxicity (confirmed CHF, n ⫽ 1; grade 3 sinus bradycardia, n ⫽ 1), noncardiac toxicity (n ⫽ 6), desire for alternative treatment (n ⫽ 2), comorbid conditions (n ⫽ 4), protocol violations (n ⫽ 2), progression (n ⫽ 6) death due to cardiac arrest (n ⫽ 3), or death due to pulmonary embolism (n ⫽ 2). Among the remaining 2,992 patients, 151 (5.0%) had asymptomatic post-AC LVEF decreases from registration levels that met criteria disallowing the administration of trastuzumab treatment: post-AC LVEF level decreased more than 15% in 79 patients (2.6%), and ⱕ 15% to below the LLN in 72 patients (2.4%). Changes in post-AC LVEF levels are presented in Table 1. Univariate analysis revealed that high body mass index (BMI) (P ⫽ .185) and current or prior use of antihypertensive medication (P ⫽ .392) were not significantly associated with an increased likeli- 
+
+hood of experiencing decreases in post-AC LVEF levels that would disallow trastuzumab. Multivariate analysis indicated that the likelihood of experiencing decreases in post-AC LVEF levels that would disallow trastuzumab was lower for patients aged younger than 50 years v ⱖ 50 years (P ⫽ .047; RR ⫽ 0.71; 95% CI, .51 to .99), and lower both in patients whose registration LVEF level was ⱖ 65% (P ⫽ .004; RR ⫽ 0.48; 95% CI, .29 to .79) or 55 to 65.9% (P ⬍ .001; RR ⫽ 0.35; 95% CI, .21 to .59) v ⬍ 55% but above the LLN. Changes in LVEF in the Post-AC Treatment Phase Among Patients Not Precluded From Receiving Trastuzumab Of the 2,148 eligible patients who entered the study before April 25, 2004, and thus were not affected by treatment modifications instituted following the release of the joint efficacy analysis results in April 2005, 1944, patients began post-AC treatment either having had a post-AC LVEF level that allowed trastuzumab to be administered (n ⫽ 1876) or no LVEF evaluation (n ⫽ 68). Demographics were similar across all arms (Appendix Table A1, online only). Median age at enrollment was 49 years. Approximately 17% of patients had prior or current use of antihypertensive medication; 73% of patients received RT following paclitaxel but before progression, new primary, or CHF. Of these 1,944 patients, 1,801 were alive at the most recent time of contact; median follow-up was 3.75 years. LVEF was measured at 6, 9, and 18 to 21 months postregistration unless a cardiac event, recurrence, second primary, or death occurred before the prescribed time point. LVEF levels within 45 days of these time points were included in the analysis. Table 2 presents median value and range of LVEF for each arm at each evaluation point, and the percentage of patients whose change in LVEF met the criteria for withholding trastuzumab: 4.0 to 5.1% at evaluations where patients had not been exposed to trastuzumab (arm A, months 6, 9, and 18; arm B, month 6), 7.8% to 10.4% at evaluations during trastuzumab administration (arm B, month 9; arm C, months 6 and 9), and 5.4 to 5.8% following trastuzumab (arm B, month 21; arm C, month 18). LVEF recovered at the next evaluation and trastuzumab was restarted in approximately 50% of the patients who had trastuzumab held at these time points. Clinically Significant Cardiac Events During Post-AC Treatment Among Patients Not Precluded From Receiving Trastuzumab Of the 1,944 patients who entered the study before April 25, 2004, and began post-AC treatment with no post-AC LVEF evaluation, or 
+
+Table 1. Changes in Left Ventricular Ejection Fraction Levels Following AC Treatment in the Entire Cohort Change in Post-AC LVEF Level From Registration Level 
+
+Post-AC LVEF Level in Relation to LLN 
+
+Prohibited From Receiving Trastuzumab 
+
+Patients (N ⫽ 2,992; %) 
+
+Decrease 10% to 15% points Decrease or increase ⬍ 10% points Increase ⱖ 10% points Decrease ⬎ 15% points Decrease ⬎ 15% points Decrease 10% to 15% points Decrease ⬍ 10% points 
+
+Above Above Above Above Below Below Below 
+
+No No No Yes Yes Yes Yes 
+
+8.5 81.1 5.4 1.7 0.9 1.4 1.0 
+
+Abbreviations: AC, doxorubicin plus cyclophosphamide; LVEF, left-ventricular ejection fraction; LLN, lower limit of normal. 
+
+1233 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Perez et al 
+
+Table 2. Changes in Left Ventricular Ejection Fraction During Post-AC Therapy Registration Evaluation 
+
+6-Month Evaluation 
+
+9-Month Evaluation 
+
+Final Evaluation 
+
+664 
+
+627 10.8 
+
+595 16.5 
+
+554 (18 month) 21.5 
+
+63 50-85 
+
+61 43-87 
+
+61 40-83 
+
+61 38-78 
+
+⫺2 ⫺24-31 84.1 5.1 1.4 0.5 3.2 
+
+⫺2 ⫺25-24 79.5 4.0 1.0 0 3.0 
+
+⫺2.5 ⫺32-24 74.0 4.5 0.4 0 4.1 
+
+710 
+
+701 2.0 
+
+637 7.1 
+
+514 (21 month) 13.4 
+
+63 45-86 
+
+62 35-87 
+
+60 32-87 
+
+60 25-82 
+
+⫺2 ⫺27-22 94.0 4.0 1.9 1.7 0.4 
+
+⫺4 ⫺29-17 85.1 7.8 3.0 3.3 1.5 
+
+⫺3 ⫺27-23 81.1 5.4 0.4 0.2 4.8 
+
+570 
+
+546 3.3 
+
+469 6.8 
+
+400 (18 month) 8.5 
+
+63 50-87 
+
+60 30-82 
+
+60 30-86 
+
+60 42-91 
+
+⫺4 ⫺34-18 86.3 10.4 5.1 3.8 1.5 
+
+⫺4 ⫺32-17 83.8 9.4 4.9 2.8 1.7 
+
+⫺3 ⫺27-27 87.7 5.8 0.3 0.5 5.0 
+
+Arm A No. of patients Patients not evaluated, % LVEF level, % Median Range Absolute LVEF change from registration level, % Median Range Patients with satisfactory LVEF, % Patients with LVEF decrease requiring re-evaluation, % Recovered at re-evaluation, % Did not recover at re-evaluation, % Not re-evaluated, % Arm B No. of patients Patients not evaluated, % LVEF level, % Median Range Absolute LVEF change from registration level, % Median Range Patients with satisfactory LVEF, % Patients with LVEF decrease requiring re-evaluation, % Recovered at re-evaluation, % Did not recover at re-evaluation, % Not re-evaluated, % Arm C No. of patients Patients not evaluated, % LVEF level, % Median Range Absolute LVEF change from registration level, % Median Range Patients with satisfactory LVEF, % Patients with LVEF decrease requiring re-evaluation, % Recovered at re-evaluation, % Did not recover at re-evaluation, % Not re-evaluated, % Abbreviation: LVEF, left ventricular ejection fraction. 
+
+their post-AC LVEF level had not met the criteria disallowing trastuzumab, 39 had confirmed CHF (arm A, n ⫽ 2; arm B, n ⫽ 18; arm C, n ⫽ 19). Two other patients died of cardiac causes: complications related to vascular surgery (arm A, n ⫽ 1) and cardiac arrest of unclear etiology (arm B, n ⫽ 1). One patient died of unknown causes (arm B, n ⫽ 1). The 1-year cumulative incidence rate for cardiac events was 0.0% in arm A, 1.6% in arm B, and 3.3% in arm C. The 2-year cumulative incidence rates were 0.2% in arm A, 2.7% in arm B, and 3.3% in arm C, and corresponding 3-year cumulative incidence rates were 0.3%, 2.8%, and 3.3%, respectively (Fig 2). LVEF levels at registration, at time of CHF diagnosis, and at time of the most recent LVEF evaluation for the 39 patients who developed CHF are shown in Figure 3. All 39 patients with CHF had had a 1234 
+
+satisfactory post-AC LVEF level. They discontinued trastuzumab at time of CHF diagnosis, and the majority received cardiac medication, including diuretics, beta-blockers, and antiarrhythmic agents. Improvements in cardiac function were observed in the majority of patients. Six of these 39 patients have subsequently died due to metastatic disease (arm B, n ⫽ 1; arm C, n ⫽ 3), second primary (arm B, n ⫽ 1), and complications during left ventricular assist device surgery (arm C, n ⫽ 1). Risk Factors for Cardiac Events Among Patients Randomly Assigned to Trastuzumab-Containing Regimens RT was initiated within 5 weeks of completion of paclitaxel, as indicated. Of the 37 patients randomly assigned to a trastuzumabcontaining regimen who developed CHF, 13 did not receive RT, nine JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Cardiac Safety of Adjuvant Trastuzumab 
+
+80 70 
+
+3.3% 2.8% 
+
+3 2 
+
+60 
+
+LVEF (%) 
+
+4 
+
+A 
+
+Arm A (AC¶T), n = 664 Arm B (AC¶T¶H), n = 710 Arm C (AC¶TH), n = 570 
+
+50 40 30 20 10 
+
+1 0 
+
+0.3% 
+
+0 
+
+1 
+
+2 
+
+Time Since Start of Post-AC Treatment (years) Time since start of post-AC treatment (years) 0.5 1 2 3 
+
+B 
+
+70 
+
+Arm B (n = 710) 0.8% 1.6% 2.7% 2.8% 
+
+60 
+
+Arm C (n = 570) 2.5% 3.3% 3.3% 3.3% 
+
+400 
+
+600 
+
+800 
+
+1,000 
+
+1,200 
+
+80 
+
+Cumulative incidence of cardiac events Arm A (n = 664) 0% 0% 0.2% 0.3% 
+
+200 
+
+Time Since Start of Post-AC Treatment (days) 
+
+3 
+
+LVEF (%) 
+
+Cumulative Incidence of Cardiac Events (%) 
+
+5 
+
+50 40 30 20 10 
+
+Fig 2. Cumulative incidence of cardiac events. AC, doxorubicin plus cyclophosphamide; T, paclitaxel; H, trastuzumab. 
+
+0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1,000 
+
+1,200 
+
+Time Since Start of Post-AC Treatment (days) 
+
+C 
+
+80 70 60 
+
+LVEF (%) 
+
+received RT after CHF was diagnosed, two had CHF during RT, and 13 developed CHF after completion of RT (right-sided postmastectomy [n ⫽ 4]; right-sided post– breast sparing [n ⫽ 3]; left-sided postmastectomy [n ⫽ 2]; left-sided post– breast sparing [n ⫽ 4]). Univariate factors associated with an increased risk of a cardiac event within 3 years of starting post-AC treatment with a trastuzumab-containing regimen included age ⱖ 60 years (P ⫽ .003), prior/current use of antihypertensive medication (P ⫽ .005), and registration LVEF less than 55% but above LLN (P ⫽ .033; Table 3). BMI (P ⫽ .161) and post-AC LVEF level (P ⫽ .134) were nonsignificant risk factors. The cumulative incidence of cardiac events in relation to demographics and registration and post-AC LVEF levels is presented in Table 4. 
+
+50 40 30 20 10 0 
+
+200 
+
+400 
+
+600 
+
+800 
+
+1,000 
+
+1,200 
+
+Time Since Start of Post-AC Treatment (days) Fig 3. Recovery of cardiac function in patients with congestive heart failure. (A) arm A (n ⫽ 2); (B) arm B (n ⫽ 18); (C) arm C (n ⫽ 19); LVEF, left ventricular ejection fraction; AC, doxorubicin plus cyclophosphamide. 
+
+DISCUSSION 
+
+A higher proportion of patients in the trastuzumab-containing arms developed a cardiac event. This was less than 4% above that of the non–trastuzumab-containing regimen (3-year cumulative incidences were 2.8% and 3.3% v 0.3% for arms B, C, and A, respectively). In the NSABP B-31 trial, patients received similar concurrent paclitaxel and trastuzumab after AC schedule as patients in arm C of NCCTG N9831. The 3-year cumulative incidences of cardiac events in the B-31 trial were 4.1% and 0.8% (a differential of 3.3% between arms) for the concurrent paclitaxel/trastuzumab and chemotherapy alone arms, respectively.13 In NCCTG N9831, the cardiac function of the majority of patients experiencing CHF improved after receiving standard medical treatment. Similarly, of the patients who developed New York Heart Association (NYHA) Class III or IV CHF in the NSABP B-31 trial, 95% in the trastuzumab arm were without symptoms of cardiac dysfunction at least 6 months after CHF diagnosis.11 
+
+Doxorubicin can induce cardiotoxicity, particularly at cumulative doses more than 300 mg/m2.14,15 Recent studies suggest that anthracycline- and trastuzumab-related cardiomyopathy differ.16-18 Anthracycline-associated cardiac dysfunction is dose-related and appears to cause permanent myocardial damage, whereas trastuzumabassociated cardiac dysfunction is typically reversible, not dose-related, and does not appear to produce the typical anthracycline-related morphological changes.16, 17 One study showed that trastuzumab can often be continued or restarted in patients who develop cardiac dysfunction with no subsequent cardiac events.18 Concurrent or sequential treatment is often a subject of debate in breast cancer. N9831 allowed the evaluation of trastuzumab given in combination with or following paclitaxel therapy. A slightly higher 3-year cumulative incidence of cardiac events was observed when paclitaxel and trastuzumab were given concurrently (3.3%) compared with sequential treatment (2.8%). The efficacy of sequential and concurrent treatment regimens 1235 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Perez et al 
+
+Table 3. Risk Factors for a Cardiac Event After Completion of AC in Patients in Arms B and C 
+
+Characteristic Age, years ⱖ 60 50-59 ⬍ 50 BMI at registration ⱕ 24.9 25.0-29.9 ⱖ 30.0 Current or prior antihypertensive medications Yes No LVEF at registration, % ⱖ 65 55-64.9 Above LLN but ⬍ 55% Post-AC LVEF, % ⱖ 65 55-64.9 Above LLN but ⬍ 55% 
+
+Cardiac Events 
+
+No. of Patients 
+
+No. 
+
+% 
+
+212 397 671 
+
+14 11 14 
+
+439 364 477 
+
+Univariate Hazard Ratio 
+
+Log-Rank P 
+
+Hazard Ratio 
+
+95% CI 
+
+6.6 2.8 2.1 
+
+.003 
+
+3.2 1.3 
+
+1.55 to 6.81 0.60 to 2.93 
+
+8 12 19 
+
+1.8 3.3 4.0 
+
+.161 
+
+216 1,063 
+
+13 26 
+
+6.0 2.4 
+
+575 615 90 
+
+10 24 5 
+
+1.7 3.9 5.6 
+
+.033 
+
+565 612 90 
+
+10 24 5 
+
+1.8 3.9 5.6 
+
+.134 
+
+Reference 
+
+.005 
+
+2.5 
+
+1.29 to 4.87 Reference 
+
+0.31 0.70 
+
+0.11 to 0.90 0.27 to 1.84 Reference 
+
+Abbreviations: AC, doxorubicin plus cyclophosphamide; BMI, body mass index; LVEF, left ventricular ejection fraction; LLN, lower limit of normal. 
+
+of trastuzumab therapy compared with observation, at a median follow-up of 2 years.20 The incidence (after 2 years follow-up) of severe cardiacevents(NYHAClassIIIorIVCHF;notincludingcardiacdeath)in the 1-year trastuzumab arm was 0.6% compared with 0.0% in the observation arm; incidence of symptomatic CHF was 2.0% in the trastuzumab v 0.1% in the observation arm.20 After 2 years follow-up in NCCTG N9831, the incidence of cardiac events in arm B (sequential arm) was 2.7% v 0.2% in arm A (control arm). 
+
+in NCCTG N9831 demonstrates a trend towards improved diseasefree survival for the concurrent approach, but further follow-up is necessary before firm conclusions can be reached.19 The HERceptin Adjuvant (HERA) trial compares 1 or 2 years of trastuzumab after surgery, RT, and neoadjuvant or adjuvant chemotherapy versus observation in patients with HER-2—positive early breast cancer and adequate cardiac function.20 A significant reduction in disease recurrence and improvement in overall survival was observed with 1 year 
+
+Table 4. Cumulative Incidence Rates (with corresponding 95% CIs) of Cardiac Events in Relation to Demographics and Left Ventricular Ejection Fraction Levels Arm B 1 Year Characteristic Age, years ⬍ 50 ⱖ 50 BMI Underweight/normal Overweight Obese Antihypertensive medications Yes No LVEF at registration ⬍ 55% 55-59% ⱖ 60% Post-AC LVEF ⬍ 55% 55-59% ⱖ 60% 
+
+Arm C 
+
+2 Year 
+
+3 Year 
+
+1 Year 
+
+2 Year 
+
+3 Year 
+
+IR 
+
+95% CI 
+
+IR 
+
+95% CI 
+
+IR 
+
+95% CI 
+
+IR 
+
+95% CI 
+
+IR 
+
+95% CI 
+
+IR 
+
+95% CI 
+
+1.1 2.1 
+
+0.4 to 2.8 1.0 to 4.4 
+
+2.4 3.0 
+
+1.3 to 4.6 1.6 to 5.6 
+
+2.4 3.3 
+
+1.3 to 4.6 1.9 to 6.0 
+
+1.7 5.1 
+
+0.7 to 4.1 3.0 to 8.4 
+
+1.7 5.1 
+
+0.7 to 4.1 3.0 to 8.4 
+
+1.7 5.1 
+
+0.7 to 4.1 3.0 to 8.4 
+
+0 1.5 3.1 
+
+0.5 to 4.6 1.6 to 6.1 
+
+0.8 2.5 4.6 
+
+0.2 to 3.2 1.1 to 6.0 2.7 to 8.1 
+
+0.8 2.5 5.1 
+
+0.2 to 3.2 1.1 to 6.0 3.0 to 8.6 
+
+3.2 4.3 2.8 
+
+1.4 to 7.0 2.1 to 8.9 1.2 to 6.1 
+
+3.2 4.3 2.8 
+
+1.4 to 7.0 2.1 to 8.9 1.2 to 6.1 
+
+3.2 4.3 2.8 
+
+1.4 to 7.0 2.1 to 8.9 1.2 to 6.1 
+
+2.6 1.3 
+
+0.9 to 8.1 0.7 to 2.7 
+
+5.3 2.2 
+
+2.4 to 11.5 1.3 to 3.8 
+
+5.3 2.4 
+
+2.4 to 11.5 1.4 to 4.0 
+
+6.9 2.6 
+
+3.3 to 14.1 1.5 to 4.5 
+
+6.9 2.6 
+
+3.3 to 14.1 1.5 to 4.5 
+
+6.9 2.6 
+
+3.3 to 14.1 1.5 to 4.5 
+
+2.2 1.3 1.6 
+
+0.3 to 15.8 0.3 to 5.3 0.8 to 3.1 
+
+4.5 2.0 2.7 
+
+1.1 to 17.7 0.7 to 6.2 1.6 to 4.6 
+
+4.5 2.0 2.9 
+
+1.1 to 17.7 0.7 to 6.2 1.8 to 4.8 
+
+6.7 5.4 2.4 
+
+2.2 to 20.1 2.5 to 11.7 1.3 to 4.5 
+
+6.7 5.4 2.4 
+
+2.2 to 20.1 2.5 to 11.7 1.3 to 4.5 
+
+6.7 5.4 2.4 
+
+2.2 to 20.1 2.5 to 11.7 1.3 to 4.5 
+
+1.3 2.8 1.2 
+
+0.2 to 9.5 1.1 to 7.3 0.6 to 2.8 
+
+2.7 2.8 2.7 
+
+0.7 to 10.6 1.1 to 7.3 1.6 to 4.6 
+
+2.7 2.8 2.9 
+
+0.7 to 10.6 1.1 to 7.3 1.7 to 4.9 
+
+3.0 5.8 2.5 
+
+0.8 to 12.0 2.9 to 11.3 1.3 to 4.8 
+
+3.0 5.8 2.5 
+
+0.8 to 12.0 2.9 to 11.3 1.3 to 4.8 
+
+3.0 5.8 2.5 
+
+0.8 to 12.0 2.9 to 11.3 1.3 to 4.8 
+
+Abbreviation: IR, incidence rates; AC, doxorubicin plus cyclophosphamide; LVEF, left ventricular ejection fraction. 
+
+1236 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Cardiac Safety of Adjuvant Trastuzumab 
+
+The Breast Cancer International Research Group (BCIRG) 006 trial is comparing standard AC followed by docetaxel, alone or plus trastuzumab, versus carboplatin plus docetaxel plus trastuzumab (TCH). Results from the second interim analysis (median follow-up, 36 months) demonstrated that both trastuzumab-containing regimens significantly improved clinical outcomes compared with chemotherapy alone.21 The incidences of grade 3/4 (symptomatic) CHF were 1.9%, 0.4%, and 0.4% in the AC followed by docetaxel/trastuzumab, TCH, and AC/docetaxel arms, respectively; significantly different between the AC followed by docetaxel/trastuzumab arm and TCH arm (P ⫽ .0015)21 Direct comparisons between the BCIRG 006 trial and the NCCTG N9831 and NSABP B-31 trials are difficult due to differences in the time points for analysis, eligibility criteria, and definition of a cardiac event. The BCIRG 006 trial includes patients aged ⱕ 70 years only, whereas the NCCTG N9831 and NSABP B-31 trials have no upper age limit. Approximately 15% of patients in the NCCTG N9831 trial were aged ⱖ 60 years, and an association between increasing age and risk of cardiac toxicity was observed. Increased age (ⱖ 60 years) was also found to be a risk factor in NSABP B-31 trial.13 The proportion of patients aged older than 60 years and analysis of the association between demographics and cardiac toxicity have not been reported in the BCIRG 006 trial. As in NSABP B-31, a possible link between antihypertensive medications and risk of cardiac dysfunction was found. However, in contrast to B-31, post-AC LVEF levels that had not fallen more than 15% points or below LLN were not associated with an increased risk of cardiac dysfunction. RT was not correlated with increased risk of cardiac toxicity in either trial.13,22 A prospective substudy of the NCCTG N9831 trial evaluating eight circulating markers associated with cardiac injury is ongoing. The improved efficacy and acceptable cardiac safety observed when trastuzumab is added to adjuvant chemotherapy suggest that trastuzumab contributes a significant therapeutic advantage.5,19-21 It is important to accurately assess a patient’s cardiac function before, during, and after trastuzumab-based treatment. The development of cardiac monitoring guidelines will enable oncologists to identify patients who would derive the maximum benefit from trastuzumabbased therapy while minimizing risk of cardiac complications.23 Longer-term follow-up is required to determine the full effect of adverse cardiac events. Future analysis of patients who experienced cardiac dysfunction in this trial may reveal new prognostic or predictive indicators of cardiac dysfunction to aid treatment selection for patients with HER-2–positive early breast cancer. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject 
+
+REFERENCES 1. Slamon DJ, Clark GM, Wong SG, et al: Human breast cancer: Correlation of relapse and survival with amplification of the HER2/neu oncogene. Science 235:177-182, 1987 2. Slamon DJ, Godolphin W, Jones LA, et al: Studies of the HER2/neu proto-oncogene in human breast and ovarian cancer. Science 244:707-712, 1989 
+
+matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Edith A. Perez, Genentech (U), GlaxoSmithKline (U), Sanofi-aventis (U), Novartis (U), Bristol-Myers Squibb Co (U); George W. Sledge, Genentech (C); Peter A. Kaufman, Genentech (C); Clifford A. Hudis, Genentech (C); James N. Ingle, Novartis (C), AstraZeneca (C), Pfizer Inc (C); Eric P. Winer, Genetech (U), GlaxoSmithKline (U); Karen A. Gelmon, Roche (C); Allan S. Jaffe, Dade Behring, Beckman Coulter, Ortho Biotech (C), Pfizer, GlaxoSmithKline, Liposcience (C), Bayer, Critical Diagnostics (C); Richard J. Rodeheffer, GlaxoSmithKline (C), BN ImmunoTherapeutics (C) Stock Ownership: None Honoraria: Edith A. Perez, Eli Lilly, Roche; Peter A. Kaufman, Genentech; Clifford A. Hudis, Genentech; James N. Ingle, Novartis, AstraZeneca; Eric P. Winer, Genentech, GlaxoSmithKline; Karen A. Gelmon, Roche Research Funding: Edith A. Perez, Genentech, GlaxoSmithKline, Roche; Peter A. Kaufman, Genentech; Clifford A. Hudis, Genentech; Julie R. Gralow, Genentech, Bristol-Myers Squibb Co, Roche; Eric P. Winer, Genentech, GlaxoSmithKline; Karen A. Gelmon, Roche, Genentech; Allan S. Jaffe, Dade Behring, Beckman Coulter, Ortho Biotech Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Edith A. Perez, Vera J. Suman, Nancy E. Davidson, George W. Sledge, Silvana Martino, Eric P. Winer, Allan S. Jaffe Provision of study materials or patients: Edith A. Perez, Nancy E. Davidson, Peter A. Kaufman, Silvana Martino, Shaker R. Dakhil, James N. Ingle, Eric P. Winer Collection and assembly of data: Edith A. Perez, Vera J. Suman, Clifford A. Hudis, Shaker R. Dakhil, Eric P. Winer, Allan S. Jaffe, Richard J. Rodeheffer Data analysis and interpretation: Edith A. Perez, Vera J. Suman, Nancy E. Davidson, George W. Sledge, Peter A. Kaufman, Clifford A. Hudis, Silvana Martino, Julie R. Gralow, James N. Ingle, Eric P. Winer, Bernard J. Gersh, Allan S. Jaffe, Richard J. Rodeheffer Manuscript writing: Edith A. Perez, Vera J. Suman, George W. Sledge, Peter A. Kaufman, Clifford A. Hudis, James N. Ingle, Eric P. Winer, Karen A. Gelmon, Bernard J. Gersh, Allan S. Jaffe, Richard J. Rodeheffer Final approval of manuscript: Edith A. Perez, Vera J. Suman, Nancy E. Davidson, George W. Sledge, Peter A. Kaufman, Clifford A. Hudis, Silvana Martino, Julie R. Gralow, Shaker R. Dakhil, James N. Ingle, Eric P. Winer, Karen A. Gelmon, Bernard J. Gersh, Allan S. Jaffe 
+
+3. Early Breast Cancer Trialists’ Collaborative Group: Polychemotherapy for early breast cancer: An overview of the randomized trials. Lancet 352: 930-942, 1998 4. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 
+
+5. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 6. Slamon DJ, Leyland-Jones B, Shak S, et al: Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 344:783-792, 2001 7. Seidman A, Hudis C, Pierri MK, et al: Cardiac dysfunction in the trastuzumab clini1237 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Perez et al 
+
+cal trials experience. J Clin Oncol 20:1215-1221, 2002 8. Seidman AD, Fornier MN, Esteva FJ, et al: Weekly trastuzumab and paclitaxel therapy for metastatic breast cancer with analysis of efficacy by HER2 immunotherapy and gene amplification. J Clin Oncol 19:2587-2595, 2001 9. Keefe DL: Trastuzumab-associated cardiotoxicity. Cancer 95:1592-1600, 2002 10. Perez EA, Suman VJ, Davidson NE, et al: Effect of doxorubicin plus cyclophosphamide on left ventricular ejection fraction in patients with breast cancer in the NCCTG N9831 Intergroup adjuvant trial. J Clin Oncol 22:3700-3704, 2004 11. Perez EA, Suman VJ, Davidson NE, et al: Interim cardiac analysis of NCCTG N9831 Intergroup adjuvant trastuzumab trial. Proc Am Soc Clin Oncol 23:17s, 2005 (suppl abstr 556) 12. Perez EA, Suman VJ, Davidson NE, et al: HER2 testing by local, central and reference laboratories in specimens from the North Central Cancer Treatment Group N9831 Intergroup adjuvant trial. J Clin Oncol 24:3032-3038, 2006 13. Tan-Chiu E, Yothers G, Romond E, et al: Assessment of cardiac dysfunction in a randomized trial comparing doxorubicin and cyclophosphamide 
+
+followed by paclitaxel, with or without trastuzumab as adjuvant therapy in node-positive, human epidermal growth factor receptor 2-overexpressing breast cancer: NSABP B-31. J Clin Oncol 23:7811-7819, 2005 14. Von Hoff DD, Layard MW, Basa P, et al: Risk factors for doxorubicin-induced congestive heart failure. Ann Intern Med 91:710-717, 1979 15. Buzdar AU, Marcus C, Smith TL, et al: Early and delayed clinical cardiotoxicity of doxorubicin. Cancer 55:2761-2765, 1985 16. Valero V, Gill E, Paton V, et al: Normal cardiac biopsy results following co-administration of doxorubicin (A), cyclophosphamide (C) and trastuzumab (H) to women with HER2 positive metastatic breast cancer. Proc Am Soc Clin Oncol 23:20, 2004 17. Ewer MS, Lippman SM: Type II chemotherapy-related cardiac dysfunction: Time to recognize a new entity. J Clin Oncol 23:2900-2902, 2005 18. Ewer MS, Vooletich MT, Durand JB, et al: Reversibility of trastuzumab-related cardiotoxicity: New insights based on clinical course and response to medical treatment. J Clin Oncol 23:7820-7826, 2005 19. Perez EA, Suman VJ, Davidson N, et al: NCCTG N9831: May 2005 update. Presented at the 
+
+41st Annual meeting of the American Society of Clinical Oncology, Orlando, FL, May 13-17, 2005 20. Smith IE, Procter M, Gelber RD, et al: 2-year follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer: A randomized controlled trial. Lancet 269:29-36, 2007 21. Slamon D, Eiermann W, Robert N, et al: BCIRG 006: 2nd interim analysis phase III randomized trial comparing doxorubicin and cyclophosphamide followed by docetaxel (ACT) with doxorubicin and cyclophosphamide followed by docetaxel and trastuzumab ACTH) with docetaxel, carboplatin and trastuzumab (TCH) in HER2neu positive early breast cancer patients. 29th Annual San Antonio Breast Cancer Symposium, San Antonio, Texas, December 14-17, 2006 (abstr 52) 22. Halyard MY, Pisansky TM, Solin LJ, et al: Adjuvant radiotherapy and trastuzumab in stage I – IIA breast cancer: Toxicity data from North Central Cancer Treatment Group Phase III trial N9831. Proc Am Soc Clin Oncol 24:8s, 2006 (suppl abstr 523) 23. Ewer MS, Perez EA, Baselga J, et al: Cardiac safety guidelines for the adjuvant use of trastuzumab (Herceptin) in HER2-positive early breast cancer. Breast 10:S63, 2007 (suppl 1, abstr) 
+
+■ ■ ■ 
+
+Acknowledgment We thank Frances Palmieri, RN, OCN, MSN, for her assistance and review of this manuscript; and Genentech Inc, for providing support for third party editorial assistance for this manuscript. Appendix The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). 
+
+1238 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2008 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+ 

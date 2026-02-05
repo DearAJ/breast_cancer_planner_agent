@@ -1,0 +1,913 @@
+VOLUME 
+
+35 
+
+• 
+
+NUMBER 
+
+23 
+
+• 
+
+AUGUST 
+
+10, 
+
+2017 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Anthracyclines in Early Breast Cancer: The ABC Trials—USOR 06-090, NSABP B-46-I/USOR 07132, and NSABP B-49 (NRG Oncology) Joanne L. Blum, Patrick J. Flynn, Greg Yothers, Lina Asmar, Charles E. Geyer Jr, Samuel A. Jacobs, Nicholas J. Robert, Judith O. Hopkins, Joyce A. O’Shaughnessy, Chau T. Dang, Henry Leonidas Gómez, Louis Fehrenbacher, Svetislava J. Vukelja, Alan P. Lyss, Devchand Paul, Adam M. Brufsky, Jong-Hyeon Jeong, Linda H. Colangelo, Sandra M. Swain, Eleftherios P. Mamounas, Stephen E. Jones, and Norman Wolmark Author afﬁliations and support information (if applicable) appear at the end of this article. Published at jco.org on April 11, 2017. Clinical trial information: USOR 06-090, NCT00493870; NSABP B-46-I/USOR 07132, NCT00887536; NSABP B-49, NCT01547741. Corresponding author: Joanne L. Blum, MD, PhD, Texas A&M Health Science Center College of Medicine, Hereditary Cancer Risk Program, Baylor University Medical Center, Texas Oncology, 3410 Worth St, Suite 400, Dallas, TX 75246; e-mail: joanne.blum@usoncology.com. © 2017 by American Society of Clinical Oncology 0732-183X/17/3523w-2647w/$20.00 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Docetaxel and cyclophosphamide (TC) was superior to doxorubicin and cyclophosphamide (AC) in a trial in early breast cancer. However, activity of TC relative to AC regimens with a taxane (TaxAC) is unknown. Methods In a series of three adjuvant trials, women were randomly assigned to TC for six cycles (TC6) or to a standard TaxAC regimen. US Oncology Research (USOR) 06-090 compared TC6 with docetaxel, doxorubicin, and cyclophosphamide (TAC6). National Surgical Adjuvant Breast and Bowel Project (NSABP) B-46-I/USOR 07132 compared TC6, TAC6, or TC6 plus bevacizumab. NSABP B-49 compared TC6 with several standard AC and taxane combination regimens. Before any analysis of individual trials, a joint efﬁcacy analysis of TC versus the TaxAC regimens was planned, with invasive disease-free survival (IDFS) as the primary end point. Patients who received TC6 plus bevacizumab on NSABP B-46-I/USOR 07132 were not included. A hazard ratio (HR) from a stratiﬁed Cox model that exceeded 1.18 for TC6 versus TaxAC was predeﬁned as inferiority for TC6. The prespeciﬁed interim monitoring plan was to report for futility if the HR was . 1.18 when 334 IDFS events were observed (50% of 668 events required for deﬁnitive analysis). Results A total of 2,125 patients were randomly assigned to receive TC6 regimens and 2,117 patients were randomly assigned to receive TaxAC regimens. The median follow-up time was 3.3 years. There were 334 IDFS events, and the HR for TC6 versus TaxAC was 1.202 (95% CI, 0.97 to 1.49), which triggered early reporting for futility. The 4-year IDFS was 88.2% for TC6 and was 90.7% for TaxAC (P = .04). Tests for treatment interaction by protocol, hormone receptor status, and nodal status were negative. Conclusion The TaxAC regimens improved IDFS in patients with high-risk human epidermal growth factor receptor 2–negative breast cancer compared with the TC6 regimen. J Clin Oncol 35:2647-2655. © 2017 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+ASSOCIATED CONTENT See accompanying Oncology Grand Rounds on page 2600 Data Supplements DOI: https://doi.org/10.1200/JCO. 2016.71.4147 DOI: https://doi.org/10.1200/JCO.2016. 71.4147 
+
+Adjuvant chemotherapy substantially reduces the risk of breast cancer recurrences and death in early-stage breast cancer. A 15-year meta-analysis conducted by the Early Breast Cancer Trialists’ Collaborative Group of long-term outcomes among 100,000 women treated in 123 randomized trials to evaluate polychemotherapy demonstrated a 10-year breast cancer mortality 
+
+reduction by one third with chemotherapy regimens that used an anthracycline, a taxane, and an alkylator compared with no chemotherapy.1 These triple-combination regimens were developed in two generations of trials, which improved the beneﬁts noted in the landmark studies of alkylator-based chemotherapy.2-10 Firstgeneration studies evaluated the addition of anthracyclines and demonstrated that, although 10-year mortality was not reduced with four cycles of anthracycline plus cyclophosphamide © 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2647 
+
+Blum et al 
+
+regimens relative to cyclophosphamide, methotrexate, and ﬂuorouracil (relative risk [RR], 0.99; 95% CI, 0.90 to 1.08), combinations that used higher cumulative doses of anthracyclines were more effective (RR, 0.80; 95% CI, 0.72 to 0.93). Second-generation studies evaluated the incorporation of taxanes into anthracyclinebased regimens, which further improved 8-year mortality (RR, 0.86; 95% CI, 0.79 to 0.93).1 Unfortunately, cardiac mortality was increased with anthracycline regimens (RR, 1.56; SE, 0.24; 2P = .02), which are also associated with increased risk for myelodysplastic syndromes and treatment-related leukemia.1,4 Because anthracyclines and taxanes were developed sequentially, it has been a challenge to evaluate deescalation of the regimens doxorubicin and cyclophosphamide with a taxane (TaxAC). However, a study of 1,016 women conducted by US Oncology Research (USOR) compared four cycles of doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2 administered every 3 weeks (AC) with four cycles of docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 administered every 3 weeks (TC). With a median follow-up time of 7 years, overall survival (OS) was superior for TC relative to AC (hazard ratio [HR], 0.69; 95% CI, 0.50 to 0.97; P = .032).11,12 These results established TC as an effective nonanthracycline regimen appropriate for comparison with TaxAC regimens.13 Subsequent collaborative efforts between USOR and the National Surgical Adjuvant Breast and Bowel Project (NSABP), in partnership with three separate sponsors, resulted in a series of three sequential trials, each of which randomly assigned women with early breast cancer to receive TC for six cycles (TC6) or one of several standard TaxAC regimens. As each of the ﬁrst two trials closed to accrual and the subsequent trial was activated, agreements were reached with the sponsors to allow efﬁcacy data from the preceding trial(s) to be combined prospectively with efﬁcacy data from the subsequent trial(s). The statistical plans of the second and third trials were written to incorporate, monitor, and analyze the efﬁcacy data from the preceding trial(s) in a joint analysis. Toxicity data continued to be collected and evaluated as speciﬁed in each original protocol. The efﬁcacy data from the individual trials were never analyzed before they were combined and were only analyzed with the efﬁcacy data from the other trials. The three trials are collectively referred to as the anthracyclines in early breast cancer (ABC) trials. The primary aim of the ABC trials was to determine if TC6 was noninferior to the TaxAC regimens. This report describes the efﬁcacy analysis of these trials conducted after the prespeciﬁed futility boundary for demonstration of noninferiority of TC6 was crossed at the planned interim analysis. 
+
+METHODS The ABC trials are a prospectively planned, joint efﬁcacy analysis of three sequentially conducted, open-label, randomized, phase III trials in which 4,242 women with human epidermal growth factor receptor 2 (HER2)– negative breast cancer were enrolled after excision of the primary cancer and surgical evaluation of the axillary nodes. Patients were randomly assigned to receive TC for six cycles (TC6) or one of several triple-drug regimens that consisted of cyclophosphamide, doxorubicin, and a taxane, most often docetaxel (TaxAC). The initial trial conducted by USOR and supported by Sanoﬁ (USOR 06-090) opened May 29, 2007, and included women with node-positive and high risk node-negative disease who were 2648 
+
+© 2017 by American Society of Clinical Oncology 
+
+randomly assigned to receive docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 every 21 days for six cycles (TC6) or docetaxel, doxorubicin, and cyclophosphamide (75 mg/m2, 50 mg/m2, and 500 mg/m2, respectively) every 21 days for six cycles (TAC6). Designed as a superiority trial for TAC6, the projected sample size was 2,000 patients. The study was closed to accrual on June 1, 2009, after 1,295 patients were enrolled (TC6 [n = 648] and TAC6 [n = 647]) with a prespeciﬁed plan to combine the efﬁcacy data with the common arms from NSABP B-46-I/USOR 07132, which had just been activated. This second study developed by NSABP and USOR was supported by Genentech and opened to accrual on May 8, 2009, as a three-arm, openlabel study, in essentially the same population as described for USOR 06090. Patients were randomly assigned to receive one of three chemotherapy regimens for six cycles: TC6, TAC6, or TC6 plus bevacizumab (TCB). Bevacizumab 15 mg/kg was administered every 21 days until 1 year after the ﬁrst cycle of TC. Planned enrollment was 3,600 patients. Efﬁcacy data from both cohorts of the USOR 06-090 study and the TC6 and TAC6 groups of B-46-I/07132 were to be combined prospectively and analyzed to compare the TC6 and TAC6 regimens. The analysis of the end points for TC6 versus TAC6 was set to occur after the deﬁnitive analysis of TC6 versus TC6B on B-46-I/07132 and would exclude the patients in the TCB arm. Subsequent to well-publicized discussions by a US Food and Drug Administration (FDA) Oncologic Drug Advisory Committee and the FDA about withdrawal of approval for bevacizumab in metastatic breast cancer, declining enrollment occurred, which made it apparent that the study would not meet accrual goals. Therefore, B-46-I/07132 was closed to accrual on January 11, 2012, with a total accrual of 1,613 patients (TC [n = 539], TAC [n = 538], and TCB [n = 536]). In aggregate, the initial two trials had enrolled 2,372 women into the TC6 and TAC6 arms (excluding the TC6B cohort from B-46-I/07132), which may have been sufﬁcient to address the superiority question of TAC6 originally planned for USOR 06-0690 but was insufﬁcient to formally address noninferiority of TC6. Therefore, the NSABP proposed a third trial of TC6 versus TAC6 to the Breast Cancer Steering Committee of the National Cancer Institute Cancer Therapy Evaluation Program to provide a sufﬁcient number of additional women with high-risk breast cancer to allow for a noninferiority efﬁcacy analysis by combining the efﬁcacy data from a third trial with the efﬁcacy data from the TC6 and TAC6 cohorts from the preceding two studies. The proposal was approved, but the Breast Cancer Steering Committee directed that investigators and patients should have a choice among the standard TaxAC regimens (TAC6; AC every 3 weeks for four cycles followed by paclitaxel 80 mg/m2 weekly for 12 doses; AC every 2 weeks for four cycles [DD AC] followed by paclitaxel 80 mg/m2 weekly for 12 doses; or DD AC followed by paclitaxel 175 mg/m2 every 2 weeks for four cycles). NSABP B-49 opened to accrual on April 4, 2012, 3 months after the closure of accrual to B-46-I/0732, and accrued 1,870 patients (TC6 [n = 938] and TaxAC [n = 932]) with HER2-negative, high-risk early breast cancer. Accrual closed on November 21, 2013. 
+
+Eligibility Enrollment required a pathologic diagnosis of invasive breast cancer. Women with bilateral synchronous breast cancers were allowed in USOR 06-090 but were excluded from B-46-I/07132 and B-49. Patients with hormone receptor–positive or –negative disease were eligible. B-46-I/ 07132 and B-49 required HER2-negative status, as deﬁned by the 2007 American Society of Clinical Oncology/College of American Pathologists guidelines. USOR 06-090 deﬁned HER2-negative as immunohistochemistry of 0 to 1+ or a ﬂuorescent in situ hybridization ratio # 2.2 . Staging criteria for enrollment included pT1-3 if nodes were positive (including pN1Mi). For pN0, one of the following criteria was required: estrogen receptor (ER) and progesterone receptor (PgR) negative status, tumor size . 2.0 cm, or if T1c and ER or PgR positive, the tumor must also be grade 3 histology or have an Oncotype DX recurrence score $ 25 for B-46I/07132 and B-49 enrollment or$ 31 for USOR 06-090 enrollment. Other criteria included adequate hematopoietic, hepatic, and renal functions and a left ventricular ejection fraction of at least 50% regardless of the lower JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Anthracyclines in Early Breast Cancer: The ABC Trials 
+
+limit of normal at the facility. Surgical margins were required to be free of invasive disease and ductal carcinoma in situ (DCIS). Axillary evaluation was by axillary dissection or sentinel lymphadenectomy. Patients were excluded with deﬁnitive evidence of metastatic disease, T4 tumors, involvement of supraclavicular nodes, history of ipsilateral invasive cancer, ipsilateral DCIS, or nonbreast malignancies within 5 years before random assignment (except for curatively treated carcinoma in situ or nonmelanoma skin cancers). 
+
+Because different toxicity criteria were used in B-49 and because the toxicity proﬁle of the regimens evaluated in these three trials are well established, only toxicity data for the B-49 trial will be reported here. However, toxicity data from the USOR 06-090 and B-46-I/07132 trials are provided in the Data Supplement. 
+
+Study Oversight Each trial was designed and conducted separately and approved by institutional review boards at each participating institution or by a central institutional review board. Efﬁcacy and toxicity data were collected and monitored by the individual groups and safety monitoring committees. The joint analysis was performed by the NSABP Biostatistical Center. The joint writing committee members vouch for the accuracy and completeness of the data and analyses. 
+
+Stratification and Random Assignment Patients were randomly assigned to TC6 or TAC6 in USOR 06-090; to TC6, TAC6, or TC6B in B-46-I/07132; and to TC6 or TaxAC regimens in B-49, and patients were stratiﬁed by pathologic nodal status (0, 1-3, 4-9, or $ 10) and hormone receptor status (ER and PgR negative or ER or PgR positive). Minimization algorithms that were based on the method described by White and Friedman14 and that incorporated the biased-coin approach proposed by Ephron15 were used for these trials. Random assignment was done independently in the three studies. The combined analyses included a study identiﬁer treated as an additional stratiﬁcation factor. 
+
+Adverse Events Adverse events were graded by the National Cancer Institute Common Toxicity Criteria (CTCAE) version 3.0 (USOR 06-090 and B-46I/07132) and version 4.0 (B-49) and were collected after each cycle of chemotherapy and 3 to 4 weeks after the last chemotherapy treatment. 
+
+End Point Definitions The primary end point was invasive disease-free survival (IDFS), deﬁned as time from random assignment to local recurrence after mastectomy, invasive local recurrence in the ipsilateral breast after lumpectomy, regional recurrence, distant recurrence, invasive contralateral breast 
+
+Node-positive or high-risk node negative HER2-negative breast cancer (N = 4,242) 
+
+Stratification Number of positive nodes (0, 1-3, 4-9, ≥10) Hormone receptor status (ER negative, ER and/or PgR positive) 
+
+Random Assignment 
+
+Arm 2 (TaxAC) (n = 2,117) 
+
+Arm 1 (TC) (n = 2,125) 
+
+USOR 06-090 (n = 648) 
+
+NSABP B-46-I/ USOR 07132 (n = 539) 
+
+NSABP B-49 (n = 938) 
+
+USOR 06-090 (n = 647) 
+
+NSABP B-46-I/ USOR 07132 (n = 538) 
+
+NSABP B-49 (n = 932) 
+
+Without follow-up (n = 4) 
+
+Without follow-up (n = 10) 
+
+Without follow-up (n = 17) 
+
+Without follow-up (n = 5) 
+
+Without follow-up (n = 16) 
+
+Without follow-up (n = 34) 
+
+Analyzed (n = 644) 
+
+Analyzed (n = 529) 
+
+Analyzed (n = 921) 
+
+Analyzed (n = 642) 
+
+Analyzed (n = 522) 
+
+Analyzed (n = 898) 
+
+TC (n = 2,094) 
+
+TaxAC (n = 2,062) 
+
+Fig 1. Consort diagram. Anthracyclines in early breast cancer (ABC) trials. ER, estrogen receptor; HER2, human epidermal growth factor receptor; NSABP, National Surgical Adjuvant Breast and Bowel Project; PgR, progesterone receptor; TaxAC, doxorubicin and cyclophosphamide regimens with a taxane; TC, docetaxel and cyclophosphamide; USOR, US Oncology Research. 
+
+jco.org 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2649 
+
+Blum et al 
+
+Table 1. Patient and Tumor Characteristics by Parent Protocol Data % of Patients by Trial Patient or tumor characteristic 
+
+USOR 06-090 (n = 1,286) 
+
+B-46-I /07132 (n = 1,051) 
+
+B-49 (n = 1,819) 
+
+Total % of Patients (N = 4,156) 
+
+P 
+
+6.3 
+
+4.8 
+
+2.2 
+
+3.3 
+
+NA 
+
+37 38 26 
+
+38 35 27 
+
+31 35 34 
+
+35 36 29 
+
+, .001 
+
+88 10 2 1 
+
+83 12 2 3 
+
+84 11 2 3 
+
+85 11 2 2 
+
+11 89 0 
+
+11 85 4 
+
+8 90 2 
+
+10 88 2 
+
+71 29 
+
+67 33 
+
+68 32 
+
+69 31 
+
+35 51 11 3 
+
+38 43 14 5 
+
+46 40 11 4 
+
+41 44 12 4 
+
+12 38 45 5 
+
+11 37 52 1 
+
+9 36 55 0 
+
+10 37 51 2 
+
+Median follow-up time, years Age, years # 49 50-59 $ 60 Race White Black or African American Asian Other/unknown Ethnicity Hispanic or Latino Not Hispanic or Latino Unknown Hormonal receptor status ER or PgR positive ER and PgR negative No. of positive nodes 0 1-3 4-9 $ 10 Histologic grade Low Intermediate High Unknown 
+
+, .001 
+
+, .001 
+
+.14 
+
+, .001 
+
+, .001 
+
+NOTE. Protocol data are reported as of October 31, 2015. Abbreviations: ER, estrogen receptor; NA, not applicable; PgR, progesterone receptor; USOR, US Oncology Research. 
+
+cancer, second primary cancer (other than squamous or basal cell carcinoma of the skin, melanoma in situ, or carcinoma in situ), or death as a result of any cause before recurrence or second primary cancer. Secondary end points included recurrence-free interval, deﬁned as time from random assignment until ﬁrst local, regional, or distant recurrence or death as a result of breast cancer reported without prior documentation of recurrence; disease-free survival–DCIS, which adds DCIS of the ipsilateral or contralateral breast as a primary end point events; 
+
+Alive and Invasive Disease-Free (%) 
+
+100 
+
+Primary Aim, Noninferiority The primary aim of the joint efﬁcacy analysis was to determine if the nonanthracycline regimen (TC) was noninferior to standard doxorubicincontaining regimens (TaxAC). A HR for TC versus TaxAC from a Cox model stratiﬁed for parent trial (USOR 06-090, NSABP B-46-I/USOR 07132, NSABP B-49), positive nodes (0, 1-3, 4-9, or $ 10), and hormonal status (ER and PgR negative, or ER or PgR positive) of . 1.18 was predeﬁned as a demonstration of inferiority, which would correspond to an absolute difference of $ 2% in the 5-year IDFS rate of TC6 relative to TaxAC. 
+
+80 Table 2. First Invasive Disease-Free–Survival Event by Treatment 
+
+60 
+
+No. of Patients 
+
+40 TC: 
+
+20 
+
+2,094 Pts, 220 events, 4-yr survival 88.2% 
+
+TaxAC: 2,062 Pts, 179 events, 4-yr survival 90.7% HR, 1.23 (95% CI, 1.01 to 1.50) P = .04 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Time From Random Assignment (years) No. at risk: TC 2,094 TaxAC 2,062 
+
+2,005 1,965 
+
+1,599 1,575 
+
+1,014 1,007 
+
+856 847 
+
+591 565 
+
+358 316 
+
+136 132 
+
+Fig 2. Kaplan-Meier plots of invasive disease-free survival. HR, hazard ratio; TaxAC, doxorubicin and cyclophosphamide regimens with a taxane; TC, docetaxel and cyclophosphamide. 
+
+2650 
+
+overall survival (OS), deﬁned as time from random assignment to death as a result of any cause; and toxicity. 
+
+© 2017 by American Society of Clinical Oncology 
+
+Type of event 
+
+TC (n = 2,094) 
+
+TaxAC (n = 2,062) 
+
+Total (N = 4,156) 
+
+Recurrence Locoregional Distant Site unknown Contralateral breast cancer Leukemia Other second primary Death Total 
+
+46 111 18 3 0 20 22 220 
+
+34 75 12 3 5 22 28 179 
+
+80 186 30 6 5 42 50 399 
+
+Abbreviations: TaxAC, doxorubicin and cyclophosphamide regimens with a taxane; TC, docetaxel and cyclophosphamide. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Anthracyclines in Early Breast Cancer: The ABC Trials 
+
+stratiﬁed log-rank tests. Strata used for analyses were parent trial (USOR 06-090, B-46-I/07132, B-49), positive nodes (0, 1-3, 4-9, or $ 10), and hormone-receptor status (ER and PgR negative or ER or PgR positive) or the appropriate subset of factors for subset analyses. Fisher’s exact test or Cochran-Mantel-Haenszel tests were used to test for differences in proportions. 
+
+Interim Monitoring Plan A single interim analysis was planned when 334 IDFS events (50% of the planned 668 events) for the deﬁnitive analysis were observed. The futility rule for the interim analysis was based on the Wieand Rule16, which would recommend consideration of reporting the study for futility to demonstrate noninferiority if the observed HR was . 1.18 when 334 events had been reported. The futility analysis was also to be conducted on the basis of treatment received rather than treatment randomly assigned. 
+
+RESULTS Statistical Analysis All analyses subsequent to the interim futility analysis included all patients with follow-up data analyzed according to randomly assigned treatment (intent to treat [ITT]) and were evaluated for signiﬁcance at an a level of .05; there was no control for multiple comparisons. Time to event was measured from random assignment, and time-to-event plots were estimated by the Kaplan-Meier method. HRs were calculated from stratiﬁed Cox models, and P values for the time to event were from 
+
+Patient Characteristics Between May 2007 and November 2013, 4,242 patients enrolled in the USOR 06-090 trial, in the TC6 and TAC6 arms of B-46-I/07132, and in B-49. Of these, the data of 4,156 patients were analyzed with 2,094 women assigned to TC6, and 2,062 women assigned to TaxAC regimens. Figure 1 demonstrates the random 
+
+A Events HR 
+
+95% CI 
+
+TC 
+
+TaxAC 
+
+USOR 06-090 
+
+98 
+
+72 
+
+1.31 0.97 to 1.78 
+
+B-46/07132 
+
+71 
+
+54 
+
+1.34 0.94 to 1.91 
+
+B-49 
+
+51 
+
+53 
+
+1.00 0.68 to 1.48 
+
+Interaction P 
+
+HR 
+
+Protocol 
+
+0.57 
+
+Hormone Negative 
+
+96 
+
+69 
+
+1.42 1.04 to 1.94 
+
+Positive 
+
+124 
+
+110 
+
+1.12 0.86 to 1.45 
+
+0 
+
+74 
+
+66 
+
+1.03 0.74 to 1.44 
+
+1-3 
+
+81 
+
+67 
+
+1.27 0.92 to 1.76 
+
+4-9 
+
+40 
+
+29 
+
+1.38 0.85 to 2.22 
+
+≥ 10 
+
+25 
+
+17 
+
+1.69 0.89 to 3.19 
+
+Overall 
+
+220 
+
+179 
+
+1.23 1.01 to 1.50 
+
+0.28 
+
+No. nodes 
+
+0.15 
+
+0.5 
+
+1.0 
+
+Favors TC 
+
+1.5 
+
+2.0 2.5 3.0 
+
+Favors TaxAC 
+
+Fig 3. Forest plots of (A) invasive disease-free survival hazard ratio (HR) according to stratiﬁcation variables and (B) with test for interaction by combined hormone receptor and nodal status. TaxAC, doxorubicin and cyclophosphamide regimens with a taxane; TC, docetaxel and cyclophosphamide. 
+
+B Events TC 
+
+TaxAC 
+
+HR 
+
+95% CI 
+
+Interaction P 
+
+HR 
+
+No. nodes in hormone negative 0 
+
+52 
+
+37 
+
+1.31 0.86 to 1.99 
+
+1-3 
+
+28 
+
+21 
+
+1.58 0.90 to 2.79 
+
+≥4 
+
+16 
+
+11 
+
+1.34 0.62 to 2.91 
+
+0.71 
+
+No. nodes in hormone positive 0 
+
+22 
+
+29 
+
+0.69 0.39 to 1.19 
+
+1-3 
+
+53 
+
+46 
+
+1.14 0.77 to 1.69 
+
+≥4 
+
+49 
+
+35 
+
+1.46 0.95 to 2.26 
+
+Overall 
+
+220 
+
+179 
+
+1.23 1.01 to 1.50 
+
+0.026 
+
+0.5 0.6 
+
+1.0 
+
+Favors TC jco.org 
+
+1.5 
+
+2.0 2.5 3.0 
+
+Favors TaxAC © 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2651 
+
+Blum et al 
+
+assignment and data analysis in each of the three trials. Table 1 lists the patient characteristics. Approximately 40% had node-negative disease, and nearly one third of patients were hormone receptor negative. The median follow-up times were 6.3 years for USOR 06090, 4.8 years for B-46-I/07132, 2.2 years for B-49, and 3.3 years for the combined studies. Although the distribution of characteristics differs statistically by protocol, the absolute differences were minimal and not clinically relevant. 
+
+Interim Analysis An October 31, 2015, data cutoff was used for the interim analysis. By that time, 399 IDFS events (59.7% of the required 668 events for the deﬁnitive analysis) had been reported. For the formal interim analysis, an administrative censoring date (prior to the cutoff) was used to alter the time and censoring variable so that the data contained exactly the prespeciﬁed 334 events required by using the as-treated cohorts. With the restriction, the observed HR was 1.202, which exceeded the 1.18 prespeciﬁed threshold for futility. Because all patients had completed chemotherapy, the data monitoring committee recommended a report of the observation in accordance with the prespeciﬁed rules in the B-49 statistical plan. After the decision to report, a full analysis of the joint efﬁcacy data received by the data cutoff on the basis of random assignment (ITT) was performed. All analyses subsequent to the planned interim futility analysis used all available information up to the October 31, 2015, cutoff without administrator censoring. The observed HR for IDFS on the basis of the ITT analysis with all available information through October 31, 2015, for TC6 versus TaxAC, was 1.23 (95% CI, 1.01 to 1.50; P = .04), which also exceeded the 1.18 noninferiority threshold. Figure 2 shows KaplanMeier plots of IDFS. Table 2 lists the numbers and types of ﬁrst IDFS events by treatment. The 4-year IDFS rates were 88.2% for TC6 and 90.7% for TaxAC. Figure 3A shows a forest plot of the IDFS HR according to stratiﬁcation variables. Planned exploratory tests for treatment interaction by protocol, hormone receptor status, and nodal status were negative. However, unplanned tests for interaction by combined hormone receptor status and nodal status demonstrated a signiﬁcant interaction for positive hormone receptor status with nodal status (P = .026) but no interaction in the patients with hormone receptor–negative status (P = .71), as shown in Fig 3B. Table 3 lists IDFS data by treatment, hormone receptor status, and nodal status. 
+
+Secondary End Points There was a statistically signiﬁcant difference in recurrencefree interval in favor of TaxAC—179 events occurred in the TC6 group and 121 events occurred in the TaxAC group (HR, 1.51; 95% CI, 1.20 to 1.90; P , .001). DFS-DCIS results were similar to the primary end point of IDFS, because only seven DCIS events were observed in the combined studies. At this time, there is no signiﬁcant difference in OS—111 deaths occurred in the TC6 groups and 102 deaths occurred in the TaxAC groups (HR, 1.08; 95% CI, 0.82 to 1.41; P = .60). Adverse Events Table 4 lists the toxicity summary from B-49. The reported toxicities were consistent with the well-established toxicities associated with these regimens. Summary toxicity tables for USOR 06-090 and B-46-I/07132 are provided in the Data Supplement. 
+
+DISCUSSION 
+
+The interim futility analysis of the ABC trials demonstrated futility for demonstration of noninferiority of TC6 relative to TaxAC for the primary end point of IDFS in women with HER2-negative, operable breast cancer. In fact, statistical inferiority for IDFS of TC6 relative to TaxAC was evident with a HR of 1.23 (95% CI, 1.01 to 1.50; P = .04) with 59% of the events originally required for the deﬁnitive analysis. Exploratory analyses by stratiﬁcation variables suggested that the beneﬁt of TaxAC was more evident in the studies that had longer follow-up times, for the patients with hormone receptor–negative disease, and for the women who had the highest number of positive axillary lymph nodes, although individual tests for treatment interaction with these factors were negative. Of interest, unplanned tests for treatment interaction with nodal status demonstrated a signiﬁcant interaction in the hormone receptor–positive subset but no apparent beneﬁt in patients with node-negative disease, in contrast to the beneﬁt observed in patients with positive axillary nodes. The secondary end point of RFI also demonstrated a signiﬁcant HR of 1.51 (95% CI, 1.20 to 1.90; P , .001) in favor of TaxAC. Survival data are still immature, and longer follow-up times will be necessary to determine the impact on survival. 
+
+Table 3. IDFS by Hormone and Nodal Status No. of Patients Status HR negative Node negative 1-3 positive nodes $ 4 positive nodes HR positive Node negative 1-3 positive nodes $ 4 positive nodes 
+
+No. of Events 
+
+4-Year IDFS (%) 
+
+TaxAC 
+
+TC 
+
+TaxAC 
+
+TC 
+
+TaxAC 
+
+TC 
+
+4-Year IDFS D (%) 
+
+HR (95% CI) 
+
+459 153 42 
+
+488 119 40 
+
+37 21 11 
+
+52 28 16 
+
+89.5 85.5 71.8 
+
+87.0 74.6 60.8 
+
+2.5 10.9 11.0 
+
+1.31 (0.86 to 1.99) 1.58 (0.90 to 2.79) 1.34 (0.62 to 2.91) 
+
+358 771 279 
+
+378 789 280 
+
+29 46 35 
+
+22 53 49 
+
+91.5 94.3 87.2 
+
+94.2 92.3 81.4 
+
+22.7 2.0 5.8 
+
+0.69 (0.39 to 1.19) 1.14 (0.77 to 1.69) 1.46 (0.95 to 2.26) 
+
+Abbreviations: HR, hormone receptor; IDFS, invasive disease-free–survival; TaxAC, doxorubicin and cyclophosphamide regimens with a taxane; TC, docetaxel and cyclophosphamide. 
+
+2652 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Anthracyclines in Early Breast Cancer: The ABC Trials 
+
+Table 4. Distribution of Selected Adverse Events by Treatment on NSABP B-49 Percentage of Events by Grade TaxAC (n 5 913) 
+
+TC (n 5 919) 
+
+Adverse Event 
+
+Grade 3 
+
+Grade 4 
+
+Grade 5 
+
+Grade 3 
+
+Grade 4 
+
+Grade 5 
+
+Overall toxicity Blood and lymphatic system disorders Anemia Febrile neutropenia Cardiac disorders Acute coronary syndrome Heart failure Left ventricular systolic dysfunction Myocardial infarction GI disorders Abdominal pain Diarrhea Lower GI hemorrhage Mucositis oral Upper GI hemorrhage Vomiting General disorders and administration site conditions Fatigue Fever Infusion related reaction Non-cardiac chest pain Hepatobiliary disorders Hepatic failure Immune system disorders Allergic reaction Infections and infestations Bladder infection Lung infection Sepsis Wound infection Injury, poisoning, and procedural complications Dermatitis radiation Investigations ALT increased Alkaline phosphatase increased AST increase Blood bilirubin increased Neutrophil count decreased Platelet count decreased White blood cell decreased Metabolism and nutrition disorders Dehydration Musculoskeletal and connective tissue disorders Arthralgia Bone pain Myalgia Nervous system disorders Headache Intracranial hemorrhage Ischemia cerebrovascular Peripheral motor neuropathy Peripheral sensory neuropathy Respiratory, thoracic, and mediastinal disorders Bronchopulmonary hemorrhage Hypoxia Pneumonitis Pulmonary ﬁbrosis Skin and subcutaneous tissue disorders Palmar-plantar erythrodysesthesia syndrome Rash maculo-papular Vascular disorders Hypertension Peripheral ischemia Thromboembolic event Visceral arterial ischemia Other 
+
+38 
+
+4 
+
+0 
+
+37 
+
+3 
+
+0 
+
+2 3 
+
+0 ,1 
+
+0 0 
+
+,1 7 
+
+0 1 
+
+0 0 
+
+0 0 ,1 0 
+
+0 0 0 0 
+
+0 0 0 0 
+
+0 0 ,1 0 
+
+0 0 0 0 
+
+0 0 0 0 
+
+,1 2 0 4 0 2 
+
+0 0 0 0 0 0 
+
+0 0 0 0 0 0 
+
+,1 4 ,1 ,1 ,1 2 
+
+0 0 0 0 0 0 
+
+0 0 0 0 0 0 
+
+4 ,1 ,1 ,1 
+
+0 0 ,1 0 
+
+0 0 0 0 
+
+4 ,1 0 ,1 
+
+0 ,1 0 0 
+
+0 0 0 0 
+
+,1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+,1 
+
+0 
+
+0 
+
+,1 
+
+,1 
+
+0 
+
+,1 1 0 2 
+
+0 ,1 ,1 0 
+
+0 0 0 0 
+
+,1 1 0 ,1 
+
+0 ,1 ,1 0 
+
+0 0 0 0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+,1 0 ,1 0 4 ,1 2 
+
+,1 0 ,1 0 1 ,1 ,1 
+
+0 0 0 0 0 0 0 
+
+,1 0 ,1 ,1 ,1 ,1 ,1 
+
+0 0 0 0 1 0 ,1 
+
+0 0 0 0 0 0 0 
+
+2 
+
+0 
+
+0 
+
+2 
+
+,1 
+
+0 
+
+2 2 2 
+
+0 0 0 
+
+0 0 0 
+
+,1 2 2 
+
+0 0 0 
+
+0 0 0 
+
+1 0 0 ,1 4 
+
+0 0 0 0 0 
+
+0 0 0 0 0 
+
+,1 0 0 ,1 1 
+
+0 0 0 0 0 
+
+0 0 0 0 0 
+
+0 ,1 ,1 0 
+
+0 0 0 0 
+
+0 0 0 0 
+
+0 ,1 ,1 ,1 
+
+0 0 ,1 0 
+
+0 0 0 0 
+
+,1 
+
+0 
+
+0 
+
+,1 
+
+0 
+
+0 
+
+,1 
+
+0 
+
+0 
+
+2 
+
+0 
+
+0 
+
+3 0 1 0 19 
+
+0 0 ,1 0 2 
+
+0 0 0 0 0 
+
+3 0 ,1 0 22 
+
+0 0 0 0 ,1 
+
+0 0 0 0 0 
+
+Abbreviations: NSABP, National Surgical Adjuvant Breast and Bowel Project; TaxAC, doxorubicin and cyclophosphamide regimens with a taxane; TC, docetaxel and cyclophosphamide. 
+
+jco.org 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2653 
+
+Blum et al 
+
+To our knowledge, this is the ﬁrst study to speciﬁcally evaluate the role of doxorubicin in taxane-based adjuvant therapy of HER2negative breast cancer. Interpretation of older studies, which accrued patients before routine testing for HER2 status, was confounded by the inclusion of patients with HER2-ampliﬁed breast cancer, because this important subset was found to derive clear beneﬁt from the incorporation of anthracyclines into adjuvant therapies before the introduction of trastuzumab.17 Although results of the ABC trials demonstrated a statistically signiﬁcant improvement in IDFS with the administration of anthracyclines in patients with HER2-negative disease, the absolute beneﬁts were small, and the majority of patients who received TC6 have done well without an anthracycline. Exploratory tests for treatment interaction by nodal status and hormonal status suggest that the beneﬁts appear to be meaningful in patients with hormone receptor–negative tumors or those with hormone receptor– positive tumors and positive axillary nodes. Because the largest of the three trials has only 2.2 years of median follow-up time and is contributing only 25% of the reported events, additional follow-up time will be needed to fully interpret the data from these trials. Additional events also will be essential for critical correlative studies of predictive biomarkers or expression proﬁles, which may identify subsets of patients who derive substantial beneﬁt from inclusion of the anthracyclines and thus help identify a larger subset who could be spared the risk of serious cardiac and long-term hematologic toxicities. 
+
+REFERENCES 1. Peto R, Davies C, Godwin J, et al: Comparisons between different polychemotherapy regimens for early breast cancer: Meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 379:432-444, 2012 2. Fisher B, Fisher ER, Redmond C: Ten-year results from the National Surgical Adjuvant Breast and Bowel Project (NSABP) clinical trial evaluating the use of L-phenylalanine mustard (L-PAM) in the management of primary breast cancer. J Clin Oncol 4:929-941, 1986 3. Bonadonna G, Valagussa P, Moliterni A, et al: Adjuvant cyclophosphamide, methotrexate, and ﬂuorouracil in node-positive breast cancer: The results of 20 years of follow-up. N Engl J Med 332: 901-906, 1995 4. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21: 976-983, 2003 5. Mamounas EP, Bryant J, Lembersky B, et al: Paclitaxel after doxorubicin plus cyclophosphamide 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Joanne L. Blum, Patrick J. Flynn, Greg Yothers, Lina Asmar, Charles E. Geyer Jr, Samuel A. Jacobs, Nicholas J. Robert, Joyce A. O’Shaughnessy, Jong-Hyeon Jeong, Sandra M. Swain, Eleftherios P. Mamounas, Stephen E. Jones, Norman Wolmark Administrative support: Greg Yothers, Norman Wolmark Provision of study materials or patients: Joanne L. Blum, Patrick J. Flynn, Charles E. Geyer Jr, Nicholas J. Robert, Judith O. Hopkins, Henry Leonidas Gómez, Louis Fehrenbacher, Devchand Paul, Adam M. Brufsky Collection and assembly of data: Joanne L. Blum, Patrick J. Flynn, Greg Yothers, Lina Asmar, Joyce A. O’Shaughnessy, Chau T. Dang, Henry Leonidas Gómez, Louis Fehrenbacher, Svetislava J. Vukelja, Devchand Paul, Adam M. Brufsky, Eleftherios P. Mamounas Data analysis and interpretation: Joanne L. Blum, Patrick J. Flynn, Greg Yothers, Lina Asmar, Charles E. Geyer Jr, Nicholas J. Robert, Judith O. Hopkins, Joyce A. O’Shaughnessy, Chau T. Dang, Henry Leonidas Gómez, Louis Fehrenbacher, Alan P. Lyss, Devchand Paul, Linda H. Colangelo, Sandra M. Swain, Eleftherios P. Mamounas Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP B-28. J Clin Oncol 23: 3686-3696, 2005 6. Citron ML, Berry DA, Cirrincione C, et al: Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: First report of Intergroup Trial C9741/Cancer and Leukemia Group B trial 9741. J Clin Oncol 21: 1431-1439, 2003 7. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 8. Sparano JA, Zhao F, Martino S, et al: Longterm follow-up of the E1199 phase III trial evaluating the role of taxane and schedule in operable breast cancer. J Clin Oncol 33:2353-2360, 2015 9. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 10. Swain SM, Tang G, Geyer CE, Jr., et al: Deﬁnitive results of a phase III adjuvant trial comparing three chemotherapy regimens in women with operable, node-positive breast cancer: The NSABP B-38 trial. J Clin Oncol 31:3197-3204, 2013 
+
+11. Jones SE, Savin MA, Holmes FA, et al: Phase III trial comparing doxorubicin plus cyclophosphamide with docetaxel plus cyclophosphamide as adjuvant therapy for operable breast cancer. J Clin Oncol 24:5381-5387, 2006 [Erratum: J Clin Oncol 25: 1819, 2007] 12. Jones S, Holmes FA, O’Shaughnessy J, et al: Docetaxel with cyclophosphamide is associated with an overall survival beneﬁt compared with doxorubicin and cyclophosphamide: 7-year follow-up of US Oncology Research trial 9735. J Clin Oncol 27: 1177-1183, 2009 13. Giordano SH, Lin Y-L, Kuo YFR, et al: Decline in the use of anthracyclines for breast cancer. J Clin Oncol 30:2232-2239, 2012 14. White SJ, Freedman LS: Allocation of patients to treatment groups in a controlled clinical study. Br J Cancer 37:849-857, 1978 15. Efron B: Forcing a sequential experiment to be balanced. Biometrika 58:403-441, 1971 16. Wieand S, Schroeder G, O’Fallon JR: Stopping when the experimental regimen does not appear to help. Stat Med 13:1453-1458, 1994 17. Gennari A, Sormani MP, Pronzato P, et al: HER2 status and efﬁcacy of adjuvant anthracyclines in early breast cancer: A pooled analysis of randomized trials. J Natl Cancer Inst 100:14-20, 2008 
+
+Affiliations Joanne L. Blum, Lina Asmar, Nicholas J. Robert, Joyce A. O’Shaughnessy, Svetislava J. Vukelja, Devchand Paul, and Stephen E. Jones, US Oncology Research; Lina Asmar, McKesson Specialty Health, The Woodlands; Joanne L. Blum and Joyce A. O’Shaughnessy, Texas Oncology-Baylor Charles A. Sammons Cancer Center, Baylor University Medical Center, Dallas; Svetislava J. Vukelja, Texas Oncology-Tyler, Tyler, TX; Patrick J. Flynn, Charles E. Geyer Jr, Samuel A. Jacobs, Judith O. Hopkins, Louis Fehrenbacher, Alan P. Lyss, Adam M. Brufsky, Sandra M. Swain, Eleftherios P. Mamounas, and Norman Wolmark, National Surgical Adjuvant Breast and Bowel Project/NRG Oncology; Greg Yothers, Jong-Hyeon Jeong, and Linda H. Colangelo, NRG Oncology; Greg Yothers, John-Hyeon 2654 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Anthracyclines in Early Breast Cancer: The ABC Trials 
+
+Jeong, and Linda H. Colangelo, The University of Pittsburgh; Samuel A. Jacobs, University of Pittsburgh Cancer Institute, University of Pittsburgh School of Medicine; Adam M. Brufsky, Magee-Womens Hospital at University of Pittsburgh Medical Center; Norman Wolmark, Allegheny Cancer Center at Allegheny General Hospital, Pittsburgh; Henry Leonidas Gómez, Eastern Cooperative Oncology Group-American College of Radiology Imaging Network, Philadelphia, PA; Patrick J. Flynn, Metro-Minnesota Community Oncology Research Consortium, Minneapolis, MN; Charles E. Geyer Jr, Massey Cancer Center, Virginia Commonwealth University, Richmond; Nicholas J. Robert, Virginia Cancer Specialists, Fairfax, VA; Judith O. Hopkins, The Southeastern Medical Oncology Center, Goldsboro, NC; Chau T. Dang, The Alliance, Boston, MA; Chau T. Dang, Memorial Sloan Kettering Cancer Center, New York, NY; Henry Leonidas Gómez, Instituto Nacional de Enfermedades Neoplasicas, Lima, Peru; Louis Fehrenbacher, Kaiser Permanente Oncology Clinical Trials Northern California, Vallejo, CA; Alan P. Liss, Heartland Cancer Research National Cancer Institute Community Oncology Research Program at Missouri Baptist Cancer Center, St Louis, MO; Devchand Paul, Rocky Mountain Cancer Centers, Denver, CO; Sandra M. Swain, MedStar Washington Hospital Center Washington Cancer Institute, and Georgetown University Medical Center, Washington, DC; and Eleftherios P. Mamounas, UF Cancer Center at Orlando Health, Orlando, FL. Support Supported by Public Health Service Grants No. U10CA-180868, -21115, -180822, -180820, -180821, -180791, and UG1-189867 from the from the National Cancer Institute, Department of Health and Human Services, and by grants from Susan G. Komen for the Cure; Sanoﬁ, and Genentech. Prior Presentation Presented in part (related material) at the 52nd Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, June 3-7, 2016. nnn 
+
+jco.org 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2655 
+
+Blum et al 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Anthracyclines in Early Breast Cancer: the ABC Trials—USOR 06-090, NSABP B-46-I/USOR 07132, and NSABP B-49 (NRG Oncology) The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. Joanne L. Blum Honoraria: Medivation, Biomarin, Pﬁzer, Myriad Genetics Consulting or Advisory Role: Biomarin, Medivation, Pﬁzer, Myriad Genetics Travel, Accommodations, Expenses: Biomarin, Medivation, Pﬁzer, Myriad Genetics Patrick J. Flynn Employment: ARIAD Pharmaceuticals (I), Sanoﬁ/Genzyme (I) Stock or Other Ownership: ARIAD Pharmaceuticals (I) Speakers’ Bureau: Lilly Travel, Accommodations, Expenses: Lilly Greg Yothers Employment: Mountainview Pediatrics (I) Consulting or Advisory Role: Pharmacyclics, Orbus Therapeutics 
+
+Henry Leonidas Gómez No relationship to disclose Louis Fehrenbacher Research Funding: Genentech (a member of the Roche group) (Inst) Svetislava J. Vukelja Employment: Texas Oncology–Tyler Alan P. Lyss Consulting or Advisory Role: Verdi Oncology Devchand Paul No relationship to disclose Adam M. Brufsky No relationship to disclose 
+
+Lina Asmar No relationship to disclose 
+
+Jong-Hyeon Jeong No relationship to disclose 
+
+Charles E. Geyer Jr Consulting or Advisory Role: Stemnion, Myriad Genetics Research Funding: Incyte, Merck Travel, Accommodations, Expenses: AstraZeneca, Abbvie, Genetech (a member of the Roche group) 
+
+Linda H. Colangelo No relationship to disclose 
+
+Samuel A. Jacobs No relationship to disclose Nicholas J. Robert Employment: McKesson Subspecialty Health Leadership: McKesson Subspecialty Health Consulting or Advisory Role: New Century Health, Paradigm Cancer Diagnostics Research Funding: Side-Out Foundation (Inst) Judith O. Hopkins Consulting or Advisory Role: AIM Specialty Health Joyce A. O’Shaughnessy Honoraria: AstraZeneca, Lilly, Abbvie, Arno Therapeutics, Celgene, Nektar, Eisai, Novartis, Pﬁzer, Genentech (a member of the Roche group) Consulting or Advisory Role: Novartis, Pﬁzer, Lilly, Arno Therapeutics, Abbvie, AstraZeneca, Celegene, Nektar, Genentech (a member of the Roche group), Eisai Travel, Accommodations, Expenses: Celgene, Nektar, Lilly, Novartis, Pﬁzer, Abbvie Chau T. Dang Research Funding: GlaxoSmithKline (Inst), Genentech (a member of the Roche group) (Inst), Puma Biotechnology (Inst) Travel, Accommodations, Expenses: Genentech BioOncology 
+
+© 2017 by American Society of Clinical Oncology 
+
+Sandra M. Swain Honoraria: Roche, Clinigen Group, AstraZeneca, Pﬁzer Consulting or Advisory Role: Genentech (a member of the Roche group), Clinigen Group, OncoPlex Diagnostics, Lilly, Pieris Pharmaceuticals Research Funding: Puma Biotechnology (Inst), Roche (Inst), Genentech (Inst), Pﬁzer (Inst), Merrimack, Lilly (Inst) Travel, Accommodations, Expenses: Genentech (a member of the Roche group), Genentech (I) Eleftherios P. Mamounas Honoraria: Genentech (a member of the Roche group), Genomic Health Consulting or Advisory Role: Genomic Health, Celgene, Pﬁzer, GlaxoSmithKline, Novartis, Ventana Medical Systems, Macrogenics, GRAIL, Celcuity, Bayer, bioTheranostics Speakers’ Bureau: Genomic Health, Genentech (a member of the Roche group) Travel, Accommodations, Expenses: Genomic Health, Genentech (a member of the Roche group), Celgene Stephen E. Jones Consulting or Advisory Role: Pﬁzer Speakers’ Bureau: Pﬁzer, Amgen, Celegene Norman Wolmark Research Funding: Abbvie (Inst), Puma (Inst), Bayer (Inst) 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Anthracyclines in Early Breast Cancer: The ABC Trials 
+
+Acknowledgment We thank the patients who made this study possible, the co-authors, and participating investigators at US Oncology Research (USOR), National Surgical Adjuvant Breast and Bowel (NSABP), The Alliance, and Eastern Cooperative Oncology Group–American College of Radiology Imaging Network, and their research staffs. We also thank USOR, NSABP, and NRG Oncology staff at the Operations and Biostatical Centers. 
+
+jco.org 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+ 

@@ -1,0 +1,1021 @@
+VOLUME 
+
+31 
+
+䡠 
+
+NUMBER 
+
+17 
+
+䡠 
+
+JUNE 
+
+10 
+
+2013 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Impact of PTEN Protein Expression on Benefit From Adjuvant Trastuzumab in Early-Stage Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer in the North Central Cancer Treatment Group N9831 Trial Edith A. Perez, Amylou C. Dueck, Ann E. McCullough, Beiyun Chen, Xochiquetzal J. Geiger, Robert B. Jenkins, Wilma L. Lingle, Nancy E. Davidson, Silvana Martino, Peter A. Kaufman, Leila A. Kutteh, George W. Sledge, Lyndsay N. Harris, Julie R. Gralow, and Monica M. Reinholz See accompanying editorial on page 2073; listen to the podcast by Dr Rugo at www.jco.org/ podcasts Edith A. Perez and Xochiquetzal Geiger, Mayo Clinic, Jacksonville, FL; Amylou C. Dueck and Ann E. McCullough, Mayo Clinic, Scottsdale, AZ; Beiyun Chen, Robert B. Jenkins, Wilma L. Lingle, and Monica M. Reinholz, Mayo Clinic, Rochester, MN; Nancy E. Davidson, University of Pittsburgh Cancer Institute, Pittsburgh, PA; Silvana Martino, Angeles Clinic and Research Institute, Santa Monica, CA; Peter A. Kaufman, Dartmouth Hitchcock Medical Center, Lebanon, NH; Leila A. Kutteh, Oncology Associates of Cedar Rapids, Cedar Rapids, IA; George W. Sledge, Indiana University Medical Center Cancer Pavilion, Indianapolis, IN; Lyndsay N. Harris, Yale University, New Haven, CT; and Julie R. Gralow, Seattle Cancer Care Alliance, Seattle, WA. Published online ahead of print at www.jco.org on May 6, 2013. Supported by Grants No. CA25224-31, CA114740, and CA129949 (E.A.P.) from the National Institutes of Health and by the Breast Cancer Research Foundation (E.A.P.). Presented in part at the 47th Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, June 3-7, 2011. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose It has been suggested that PTEN, a negative regulator of PI3K/AKT signaling, is involved in tumor sensitivity to trastuzumab. We investigated the association between tumor PTEN protein expression and disease-free survival (DFS) of patients randomly assigned to receive chemotherapy alone (arm A) or chemotherapy with sequential (arm B) or concurrent trastuzumab (arm C) in the phase III early-stage human epidermal growth factor receptor 2 (HER2) –positive trial—North Central Cancer Treatment Group (NCCTG) N9831. Patients and Methods The intensity and percentage of invasive cells with cytoplasmic PTEN staining were determined in tissue microarray sections containing three cores per block (n ⫽ 1,286) or in whole tissue sections (WS; n ⫽ 516) by using standard immunohistochemistry (138G6 monoclonal antibody). Tumors were considered positive for PTEN (PTEN-positive) if any core or WS had any invasive cells with ⱖ 1⫹ staining. Median follow-up was 6.0 years. Results Of 1,802 patients included in this analysis (of 3,505 patients registered to N9831), 1,342 (74%) had PTEN-positive tumors. PTEN positivity was associated with hormone receptor negativity (␹2 P ⬍ .001) and nodal positivity (␹2 P ⫽ .04). PTEN did not have an impact on DFS within the various arms. Comparing DFS of arm C to arm A, patients with PTEN-positive and PTEN-negative tumors had hazard ratios (HRs) of 0.65 (P ⫽ .003) and 0.47 (P ⫽ .005), respectively (interaction P ⫽ .16). For arm B versus arm A, patients with PTEN-positive and PTEN-negative tumors had HRs of 0.70 (P ⫽ .009) and 0.85 (P ⫽ .44), respectively (interaction P ⫽ .47). Conclusion In contrast to selected preclinical and limited clinical studies suggesting a decrease in trastuzumab sensitivity in patients with PTEN-negative tumors, our data show benefit of adjuvant trastuzumab for patients with HER2-positive breast cancer, independent of tumor PTEN status. J Clin Oncol 31:2115-2122. © 2013 by American Society of Clinical Oncology 
+
+Clinical trial information: NCT00898898. Corresponding author: Edith A. Perez, MD, Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224; e-mail: perez.edith@ mayo.edu. © 2013 by American Society of Clinical Oncology 0732-183X/13/3117w-2115w/$20.00 DOI: 10.1200/JCO.2012.42.2642 
+
+INTRODUCTION 
+
+Trastuzumab, a human epidermal growth factor receptor 2 (HER2) monoclonal antibody, has revolutionized the treatment of patients with HER2positive breast cancer,1 yet clinical resistance remains a significant problem.2,3 Of the several markers hypothesized to predict sensitivity or resistance to trastuzumab, alteration of the phosphatidylinositol 3-kinase (PI3K)/AKT signaling pathway, which can be activated by HER2, remains at the forefront of current research.4-6 
+
+The phosphatase and tensin homolog deleted from chromosome 10 (PTEN) tumor suppressor is a negative regulator of PI3K/AKT signaling, directly and indirectly affecting cell survival, proliferation, and apoptosis. PTEN dephosphorylates the 3⬘ end of the triphosphate PIP3 in the inositol ring, resulting in the biphosphate PIP2, which inhibits AKT activation and downstream signaling processes that depend on AKT for activation. Inactivation of PTEN, and thus lack of inhibition of the AKT-dependent processes, has been associated with tumorigenesis in multiple human cancers, including breast cancer.6 © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2115 
+
+Perez et al 
+
+Loss of PTEN (defined differently by independent groups) has been observed in 22% to 64% of HER2-positive breast cancers.4,7-11 Preclinical findings suggest that PTEN loss or inactivation confers resistance to trastuzumab.7,9,12,13 However, data from retrospective analyses of small patient sets correlating PTEN alone or in combination with PI3K mutations have been conflicting.4,7-11,14-17 We investigated the incidence of PTEN protein expression and its correlation with patient clinicopathologic characteristics and trastuzumab sensitivity in the adjuvant breast cancer setting. Specifically, we evaluated the association between PTEN protein expression and disease-free survival (DFS) of patients with breast cancer randomly assigned to receive chemotherapy or chemotherapy with adjuvant trastuzumab in the phase III early-stage HER2positive trial—North Central Cancer Treatment Group (NCCTG) N9831 (hereafter N9831). PATIENTS AND METHODS Patients The N9831 trial had three arms: arm A, doxorubicin and cyclophosphamide followed by weekly paclitaxel; arm B, same as arm A followed by 1 year of sequential trastuzumab; and arm C, same as arm A with 1 year of concurrent trastuzumab, started the same day as weekly paclitaxel (Appendix Fig A1, online only). Women randomly assigned to the trastuzumab arm had a significantly increased DFS (stratified hazard ratio [HR], 0.52; 95% CI, 0.45 to 0.60; P ⬍ .001) and overall survival (OS; stratified HR, 0.61; 95% CI, 0.50 to 0.75; P ⬍ .001) compared with women assigned to the control arm.1 In the N9831 comparison of sequential versus concurrent trastuzumab chemotherapy, there was an increase in DFS with concurrent trastuzumab (HR, 0.77; 95% CI, 0.53 to 1.11; P ⫽ .02). Although the number of events was lower than originally predicted when the trial was originally planned, the 5-year OS rate for the sequential arm was estimated at 89.7% (95% CI, 87.7% to 91.8%), and for the concurrent arm, it was estimated at 91.9% (95% CI, 90.0% to 93.7%).1 All tumors included in this report were tested for HER2 protein overexpression and gene amplification at a central laboratory (Mayo Clinic, Rochester, MN). Tumors were considered positive for HER2 according to US Food and Drug Administration–approved guidelines (immunohistochemistry [IHC]: circumferential strong 3⫹ membrane staining of ⬎ 10% invasive cells; fluorescent in situ hybridization: HER2:CEP17 ratio ⱖ 2.0).1,18-20 All patients signed informed consent forms. The Mayo Institutional Review Board and the Correlative Science Committee of the North American Breast Cancer Group (NABCG) approved this translational study. Tissue Microarrays and Whole Tissue Sections Tissue microarrays (TMAs) were constructed as part of the translational study component of N9831 by using an ATA-27 automated TMA construction system (Beecher Instruments, Silver Spring, MD), as described previously.18 Each TMA (n ⫽ 1,286) contained biopsies from non-neoplastic human liver, placenta, and tonsil control tissues. Whole tissue sections (WSs; n ⫽ 516) were also examined from tumors not represented on TMAs, and a range of 0 to 3⫹ PTEN intensity staining was observed for both TMA sections and WSs. PTEN Testing Methods Standard laboratory protocols were followed for IHC. Antigen retrieval was performed on deparaffinized WS/TMA sections (5 ␮m) by using preheated citrate buffer (98°C; 40 minutes). Tissue sections were treated with Peroxidase Blocking Reagent (Dako, Carpenteria, CA) and Background Sniper (Biocare, Concord, CA) before manual IHC staining for PTEN (rabbit monoclonal; Cell Signaling, Boston, MA; 1:250; overnight incubation at room temperature21). Sections were transferred to a Dako Autostainer Plus (Dako Reference No. S3800) and incubated in secondary antibody (Dako Envision Plus Dual Link Horseradish Peroxidase Kit; Dako Reference No. K4061). The high-sensitivity diaminobenzidine (DAB⫹) Chromogenic Substrate System 2116 
+
+© 2013 by American Society of Clinical Oncology 
+
+(Betazoid DAB, Biocare) was used for colorimetric visualization followed by counterstaining with hematoxylin. PTEN positivity was defined as more than 0% of invasive cells with at least 1⫹ cytoplasmic staining. Because there is no validated standard definition for PTEN positivity or loss on the basis of our extensive literature review and personal discussions, we also examined an alternate cut point of more than 0% of invasive cells with at least 2⫹ cytoplasmic staining for PTEN positivity. This alternate cut point was considered because the cytoplasm of normal elements (when present) in the tissue (in more than 75% of patients)22 typically stained at an intensity of 2⫹ (moderate), similar to previous reports.23,24 The staining in normal elements and stroma was also used as a positive internal assay control, as applicable. The antibody used also produced slight nuclear staining that appeared to reflect in lesser degree the cytoplasmic expression, and was of unknown significance. The maximum cytoplasmic PTEN protein expression of the replicate TMA biopsies or the highest PTEN staining value across all parts of the WSs examined were used as the final result for all analyses associated with each patient outcome. Because WSs were used for patients not represented on TMAs, one result either from a TMA or a WS was used for each patient. Statistical Methods DFS (primary end point for N9831) was defined as local, regional, or distant recurrence, contralateral breast cancer, another primary cancer (except squamous or basal cell carcinoma of the skin, carcinoma in situ of the cervix, or lobular carcinoma in situ of the breast), or death as a result of any cause.1 DFS duration was defined as the time from registration to the first DFS event. DFS was estimated by the Kaplan-Meier method. Comparisons among arms A, B, and C within subgroups were performed by using Cox proportional hazards models stratified by nodal status (1 to 3 v 4 to 9 v ⱖ 10 positive nodes v positive sentinel node only v negative sentinel node with no axillary nodal dissection v axillary nodal dissection with no positive nodes) and hormone receptor status (estrogen receptor–positive and/or progesterone receptor–positive v negative for both). PTEN staining as a predictor of differential trastuzumab benefit among PTEN subgroups was tested by using Cox proportional hazards models, stratified by nodal status and hormone receptor status, including a treatment arm by PTEN subgroup interaction term. 
+
+RESULTS 
+
+Study Patients The trial registered 3,505 patients onto arms A (1,232 patients), B (1,216 patients), and C (1,057 patients) of which 1,703 (A, 631; B, 566; C, 506) were excluded from this analysis for the following reasons: not HER2-positive by central pathology review (A,109; B, 90; C, 84); canceled before initiating therapy (A,15; B, 6; C, 7); did not meet eligibility criteria (A, 21; B, 23; C,17); no consent for future translational analysis (A, 65; B, 71; C, 55); withdrew consent/lost to follow-up (A, 65; B, 43; C, 21); no or inadequate tissue (A, 346; B, 319; C, 312); and technical failure (A, 10; B, 14; C, 10). Of the 3,505 patients, 1,802 (A, 601; B, 650; C, 551) were evaluable for PTEN protein expression (Appendix Fig A2, online only). The median follow-up time was 6.0 years and included all follow-up available through September 21, 2010. The clinicopathologic characteristics and outcomes of the 1,802 patients enrolled onto arms A, B, and C reported herein were similar to those of the 1,011 patients on arms A, B, and C excluded from analysis (Appendix Table A1, online only). Clinicopathologic characteristics of the 1,802 patients whose tumors had 0 or 1 to 3⫹ PTEN cytoplasmic staining in any invasive tumor cell are listed in Table 1. Patients whose tumors were positive for PTEN cytoplasmic staining (ie, IHC 1 to 3⫹; PTEN positive) had a lower rate of hormone receptor positivity (45% v 55%; ␹2 P ⬍ .001) and a higher rate of nodal positivity (87% v 83%; ␹2 P ⫽ .04) than JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+PTEN Protein Expression and Adjuvant Trastuzumab 
+
+Table 1. Patient Characteristics by Negative v Positive PTEN Cytoplasmic Staining PTEN Cytoplasmic Staining (N ⫽ 1,802) Negative (0) (n ⫽ 460; 26%) Characteristic Age, years Median Range Age group ⬍ 40 40-49 50-59 ⱖ 60 Race/ethnicity White Other Menopausal status Premenopausal (or younger than age 50 years) Postmenopausal (or age 50 years or older) ER/PR status ER positive or PR positive Other Surgery Breast conserving Mastectomy Nodal status Node positive (1-3 positive nodes) Node positive (4-9 positive nodes) Node positive (ⱖ 10 positive nodes) Node negative (no positive nodes) Positive sentinel node Negative sentinel node Predominant tumor histology Ductal Lobular Other Missing Histologic tumor grade (Elston/SBR) Well/intermediate Poor Pathologic tumor size, cm ⬍2 ⱖ2 Source of tissue Tissue microarray Whole section 
+
+No. 
+
+Positive (1, 2, or 3⫹) (n ⫽ 1,342; 74%) % 
+
+No. 
+
+50 24-80 
+
+% 
+
+␹2 P 
+
+50 22-79 .48ⴱ 
+
+84 143 137 96 
+
+18 31 30 21 
+
+234 436 445 227 
+
+17 32 33 17 
+
+382 78 
+
+83 17 
+
+1,163 179 
+
+87 13 
+
+239 221 
+
+52 48 
+
+720 622 
+
+54 46 
+
+253 207 
+
+55 45 
+
+603 739 
+
+45 55 
+
+176 284 
+
+38 62 
+
+525 817 
+
+39 61 
+
+173 107 65 33 35 47 
+
+38 23 14 7 8 10 
+
+533 354 172 83 102 98 
+
+40 26 13 6 8 7 
+
+433 14 9 0 
+
+94 3 3 0 
+
+1,271 39 31 1 
+
+95 3 2 0.1 
+
+133 327 
+
+29 71 
+
+375 967 
+
+28 72 
+
+150 310 
+
+33 67 
+
+424 918 
+
+32 68 
+
+241 219 
+
+52 48 
+
+1,045 297 
+
+78 22 
+
+.06 
+
+.53 
+
+⬍ .001 
+
+.74 
+
+.28† 
+
+.82‡ 
+
+.69 
+
+.69 
+
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor; SBR, Scarff-Bloom-Richardson 关breast cancer grading system兴. ⴱ Mantel-Haenszel trend test. †Negative v positive P ⫽ .04. ‡Missing not included in calculation. 
+
+those patients whose tumors had 0 PTEN cytoplasmic staining (ie, PTEN negative). Patients whose tumors had any 2 to 3⫹ PTEN cytoplasmic staining had a higher rate of hormone receptor positivity (60% v 48%; ␹2 P ⬍ .001) and higher rate of nodal positivity (90% v 83%; ␹2 P ⬍ .001) than those whose tumors had 0 to 1⫹ PTEN cytoplasmic staining (Appendix Table A2, online only). In addition, systematic differences may exist between the patients included on TMAs and patients analyzed by WSs (eg, tumor size) due, in part, to how patients were selected for TMAs. Specifically, tumor blocks were www.jco.org 
+
+excluded from TMA construction if removal of the cores would have rendered the block unsuitable for additional translational analyses. Thus, statistical comparison of the rate of PTEN positivity between TMAs and WSs was not provided in Table 1. Distribution and Heterogeneity of PTEN Protein Expression Among 1,802 tumors, 26% (n ⫽ 460) had 0 PTEN cytoplasmic staining, 36% (n ⫽ 650) had 1⫹, 29% (n ⫽ 523) had 2⫹, and 9.4% © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2117 
+
+Perez et al 
+
+Percentage of Patients 
+
+(n = 650) 
+
+40 
+
+(n = 523) 
+
+(n = 460) 
+
+35 30 25 20 
+
+(n = 169) 
+
+15 10 5 0 0 
+
+1+ 
+
+2+ 
+
+3 
+
+Intensity of PTEN Staining Fig 1. PTEN staining distribution for overall patient cohort. 
+
+(n ⫽ 169) had 3⫹ (Fig 1). Within the set of 1,181 patients represented by two or more scored cores on the TMA, agreement in the PTEN IHC scores (0 v 1⫹, 2⫹, 3⫹) across TMA cores was observed for 660 (56%) patients. Within the 516 patients represented by WSs, staining in 73 (14%) was considered heterogeneous, in which heterogeneity was defined as the percentage of staining at no single staining intensity (0, 1⫹, 2⫹, 3⫹) being greater than 50%. Of the 297 patients with WSs with PTEN staining (1⫹, 2⫹, 3⫹), heterogeneous staining was observed in 126 patients (42%). Nuclear and cytoplasmic 2 to 3⫹ stain- 
+
+A 
+
+Associations Between PTEN Protein Expression and DFS PTEN-negative (IHC 0) versus PTEN-positive (IHC 1 to 3⫹). No significant differences in DFS were observed between patients with PTEN-positive (IHC 1 to 3⫹) and PTEN-negative (IHC 0) tumors within any of the three arms by using the cut point of IHC 0 versus IHC 1 to 3⫹ (Table 2). In comparing DFS between arms C and A, patients with PTEN-positive and PTEN-negative tumors had HRs of 0.65 (P ⫽ .003) and 0.47 (P ⫽ .005), respectively (interaction P ⫽ .16; Figs 3A and 3B). In comparing DFS between arms B and A, patients with PTEN-positive and PTEN-negative tumors had HRs of 0.70 (P ⫽ .009) and 0.85 (P ⫽ .44), respectively (interaction P ⫽ .47; Figs 3A and 3B). In comparing DFS between arms C and B, patients with PTEN-positive and PTEN-negative tumors had HRs of 0.90 (P ⫽ .49) 
+
+B 
+
+C 
+
+2118 
+
+ing were 71% concordant, and the Spearman correlation between cytoplasmic and nuclear staining intensity was 0.46 (P ⬍ .001; Appendix Table A3, online only). The relevance of nuclear staining is biologically unclear, and thus it was not analyzed for relationship with DFS. Representative staining patterns of PTEN protein expression are shown in Figure 2. An example of typical heterogeneity of PTEN expression in both normal breast epithelium and carcinomatous epithelium can be seen in Appendix Figures 3A to 3C (online only). Correlation between PTEN and HER2 protein expression is described in Appendix Table A4 (online only). 
+
+D 
+
+© 2013 by American Society of Clinical Oncology 
+
+Fig 2. Representative PTEN staining. Immunohistochemical score of (A) 0, no cytoplasmic staining; (B) 1⫹, weak staining; (C) 2⫹, moderate staining; and (D) 3⫹, strong staining. 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+PTEN Protein Expression and Adjuvant Trastuzumab 
+
+Table 2. DFS by PTEN Cytoplasmic Staining (stratified by hormone receptor and nodal status) 
+
+Arm PTEN neg (defined as IHC 0) A (n ⫽ 601) B (n ⫽ 650) C (n ⫽ 551) PTEN neg (defined as IHC 0-1) A (n ⫽ 601) B (n ⫽ 650) C (n ⫽ 551) 
+
+DFS (months) 
+
+PTEN Cytoplasmic Staining Group 
+
+No. of Patients 
+
+No. of Events 
+
+HR 
+
+Neg (0) Pos (1, 2, or 3⫹) Neg (0) Pos (1, 2, or 3⫹) Neg (0) Pos (1, 2, or 3⫹) Neg (0) Pos (1, 2, or 3⫹) Neg (0 or 1⫹) Pos (2 or 3⫹) Neg (0 or 1⫹) Pos (2 or 3⫹) Neg (0 or 1⫹) Pos (2 or 3⫹) Neg (0 or 1⫹) Pos (2 or 3⫹) 
+
+460 1342 176 425 146 504 138 413 1110 692 361 240 401 249 348 203 
+
+110 303 53 120 38 106 19 77 259 154 109 64 95 49 55 41 
+
+1 0.96 1 0.92 1 0.81 1 1.40 1 0.96 1 0.87 1 0.79 1 1.27 
+
+95% CI 
+
+P 
+
+0.77 to 1.20 
+
+.70 
+
+0.66 to 1.28 
+
+.64 
+
+0.56 to 1.18 
+
+.27 
+
+0.84 to 2.32 
+
+.20 
+
+0.79 to 1.18 
+
+.70 
+
+0.64 to 1.19 
+
+.38 
+
+0.56 to 1.13 
+
+.19 
+
+0.84 to 1.92 
+
+.25 
+
+3-Year 
+
+5-Year 
+
+85.4 85.4 80.6 81.4 84.9 86.3 92.0 88.3 84.9 86.1 79.2 84.1 84.5 88.3 91.4 85.7 
+
+78.4 80.0 72.3 73.9 77.8 81.0 86.7 85.1 78.8 80.9 71.5 76.4 78.6 83.0 86.6 83.7 
+
+Abbreviations: DFS, disease-free survival; HR, hazard ratio; IHC, immunohistochemistry; Neg, negative; Pos, positive. 
+
+and 0.56 (P ⫽ .04), respectively (interaction P ⫽ .08; Figs 3A and 3B). Similar associations were observed between PTEN status and DFS when examining only patients represented on TMAs (results not shown). PTEN-negative (IHC 0, 1⫹) versus PTEN-positive (IHC 2⫹ to 3⫹). No significant differences in DFS were observed between patients with PTEN-positive and PTEN-negative tumors within any of the three arms by using the cut point of 0 to 1⫹ versus 2 to 3⫹ (Table 2). In comparing DFS between arms C (chemotherapy with concurrent trastuzumab) and A (chemotherapy alone), patients with PTENpositive and PTEN-negative tumors had HRs of 0.70 (P ⫽ .08) and 0.50 (P ⬍ .001), respectively (interaction P ⫽ .17; Figs 3C and 3D). In comparing DFS between arms B and A, patients with PTEN-positive and PTEN-negative tumors had HRs of 0.68 (P ⫽ .04) and 0.78 (P ⫽ .08), respectively (interaction P ⫽ .61; Figs 3C and 3D). In comparing DFS between arms C and B, patients with PTEN-positive and PTEN-negative tumors had HRs of 1.01 (P ⫽ .95) and 0.66 (P ⫽ .02), respectively (interaction P ⫽ .10; Figs 3C and 3D). In addition, patients who had tumors with PTEN cytoplasmic staining of 0, 1⫹, 2⫹, and 3⫹ had HRs (arm C v A) of 0.47 (95% CI, 0.28 to 0.79), 0.53 (95% CI, 0.35 to 0.82), 0.71 (95% CI, 0.44 to 1.16), and 0.50 (95% CI, 0.23 to 1.11), respectively (Appendix Fig A4, online only). DISCUSSION 
+
+PTEN is a tumor suppressor and a negative regulator of the PI3K/AKT survival pathway.8,9,11,14,25 To the best of our knowledge, our report is the largest study (n ⫽ 1,802) that investigates the impact of PTEN expression on the benefit of trastuzumab and is the first to do so in the adjuvant setting. In the N9831 tumor specimens, PTEN expression was heterogeneous and was characterized by both cytoplasmic and nuclear localization, similar to previous findings.8,14 We observed that 26% of tumors analyzed from patients with HER2-positive breast cancer had no detectable protein expression of PTEN, and 74% had detectable www.jco.org 
+
+cytoplasmic expression (defined as any 1⫹, 2⫹, or 3⫹ staining). If we define PTEN negativity as 0 to 1⫹ staining, then 62% of tumors had no or reduced expression, and 38% had PTEN protein expression similar to or higher than that observed in normal elements (defined as 2⫹). Our findings parallel data from previous studies by using IHC which showed that 22% to 64% of HER2-positive breast cancers express the PTEN protein to some degree, even in the setting of lack of standardized testing methodology in the literature.4,7-10,26 By using our primary cut point of PTEN positivity defined as any staining (IHC score of 1⫹, 2⫹, or 3⫹), we observed that PTEN positivity was associated with a lower rate of hormone receptor positivity (45% v 55%) and a higher rate of nodal positivity (87% v 83%). In contrast, by using the ⱖ 2⫹ cut point, PTEN cytoplasmic staining was associated with a higher rate of hormone receptor positivity (60% v 48%), analogous to previous reports in HER2-positive primary and metastatic breast cancer.14,17,24,27 In contrast to the hypothesis that PTEN loss is correlated with poor prognosis and decreased survival, our carefully conducted study demonstrated a lack of correlation of PTEN expression with outcome of N9831 patients. The DFS of patients within each treatment arm was not significantly different between patients with PTEN-positive and PTEN-negative tumors. We observed a benefit of concurrent trastuzumab compared with chemotherapy alone in all patients, independent of tumor PTEN protein expression. Our results in the adjuvant setting appear to conflict with a somewhat general consensus that PTEN loss correlates with trastuzumab resistance, although it is important to note that previously available correlative data have been inconsistent as well. Nagata et al8 reported that PTEN loss was associated with low rates of clinical response to trastuzumab treatment in 47 patients with metastatic breast cancer (no data on duration of response, progressionfree survival [PFS], or OS). Fujita et al9 also reported that loss of PTEN was associated with low rates of clinical response to trastuzumab plus paclitaxel treatment in 17 patients (no data on PFS or duration of response provided). Berns et al7 reported data on 34 patients and © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2119 
+
+Perez et al 
+
+Disease-Free Survival (%) 
+
+100 
+
+AC→T + H AC→T→H AC→T 
+
+B 
+
+90 
+
+80 
+
+70 
+
+AC→T AC→T→H AC→T AC→T + H AC→T→H AC→T + H 
+
+60 
+
+100 
+
+Disease-Free Survival (%) 
+
+A 
+
+n Events HR 95% CI P 176 53 1.0 146 38 0.85 0.55 to 1.30 .44 176 53 1.0 138 19 0.47 0.28 to 0.79 .005 146 38 1.0 138 19 0.56 0.32 to 0.97 .04 
+
+50 1 
+
+2 
+
+3 
+
+4 
+
+Time (years) 176 146 138 
+
+157 118 138 
+
+135 110 133 
+
+123 103 124 
+
+110 96 118 
+
+Disease-Free Survival (%) 
+
+100 
+
+93 80 102 
+
+AC→T + H AC→T→H AC→T 
+
+90 
+
+80 
+
+70 
+
+AC→T AC→T→H AC→T AC→T + H AC→T→H AC→T + H 
+
+60 
+
+n Events HR 95% CI P 361 109 1.0 401 95 0.78 0.59 to 1.03 .08 361 109 1.0 348 55 0.50 0.36 to 0.69 < .001 401 95 1.0 348 55 0.66 0.47 to 0.92 .02 
+
+50 
+
+No. at risk AC→T + H AC→T→H AC→T 
+
+80 
+
+70 
+
+AC→T AC→T→H AC→T AC→T + H AC→T→H AC→T + H 
+
+60 
+
+5 
+
+0 No. at risk AC→T + H AC→T→H AC→T 
+
+D 
+
+n Events HR 95% CI P 425 120 1.0 504 106 0.70 0.54 to 0.92 .009 425 120 1.0 413 77 0.65 0.48 to 0.86 .003 504 106 1.0 413 77 0.90 0.67 to 1.21 .49 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+275 313 346 
+
+241 269 314 
+
+Time (years) 425 504 413 
+
+365 388 403 
+
+321 357 379 
+
+296 332 361 
+
+100 
+
+Disease-Free Survival (%) 
+
+C 
+
+90 
+
+50 0 
+
+No. at risk AC→T + H AC→T→H AC→T 
+
+AC→T + H AC→T→H AC→T 
+
+AC→T + H AC→T→H AC→T 
+
+90 
+
+80 
+
+70 
+
+AC→T AC→T→H AC→T AC→T + H AC→T→H AC→T + H 
+
+60 
+
+n Events HR 95% CI P 240 64 1.0 249 49 0.68 0.47 to 0.99 .04 240 64 1.0 203 41 0.70 0.47 to 1.04 .08 249 49 1.0 203 41 1.01 0.66 to 1.55 .95 
+
+50 0 
+
+1 
+
+2 
+
+361 401 348 
+
+313 310 345 
+
+267 282 328 
+
+3 
+
+4 
+
+5 
+
+220 248 296 
+
+189 206 266 
+
+Time (years) 241 262 312 
+
+No. at risk AC→T + H AC→T→H AC→T 
+
+0 
+
+1 
+
+2 
+
+240 249 203 
+
+209 196 196 
+
+189 185 184 
+
+3 
+
+4 
+
+5 
+
+165 161 168 
+
+145 143 150 
+
+Time (years) 178 173 173 
+
+Fig 3. Kaplan-Meier curves of disease-free survival by treatment arm. (A) Negative (0), (B) positive (1, 2, or 3⫹), (C) negative (0 or 1⫹), and (D) positive (2 or 3⫹) PTEN cytoplasmic staining. AC, doxorubicin 60 mg/m2 plus cyclophosphamide 600 mg/m2 once every 3 weeks ⫻ 4; T, paclitaxel 80 mg/m2/wk ⫻ 12 weeks; H, trastuzumab 4 mg/kg loading ⫹ 2 mg/kg/wk ⫻ 52 weeks; HR, hazard ratio. 
+
+found that those with either PI3K mutations or PTEN loss had shorter PFS than patients without those abnormalities; hazard ratios for each separate factor were not significant. Gori et al10 evaluated PTEN and three other markers (EGFR, pMAPK, and pAKT) in 45 patients but did not find any significant correlations between these markers and clinical response to trastuzumab, time to progression, or OS. Fabi et al4 studied PTEN, pAKT, and PI3K expression in 73 patients and reported a statistically nonsignificantly (P ⫽ .06) longer PFS for response to trastuzumab-containing therapy in patients with PTENpositive tumors compared with patients with PTEN-negative tumors. Patients coexpressing PTEN and pAKT (P ⫽ .01) or coexpressing PTEN and PI3K (P ⫽ .05) had relatively significantly longer PFS compared with the remaining patients. Esteva et al14 evaluated PTEN, pAKT, and PI3K mutations in 137 patients. They reported that none of the markers were independently predictive of response for the overall group of patients but that activation of the PI3K pathway (defined as PTEN loss and/or PIK3CA mutation) was significantly associated with poor response to trastuzumab and shorter survival 2120 
+
+© 2013 by American Society of Clinical Oncology 
+
+time in patients receiving trastuzumab in the first-line metastatic setting. A recent study by Razis et al25 had similar findings that demonstrated that PTEN loss and/or PIK3CA mutation was associated with decreased time to progression and survival in a group of 139 patients with metastatic disease with HER2-positive tumors treated with trastuzumab. Thus, an aggregate review of these published studies demonstrates inconsistent outcome correlations with PTEN protein alone or with PI3K mutations in the metastatic setting.14 Neoadjuvant studies also have yielded different conclusions.11,15 The study by Yonemori et al15 did not demonstrate a relationship between loss of PTEN expression or PTEN loss combined with pAKT expression and pathologic complete response in 44 patients who received trastuzumab-containing therapy. In contrast, the study of 31 patients by Dave et al11 demonstrated that only four (18%) of the 22 patients with low PTEN expression or PIK3CA mutations and six (67%) of nine patients without low PTEN expression or PIK3CA mutations achieved pathologic complete response to trastuzumab plus docetaxel. Moreover, biomarker data from the neoadjuvant JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+PTEN Protein Expression and Adjuvant Trastuzumab 
+
+HER2-positive NeoSphere study failed to find a correlation between PTEN protein (cytoplasmic or nuclear) or PI3K mutations with pathologic complete response to anti-HER2 therapy.17 These neoadjuvant data are conflicting regarding the relationship of PTEN protein expression in response to trastuzumab-containing therapies. Data regarding the role of PI3K mutation and outcome of patients from the FinHER phase III adjuvant study were recently reported. The investigators demonstrated a lack of association between PI3K mutations and relapse-free survival differences for patients who were randomly assigned to chemotherapy versus chemotherapy plus trastuzumab for early-stage HER2-positive breast cancer.16 In summary, literature studies have reported inconsistent correlative data of PTEN protein expression in tumor specimens from patients with HER2-positive breast cancer. Many studies used different antibodies and scoring methods, highlighting the need for standardized methodology and scoring criteria for reliable validation of biomarkers. In addition, the data in metastatic breast cancer studies have relied on tumor specimens obtained at the time of original diagnosis, not specimens from the metastatic tumors themselves. This latter point may be particularly significant because a recent investigation showed high discordance in PTEN levels (26%), PIK3CA mutations (18%), and hormone or HER2 status (25%) between matched primary tumor and metastases.26 Overall, the N9831 data indicate that PTEN protein expression alone (independent of cut point) is not significantly associated with prognosis or with differential benefit to concurrent trastuzumab. Importantly, the conflicting results obtained between this study in the adjuvant setting and some (not all) of the reported small studies in the metastatic and neoadjuvant settings highlight the need for accurate validation of biomarkers in large patient groups, with appropriate annotation for selecting treatment for patients and considering preanalytic variables, tissue sampling techniques, intratumoral heterogeneity, and cut point thresholds for biomarker negativity and/or positivity.28 We are continuing protein expression and whole genome expression profiling studies of tumors from patients in N9831 to REFERENCES 1. Perez EA, Suman VJ, Davidson NE, et al: Sequential versus concurrent trastuzumab in adjuvant chemotherapy for breast cancer. J Clin Oncol 29:4491-4497, 2011 2. Arteaga CL, Sliwkowski MX, Osborne CK, et al: Treatment of HER2-positive breast cancer: Current status and future perspectives. Nat Rev Clin Oncol 9:16-32, 2012 3. Perez EA, Spano JP: Current and emerging targeted therapies for metastatic breast cancer. Cancer 118:3014-3025, 2012 4. Fabi A, Metro G, Di Benedetto A, et al: Clinical significance of PTEN and p-Akt co-expression in HER2-positive metastatic breast cancer patients treated with trastuzumab-based therapies. Oncology 78:141-149, 2010 5. Mukohara T: Mechanisms of resistance to anti-human epidermal growth factor receptor 2 agents in breast cancer. Cancer Science 102:1-8, 2011 6. Zhang S, Yu D: PI(3)king apart PTEN⬘s role in cancer. Clin Cancer Res 16:4325-4330, 2010 7. Berns K, Horlings HM, Hennessy BT, et al: A functional genetic approach identifies the PI3K pathwww.jco.org 
+
+examine the association between DFS and a combination of markers to gain better understanding of the effect of altering signaling pathways on benefit from adjuvant trastuzumab and chemotherapy. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) and/or an author’s immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Peter A. Kaufman, Genentech (C); George W. Sledge, Symphogen (C) Stock Ownership: None Honoraria: None Research Funding: Edith A. Perez, Genentech, GlaxoSmithKline; Peter A. Kaufman, Genentech; Julie R. Gralow, Amgen, Genentech/Roche, Novartis Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Edith A. Perez, Amylou C. Dueck, Ann E. McCullough, Wilma L. Lingle, Monica M. Reinholz Provision of study materials or patients: Edith A. Perez, Nancy E. Davidson, Silvana Martino, Peter A. Kaufman, Julie R. Gralow Collection and assembly of data: Edith A. Perez, Amylou C. Dueck, Ann E. McCullough, Xochiquetzal J. Geiger, Monica M. Reinholz Data analysis and interpretation: Edith A. Perez, Amylou C. Dueck, Ann E. McCullough, Beiyun Chen, Robert B. Jenkins, Wilma L. Lingle, Nancy E. Davidson, Silvana Martino, Peter A. Kaufman, Leila A. Kutteh, George W. Sledge, Lyndsay N. Harris, Julie R. Gralow, Monica M. Reinholz Manuscript writing: All authors Final approval of manuscript: All authors 
+
+way as a major determinant of trastuzumab resistance in breast cancer. Cancer Cell 12:395-402, 2007 8. Nagata Y, Lan KH, Zhou X, et al: PTEN activation contributes to tumor inhibition by trastuzumab, and loss of PTEN predicts trastuzumab resistance in patients. Cancer Cell 6:117-127, 2004 9. Fujita T, Doihara H, Kawasaki K, et al: PTEN activity could be a predictive marker of trastuzumab efficacy in the treatment of ErbB2-overexpressing breast cancer. Br J Cancer 94:247-252, 2006 10. Gori S, Sidoni A, Colozza M, et al: EGFR, pMAPK, pAkt and PTEN status by immunohistochemistry: Correlation with clinical outcome in HER2-positive metastatic breast cancer patients treated with trastuzumab. Ann Oncol 20:648-654, 2009 11. Dave B, Migliaccio I, Gutierrez MC, et al: Loss of phosphatase and tensin homolog or phosphoinositol-3 kinase activation and response to trastuzumab or lapatinib in human epidermal growth factor receptor 2-overexpressing locally advanced breast cancers. J Clin Oncol 29:166-173, 2011 12. O’Brien NA, Browne BC, Chow L, et al: Activated phosphoinositide 3-kinase/AKT signaling confers resistance to trastuzumab but not lapatinib. Mol Cancer Ther 9:1489-1502, 2010 
+
+13. Faratian D, Goltsov A, Lebedeva G, et al: Systems biology reveals new strategies for personalizing cancer medicine and confirms the role of PTEN in resistance to trastuzumab. Cancer Res 69:6713-6720, 2009 14. Esteva FJ, Guo H, Zhang S, et al: PTEN, PIK3CA, p-AKT, and p-p70S6K status: Association with trastuzumab response and survival in patients with HER2-positive metastatic breast cancer. Am J Pathol 177:1647-1656, 2010 15. Yonemori K, Tsuta K, Shimizu C, et al: Immunohistochemical expression of PTEN and phosphorylated Akt are not correlated with clinical outcome in breast cancer patients treated with trastuzumabcontaining neo-adjuvant chemotherapy. Med Oncol 26:344-349, 2009 16. Loi S, Michiels S, Lambrechts D, et al: Tumor PIK3CA mutations, lymphocyte infiltration, and recurrence-free survival (RFS) in early breast cancer (BC): Results from the FinHER trial. J Clin Oncol 30:8s, 2012 (suppl; abstr 507) 17. Gianni L, Pienkowski T, Im YH, et al: Efficacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inflammatory, or early HER2-positive breast cancer (NeoSphere): A randomised multicentre, open-label, phase 2 trial. Lancet Oncol 13:25-32, 2012 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2121 
+
+Perez et al 
+
+18. Perez EA, Jenkins RB, Dueck AC, et al: C-MYC alterations and association with patient outcome in early-stage HER2-positive breast cancer from the North Central Cancer Treatment Group N9831 Adjuvant Trastuzumab Trial. J Clin Oncol 29:651-659, 2011 19. Perez EA, Roche PC, Jenkins RB, et al: HER2 testing in patients with breast cancer: Poor correlation between weak positivity by immunohistochemistry and gene amplification by fluorescence in situ hybridization. Mayo Clin Proc 77:148-154, 2002 20. Herceptin (trastuzumab) package insert. Genentech, San Francisco, CA, May 2008. http:// www.gene.com/gene/products/information/pdf/ herceptin-prescribing.pdf 
+
+21. Sangale Z, Prass C, Carlson A, et al: A robust immunohistochemical assay for detecting PTEN expression in human tumors. Appl Immunohistochem Mol Morphol 19:173-183, 2011 22. The Human Protein Atlas. http://www.proteinatlas .org/ENSG00000171862/normal/breast 23. Sakr RA, Barbashina V, Morrogh M, et al: Protocol for PTEN expression by immunohistochemistry in formalin-fixed paraffin-embedded human breast carcinoma. Appl Immunohistochem Mol Morphol 18:371-374, 2010 24. Winter JL, Stackhouse BL, Russell GB, et al: Measurement of PTEN expression using tissue microarrays to determine a race-specific prognostic marker in breast cancer. Arch Pathol Lab Med 131:767-772, 2007 
+
+25. Razis E, Bobos M, Kotoula V, et al: Evaluation of the association of PIK3CA mutations and PTEN loss with efficacy of trastuzumab therapy in metastatic breast cancer. Breast Cancer Res Treat 128:447-456, 2011 26. Gonzalez-Angulo AM, Ferrer-Lozano J, StemkeHale K, et al: PI3K pathway mutations and PTEN levels in primary and metastatic breast cancer. Mol Cancer Ther 10:1093-1101, 2011 27. Pérez-Tenorio G, Alkhori L, Olsson B, et al: PIK3CA mutations and PTEN loss correlate with similar prognostic factors and are not mutually exclusive in breast cancer. Clin Cancer Res 13:3577-3584, 2007 28. Tolles J, Bai Y, Baquero M, et al: Optimal tumor sampling for immunostaining of biomarkers in breast carcinoma. Breast Cancer Res 13:R51, 2011 
+
+■ ■ ■ 
+
+Be the First to Hear When New Clinical Cancer Research Is Published Online By signing up for JCO’s Early Release Notification, you will be alerted and have access to new articles posted online every Monday, weeks before they appear in print. All Early Release articles are searchable and citable, and are posted on jco.org in advance of print publication. Simply go to jco.org/earlyrelease, sign in, select “Early Release Notification,” and click the SUBMIT button. Stay informed—sign up today! 
+
+2122 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+PTEN Protein Expression and Adjuvant Trastuzumab 
+
+Appendix 
+
+Table A1. Patient Characteristics: Cohort v Noncohort Noncohort (no PTEN results) (n ⫽ 1,011; 36%) 
+
+PTEN Cohort (n ⫽ 1,802; 64%) Characteristic Age, years Median Range Age group ⬍ 40 40-49 50-59 ⱖ 60 Race/ethnicity White Other Menopausal status Premenopausal (or younger than age 50 years) Postmenopausal (or age 50 years or older) ER/PR status ER positive or PR positive Other Surgery Breast conserving Mastectomy Nodal status Node positive (1-3 positive nodes) Node positive (4-9 positive nodes) Node positive (ⱖ 10 positive nodes) Node negative (no positive nodes) Positive sentinel node Negative sentinel node Predominant tumor histology Ductal Lobular Other Missing Histologic tumor grade (Elston/SBR) Well/intermediate Poor Pathologic tumor size, cm ⬍2 ⱖ2 
+
+No. 
+
+% 
+
+No. 
+
+50 22-80 
+
+% 
+
+␹2 P 
+
+49 23-82 .67ⴱ 
+
+318 579 582 323 
+
+18 32 32 18 
+
+169 342 337 163 
+
+17 34 33 16 
+
+1,545 257 
+
+86 14 
+
+852 159 
+
+84 16 
+
+959 843 
+
+53 47 
+
+550 461 
+
+54 46 
+
+856 946 
+
+48 53 
+
+452 559 
+
+45 55 
+
+701 1,101 
+
+39 61 
+
+385 626 
+
+38 62 
+
+706 461 237 116 137 145 
+
+39 26 13 6 8 8 
+
+408 268 140 47 74 74 
+
+40 27 14 5 7 7 
+
+1,704 53 44 1 
+
+95 3 2 0.1 
+
+958 31 20 2 
+
+95 3 2 0.2 
+
+508 1,294 
+
+28 72 
+
+286 725 
+
+28 72 
+
+574 1,228 
+
+32 68 
+
+352 659 
+
+35 65 
+
+.29 
+
+.55 
+
+.15 
+
+.67 
+
+.45† 
+
+.72‡ 
+
+.96 
+
+.11 
+
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor; SBR, Scarff-Bloom-Richardson 关breast cancer grading system兴. ⴱ Mantel-Haenszel trend test. †Negative v positive P ⫽ .06. ‡Missing not included in calculation. 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Perez et al 
+
+Table A2. Patient Characteristics by Negative v Positive PTEN Cytoplasmic Staining PTEN Cytoplasmic Staining (N ⫽ 1,802) Negative (0 or 1⫹) (n ⫽ 1,110; 62%) Characteristic Age, years Median Range Age group ⬍ 40 40-49 50-59 ⱖ 60 Race/ethnicity White Other Menopausal status Premenopausal (or younger than age 50 years) Postmenopausal (or age 50 years or older) ER/PR status ER positive or PR positive Other Surgery Breast conserving Mastectomy Nodal status Node positive (1-3 positive nodes) Node positive (4-9 positive nodes) Node positive (ⱖ 10 positive nodes) Node negative (no positive nodes) Positive sentinel node Negative sentinel node Predominant tumor histology Ductal Lobular Other Missing Histologic tumor grade (Elston/SBR) Well/intermediate Poor Pathologic tumor size, cm ⬍2 ⱖ2 Source of tissue Tissue microarray Whole section 
+
+No. 
+
+Positive (2 or 3⫹) (n ⫽ 692; 38%) % 
+
+No. 
+
+50 22-80 
+
+␹2 P 
+
+% 50 23-79 
+
+.71ⴱ 193 361 351 205 
+
+17 33 32 18 
+
+125 218 231 118 
+
+18 32 33 17 
+
+946 164 
+
+85 15 
+
+599 93 
+
+87 13 
+
+578 532 
+
+52 48 
+
+381 311 
+
+55 45 
+
+534 576 
+
+48 52 
+
+412 280 
+
+60 41 
+
+428 682 
+
+39 61 
+
+273 419 
+
+39 61 
+
+430 259 150 83 81 107 
+
+39 23 14 7 7 10 
+
+276 202 87 33 56 38 
+
+40 29 13 5 8 5 
+
+1,039 39 31 1 
+
+94 4 3 0.1 
+
+665 14 13 0 
+
+96 2 2 0 
+
+304 806 
+
+27 73 
+
+204 488 
+
+29 71 
+
+359 751 
+
+32 68 
+
+215 477 
+
+31 69 
+
+694 416 
+
+63 37 
+
+592 100 
+
+86 14 
+
+.43 
+
+.22 
+
+⬍ .001 
+
+.71 
+
+.001† 
+
+.08‡ 
+
+.34 
+
+.57 
+
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor; SBR, Scarff-Bloom-Richardson 关breast cancer grading system兴. ⴱ Mantel-Haenszel trend test. †Negative v positive P ⬍ .001. ‡Missing not included in calculation. 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+PTEN Protein Expression and Adjuvant Trastuzumab 
+
+Table A3. Correlation Between Cytoplasmic and Nuclear PTEN Staining Cytoplasmic PTEN Staining (N ⫽ 1,802) 0 
+
+1⫹ 
+
+2, 3⫹ 
+
+Nuclear PTEN Staining 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+Total 
+
+0 1⫹ 2, 3⫹ Total 
+
+440 19 1 460 
+
+36 5 0.5 
+
+483 137 30 650 
+
+39 40 13 
+
+309 190 193 692 
+
+25 55 86 
+
+1,232 346 224 1,802 
+
+NOTE. Spearman correlation 0.46 (P ⬍ .001). 
+
+Table A4. Correlation Between PTEN and HER2 Protein Expression PTEN Cytoplasmic Staining (N ⫽ 1,797) 0 
+
+1⫹ 
+
+2, 3⫹ 
+
+Total 
+
+HER2 IHC 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+0 1⫹ 2⫹ 3⫹ Total 
+
+15 8 74 358 455 
+
+65 30 42 23 25 
+
+4 11 61 574 650 
+
+17 41 34 37 36 
+
+4 8 42 638 692 
+
+17 30 24 41 39 
+
+23 27 177 1,570 1,797 
+
+1 2 10 87 
+
+NOTE. Spearman correlation 0.15 (P ⬍ .001). Abbreviations: HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry. 
+
+Group A (n = 1,232) 
+
+HER2 positive (FISH HER2:CEP17 ratio ≥ 2.0 or IHC 3+ > 10%) (N = 3,505) 
+
+Randomize 
+
+AC 
+
+T 
+
+Group B (n = 1,216) AC 
+
+H 
+
+T 
+
+Group C (n = 1,057) AC 
+
+T H 
+
+= AC (doxorubicin/cyclophosphamide 60/600 mg/m2 q3w × 4) = T (paclitaxel 80 mg/m2/wk × 12 weeks) = H (trastuzumab 4 mg/kg loading + 2 mg/kg/wk × 52 weeks) 
+
+Fig A1. Schema for North Central Cancer Treatment Group (NCCTG) N9831 trial incorporating trastuzumab in adjuvant therapy. FISH, fluorescent in situ hybridization; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; q3w, once every 3 weeks. 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Perez et al 
+
+Registered to N9831 (N = 3,505) 
+
+Arm A (n = 1,232) 
+
+Excluded Failed (n = 109) central review Cancelled (n = 15) Ineligible (n = 21) No consent (n = 65) Lost to (n = 65) follow-up Excluded No or inadequate tissue Technical failure 
+
+Consented (n = 957) and eligible 
+
+(n = 346) (n = 10) PTEN results available for statistical analysis (n = 601) Tissue (n = 418) microarray Whole (n = 183) section 
+
+Arm B (n = 1,216) 
+
+Excluded Failed (n = 90) central review Cancelled (n = 6) Ineligible (n = 23) No consent (n = 71) Lost to (n = 43) follow-up Excluded No or inadequate tissue Technical failure 
+
+Consented (n = 983) and eligible 
+
+(n = 319) (n = 14) PTEN results available for statistical analysis (n = 650) Tissue (n = 476) microarray Whole (n = 174) section 
+
+Arm C (n = 1,057) 
+
+Excluded Failed (n = 84) central review Cancelled (n = 7) Ineligible (n = 17) No consent (n = 55) Lost to (n = 21) follow-up Excluded No or inadequate tissue Technical failure 
+
+Consented (n = 873) and eligible 
+
+(n = 312) (n = 10) PTEN results available for statistical analysis (n = 551) Tissue (n = 392) microarray Whole (n = 159) section 
+
+Fig A2. Patient flow diagram. 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+PTEN Protein Expression and Adjuvant Trastuzumab 
+
+A 
+
+B 
+
+C 
+
+Fig A3. (A) PTEN variability in normal (left) and malignant (right) breast epithelium. Cell signaling anti-PTEN antibody 1:250, diaminobenzidine (DAB), ⫻100. (B) PTEN lost, positive endothelial internal control. Cell signaling anti-PTEN antibody 1:250, DAB, ⫻200. (C) PTEN lost, positive normal breast internal control. Cell signaling anti-PTEN antibody 1:250, DAB, ⫻200. 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Cytoplasmic Staining 
+
+Perez et al 
+
+P 
+
+n 
+
+3+ 
+
+.09 
+
+112 
+
+2+ 
+
+.17 
+
+331 
+
+1+ 
+
+.004 
+
+395 
+
+0 
+
+.005 
+
+314 
+
+0.00 
+
+0.50 
+
+1.00 
+
+1.50 
+
+2.00 
+
+2.50 
+
+3.00 
+
+Hazard Ratios (95% CIs) Fig A4. Forest plot: comparison of disease-free survival between concurrent trastuzumab and chemotherapy alone (arm C v arm A) within PTEN cytoplasmic staining subgroups. 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2013 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+ 

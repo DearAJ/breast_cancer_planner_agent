@@ -1,0 +1,275 @@
+Radiotherapy and Oncology 206 (2025) 110836 
+
+Contents lists available at ScienceDirect 
+
+Radiotherapy and Oncology journal homepage: www.thegreenjournal.com 
+
+Original Article 
+
+Adapting radiation therapy to immunotherapy: Delineation and treatment planning of pre-operative immune-modulating breast iSBRT in 151 patients treated in the randomized phase II Neo-CheckRay trial A.De Caluwé a,* , S. Bellal a , K. Cao b , K. Peignaux c, V. Remouchamps d, A. Baten e , E. Longton f, I. Bessieres c, J. Vu-Bezin b, Y. Kirova b, D.Van Gestel a, I. Desmoulins c, M. Ignatiadis a , E. Romano b , L. Buisseret a , M. Piccart a , C. Vandekerkhove a, A. Gulyban a , P. Poortmans g a 
+
+Jules Bordet Institute, Hôpital Universitaire de Bruxelles, Université Libre de Bruxelles, Brussels, Belgium Institut Curie, Paris, France c Centre George François Leclerc, Dijon, France d Clinique Hospitalier Universitaire CHU UCL St. Elisabeth, Namur, Belgium e Universitaire Ziekenhuizen Leuven, Leuven, Belgium f Cliniques Universitaires St. Luc, Brussels, Belgium g Iridium Netwerk and University of Antwerp, Antwerp, Belgium b 
+
+A R T I C L E I N F O 
+
+A B S T R A C T 
+
+Keywords: Neo-CheckRay stereotactic body radiation therapy (SBRT) Immunotherapy Draining lymph nodes Breast cancer Preoperative radiation therapy 
+
+Background and purpose: The randomized multicentric phase II Neo-CheckRay trial investigated preoperative immune-modulating stereotactic body radiation therapy (iSBRT) 8 Gy x 3 fractions in combination with chemotherapy with or without the anti PD-L1 durvalumab and the anti-CD73 oleclumab in early-stage, high-risk, luminal B breast cancer. iSBRT was solely delivered to the primary breast cancer leveraging on its immune modulating potential to sustain an anti-tumour response. To avoid immunosuppression induced by radiation therapy (RT), the tumour draining lymph nodes (TDLN) were spared. Here, we present the constraints used in the Neo-CheckRay trial and a dosimetric analysis of all delivered treatment plans with a special focus on the dose to the TDLN. Materials and Methods: Main constraints were the skin (D0.1 cc < 19.2 Gy), chest wall (D1cc < 15 Gy) and ipsilateral uninvolved breast (V24Gy < 30 %). The dose to the TDLN was reduced by avoiding beams entering or exiting the TDLN. In the present work, the DICOM-RT data of all the patients treated in the Neo-CheckRay trial were collected (n = 151) to describe doses to the target volume, to the organs at risk and the TDLN. The TDLN volumes consisted of the internal mammary nodes (IMN) and the axilla levels I-IV including the interpectoral nodes. Results: In 151 patients, the median V95% of the gross target volume (GTV) and planning target volume (PTV) were 97.4 % (90 % CI 26.5–100) and 95.5 % (56.1–100). The mean dose (dMean) to all TDLN volumes was < 1 Gy. The highest dMean were to the IMN and axilla level 1: 0.8 Gy (90 % CI 0.1–2.7) and 0.6 Gy (0.0–3.9), respectively. The dMean to the involved lymph nodes, if present, was 0.3 Gy (0.0–5.0). Conclusion: In the Neo-CheckRay trial, the predefined organs at risk dose constraints were feasible and the TDLN were adequately spared. 
+
+Introduction Immune checkpoint inhibitors (ICI) have been investigated in com­ bination with preoperative chemotherapy in early-stage triple negative 
+
+breast cancer (TNBC) and in estrogen receptor-positive, human epidermal growth factor receptor 2-negative (ER+/HER2) breast cancer (BC). In TNBC, the addition of ICI to preoperative chemotherapy resulted in a 13.6 % increase of pathological complete response (pCR) 
+
+* Corresponding author at: Rue Meylemeersch 90, 1070 Brussels, Belgium. E-mail address: alex.decaluwe@bordet.be (A.De Caluwé). https://doi.org/10.1016/j.radonc.2025.110836 Received 19 November 2024; Received in revised form 17 February 2025; Accepted 1 March 2025 Available online 6 March 2025 0167-8140/© 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/). 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+and improved overall survival with 5.0 % at 5 years [1,2]. In ER+/ HER2- BC, the addition of ICI to preoperative chemotherapy yielded an 8.7 % increase in pCR [3] and long-term outcome results are awaited [4]. Generally, ER+/HER2- BC has a better overall prognosis than other BC subtypes, but the luminal B subtype is characterized by high-grade tumours, lower sensitivity to endocrine therapy, higher benefit to chemotherapy and a worse prognosis compared to patients with luminal A tumours [5–7]. High-risk luminal B BC can be selected using gene expression signatures, such as the MammaPrint [7,8]. More than 40 % of patients with luminal B BC treated with preoperative chemotherapy will develop a local or distant recurrence within 5 years [5–7]. However, patients responding well to preoperative chemotherapy present a better outcome [5,6], highlighting the importance of developing novel primary systemic treatments. The tumour microenvironment (TME) is less inflamed in luminal BC in comparison to TNBC, characterized by a lower presence of tumour infiltrating lymphocytes (TILs) and lower programmed death-ligand 1 (PD-L1) expression [9,10]. In TNBC, increased TIL levels are associated with response to chemotherapy and immunotherapy, and with increased survival, whereas in luminal BC the prognostic value of increased TIL levels is not fully established [11]. However, selected luminal B BC can be highly proliferative tumours with higher TILs, for which ICI could be effective [12]. Radiation therapy (RT) could be an innovative approach to increase the efficacy of ICI in immune cold tumours by priming the immune response and promoting the conversion to a more inflamed TME [13,14]. The combination of ICI and RT may offer unique benefits, such as enhancing anti-tumour immune response and potentially eliminating micrometastatic disease. This approach may be particularly suited for early-stage BC, involving a preoperative combination of RT, ICI, and chemotherapy, followed by surgery [15]. In the preoperative setting, RT can be delivered solely to the primary BC, facilitating sparing of the tumour draining lymph nodes (TDLN) to protect the immune response directed to the tumour [16,17]. By reducing RT-induced immunosup­ pression, the overall balance could be tilted towards an effective im­ mune response by boosting the synergy between RT and ICI. Following this strategy, the irradiation of elective lymph nodes, the ipsilateral healthy breast and chest wall, if indicated, are delayed to the post­ operative setting. The postoperative tumour bed boost is not given, as it is replaced by preoperative RT to the primary tumour. As most of the preoperatively irradiated tissue will be removed within the surgical specimen, the preoperative RT dose may likely be increased in com­ parison to a regular boost dose [18]. The primary BC can be treated preoperatively with highly conformal and precise stereotactic body ra­ diation therapy (SBRT). The goal of immune-modulating SBRT (iSBRT) is to deliver the treatment using doses and fractionation that are better suited to a concomitant treatment with ICI while simultaneously sparing the TDLN [20]. In murine pre-clinical results, the dose of 8 Gy x 3 fractions demonstrated a promising synergy between RT and ICI, how­ ever the optimal fractionation schedule for combining RT and ICI in humans remains largely unknown and could be tumour-dependent [19–21]. In the Neo-CheckRay trial, 8 Gy x 3 using an iSBRT technique were delivered to the primary tumour concomitantly with preoperative antiPD-L1 (durvalumab), anti-CD73 (oleclumab) and chemotherapy in highrisk, non-metastatic, luminal B BC (Fig. 1) [22]. Oleclumab is an aden­ osine pathway blocker that is given concomitantly with ICI and RT to counteract RT-induced immunosuppression [23,24]. The treatment combination is given with curative intent followed by surgery and postoperative treatment according to standard of care Here, we present a dosimetric analysis of all the patients treated in the Neo-CheckRay trial, we discuss the contouring and planning protocol, and we discuss the dose to the TDLN, the organs at risk (OARs) and the target. 
+
+Materials and Methods Trial design The Neo-CheckRay clinical trial (NCT03875573) is a randomized, multicentre, open-label phase II study that randomized patients with early-stage, newly diagnosed, luminal B BC that are candidates for preoperative chemotherapy (Fig. 1 A). Eligible patients were women aged ≥ 18 years with an Eastern Cooperative Oncology Group (ECOG) performance-status score of 0 or 1 [25], and adequate organ function. The tumour stage should be cT2-3 N0 or cT1b-3 N1-3 with the primary tumour size measured on magnetic resonance imaging (MRI). Multifocal and bilateral BC were accepted. The tumour should be ER+, defined as at least 1 % of cells showing positive staining for ER; and HER2-, defined as an immunohistochemistry (IHC) score of 0 or 1+, or an IHC score of 2 + with a negative in situ hybridization (ISH); proliferation index Ki67 ≥ 15 % or histological grade 3 and MammaPrint status high-risk [7]. Full eligibility criteria are listed in the Supplement. Surgery was planned 2–6 weeks after completion of chemotherapy and consisted of breast conserving surgery or mastectomy, and a sentinel node procedure and/or axillary lymph node dissection. More details on the general trial design are available in a previous publication [22]. The primary objective of the phase II Neo-CheckRay study is to demonstrate an improved tumour response rate after primary systemic therapy with minimal or no residual disease in the primary tumour and in the lymph nodes in arms 2 or 3 versus arm 1. The primary endpoint of the phase II trial is not reported here. Before starting the phase II ran­ domized trial, a safety run-in was conducted in six patients as a pilot study and was previously published [26]. Fiducials and simulation Placement of MRI-compatible fiducials was mandatory prior to simulation for patients treated on a CBCT-based (cone beam computed tomography) LINAC, while for patients treated on MRI-LINAC this was an optional requirement. The fiducials were preferably placed cranial, caudal, or laterally (left or right) of the tumour, while avoiding the anterior (between the tumour and the skin) or posterior positions. The CT simulation was performed within 14 days preceding the start of iSBRT treatment. The use IV contrast was mandatory unless medical contra-indication. Respiratory control techniques, such as deep inspi­ ration breath hold, were used according to the local policy. A 3 mm slice thickness was required, and scan range should extend from the bottom of the mandible to several centimetres below the infra-mammary line, including both lungs entirely. Contouring of the target volumes and OAR Gross Tumour Volume (GTV) was determined considering all avail­ able information: the contrast-enhanced treatment planning CT; the localization on the mammogram, ultrasound, MRI, and PET-scan (optional); and the fiducials. The use of an MRI in treatment position was encouraged but was not obligatory. No clinical target volume (CTV) extension was applied. Planning Target Volume (PTV): the participating centre was allowed to individualise these margins based on own mea­ sures and techniques used such as IGRT (image guided radiation ther­ apy) and SGRT (surface guided radiation therapy). A GTV to PTV margin between 3 mm and 5 mm was recommended. The GTV_eval and the PTV_eval were created by removing the GTV and PTV within 3 mm from the body contour. The involved lymph nodes (LN_INV), based on ul­ trasound, PET/CT or MRI and biopsy or cytology, were contoured in patients that are reported to be node positive. The TDLN were contoured according to the ESTRO guidelines [27,28]: the internal mammary lymph nodes (IMN), the axillary levels 1–4 (separately) (L1-4) and the interpectoral (IP) nodes. Other struc­ tures to be contoured were the ipsilateral and contralateral breast, the 2 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+Fig. 1. Trial design and example of tumour draining lymph nodes-sparing SBRT. A: design of the Neo-CheckRay phase II randomized trial. Immune-modulating stereotactic body radiation therapy (iSBRT) was delivered to a dose of 8 Gy x 3 fractions to a total dose of 24 Gy. Systemic treatment consisted of q1w paclitaxel 80 mg/m2 IV for 12 administrations (12 weeks) followed by q2w dose-dense doxorubicin-cyclophosphamide (ddAC) IV (60 mg/m2 and 600 mg/m2 respectively) for 4 administrations; the anti-PD-L1 antibody durvalumab 1500 mg IV q4w for 5 administrations and the anti-CD73 antibody oleclumab 3000 mg IV q2w for 4 ad­ ministrations followed by q4w for 3 administrations. Patients were randomized on a 1:1:1 basis between the three treatment arms. B: Tumour draining nodes sparing immune-modulating body radiation therapy (iSBRT). Axillary lymph node level 1 (L1) and an ultrasound proven tumour involved lymph node (LN_INV) are considered as organs at risk during dosimetric planning: the 2 Gy isodose line (light green) avoids L1. The PTV is shown in green and the 24 Gy (8 Gy x 3 fractions)) isodose in red. The marker is used during image guided iSBRT using the on-board cone beam computed tomography (CBCT). Abbreviations: CDK4/6, cyclin-dependent kinase 4/6; ddAC, dose-dense doxorubicin-cyclophosphamide; ET, endocrine treatment; L1, axilla level 1; LN_INV, lymph node involved; pCR, pathological complete response; PTV, planning target volume; RCB, residual cancer burden; RT, radiation therapy; iSBRT, immune-modulating stereotactic body radiation therapy. 
+
+3 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+ipsilateral breast minus the PTV, the ipsilateral and contralateral lungs, the lungs, the heart (was contoured according to Feng et al. [29]), the oesophagus and the trachea. The skin-3 and skin-5 were created with a respectively 3 mm and 5 mm inner wall from the body, cropped to the PTV + 3 cm. The chest wall was contoured by a 1 cm external wall of the lungs, cropped to the PTV + 3 cm. The complete contouring guidelines of all the structures can be found in the Supplement. Whenever possible, the structure names were defined according to international standard­ ized naming conventions [30]. 
+
+Quality assurance During the phase II trial, the three first subjects of each participating study site were centrally reviewed prior to the start of the treatments. Any consecutive cases were reviewed in a retrospective manner. Central review was performed jointly by the radiation oncologist and physicist of the participating centre with the radiation oncology team of the sponsor. Only the final treatment plans, which were delivered to the patients, were included in the dosimetric analysis presented in this manuscript (see section on data collection). 
+
+Treatment planning 
+
+Image guidance during treatment 
+
+The treatment planning objectives used for the OAR and target vol­ umes can be found in Table 1. In addition, a priority list was provided in case of conflicting OAR constraints and target coverage goals. More details on dose prescription, conformality and OAR constraints can be found in the Supplement. Given the possible variability in the position of the skin resulting from marker-based matching or due to volume changes of the breast during the preoperative systemic treatment, a robustness planning protocol was implemented to simulate changes in skin position. Details on the robustness planning are found in the Sup­ plement. Dosimetric sparing of the TDLN was performed by not allowing treatment fields or arcs directly passing through the TDLN. The treatment intention was 8 Gy x 3 fractions to a total dose of 24 Gy, prescribed according to ICRU report 50, its Supplement 62 and the specifications of report 91 given a SBRT technique is used [31]. At least 100 % of [GTV_eval] should receive at least 95 % of the prescribed dose and at least 95 % of [PTV_eval] should receive at least 80 % of the prescribed dose. 
+
+Image guidance during treatment was performed using daily CBCT and fiducials-based matching, followed by the assessment of the position of the ipsilateral lung and skin using Ring_lung and Ring_skin control structures. These rings were defined by an extension of 5 mm in all di­ rections of the lung and the body, both cropped to the PTV + 3 cm. The treatment was allowed to be administered if the lung and skin do not extend beyond the ring structures. The CBCT matching algorithm used during the trial is provided in Fig. S1 in the Supplement. In case the treatment was performed on an MRI-LINAC, the markers were optional and the image guidance during treatment delivery was performed using the on-board MRI following local standard procedure. Postoperative RT The trial protocol prohibited the delivery of a postoperative boost to the primary tumour bed. Apart from this restriction, postoperative RT should be administered according to the standard of care protocols of each local study site. Therefore, the study sites could determine the 
+
+Table 1 Radiation therapy protocol and achieved doses in the Neo-CheckRay trial. Trial protocol Volume Target doses GTV_eval PTV_eval Conformality Body Body-PTV Body-(PTV + 3 cm) Organs at risk Skin-3 Skin-5 Chest wall Ipsilateral non-target breast * Contralateral breast Ipsilateral lung Contralateral lung Lungs Heart 
+
+Achieved in the trial (n ¼ 151) Constraint 
+
+Planning priority 
+
+V22.8 Gy > 95 % (=V95%) V19.2 Gy > 80 % (=V80%) 
+
+2 4 
+
+D0.1 cc < 36 Gy D2cc < 28.8 Gy D0.1 cc < 31.2 Gy D2cc < 24 Gy D0.1 cc < 12 Gy 
+
+/ / / / / 
+
+D0.1 cc < 19.2 Gy D10cc < 15 Gy D1cc < 15 Gy D15cc < 10 Gy V24Gy < 30 % V15Gy < 60 % D1cc < 1 Gy V20Gy < 2 % V10Gy < 10 % V5Gy < 20 % V20Gy < 1 % V10Gy < 2 % V5Gy < 3 % dMean < 5 Gy V20Gy ≤ 1 % 
+
+1 1 3 3 8 8 7 6 6 6 6 6 6 6 5 
+
+V10Gy ≤ 2 % V5Gy ≤ 5 % dMean ≤ 2 % 
+
+5 5 5 
+
+Min-max 
+
+% of plans that achieved goal 
+
+​ 
+
+97.4 % (26.5–100) 
+
+0–100 
+
+60.0 % 
+
+​ 
+
+95.5 % (56.1–100) 
+
+0–100 
+
+79.4 % 
+
+25 Gy (20.5–27.3) 25 Gy (20.5–27.3) 22.5 (17.5–24.7) 22.5 Gy (17.5–24.7) 0 Gy (0.0–0.0 Gy) 
+
+13.3–19.2 13.3–19.2 12.6–25.5 12.6–25.5 0.0–0.0 
+
+99.3 % 99.3 % 100 % 100 % 100 % 
+
+9.2 Gy (7.5–18.6) 9.2 (3.4–14.2) 14.6(4.3–24.4) 7.7(0.1–15.8) 0.0(0–0.6) 4.6(1.2–14.3) 1.0(0.4–2.4) 0.0(0.0–0.0) 0.0(0.0–0.8) 1.6(0.0–7.9) 0.0 (0.0–0.0) 0.0(0.0–0.0) 1.6 (0.0–7.9) 0.6 (0.2–1.2) 0.0 (0.0–0.0) 
+
+0.1–21.7 0.0–17.7 0.0–30 0.0–23.6 0.0–0.8 0.1–22.8 0.1–24.4 0.0–0.1 0.0–4.6 0.0–18.4 0.0–0.0 0.0–0.0 0.0–18.4 0.1–1.8 0.0–0.0 
+
+98.0 % 98.0 % 55.6 % 79.4 % 100 % 100 % 49.6 % 100 % 100 % 100 % 100 % 100 % 99.3 % 100 % 100 % 
+
+0.0 (0.0–0.0) 0.0 (0.0–1.0) 0.5 (0.1–1.4) 
+
+0.0–0.3 0.0–7.3 0.0–2.1 
+
+100 % 99.3 % 100 % 
+
+​ 
+
+Median (90 % CI) 
+
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
+
+* Ipsilateral breast minus the PTV. Abbreviations: ALARA, as low as reasonably achievable; GTV, gross tumour volume; max, maximum; min, minimum; OAR, organ at risk; PTV, planning target volume. 4 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+postoperative treatment volumes (breast, chest wall, elective nodal re­ gions), fractionation schedules, and treatment techniques. The trial protocol did not mandate underdosing of the primary tumour bed region in the postoperative setting. 
+
+Statistical analysis Graphical and statistical analysis was performed using Python (Py­ thon 3.9 seaborn 0.13.2, pandas 1.5.3, scipy 1.13.0). For statistical comparisons between two continuous variables the non-parametric Mann-Whitney U test was used. For statistical comparisons between more than 2 continuous variables the non-parametric Kruskal-Wallis test was used. A two-sided α of 0.05 was considered significant. 
+
+Data collection All 151 patients of the Neo-CheckRay trial were included in the analysis. Fig. 2 shows the CONSORT diagram to detail the number of treatment plans per randomization arm. Only the treatment plans that were delivered to a patient treated in the trial were included for the analysis, hence every patient is represented by one treatment plan. The 151 anonymised DICOM simulation CT or simulation MRI images and DICOM-RT files (RTstruct and RTdose) were imported in a central server of the trial sponsor (Jules Bordet Institute) from the different study sites in France and Belgium using a web-based upload interface. Ater importing the DICOM-RT data, the contours were assessed by a radiation oncologist of the sponsor, without making changes to contours of the GTV. OAR and TDLN contours were corrected or appended if missing by a single experienced radiation oncologist to ensure they were contoured correctly and according to the ESTRO guidelines [27,28]. 
+
+Ethics approval and consent to participate The trial protocol was approved by the ethics committee in Belgium and in France. All the patients provided written informed consent before enrolment. All the authors attest that the trial was conducted in accor­ dance with the protocol, its amendments, and the standards of Good Clinical Practice (GCP). The protection of all clinical trial subjects was consistent with the principles of the Declaration of Helsinki. Results Patient and tumour characteristics of the 151 patients treated with 
+
+Fig. 2. iSBRT plans selection (CONSORT diagram). CONSORT diagram detailing patient selection and iSBRT plans included in the analysis. * Non-evaluable for primary endpoint because MammaPrint low-risk status revealed after randomisation (n = 11). ** iSBRT not delivered because of claustrophobia (n = 1). *** iSBRT not delivered because patient was removed from the trial due to anaphylactic shock to paclitaxel (n = 1). Abbreviations: iSBRT, immune-modulating stereotactic body radiation therapy. 5 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+iSBRT are shown in Table 2A. In 28.1 % the BC presented as a multifocal or multicentric tumour. RT treatment was performed with a conven­ tional LINAC in 119 (78.8 %) patients and an MRI-LINAC in 32 patients (21.2 %). All patients were treated in the supine position. In Table 2B the volume of the GTV, PTV and ipsilateral breast are given, and the ratio of the ipsilateral breast involved by GTV. The GTV and PTV volumes were significantly smaller when simulated with MRI in comparison to CT (p < 0.01; box plot of the comparison is available in Fig. S3 in the Supple­ ment). All patients treated with the MRI-LINAC were also simulated on the MRI-LINAC. The per protocol skin constraints were achieved in 98 % of patients. The dose to the OAR and the percentage of the plans meeting the pro­ tocol goals are presented in Table 1 and in Fig. 3. Comparisons of OAR doses across study sites and study arms are shown in Table S1 and 
+
+Table S2. Fig. 3A shows the median dose volume histogram (DVH) to the target and the OAR. Median relative volume coverage of the GTV V22.8 Gy (= V95%) was 97.4 % and of the V19.2 Gy (=V80%) was 95.5 %. The variation in GTV V22.8 Gy and V19.2 Gy is presented as a box plot in Fig. 3B. In Fig. 4A the dose to the different TDLN is presented as a median DVH and in Fig. 4B box plots are shown to depict the dose to the TDLN. Fig. 1B shows an example of a patient treated with iSBRT 8 Gy x 3 to the primary tumour while sparing the TDLN and an involved lymph node (LN_INV) in level L1 of the axilla. For the 151 plans, the median dMean was below 1 Gy for all TDLN. The dMean is the mean dose received by a specific volume of tissue or an OAR. The highest median dMean was in the IMN, L1 and LN_INV: 0.8 Gy (90 % CI 0.1–2.7), 0.6 Gy (0.0–3.9) and 0.3 Gy (0.0–5.0), respectively. The median dMean of the other TDLN were all ≤ 0.2 Gy. The median absolute volume of IMN and L1 receiving 2 Gy and more was 0.0 cc (90 % CI 0.0–1.4) and 4.7 cc (0.0–49.6), respectively. At time of this analysis, data on postoperative RT was available for 124 patients (82.1 %). The following postoperative dose prescriptions to the breast, chest wall and/or locoregional nodes were used: 2.67 Gy x 15 (56 %); 2 Gy x 25 (28 %); 2.66 Gy x 16 (6 %); 5.2 Gy x 5 (2 %); other fraction schedules (2 %); postoperative RT refused by patient (1 %); and no postoperative RT indication (4 %). The use of the fractionation schedule 2 Gy x 25 was limited to the French sites and was not used in Belgium. No patient received a postoperative tumour bed boost, in accordance with the Neo-CheckRay protocol. 
+
+Table 2 Baseline and treatment characteristics. A. Patient and tumour characteristics 
+
+Age ECOG ​ 
+
+Breast laterality ​ ​ 
+
+Diameter of largest lesion on MRI T-stage ​ ​ 
+
+N-stage ​ ​ ​ 
+
+Unifocal or multifocal ​ 
+
+Histological grade ​ 
+
+Histological subtype ​ 
+
+Ki-67 MammaPrint® result ​ 
+
+BluePrint® result ​ ​ 
+
+N (%) (n = 151) 
+
+Median (range) 0 1 Left Right Bilateral Median (range) T1 T2 T3 N0 N1 N2 N3 Multifocal Unifocal Grade 2 Grade 3 No special subtype (NST) Invasive lobular carcinoma Median (range) High risk Low risk Luminal Basal HER2 
+
+B. Volumes of GTV, PTV and ipsilateral breast. N GTV 
+
+PTV 
+
+Breast 
+
+Overall 
+
+151 
+
+CT simulation 
+
+119 
+
+MRI simulation 
+
+32 
+
+Overall 
+
+151 
+
+CT simulation 
+
+119 
+
+MRI simulation 
+
+32 
+
+Ipsilateral breast 
+
+151 
+
+% breast involvement by GTV 
+
+151 
+
+49 (24–73) 141 (93.4 %) 10 (6.6 %) 74 (49.0 %) 71 (47.0 %) 6 (4.0 %) 3.0 cm (1.5–10) 10 (6.6 %) 110 (72.8 %) 31(20.5 %) 63 (41.7 %) 77 (51.0 %) 7 (4.6 %) 4 (2.6 %) 48 (66.2 %) 103 (31.8 %) 72 (47.7 %) 79 (52.3 %) 130 (86.1 %) 21 (13.9 %) 30 % (10–95) 140 (92.7 %) 11 (7.3 %) 138 (91.4 %) 13 (8.6 %) 0 (0 %) 
+
+Median (range) 11.2 cc (0.9–211.3) 13.6 cc (1.1–203.2) 6.4 cc (0.9–211.3) 35.7 cc (4.9–342.4) 41.4 cc (5.4–334.3) 20.1 cc (4.9–342.4) 756 cc (116–2613) 1.5% (0.01–28.2) 
+
+Discussion Emerging (pre)clinical evidence suggests that conventional RT par­ adigms may need to be reconsidered when combining RT with immu­ notherapy [21,32]. A suggested approach is to postpone elective nodal RT and only irradiate the primary cancer concomitantly with immu­ nochemotherapy [21,33,34]. In BC, this approach is an appealing so­ lution: during the preoperative phase, RT is directed exclusively towards the primary BC, concomitantly with immunochemotherapy, while the treatment of the elective lymph nodes, the uninvolved breast or the chest wall is completed in the postoperative phase. The P-RAD (NCT04443348) and the Neo-CheckRay phase II randomized trials investigate this approach in BC. The PEARL trial investigated 8 Gy x 3 to the primary tumour in combination with pembrolizumab in a single arm window of opportunity trial, 3 weeks before starting standard preoper­ ative chemotherapy in TNBC or luminal BC [35]. The delivery of preoperative 8 Gy x 3 to the primary BC concomi­ tantly with chemotherapy and immunotherapy, followed by post­ operative RT to the breast and chest wall, was not investigated before. Data concerning acute and long-term adverse events are hence not yet available. Therefore, strict OAR constraints were used in the NeoCheckRay trial, especially for the skin. Similar constraints were used as in the phase I study reported by Bondiau et al., in which however no immunotherapy was given [36]. To ensure skin constraints were met in every situation, including very large tumours (tumours up to 10 cm were included in our trial), they were allocated a higher planning priority than the coverage goals of the PTV and GTV. In addition, robustness treatment evaluation was mandatory with a simulation of the skin dose in case of 5 mm swelling or shrinkage of the breast. In 151 patients treated with iSBRT in the Neo-CheckRay trial, 98 % achieved the skin constraints. Given the proximity of the chest wall to the target and that the chest wall would be included a second time in the postoperative RT setting (when treating the breast or chest wall), the predefined chest wall constraint was D1cc < 15 Gy with the lowest planning priority, which was achieved in 55.6 % of cases. To the contrary of conventional whole breast RT, sparing of the heart and the lungs was less challenging: the median heart dMean and V5Gy were 0,5 Gy (90 % CI 0.1––1.4) and 0 Gy (0.0–1.0), the median lungs dMean was 0.6 Gy (0.2–1.2). Overall, the constraints applied in the trial were feasible. 
+
+p ​ <0.01 
+
+​ <0.01 
+
+​ ​ 
+
+Table 2A) Baseline and tumour characteristics. B) Selection of contoured vol­ umes. The GTV and PTV were cropped to 3 mm from the skin. The % involve­ ment of the breast was calculated as the proportion of GTV volume on the ipsilateral breast volume. The p-value was computed using the Mann-Whitney U test. A box plot depicting the differences between GTV and PTV according to CT or MRI simulation is available in the Supplements. Abbreviations: CT, computed tomography; ECOG, eastern cooperation GTV, gross tumour volume; MRI, magnetic resonance imaging; LINAC, linear accelerator. 6 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+Fig. 3. dose to target and OAR. A) Median dose-volume histogram (DVH). Bands around the median lines represent the standard deviation. The Breast_ipsi-PTV is the ipsilateral breast minus the planning target volume (PTV). B) Box plots depicting the spread of selected doses (Gy), and volumes (% of whole structure and in cc). Abbreviations: Breast_ipsi-PTV, ipsilateral breast minus PTV; DVH, dose-volume histogram; GTV, gross tumour volume; Lung_contra, contralateral lung; Lung_ipsi, ipsilateral lung; OAR, organ at risk; PTV, planning target volume. 
+
+The GTV and PTV volumes were smaller when simulated and treated with MRI-LINAC in comparison to CT. Radiological studies, on the contrary, suggest that MRI overestimates tumour size in comparison to CT [37,38]. The larger GTV and PTV volumes in our study could be 
+
+caused by the mandatory use of fiducials for CT-simulation, but not for MRI-simulation. Consequently, GTV volumes on CT might have been enlarged to encompass the fiducials, whereas this adjustment could not be made on MRI. 7 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+Fig. 4. 
+
+In the Neo-CheckRay trial, the GTV volume treated by iSBRT is surgically removed, followed by postoperative RT. By excising the tissue exposed to the highest radiation dose, it is possible to administer higher preoperative doses compared to postoperative doses. The Bondiau phase I trial did not report long-term cosmetic outcomes of this strategy; therefore, the follow-up phase of the Neo-CheckRay trial will help determine if the guiding principle behind this approach is valid [36]. The PABPI trial reported excellent cosmesis 5 years after preoperative PBI 6 Gy x 5, suggesting that the cosmetic outcome of preoperative RT compares favourably with postoperative RT [39]. Aside from dose, larger volumes receiving higher doses are correlated to fibrosis, as suggested by the Danish Breast Cancer Group PBI trial [40]. In the NeoCheckRay trial, long-term breast cosmesis will be assessed by doc­ umenting fibrosis at the primary tumour bed and in the breast through clinical examination, and the overall cosmetic outcome will be evalu­ ated using standardized digitalised breast photographs. In low-risk BC, preoperative breast SBRT as a partial breast irradia­ tion (PBI) approach has been reported by several groups [41–43]. Unlike iSBRT for high-risk BC, PBI-SBRT for low-risk BC delivers ablative doses, incorporates a CTV margin around the GTV to account for microscopic disease extension, and omits postoperative RT to the breast and elective nodes. In iSBRT, sub-ablative immuno-modulatory doses are used, such as 8 Gy x 3, whereas in PBI-SBRT single fraction treatments of 21 Gy x 1 are reported [42,43]. The difference between high-risk BC and low-risk BC is also reflected by the median tumour diameter included in the trials: in the Neo-CheckRay trial, the median tumour diameter was 3 cm 
+
+(range 1.5–10) at diagnosis, compared to 1.3 cm in the PBI-SBRT ABLATIVE trial [43]. The TDLN were not considered as an OAR in previous breast PBISBRT trials; instead, they were regarded as a neutral volume (nontarget and non-OAR) [36,43]. In the Neo-CheckRay trial, the median dose to the axilla level 1 and 2 was 0.6 Gy and 0.1 Gy, respectively, corresponding to 2.5 % and 0.4 % of the prescribed dose. Studies investigating incidental axillary dose in case of whole breast RT demonstrated much higher axillary doses: axilla level I 77–88 % and axilla level II 6–16 % of the prescribed dose, depending on the treatment technique used [44]. Results of the P-RAD and Neo-CheckRay trials will provide an indication if TDLN-sparing RT is successful in reducing RTinduced immunosuppression, as both trials planned an extensive trans­ lational research programme including on-treatment biopsies of the primary BC and involved lymph nodes. The fractionation schedule of 8 Gy x 3, used in the P-RAD and Neo-CheckRay trials, was developed in murine model systems and has not yet been fully validated as the optimal immune-stimulating dose in human clinical trials, even though this dose has been studied in different trials over different cancer types [21,33]. Finding the optimal dose to combine RT and ICI is a challenge: an insufficient dose might not induce an immune response, while an excessive dose could suppress the immune response or lead to excess side effects, inferior cosmetic results, and ultimately a diminished quality-of-life for patients [20]. Preoperative high-dose RT administered concurrently with immu­ nochemotherapy in primary BC is a novel approach with limited 8 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+expertise and published research. Further development of this promising combination treatment requires large, multi-centric trials to enrich our understanding and optimize protocols in this emerging field. To further investigate this innovative strategy, standardized contouring and plan­ ning guidelines, along with guidance on sparing the TDLN, will be required. Future observations from Neo-CheckRay, and other similar trials, will shed more light on the possible benefit of TDLN sparing in the setting of preoperative radiation therapy in combination with chemoimmunotherapy in early-stage BC. 
+
+for their unwavering support throughout the development and conduct of the trial, and in particular Thomas Guiot for his help in setting up the Orilab virtual platform to collect the treatment plans from all the study sites. 
+
+Declaration of generative AI 
+
+References 
+
+Generative AI was not used during the writing process of this manuscript. 
+
+[1] Schmid P, Cortes J, Dent R, McArthur H, Pusztai L, Kümmel S, et al. Overall Survival with Pembrolizumab in Early-Stage Triple-Negative Breast Cancer. The New England Journal of Medicine 2024;391:1981–91. https://doi.org/10.1056/ NEJMOA2409932. [2] Schmid P, Cortes J, Pusztai L, McArthur H, Kümmel S, Bergh J, et al. Pembrolizumab for Early Triple-Negative Breast Cancer. The New England Journal of Medicine 2020;382:810–21. https://doi.org/10.1056/nejmoa1910549. [3] Nanda R, Liu MC, Yau C, Shatsky R, Pusztai L, Wallace A, et al. Effect of Pembrolizumab Plus Neoadjuvant Chemotherapy on Pathologic Complete Response in Women With Early-Stage Breast Cancer. JAMA. Oncol 2020;60637. https://doi.org/10.1001/jamaoncol.2019.6650. [4] F. Cardoso A. Bardia F. Andre D.W. Cescon H.L. McArthur M.L. Telli et al. KEYNOTE-756: Randomized, double-blind, phase 3 study of pembrolizumab vs placebo combined with neoadjuvant chemotherapy and adjuvant endocrine therapy for high-risk, early-stage estrogen receptor–positive, human epidermal growth factor receptor 2–negative (ER+/HER2− ) breast cancer Https://DoiOrg/ 101200/JCO20193715_supplTPS601 37 2019 TPS601 –TPS601 10.1200/ JCO.2019.37.15_SUPPL.TPS601. [5] Cortazar P, Zhang L, Untch M, Mehta K, Costantino JP, Wolmark N, et al. Pathological complete response and long-term clinical benefit in breast cancer: The CTNeoBC pooled analysis. Lancet 2014;384:164–72. https://doi.org/10.1016/ S0140-6736(13)62422-8. [6] Symmans WF, Wei C, Gould R, Yu X, Zhang Y, Liu M, et al. Long-Term Prognostic Risk After Neoadjuvant Chemotherapy Associated With Residual Cancer Burden and Breast Cancer Subtype. Journal of Clinical Oncology 2017;35:1049–60. https://doi.org/10.1200/JCO.2015.63.1010. [7] Cardoso F, van’t Veer LJ, Bogaerts J, Slaets L, Viale G, Delaloge S,, et al. 70-Gene Signature as an Aid to Treatment Decisions in Early-Stage Breast Cancer. The New England Journal of Medicine 2016;375:717–29. https://doi.org/10.1056/ NEJMoa1602253. [8] Whitworth P, Beitsch PD, Pellicane J, v., Baron PL, Lee LA, Dul CL,, et al. AgeIndependent Preoperative Chemosensitivity and 5-Year Outcome Determined by Combined 70- and 80-Gene Signature in a Prospective Trial in Early-Stage Breast Cancer. Annals of Surgical Oncology 2022;29:4141–52. https://doi.org/10.1245/ s10434-022-11666-2. [9] Stanton SE, Adams S, Disis ML. Variation in the Incidence and Magnitude of Tumor-Infiltrating Lymphocytes in Breast Cancer Subtypes: A Systematic Review. JAMA Oncology 2016;2:1354–60. https://doi.org/10.1001/jamaoncol.2016.1061. [10] Onkar SS, Carleton NM, Lucas PC, Bruno TC, Lee A, v., Vignali DAA,, et al. The Great Immune Escape: Understanding the Divergent Immune Response in Breast Cancer Subtypes. Cancer Discovery 2023;13:23–40. https://doi.org/10.1158/ 2159-8290.CD-22-0475. [11] Denkert C, von Minckwitz G, Darb-Esfahani S, Lederer B, Heppner BI, Weber KE, et al. Tumour-infiltrating lymphocytes and prognosis in different subtypes of breast cancer: a pooled analysis of 3771 patients treated with neoadjuvant therapy. The Lancet Oncology 2018;19:40–50. https://doi.org/10.1016/S1470-2045(17)30904X. [12] Buisseret L, Garaud S, de Wind A, van den Eynden G, Boisson A, Solinas C, et al. Tumor-infiltrating lymphocyte composition, organization and PD-1/PD-l1 expression are linked in breast cancer. Oncoimmunology 2017;6. https://doi.org/ 10.1080/2162402X.2016.1257452. [13] Debien V, De Caluwé A, Wang X, Piccart-Gebhart M, Tuohy VK, Romano E, et al. Immunotherapy in breast cancer: an overview of current strategies and perspectives. npj Breast Cancer 2023;9. https://doi.org/10.1038/s41523-02300508-3. [14] Gómez-Aleza C, Nguyen B, Yoldi G, Ciscar M, Barranco A, Hernández-Jiménez E, et al. Inhibition of RANK signaling in breast cancer induces an anti-tumor immune response orchestrated by CD8+ T cells. Nature Communications 2020;11. https:// doi.org/10.1038/s41467-020-20138-8. [15] Karukonda P, Ho AY, McDuff S. Pre-operative Radiation and Immunotherapy in the Treatment of Non-metastatic Breast Cancer. Current Breast Cancer Reports 2023. https://doi.org/10.1007/s12609-023-00507-0. [16] Santa-Maria CA, Dunn SA, Ho AY. Immunotherapy Combined with Radiation Therapy in Breast Cancer: A Rapidly Evolving Landscape. Seminars in Radiation Oncology 2022. https://doi.org/10.1016/j.semradonc.2022.01.001. [17] Loap P, Vu Bezin J, De Marzi L, Kirova Y. Determinants of radiation dose to immune cells during breast radiotherapy. Strahlentherapie und Onkologie 2024. https://doi.org/10.1007/s00066-024-02240-8. [18] Hu ZI, Ho AY, McArthur HL. Combined Radiation Therapy and Immune Checkpoint Blockade Therapy for Breast Cancer. International Journal of Radiation 
+
+Appendix A. Supplementary data Supplementary data to this article can be found online at https://doi. org/10.1016/j.radonc.2025.110836. 
+
+CRediT authorship contribution statement A.De Caluwé: Writing – review & editing, Writing – original draft, Visualization, Validation, Project administration, Methodology, Inves­ tigation, Funding acquisition, Formal analysis, Data curation, Concep­ tualization. S. Bellal: Writing – review & editing, Investigation, Data curation. K. Cao: Writing – review & editing, Investigation. K. Peignaux: Writing – review & editing, Investigation. V. Remou­ champs: Writing – review & editing, Investigation. A. Baten: Writing – review & editing, Investigation. E. Longton: Writing – review & editing, Investigation. I. Bessieres: Writing – review & editing, Investigation. J. Vu-Bezin: Writing – review & editing, Investigation. Y. Kirova: Writing – review & editing, Investigation. D.Van Gestel: Writing – review & editing. I. Desmoulins: Investigation. M. Ignatiadis: Writing – review & editing, Investigation, Conceptualization. E. Romano: Writing – re­ view & editing, Investigation, Conceptualization. L. Buisseret: Writing – review & editing, Investigation, Conceptualization, Funding acquisi­ tion. M. Piccart: Writing – review & editing, Investigation, Funding acquisition, Conceptualization. C. Vandekerkhove: Writing – review & editing, Methodology, Investigation, Conceptualization. A. Gulyban: Writing – review & editing, Validation, Methodology, Formal analysis, Data curation, Conceptualization. P. Poortmans: Writing – review & editing, Methodology, Formal analysis, Conceptualization. Funding This trial is an investigator initiated academic trial sponsored by the Jules Bordet Institute with support by AstraZeneca and drug Supply for oleclumab and durvalumab provided by AstraZeneca. AstraZeneca has no role in the design of the study, in the collection, analysis and inter­ pretation of the data, and in the writing of the manuscript. The Mam­ maPrint testing was conducted with support from Agendia. Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. Acknowledgments The authors would like to express their gratitude to all the patients and their families for their participation in this study. We also extend our appreciation to the medical staff involved at the study sites and in particular the radiation oncology departments: Jules Bordet Institute (Brussels), Hôpital Universitaire St Luc (Brussels), UZ Leuven (Leuven), GZA Antwerp (Antwerp), Clinique St. Elisabeth Namur (Namur), Institut Curie (Paris), Centre George François Leclerc (Dijon). At Institut Jules Bordet we would like to particularly thank Dr. Antoine Desmet, Dr. Catherine Phillippson and Angela Martins Ferreira for their help. Special thanks go to the Clinical Trials Conduct team at the Institut Jules Bordet 9 
+
+A.De Caluwé et al. 
+
+Radiotherapy and Oncology 206 (2025) 110836 
+
+Oncology, Biology, Physics 2017;99:153–64. https://doi.org/10.1016/j. ijrobp.2017.05.029. [19] Vanpouille-Box C, Alard A, Aryankalayil MJ, Sarfraz Y, Diamond JM, Schneider RJ, et al. DNA exonuclease Trex1 regulates radiotherapy-induced tumour immunogenicity. Nature Communications 2017;8:15618. https://doi.org/ 10.1038/ncomms15618. [20] Demaria S, Guha C, Schoenfeld J, Morris Z, Monjazeb A, Sikora A, et al. Radiation dose and fraction in immunotherapy: One-size regimen does not fit all settings, so how does one choose? J Immunother. Cancer 2021;9. https://doi.org/10.1136/ jitc-2020-002038. [21] Galluzzi L, Aryankalayil MJ, Coleman CN, Formenti SC. Emerging evidence for adapting radiotherapy to immunotherapy. Nature Reviews. Clinical Oncology 2023;20:543–57. https://doi.org/10.1038/s41571-023-00782-x. [22] De Caluwé A, Buisseret L, Poortmans P, Van Gestel D, Salgado R, Sotiriou C, et al. Neo-CheckRay: radiation therapy and adenosine pathway blockade to increase benefit of immuno-chemotherapy in early stage luminal B breast cancer, a randomized phase II trial. BMC Cancer 2021;21:1–9. https://doi.org/10.1186/ s12885-021-08601-1. [23] Buisseret L, Loirat D, Aftimos P, Maurer C, Punie K, Debien V, et al. Paclitaxel plus carboplatin and durvalumab with or without oleclumab for women with previously untreated locally advanced or metastatic triple-negative breast cancer: the randomized SYNERGY phase I/II trial. Nature Communications 2023;14. https:// doi.org/10.1038/s41467-023-42744-y. [24] Wennerberg E, Kawashima N, Demaria S. Adenosine regulates radiation therapyinduced anti-tumor immunity. Journal for Immunotherapy of Cancer 2015;3:P378. https://doi.org/10.1186/2051-1426-3-S2-P378. [25] Oken MM, Creech RH, Davis TE. Toxicology and response criteria of the Eastern Cooperative Oncology Group. American Journal of Clinical Oncology: Cancer Clinical Trials 1982;5:649–55. https://doi.org/10.1097/00000421-19821200000014. [26] De Caluwe A, Romano E, Poortmans P, Gombos A, Agostinetto E, Marta GN, et al. First-in-human study of SBRT and adenosine pathway blockade to potentiate the benefit of immunochemotherapy in early-stage luminal B breast cancer: results of the safety run-in phase of the Neo-CheckRay trial. Journal for Immunotherapy of Cancer 2023;11:e007279. https://doi.org/10.1136/jitc-2023-007279. [27] Offersen BV, Boersma LJ, Kirkove C, Hol S, Aznar MC, Biete Sola A, et al. ESTRO consensus guideline on target volume delineation for elective radiation therapy of early stage breast cancer. Radiotherapy and Oncology 2015;114:3–10. https://doi. org/10.1016/j.radonc.2014.11.030. [28] Offersen BV, Boersma LJ, Kirkove C, Hol S, Aznar MC, Sola AB, et al. ESTRO consensus guideline on target volume delineation for elective radiation therapy of early stage breast cancer, version 1.1. Radiotherapy and Oncology 2016;118: 205–8. https://doi.org/10.1016/j.radonc.2015.12.027. [29] Feng M, Moran JM, Koelling T, Chughtai A, Chan JL, Freedman L, et al. Development and validation of a heart atlas to study cardiac exposure to radiation following treatment for breast cancer. International Journal of Radiation Oncology, Biology, Physics 2011;79:10–8. https://doi.org/10.1016/j. ijrobp.2009.10.058. [30] Santanam L, Hurkmans C, Mutic S, Van Vliet-Vroegindeweij C, Brame S, Straube W, et al. Standardizing naming conventions in radiation oncology. International Journal of Radiation Oncology, Biology, Physics 2012;83:1344–9. https://doi.org/10.1016/j.ijrobp.2011.09.054. [31] ICRU. ICRU Report No. 91. J ICRU 2017;14. [32] Weichselbaum R, Lynch C, Pitroda SP, Weichselbaum RR. Review Radiotherapy, immunity, and immune checkpoint inhibitors. vol. 25. 2024. 
+
+[33] Altorki NK, McGraw TE, Borczuk AC, Saxena A, Port JL, Stiles BM, et al. Neoadjuvant durvalumab with or without stereotactic body radiotherapy in patients with early-stage non-small-cell lung cancer: a single-centre, randomised phase 2 trial. The Lancet Oncology 2021:1–12. https://doi.org/10.1016/s14702045(21)00149-2. [34] Telarovic I, Yong CSM, Kurz L, Vetrugno I, Reichl S, Fernandez AS, et al. Delayed tumor-draining lymph node irradiation preserves the efficacy of combined radiotherapy and immune checkpoint blockade in models of metastatic disease. Nature Communications 2024;15. https://doi.org/10.1038/s41467-024-49873-y. [35] Ho AY, Shiao S, Kobald SA, Chen J, Duda DG, Ly A, et al. PEARL: A Phase Ib/II Biomarker Study of Adding Radiation Therapy to Pembrolizumab before Neoadjuvant Chemotherapy in Human Epidermal Growth Factor Receptor 2Negative Breast Cancer. Journal of Clinical Oncology 2024. https://doi.org/ 10.1200/JCO.24.00003. [36] Bondiau P-Y, Courdi A, Bahadoran P, Chamorey E, Queille-Roussel C, Lallement M, et al. Phase 1 clinical trial of stereotactic body radiation therapy concomitant with neoadjuvant chemotherapy for breast cancer. International Journal of Radiation Oncology, Biology, Physics 2013;85:1193–9. https://doi.org/10.1016/j. ijrobp.2012.10.034. [37] Y. Ji G. Liao N. Luo Y. Jiang X. Liao W. Tang et al. Abstract P3-04-08: Comparison Of Cone Beam Breast CT And Breast MRI In Preoperative Assessment Of Primary Breast Cancer Tumor Size Cancer Research 83 2023 P3 –04-08-P3-04–8 10.1158/ 1538-7445.SABCS22-P3-04-08. [38] Mennella S, Garlaschi A, Paparo F, Perillo M, Celenza M, Massa T, et al. Magnetic resonance imaging of breast cancer: factors affecting the accuracy of preoperative lesion sizing. Acta Radiologica 2015;56:260–8. https://doi.org/10.1177/ 0284185114524089. [39] Bosma SCJ, Leij F, Vreeswijk S, de Maaker M, Wesseling J, van de Vijver M, et al. Five-Year Results of the Preoperative Accelerated Partial Breast Irradiation (PAPBI) Trial. International Journal of Radiation Oncology, Biology, Physics 2020;106: 958–67. https://doi.org/10.1016/j.ijrobp.2019.12.037. [40] Thomsen MS, Alsner J, Nielsen HM, Jakobsen EH, Nielsen MH, Møller M, et al. Volume matters: Breast induration is associated with irradiated breast volume in the Danish Breast Cancer Group phase III randomized Partial Breast Irradiation trial. Radiotherapy and Oncology 2022. https://doi.org/10.1016/j. radonc.2022.09.024. [41] Bilski M, Konat-Bąska K, Zerella MA, Corradini S, Hetnał M, Leonardi MC, et al. Advances in breast cancer treatment: a systematic review of preoperative stereotactic body radiotherapy (SBRT) for breast cancer. Radiation Oncology 2024; 19. https://doi.org/10.1186/s13014-024-02497-4. [42] Meattini I, Francolini G, Di Cataldo V, Visani L, Becherini C, Scoccimarro E, et al. Preoperative robotic radiosurgery for early breast cancer: Results of the phase II ROCK trial (NCT03520894). Clin Transl Radiat Oncol 2022;37:94–100. https:// doi.org/10.1016/j.ctro.2022.09.004. [43] Vasmel JE, Charaghvandi RK, Houweling AC, Philippens MEP, van Asselen B, Vreuls CPH, et al. Tumor Response After Neoadjuvant Magnetic Resonance Guided Single Ablative Dose Partial Breast Irradiation. International Journal of Radiation Oncology, Biology, Physics 2020;106:821–9. https://doi.org/10.1016/j. ijrobp.2019.11.406. [44] Imane A, Gestel Dirk V, Olga K, Carine K, Desmet A, Catherine P, et al. Unintended dose to the lower axilla in adjuvant radiotherapy for breast cancer: differences between tangential beam and VMAT. Radiotherapy and Oncology 2021;164: 282–8. https://doi.org/10.1016/j.radonc.2021.10.005. 
+
+10 
+
+ 

@@ -1,0 +1,887 @@
+ORIGINAL ARTICLE 
+
+A phase III trial of adjuvant ribociclib plus endocrine therapy versus endocrine therapy alone in patients with HR-positive/HER2-negative early breast cancer: ﬁnal invasive disease-free survival results from the NATALEE trial G. N. Hortobagyi1 , A. Lacko2 , J. Sohn3 , F. Cruz4 , M. Ruiz Borrego5 , A. Manikhas6 , Y. Hee Park7 , D. Stroyakovskiy8, D. A. Yardley9, C.-S. Huang10 , P. A. Fasching11 , J. Crown12 , A. Bardia13 , S. Chia14 , S.-A. Im15 , M. Martin16 , S. Loi17 , B. Xu18 , S. Hurvitz19 , C. Barrios20 , M. Untch21 , R. Moroose22 , F. Visco23 , F. Parnizari24 , J. P. Zarate25 , Z. Li25 , S. Waters26 , A. Chakravartty25 & D. Slamon13 1 
+
+Department of Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, Houston, USA; 2Dolnoslaskie Centrum Onkologii, Wroclaw, Poland; Severance Hospital, Seoul, Korea; 4Instituto Brasileiro de Controle do Câncer, São Paulo, Brazil; 5Hospital Virgen del Rocio de Sevilla, Seville, Spain; 6Saint Petersburg City Clinical Oncology Dispensary, Saint Petersburg, Russia; 7Samsung Medical Center, Seoul, Korea; 8Moscow City Oncology Hospital No. 62 of Moscow Healthcare Department, Moscow, Russia; 9Sarah Cannon Research Institute, Nashville, USA; 10National Taiwan University Hospital, National Taiwan University College of Medicine, Taipei City, Taiwan; 11University Hospital Erlangen Comprehensive Cancer Center Erlangen-EMN, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany; 12St Vincent’s Private Hospital, Dublin, Ireland; 13David Geffen School of Medicine at UCLA, Los Angeles, USA; 14BC Cancer e Vancouver, Vancouver, Canada; 15Cancer Research Institute, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea; 16Instituto de Investigación Sanitaria Gregorio Marañón, Centro de Investigación Biomédica en Red de Cáncer, Grupo Español de Investigación en Cáncer de Mama, Universidad Complutense, Madrid, Spain; 17Peter MacCallum Cancer Centre, Melbourne, Australia; 18Department of Medical Oncology, Cancer Hospital, Chinese Academy of Medical Sciences, and Peking Union Medical College, Beijing, China; 19University of Washington, Fred Hutchinson Cancer Center, Seattle, USA; 20Latin American Cooperative Oncology Group, Porto Alegre, Brazil; 21Interdisciplinary Breast Cancer Center, Helios Klinikum Berlin-Buch, Berlin, Germany; 22Orlando Health Cancer Institute, Orlando; 23National Breast Cancer Coalition, Washington, USA; 24TRIO e Translational Research in Oncology, Montevideo, Uruguay; 25Novartis Pharmaceuticals Corporation, East Hanover, USA; 26Novartis Ireland, Dublin, Ireland 
+
+3 
+
+Available online 21 October 2024 
+
+Background: NATALEE assessed efﬁcacy and tolerability of 3 years of adjuvant ribociclib plus a nonsteroidal aromatase inhibitor (NSAI) compared with an NSAI alone in a broad population of patients with hormone receptor (HR)-positive/ human epidermal growth factor 2 (HER2)-negative early breast cancer, including a select group without nodal involvement. This is the ﬁnal preplanned analysis of invasive disease-free survival (iDFS). Patients and methods: Premenopausal/postmenopausal women and men were randomized 1 : 1 to ribociclib (n ¼ 2549; 400 mg/day, 3 weeks on/1 week off for 36 months) plus NSAI (letrozole 2.5 mg/day or anastrozole 1 mg/day for 60 months) or NSAI alone (n ¼ 2552). Men and premenopausal women also received goserelin (3.6 mg once every 28 days). Patients had anatomical stage IIA (N0 with additional risk factors or N1), IIB, or III disease. The primary endpoint was iDFS. Secondary efﬁcacy endpoints were recurrence-free survival (RFS), distant DFS, and overall survival. This ﬁnal iDFS analysis was planned after w500 events. Results: At data cut-off (21 July 2023), ribociclib was stopped for 1996 patients (78.3%); 1091 (42.8%) completed 3 years of ribociclib, and ribociclib treatment was ongoing for 528 (20.7%). Median follow-up for iDFS was 33.3 months. Overall, 226 and 283 iDFS events occurred with ribociclib plus NSAI versus NSAI alone, respectively. Ribociclib plus NSAI demonstrated signiﬁcant iDFS beneﬁt over NSAI alone [hazard ratio 0.749, 95% conﬁdence interval (CI) 0.628-0.892; P ¼ 0.0012]. The 3-year iDFS rates were 90.7% (95% CI 89.3% to 91.8%) versus 87.6% (95% CI 86.1% to 88.9%). A consistent beneﬁt was observed across prespeciﬁed subgroups, including stage (II/III) and nodal status (positive/negative). Distant DFS and RFS favored ribociclib plus NSAI. Overall survival data were immature. No new safety signals were observed. Conclusions: With longer follow-up and most patients off ribociclib, NATALEE continues to demonstrate iDFS beneﬁt with ribociclib plus NSAI over NSAI alone in the overall population and across key subgroups. Observed adverse events remained stable. *Correspondence to: Dr Gabriel N. Hortobagyi, Department of Breast Medical Oncology, The University of Texas MD Anderson Cancer Center, 1155 Pressler, Suite CPB5.3405, Houston, TX 77030, USA. Tel: þ1-833-997-2081 E-mail: ghortoba@mdanderson.org (G. N. Hortobagyi). 0923-7534/© 2024 The Authors. Published by Elsevier Ltd on behalf of European Society for Medical Oncology. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). 
+
+Volume 36 - Issue 2 - 2025 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+149 
+
+G. N. Hortobagyi et al. 
+
+Annals of Oncology 
+
+Key words: cyclin-dependent kinase 4 and 6 inhibitors, hormone receptor-positive, human epidermal growth factor receptor 2-negative, breast cancer, ribociclib, NATALEE 
+
+INTRODUCTION Breast cancer remains a leading cause of death among women and has surpassed lung cancer as the most diagnosed cancer worldwide.1 Hormone receptorpositive, human epidermal growth factor 2-negative (HR-positive/HER2-negative) breast cancer is the most common type, representing nearly three-quarters of all cases.2 For most patients diagnosed with HR-positive/ HER2-negative early breast cancer (EBC), current practice guidelines recommend surgical excision and adjuvant endocrine therapy (ET), while the addition of radiotherapy and chemotherapy may be appropriate depending on individual risk factors.3 The inclusion of ET as a systemic treatment has shown disease-free survival (DFS) and overall survival (OS) beneﬁt in patients with endocrine receptor-positive (ER-positive) tumors.4 The beneﬁt of adjuvant ET, particularly nonsteroidal aromatase inhibitors (NSAIs),5 is evident in the ﬁrst 5 years of treatment, and the reduction in recurrence risk attributed to ET is sustained over time.4 Despite this beneﬁt, current standard-of-care treatment that includes adjuvant ET does not eliminate the risk of disease recurrence. Contemporary clinical trials in patients with HR-positive/HER2-negative EBC receiving ET as part of the standard of care found that up to 13% of patients experience disease recurrence within 3 years of starting ET.6-8 Unlike in patients with other solid tumors, recurrence risk in patients with ER-positive breast cancer does not decrease over time, and up to half of patients experience a metastatic event within 20 years, depending on disease characteristics at initial diagnosis.9,10 It is well established that a variety of anatomical, pathological, and genomic characteristics impact recurrence risk,9-14 and therefore, escalation of adjuvant treatment is warranted in this group of patients. Cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitors have emerged as effective therapeutic interventions for patients with HR-positive/HER2-negative breast cancer and have since become the standard of care for patients with metastatic disease.15 Ribociclib is a CDK4/6 inhibitor that has demonstrated statistically signiﬁcant beneﬁt in progressionfree survival and OS as a ﬁrst-line or second-line treatment for patients with HR-positive/HER2-negative advanced breast cancer (ABC).16-21 This beneﬁt prompted investigations into the use of ribociclib in the adjuvant setting in combination with ET. Currently, only two phase III trials using CDK4/6 inhibitors have shown positive efﬁcacy for invasive disease-free survival (iDFS) in patients with HRpositive/HER2-negative EBC: the monarchE trial, evaluating abemaciclib plus ET,22-24 and the NATALEE trial, evaluating ribociclib plus an NSAI.8 150 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+The monarchE trial compared 2 years of adjuvant abemaciclib plus ET versus ET alone in patients with HR-positive/HER2-negative EBC who presented with high-risk disease, deﬁned as at least four positive pathological axillary lymph nodes or one to three positive axillary lymph nodes and one of the following: tumor size 5 cm, histological grade 3 disease, or centrally assessed Ki-67 20%.25 Abemaciclib plus ET demonstrated signiﬁcant iDFS beneﬁt, which led to regulatory approval for patients with HR-positive/HER2-negative EBC at a high risk of recurrence.26 There remains an unmet need, however, to provide effective treatment options for a broader range of at-risk patients with HR-positive/HER2-negative EBC. The NATALEE trial was designed to evaluate the efﬁcacy and tolerability of ribociclib plus an NSAI with a 3-year treatment duration in a population of patients with stage II and III HR-positive/HER2-negative EBC, including a select group of patients without nodal involvement. To improve tolerability, NATALEE assessed a lower daily dose of ribociclib (400 mg) in patients with EBC compared with the starting dose that is approved in ABC (600 mg).27 Results from the second prespeciﬁed interim efﬁcacy analysis of NATALEE found a statistically signiﬁcant 25% reduction in iDFS events in patients receiving ribociclib plus an NSAI compared with NSAI alone [hazard ratio (HR) 0.75, 95% conﬁdence interval (CI) 0.62-0.91; P ¼ 0.003].8 In this manuscript, we report efﬁcacy and safety results from the protocol-speciﬁed ﬁnal analysis of iDFS in the NATALEE trial. METHODS Study design and patients NATALEE (ClinicalTrials.gov ID: NCT03701334) study design, eligibility criteria, and methods have been published previously.28 This was an international, randomized, open-label, phase III trial in patients with HR-positive/HER-negative EBC. Eligible patients were aged 18 years, had locally assessed histological conﬁrmation of HR-positive/HERnegative EBC, and had stage II or stage III disease per anatomical classiﬁcation in the American Joint Committee on Cancer’s (AJCC’s) Cancer Staging Manual, eighth edition. Patients were randomized 1 : 1 to receive ribociclib (400 mg/day once daily, days 1-21 of a 28-day cycle, over a duration of 36 months) together with an NSAI (letrozole 2.5 mg or anastrozole 1 mg once daily continuously for 60 months) or an NSAI alone. Men and premenopausal women also received subcutaneously administered goserelin (3.6 mg once every 28 days). Patients were considered to be on trial treatment as long as they were continuing on NSAI (up to 5 years), regardless of ribociclib discontinuation. Randomization was stratiﬁed by menopausal status Volume 36 - Issue 2 - 2025 
+
+G. N. Hortobagyi et al. 
+
+Endpoints The primary objective was iDFS per Standardized Deﬁnitions for Efﬁcacy End Points (STEEP) criteria, version 1.0, as assessed by the investigator. Secondary objectives were recurrence-free survival (RFS) and distant DFS (DDFS) using STEEP criteria, OS, health-related quality of life (HRQoL), safety and tolerability of the treatment regimen, and pharmacokinetics. Treatment-emergent adverse events (AEs) were monitored for 36 months from randomization plus an additional 30-day follow-up and are referred to as AEs throughout this analysis. Serious adverse events were monitored until the end of the trial. AEs and serious AEs were graded according to National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03. Statistical analysis At the prespeciﬁed second interim efﬁcacy analysis carried out at 426 iDFS events (data cut-off, 11 January 2023), the study met its primary endpoint of iDFS.8 This ﬁnal analysis was conducted after the planned w500 iDFS events were documented (data cut-off, 21 July 2023). iDFS between the two treatment arms was compared using a stratiﬁed log-rank test based on the randomization stratiﬁcation factors. Primary and secondary endpoints were estimated using the KaplaneMeier (KM) method. The HR was calculated using a stratiﬁed Cox proportional hazards model, along with 95% CIs. P values were two-sided and were not adjusted for multiple comparison in this analysis. Efﬁcacy analyses were conducted in the intent-to-treat (ITT) population. The OS distribution was estimated using the KM method. Safety analyses were conducted in patients who received at least one dose of ribociclib or ET. RESULTS This multicenter trial conducted across 20 countries randomized 5101 patients to receive ribociclib plus NSAI (n ¼ 2549) or NSAI alone (n ¼ 2552) between 10 January 2019 and 20 April 2021. Demographic and clinical characteristics at baseline were well balanced between treatment arms and have been previously reported.8 At data cut-off for the ﬁnal analysis, the median duration of iDFS follow-up (from randomization to last completed recurrence assessment) Volume 36 - Issue 2 - 2025 
+
+was 33.3 months, an additional 5.6 months of iDFS followup since the previous preplanned interim analysis. At the current data cut-off, 1996 patients (78.3%) had stopped receiving ribociclib; 1091 (42.8%) completed the planned 3year ribociclib treatment and 905 (35.5%) discontinued ribociclib early. In the ribociclib plus NSAI arm, 1914 patients (75.1%) remained on study treatment as of the data cut-off date; 528 patients (20.7%) remained on ribociclib. A total of 1748 patients (68.5%) remained on study treatment in the NSAI arm. The primary reason for early discontinuation of ribociclib was AEs, which occurred in 498 patients (19.5%). The median duration of exposure to study treatment was 36.2 months in the ribociclib plus NSAI arm and 35.9 months in the NSAI-alone arm. The median duration of exposure to ribociclib alone was 32.9 months. The ﬁnal efﬁcacy analysis for iDFS occurred after 509 iDFS events were documented, which provided an additional 83 iDFS events since the second interim efﬁcacy analysis. Of the 509 iDFS events, 226 (8.9%) were with ribociclib plus NSAI versus 283 (11.1%) with NSAI alone. There was a 25.1% reduction in the risk of iDFS events in the ribociclib plus NSAI arm compared with the NSAI-alone arm (HR 0.749, 95% CI 0.628-0.892; two-sided P ¼ 0.0012) (Figure 1). The 3-year iDFS rates were 90.7% (95% CI 89.3% to 91.8%) with ribociclib plus NSAI and 87.6% (95% CI 86.1% to 88.9%) with NSAI alone, an absolute beneﬁt of 3.1%. A consistent beneﬁt was observed with ribociclib combination treatment in key subgroups, including stage II disease (HR 0.700, 95% CI 0.496-0.986), stage III disease (HR 0.755, 95% CI 0.616-0.926), node-positive disease (HR 0.759, 95% CI 0.631-0.912), and node-negative disease (HR 0.723, 95% CI 0.412-1.268) (Figures 2 and 3). KM estimates of 3-year iDFS rates favored ribociclib plus NSAI versus NSAI alone in patients with stage II disease [94.2% (95% CI 92.4% to 95.6%) versus 92.6% (95% CI 90.6% to 94.1%)], stage III disease [88.1% (95% CI 86.1% to 89.9%) versus 83.8% (95% CI 81.5% to 85.8%)], node-negative disease [93.2% (95% CI 
+
+100 
+
+93.5% 90.7% 
+
+90 Invasive disease–free survival, % 
+
+(premenopausal women and men or postmenopausal women), anatomical stage (II or III), prior neoadjuvant and/ or adjuvant chemotherapy (yes or no), and geographic location (North America, Western Europe, Oceania, or rest of the world). The trial was conducted in accordance with the International Council for Harmonisation e Good Clinical Practice guidelines, with applicable local regulations and with the ethical principles laid down in the Declaration of Helsinki. The study protocol was approved by the institutional review board or ethics committee for each participating center. An independent data monitoring committee reviewed safety and efﬁcacy data per study protocol. All patients provided written informed consent. 
+
+Annals of Oncology 
+
+92.0% 87.6% 
+
+80 ∆1.5% 
+
+70 
+
+∆3.1% 
+
+60 50 40 30 
+
+n/N (%) 
+
+20 
+
+3-Year iDFS rate, % 
+
+10 
+
+HR (95% CI) 
+
+0 
+
+NSAI alone 283/2552 (11.1) 
+
+90.7 
+
+87.6 
+
+0.749 (0.628-0.892) 
+
+Two-sided nominal P value 0 
+
+No. at risk RIB + NSAI NSAI alone 
+
+RIB + NSAI 226/2549 (8.9) 
+
+6 
+
+12 
+
+18 
+
+0.0012 24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+1694 1597 
+
+1111 1067 
+
+368 354 
+
+21 26 
+
+0 0 
+
+Months 2549 2552 
+
+2350 2241 
+
+2273 2169 
+
+2204 2080 
+
+2100 1975 
+
+Figure 1. iDFS in the ITT population. CI, conﬁdence interval; HR, hazard ratio; iDFS, invasive diseaseefree survival; ITT, intent to treat; NSAI, nonsteroidal aromatase inhibitor; RIB, ribociclib. 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+151 
+
+G. N. Hortobagyi et al. 
+
+Annals of Oncology 
+
+Subgroup Menopausal status Men and premenopausal women Postmenopausal women AJCC stage Stage II Stage Ill Prior CT Yes No Region North America/Western Europe/Oceania Rest of world Histological grade at time of surgery Grade 1 Grade 2 Grade 3 Ki-67 statusa Ki-67 ≤ 20% Ki-67 > 20% Nodal statusb,c N0 N1-N3 Prior ET Yes No 
+
+RIB + NSAI Events/n 3-y iDFS rate, % 
+
+NSAI alone Events/n 3-y iDFS rate, % 
+
+Hazard ratio 
+
+95% CI 
+
+83/1125 143/1424 
+
+91.8 89.7 
+
+114/1132 169/1420 
+
+88.2 87.1 
+
+0.688 0.806 
+
+0.519-0.913 0.645-1.007 
+
+55/1101 170/1528 
+
+94.2 88.1 
+
+80/1034 203/1512 
+
+92.6 83.8 
+
+0.700 0.755 
+
+0.496-0.986 0.616-0.926 
+
+203/2249 23/300 
+
+90.5 92.0 
+
+255/2245 28/307 
+
+87.1 91.2 
+
+0.746 0.852 
+
+0.620-0.897 0.491-1.479 
+
+131/1563 95/986 
+
+91.1 90.1 
+
+166/1565 117/987 
+
+87.5 87.6 
+
+0.748 0.774 
+
+0.595-0.941 0.591-1.015 
+
+9/213 118/1460 80/684 
+
+95.1 91.5 87.5 
+
+13/217 155/1432 89/702 
+
+93.1 88.0 85.9 
+
+0.708 0.696 0.890 
+
+0.303-1.657 0.548-0.885 0.658-1.204 
+
+93/1199 98/920 
+
+91.8 89.0 
+
+117/1236 125/937 
+
+89.8 84.9 
+
+0.794 0.743 
+
+0.605-1.042 0.570-0.988 
+
+20/285 206/2261 
+
+93.2 90.3 
+
+31/328 251/2219 
+
+90.6 87.1 
+
+0.723 0.759 
+
+0.412-1.268 0.631-0.912 
+
+150/1826 76/723 
+
+91.4 88.9 
+
+186/1850 97/747 
+
+88.4 85.8 
+
+0.755 0.771 
+
+0.609-0.936 0.571-1.040 
+
+0.0 0.5 1.0 1.5 2.0 2.5 3.0 Hazard Ratio Favors RIB + NSAI 
+
+Favors NSAI alone 
+
+Figure 2. iDFS across key prespeciﬁed subgroups. AJCC, American Joint Committee on Cancer; CI, conﬁdence interval; CT, chemotherapy; ET, endocrine therapy; iDFS, invasive disease-free survival; NSAI, nonsteroidal aromatase inhibitor; RIB, ribociclib. a From archival tumor tissue. b Nodal status classiﬁcation according to AJCC staging. c Nodal status is from the worst stage derived per surgical specimen or at diagnosis. 
+
+89.2% to 95.7%) versus 90.6% (95% CI 86.5% to 93.4%)], and node-positive disease [90.3% (95% CI 88.9% to 91.6%) versus 87.1% (95% CI 85.5% to 88.6%)] (Figure 2). There was a beneﬁt with ribociclib for the secondary endpoints of RFS (HR 0.727, 95% CI 0.602-0.877; two-sided P ¼ 0.0008) (Figure 4A) and DDFS (HR 0.749, 95% CI 0.6230.900; two-sided P ¼ 0.0020) (Figure 4B). The most common sites of disease recurrence were bone and liver in both treatment arms (Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2024.10.015). OS events occurred in 172 patients (84 in the ribociclib arm and 88 in the NSAI-alone arm). OS data were not mature at the time of this analysis; 3-year OS rates were 97.0% with ribociclib plus NSAI and 96.1% with NSAI (HR 0.892, 95% CI 0.6611.203) (Figure 4C). Safety was analyzed in 2525 patients in the ribociclib arm and 2442 in the NSAI-alone arm (Table 1). At least one treatment-emergent AE occurred in 2474 patients (98.0%) in the ribociclib arm and 2145 (87.8%) in the NSAI-alone arm. Serious AEs occurred in 357 patients (14.1%) in the ribociclib arm and 256 (10.5%) in the NSAI-alone arm. The most common AEs of any grade were neutropenia (62.5% with ribociclib plus NSAI versus 4.6% with NSAI alone), arthralgia (37.3% versus 43.3%, respectively), and nausea (23.3% versus 7.8%, respectively). The most common grade 3 event was neutropenia (44.3% with ribociclib plus NSAI 
+
+152 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+versus 0.9% with NSAI alone). Grade 3 liver-related adverse events occurred in 8.6% of patients in the ribociclib plus NSAI arm and 1.7% in the NSAI-alone arm. The median time to onset of grade 3 alanine aminotransferase (ALT) or aspartate aminotransferase (AST) increase was 2.9 months in the ribociclib arm. The median duration of grade 3 liver-related adverse events (from time of onset to resolution to grade 1) was 0.7 months (95% CI 0.7-0.9 months) in the ribociclib arm and 1.4 months (95% CI 1.0-2.7 months) in the NSAI-alone arm. At the time of this report, 89.2% of patients with grade 3 ALT or AST elevations in the ribociclib arm resolved to grade 1. QT interval prolongation events were more commonly observed in the ribociclib plus NSAI arm compared with the NSAI-alone arm (5.3% versus 1.4%), although grade 3 events were uncommon in both arms (1.0% versus 0.6%, respectively). AEs leading to ribociclib discontinuation and dose reduction occurred in 19.5% and 22.8% of patients, respectively. The median times to ribociclib discontinuations (4.17 months) and ﬁrst dose reduction (3.15 months) due to AEs were low and occurred early in the treatment period. The most frequent any-grade AEs leading to discontinuation were ALT increased (7.1% with ribociclib plus NSAI versus 0.1% with NSAI alone), AST increased (2.8% versus 0%, respectively), and arthralgia (1.5% versus 2.0%, respectively). Neutropenia and fatigue contributed to discontinuation in <1% 
+
+Volume 36 - Issue 2 - 2025 
+
+G. N. Hortobagyi et al. 
+
+A 
+
+Annals of Oncology 
+
+B 
+
+iDFS Stage II 
+
+iDFS Stage III 100 
+
+100 
+
+90 Invasive disease–free survival, % 
+
+Invasive disease–free survival, % 
+
+90 80 70 60 50 40 30 20 
+
+n/N (%) 
+
+10 
+
+3-Year iDFS rate, % 
+
+RIB + NSAI 
+
+NSAI alone 
+
+55/1011 (5.44) 
+
+80/1034 (7.74) 
+
+94.2 
+
+92.6 
+
+HR (95% CI) 
+
+30 20 
+
+n/N (%) 
+
+10 
+
+3-Year iDFS rate, % 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+Months 1011 1034 
+
+929 948 
+
+902 924 
+
+883 893 
+
+859 872 
+
+841 840 
+
+611 609 
+
+194 203 
+
+15 18 
+
+0 
+
+54 0 0 
+
+No. at risk RIB + NSAI NSAI alone 
+
+D 
+
+NSAI alone 203/1512 (13.4) 
+
+88.1 
+
+83.8 
+
+0.755 (0.616-0.926) 
+
+90 
+
+90 Invasive disease–free survival, % 
+
+100 
+
+80 70 60 50 40 30 20 
+
+n/N (%) 
+
+10 
+
+3-Year iDFS rate, % 
+
+RIB + NSAI 
+
+NSAI alone 
+
+20/285 (7.0) 
+
+31/328 (9.5) 
+
+93.2 
+
+90.6 
+
+HR (95% CI) 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+844 753 
+
+496 456 
+
+174 151 
+
+6 8 
+
+0 0 
+
+Months 1528 1512 
+
+1411 1289 
+
+1362 1241 
+
+1312 1183 
+
+1232 1099 
+
+iDFS node positive 
+
+100 
+
+80 70 60 50 40 30 20 
+
+n/N (%) 
+
+10 
+
+3-Year iDFS rate, % 
+
+RIB + NSAI 
+
+NSAI alone 
+
+206/2261 (9.1) 
+
+251/2219 (11.3) 
+
+90.3 
+
+87.1 
+
+HR (95% CI) 
+
+0.723 (0.412-1.268) 
+
+0.759 (0.631-0.912) 
+
+0 
+
+0 0 No. at risk RIB + NSAI NSAI alone 
+
+RIB + NSAI 170/1528 (11.1) 
+
+HR (95% CI) 
+
+iDFS node negative 
+
+Invasive disease–free survival, % 
+
+50 40 
+
+0 0 
+
+C 
+
+70 60 
+
+0.700 (0.496-0.986) 
+
+0 
+
+No. at risk RIB + NSAI NSAI alone 
+
+80 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+Months 285 328 
+
+262 300 
+
+258 294 
+
+250 287 
+
+244 276 
+
+235 258 
+
+177 188 
+
+67 80 
+
+5 5 
+
+0 
+
+54 0 0 
+
+No. at risk RIB + NSAI NSAI alone 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+1458 1337 
+
+934 877 
+
+301 273 
+
+16 21 
+
+0 0 
+
+Months 2261 2219 
+
+2085 1938 
+
+2012 1873 
+
+1951 1791 
+
+1853 1697 
+
+Figure 3. iDFS by stage and nodal status. CI, conﬁdence interval; HR, hazard ratio; iDFS, invasive disease-free survival; NSAI, nonsteroidal aromatase inhibitor; RIB, ribociclib. 
+
+of patients in either treatment arm. Rates of NSAI discontinuation due to AEs were similar between the two arms (5.1% in the ribociclib arm and 4.4% in the NSAI-alone arm). Since the primary analysis, overall deaths due to any cause remain more frequent in the NSAI-alone arm [89 patients (3.6%)] compared with the ribociclib plus NSAI arm [83 patients (3.3%)]. Deaths without disease progression or recurrence occurred in 25 patients in the ribociclib plus NSAI arm and in 16 patients in the NSAI-alone arm. Ontreatment deaths were deﬁned as occurring on or after the treatment start date and up to 30 days after 36 months of treatment or earlier treatment discontinuation. Ontreatment deaths occurred in 20 patients (0.8%) in the ribociclib plus NSAI arm and in 9 patients (0.4%) in the NSAI-alone arm, which represents an additional 3 on-treatment deaths since the primary analysis (Supplementary Table S2, available at https://doi.org/10. 1016/j.annonc.2024.10.015). Among these on-treatment deaths, 12 occurred within 30 days after the last dose of ribociclib. Six on-treatment deaths occurred due to coronavirus disease 2019 (COVID-19) in the ribociclib arm Volume 36 - Issue 2 - 2025 
+
+compared with one death due to COVID-19 in the NSAIalone arm. There was no preceding or concurrent severe myelosuppression at the time of the COVID-19 in any of these six patients. Most other on-treatment deaths in both arms were single occurrence events with no clustering around a single AE type. No on-treatment deaths were considered related to ribociclib. DISCUSSION This protocol-speciﬁed ﬁnal analysis of iDFS provided an additional 5.6 months of iDFS follow-up, with a majority of patients off ribociclib treatment (78.3% had stopped ribociclib at the time of this analysis versus 54.0% in previous analysis).8 Consistent with the prior interim efﬁcacy analysis,8 this analysis of NATALEE demonstrated a 25% reduction in the risk of iDFS events with ribociclib plus NSAI (HR 0.749, 95% CI 0.628-0.892; P ¼ 0.0012). There was a clear separation of the iDFS KM curves between the study arms in favor of ribociclib plus NSAI, demonstrating a sustained beneﬁt through the ribociclib treatment window and at https://doi.org/10.1016/j.annonc.2024.10.015 
+
+153 
+
+G. N. Hortobagyi et al. 
+
+Annals of Oncology 
+
+A 
+
+B 
+
+DDFS 
+
+100 
+
+100 
+
+90 
+
+90 Distant disease–free survival, % 
+
+Recurrence-free survival, % 
+
+RFS 
+
+80 70 60 50 40 30 
+
+n/N (%) 
+
+20 
+
+3-Year RFS rate, % 
+
+10 
+
+HR (95% CI) 
+
+RIB + NSAI 
+
+NSAI alone 
+
+192/2549 (7.5) 
+
+248/2552 (9.7) 
+
+92.1 
+
+89.1 
+
+80 70 60 50 40 30 
+
+0.727 (0.602-0.877) 
+
+Two-sided nominal P value 
+
+20 
+
+3-Year DDFS rate, % 
+
+10 
+
+HR (95% CI) 
+
+RIB + NSAI 
+
+NSAI alone 
+
+204/2549 (8.0) 
+
+256/2552 (10.0) 
+
+92.9 
+
+90.2 
+
+0.749 (0.623-0.900) 
+
+Two-sided nominal P value 
+
+0.0008 
+
+0 
+
+0.0020 
+
+0 0 
+
+No. at risk RIB + NSAI NSAI alone 
+
+n/N (%) 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+0 
+
+54 
+
+Months 2549 2552 
+
+2358 2249 
+
+2283 2179 
+
+2222 2098 
+
+2118 1998 
+
+1710 1619 
+
+C 
+
+1123 1078 
+
+371 361 
+
+21 26 
+
+No. at risk RIB + NSAI NSAI alone 
+
+0 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+1704 1609 
+
+1119 1080 
+
+369 356 
+
+21 26 
+
+0 0 
+
+Months 2549 2552 
+
+2352 2245 
+
+2280 2171 
+
+2212 2091 
+
+2113 1990 
+
+OS 100 90 
+
+Overall survival, % 
+
+80 70 60 50 40 30 20 
+
+n/N (%) 
+
+10 
+
+3-Year OS rate, % 
+
+RIB + NSAI 
+
+NSAI alone 
+
+84/2549 (3.3) 
+
+88/2552 (3.4) 
+
+97.0 
+
+96.1 
+
+HR (95% CI) 
+
+0.892 (0.661-1.203) 
+
+0 0 No. at risk RIB + NSAI NSAI alone 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+1902 1815 
+
+1259 1207 
+
+455 444 
+
+24 31 
+
+0 0 
+
+Months 2549 2552 
+
+2405 2302 
+
+2337 2256 
+
+2305 2209 
+
+2259 2158 
+
+Figure 4. RFS, DDFS, and OS in the ITT population. CI, conﬁdence interval; DDFS, distant disease-free survival; HR, hazard ratio; ITT, intent to treat; NSAI, nonsteroidal aromatase inhibitor; OS, overall survival; RFS, recurrence-free survival; RIB, ribociclib. 
+
+subsequent follow-up. The secondary endpoints of RFS and DDFS also favored ribociclib plus NSAI, while OS data were immature at the time of this analysis. Since the previous 
+
+interim analysis, the incidence rates of the most frequently observed AEs remained stable, and the absolute increase for any AE of special interest or clinically relevant AE was 
+
+Table 1. Adverse events Ribociclib D NSAI (n [ 2525) 
+
+NSAI only (n [ 2442) 
+
+15% In either arm, n (%) 
+
+All grades 
+
+Grade 3 
+
+Grade 4 
+
+Grade 5 
+
+All grades 
+
+Grade 3 
+
+Grade 4 
+
+Grade 5 
+
+No. of patients with 1 TEAE Neutropeniaa Arthralgia Nausea Headache Fatigue SARS-CoV-2 test positive COVID-19 ALT increased Hot ﬂush Asthenia AST increased Alopecia 
+
+2474 (98.0) 1579 (62.5) 942 (37.3) 588 (23.3) 575 (22.8) 564 (22.3) 532 (21.1) 537 (21.3) 492 (19.5) 486 (19.2) 428 (17.0) 426 (16.9) 380 (15.0) 
+
+1463 (57.9) 1065 (42.2) 25 (1.0) 6 (0.2) 11 (0.4) 19 (0.8) 0 18 (0.7) 159 (6.3) 6 (0.2) 14 (0.6) 100 (4.0) 0 
+
+133 (5.3) 53 (2.1) 0 0 0 0 0 0 33 (1.3) 0 0 18 (0.7) 0 
+
+11 (0.4) 0 0 0 0 0 0 3 (0.1) 0 0 0 0 0 
+
+2145 (87.8) 113 (4.6) 1058 (43.3) 190 (7.8) 415 (17.0) 322 (13.2) 332 (13.6) 345 (14.1) 136 (5.6) 489 (20.0) 291 (11.9) 139 (5.7) 109 (4.5) 
+
+425 (17.4) 19 (0.8) 31 (1.3) 1 (<0.1) 4 (0.2) 4 (0.2) 0 11 (0.5) 16 (0.7) 3 (0.1) 3 (0.1) 13 (0.5) 0 
+
+40 (1.6) 3 (0.1) 0 0 0 0 0 0 1 (<0.1) 0 0 0 0 
+
+4 (0.2) 0 0 0 0 0 0 1 (<0.1) 0 0 0 0 0 
+
+ALT, alanine aminotransferase; AST, aspartate aminotransferase; COVID-19, coronavirus 2019; NSAI, nonsteroidal aromatase inhibitor; SARS-CoV-2, severe acute respiratory syndrome coronavirus 2; TEAE, treatment-emergent adverse event. a This is a grouped term that combines neutropenia and neutrophil count decreased. 
+
+154 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+Volume 36 - Issue 2 - 2025 
+
+G. N. Hortobagyi et al. 
+
+<1%.8 Similarly, discontinuations due to AEs only increased by 0.8%, despite more than three-quarters of patients off ribociclib at the time of this updated analysis. The efﬁcacy of ribociclib plus NSAI was favorable in all prespeciﬁed subgroups and was consistent with the overall results. HRs for all prespeciﬁed subgroups favored ribociclib plus NSAI versus NSAI alone (HR, range 0.688-0.890) (Figure 2). In addition, the 3-year iDFS rates showed a treatment beneﬁt with ribociclib plus NSAI versus NSAI alone across menopausal status, AJCC stage, prior chemotherapy, geographic region, tumor grade, Ki-67 status, nodal status, and prior ET use (absolute beneﬁt, range 0.8% to 4.3%). The 95% CIs remained wide for subgroups with low numbers of events, but the iDFS HRs continued to narrow toward the ITT estimates in this updated analysis. This improvement was particularly evident in patients with stage II disease. While this subgroup had a lower event rate, there was an increase in iDFS beneﬁt since the previous interim analysis (HR 0.70 versus 0.76, respectively) and a narrowing of the CI to exclude unity with the longer follow-up. Additional follow-up data are planned to fully evaluate the efﬁcacy among subgroups with fewer iDFS events in NATALEE, but the current iDFS beneﬁt across subgroups suggests that the overall efﬁcacy of ribociclib plus NSAI in the ITT sample is not driven by any single patient subtype. There were no new safety signals in this ﬁnal analysis, and the rates of AEs of special interest, including neutropenia, arthralgia, and elevated liver enzymes, showed minimal change with additional follow-up. Compared with the 600 mg starting dose of ribociclib in the MONALEESA ABC trials, the 400 mg starting dose in the EBC setting was associated with lower rates of dose-dependent toxicities. Any-grade neutropenia (grouped term including neutrophil count decreased) occurred in 62.5% of patients in the ribociclib arm of the NATALEE study in an adjuvant setting, which was lower than the 74% seen in a pooled sample of patients receiving ribociclib in the MONALEESA-2, -3, and -7 studies in metastatic breast cancer.29 Similarly, only 1% of patients in the NATALEE ribociclib arm experienced grade 3 QT prolongation, which was <1.8% to 4.5% incidence rates of grade 3 QT prolongation reported in the MONALEESA trials.16-18 Collectively, these ﬁndings further demonstrate that the 3-year regimen of ribociclib 400 mg in the adjuvant setting was well tolerated. Ribociclib discontinuations and dose reductions due to AEs occurred early in treatment (median 4.17 and 3.15 months, respectively), and there was a <1% absolute increase in new treatment discontinuations due to AEs since the last analysis (18.7% versus 19.5%).8 This was a small change in light of a substantial majority of patients off ribociclib and a median relative dose intensity of 94.0% for ribociclib in this updated analysis. In the monarchE trial of adjuvant abemaciclib, a similar rate of 18.5% was observed for patients who discontinued the drug or all treatment due to AEs despite a shorter treatment duration.30 While patients in monarchE primarily discontinued due to diarrhea,30 ALT and AST elevation were the primary AEs leading to discontinuation in NATALEE, most of which occurred Volume 36 - Issue 2 - 2025 
+
+Annals of Oncology without concurrent elevations in bilirubin. ALT and AST elevations in NATALEE occurred early in the course of care (median 2.9 months for grade 3) and resolved in w3 weeks. While the mechanisms driving the elevation of ALT and AST are likely multifactorial and not fully understood, these liver-related events resolved with protocol-guided dose modiﬁcations. While efﬁcacy was the primary aim of the study, understanding the safety proﬁle and its impact on HRQoL is essential when making clinical decisions in a population that requires several years of therapy. A previous analysis of NATALEE demonstrated that overall HRQoL was maintained with the addition of ribociclib to NSAI in all prespeciﬁed HRQoL measures, including the protocol-deﬁned endpoint of physical functioning.31 CDK4/6 inhibition has become standard treatment in ABC, but efﬁcacy has not been consistent across all CDK4/6 inhibitors in patients with HR-positive/HER2-negative EBC. Palbociclib failed to meet efﬁcacy targets in the adjuvant setting,7,32,33 while abemaciclib6,22-24 and ribociclib,8 each in combination with ET, have shown beneﬁt in iDFS, albeit in different patient populations. There are notable differences between the monarchE and NATALEE studies, including the treatment duration (2 versus 3 years), ET partner (tamoxifen versus NSAI), and patient population.22 monarchE did not include patients with node-negative disease,22,24 while NATALEE included a population of patients with N0 disease and additional high-risk features. A recent real-world study in which most patients received standard of care ET found that patients with N0 disease and high-risk features had a recurrence risk that was similar to patients with N1 disease at a median follow-up of 79.1 months; this risk was significantly greater than patients with N0 disease without highrisk features.34 These real-world data, together with the high risk of recurrence at 3 years in the control arm of patients with N0 disease (9.4%; Figure 3C) and consistent treatment beneﬁt across nodal subgroups in this study, highlight the beneﬁt of ribociclib plus NSAI for patients with node-positive and node-negative disease at high risk of recurrence. When evaluating results from positive adjuvant trials of CDK4/6 inhibitors, it is also important to consider the median follow-up. monarchE had 54 months of follow-up and has shown improved beneﬁt over time,24 suggesting that the beneﬁt of CDK4/6 inhibition extends well beyond the treatment window. Since the previous analysis, the absolute treatment beneﬁt in NATALEE has been maintained and the CIs continue to narrow in the overall population and prespeciﬁed subgroups. This improving beneﬁt is consistent with preclinical data that have shown that CDK4/6 inhibitors may exert their effect not only through cell cycle inhibition during treatment but also through tumor senescence and beneﬁcial modulation of the immune response and microenvironment.35-37 The signiﬁcant and persistent beneﬁt of CDK4/6 inhibitors in existing trials is encouraging. Future analyses, including biomarker studies, will hopefully extend our understanding of ribociclib beneﬁt and responsive patient populations. Given that the economic impact of https://doi.org/10.1016/j.annonc.2024.10.015 
+
+155 
+
+Annals of Oncology adjuvant treatments is an important consideration, future value assessments will be needed and are planned. In this protocol-prespeciﬁed ﬁnal iDFS analysis, adjuvant ribociclib plus NSAI demonstrated a sustained treatment beneﬁt in iDFS compared with NSAI alone in in patients with stage II or III HR-positive/HER2-negative EBC. The majority of AEs were asymptomatic with this additional follow-up, and the safety proﬁle remained consistent with that observed in previous interim analyses of ribociclib plus NSAI in patients with EBC. Future analyses are planned and will continue to elucidate the sustained beneﬁt of ribociclib plus NSAI for long-term outcomes and among speciﬁc subgroups of interest. ACKNOWLEDGEMENTS We thank the patients who participated in the trial and their families and caregivers; the members of the IDMC; the members of the trial steering committee; the staff members who assisted with the trial at each site; and Joseph Zeni, PhD, and Casey Nielsen, PhD, of Nucleus Global for medical editorial assistance with earlier versions of the manuscript. Ribociclib was discovered by Novartis Institutes for BioMedical Research in collaboration with Astex Pharmaceuticals. FUNDING This work was supported by Novartis Pharmaceuticals Corporation (no grant number). DISCLOSURE GNH reports receiving consulting or advisory role fees from Agendia, Lilly, Merck, Novartis, Peregrine Pharmaceuticals, and Roche and travel expenses from Novartis, and his institution has received research funding from Novartis. JS reports research grant/funding (institution) from Merck Sharp & Dohme (MSD), Roche, Novartis, AstraZeneca, Lilly, Pﬁzer, GlaxoSmithKline (GSK), Daiichi Sankyo, Sanoﬁ, Boehringer Ingelheim, stock/immediate family member from Daiichi Sankyo. MRB reports speaker fees from Pﬁzer, Novartis, AstraZeneca; consulting or advisory role from Pﬁzer, Novartis, Pierre Fabre. YHP reports grants and/or personal fees from MSD, Pﬁzer Roche, Novartis, AstraZeneca, Gencurix, Genome Insight, Daiichi Sankyo, Gilead, Lilly. DAY reports research funding to institution from Daiichi Sankyo/Lilly, Eisai, Genentech/Roche, Novartis, AbbVie, AstraZeneca, Clovis Oncology, Immunomedics, InventisBio, Lilly, MedImmune, Medivation, Merck, Oncothyreon, Pﬁzer, Syndax, Tesaro; personal fees from Biotheranostics, Bristol Myers Squibb, Celgene, Daiichi Sankyo/Lilly, Eisai, Genentech/Roche, Novartis, NanoString Technologies. CSH reports grants to institution from Novartis, Daiichi Sankyo, AstraZeneca, EirGenix, Eli Lilly, MSD, OBI Pharma, Pﬁzer, Roche; personal fees from Novartis, Daiichi Sankyo, AstraZeneca, Eli Lilly, Pﬁzer, Roche; non-ﬁnancial support from AstraZeneca, EirGenix, Eli Lilly, OBI Pharma, Roche, Novartis. 
+
+156 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+G. N. Hortobagyi et al. 
+
+PAF reports personal fees from Novartis, Pﬁzer, DaiichiSankyo, AstraZeneca, Eisai, MSD, Lilly, Pierre Fabre, Seagen, Roche, Hexal, Agendia, Sanoﬁ Aventis, Gilead; institutional funding from BioNTech, Pﬁzer, Cepheid; research grant from Pﬁzer. AB reports research grants to institution from Genentech, Novartis, Pﬁzer, Merck, Sanoﬁ, Radius Health, Immunomedics, Mersana, Innocrin; personal fees from Biotheranostics Inc., Pﬁzer, Novartis, Genentech, Merck, Radius Health, Immunomedics, Spectrum Pharma, Taiho, Sanoﬁ, Daiichi Pharma, Puma. SC reports personal fees and grants to institution from Novartis, Pﬁzer, Hoffman LaRoche, Eli Lilly. SAI reports personal fees from AstraZeneca, Novartis, Hanmi, Pﬁzer, Eisai, Amgen, Roche, Lilly, GSK, MSD; research grants from AstraZeneca, Pﬁzer, Eisai, Roche, Daewoong Pharm. MM reports personal fees from Lilly, Pﬁzer, AstraZeneca, personal fees and grants from Novartis, Roche-Genentech, GSK, PharmaMar, Taiho Oncology, Menarini. SL reports research funding grants to institution from Novartis, Bristol Myers Squibb, Merck, Puma Biotechnology, Eli Lilly, Nektar Therapeutics, AstraZeneca, Roche-Genentech, Seattle Genetics; uncompensated consultant for Seattle Genetics, Novartis, Bristol Myers Squibb, Merck, AstraZeneca, Eli Lilly, Pﬁzer, Gilead Therapeutics, Roche-Genentech; consultant with fees paid to institution from Aduro Biotech, Novartis, GSK, RocheGenentech, AstraZeneca, Silverback Therapeutics, G1 Therapeutics, PUMA Biotechnologies, Pﬁzer, Gilead Therapeutics, Seattle Genetics, Daiichi Sankyo, Merck, Amunix, Tallac Therapeutics, Eli Lilly, Bristol Myers Squibb. BX reports personal fees from Novartis, AstraZeneca, Pﬁzer, Roche, Eisai. SH reports grants from Ambryx, Amgen, AstraZeneca, Arvinas, Bayer, CytomX, Daiichi Sankyo, Dignitana, Genentech/Roche, Gilead, GSK, Immunomedics, Lilly, MacroGenics, Novartis, OBI Pharma, Pﬁzer, Pieris, Puma, Radius, Sanoﬁ, Seattle Genetics, Zymeworks, Phoenix Molecular Designs; other from Lilly. CB reports institutional research grants from Pﬁzer, Pharma Mar, Polyphor, Henlius Biotech, Shanghai, Merck KGaA, Millennium, LEO Pharm, ImClone Systems, Exelixis, Medivation, Asana Biosciences, AB Science, Abraxis Biosciences, Daiichi Sankyo, Bristol Myers Squibb, BioMarin, Astellas Pharma, AbbVie, Merck (MSD), Merrimack, Mylan, Taiho Pharmaceutical, Sanoﬁ, GSK, Roche/Genentech, Lilly, Boehringer Ingelheim, Novartis, AstraZeneca, Amgen, Pﬁzer; personal fees from Boehringer-Ingelheim, Sanoﬁ, Lilly, Zodiac, AstraZeneca, MSD, Bayer, Eisai, Roche/Genentech, Pﬁzer, Novartis, GSK, Daiichi Sankyo; stock from MedSIR, Thummi. RM reports personal fees from Gilead, Lilly, Pﬁzer, Seattle Genetics, Genentech, Johnson & Johnson. FP reports TRIO is contracted by Novartis as CRO conducting the NATALEE trial and I am a TRIO employee. JPZ, ZL, SW, AC report employment and stock ownership from Novartis. DS reports stock ownership from BioMarin, Pﬁzer, Amgen, Seattle Genetics, TORL BioTherapeutics, 1200 Pharma; travel support from BioMarin, Pﬁzer, Novartis; personal fees from Novartis, Eli Lilly; grants from Pﬁzer, Novartis; founder of 1200 
+
+Volume 36 - Issue 2 - 2025 
+
+G. N. Hortobagyi et al. 
+
+Pharma, TORL BioTherapeutics. All other authors have declared no conﬂicts of interest. 
+
+REFERENCES 1. Sung H, Ferlay J, Siegel RL, et al. Global Cancer Statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2021;71(3):209-249. 2. Howlader N, Altekruse SF, Li CI, et al. US incidence of breast cancer subtypes deﬁned by joint hormone receptor and HER2 status. J Natl Cancer Inst. 2014;106(5):dju055. 3. Loibl S, André F, Bachelot T, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2024;35(2):159-182. 4. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG), Davies C, Godwin J, Gray R, et al. Relevance of breast cancer hormone receptors and other factors to the efﬁcacy of adjuvant tamoxifen: patient-level meta-analysis of randomised trials. Lancet. 2011;378(9793):771-784. 5. Pagani O, Walley BA, Fleming GF, et al. Adjuvant exemestane with ovarian suppression in premenopausal breast cancer: long-term follow-up of the combined TEXT and SOFT trials. J Clin Oncol. 2023;41(7):1376-1382. 6. Johnston SRD, Toi M, O’Shaughnessy J, et al. Abemaciclib plus endocrine therapy for hormone receptor-positive, HER2-negative, nodepositive, high-risk early breast cancer (monarchE): results from a preplanned interim analysis of a randomised, open-label, phase 3 trial. Lancet Oncol. 2023;24(1):77-90. 7. Mayer EL, Dueck AC, Martin M, et al. Palbociclib with adjuvant endocrine therapy in early breast cancer (PALLAS): interim analysis of a multicentre, open-label, randomised, phase 3 study. Lancet Oncol. 2021;22(2):212-222. 8. Slamon D, Lipatov O, Nowecki Z, et al. Ribociclib plus endocrine therapy in early breast cancer. N Engl J Med. 2024;390(12):1080-1091. 9. Pedersen RN, Esen BO, Mellemkjaer L, et al. The incidence of breast cancer recurrence 10-32 years after primary diagnosis. J Natl Cancer Inst. 2022;114(3):391-399. 10. Pan H, Gray R, Braybrooke J, et al. 20-year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years. N Engl J Med. 2017;377(19):1836-1846. 11. Soerjomataram I, Louwman MW, Ribot JG, et al. An overview of prognostic factors for long-term survivors of breast cancer. Breast Cancer Res Treat. 2008;107(3):309-330. 12. Buyse M, Loi S, van’t Veer L, et al. Validation and clinical utility of a 70gene prognostic signature for women with node-negative breast cancer. J Natl Cancer Inst. 2006;98(17):1183-1192. 13. van de Vijver MJ, He YD, van’t Veer LJ, et al. A gene-expression signature as a predictor of survival in breast cancer. N Engl J Med. 2002;347(25):1999-2009. 14. Sestak I, Dowsett M, Zabaglo L, et al. Factors predicting late recurrence for estrogen receptor-positive breast cancer. J Natl Cancer Inst. 2013;105(19):1504-1511. 15. Cardoso F, Paluch-Shimon S, Senkus E, et al. 5th ESO-ESMO international consensus guidelines for advanced breast cancer (ABC 5). Ann Oncol. 2020;31(12):1623-1649. 16. Hortobagyi GN, Stemmer SM, Burris HA, et al. Overall survival with ribociclib plus letrozole in advanced breast cancer. N Engl J Med. 2022;386(10):942-950. 17. Im SA, Lu YS, Bardia A, et al. Overall survival with ribociclib plus endocrine therapy in breast cancer. N Engl J Med. 2019;381(4):307-316. 18. Slamon DJ, Neven P, Chia S, et al. Ribociclib plus fulvestrant for postmenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer in the phase III randomized MONALEESA-3 trial: updated overall survival. Ann Oncol. 2021;32(8):1015-1024. 19. Tripathy D, Im SA, Colleoni M, et al. Ribociclib plus endocrine therapy for premenopausal women with hormone-receptor-positive, advanced breast cancer (MONALEESA-7): a randomised phase 3 trial. Lancet Oncol. 2018;19(7):904-915. 
+
+Volume 36 - Issue 2 - 2025 
+
+Annals of Oncology 20. Slamon DJ, Neven P, Chia S, et al. Phase III randomized study of ribociclib and fulvestrant in hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer: MONALEESA-3. J Clin Oncol. 2018;36(24):2465-2472. 21. Hortobagyi GN, Stemmer SM, Burris HA, et al. Ribociclib as ﬁrst-line therapy for HR-positive, advanced breast cancer. N Engl J Med. 2016;375(18):1738-1748. 22. Johnston SRD, Harbeck N, Hegg R, et al. Abemaciclib combined with endocrine therapy for the adjuvant treatment of HRþ, HER2, nodepositive, high-risk, early breast cancer (monarchE). J Clin Oncol. 2020;38(34):3987-3998. 23. Harbeck N, Rastogi P, Martin M, et al. Adjuvant abemaciclib combined with endocrine therapy for high-risk early breast cancer: updated efﬁcacy and Ki67 analysis from the monarchE study. Ann Oncol. 2021;32(12):1571-1581. 24. Rastogi P, O’Shaughnessy J, Martin M, et al. Adjuvant abemaciclib plus endocrine therapy for hormone receptor-positive, human epidermal growth factor receptor 2-negative, high-risk early breast cancer: results from a preplanned monarchE overall survival interim analysis, including 5-year efﬁcacy outcomes. J Clin Oncol. 2024;42(9):987-993. 25. ClinicalTrials.gov. Endocrine therapy with or without abemaciclib (LY2835219) following surgery in participants with breast cancer (monarchE). Available at https://clinicaltrials.gov/study/NCT03155997. Accessed February 25, 2024. 26. Verzenio. Prescribing Information. Lilly USA. LLC; 2021. Available at: https://uspl.lilly.com/verzenio/verzenio.html#pi. Accessed November 11, 2024. 27. KISQALI. Prescribing Information. Novartis Pharmaceuticals Corporation; 2021. Available at: https://www.bing.com/search?q¼ KISQALIþPrescribingþInformation&cvid¼b8676318aba44587a58e98 c05bca83fd&gs_lcrp¼EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQA BhAMggIAhDpBxj8VdIBBzM1OGowajSoAgCwAgA&FORM¼ANAB01&PC ¼U531. Accessed November 11, 2024. 28. Slamon DJ, Fasching PA, Hurvitz S, et al. Rationale and trial design of NATALEE: a phase III trial of adjuvant ribociclib þ endocrine therapy versus endocrine therapy alone in patients with HRþ/HER2 early breast cancer. Ther Adv Med Oncol. 2023;15:17588359231178125. 29. Burris HA, Chan A, Bardia A, et al. Safety and impact of dose reductions on efﬁcacy in the randomised MONALEESA-2, -3 and -7 trials in hormone receptor-positive, HER2-negative advanced breast cancer. Br J Cancer. 2021;125(5):679-686. 30. Rugo HS, O’Shaughnessy J, Boyle F, et al. Adjuvant abemaciclib combined with endocrine therapy for high-risk early breast cancer: safety and patient-reported outcomes from the monarchE study. Ann Oncol. 2022;33(6):616-627. 31. Fasching PA, Slamon D, Nowecki Z, et al. VP3-2023: health-related quality of life (HRQoL) in the phase III NATALEE study of adjuvant ribociclib (RIB) plus a nonsteroidal aromatase inhibitor (NSAI) vs NSAI alone in patients (pts) with HRþ/HER2 early breast cancer (EBC). Ann Oncol. 2023;34(10):951-953. 32. Loibl S, Marme F, Martin M, et al. Palbociclib for residual high-risk invasive HR-positive and HER2-negative early breast cancer-the Penelope-B trial. J Clin Oncol. 2021;39(14):1518-1530. 33. Gnant M, Dueck AC, Frantal S, et al. Adjuvant palbociclib for early breast cancer: the PALLAS trial results (ABCSG-42/AFT-05/BIG-14-03). J Clin Oncol. 2022;40(3):282-293. 34. Jhaveri K, Pegram M, Neven P, et al. 292P Real-world evidence on risk of recurrence (ROR) in patients (pts) with node-negative (N0) and node-positive HRþ/HER2e early breast cancer (EBC) from US electronic health records (EHR). Ann Oncol. 2024;35(suppl 2):S337-S338. 35. Kovatcheva M, Liu DD, Dickson MA, et al. MDM2 turnover and expression of ATRX determine the choice between quiescence and senescence in response to CDK4 inhibition. Oncotarget. 2015;6(10):8226-8243. 36. Peuker CA, Yaghobramzi S, Grunert C, et al. Treatment with ribociclib shows favourable immunomodulatory effects in patients with hormone receptor-positive breast cancer-ﬁndings from the RIBECCA trial. Eur J Cancer. 2022;162:45-55. 37. Klein ME, Kovatcheva M, Davis LE, et al. CDK4/6 inhibitors: the mechanism of action may not be as simple as once thought. Cancer Cell. 2018;34(1):9-20. 
+
+https://doi.org/10.1016/j.annonc.2024.10.015 
+
+157 
+
+ 

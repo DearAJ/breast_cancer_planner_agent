@@ -1,0 +1,1515 @@
+original report 
+
+West German Study PlanB Trial: Adjuvant Four Cycles of Epirubicin and Cyclophosphamide Plus Docetaxel Versus Six Cycles of Docetaxel and Cyclophosphamide in HER2-Negative Early Breast Cancer Ulrike Nitz, MD1,2; Oleg Gluz, MD1,2,3; Michael Clemens, MD4; Wolfram Malter, MD3; Toralf Reimer, PhD, MD5; Benno Nuding, MD6; Bahriye Aktas, MD7,8; Andrea Stefek, DrMed9; Anke Pollmanns, MD10; Fatemeh Lorenz-Salehi, DrMed11; Christoph Uleer, MD12; Petra Krabisch, MD13; Sherko Kuemmel, MD, PhD14; Cornelia Liedtke, MD, PhD1,15; Steven Shak, MD16; Rachel Wuerstlein, MD1,17; Matthias Christgen, PhD18; Ronald E. Kates, PhD1; Hans H. Kreipe, MD, PhD18; and Nadia Harbeck, MD, PhD1,17 on behalf of the West German Study Group PlanB Investigators 
+
+abstract 
+
+PURPOSE The West German Study Group PlanB trial evaluated an anthracycline-free chemotherapy standard (six cycles of docetaxel and cyclophosphamide [TC]) in the routine treatment of human epidermal growth factor receptor 2–negative early breast cancer (EBC). 
+
+PATIENTS AND METHODS Patients with pT1 to pT4c, all pN+, and pN0/high-risk EBC were eligible. High-risk pN0 was deﬁned by one or more of the following: pT greater than 2, grade 2 to 3, high urokinase-type plasminogen activator/plasminogen activator inhibitor-1, hormone receptor (HR) negativity, and less than 35 years of age. After an early amendment, all HR-positive tumors underwent recurrence score (RS) testing, with chemotherapy omission recommended in RS less than or equal to 11 pN0 to pN1 disease. Patients were randomly assigned to four cycles of epirubicin (E)90/cyclophoshamide (C)600 followed by four cycles of docetaxel (T)100 or six cycles of T75C600 (administered once every 3 weeks). The primary end point was disease-free survival (DFS); secondary end points were overall survival (OS) and safety. The protocol speciﬁed P = .05 for a noninferiority margin of 4.4% for all patients combined. 
+
+ASSOCIATED CONTENT Appendix Data Supplements Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on January 2, 2019 and published at jco.org on February 20, 2019: DOI https://doi.org/10. 1200/JCO.18.00028 Clinical trials information: NCT01049425. 
+
+RESULTS Of the 3,198 registered patients, 348 (RS # 11) omitted chemotherapy, and 401 were not randomly assigned. The intention-to-treat population included 2,449 patients (1,227 EC-T v 1,222 TC: postmenopausal, 62.2% v 60.8%; pN0, 58.2% v 59.5%; pT1, 57.6% v 52.3%; HR positive, 81.4% v 82.2%; RS greater than 25 [in HR-positive patients], 26.2% v 27.5%). Within the safety population (1,167 v 1,178 patients), 87.5% v 93.0% completed therapy. After a 60-month median follow-up, 5-year outcomes were similar in the EC-T and TC arms (DFS, 89.6% [95% CI, 87.9% to 91.5%] v 89.9% [95% CI, 88.1% to 91.8%]; OS, 94.5% [95% CI, 93.1% to 95.9%] v 94.7% [95% CI, 93.3% to 96.1%]). The DFS difference was within the noninferiority margin of the original trial design. Five treatment-related deaths were reported for TC (one for EC-T), despite a trend toward more-severe adverse events in the latter. Interaction analysis revealed no predictive trends with respect to key factors, including triple-negative, luminal A/B-like, pN, age, and RS status. CONCLUSION In the West German Study Group PlanB trial, 5-year outcomes for TC and EC-T were equally excellent. Six cycles of TC is an effective/safe option in human epidermal growth factor receptor 2–negative EBC with pN0 high genomic risk or pN1 EBC with genomically intermediate- to high-risk disease. J Clin Oncol 37:799-808. © 2019 by American Society of Clinical Oncology 
+
+INTRODUCTION The role of anthracyclines in chemotherapy regimens in early breast cancer (EBC) still is being debated. Meta-analysis of long-term outcomes in early randomized EBC trials demonstrated that ﬁrst-generation chemotherapy regimens (cyclophosphamide, methotrexate, and ﬂuorouracil) are less effective than 
+
+anthracycline-based polychemotherapy regimens, such as ﬂuorouracil, doxorubicin, and cyclophosphamide or ﬂuorouracil, epirubicin, and cyclophosphamide.1 A subsequent meta-analysis demonstrated that the addition of taxanes to anthracycline-based regimens further reduces recurrence and breast cancer mortality.2 Relative risk reductions were not 
+
+Volume 37, Issue 10 799 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Nitz et al 
+
+substantially affected by traditional clinicopathologic characteristics, such as age, nodal status, tumor size, tumor differentiation, estrogen receptor status, and tamoxifen use.2 Of note, anthracycline-based regimens were shown to be associated with a nonsigniﬁcant excess mortality of 0.2% as a result of cardiac disease, leukemia, or lymphoma.2 As the number of long-term survivors, elderly patients, and patients with pre-existing cardiac risk factors increases, the toxicity proﬁle becomes a more important discriminator in adjuvant treatment selection. This explains the widespread use (47.8%) of an anthracycline-free regimen like docetaxel and cyclophosphamide (TC) in older patients (ages 67 to 94 years), as reported in an analysis of the SEER-Medicare database in 2010.3 The increased use of TC versus doxorubicin and cyclophosphamide (AC) was based on evidence from a single phase III trial that compared four cycles of TC and four cycles of AC in 1,016 patients with EBC (71% hormone receptor [HR] positive; approximately one half node negative).4 After a median follow-up of 5.5 years, the 5-year disease-free survival (DFS) rate signiﬁcantly favored TC (86% v 80%); differences in overall survival (OS; 90% v 87%) were not signiﬁcant.4 Because four cycles of AC was considered a weak comparator,5 second-generation phase III trials evaluated the role of anthracycline-free regimens compared with six cycles of TC (6 3 TC) versus 20 to 24 weeks of a taxane plus AC (TaxAC) standard regimen.6,7 Such trials were conducted in human epidermal growth factor receptor 2 (HER2)–negative disease because HER2positive disease is investigated separately with regimens that contain HER2-targeted therapies. This article presents the ﬁnal analysis of the prospective, randomized, multicenter phase III West German Study Group (WSG) PlanB trial in clinically intermediate- to highrisk EBC. WSG PlanB combined a classic phase III chemotherapy trial design, which compared 6 3 TC with an anthracycline/taxane-containing standard (epirubicin and cyclophosphamide followed by docetaxel [EC-T]) with next-generation patient selection, using both pathology/ immunohistochemistry and genomic testing with the recurrence score (RS) assay. PATIENTS AND METHODS Study Participants As previously described,8,9 the trial included female patients (ages 18 to 75 years) with histologically conﬁrmed, unilateral primary invasive breast cancer, adequate surgical treatment, and no evidence of metastatic disease. Key inclusion criteria were HER2 negativity, pT1 to pT4c, known HR status, pN+ or pN0 with one or more risk factors ($ pT2, grade 2/3, high urokinase-type plasminogen activator/plasminogen activator inhibitor-1, , 35 years of age, or HR negativity), Eastern Cooperative Oncology Group performance status of less than 2 or Karnofsky status of greater than or equal to 80%, and signed informed consent and for patients with HR-positive EBC with four or more 
+
+positive lymph nodes or RS greater than 11, and a willingness to participate in the adjuvant chemotherapy WSG PlanB trial. Study Design WSG PlanB (Fig 1) was approved by German ethics boards and conducted in accordance with the Declaration of Helsinki. It was initiated as a chemotherapy trial in 2009 to test noninferiority of an anthracycline-free regimen (6 3 T75C600 [TC] once every 3 weeks) compared with an anthracycline-containing regimen (four cycles of E90C600 once every 3 weeks followed by four cycles of docetaxel100 once every 3 weeks [EC-T]). According to the protocol, randomization to the chemotherapy arms was stratiﬁed according to center, pN status (in three categories: pN0, pN1, and pN2 to pN3), (local) HR status, and age (, 50 v $ 50 years). Block randomization was used. After including 264 patients, the trial was amended to recommend endocrine therapy alone (omitting chemotherapy) in patients with locally HR-positive pN0 to pN1 tumors and RS less than or equal to 11. Other treatments followed national guidelines at the time. Follow-up, RS analysis, immunohistochemistry, ﬂuorescence in situ hybridization, and protein encoded by the MKI67 gene (Ki-67) analyses were performed as previously described.8,9 End Points The primary end point of WSG PlanB was DFS; an event that was deﬁned as any invasive cancer event or death (with or without recurrence). Secondary end points were distant recurrence-free interval (dRFI), OS, and safety. End points of the WSG-PlanB translational program were described previously.8,9 Statistical Considerations The chemotherapy trial was designed and powered to test noninferiority of the TC versus EC-T arms. The protocol speciﬁed a one-sided test of the DFS hazard ratio at a = .05, with the limiting hazard ratio deﬁned implicitly in terms of a nominal 4.4% margin in 5-year DFS. The trial power analysis assumed a 5-year follow-up for all surviving patients, with 90% completing the protocol treatment and, in view of the trial population, a 5-year DFS of 71.1% for EC-T as in the National Surgical Adjuvant Breast and Bowel Project (NSABP) B-27 trial.10 Under these assumptions, with a chemotherapy random assignment target of 2,203 evaluable patients (recruiting target, 2,448 patients), the planned test had 80% power. The 95% and 90% CIs of the DFS hazard ratio for TC versus ET-C were estimated using univariable Cox proportional hazards regression analysis. For the primary, one-sided, noninferiority test, the 90% upper conﬁdence limit was compared with the limiting hazard ratio that corresponded to a 4.4% 5-year DFS margin at the observed 5-year DFS level in the ET-C arm. Comparison with the corresponding hazard ratio for an assumed 5-year DFS in ET-C also is 
+
+800 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 37, Issue 10 
+
+Anthracycline-Free Chemotherapy (TC) in HER2- Early Breast Cancer 
+
+Patients registered (N = 3,198) 
+
+Before the amendment (n = 263) 
+
+After the amendment (n = 2,935) 
+
+No chemotherapy because (n = 348) of recurrence score < 12 (n = 2) Lost to follow-up (n = 316) Patient wish Violation of inclusion/ (n = 69) exclusion criteria Other (n = 14) 
+
+ITT population (n = 2,449) 
+
+TC arm (n = 1,222) 
+
+EC-T arm (n = 1,227) 
+
+Patient wish (n = 29) Metastatic disease (n = 1) Severe violation of (n = 14) inclusion criteria/other 
+
+Patient wish Severe violation of inclusion criteria/other Metastatic disease 
+
+Started therapy Safety population (n = 1,178) 
+
+(n = 1) 
+
+Started therapy Safety population (n = 1,167) 
+
+Adverse events (n = 46) Death (n = 5) Secondary malignancy (n = 1) Other (n = 7) Relapse (n = 1) Patient wish (n = 23) 
+
+Completed therapy per protocol (n = 1,095; 93%) 
+
+(n = 49) (n = 10) 
+
+Adverse events Death Secondary malignancy Other Patient wish 
+
+(n = 77) (n = 1) (n = 1) (n = 9) (n = 58) 
+
+Completed therapy per protocol (n = 1,021; 87%) 
+
+FIG 1. West German Study Group PlanB trial CONSORT diagram. EC-T, epirubicin and cyclophosphamide followed by docetaxel; ITT, intention to treat; TC, docetaxel and cyclophosphamide. 
+
+reported. Hazard ratios for TC versus ET-C and CIs were computed in clinically relevant subgroups. Estimates of 5-year DFS, dRFI, or OS with approximate 95% CIs were obtained by the Kaplan-Meier method. Adjusted hazard ratios of explanatory factors, therapy, and interactions were estimated by multivariable Cox proportional hazards regression models (forward stepwise). In this analysis, some explanatory factors were coded as continuous variables using population percentile scores (fractional ranks). The hazard ratio of 75th to 25th percentile is reported for these variables. The ordinal variables pN, pT, and local and central grade were recoded using dummy binary variables (eg, for the four-level ordinal 
+
+variable pN, there are three binary variables pN3 v pN0 to pN2, pN2 to pN3 v pN0 to pN1, and pN1 to pN3 v pN0).11 Fisher’s exact test and x2 test (including Mantel-Haenszel test of linear association) were used to compare proportions. Statistical analysis was performed using SPSS version 23 software (IBM Corporation, Chicago, IL). 
+
+RESULTS Patient Characteristics Between February 2009 and December 2011, 3,198 patients were registered, and 2,449 were randomly assigned to 6 3 TC (n = 1,222) and four cycles of EC-T (n = 1,227; 
+
+Journal of Clinical Oncology 
+
+801 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Nitz et al 
+
+TABLE 1. Baseline Characteristics 
+
+TABLE 1. Baseline Characteristics (continued) Arm 
+
+Arm 
+
+TC (n = 1,222) 
+
+EC-T (n = 1,227) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+Pre 
+
+439 
+
+35.9 
+
+429 
+
+35.0 
+
+.52 
+
+Post 
+
+682 
+
+55.8 
+
+706 
+
+NA 
+
+101 
+
+8.3 
+
+92 
+
+Characteristic 
+
+TC (n = 1,222) 
+
+EC-T (n = 1,227) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+# 25 
+
+703 
+
+57.5 
+
+710 
+
+57.9 
+
+.48 
+
+57.5 
+
+. 25 
+
+266 
+
+21.8 
+
+252 
+
+20.5 
+
+7.5 
+
+NA 
+
+253 
+
+20.7 
+
+265 
+
+21.6 
+
+pN0/RS 12-25 
+
+363 
+
+29.7 
+
+366 
+
+29.8 
+
+Menopausal status 
+
+Characteristic RS (HR positive) 
+
+Surgery BCS 
+
+995 
+
+81.4 
+
+990 
+
+80.7 
+
+pN0/RS . 25 
+
+159 
+
+13.0 
+
+151 
+
+12.3 
+
+Mastectomy 
+
+224 
+
+18.3 
+
+235 
+
+19.2 
+
+pN+/RS 12-25 
+
+280 
+
+22.9 
+
+294 
+
+24.0 
+
+3 
+
+0.2 
+
+2 
+
+0.2 
+
+pN+/RS . 25 
+
+107 
+
+8.8 
+
+101 
+
+8.2 
+
+pN0 
+
+727 
+
+59.5 
+
+714 
+
+58.2 
+
+pN1 
+
+404 
+
+33.1 
+
+428 
+
+34.9 
+
+pN2 
+
+72 
+
+5.9 
+
+63 
+
+5.1 
+
+pN3 
+
+19 
+
+1.6 
+
+22 
+
+1.8 
+
+pT1 
+
+637 
+
+52.1 
+
+705 
+
+57.5 
+
+pT2 
+
+532 
+
+43.5 
+
+471 
+
+38.4 
+
+pT3 
+
+41 
+
+3.4 
+
+42 
+
+3.4 
+
+pT4 
+
+9 
+
+0.7 
+
+7 
+
+0.6 
+
+NA 
+
+3 
+
+0.2 
+
+2 
+
+0.2 
+
+NA 
+
+.64 
+
+pN status .65 
+
+pT status .058 
+
+HR status (local) Negative 
+
+217 
+
+17.8 
+
+228 
+
+18.6 
+
+Positive 
+
+1,005 
+
+82.2 
+
+999 
+
+81.4 
+
+.6 
+
+TN (central) No 
+
+917 
+
+75.0 
+
+916 
+
+74.7 
+
+Yes 
+
+214 
+
+17.5 
+
+211 
+
+17.2 
+
+NA 
+
+91 
+
+7.4 
+
+100 
+
+8.1 
+
+0-10 
+
+364 
+
+29.8 
+
+384 
+
+31.3 
+
+15-35 
+
+567 
+
+46.4 
+
+560 
+
+45.6 
+
+$ 40 
+
+157 
+
+12.8 
+
+141 
+
+11.5 
+
+NA 
+
+134 
+
+11.0 
+
+142 
+
+11.6 
+
+1-2 
+
+659 
+
+53.9 
+
+664 
+
+54.1 
+
+3 
+
+518 
+
+42.4 
+
+516 
+
+42.1 
+
+NA 
+
+45 
+
+3.7 
+
+47 
+
+3.8 
+
+1-2 
+
+782 
+
+64.0 
+
+787 
+
+64.1 
+
+3 
+
+437 
+
+35.8 
+
+438 
+
+35.7 
+
+NA 
+
+3 
+
+0.2 
+
+2 
+
+0.2 
+
+.91 
+
+Ki-67 (central, semiquantitative) 
+
+.68 
+
+.518 
+
+Abbreviations: BCS, breast-conserving surgery; EC-T, epirubicin and cyclophosphamide followed by docetaxel; HR, hormone receptor; NA, not available; RS, recurrence score; TC, docetaxel and cyclophosphamide. 
+
+Fig 1). Of these 2,449 randomly assigned patients, 264 were “randomized” to the chemotherapy trial before the early amendment, which implemented RS testing for HRpositive patients (2,186 subsequently). Endocrine therapy (but not chemotherapy) was administered to 348 patients with pN0 to pN1 disease on the basis of RS less than or equal to 11; 401 patients were not allocated to chemotherapy for other reasons, including 316 who refused further study participation, particularly in the node-negative group with RS of 12 to 18 (approximately one third of patients). Patient characteristics were well balanced between the study arms (Table 1). Median age of chemotherapy-treated patients was 55 years (range, 25 to 77 years); approximately 40% had node-positive disease, and approximately 44% had poorly differentiated tumors (by central assessment). Efﬁcacy Analysis 
+
+.49 
+
+Central grade .9 
+
+Local grade 
+
+(continued in next column) 
+
+.97 
+
+After a median follow-up of 60 months (in patients alive at time of follow-up), no signiﬁcant differences in DFS, dRFI, or OS were observed between the study arms (Fig 2A to C). In TC versus EC-T, respectively, estimated 5-year DFS was 89.6% (95% CI, 87.8% to 91.5%) v 89.8% (95% CI, 87.9% to 91.6%), with a hazard ratio of 1.004 (95% CI, 0.776 to 1.299); estimated 5-year dRFI was 94.1% (95% CI, 92.7% to 95.5%) v 93.4% (95% CI, 91.9% to 94.9%), with a hazard ratio of 0.875 (95% CI, 0.625 to 1.225); and estimated 5-year OS was 94.7% (95% CI, 93.3% to 96.1%) v 94.5% (95% CI, 93.1% to 95.9%), with a hazard ratio of 0.937 (95% CI, 0.654 to 1.342). The trial criterion for noninferiority was achieved because the 90% upper conﬁdence limit for the DFS hazard ratio (appropriate for the planned one-sided noninferiority test at a = .05) of 1.246 did not exceed the limiting noninferiority hazard ratio of 1.467, which corresponded to the permitted 4.4% 
+
+802 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 37, Issue 10 
+
+Anthracycline-Free Chemotherapy (TC) in HER2- Early Breast Cancer 
+
+A 
+
+B 
+
+100 
+
+100 
+
+80 
+
+dRFI (%) 
+
+DFS (%) 
+
+80 
+
+60 
+
+40 
+
+60 
+
+40 
+
+Treatment arm TC 
+
+20 
+
+Treatment arm TC 
+
+20 
+
+EC-T 
+
+0 
+
+12 
+
+EC-T 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+0 
+
+12 
+
+Duration (months) No. at risk TC 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+Duration (months) No. at risk 
+
+1,153 
+
+1,126 
+
+1,065 
+
+1,004 
+
+953 
+
+736 
+
+25 
+
+TC 
+
+1,153 
+
+1,131 
+
+1,075 
+
+1,015 
+
+964 
+
+746 
+
+27 
+
+EC-T 1,128 
+
+1,105 
+
+1,051 
+
+993 
+
+937 
+
+729 
+
+32 
+
+EC-T 
+
+1,127 
+
+1,106 
+
+1,055 
+
+1,004 
+
+957 
+
+741 
+
+35 
+
+36 
+
+48 
+
+60 
+
+72 
+
+C 
+
+D 
+
+100 
+
+100 
+
+80 
+
+DFS (%) 
+
+OS (%) 
+
+80 
+
+60 
+
+40 Treatment arm TC 
+
+20 
+
+60 
+
+40 Treatment arm TC 
+
+20 
+
+EC-T 
+
+0 
+
+12 
+
+EC-T 
+
+24 
+
+36 
+
+48 
+
+60 
+
+0 
+
+72 
+
+12 
+
+Duration (months) 
+
+24 
+
+Duration (months) 
+
+No. at risk 
+
+No. at risk (n = 1,306) 
+
+1,153 
+
+1,136 
+
+1,086 
+
+1,035 
+
+984 
+
+756 
+
+27 
+
+TC 
+
+657 
+
+649 
+
+615 
+
+588 
+
+559 
+
+431 
+
+19 
+
+EC-T 1,128 
+
+1,111 
+
+1,065 
+
+1,015 
+
+966 
+
+753 
+
+35 
+
+EC-T 
+
+649 
+
+638 
+
+616 
+
+591 
+
+561 
+
+448 
+
+21 
+
+36 
+
+48 
+
+60 
+
+72 
+
+TC 
+
+E 
+
+100 
+
+DFS (%) 
+
+80 
+
+60 
+
+40 Treatment arm TC 
+
+20 
+
+EC-T 
+
+0 
+
+12 
+
+24 
+
+Duration (months) No. at risk TC 
+
+254 
+
+251 
+
+237 
+
+220 
+
+210 
+
+169 
+
+1 
+
+EC-T 231 
+
+227 
+
+212 
+
+195 
+
+183 
+
+149 
+
+5 
+
+FIG 2. (A) Disease-free survival (DFS), (B) distant recurrence-free interval (dRFI), and (C) overall survival (OS) by treatment arm. (D) DFS by treatment arm and recurrence score (RS) of 25 or less and (E) DFS by treatment arm and RS greater than 25; the intention-to-treat population includes patients with RS measured (after early amendment). For the docetaxel and cyclophosphamide (TC) versus epirubicin and cyclophosphamide followed by docetaxel (EC-T) arms, respectively, numbers at risk were as follows: DFS and OS, n = 1,153 v 1,128; dRFI, n = 1,153 v 1,127; DFS/RS of 25 or less, n = 657 v 649; and DFS/RS greater than 25, n = 254 v 231. Patients in the intention-to-treat population with missing follow-up data (n = 69 v 99 for TC v EC-T, respectively) are omitted (one extra missing for dRFI). 
+
+Journal of Clinical Oncology 
+
+803 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Nitz et al 
+
+TC 
+
+EC-T Events 
+
+Patients 
+
+Events 
+
+Patients 
+
+Hazard Ratio 
+
+RS ≤ 25 
+
+33 
+
+649 
+
+37 
+
+657 
+
+1.127 
+
+RS > 25 
+
+37 
+
+231 
+
+36 
+
+254 
+
+0.873 
+
+Age ≤ 50 years 
+
+39 
+
+390 
+
+42 
+
+390 
+
+1.073 
+
+Age > 50 years 
+
+76 
+
+738 
+
+75 
+
+763 
+
+0.974 
+
+pN0 
+
+55 
+
+649 
+
+60 
+
+680 
+
+1.071 
+
+pN1 
+
+45 
+
+399 
+
+37 
+
+384 
+
+0.837 
+
+pN2+ 
+
+15 
+
+80 
+
+20 
+
+89 
+
+1.169 
+
+HR+, Ki-67 < 15 
+
+12 
+
+335 
+
+16 
+
+329 
+
+1.309 
+
+HR+, Ki-67 ≥ 15 
+
+53 
+
+470 
+
+53 
+
+508 
+
+0.975 
+
+LG1-2 
+
+48 
+
+718 
+
+45 
+
+731 
+
+0.933 
+
+LG3 
+
+67 
+
+410 
+
+72 
+
+422 
+
+1.053 
+
+CG1-2 
+
+34 
+
+606 
+
+42 
+
+623 
+
+1.223 
+
+CG3 
+
+77 
+
+480 
+
+70 
+
+490 
+
+0.890 
+
+TN 
+
+41 
+
+200 
+
+40 
+
+206 
+
+0.944 
+
+All 
+
+115 
+
+1,128 
+
+117 
+
+1,153 
+
+1.004 0.1 
+
+1.0 Favors TC 
+
+Hazard Ratio 
+
+margin at the observed 5-year DFS of 89.8% in EC-T. (However, this 90% upper conﬁdence limit of 1.246 exceeded the limit of 1.187 derived from the originally assumed 5-year DFS of 71.1% in EC-T.) Figure 3 shows a forest plot of the efﬁcacy of TC versus EC-T (hazard ratio , 1 would favor TC) according to several key prognostic factors, RS, nodal status, luminal A-like (Ki-67 , 15%) versus luminal B-like (Ki-67 $ 15%), local and central grade, and triple-negative (TN) status. Anthracycline-free chemotherapy (TC) was comparable to anthracycline-containing chemotherapy (EC-T) in all evaluated subgroups. Although, as previously reported,8,9 RS had a substantial prognostic impact in this trial, the 5-year DFS, dRFI, and interaction analyses revealed no predictive trends with respect to key factors, including TN, luminal A/B-like, pN, RS, and age (. 50 v # 50 years). In addition, the 5-year DFS rate (94.6%; 95% CI, 92.0% to 97.2%) and the dRFI rate (97.8%; 95% CI, 96.0% to 99.6%) were excellent in patients not treated with adjuvant chemotherapy, regardless of nodal status (DFS and dRFI rates, 94.5% and 97.7% in node-negative and 94.9% and 97.9% in pN1 disease, respectively). In univariable analysis for DFS, nodal status, tumor size, surgery, local and central grade, continuous RS, progesterone receptor, and Ki-67 were prognostic factors. In a multivariable analysis (Data Supplement), only RS and Ki67 as continuous variables, nodal status, histologic grade, and surgery type were signiﬁcant and entered into the model, whereas study arm, tumor size, estrogen receptor, and progesterone receptor were not. 
+
+FIG 3. Forest plot of disease-free survival chemotherapy arm hazard ratios in subgroups (95% CIs, no corrections for multiple testing). CG, central grade; EC-T, epirubicin and cyclophosphamide followed by docetaxel; HR+, hormone receptor positive; Ki-67, protein encoded by the MKI67 gene; LG, local grade; RS, recurrence score; TC, docetaxel and cyclophosphamide; TN, triple negative. 
+
+10.0 Favors EC-T 
+
+Safety Six treatment-related deaths were observed within the study: ﬁve (0.4%) in the TC arm (one urosepsis, one Streptococcus septicemia, one peritonitis/diverticulitis, one Staphylococcus epidermidis septicemia, and one pulmonary embolism) and one (0.1%) in the EC-T arm (septicemia; P = .2). Three of the six treatment-related deaths occurred in the 65 years and older age-group, and two occurred in patients who received primary granulocyte colony– stimulating factor (G-CSF) prophylaxis. According to an interim safety analysis, febrile neutropenia rate was 6.1% (TC) v 3.9% (EC-T); therefore, generous primary G-CSF prophylaxis was recommended as well as ciproﬂoxacine prophylaxis in patients with a history of diverticulitis or chronic infectious GI disease or expected duration of neutropenia greater than 1 week. The EC-T arm versus the TC arm was characterized by signiﬁcantly more dose reductions (230 [19.7%] v 78 [6.6%], respectively; P , .001) and dose delays (. 7 days; 78 [6.7%] v 47 [4.0%], respectively; P = .004). Overall, 87% and 93% of patients in these respective arms completed therapy by protocol. Grade 3 to 4 leukopenia, neutropenia, nausea, vomiting, (peripheral) polyneuropathy, hand-foot syndrome, mucositis/stomatitis, arthralgia, myalgia, and fatigue were observed in signiﬁcantly more patients treated with EC-T than with TC (Table 2). Only a nonsigniﬁcant trend toward higher frequency of grade 3 to 4 infections and febrile neutropenia was seen within the TC arm. Use of primary G-CSF prophylaxis during the ﬁrst cycle of therapy was documented in 14.9% and 4.9% of patients in the TC and 
+
+804 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 37, Issue 10 
+
+Anthracycline-Free Chemotherapy (TC) in HER2- Early Breast Cancer 
+
+EC-T arms, respectively (P , .001). Febrile neutropenia rates were signiﬁcantly lower in patients with primary prophylaxis during the ﬁrst cycle of therapy in the TC arm (primary prophylaxis v not, 1.7% v 6.0%; P = .02). In additional follow-up, four deaths (two in both arms) were observed as a result of heart failure and one as a result of acute myeloid leukemia (EC-T arm). DISCUSSION WSG PlanB is one of four international large randomized trial programs (Table 3) that evaluated an anthracyclinefree regimen (TC) versus a conventional TaxAC in HER2negative EBC. WSG PlanB is unique in that only clinically high-risk (TN, pN2 to pN3) or genomically intermediate- to high-risk HR-positive/pN0 to pN1 patients were eligible. DFS, dRFI, and OS were excellent and virtually identical in patients who received the anthracycline-containing or the anthracycline-free regimen. Subgroups that beneﬁted from the anthracycline-containing regimen were not identiﬁed by interaction analysis, although a potentially clinically relevant beneﬁt in particular (eg, high-risk) subgroups cannot be ruled out. Our ﬁndings are in seeming contrast to the Anthracyclines in Early Breast Cancer (ABC) trials,6 which reported inferiority of 6 3 TC compared with TaxAC-based standards with regard to DFS but not OS (Table 3). Of note, the TaxAC regimen in WSG PlanB was slightly different from that in the ABC trials; however, this difference is unlikely to account for outcome differences because the Breast Cancer International Research Group BCIRG-005 trial reported equal efﬁcacy for sequential TaxAC and 6 3 docetaxel with doxorubicin and cyclophosphamide.13 Patients recruited to the ABC trials had more node-positive disease (59% v 41%) and fewer HR-positive tumors (69% v 81.8%; Table 3), and those with only genomically high-risk tumors, if available (4% testing), were randomly assigned, which resulted in a higher-risk baseline prognosis than that of WSG PlanB.6 Conclusions with regard to optimal clinical utility of 6 3 TC are complicated by differing statistical designs and assumptions in the ABC and WSG PlanB trials. The ABC joint analysis was planned on the basis of two trials with a superiority design, which both were closed prematurely as a result of futility.6 The subsequent NSABP B-49 trial was initiated to allow a meta-analysis from these three trials with a sufﬁciently high sample size to test for noninferiority of TC versus TaxAC. The presented results were based on a preplanned interim analysis after 334 events, with reporting contingent on the hazard ratio exceeding 1.18 after 3.3 years of median follow-up. Indeed, the observed interim hazard ratio was 1.23 (95% CI, 1.01 to 1.50). WSG PlanB was designed a priori as a noninferiority trial comparing TC with EC-T in HER2-negative EBC. The observed 5-year DFS difference was within the noninferiority margin of the original trial design. However, because of a much higher DFS in both WSG PlanB arms 
+
+than expected (5-year DFS of approximately 90% compared with the assumed 71.1%)—as in the Danish trial7— the 95% CI for the DFS hazard ratio was rather broad (0.77 to 1.29); thus, our study is underpowered to exclude small differences in 5-year DFS. Several key points should be noted. The DFS hazard ratio CIs in the ABC meta-analysis and WSG PlanB overlap substantially, particularly in patients with pN0 to pN1 disease, despite differences in the hazard ratio point estimates. Furthermore, the ABC analysis had a median follow-up of 3.3 years6 (compared with 5 years in WSG PlanB) so that more mature ABC data could still modify the hazard ratio. Studies with a longer follow-up, such as WSG PlanB and the Danish Breast Cancer Cooperative Group 07-READ7 in topoisomerase II–normal tumors (90% HER2 negative), have not seen survival differences in favor of anthracycline-containing chemotherapy. For an HER2-positive population as well, the early positive prognostic effect of anthracycline-containing chemotherapy (combined with trastuzumab v docetaxel and carboplatin) does not translate into a survival beneﬁt.14 In ABC, the hazard ratio that favored TaxAC may have been partly attributable to a preponderance of events in pN2 to pN3 patients, whereas in WSG PlanB, only limited conclusions can be drawn about pN2 to pN3 patients because of relatively wide CIs in these subgroups. WSG PlanB has limited power to quantify subtype-speciﬁc effects. With this limitation in mind, the positive effect of anthracycline-containing chemotherapy in TN disease in the ABC analysis has not been conﬁrmed by WSG PlanB and all other trials with longer follow-up.7 Use of a sequential docetaxel regimen as control in WSG PlanB, which may be suboptimal in TN breast cancer,15 also could be a possible explanation for these conﬂicting results. In luminal tumors, several retrospective analyses have shown that chemotherapy rendered little or no beneﬁt in patients with genomically favorable (luminal A-like) EBC. We and others have shown that luminal B-like tumors beneﬁt from the addition of taxanes.16,17 In WSG PlanB, neither centrally measured Ki-67 nor RS were predictive for anthracycline efﬁcacy. Both regimens showed similar efﬁcacy in luminal A-like versus luminal B-like or RS low/high tumors, thus making 6 3 TC an appropriate choice, even for pN0 to pN1 tumors at higher biologic risk (by RS testing or by Ki-67). In terms of acute toxicity, both the pivotal phase III study (four cycles of AC v four cycles of TC)4 and WSG PlanB slightly favor TC. Patients treated with an anthracyclinecontaining regimen had more nausea and vomiting, whereas those treated with TC had more neutropenia4 or slightly more febrile neutropenia in WSG PlanB. Early on, a numerical excess of infection-related deaths was observed in the WSG PlanB TC arm, but after release of recommendations for particular caution in patients with pre-existing GI disease (eg, known diverticulosis), no additional deaths occurred. Jones et al4 reported a single incident of congestive heart failure for AC (0.2%) and none 
+
+Journal of Clinical Oncology 
+
+805 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Nitz et al 
+
+for TC. In WSG PlanB, cardiac failure was reported in 0.3% of patients in both arms, consistent with data that showed clinically meaningful cardiac long-term toxicity of thirdgeneration regimens that contain TaxAC.6 Overall, WSG PlanB safety results are consistent with those of the ABC trials (speciﬁcally, the safety analysis of NSABP B-49) that showed no clinically relevant differences in frequencies of severe adverse events in TaxAC versus TC.6 In summary, both regimens are well tolerated, but adverse effect proﬁles differ. With regard to genomic testing, WSG PlanB previously demonstrated that 17% of clinically high-risk pN0 to pN1 patients with low RS who were spared chemotherapy had an excellent 5-year DFS rate of 94% and dRFI rate of 98%.8.18 WSG PlanB renders clinically valuable results, particularly in view of the recent results of the TAILORx trial (Hormone Therapy With or Without Combination Chemotherapy in Treating Women Who Have Undergone Surgery for Node-Negative Breast Cancer; ClinicalTrials. gov identiﬁer: NCT02050750),18 because it is the only trial to address the TaxAC versus TC question with a stringent Oncotype DX preselection. Even after excluding those 45% of patients in WSG PlanB who, on the basis of TAILORx,18 would not have received adjuvant chemotherapy, the 5-year DFS is similar in the two chemotherapy arms (approximately 88%). 
+
+In conclusion, on the basis of existing evidence, 6 3 TC can be considered an effective and safe chemotherapy option in HER2-negative, intermediate- to high-risk patients with EBC with zero to three positive lymph nodes as well as in those with known cardiac disease or pre-existing risk factors for cardiac toxicity. Differences in toxicity proﬁles and an individualized approach to treatment selection need to be discussed with patients. Whether six or four cycles of the same chemotherapy regimen are needed remains unclear19; however, the main body of recent evidence has been generated for 6 3 TC. The evidence provided by WSG PlanB is strongest for patients with pN0 to pN1 disease and does not address dose-dense regimens in high-risk EBC. WSG PlanB and recent TAILORx results18 indicate overtreatment of most, but not all patients with intermediate RS. Thus, results from the randomized arms of RxPONDER (Rx for Positive Node, Endocrine Responsive Breast Cancer; ClinicalTrials. gov identiﬁer: NCT01272037) and the WSG PlanB followup trial ADAPT (Adjuvant Dynamic Marker-Adjusted Personalized Therapy Trial; ClinicalTrials.gov identiﬁer: NCT01817452) are eagerly awaited because they will provide clinically useful prospective evidence with regard to chemotherapy beneﬁt in clinically intermediate- to high-risk EBC. 
+
+TABLE 2. Grade 3 to 5 Adverse Events During Study Treatment TC 
+
+EC-T 
+
+Adverse Event 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+Leukopenia 
+
+598 
+
+50.8 
+
+671 
+
+57.5 
+
+.001 
+
+Neutropenia 
+
+598 
+
+50.8 
+
+676 
+
+57.9 
+
+.001 
+
+Anemia 
+
+4 
+
+0.3 
+
+9 
+
+0.8 
+
+.18 
+
+Febrile neutropenia 
+
+63 
+
+5.3 
+
+45 
+
+3.9 
+
+.09 
+
+Infection 
+
+82 
+
+7.0 
+
+62 
+
+5.3 
+
+.1 
+
+Nausea 
+
+20 
+
+1.7 
+
+44 
+
+3.8 
+
+.002 
+
+Vomiting 
+
+5 
+
+0.4 
+
+23 
+
+2.0 
+
+, .001 
+
+(Peripheral) polyneuropathy 
+
+10 
+
+0.8 
+
+26 
+
+2.2 
+
+.007 
+
+Hand-foot syndrome/palmar syndrome 
+
+9 
+
+0.8 
+
+33 
+
+2.8 
+
+, .001 
+
+Diarrhea 
+
+37 
+
+3.1 
+
+39 
+
+3.3 
+
+.8 
+
+Mucositis/stomatitis 
+
+20 
+
+1.7 
+
+43 
+
+3.7 
+
+.003 
+
+Arthralgia/myalgia 
+
+18 
+
+1.5 
+
+35 
+
+3.0 
+
+.02 
+
+Pain 
+
+37 
+
+3.1 
+
+61 
+
+5.2 
+
+.01 
+
+Cardiac failure 
+
+3 
+
+0.3 
+
+3 
+
+0.3 
+
+. .999 
+
+Fatigue 
+
+35 
+
+3.0 
+
+68 
+
+5.8 
+
+.001 
+
+Thrombosis 
+
+19 
+
+1.6 
+
+24 
+
+2.1 
+
+.48 
+
+Therapy-related death 
+
+5 
+
+0.4 
+
+1 
+
+0.08 
+
+.2 
+
+Cardiac-related death* 
+
+2 
+
+0.1 
+
+2 
+
+0.1 
+
+..999 
+
+Acute myeloid leukemia* 
+
+0 
+
+0 
+
+1 
+
+0.08 
+
+.3 
+
+*During follow-up. 
+
+806 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 37, Issue 10 
+
+Anthracycline-Free Chemotherapy (TC) in HER2- Early Breast Cancer 
+
+TABLE 3. Summary of Large Trials in HER2-Negative EBC That Evaluated an Anthracycline-Free Regimen (TC) Versus a Conventional Anthracycline-Taxane Regimen No. of Patients 
+
+Trial 
+
+Median Follow-Up 
+
+Experimental Regimen 
+
+Control Regimen 
+
+Inclusion Criteria 
+
+DFS 
+
+OS 
+
+USOR 973512 
+
+1,016 7 years 
+
+4 3 T75C600 once every 3 weeks 
+
+4 3 A60C600 
+
+ABC pooled analysis6 
+
+4,242 40 months 
+
+6 3 T75C600 once every 3 weeks 
+
+USOR 06-090/NSABP HER2 negative: pN+ B-46: 6 3 T75A50C500 or pN0 with one or more of the following once every 3 weeks criteria: HR negative, NSABP B-49: 4 3 grade 3, RS $ 25 A60C600 once every 3 weeks → 12 3 Pac80 (NSABP B-46/B-49), or RS $ 31 once every week 4 3 A60C600 once every (USOR 06-090) 2 weeks → 12 3 Pac80 once every week 4 3 A60C600 every 2 weeks → 4 3 Pac175 once every 2 weeks 
+
+DBCG 07READ7 
+
+2,012 65 months 
+
+6 3 T75C600 once every 3 weeks 
+
+3 3 FE90/C600 once every 3 weeks → 3 3 T100 once every 3 weeks 
+
+Topoisomerase II-normal: 5 year: 88.3% pN+ and pN0 high-risk (TC) v 87.9%; (, 39 years, tumor size P=1 . 2 cm, grade 2/3, ER negative, or HER2 positive) 
+
+5 year: 93.3% v 94.8%; P = .41 
+
+WSG PlanB 
+
+2,449 61 months 
+
+6 3 T75C600 once every 3 weeks 
+
+4 3 E90C600 once every 3 weeks → 4 3 T100 every 3 weeks 
+
+HER2 negative, pN+, or 5 year: 89.9% pN0 with one or more of (TC) v 89.6% the following risk factors: $ pT2, grade 2/3, high uPA/ PAI-1, , 35 years, or ER/ PR negative) 
+
+5 year: 95.9% (TC) v 94.5% 
+
+Stage I-III HER2 negative BC 
+
+7 year: 81% (TC) v 75%; P = .033 
+
+7 year: 87% (TC) v 82%; P = .032 
+
+4-year invasive DFS: 88.2% (TC) v 90.7%, P = .04 
+
+4 year: 94.7% (TC) v 95.0%; P = .6 
+
+NOTE. Subscripts indicate dose in mg per square meter. Abbreviations: ABC, Anthracyclines in Early Breast Cancer; AC, doxorubicin and cyclophosphamide; DBCG, Danish Breast Cancer Group; DFS, diseasefree survival; EBC, early breast cancer; EC-T, epirubicin and cyclophosphamide followed by docetaxel; ER, estrogen receptor; FEC, ﬂuorouracil, epirubicin, and cyclophosphamide; HER2, human epidermal growth factor receptor 2; NSABP, National Surgical Adjuvant Breast and Bowel Project; OS, overall survival; Pac, paclitaxel; PR, progesterone receptor; TAC, docetaxel with doxorubicin and cyclophosphamide; TC, docetaxel and cyclophosphamide; uPA/PAI-1, urokinase-type plasminogen activator/plasminogen activator inhibitor-1; USOR, US Oncology Research; WSG, West German Study Group. 
+
+AFFILIATIONS 
+
+PRIOR PRESENTATION 
+
+1 
+
+Presented at the 34th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 6-10, 2011; American Society of Oncology 2012 Annual Meeting, Chicago, IL, June 1-5, 2012; 37th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 9-13, 2014; 10th European Breast Cancer Conference, Amsterdam, the Netherlands, March 9-11, 2016; and American Society of Clinical Oncology 2017 Annual Meeting, Chicago, IL, June 2-6, 2017. 
+
+West German Study Group, Mönchengladbach, Germany 2 Evangelical Hospital Bethesda, Mönchengladbach, Germany 3 University of Cologne, Cologne, Germany 4 Mutterhaus der Borromäerinnen, Trier, Germany 5 Clinics Suedstadt, Rostock, Germany 6 Evangelical Hospital Bergisch Gladbach, Bergisch Gladbach, Germany 7 University Clinics Essen, Essen, Germany 8 University of Leipzig, Leipzig, Germany 9 Johanniter-Krankenhaus Genthin-Stendal Hospitals, Stendal, Germany 10 Protestant Hospital Oberhausen, Oberhausen, Germany 11 Horst-Schmidt-Kliniken, Wiesbaden, Germany 12 Gynecological-Oncological Practice, Hildesheim, Germany 13 City Hospital, Chemnitz, Germany 14 Clinics Essen-Mitte, Essen, Germany 15 Unversity Hospital Charite, Berlin, Germany 16 Genomic Health, Redwood City, CA 17 University of Munich, Munich, Germany 18 Hannover Medical School, Hanover, Germany 
+
+CORRESPONDING AUTHOR Ulrike Nitz, MD, West German Study Group, Breast Center Niederrhein, Ludwig-Weber-Str 15, 41061 Mönchengladbach, Germany; e-mail: ulrike.nitz@wsg-online.com. 
+
+SUPPORT Supported by Genomic Health, Sanoﬁ, and Amgen. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.18.00028. AUTHOR CONTRIBUTIONS Conception and design: Ulrike Nitz, Oleg Gluz, Sherko Kuemmel, Steven Shak, Rachel Wuerstlein, Hans H. Kreipe, Nadia Harbeck Financial support: Michael Clemens, Steven Shak, Nadia Harbeck Administrative support: Michael Clemens, Christoph Uleer 
+
+Journal of Clinical Oncology 
+
+807 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Nitz et al Provision of study material or patients: Ulrike Nitz, Oleg Gluz, Michael Clemens, Toralf Reimer, Benno Nuding, Sherko Kuemmel, Cornelia Liedtke, Matthias Christgen, Hans H. Kreipe, Nadia Harbeck Collection and assembly of data: Ulrike Nitz, Oleg Gluz, Michael Clemens, Wolfram Malter, Toralf Reimer, Benno Nuding, Bahriye Aktas, Andrea Stefek, Anke Pollmanns, Fatemeh Lorenz-Salehi, Christoph Uleer, Petra Krabisch, Cornelia Liedtke, Steven Shak, Rachel Wuerstlein, Matthias Christgen, Hans H. Kreipe 
+
+Data analysis and interpretation: Ulrike Nitz, Oleg Gluz, Christoph Uleer, Sherko Kuemmel, Cornelia Liedtke, Rachel Wuerstlein, Matthias Christgen, Ronald E. Kates, Hans H. Kreipe, Nadia Harbeck Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+REFERENCES 1. 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 
+
+2. 
+
+Peto R, Davies C, Godwin J, et al: Comparisons between different polychemotherapy regimens for early breast cancer: Meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 379:432-444, 2012 
+
+3. 
+
+Schellhorn Mougalian S, Long JB, Hall J, et al: Outcomes of adjuvant ACT vs. TC chemotherapy in older women with breast cancer. J Clin Oncol 33, 2015 (suppl; abstr 1009) 
+
+4. 
+
+Jones SE, Savin MA, Holmes FA, et al: Phase III trial comparing doxorubicin plus cyclophosphamide with docetaxel plus cyclophosphamide as adjuvant therapy for operable breast cancer. J Clin Oncol 24:5381-5387, 2006 
+
+5. 
+
+Swain SM, Jeong JH, Geyer CE Jr, et al: Longer therapy, iatrogenic amenorrhea, and survival in early breast cancer. N Engl J Med 362:2053-2065, 2010 
+
+6. 
+
+Blum JL, Flynn PJ, Yothers G, et al: Anthracyclines in early breast cancer: The ABC trials-USOR 06-090, NSABP B-46-I/USOR 07132, and NSABP B-49 (NRG Oncology). J Clin Oncol 35:2647-2655, 2017 
+
+7. 
+
+Ejlertsen B, Tuxen MK, Jakobsen EH, et al: Adjuvant cyclophosphamide and docetaxel with or without epirubicin for early TOP2A-normal breast cancer: DBCG 07-READ, an open-label, phase III, randomized trial. J Clin Oncol 35:2639-2646, 2017 
+
+8. 
+
+Gluz O, Nitz UA, Christgen M, et al: West German Study Group Phase III PlanB Trial: First prospective outcome data for the 21-gene recurrence score assay and concordance of prognostic markers by central and local pathology assessment. J Clin Oncol 34:2341-2349, 2016 
+
+9. 
+
+Nitz U, Gluz O, Christgen M, et al: Reducing chemotherapy use in clinically high-risk, genomically low-risk pN0 and pN1 early breast cancer patients: Five-year data from the prospective, randomised phase 3 West German Study Group (WSG) PlanB trial. Breast Cancer Res Treat 165:573-583, 2017 
+
+10. Bear HD, Anderson S, Smith RE, et al: Sequential preoperative or postoperative docetaxel added to preoperative doxorubicin plus cyclophosphamide for operable breast cancer: National Surgical Adjuvant Breast and Bowel Project Protocol B-27. J Clin Oncol 24:2019-2027, 2006 11. Walter SD, Feinstein AR, Wells CK: Coding ordinal independent variables in multiple regression analyses. Am J Epidemiol 125:319-323, 1987 12. Jones S, Holmes FA, O’Shaughnessy J, et al: Docetaxel with cyclophosphamide is associated with an overall survival beneﬁt compared with doxorubicin and cyclophosphamide: 7-Year follow-up of US Oncology Research Trial 9735. J Clin Oncol 27:1177-1183, 2009 13. Eiermann W, Pienkowski T, Crown J, et al: Phase III study of doxorubicin/cyclophosphamide with concomitant versus sequential docetaxel as adjuvant treatment in patients with human epidermal growth factor receptor 2-normal, node-positive breast cancer: BCIRG-005 trial. J Clin Oncol 29:3877-3884, 2011 14. Slamon D, Eiermann W, Robert N, et al: Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med 365:1273-1283, 2011 15. Sparano JA, Zhao F, Martino S, et al: Long-term follow-up of the E1199 phase III trial evaluating the role of taxane and schedule in operable breast cancer. J Clin Oncol 33:2353-2360, 2015 16. Nitz U, Gluz O, Huober J, et al: Final analysis of the prospective WSG-AGO EC-Doc versus FEC phase III trial in intermediate-risk (pN1) early breast cancer: Efﬁcacy and predictive value of Ki67 expression. Ann Oncol 25:1551-1557, 2014 17. Sonnenblick A, Francis PA, Azim HA Jr, et al: Final 10-year results of the Breast International Group 2-98 phase III trial and the role of Ki67 in predicting beneﬁt of adjuvant docetaxel in patients with oestrogen receptor positive breast cancer. Eur J Cancer 51:1481-1489, 2015 18. Sparano JA, Gray RJ, Makower DF, et al: Adjuvant chemotherapy guided by a 21-gene expression assay in breast cancer. N Engl J Med 379:111-121, 2018 19. Shulman LN, Cirrincione CT, Berry DA, et al: Six cycles of doxorubicin and cyclophosphamide or Paclitaxel are not superior to four cycles as adjuvant chemotherapy for breast cancer in women with zero to three positive axillary nodes: Cancer and Leukemia Group B 40101. J Clin Oncol 30:4071-4076, 2012 
+
+n n n 
+
+808 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 37, Issue 10 
+
+Anthracycline-Free Chemotherapy (TC) in HER2- Early Breast Cancer AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST West German Study PlanB Trial: Adjuvant Four Cycles of Epirubicin and Cyclophosphamide Plus Docetaxel Versus Six Cycles of Docetaxel and Cyclophosphamide in HER2-Negative Early Breast Cancer The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. Ulrike Nitz Honoraria: Amgen, Agendia, Celgene, Roche, Genentech, TEVA Pharmaceuticals Industries, Novartis, NanoString Technologies, Pﬁzer, Genomic Health Consulting or Advisory Role: Roche, Genomic Health Research Funding: Genomic Health (Inst), Agendia (Inst), Sanoﬁ (Inst), Roche (Inst), Amgen (Inst), NanoString Technologies (Inst), Celgene (Inst) Expert Testimony: Genomic Health Travel, Accommodations, Expenses: Roche, Genomic Health, Pﬁzer Oleg Gluz Honoraria: Genomic Health, Roche, Celgene, Pﬁzer, Novartis, NanoString Technologies, AstraZeneca Consulting or Advisory Role: Amgen, Roche, Daiichi Sankyo, Genomic Health, Merck Sharp & Dohme, Amgen Travel, Accommodations, Expenses: Roche, Celgene, Daiichi Sankyo Wolfram Malter Honoraria: Roche Consulting or Advisory Role: Pﬁzer Travel, Accommodations, Expenses: Celgene, Novartis Benno Nuding Consulting or Advisory Role: Roche, Novartis, Pﬁzer Travel, Accommodations, Expenses: Novartis Bahriye Aktas Honoraria: Pﬁzer, Roche, Novartis, AstraZeneca Consulting or Advisory Role: Novartis, Roche, Pﬁzer Travel, Accommodations, Expenses: Roche, Pﬁzer, Novartis, Celgene, Daiichi Sankyo Christoph Uleer Honoraria: Roche, Novartis Consulting or Advisory Role: Roche Expert Testimony: Roche Travel, Accommodations, Expenses: Roche Sherko Kuemmel Consulting or Advisory Role: Roche, Genentech, Genomic Health, Novartis, AstraZeneca, Amgen, Celgene, SOMATEX Medical Technologies, Daiichi Sankyo, Puma Biotechnology, pfm medical, Pﬁzer, MSD Travel, Accommodations, Expenses: Roche, Daiichi Sankyo Cornelia Liedtke Honoraria: Roche, Genomic Health, GlaxoSmithKline, AstraZeneca, Eisai, Celgene, Amgen, Gedeon Richter, Novartis, Pierre Fabre, TEVA Pharmaceuticals Industries, Puma Biotechnology, Pﬁzer, Eli Lilly Consulting or Advisory Role: Roche, Genomic Health, TEVA Pharmaceuticals Industries, Pierre Fabre, Novartis, Pﬁzer, Celgene, Eisai, Roche, Novartis, Boehringer Ingelheim Travel, Accommodations, Expenses: Roche, TEVA Pharmaceuticals Industries, PharmaMar, Celgene, Daiichi Sankyo 
+
+Rachel Wuerstlein Honoraria: Agendia, Amgen, AstraZeneca, Boehringer Ingelheim, Carl Zeiss Meditec, Celgene, Jazz Pharmaceuticals, Daiichi Sankyo, Eisai, Genomic Health, GlaxoSmithKline, Eli Lilly, MSD, NanoString Technologies, Novartis, Odonate Therapeutics, Paxman, palleos healthcare, Pﬁzer, Pierre Fabre, Puma Biotechnology, RIEMSER Pharma, Roche, Sandoz, Hexal AG, Seattle Genetics, Tesaro, TEVA Pharmaceuticals Industries Consulting or Advisory Role: Agendia, AstraZeneca, Boehringer Ingelheim, Celgene, Daiichi Sankyo, Eisai, Genomic Health, GlaxoSmithKline, Eli Lilly, MSD, NanoString Technologies, Novartis, Odonate Therapeutics, Paxman, palleos healthcare, Pﬁzer, Pierre Fabre, Puma Biotechnology, RIEMSER Pharma, Roche, Sandoz, Hexal AG, Seattle Genetics, Tesaro, TEVA Pharmaceuticals Industries, Amgen, Carl Zeiss Meditec Speakers’ Bureau: Agendia, Amgen, AstraZeneca, Boehringer Ingelheim, Carl Zeiss Meditec, Celgene, Daiichi Sankyo, Eisai, Genomic Health, GlaxoSmithKline, Eli Lilly, MSD, NanoString Technologies, Novartis, Odonate Therapeutics, Paxman, palleos healthcare, Pﬁzer, Pierre Fabre, Puma Biotechnology, RIEMSER Pharma, Roche, Sandoz, Hexal AG, Seattle Genetics, Astellas Pharma, Tesaro, TEVA Pharmaceutical Industries Travel, Accommodations, Expenses: Agendia, Amgen, AstraZeneca, Boehringer Ingelheim, Carl Zeiss Meditec, Celgene, Daiichi Sankyo, Eisai, Genomic Health, GlaxoSmithKline, Eli Lilly, MSD, NanoString Technologies, Novartis, Odonate Therapeutics, Paxman, palleos healthcare, Pﬁzer, Pierre Fabre, Puma Biotechnology, RIEMSER Pharma, Roche, Sandoz, Hexal AG, Seattle Genetics, Tesaro, TEVA Pharmaceuticals Industries Ronald E. Kates Honoraria: Roche (I), Novartis (I), Celgene (I), Amgen (I), Pﬁzer (I), Genomic Health (I), NanoString Technologies (I) Consulting or Advisory Role: Roche (I), Genentech (I), Novartis (I), Celgene (I), Pﬁzer (I), Eli Lilly (I), Sandoz (I), Daiichi Sankyo (I), Agendia (I), AstraZeneca (I), Merck Sharp & Dohme (I), Odonate Therapeutics (I), Seattle Genetics (I) Hans H. Kreipe Honoraria: Roche, Novartis, AstraZeneca, Genomic Health, Amgen Consulting or Advisory Role: Roche, Novartis, AstraZeneca, Genomic Health, Pﬁzer Nadia Harbeck Honoraria: Roche, Novartis, Celgene, Amgen, Pﬁzer, Genomic Health, NanoString Technologies Consulting or Advisory Role: Roche, Genentech, Novartis, Celgene, Pﬁzer, Eli Lilly, Sandoz, Daiichi Sankyo, Agendia, AstraZeneca, Merck Sharp & Dohme, Odonate Therapeutics, Seattle Genetics Research Funding: Roche (Inst), Genentech (Inst), Novartis (Inst), Pﬁzer (Inst), Eli Lilly (Inst), MSD (Inst), Merck (Inst) No other potential conﬂicts of interest were reported. 
+
+Steven Shak Employment: Genomic Health Leadership: Genomic Health Stock and Other Ownership Interests: Genomic Health Patents, Royalties, Other Intellectual Property: Filed Oncotype DX patents (Inst) 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Nitz et al 
+
+APPENDIX 
+
+West German Study Group PlanB Trial Investigators S. Ackermann, B. Aktas, D. Augustin, G. Baake, K. Baumann, R. Berger, J. Bettscheider, J. Bischoff, M. Clemens, M. Deryal, H. Dübbers, D. Düchting, J. Dünnebacke, W. Fett, T. Fietz, H. Fischer, M. Forner, H. Forstbauer, K. Freese, M. Geberth, M. Glados, K. Gnauert, O. Goette, U. Göhring, A. Göppinger, A. Grafe, R. Hackenberg, J. Hackmann, M. Hellriegel, V. Heyl, C. Hoestermann, G. Hoffmann, M. Hofmann, J. Hucke, C. Jackisch, P. Jungberg, M. Just, C. Kahl, P. Klare, M. Kögel, A. Kohls, B. Königs-El Amrawy, P. Könnecke, P. Krabisch, S. Kraudelt, S. Kremers, S. Kümmel, C. Kurbacher, J. Kusche, B. Liedtke, C. Liedtke, H. Link, R. Lorenz, F. Lorenz Salehi, K. Lübbe, W. Malter, B. Melekian, V. Möbus, M. Montenarh, V. Müller, C. Mundhenke, N. Niederle, U. Nitz, T. Noesselt, C. Oberhoff, L. Paas, S. Paepke, A. Pollmanns, D. Reichert, T. Reimer, D. Romann, T. 
+
+Ruhland, V. Runde, M. Salem, A. Schlosser, A. Schneider, I. Schrader, H. Schulz, C. Schumacher, J. Schwickerath, U. Söling, H. Stauder, A. Stefek, T. Steinmetz, E. Stickeler, J. Terhaag, C. Thomssen, O. Tomé, C. Uleer, M. Warm, G. Wachsmann, J. Wacker, H. Wiebringhaus, W. Wiest, M. Wolfgarten West German Study Group PlanB Trial principal investigator: U. Nitz Central pathology (Medical School Hanover): H. Christgen, M. Christgen, H. Kreipe West German Study Group and palleos healthcare team: C. Buehne, O. Gluz, K. Hansen, D. Hofmann, R. Kates, M. Mangold, M. Mathissen, P. Raeth, I. Renner, I. Reiser, J. Schumacher, M. Staedele, R. WalterKirst 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Imperial College London on April 5, 2019 from 155.198.030.043 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Volume 37, Issue 10 
+
+ 

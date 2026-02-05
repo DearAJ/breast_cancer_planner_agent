@@ -1,0 +1,1727 @@
+original reports 
+
+Icro Meattini, MD1,2; Livia Marrazzo, MS2; Calogero Saieva, MD3; Isacco Desideri, MD1,2; Vieri Scotti, MD2; Gabriele Simontacchi, MD2; Pierluigi Bonomo, MD2; Daniela Greto, MD2; Monica Mangoni, MD, PhD1,2; Silvia Scoccianti, MD2; Sara Lucidi, MD1; Lisa Paoletti, MD4; Massimiliano Fambrini, MD1,2; Marco Bernini, MD, PhD2; Luis Sanchez, MD2; Lorenzo Orzalesi, MD1,2; Jacopo Nori, MD2; Simonetta Bianchi, MD1,2; Stefania Pallotta, MS1,2; and Lorenzo Livi, MD1,2 
+
+abstract 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Accelerated Partial-Breast Irradiation Compared With Whole-Breast Irradiation for Early Breast Cancer: Long-Term Results of the Randomized Phase III APBI-IMRT-Florence Trial 
+
+PURPOSE To report the long-term results of external-beam accelerated partial-breast irradiation (APBI) intensitymodulated radiation therapy (IMRT) Florence phase III trial comparing whole-breast irradiation (WBI) to APBI in early-stage breast cancer. PATIENTS AND METHODS The primary end point was to determine the 5-year difference in ipsilateral breast tumor recurrence (IBTR) between 30 Gy in 5 once-daily fractions (APBI arm) and 50 Gy in 25 fractions with a tumor bed boost (WBI arm) after breast-conserving surgery. 
+
+RESULTS Five hundred twenty patients, more than 90% of whom had characteristics associated with low recurrence risk, were randomly assigned (WBI, n 5 260; APBI, n 5 260) between 2005 and 2013. Median follow-up was 10.7 years. The 10-year cumulative incidence of IBTR was 2.5% (n 5 6) in the WBI and 3.7% (n 5 9) in the APBI arm (hazard ratio [HR], 1.56; 95% CI, 0.55 to 4.37; P 5 .40). Overall survival at 10 years was 91.9% in both arms (HR, 0.95; 95% CI, 0.50 to 1.79; P 5 .86). Breast cancer–speciﬁc survival at 10 years was 96.7% in the WBI and 97.8% in the APBI arm (HR, 0.65; 95% CI, 0.21 to 1.99; P 5 .45). The APBI arm showed signiﬁcantly less acute toxicity (P 5 .0001) and late toxicity (P 5 .0001) and improved cosmetic outcome as evaluated by both physician (P 5 .0001) and patient (P 5 .0001). CONCLUSION The 10-year cumulative IBTR incidence in early breast cancer treated with external APBI using IMRT technique in 5 once-daily fractions is low and not different from that after WBI. Acute and late treatmentrelated toxicity and cosmesis outcomes were signiﬁcantly in favor of APBI. J Clin Oncol 38:4175-4183. © 2020 by American Society of Clinical Oncology 
+
+INTRODUCTION ASSOCIATED CONTENT See accompanying editorial on page 4135 Appendix Protocol Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on May 7, 2020 and published at ascopubs.org/journal/ jco on August 24, 2020: DOI https://doi. org/10.1200/JCO.20. 00650 
+
+Breast-conserving therapy has been established as the preferred treatment option for most early-stage breast cancer (BC). Breast-conserving surgery (BCS) plus radiation therapy (RT) obtains at least the same results in terms of survival, without the huge impact on the patient’s body image and health-related quality of life, as that seen after mastectomy.1,2 For decades, conventionally fractionated whole-breast irradiation (WBI) consisted of 45-50 Gy over 4.5-5 weeks with or without a surgical bed boost dose.3,4 Large phase III trials evaluating different hypofractionation schedules proved that overall treatment time could be reduced using hypofractionated WBI, without compromising local control and warranting a good safety proﬁle.5,6 Partial-breast irradiation (PBI) has been introduced as an alternative treatment approach for selected patients with early BC. Estimated advantages of PBI 
+
+as compared with WBI included shorter overall treatment time when accelerated (APBI), improved adverse events proﬁle, and cost reduction.7 Several large phase III trials demonstrated the noninferiority of PBI versus WBI in terms of local recurrence (LR) and similar or reduced toxicity at 5 years.8-11 However, the optimal schedule to obtain the best balance between local control and toxicity still represents a challenge because of some conﬂicting results.11,12 Our singlecenter University of Florence phase III APBI trial using intensity-modulated radiation therapy (IMRT) showed no signiﬁcant difference between APBI and WBI in terms of ipsilateral breast tumor recurrence (IBTR) and survival rates at 5 years, with signiﬁcantly improved outcomes in terms of treatment-related toxicity and cosmetic results in favor of the APBI arm.13 We hereby present the long-term results at a median follow-up of 10 years. 
+
+Volume 38, Issue 35 4175 
+
+Meattini et al 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+CONTEXT Key Objective To assess whether accelerated partial-breast irradiation (APBI) is a safe and effective alternative treatment as compared to whole-breast irradiation (WBI) for selected patients with early breast cancer (BC). Knowledge Generated The 10-year cumulative disease control failure incidence in patients treated with APBI was low and not signiﬁcantly different from patients treated with WBI, in the face of a treatment-related toxicity and cosmesis outcomes signiﬁcantly in favor of the APBI arm. Relevance APBI approach using an intensity-modulated radiation therapy technique in 5 once-daily fractions should be considered an attractive option when an external APBI approach is chosen to treat a patient with low-risk early BC. 
+
+PATIENTS AND METHODS Study Population We performed this randomized phase III single-center clinical trial between March 2005 and June 2013 at the Radiation Oncology Unit of the University of Florence (Florence, Italy). The study aimed to compare tangential ﬁelds conventionally fractionated WBI and APBI using IMRT technique. Eligible patients, as previously reported, were women age . 40 years with early BC (maximum 
+
+diameter, 2.5 cm) suitable for BCS.13 Extensive intraductal carcinoma, multiple foci cancer, and ﬁnal surgical margins , 5 mm represented the main exclusion criteria. The local ethics committee (Azienda Ospedaliero–Universitaria Careggi, Florence, Italy) gave permission to perform the current study, which was conducted according to the Declaration of Helsinki and the Guidelines for Good Clinical Practice. All patients provided full written informed consent. The CONSORT diagram and trial proﬁle are summarized in Figure 1. 
+
+Patients screened (N = 5,148) 
+
+Patients not randomly assigned (n = 4,628) Exclusion criteria (n = 3,702) Patient refusal (n = 926) 
+
+Patients randomly assigned (n = 520) 
+
+Patients assigned to APBI (n = 260) 
+
+Patients assigned to WBI (n = 260) 
+
+FIG 1. CONSORT ﬂow diagram. APBI, accelerated partial-breast irradiation; ITT, intention-to-treat; WBI, whole-breast irradiation. 
+
+Patients did not receive APBI (n = 14) Patient withdrawal (n = 14) 
+
+Patients who received APBI (n = 246) 
+
+Patients who received WBI (n = 260) 
+
+Patients included in ITT analysis (n = 260) 
+
+Patients included in ITT analysis (n = 260) 
+
+4176 © 2020 by American Society of Clinical Oncology 
+
+Volume 38, Issue 35 
+
+Accelerated Partial-Breast Irradiation for Early Breast Cancer 
+
+Study Treatments 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Patients were randomly assigned to receive either WBI or APBI using IMRT in a 1:1 ratio. Allocation was performed with a computer-generated sequence using a randomly permuted block design, without any stratiﬁcation of main prognostic factors. The random sequence was kept by an external center (local Oncological Centre for Departmental Reference). Clinicians, investigators, and the patients themselves were aware of the arm assignment. No stratiﬁcation factors were planned in the randomization process. The surgeons were requested to place clips at the borders of the surgical bed, using a minimum of 4 clips. Computed tomography scanning was performed using 0.3-cm-thick slices and was performed within 4 weeks after surgery. Patients treated with conventionally fractionated WBI received a total dose of 50 Gy in 25 fractions, followed by an RT boost on the surgical bed of 10 Gy in 5 fractions. Dose was delivered with wedged photon tangential ﬁelds, and boost was treated with an electron direct ﬁeld. The organs at risk (OARs) constraints were that 5% of the heart and 20% of the lung were kept to , 20 Gy. Homogeneity of the dose to the target was controlled by keeping the maximum dose within 55 Gy and the volume receiving more than 52.5 Gy (V52.5) , 10%. In patients assigned to the APBI arm, the clinical target volume (CTV) was drawn with a uniform 1-cm 3dimensional margin around the surgical clips; the CTV was limited to 3 mm from the skin surface. A second uniform 3-dimensional 1-cm margin was added to the CTV to obtain the planning target volume (PTV). The PTV was allowed to extend 4 mm inside the ipsilateral lung and was limited to 3 mm from the skin. The ipsilateral and contralateral breast, ipsilateral and contralateral lung, and the heart and spinal cord were contoured as OARs. Five (6 MV) step-and-shoot IMRT coplanar ﬁelds were used. A dose of 30 Gy in 5 nonconsecutive once-daily fractions was prescribed. Using the linear quadratic model and assuming an a/b ratio of 3, this prescription was equivalent to 54 Gy in a standard 2-Gy fractionation. If the a/b ratio is assumed to be 2, the equivalent dose in standard fractionation will be 60 Gy. The every-other-day approach was chosen to be cautious in relation to the toxicity proﬁle and was believed to be not detrimental in terms of treatment efﬁcacy, considering BC a slow potential doubling time tumor.14 The following constraints were adopted for plan optimization: PTV coverage, 100% of PTV covered by 95% of the prescribed dose (V28.5 5 100%); maximal dose to PTV , 105% (31.5 Gy); minimal dose to PTV 28 Gy; uninvolved breast: not . 50% received a dose of . 50% of the prescribed dose (V15 , 50%); ipsilateral lung, not . 20% received a dose . 10 Gy (V10 , 20%); contralateral lung, not . 10% received a dose . 5 Gy (V5 , 10%); contralateral breast, maximal dose , 1 Gy; and heart, not . 10% received a dose . 3 Gy (V3 , 10%). Journal of Clinical Oncology 
+
+Dosimetric quality assurance (QA) was performed following the normal workﬂow of our institute: dose veriﬁcation for patients undergoing WBI was not performed pretreatment, because only static ﬁelds were used for planning, whereas APBI IMRT ﬁelds were veriﬁed before treatment of a subset of patients (1 out of 5). Quality assurance in radiotherapy (QART) is summarized in Appendix Table A1 (online only). Molecular subtypes were immunohistochemistry-based on local assessment, consistent with the 12th St Gallen International Expert Consensus.15 Follow-Up Adjuvant systemic treatments were prescribed following our institutional policy during the trial enrollment period. After completion of RT, we followed up all patients monthly for 3 months, every 4 months for 2 years, and every 6 months thereafter. Clinical examination was performed at each follow-up visit; mammography was annually programmed, and other diagnostic examinations were requested only in case of suspect symptoms. End Points We deﬁned LR (true recurrence) as the reappearance of the BC in the index quadrant and ipsilateral breast tumors as any new BC diagnosed in other quadrants of the same breast. The sum of LR and new ipsilateral breast tumors was deﬁned as IBTR. Locoregional tumor recurrence (LRR) also included any recurrence in the ipsilateral axillary, supraclavicular or internal mammary chain nodal regions. Distant metastases (DM) were deﬁned as any recurrence to distant organs (visceral and bone sites). Treatment-related toxicity was assessed using the acute radiation morbidity scoring criteria and late radiation morbidity scoring scheme from the Radiation Therapy Oncology Group and the European Organization for Research and Treatment of Cancer.16 Cosmetic outcome was scored by both physician and patient on the 4-category Harvard Breast Cosmesis Scale.17 The primary end point was the IBTR rate. The secondary end points were LRR, DM, and contralateral BC (CBC) rates, BC-speciﬁc survival (BCSS), and overall survival (OS), acute/late treatmentrelated toxicity, and cosmetic outcomes. Statistical Methods The study was designed to compare the 5-year IBTR rate in the APBI and WBI arms. Assuming a 5-year IBTR of 3% in the WBI group and equivalence of the 2 groups if occurrence of IBTR in the APBI group did not exceed 5% (accepted level in most institutions at trial design time), a sample of 245 patients per group provided an 80% statistical power. The main analysis was by intention to treat (ITT), including all randomly assigned patients. We also perform a per-protocol analysis, restricted to patients who received the allocated treatment and satisﬁed eligibility criteria, thus excluding 14 patients allocated to the APBI arm (Fig 1). Characteristics of the patients were compared 
+
+4177 
+
+Meattini et al 
+
+TABLE 1. Patient, Tumor, and Treatment Characteristics Characteristic 
+
+APBI Arm (n 5 260) WBI Arm (n 5 260) 
+
+Age, years # 50 
+
+41 (15.8) 
+
+45 (17.3) 
+
+51-59 
+
+61 (23.5) 
+
+76 (29.2) 
+
+60-69 
+
+99 (38.1) 
+
+81 (31.2) 
+
+$ 70 
+
+59 (22.6) 
+
+58 (22.3) 
+
+G1-2 
+
+234 (90.0) 
+
+227 (87.3) 
+
+G3 
+
+26 (10.0) 
+
+33 (12.7) 
+
+Tis 
+
+23 (8.8) 
+
+32 (12.3) 
+
+T1 
+
+223 (85.8) 
+
+213 (81.9) 
+
+T2 
+
+14 (5.4) 
+
+15 (5.8) 
+
+None 
+
+232 (89.2) 
+
+213 (81.9) 
+
+1-3 
+
+19 (7.3) 
+
+33 (12.7) 
+
+No ALDN 
+
+9 (3.5) 
+
+14 (5.4) 
+
+Positive 
+
+248 (95.4) 
+
+249 (95.8) 
+
+Negative 
+
+12 (4.6) 
+
+11 (4.2) 
+
+, 20 
+
+193 (72.2) 
+
+174 (72.2) 
+
+$ 20 
+
+50 (20.6) 
+
+67 (27.8) 
+
+Luminal A–like 
+
+169 (79.3) 
+
+151 (72.6) 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Tumor grade 
+
+Postoperative T stage 
+
+No. positive nodes 
+
+ER status 
+
+Ki67 index, % 
+
+between groups with an exact Fisher test or x2 for trends, as appropriate. Survival analyses were performed in relation to speciﬁc events: IBTR, LRR, CBC, DM, and death. Time to events was measured from the date of diagnosis to the date of the speciﬁc event. BCSS was deﬁned as the time from the diagnosis to time of death due to BC or last follow-up. OS was deﬁned as the time from the diagnosis to time of death or last follow-up (February 1, 2020). No loss to follow-up was found. Patients who died before experiencing a disease occurrence were considered censored at their dates of death. Event rates and their 95% CIs were calculated according to the Kaplan-Meier method. Differences between groups of patients were evaluated using the log-rank test. A univariable Cox proportional regression model was used to obtain the hazard ratios (HRs) for IBTR and deaths for APBI versus WBI. A multivariable Cox proportional regression model was used to identify independent factors of IBTR among patients treated with APBI using the IMRT technique. All 2-sided P values , .05 were considered signiﬁcant. Statistical analyses were performed using SPSS Statistics software (version 22; SPSS Statistics, IBM Corporation, Armonk, NY). This trial is registered: ClinicalTrials.gov identiﬁer: NCT02104895. RESULTS Patient Characteristics 
+
+ASTRO unsuitable 
+
+53 (20.3) 
+
+68 (26.1) 
+
+ESTRO low 
+
+190 (73.1) 
+
+166 (63.8) 
+
+Between 2005 and 2013, 520 patients were enrolled in the trial, with 260 randomly assigned to the WBI arm and 260 to the APBI arm (Fig 1). As of February 1, 2020, the whole series median time of follow-up was 10.7 years (mean, 10.5 years; standard deviation [SD], 2.6 years; range, 1.4-14.8 years). The median follow-up times of the WBI and APBI arms were 10.9 years (range, 1.4-14.7 years) and 10.5 years (range, 2.0-14.8 years), respectively. Most of patients were . 50 years old (82.7% WBI v 84.2% APBI; mean, 61.6 years; median, 62.8 years; range, 40-85 years) and had tumor grade 1-2 (87.3% WBI v 90% APBI), size , 2 cm (81.9% WBI v 85.5% APBI), with negative nodal status (81.9% WBI v 89.2% APBI) and ER-positive disease (95.8% WBI v 95.4% APBI). Although the majority of patients had luminal-like tumors (92.8% WBI v 94.9% APBI), approximately 30% of cases (10.4% ductal carcinoma in situ and 22% invasive carcinoma) did not receive any adjuvant systemic treatment (28.8% WBI v 35.8% APBI). Main enrolled population characteristics at baseline were similar in the 2 treatment arms and are summarized in Table 1. 
+
+ESTRO intermediate 
+
+41 (15.8) 
+
+47 (18.1) 
+
+Efﬁcacy 
+
+ESTRO high 
+
+29 (11.1) 
+
+47 (18.1) 
+
+The 10-year cumulative incidence of IBTR was 2.5% (n 5 6) in the WBI arm and 3.7% (n 5 9) in the APBI arm (HR, 1.56; 95% CI, 0.55 to 4.37; P 5 .40), for an absolute difference of 1.2% (Fig 2A). Median time to IBTR was 4.0 years (mean, 5.3 years; SD, 3.25 years; range, 1.0-1.8 years). The 10-year cumulative incidence of LRR was 2.9% (n 5 7) in the WBI arm and 3.7% (n 5 9) in the APBI 
+
+Molecular subtypea 
+
+Luminal B–like 
+
+33 (15.6) 
+
+42 (20.2) 
+
+HER2 positive (nonluminal) 
+
+6 (2.8) 
+
+13 (6.2) 
+
+Triple negative 
+
+5 (2.3) 
+
+2 (1.0) 
+
+None 
+
+93 (35.8) 
+
+75 (28.8) 
+
+Endocrine therapy only 
+
+Systemic treatment 
+
+155 (59.6) 
+
+162 (62.3) 
+
+Chemotherapy only 
+
+5 (1.9) 
+
+3 (1.2) 
+
+Chemotherapy and endocrine therapy 
+
+7 (2.7) 
+
+20 (7.7) 
+
+ASTRO suitable 
+
+133 (51.2) 
+
+113 (43.5) 
+
+ASTRO cautionary 
+
+74 (28.5) 
+
+79 (30.4) 
+
+Risk class 
+
+NOTE. Data presented as No. (%). Abbreviations: ALDN, axillary lymph nodes dissection; APBI, accelerated partialbreast irradiation; HR, hazard ratio; ASTRO, American Society for Radiation Oncology; ESTRO, European Society for Radiotherapy and Oncology; HER2, human epidermal growth factor receptor 2; WBI, whole-breast irradiation. a Assessed by immunohistochemistry on primary tumor specimen. 
+
+4178 © 2020 by American Society of Clinical Oncology 
+
+Volume 38, Issue 35 
+
+Accelerated Partial-Breast Irradiation for Early Breast Cancer 
+
+A 
+
+B 19.8 
+
+19.8 
+
+WBI 
+
+WBI APBI 
+
+APBI Log-rank P = .40 
+
+14.8 
+
+HR, 1.56; 95% CI, 0.55 to 4.37 
+
+LRR (%) 
+
+IBTR (%) 
+
+14.8 
+
+9.8 
+
+HR, 1.33; 95% CI, 0.49 to 3.56 
+
+9.8 
+
+4.8 
+
+4.8 
+
+-0.2 
+
+-0.2 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+Time (years) 
+
+Time (years) No. at risk (No. of events): 
+
+No. at risk (No. of events): 
+
+APBI 
+
+260 (0) 
+
+257 (2) 
+
+251 (6) 
+
+249 (7) 
+
+189 (9) 
+
+141 (9) 
+
+APBI 
+
+260 (0) 
+
+257 (2) 
+
+251 (6) 
+
+249 (7) 
+
+189 (9) 
+
+141 (9) 
+
+WBI 
+
+260 (0) 
+
+257 (1) 
+
+253 (2) 
+
+246 (4) 
+
+220 (5) 
+
+168 (6) 
+
+WBI 
+
+260 (0) 
+
+257 (1) 
+
+252 (3) 
+
+245 (5) 
+
+219 (6) 
+
+168 (7) 
+
+C 19.8 
+
+WBI APBI Log-rank P = .83 
+
+14.8 
+
+DM (%) 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Log-rank P = .58 
+
+HR, 0.89; 95% CI, 0.32 to 2.47 
+
+9.8 
+
+4.8 
+
+-0.2 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+Time (years) No. at risk (No. of events): APBI 
+
+260 (0) 
+
+257 (2) 
+
+255 (3) 
+
+250 (6) 
+
+194 (6) 
+
+143 (7) 
+
+WBI 
+
+260 (0) 
+
+258 (0) 
+
+251 (4) 
+
+247 (6) 
+
+222 (7) 
+
+171 (8) 
+
+FIG 2. Cumulative incidence of (A) ipsilateral breast tumor recurrence (IBTR), (B) locoregional recurrence (LRR), and (C) distant metastases (DM). APBI, accelerated partial-breast irradiation; HR, hazard ratio; WBI, whole-breast irradiation. 
+
+arm (HR, 1.33; 95% CI, 0.49 to 3.56; P 5 .58), for an absolute difference of 0.8% (Fig 2B). The 10-year cumulative incidence of CBC was 3.2% (n 5 8) in the WBI arm and 0.8% (n 5 2) in the APBI arm (HR, 0.25; 95% CI, 0.05 to 1.18; P 5 .08). Median time to CBC occurrence was 3.3 years (mean, 4.0 years; SD, 2.0 years; range, 2.5-9.3 years). The 10-year cumulative incidence of DM was 3.2% (n 5 8) in the WBI arm and 2.9% (n 5 7) in the APBI arm (HR, 0.89; 95% CI, 0.32 to 2.47; P 5 .83), for an absolute difference of 0.3% (Fig 2C). Median time to DM occurrence was 4.1 years (mean, 5.3 years; SD, 3.2 years; range, 1.5-12.1 years). There were no signiﬁcant differences between APBI and WBI for BCSS and OS (Fig 3). There were 49 (9.4%) deaths reported (n 5 520), with 25 (9.6%) patients in the WBI arm and 24 (9.2%) in the APBI arm. The 10-year point estimate for OS was 91.9% in both arms (HR, 0.95; 95% CI, 0.50 to 1.79; P 5 .86). There were 15 (2.9%) deaths due to BC (n 5 520), with 7 (2.7%) patients in the WBI arm and Journal of Clinical Oncology 
+
+8 (3.1%) in the APBI arm. The 10-year point estimate for BCSS was 96.7% in the WBI arm and 97.8% in the APBI arm (HR, 0.65; 95% CI, 0.21 to 1.99; P 5 .45). There were no signiﬁcant differences in the number of patients with second primary cancers reported between the 2 groups. There were 13 (10%) with at least 1 second primary cancer reported; the 10-year cumulative incidence of second primary tumor was 1.8% (n 5 3) in the WBI arm and 2.5% (n 5 4) in the APBI group (P 5 .70). Main analyses were repeated using the per-protocol population and showed consistent ﬁndings. At time of analysis, all patients had follow-up information available to establish survival status and to assess recurrence, disease-free, and safety end points; 92.1% of the alive patients had a minimum follow-up of 7 years. The 5-, 7-, and 10-year rates reporting main outcomes are summarized in Table 2. We did exploratory analyses in the ITT population to determine if there were any variations in treatment effects for WBI and 
+
+4179 
+
+Meattini et al 
+
+A 
+
+B 99.8 
+
+99.8 
+
+79.8 
+
+OS (%) 
+
+BCSS (%) 
+
+79.8 59.8 39.8 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+19.8 
+
+59.8 39.8 19.8 
+
+Log-rank P = .45 
+
+WBI 
+
+HR, 0.65; 95% CI, 0.21 to 1.99 
+
+APBI 
+
+Log-rank P = .86 
+
+WBI 
+
+HR, 0.95; 95% CI, 0.50 to 1.79 
+
+APBI 
+
+-1.2 
+
+-1.2 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+0 
+
+10 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+Time (years) 
+
+Time (years) No. at risk (No. of events): 
+
+No. at risk (No. of events): APBI 
+
+260 (0) 
+
+259 (0) 
+
+256 (2) 
+
+254 (2) 
+
+196 (3) 
+
+144 (5) 
+
+APBI 
+
+260 (0) 
+
+259 (1) 
+
+256 (4) 
+
+254 (6) 
+
+196 (12) 
+
+144 (18) 
+
+WBI 
+
+260 (0) 
+
+258 (0) 
+
+254 (2) 
+
+249 (4) 
+
+223 (7) 
+
+172 (8) 
+
+WBI 
+
+260 (0) 
+
+258 (1) 
+
+254 (6) 
+
+249 (11) 
+
+223 (18) 
+
+172 (20) 
+
+FIG 3. Kaplan-Meier estimates of (A) breast cancer–speciﬁc survival (BCSS), and (B) overall survival (OS). APBI, accelerated partial-breast irradiation; HR, hazard ratio; WBI, whole-breast irradiation. 
+
+APBI between characteristics identiﬁed as prognostic for IBTR, including age, tumor size and grade, nodal status, hormone receptor status, and risk group. In addition, we performed an analysis in luminal-like patients (n 5 437) to further investigate the potential impact of postoperative systemic treatments (both endocrine and chemotherapy). No signiﬁcant factors emerged at univariable or multivariable analysis (Appendix Tables A2 and A3, online only). We performed an exploratory analysis stratifying patients following the American Society for Radiation Oncology (ASTRO)18 and European Society for Radiotherapy and Oncology (ESTRO)19 recommendations for PBI; we observed 4/133 IBTR (3.5% in the suitable ASTRO group) and 7/190 IBTR (4.0% in the low-risk ESTRO group) at 10 years in the APBI arm. No signiﬁcant differences between risk groups emerged in the whole series or between arms (Appendix Table A4, online only). 
+
+Safety and Cosmesis Adverse event information was available for all patients. In the acute period, the highest toxicity grade reported from APBI was grade 1 in 47 (19.1%) and grade 2 in 5 (2%) patients. The highest toxicity reported from WBI was grade 1 in 75 (28.8%), grade 2 in 81 (31.2%), and grade 3 in 17 (6.5%) patients. In the late period, the highest toxicity grade reported from APBI was grade 1 in 11 (4.5%). The highest toxicity reported from WBI was grade 1 in 71 (27.3%) and grade 2 in 7 (2.7%) patients. The APBI arm showed signiﬁcantly improved treatment-related adverse events in both the acute (P 5 .0001) and late periods (P 5 .0001). Overall, patients reported favorable cosmetic scores in the follow-up period (excellent to good rates in approximately 90% of cases), but a higher proportion of patients undergoing WBI experienced adverse cosmesis (deﬁned as 
+
+TABLE 2. Five-Year, 7-Year, and 10-Year Event Rates According to Allocated Group (ITT population) 5-Year Rate APBI Arm 
+
+WBI Arm 
+
+7-Year Rate APBI Arm 
+
+WBI Arm 
+
+10-Year Rate APBI Arm 
+
+WBI Arm 
+
+Outcome 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+Ipsilateral breast tumor recurrence 
+
+17 
+
+6 
+
+2.3 
+
+3 
+
+1.2 
+
+.31 
+
+7 
+
+2.7 
+
+5 
+
+2.0 
+
+.55 
+
+9 
+
+3.7 
+
+6 
+
+2.5 
+
+.40 
+
+Local relapse 
+
+10 
+
+3 
+
+1.2 
+
+3 
+
+1.2 
+
+.99 
+
+3 
+
+1.2 
+
+3 
+
+1.2 
+
+.99 
+
+5 
+
+2.1 
+
+4 
+
+1.7 
+
+.68 
+
+New ipsilateral breast cancer 
+
+7 
+
+3 
+
+1.2 
+
+0 
+
+— 
+
+.08 
+
+4 
+
+1.6 
+
+2 
+
+0.8 
+
+.41 
+
+4 
+
+1.6 
+
+2 
+
+0.8 
+
+.41 
+
+Locoregional tumor recurrence 
+
+19 
+
+6 
+
+2.4 
+
+4 
+
+1.6 
+
+.52 
+
+7 
+
+2.7 
+
+6 
+
+2.4 
+
+.77 
+
+9 
+
+3.7 
+
+7 
+
+2.9 
+
+.57 
+
+Contralateral breast tumor 
+
+10 
+
+2 
+
+0.8 
+
+7 
+
+2.7 
+
+.09 
+
+2 
+
+0.8 
+
+7 
+
+2.8 
+
+.09 
+
+2 
+
+0.8 
+
+8 
+
+3.2 
+
+.06 
+
+Distant metastasis 
+
+17 
+
+4 
+
+1.5 
+
+6 
+
+2.3 
+
+.52 
+
+6 
+
+2.3 
+
+7 
+
+2.7 
+
+.78 
+
+7 
+
+2.9 
+
+8 
+
+3.2 
+
+.83 
+
+Deaths 
+
+49 
+
+5 
+
+1.9 
+
+8 
+
+3.1 
+
+.41 
+
+9 
+
+3.5 
+
+15 
+
+5.8 
+
+.22 
+
+18 
+
+8.1 
+
+20 
+
+8.1 
+
+.86 
+
+Breast cancer 
+
+15 
+
+2 
+
+0.8 
+
+3 
+
+1.2 
+
+.66 
+
+3 
+
+1.2 
+
+6 
+
+2.4 
+
+.32 
+
+5 
+
+2.2 
+
+8 
+
+3.3 
+
+.45 
+
+Other cause 
+
+34 
+
+3 
+
+1.2 
+
+5 
+
+1.9 
+
+.48 
+
+6 
+
+2.4 
+
+9 
+
+3.5 
+
+.44 
+
+13 
+
+6.0 
+
+12 
+
+4.9 
+
+.74 
+
+Abbreviations: APBI, accelerated partial-breast irradiation; ITT, intention-to-treat; WBI, whole-breast irradiation. 
+
+4180 © 2020 by American Society of Clinical Oncology 
+
+Volume 38, Issue 35 
+
+Accelerated Partial-Breast Irradiation for Early Breast Cancer 
+
+fair or poor) than did those treated by APBI, as assessed both by physician (0% v 1.9%; P 5 .0001) and patient (0.8% v 14.6%; P 5 .0001). Main results are summarized in Table 3. DISCUSSION Recent developments in radiation oncology show a fast move to precision medicine strategies. In this context, APBI 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+TABLE 3. Treatment-Related Adverse Events, Physician- and Patient-Rated Cosmesis Assessments Stratiﬁed by Treatment Arm and Period (per protocol) APBI WBI Assessment (n 5 246) (n 5 260) P Acute period adverse eventsa None 
+
+194 (78.9) 
+
+87 (33.5) 
+
+Yes, any grade 
+
+52 (21.1) 
+
+173 (66.5) 
+
+Grade 1 
+
+47 (19.1) 
+
+75 (28.8) 
+
+Grade 2 
+
+5 (2.0) 
+
+81 (31.2) 
+
+Grade 3 
+
+— 
+
+17 (6.5) 
+
+.0001 
+
+.0001 
+
+Grade 4 
+
+— 
+
+— 
+
+Grade 0-1 
+
+241 (98.0) 
+
+162 (62.3) 
+
+.0001 
+
+5 (2.0) 
+
+98 (37.7) 
+
+.0001 
+
+None 
+
+235 (95.5) 
+
+182 (70.0) 
+
+.0001 
+
+Yes, any grade 
+
+11 (4.5) 
+
+78 (30.0) 
+
+.0001 
+
+Grade 1 
+
+11 (4.5) 
+
+71 (27.3) 
+
+.0001 
+
+Grade 2 
+
+— 
+
+7 (2.7) 
+
+Grade 3 
+
+— 
+
+— 
+
+Grade $ 2 a 
+
+Late period adverse events 
+
+Grade 4 
+
+— 
+
+— 
+
+Grade 0-1 
+
+246 (100) 
+
+253 (97.3) 
+
+0 
+
+7 (2.7) 
+
+Excellent 
+
+233 (94.7) 
+
+189 (72.7) 
+
+Good 
+
+13 (5.3) 
+
+66 (25.4) 
+
+Fair 
+
+— 
+
+5 (1.9) 
+
+Poor 
+
+— 
+
+— 
+
+Grade $ 2 
+
+.015 
+
+b 
+
+Physician-rated cosmesis 
+
+.0001 
+
+Patient-rated cosmesisb Excellent 
+
+44 (17.9) 
+
+13 (5.1) 
+
+Good 
+
+200 (81.3) 
+
+209 (80.3) 
+
+Fair 
+
+2 (0.8) 
+
+38 (14.6) 
+
+Poor 
+
+— 
+
+— 
+
+.0001 
+
+NOTE. Data are presented as No. (%). Abbreviations: APBI, accelerated partial-breast irradiation; WBI, whole-breast irradiation. a Worst grade experienced by patients in the acute (within 6 months from start of radiotherapy) and in the late period (beyond 6 months). b Worst grade experienced by patients in the follow-up period. Global cosmetic outcome assessed by the physician and the patient using the Harvard Cosmetic Scale. 
+
+Journal of Clinical Oncology 
+
+might represent a paradigm shift toward an effective deescalation of treatment of selected hormone-sensitive early BC.20 Main evidence showed that local control of disease is closely related to an adequate selection of patients,21 whereas treatment-related toxicity and cosmetic outcomes seem to be strongly associated with the technique and schedule of choice.8-13,22 The ESTRO and the (recently updated) ASTRO recommendations identiﬁed suitable candidates for PBI outside clinical trials, and both are aligned with selecting patients . 50 years old, tumor size , 2 cm, negative nodal status, and ﬁnal surgical margins $ 2 mm.16,17 The ASTRO suitable group especially includes the ER positivity as a key selection criterion for APBI.16 The randomized trials IMPORT LOW (ClinicalTrials.gov identiﬁer: NCT00814567; moderately hypofractionated PBI), an excellent model of adequate patient selection, and GEC-ESTRO (ClinicalTrials.gov identiﬁer: NCT00402519; brachytherapy) demonstrated the noninferiority of PBI versus WBI for LR with similar or reduced toxicity at 5 years.8-10 The NSABP B-39/RTOG 0413 trial (ClinicalTrials.gov identiﬁer: NCT00103181)— at a median follow-up of 10.2 years—showed few breast events (4.5% risk of IBTR, 3% of DM, and 2% of BC-related death rate), reporting low and comparable toxicity rates.12 Although the trial did not meet the primary end point assumptions, the authors, discussing the absolute difference of , 1% at 10-year cumulative incidence between arms, consider APBI an acceptable alternative for some women. The RAPID trial (ClinicalTrials.gov identiﬁer: NCT00282035), using both 3-dimensional conformal and IMRT techniques, showed that APBI was not inferior to WBI in preventing LR, with less acute toxicity but increased late toxicity and adverse cosmesis, probably due to the twicedaily regimen and some lack of consistency in target volume deﬁnition.11 It will be of notable interest to interpret the ﬁndings from the unpublished IRMA trial (ClinicalTrials.gov identiﬁer: NCT01803958), which reported a comparable toxicity proﬁle between arms at a preliminary analysis,23 thus strengthening the crucial role of the incomplete recovery of normal tissue between fractions for the twice-daily treatment within the radiobiological model.24 The long-term update of our trial conﬁrmed the previously published promising ﬁndings at a 5-year median followup.13 We observed few IBTR events at a median follow-up of 10 years and an absolute cumulative difference of 1.2% at 10 years nonsigniﬁcantly in favor of the WBI arm (HR, 1.56; 95% CI, 0.55 to 4.37; P 5 .40). Depending on the value placed on IBTR, this absolute IBTR difference between arms might be considered as not clinically relevant. Indeed, distant control of disease as well as BCSS and OS were comparable between arms. Interestingly, we observed a nonsigniﬁcant but clear trend in favor of the APBI arm in terms of CBC rate (HR, 0.25; 95% CI, 0.05 to 1.18; P 5 .08), a ﬁnding calling for additional large-scale investigations on potentially WBI-related CBC. 
+
+4181 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Meattini et al 
+
+Concerning treatment-related toxicity, we observed excellent results both in the acute and late periods, signiﬁcantly in favor of the once-daily APBI schedule (delivered every other day): 2% of patients undergoing APBI experienced an acute grade $ 2 toxicity (compared with 37.7% of WBI arm; P 5 .0001), and none of them experienced a late grade $ 2 toxicity (compared with 2.7% of WBI arm; P 5 .015). These outcomes might have consequently inﬂuenced the cosmesis results: we observed almost 100% excellent to good cosmetic outcomes in both arms as rated by physicians (excellent to good rate, 100% [APBI] v 98.1% [WBI]). Of note, the WBI arm showed a consistent patient-rated fair outcome of 14.6% (compared with 0.8% of the APBI arm). Future perspectives call for continue efforts to explore the best precision medicine strategy for very-low-risk patients, investigating local as well as systemic treatments deescalation.25 Several ongoing prospective phase II-III biologydriven studies (PRECISION, ClinicalTrials.gov identiﬁer: NCT02653755; EXPERT, TROG16.04/ANZ1601/BIG1602, ClinicalTrials.gov identiﬁer: NCT02889874; DBCG RT NATURAL, ClinicalTrials.gov identiﬁer: NCT03646955; and EUROPA, ClinicalTrials.gov identiﬁer: NCT04134598) aim to identify which patients are optimally suited for RT omission. To our knowledge, our study represents the only phase III trial with patients treated in a single center using a unique once-daily IMRT technique schedule and a revised QART assessment. All plans respected the QART assumptions, both in terms of target coverage and OARs thresholds constrains (Appendix Table A1). The small sample size of the series—representing the main limitation of our study— was based on statistical assumptions considered acceptable at the time of study design but not sufﬁcient to demonstrate 
+
+AFFILIATIONS 1 
+
+University of Florence, Florence, Italy 2 Azienda Ospedaliero–Universitaria Careggi, Florence, Italy 3 Istituto per lo Studio la Prevenzione e la Rete Oncologica (ISPRO), Florence, Italy 4 Ospedale Santa Maria Annunziata–Azienda Usl Toscana Centro, Florence, Italy 
+
+CORRESPONDING AUTHOR Icro Meattini, MD, Department of Experimental and Clinical Biomedical Sciences “M. Serio”, University of Florence, Radiation Oncology Unit–Oncology Department, Azienda Ospedaliero-Universitaria Careggi, Viale Morgagni 50, 50134, Florence, Italy; e-mail: icro.meattini@uniﬁ.it. 
+
+PRIOR PRESENTATION Presented at the 2019 San Antonio Breast Cancer Symposium, San Antonio, TX, December 9-14, 2019. 
+
+CLINICAL TRIAL INFORMATION NCT02104895 
+
+4182 © 2020 by American Society of Clinical Oncology 
+
+the noninferiority of the APBI arm. However, we do believe that no other local control/survival data are needed to conﬁrm that an external PBI is a valid approach to treat a consistent rate of low-risk patients after BCS, because the main published studies converge on this message.8,9,11,12 Our ﬁndings add valuable knowledge regarding the choice of the best radiation technique and schedule to prevent adverse toxicity/cosmesis.22 It is worth mentioning that the RT treatment received by the control arm could be considered out of date by today’s standards. Currently, most patients having the characteristics of our series would be treated with moderate hypofractionation WBI without boost,5 which may result in a better cosmetic outcome compared with conventionally fractionated WBI. Moreover, tangential wedged ﬁelds tend to produce dose distributions with inferior homogeneity compared with modern ﬁeld-in-ﬁeld or IMRT techniques, and the lack of homogeneity could also have affected cosmesis. Although these considerations must be taken into account when comparing toxicity between the 2 groups, the toxicity rates of the APBI arm are undoubtedly low. In summary, the 10-year cumulative IBTR incidence in early BC treated with an external APBI approach using IMRT technique in 5 once-daily nonconsecutive fractions was low and not signiﬁcantly different from that of patients treated with conventionally fractionated WBI. Comparable LRR, DM, BCSS, and OS rates were observed, in the face of an acute and late treatment-related toxicity and cosmesis outcomes signiﬁcantly in favor of the APBI arm. Therefore, this schedule should be considered an attractive option when an external APBI approach is chosen to treat a patient with low-risk early BC. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.20.00650. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Icro Meattini, Gabriele Simontacchi, Livia Marrazzo, Stefania Pallotta, Lorenzo Livi Provision of study material or patients: Icro Meattini, Lorenzo Livi, Lorenzo Orzalesi, Lisa Paoletti, Marco Bernini, Luis Sanchez, Jacopo Nori, Simonetta Bianchi Collection and assembly of data: Icro Meattini, Livia Marrazzo, Isacco Desideri, Vieri Scotti, Daniela Greto, Silvia Scoccianti, Sara Lucidi, Lisa Paoletti, Massimiliano Fambrini, Marco Bernini, Luis Sanchez, Lorenzo Orzalesi, Jacopo Nori, Simonetta Bianchi, Lorenzo Livi Data analysis and interpretation: Icro Meattini, Livia Marrazzo, Calogero Saieva, Isacco Desideri, Gabriele Simontacchi, Pierluigi Bonomo, Monica Mangoni, Stefania Pallotta, Lorenzo Livi Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+Volume 38, Issue 35 
+
+Accelerated Partial-Breast Irradiation for Early Breast Cancer 
+
+ACKNOWLEDGMENT We thank all the women enrolled in this trial, the study co-investigators, and the staff of all the involved units at the Florence University Hospital. We also thank Erica Moretti (Prato General Hospital, Prato, Italy), Luca Triggiani (University of Brescia, Brescia, Italy), Stefano Maria Magrini 
+
+(University of Brescia, Brescia, Italy), Francesca Rossi (Ospedale Santa Maria Annunziata, Azienda Usl Toscana Centro, Florence, Italy), Paolo Bastiani (Ospedale Santa Maria Annunziata, Azienda Usl Toscana Centro, Florence, Italy), and Monica lo Russo (University of Florence, Florence, Italy) for their valuable contribution. 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+REFERENCES 1. 
+
+Veronesi U, Cascinelli N, Mariani L, et al: Twenty-year follow-up of a randomized study comparing breast-conserving surgery with radical mastectomy for early breast cancer. N Engl J Med 347:1227-1232, 2002 
+
+2. 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG), Darby S, McGale P, et al: Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death: Meta-analysis of individual patient data for 10,801 women in 17 randomised trials. Lancet 378:1707-1716, 2011 
+
+3. 
+
+Liljegren G, Holmberg L, Bergh J, et al: 10-Year results after sector resection with or without postoperative radiotherapy for stage I breast cancer: A randomized trial. J Clin Oncol 17:2326-2333, 1999 
+
+4. 
+
+Arriagada R, Lê MG, Rochard F, et al: Conservative treatment versus mastectomy in early breast cancer: Patterns of failure with 15 years of follow-up data. J Clin Oncol 14:1558-1564, 1996 
+
+5. 
+
+Haviland JS, Owen JR, Dewar JA, et al: The UK Standardisation of Breast Radiotherapy (START) trials of radiotherapy hypofractionation for treatment of early breast cancer: 10-year follow-up results of two randomised controlled trials. Lancet Oncol 14:1086-1094, 2013 
+
+6. 
+
+Whelan TJ, Pignol JP, Levine MN, et al: Long-term results of hypofractionated radiation therapy for breast cancer. N Engl J Med 362:513-520, 2010 
+
+7. 
+
+Greenup RA, Camp MS, Taghian AG, et al: Cost comparison of radiation treatment options after lumpectomy for breast cancer. Ann Surg Oncol 19:3275-3281, 2012 
+
+8. 
+
+Coles CE, Grifﬁn CL, Kirby AM, et al: Partial-breast radiotherapy after breast conservation surgery for patients with early breast cancer (UK IMPORT LOW trial): 5year results from a multicentre, randomised, controlled, phase 3, non-inferiority trial. Lancet 390:1048-1060, 2017 
+
+9. 
+
+Strnad V, Ott OJ, Hildebrandt G, et al: 5-Year results of accelerated partial breast irradiation using sole interstitial multicatheter brachytherapy versus wholebreast irradiation with boost after breast-conserving surgery for low-risk invasive and in-situ carcinoma of the female breast: A randomised, phase 3, noninferiority trial. Lancet 387:229-238, 2016 
+
+10. Polgár C, Ott OJ, Hildebrandt G, et al: Late side-effects and cosmetic results of accelerated partial breast irradiation with interstitial brachytherapy versus wholebreast irradiation after breast-conserving surgery for low-risk invasive and in-situ carcinoma of the female breast: 5-year results of a randomised, controlled, phase 3 trial. Lancet Oncol 18:259-268, 2017 11. Whelan TJ, Julian JA, Berrang TS, et al: External beam accelerated partial breast irradiation versus whole breast irradiation after breast conserving surgery in women with ductal carcinoma in situ and node-negative breast cancer (RAPID): A randomised controlled trial. Lancet 394:2165-2172, 2019 12. Vicini FA, Cecchini RS, White JR, et al: Long-term primary results of accelerated partial breast irradiation after breast-conserving surgery for early-stage breast cancer: A randomised, phase 3, equivalence trial. Lancet 394:2155-2164, 2019 13. Livi L, Meattini I, Marrazzo L, et al: Accelerated partial breast irradiation using intensity-modulated radiotherapy versus whole breast irradiation: 5-year survival analysis of a phase 3 randomised controlled trial. Eur J Cancer 51:451-463, 2015 14. Yang Y, Xing L: Optimization of radiotherapy dose-time fractionation with consideration of tumor speciﬁc biology. Med Phys 32:3666-3677, 2005 15. Goldhirsch A, Wood WC, Coates AS, et al: Strategies for subtypes--dealing with the diversity of breast cancer: Highlights of the St. Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2011. Ann Oncol 22:1736-1747, 2011 16. Cox JD, Stetz J, Pajak TF: Toxicity criteria of the Radiation Therapy Oncology Group (RTOG) and the European Organization for Research and Treatment of Cancer (EORTC). Int J Radiat Oncol Biol Phys 31:1341-1346, 1995 17. Trombetta M, Julian TB, Kim Y, et al: The Allegheny General Modiﬁcation of the Harvard Breast Cosmesis Scale for the retreated breast. Oncology (Williston Park) 23:954-956, 2009 18. Correa C, Harris EE, Leonardi MC, et al: Accelerated partial breast irradiation: Executive summary for the update of an ASTRO evidence-based consensus statement. Pract Radiat Oncol 7:73-79, 2017 19. Polgár C, Van Limbergen E, Pötter R, et al: Patient selection for accelerated partial-breast irradiation (APBI) after breast-conserving surgery: Recommendations of the Groupe Européen de Curiethérapie-European Society for Therapeutic Radiology and Oncology (GEC-ESTRO) breast cancer working group based on clinical evidence (2009). Radiother Oncol 94:264-273, 2010 20. Ohri N, Haffty BG: Alternatives to standard fractionation radiation therapy after lumpectomy: Hypofractionated whole-breast irradiation and accelerated partialbreast irradiation. Surg Oncol Clin N Am 27:181-194, 2018 21. Meattini I, Livi L, Pallotta S, et al: Partial breast irradiation: The time is there! Breast 38:98-100, 2018 22. Coles CE, Bliss JM, Poortmans PM: Accelerated partial breast irradiation: More questions than answers? Lancet 394:2127-2129, 2019 23. Meduri B, Baldissera A, Galeandro M, et al: OC-0568: Accelerated PBI VS standard radiotherapy (IRMA trial): Interim cosmetic and toxicity results. Radiother Oncol 123:S303, 2017 24. Yarnold J, Bentzen SM, Coles C, et al: Hypofractionated whole-breast radiotherapy for women with early breast cancer: Myths and realities. Int J Radiat Oncol Biol Phys 79:1-9, 2011 25. Ward MC, Vicini F, Chadha M, et al: Radiation therapy without hormone therapy for women age 70 or above with low-risk early breast cancer: A microsimulation. Int J Radiat Oncol Biol Phys 105:296-306, 2019 
+
+n n n 
+
+Journal of Clinical Oncology 
+
+4183 
+
+Meattini et al AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Accelerated Partial-Breast Irradiation Compared With Whole-Breast Irradiation for Early Breast Cancer: Long-Term Results of the Randomized Phase III APBI-IMRT-Florence Trial The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Livia Marrazzo Travel, Accommodations, Expenses: Elekta (Inst) 
+
+Pierluigi Bonomo Consulting or Advisory Role: Merck Serono, Angelini Pharma 
+
+Vieri Scotti Consulting or Advisory Role: Boehringer Ingelheim, MSD Oncology, AstraZeneca/MedImmune, Roche/Genentech, Bristol Myers Squibb, Pﬁzer Speakers’ Bureau: AstraZeneca/MedImmune Travel, Accommodations, Expenses: Roche 
+
+No other potential conﬂicts of interest were reported. 
+
+© 2020 by American Society of Clinical Oncology 
+
+Volume 38, Issue 35 
+
+Accelerated Partial-Breast Irradiation for Early Breast Cancer 
+
+APPENDIX 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+TABLE A1. DVH Analysis of CTV/PTV Coverage and OARs Doses Feature 
+
+Standard Mean Deviation Median 
+
+Mean CTV dose, Gy 
+
+30.4 
+
+1.1 
+
+30.3 
+
+Range 29.4-40.0 
+
+Mean PTV dose, Gy 
+
+30.1 
+
+0.3 
+
+30.0 
+
+29.4-30.8 
+
+Minimum PTV dose, Gy, 2% of PTV 
+
+28.3 
+
+0.7 
+
+28.4 
+
+26.2-29.7 
+
+Maximum PTV dose, Gy 
+
+32.2 
+
+0.9 
+
+32.1 
+
+30.0-34.8 
+
+CTV $ 95% of prescribed dose, % 
+
+98.9 
+
+2.3 
+
+100.0 
+
+90-100 
+
+PTV $ 95% of prescribed dose, % 
+
+96.6 
+
+2.8 
+
+97.0 
+
+88-100 
+
+Heart volume $ 3 Gy, % 
+
+7.4 
+
+5.6 
+
+8.0 
+
+0.0-24.0a 
+
+Dose to 10% of heart volume, Gy 
+
+2.5 
+
+1.3 
+
+2.8 
+
+0.0-6.4a 
+
+Uninvolved breast volume $ 15 Gy, % 32.3 
+
+11.4 
+
+31.0 
+
+8.0-62.0a 
+
+Contralateral breast volume $ 1 Gy, % 
+
+1.1 
+
+4.1 
+
+0.0 
+
+0.0-36.0a 
+
+Ipsilateral lung volume $ 10 Gy, % 
+
+10.3 
+
+4.9 
+
+11.0 
+
+0.0-22.0a 
+
+Contralateral lung volume $ 5 Gy, % 
+
+0.9 
+
+3.0 
+
+0.0 
+
+0.0-19.0a 
+
+NOTE. Quality assurance in radiotherapy (QART) procedures were performed according to our internal quality assurance protocol. Abbreviations: CTV, clinical target volume; DVH, dose-volume histogram; OARs, organs at risk; PTV, planning target volume. a The planning constraints were fully satisﬁed except for 1 patient. 
+
+TABLE A2. Univariable and Multivariable Analysis for IBTR Incidence at 10 Years (n 5 15) in the Whole Series of Patients (n 5 520) Univariable Variable Age ($ 70 v , 70) 
+
+Multivariable 
+
+Events (No. v No.) 
+
+HR (95% CI) 
+
+P 
+
+HR (95% CI) 
+
+P 
+
+4 v 11 
+
+1.33 (0.42 to 4.17) 
+
+.63 
+
+1.32 (0.37 to 4.74) 
+
+.67 
+
+Tumor size ($ 2.1 v , 2 cm) 
+
+2 v 13 
+
+2.78 (0.63 to 12.31) 
+
+.18 
+
+3.44 (0.61 to 19.42) 
+
+.16 
+
+Grade (3 v 1-2) 
+
+4 v 11 
+
+3.11 (0.99 to 9.75) 
+
+.052 
+
+2.52 (0.41 to 15.5) 
+
+.32 
+
+Nodal status (positive v negative) 
+
+2 v 12 
+
+1.45 (0.32 to 6.46) 
+
+.63 
+
+2.46 (0.46 to 13.28) 
+
+.30 
+
+Hormone receptor status (negative v positive) 
+
+2 v 13 
+
+3.90 (0.88 to 17.26) 
+
+.07 
+
+1.37 (0.15 to 12.26) 
+
+.78 
+
+APBI v WBI 
+
+6v9 
+
+1.56 (0.55 to 4.37) 
+
+.40 
+
+1.69 (0.56 to 5.17) 
+
+.35 
+
+Abbreviations: APBI, accelerated partial-breast irradiation; HR, hazard ratio; IBTR, ipsilateral breast tumor recurrence; WBI, whole-breast irradiation. 
+
+Journal of Clinical Oncology 
+
+Meattini et al 
+
+TABLE A3. Univariable and Multivariable Analysis for IBTR Incidence at 10 Years (n 5 12) in Luminal-Like Patients (n 5 437) Univariable Events (No. v No.) 
+
+HR (95% CI) 
+
+Age ($ 70 v , 70) 
+
+2 v 10 
+
+0.67 (0.15 to 3.07) 
+
+Tumor size ($ 2.1 v , 2 cm) 
+
+0 v 12 
+
+Not evaluable 
+
+Grade (3 v 1-2) 
+
+1 v 11 
+
+1.22 (0.16 to 9.45) 
+
+Nodal status (positive v negative) 
+
+1 v 11 
+
+0.72 (0.09 to 5.54) 
+
+Chemotherapy (yes v no) 
+
+1 v 11 
+
+Endocrine therapy (yes v no) 
+
+6v6 
+
+APBI v WBI 
+
+4v8 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Variable 
+
+Multivariable P 
+
+HR (95% CI) 
+
+P 
+
+.61 
+
+0.91 (0.19 to 4.31) 
+
+.91 
+
+.99 
+
+— 
+
+— 
+
+.85 
+
+1.08 (0.06 to 18.44) 
+
+.96 
+
+.75 
+
+0.82 (0.08 to 8.60) 
+
+.87 
+
+1.99 (0.26 to 15.40) 
+
+.51 
+
+3.99 (0.18 to 86.55) 
+
+.38 
+
+0.33 (0.11 to 1.01) 
+
+.051 
+
+0.32 (0.09 to 1.11) 
+
+.072 
+
+2.00 (0.60 to 6.65) 
+
+.26 
+
+1.93 (0.56 to 6.61) 
+
+.30 
+
+Abbreviations: APBI, accelerated partial-breast irradiation; HR, hazard ratio; IBTR, ipsilateral breast tumor recurrence; WBI, whole-breast irradiation. 
+
+TABLE A4. IBTR Rates at 10 Years After ASTRO and ESTRO Risk Group Stratiﬁcation Whole Series Risk Group 
+
+No. 
+
+10-Year IBTR Rate No. (%) 
+
+WBI Arm P 
+
+No. 
+
+10-Year IBTR Rate No. (%) 
+
+APBI Arm P 
+
+No. 
+
+10-Year IBTR Rate No. (%) 
+
+P 
+
+ASTRO risk group Suitable 
+
+246 
+
+6 (2.8) 
+
+.85 
+
+113 
+
+2 (2.0) 
+
+.86 
+
+133 
+
+4 (3.5) 
+
+.93 
+
+Cautionary 
+
+153 
+
+5 (3.3) 
+
+.57 
+
+79 
+
+2 (2.7) 
+
+.60 
+
+74 
+
+3 (4.1) 
+
+.71 
+
+Unsuitable 
+
+121 
+
+4 (3.3) 
+
+68 
+
+2 (3.0) 
+
+53 
+
+2 (3.8) 
+
+Cautionary/unsuitable 
+
+274 
+
+9 (3.3) 
+
+147 
+
+4 (2.8) 
+
+127 
+
+5 (3.9) 
+
+Low risk 
+
+356 
+
+11 (3.4) 
+
+.91 
+
+166 
+
+4 (2.6) 
+
+.35 
+
+190 
+
+7 (4.0) 
+
+.52 
+
+Intermediate risk 
+
+88 
+
+2 (2.3) 
+
+.69 
+
+47 
+
+0 
+
+.90 
+
+41 
+
+2 (4.9) 
+
+.74 
+
+ESTRO risk group 
+
+High risk 
+
+76 
+
+2 (2.8) 
+
+47 
+
+2 (4.6) 
+
+29 
+
+0 
+
+Intermediate/high risk 
+
+164 
+
+4 (2.5) 
+
+94 
+
+2 (2.2) 
+
+70 
+
+2 (2.9) 
+
+NOTE. Data are presented as No. of IBTR events at 10 years (10-year % rate). Abbreviations: APBI, accelerated partial-breast irradiation; ASTRO, American Society for Radiation Oncology; IBTR, ipsilateral breast tumor recurrence; ESTRO, European Society for Radiotherapy and Oncology; WBI, whole-breast irradiation. 
+
+© 2020 by American Society of Clinical Oncology 
+
+Volume 38, Issue 35 
+
+ 

@@ -1,0 +1,985 @@
+Research 
+
+JAMA Oncology | Original Investigation 
+
+Neoadjuvant Immune Checkpoint Inhibitors Plus Chemotherapy in Early Breast Cancer A Systematic Review and Meta-Analysis Guillermo Villacampa, MSc; Victor Navarro, MSc; Alexios Matikas, MD, PhD; Joana Mourato Ribeiro, MD; Francesco Schettini, MD, PhD; Pablo Tolosa, MD, PhD; Olga Martínez-Sáez, MD; Rodrigo Sánchez-Bayona, MD, PhD; Juan M. Ferrero-Cafiero, PharmD; Fernando Salvador, PhD; Andri Papakonstantinou, MD, PhD; Aleix Prat, MD, PhD; Mafalda Oliveira, MD, PhD; Tomas Pascual, MD Editorial IMPORTANCE Recent studies have investigated the combination of immune checkpoint inhibitors (ICIs) with (neo)adjuvant chemotherapy in early-stage breast cancer. However, there is an ongoing debate about the optimal approach for integrating this strategy. 
+
+Supplemental content 
+
+OBJECTIVES To evaluate the association of neoadjuvant ICIs with pathologic complete 
+
+response (pCR) across molecular phenotypes, to quantify the survival benefits of ICIs beyond pCR status, and to estimate the incidence of specific adverse events. DATA SOURCES The PubMed database was searched on December 10, 2023, to identify all potential eligible studies. STUDY SELECTION Randomized clinical trials (RCTs) that assessed (neo)adjuvant ICI plus 
+
+chemotherapy in early breast cancer. DATA EXTRACTION AND SYNTHESIS Data from the eligible RCTs were extracted by 2 reviewers. An extracted individual patient data meta-analysis and a trial-level random-effect meta-analysis were performed. MAIN OUTCOME(S) AND MEASURE(S) Outcomes were pCR, event-free survival (EFS) in patients with and without pCR, and adverse events. Hazard ratios were estimated using stratified Cox proportional hazards regression models. RESULTS Nine RCTs involving 5114 patients met the inclusion criteria (2097 triple-negative breast cancer [TNBC], 1924 hormone receptor–positive [HR+]/ERBB2-negative [ERBB2−], and 1115 ERBB2+ tumors). In TNBC, the addition of ICIs was associated with an improved pCR rate regardless of programmed cell death ligand 1 (PD-L1) status (absolute improvement, >10%). In HR+/ ERBB2− tumors, the administration of ICIs was associated with improved pCR only in the PD-L1–positive (PD-L1+) population (absolute improvement, +12.2%), whereas no benefit was observed in ERBB2+ tumors. In patients with TNBC achieving a pCR, the addition of ICIs was associated with improved EFS (hazard ratio, 0.65; 95% CI, 0.42-1.00), resulting in a 5-year EFS of 92.0% with ICIs compared with 88.0% without them. In patients with residual disease, ICIs also showed better EFS (hazard ratio, 0.77; 95% CI, 0.61-0.98), resulting in a 5-year EFS of 63.3% with ICIs and 56.1% without them. Adjuvant ICI did not show numerical improvement in patients with either pCR or residual disease (all hazard ratios >1). During the neoadjuvant treatment, the incidence of grade 3 or greater immune-related adverse events with ICI was 10.3%. CONCLUSIONS AND RELEVANCE These findings suggest that neoadjuvant ICI therapy improves efficacy outcomes in early-stage TNBC and PD-L1+ HR+/ERBB2− tumors with an acceptable safety profile; however, no benefit was observed with adjuvant ICI. Given the financial and toxicity costs associated with ICIs, future research should prioritize identifying patients most likely to benefit from the addition of ICIs to neoadjuvant chemotherapy. Author Affiliations: Author affiliations are listed at the end of this article. 
+
+JAMA Oncol. doi:10.1001/jamaoncol.2024.3456 Published online August 29, 2024. 
+
+Corresponding Author: Tomas Pascual, MD, Medical Oncology Department, Hospital Clinic of Barcelona, Villarroel 170, Barcelona 08036, Spain (topascual@clinic.cat). 
+
+(Reprinted) E1 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+Research Original Investigation 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+T 
+
+he use of neoadjuvant chemotherapy is standard for most patients diagnosed with locally advanced, triplenegative breast cancer (TNBC) and ERBB2 (OMIM 164870)–positive (ERBB2+) breast cancer.1,2 Additionally, there has been a concerted effort to explore newer approaches aiming to increase the rate of pathologic complete response (pCR) and to improve survival outcomes. The introduction of immune checkpoint inhibitors (ICIs) constituted a transformative shift in the landscape of cancer treatment.3-5 Although initially assessed in melanoma,6 their success in metastatic TNBC provided the rationale to evaluate this treatment strategy also in early-stage breast cancer (EBC).7-11 Several previous randomized clinical trials (RCTs) have evaluated the efficacy of combining neoadjuvant ICIs and chemotherapy with or without extending the ICI therapy as adjuvant treatment.12-17 These trials expanded their scope beyond TNBC to encompass other molecular phenotypes, such as ERBB2+ and hormone receptor– positive (HR+)/ERBB2-negative (ERBB2−) phenotypes.16,18-21 Even though some trials met their primary objective, there is an ongoing debate to determine the optimal approach for integrating this strategy in the early setting.22 The universal administration of ICIs in (neo)adjuvant therapy raises concerns about financial implications and safety issues. To date, several aspects remain under discussion, including the role of programmed cell death ligand 1 (PD-L1) as a prognostic and predictive biomarker, ICI efficacy in different molecular phenotypes, the advantages of adjuvant ICI therapy in patients with or without pCR, and the potential safety implications. However, individual studies were underpowered to reach conclusive findings on these questions. Considering this background, we present a systematic review and meta-analysis of RCTs comparing ICIs plus chemotherapy vs chemotherapy alone in the neoadjuvant setting in patients with EBC. The aims of the study were to evaluate the association of neoadjuvant ICI therapy with pCR across molecular phenotypes, to quantify the survival benefits of ICI therapy beyond pCR status, and to estimate the overall incidence of specific adverse events (AEs). 
+
+Methods A systematic review of the literature and meta-analysis were performed to identify RCTs comparing the combination of anti– programmed cell death 1 protein (PD1) and PD-L1 ICI therapy plus chemotherapy vs chemotherapy alone in the (neo) adjuvant setting in patients with EBC. The meta-analysis was conducted according to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline23 and was registered in PROSPERO (CRD497982). 
+
+Search Strategy, Living Study Identification, and Data Extraction The PubMed database was used to identify all potential eligible published studies from inception to December 10, 2023. This study was designed with a living, semiautomated search to identify newly published studies and to promptly update the results if necessar y after the emergence of new E2 
+
+Key Points Question What is the optimal approach for integrating immune checkpoint inhibitors (ICIs) in early-stage breast cancer? Findings In this meta-analysis involving 5114 patients, neoadjuvant ICI therapy was associated with improved efficacy outcomes in early-stage triple-negative breast cancer and programmed cell death ligand 1–positive hormone receptor–positive/ERBB2-negative tumors with an acceptable safety profile. However, in triple-negative breast cancer, no benefit was observed with adjuvant ICI in patients with pathologic complete response or residual disease. Meaning These results favor neoadjuvant over adjuvant ICI therapy in the treatment of early-stage breast cancer. 
+
+evidence.24,25 The search strategy, including the living search strategy, eligibility criteria, and the complete list of information extracted in each of the selected studies, is available in the eMethods in Supplement 1. Kaplan-Meier curves from existing publications were used to reconstruct individual patient data and to conduct a pooled analysis of survival outcomes in patients with and without pCR.26,27 More information regarding the process of creating the extracted individual patient data can be found in the eMethods in Supplement 1. The risk of bias of eligible studies was assessed comprehensively according to the Cochrane Collaboration’s risk of bias tool.28 
+
+Outcomes The coprimary end points for this analysis were (1) pCR, defined as ypT0/is ypN0, in each of the breast cancer phenotypes and (2) event-free survival (EFS) in patients with and without pCR. To summarize survival outcomes, invasive disease–free survival was pooled with EFS. Secondary end points include the pCR rate according to PD-L1 status and by breast cancer phenotype. The PD-L1 expression was measured by immunohistochemistry, as prespecified in each study (eTable 1 in Supplement 1). Safety end points were the percentage of AEs of any grade, percentage of grade 3 or higher AEs, and percentage of immune-related AEs (irAEs) per treatment arm during the neoadjuvant phase. 
+
+Statistical Analysis To summarize the overall effect, odds ratio (ORs) with 95% CIs were calculated for pCR, with ORs greater than 1 indicating higher odds of pCR for patients who received the ICI treatment. Numbers and percentages with 95% CIs were also calculated per treatment arm. For the EFS analysis, hazard ratios with 95% CIs were calculated, with hazard ratios less than 1 indicating a risk reduction in the group of patients who received ICI treatment. For the trial-level meta-analysis, random models were fitted.29 Heterogeneity estimation was calculated by means of I2, which estimates the percentage of total variability due to between-studies heterogeneity. Funnel plot analysis and the Egger test were performed to detect publication bias. For the extracted individual patient data metaanalysis, a stratified Cox proportional hazards regression model 
+
+JAMA Oncology Published online August 29, 2024 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+jamaoncology.com 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+was used to estimate hazard ratios with the study as a stratification factor. We used the 5-year survival rates derived from the extracted individual patient data to estimate the number needed to treat to prevent 1 event.30 To quantify the potential contribution of adjuvant ICI therapy in patients with and without pCR, the extracted individual patient data were analyzed. First, among patients who received neoadjuvant ICI therapy and achieved pCR, we calculated an unadjusted hazard ratio for the cross-trial comparison between patients receiving and not receiving adjuvant ICI therapy (all patients were randomized to the experimental arms). Second, to identify the possibility of comparing trials involving populations with distinct prognosis, we calculated the hazard ratios for patients who achieved a pCR assigned to the control arm (patients who did not receive ICI therapy), comparing those enrolled in trials designed with and without adjuvant ICI therapy. A hazard ratio near 1 would suggest similar prognoses across these trials. Third, based on the outcomes of the previous points, we calculated the ratio of hazard ratios to adjust for a potential prognostic bias. A final ratio less than 1 would indicate a risk reduction with the use of adjuvant ICI therapy.31,32 The same procedure was performed to calculate the contribution of adjuvant ICI in patients with residual disease. All analyses were undertaken using R statistical software, version 4.3.1 (R Foundation). 
+
+Results The literature search identified 65 records, of which 9 RCTs met the eligibility criteria and were included in the analysis12,13,15-21 (eFigure 1 in Supplement 1). Information related to study design and trial characteristics is summarized in the Table. Risk of bias of included trials is graphically summarized in eFigure 2 in Supplement 1. None or little concern for bias was observed, and the funnel plot showed no evidence of publication bias (eFigure 3 in Supplement 1). A total of 5114 patients with EBC (2097 triple-negative breast cancer [TNBC], 1924 hormone receptor–positive [HR+]/ ERBB2-negative [ERBB2−], and 1115 ERBB2+ tumors) were included in the present meta-analysis, of whom 2802 (54.8%) received ICIs with chemotherapy and 2312 (45.2%) received treatment without ICIs. Four different types of ICI treatments were identified in the selected RCTs (atezolizumab, pembrolizumab, durvalumab, and nivolumab). All studies included untreated stage II to III tumors, except for the GeparNuevo study,12 which also included stage I tumors. The immunotherapy treatment was exclusively omitted from the adjuvant setting in the GeparNuevo, I-SPY2,16 and NeoTRIP17 studies. In all other trials, the experimental arm received ICIs as both neoadjuvant and adjuvant treatment. 
+
+pCR by Molecular Phenotype and PD-L1 Status All 5114 patients were included in the meta-analysis evaluating pCR. In TNBC, the addition of ICI therapy was associated with an improvement in the overall pCR rate, increasing from 46.6% to 59.9% (ie, Δ = 13.3%; OR, 1.64; 95% CI, 1.19-2.25). The magnitude of benefit was similar in both PD-L1+ (Δ = 13.3%) jamaoncology.com 
+
+Original Investigation Research 
+
+and PD-L1− tumors (Δ = 10.9%) (Figure 1). No heterogeneity was found across the pCR estimation among PD-L1 subgroups (I2 = 0%) (eFigure 4 in Supplement 1). In HR+/ERBB2− tumors, the addition of ICI improved the overall pCR rate from 14.8% to 24.6% (Δ = 9.8%; OR, 1.87; 95% CI, 1.49-2.36). However, the benefit was mainly driven by the PD-L1+ cohort (Δ = 12.2%), whereas only a marginal benefit was observed in PD-L1− tumors (Δ = 4.1%). Subgroup analysis according to the estrogen receptor expression was also presented (eFigure 5 in Supplement 1). In ERBB2+ tumors, no benefit was observed with the addition of ICIs. The difference in pCR rates, with and without ICIs, in the overall, PD-L1+, and PD-L1− populations were 2.2%, 8.3%, and −6.9%, respectively (Figure 1; eFigure 4 in Supplement 1). 
+
+ICI Therapy and Survival Outcomes Beyond pCR Status in Patients With TNBC To evaluate the survival benefits of ICI therapy in TNBC beyond the scope of pCR status, a pooled analysis was conducted with the extracted individual patient data focusing on the overall cohort, patients who achieved pCR, and those with residual disease. In the overall cohort (n = 2064), the use of ICIs was associated with improved EFS outcomes (hazard ratio, 0.69; 95% CI, 0.57-0.84) (eFigure 6 in Supplement 1). The 5-year EFS rates for patients receiving and not receiving ICI therapy were 80.0% and 71.8%, respectively. On the basis of these estimations, a total of 12 patients need to be treated with ICI therapy to prevent 1 EFS event during the first 5 years. Among patients with pCR (n = 997), the addition of ICIs was also associated with an improvement in EFS (hazard ratio, 0.65; 95% CI, 0.42-1.00) (Figure 2A). The ICI group achieved a 5-year EFS rate of 92.0% compared with 88.0% for the nonICI group (Δ = 4.0%). Similar results were obtained in the triallevel meta-analysis and after the exclusion of GeparNuevo and I-SPY2, because ICIs were not administered in the adjuvant setting in these trials (Figure 2C; eFigure 7 in Supplement 1). Among patients with residual disease (n = 791), the addition of ICIs was statistically associated with improved EFS outcomes (hazard ratio, 0.77; 95% CI, 0.61-0.98) (Figure 2B). The ICI group displayed a 5-year EFS rate of 63.3% compared with 56.1% for the non-ICI group (Δ = 7.2%). Similar results were obtained in the sensitivity analysis (Figure 2D; eFigure 8 in Supplement 1). 
+
+Contribution of Adjuvant ICI on Patients With TNBC Achieving PCR at Surgery An exploratory analysis was conducted to assess the survival outcomes among patients who achieved pCR after neoadjuvant ICI therapy, according to treatment with or without adjuvant ICIs. For this purpose, patients with pCR in the experimental arm of KEYNOTE-522 15 and IMpassion031 13 were compared with patients with pCR in the experimental arm of GeparNuevo and I-SPY2. The EFS outcomes were similar regardless of the administration of adjuvant ICI therapy if a pCR was achieved: the 5-year EFS rates with and without adjuvant ICI therapy were 92.1% and 92.8%, respectively (hazard ratio, 0.88; 95% CI, 0.31-2.46) (Figure 3A). In patients randomized to the control arms of the same trials and who achieved a (Reprinted) JAMA Oncology Published online August 29, 2024 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+E3 
+
+Research Original Investigation 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+Table. Main Characteristics of the Studies Included in the Systematic Review 
+
+E4 
+
+Clinical trial 
+
+Year 
+
+Sample size 
+
+Study design 
+
+Key inclusion criteria 
+
+Stratification factors 
+
+Neoadjuvant treatment 
+
+Adjuvant treatment 
+
+Primary end point 
+
+GeparNuevo12 
+
+2019 
+
+174 
+
+Phase 2, randomized, double-blinded (1:1) 
+
+TNBC, cT1b-4 cN0-3, BC 
+
+sTILS (low vs intermediate vs high) 
+
+Exp: (Nab-P followed by AC) + Durva; control: (Nab-P followed by AC) + Pbo 
+
+Exp: physician’s pCR in ITT choice; control: physician’s choice 
+
+KEYNOTE-52215 2020 
+
+1174 
+
+Phase 3, randomized, double-blinded (2:1) 
+
+TNBC cT1 cN1-2 or T2-4 cN0-2 BC 
+
+Nodal status (positive or negative), tumor size (T1/2 or T3/4), Cb (every 1 wk or 3 wk) 
+
+Exp: (CbP followed by AC or EC) + pembro; control: (CbP followed by AC or EC) + Pbo 
+
+Exp: pembro; control: Pbo 
+
+pCR and EFS in ITT 
+
+IMpassion03113 2020 
+
+333 
+
+Phase 3, randomized, double-blinded (1:1) 
+
+TNBC cT2-4 cN0-3 BC 
+
+Disease stage, PD-L1 IC (≥1% or <1%) 
+
+Exp: (Nab-P followed by AC) + At; control: (Nab-P followed by AC) + Pbo 
+
+Exp: atezolizumab; control: NA (unblinded) 
+
+pCR in ITT and PD-L1 positive 
+
+I-SPY216 
+
+2020 
+
+250 
+
+Phase 2, adaptive randomization, open-label 
+
+HR+/ERBB− NR MammaPrint high-risk or TNBC, cT2-4 cN0-3 BC 
+
+Exp: P + pembro followed by AC; control: P followed by AC 
+
+Exp: physician’s pCR in mITT choice; control: physician’s choice 
+
+NeoTRIP17 
+
+2022 
+
+280 
+
+Phase 3, randomized, open-label (1:1) 
+
+TNBC cT1cN1, cT2cN1, cT3cN0, or clinical stage III BC 
+
+Exp: Cb + Nab-P + Geographic area, disease stage, PD-L1 At; control: Cb + Nab-P status (IC 0 or IC 1, 2, or 3) 
+
+IMpassion05020 2022 
+
+454 
+
+Phase 3, randomized, double-blinded (1:1) 
+
+ERBB-positive, cT2-4 cN1-3 BC 
+
+Tumor stage (T2 vs T3-4), HR status (positive or negative), PD-L1 status (IC 0 or IC 1/2/3) 
+
+KEYNOTE-75619 2023 
+
+1278 
+
+Phase 3, randomized, double-blinded (2:1) 
+
+ER+/ERBB− HG 3 cT1-2 (≥2 cm) cN1-2 or cT3-4 cN0-2 BC 
+
+CheckMate 7FL18 
+
+2023 
+
+510 
+
+Phase 3, randomized, double-blinded (1:1) 
+
+APTneo21 
+
+2023 
+
+661 
+
+Phase 3, randomized, open-label (2:1) 
+
+Exp: AC/EC/FECC; control: AC/EC/FEC 
+
+EFS in ITT 
+
+Exp: (AC followed by THP) + At; control: (AC followed by THP) + Pbo 
+
+Exp: HP or T-DM1 + At; control: HP or T-DM1 + Pbo 
+
+pCR in ITT and PD-L1-positive 
+
+Geographic area, PD-L1 CPS (≥1 or <1), AC frequency (every 3 wk or 2 wk), ER status (≥10% or <10%) 
+
+Exp: (P followed by AC) + pembro; control: (P followed by AC) + Pbo 
+
+Exp: pembro + pCR and EFS in ET; control: Pbo ITT + ET 
+
+ER+/ERBB− HG 3 with ER ≥1% or HG 2 with ER 1%-10%; cT1-2 (≥2 cm) cN1-2 or T3-4 cN0-2 BC 
+
+PD-L1 IC (≥1% or <1%), tumor grade (3 or 2), nodal status (positive or negative), AC frequency (every 3 wk or 2 wk) 
+
+Exp: (P followed by AC) + nivo; control: (P followed by AC) + Pbo 
+
+Exp: nivo + ET; control: Pbo + ETa 
+
+pCR in mITT 
+
+ERBB2+ cT1cN1, cT2cN1 cT3cN0 or clinical stage III BC 
+
+Geographic area, disease stage, HR status (positive vs negative), PD-L1 status (IC 0 or IC 1, 2, or 3) 
+
+Exp1: (AC 3 times followed by HPCbT 3 times) + At; Exp2: HPCbT 6 times + At; control: HPCbT 6 times 
+
+Exp1: HP or T-DM1b; arm Exp2: HP or T-DM1b + At; control: HP or T-DM1b 
+
+EFS in ITT 
+
+Abbreviations: A, doxorubicin; At, atezolizumab; BC, breast cancer; C, cyclophosphamide; Cb, carboplatin; CPS, combined positive score; Durva, durvalumab; E, epirubicin; Exp, experimental; ET, endocrine therapy; EFS, event-free survival; ER, estrogen receptor; F, 5-fluoracil; H, trastuzumab; HG, histologic grade; HR, hormone receptor; IC, immune cells; ITT, intention to treat; mITT, modified intention to treat; NA, nonadjuvant treatment; Nab, nanoparticle albumin bound; nivo, nivolumab; NR, not reported; P, pertuzumab; pembro, pembrolizumab; Pbo, placebo; pCR, pathologic complete response; 
+
+PD-L1, programmed cell death–ligand 1; T, paclitaxel; T-DM1, trastuzumab emtansine; sTILS, stromal tumor infiltrating lymphocytes; TNBC, triple-negative breast cancer. 
+
+pCR without ICI therapy, the 5-year EFS was 88.8% vs 84.2% (hazard ratio, 0.65; 95% CI, 0.28-1.48) (Figure 3B). The ratio of hazard ratios (hazard ratio, 1.35; 95% CI, 0.36-5.12), adjusted for outcomes in the control arm, did not show superior survival outcomes with the use of adjuvant ICI therapy in patients with pCR (Figure 3C-D). 
+
+tween patients receiving (n = 359) and not receiving (n = 49) adjuvant ICI therapy showed an EFS hazard ratio of 1.64 (95% CI, 0.88-3.03). After adjusting for outcomes in the control arms, the ratio of hazard ratios (hazard ratio, 1.23; 95% CI, 0.602.53) did not suggest improved survival outcomes when using adjuvant ICI therapy in patients with residual disease, after previous neoadjuvant ICI therapy (Figure 4). 
+
+a 
+
+After protocol amendment 3, the study was unblinded in the adjuvant phase. Participants in arm B did not receive placebo. 
+
+b 
+
+As of May 2021, patients with residual disease at surgery could receive T-DM1. 
+
+Contribution of Adjuvant ICI on Patients With TNBC and Residual Disease at Surgery 
+
+Safety Analysis 
+
+The same analysis was conducted to quantify the potential benefit of adjuvant ICI in patients with residual disease. Among patients who received neoadjuvant ICI, the comparison be- 
+
+During the neoadjuvant phase, the use of ICIs was associated with an increase of 9.5 percentage points in the rate of grade 3 or higher AEs (63.6% [1256 of 1974] vs 54.1% [861 of 1591] in 
+
+JAMA Oncology Published online August 29, 2024 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+jamaoncology.com 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+Original Investigation Research 
+
+Figure 1. Pathologic Complete Response (pCR) by Molecular Phenotype Groups and Programmed Cell Death Ligand 1 (PD-L1) Expression B 
+
+C 
+
+HR+/ERBB– 
+
+ERBB+ 
+
+100 
+
+100 
+
+80 
+
+80 
+
+80 
+
+60 
+
+60 
+
+60 
+
+pCR, % 
+
+100 
+
+pCR, % 
+
+pCR, % 
+
+A TNBC 
+
+40 
+
+40 
+
+40 
+
+20 
+
+20 
+
+20 
+
+0 
+
+0 ITT (n = 2075) 
+
+PD-L1+ (n = 1421) 
+
+PD-L1– (n = 520) 
+
+ICI 
+
+No ICIs 
+
+0 ITT (n = 1924) 
+
+PD-L1+ (n = 1143) 
+
+PD-L1– (n = 645) 
+
+ITT (n = 1115) 
+
+PD-L1+ (n = 218) 
+
+PD-L1– (n = 236) 
+
+ERBB2+ indicates ERBB2 positive; HR+/ERBB2−, hormone receptor positive/ERBB2 negative; ICIs, immune checkpoint inhibitors; ITT, intention to treat; TNBC, triple-negative breast cancer. 
+
+patients receiving and not receiving ICI therapy, respectively). The percentages of patients who discontinued any drug due to AEs in patients receiving and not receiving ICI therapy were 20.4% (403 of 1974) and 12.2% (194 of 1591), respectively. The most common AEs were nausea, fatigue, and neutropenia, with similar percentages in both treatment arms. In patients receiving ICI therapy, the incidences of hypothyroidism and hyperthyroidism of any grade were 13.3% (341 of 2573) and 6.1% (156 of 2573), respectively. Overall, 10.3% of patients (176 of 1717) had grade 3 or higher irAEs (eTable 2 and eFigure 9 in Supplement 1). 
+
+Discussion This comprehensive meta-analysis combines data from 9 RCTs involving 5114 patients to assess the efficacy and safety of combining ICIs with neoadjuvant chemotherapy in EBC. The analysis is focused on clarifying the clinical implications and addressing contentious issues related to the use of anti-PD1/ PD-L1 drugs. This includes unanswered questions such as the benefit of ICI beyond pCR status, the utility of adjuvant ICI therapy and the role of PD-L1 as a prognostic and predictive biomarker for efficacy outcomes. Our findings reveal an improvement in pCR rates with the addition of ICIs to neoadjuvant chemotherapy in patients with untreated HR+/ERBB− and TNBC. This improvement, however, was not mirrored in patients with ERBB+ tumors. In HR+/ERBB− EBC, the increase in pCR, quantified at 9.8%, was predominantly observed in the PD-L1+ subgroup. Conversely, in the PD-L1− population, this clinical benefit was not evident. Furthermore, in the case of TNBC, the addition of ICIs consistently improved the overall pCR rates, irrespective of PD-L1 status. Consistent with previous studies,1,2 this meta-analysis confirms that pCR status is associated with survival in patients with TNBC, with patients achieving pCR experiencing a 30% absolute increase in 5-year EFS rates. Importantly, the findings presented in this meta-analysis show that neoadjuvant ICI is not jamaoncology.com 
+
+only associated with enhanced pCR rates but also extends its impact beyond pCR. Among patients with and without pCR at surgery, patients who had received neoadjuvant ICI therapy had better survival outcomes independent of the administration of adjuvant ICI therapy. This finding suggests that the benefits of ICI therapy extend to various stages of disease response, reinforcing its potential utility in the management of TNBC and transcending the conventional parameters of tumor pathologic assessment. Indeed, a state of enhanced immune infiltration in residual disease, potentially induced by neoadjuvant ICI therapy, identifies distinct prognostic groups in TNBC.33 Similarly, neoadjuvant pertuzumab also showed an improvement in survival outcomes that extends the pCR status.34 A topic of special interest in this study was the evaluation of the benefit of adjuvant ICI therapy following surgery after neoadjuvant ICI therapy. Interestingly, no numerical improvement was observed with the use of adjuvant ICI therapy regardless of pCR or presence of residual disease at surgery. The analysis in the subset of patients with residual disease is constrained by the small sample size, but the estimated hazard ratio suggests minimal or null benefit from the use of adjuvant ICI therapy. This trend, favoring neoadjuvant over adjuvant immunotherapy, has been previously identified in other malignant tumors, including melanoma.35 Additionally, the recent data from the ALEXANDRA/IMpassion030 trial showed no benefit from the addition of adjuvant atezolizumab to chemotherapy in patients with TNBC.36 These results support the preference for preoperative immunotherapy, which, owing to the release of neoantigens from the tumor tissue, leads to priming of the immune response and eradication of micrometastatic disease.37 This consideration is particularly pertinent in the context of adjuvant treatment for residual disease, for which alternative therapeutic options, such as capecitabine38 or olaparib,39 exist, alongside various clinical trials exploring other approaches, such as antibody-drug conjugates.40 However, the comparison presented in this meta-analysis evaluating adjuvant ICI therapy in patients with prior ICI exposure (Reprinted) JAMA Oncology Published online August 29, 2024 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+E5 
+
+Research Original Investigation 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+Figure 2. Event-Free Survival (EFS) Outcomes in Patients With Triple-Negative Breast Cancer A EFS in patients who achieved pCR with and without receiving ICIs as (neo)adjuvant treatment 
+
+1.0 
+
+ICI cohort 
+
+0.8 
+
+Non-ICI cohort 
+
+EFS 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+242 512 
+
+137 297 
+
+6 
+
+Time, y No. at risk Non-ICI cohort ICI cohort B 
+
+341 656 
+
+332 639 
+
+310 608 
+
+294 581 
+
+EFS in patients who did not achieve pCR with and without receiving ICIs as (neo)adjuvant treatment 1.0 
+
+0.8 ICI cohort 
+
+EFS 
+
+0.6 Non-ICI cohort 0.4 
+
+0.2 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+153 210 
+
+73 117 
+
+6 
+
+Time, y No. at risk Non-ICI cohort ICI cohort C 
+
+383 408 
+
+317 345 
+
+244 288 
+
+204 258 
+
+Trial-level meta-analysis in patients with pCR at surgery 
+
+Source 
+
+ICI 
+
+ICI arm, No. 
+
+Non-ICI arm, No. 
+
+Favors ICIs and chemotherapy 
+
+HR (95% CI) 
+
+KEYNOTE-522 
+
+Pembrolizumab 
+
+495 
+
+217 
+
+0.65 (0.39-1.08) 
+
+Impassion031 
+
+Atezolizumab 
+
+95 
+
+69 
+
+0.71 (0.23-2.20) 
+
+GeparNuevo 
+
+Durvalumab 
+
+47 
+
+38 
+
+0.22 (0.05-1.01) 
+
+I-SPY2 
+
+Pembrolizumab 
+
+19 
+
+17 
+
+No estimation 
+
+Overall (random effects) 
+
+Favors chemotherapy 
+
+0.60 (0.39-0.94) 
+
+Heterogeneity: I2 = 0% 0.1 
+
+1 
+
+10 
+
+HR (95% CI) D Trial-level meta-analysis in patients who did not achieve pCR at surgery 
+
+Source 
+
+ICI 
+
+ICI arm, No. 
+
+Favors ICIs and chemotherapy 
+
+Non-ICI arm, No. 
+
+HR (95% CI) 0.72 (0.54-0.96) 
+
+KEYNOTE-522 
+
+Pembrolizumab 
+
+289 
+
+173 
+
+Impassion031 
+
+Atezolizumab 
+
+70 
+
+99 
+
+1.02 (0.61-1.70) 
+
+GeparNuevo 
+
+Durvalumab 
+
+40 
+
+48 
+
+0.68 (0.30-1.55) 
+
+I-SPY2 
+
+Pembrolizumab 
+
+9 
+
+63 
+
+0.78 (0.18-3.38) 
+
+Overall (random effects) 
+
+Favors chemotherapy 
+
+0.77 (0.61-0.98) 
+
+Heterogeneity: I2 = 0% 0.1 
+
+1 
+
+10 
+
+HR (95% CI) 
+
+E6 
+
+JAMA Oncology Published online August 29, 2024 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+The Kaplan-Meier curves were generated with the extracted individual patient data from the KEYNOTE-522,15 IMpassion031,13 GeparNuevo,12 and I-SPY216 trials. The EFS hazard ratio (HR) in the I-SPY2 study could not be estimated because no events were observed in the arm without immune checkpoint inhibitor (ICI) therapy. pCR indicates pathologic complete response. 
+
+jamaoncology.com 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+Original Investigation Research 
+
+Figure 3. Contribution of Adjuvant Immune Checkpoint Inhibitor (ICI) Therapy in Patients With Triple-Negative Breast Cancer Who Achieved Pathologic Complete Response (pCR) A Patients with pCR who received neoadjuvant ICI therapy (experimental arms) 
+
+1.0 
+
+0.8 
+
+EFS 
+
+0.6 
+
+0.4 Not receiving adjuvant ICI therapy Receiving adjuvant ICI therapy 
+
+0.2 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+13 499 
+
+0 297 
+
+4 
+
+5 
+
+16 226 
+
+6 131 
+
+6 
+
+Time, y No. at risk Not receiving adjuvant ICI therapy Receiving ICI adjuvant ICI therapy 
+
+B 
+
+66 590 
+
+63 576 
+
+47 561 
+
+38 543 
+
+Patients with pCR who did not receive neoadjuvant ICI therapy (control arms) 1.0 
+
+0.8 
+
+EFS 
+
+0.6 
+
+0.4 
+
+Trials without adjuvant ICI therapy Trials with adjuvant ICI therapy 
+
+0.2 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+6 
+
+Time, y No. at risk Trials without adjuvant ICI therapy Trials with adjuvant ICI therapy 
+
+C 
+
+55 286 
+
+52 280 
+
+47 263 
+
+39 255 
+
+Forest plot of HRs Favors trials with adjuvant ICI therapy 
+
+HR (95% CI) 
+
+Group Patients with pCR receiving adjuvant ICI therapy (experimental arms) 
+
+0.88 (0.31-2.46) 
+
+Patients with pCR not receiving adjuvant ICI therapy (control arms) 
+
+0.65 (0.28-1.48) 0.1 
+
+Favors trials without adjuvant ICI therapy 
+
+1 
+
+10 
+
+HR (95% CI) 
+
+D Forest plot of ratio of HRs 
+
+Favors greater effect of adjuvant ICI therapy 
+
+Group 
+
+HR (95% CI) 
+
+Ratio of HRs for experimental and control arms 
+
+1.35 (0.36-5.12) 0.1 
+
+Favors greater effect of non-ICI adjuvant therapy 
+
+1 
+
+10 
+
+HR (95% CI) 
+
+relies on cross-trial comparisons; consequently, the results could be biased and should be interpreted with caution. The OptimICE-PCR trial,41 which is currently evaluating adjuvant jamaoncology.com 
+
+The Kaplan-Meier curves were generated with the extracted individual patient data from the KEYNOTE-522,15 IMpassion031,13 GeparNuevo,12 and I-SPY216 trials. EFS indicates event-free-survival; HR, hazard ratio. 
+
+pembrolizumab in patients with TNBC who have achieved pCR after neoadjuvant chemotherapy and pembrolizumab, will help to generate definitive evidence. (Reprinted) JAMA Oncology Published online August 29, 2024 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+E7 
+
+Research Original Investigation 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+Figure 4. Contribution of Adjuvant Immune Checkpoint Inhibitor (ICI) Therapy in Patients With Triple-Negative Breast Cancer With Residual Disease A Patients with residual disease who received neoadjuvant ICI therapy (experimental arms) 
+
+1.0 
+
+0.8 
+
+EFS 
+
+0.6 
+
+0.4 
+
+Not receiving adjuvant ICI therapy Receiving adjuvant ICI therapy 
+
+0.2 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+5 205 
+
+0 117 
+
+4 
+
+5 
+
+29 124 
+
+12 61 
+
+6 
+
+Time, y No. at risk Not receiving adjuvant ICI therapy Receiving ICI adjuvant ICI therapy 
+
+B 
+
+49 359 
+
+43 302 
+
+37 251 
+
+28 230 
+
+Patients with residual disease who did not receive neoadjuvant ICI therapy (control arms) 1.0 
+
+0.8 
+
+EFS 
+
+0.6 
+
+0.4 
+
+Trials without adjuvant ICI therapy Trials with adjuvant ICI therapy 
+
+0.2 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+6 
+
+Time, y No. at risk Trials without adjuvant ICI therapy Trials with adjuvant ICI therapy 
+
+C 
+
+111 272 
+
+98 219 
+
+74 170 
+
+56 148 
+
+Forest plot of HRs Favors trials with adjuvant ICI therapy 
+
+HR (95% CI) 
+
+Group Patients with residual disease receiving adjuvant ICI therapy (experimental arms) 
+
+1.64 (0.88-3.03) 
+
+Patients without residual disease receiving adjuvant ICI therapy 
+
+1.33 (0.92-1.93) 0.1 
+
+Favors trials without adjuvant ICI therapy 
+
+1 
+
+10 
+
+HR (95% CI) 
+
+D Forest plot of ratio of HRs 
+
+Favors greater effect of adjuvant ICI therapy 
+
+Group 
+
+HR (95% CI) 
+
+Ratio of HRs for experimental and control arms 
+
+1.23 (0.60-2.53) 0.1 
+
+Favors greater effect of non-ICI adjuvant therapy 
+
+1 
+
+10 
+
+HR (95% CI) 
+
+The safety profile of ICIs plus chemotherapy aligns with the established AEs of each drug. Adding ICIs to neoadjuvant chemotherapy for EBC did not significantly amplify tradiE8 
+
+The Kaplan-Meier curves were generated with the extracted individual patient data from the KEYNOTE-522,15 IMpassion031,13 GeparNuevo,12 and I-SPY216 trials. EFS indicates event-free-survival; HR, hazard ratio. 
+
+tional chemotherapy-associated AEs, such as gastrointestinal symptoms or hematologic complications. However, irAEs are noteworthy, with 10.3% being severe (grade ≥3) in pa- 
+
+JAMA Oncology Published online August 29, 2024 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+jamaoncology.com 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+tients receiving ICI therapy. These serious irAEs can affect various organs, highlighting the need for careful monitoring when using ICIs in early treatments.11 It is important to pursue evaluation of long-term irAEs and incidence of irAEs during adjuvant therapy once the relevant data become available. Upfront identification of patients with EBC who benefit the most from neoadjuvant ICI therapy is needed. To this aim, comprehensive molecular classifications beyond evaluating tumorinfiltrating lymphocytes and PD-L1 status comprehensive classifications has been developed for TNBC.42 Additionally, distinct immune phenotypes based on CD8 expression, in the stroma or tumor, have been described as inflamed, excluded, and desert types.43 These emerging insights could help to better personalize treatment and improve patient selection in future trials. In HR+/ERBB2− tumors, the CheckMate 7FL and KEYNOTE-756 trials presented an exploratory analysis, showing PD-L1 expression as the biomarker more consistently associated with pCR.44,45 
+
+Strengths and Limitations This study has several strengths. Strengths of this metaanalysis include (1) a comprehensive evaluation of ICI benefits across breast cancer phenotypes; (2) its aim to provide the best available evidence to date to answer clinically relevant questions, such as the potential contribution of adjuvant ICI therapy or the benefit of neoadjuvant ICI therapy beyond pCR; (3) the considerable sample size and long follow-up period; (4) large statistical power for subgroup analysis; and (5) the evaluation of both efficacy and safety outcomes. This study also has limitations that need to be acknowledged. First, original individual patient data were lacking. Sec- 
+
+ond, there was heterogeneity in drug combinations and in the definition of survival outcomes. Third, the analysis assessing the contribution of adjuvant ICI therapy relied on cross-trial comparisons, albeit with adjustments to mitigate potential bias. In particular, the assessment of the impact of adjuvant ICI therapy in patients with residual disease is limited by a small sample size, thus also carrying a potential risk of type II error. Fourth, although several assays have been approved for evaluating PD-L1 expression, a previous study described interassay discordance.46 This variability in testing methods across RCTs could potentially affect the conclusions drawn from our analysis. Fifth, non-TNBC trials have not yet reported survival outcomes. 
+
+Conclusion The results of this meta-analysis demonstrate that neoadjuvant ICI therapy is associated with an enhanced pCR rate in patients with early-stage TNBC and PD-L1+ HR+/ERBB2− tumors. The incorporation of ICIs in the neoadjuvant setting was associated with improved survival outcomes in patients with TNBC. However, no benefit was observed with adjuvant ICI therapy. Given the financial and toxicity costs associated with ICIs, future research should prioritize identifying patients most likely to benefit from the addition of ICIs to neoadjuvant chemotherapy. Moreover, considering our findings, it is crucial to investigate whether adjuvant therapy could be safely omitted, potentially redefining treatment paradigms in EBC. 
+
+Hospital, and Breast Cancer Group, Vall D’Hebron Institute of Oncology, Barcelona, Spain (Oliveira). 
+
+ARTICLE INFORMATION Accepted for Publication: April 24, 2024. Published Online: August 29, 2024. doi:10.1001/jamaoncol.2024.3456 Author Affiliations: SOLTI Cancer Research Group, Barcelona, Spain (Villacampa, Tolosa, Sánchez-Bayona, Ferrero-Cafiero, Salvador, Oliveira, Pascual); Statistics Unit, Vall d’Hebron Institute of Oncology, Barcelona, Spain (Villacampa, Navarro); Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden (Matikas, Papakonstantinou); Department of Breast Cancer, Endocrine Tumours, and Sarcoma, Karolinska University Hospital, Stockholm, Sweden (Matikas, Papakonstantinou); Université Paris-Saclay, Gustave Roussy, INSERM U981, Villejuif, France (Ribeiro); Département de Médecine Oncologique, Gustave Roussy, Villejuif, France (Ribeiro); Translational Genomics and Targeted Therapies in Solid Tumors, August Pi i Sunyer Biomedical Research Institute, Barcelona, Spain (Schettini, Martínez-Sáez, Prat, Pascual); Medical Oncology Department, Hospital Clinic of Barcelona, Barcelona, Spain (Schettini, Martínez-Sáez, Prat, Pascual); Faculty of Medicine and Health Sciences, University of Barcelona, Barcelona, Spain (Schettini, Prat, Pascual); Hospital Universitario 12 de Octubre, Madrid, Spain (Tolosa, Sánchez-Bayona); Reveal Genomics, Barcelona, Spain (Prat); Institute of Oncology–Quirón, Barcelona, Spain (Prat); Medical Oncology Department, Vall d’Hebron University 
+
+jamaoncology.com 
+
+Original Investigation Research 
+
+Author Contributions: Drs Villacampa and Pascual had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Concept and design: Villacampa, Papakonstantinou, Pascual. Acquisition, analysis, or interpretation of data: Villacampa, Navarro, Matikas, Ribeiro, Schettini, Tolosa, Martínez-Sáez, Sanchez-Bayona, Ferrero-Cafiero, Salvador, Prat, Oliveira, Pascual. Drafting of the manuscript: Villacampa, Navarro, Sanchez-Bayona, Prat, Pascual. Critical review of the manuscript for important intellectual content: Matikas, Ribeiro, Schettini, Tolosa, Martínez-Sáez, Sanchez-Bayona, Ferrero-Cafiero, Salvador, Papakonstantinou, Prat, Oliveira, Pascual. Statistical analysis: Villacampa, Navarro, Pascual. Obtained funding: Prat. Administrative, technical, or material support: Navarro, Prat. Supervision: Navarro, Ribeiro, Martínez-Sáez, Sanchez-Bayona, Prat, Oliveira, Pascual. Critical revision of the manuscript: Salvador. Conflict of Interest Disclosures: Dr Villacampa reported receiving personal fees from Pfizer, Merck Sharpe and Dohme, GlaxoSmithKline, Pierre Fabrer, AstraZeneca, and Reveal Genomics outside the submitted work. Dr Matikas reported being a speaker or consultant (no personal fees) for Roche, Seagen, and Veracyte and research funding paid to 
+
+his instution from Merck, Novartis, AstraZeneca, and Veracyte outside the submitted work. Dr Schettini reported receiving personal fees from Novartis, Gilead, Daiichy Sankyo and receiving travel expenses from Novartis, Gilead, and Daiichy Sankyo outside the submitted work. Dr Tolosa reported receiving personal fees from Pfizer, Novartis, Astra-Zeneca, and Eli Lilly outside the submitted work. Dr Martínez-Sáez reported receiving personal fees from Roche, Novartis, Reveal Genomics, Eisai, and Daiichi Sankyo outside the submitted work. Dr Sánchez-Bayona reported receiving travel grants from Pfizer, Gilead, AstraZeneca, and Novartis; receiving honoraria for speaker or advisory board participation from Novartis, Lilly, AstraZeneca, Daiichi Sankyo, Gilead, Roche, GlaxoSmithKline, Clovis Oncology, Seagen, and Accord; and having nonfinancial interests as a member of the ESMO Young Oncologists Committee and scientific secretary of the Spanish Society of Medical Oncology. Dr Prat reported receiving advisory and consulting fees from Roche, Pfizer, Novartis, Amgen, BMS, Puma, Oncolytics Biotech, MSD, Guardant Health, Peptomyc and Lilly, lecture fees from Roche, Pfizer, Novartis, Amgen, BMS, Nanostring Technologies, and Daiichi Sankyo; institutional financial interests from Boehringer, Novartis, Roche, Nanostring, Sysmex Europa GmbH, Medica Scientia Innovation Research, SL, Celgene, Astellas, and Pfizer; being a stockholder in and consultant for Reveal Genomics and SL; and having a patent for HER2DX licensed to Reveal Genomics, a patent for TNBCDX pending, and a 
+
+(Reprinted) JAMA Oncology Published online August 29, 2024 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+E9 
+
+Research Original Investigation 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+patent for DNADX licensed to Reveal Genomics. Dr Oliveira reported receiving grants from AstraZeneca, Ayala Pharmaceuticals, Boehringer-Ingelheim, Gilead, Novartis, Roche, Seagen, Zenith Epigenetics, and PUMA Biotechnology; personal fees from AstraZeneca, Gilead, Novartis, Roche, Seagen, Daiichi Sankyo/ AstraZeneca, iTEOS, Lilly, Merck Sharpe and Dohme, Pierre-Fabre, Relay Therapeutics, Eisai, Libbs, and Pfizer; and travel expenses from AstraZeneca, Gilead, Pierre-Fabre, and Eisai outside the submitted work. Dr Pascual reported receiving personal fees from Novartis, Pfizer, AstraZeneca, Veracyte, and Lilly outside the submitted work. No other disclosures were reported. Funding/Support: Dr Schettini is supported by a Rio Hortega contract from the Instituto de Salud Carlos III (ISCIII). Dr Papakonstantinou is supported with a postdoctoral grant by the Swedish Society for Medical Research (Svenska Sällskapet för Medicinsk Forskning). Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. Data Sharing Statement: See Supplement 2. REFERENCES 1. Cortazar P, Zhang L, Untch M, et al. Pathological complete response and long-term clinical benefit in breast cancer: the CTNeoBC pooled analysis. Lancet. 2014;384(9938):164-172. doi:10.1016/S0140-6736 (13)62422-8 2. Korde LA, Somerfield MR, Carey LA, et al. Neoadjuvant chemotherapy, endocrine therapy, and targeted therapy for breast cancer: ASCO guideline. J Clin Oncol. 2021;39(13):1485-1505. doi: 10.1200/JCO.20.03399 3. Huang AC, Zappasodi R. A decade of checkpoint blockade immunotherapy in melanoma: understanding the molecular basis for immune sensitivity and resistance. Nat Immunol. 2022;23 (5):660-670. doi:10.1038/s41590-022-01141-1 4. Wang Y, Zhang H, Liu C, et al. Immune Checkpoint Modulators in Cancer Immunotherapy: Recent Advances and Emerging Concepts. Vol 15. BioMed Central; 2022. 5. Upadhaya S, Neftelinov ST, Hodge J, Campbell J. Challenges and opportunities in the PD1/PDL1 inhibitor clinical trial landscape. Nat Rev Drug Discov. 2022;21(7):482-483. doi:10.1038/d41573-02200030-4 6. Amaria RN, Reddy SM, Tawbi HA, et al. Neoadjuvant immune checkpoint blockade in high-risk resectable melanoma. Nat Med. 2018;24 (11):1649-1654. doi:10.1038/s41591-018-0197-1 7. Schmid P, Rugo HS, Adams S, et al; IMpassion130 Investigators. Atezolizumab plus nab-paclitaxel as first-line treatment for unresectable, locally advanced or metastatic triple-negative breast cancer (IMpassion130): updated efficacy results from a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol. 2020;21(1):44-59. doi:10.1016/S1470-2045(19) 30689-8 8. Cortes J, Cescon DW, Rugo HS, et al; KEYNOTE-355 Investigators. Pembrolizumab plus chemotherapy versus placebo plus chemotherapy 
+
+E10 
+
+for previously untreated locally recurrent inoperable or metastatic triple-negative breast cancer (KEYNOTE-355): a randomised, placebo-controlled, double-blind, phase 3 clinical trial. Lancet. 2020;396(10265):1817-1828. doi:10. 1016/S0140-6736(20)32531-9 9. Emens LA, Adams S, Barrios CH, et al. First-line atezolizumab plus nab-paclitaxel for unresectable, locally advanced, or metastatic triple-negative breast cancer: IMpassion130 final overall survival analysis. Ann Oncol. 2021;32(8):983-993. doi:10. 1016/j.annonc.2021.05.355 10. Villacampa G, Tolosa P, Salvador F, et al. Addition of immune checkpoint inhibitors to chemotherapy versus chemotherapy alone in first-line metastatic triple-negative breast cancer: a systematic review and meta-analysis. Cancer Treat Rev. 2022;104(January):102352. doi:10.1016/j.ctrv. 2022.102352 11. Garufi G, Carbognin L, Schettini F, et al. Updated neoadjuvant treatment landscape for early triple negative breast cancer: immunotherapy, potential predictive biomarkers, and novel agents. Cancers (Basel). 2022;14(17):4064. doi:10.3390/ cancers14174064 12. Loibl S, Untch M, Burchardi N, et al. A randomised phase II study investigating durvalumab in addition to an anthracycline taxane-based neoadjuvant therapy in early triple-negative breast cancer: clinical results and biomarker analysis of GeparNuevo study. Ann Oncol. 2019;30(8):1279-1288. doi:10.1093/annonc/mdz158 13. Mittendorf EA, Zhang H, Barrios CH, et al. Neoadjuvant atezolizumab in combination with sequential nab-paclitaxel and anthracycline-based chemotherapy versus placebo and chemotherapy in patients with early-stage triple-negative breast cancer (IMpassion031): a randomised, double-blind, phase 3 trial. Lancet. 2020;396 (10257):1090-1100. doi:10.1016/S0140-6736(20) 31953-X 14. Schmid P, Cortes J, Pusztai L, et al; KEYNOTE-522 Investigators. Pembrolizumab for early triple-negative breast cancer. N Engl J Med. 2020;382(9):810-821. doi:10.1056/NEJMoa1910549 15. Schmid P, Cortes J, Dent R, et al. Pembrolizumab or placebo plus chemotherapy followed by pembrolizumab or placebo for early-stage TNBC: updated event-free survival results from the phase III KEYNOTE-522 Study. Ann Oncol. 2023;34(suppl 2):S1257. doi:10.1016/j. annonc.2023.10.008 16. Nanda R, Liu MC, Yau C, et al. Effect of pembrolizumab plus neoadjuvant chemotherapy on pathologic complete response in women with early-stage breast cancer: an analysis of the ongoing phase 2 adaptively randomized I-SPY2 Trial. JAMA Oncol. 2020;6(5):676-684. doi:10. 1001/jamaoncol.2019.6650 17. Gianni L, Huang CS, Egle D, et al. Pathologic complete response (pCR) to neoadjuvant treatment with or without atezolizumab in triple-negative, early high-risk and locally advanced breast cancer: NeoTRIP Michelangelo randomized study. Ann Oncol. 2022;33(5):534-543. doi:10.1016/j.annonc.2022.02. 004 18. Loi S, Curigliano G, Salgado RF, et al. LBA20 A randomized, double-blind trial of nivolumab (NIVO) vs placebo (PBO) with neoadjuvant chemotherapy (NACT) followed by adjuvant endocrine therapy 
+
+(ET) ± NIVO in patients (pts) with high-risk, ER+ HER2− primary breast cancer (BC). Ann Oncol. 2023;34:S1259-S1260. doi:10.1016/j.annonc.2023. 10.010 19. Cardoso F, Mcarthur H, Schmid P, et al. KEYNOTE-756: Phase III study of neoadjuvant pembrolizumab (pembro) or placebo (pbo) + chemotherapy (chemo), followed by adjuvant pembro or pbo + endocrine therapy (ET) for early-stage high-risk ER+/HER2– breast cancer. Ann Oncol. 2023;34(suppl 2):S1260-S1261. doi:10.1016/j. annonc.2023.10.011 20. Huober J, Barrios CH, Niikura N, et al; IMpassion050 Trial Investigators. Atezolizumab with neoadjuvant anti–human epidermal growth factor receptor 2 therapy and chemotherapy in human epidermal growth factor receptor 2–positive early breast cancer: primary results of the randomized phase III IMpassion050 trial. J Clin Oncol. 2022;40(25):2946-2956. doi:10.1200/JCO.21.02772 21. Gianni L. Pathologic complete response (pCR) of neoadjuvant therapy with or without atezolizumab in HER2 positive, early high risk and locally advanced breast cancer: APTneo Michelangelo randomized trial. Cancer Res. 2024; 84(9 suppl):LBO1-02-LBO1-02. doi:10.1158/15387445.SABCS23-LBO1-02 22. Qian K, Liu Q. Narrative review on the role of immunotherapy in early triple negative breast cancer: unveiling opportunities and overcoming challenges. Transl Breast Cancer Res. 2023;4:16. doi:10.21037/tbcr-23-17 23. Page MJ, Moher D, Bossuyt PM, et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. BMJ. 2021;372:n160. doi:10.1136/bmj.n160 24. Heron L, Buitrago-Garcia D, Ipekci AM, et al. How to update a living systematic review and keep it alive during a pandemic: a practical guide. Syst Rev. 2023;12(1):156. doi:10.1186/s13643-023-02325-y 25. Riaz IB, Naqvi SAA, He H, et al. First-line systemic treatment options for metastatic castration-sensitive prostate cancer: a living systematic review and network meta-analysis. JAMA Oncol. 2023;9(5):635-645. doi:10.1001/ jamaoncol.2022.7762 26. Liu N, Zhou Y, Lee JJ. IPDfromKM: reconstruct individual patient data from published Kaplan-Meier survival curves. BMC Med Res Methodol. 2021;21(1):111. doi:10.1186/s12874-021-01308-8 27. Guyot P, Ades AE, Ouwens MJNM, Welton NJ. Enhanced secondary analysis of survival data: reconstructing the data from published Kaplan-Meier survival curves. BMC Med Res Methodol. 2012;12:9. doi:10.1186/1471-2288-12-9 28. Higgins JPT, Altman DG, Gøtzsche PC, et al; Cochrane Bias Methods Group; Cochrane Statistical Methods Group. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ. 2011;343(7829):d5928. doi:10.1136/bmj.d5928 29. IntHout J, Ioannidis JP, Borm GF. The Hartung-Knapp-Sidik-Jonkman method for random effects meta-analysis is straightforward and considerably outperforms the standard DerSimonian-Laird method. BMC Med Res Methodol. 2014;14(1):25. doi:10.1186/1471-2288-14-25 30. Altman DG, Andersen PK. Calculating the number needed to treat for trials where the 
+
+JAMA Oncology Published online August 29, 2024 (Reprinted) 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+jamaoncology.com 
+
+Neoadjuvant Immune Checkpoint Inhibitors in Early Breast Cancer 
+
+Original Investigation Research 
+
+42. Burstein MD, Tsimelzon A, Poage GM, et al. Comprehensive genomic analysis identifies novel subtypes and targets of triple-negative breast cancer. Clin Cancer Res. 2015;21(7):1688-1698. doi: 10.1158/1078-0432.CCR-14-0432 
+
+outcome is time to an event. BMJ. 1999;319(7223): 1492-1495. doi:10.1136/bmj.319.7223.1492 
+
+2024;84(9 suppl):GS01-03-GS01-03. doi:10.1158/ 1538-7445.SABCS23-GS01-03 
+
+31. Fisher DJ, Carpenter JR, Morris TP, Freeman SC, Tierney JF. Meta-analytical methods to identify who benefits most from treatments: daft, deluded, or deft approach? BMJ. 2017;356:j573. doi:10.1136/ bmj.j573 
+
+37. Bianchini G, De Angelis C, Licata L, Gianni L. Treatment landscape of triple-negative breast cancer—expanded options, evolving needs. Nat Rev Clin Oncol. 2022;19(2):91-113. doi:10.1038/s41571021-00565-2 
+
+32. Newcombe RG. MOVER-R confidence intervals for ratios and products of two independently estimated quantities. Stat Methods Med Res. 2016; 25(5):1774-1778. doi:10.1177/0962280213502144 
+
+38. Masuda N, Lee SJ, Ohtani S, et al. Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med. 2017;376(22):2147-2159. doi:10.1056/NEJMoa1612645 
+
+33. Luen SJ, Salgado R, Dieci MV, et al. Prognostic implications of residual disease tumor-infiltrating lymphocytes and residual cancer burden in triple-negative breast cancer patients after neoadjuvant chemotherapy. Ann Oncol. 2019;30 (2):236-242. doi:10.1093/annonc/mdy547 
+
+39. Geyer CE Jr, Garber JE, Gelber RD, et al; OlympiA Clinical Trial Steering Committee and Investigators. Overall survival in the OlympiA phase III trial of adjuvant olaparib in patients with germline pathogenic variants in BRCA1/2 and high-risk, early breast cancer. Ann Oncol. 2022;33 (12):1250-1268. doi:10.1016/j.annonc.2022.09.159 
+
+44. Loi S, Curigliano G, Salgado R, et al. Biomarker results in high-risk estrogen receptor-positive, human epidermal growth factor receptor 2-negative primary breast cancer following neoadjuvant chemotherapy ± nivolumab: an exploratory analysis of CheckMate 7FL. Cancer Res. 2024;84(9 suppl):GS01-01-GS01-01. doi:10.1158/ 1538-7445.SABCS23-GS01-01 
+
+40. Marmé F, Hanusch C, Furlanetto J, et al. 199TiP Phase III post-neoadjuvant study evaluating sacituzumab govitecan (SG), an antibody drug conjugate in primary HER2-negative breast cancer patients with high relapse risk after standard neoadjuvant treatment: SASCIA. Ann Oncol. 2021; 32:S443-S444. doi:10.1016/j.annonc.2021.08.480 
+
+45. Cardoso F, Shaughnessy JO, McArthur H, et al. Phase 3 study of neoadjuvant pembrolizumab or placebo plus chemotherapy, followed by adjuvant pembrolizumab or placebo plus endocrine therapy for early-stage high-risk ER+/HER2− breast cancer: KEYNOTE 756. Cancer Res. 2024;84(9 suppl): GS01-02. doi:10.1158/1538-7445.SABCS23-GS01-02 
+
+41. Pembrolizumab vs observation in people with triple-negative breast cancer who had a pathologic complete response after chemotherapy plus pembrolizumab. ClinicalTrials.gov identifier: NCT05812807. Updated April 9, 2024. Accessed July 14, 2024. https://www.clinicaltrials.gov/study/ NCT05812807 
+
+46. Pang JB, Castles B, Byrne DJ, et al; kConFab. SP142 PD-L1 scoring shows high interobserver and intraobserver agreement in triple-negative breast carcinoma but overall low percentage agreement with other PD-L1 clones SP263 and 22C3. Am J Surg Pathol. 2021;45(8):1108-1117. doi:10.1097/PAS. 0000000000001701 
+
+34. Swain SM, Macharia H, Cortes J, et al. Event-free survival in patients with early HER2-positive breast cancer with a pathological complete response after HER2-targeted therapy: a pooled analysis. Cancers (Basel). 2022;14(20):5051. doi:10.3390/cancers14205051 35. Patel SP, Othus M, Chen Y, et al. Neoadjuvant-adjuvant or adjuvant-only pembrolizumab in advanced melanoma. N Engl J Med. 2023;388(9):813-823. doi:10.1056/ NEJMoa2211437 36. Ignatiadis M, Bailey A, McArthur H, et al. Adding atezolizumab to adjuvant chemotherapy for stage II and III triple-negative breast cancer is unlikely to improve efficacy: interim analysis of the ALEXANDRA/IMpassion030 phase 3 trial. Cancer Res. 
+
+jamaoncology.com 
+
+43. Emens LA, Molinero L, Loi S, et al. Atezolizumab and nab-paclitaxel in advanced triple-negative breast cancer: biomarker evaluation of the IMpassion130 Study. J Natl Cancer Inst. 2021;113(8):1005-1016. doi:10.1093/jnci/djab004 
+
+(Reprinted) JAMA Oncology Published online August 29, 2024 
+
+© 2024 American Medical Association. All rights reserved. 
+
+Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/01/2024 
+
+E11 
+
+ 

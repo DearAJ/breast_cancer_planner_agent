@@ -1,0 +1,1011 @@
+new england journal of medicine The 
+
+established in 1812 
+
+may 14, 2009 
+
+vol. 360 
+
+no. 20 
+
+Adjuvant Chemotherapy in Older Women with Early-Stage Breast Cancer Hyman B. Muss, M.D., Donald A. Berry, Ph.D., Constance T. Cirrincione, M.S., Maria Theodoulou, M.D., Ann M. Mauer, M.D., Alice B. Kornblith, Ph.D., Ann H. Partridge, M.D., M.P.H., Lynn G. Dressler, Ph.D., Harvey J. Cohen, M.D., Heather P. Becker, Patricia A. Kartcheske, B.S., Judith D. Wheeler, M.P.H., Edith A. Perez, M.D., Antonio C. Wolff, M.D., Julie R. Gralow, M.D., Harold J. Burstein, M.D., Ph.D., Ahmad A. Mahmood, M.D., Gustav Magrinat, M.D., Barbara A. Parker, M.D., Ronald D. Hart, M.D., Debjani Grenier, M.D., Larry Norton, M.D., Clifford A. Hudis, M.D., and Eric P. Winer, M.D., for the CALGB Investigators* 
+
+A bs t r ac t Background 
+
+Older women with breast cancer are underrepresented in clinical trials, and data on the effects of adjuvant chemotherapy in such patients are scant. We tested for the noninferiority of capecitabine as compared with standard chemotherapy in women with breast cancer who were 65 years of age or older. Methods 
+
+We randomly assigned patients with stage I, II, IIIA, or IIIB breast cancer to standard chemotherapy (either cyclophosphamide, methotrexate, and fluorouracil or cyclophosphamide plus doxorubicin) or capecitabine. Endocrine therapy was recommended after chemotherapy in patients with hormone-receptor–positive tumors. A Bayesian statistical design was used with a range in sample size from 600 to 1800 patients. The primary end point was relapse-free survival. Results 
+
+When the 600th patient was enrolled, the probability that, with longer follow-up, capecitabine therapy was highly likely to be inferior to standard chemotherapy met a prescribed level, and enrollment was discontinued. After an additional year of follow-up, the hazard ratio for disease recurrence or death in the capecitabine group was 2.09 (95% confidence interval, 1.38 to 3.17; P<0.001). Patients who were randomly assigned to capecitabine were twice as likely to have a relapse and almost twice as likely to die as patients who were randomly assigned to standard chemotherapy (P = 0.02). At 3 years, the rate of relapse-free survival was 68% in the cap­ ecitabine group versus 85% in the standard-chemotherapy group, and the overall survival rate was 86% versus 91%. Two patients in the capecitabine group died of treatment-related complications; as compared with patients receiving capecitabine, twice as many patients receiving standard chemotherapy had moderate-to-severe toxic effects (64% vs. 33%). Conclusions 
+
+Standard adjuvant chemotherapy is superior to capecitabine in patients with earlystage breast cancer who are 65 years of age or older. (ClinicalTrials.gov number, NCT00024102.) n engl j med 360;20 
+
+nejm.org 
+
+From the University of Vermont, Burlington (H.B.M.); the M.D. Anderson Cancer Center, Houston (D.A.B.); the Cancer and Leukemia Group B (CALGB) Statistical Center, Duke University Medical Center (C.T.C., P.A.K.) and Duke University Medical Center (H.J.C., J.D.W., A.A.M.) — both in Durham, NC; Memorial Sloan-Kettering Cancer Center, New York (M.T., L.N., C.A.H.); CALGB, Chicago (A.M.M., H.P.B.); the Dana–Farber Cancer Institute, Boston (A.B.K., A.H.P., H.J.B., E.P.W.); the University of North Carolina, Chapel Hill (L.G.D.); the North Central Cancer Treatment Group, Rochester, MN (E.A.P.); the Eastern Cooperative Oncology Group, Philadelphia (A.C.W.); the Southwest Oncology Group, Ann Arbor, MI (J.R.G.); the Southeast Cancer Control Consortium of the Community Clinical Oncology Program, Greensboro, NC (G.M.); the University of California, San Diego, La Jolla (B.A.P.); Mount Sinai School of Medicine, New York (R.D.H.); and the Canadian Cancer Society Research Institute, Toronto (D.G.). Address reprint requests to Dr. Muss at the Division of Hematology/Oncology, University of North Carolina, 170 Manning Dr., Campus Box 7305, 3rd Fl., Chapel Hill, NC 27599, or at hyman. muss@gmail.com. *The Cancer and Leukemia Group B (CALGB) study investigators are listed in the Appendix. This article (10.1056/NEJMoa0810266) was updated on October 21, 2009. N Engl J Med 2009;360:2055-65. Copyright © 2009 Massachusetts Medical Society. 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+2055 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+A 
+
+ge is the major risk factor for breast cancer.1 In the United States, the average age at the diagnosis of breast cancer is approximately 63 years, and most deaths from breast cancer occur in women 65 years of age or older. Breast cancer in older women is not always managed according to treatment guide­ lines,2-4 and such lapses can adversely affect sur­ vival.5,6 Although adjuvant chemotherapy has improved survival among women with early-stage breast cancer,7,8 the Oxford Overview analysis of 15-year results included too few patients older than 70 years of age to assess the effect of chemotherapy in that age group accurately.7 Older women with breast cancer who are in good health tolerate chemotherapy about as well as younger patients,9,10 and the more severe toxicity of chemotherapy in older patients11 has not meaningfully affected the benefits of adjuvant chemotherapy.12 We report here the results of the Cancer and Leukemia Group B (CALGB) 49907 trial, which was designed specifically to compare the efficacy of standard chemotherapy (either cyclophospha­ mide, methotrexate, and fluorouracil [CMF] or doxorubicin plus cyclophosphamide) with the oral fluorouracil prodrug, capecitabine, in women with early-stage breast cancer who were 65 years of age or older. Patients often prefer oral to intravenous chemotherapy,13 and an effective oral agent for adjuvant treatment would be important for treating older women with breast cancer. Capecitabine has substantial antitumor activity in metastatic breast cancer, with response rates of approximately 30%.14,15 In small, randomized trials involving women with metastatic breast cancer, the activity of capecitabine was similar to that of paclitaxel16 or CMF,17 making it a potential alternative to standard adjuvant chemotherapy. 
+
+Me thods Patients 
+
+Eligible women were 65 years of age or older and had operable, histologically confirmed adenocarcinoma of the breast, with a performance status of 0 to 2 (according to the National Cancer Institute [NCI] criteria) and a tumor diameter that was more than 1 cm; status with respect to estrogen receptor, progesterone receptor, and human epidermal growth factor receptor type 2 (HER2) was not specified as an eligibility criterion. Adequate hematologic, renal, and hepatic function and clear surgical margins for the invasive component of 2056 
+
+n engl j med 360;20 
+
+the tumor were required. Treatment of the axilla was at the discretion of the patient and her surgeon. Patients with hormone-receptor–positive tumors were offered tamoxifen or an aromatase inhibitor after chemotherapy. Patients had to have an expected survival of more than 5 years and no medical condition that would make treatment with this protocol unreasonably hazardous. Exclusion criteria included any other active cancer or a previous cancer with a risk of relapse that was greater than 30%. Randomization and Study Treatment 
+
+Patients were randomly assigned with equal probability to standard chemotherapy or capecitabine. Standard chemotherapy consisted of either CMF or doxorubicin plus cyclophosphamide; the choice was made at the discretion of the patient or her physician. The CMF regimen consisted of cyclophosphamide, at a dose of 100 mg per square meter of body-surface area, administered orally from days 1 through 14 and methotrexate, at a dose of 40 mg per square meter, and fluorouracil, at 600 mg per square meter, administered intravenously on days 1 and 8; the cycle was repeated every 28 days for a total of six cycles. The regimen of doxorubicin plus cyclophosphamide consisted of doxo­ rubicin, at a dose of 60 mg per square meter, and cyclophosphamide, at a dose of 600 mg per square meter, administered intravenously on day 1; the cycle was repeated every 21 days for four cycles. The first 56 patients assigned to capecitabine received 2000 mg per square meter per day in two divided doses for 14 consecutive days every 3 weeks, for a total of six cycles, and the dose was increased to 2500 mg per square meter if they had no toxic effects after the first course. Because the toxicity of this regimen was unacceptable, the protocol was amended to eliminate the dose escalation. During the 10 weeks needed to effect this amendment, accrual continued only for the standard-chemotherapy group. Dose modifications for all regimens were based on standard NCI toxicity criteria.18 All patients provided written informed consent that met state, federal, and institutional guidelines. Statistical Analysis 
+
+The trial was designed to test the noninferiority of capecitabine as compared with standard chemotherapy by means of an adaptive Bayesian design.19 The primary end point was relapse-free survival, nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+Adjuvant Chemother apy in Older Women with Breast Cancer 
+
+defined according to standard criteria20 as the time from study entry until local recurrence, distant metastasis, or death from any cause, whichever occurred first. Secondary end points included overall survival (defined as the time from study entry until death from any cause), adverse events, adherence to oral chemotherapy, and quality of life and functional status. The primary measure of efficacy was the hazard ratio for disease recurrence or death in the capecitabine group as compared with the standard-chemotherapy group. Capecitabine would be considered noninferior to standard chemotherapy if the hazard ratio was greater than 0.8046. (With the use of a 5-year landmark for descriptive purposes, this ratio corresponds to a 5-year rate of relapse-free survival of 60% for standard chemotherapy and 53% for capecitabine.) The planned sample size was 600 to 1800 patients. Interim monitoring for futility and noninferiority was planned after the enrollment of 600, 900, 1200, and 1500 patients. Noninferiority and futility bounds were defined according to Bayesian predictive probabilities with the use of noninformative prior distributions19 for the true treatment effects. These interim analyses were not the standard type in which the trial results are announced when a boundary is crossed. Rather, the decision to discontinue enrollment was based on a prediction that future follow-up was likely to give a meaningful answer. Enrollment was to be discontinued because of predicted futility if the probability of a hazard ratio of less than 0.8046 was at least 80% after 600 patients had been enrolled, at least 70% after 900 patients had been enrolled, and at least 60% after 1200 or 1500 patients had been enrolled. Non­inferiority would be established at any of these times if the probability of a hazard ratio of more than 0.8046 was at least 99%. For the primary comparison of treatments, we used proportional-hazards modeling, adjusting for tumor size, number of involved lymph nodes, and hormone-receptor status (estrogen-receptor–positive, progesterone-receptor–positive, or both estrogen-receptor–negative and progesterone-receptor–negative). To determine the statistical significance of each variable included in the models, we used the corresponding Wald chisquare tests. Estimates of relapse-free survival and overall survival were calculated with the use of the Kaplan–Meier product-limit technique.21 Efficacy analyses were based on the intention-totreat principle and included all patients who were n engl j med 360;20 
+
+assigned to treatment. Safety evaluations included all reported adverse events and serious adverse events according to the NCI Common Toxicity Criteria.18 Unless otherwise specified, reported P values are two-sided. Since the benefits of improvements in chemotherapy are largely limited to patients with estrogen-receptor–negative tumors and positive lymph nodes,22 we compared the efficacy of cap­ ecitabine with that of standard chemotherapy in patients with hormone-receptor–positive tumors and in those with hormone-receptor–negative tumors. This unplanned post hoc analysis was not described in the protocol. In testing for an interaction between treatment and hormone-receptor status, we compared capecitabine in patients who had hormone-receptor–negative tumors with all other study groups combined (i.e., capecitabine in patients with hormone-receptor–positive tumors and standard therapy in patients with hormonereceptor–positive and hormone-receptor–negative tumors). No other post hoc subgroup analyses were performed. The CALGB Breast Cancer and Cancer in the Elderly committees designed the study. Standardchemotherapy drugs were purchased by the patients, and capecitabine was supplied by the NCI. Data were collected by the CALGB operations office and analyzed by the CALGB statisticians. The lead author and biostatistician coauthors wrote the manuscript, which was reviewed by all the authors, and vouch for the completeness and accuracy of the data. 
+
+R e sult s Conduct of the Trial 
+
+The trial opened on September 15, 2001. The first per-protocol analysis, in November 2006, after the enrollment of 600 patients, revealed 16 recurrences, distant metastases, or death from any cause in the standard-chemotherapy group and 24 in the capecitabine group. At the time, the hazard ratio for disease recurrence in the standard-chemotherapy group as compared with the capecitabine group was 0.53. In view of the small number of events, however, this hazard ratio was uncertain. Still, the Bayesian probability of a hazard ratio of less than 0.8046 was 96%, which exceeded the limit of 80% that was based on the predictive probability that after additional follow-up, the results would clearly favor futility. The data and safety monitoring board permanently closed the trial nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+2057 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 1. Baseline Characteristics of the Patients.* Standard Chemotherapy (N = 326) 
+
+Characteristic 
+
+Capecitabine (N = 307) 
+
+P Value 
+
+no. of patients (%) Age 65–69 yr 
+
+112 (34) 
+
+110 (36) 
+
+70–79 yr 
+
+200 (61) 
+
+183 (60) 
+
+0.90† 
+
+≥80 yr 
+
+14 (4) 
+
+14 (5) 
+
+0 or 1 (fully active or minimal symptoms) 
+
+317 (97) 
+
+295 (96) 
+
+2 (symptoms, but active >50% of the time) 
+
+9 (3) 
+
+12 (4) 
+
+White 
+
+277 (85) 
+
+261 (85) 
+
+Black 
+
+43 (13) 
+
+29 (9) 
+
+Hispanic 
+
+0 
+
+0 
+
+Asian 
+
+2 (1) 
+
+4 (1) 
+
+Other 
+
+1 (<1) 
+
+3 (1) 
+
+Multiracial 
+
+0 
+
+1 (<1) 
+
+Missing data 
+
+3 (1) 
+
+9 (3) 
+
+≤2 cm 
+
+159 (49) 
+
+120 (39) 
+
+0.04† 
+
+>2 to ≤5 cm 
+
+146 (45) 
+
+169 (55) 
+
+0.09§ 
+
+>5 cm 
+
+18 (6) 
+
+17 (6) 
+
+Missing data 
+
+3 (1) 
+
+1 (<1) 
+
+Performance score 0.42† 
+
+Race or ethnic group 0.44†‡ 
+
+Tumor size 
+
+No. of positive lymph nodes 0 
+
+90 (28) 
+
+95 (31) 
+
+0.58† 
+
+1–3 
+
+179 (55) 
+
+156 (51) 
+
+0.42§ 
+
+4–9 
+
+39 (12) 
+
+42 (14) 
+
+≥10 
+
+15 (5) 
+
+13 (4) 
+
+Missing data 
+
+3 (1) 
+
+1 (<1) 
+
+Low 
+
+46 (14) 
+
+36 (12) 
+
+Intermediate 
+
+124 (38) 
+
+132 (43) 
+
+High 
+
+130 (40) 
+
+126 (41) 
+
+Missing data 
+
+26 (8) 
+
+13 (4) 
+
+Tumor grade 0.48† 
+
+Hormone-receptor status Negative 
+
+106 (33) 
+
+97 (32) 
+
+Positive 
+
+218 (67) 
+
+209 (68) 
+
+6 (2) 
+
+1 (<1) 
+
+ER-negative, PR-negative 
+
+106 (33) 
+
+97 (32) 
+
+ER-positive, PR-negative 
+
+40 (12) 
+
+53 (17) 
+
+ER-negative, PR-positive 
+
+6 (2) 
+
+5 (2) 
+
+ER-positive, PR-positive 
+
+171 (52) 
+
+150 (49) 
+
+3 (1) 
+
+2 (1) 
+
+Missing data 
+
+0.78† 
+
+ER and PR status 
+
+Missing data 
+
+2058 
+
+n engl j med 360;20 
+
+nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+0.37† 
+
+Adjuvant Chemother apy in Older Women with Breast Cancer 
+
+Table 1. (Continued.) Standard Chemotherapy (N = 326) 
+
+Characteristic 
+
+Capecitabine (N = 307) 
+
+P Value 
+
+no. of patients (%) HER2 status Negative 
+
+246 (75) 
+
+232 (76) 
+
+Positive 
+
+35 (11) 
+
+30 (10) 
+
+Unknown 
+
+45 (14) 
+
+45 (15) 
+
+Lumpectomy and breast irradiation 
+
+152 (47) 
+
+136 (44) 
+
+Mastectomy 
+
+171 (52) 
+
+167 (54) 
+
+Missing data 
+
+3 (1) 
+
+4 (1) 
+
+60 (18) 
+
+66 (21) 
+
+Axillary dissection only 
+
+116 (36) 
+
+102 (33) 
+
+Both sentinel-node biopsy and axillary dissection 
+
+147 (45) 
+
+136 (44) 
+
+Neither sentinel-node biopsy nor axillary dissection 
+
+1 (<1) 
+
+1 (<1) 
+
+Missing data 
+
+2 (1) 
+
+1 (<1) 
+
+0.53† 
+
+Type of surgery 0.59† 
+
+Axillary evaluation Sentinel-node biopsy only 
+
+0.54† 
+
+* Standard chemotherapy consisted of cyclophosphamide, methotrexate, and fluorouracil or doxorubicin plus cyclophosphamide. Percentages may not sum to 100 because of rounding. ER denotes estrogen receptor, HER2 human epidermal growth factor receptor type 2, and PR progesterone receptor. † The P value is based on contingency-table analysis for categorical variables. ‡ The P value is for the comparison of white versus black versus all other races and ethnic groups. Race or ethnic group was self-reported. § The P value is based on the Mann–Whitney nonparametric test for continuous variables. 
+
+on December 29, 2006, after a total enrollment of 633 patients. We performed all statistical analyses of data available as of May 2008. The median follow-up was 2.4 years, and the maximum followup was 5.6 years. Randomization was suspended during the 10week period when the protocol was amended for capecitabine toxicity. The 19 patients enrolled during this period were all assigned to standard chemotherapy. Analyses including and excluding these patients showed no substantive differences (data not shown). All patients were included in this analysis. Patients 
+
+Of the 633 enrolled patients, 326 were randomly assigned to standard chemotherapy (133 chose CMF, 184 chose doxorubicin plus cyclophospha­ mide, and 9 withdrew before choosing a regimen) and 307 were randomly assigned to capecitabine; 13 patients (9 in the standard-chemotherapy group and 4 in the capecitabine group) never received the assigned therapy. Table 1 lists the charactern engl j med 360;20 
+
+istics of the patients. The two groups were balanced except for a slight imbalance in tumor size (P = 0.04). Approximately two thirds of the patients were 70 years of age or older, and about 5% were 80 years of age or older. Most had an excellent performance status (i.e., they were ambulatory and without symptoms), 11% were black, two thirds had hormone-receptor–positive tumors, 10% had HER2-positive tumors, and 70% had positive lymph nodes; about half the tumors were more than 2 cm in diameter. The protocol was amended in 2006 to recommend trastuzumab therapy for patients with HER2-positive tumors; 8 of the 10 patients with HER2-positive disease who were subsequently enrolled received trastuzumab. Survival 
+
+Table 2 shows the rates of relapse-free survival, relapse, overall survival, and death, as well as the causes of death. At a median follow-up of 2.4 years, the rates of both relapse and death in the capeci­ tabine group were nearly twice those in the standard-chemotherapy group. The most common nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+2059 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 2. Outcomes at a Median Follow-up of 2.4 Years.* Standard Chemotherapy (N = 326) 
+
+Outcome 
+
+Capecitabine (N = 307) 
+
+no. of patients (%) Relapse-free survival Alive without relapse 
+
+291 (89) 
+
+247 (80) 
+
+Relapse, first occurrence 
+
+35 (11) 
+
+60 (20) 
+
+Local 
+
+5 (2) 
+
+19 (6) 
+
+Distant metastasis† 
+
+15 (5) 
+
+24 (8) 
+
+15 (5) 
+
+17 (6) 
+
+Alive 
+
+302 (93) 
+
+269 (88) 
+
+Died 
+
+24 (7) 
+
+38 (12) 
+
+8 (2) 
+
+18 (6) 
+
+Died from any cause Overall survival 
+
+From breast cancer From treatment-related cause 
+
+0 
+
+2 (1) 
+
+From cause other than breast cancer or treatment 
+
+12 (4) 
+
+14 (5) 
+
+From unknown cause 
+
+4 (1) 
+
+4 (1) 
+
+* Standard chemotherapy consisted of cyclophosphamide, methotrexate, and fluorouracil or doxorubicin plus cyclophosphamide. † This category includes four patients with synchronous local and distant relapse. 
+
+cause of death in the capecitabine group was breast cancer (in 18 of 38 patients [47%]), whereas in the standard-chemotherapy group the most common causes of death were other cancer or cardiovascular disease (in 12 of 24 patients [50%]). Table 3 shows the results of the multivariate analysis. The treatment group was significantly predictive of relapse-free survival, even after adjusting for tumor size, the number of positive lymph nodes, and hormone-receptor status. In this model, based on 622 patients, of whom 16% had disease recurrence, the hazard ratio for recurrence in the cape­ citabine group was twice that in the standardchemotherapy group (hazard ratio, 2.09; P<0.001). In addition, a larger tumor, a larger number of positive nodes, and a negative hormone-receptor status were associated with a significantly higher risk of relapse (P = 0.05, P = 0.004, and P<0.001 for the three comparisons, respectively). Figure 1A shows the Kaplan–Meier plot of relapse-free survival according to treatment group, without adjustment for other clinical variables. Table 3 also shows results of the multivariate model of overall survival. After adjustment for standard covariates, patients assigned to capeci­ ta­bine had a risk of death that was nearly twice that for patients who were assigned to standard 2060 
+
+n engl j med 360;20 
+
+chemotherapy (hazard ratio, 1.85; P = 0.02). As compared with smaller tumors and hormonereceptor–positive tumors, larger tumors and hormone-receptor–negative tumors were associated with significantly shorter survival (P = 0.02 and P<0.001, respectively). Figure 1B shows a Kaplan– Meier plot of overall survival according to treatment group. Estimates of relapse-free survival and overall survival at 3 years indicate the advantage of standard chemotherapy, as compared with capecitabine (relapse-free survival, 85% vs. 68%; overall survival, 91% vs. 86%). We have not directly compared doxorubicin plus cyclophospha­ mide with CMF because these regimens were not randomly assigned. However, the comparisons of capecitabine with doxorubicin plus cyclophospha­ mide or CMF are qualitatively the same (data not shown). Figure 1C through 1F shows the comparison of the benefits of capecitabine with those of standard chemotherapy in women with hormone-receptor– positive tumors and in those with hormone-receptor–negative tumors. The interaction between treatment and hormone-receptor status in this post hoc analysis was significant for both relapse-free survival and overall survival. Among patients with hormone-receptor–negative tumors who received capecitabine, the risk of relapse was more than quadrupled (hazard ratio, 4.39; 95% confidence interval [CI], 2.9 to 6.7; P<0.001), and the risk of death was more than tripled (hazard ratio, 3.76; 95% CI, 2.23 to 6.34; P<0.001), as compared with patients in all other study groups combined. There was no significant interaction between treatment group and relapse-free survival or overall survival for patients with hormone-receptor–positive tumors. Toxicity 
+
+Table 4 shows the incidence of grade 3, 4, and 5 adverse events that were possibly, probably, or definitely related to treatment. There were two drug-related deaths in the capecitabine group. Of the patients who received CMF, 70% had at least one grade 3 or grade 4 adverse event, as compared with 60% of patients who received doxorubicin plus cyc­lophosphamide and 34% of patients who received capecitabine. Among patients who received CMF or doxorubicin plus cyclophosphamide, 52% and 54%, respectively, had hematologic grade 3 or grade 4 toxic effects, but only 2% of the capeci­ tabine group had such toxic effects. A nonhematologic grade 3 or grade 4 adverse event occurred nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+Adjuvant Chemother apy in Older Women with Breast Cancer 
+
+in 41% of patients who received CMF, 25% of those who received doxorubicin plus cyclophosphamide, and 33% of those who received capeci­ tabine. Two patients receiving doxorubicin plus cyclophos­phamide required red-cell transfusions. Congestive heart failure developed in one patient receiving CMF and in none of the patients receiving doxorubicin plus cyclophosphamide; myelodysplasia developed in one patient receiving cap­ ecitabine. A total of 62% of the patients in the CMF group, 92% of the patients in the doxorubicin–cyclophosphamide group, and 80% of the patients in the capecitabine group received all planned cycles of treatment. In a preplanned substudy, capecitabine adherence was assessed in 161 patients using pill bottles with microelectronic monitoring. Adherence was defined as the number of doses taken divided by the number of doses planned. Compliance was defined as receipt of 80% or more of planned doses. Of these patients, 76% took more than 80% of the planned doses and 14% took 60 to 79% of the planned doses. The clinical characteristics of these patients were similar to those of the patients in the entire capecitabine population. Age was not related to adherence.22 
+
+Discussion This trial shows that standard adjuvant chemotherapy with either CMF or doxorubicin plus cyclophosphamide is superior to capecitabine in older women with early-stage breast cancer. The benefit of standard chemotherapy was pronounced in women with hormone-receptor–negative tumors. Most patients had substantial toxic effects. Only 62% of the patients who were assigned to CMF could complete the six planned cycles, whereas 80% of the patients who were assigned to capeci­ tabine completed the six planned cycles. Although doxorubicin plus cyclophosphamide had substantial toxicity, 92% of the patients completed four cycles, and there were no reports of major cardiac events or leukemia. Patients in this trial had an excellent performance status and no major organ dysfunction. The toxicity of these regimens in vulnerable or frail patients is probably greater than the toxicity observed in the patients in this study, and they should be administered with caution or not at all in such patients. Ours is one of the few trials that have focused on adjuvant chemotherapy in older women with breast cancer. A previous adjuvant trial involving n engl j med 360;20 
+
+Table 3. Results of Multivariate Analysis of Relapse-free and Overall Survival among 622 Patients.* Hazard Ratio (95% CI) 
+
+P Value 
+
+Treatment (capecitabine vs. standard therapy) 
+
+2.09 (1.38–3.17) 
+
+<0.001 
+
+Tumor size (5 cm vs. 2 cm) 
+
+1.47 (1.00–2.15) 
+
+0.05 
+
+No. of positive lymph nodes (4 vs. 1) 
+
+1.35 (1.10–1.67) 
+
+0.004 
+
+Hormone-receptor status (negative vs. positive) 
+
+3.04 (2.02–4.57) 
+
+<0.001 
+
+Treatment (capecitabine vs. standard chemo­ therapy) 
+
+1.85 (1.11–3.08) 
+
+0.02 
+
+Tumor size (5 cm vs. 2 cm) 
+
+1.75 (1.11–2.76) 
+
+0.02 
+
+No. of positive lymph nodes (4 vs. 1) 
+
+1.22 (0.94–1.57) 
+
+0.13 
+
+Hormone-receptor status (negative vs. positive) 
+
+2.62 (1.58–4.35) 
+
+<0.001 
+
+Variable Relapse-free survival 
+
+Overall survival 
+
+* A total of 11 patients were excluded because of missing data. Hazard ratios shown for relapse-free survival are for disease recurrence (16% of the patients had a recurrence or died), and hazard ratios for overall survival are for death (10% of the patients died). 
+
+older women showed that the addition of epirubicin to tamoxifen was associated with significant improvement in relapse-free survival but not overall survival, as compared with tamoxifen alone.23 Adjuvant trials involving women younger than 70 years of age have compared the use of multiagent chemotherapy with the use of single agents and shown the superiority of multiagent chemotherapy.7 We chose capecitabine as the single agent because it is effective when given orally and is similar, if not superior, to CMF in metastatic breast cancer.17 Since large randomized trials have shown that adjuvant CMF and doxorubicin plus cyclophosphamide have similar efficacy,24,25 allowing a choice of standard chemotherapy made our trial attractive to patients and physicians. An unplanned subgroup analysis showed that the major benefits of standard chemotherapy occurred in patients with hormone-receptor–negative tumors. This finding was consistent with the Oxford Overview, which showed major benefits of chemotherapy in women with hormone-receptor– negative tumors, irrespective of age,26 and with our previous observation that improvements in chemotherapy are noted largely in patients with hormone-receptor–negative tumors.27 Some flexibility in trial design is important for older patients, who have been consistently underrepresented in randomized trials of cancer chemo­ therapy28,29; age bias remains a major factor in clinical trials.30,31 Our trial used an adaptive Bayesnejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+2061 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+B All Patients 100 
+
+100 CMF or AC 
+
+80 60 
+
+Overall Survival (%) 
+
+Relapse-free Survival (%) 
+
+A All Patients 
+
+Capecitabine 
+
+40 20 P<0.001 0 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+80 Capecitabine 
+
+60 40 20 0 
+
+5 
+
+CMF or AC 
+
+P=0.02 0 
+
+1 
+
+2 
+
+Years No. at Risk CMF or AC Capecitabine 
+
+254 237 
+
+124 96 
+
+46 29 
+
+2 1 
+
+0 0 
+
+5 
+
+CMF or AC 
+
+80 
+
+Capecitabine 
+
+60 40 20 0 
+
+0 
+
+1 
+
+2 
+
+3 
+
+326 307 
+
+297 279 
+
+216 180 
+
+117 90 
+
+58 36 
+
+7 8 
+
+D Patients with Hormone-Receptor–Negative Tumors 
+
+100 
+
+Relapse-free Survival (%) 
+
+Relapse-free Survival (%) 
+
+CMF or AC Capecitabine 
+
+4 
+
+5 
+
+100 CMF or AC 
+
+80 60 40 
+
+Capecitabine 
+
+20 0 
+
+0 
+
+1 
+
+2 
+
+Years No. of Events 
+
+218 209 
+
+21 26 
+
+100 
+
+Capecitabine 
+
+60 40 20 2 
+
+3 
+
+No. of Events 
+
+106 97 
+
+14 34 
+
+100 
+
+Overall Survival (%) 
+
+80 
+
+1 
+
+5 
+
+F Patients with Hormone-Receptor–Negative Tumors CMF or AC 
+
+0 
+
+4 
+
+No. of Patients at Risk CMF or AC Capecitabine 
+
+E Patients with Hormone-Receptor–Positive Tumors 
+
+0 
+
+3 
+
+Years 
+
+No. of Patients at Risk CMF or AC Capecitabine 
+
+Overall Survival (%) 
+
+4 
+
+No. at Risk 326 307 
+
+C Patients with Hormone-Receptor–Positive Tumors 
+
+4 
+
+60 Capecitabine 
+
+40 20 0 
+
+5 
+
+CMF or AC 
+
+80 
+
+0 
+
+1 
+
+Years CMF or AC Capecitabine 
+
+3 
+
+Years 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Years 
+
+No. of Patients at Risk 
+
+No. of Events 
+
+218 209 
+
+15 16 
+
+No. of Patients at Risk 
+
+No. of Events 
+
+106 97 
+
+9 22 
+
+CMF or AC Capecitabine 
+
+Figure 1. Kaplan–Meier Estimates of Relapse-free and Overall Survival According to Treatment Group. 1st RETAKE AUTHOR: Muss Relapse-free survival (Panel A) and overall survival ICM (Panel B) for all patients are shown. Panel C shows relapse-free survival for patients with 2nd FIGURE: 1 of 1 hormone-receptor–positive tumors, and PanelREG D shows relapse-free survival for patients with hormone-receptor–negative tumors. Panel E F 3rd shows overall survival for patients with hormone-receptor–positive tumors, and Panel FRevised shows overall survival for patients with hormoneCASE receptor–negative tumors. AC denotes doxorubicin methotrexate, and fluorouracil. Line and 4-CMF cyclophosphamide, EMail plus cyclophosphamide, SIZE Enon 
+
+ARTIST: ts 
+
+H/T Combo 
+
+H/T 
+
+36p6 
+
+ian statistical design, which, together withPLEASE planned AUTHOR, NOTE: Our results provide support for the belief that has been redrawn and type has been reset.chemotherapy improves survival among sample sizes, allowed us Figure to determine noninferiadjuvant Please check carefully. ority with a relatively small sample while retain- older women. Indeed, a retrospective analysis of ing substantial power; randomized CALGB trials that compared less JOB:this 36020design has been used four ISSUE: 05-14-09 successfully in other drug-evaluation trials.19 aggressive chemotherapy with more aggressive 2062 
+
+n engl j med 360;20 
+
+nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+Adjuvant Chemother apy in Older Women with Breast Cancer 
+
+Table 4. Grade 3, 4, or 5 Adverse Events.* CMF (N = 132) 
+
+Adverse Event 
+
+Doxorubicin plus Cyclophosphamide (N = 183) 
+
+Capecitabine (N = 299) 
+
+no. of patients (%) Death 
+
+0 
+
+0 
+
+2 (1)† 
+
+≥1 Event ≥1 Hematologic adverse event 
+
+92 (70) 
+
+109 (60) 
+
+101 (34) 
+
+68 (52)‡ 
+
+99 (54) 
+
+7 (2) 
+
+Anemia 
+
+4 (3) 
+
+7 (4) 
+
+2 (1) 
+
+Requirement for transfusions 
+
+0 
+
+2 (1) 
+
+0 
+
+Leukopenia 
+
+53 (40) 
+
+79 (43) 
+
+3 (1) 
+
+Neutropenia 
+
+35 (27) 
+
+59 (32) 
+
+5 (2) 
+
+Hematologic adverse event 
+
+Thrombocytopenia 
+
+5 (4) 
+
+7 (4) 
+
+1 (<1) 
+
+53 (40)‡ 
+
+44 (24) 
+
+98 (33) 
+
+Fatigue 
+
+15 (11) 
+
+8 (4) 
+
+15 (5) 
+
+Mucositis 
+
+2 (2) 
+
+8 (4) 
+
+3 (1) 
+
+Nausea 
+
+9 (7) 
+
+8 (4) 
+
+6 (2) 
+
+Vomiting 
+
+8 (6) 
+
+3 (2) 
+
+6 (2) 
+
+Diarrhea 
+
+10 (8) 
+
+5 (3) 
+
+20 (7) 
+
+≥1 Nonhematologic adverse event Nonhematologic adverse event 
+
+Hand–foot skin reaction 
+
+1 (<1) 
+
+0 
+
+47 (16) 
+
+Febrile neutropenia 
+
+11 (8) 
+
+16 (9) 
+
+2 (1) 
+
+Thrombus or embolism 
+
+5 (4) 
+
+4 (2) 
+
+3 (1) 
+
+* Grades of adverse events were defined according to the Common Toxicity Criteria of the National Cancer Institute. Listed are adverse events in all patients who received at least one dose of a drug. There were no reports of toxic effects in two patients in the standard-chemotherapy group and in four patients in the capecitabine group. Anemia was defined as a hemoglobin level of less than 8 g per deciliter. Leukopenia was defined as a white-cell count of less than 2×109 per liter. Neutropenia was defined as a granulocyte count of less than 1×109 per liter. Thrombocytopenia was defined as a platelet count of less than 50×109 per liter. CMF denotes cyclophosphamide, methotrexate, and fluorouracil. † One death was from colitis, and one death was from infection. ‡ Since patients could have more than one type of adverse event, the sum of individual adverse events is larger than both the combined hematologic and nonhematologic categories and the overall total. 
+
+chemotherapy for node-positive breast cancer showed that the more aggressive therapy significantly improved relapse-free survival and overall survival, irrespective of age.12 However, toxicity was greater in older patients.11 Other studies have shown higher rates of cardiac toxicity32 and secondary leukemia33 in older patients receiving anthracycline-based regimens. Newer nonanthracycline regimens should be considered when the cardiac toxicity of anthracyclines is a major concern.34 Older women are more likely to be treated with lower doses of chemotherapy than are younger women,35 yet trials of adjuvant chemotherapy for breast cancer have suggested a threshold effect for dosing.36,37 We used doses of CMF and doxorubicin plus cyclophosphamide that have proven efn engl j med 360;20 
+
+ficacy. For the treatment of older patients, the choice of chemotherapeutic agents, dose, schedule, and dose modification should be based on the treatment plans in published reports. Our data are part of a developing body of evidence that the choice of adjuvant chemotherapy really matters in older women with breast cancer and that standard chemotherapy is superior to the oral agent capecitabine. Supported in part by grants from the National Cancer Institute (CA31946 and CA33601), the National Institute on Aging (U10CA85850), the Breast Cancer Research Foundation, the Coalition of Cancer Cooperative Groups, and Roche Biomedical Laboratories. Presented in part at the annual meeting of the American Society of Clinical Oncology, Chicago, May 30–June 3, 2008. Drs. Muss, Berry, Norton, and Hudis report receiving consulting fees from Hoffmann–La Roche; and Drs. Gralow, Hudis, Wolff, and Perez, research support from Hoffman–La Roche. No nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+2063 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+other potential conflict of interest relevant to this article was reported. The content of this article is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute. 
+
+We thank Drs. Jeff Abrams and Jo Anne Zujewski of the Cancer Therapy Evaluation Program of the National Cancer Institute and Dr. Rosemary Yancik of the National Institute on Aging for their support and guidance during the conduct of this trial. 
+
+Appendix The following cooperative groups participated in the CALGB study: Eastern Cooperative Oncology Group, Philadelphia: R.L. Comis; Southwest Oncology Group, San Antonio, TX: L.H. Baker; North Central Cancer Treatment Group, Rochester, MN: J. Buckner; The National Surgical Adjuvant Breast and Bowel Project, Pittsburgh: N. Wolmark; National Cancer Institute of Canada, Toronto: E. Eisenhauer; Radiation Therapy Oncology Group, Philadelphia: W.J. Curran, Jr. The following CALGB institutions participated in this study: University of Oklahoma, Oklahoma City: H. Ozer; Christiana Care Health Services Community Clinical Oncology Program (CCOP), Wilmington, DE: S. Grubbs; Dana–Farber Cancer Institute, Boston: E.P. Winer; Dartmouth Medical School, Norris Cotton Cancer Center, Lebanon, NH: M.S. Ernstoff; Duke University Medical Center, Durham, NC: J. Crawford; Evanston Northwestern Healthcare CCOP, Evanston, IL: D.L. Grinblatt; Grand Rapids Clinical Oncology Program, Grand Rapids, MI: M. Lange; Greenville CCOP, Greenville, SC: J.K. Giguere; Cancer Center of Carolinas Hematology-Oncology Associates of Central New York CCOP, Syracuse: L.J. Kirshner; Illinois Oncology Research Association, Peoria: J.W. Kugler; Long Island Jewish Medical Center, Lake Success, NY: K.R. Rai; Memorial Sloan-Kettering Cancer Center, New York: C.A. Hudis; Missouri Baptist Medical Center, St. Louis: A.P. Lyss; Missouri Valley Consortium CCOP, Omaha, NE: G.S. Soori; Mount Sinai Medical Center, Miami: R.C. Lilenbaum; Mount Sinai School of Medicine, New York: L.R. Silverman; Nevada Cancer Research Foundation CCOP, Las Vegas: J.A. Ellerton; New Hampshire Oncology-Hematology PA, Concord: D.J. Weckstein; Northern Indiana Cancer Research Consortium CCOP, South Bend: R. Ansari; Roswell Park Cancer Institute, Buffalo, NY: E. Levine; Sibley Memorial Hospital, Washington, DC: F.P. Smith; Southeast Cancer Control Consortium CCOP, Greensboro, NC: J.N. Atkins; State University of New York Upstate Medical University, Syracuse: S.L. Graziano; the Ohio State University Medical Center, Columbus: C.D. Bloomfield; University of California at San Diego, La Jolla: B.A. Parker; University of Chicago, Chicago: G. Fleming; University of Illinois CCOP, Chicago: L.E. Feldman; University of Iowa, Iowa City: D.A. Vaena; University of Maryland Greenebaum Cancer Center, Baltimore: M. Edelman; University of Massachusetts Medical School, Worcester: W.V. Walsh; University of Minnesota, Minneapolis: B.A. Peterson; University of Missouri/Ellis Fischel Cancer Center, Columbia: M.C. Perry; University of Vermont, Burlington: H.B. Muss; Wake Forest University School of Medicine, Winston-Salem, NC: D.D. Hurd; Walter Reed Army Medical Center, Washington, DC: T. Reid; Washington University School of Medicine, St. Louis: N. Bartlett; Weill Medical College of Cornell University, New York: J. Leonard; Western Pennsylvania Cancer Institute, Pittsburgh: R.K. Shadduck. References 1. Surveillance Epidemiology and End 
+
+Results cancer statistics review. (Accessed April 21, 2009, at http://seer.cancer.gov/ csr/1975_2005/results_merged/sect_04_ breast.pdf.) 2. Hébert-Croteau N, Brisson J, Latreille J, Blanchette C, Deschênes L. Compliance with consensus recommendations for the treatment of early stage breast carcinoma in elderly women. Cancer 1999;85:1104-13. 3. Yancik R, Wesley MN, Ries LA, Havlik RJ, Edwards BK, Yates JW. Effect of age and comorbidity in postmenopausal breast cancer patients aged 55 years and older. JAMA 2001;285:885-92. 4. Wildiers H, Kunkler I, Biganzoli L, et al. Management of breast cancer in elderly individuals: recommendations of the International Society of Geriatric Oncology. Lancet Oncol 2007;8:1101-15. 5. Hébert-Croteau N, Brisson J, Latreille J, Rivard M, Abdelaziz N, Martin G. Compliance with consensus recommendations for systemic therapy is associated with improved survival of women with node-negative breast cancer. J Clin Oncol 2004;22: 3685-93. 6. Eaker S, Dickman PW, Bergkvist L, Holmberg L. Differences in management of older women influence breast cancer survival: results from a population-based database in Sweden. PLoS Med 2006; 3(3):e25. 7. Early Breast Cancer Trialists’ Collab- 
+
+2064 
+
+orative Group. Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;365:1687-717. 8. Berry DA, Cronin KA, Plevritis SK, et al. Effect of screening and adjuvant therapy on mortality from breast cancer. N Engl J Med 2005;353:1784-92. 9. Christman K, Muss HB, Case LD, Stanley V. Chemotherapy of metastatic breast cancer in the elderly: the Piedmont Oncology Association experience. JAMA 1992;268:57-62. 10. Ibrahim NK, Frye DK, Buzdar AU, Walters RS, Hortobagyi GN. Doxorubicinbased chemotherapy in elderly patients with metastatic breast cancer: tolerance and outcome. Arch Intern Med 1996;156:882-8. 11. Muss HB, Berry DA, Cirrincione C, et al. Toxicity of older and younger patients treated with adjuvant chemotherapy for node-positive breast cancer: the Cancer and Leukemia Group B Experience. J Clin Oncol 2007;25:3699-704. 12. Muss HB, Woolf S, Berry D, et al. Adjuvant chemotherapy in older and younger women with lymph node-positive breast cancer. JAMA 2005;293:1073-81. 13. Liu G, Franssen E, Fitch MI, Warner E. Patient preferences for oral versus intravenous palliative chemotherapy. J Clin Oncol 1997;15:110-5. 14. Blum JL, Jones SE, Buzdar AU, et al. 
+
+n engl j med 360;20 
+
+nejm.org 
+
+Multicenter phase II study of capecitabine in paclitaxel-refractory metastatic breast cancer. J Clin Oncol 1999;17:485-93. 15. Gradishar WJ. Clinical status of capecitabine in the treatment of breast cancer. Oncology (Williston Park) 2001;15:Suppl 2: 69-71. 16. O’Reilly SM, Moiseyenko V, Talbot DC, Gordon RJ, Griffin T, Osterwalder B. A randomized phase II study of Xeloda (capecitabine) vs paclitaxel in breast cancer patients failing previous anthracycline therapy. Proc Am Soc Clin Oncol 1998; 17:163a. abstract. 17. Oshaughnessy JA, Blum J, Moiseyenko V, et al. Randomized, open-label, phase II trial of oral capecitabine (Xeloda) vs. a reference arm of intravenous CMF (cyclophosphamide, methotrexate and 5-fluorouracil) as first-line therapy for advanced/metastatic breast cancer. Ann Oncol 2001;12: 1247-54. 18. Common Toxicity Criteria. Bethesda, MD: National Cancer Institute, 2008. (Accessed April 21, 2009, at http://ctep.cancer. gov/reporting/ctc.html.) 19. Berry DA. Bayesian clinical trials. Nat Rev Drug Discov 2006;5:27-36. 20. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol 2007;25:2127-32. 21. Kaplan EL, Meier P. Nonparametric 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+Adjuvant Chemother apy in Older Women with Breast Cancer estimation from incomplete observations. J Am Stat Assoc 1958;53:457-81. 22. Partridge AH, Archer LE, Kornblith AB, et al. CALGB 60104: adherence with adjuvant capecitabine among women age 65 and older with early stage breast cancer treated on CALGB 49907. J Clin Oncol 2008;26:Suppl:347s. abstract. 23. Fargeot P, Bonneterre J, Roché H, et al. Disease-free survival advantage of weekly epirubicin plus tamoxifen versus tamoxifen alone as adjuvant treatment of operable, node-positive, elderly breast cancer patients: 6-year follow-up results of the French adjuvant study group 08 trial. J Clin Oncol 2004;22:4622-30. [Erratum, J Clin Oncol 2005; 23:248.] 24. Fisher B, Brown AM, Dimitrov NV, et al. Two months of doxorubicin-cyclophosphamide with and without interval reinduction therapy compared with 6 months of cyclophosphamide, methotrexate, and fluorouracil in positive-node breast cancer patients with tamoxifen-nonresponsive tumors: results from the National Surgical Adjuvant Breast and Bowel Project B-15. J Clin Oncol 1990;8:1483-96. 25. Fisher B, Anderson S, Tan-Chiu E, et al. Tamoxifen and chemotherapy for axillary node-negative, estrogen receptor-negative breast cancer: findings from National Surgical Adjuvant Breast and Bowel Project B-23. J Clin Oncol 2001;19:931-42. 
+
+26. Early Breast Cancer Trialists’ Collab- 
+
+orative Group. Adjuvant chemotherapy in oestrogen-receptor-poor breast cancer: patient-level meta-analysis of randomised trials. Lancet 2008;371:29-40. 27. Berry DA, Cirrincione C, Henderson IC, et al. Estrogen-receptor status and outcomes of modern chemotherapy for patients with node-positive breast cancer. JAMA 2006;295:1658-67. [Erratum, JAMA 2006;295:2356.] 28. Hutchins LF, Unger JM, Crowley JJ, Coltman CA Jr, Albain KS. Underrepresentation of patients 65 years of age or older in cancer-treatment trials. N Engl J Med 1999;341:2061-7. 29. Sateren WB, Trimble EL, Abrams J, et al. How sociodemographics, presence of oncology specialists, and hospital cancer programs affect accrual to cancer treatment trials. J Clin Oncol 2002;20:2109-17. 30. Lewis JH, Kilgore ML, Goldman DP, et al. Participation of patients 65 years of age or older in cancer clinical trials. J Clin Oncol 2003;21:1383-9. 31. Kemeny MM, Peterson BL, Kornblith AB, et al. Barriers to clinical trial participation by older women with breast cancer. J Clin Oncol 2003;21:2268-75. [Erratum, J Clin Oncol 2004;22:4811.] 32. Pinder MC, Duan Z, Goodwin JS, Hortobagyi GN, Giordano SH. Congestive heart failure in older women treated with adju- 
+
+vant anthracycline chemotherapy for breast cancer. J Clin Oncol 2007;25:3808-15. 33. Patt DA, Duan Z, Fang S, Hortobagyi GN, Giordano SH. Acute myeloid leukemia after adjuvant breast cancer therapy in older women: understanding risk. J Clin Oncol 2007;25:3871-6. 34. Jones S, Holmes FA, O’Shaughnessy J, et al. Docetaxel with cyclophosphamide is associated with an overall survival benefit compared with doxorubicin and cyclo­ phos­phamide: 7-year follow-up of US oncology research trial 9735. J Clin Oncol 2009;27:1177-83. 35. Lyman GH, Dale DC, Crawford J. Incidence and predictors of low dose-intensity in adjuvant breast cancer chemotherapy: a nationwide study of community practices. J Clin Oncol 2003;21:4524-31. 36. Budman DR, Berry DA, Cirrincione CT, et al. Dose and dose intensity as determinants of outcome in the adjuvant treatment of breast cancer: the Cancer and Leukemia Group B. J Natl Cancer Inst 1998;90:120511. 37. Bonneterre J, Roché H, Kerbrat P, et al. Epirubicin increases long-term survival in adjuvant chemotherapy of patients with poor-prognosis, node-positive, early breast cancer: 10-year follow-up results of the French Adjuvant Study Group 05 randomized trial. J Clin Oncol 2005;23:2686-93. Copyright © 2009 Massachusetts Medical Society. 
+
+early job alert service available at the nejm careercenter 
+
+Register to receive weekly e-mail messages with the latest job openings that match your specialty, as well as preferred geographic region, practice setting, call schedule, and more. Visit the NEJM CareerCenter at NEJMjobs.org for more information. 
+
+n engl j med 360;20 
+
+nejm.org 
+
+may 14, 2009 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2009 Massachusetts Medical Society. All rights reserved. 
+
+2065 
+
+ 

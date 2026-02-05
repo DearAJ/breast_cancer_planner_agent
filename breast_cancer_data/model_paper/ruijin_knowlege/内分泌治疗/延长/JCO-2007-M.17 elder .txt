@@ -1,0 +1,971 @@
+Published Ahead of Print on March 10, 2008 as 10.1200/JCO.2007.12.6334 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2007.12.6334 VOLUME 
+
+26 
+
+䡠 
+
+NUMBER 
+
+12 
+
+䡠 
+
+APRIL 
+
+20 
+
+2008 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Efficacy, Toxicity, and Quality of Life in Older Women With Early-Stage Breast Cancer Treated With Letrozole or Placebo After 5 Years of Tamoxifen: NCIC CTG Intergroup Trial MA.17 Hyman B. Muss, Dongsheng Tu, James N. Ingle, Silvana Martino, Nicholas J. Robert, Joseph L. Pater, Timothy J. Whelan, Michael J. Palmer, Martine J. Piccart, Lois E. Shepherd, Kathleen I. Pritchard, Zhi He, and Paul E. Goss From the University of Vermont Cancer Center, Burlington, VT; National Cancer Institute of Canada Clinical Trials Group, Queens University, Kingston; McMaster University, Hamilton; Toronto Sunnybrook Health Sciences Center and the University of Toronto, Toronto, Ontario, Canada; Mayo Clinic Cancer Center, Rochester, MN; Angeles Clinic and Research Institute, Santa Monica CA; Cancer Center, Inova Fairfax Hospital, Fairfax, VA; Oncology, Jules Bordet Cancer Institute, Brussels, Belgium; and Massachusetts General Hospital Cancer Center, Boston, MA. Submitted May 15, 2007; accepted October 17, 2007; published online ahead of print at www.jco.org on March 10, 2008. Presented in part at a poster-discussion at the San Antonio Breast Cancer Symposium, December 14, 2006, San Antonio TX. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Hyman B. Muss, MD, University of Vermont College of Medicine, 1 South Prospect St, Saint Joseph 3400, Burlington, VT 05401; e-mail: hyman.muss@uvm.edu. 
+
+A 
+
+B 
+
+S 
+
+T 
+
+DOI: 10.1200/JCO.2007.12.6334 
+
+A 
+
+C 
+
+T 
+
+Purpose National Cancer Institute of Canada Clinical Trials Group trial MA.17 randomly assigned 5,187 postmenopausal, hormone-receptor–positive patients with early breast cancer who completed 5 years of tamoxifen to receive either letrozole or placebo. At 30 months median follow-up, letrozole significantly improved disease-free survival (DFS) in all patients and overall survival (OS) in node-positive patients. Breast cancer incidence increases with age and more than 1,300 women age 70 years or older were enrolled onto MA.17, making it ideal to explore the benefits, toxicities, and quality of life (QOL) impact of letrozole on older women. Patients and Methods In this study, 5,169 randomly assigned patients were divided into three age groups: younger than 60 years (n ⫽ 2,152), 60 to 69 years (n ⫽ 1,694), and ⱖ 70 years (n ⫽ 1,323). Log-rank test was used to compare differences in DFS, distant-disease–free survival, and OS between age and treatment groups, and Cox models were used to estimate hazard ratios and associated 95% CIs. QOL was measured using the Medical Outcomes Short Form-36 and the Menopause-Specific Quality-of-Life questionnaire. Results At 4 years, DFS demonstrated statistically significant differences favoring letrozole only in patients age younger than 60 years (hazard ratio ⫽ 0.46; P ⫽ .0004); there was no interaction between age and treatment, indicating a similar effect of letrozole among all age groups. There was no difference in toxicity or QOL at 24 months among letrozole- and placebo-treated patients age ⱖ 70 years. Conclusion Healthy patients age 70 years and older completing 5 years of tamoxifen should be considered for extended adjuvant therapy with letrozole. J Clin Oncol 26. © 2008 by American Society of Clinical Oncology 
+
+© 2008 by American Society of Clinical Oncology 0732-183X/08/2612-1/$20.00 
+
+R 
+
+INTRODUCTION 
+
+In the United States, breast cancer incidence and mortality rates rise dramatically with age, and today most women who die of breast cancer are 65 years or older. While the risk of breast cancer is about 1 in 230 for women younger than 39 years old, it rises to 1 in 13 for women between 60 to 79 years of age.1 Extensive data indicate that older age is frequently associated with poorer treatment that can lead to shortened survival.2-4 Life expectancy has dramatically improved in North America, and in the United States the average life expectancy for a woman is now 80 years. Tumor biology in older women is more 
+
+favorable than in younger patients, but after adjusting for stage, mortality rates are similar among older and younger women except for those younger than age 35 years and older than age 80 years; the latter groups have poorer survival rates.5 At least 70% to 80% of women 65 years or older have hormone-receptor–positive breast cancers, and in this group, the use of adjuvant tamoxifen therapy has significantly improved disease-free survival (DFS) and overall survival (OS).6 However, even in women taking tamoxifen for 5 years, more than half of all breast cancer relapses occur between 5 and 15 years,6 and at least two large trials have failed to show benefit for tamoxifen therapy 1 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Copyright 2008 by American Society of Clinical Oncology 
+
+Muss et al 
+
+exceeding 5 years.7-9 Ongoing trials are still exploring the optimal duration of tamoxifen use (see www.cancer.gov for details of Adjuvant Tamoxifen Longer Against Shorter and CRC-TU-Adjuant Treatment Tamoxofen Offers More trials), but at present most clinicians limit treatment to 5 years. Aromatase inhibitors (AIs) have emerged as highly effective endocrine therapies in postmenopausal patients, decreasing relapse rates by approximately 3% when compared with tamoxifen; survival, however, has not been convincingly improved in these trials but follow-up is still short.10-13 Because of the high relapse rate after 5 years of tamoxifen therapy, we designed National Cancer Institute of Canada Clinical Trials Group trial (NCIC CTG) MA.17 to test the efficacy of the AI letrozole in postmenopausal patients who were disease free after 5 years of tamoxifen. At 30 months median follow-up, the hazard ratio (HR) for letrozole compared with placebo-treated patients on NCIC CTG MA.17 was 0.58 (95% CI, 0.45 to 0.76; P ⫽ .00004) for DFS, and 0.60 (95% CI, 
+
+0.43 to 0.84; P ⫽ .002) for distant-disease–free survival (DDFS). OS was significantly improved for letrozole patients in the nodepositive (HR ⫽ 0.61, range, 0.38 to 0.98; P ⫽ .04) but not in the node-negative cohort.14 Currently, a 65-year-old woman in average health can expect to live another 20 years, a 75-year-old woman can expect to live 13 more years, and an 85-year-old woman can expect to live another 7 more years.15 Little data are available on older patients treated with adjuvant AIs. More than 1,300 patients age ⱖ 70 years participated in this placebo-controlled trial, making it an ideal study to explore the benefits and toxicities of letrozole in older patients. In addition, the trial included an extensive quality-of-life (QOL) assessment that further explored the effects of AI therapy on other important survivorship domains in addition to standard toxicity grading.16 The analysis we report here was performed to determine whether there were age-dependent differences in DFS, DDFS, and OS, 
+
+Table 1. Baseline Patient and Breast Cancer Characteristics by Age Group Patient Age (years) 
+
+Characteristic Treatment Letrozole Placebo Race/ethnicity White Black Other Unknown Missing Performance status 0 1 2 Missing Axillary lymph node status Negative Positive Unknown Missing Hormone receptor status Positive (ER and/or PR) Negative Unknown Missing Duration of tamoxifen treatment ⱕ5 ⬎5 Missing Median Prior adjuvant chemotherapy No Yes Missing Prior surgery Lumpectomy/segmental mastectomy Mastectomy 
+
+⬍ 60 (n ⫽ 2,152) 
+
+60-69 (n ⫽ 1,694) 
+
+ⱖ 70 (n ⫽ 1,323) 
+
+No. 
+
+No. 
+
+No. 
+
+% 
+
+% 
+
+% 
+
+1,065 1,087 
+
+49 51 
+
+835 859 
+
+49 51 
+
+682 641 
+
+52 48 
+
+1,963 72 94 13 10 
+
+91 3 4 1 0 
+
+1,521 58 77 20 18 
+
+90 3 5 1 1 
+
+1,224 49 32 11 7 
+
+93 4 2 1 1 
+
+2,035 115 1 1 
+
+95 5 0 0 
+
+1,558 131 4 1 
+
+92 8 0 0 
+
+1,053 253 17 0 
+
+80 19 1 0 
+
+1,000 1,103 42 7 
+
+46 51 2 0 
+
+899 731 59 5 
+
+53 43 3 0 
+
+669 525 125 4 
+
+51 40 9 0 
+
+2,098 3 31 20 
+
+97 0 1 1 
+
+1,653 1 30 10 
+
+98 0 2 1 
+
+1,283 4 30 6 
+
+97 0 2 0 
+
+1,009 1,141 2 
+
+47 53 0 5.00 
+
+745 948 1 5.01 
+
+44 56 0 
+
+613 705 5 5.00 
+
+46 53 0 
+
+666 1,483 3 
+
+31 69 0 
+
+1,070 622 2 
+
+63 37 0 
+
+1,083 238 2 
+
+82 18 0 
+
+1,301 1,112 
+
+60 52 
+
+971 836 
+
+57 49 
+
+709 713 
+
+54 54 
+
+P Univariate 
+
+Multivariate 
+
+.40 
+
+.09 
+
+.11 
+
+.11 
+
+⬍ .0001 
+
+⬍ .0001 
+
+⬍ .0001 
+
+⬍ .0001 
+
+.54 
+
+.82 
+
+.17 
+
+.69 
+
+⬍ .0001 
+
+⬍ .0001 
+
+.0007 .12 
+
+⬍ .0001 .81 
+
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor. 
+
+2 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Letrozole or Placebo in Older Women With Early Breast Cancer 
+
+toxicity, or QOL among older and younger patients in this large placebo-controlled trial. PATIENTS AND METHODS Study Design Details of the study design, eligibility criteria, and the patient population of the NCIC CTG Intergroup trial MA.17 have been previously described.14,17 This trial was a phase III, randomized, double-masked, placebo-controlled trial, the primary objective of which was to determine the efficacy of letrozole in preventing disease recurrence in postmenopausal women with primary breast cancer who had completed about 5 years (range, 4.5 to 6 years) of adjuvant tamoxifen. Patients were randomly allocated to letrozole (2.5 mg by mouth daily) or placebo for 5 years and stratified by hormone-receptor status, nodal involvement, and chemotherapy use. In accordance with the protocolspecified guidelines, MA.17 was terminated in 2003 on the recommendation of the data and safety monitoring committee after the first interim analysis demonstrated a statistically significant effect on DFS for patients treated with letrozole as compared with placebo.17 Detailed QOL analyses, also part of this trial, have been published previously.16 Eligibility for the QOL substudy included willingness to complete QOL questionnaires before randomization and fluency in English or French. QOL was measured using the Medical Outcomes Short Form 36-item general health questionnaire (SF-36), a multipurpose QOL measure. SF-36 contains eight subscales (domains), which are summarized into two global scores, the physical and mental component summary (PCS and MCS).18 The eight subscales include physical functioning, role physical, bodily pain, general health, vitality, social functioning, role emotional, and mental health. The instrument has been used extensively in cancer and noncancer populations, and is scored from 0 to 100, with a higher number representing a higher QOL. The PCS and MCS are normalized so that the mean score for a representative sample of the US female population is 50, with a standard deviation of 10. The MenopauseSpecific QOL Questionnaire (MENQOL) was chosen specifically to assess menopausal related symptoms that might be worsened by the use of AIs.19 It contains 29 items under four domains (vasomotor, psychosocial, physical, and sexual). The instrument scoring for the MENQOL ranges from 1 to 8, with the higher numbers representing greater symptom discomfort and less favorable QOL. Both instruments have been shown in previous studies to be valid, reliable, and sensitive to change. The instruments were administered before randomization, at 6 months postrandomization, and then yearly. In this unplanned subset analysis that focuses on age, women randomly assigned onto 
+
+MA.17 were divided into one of the following three age groups: younger than 60 years, 60 to 69 years, and ⱖ 70 years. Patient Population Women were eligible for the main trial if they were at least 50 years of age at the start of adjuvant tamoxifen therapy, if they were younger than 50 years but were postmenopausal or had undergone a bilateral oophorectomy before initiation of tamoxifen therapy, if they had become amenorrheic since initiation of tamoxifen therapy, or if they had postmenopausal levels of luteinizing or follicle-stimulating hormone. Other criteria included a histologically confirmed diagnosis of primary hormone receptor–positive breast cancer with no evidence of metastatic disease, discontinuation of tamoxifen less than 3 months before enrollment, ECOG performance status of 0 to 2, and a life expectancy of more than 5 years. Exclusion criteria included concomitant treatment with hormone replacement therapy or a selective estrogen receptor modulator. Intermittent treatment with vaginal estrogens was permitted. All patients gave written informed consent, meeting international guidelines to participate in the trial. Statistical Analysis DFS was defined as the time from randomization to the time of recurrence (in breast, chest wall, nodal, or metastatic sites) or the development of new contralateral primary breast cancer. Death without recurrence and secondary malignancy were not considered as events. Secondary end points included OS (defined as time to death from any cause), QOL, and long-term safety. Adverse events were assessed by the National Cancer Institute Common Toxicity Criteria (version 2.0). Safety and study drug exposure were analyzed on all patients who received at least one dose of study medication. The ␹2 test was used to perform univariate analyses for the association between age groups and binary variables such as a clinical characteristic, discontinuation of treatment, and toxicities, and the analysis of variance to perform multivariate analyses to identify independent characteristics associated with age. For the time-to-an-event variable, the log-rank test was used to compare the difference between age or treatment groups, and the Cox model was used to estimate the HRs and associated 95% CIs. All P values are two-sided. 
+
+RESULTS 
+
+The study group totaled 5,187 randomly assigned patients, but due to noncompliance with the Good Clinical Practice Guidelines, 17 patients (10 receiving letrozole and seven receiving placebo), all from 
+
+Table 2. Analysis of Outcomes for All Patients by Age Univariate Analysis Characteristic Disease-free survival by age, years ⬍ 60, n ⫽ 2,152 ⱖ 60 and ⬍ 70, n ⫽ 1,694 ⱖ 70, n ⫽ 1,323 Distant disease-free survival by age, years ⬍ 60, n ⫽ 2,152 ⱖ 60 and ⬍ 70, n ⫽ 1,694 ⱖ 70, n ⫽ 1,323 Overall survival by age, years ⬍ 60, n ⫽ 2,152 ⱖ 60 and ⬍ 70, n ⫽ 1,694 ⱖ 70, n ⫽ 1,323 
+
+4-Year Outcome (%) 
+
+HRⴱ 
+
+95% CI 
+
+92.4 91.4 92.5 
+
+1.00 1.12 1.04 
+
+NA 0.84 to 1.50 0.76 to 1.43 
+
+96.0 94.3 95.0 
+
+1.00 1.21 1.16 
+
+NA 0.83 to 1.77 0.78 to 1.74 
+
+97.4 96.2 90.6 
+
+1.00 1.48 4.06 
+
+NA 0.85 to 2.57 2.51 to 6.55 
+
+Multivariate Analysis† Log-Rank P 
+
+HR* 
+
+95% CI 
+
+P From Cox Regression 
+
+1.00 1.15 1.08 
+
+NA 0.85 to 1.57 0.75 to 1.55 
+
+NA .36 .67 
+
+1.00 1.34 1.37 
+
+NA 0.90 to 2.00 0.86 to 2.16 
+
+NA .14 .18 
+
+1.00 1.45 4.04 
+
+NA 0.81 to 2.62 2.35 to 6.95 
+
+NA .21 ⬍ .0001 
+
+.74 
+
+.57 
+
+⬍ .0001 
+
+Abbreviations: HR, hazard ratio; NA, not available. ⴱ HR v ⬍ 60 years. †Adjusting for letrozole or placebo treatment, duration of prior tamoxifen, nodal status, and prior chemotherapy. 
+
+3 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Muss et al 
+
+Table 3. Outcomes by Age, Treatment, and Nodal Status Letrozole 
+
+Placebo 
+
+Group 
+
+No. of Patients 
+
+4-Year DFS (%) 
+
+No. of Patients 
+
+4-Year DFS (%) 
+
+Hazard Ratio 
+
+95% CI 
+
+Pⴱ 
+
+⬍ 60 years Node positive Node negative ⱖ 60 and ⬍ 70 years Node positive Node negative ⱖ 70 years Node positive Node negative 
+
+1,065 543 500 835 354 444 682 273 348 
+
+94.5 92.9 96.3 93.8 92.1 94.9 94.7 91.4 97.9 
+
+1,087 560 500 859 377 455 641 252 321 
+
+90.2 87.5 92.8 89.1 81.3 94.3 90.2 87.8 93.7 
+
+0.46 0.52 0.34 0.68 0.61 0.76 0.67 0.78 0.22 
+
+0.30 to 0.70 0.31 to 0.85 0.14 to 0.81 0.44 to 1.04 0.35 to 1.07 0.37 to 1.55 0.41 to 1.11 0.43 to 1.42 0.06 to 0.80 
+
+.0004 .0096 .014 .078 .082 .45 .12 .42 .021 
+
+Letrozole 
+
+Placebo 
+
+Group 
+
+No. of Patients 
+
+4-Year DDFS (%) 
+
+No. of Patients 
+
+4-Year DDFS (%) 
+
+Hazard Ratio 
+
+95% CI 
+
+Pⴱ 
+
+⬍ 60 years Node positive Node negative ⱖ 60 and ⬍ 70 years Node positive Node negative ⱖ 70 years Node positive Node negative 
+
+1,065 543 500 835 354 444 682 273 348 
+
+97.0 95.2 98.9 96.5 95.2 97.7 96.2 94.2 98.1 
+
+1,087 560 500 859 377 455 641 252 321 
+
+95.1 92.3 97.8 92.0 83.9 97.5 93.8 87.8 97.3 
+
+0.53 0.54 0.49 0.59 0.39 1.24 0.72 0.72 0.30 
+
+0.30 to 0.92 0.29 to 1.01 0.15 to 1.63 0.34 to 1.03 0.20 to 0.79 0.42 to 3.69 0.39 to 1.34 0.35 to 1.48 0.06 to 1.48 
+
+.025 .053 .24 .062 .009 .70 .30 .37 .14 
+
+Letrozole 
+
+Placebo 
+
+Group 
+
+No. of Patients 
+
+4-year OS (%) 
+
+No. of Patients 
+
+4-year OS (%) 
+
+Hazard Ratio 
+
+95% CI 
+
+Pⴱ 
+
+⬍ 60 years Node positive Node negative ⱖ 60 and ⬍ 70 years Node positive Node negative ⱖ 70 years Node positive Node negative 
+
+1,065 543 500 835 354 444 682 273 348 
+
+97.6 95.6 99.6 96.7 95.5 97.8 90.8 89.1 91.5 
+
+1,087 560 500 859 377 455 641 252 321 
+
+97.3 95.9 98.9 95.8 93.4 97.1 90.6 80.2 97.9 
+
+0.78 0.81 1.00 0.75 0.64 0.85 0.82 0.50 2.31 
+
+0.34 to 1.79 0.32 to 2.06 0.14 to 7.10 0.36 to 1.59 0.23 to 1.80 0.26 to 2.79 0.50 to 1.35 0.20 to 0.96 0.82 to 6.49 
+
+.56 .66 1.00 .56 .39 .79 .44 .038 .11 
+
+Abbreviations: DFS, disease-free survival; DDFS, distant-disease–free survival; OS, overall survival. ⴱ From the Cox model for the comparison between letrozole and placebo. 
+
+one center, were excluded from all analyses. Of the 5,170 patients remaining, one had age information missing and was excluded, leaving 5,169 patients for these analyses. Twenty-one patients (seven randomly assigned to letrozole and 14 to placebo) never received study medication, and the safety analysis therefore included 5,149 patients. The median follow-up of patients was 30 months, with a range of 1.5 to 61.4 months. The median age of patients enrolled onto the trial was 62 years, with a range of 32 to 95 years. Of the 5,169 patients, 2,152 (42%) were younger than 60 years, 1,694 (33%) were 60 to 69 years, and 1,323 (26%) were ⱖ 70 years of age. Among those 70 years and older, 54% (712 patients) were age 70 to 74 years, 31% (411 patients) were age 75 to 79 years, 12% (164 patients) were age 80 to 84 years, and 3% (36 patients) were ⱖ 85 years of age. Table 1 lists key baseline patient and disease characteristics based on age groups. Both univariate and multivariate analyses demonstrate that a higher proportion of younger women had better performance status, positive lymph nodes, chemotherapy, and lumpectomy or segmental mastectomy. Discon4 
+
+tinuation of treatment due to either refusal of further treatment, toxicity, or other reasons was noted in 24% of older patients and was higher than in younger patients (18% of those 60 years and younger, and 19% of those 61 to 69 years; P ⫽ .0003), but there were no differences in the percent of older patients who discontinued treatment in the letrozole or placebo groups (24% v 23%; P ⫽ .63). In those younger than 60 years of age, significantly more patients receiving letrozole discontinued treatment for toxicity (5% letrozole v 3% placebo; P ⫽ .008), whereas more patients receiving placebo discontinued treatment for other reasons (3% letrozole v 5% placebo; P ⫽ .03); refusal was 10% for both the letrozole and placebo groups. Among those 60 to 69 years and ⱖ 70 years of age, there was no difference in the reasons for treatment discontinuation among the letrozole and placebo arms. Table 2 lists estimates of 4-year DFS, DDFS, and OS by age group. There was no significant difference in DFS and DDFS between the three age groups. As expected, the OS was significantly different JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Letrozole or Placebo in Older Women With Early Breast Cancer 
+
+D 100 
+
+100 
+
+80 
+
+80 
+
+(%) 
+
+(%) 
+
+A 
+
+60 Letrozole Placebo 
+
+40 
+
+60 
+
+20 
+
+20 
+
+0 
+
+10 
+
+No. at risk Letrozole 1065 Placebo 1087 
+
+1030 1042 
+
+20 764 779 
+
+30 447 435 
+
+40 204 202 
+
+50 66 69 
+
+0 
+
+60 2 3 
+
+No. at risk Letrozole 1065 Placebo 1087 
+
+Time From Randomization (months) 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+1039 1062 
+
+771 802 
+
+454 457 
+
+211 217 
+
+69 74 
+
+2 3 
+
+E 100 
+
+100 
+
+80 
+
+80 
+
+(%) 
+
+(%) 
+
+10 
+
+Time From Randomization (months) 
+
+B 
+
+60 Letrozole Placebo 
+
+40 
+
+60 Letrozole Placebo 
+
+40 
+
+20 
+
+20 
+
+0 
+
+10 
+
+No. at risk Letrozole 835 Placebo 859 
+
+811 835 
+
+20 616 634 
+
+30 358 359 
+
+40 173 177 
+
+50 59 55 
+
+0 
+
+60 2 4 
+
+No. at risk Letrozole 835 859 Placebo 
+
+Time From Randomization (months) 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+820 844 
+
+631 653 
+
+372 375 
+
+179 189 
+
+62 59 
+
+2 4 
+
+Time From Randomization (months) 
+
+C 
+
+F 100 
+
+100 
+
+80 
+
+80 
+
+(%) 
+
+(%) 
+
+Letrozole Placebo 
+
+40 
+
+60 Letrozole Placebo 
+
+40 
+
+60 Letrozole Placebo 
+
+40 
+
+20 
+
+20 
+
+0 
+
+10 
+
+No. at risk Letrozole 682 Placebo 641 
+
+655 612 
+
+20 525 461 
+
+30 305 281 
+
+40 164 140 
+
+50 51 40 
+
+Time From Randomization (months) 
+
+60 2 1 
+
+0 No. at risk Letrozole 682 641 Placebo 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+663 616 
+
+535 473 
+
+312 298 
+
+166 153 
+
+51 42 
+
+2 1 
+
+Time From Randomization (months) 
+
+Fig 1. (A, B, C) Disease-free survival by age: (A) 60 years and younger; (B) 61 to 69 years; (C) 70 years or older. (D, E, F) Overall survival by age: (D) 60 years and younger; (E) 61 to 69 years; (F) 70 years or older. 
+
+5 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Muss et al 
+
+between these three age groups due to an increased risk of non– breast cancer-related death with increasing age. The results remain the same after adjusting for other potential prognostic factors such as letrozole or placebo treatment, duration of prior tamoxifen, nodal status, and prior chemotherapy. Table 3 lists the 4-year estimates for the comparison between letrozole and placebo for DFS, DDFS, and OS within each of the three age subgroups and by lymph node status. Figure 1 shows the Kaplan-Meier estimates for DFS and OS by treatment and age. Although statistically, letrozole significantly improved both DFS and DDFS only in women younger than 60 years of age, the interaction between age and treatment was not statistically significant for any of these three outcomes (P ⫽ .36, 0.77, and 0.98 for DFS, DDFS, and OS, respectively), indicating no evidence of a heterogeneous effect of letrozole among age groups. Letrozole significantly improved DFS compared with placebo for both node-negative and node-positive patients younger than 60 years and for patients with negative nodes ⱖ 70 years old. In node-positive patients, letrozole compared with placebo led to a significant improvement in DDFS in those age 60 to 69 years, and a significant improvement in OS for those age ⱖ 70 years. Toxicity data are summarized in Table 4 and include any reported adverse event with a 1% or greater difference among the letrozole and placebo groups or noted in 5% or more of either group. The vast majority of reported toxicities were grade 1 and grade 2 (data not shown). As a group, women ⱖ 70 years of age had significantly higher incidences of edema, hypertension, fatigue, anorexia, constipation, diarrhea, arthritis, dizziness, and dyspnea 
+
+but lower incidences of hot flushes, sweating, vaginal bleeding, high cholesterol, insomnia, headache, and vaginal dryness compared with younger women. Compared with placebo, women receiving letrozole who were younger than 60 years had a significantly lower incidence of vaginal bleeding and higher incidence of arthralgia; women receiving letrozole who were age 60 to 69 years had a statistically significantly higher incidence of hot flushes, insomnia, arthralgia, and alopecia. In women ⱖ 70 years of age there was no significant difference in toxicities between the letrozole and placebo groups. Unrelated to treatment, women ⱖ 70 years of age had significantly higher incidences of fracture, new osteoporosis, and cardiac disease (data not shown). However, in this age group there were no significant differences between the two treatment groups in fractures (6% letrozole v 8% placebo), the development of osteoporosis (10% letrozole v 8% placebo), or cardiac disease (10% letrozole v 11% placebo). The QOL analyses by treatment and age for the eight dimensions and two overall scales (physical and mental overall) in the SF-36 and four domains in the MENQOL are summarized in Table 5 for women 70 years of age and after 24 months of follow-up. Although fewer women completed follow-up QOL assessments, compliance rates from our previous QOL analysis16 indicate that they represented approximately 90% of women who were expected to complete these assessments. Women age 70 years and older who received letrozole had significantly worse QOL versus those receiving placebo on the vitality score at 6 months (⫺5.6 v ⫺3.5; P ⫽ .03), and in bodily pain (⫺3.2 v ⫺7.6; P ⫽ .01), physical scale (⫺1.3 v ⫺3.3; P ⫽ .009), and 
+
+Table 4. Percent of Patients With Acute Toxicities (grade 1 to 4) by Age and Treatment Patient Age (years) ⬍ 60 Toxicity 
+
+Letrozole 
+
+Placebo 
+
+No. of patients Edema Hypertension Hot flushes Fatigue Sweating Anorexia Constipation Diarrhea Nausea Vaginal bleeding Infection w/o neutropenia Arthritis High cholesterol* Dizziness Insomnia Depression Headache Arthralgia Myalgia Bone pain Dyspnea Alopecia Vaginal dryness 
+
+1,063 20 3 68 35 37 4 13 6 11 8 5 4 16 16 7 6 30 27 15 5 4 5 8 
+
+1,089 18 4 66 36 35 2 14 5 12 12 4 4 16 16 7 5 30 19 12 4 5 4 8 
+
+ⱖ 70 
+
+60-69 P 
+
+Letrozole 
+
+Placebo 
+
+.25 .28 .18 .50 .29 .14 .64 .32 .51 .007 .45 .44 .63 .85 .51 .61 .93 ⬍ .001 .03 .41 .37 .24 .93 
+
+834 22 7 59 39 30 6 13 7 14 4 5 7 17 18 7 5 28 26 15 6 6 5 5 
+
+860 19 6 52 37 28 5 15 7 11 6 4 6 18 14 4 5 28 20 12 7 5 3 4 
+
+P 
+
+Letrozole 
+
+Placebo 
+
+P 
+
+.14 .38 .003 .49 .61 .63 .35 .75 .06 .08 .47 .40 .73 .07 .014 .80 .86 .005 .09 .27 .33 .03 .16 
+
+681 25 6 40 45 20 9 16 8 10 4 5 9 15 21 4 5 22 21 14 5 9 4 2 
+
+642 27 6 35 44 20 6 16 10 13 3 5 7 14 23 4 5 19 24 12 6 10 3 1 
+
+.31 .86 .09 .84 .95 .11 .84 .19 .10 .47 .91 .15 .55 .40 .86 .62 .11 .24 .26 .70 .73 .21 .15 
+
+*Change from normal to high from ␹2 test for the comparison in the incidence of toxicity between letrozole and placebo. 
+
+6 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Letrozole or Placebo in Older Women With Early Breast Cancer 
+
+MENQOL vasomotor domain (0.03 v ⫺0.37; P ⫽ .001) at 12 months. The only significant difference in QOL at 24 months for the age group 70 years and older was increased MENQOL vasomotor symptoms (0.07 v ⫺0.3; P ⫽ .02), which became similar to placebo at 36 months (⫺0.3 v ⫺0.4; P ⫽ 1.0). For the SF-36 domains, the differences observed ranged between 2 and 4 points on a 100-point scale, or 0.1 and 0.2 of a standard deviation. For the MENQOL domains, the differences observed were 0.4 points on a 7-point scale, or less than 0.3 of a standard deviation. 
+
+DISCUSSION 
+
+Although letrozole was found to be significantly better than placebo for both DFS and DDFS only in women younger than 60 years, and numerical estimates in Tables 2 and 3 indicate that the benefits in terms of DFS and DDFS are greatest in the younger group, there was no statistically significant interaction between age and treatment for DFS, DDFS, or OS, indicating that the effect of letrozole is homogenous among age groups. Moreover, MA.17 showed an OS 
+
+Table 5. Effect of Letrozole Versus Placebo in Women ⱖ 70 Years on Quality of Life (SF-36) and Menopausal Symptoms (MENQOL) at Baseline and 24 Months Letrozole Domain and Scale SF-36 Physical health Baseline 24 monthsⴱ Role function, physical Baseline 24 months Bodily pain Baseline 24 months General health Baseline 24 months Vitality Baseline 24 months Social function Baseline 24 months Role function, emotional Baseline 24 months Mental health Baseline 24 months Physical, overall Baseline 24 months Mental, overall Baseline 24 months MENQOL Vasomotor Baseline 24 months Psychosocial Baseline 24 months Physical Baseline 24 months Sexual Baseline 24 months 
+
+Placebo 
+
+No. of Patients 
+
+Mean 
+
+SD 
+
+No. of Patients 
+
+Mean 
+
+SD 
+
+485 225 
+
+64 ⫺6.4 
+
+27 19 
+
+438 188 
+
+65 ⫺6.0 
+
+27 23 
+
+484 221 
+
+70 ⫺8.7 
+
+38 43 
+
+439 187 
+
+74 ⫺12.0 
+
+36 44 
+
+489 229 
+
+72 ⫺2.0 
+
+24 21 
+
+441 189 
+
+75 ⫺7.0 
+
+22 23 
+
+484 223 
+
+72 ⫺3.0 
+
+17 17 
+
+435 182 
+
+73 ⫺4.0 
+
+18 18 
+
+488 227 
+
+63 ⫺5.3 
+
+20 17 
+
+440 188 
+
+62 ⫺4.7 
+
+20 18 
+
+488 228 
+
+91 ⫺6.9 
+
+16 22 
+
+439 187 
+
+91 ⫺4.8 
+
+19 23 
+
+P .66 
+
+.33 
+
+.05 
+
+.99 
+
+.51 
+
+.49 
+
+.87 477 220 
+
+85 ⫺11.5 
+
+30 38 
+
+434 182 
+
+84 ⫺11.9 
+
+30 41 
+
+488 227 
+
+91 ⫺4.4 
+
+16 16 
+
+440 188 
+
+81 ⫺3.8 
+
+15 15 
+
+470 211 
+
+43 ⫺1.5 
+
+11 8 
+
+426 171 
+
+45 ⫺2.5 
+
+10 9 
+
+470 211 
+
+56 ⫺2.8 
+
+7 9 
+
+426 171 
+
+55 ⫺2.2 
+
+8 9 
+
+473 209 
+
+1.8 0.1 
+
+1.3 1.3 
+
+423 177 
+
+2.0 ⫺0.3 
+
+1.5 1.2 
+
+472 209 
+
+2.0 0.1 
+
+1.0 1.0 
+
+419 170 
+
+2.1 0.2 
+
+1.0 1.1 
+
+470 208 
+
+2.6 0.1 
+
+1.1 1.0 
+
+423 178 
+
+2.6 0.1 
+
+1.1 1.1 
+
+386 152 
+
+1.6 0.0 
+
+1.2 1.3 
+
+343 111 
+
+1.6 ⫺0.2 
+
+1.3 1.0 
+
+.52 
+
+.18 
+
+.33 
+
+.02 
+
+.72 
+
+.98 
+
+.26 
+
+Abbreviations: SF-36, Medical Outcomes Short Form 36-item questionnaire; MENQOL, Menopause-Specific Quality-of-Life questionnaire; SD, standard deviation. ⴱ Increase (positive value) or decrease (negative value) from baseline. 
+
+7 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Muss et al 
+
+advantage for all node-positive patients. In this age-directed subset analysis, only node-positive patients age ⱖ 70 years had significant improvements in OS without significant improvements in DFS and OS—an observation likely due to chance. Overall, our data do suggest that healthy elders should be considered for extended adjuvant endocrine therapy as they are more likely to have both hormone-receptor positive and lower grade tumors.20,21 It has been shown that younger postmenopausal women experience a higher frequency of menopausal symptoms with endocrine therapy than older postmenopausal women.22 In women age ⱖ 70 years in this trial, toxicity was similar among letrozoleand placebo-treated patients. This is noteworthy, given that overall, letrozole-treated patients were more likely to have more hot flushes, arthralgia, myalgia, and alopecia—adverse effects related to estrogen depletion. Although fractures and new osteoporosis were similar in older patients receiving letrozole and placebo, follow-up was short and elders should be monitored carefully because bone mass decreases with age, making them more vulnerable for clinical consequences of bone loss. The effects of AIs on bone metabolism and recommendations for monitoring and managing these patients have been extensively reviewed.23 Guidelines for monitoring bone density have also been developed by the American Society of Clinical Oncology.24 It is important to note that all women randomly assigned to MA.17 had completed 5 years of prior tamoxifen therapy. Thus women highly intolerant of any form of endocrine therapy or who could not tolerate tamoxifen may not be represented in this trial. Similarly, women with significant osteoporotic or cardiovascular risk factors may have declined trial participation. For example, it is possible that the 5 years of tamoxifen therapy that preceded letrozole in this trial was associated with better bone density than in patients who receive AIs as initial therapy. QOL for older patients on this trial was initially poorer in those receiving letrozole but only a mild increase in vasomotor symptoms for letrozole-treated patients was noted at 36 months. This is noteworthy because for all patients on this trial, our prior analysis showed a significant worsening in QOL for patients who experienced bodily pain (51% letrozole v 47% placebo) or vasomotor symptoms (29% letrozole v 22% placebo).16 Discontinuation of treatment was noted in 24% of older patients and was significantly higher than in younger patients, but there was no difference in the percent of older patients who discontinued treatment in the letrozole or placebo groups. It is well understood that comorbidity increases with age.25 As age increases, the likelihood of dying of a nonbreast cancer cause increases irrespective of breast cancer stage.26 It is most likely that the higher rate of treatment discontinuation for older women in this trial was due to the development or worsening of other serious illness that minimized the risk of breast cancer relapse and led to discontinuation of treatment. The decision to use letrozole after 5 years of tamoxifen therapy is an important one, and requires a frank discussion between the patient and health care provider. Many older patients with life expectancies of more than 5 years, if offered 
+
+8 
+
+letrozole, are likely to take it for a small percentage reduction in the chance of relapse. Our data show no interaction between the benefits of letrozole and age, and for patients 70 years or older there is no increase in any reported toxicities compared with placebo. QOL assessment in these older patients showed only a modest decrease with letrozole treatment compared with placebo, and these changes are not likely to have a major effect on function. In summary, letrozole was well tolerated by older women in this trial, and healthy older patients who have completed 5 years of tamoxifen should be considered for extended adjuvant endocrine therapy with letrozole. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: James N. Ingle, AstraZeneca (C), Novartis (C), Pfizer Inc (C); Martine J. Piccart, Novartis (C); Kathleen I. Pritchard, Sanofi-aventis (C), AstraZeneca (C), Roche (C), Pfizer Inc (C), Ortho Biotech (C), YM BioSciences (C), Biomira (C), Novartis (C), Aegera Therapeutics (C); Paul E. Goss, Novartis (C) Stock Ownership: None Honoraria: Martine J. Piccart, Novartis; Kathleen I. Pritchard, Sanofi-aventis, AstraZeneca, Pfizer Inc, Roche, Aegera Therapeutics, YM BioSciences, Novartis Research Funding: Nicholas J. Robert, Novartis; Martine J. Piccart, Novartis; Kathleen I. Pritchard, AstraZeneca, YM BioSciences, Bristol-Myers Squibb Co, Sanofi-aventis, Amgen, Ortho Biotech, Pfizer Inc, Novartis; Paul E. Goss, Novartis Expert Testimony: Kathleen I. Pritchard, Sanofi-aventis (C), AstraZeneca (C) Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Hyman B. Muss, Paul E. Goss Administrative support: Joseph L. Pater, Michael J. Palmer Collection and assembly of data: Hyman B. Muss, Dongsheng Tu, James N. Ingle, Joseph L. Pater, Timothy J. Whelan, Michael J. Palmer, Lois E. Shepherd, Zhi He, Paul E. Goss Data analysis and interpretation: Hyman B. Muss, Dongsheng Tu, James N. Ingle, Silvana Martino, Nicholas J. Robert, Joseph L. Pater, Timothy J. Whelan, Michael J. Palmer, Martine J. Piccart, Lois E. Shepherd, Kathleen I. Pritchard, Zhi He, Paul E. Goss Manuscript writing: Hyman B. Muss, Dongsheng Tu, James N. Ingle, Silvana Martino, Nicholas J. Robert, Joseph L. Pater, Timothy J. Whelan, Michael J. Palmer, Martine J. Piccart, Lois E. Shepherd, Kathleen I. Pritchard, Zhi He, Paul E. Goss Final approval of manuscript: Hyman B. Muss, Dongsheng Tu, James N. Ingle, Silvana Martino, Nicholas J. Robert, Joseph L. Pater, Timothy J. Whelan, Michael J. Palmer, Martine J. Piccart, Lois E. Shepherd, Kathleen I. Pritchard, Zhi He, Paul E. Goss 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+Letrozole or Placebo in Older Women With Early Breast Cancer 
+
+REFERENCES 1. Jemal A, Tiwari RC, Murray T, et al: Cancer statistics, 2004. CA Cancer J Clin 54:8-29, 2004 2. Hébert-Croteau N, Brisson J, Latreille J, et al: Compliance with consensus recommendations for systemic therapy is associated with improved survival of women with node-negative breast cancer. J Clin Oncol 22:3685-3693, 2004 3. Bouchardy C, Rapiti E, Fioretta G, et al: Undertreatment strongly decreases prognosis of breast cancer in elderly women. J Clin Oncol 21: 3580-3587, 2003 4. Eaker S, Dickman PW, Bergkvist L, et al: Differences in management of older women influence breast cancer survival: Results from a population-based database in Sweden. PLoS Med 3:e25, 2006 5. Tai P, Cserni G, Van De SJ, et al: Modeling the effect of age in T1-2 breast cancer using the SEER database. BMC Cancer 5:130, 2005 6. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1665-1666, 2005 7. Stewart HJ, Prescott RJ, Forrest AP: Scottish adjuvant tamoxifen trial: A randomized study updated to 15 years. J Natl Cancer Inst 93:456-462, 2001 8. Fisher B, Dignam J, Bryant J, et al: Five versus more than five years of tamoxifen therapy for breast cancer patients with negative lymph nodes and estrogen receptor- positive tumors. J Natl Cancer Inst 88:1529-1542, 1996 9. Delozier T, Spielmann DT, Janvier M, et al: Optimal duration of adjuvant tamoxifen (TAM) in early breast cancer (EBC): Ten year results of a 
+
+randomized trial (TAM-01) of the FNCLCC Breast Group. Breast Cancer Res Treat 94:S10, 2005 (abstr 14) 10. Howell A, Cuzick J, Baum M, et al: Results of the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial after completion of 5 years’ adjuvant treatment for breast cancer. Lancet 365:60-62, 2005 11. Coates AS, Keshaviah A, Thurlimann B, et al: Five years of letrozole compared with tamoxifen as initial adjuvant therapy for postmenopausal women with endocrine-responsive early breast cancer: Update of study BIG 1-98. J Clin Oncol 25:486-492, 2007 12. Coombes RC, Hall E, Gibson LJ, et al: A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 350:1081-1092, 2004 13. Jakesz R, Jonat W, Gnant M, et al: Switching of postmenopausal women with endocrineresponsive early breast cancer to anastrozole after 2 years’ adjuvant tamoxifen: Combined results of ABCSG trial 8 and ARNO 95 trial. Lancet 366:455462, 2006 14. Goss PE, Ingle JN, Martino S, et al: Randomized trial of letrozole following tamoxifen as extended adjuvant therapy in receptor-positive breast cancer: Updated findings from NCIC CTG MA.17. J Natl Cancer Inst 97:1262-1271, 2005 15. National Center for Health and Statistics: Tables on trends in health and aging; life expectancy. http://www.cdc.gov 16. Whelan TJ, Goss PE, Ingle JN, et al: Assessment of quality of life in MA. 17: A randomized, placebo-controlled trial of letrozole after 5 years of tamoxifen in postmenopausal women. J Clin Oncol 23:6931-6940, 2005 17. Goss PE, Ingle JN, Martino S, et al: A randomized trial of letrozole in postmenopausal women 
+
+after five years of tamoxifen therapy for early-stage breast cancer. N Engl J Med 349:1793-1802, 2003 18. Ware JE, Kosinski M, Keller SD: SF-36 Physical and Mental Summary Scales: A Users Manual (ed 3). Boston, MA, The Health Institute, New England Medical Center, 1994 19. Hilditch JR, Lewis J, Peter A, et al: A menopause-specific quality of life questionnaire: Development and psychometric properties. Maturitas 24:161-175, 1996 20. Diab SG, Elledge RM, Clark GM: Tumor characteristics and clinical outcome of elderly women with breast cancer. J Natl Cancer Inst 92:550-556, 2000 21. Daidone MG, Coradini D, Martelli G, et al: Primary breast cancer in elderly women: Biological profile and relation with clinical outcome. Crit Rev Oncol Hematol 45:313-325, 2003 22. Day R: Quality of life and tamoxifen in a breast cancer prevention trial: A summary of findings from the NSABP P-1 study—National Surgical Adjuvant Breast and Bowel Project. Ann N Y Acad Sci 949: 143-150, 2001 23. Chien AJ, Goss PE: Aromatase inhibitors and bone health in women with breast cancer. J Clin Oncol 24:5305-5312, 2006 24. Hillner BE, Ingle JN, Chlebowski RT, et al: American Society of Clinical Oncology 2003 update on the role of bisphosphonates and bone health issues in women with breast cancer. J Clin Oncol 21:4042-4057, 2003 25. Yancik R, Wesley MN, Ries LA, et al: Effect of age and comorbidity in postmenopausal breast cancer patients aged 55 years and older. JAMA 285: 885-892, 2001 26. Schairer C, Mink PJ, Carroll L, et al: Probabilities of death from breast cancer and other causes among female breast cancer patients. J Natl Cancer Inst 96:1311-1321, 2004 
+
+■ ■ ■ 
+
+9 
+
+www.jco.org 
+
+Information downloaded from jco.ascopubs.org and provided by Novartis Global on March 17, 2008 from 219.141.247.4. Copyright © 2008 by the American Society of Clinical Oncology. All rights reserved. 
+
+ 

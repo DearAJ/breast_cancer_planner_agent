@@ -1,0 +1,521 @@
+Original Reports | Breast Cancer 
+
+OPAR: A Randomized Trial of Partial Breast Irradiation in Five Fractions Once Daily for Early Breast Cancer Do-Hoon Kim, MD1; Valerie Théberge, MD2; Sameer Parpia, PhD3 ; Iwa Kong, MD4; Sawyna Provencher, MD5; Michael Yassa, MD6; Francisco Perera, MD7; Sophie Lavertu, MD8 ; Pierre Rousseau, MD9; Justin Lee, MD1 ; Irene Karam, MD10; Kenneth Schneider, MD11; Mark N. Levine, MD3 ; and Timothy J. Whelan, BM, BCh1 ; on behalf of the OPAR Study Investigators DOI https://doi.org/10.1200/JCO.24.00600 
+
+ACCOMPANYING CONTENT 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+ABSTRACT PURPOSE Previous studies suggest that external-beam partial breast irradiation (PBI) delivered twice a day can lead to increased adverse cosmesis (AC). The objective of our trial was to determine whether two regimens for PBI given once daily over 1 week resulted in acceptable AC to inform a phase III trial. METHODS Patients age ≥50 years with invasive breast cancer or ductal carcinoma in situ, ≤3 cm in size treated by lumpectomy with negative axillary nodes were randomly assigned to external-beam PBI of 30 Gy or 27.5 Gy, each given in ﬁve fractions once daily. The primary outcome was AC (fair or poor) by photographic assessment at 2 years. Secondary outcomes included AC assessed by nurse at 2 years, by patient self-assessment at 3 years, and late toxicity. On the basis of a 17% risk of AC with whole-breast irradiation, the upper bound of a two-sided 90% CI, 23% was set as the tolerance margin (OPAR, ClinicalTrials.gov identiﬁer: NCT02637024). RESULTS In total, 142 patients were randomly assigned to 30 Gy and 139 to 27.5 Gy. The median follow-up was 5 years. The mean age was 65 years, and the mean tumor size was 1.2 cm. Both schedules met acceptability criteria by photographic assessment (AC, 12.1% [90% CI, 8.2 to 17.6] for 30 Gy and 15.2% [90% CI, 10.8 to 21.1] for 27.5 Gy) and by nurse assessment. AC by patient self-assessment exceeded the 90% CI for the 30 Gy regimen. At 5 years, 16 (11.3%, 90% CI, 7.6 to 16.4) patients treated with 30 Gy and eight (5.8%, 90% CI, 3.3 to 9.9) patients treated with 27.5 Gy were observed to have grade 2 or more late toxicity. 
+
+Editorial, p. 481 Appendix Protocol Accepted August 20, 2024 Published October 8, 2024 J Clin Oncol 43:505-512 © 2024 by American Society of Clinical Oncology 
+
+View Online Article 
+
+CONCLUSION According to the study design, 30 Gy and 27.5 Gy resulted in acceptable cosmetic outcomes. In light of recent studies, a lower dose was chosen for the phase III trial. 
+
+INTRODUCTION Partial breast irradiation (PBI) is the delivery of radiation limited to the tumor bed with a margin of normal tissue after breast-conserving surgery (BCS) for early breast cancer. It was developed on the basis of the observation that most local recurrences in the breast occur at the site of the primary tumor.1,2 There are a number of different methods to provide PBI, including external-beam radiotherapy (RT), brachytherapy, and intraoperative RT. The rates of local recurrence are similar with PBI delivered with external beam or brachytherapy, and conventional whole-breast irradiation (WBI).3-7 External-beam RT is attractive as it is noninvasive and uses standard linear accelerators and planning systems that are widely available. When PBI was developed, it was hypothesized that in addition to its efﬁcacy, the smaller treatment volume 
+
+would result in less late toxicity compared with WBI. In our previous RAPID trial, where 2,135 women were randomly assigned to PBI using external-beam RT of 38.5 Gy in 10 fractions delivered twice daily or usual WBI (42.5 Gy in 16 daily fractions or 50 Gy in 25 daily fractions with or without boost irradiation) after BCS,7 the local recurrence rates at 8 years were similar, 3.0% versus 2.8% (hazard ratio, 1.27, 90% CI, 0.86 to 1.91). The fractionation schedule for PBI was modeled after high-dose brachytherapy and was given twice daily (with an interfraction interval ≥6 hours) for 5 days. A planned interim analysis showed that PBI was associated with increased late toxicity and adverse cosmesis (AC) at 3 years compared with WBI (29% v 17%, P < .001).8 An Italian trial of PBI using a similar fraction schedule has also observed increased toxicity.9 We analyzed the technical aspects of treatment delivery in RAPID and concluded that the most likely cause 
+
+ascopubs.org/journal/jco | Volume 43, Issue 5 | 505 
+
+Kim et al 
+
+CONTEXT 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Key Objective In patients who having undergone breast-conserving surgery for breast cancer, are two partial breast radiation regimens, 30 Gy or 27.5 Gy, given once daily for ﬁve treatments over 1 week associated with acceptable adverse cosmesis (AC) at 2 years? Knowledge Generated On the basis of the upper bound of the two-sided 90% CI in a randomized phase II design, both schedules met the prespeciﬁed boundary for acceptable AC of <23% at 2 years: 12.1% (90% CI, 8.2 to 17.6) for 30 Gy and 15.2% (90% CI, 10.8 to 21.1) for 27.5 Gy. The 5-year rates of local recurrence were low for both treatments. Relevance (J.P.S. Knisely) Hypofractionated breast irradiation regimens must balance the risk of AC and tumor control expectations. This study and other clinical trials ﬁndings have informed the authors’ choice of a radiation dose of 26 Gy in ﬁve daily fractions for a phase III trial (RAPID 2) for women with low-risk breast cancer who will be randomized to receive this dose to either partial breast or whole breast portals with the goal of assessing both cosmesis and local control.* *Relevance section written by JCO Associate Editor Jonathan P.S. Knisely, MD. 
+
+of increased morbidity was the shorter interfraction interval of 6 hours,10 as has been observed in other nonbreast cancer studies of twice-daily RT.11 On the basis of these results, we initiated a randomized phase II trial to evaluate PBI delivered once daily for ﬁve treatments. Two fraction schedules were evaluated: 30 Gy or 27.5 Gy in ﬁve fractions. The objective of this phase II trial was to determine whether two alternative schedules for PBI would result in acceptable long-term morbidity compared with the historical experience with WBI. The schedule with the most acceptable long-term morbidity was to be further investigated in a phase III trial. 
+
+METHODS Study Design and Participants OPAR (ClinicalTrials.gov identiﬁer: NCT02637024) was a multicenter, randomized trial performed in 11 cancer centers in Canada. Eligible patients were women 50 years or older with invasive ductal carcinoma or ductal carcinoma in situ (DCIS) with tumor size ≤3 cm who had undergone BCS with microscopically clear margins and negative axillary lymph nodes. Nodal status was determined by sentinel node biopsy or axillary dissection for those with invasive disease. Exclusion criteria included lobular carcinoma, multicentric disease, grade 3 histology, triple-negative disease, invasive human epidermal growth factor receptor 2 (HER2)–positive disease not treated with trastuzumab, or an RT plan that did not meet protocol-deﬁned dose volume constraints for PBI. Ethics approval was obtained by the institutional review board of each participating center, and written informed consent was obtained from all patients. 506 | © 2024 by American Society of Clinical Oncology 
+
+Random Assignment and Treatment Eligible patients were randomly allocated (1:1) by contacting the Ontario Clinical Oncology Group coordinating center in Hamilton, Ontario, to either PBI 30 Gy in ﬁve daily fractions of 6 Gy or 27.5 Gy in ﬁve daily fractions of 5.5 Gy over a period of 5-8 days. All patients were CT-planned and treated with externalbeam RT in the supine position. Patients were treated with 3-5 non-coplanar, conformal ﬁelds using either three-dimensional conformal RT (3D-CRT) or intensitymodulated radiation therapy (IMRT) techniques. The clinical target volume was the tumor bed including surgical clips, plus a 1-cm margin excluding chest wall, pectoralis major, and 5 mm from skin. The planning target volume included an additional 1 cm expansion. Other radiation planning details were similar to the previous RAPID trial.7 Radiation therapy was administered within 12 weeks of surgery if the patient was not treated with chemotherapy. If the patient was treated with adjuvant chemotherapy, radiation therapy began within 8 weeks after the last dose of chemotherapy. If the patient was treated with endocrine therapy, treatment could be started before radiation or after. Trastuzumab was given concurrently with RT. There was a comprehensive RT quality assurance program to ensure RT was administered according to protocol. The ﬁrst ﬁve cases on study from each center underwent a review before the start of treatment, and centers were asked to continue to submit plans for review until three cases were 
+
+Partial Breast Irradiation 
+
+submitted without major deviations. All other cases underwent a ﬁnal review within 1 month of completion of treatment. 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Outcomes The primary outcome was AC determined by photographic assessment at 2 years after random assignment by a panel of three trained radiation oncologists unaware of treatment allocation. Cosmesis was assessed using the European Organisation for Research and Treatment of Cancer (EORTC) Cosmetic Rating System as used in our previous trial.7 The panel compared the treated versus untreated breast for size, shape, location of areola/nipple, telangiectasia, scar, and global score on the basis of these factors. Global score was graded on a four-point scale: 0 5 Excellent, 1 5 Good, 2 5 Fair, 3 5 Poor. A global cosmetic score of fair or poor was used to deﬁne AC. Important secondary outcomes included AC assessed by clinical trial nurses at the point of care at 2 years using the EORTC scale. During the COVID pandemic, we were concerned that patients would not be able to attend clinic for assessment and added a self-assessment of AC by patients at 3 years using the EORTC scale. Late toxicity including breast edema, pain, induration, and telangiectasia was assessed according to National Cancer Institute Common Terminology Criteria for Adverse Events v.4.02 at each follow-up visit. Other outcomes included local recurrence, any recurrence, and mortality. Local recurrence was deﬁned as any invasive or noninvasive cancer in the treated breast. Patients were followed for toxicity and recurrence at 1, 2, 3, and 5 years after random assignment. A mammogram was performed yearly. 
+
+Statistical Analysis The goal was to determine whether either of two treatment regimens under consideration was promising enough to be pursued in a subsequent phase III study. If the once daily treatment approach was to be worthy of further evaluation, the technique should not cause morbidity in excess of what was expected with WBI, the standard of care at the time. In the RAPID trial, 17% of WBI patients were observed to have AC at 3 years.8 The sample size for the OPAR trial was based on the need to obtain a precise estimate of the proportion of patients in each once daily radiation treatment group experiencing AC (fair/poor global score). On the basis of this consideration and a one-sided alpha of 5% for each group, the upper bound of a one-sided 95% (two-sided 90%) CI had to be <23% for the treatment to be acceptable requiring 140 patients for each group (280 in total). The study was initially begun as a pilot trial in 60 patients. When it was observed that acute grade 2 toxicity (within 3 months of RT) was <8% in each group and no grade 2 or more late toxicity was observed at 2 years in the ﬁrst 20 patients randomly assigned, enrollment was continued. As a consequence, accrual to the trial took place over two periods: for the pilot from November 2011 to September 2013 and then from June 2016 to December 2017 to complete accrual to the trial. All patients were followed for 5 years. The proportions of patients with AC at 2 years with corresponding two-sided 90% CIs were estimated using the Wilson score method. A similar analysis was performed for the proportions of patients with AC at 2 years by nursing assessment and at 3 years by patient assessment. The proportions of patients with any late breast toxicity (edema, 
+
+Enrolled (N = 281) 
+
+R 
+
+30.0 Gy (n = 142) 
+
+27.5 Gy (n = 139) 
+
+Withdrew before treatment (n = 2) 
+
+Received intended treatment (n = 140) 
+
+Withdrew during follow-up (n = 5) 
+
+Included in analysis (n = 140) 
+
+Withdrew before treatment (n = 2) 
+
+Received intended treatment (n = 137) 
+
+Withdrew during follow-up (n = 3) 
+
+Included in analysis (n = 137) 
+
+FIG 1. CONSORT diagram. 
+
+Journal of Clinical Oncology 
+
+ascopubs.org/journal/jco | Volume 43, Issue 5 | 507 
+
+Kim et al TABLE 1. Patient and Treatment Characteristics 30 Gy (n 5 142) 
+
+Characteristic 
+
+27.5 Gy (n 5 139) 
+
+Age (years), mean (SD) 
+
+65 (0.7) 
+
+65 (0.8) 
+
+Tumor size (cm), mean (SD) 
+
+1.1 (0.6) 
+
+1.2 (0.6) 
+
+Invasive 
+
+127 (89) 
+
+122 (88) 
+
+DCIS 
+
+15 (11) 
+
+17 (12) 
+
+Histology, No. (%) 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Tumor grade, No. (%) I 
+
+73 (51) 
+
+69 (50) 
+
+II 
+
+69 (49) 
+
+70 (50) 
+
+127 (100) 
+
+122 (100) 
+
+Positive 
+
+119 (94) 
+
+118 (97) 
+
+Negative 
+
+8 (4) 
+
+4 (3) 
+
+Positive 
+
+2 (2) 
+
+3 (2) 
+
+Negative 
+
+121 (95) 
+
+116 (95) 
+
+4 (3) 
+
+3 (3) 
+
+Endocrine 
+
+95 (75) 
+
+98 (80) 
+
+Chemotherapy 
+
+3 (2) 
+
+4 (3) 
+
+Trastuzumab 
+
+2 (2) 
+
+3 (2) 
+
+3D-CRT 
+
+107 (76) 
+
+107 (78) 
+
+Forward-planned IMRT 
+
+22 (16) 
+
+20 (15) 
+
+Inverse-planned IMRT 
+
+11 (8) 
+
+10 (7) 
+
+Seroma volume, mean (cc) 
+
+17.5 
+
+15.5 
+
+95% prescribed dose (V95) 
+
+21 
+
+20 
+
+50% prescribed dose (V50) 
+
+40 
+
+39 
+
+ER status, No. (%)a Positive PR status, No. (%) 
+
+a 
+
+HER2 status, No. (%)a 
+
+Not available Systemic therapy, No. (%)a,b 
+
+Baseline characteristics were similar between treatment groups (Table 1). The mean age was 65 years, the mean tumor size was 1.2 cm, 249 (89%) had invasive disease, and 32 (11%) had DCIS. For invasive disease, 249 (100%) were estrogen receptor–positive and ﬁve (2%) were HER2positive; 193 (78%) received systemic adjuvant therapy, mostly endocrine therapy only, and ﬁve (2%) were treated with trastuzumab (Table 1). The majority of patients were treated with 3D-CRT (n 5 214, 77%) or forward-planned ﬁeld-in-ﬁeld IMRT (n 5 42, 15%), and a minority of patients were treated with inverse-planned IMRT (n 5 21, 8%). In terms of radiation treatment characteristics, the mean seroma volume was 16.5 cc, the mean % breast volume receiving 95% prescribed dose was 20.5%, and the mean % breast volume receiving 50% prescribed dose was 39.5%. 
+
+Cosmetic Outcome Table 2 lists the proportion of patients with AC. At baseline, the proportions of patients with AC by photographic assessment were 8.7% (90% CI, 5.5 to 13.4) and 8.9% (90% CI, 5.6 to 13.8) for those allocated to 30 Gy and 27.5 Gy, respectively. At 2 years, there was a slight worsening in each group: 12.1% (90% CI, 8.2 to 17.6) and 15.2% (90% CI, 10.8 to 21.1), but both groups met our criteria for acceptable toxicity (upper 90% CI <23%). 
+
+Radiation therapy, No. (%)c 
+
+% Breast receiving, mean (%) 
+
+Abbreviations: 3D-CRT, three-dimensional conformal radiation therapy; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; IMRT, intensity-modulated radiation therapy; PR, progesterone receptor. a Only for patients with invasive disease. b Not mutually exclusive (patients could be treated with more than one type of therapy). c Excluding 4 patients who withdrew before treatment. 
+
+pain, induration, and telangiectasia) up to 2 and 5 years were also determined. The cumulative incidence of local recurrence, any recurrence, and mortality for each randomized group was determined using the Kaplan-Meier method. 
+
+The proportions of patients with AC by nurse assessment at baseline were 11.4% (90% CI, 7.7 to 16.6) and 12.0% (90% CI, 8.1 to 17.4), respectively. At 2 years, there was little change overtime, although there was a suggestion of some improvement for 27.5 Gy (Table 2). Both groups met our criteria for acceptable cosmesis. The proportions of patients with AC by self-report at 3 years were 20.1% (90% CI, 13.6 to 30.0) for 30 Gy and 13.0% (90% CI, 7.6 to 21.4) in the 27.5-Gy arm. Only the latter regimen met the criteria for acceptable cosmesis. 
+
+Normal Tissue Toxicity Figure 2 shows a proportion of patients with select grade 2 or more late toxicities for each dose schedule at 2 and 5 years. At 2 years, 12 (8.5%, 90% CI, 5.4 to 13.1) patients treated with 30 Gy and six (4.3%, 90% CI, 2.3 to 8.1) patients with 27.5 Gy were observed to have grade 2 or more toxicity. At 5 years, 16 (11.3%, 90% CI, 7.6 to 16.4) patients and eight (5.8%, 90% CI, 3.3 to 9.9) patients, respectively, were observed to have grade 2 or more toxicity. Over the course of the study, there was no grade 2 or more toxicities for breast edema or telangiectasia, and two patients treated with 30 Gy were observed to have grade 3 toxicity (induration). No grade 4 toxicities or rib fractures were reported. 
+
+RESULTS Cancer Outcomes A total of 281 patients were enrolled on the trial: 142 assigned to 30 Gy and 139 to 27.5 Gy. Four patients, two in each group, withdrew before receiving the intended treatment. Eight patients, ﬁve in the 30 Gy group and three in the 27.5 Gy group, did not complete follow-up due to withdrawal (Fig 1). 508 | © 2024 by American Society of Clinical Oncology 
+
+Three local recurrences were observed over the 5-year follow-up period: one patient treated with 30 Gy and two patients treated with 27.5 Gy for a 5-year risk of 1.0% (95% CI, 0.0 to 2.1) and 1.5% (95% CI, 0.0 to 3.1), respectively 
+
+Partial Breast Irradiation TABLE 2. Proportion of Patients With Adverse Cosmesis Reported by Physician Photographic Assessment, Nurse Assessment, and Patient Self-Report 30 Gy Assessment Type 
+
+No. 
+
+27.5 Gy % (90% CI) 
+
+No. 
+
+% (90% CI) 
+
+Photographic assessment Baseline 
+
+12 of 138 
+
+8.7 (5.5 to 13.4) 
+
+12 of 135 
+
+8.9 (5.6 to 13.8) 
+
+2 years 
+
+16 of 132 
+
+12.1 (8.2 to 17.6) 
+
+20 of 131 
+
+15.2 (10.8 to 21.1) 
+
+Baseline 
+
+16 of 140 
+
+11.4 (7.7 to 16.6) 
+
+16 of 133 
+
+12.1 (8.1 to 17.4) 
+
+2 years 
+
+17 of 132 
+
+12.9 (8.8 to 18.4) 
+
+10 of 130 
+
+7.7 (4.7 to 12.5) 
+
+19 of 95 
+
+20.1 (13.6 to 30.0) 
+
+12 of 92 
+
+13.0 (7.6 to 21.4) 
+
+Patient self-assessment 3 years 
+
+(Table 3). Two of the recurrences were DCIS only and one was invasive. One (DCIS) was a true local recurrence and two were elsewhere recurrences. There were six recurrences (local, 
+
+A 
+
+regional, or distant) in total, two for 30 Gy and four for 27.5 Gy for 5-year risks of 1.5% (95% CI, 0.0 to 3.5) and 2.9% (95% CI, 0.1 to 5.8), respectively. Contralateral breast 
+
+12 10 
+
+% Patients 
+
+12 (9%) 
+
+8 10 (7%) 
+
+6 6 (4%) 
+
+4 4 (3%) 3 (2%) 
+
+3 (2%) 
+
+2 0 Breast Pain 
+
+Induration 
+
+Any Toxciity 
+
+2-Year Toxicity 30 Gy 
+
+B 
+
+27.5 Gy 
+
+12 
+
+16 (11%) 14 (10%) 
+
+10 
+
+% Patients 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Nurse assessment 
+
+8 8 (6%) 
+
+6 4 
+
+5 (4%) 
+
+5 (4%) 3 (2%) 
+
+2 0 Breast Pain 
+
+Induration 
+
+Any Toxciity 
+
+5-Year Toxicity 30 Gy 
+
+27.5 Gy 
+
+FIG 2. Grade 2 or more late toxicity for 30 Gy and 27.5 Gy at (A) 2 years and (B) 5 years. 
+
+Journal of Clinical Oncology 
+
+ascopubs.org/journal/jco | Volume 43, Issue 5 | 509 
+
+Kim et al TABLE 3. Disease Recurrence, Second Cancers, and Death 30 Gy (n 5 140) 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Event 
+
+27.5 Gy (n 5 137) 
+
+No. of Patients With Event (%) 
+
+Local (in breast) 
+
+1 (0.7) 
+
+2 (1) 
+
+Local only 
+
+1 (0.7) 
+
+1 (0.7) 
+
+Local and distant 
+
+0 (0) 
+
+1 (0.7) 
+
+Regional only 
+
+1 (0.7) 
+
+0 (0) 
+
+Distant only 
+
+0 (0) 
+
+2 (1) 
+
+Contralateral breast cancer 
+
+3 (2) 
+
+2 (1) 
+
+New primary nonbreast cancers 
+
+6 (4) 
+
+5 (4) 
+
+Deaths 
+
+2 (1) 
+
+3 (2) 
+
+Breast cancer–related 
+
+0 (0) 
+
+1 (0.7) 
+
+Nonbreast cancer–related 
+
+2 (1) 
+
+2 (1) 
+
+cancers and non-breast new primary cancers were similar in both groups (Table 3). There were ﬁve deaths, two for 30 Gy and three for 27.5 Gy for 5-year risks of 1.4% (95% CI, 0.0 to 3.4) and 2.2% (95% CI, 0.0 to 4.7), respectively. 
+
+DISCUSSION In our previous RAPID trial comparing PBI using externalbeam 3D-CRT or IMRT with WBI, we observed similar rates of local recurrence at 8 years, but an increase in AC with PBI.7 This was attributed to giving PBI twice daily with a short interfraction interval of 6 hours, limiting the time for radiation repair of normal tissues between fractions.10 The OPAR trial was designed to evaluate the tolerability of PBI delivered once daily with a longer interfraction interval of 24 hours using two different fractionation schedules. The results showed that both schedules of 30 Gy or 27.5 Gy in ﬁve daily fractions given over 1 week resulted in acceptable cosmesis as assessed by a panel of physicians grading photographs. The rate of AC fell within a prespeciﬁed boundary, which was based on historical experience with WBI. Also, when cosmesis was assessed by clinical trials nurses at the point of care, both schedules met our criteria for acceptable cosmesis. During the conduct of this study, we added a patient selfassessment of cosmesis because of concerns for inadequate follow-up during the COVID pandemic. As such, it was performed later at 3 years and was not completed by all patients. A recent study has suggested that a patient’s self-assessment of cosmesis may be more sensitive than photographic assessment to different radiation treatment approaches. In the IMPORT LOW trial comparing PBI with WBI both given at 40 Gy in 15 fractions, photographic assessment was performed at 2 and 5 years.5 No difference in cosmesis was observed at each time point by this method. However, patient self-assessment differentiated breast appearance at 5 years, with AC being less with PBI (15% v 27%, respectively; P < .0001). In our trial, the patient self-assessment suggested that the 30-Gy regimen exceeded the tolerance boundary. We recognize that this inference, however, could be invalid 510 | © 2024 by American Society of Clinical Oncology 
+
+as the patient number was smaller, resulting in wider conﬁdence limits, and there is potential for patients who are unhappy with cosmetic outcome to be more likely to respond to assessment requests. There also was the impression that toxicity was more common for the 30 Gy regimen, but the conﬁdence limits overlapped with 27.5 Gy. It is worth noting that the other trials of hypofractionation12-14 have shown that small increases in dose fractionation are associated with an increase in late toxicity, reﬂecting the steepness of the dose response curve for normal tissue effects. OPAR was targeted to a low-risk group of patients, age ≥50 years and histological grades 1 and 2 where if treated with WBI, boost RT would not be considered. As far as efﬁcacy, we observed a very low rate of local and other recurrences at 5 years in both treatment groups as would be expected for this population. Randomized phase II trial designs are commonly used in drug trials. The OPAR trial demonstrates that this trial design can also be useful for studying radiation fractionation in breast cancer. The information gained can inform the design of deﬁnitive phase III trials. Why did we choose 30 Gy and 27.5 Gy to study? 30 Gy in ﬁve fractions given on alternate days had been previously tested in patients treated prone with PBI with acceptable cosmesis compared with the historical experience with WBI.15 When radiobiological modeling is used to predict effect on normal tissue (alpha/beta 5 3), 30 Gy in ﬁve fractions had an equivalent dose in standard 2 Gy fractionations of 53.9 Gy. This dose could be associated with increased normal tissue toxicity compared with WBI with conventional fractionation of 50 Gy in 25 daily 2 Gy fractions.16 As a result, we also chose a second lower dose schedule of 27.5 Gy to study. Using similar radiobiological modeling, the equivalent dose was 46.6 Gy in 2 Gy fractions, which might be expected to have less toxicity than WBI using conventional fractionation. The results of OPAR are in keeping with other studies, which have suggested that once daily fractionation is associated with less toxicity than twice-daily treatment.17,18 Although both schedules used in the OPAR trial were deemed acceptable by our a priori deﬁnition, recent trials of PBI and WBI suggest an even lower dose may be preferred. A single arm phase II PBI trial of 27 Gy in ﬁve daily fractions reported acceptable cosmetic results and local control.19 The phase III FAST-Forward trial of WBI comparing 27 Gy or 26 Gy in ﬁve daily fractions over 1 week with the standard of 40 Gy in 15 fractions over 3 weeks reported that 27 Gy was associated with increased toxicity compared with 40 Gy, whereas 26 Gy was not.14 Currently, there is a wide variation of PBI dose fractionation schedules being used in practice, ranging from 5 to 15 treatments given twice daily, daily, or alternate days underlying the need for future research and evaluation.20 With the added potential beneﬁts of PBI in terms of reduced short- and long-term toxicity and the increasing evidence of 
+
+Partial Breast Irradiation 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+its efﬁcacy, the goal now is to identify PBI regimens that are more convenient and better tolerated. On the basis of the OPAR results and emerging literature, we favored a lower dose PBI regimen for our new phase III trial, RAPID 2. A PBI schedule of 26 Gy in ﬁve daily fractions over 1 week is being compared with WBI of 26 Gy in ﬁve daily fractions, which is increasingly used for low-risk breast cancer following the results of the UK trial.14 The primary outcomes for the study are patient-assessed cosmesis and local recurrence. Since both schedules will be the same dose fractionation, the trial will be a clear comparison of different irradiated volumes without the confounding of different doses seen in previous trials.4,6,7 
+
+comparison of the different fractionation schedules, which would be underpowered. Another potential limitation is that late effects of cosmesis were assessed at 2 years, perhaps somewhat early. This was done to inform the development of a larger phase III trial. Other studies have shown that late effects of radiation on cosmesis can be seen at 2 years,12,13 and we did have a patient self-assessment performed at 3 years. Strengths of the study include its prospective nature, multicenter design, the incorporation of real-time radiation quality assurance, and the use of multiple methods to assess cosmesis. 
+
+Limitations to the OPAR trial include the phase II randomized design we used that did not permit the statistical 
+
+In conclusion, the OPAR trial has shown that PBI can be given safely once daily over 5 days. Although both schedules met our criteria for acceptability, we opted for a lower dose for the phase III trial based primarily on the potential for less AC with similar local control. 
+
+AFFILIATIONS 
+
+CLINICAL TRIAL INFORMATION 
+
+1 
+
+NCT02637024 
+
+Division of Radiation Oncology, Department of Oncology, McMaster University and Juravinski Cancer Centre at Hamilton Health Sciences, Hamilton, ON, Canada 2 Department of Radiation Oncology, Centre Hospitalier Universitaire de Quebec (CHUQ)—Université Laval, Quebec City, QC, Canada 3 Department of Oncology, McMaster University, Hamilton, ON, Canada 4 Department of Radiation Oncology, University of British Columbia and Radiation Therapy Program, BC Cancer Agency, Vancouver, BC, Canada 5 Department of Radiation Oncology, Centre Hospitalier Universitaire de Sherbrooke (CHUS), Sherbrooke, QC, Canada 6 Department of Radiation Oncology, Maisonneuve-Rosemont Hospital, Montreal, QC, Canada 7 Department of Radiation Oncology, Western University and London Regional Cancer Program, London, ON, Canada 8 Department of Radiation Oncology, Universite de Laval and Hôtel-Dieu de Lévis, Lévis, QC, Canada 9 Department of Radiation Oncology, Universite de Montreal, Montreal, QC, Canada 10 Department of Radiation Oncology, University of Toronto and Sunnybrook Odette Cancer Centre, Toronto, ON, Canada 11 Department of Radiation Oncology, Windsor Regional Cancer Centre, Windsor, ON, Canada 
+
+CORRESPONDING AUTHOR Timothy J. Whelan, BM, BCh; e-mail: twhelan@hhsc.ca. 
+
+EQUAL CONTRIBUTION D.-H.K. and V.T. are joint ﬁrst authors. 
+
+PRIOR PRESENTATION Presented in part at the ASTRO 63rd Annual Meeting, Chicago, IL, October 24-27, 2021. 
+
+SUPPORT Supported by the Breast Cancer Research in Greater Hamilton Today (BRIGHT) Run and the Canadian Breast Cancer Foundation. 
+
+Journal of Clinical Oncology 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.24.00600. 
+
+DATA SHARING STATEMENT A complete de-identiﬁed patient-level data set will be made available to researchers for the purpose of meta-analysis or a newly proposed study. Data will be made available following submission of a maximum 2-page proposal by the requestor. The trial Steering Committee will review and, if acceptable, provide approval of the request. A signed data sharing access agreement will be required. The data will be provided as SAS datasets (CPT or XPT ﬁle). Any other format requests may incur costs to the requestor. Data will become available 1 year after publication of the initial study results. Data availability will end 3 years after publication of the initial study results. Data requests should be sent to twhelan@hhsc.ca. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Do-Hoon Kim, Valerie Théberge, Sameer Parpia, Iwa Kong, Mark N. Levine, Timothy J. Whelan Administrative support: Do-Hoon Kim, Sophie Lavertu Provision of study materials or patients: Do-Hoon Kim, Sawyna Provencher, Sophie Lavertu, Pierre Rousseau, Justin Lee Collection and assembly of data: Do-Hoon Kim, Valerie Théberge, Sameer Parpia, Iwa Kong, Sawyna Provencher, Michael Yassa, Francisco Perera, Sophie Lavertu, Justin Lee, Timothy J. Whelan, Pierre Rousseau Data analysis and interpretation: Do-Hoon Kim, Valerie Théberge, Sameer Parpia, Iwa Kong, Sawyna Provencher, Michael Yassa, Francisco Perera, Sophie Lavertu, Irene Karam, Kenneth Schneider, Mark N. Levine, Timothy J. Whelan Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+ascopubs.org/journal/jco | Volume 43, Issue 5 | 511 
+
+Kim et al 
+
+ACKNOWLEDGMENT We thank the patients who participated in this trial and the staff at the participating cancer centers and at the Ontario Clinical Oncology Group. Other OPAR Investigators are listed in Appendix (online only). 
+
+REFERENCES 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+1. 
+
+Liljegren G, Holmberg L, Bergh J, et al: 10-year results after sector resection with or without postoperative radiotherapy for stage I breast cancer: A randomized trial. J Clin Oncol 17:2326-2333, 1999 2. Veronesi U, Marubini E, Mariani L, et al: Radiotherapy after breast-conserving surgery in small breast carcinoma: Long-term results of a randomized trial. Ann Oncol 12:997-1003, 2001 3. Strnad V, Ott OJ, Hildebrandt G, et al: 5-year results of accelerated partial breast irradiation using sole interstitial multicatheter brachytherapy versus whole-breast irradiation with boost after breast-conserving surgery for low-risk invasive and in-situ carcinoma of the female breast: A randomised, phase 3, non-inferiority trial. Lancet 387:229-238, 2016 4. Meattini I, Marrazzo L, Saieva C, et al: Accelerated partial-breast irradiation compared with whole-breast irradiation for early breast cancer: Long-term results of the randomized phase III APBIIMRT-Florence trial. J Clin Oncol 38:4175-4183, 2020 5. Coles CE, Grifﬁn CL, Kirby AM, et al: Partial-breast radiotherapy after breast conservation surgery for patients with early breast cancer (UK IMPORT LOW trial): 5-year results from a multicentre, randomised, controlled, phase 3, non-inferiority trial. Lancet 390:1048-1060, 2017 6. Vicini FA, Cecchini RS, White JR, et al: Long-term primary results of accelerated partial breast irradiation after breast-conserving surgery for early-stage breast cancer: A randomised, phase 3, equivalence trial. Lancet 394:2155-2164, 2019 7. Whelan TJ, Julian JA, Berrang TS, et al: External beam accelerated partial breast irradiation versus whole breast irradiation after breast conserving surgery in women with ductal carcinoma in situ and node negative breast cancer (RAPID): A randomised controlled trial. Lancet 394:2165-2172, 2019 8. Olivotto IA, Whelan TJ, Parpia S, et al: Interim cosmetic and toxicity results from RAPID: A randomized trial of accelerated partial breast irradiation using three-dimensional conformal external beam radiation therapy. J Clin Oncol 31:4038-4045, 2013 9. Meduri B, Baldissera A, Iotti C, et al: Cosmetic results and side effects of accelerated partial-breast irradiation versus whole-breast irradiation for low-risk invasive carcinoma of the breast: The randomized phase III IRMA trial. J Clin Oncol 41:2201-2210, 2023 10. Peterson DJ, Truong PT, Parpia S, et al: Predictors of adverse cosmetic outcome in the RAPID trial: An exploratory analysis. Int J Radiat Oncol Biol Phys 91:968-976, 2015 11. Bentzen SM, Yarnold JR: Reports of unexpected late side effects of accelerated partial breast irradiation: Radiobiological considerations. Int J Radiat Oncol Biol Phys 77:969-973, 2010 12. START Trialists’ Group, Bentzen SM, Agrawal RK, et al: The UK standardisation of breast radiotherapy (START) trial A of radiotherapy hypofractionation for treatment of early breast cancer: A randomised trial. Lancet Oncol 9:331-341, 2008 13. Brunt AM, Haviland JS, Sydenham M, et al: Ten-year results of FAST: A randomized controlled trial of 5-fraction whole-breast radiotherapy for early breast cancer. J Clin Oncol 38:3261-3272, 2020 14. Brunt AM, Haviland JS, Wheatley DA, et al: Hypofractionated breast radiotherapy for 1 week versus 3 weeks (FAST-Forward): 5-year efﬁcacy and late normal tissue effects results from a multicentre, non-inferiority, randomized, phase 3 trial. Lancet 395:1613-1626, 2020 15. Formenti SC, Truong MT, Goldberg JD, et al: Prone accelerated partial breast irradiation after breast-conserving surgery: Preliminary clinical results and dose-volume histogram analysis. Int J Radiat Oncol Biol Phys 60:493-504, 2004 16. Fowler JF: The linear-quadratic formula and progress in fractionated radiotherapy. Br J Radiol 62:679-694, 1989 17. Braunstein LZ, Thor M, Flynn J, et al: Daily fractionation of external beam accelerated partial breast irradiation to 40 Gy is well tolerated and locally effective. Int J Radiat Oncol Biol Phys 104: 859-866, 2019 18. Boutrus RR, El Sherif S, Abdelazim Y, et al: Once daily versus twice daily external beam accelerated partial breast irradiation: A randomized prospective study. Int J Radiat Oncol Biol Phys 109: 1296-1300, 2021 19. Grendarova P, Roumeliotis M, Quirk S, et al: Accelerated partial breast irradiation using 5 daily fractions: A prospective, phase 2, multicenter trial of cosmetic outcomes and toxicity—ACCEL ﬁnal results. Int J Radiat Oncol Biol Phys 118:1041-1048, 2024 20. Shaitelman SF, Anderson BM, Arthur DW, et al: Partial breast irradiation for patients with early-stage invasive breast cancer or ductal carcinoma in situ: An ASTRO Clinical Practice Guideline. Pract Radiat Oncol 14:112-132, 2024 
+
+512 | © 2024 by American Society of Clinical Oncology 
+
+Partial Breast Irradiation 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST OPAR: A Randomized Trial of Partial Breast Irradiation in Five Fractions Once Daily for Early Breast Cancer The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5 Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Iwa Kong Travel, Accommodations, Expenses: LaRoche Posay Francisco Perera Stock and Other Ownership Interests: Moderna Therapeutics, AstraZeneca, Pﬁzer, BioNTech Consulting or Advisory Role: PreludeDx 
+
+Irene Karam Honoraria: Pﬁzer Consulting or Advisory Role: EMD Serono/Merck Travel, Accommodations, Expenses: Elekta Timothy J. Whelan Research Funding: Exact Sciences (Inst) No other potential conﬂicts of interest were reported. 
+
+Journal of Clinical Oncology 
+
+ascopubs.org/journal/jco | Volume 43, Issue 5 
+
+Kim et al 
+
+APPENDIX. OPAR INVESTIGATORS 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on November 27, 2025 from 111.186.044.091 Copyright © 2025 American Society of Clinical Oncology. All rights reserved. 
+
+Other OPAR investigators include: Dr Christiaan Stevens, Royal Victoria Regional Cancer Center, Barrie, ON; Dr Ramana Rachakonda, Grand River Regional Cancer 
+
+© 2024 by American Society of Clinical Oncology 
+
+Center, Kitchener, ON; and Dr Tarek Hijal, McGill University Health Center, Montreal, QC. 
+
+ 

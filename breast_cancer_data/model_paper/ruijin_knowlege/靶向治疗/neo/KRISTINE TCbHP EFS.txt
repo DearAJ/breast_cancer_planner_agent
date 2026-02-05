@@ -1,0 +1,2305 @@
+rapid communication 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab in Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer: Three-Year Outcomes From the Phase III KRISTINE Study Sara A. Hurvitz, MD1; Miguel Martin, MD2; Kyung Hae Jung, MD3; Chiun-Sheng Huang, MD, PhD4; Nadia Harbeck, MD, PhD5; Vicente Valero, MD6; Daniil Stroyakovskiy, MD7; Hans Wildiers, MD, PhD8; Mario Campone, MD, PhD9; Jean-François Boileau, MD, MSc10; Peter A. Fasching, MD11; Karen Afenjar, MS12; Gonzalo Spera, MD, MSc13; Vanesa Lopez-Valverde, PhD14; Chunyan Song, MD15; Peter Trask, PhD, MPH15; Thomas Boulet, MS14; Joseph A. Sparano, MD16; W. Fraser Symmans, MD6; Alastair M. Thompson, FRCSEd, MD17; and Dennis Slamon, MD, PhD1 
+
+abstract 
+
+PURPOSE The KRISTINE study compared neoadjuvant trastuzumab emtansine plus pertuzumab (T-DM1+P) with docetaxel, carboplatin, trastuzumab plus P (TCH+P) for the treatment human epidermal growth factor receptor 2–positive stage II to III breast cancer. T-DM1+P led to a lower pathologic complete response rate (44.4% v 55.7%; P = .016), but fewer grade 3 or greater and serious adverse events (AEs). Here, we present 3-year outcomes from KRISTINE. METHODS Patients were randomly assigned to neoadjuvant T-DM1+P or TCH+P every 3 weeks for six cycles. Patients who received T-DM1+P continued adjuvant T-DM1+P, and patients who received TCH+P received adjuvant trastuzumab plus pertuzumab. Secondary end points included event-free survival (EFS), overall survival, patient-reported outcomes (measured from random assignment), and invasive disease-free survival (IDFS; measured from surgery). 
+
+ASSOCIATED CONTENT Appendix See accompanying editorial doi:10.1200/ JCO.19.01159 Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on April 29, 2019 and published at jco.org on June 3, 2019: DOI https://doi. org/10.1200/JCO.19. 00882 Processed as a Rapid Communication manuscript. Clinical trial information: NCT02131064. 
+
+RESULTS Of patients, 444 were randomly assigned (T-DM1+P, n = 223; TCH+P, n = 221). Median follow-up was 37 months. Risk of an EFS event was higher with TDM-1+P (hazard ratio [HR], 2.61 [95% CI, 1.36 to 4.98]) with more locoregional progression events before surgery (15 [6.7%] v 0). Risk of an IDFS event after surgery was similar between arms (HR, 1.11 [95% CI, 0.52 to 2.40]). Pathologic complete response was associated with a reduced risk of an IDFS event (HR, 0.24 [95% CI, 0.09 to 0.60]) regardless of treatment arm. Overall, grade 3 or greater AEs (31.8% v 67.7%) were less common with T-DM1+P. During adjuvant treatment, grade 3 or greater AEs (24.5% v 9.9%) and AEs leading to treatment discontinuation (18.4% v 3.8%) were more common with T-DM1+P. Patient-reported outcomes favored T-DM1+P during neoadjuvant treatment and were similar to trastuzumab plus pertuzumab during adjuvant treatment. CONCLUSION Compared with TCH+P, T-DM1+P resulted in a higher risk of an EFS event owing to locoregional progression events before surgery, a similar risk of an IDFS event, fewer grade 3 or greater AEs during neoadjuvant treatment, and more AEs leading to treatment discontinuation during adjuvant treatment. J Clin Oncol 37. © 2019 by American Society of Clinical Oncology Creative Commons Attribution Non-Commercial No Derivatives 4.0 License 
+
+INTRODUCTION Current standard-of-care neoadjuvant regimens for the treatment of human epidermal growth factor receptor 2 (HER2) –positive breast cancer consist of conventional systemic chemotherapy plus trastuzumabbased therapy.1 Pathologic complete response (pCR) rates with conventional systemic chemotherapy plus HER2 blockade have ranged from 25% to 65%,2-8 with dual HER2-targeted regimens producing increased pCR rates compared with trastuzumab alone.5,6 pCR in the breast and nodes is associated with prolonged event-free survival (EFS) and overall 
+
+survival (OS) in patients with HER2-positive breast cancer.9 Despite the pCR beneﬁts of dual HER2-targeted neoadjuvant therapy, approximately 15% of patients will experience disease relapse or death within 3 to 5 years.10,11 In addition, these regimens are accompanied by toxicities that are associated with conventional systemic chemotherapy, such as neutropenia and febrile neutropenia.4,5,10 Improving outcomes and safety among patients with HER2-positive early breast cancer remain important goals when developing neoadjuvant and adjuvant therapies. 
+
+1 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+The KRISTINE study is a phase III, randomized, multicenter, open-label study that evaluated a neoadjuvant regimen in which conventional systemic chemotherapy is replaced with trastuzumab emtansine (T-DM1), an antibody–drug conjugate that provides targeted delivery of chemotherapy to HER2-overexpressing cells, as well as HER2 blockade,12 and is associated with a lower incidence of adverse events (AEs) that are typically observed with conventional chemotherapy.13,14 KRISTINE compared neoadjuvant T-DM1 plus pertuzumab (T-DM1+P) with conventional systemic chemotherapy—docetaxel plus carboplatin— plus dual HER2-targeted blockade—trastuzumab and pertuzumab—in patients with HER2-positive breast cancer. As reported previously, the T-DM1–based regimen led to a statistically signiﬁcantly lower pCR rate in the breast and nodes (ypT0/is, ypN0) than the conventional systemic chemotherapy–based regimen (44.4% v 55.7%; difference of 11.3 percentage points [95% CI, 220.5 to 22.0] P = .016); however, fewer grade 3 or greater (13.0% v 64.4%) and serious AEs (4.9% v 28.8%) were observed with the T-DM1–based regimen in the neoadjuvant phase.12 Here, we report the ﬁnal results, which include 3-year efﬁcacy, safety, and patient-reported outcomes (PROs) from KRISTINE. METHODS Study Design Comprehensive methods were published with the primary results.12 KRISTINE is a randomized, open-label, multicenter, phase III study that was conducted at 68 Translational Research In Oncology centers in 10 countries and in accordance with the International Council on Harmonization Good Clinical Practice guidelines and the Declaration of Helsinki. The institutional review board and/or ethics committee at each site approved the protocol and all patients provided written informed consent. 
+
+and/or progesterone receptor positive v estrogen receptor negative and progesterone receptor negative on local assessment), clinical stage at presentation (II to IIIA v IIIB to IIIC), and geographic location (North America v Western Europe v rest of world). Patients who were randomly assigned to T-DM1+P received T-DM1 (3.6 mg/kg) and P (840-mg loading dose and 420-mg maintenance doses) during both the neoadjuvant and adjuvant phases of the study. Patients who were randomly assigned to TCH+P received TC+H (8mg/kg loading dose and 6-mg/kg maintenance doses), and P (840-mg loading dose and 420-mg maintenance doses) during the neoadjuvant phase and continued trastuzumab plus pertuzumab (H+P) only during the adjuvant phase. In both study arms, HER2-targeted treatment was administered every 3 weeks for a total of 18 cycles—inclusive of neoadjuvant and adjuvant therapy—or until disease progression/recurrence, unacceptable toxicity, or withdrawal of consent. Patients who discontinued T-DM1 before treatment completion could switch treatment to trastuzumab with continuation of pertuzumab when clinically appropriate to complete 18 cycles of HER2-targeted therapy. Patients underwent deﬁnitive breast cancer surgery between 14 days and 6 weeks after the last dose of neoadjuvant therapy. Within 9 weeks of surgery, patients resumed HER2-targeted therapy to which they had been previously randomly assigned—T-DM1+P or H+P—for 12 cycles. Additional adjuvant chemotherapy was permitted in the T-DM1+P arm at the discretion of the treating physician before adjuvant HER2-targeted therapy; it was recommended for patients in the T-DM1+P arm with residual tumor greater than 1 cm and/or residual nodal disease (greater than ypN0). Adjuvant radiotherapy and endocrine therapy were administered as clinically indicated per local practice. 
+
+Patients 
+
+End Points 
+
+Eligible patients were age 18 years or older with clinical stage cT2 to cT4 (. 2 cm)/cN0 to cN3/cM0 (. 2 cm) disease conﬁrmed by a central laboratory (Targos Molecular Pathology, Kassel, Germany), to be HER2-positive breast cancer (immunohistochemistry 3+ [PATHWAY anti-HER2/neu {4B5} assay; Ventana Medical Systems, Santa Clara, CA]), or in situ hybridization–positive, deﬁned as a HER2/CEP17 ratio of 2 or greater (INFORM HER2 Dual ISH assay; Ventana Medical Systems).15 Both tests were conducted in parallel for all patients; however, only one test needed to be positive to establish HER2-positive status. 
+
+The primary efﬁcacy end point was locally determined pCR (ypT0/is, ypN0), as described previously.12 Protocoldeﬁned secondary efﬁcacy end points included EFS, deﬁned as the time from random assignment to disease progression, including local progression before surgery; disease recurrence—local, regional, distant, ipsilateral noninvasive, or contralateral (invasive or noninvasive)—or death from any cause; invasive disease-free survival (IDFS), deﬁned as the time from surgery to the ﬁrst documented occurrence of an event deﬁned as ipsilateral invasive local recurrence, ipsilateral locoregional invasive recurrence, distant recurrence, contralateral invasive breast cancer, or death from any cause; and OS. The deﬁnition of IDFS was consistent with the standardized deﬁnitions for efﬁcacy end points (STEEP) criteria, with the exception that nonbreast second primary invasive cancer was not included.16 Protocol-deﬁned PRO objectives included assessment of global health status/health-related quality of life, patient 
+
+Procedures Patients were randomly assigned 1:1 to neoadjuvant treatment with T-DM1+P or docetaxel, carboplatin, trastuzumab plus pertuzumab (TCH+P) under a permuted block randomization scheme. Random assignment was stratiﬁed by hormone receptor status (estrogen receptor 
+
+2 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+functioning, disease- and treatment-related symptoms as measured by the European Organization for Research and Treatment of Cancer (EORTC) Quality-of-Life Questionnaire (QLQ)-C30 and breast cancer module (QLQ-BR23). Severity of AEs were categorized on the basis of on National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0. Statistical Analysis Secondary efﬁcacy end points, including EFS and OS, were analyzed in the intention-to-treat population. Analysis of IDFS was completed only for patients who underwent surgery as recorded in the database—that is, the IDFSevaluable population—consistent with the IDFS deﬁnition. Analysis of secondary end points was not event driven, but, rather, preplanned to occur approximately 36 months after random assignment. The study was not powered to detect statistically signiﬁcant differences between treatment arms in EFS, IDFS, or OS; therefore, these end points were analyzed descriptively without formal a allocation and P values are not presented. We used the stratiﬁed Cox proportional hazards regression model to estimate hazard ratios (HRs) and CIs, using TCH+P as the reference arm. Analyses were stratiﬁed for hormone receptor status and clinical stage at presentation. Kaplan-Meier estimates for 3year event-free rates were reported for EFS, IDFS, and OS, along with corresponding 95% CIs that were calculated using the linear transformation. For the primary analysis of EFS and IDFS, patients were not censored for the initiation of nonprotocol anticancer therapy. Sensitivity analyses of EFS and IDFS were performed when patients were censored for the initiation of nonprotocol anticancer therapy. We performed additional post hoc analysis of IDFS according to pCR status and hormone receptor status. Analysis of PRO end points was completed in patients who had both baseline and one or more postbaseline assessment. In accordance with the scoring manual, summary statistics of linear transformed scores were computed for the QLQ-C30 and QLQ-BR23 scales for each assessment timepoint. If more than 50% of the constituent items on the QLQ-C30 and QLQ-BR23 scales were completed, a prorated score was computed.17 For scales with less than 50% of the items completed, the scale was considered missing. Mean change of the linear transformed scores from baseline—and SEs—were computed for each assessment timepoint. 
+
+and 83.1% had clinical stage IIA to IIIA disease, 66.4% were white, and 25.2% were Asian. Median duration of follow-up was 36.8 months (95% CI, 36.5 to 37.2 months) in the T-DM1+P arm and 36.9 months (95% CI, 36.5 to 37.4 months) in the TCH+P arm. Efﬁcacy Risk of an EFS event was greater in the T-DM1+P arm than in the TCH+P arm (stratiﬁed HR, 2.61 [95% CI, 1.36 to 4.98]; Fig 2) as a result of more locoregional progression events in the T-DM1+P arm before surgery (15 [6.7%] v 0) and noninvasive recurrence events after surgery (3 [1.3%] v 0; Table 1). Three-year EFS event-free rates were 85.3% (95% CI, 80.5% to 90.1%) with T-DM1+P and 94.2% (95% CI, 91.0% to 97.4%) with TCH+P. Risk of an IDFS event in the IDFS-evaluable population was similar between study arms (stratiﬁed HR, 1.11 [95% CI, 0.52 to 2.40]; Table 1 and Fig 3A). Three-year IDFS eventfree rates were 93.0% (95% CI, 89.4% to 96.7%) with T-DM1+P and 92.0% (95% CI, 86.7% to 97.3%) with TCH+P. OS was also similar between arms—six deaths in the T-DM1+P arm and ﬁve in the TCH+P arm (Table 1) —but the number of deaths was too low to draw meaningful conclusions. IDFS was analyzed according to pCR status in the IDFSevaluable population (Table 2 and Figs 2C and 2D). Among all patients who underwent surgery (n = 418), pCR was associated with a reduced risk of an IDFS event regardless of treatment arm or hormone receptor status (stratiﬁed HR, 0.24 [95% CI, 0.09 to 0.60]). In patients with a pCR, risk of an IDFS event was similar between treatment arms (stratiﬁed HR, 0.99 [95% CI, 0.20 to 4.96]). The 3-year IDFS eventfree rate was similarly high in the T-DM1+P arm (96.7% [95% CI, 93.0% to 100.0%]) and TCH+P arm (97.5% [95% CI, 94.7% to 100.0%]). In patients with residual disease— regardless of whether they received optional adjuvant chemotherapy—risk of an IDFS event was also similar between treatment arms (stratiﬁed HR, 0.94 [95% CI, 0.38 to 2.33]). The 3-year IDFS event-free rate was 89.4% (95% CI, 83.1% to 95.6%) in the T-DM1+P arm and 84.2% (95% CI, 72.5% to 96.0%) in the TCH+P arm. A similar risk of an IDFS event in both arms was also observed in subgroups deﬁned by hormone receptor status (Appendix Table A3, online only). 
+
+RESULTS 
+
+Sensitivity analyses for EFS and IDFS were conducted that censored patients at the time that they initiated nonprotocol anticancer therapy. Results of these sensitivity analyses were completely aligned with the results of the primary analyses for both EFS and IDFS (Appendix Table A4, online only). 
+
+From June 2014 to June 2015, 444 patients were randomly assigned (T-DM1+P, n = 223; TCH+P, n = 221; Fig 1 and Appendix Table A1, online only), and all but two patients in the TCH+P arm received one or more dose of study medication.12 Baseline characteristics were balanced between arms (Appendix Table A2, online only). Hormone receptor–positive disease was present in 62.2% of patients, 
+
+Adjuvant chemotherapy, endocrine therapy, and/or radiation therapy—in addition to T-DM1+P or H+P—was received on study by 159 (77.9%) of 204 patients in the T-DM1+P arm and 178 (83.2%) of 214 patients in the TCH+P arm (Appendix Table A5, online only). Chemotherapy was administered to 50 patients (24.5%) in the T-DM1+P arm (41 [33.1%] of 124 patients with residual 
+
+Journal of Clinical Oncology 
+
+3 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+Patients assessed for eligibility (N = 574) 
+
+Ineligible (n = 130) Enrolled (n = 444) Randomly assigned (n = 444) 
+
+Randomly assigned to T-DM1+P (intention-to-treat population; n = 223) 
+
+Randomly assigned to TCH+P (intention-to-treat population; n = 221) 
+
+Patient withdrew (n = 1) Other (n = 1) 
+
+Received neoadjuvant treatment (safety population; n = 223) 
+
+Received neoadjuvant treatment (safety population; n = 219) 
+
+EFS event (n = 15) Alive in follow up (n = 11) Patient withdrew (n = 3) Died (n = 1) No EFS event (n = 4) Alive in follow up (n = 1) Patient withdrew (n = 2) Lost to follow up (n = 1) 
+
+Patient withdrew (n = 5) 
+
+Underwent surgery (IDFS-evaluable population; n = 204) 
+
+Alive in follow-up Patient withdrew 
+
+Underwent surgery (IDFS-evaluable population; n = 214) 
+
+(n = 2) (n = 6) 
+
+Patient withdrew (n = 1) Died (n = 1) 
+
+Received adjuvant treatment (n = 196) 
+
+Alive in follow-up Discontinued study Patient withdrew Lost to follow-up Died Other 
+
+FIG 1. Patient disposition. EFS, event-free survival; IDFS, invasive disease-free survival; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+(n = 175) (n = 21) (n = 7) (n = 7) (n = 5) (n = 2) 
+
+Received adjuvant treatment (n = 212) 
+
+Alive in follow-up Discontinued study Patient withdrew Lost to follow-up Died Other 
+
+disease and nine [9.1%] of 99 patients with pCR) and to no patients in the TCH+P arm. Safety In the T-DM1+P arm, median treatment durations were 12.6 months (range, 0.7 to 18.6 months) for T-DM1 and 12.9 months (range, 0.7 to 18.6 months) for P (Appendix Table A6, online only). In the TCH+P arm, median treatment 
+
+(n = 196) (n = 16) (n = 7) (n = 4) (n = 4) (n = 1) 
+
+durations were 3.5 months (range, 0 to 4.8 months) for T and C, and 12.9 months (range, 0 to 16.6 months) for H and P. Dose reductions of T-DM1 occurred in 19.3% of patients. Of 196 patients who received adjuvant T-DM1+P, 17 (8.7%) switched to H+P as a result of AEs. During the overall study period, including both neoadjuvant and adjuvant phases, there was a lower incidence of serious (13.5% v 32.4%) and grade 3 or greater (31.8% v 67.6%) 
+
+4 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+A 
+
+Event-Free Survival (%) 
+
+100 80 60 40 TCH+P (n = 221) T-DM1+P (n = 223) 
+
+20 
+
+Censored 
+
+Hazard ratio, 2.61 (95% CI, 1.36 to 4.98) 
+
+0 Day 1 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+190 173 
+
+140 126 
+
+10 16 
+
+48 
+
+Time (months) No. at risk: TCH+P TCH+P 
+
+Invasive Disease-Free Survival (%) 
+
+B 
+
+221 223 
+
+214 199 
+
+211 192 
+
+209 185 
+
+197 177 
+
+FIG 2. (A) Kaplan-Meier 
+
+100 80 60 40 TCH+P (n = 214) 
+
+20 
+
+T-DM1+P (n = 204) 
+
+Hazard ratio, 1.11 (95% CI, 0.52 to 2.40) 
+
+Censored 
+
+0 Day 1 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+161 156 
+
+17 24 
+
+42 
+
+Time (months) No. at risk: TCH+P TCH+P 
+
+Invasive Disease-Free Survival (%) 
+
+C 
+
+214 204 
+
+212 193 
+
+209 187 
+
+198 177 
+
+191 174 
+
+100 80 60 40 Patients with pCR (n = 223) 
+
+20 
+
+Patients with residual disease (n = 195) 
+
+Hazard ratio, 0.24 (95% CI, 0.09 to 0.60) 
+
+Censored 
+
+0 Day 1 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+177 140 
+
+19 22 
+
+30 
+
+36 
+
+99 78 62 78 
+
+8 11 9 13 
+
+42 
+
+Time (months) 
+
+D 
+
+Invasive Disease-Free Survival (%) 
+
+No. at risk: Patients with pCR Patients with residual disease 
+
+223 195 
+
+222 183 
+
+217 179 
+
+211 164 
+
+205 160 
+
+100 80 60 TCH+P – Patients with pCR (n = 124) 
+
+40 
+
+T-DM1+P – Patients with pCR (n = 99) 
+
+analysis of event-free survival in the intention-totreat population. Event-free survival was deﬁned as the time from random assignment to disease progression (including local progression before surgery), disease recurrence (local, regional, distant, ipsilateral noninvasive, or contralateral [invasive or noninvasive]), or death from any cause. (B-D) Kaplan-Meier analysis of invasive diseasefree survival in the intention-to-treat population who underwent surgery according to (B) treatment arm, (C) pathologic complete response (pCR) status, and (D) treatment arm and pCR status. Invasive disease-free survival was deﬁned as the time from surgery to the ﬁrst documented occurrence of ipsilateral invasive local recurrence, ipsilateral locoregional invasive recurrence, distant recurrence, contralateral invasive breast cancer, or death from any cause. TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+TCH+P – Patients with residual disease (n = 90) 
+
+20 
+
+T-DM1+P – Patients with residual disease (n = 105) Censored 
+
+0 Day 1 
+
+6 
+
+12 
+
+18 
+
+24 
+
+42 
+
+Time (months) No. at risk: TCH+P – Patients with pCR T-DM1+P – Patients with pCR TCH+P – Patients with residual disease T-DM1+P – Patients with residual disease 
+
+124 99 90 105 
+
+124 98 88 95 
+
+122 95 87 92 
+
+120 91 78 86 
+
+116 89 75 85 
+
+Journal of Clinical Oncology 
+
+5 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+TABLE 1. Time-to-Event Efﬁcacy End Points End Point 
+
+T-DM1+P (n = 223) 
+
+TCH+P (n = 221) 
+
+223 
+
+221 
+
+EFS Patients included in analysis, No. Event, No. (%) 
+
+31 (13.9) 
+
+13 (5.9) 
+
+Locoregional progression before surgery 
+
+15 (6.7) 
+
+0 
+
+Invasive disease recurrence after surgery 
+
+11 (4.9) 
+
+11 (5.0) 
+
+Noninvasive recurrence (DCIS) after surgery 
+
+3 (1.3) 
+
+0 
+
+Death without prior EFS event 
+
+2 (0.9) 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year EFS, % (95% CI) 
+
+2 (0.9) 2.61 (1.36 to 4.98) 
+
+85.3 (80.5 to 90.1) 
+
+94.2 (91.0 to 97.4) 
+
+Patients included in analysis, No. 
+
+204 
+
+214 
+
+Event, No. (%)† 
+
+IDFS 
+
+13 (6.4) 
+
+13 (6.1) 
+
+Distant recurrence, CNS 
+
+4 (2.0) 
+
+4 (1.9) 
+
+Distant recurrence, non-CNS 
+
+5 (2.5) 
+
+5 (2.3) 
+
+Locoregional recurrence 
+
+2 (1.0) 
+
+2 (0.9) 
+
+Contralateral breast cancer 
+
+0 
+
+0 
+
+Death without prior IDFS event 
+
+2 (1.0) 
+
+2 (0.9) 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year IDFS event-free survival, % (95% CI) 
+
+1.11 (0.52 to 2.40) 93.0 (89.4 to 96.7) 
+
+92.0 (86.7 to 97.3) 
+
+223 
+
+221 
+
+OS Patients included in analysis, No. Deaths, No. (%) 
+
+6 (2.7) 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year OS event-free survival, % (95% CI) 
+
+5 (2.3) 1.21 (0.37 to 3.96) 
+
+97.0 (94.6 to 99.4) 
+
+97.6 (95.5 to 99.7) 
+
+Abbreviations: DCIS, ductal carcinoma in situ; EFS, event-free survival; HR, hazard ratio; IDFS, invasive disease-free survival; OS, overall survival; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Stratiﬁed for hormone receptor status (estrogen receptor positive and/or progesterone receptor positive versus estrogen receptor negative and progesterone receptor negative) and clinical stage at presentation (II-IIIA v IIIB-IIIC). †Patients who experience more than one IDFS event are reported in the category associated with their earliest IDFS event. If more than one event is reported on the same date, patients are reported in the category according to the following hierarchy: 1) distant recurrence, CNS; 2) distant recurrence, non-CNS; 3) locoregional recurrence; 4) contralateral breast cancer; and 5) death without prior event. 
+
+AEs in the T-DM1+P arm compared with the TCH+P arm, driven by the better safety proﬁle of T-DM1+P compared with TCH+P in the neoadjuvant phase (Table 3). Throughout the study, the four most commonly occurring grade 3 or greater AEs in the T-DM1+P arm were anemia (5.8%), neutropenia (3.6%), peripheral neuropathy (3.1%), and decreased platelet count (2.2%). The four most commonly occurring grade 3 or greater AEs in the TCH+P arm were neutropenia (25.1%), diarrhea (15.5%), febrile neutropenia (15.1%), and anemia (11%). Throughout the study, serious AEs that occurred in 1% or more of the T-DM1+P arm were febrile neutropenia (1.3%), anemia (1.3%), and wound infection (1.3%). In the TCH+P arm, these were febrile neutropenia (11.9%), diarrhea (4.1%), neutropenia (3.2%), vomiting (1.8%), colitis (1.4%), and decreased neutrophil count (1.4%). Symptomatic New York Health Association Class III 
+
+or IV heart failure was reported in no patients receiving T-DM1+P and in three patients (1.4%) receiving TCH+P. During adjuvant treatment, grade 3 or greater AEs, serious AEs, and AEs leading to the discontinuation of any component of treatment were more common in patients who received T-DM1+P (25.5% [50 of 196 patients in the safety population] of whom also received adjuvant conventional systemic chemotherapy) versus those who received H+P (Table 3). Grade 3 or greater AEs occurred in 48 patients (24.5%) and 21 patients (9.9%), respectively. Serious AEs occurred in 13 patients (6.6%) and 10 patients (4.7%), respectively. AEs that led to the discontinuation of any component of treatment occurred in 36 patients (18.4%) and eight patients (3.8%), respectively. Those occurring in at least two patients are shown in Appendix Table A7 
+
+6 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+TABLE 2. IDFS According to pCR Status in the IDFS-Evaluable Population Characteristic 
+
+Patients With Residual Disease (n = 195) 
+
+Patients With pCR (n = 223) 
+
+Event, No. (%) 
+
+20 (10.3) 
+
+6 (2.7) 
+
+IDFS event 
+
+17 (8.7) 
+
+5 (2.2) 
+
+Death without prior IDFS event 
+
+3 (1.5) 
+
+1 (0.4) 
+
+Stratiﬁed HR for pCR v residual disease (95% CI)* 
+
+0.24 (0.09 to 0.60) 
+
+3-Year IDFS event-free survival, % (95% CI) 
+
+87.4 (81.6 to 93.3) 
+
+T-DM1+P (n = 105) Event, No. (%) 
+
+10 (9.5) 
+
+TCH+P (n = 90) 
+
+97.2 (94.9 to 99.4) 
+
+T-DM1+P (n = 99) 
+
+10 (11.1) 
+
+3 (3.0) 
+
+TCH+P (n = 124) 3 (2.4) 
+
+IDFS event 
+
+8 (7.6) 
+
+9 (10.0) 
+
+3 (3.0)† 
+
+2 (1.6)‡ 
+
+Death without prior IDFS event 
+
+2 (1.9) 
+
+1 (1.1) 
+
+0 
+
+1 (0.8) 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year IDFS event-free survival, % (95% CI) 
+
+0.94 (0.38 to 2.33) 89.4 (83.1 to 95.6) 
+
+84.2 (72.5 to 96.0) 
+
+0.99 (0.20 to 4.96) 96.7 (93.0 to 100) 
+
+97.5 (94.7 to 100) 
+
+Abbreviations: HR, hazard ratio; IDFS, invasive disease-free survival; pCR, pathologic complete response; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Stratiﬁed for hormone receptor status (estrogen receptor positive and/or progesterone receptor positive versus estrogen receptor negative and progesterone receptor negative) and clinical stage at presentation (II-IIIA v IIIB-IIIC). Not adjusted for treatment arm. †Included one distant non-CNS recurrence and two distant CNS recurrences. ‡Included two distant CNS recurrences. 
+
+(online only). Among the 146 patients in the T-DM1+P arm who received no adjuvant chemotherapy, serious AEs occurred in six patients (4.1%), grade 3 or greater AEs occurred in 25 patients (17.1%), and AEs leading to the discontinuation of any component of treatment occurred in 22 patients (15.1%). During the adjuvant phase, one patient in the T-DM1+P arm died of an ileus AE after starting adjuvant chemotherapy that was deemed related to adjuvant chemotherapy. PROs Across visits, more than 80% of patients completed one or more question on the EORTC QLQ-C30 and QLQ-BR23. The response rate was similar between treatment arms. An optional assessment was administered to patients who received adjuvant chemotherapy in the T-DM1+P arm. Of 50 patients, 44 were eligible to complete the optional cycle 4 assessment, which occurred before cycle 4 of chemotherapy and 28 (63.6%) completed one or more question. Baseline scores were well balanced between study arms (Appendix Table A8, online only). Patients who received T-DM1+P reported fewer impairments on the QLQ-C30 and QLQ-BR23 during neoadjuvant treatment than did patients who received TCH+P, including on assessments of global health status, physical functioning, cognitive functioning, and diarrhea (Fig 3). Similar scores were observed in each treatment arm on the QLQ-C30 and QLQ-BR23 scales during adjuvant treatment, and impairments generally resolved to baseline levels during follow-up; however, slight impairment in cognitive functioning remained at the ﬁnal follow-up visit in both treatment arms. For the group of T-DM1+P patients who received adjuvant chemotherapy, 
+
+impairments were observed in global health status, physical functioning, and cognitive functioning, as well as an increase in diarrhea at the optional assessment. DISCUSSION This phase III randomized study demonstrated that replacing systemic chemotherapy with T-DM1 in an HER2targeted neoadjuvant regimen led to a greater risk of an EFS event (HR, 2.61 [95% CI, 1.36 to 4.98]), but a similar risk of an IDFS event (HR, 1.11 [95% CI, 0.52 to 2.40]) compared with TCH+P in patients with operable, HER2-positive stage II to III breast cancer. The higher risk of an EFS event in the T-DM1+P arm was driven by investigator-assessed locoregional progression before surgery (n = 15 [6.7%]) and noninvasive recurrence postsurgery (n = 3 [1.3%]) in the T-DM1+P arm, whereas no such events occurred in the TCH+P arm. Tumors from the 15 patients who experienced locoregional progression had lower HER2 expression and higher HER2 heterogeneity relative to those from other patients in the T-DM1 arm (Appendix Tables A9 and A10, online only). These data suggest that patients with low and/ or heterogenous HER2 expression may require conventional systemic chemotherapy combined with HER2 blockade. A relationship between the level of HER2 expression and the extent of T-DM1 beneﬁt has also been noted in the metastatic setting. Whereas T-DM1 therapy was superior to conventional therapy in all patient subsets, the beneﬁts were greater in those with HER2 mRNA expression greater than the median for the study population.18,19 After surgery, analysis of the IDFS-evaluable population showed no difference between arms in the risk of an IDFS 
+
+Journal of Clinical Oncology 
+
+7 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+TABLE 3. Safety Adverse Event Summary Overall Study 
+
+Neoadjuvant Phase 
+
+Adjuvant Phase 
+
+Adverse Event 
+
+T-DM1+P (n = 223) 
+
+TCH+P (n = 219) 
+
+T-DM1+P (n = 223) 
+
+TCH+P (n = 219) 
+
+T-DM1+P (n = 196) 
+
+TCH+P (n = 212) 
+
+Any 
+
+214 (96.0) 
+
+219 (100) 
+
+197 (88.3) 
+
+216 (98.6) 
+
+174 (88.8) 
+
+177 (83.5) 
+
+Serious 
+
+30 (13.5) 
+
+71 (32.4) 
+
+11 (4.9) 
+
+63 (28.8) 
+
+13 (6.6) 
+
+10 (4.7) 
+
+Grade $ 3 
+
+71 (31.8) 
+
+148 (67.6) 
+
+29 (13.0) 
+
+141 (64.4) 
+
+48 (24.5) 
+
+21 (9.9) 
+
+Death as a result of any cause 
+
+6 (2.7) 
+
+5 (2.3) 
+
+0 
+
+1 (0.5) 
+
+0 
+
+Adverse event leading to death* 
+
+1 (0.4) 
+
+0 
+
+0 
+
+1 (0.5) 
+
+0 
+
+Symptomatic NYHA Class III or IV heart failure 
+
+0 
+
+3 (1.4) 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Asymptomatic conﬁrmed decrease in LVEF of $ 10 percentage points from baseline to an LVEF , 50% 
+
+1 (0.4) 
+
+4 (1.8) 
+
+— 
+
+— 
+
+— 
+
+— 
+
+Adverse event leading to treatment discontinuation 
+
+0 0 
+
+T-DM1: 45 (20.2) 
+
+T: 10 (4.6) 
+
+T-DM1: 7 (3.1) 
+
+T: 11 (5.0) 
+
+T-DM1: 36 (18.4) 
+
+H: 5 (2.4) 
+
+P: 26 (11.7) 
+
+C: 17 (7.8) 
+
+P: 3 (1.3) 
+
+C: 17 (7.8) 
+
+P: 22 (11.2) 
+
+P: 8 (3.8) 
+
+H: 9 (4.1) 
+
+H: 3 (1.4) 
+
+P: 13 (5.9) 
+
+P: 5 (2.3) 
+
+Grade ‡ 3 Adverse Events Occurring in ‡ 2% of Patients in Either Group During Any Study Phase Overall Study 
+
+Neoadjuvant Phase 
+
+Adjuvant Phase 
+
+T-DM1+P (n = 223) 
+
+TCH+P (n = 219) 
+
+T-DM1+P (n = 223) 
+
+TCH+P (n = 219) 
+
+T-DM1+P (n = 196) 
+
+TCH+P (n = 212) 
+
+Neutropenia 
+
+8 (3.6) 
+
+55 (25.1) 
+
+1 (0.4) 
+
+55 (25.1) 
+
+8 (4.1) 
+
+0 
+
+Diarrhea 
+
+4 (1.8) 
+
+34 (15.5) 
+
+2 (0.9) 
+
+33 (15.1) 
+
+2 (1.0) 
+
+2 (0.9) 
+
+Febrile neutropenia 
+
+4 (1.8) 
+
+33 (15.1) 
+
+0 
+
+33 (15.1) 
+
+4 (2.0) 
+
+0 
+
+Anemia 
+
+13 (5.8) 
+
+24 (11.0) 
+
+2 (0.9) 
+
+21 (9.6) 
+
+8 (4.1) 
+
+1 (0.5) 
+
+Neutrophil count decreased 
+
+3 (1.3) 
+
+20 (9.1) 
+
+0 
+
+20 (9.1) 
+
+3 (1.5) 
+
+0 
+
+Platelet count decreased 
+
+5 (2.2) 
+
+11 (5.0) 
+
+3 (1.3) 
+
+11 (5.0) 
+
+2 (1.0) 
+
+0 
+
+WBC count decreased 
+
+2 (0.9) 
+
+9 (4.1) 
+
+0 
+
+9 (4.1) 
+
+2 (1.0) 
+
+0 
+
+Hypokalemia 
+
+4 (1.8) 
+
+8 (3.7) 
+
+3 (1.3) 
+
+5 (2.3) 
+
+1 (0.5) 
+
+1 (0.5) 
+
+Hypertension 
+
+1 (0.4) 
+
+8 (3.7) 
+
+1 (0.4) 
+
+7 (3.2) 
+
+0 
+
+1 (0.5) 
+
+Vomiting 
+
+2 (0.9) 
+
+7 (3.2) 
+
+1 (0.4) 
+
+7 (3.2) 
+
+1 (0.5) 
+
+0 
+
+Fatigue 
+
+2 (0.9) 
+
+7 (3.2) 
+
+3 (1.3) 
+
+7 (3.2) 
+
+0 
+
+0 
+
+Asthenia 
+
+0 
+
+6 (2.7) 
+
+0 
+
+6 (2.7) 
+
+0 
+
+0 
+
+Thrombocytopenia 
+
+2 (0.9) 
+
+5 (2.3) 
+
+1 (0.4) 
+
+4 (1.8) 
+
+1 (0.5) 
+
+0 
+
+Adverse Event 
+
+ALT increased 
+
+4 (1.8) 
+
+5 (2.3) 
+
+3 (1.3) 
+
+4 (1.8) 
+
+1 (0.5) 
+
+0 
+
+Peripheral neuropathy 
+
+7 (3.1) 
+
+1 (0.5) 
+
+1 (0.4) 
+
+1 (0.5) 
+
+6 (3.1) 
+
+0 
+
+NOTE. Data are given as No. (%). Abbreviations: C, carboplatin; H, trastuzumab; LVEF, left ventricular ejection fraction; NYHA, New York Heart Association; P, pertuzumab; T, docetaxel; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1, trastuzumab emtansine; T-DM1+P, trastuzumab emtansine plus pertuzumab. *The patient died of an ileus adverse event with onset after the patient had received two cycles of cyclophosphamide and epirubicin from day 148 to day 169. The patient died on day 177. Death was attributed to adjuvant chemotherapy. 
+
+event; however, 95% CI is wide for the IDFS HR (0.52 to 2.40), and the 15 patients who experienced locoregional progression in the T-DM1+P arm before surgery were not included in the IDFS-evaluable population; therefore, IDFS 
+
+results should be interpreted with caution. In addition, within the T-DM1+P arm, patients who had residual disease were more likely to have received adjuvant chemotherapy than patients who had a pCR (33.1% v 9.1%). Lack 
+
+8 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+A 
+
+Mean Change From Baseline (%) 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+0 –10 –20 Treatment Group TCH+P (n = 221) 
+
+–30 
+
+T-DM1+P (n = 223) 
+
+Neoadjuvant Neoadjuvant Cycle 5 Cycle 3 
+
+B 
+
+Mean Change From Baseline (%) 
+
+No. at risk: TCH+P T-DM1+P 
+
+Mean Change From Baseline (%) 
+
+181 178 
+
+Adjuvant Cycle 8 
+
+End of Therapy 
+
+6-Month Follow-up 
+
+12-Month Follow-up 
+
+170 171 
+
+0 25 
+
+173 155 
+
+168 143 
+
+171 165 
+
+149 136 
+
+135 124 
+
+Presurgery 
+
+Optional Chemotherapy 
+
+Adjuvant Cycle 4 
+
+Adjuvant Cycle 8 
+
+End of Therapy 
+
+6-Month Follow-up 
+
+12-Month Follow-up 
+
+170 171 
+
+0 25 
+
+173 155 
+
+168 143 
+
+171 165 
+
+149 136 
+
+135 124 
+
+Presurgery 
+
+Optional Chemotherapy 
+
+Adjuvant Cycle 4 
+
+Adjuvant Cycle 8 
+
+End of Therapy 
+
+6-Month Follow-up 
+
+12-Month Follow-up 
+
+170 171 
+
+0 25 
+
+173 155 
+
+168 143 
+
+171 165 
+
+149 136 
+
+135 124 
+
+Presurgery 
+
+Optional Chemotherapy 
+
+Adjuvant Cycle 4 
+
+Adjuvant Cycle 8 
+
+End of Therapy 
+
+6-Month Follow-up 
+
+12-Month Follow-up 
+
+170 171 
+
+0 25 
+
+173 155 
+
+168 143 
+
+171 165 
+
+149 136 
+
+135 124 
+
+–10 –15 –20 
+
+Treatment Group TCH+P (n = 221) 
+
+–25 
+
+T-DM1+P (n = 223) 
+
+Neoadjuvant Neoadjuvant Cycle 3 Cycle 5 176 183 
+
+181 178 
+
+0 –5 –10 –15 Treatment Group TCH+P (n = 221) 
+
+–20 
+
+T-DM1+P (n = 223) 
+
+No. at risk: TCH+P T-DM1+P 
+
+Mean Change From Baseline (%) 
+
+Adjuvant Cycle 4 
+
+–5 
+
+Neoadjuvant Neoadjuvant Cycle 3 Cycle 5 
+
+D 
+
+Optional Chemotherapy 
+
+0 
+
+No. at risk: TCH+P T-DM1+P 
+
+C 
+
+176 183 
+
+Presurgery 
+
+176 183 
+
+181 178 
+
+30 20 10 Treatment Group TCH+P (n = 221) 
+
+0 
+
+T-DM1+P (n = 223) 
+
+Neoadjuvant Neoadjuvant Cycle 3 Cycle 5 No. at risk: TCH+P T-DM1+P 
+
+176 183 
+
+181 178 
+
+FIG 3. Patient-reported outcomes during the overall study period for patients in the intention-to-treat population. Graphs depict mean change from baseline in European Organization for Research and Treatment of Cancer Quality-of-Life Questionnaire2C30 for domains of (A) global health status, (B) physical functioning, (C) cognitive functioning, and (D) diarrhea. Baseline is deﬁned as neoadjuvant cycle 1, day 1. TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+Journal of Clinical Oncology 
+
+9 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+of randomization to adjuvant chemotherapy and the small number of patients who received it preclude meaningful analyses of this subgroup. Consistent with other data,9 pCR conferred a favorable long-term outcome compared with no pCR (stratiﬁed HR, 0.24 [95% CI, 0.09 to 0.60]) regardless of treatment arm, with 3-year IDFS event-free rates of 96.7% in the T-DM1+P arm and 97.5% in the TCH+P arm. A relationship between pCR and a favorable 3-year outcome was also apparent regardless of hormone receptor status. During the overall study period, T-DM1+P was associated with fewer grade 3 or greater and serious AEs than TCH+P followed by adjuvant H+P, which was driven by a better safety proﬁle in the T-DM1+P arm compared with the TCH+P arm during the neoadjuvant treatment phase. However, during the adjuvant phase, compared with H+P, T-DM1+P was associated with a greater incidence of grade 3 or greater AEs, serious AEs, and AEs that led to treatment discontinuation. The increased incidence of these AEs in the T-DM1+P arm seem to be driven, at least in part, by adjuvant chemotherapy. Serious AEs occurred in 14.0% (seven of 50) of patients who received adjuvant chemotherapy versus in 4.1% (six of 146) of patients who did not. Grade 3 or greater AES occurred in 46.0% (23 of 50) of patients who received adjuvant chemotherapy versus in 17.1% (25 of 146) of patients who did not, and AEs leading to treatment discontinuation occurred in 28.0% (14 of 50) of patients who received adjuvant chemotherapy versus in 15.1% (22 of 146) of patients who did not. Treatment with T-DM1+P resulted in less functional impairment and less impact from symptoms compared with TCH+P during the neoadjuvant phase of treatment, as assessed by EORTC QLQ-C30 (Fig 3) and QLQ-BR23 (data not shown). Although impairments in cognitive functioning and certain symptoms remained through the adjuvant phase and follow-up in both arms, a large negative impact on physical or role functioning or global health status was not observed. The role of T-DM1 in early HER2-positive breast cancer is evolving, with two trials evaluating this agent in the adjuvant 
+
+setting. The KATHERINE trial demonstrates that patients who had residual disease after neoadjuvant systemic chemotherapy plus single or dual HER2-directed therapy had a lower risk of invasive breast cancer recurrence or death with adjuvant T-DM1 compared with adjuvant trastuzumab (HR, 0.50 [95% CI, 0.39 to 0.64]; P , .001).20 The ongoing KAITLIN trial (ClinicalTrials.gov identiﬁer: NCT01966471) will compare T-DM1+P with taxane plus P+H after anthracyclines as adjuvant therapy for patients who have not received prior neoadjuvant therapy and will thus provide additional information on outcomes with adjuvant T-DM1+P. Strengths of the current study were its rigorous randomized controlled design and its use of dual HER2-targeted therapy as the control in both the neoadjuvant and adjuvant phases. Limitations were that the end points of EFS, IDFS, and OS were secondary and the study was not powered to detect differences in these end points. In addition, the 15 patients who experienced locoregional progression in the T-DM1+P arm were not included in the IDFS analysis because they did not have surgery recorded in the case report form and their disease recurrence status was not available; however, some of these patients were still in the OS follow-up. Three-year results from KRISTINE demonstrate that neoadjuvant and adjuvant T-DM1+P was associated with a higher risk of an EFS event, a similar risk of an IDFS event, and less quality-of-life impairment in the neoadjuvant phase compared with neoadjuvant TCH+P followed by adjuvant H+P. Furthermore, relative to TCH+P followed by adjuvant H+P, the conventional systemic chemotherapy–sparing regimen of T-DM1+P was associated with fewer serious AEs, grade 3 or greater AEs, and more AEs leading to treatment discontinuation. Overall, the observed worse EFS and similar IDFS associated with T-DM1+P might suggest the importance of selecting patients for a conventional chemotherapy–sparing neoadjuvant regimen. Data from KAITLIN will further deﬁne the clinical utility of adjuvant T-DM1+P in patients with HER2-positive early breast cancer. 
+
+11 
+
+AFFILIATIONS 1 
+
+University of California, Los Angeles, Los Angeles, CA 2 Universidad Complutense, CUBERONC, GEICAM, Madrid, Spain 3 Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea 4 National Taiwan University Hospital, National Taiwan University College of Medicine, Taipei, Republic of China 5 University of Munich, Munich, Germany 6 The University of Texas MD Anderson Cancer Center, Houston, TX 7 Moscow City Oncology Hospital 62, Moscow, Russia 8 University Hospitals Leuven, Leuven, Belgium 9 Centre René Gauducheau, Saint-Herblain, France 10 McGill University, Jewish General Hospital Segal Cancer Centre, Montréal, Québec, Canada 
+
+University Hospital Erlangen, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany 12 Translational Research in Oncology, Paris, France 13 Translational Research in Oncology, Montevideo, Uruguay 14 PAREXEL International GmbH, Berlin, Germany 15 Genentech, South San Francisco, CA 16 Monteﬁore Medical Center, Albert Einstein College of Medicine, Bronx, NY 17 Baylor College of Medicine, Houston, TX 
+
+CORRESPONDING AUTHOR Sara A. Hurvitz, MD, David Geffen School of Medicine, University of California, Los Angeles, 10945 Le Conte Ave, PVUB Suite 3360, Los Angeles, CA 90095; e-mail: shurvitz@mednet.ucla.edu. 
+
+10 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+PRIOR PRESENTATION Presented in part at the American Society of Clinical Oncology Annual Meeting, Chicago IL, May 31-June 4, 2019. 
+
+SUPPORT Funded by F Hoffman-La Roche/Genentech. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.19.00882. AUTHOR CONTRIBUTIONS Conception and design: Sara A. Hurvitz, Miguel Martin, Nadia Harbeck, Karen Afenjar, Joseph A. Sparano, W. Fraser Symmans, Alastair M. Thompson, Dennis Slamon Administrative support: Sara A. Hurvitz, Gonzalo Spera Provision of study materials or patients: Miguel Martin, Kyung Hae Jung, Chiun-Sheng Huang, Nadia Harbeck, Vicente Valero, Daniil 
+
+Stroyakovskiy, Hans Wildiers, Mario Campone, Jean-François Boileau, Peter A. Fasching, Joseph A. Sparano Collection and assembly of data: Miguel Martin, Chiun-Sheng Huang, Nadia Harbeck, Vicente Valero, Daniil Stroyakovskiy, Mario Campone, Jean-François Boileau, Peter A. Fasching, Gonzalo Spera, Vanesa LopezValverde, Chunyan Song, Joseph A. Sparano, Alastair M. Thompson, Dennis Slamon Data analysis and interpretation: Sara A. Hurvitz, Miguel Martin, Kyung Hae Jung, Chiun-Sheng Huang, Nadia Harbeck, Vicente Valero, Hans Wildiers, Mario Campone, Jean-François Boileau, Peter A. Fasching, Karen Afenjar, Gonzalo Spera, Vanesa Lopez-Valverde, Chunyan Song, Peter Trask, Thomas Boulet, Joseph A. Sparano, Alastair M. Thompson, Dennis Slamon Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors ACKNOWLEDGMENT The authors thank the patients who participated in this trial, the clinical site teams, and Holly Strausbaugh, PhD, and Laura Evans, PharmD, of Twist Medical, for medical writing assistance (funded by F Hoffmann-La Roche/Genentech). 
+
+REFERENCES 1. 
+
+National Comprehensive Cancer Network: NCCN Clinical Practice Guidelines in Oncology: Breast cancer (version 4.2018). https://www.nccn.org/professionals/ physician_gls/pdf/breast_blocks.pdf 
+
+2. 
+
+Gianni L, Eiermann W, Semiglazov V, et al: Neoadjuvant chemotherapy with trastuzumab followed by adjuvant trastuzumab versus neoadjuvant chemotherapy alone, in patients with HER2-positive locally advanced breast cancer (the NOAH trial): A randomised controlled superiority trial with a parallel HER2-negative cohort. Lancet 375:377-384, 2010 
+
+3. 
+
+Untch M, Fasching PA, Konecny GE, et al: Pathologic complete response after neoadjuvant chemotherapy plus trastuzumab predicts favorable survival in human epidermal growth factor receptor 2-overexpressing breast cancer: Results from the TECHNO trial of the AGO and GBG study groups. J Clin Oncol 29:3351-3357, 2011 
+
+4. 
+
+Guarneri V, Frassoldati A, Bottini A, et al: Preoperative chemotherapy plus trastuzumab, lapatinib, or both in human epidermal growth factor receptor 2-positive operable breast cancer: Results of the randomized phase II CHER-LOB study. J Clin Oncol 30:1989-1995, 2012 
+
+5. 
+
+Gianni L, Pienkowski T, Im YH, et al: Efﬁcacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inﬂammatory, or early HER2-positive breast cancer (NeoSphere): A randomised multicentre, open-label, phase 2 trial. Lancet Oncol 13:25-32, 2012 
+
+6. 
+
+Baselga J, Bradbury I, Eidtmann H, et al: Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): A randomised, open-label, multicentre, phase 3 trial. Lancet 379:633-640, 2012 [Erratum: Lancet 379:616, 2012] 
+
+7. 
+
+Robidoux A, Tang G, Rastogi P, et al: Lapatinib as a component of neoadjuvant therapy for HER2-positive operable breast cancer (NSABP protocol B-41): An open-label, randomised phase 3 trial. Lancet Oncol 14:1183-1192, 2013 
+
+8. 
+
+Carey LA, Berry DA, Cirrincione CT, et al: Molecular heterogeneity and response to neoadjuvant human epidermal growth factor receptor 2 targeting in CALGB 40601, a randomized phase III trial of paclitaxel plus trastuzumab with or without lapatinib. J Clin Oncol 34:542-549, 2016 
+
+9. 
+
+Cortazar P, Zhang L, Untch M, et al: Pathological complete response and long-term clinical beneﬁt in breast cancer: The CTNeoBC pooled analysis. Lancet 384: 164-172, 2014 
+
+10. Gianni L, Pienkowski T, Im YH, et al: 5-year analysis of neoadjuvant pertuzumab and trastuzumab in patients with locally advanced, inﬂammatory, or early-stage HER2-positive breast cancer (NeoSphere): A multicentre, open-label, phase 2 randomised trial. Lancet Oncol 17:791-800, 2016 11. de Azambuja E, Holmes AP, Piccart-Gebhart M, et al: Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): Survival outcomes of a randomised, open-label, multicentre, phase 3 trial and their association with pathological complete response. Lancet Oncol 15:1137-1146, 2014 12. Hurvitz SA, Martin M, Symmans WF, et al: Neoadjuvant trastuzumab, pertuzumab, and chemotherapy versus trastuzumab emtansine plus pertuzumab in patients with HER2-positive breast cancer (KRISTINE): A randomised, open-label, multicentre, phase 3 trial. Lancet Oncol 19:115-126, 2018 13. Krop IE, Kim SB, González-Martı́n A, et al: Trastuzumab emtansine versus treatment of physician’s choice for pretreated HER2-positive advanced breast cancer (TH3RESA): A randomised, open-label, phase 3 trial. Lancet Oncol 15:689-699, 2014 14. Perez EA, Barrios C, Eiermann W, et al: Trastuzumab emtansine with or without pertuzumab versus trastuzumab plus taxane for human epidermal growth factor receptor 2-positive, advanced breast cancer: Primary results from the phase III MARIANNE study. J Clin Oncol 35:141-148, 2017 15. Wolff AC, Hammond ME, Hicks DG, et al: Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update. Arch Pathol Lab Med 138:241-256, 2014 16. Hudis CA, Barlow WE, Costantino JP, et al: Proposal for standardized deﬁnitions for efﬁcacy end points in adjuvant breast cancer trials: The STEEP system. J Clin Oncol 25:2127-2132, 2007 17. Fayers P, Aaronson NK, Bjordal K, et al: EORTC QLQ-C30 Scoring Manual (ed 3). Brussels, Belgium, European Organisation for Research and Treatment of Cancer, 2001 18. Baselga J, Lewis Phillips GD, Verma S, et al: Relationship between tumor biomarkers and efﬁcacy in EMILIA, a phase III study of trastuzumab emtansine in HER2-positive metastatic breast cancer. Clin Cancer Res 22:3755-3763, 2016 [Erratum: Clin Cancer Res 24:5486, 2018] 19. Kim SB, Wildiers H, Krop IE, et al: Relationship between tumor biomarkers and efﬁcacy in TH3RESA, a phase III study of trastuzumab emtansine (T-DM1) vs. treatment of physician’s choice in previously treated HER2-positive advanced breast cancer. Int J Cancer 139:2336-2342, 2016 20. von Minckwitz G, Huang CS, Mano MS, et al: Trastuzumab emtansine for residual HER2-positive breast cancer. N Engl J Med 380:617-628, 2019 
+
+n n n 
+
+Journal of Clinical Oncology 
+
+11 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Neoadjuvant Trastuzumab Emtansine and Pertuzumab in Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer: Three-Year Outcomes From the Phase III KRISTINE Study The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. Sara A. Hurvitz Research Funding: Genentech (Inst), Novartis (Inst), GlaxoSmithKline (Inst), Sanoﬁ (Inst), Pﬁzer (Inst), Amgen (Inst), OBI Pharma (Inst), Puma Biotechnology (Inst), Dignitana (Inst), Bayer (Inst), Biomarin (Inst), Eli Lilly (Inst), Merrimack Pharmaceuticals (Inst), Cascadian Therapeutics (Inst), Seattle Genetics (Inst), Daiichi Sankyo (Inst), Macrogenics (Inst), Ambryx (Inst), Immunomedics (Inst), Pieris (Inst), Radius (Inst) Miguel Martin Consulting or Advisory Role: Genentech, Novartis, Pﬁzer, Eli Lilly, AstraZeneca, Taiho Pharmaceutical, PharmaMar Research Funding: Novartis (Inst), Roche (Inst) Chiun-Sheng Huang Honoraria: Amgen, Roche, Pﬁzer, AstraZeneca, Novartis Consulting or Advisory Role: Amgen, Pﬁzer, Roche Speakers’ Bureau: Amgen, Pﬁzer, Roche Research Funding: Amgen (Inst), AstraZeneca (Inst), Eli Lilly (Inst), MSD (Inst), Novartis (Inst), Pﬁzer (Inst), Roche (Inst) Travel, Accommodations, Expenses: Pﬁzer, Roche, Amgen Nadia Harbeck Stock and Other Ownership Interests: West German Study Group Honoraria: Roche, Novartis, Amgen, Pﬁzer, Genomic Health, AstraZeneca, Zodiac Pharma Consulting or Advisory Role: Genentech, Novartis, Celgene, Pﬁzer, Eli Lilly, Sandoz, Daiichi Sankyo, Agendia, AstraZeneca, Merck Sharp & Dohme, Odonate Therapeutics, Seattle Genetics Consulting or Advisory Role: West German Study Group (I) Research Funding: Genentech (Inst), Novartis (Inst), Pﬁzer (Inst), Eli Lilly (Inst), Merck Sharp & Dohme (Inst) Vicente Valero Honoraria: Genentech Consulting or Advisory Role: Genentech Travel, Accommodations, Expenses: Genentech Daniil Stroyakovskiy Speakers’ Bureau: Genentech, Bristol-Myers Squibb, BioCad, AstraZeneca Travel, Accommodations, Expenses: AstraZeneca, Novartis, Roche Hans Wildiers Honoraria: Roche, Amgen, Novartis Consulting or Advisory Role: Amgen (Inst), Roche (Inst), Eli Lilly (Inst), AstraZeneca (Inst), AbbVie (Inst), Vifor Pharma (Inst), Roche (Inst) Expert Testimony: AbbVie, TRM Oncology Travel, Accommodations, Expenses: Pﬁzer, Roche, Puma Biotechnology, TRM Oncology Mario Campone Honoraria: Novartis, Eli Lilly Consulting or Advisory Role: Novartis (Inst), Servier (Inst), Menarini, Sanoﬁ (Inst), Eli Lilly (Inst), Pﬁzer (Inst), AstraZeneca (Inst), MedImmune (Inst), AbbVie (Inst) Speakers’ Bureau: Novartis, Amgen Research Funding: Novartis (Inst) Travel, Accommodations, Expenses: Novartis, AstraZeneca, Pﬁzer Other Relationship: Roche Jean-François Boileau Honoraria: Genentech, Amgen Consulting or Advisory Role: Genentech, Genomic Health, NanoString Technologies, Eli Lilly Speakers’ Bureau: Roche, Novartis, Genomic Heath, Pﬁzer Research Funding: Genentech (Inst), Novartis (Inst), Pﬁzer (Inst), AbbVie (Inst), Merck (Inst), Eli Lilly (Inst), RNA Diagnostics (Inst) Travel, Accommodations, Expenses: Roche, GlaxoSmithKline, Novartis, Eli Lilly 
+
+Peter A. Fasching Honoraria: Roche, Amgen, Novartis, Pﬁzer, Celgene, Puma Biotechnology, Daiichi Sankyo, Eisai, Merck Sharp & Dohme, AstraZeneca, Teva, Hexal, Myelo Therapeutics Consulting or Advisory Role: Amgen, Teva, Celgene, Novartis, Pﬁzer, Roche, Puma Biotechnology, Daiichi Sankyo, Eisai, Merck Sharp & Dohme, AstraZeneca, Hexal, Myelo Therapeutics, Macrogenics Research Funding: Novartis (Inst), BioNTech (Inst), Cepheid (Inst) Karen Afenjar Travel, Accommodations, Expenses: Novartis Vanesa Lopez-Valverde Employment: F Hoffmann-La Roche Honoraria: F Hoffmann-La Roche Travel, Accommodations, Expenses: F Hoffmann-La Roche Chunyan Song Employment: Genentech Stock and Other Ownership Interests: Genentech Peter Trask Employment: Genentech Stock and Other Ownership Interests: Genentech, Pﬁzer Thomas Boulet Employment: Genentech Joseph A. Sparano Stock and Other Ownership Interests: Metastat Consulting or Advisory Role: Genentech, Novartis, AstraZeneca, Celgene, Eli Lilly, Celldex, Pﬁzer, Prescient Therapeutics, Juno Therapeutics, Merrimack Pharmaceuticals, Adgero Biopharmaceuticals, Cardinal Health Research Funding: Prescient Therapeutics (Inst), Deciphera (Inst), Genentech (Inst), Merck (Inst), Novartis (Inst), Merrimack Pharmaceuticals (Inst), Radius Health (Inst) Travel, Accommodations, Expenses: Menarini Silicon Biosystems, Genentech, Adgero Biopharmaceuticals, Myriad Genetics, Pﬁzer, AstraZeneca W. Fraser Symmans Stock and Other Ownership Interests: ISIS Pharmaceuticals, Nuvera Biosciences, Delphi Diagnostics Consulting or Advisory Role: Merck, Almac Diagnostics Patents, Royalties, Other Intellectual Property: Intellectual property, intellectual Property (expired) Travel, Accommodations, Expenses: Luminex, Merck Alastair M. Thompson Honoraria: Novartis (I), Pﬁzer Research Funding: Genentech (Inst) Travel, Accommodations, Expenses: Novartis (I), Pﬁzer Dennis Slamon Leadership: Biomarin Stock and Other Ownership Interests: Pﬁzer Honoraria: Novartis Consulting or Advisory Role: Novartis, Eli Lilly Research Funding: Novartis, Pﬁzer Travel, Accommodations, Expenses: Pﬁzer, Biomarin, Novartis No other potential conﬂicts of interest were reported. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+APPENDIX 
+
+TABLE A1. Treatment Disposition During Overall Study T-DM1+P (n = 223) 
+
+TCH+P (n = 221) 
+
+Variable 
+
+T-DM1 
+
+P 
+
+T 
+
+C 
+
+H 
+
+P 
+
+Discontinuation by component, No. (%) 
+
+74 (33.2) 
+
+59 (26.5) 
+
+13 (5.9) 
+
+19 (8.6) 
+
+18 (8.1) 
+
+22 (10.0) 
+
+1 (0.4) 
+
+1 (0.4) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Reason, No. (%) Death Adverse event 
+
+43 (19.3) 
+
+24 (10.8) 
+
+11 (5.0) 
+
+17 (7.7) 
+
+9 (4.1) 
+
+13 (5.9) 
+
+Locoregional progression 
+
+15 (6.7) 
+
+15 (6.7) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+— 
+
+— 
+
+Invasive breast cancer relapse 
+
+1 (0.4) 
+
+2 (0.9) 
+
+1 (0.5) 
+
+1 (0.5) 
+
+New nonbreast primary malignancy 
+
+2 (0.9) 
+
+2 (0.9) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Patient decision 
+
+5 (2.2) 
+
+5 (2.2) 
+
+1 (0.5) 
+
+1 (0.5) 
+
+3 (1.4) 
+
+3 (1.4) 
+
+Physician decision 
+
+3 (1.3) 
+
+3 (1.3) 
+
+0 
+
+0 
+
+1 (0.5) 
+
+1 (0.5) 
+
+Noncompliance 
+
+1 (0.4) 
+
+1 (0.4) 
+
+0 
+
+0 
+
+1 (0.5) 
+
+1 (0.5) 
+
+Lost to follow-up 
+
+1 (0.4) 
+
+1 (0.4) 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Other 
+
+2 (0.9) 
+
+5 (2.2) 
+
+1 (0.5) 
+
+1 (0.5) 
+
+3 (1.4) 
+
+3 (1.4) 
+
+Abbreviations: C, carboplatin; H, trastuzumab; P, pertuzumab; T, docetaxel; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1, trastuzumab emtansine; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+TABLE A2. Baseline Characteristics Characteristic 
+
+T-DM1+P (n = 223) 
+
+Median age, years (range) 
+
+TCH+P (n = 221) 
+
+50.0 (23-79) 
+
+49.0 (22-79) 
+
+ER positive and/or PR positive 
+
+139 (62.3) 
+
+137 (62.0) 
+
+ER and PR negative 
+
+84 (37.7) 
+
+84 (38.0) 
+
+IIA-IIIA 
+
+186 (83.4) 
+
+183 (82.8) 
+
+IIIB-IIIC 
+
+37 (16.6) 
+
+38 (17.2) 
+
+148 (66.4) 
+
+147 (66.5) 
+
+Local ER/PR status, No. (%) 
+
+Clinical stage at initial diagnosis, No. (%) 
+
+Race, No. (%) White Black 
+
+5 (2.2) 
+
+6 (2.7) 
+
+Asian 
+
+60 (26.9) 
+
+52 (23.5) 
+
+Other* Median time from breast cancer diagnosis, weeks (range) 
+
+10 (4.5) 
+
+16 (7.2) 
+
+5.0 (2.3-14.0) 
+
+5.3 (1.4-129.3) 
+
+Abbreviations: ER, estrogen receptor; PR, progesterone receptor; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Includes American Indian/Alaska Native, Native Hawaiian or other Paciﬁc Islander, multiple, and not available. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+TABLE A3. IDFS According to Tumor Hormone Receptor Status in the IDFS-Evaluable Population ER and PR Negative 
+
+ER and/or PR Positive 
+
+Variable 
+
+T-DM1+P (n = 84) 
+
+TCH+P (n = 84) 
+
+T-DM1+P (n = 139) 
+
+TCH+P (n = 137) 
+
+Patients included in analysis, No. 
+
+77 
+
+80 
+
+127 
+
+134 
+
+Event, No. (%) 
+
+4 (5.2) 
+
+6 (7.5) 
+
+9 (7.1) 
+
+7 (5.2) 
+
+IDFS event 
+
+4 (5.2) 
+
+6 (7.5) 
+
+7 (5.5) 
+
+5 (3.7) 
+
+Death without prior IDFS event 
+
+0 
+
+0 
+
+2 (1.6) 
+
+2 (1.5 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year IDFS event-free survival, % (95% CI) 
+
+0.73 (0.21 to 2.60) 94.4 (89.1 to 99.7) 
+
+92.5 (86.7 to 98,3) 
+
+1.44 (0.54 to 3.88) 92.2 (87.3 to 97.1) 
+
+91.7 (84.1 to 99.4) 
+
+Abbreviations: ER, estrogen receptor; HR, hazard ratio; IDFS, invasive disease-free survival; PR, progesterone receptor; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Stratiﬁed for clinical stage at presentation (II-IIIA v IIIB-IIIC). 
+
+TABLE A4. Sensitivity Analysis for EFS and IDFS Censoring at Start of Nonprotocol Anticancer Therapy Variable 
+
+T-DM1+P 
+
+TCH+P 
+
+EFS Patients included in analysis, No. Event, No. (%) 
+
+223 
+
+221 
+
+30 (13.5) 
+
+12 (5.4) 
+
+EFS event, No. 
+
+28 
+
+11 
+
+Death without prior EFS event, No. 
+
+2 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year IDFS event-free survival, % (95% CI) 
+
+1 2.74 (1.40 to 5.35) 
+
+85.6 (80.8 to 90.4) 
+
+94.6 (91.5 to 97.7) 
+
+IDFS Patients included in analysis, No. 
+
+204 
+
+214 
+
+Event, No. (%)† 
+
+12 (5.9) 
+
+12 (5.6) 
+
+Distant recurrence, CNS, No. 
+
+4 
+
+4 
+
+Distant recurrence, non-CNS, No. 
+
+5 
+
+5 
+
+Locoregional occurrence, No. 
+
+1 
+
+2 
+
+Contralateral breast cancer, No. 
+
+0 
+
+0 
+
+Death without prior IDFS event, No. 
+
+2 
+
+1 
+
+Stratiﬁed HR for T-DM1+P v TCH+P (95% CI)* 3-Year IDFS event-free survival, % (95% CI) 
+
+1.12 (0.50 to 2.50) 93.4 (89.9 to 97.0) 
+
+92.4 (87.2 to 97.6) 
+
+Abbreviations: EFS, event-free survival; HR, hazard ratio; IDFS, invasive disease-free survival; PR, progesterone receptor; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Stratiﬁed for hormone receptor status (estrogen receptor positive and/or progesterone receptor positive v estrogen receptor negative and progesterone receptor negative) and clinical stage at presentation (II-IIIA v IIIB-IIIC). †Patients who experience more than one IDFS event are reported in the category associated with their earliest IDFS event. If more than one event is reported on the same date, patients are reported in the category according to the following hierarchy: 1) distant recurrence, CNS; 2) distant recurrence, non-CNS; 3) locoregional recurrence; 4) contralateral breast cancer; and 5) death without prior event. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+TABLE A5. Additional Adjuvant Treatments in the IDFS-Evaluable Population Treatment 
+
+T-DM1+P (n = 204) 
+
+TCH+P (n = 214) 
+
+At least one treatment 
+
+159 (77.9) 
+
+178 (83.2) 
+
+Radiotherapy 
+
+119 (58.3) 
+
+142 (66.4) 
+
+Breast only 
+
+70 (34.3) 
+
+83 (38.8) 
+
+Breast plus lymph nodes 
+
+47 (23.0) 
+
+57 (26.6) 
+
+2 (1.0) 
+
+2 (0.9) 
+
+Endocrine therapy 
+
+Lymph nodes only 
+
+93 (45.6) 
+
+119 (55.6) 
+
+Chemotherapy* 
+
+50 (24.5)† 
+
+0 
+
+Systemic nonprotocol antitumor therapy 
+
+1 (0.5) 
+
+1 (0.5) 
+
+NOTE. Data are presented as No. (%). Abbreviations: IDFS, invasive disease-free survival; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Data on chemotherapy regimens were not collected. †(n = 41) with residual disease; (n = 9) with pathologic complete response. 
+
+TABLE A6. Treatment Exposure During Overall Study (safety population) T-DM1+P* (n = 223) P (n = 223) 
+
+TCH+P (n = 219) 
+
+Variable 
+
+T-DM1 (n = 223) 
+
+T (n = 219) C (n = 219) 
+
+H (n = 219) 
+
+P (n = 219) 
+
+Median treatment duration, months (range) 
+
+12.6 (0.7-8.6) 
+
+12.9 (0.7-18.6) 3.5 (0-4.8) 
+
+3.5 (0-4.8) 12.9 (0-16.6) 12.9 (0-16.6) 
+
+Median No. of cycles (range) 
+
+18.0 (2-18) 
+
+18.0 (2-18) 
+
+6.0 (1-6) 
+
+6.0 (1-6) 
+
+18.0 (1-18) 
+
+18.0 (1-18) 
+
+Any level of dose reduction, No. (%) 
+
+43 (19.3) 
+
+0 
+
+51 (23.3) 
+
+58 (26.5) 
+
+0 
+
+0 
+
+First-level dose reduction,† No. (%) 
+
+28 (12.6) 
+
+0 
+
+45 (20.5) 
+
+57 (26.0) 
+
+0 
+
+0 
+
+Second-level dose reduction,‡ No. (%) 
+
+15 (6.7) 
+
+0 
+
+6 (2.7) 
+
+1 (0.5) 
+
+0 
+
+0 
+
+Abbreviations: C, carboplatin; H, trastuzumab; P, pertuzumab; T, docetaxel; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. *Six patients received H during recommended adjuvant cytotoxic therapy; 17 patients received H as replacement for T-DM1 during the adjuvant phase. †T, 60 mg/m2; C, area under the concentration time curve 5; T-DM1, 3 mg/kg. ‡T, 50 mg/m2, C, area under the concentration time curve 4; T-DM1, 2.4 mg/kg. 
+
+TABLE A7. Adverse Events Leading to Treatment Discontinuation in at Least Two Patients in the Adjuvant Phase Adverse Event T-DM1+P (n = 196) H+P (n = 212) Blood bilirubin increased 
+
+9 (4.6) 
+
+0 
+
+Peripheral neuropathy 
+
+6 (3.1) 
+
+0 
+
+Thrombocytopenia 
+
+5 (2.6) 
+
+0 
+
+Anemia 
+
+3 (1.5) 
+
+1 (0.5) 
+
+Platelet count decreased 
+
+3 (1.5) 
+
+0 
+
+Radiation pneumonitis 
+
+3 (1.5) 
+
+0 
+
+Ejection fraction decreased 
+
+2 (1.0) 
+
+0 
+
+Left ventricular dysfunction 
+
+0 
+
+2 (0.9) 
+
+NOTE. Data are presented as No. (%). Abbreviations: H+P, trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Hurvitz et al 
+
+TABLE A8. Baseline Scores (ie, before cycle 1 neoadjuvant treatment) on the European Organization for Research and Treatment of Cancer QLQ-C30 and QLQ-BR23 by Study Arm PRO Item T-DM1+P (n = 223) TCH+P (n = 221) QLQ-C30 (scale range, 1-100) Global health status 
+
+76.6 (16.9) 
+
+74.2 (18.6) 
+
+Physical functioning 
+
+93.7 (9.6) 
+
+91.7 (12.0) 
+
+Cognitive functioning 
+
+90.3 (15.4) 
+
+89.6 (15.6) 
+
+Emotional functioning 
+
+72.5 (21.4) 
+
+72.5 (20.8) 
+
+Role functioning 
+
+89.9 (16.3) 
+
+89.9 (20.9) 
+
+Social functioning 
+
+88.3 (17.2) 
+
+84.8 (22.4) 
+
+Diarrhea 
+
+4.2 (13.8) 
+
+5.8 (14.7) 
+
+Appetite loss 
+
+10.5 (20.7) 
+
+12.2 (20.4) 
+
+Constipation 
+
+7.7 (15.9) 
+
+8.5 (19.2) 
+
+Dyspnea 
+
+6.9 (16.4) 
+
+8.3 (16.3) 
+
+Fatigue 
+
+19.9 (17.4) 
+
+20.4 (20.9) 
+
+Financial difﬁculties 
+
+15.4 (24.5) 
+
+13.4 (22.9) 
+
+Insomnia 
+
+25.5 (26.3) 
+
+29.8 (25.9) 
+
+Nausea/vomiting 
+
+1.9 (6.5) 
+
+2.3 (8.0) 
+
+Pain 
+
+15.3 (17.2) 
+
+15.1 (21.2) 
+
+Systemic therapy adverse effects 
+
+8.8 (10.0) 
+
+10.1 (11.2) 
+
+Any hair loss 
+
+1.5 (6.9) 
+
+3.2 (10.4) 
+
+Upset by hair loss 
+
+28.6 (35.6) 
+
+33.3 (32.2) 
+
+Neuropathy 
+
+4.1 (11.9) 
+
+4.7 (13.9) 
+
+QLQ-BR23 (scale range, 1-100) 
+
+Skin problems 
+
+9.6 (17.4) 
+
+9.0 (15.8) 
+
+Body image 
+
+90.4 (14.8) 
+
+89.5 (16.1) 
+
+Sexual functioning 
+
+80.3 (23.3) 
+
+77.9 (23.5) 
+
+Sexual enjoyment 
+
+46.1 (26.1) 
+
+45.0 (25.2) 
+
+Future perspective 
+
+52.8 (28.8) 
+
+50.7 (30.0) 
+
+NOTE. Data are presented as mean (standard deviation). Abbreviations: PRO, patient-reported outcome; QLQ-BR23, Quality-of-Life Questionnaire–Breast Cancer Module; QLQ-C30, Quality-of-Life Questionnaire–C30; TCH+P, docetaxel, carboplatin, and trastuzumab plus pertuzumab; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Neoadjuvant Trastuzumab Emtansine and Pertuzumab 3-Year Outcomes 
+
+TABLE A9. HER2 Expression in T-DM1+P Arm by Disease Progression Status Before Surgery T-DM1+P (n = 223) 
+
+Variable 
+
+Patients With Locoregional Disease Progression (n = 15) 
+
+Patients Without Locoregional Disease Progression (n = 208) 
+
+10 (66.7) 
+
+129 (62.0) 
+
+Estrogen receptor and/or progesterone receptor positive, No. (%) Median HER2 mRNA (range) 
+
+1.30 (0.4-5.2) 
+
+HER2 mRNA expression below the overall median, n/N (%) 
+
+14/14 (100) 
+
+6.36 (0.3-86.8) 96/204 (47.1) 
+
+HER2 copy number, No. (%) , 4.0 
+
+1 (6.7) 
+
+1 (0.5) 
+
+4.0-5.9 
+
+3 (20.0) 
+
+8 (3.8) 
+
+$ 6.0 
+
+11 (73.3) 
+
+189 (90.9) 
+
+HER2 gene ratio, No. (%) , 2.0 
+
+1 (6.7) 
+
+2 (1.0) 
+
+2.0-3.9 
+
+10 (66.7) 
+
+42 (20.2) 
+
+$ 4.0 
+
+4 (26.7) 
+
+154 (74.0) 
+
+IHC 2+ 
+
+10 (66.7) 
+
+18 (8.7) 
+
+IHC 3+ 
+
+5 (33.3) 
+
+190 (91.3) 
+
+HER2 by IHC, No. (%) 
+
+HER2 2+/3+ heterogeneity*, No. (%) Focal (, 30%) 
+
+7 (46.7) 
+
+9 (4.3) 
+
+Heterogeneous (30-79%) 
+
+5 (33.3) 
+
+22 (10.6) 
+
+Homogeneous ($ 80%) 
+
+3 (20.0) 
+
+177 (85.1) 
+
+Abbreviations: HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; T-DM1+P, trastuzumab emtansine plus pertuzumab. *HER2 heterogeneity categories were based on the percentage of cells that were stained positive for HER2, which was deﬁned as the sum of cells with complete membrane staining with 2+ or 3+ intensity. Positive staining for , 30% of cells was categorized as HER2 focal; staining of $ 30% and # 79% of cells was categorized as HER2 heterogeneous; and staining of $ 80% of cells was categorized as HER2 homogeneous. 
+
+TABLE A10. Baseline ER and HER2 Status of Patients With Locoregional Progression in the T-DM1+P Arm Patient No. 
+
+HER2 mRNA 
+
+HER2 IHC 
+
+HER2 ISH 
+
+HER2 Gene Ratio 
+
+HER2 Copy No. 
+
+1 
+
+ER/PR Status Positive 
+
+0.5 
+
+2+ 
+
+Positive 
+
+2.5 
+
+6.1 
+
+HER2 2+/3+ Heterogeneity 
+
+2 
+
+Negative 
+
+0.4 
+
+2+ 
+
+Positive 
+
+4.8 
+
+10.3 
+
+Heterogeneous 
+
+3 
+
+Negative 
+
+1.1 
+
+2+ 
+
+Positive 
+
+2.6 
+
+4.6 
+
+Focal 
+
+4 
+
+Negative 
+
+0.7 
+
+2+ 
+
+Positive 
+
+2.6 
+
+3.7 
+
+Focal 
+
+5 
+
+Positive 
+
+5.2 
+
+3+ 
+
+Positive 
+
+4.1 
+
+8.4 
+
+Homogeneous 
+
+6 
+
+Negative 
+
+1.5 
+
+2+ 
+
+Positive 
+
+3 
+
+6.4 
+
+Focal 
+
+7 
+
+Positive 
+
+0.5 
+
+2+ 
+
+Positive 
+
+2.5 
+
+6.1 
+
+Focal 
+
+8 
+
+Positive 
+
+2.2 
+
+2+ 
+
+Positive 
+
+3.1 
+
+8.6 
+
+Heterogeneous 
+
+Focal 
+
+9 
+
+Positive 
+
+4.8 
+
+3+ 
+
+Positive 
+
+3.2 
+
+10.9 
+
+Heterogeneous 
+
+10 
+
+Positive 
+
+0.4 
+
+2+ 
+
+Positive 
+
+3.5 
+
+7.9 
+
+Focal 
+
+11 
+
+Positive 
+
+0.5 
+
+2+ 
+
+Positive 
+
+2.5 
+
+5.2 
+
+Heterogeneous 
+
+12 
+
+Positive 
+
+N/A 
+
+2+ 
+
+Positive 
+
+6.9 
+
+17 
+
+Focal 
+
+13 
+
+Negative 
+
+1.7 
+
+3+ 
+
+Negative 
+
+1.3 
+
+4.1 
+
+Homogeneous 
+
+14 
+
+Positive 
+
+4.4 
+
+3+ 
+
+Positive 
+
+5.1 
+
+9.5 
+
+Homogeneous 
+
+15 
+
+Positive 
+
+2.8 
+
+3+ 
+
+Positive 
+
+3.8 
+
+7.6 
+
+Heterogeneous 
+
+Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry; ISH, in situ hybridization; N/A, not available; PR, progesterone receptor; T-DM1+P, trastuzumab emtansine plus pertuzumab. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 109.236.53.84 on July 18, 2019 from 109.236.053.084 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+ 

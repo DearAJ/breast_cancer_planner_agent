@@ -1,0 +1,571 @@
+Published Ahead of Print on May 17, 2010 as 10.1200/JCO.2009.24.1000 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2009.24.1000 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Phase III Multicenter Trial of Doxorubicin Plus Cyclophosphamide Followed by Paclitaxel Compared With Doxorubicin Plus Paclitaxel Followed by Weekly Paclitaxel As Adjuvant Therapy for Women With High-Risk Breast Cancer David Loesch, F. Anthony Greco, Neil N. Senzer, Howard A. Burris, John D. Hainsworth, Stephen Jones, Svetislava J. Vukelja, John Sandbach, Frankie Holmes, Scot Sedlacek, John Pippen, Deborah Lindquist, Kristi McIntyre, Joanne L. Blum, Manuel R. Modiano, Kristi A. Boehm, Feng Zhan, Lina Asmar, and Nicholas Robert See accompanying editorial doi:10.1200.JCO/2010/284653 From the US Oncology Research, The Woodlands; Mary Crowley Cancer Center; Texas Oncology PA at Baylor, Charles A. Sammons Cancer Center; and Texas Oncology PA, Dallas; Texas Oncology PA, Tyler; Texas Oncology PA, Austin; and Texas Oncology PA, Houston, TX; Rocky Mountain Cancer Centers, Denver, CO; Northern Arizona Hematology Oncology Associates, Sedona; Arizona Oncology Associates PC; and Arizona Clinical Research Center, Tucson, AZ; Fairfax Northern Virginia Hematology/Oncology, Fairfax, VA; and Sarah Cannon Research Institute and Tennessee Oncology, Nashville, TN. Submitted May 12, 2009; accepted January 19, 2010; published online ahead of print at www.jco.org on May 17, 2010. Supported by by Bristol-Myers Squibb, Plainsboro, NJ. Presented in part at the 29th Annual San Antonio Breast Cancer Symposium, December 14-17, 2006, San Antonio, TX; and at the 43rd Annual Meeting of the American Society of Clinical Oncology, June 1-5, 2007, Chicago, IL. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: David Loesch, MD, Caris MPI, Oncology Clinical Trials and Services, 445 N Fifth St, Third Floor, Phoenix, AZ 85004; e-mail: dloesch@carismpi.com. © 2010 by American Society of Clinical Oncology 0732-183X/10/2899-1/$20.00 DOI: 10.1200/JCO.2009.24.1000 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose This study compared disease-free survival (DFS) obtained with two different regimens of adjuvant therapy in high-risk breast cancer. Methods Women (who had performance status [PS] of 0 to 1) with operable, histologically confirmed, stage I to III adenocarcinoma of the breast were eligible. Patients had undergone primary surgery with no residual tumor. Treatments were as follows: arm 1 was doxorubicin 60 mg/m2 plus cyclophosphamide 600 mg/m2 every 3 weeks for four cycles followed by paclitaxel 175 mg/m2 every 3 weeks for four cycles (ie, AC-P); and arm 2 was doxorubicin 50 mg/m2 plus paclitaxel 200 mg/m2 every 3 weeks for four cycles followed by paclitaxel 80 mg/m2 weekly for 12 weeks. Results Overall, 1,830 patients were enrolled and 1,801 were treated: arm 1 (n ⫽ 906; AC3 P) and arm 2 (n ⫽ 895; AP-WP). Overall, patients had a PS of 0 (88%), had estrogen receptor and progesterone receptor–positive disease (52%), had one to three positive nodes (46%), and were postmenopausal (57%); the median age was 52 years. Currently, 1,640 patients (90%) are alive. The 6-year DFS was 79% to 80% in both groups. Disease relapse was the cause of death for 83 patients in arm 1 and in 66 patients of arm 2. Overall 6-year survival rates were 82% and 87% in arms 1 and 2, respectively. Reasons for patients being taken off study treatment included toxicity (13% in arm 1 v 20% in arm 2), progressive disease or recurrence (7% v 5%), and consent withdrawn (9% v 8%), respectively. The most frequent toxicities were hematologic, including neutropenia and leukopenia followed by neuropathy, myalgia, nausea, fatigue, headache, arthralgia, and vomiting. Conclusion The results indicate that the AP-WP regimen is an equally effective and tolerable option for the adjuvant treatment of patients with high-risk breast cancer. The substitution of paclitaxel for cyclophosphamide results in comparable effectiveness of the regimen. J Clin Oncol 28. © 2010 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Despite extensive research in breast cancer, the incidence of this disease has increased steadily, and it is estimated that nearly 182,460 new occurrences were diagnosed in the United States in the year 2008.1 Breast cancer accounts for approximately 26% of all new cancer diagnoses,2 excluding basal and squamous cell skin cancers and in situ carcinoma of the 
+
+uterine cervix. Breast cancer remains a major health concern for women.3 Adjuvant therapy became firmly established as effective in the treatment of breast cancer when the results of a meta-analysis of data collected worldwide were presented in 1995.4 If the majority of tumor cells that remain postoperatively can be killed with adjuvant therapy, the time to disease progression (TTP), and thus overall survival (OS), can be © 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Copyright 2010 by American Society of Clinical Oncology 
+
+1 
+
+Loesch et al 
+
+extended. More optimistically, if these tumor cells are totally eliminated, a cure is possible. The primary focus of research today is improving adjuvant regimens that are currently in use. By incorporating newer, more effective drugs and by optimizing the dose and schedule of administration, improved outcomes are possible. Indeed, common themes in more recent studies of adjuvant therapy for breast cancer have been doseintensity and sequential drug administration. The combination of doxorubicin and paclitaxel has shown promise as therapy for advanced or metastatic breast cancer, as demonstrated by the substantial evidence in the literature.5-13 Cyclophosphamide has been used in combination with docetaxel and/or paclitaxel in numerous studies. Doxorubicin and paclitaxel has produced the highest response rates in patients with metastatic breast cancer14; weekly paclitaxel has been used as salvage treatment for patients previously experiencing failure on anthracycline therapy.15 This study was designed to determine if these approaches in the metastatic setting translate into improved efficacy in the adjuvant setting. According to the design of this trial, the maximum cumulative doxorubicin dose that a patient could potentially receive in either treatment arm was 240 mg/m2. This is well below the 360 mg/m2 limit that has been suggested for minimizing cardiotoxicity in other trials.16,17 Thus, in this study, investigators hypothesized that cardiotoxicity would be minimized with the planned regimen and dosing schedule, with the regimen used in Cancer and Leukemia Group B study CALGB 9344 as the comparator arm.18 
+
+infarction or congestive heart failure) within the previous 6 months; Fig 1, CONSORT diagram). Treatment The treatment schema for both study groups is listed in Table 1. All drugs were infused intravenously; doxorubicin was administered over 5 to 15 minutes, cyclophosphamide was infused over 15 to 30 minutes, and paclitaxel infusions were 1 to 3 hours. All patients were premedicated with the following medications, administered intravenously 30 minutes before paclitaxel: dexamethasone 20 mg, diphenhydramine 50 mg, and cimetidine 300 mg (or ranitidine 50 mg). No prophylactic hematopoietic growth factors were permitted in cycle 1; use in subsequent cycles was at the discretion of the treating physician. After completion of the study regimens, premenopausal patients who were hormone receptor positive (ie, estrogen receptor [ER] –positive and/or progesterone receptor [PR] –positive) received tamoxifen for 2 to 3 years, which was later increased to 5 years. In postmenopausal patients, tamoxifen was given for 2 to 3 years and could be followed by an aromatase inhibitor at the discretion of the treating physician. Patients who requested breast sparing procedures received standard radiation therapy beginning 3 to 6 weeks after the completion of chemotherapy. Patients who had a mastectomy received radiation if they had four or more positive nodes. 
+
+Study Design This was an open label, randomized, phase III study of adjuvant chemotherapy in female patients with high-risk breast cancer (defined as one or more positive lymph nodes and tumors that are T1-3, N1-2, and M0 or as node-negative [ie, N0] disease with tumors that are ⬎ 2 cm or as nodenegative disease with tumors that are ⬎ 1 cm and ER negative/PR negative). Staging of disease was based on American Joint Committee on Cancer guidelines (ed 5).19 The protocol was approved by a central institutional review board with jurisdiction over specific sites that registered patients on study, and all patients were required to sign an informed consent form before being enrolled onto the study. 
+
+Assessments Each patient gave informed consent before study registration. Prestudy (ie, baseline) evaluations included the following: medical history, complete physical examination with vital signs, pelvic exam with cytology, Eastern Cooperative Oncology Group performance status, ER/PR status, HER2/neu status, mammography, chest x-ray, bone scan, complete blood count (CBC), creatinine, liver function tests (LFTs), ECG, and left ventricular ejection fraction (LVEF). During treatment, CBCs and toxicity were assessed weekly, and physical exams, assessment of PS, creatinine, and LFTs were assessed before the start of each cycle. ECGs were done before cycle 5 (ie, singleagent paclitaxel), and LVEF was assessed after four cycles of the doxorubicin-based therapy. During radiotherapy, physical examinations and CBCs were done weekly; Radiation Therapy Oncology Group/European Organisation for Research and Treatment of Cancer Late Radiation Morbidity Scoring was done at each visit. Post-treatment assessment of performance status, mammography (except in patients who had undergone bilateral mastectomy), chest x-rays, CBCs, and creatinine were done annually; LFTs were assessed at progression and then annually. LVEF was assessed at the 1-year visit and then at the discretion of the treating physician. Follow-ups consisted of assessments every 3 months in year 1, every 6 months in year 2, and annually thereafter up to (and including) year 6. 
+
+Patients Patients with stages I to IIIA disease were eligible to participate on this study. Patients with T1 or T2 disease with one sentinel node or micrometastasis less than 2 mm were eligible without having had a complete axillary dissection; however, if there was more than one sentinel node with micrometastasis less than 2 mm, or one node greater than 2 mm and/or if tumor was greater than T1 or T2, then complete axillary dissection was required. Prior treatment by lumpectomy or mastectomy was permitted as long as surgery was done within the previous 84 days. Patients were excluded from study participation if they had locally advanced disease at diagnosis (ie, T4 disease); evidence of residual gross or microscopic tumor noted, at the margin, in the final surgery or pathology reports; had previously received any prior therapy for any invasive breast cancer; had a history of any other malignancy within the last 5 years (except cured basal cell carcinoma of skin and carcinoma in situ of uterine cervix); or had received prior anthracyclines or anthracenes (for any prior disease). Individuals with cardiac dysrhythmia were considered for eligibility on a case-by-case basis by the principal investigator; however, patients could not have any uncontrolled severe cardiovascular disease (ie, myocardial 
+
+Statistical Analysis This was a randomized (1:1) study, stratified by ER status (positive or negative) and nodal status (0, 1 to 3, ⱖ 4). Disease-free survival (DFS) was the primary end point of this study. If we assumed DFS duration followed exponential distribution, and with a desired 25% decrease of annual hazard rate from 9% per year, the accrual time was estimated to be 18 months, with 3 years as follow-up time. With a two-sided significance level .05, and with a desired power of 90% to detect such 25% difference, the accrual rate was evaluated to be approximately 100 patients per month. Therefore, the total sample size was calculated to be 1,810. DFS, in which relapse or death as a result of any cause is considered as an event, was calculated from date of random assignment to date of first event, or to date of censoring if eventless. Overall survival (OS) was a secondary end point and was calculated from date of random assignment to date of death or date of censoring if alive. Both DFS and OS were analyzed by using the method by Kaplan and Meier20 that is based on intent-to-treat population, and the log-rank test was used to test for differences between the curves. All safety analyses were based on safety population and included patients who received at least one dose of study drug. 
+
+PATIENTS AND METHODS 
+
+2 
+
+© 2010 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Comparison of Adjuvant Therapies in High-Risk Breast Cancer 
+
+Assessed for Eligibility (N = 2,016) 
+
+Excluded Not meeting inclusion criteria Refused to participate Investigator’s decision Other reasons 
+
+(n = 186) (n = 107) (n = 63) (n = 4) (n = 14) 
+
+Patients randomly assigned (n = 1,830) 
+
+AC-P (arm 1) Allocated to intervention Received allocated intervention Did not receive allocated intervention Found ineligible after randomization Patient request (withdrew consent) Investigator’s decision Other 
+
+(n = 915) (n = 906) (n = 9) (n = 4) (n = 2) (n = 2) (n = 1) 
+
+Lost to follow-up Completed allocated intervention Discontinued intervention Found ineligible after randomization Adverse event Disease relapse Death Patient decision (withdrew consent) Investigator’s decision Other Unknown reason(s) 
+
+Analyzed for efficacy Excluded from efficacy analysis Analyzed for safety Excluded from safety analysis Not treated 
+
+AP-WP (arm 2) Allocated to intervention Received allocated intervention Received drug of wrong intervention Did not receive allocated intervention Found ineligible after randomization Patient request (withdrew consent) Investigator’s decision 
+
+(n = 915) (n = 896) (n = 1) (n = 19) (n = 4) (n = 13) (n = 2) 
+
+(n = 37) (n = 454) (n = 424) (n = 35) (n = 120) (n = 63) (n = 3) (n = 81) (n = 58) (n = 62) (n = 2) 
+
+Lost to follow-up Completed allocated intervention Discontinued intervention Found ineligible after randomization Adverse event Disease relapse Death Patient decision (withdrew consent) Investigator’s decision Other 
+
+(n = 37) (n = 423) (n = 455) (n = 38) (n = 188) (n = 47) (n = 2) (n = 72) (n = 47) (n = 61) 
+
+(n = 915) (n = 0) (n = 906) (n = 9) (n = 9) 
+
+Analyzed for efficacy Excluded from analysis Analyzed for safety Excluded from safety analysis Not treated Treated but no dosage information 
+
+(n = 915) (n = 0) (n = 895) (n = 20) (n = 19) (n = 1) 
+
+Fig 1. CONSORT diagram. AC-P, doxorubicin plus cyclophosphamide followed by paclitaxel every 3 weeks ⫻ 4 doses; AP-WP, doxorubicin plus paclitaxel followed by weekly paclitaxel ⫻ 12 doses. 
+
+Patient Characteristics A total of 1,830 patients were enrolled from January 5, 2000 to March 28, 2002. Baseline demographics are listed in Table 2; 6-year survival is presented in Table 3, and reasons for discontinuation and causes of death are listed in Table 4. 
+
+There were no significant differences in 6-year survival between the two treatment arms; however, in an unplanned subgroup analysis, both ER-negative/PR-negative and triple-negative subgroups approached significance (P ⫽ .06 and .07, respectively) that favored arm 2. Overall survival has ranged up to 79.2 months for arm 1 patients and to 85.0 months in arm 2 (P ⫽ .08; hazard ratio, 1.29). Disease-free survival was similar, ranging up to 79.2 months for arm 1 and 84.3 months for arm 2 (P ⫽ .35; hazard ratio, 11.1). 
+
+Treatment Outcomes Median follow-up for all patients was as follows: arm 1, 63.4 months (range, ⬍ 1 to 79.2 months) and arm 2, 64.0 months (range, ⬍ 1 to 85.0 months). Survival rates at 3 and 5 years were 93% and 94% for arm 1 compared with 86% and 89%, respectively, for arm 2. The median DFS (Fig 2A; Table 6), and median OS times had not been reached in either arms 1 or 2 (Fig 2B; Table 7). 
+
+Drug Delivery Overall, the median number of cycles completed in arm 1 doxorubicin plus cyclophosphamide was four (range, one to four; 95.7% completed all four cycles) and four cycles for single-agent paclitaxel (range, one to four; 86.4% completed all four cycles of single-agent paclitaxel). The median cumulative doses (and median doseintensities) of study drugs were as follows: doxorubicin 425 mg (100%; 
+
+RESULTS 
+
+www.jco.org 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+3 
+
+Loesch et al 
+
+Table 1. Dosing Schemas Arm 1 (AC-P) 
+
+Arm 2 (AP-WP) 
+
+Doxorubicin 60 mg/m2 plus cyclophosphamide 600 mg/m2 every 3 weeks for 4 cycles followed by paclitaxel 175 mg/m2 every 3 weeks for 4 cycles 
+
+Doxorubicin 50 mg/m2 plus paclitaxel 200 mg/m2 every 3 weeks for 4 cycles followed by paclitaxel 80 mg/m2 weekly for 12 weeks 
+
+Abbreviations: AC, doxorubicin plus cyclophosphamide; P, paclitaxel; AP, doxorubicin plus paclitaxel; WP, weekly paclitaxel. 
+
+range, 76% to 119%); cyclophosphamide 4,264 mg (100%; range, 76% to 107%); and paclitaxel 1,232 mg (100%; range, 70.5% to 117%). In arm 2, the median number of cycles completed for doxorubicin plus paclitaxel was four (range, one to four; 92.3% completed all four cycles) and 12 weeks of weekly paclitaxel (range, one to 12; 81.6% completed all 12 weeks of weekly paclitaxel). The median cumulative doses (and median dose-intensities) of study drugs were as follows: doxorubicin 353 mg (100%; range, 61% to 120%); and paclitaxel 1,408 mg (100%; range, 62.5% to 137%) in cycles 1 to 4 and 1,662 mg (100%; range, 71% to 157%) in 12 weeks of single-agent paclitaxel. The percentages of patients who had doses reduced or delayed were 3% and 14%, respectively, in arm 1 and 5% and 14%, respectively, in arm 2. Overall, these reductions and delays were largely attributed to toxicity, specifically neutropenia (16% in arm 1 v 11% in arm 2) and neuropathy (4% in arm 1 v 12% in arm 2); other contributing adverse events occurring in ⱖ 2% of patients that contributed to delays or reductions were arthralgia, febrile neutropenia, myalgia, fever, nausea, and fatigue. In arm 1, 751 patients (83%) received the scheduled regimen without reduction; similarly, arm 2 had 724 patients (81%) without reduction. Toxicity Grade 3 to 4 treatment-related toxicities occurring in ⱖ 1% are listed in Table 4. Grade 3 to 4 neuropathy was more frequent in arm 2 (6% in arm 1 v 14% in arm 2; P ⬍ .01); it was one of the few toxicities thatweresignificantlydifferentbetweentreatmentarms.Othersignificant toxicities were leukopenia, anemia, vomiting, and shortness of breath (P ⬍ .01 each) and nausea (P ⫽ .03). All other events related to chemotherapy, not listed in Table 5, were mild to moderate or occurred at grade 3 to 4 in less than 1% of patients. Grade 3 to 4 toxicities related to radiation were infrequent; events reported in ⱖ 1% of patients in arms 1 and 2 were limited to radiation dermatitis (0.6% v 1.3%) and desquamation (1.0% v 0.6%). Only one death was possibly related to treatment; a patient in arm 1 developed pulmonary edema and sepsis, which resulted in death. Review of toxicity data by the data safety monitoring board after treatment of 200 patients found that there were no toxicity concerns, and the study was permitted to continue. Cardiotoxicity was rare; only tachycardia (all grades) was reported in greater than 1% of patients (ie, six patients [0.7%] in arm 1 and 16 patients [1.8%] in arm 2). DISCUSSION 
+
+The background for the research arm in this trial evolved from the best clinical pharmacotherapeutics of the day at the time the study was designed and initiated. It was comprised of the most active two-drug 4 
+
+© 2010 by American Society of Clinical Oncology 
+
+Table 2. Patient Characteristics at Baseline Patients by Arm Arm 1 Characteristic 
+
+No. 
+
+No. of patients enrolled Ethnicity White Black Hispanic Other Age, years Median Rangeⴱ ECOG performance status 0 1 Stage at diagnosis I IIA IIB IIIA IIIB† Positive nodes 0 1-3 4-9 ⱖ 10 Menopausal status Premenopausal Perimenopausal Postmenopausal Unknown Hormone receptor status ER positive/PR positive ER positive/PR negative ER negative/PR positive ER negative/PR negative ER/PR unknown HER2 negative HER2 positive ER negative/PR negative/HER2 negative HER2 unknown 
+
+915 758 86 64 7 
+
+% 
+
+Arm 2 No. 
+
+% 
+
+915 82.8 9.4 7.0 0.8 
+
+764 69 70 12 
+
+83.5 7.5 7.7 1.3 
+
+52.0 23.8-83.4 
+
+52.3 20.3-81.1 
+
+794 121 
+
+86.8 13.2 
+
+816 99 
+
+89.2 10.8 
+
+55 423 321 114 2 
+
+6.0 46.2 35.1 12.5 0.2 
+
+46 430 322 116 1 
+
+5.0 47.0 35.2 12.7 0.1 
+
+251 406 189 69 
+
+27.4 44.4 20.7 7.5 
+
+243 428 167 77 
+
+26.6 46.8 18.3 8.4 
+
+297 69 522 27 
+
+32.5 7.5 57.0 3.0 
+
+308 61 526 20 
+
+33.7 6.7 57.5 2.2 
+
+491 78 21 323 2 583 288 199 44 
+
+53.7 8.5 2.3 35.3 0.2 63.7 31.5 21.7 4.8 
+
+460 111 24 317 3 557 320 182 38 
+
+50.3 12.1 2.6 34.6 0.3 60.9 35.0 19.9 4.2 
+
+Abbreviations: ECOG, Eastern Cooperative Oncology Group; ER, estrogen receptor; PR, progesterone receptor. ⴱ Minimum to maximum values. †Found to be ineligible after random assignment. 
+
+cytotoxic combination (ie, doxorubicin plus paclitaxel) for metastatic breast cancer in 1999,17 and it was restricted to four cycles to limit the potential risk of cardiotoxcity. This was followed by weekly paclitaxel for 12 cycles, per the work of Seidman et al,15 who demonstrated that the weekly schedule had the capacity to salvage patients with metastatic breast cancer who previously received paclitaxel therapy at 3-week intervals. Later, it became known that weekly paclitaxel had an antiangiogenic effect in addition to its antimicrotubule effects.21,22 Another consideration in the construct of this trial was to determine whether paclitaxel could be substituted for cyclophosphamide. After the initial report of data at the 1999 meeting of the American Society of Clinical Oncology by Pouilliart,23,24 investigators designing JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Comparison of Adjuvant Therapies in High-Risk Breast Cancer 
+
+Table 3. Six-Year Survival in Subgroups Arm 1 
+
+Arm 2 
+
+No. of Patients 
+
+Subgroup 
+
+% 
+
+95% CI 
+
+% 
+
+95% CI 
+
+Log-Rank P 
+
+Arm 1 
+
+Arm 2 
+
+Overallⴱ ER positive/PR positive ER positive/PR negative ER negative/PR positive ER negative/PR negative HER2 positive ER negative/PR negative/HER2 negative 
+
+81.7 90.7 — — 72.9 71.7 78.5 
+
+72.0 to 88.3 87.0 to 93.3 — — 59.4 to 82.6 37.2 to 89.4 71.5 to 83.9 
+
+87.0 91.9 73.2 86.5 84.6 87.5 85.9 
+
+81.3 to 91.1 88.6 to 94.3 27.6 to 92.7 63.8 to 95.5 79.5 to 88.5 82.8 to 91.0 79.1 to 90.6 
+
+.08 .59 .81 .81 .06 .63 .07 
+
+915 491 78 21 323 288 199 
+
+915 460 111 24 317 320 182 
+
+NOTE. Arm 1 is doxorubicin plus cyclophosphamide followed by paclitaxel; Arm 2 is doxorubicin plus paclitaxel followed by weekly paclitaxel. Abbreviations: ITT, intent-to-treat; ER, estrogen receptor; PR, progesterone receptor. ⴱ ITT populations. 
+
+this study concluded that the issue of cardiotoxicity cannot be discounted when a combination regimen of doxorubicin and paclitaxel is used; however, its impact can be significantly lessened by careful monitoring of the total cumulative dose of doxorubicin. We did not observe increase cardiotoxicity in patients in arm 1. The current experience is similar to the randomized, four-arm trial of weekly versus every-3-week taxane therapy after administering 
+
+Variable 
+
+No. 
+
+Total No. of patients enrolled Total No. of patients treated Reason for study discontinuation Normal protocol completion Disease relapse/recurrence Toxicity Death Unrelated complication Physician request Patient request/withdrew consent Lost to follow-up Failed entry Screening failure Margins not clear Other Otherⴱ Total patients surviving Causes of death Total deaths Relapse/recurrence Other malignancy Cardiovascular Respiratory/pulmonary Renal/hepatic Hemorrhage/heme disorder Pneumonia/sepsis Unknown 
+
+915 906 454 63 115 3 5 58 81 37 35 21 11 3 64 811 104 83 3 3 4 3 0 2 6 
+
+Arm 2 % 
+
+No. 
+
+% 
+
+915 895 49.6 6.9 12.6 0.3 0.5 6.3 8.9 4.0 3.8 
+
+7.0 88.6 
+
+79.8 2.9 2.9 3.8 2.9 1.9 5.8 
+
+423 47 183 2 5 47 72 37 38 25 12 1 61 829 88 66 5 3 1 2 2 2 7 
+
+46.2 5.1 20.0 0.2 0.5 5.1 7.9 4.0 4.2 
+
+6.7 90.6 
+
+76.7 5.8 3.5 1.2 2.3 2.3 2.3 8.1 
+
+NOTE. Arm 1 is doxorubicin plus cyclophosphamide followed by paclitaxel; Arm 2 is doxorubicin plus paclitaxel followed by weekly paclitaxel. ⴱ For example, lapses in insurance coverage or cost of drug prohibitive, patient relocation, protocol deviation, site closure, noncompliance. 
+
+www.jco.org 
+
+1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 
+
+AC AP 
+
+P WP 
+
+0.1 0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+Time (months) 
+
+No. at risk Arm 1 Arm 2 
+
+849 842 
+
+B 
+
+1.0 
+
+Estimated DFS Rate (proportion) 
+
+Patients by Arm 
+
+Estimated Overall Survival (OS) Rate (proportion) 
+
+A 
+
+Table 4. Reasons for Nonevaluability and Study Discontinuation 
+
+Arm 1 
+
+four cycles of upfront, standard doxorubicin and cyclophosphamide conducted by Sparano,25 which favored the weekly paclitaxel arm along with demonstrating the highest levels of neurotoxicity (ie, 8% grade 3 to 4 neurotoxicity compared with 5% in the every-3-week arm). It is difficult to make therapeutic comparisons of this trial compared with the Sparano trial because not all patients received the same initial four cycles of therapy. It is possible that our trial may 
+
+0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 
+
+776 785 
+
+724 726 
+
+659 662 
+
+536 549 
+
+16 33 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+829 828 
+
+731 752 
+
+609 614 
+
+495 496 
+
+16 29 
+
+AC AP 
+
+P WP 
+
+0.1 0 No. at risk Arm 1 Arm 2 
+
+Time (months) 669 686 
+
+Fig 2. (A) Overall survival. (B) Disease-free survival (DFS). AC-P, doxorubicin plus cyclophosphamide followed by paclitaxel; AP-WP, doxorubicin plus paclitaxel followed by weekly paclitaxel. 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+5 
+
+Loesch et al 
+
+Table 5. Treatment-Related Adverse Events Greater Than Grade 3 
+
+Table 7. Comparison of Disease-Free Survival by Treatment Arm 
+
+Patients by Arm and Event Grade 
+
+Event Hematologic Neutropenia Leukopeniaⴱ Anemiaⴱ Nonhematologic Neuropathyⴱ† Myalgia Nausea‡ Fatigue Arthralgia Vomitingⴱ Bone pain Diarrhea Pain Fever Weakness Shortness of breathⴱ Thrombocytopenia Dehydration Dysmenorrhea Amenorrhea Stomatitis Constipation Headache Hyperglycemia Allergic reaction 
+
+Percent Alive or Relapse Free (months) 
+
+Arm 1 (n ⫽ 906) 
+
+Arm 2 (n ⫽ 895) 
+
+Treatment Arm 
+
+Deaths 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+Grade Grade Total 3 4 (No.) (No.) No. % 
+
+Grade Grade Total 3 4 (No.) (No.) No. % 
+
+Arm 1, AC 3 P Arm 2, AP 3 wP 
+
+160 147 
+
+96.3 98.0 
+
+90.1 92.8 
+
+85.7 89.0 
+
+83.2 85.5 
+
+81.0 81.7 
+
+79.6 78.9 
+
+194 165 24 
+
+515 63 2 
+
+709 78 228 25 26 3 
+
+196 138 8 
+
+509 22 0 
+
+705 79 160 18 8 0.9 
+
+55 81 65 48 61 55 28 17 15 9 8 
+
+3 1 2 5 1 1 0 0 1 0 1 
+
+58 82 67 53 62 56 28 17 16 9 9 
+
+6 9 7 6 7 6 3 2 2 1 1 
+
+114 60 43 59 55 27 23 17 11 12 14 
+
+7 3 1 5 1 2 1 1 1 2 2 
+
+121 14 63 7 44 5 64 7 56 6 29 3 24 3 18 2 12 1 14 2 16 2 
+
+4 15 15 15 15 5 12 8 9 11 
+
+0 2 0 1 0 0 0 1 1 0 
+
+4 17 15 16 15 5 12 9 10 11 
+
+0.4 2 2 2 2 0.6 1 1 1 1 
+
+15 8 9 5 19 8 6 7 9 6 
+
+2 2 0 1 0 3 0 0 0 1 
+
+17 10 9 6 19 11 6 7 9 7 
+
+2 1 1 0.7 2 1 0.7 0.8 1 0.8 
+
+NOTE. All other differences between groups were not significant. ⴱ P ⬍ .01 between groups. †Includes paresthesia. ‡P ⫽ .03 between groups. 
+
+have shown similar results if a third arm had been constructed using four cycles of doxorubicin and cyclophosphamide followed by weekly paclitaxel. While accruing patients to our trial, information denoting the success of extended antiestrogen therapy with aromatase inhibitors fostered an amendment to allow postmenopausal patients receiving tamoxifen to crossover to an aromatase inhibitor after 2 to 3 years of tamoxifen.26 Since the initiation of this trial, the taxonomy of breast 
+
+Table 6. Comparison of Overall Survival by Treatment Arm Percent Surviving (months) Treatment Arm 
+
+Deaths 
+
+12 
+
+24 
+
+36 
+
+48 
+
+60 
+
+72 
+
+Arm 1, AC 3 P Arm 2, AP 3 wP 
+
+104 88 
+
+98.7 99.7 
+
+95.5 96.9 
+
+92.6 94.5 
+
+89.8 92.0 
+
+87.7 89.9 
+
+81.7 87.0 
+
+NOTE. Median overall survival was not applicable (NA; range, ⬍ 1 to 79.2 months 关arm 1兴 and ⬍ 1 to 85.0 months 关arm 2兴). Median 95% CI was NA. Arm 2 was used as the reference arm for HR. P ⫽ .12; HR, 1.26; 95% CI, 0.94 to 1.68. Abbreviations: AC, doxorubicin and cyclophosphamide; P, paclitaxel; AP, doxorubicin and paclitaxel; wP, weekly paclitaxel; HR, hazard ratio. 
+
+6 
+
+© 2010 by American Society of Clinical Oncology 
+
+NOTE. Median disease-free survival was not applicable (NA; range, ⬍ 1 to 79.2 months 关arm 1兴 and ⬍ 1 to 84.3 months 关arm 2兴). Median 95% CI was NA. Arm 2 was used as the reference arm for HR. P ⫽ .37; HR, 1.11; 95% CI, 0.89 to 1.39. Abbreviations: AC, doxorubicin and cyclophosphamide; P, paclitaxel; AP, doxorubicin and paclitaxel; wP, weekly paclitaxel; HR, hazard ratio. 
+
+cancer and its therapeutics have changed. Through the seminal work of Perou et al,27 breast cancer is no longer thought of as a single disease entity; rather, it has evolved into five clinical disease subtypes that each possess a unique genetic signature by microarray analysis. With breast cancer taxonomy now organized by genomics and biology, a subsequent presentation of over 15 years of Cancer and Leukemia Group B trials demonstrated minimal benefit for many patients receiving aggressive adjuvant therapy.28 This challenged the old adage that more drugs with greater toxicity would be an equitable trade-off for better outcomes in the adjuvant setting.15 A recent Eastern Cooperative Oncology Group cytotoxic trial reported by Goldstein et al29 was retrospectively analyzed utilizing this new genomic and clinical taxonomy, and some benefits of specific cytotoxics were demonstrated in unique subgroups. At the San Antonio Breast Cancer Symposium 2005, Jones et al30 successfully challenged a 25-year-old clinical standard of doxorubicin plus cyclophosphamide by demonstrating superior efficacy for docetaxel plus cyclophosphamide in early-stage breast cancer. Both of these trials espouse the newer understanding and limitation of breast cancer cytotoxic therapeutics, which is to say that not all patients need six to eight cycles of adjuvant cytotoxic chemotherapy. Adjuvant antiestrogen– only therapy has now become a common standard with the use of gene array testing by Paik et al31 and Vant Veer et al32 by categorizing patients into a good-performance subgroup of patients who had previously achieved minimal benefit from cytotoxic therapy.15 Though this trial did not achieve its intended end point, in the unplanned subset analysis, HER2-positive and triple-negative subgroups did benefit from therapy in arm 2. The patients with triplenegative disease are a heterogeneous group that potentially benefits from alkylating agents; however, most of this evidence is preclinical.33 Our data is similar to that published by Goldstein et al29 in which early-stage triple-negative patients respond better to doxorubicin plus a taxane than with doxorubicin plus cyclophosphamide. Per the results of this trial, a dose-dense paclitaxel regimen is as efficacious as doxorubicin plus cyclophosphamide followed by paclitaxel; however, the substitution comes at a price of increased peripheral neuropathy. Despite the reversibility of the peripheral neuropathy, the weekly paclitaxel arm of this trial was more neurotoxic than the weekly arm in the trial by Sparano25 (14% v 8%, respectively). Neurotoxicity was expected, as 18% of patients in CALGB 9344 reported neurotoxicity (15%, moderate paresthesias and 3%, sensory neurotoxicity that interfered with normal functioning),34 and peripheral neuropathy is a common adverse effect of chemotherapy, especially in taxane-based therapy.35 JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Comparison of Adjuvant Therapies in High-Risk Breast Cancer 
+
+Since the completion of this trial, many patients with earlystage, hormone receptor–positive disease are best treated with anti– hormone therapy alone. As a case in point for the patients with hormone receptor–positive disease in this trial, there was no difference in time to progression or overall survival between these two arms. Therefore, any increased neuropathy seems unwarranted for this subgroup. In that same light, though, patient demographics for CALGB 9344 demonstrated a greater extent of node-positive disease when compared with this trial. Outcomes from adjuvant therapy remain poor for patients with triple-negative disease, and arm 2 did achieve near statistical significance in the treatment of patients with triplenegative disease. One may choose to utilize this therapy in patients with triple-negative breast cancer, who have no peripheral neuropathy, or in patients for whom the benefits outweigh the risks of potential toxicity. However, for patients with hormone receptor–positive disease and with limited extent of disease, and for those with substantial peripheral neuropathy, the weekly paclitaxel regimen appears to be too problematic, because fewer neurotoxic alternatives are available. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. 
+
+REFERENCES 1. American Cancer Society: What are the key statistics for breast cancer? http://www.cancer.org/ docroot/CRI/content/CRI_2_4_1X_What_are_the_key_ statistics_for_breast_cancer_5.asp?sitearea⫽ 2. American Cancer Society: Cancer Facts and Figures. http://www.cancer.org/downloads/STT/ 2008CAFFfinalsecured.pdf 3. Ravdin PM, Cronin KA, Howlader N, et al: The decrease in breast-cancer incidence in 2003 in the United States. N Engl J Med. 356:16701674, 2007 4. Norton L: Adjuvant breast cancer therapy: Current status and future strategies-growth kinetics and the improved drug therapy of breast cancer. Semin Oncol 26:1-4, 1999 (suppl 3) 5. Cassier PA, Chabaud S, Trillet-Lenoir V, et al: A phase-III trial of doxorubicin and docetaxel versus doxorubicin and paclitaxel in metastatic breast cancer: Results of the ERASME 3 study. Breast Cancer Res Treat 109:343-350, 2008 6. Schmid P, Schippinger W, Nitsch T, et al: Up-front tandem high-dose chemotherapy compared with standard chemotherapy with doxorubicin and paclitaxel in metastatic breast cancer: Results of a randomized trial. J Clin Oncol 23:432440, 2005 7. Bottomley A, Biganzoli L, Cufer T, et al: Randomized, controlled trial investigating short-term health-related quality of life with doxorubicin and paclitaxel versus doxorubicin and cyclophosphamide as first-line chemotherapy in patients with metawww.jco.org 
+
+Employment or Leadership Position: David Loesch, Caris Molecular Profiling Institute (C) Consultant or Advisory Role: F. Anthony Greco, Bristol-Myers Squibb (C); Frankie Holmes, Novartis (C), Genentech (C), Bristol-Myers Squibb (C), Abraxis (C), Eisai (C); Nicholas Robert, Bristol-Myers Squibb (C) Stock Ownership: None Honoraria: Frankie Holmes, Genentech, Novartis, Bristol-Myers Squibb, Abraxis, Eisai Research Funding: John D. Hainsworth, Bristol-Myers Squibb Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: David Loesch, F. Anthony Greco, Neil N. Senzer, Howard A. Burris, John D. Hainsworth, Lina Asmar, Nicholas Robert Administrative support: David Loesch, F. Anthony Greco, Neil N. Senzer, Howard A. Burris, John D. Hainsworth Provision of study materials or patients: David Loesch, F. Anthony Greco, Howard A. Burris, Stephen Jones, Svetislava J. Vukelja, John Sandbach, Frankie Holmes, Scot Sedlacek, John Pippen, Deborah Lindquist, Kristi McIntyre, Joanne L. Blum, Manuel R. Modiano Collection and assembly of data: Lina Asmar Data analysis and interpretation: David Loesch, F. Anthony Greco, Feng Zhan, Lina Asmar Manuscript writing: David Loesch, F. Anthony Greco, Neil N. Senzer, Howard A. Burris, John D. Hainsworth, Stephen Jones, Svetislava J. Vukelja, John Sandbach, Frankie Holmes, Scot Sedlacek, John Pippen, Deborah Lindquist, Kristi McIntyre, Joanne L. Blum, Manuel R. Modiano, Kristi A. Boehm, Feng Zhan, Lina Asmar, Nicholas Robert Final approval of manuscript: David Loesch, F. Anthony Greco, Neil N. Senzer, Howard A. Burris, John D. Hainsworth, Stephen Jones, Svetislava J. Vukelja, John Sandbach, Frankie Holmes, Scot Sedlacek, John Pippen, Deborah Lindquist, Kristi McIntyre, Joanne L. Blum, Manuel R. Modiano, Kristi A. Boehm, Feng Zhan, Lina Asmar, Nicholas Robert 
+
+static breast cancer: European Organization for Research and Treatment of Cancer Breast Cancer Group, Investigational Drug Branch for Breast Cancer and the New Drug Development Group Study. J Clin Oncol 22:2576-2586, 2004 8. Lyman GH, Green SJ, Ravdin PM, et al: Southwest Oncology Group Randomized Phase II Study of doxorubicin and paclitaxel as frontline chemotherapy for women with metastatic breast cancer. Breast Cancer Res Treat 85:143-150, 2004 9. Sledge GW, Neuberg D, Bernardo P, et al: Phase III trial of doxorubicin, paclitaxel, and the combination of doxorubicin and paclitaxel as front-line chemotherapy for metastatic breast cancer: An intergroup trial (E1193). J Clin Oncol 21:588-592, 2003 10. Biganzoli L, Cufer T, Bruning P, et al: Doxorubicin-paclitaxel: A safe regimen in terms of cardiac toxicity in metastatic breast carcinoma patients— Results from a European Organization for Research and Treatment of Cancer multicenter trial. Cancer 97:40-45, 2003 11. Giordano SH, Booser DJ, Murray JL, et al: A detailed evaluation of cardiac toxicity: A phase II study of doxorubicin and one- or three-hour-infusion paclitaxel in patients with metastatic breast cancer. Clin Cancer Res 8:3360-3368, 2002 12. Baltali E, Oziçsik Y, Güler N, et al: Combination of docetaxel and doxorubicin as first-line chemotherapy in metastatic breast cancer. Tumori 87:18-19, 2001 13. Biganzoli L, Cufer T, Bruning P, et al: Doxorubicin and paclitaxel versus doxorubicin and cyclophosphamide as first-line chemotherapy in metastatic breast cancer: The European Organization for Research and 
+
+Treatment of Cancer 10961 Multicenter Phase III Trial. J Clin Oncol 20:3114-3121, 2002 14. Gianni L, Munzone E, Capri G, et al: Paclitaxel by 3-hour infusion in combination with bolus doxorubicin in women with untreated metastatic breast cancer: High antitumor efficacy and cardiac effects in a dose-finding and sequence-finding study. J Clin Oncol 13:2688-2699, 1995 15. Seidman AD, Hudis CA, Albanell J, et al: Dose-dense therapy with weekly 1-hour paclitaxel infusions in the treatment of metastatic breast cancer. J Clin Oncol 16:3353-3361, 1998 16. Gianni L, Capri G: Experience at the Istituto Nazionale Tumori with paclitaxel in combination with doxorubicin in women with untreated breast cancer. Semin Oncol. 24:S1-S3, 1997 (suppl 3) 17. Gianni L: Paclitaxel plus doxorubicin in metastatic breast cancer: The Milan experience. Oncology (Williston Park) 12:13-15, 1998 (suppl 1) 18. Henderson IC, Berry D, Demetri G, et al: Improved disease-free (DSF) and overall survival (OS) from the addition of sequential paclitaxel (T) but not from the escalation of doxorubicin (A) dose level in the adjuvant chemotherapy of patients (PTS) with node-positive primary breast cancer (BC). Proc Am Soc Clin Oncol 17:101a, 1998 (abstr 390A) 19. Fleming ID, Cooper JS, Henson DE, et al (eds): AJCC Cancer Staging Manual (ed 5), American Joint Committee on Cancer. Philadelphia, PA, LippincottRaven, 1997 20. Kaplan EL, Meier P: Nonparametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+7 
+
+Loesch et al 
+
+21. Pasquier E, Honore S, Pourroy B, et al: Antiangiogenic concentrations of paclitaxel induce an increase in microtubule dynamics in endothelial cells but not cancer cells. Canc Res 65:2433-2440, 2005 22. Ng SSW, Figg WD, Sparreboom A: Taxane mediated angiogenesis in vitro: Influence of formulation vehicles and binding proteins. Cancer Res 64:821-824, 2004 23. Pouillart P, Fumoleau P, Romieu G, et al: Final results of a phase II randomized, parallel study of doxorubicin/cyclophosphamide (AC) and doxorubicin/Taxol(R) (paclitaxel) (AT) as neoadjuvant treatment of local-regional breast cancer. Proc Am Soc Clin Oncol 18:73a, 1999 (abstr 275) 24. Diéras V, Fumoleau P, Romieu G, et al: Randomized parallel study of doxorubicin plus paclitaxel and doxorubicin plus cyclophosphamide as neoadjuvant treatment of patients with breast cancer. J Clin Oncol 22:4958-4965, 2004 25. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 
+
+26. Coombes RC, Hall E, Gibson LJ, et al: Intergroup Exemestane study: A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 350:1081-1092, 2004 27. Perou CM, Sørlie T, Eisen MB, et al: Molecular portraits of human breast tumours. Nature 406:747752, 2000 28. Berry D, Broadwater G, Perry M, et al: Conventional- versus high-dose therapy for metastatic breast cancer: Comparison of Cancer and Leukemia Group B (CALGB) and Blood and Marrow Transplant Registry (ABMTR) patients. Proc Am Soc Clin Oncol 18, 1999 (suppl; abstr 490) 29. Goldstein LJ, Gray R, Badve S, et al: Prognostic utility of the 21-gene assay in hormone receptorpositive operable breast cancer compared with classical clinicopathologic features. J Clin Oncol 26:4063-4071, 2008 30. Jones SE, Savin MA, Holmes FA, et al: Results of a Phase III trial doxorubicin/cyclophosphamide (AC) to docetaxel/cyclophosphamide (TC) as 
+
+adjuvant therapy for operable breast cancer. J Clin Oncol 24:5381-5387, 2006 31. Paik S, Shak S, Tang G, et al: A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 351: 2817-2826, 2004 32. van de Vijver MJ, He YD, van de Veer LJ, et al: A Gene-Expression Signature as a Predictor of Survival In Breast Cancer. N Engl J Med 347:19992009, 2002 33. Jaspers JE, Rottenberg S, Jonkers J: Therapeutic options for triple-negative breast cancers with defective homologous recombination. Biochimica et Biophysica Acta 1796:266-280, 2009 34. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 35. Ocean AJ, Vahdat LT: Chemotherapy-induced peripheral neuropathy: Pathogeneisi and emerging therapies. Support Care Cancer 12:619-625, 2004 
+
+■ ■ ■ 
+
+Acknowledgment We thank the study participants who shared their experiences with US Oncology physicians (Appendix, online only); the site coordinators in the field; project managers Kristi Hargraves, Kat Torkzadesh, Charles Taylor; and data reviewer Tracy Locke, who assured the accuracy and integrity of the data. Appendix 
+
+The following oncologists from US Oncology and Sarah Cannon Research Institute network institutions also participated in this study (in order of patient accrual): Olivares, Jairo; Cantrell, James E.; Droder, Robert; Guzley, Gregory J.; Ketchel, Steven J.; Patton, Jeffrey F.; Paul, Devchand; Deur, Charles; Hopkins, Judith O.; Jones, Stephen E.; Prakash, Sucharu; Ratnam, Suresh; Schwartz, Jonathan E.; Weibel, Kevin S.; Caracandas, John; Ethirajan, Sukumar; McKenney, Scott A.; Myers, J William; Portillo, Raul M.; Rubins, Jonathan; Stone, Joel A.; Young, James A.; Duncan, Lewis A.; Ghaddar, Habib; Khandelwal, Pankaj; McKay, Charles; Mundis, Richard J; Neubauer, Marcus; Pluenneke, Robert E.; Abrams, Steven M; Awasthi, Sanjay; Barton, John; Frank, Stephen J.; Ganick, Ralph; Kuefler, Paul R.; McCracken, Joseph D.; Negron, Angel G.; Otsuka, Alvin L.; Yang, Gregory J.; Zeitler, Kenneth D.; Campbell, Elizabeth E.; Edelman, Gerald; George, Edward R.; Matei, Carmen; Olsen, Mark; Perrine, George M.; Raefsky, Eric; Richards, Donald A.; Ruxer, Robert L. Jr; Tolley, Russell C.; Tucker, Kent A.; Chittoor, Sreeni; Escudier, Susan M.; Fox, LeAnn L.; Gruenberg, Daniel R.; Harvey, Jimmie H.; Logie, Keith W.; Nugent, John E.; O’Rourke, Mark A.; Savin, Michael A.; Schrier, David; Schulz, Joseph J.; Shipley, Diana; Sirridge, Christopher; Sylvester, Linda S.; Teerdhala, Sudha; Whittaker, Thomas L.; Asbury, Robert F.; Ashigbi, Michael; Belt, Robert J.; Billings III, Frederic T.; Boros, Laszlo; Brouns, Matthew; Canfield, Vikki A.; Costa, Dennis; Custer, Galen M.; Ellis, James; Hyman, William J.; Johnson, Michael J.; Kruger, Scott; Medgyesy, Diana C.; Olson, Kevin D.; Reid, Robert L.; Reynolds, Craig H.; Taetle, Raymond; Temeles, Daniel S.; Wilks, Sharon; Yardley, Denise; Banerji, Manatosh; Buck, Steven C.; Cochran, Ernest W. Jr; Encarnacion, Carlos; Fain, Jerry D.; Good, Rudolf H.; Greenfield, Bruce; Greenspan, Andrew R.; Helms, Sherron R.; Herrada, Juan; Huh, Sang; Kampe, Carsten E.; Klemow, Dawn L.; Koutrelakos, Nicholas W.; Landon, Pamela; Langerak, Alan D.; McKittrick, Richard J.; Medellin, Jesse E.; Park, Michael; Parker, Gregory A.; Robbins, Gerald J.; Rosen, Larry A.; Sborov, Mark D.; Shildt, Richard Allen; Tan, Valiant D.; Thompson, Dana; Anderson, Robert; Anthony, Stephen; Binder, Richard A.; Blow, Alton J.; Braun, Marcus P.; Broome, Catherine; Castine, Michael; Connor, Charles; Crane, Jeffrey M.; Dakhil, Shaker R.; Dennis, David; Doty, John D.; Flores, Maria Regina C.; Francis, Peter S.; George, Timothy K.; Gluck, William Larry; Gross, Gary E.; Houston, Gerry Ann; Kapoor, Rohit; Kerr, Ronald N.; Kessler, John F.; Kirby, Robert L.; Kuzur, Michael E.; Lamb, M. Ray; Lange, Marianne K.; Lee, Arielle; Lopez, Jose A.; Markowitz, Daniel; Miletello, Geraldo; Morich, Dieter H.; Murali, Magaral S.; Puckett, James B.; Redrow, Mark W.; Resta, Regina; Rivera, Ragene; Rosi, David; Schertz, Gerald L.; Schottstaedt, Margaret W.; Sheehan, Maureen H.; Soo, Edward W.; Staab, Richard C.; Venkatesh, Hemachandra; Yoffe, Mark; Akbani, Sohail; Awan, Rashid A.; Behrmann, Frances; Berman, Barry S.; Berry, William R.; Beveridge, Roy A.; Bordelon, James H.; Brooks, Robert J.; Carr, Karen; Cunningham, Thomas J.; Cutter, Bruce A.; Doane, Lisa L.; Fetten, James; Frase, Larry; Geier, Larry J.; Gersh, Robert H.; Gill, Sandeep; Gordon, David H.; Gore, Ira Jr; Goslin, Robert H.; Hanson, David S.; Harden, Elizabeth A.; Isaacs, Jeffrey D.; Jadeja, Jaswant S.; Kaden, Bruce; Katcher, Daniel; Koya, Rama K.; Kritz, Alan D.; Liggett, William H. Jr; Lowenthal, Elizabeth; Marsland, Thomas A.; McCoy, Frank; McGee, Richard A.; McMahon, Richard T.; Melo, Jose; Meshad, Michael W.; Minford, Jon K.; Monaghan, Greg G.; Myron, Mark C.; Plowden, James; Prillaman, Christina W.; Roque, Tammy; Siegel, Steven D.; Sienko, Mark; Spitzer, Gary; Spivey, Michael; Stanton, Gail; Tokaz, Laurence K.; Watkins, David L.; Weinstein, Ralph E.; Wright, Gail L.; Alexander III, Burton F.; Aly, Elsayed; 8 
+
+© 2010 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Comparison of Adjuvant Therapies in High-Risk Breast Cancer 
+
+Artim, Richard A.; Atkins, Miriam; Barrington, Rebecca E.; Brodkin, Richard A.; Brooks, Barry D.; Brooks, Donald; Cartwright, Thomas H.; Caton, John R. Jr; Chesbro, Byron; Cox, John V.; Davis, T. Mark; Diab, Sami; Dien, Philip Y.; Dinsa-Chester, Kawaljit; Downs, John C.; Dunning, David M.; Elia, Manana; Favret, Anne; Foote, Lawrence E; Friedman, David J.; Gearhart, Bonni Lee; Geister, Brian V.; Gian, Victor G.; Giguere, Jeffrey K.; Gonzalez-Osete, Guillermo; Hancock, Mark; Hellerstein, Lewis J.; Hernandez, Vinicio; Hinton, Stuart; Honeycutt, Pamela J.; Horadam, Victor W.; Hunger, Kevin K.; Hussein, Khader; Johnson, David B.; Kahn, Michael; Kalisiak, Angela; Kasper, Michael; Kennedy, Stephen S.; Kincaid, William R.; Kingsley, Edwin C.; Klein, Leonard; Kolibaba, Kathryn S.; Krekow, Lea K.; Krywicki, Robert; Look, Regan; Lopez, Timothy; Mahajan, Suneel Laxman; Marek, Billie J.; Mattar, Bassam; Mattern II, John Q.A.; McCreary, Robert; Mennel, Robert G.; Miranda, Fernando T.; Negrea, D. George; Osgood, Brian M.; Paladine, William J.; Pfrimmer, Wayne J.; Pinkerton, Richard A.; Raju, Robert N.; Rastogi, Ashutosh; Reeves, James E. Jr; Rosenberg, Richard K.; Sandor, Victor; Schneider, Andrew M; Sibley, Leslie; Smith, Gregory B; Stagg, M Patrick; Swan, Forrest; Valentine, Elizabeth A.; Ward, Frank; Weinshel, Eric L.; Weisberg, Robert J.; Weissman, Charles H.; Ybanez, Jane K.; Zimbler, Harvey; Abubakr, Yousif; Alberico, Thomas A.; Allen, Heather; Amare, Mammo; Archuleta, Travis D.; Barrera, David; Beeker, Thaddeus A.; Boswank, Stephen; Bottomley, Richard; Burger, Robert L.; Burris III, Howard A.; Cantillo, Roberto; Carignan, Joanne R.; Castillo, Elquis M.; Cathcart, Cynthia Chinnasami, Bernard Chohan, Saadia Cimo, Philip Citron, Peter L.; Collins, Mark Corso, Steven Courtright, Jay Crandall, Theodore L.; Dagg, Kathy Danso, Michael A.; Davis, John M.; Davis, Walter E.; DeLizio, Robert, Pasquale R.; Di Bella, Nicholas J.; Dong, David E.; Doria, Raul Dragon, Leon Drapkin, Robert L.; Dudek, Joseph J.; Fleagle, John T.; Foust, John; Freeman, Susan E. Myers; Garbo, Lawrence E.; Gargiulo, Janet E.; Georgiadis, Mark S.; Gococo, Kim O.; Goldstein, Kenneth; Hadeed, Venus A.; Heaven, Ralph F.; Hollen, Charles W.; Huffman, David H.; Huslig, Richard; Hwang, James K.; Inhorn, Lowell F.; Jaski, John W.; Jensen, Lori; Johnson-Giannopoulos, Nadine; Joppert, Marcos G.; Justice, Keith M.; Khoyratty, Bibi; Knight, Clement; Kolodziej, Michael; Kosinski, Richard P.; Kovach, Peter A.; Kula, Alisan G.; Lackey, Van E.; Lancaster, Stewart L.; Laugen, Robert H.; Lee, Douglas J.; Lee, Gary L. (deceased); Lee, Michael E.; Link, David B.; Lohrey, John H.; Lyman, Bruce T.; Marshall, Janice; Matous, Jeffrey V.; McAloon, Edward J.; McCoy, Harry E.; McKenzie, Barry A.; McWilliams, Jeffrey E.; Megaludis, Alexis M.; Melnyk, Anton Jr; Meluch, Anthony; Merten, Suzan R.; Miller, Arnold; Min, Myo; Monticelli, Michael A.; Murphy, Bronagh; Muscato, Joseph J.; Nichols, Joni C.; Oleen, Edward; Orr, Douglas W.; Panicker, Ritwick; Patten, Judd E.; Pawl, Lawrence E.; Pierce, Randall; Pipito, Salvatore L.; Puckett, Christopher A.; Richards, Paul D.; Rifkin, Robert M.; Rinaldi, David; Rizzieri, Kellie E.; Rose, Virgil L. Jr; Rosenoff, Stephen H.; Rosenshein, Marc S.; Sanchez, James D.; Sayre, Robert L.; Schlegel, Peter J.; Scott, William L.; Shaffer, Don; Shaw, John; Sherman, Jules N.; Siegel, Richard S.; Silverberg, David; Smith, David A.; Solky, Alexander J.; Spector, Jesse I.; Spigel, Stuart; Spremuli, Ellen; Sullivan, J. Wynn; Tabor, David C.; Thachil, John; Tongol, Jose M.; Toomey, Mitchell A.; Troner, Michael; Tucker, Thomas; Turner, James M.; Ueno, Winston M.; Valilis, Panagiotis N.; Ward, Jeffery C.; Weiss, Gary B.; Willen, Michael A.; Williford, Susan; Windsor, Kevin S.; Wu, Nini CY. 
+
+www.jco.org 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on May 25, 2010 from 218.82.158.205. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+9 
+
+ 

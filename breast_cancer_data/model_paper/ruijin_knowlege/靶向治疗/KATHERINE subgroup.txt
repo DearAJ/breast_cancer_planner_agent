@@ -1,0 +1,537 @@
+ORIGINAL ARTICLE 
+
+Adjuvant T-DM1 versus trastuzumab in patients with residual invasive disease after neoadjuvant therapy for HER2-positive breast cancer: subgroup analyses from KATHERINE E. P. Mamounas1,2*, M. Untch3, M. S. Mano4, C.-S. Huang5, C. E. Geyer Jr1,6, G. von Minckwitz7, N. Wolmark1,8, X. Pivot9, S. Kuemmel10,11, M. P. DiGiovanna12, B. Kaufman13, G. Kunz7,14, A. K. Conlin1,15, J. C. Alcedo16, T. Kuehn17, I. Wapnir1,18, A. Fontana19, J. Hackmann7,20, J. Polikoff1,21, M. Saghatchian22, A. Brufsky1,23, Y. Yang24, M. Zimovjanova25, T. Boulet26, H. Liu27, D. Tesarowski28, L. H. Lam28, C. Song28, M. Smitt28,29 & S. Loibl7,30 1 
+
+NSABP Foundation and 2Department of Surgery, Orlando Health UF Health Cancer Center, Orlando, USA; 3AGO-B and Department of Gynecologic Oncology, HELIOS Klinikum Berlin Buch, Berlin, Germany; 4Department of Radiology and Oncology, Instituto do Câncer do Estado de São Paulo, São Paulo, Brazil; 5Department of Surgery, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan; 6Department of Internal Medicine, Division of Hematology and Medical Oncology, Houston Methodist Cancer Center, Houston, USA; 7GBG, Neu-Isenburg, Germany; 8Department of Surgery, The University of Pittsburgh, Pittsburgh, USA; 9ICANS, Strasbourg, France; 10Breast Unit Kliniken Essen-Mitte, Essen; 11Klinik für Gynäkologie mit Brustzentrum Charité-Universitätsmedizin Berlin, Berlin, Germany; 12Yale University School of Medicine, Yale Cancer Center and Smilow Cancer Hospital, New Haven, USA; 13Oncology Division, Sheba Medical Center, Tel Hashomer, Ramat Gan, Israel; 14St. Johannes Hospital Dortmund, Dortmund, Germany; 15Department of Medical Oncology, Providence Cancer Institute, Portland, USA; 16Department of Clinical Oncology, Centro Hemato Oncologico, Panama City, Panama; 17AGO-B and Klinikum Esslingen, Esslingen, Germany; 18Stanford University School of Medicine, Stanford, USA; 19Division of Medical Oncology, Azienda Ospedaliero Universitaria Pisana, Pisa, Italy; 20Marien-Hospital Witten, SEG, Witten, Germany; 21Department of Hematology/Oncology, Kaiser Permanente, San Diego, USA; 22Breast Cancer Department, Institut Gustave Roussy, Villejuif, France; 23 Division of Hematology-Oncology, Department of Medicine, University of Pittsburgh, Pittsburgh, USA; 24Division of Hematology-Oncolog, Taichung Veterans General Hospital and School of Medicine, China Medical University, Taichung City, Taiwan; 25Department of Oncology, Charles University and General University Hospital, Prague, Czech Republic; 26Department of Biostatistics, F. Hoffmann-La Roche, Basel, Switzerland; 27Product Development Safety, Genentech, Inc., South San Francisco; 28 Product Development Oncology, Genentech, Inc., South San Francisco; 29Seattle Genetics, South San Francisco, USA; 30Centre for Haematology and Oncology Bethanien, Frankfurt, Germany 
+
+Available online 28 April 2021 
+
+Background: In the KATHERINE study (NCT01772472), patients with residual invasive early breast cancer (EBC) after neoadjuvant chemotherapy (NACT) plus human epidermal growth factor receptor 2 (HER2)-targeted therapy had a 50% reduction in risk of recurrence or death with adjuvant trastuzumab emtansine (T-DM1) versus trastuzumab. Here, we present additional exploratory safety and efﬁcacy analyses. Patients and methods: KATHERINE enrolled HER2-positive EBC patients with residual invasive disease in the breast/ axilla at surgery after NACT containing a taxane ( anthracycline,  platinum) and trastuzumab ( pertuzumab). Patients were randomized to adjuvant T-DM1 (n ¼ 743) or trastuzumab (n ¼ 743) for 14 cycles. The primary endpoint was invasive disease-free survival (IDFS). Results: The incidence of peripheral neuropathy (PN) was similar regardless of neoadjuvant taxane type. Irrespective of treatment arm, baseline PN was associated with longer PN duration (median, 105-109 days longer) and lower resolution rate (w65% versus w82%). Prior platinum therapy was associated with more grade 3-4 thrombocytopenia in the TDM1 arm (13.5% versus 3.8%), but there was no grade 3 hemorrhage in these patients. Risk of recurrence or death was decreased with T-DM1 versus trastuzumab in patients who received anthracycline-based NACT [hazard ratio (HR) ¼ 0.51; 95% conﬁdence interval (CI): 0.38-0.67], non-anthracycline-based NACT (HR ¼ 0.43; 95% CI: 0.220.82), presented with cT1, cN0 tumors (0 versus 6 IDFS events), or had particularly high-risk tumors (HRs ranged from 0.43 to 0.72). The central nervous system (CNS) was more often the site of ﬁrst recurrence in the T-DM1 arm (5.9% versus 4.3%), but T-DM1 was not associated with a difference in overall risk of CNS recurrence. Conclusions: T-DM1 provides clinical beneﬁt across patient subgroups, including small tumors and particularly high-risk tumors and does not increase the overall risk of CNS recurrence. NACT type had a minimal impact on safety. Key words: adjuvant, residual invasive early breast cancer, HER2, peripheral neuropathy, thrombocytopenia 
+
+*Correspondence to: Dr Eleftherios P. Mamounas, Comprehensive Breast Program, Orlando Health UF Health Cancer Center, 1400 S. Orange Avenue, MP 700, Orlando, FL 32806, USA. Tel: þ1-321-841-18511 E-mail: terry.mamounas@orlandohealth.com (E. P. Mamounas). 0923-7534/© 2021 The Authors. Published by Elsevier Ltd on behalf of European Society for Medical Oncology. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). 
+
+Volume 32 - Issue 8 - 2021 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+1005 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology INTRODUCTION The addition of human epidermal growth factor receptor 2 (HER2)-targeted therapy to standard treatment regimens for HER2-positive early breast cancer (EBC) has dramatically improved survival in this patient population.1-3 Nonetheless, the risk of recurrence and death is substantially higher in patients with residual invasive disease after neoadjuvant chemotherapy (NACT) plus HER2-targeted therapy compared with those with a pathologic complete response.3-7 The phase III KATHERINE study compared the efﬁcacy and safety of adjuvant therapy with trastuzumab versus trastuzumab emtansine (T-DM1) in patients with residual invasive disease after NACT plus trastuzumab, with or without a second HER2-targeted agent, generally pertuzumab (NCT01772472/BO27938/NSABP B-50-I/GBG 77).8 Adjuvant T-DM1 reduced the risk of recurrence or death by 50% versus trastuzumab [hazard ratio (HR) ¼ 0.50; 95% conﬁdence interval (CI), 0.39-0.64; P < 0.0001]. Based on these data, T-DM1 is now approved for the adjuvant treatment of patients with HER2-positive EBC who have residual invasive disease after neoadjuvant taxane- and trastuzumab-based treatment. Here, we present the results of multiple exploratory analyses from KATHERINE aimed at gaining further insight into the safety and efﬁcacy of T-DM1 in the EBC setting. These include an analysis of factors potentially associated with the higher rates of peripheral neuropathy (PN) and thrombocytopenia observed with T-DM1; the efﬁcacy implications of the numerically higher rate of central nervous system (CNS) recurrence as the ﬁrst invasive disease-free survival (IDFS) event observed in the T-DM1 arm; efﬁcacy in patients treated with non-anthracycline (AC) versus AC-based NACT; and in mutually exclusive, particularly high-risk patient cohorts. We also evaluated efﬁcacy in the subset of patients who had presented with clinical stage (AJCC staging) T1N0 disease and received neoadjuvant therapy but had residual invasive cancer at surgery. Patients and methods Detailed methodology of the KATHERINE study and patient disposition (i.e. CONSORT diagram) are reported elsewhere.8 KATHERINE is a randomized, multicenter, openlabel, phase III study that enrolled patients with centrally conﬁrmed, HER2-positive, non-metastatic, invasive primary breast cancer (clinical stage, AJCC staging, T1-T4, N0-3, M0 excluding T1a/bN0 at presentation). The study protocol was approved by the institutional review board at each study site and the trial was conducted in accordance with the amended Declaration of Helsinki. Each patient provided written informed consent. Eligible patients received NACT followed by surgery and had residual invasive disease in the breast and/or axillary nodes. NACT was to consist of 16 weeks of systemic treatment, which included 9 weeks of taxane and 9 weeks of trastuzumab. The non-taxane component typically included AC-based or platinum-based regimens. Within 12 weeks of surgery, patients were randomized to receive 14 1006 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+cycles of adjuvant T-DM1 [3.6 mg/kg intravenous (i.v.) every 3 weeks (q3w)] or trastuzumab (6 mg/kg i.v. q3w) and received adjuvant endocrine and/or radiotherapy according to local standards, generally co-administered with HER2targeted therapy. The primary endpoint of IDFS was deﬁned as the time from randomization to the ﬁrst occurrence of ipsilateral invasive breast tumor recurrence, ipsilateral locoregional invasive breast cancer recurrence, contralateral invasive breast cancer, distant recurrence, or death from any cause. Assessment of disease recurrence occurred every 3 months from randomization to year 2, then every 6 months to year 5, and then every year thereafter to year 10. Adverse events (AEs) were coded using the Medical Dictionary for Regulatory Activities (MedDRA), v21.0. The incidence, type, and severity of AEs were based on the National Cancer Institute Common Terminology Criteria for Adverse Events, v4.0. All analyses described herein are descriptive and were based on data from the primary analysis of KATHERINE (median follow-up of 41 months). Efﬁcacy subpopulations were derived from the intent-to-treat population and safety data are reported for patients who received at least one dose of study treatment. The emergence of PN was evaluated according to the presence of baseline PN and type of prior taxane therapy. Incidence of thrombocytopenia was reviewed according to prior receipt of platinum therapy. The safety and efﬁcacy of T-DM1 and trastuzumab were assessed in subpopulations, including those who received AC-based versus non-AC-based NACT, those presenting with cT1, cN0 tumors, and mutually exclusive particularly highrisk cohorts (i.e. inoperable disease at presentation irrespective of hormone receptor and ypN status, operable disease at presentation with ypN-positive nodes and hormone-receptor-negative disease, operable disease with ypN-positive nodes and hormone-receptor-positive disease, or operable disease with ypN0 nodes and hormonereceptor-negative disease). Three-year IDFS event-free rates in these subgroups and overall survival after CNS recurrence were estimated using the KaplaneMeier method, with censoring based on the date the patient was last known to be alive and event-free, or alive, respectively. A cumulative incidence function was estimated to compare the risk of the CNS (versus non-CNS) as a ﬁrst site of an IDFS event, accounting for the competing risk setting. RESULTS Patients with treatment-emergent PN In the safety population, there was a higher incidence of treatment-emergent PN with T-DM1 (32.3%) compared with trastuzumab (16.9%) (Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2021.04.011). A similar percentage of patients had baseline PN in the T-DM1 (22.7%) and trastuzumab arms (21.4%). T-DM1-treated patients with baseline PN versus those without had a small increase in all-grade PN (36.3% versus 31.1%); rates were similar in trastuzumab-treated patients with or without Volume 32 - Issue 8 - 2021 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology 
+
+Table 1. Effect of baseline peripheral neuropathy and prior taxane therapy on treatment-emergent peripheral neuropathy On-study peripheral neuropathya 
+
+All grades, % Grade 1 Grade 2 Grade 3 Grade 4 Median duration, days Resolutionb rate, % 
+
+Baseline neuropathy 
+
+No baseline neuropathy 
+
+T-DM1 (n ¼ 168) 
+
+Trastuzumab (n ¼ 154) 
+
+T-DM1 (n ¼ 572) 
+
+Trastuzumab (n ¼ 566) 
+
+36.3 18.5 14.3 3.6 0.0 352 66.0 
+
+17.5 12.3 5.2 0.0 0.0 337 63.6 
+
+31.1 23.1 7.0 1.0 0.0 243 81.2 
+
+16.8 14.3 2.3 0.2 0.0 232 82.5 
+
+Prior docetaxel 
+
+All grades, % Grade 1 Grade 2 Grade 3 Grade 4 
+
+Prior paclitaxel 
+
+T-DM1 (n ¼ 402) 
+
+Trastuzumab (n ¼ 411) 
+
+T-DM1 (n ¼ 351) 
+
+Trastuzumab (n ¼ 319) 
+
+32.1 22.1 8.0 2.0 0.0 
+
+17.8 14.1 3.6 0.0 0.0 
+
+31.9 21.7 9.4 0.9 0.0 
+
+16.6 13.8 2.5 0.3 0.0 
+
+T-DM1 
+
+All grades, % Grade 1 Grade 2 Grade 3 Grade 4 
+
+Trastuzumab 
+
+>12 weeks Taxane (n ¼ 274) 
+
+12 weeks Taxane (n ¼ 466) 
+
+>12 weeks Taxane (n ¼ 273) 
+
+12 weeks Taxane (n ¼ 447) 
+
+19.7 10.2 6.6 2.9 0 
+
+18.0 13.3 4.3 0.4 0 
+
+9.2 7.0 2.2 0 0 
+
+5.6 4.5 1.1 0 0 
+
+MedDRA, Medical Dictionary for Regulatory Activities; T-DM1, trastuzumab emtansine. a Incidence refers to the standardized MedDRA query for peripheral neuropathy; duration and resolution apply to the preferred term ‘peripheral sensory neuropathy’. b Reported by investigator as resolved. 
+
+baseline PN (17.5% versus 16.8%). The severity of PN appeared greater in T-DM1-treated patients with baseline PN. They had more grade 2 (14.3% versus 7.0%) and grade 3 (3.6% versus 1.0%) events compared with T-DM1-treated patients who did not have baseline PN (Table 1). Irrespective of study treatment, baseline PN was associated with longer median duration and lower resolution rates of neuropathy. In the T-DM1 arm, patients with baseline PN had PN duration of 352 days compared with 243 in those without pre-existing neuropathy; resolution rates were 66% versus 81%, respectively. In the trastuzumab arm, patients with baseline PN had PN duration of 337 days compared with 232 in those without pre-existing neuropathy; resolution rates were 64% versus 83%, respectively. The type of taxane received as neoadjuvant therapy was similar between treatment arms and included docetaxel (T-DM1 arm, 54.3%; trastuzumab arm, 57.1%), paclitaxel (47.4%; 44.3%), and nab-paclitaxel (0.8%; 0%). The incidence of treatment-emergent PN was similar within each treatment arm, irrespective of the type of neoadjuvant taxane received. A numerical increase in grade 2 PN was noted in patients who had been administered >12 weeks of taxane compared with 12 weeks (T-DM1 arm 9.5% versus 4.7%; trastuzumab arm 2.2% versus 1.1%; Table 1). Patients with treatment-emergent thrombocytopenia In the safety population, there was a substantially higher incidence of treatment-emergent thrombocytopenia with T-DM1 (28.5%) compared with trastuzumab (2.4%) Volume 32 - Issue 8 - 2021 
+
+(Supplementary Table S2, available at https://doi.org/10. 1016/j.annonc.2021.04.011). A platinum-containing neoadjuvant regimen had been administered to 19.9% of patients (T-DM1, 19.1%; trastuzumab, 20.8%). In the T-DM1 arm, prior platinum was associated with a higher incidence of grade 3 (8.5% with prior platinum, 2.5% without) and grade 4 (5.0% with prior platinum, 1.3% without) thrombocytopenia. The median duration and resolution rate of grade 3-4 thrombocytopenia, however, were similar, irrespective of prior platinum therapy (Table 2), and there was no grade 3 hemorrhage in patients who had been treated with platinum therapy. Patients with treatment-emergent pulmonary toxicity The majority of patients (82.2%) received adjuvant radiotherapy. Pulmonary toxicity occurred only in this group, and the incidence was higher with T-DM1 than with trastuzumab (3.4% versus 1.0%). Among the 21 T-DM1-treated patients with pulmonary toxicity, radiation pneumonitis was reported in 11 patients (most severe event was grade 1 in three patients, grade 2 in six patients, and grade 3 in two patients; both grade 3 events resolved); pneumonitis in eight (most severe event was grade 1 in one patient, grade 2 in six patients, and grade 3 in one patient), pulmonary ﬁbrosis (grade 2) in one, and pulmonary radiation injury (grade 1) in one. Among the six trastuzumab-treated patients with pulmonary toxicity, radiation pneumonitis occurred in ﬁve patients (all grade 1 or 2), and pneumonitis occurred in one (grade 1). https://doi.org/10.1016/j.annonc.2021.04.011 
+
+1007 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology Table 2. Effect of prior platinum therapy on treatment-emergent thrombocytopenia Thrombocytopenia 
+
+All grades, % Grade 1 Grade 2 Grade 3 Grade 4 Median duration of grade 3-4, days Resolution rateb of grade 3-4, % 
+
+Prior platinum 
+
+No prior platinum 
+
+T-DM1 (n ¼ 141) 
+
+Trastuzumab (n ¼ 150) 
+
+T-DM1 (n ¼ 599) 
+
+Trastuzumab (n ¼ 570) 
+
+36.2 15.6 7.1 8.5 5.0 33 95 
+
+3.3 3.3 0.0 0.0 0.0 d d 
+
+26.7 13.9 9.0 2.5 1.3 29 96 
+
+2.1 1.6 0.2 0.2 0.2 110a 100a 
+
+T-DM1, trastuzumab emtansine. a Based on two events. b Reported by investigator as resolved. 
+
+Patients with CNS recurrence Although the rate of an IDFS event overall was lower with TDM1 compared with trastuzumab (12.2% versus 22.2%), a numerically higher rate of the CNS as the ﬁrst site of recurrence was observed in the T-DM1 arm (5.9% versus 4.3%).8 However, the incidence of CNS recurrence overall at any time was similar in the T-DM1 (6.1%) and trastuzumab (5.4%) arms (Table 3). Patients in the T-DM1 arm were more likely to have a CNS recurrence as their only site of recurrence (4.8% versus 2.8%) and had a longer median time to CNS recurrence (17.5 versus 11.9 months) than patients in the trastuzumab arm. Median overall survival after CNS recurrence was similar in both treatment groups (12.5 months with T-DM1 versus 14.3 months with trastuzumab; Supplementary Figure S1A, available at https://doi.org/10. 1016/j.annonc.2021.04.011). To estimate the cumulative incidence of CNS and non-CNS events as the ﬁrst IDFS event, a competing risk analysis was carried out. T-DM1 substantially reduced the cumulative incidence of non-CNS recurrences as the ﬁrst IDFS event compared with trastuzumab. The slight difference between the two arms in the cumulative incidence of CNS recurrences as the ﬁrst IDFS event can be explained by competing risk (Supplementary Figure S1B, available at https://doi.org/10.1016/j.annonc. 2021.04.011). Patients who received AC-based versus non-AC-based NACT The majority of patients were treated with AC-based NACT (76.9%), with a balanced distribution between treatment arms. Some patient characteristics were imbalanced Table 3. Central nervous system recurrence events n (%) 
+
+T-DM1 (n [ 743) 
+
+Trastuzumab (n [ 743) 
+
+Patients with CNS recurrence As ﬁrst IDFS eventa After ﬁrst IDFS eventb Patients with CNS as only eventc Median time to CNS recurrence, months 
+
+45 (6.1) 44 (5.9) 1 (0.1) 36 (4.8) 17.5 
+
+40 (5.4) 32 (4.3) 8 (1.1) 21 (2.8) 11.9 
+
+CNS, central nervous system; IDFS, invasive disease-free survival; T-DM1, trastuzumab emtansine. CNS recurrence withina or afterb 61 days of ﬁrst IDFS event or at any time.c 
+
+1008 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+between those who were treated with neoadjuvant AC and those who were not (Supplementary Table S3, available at https://doi.org/10.1016/j.annonc.2021.04.011). For instance, patients treated with AC-based NACT were less likely to have been treated in North America (11.0% versus 60.6%), were less likely to be Asian (7.4% versus 12.8%), and were more likely to have had an Eastern Cooperative Oncology Group (ECOG) performance status of 0 (84.3% versus 72.0%) than those who received non-AC-based NACT. Patients who were treated with AC-based NACT were less likely to have been treated with neoadjuvant trastuzumab in combination with pertuzumab (9.8% versus 46.6%). Disease characteristics, including hormone receptor status and tumor stage, were similar between the subgroups. The IDFS beneﬁt observed with adjuvant T-DM1 compared with trastuzumab was similar irrespective of neoadjuvant AC use (Figure 1). There was a relative 49% reduction in the risk of recurrence or death with adjuvant TDM1 versus trastuzumab in the AC-based NACT group and a 57% reduction in the non-AC-based NACT group, both similar to the 50% risk reduction observed in the overall population. In both subgroups, the 3-year IDFS event-free rate was higher in patients who received T-DM1 compared with those who received trastuzumab (87.4% versus 75.7% in the AC-based NACT subgroup; 91.7% versus 81.4% in the non-AC-based NACT subgroup). The overall safety proﬁle was generally consistent between the AC-based and non-AC-based subgroups (Table 4). The all-grade incidence of most AEs known to occur with T-DM1 or trastuzumab (i.e. selected AEs), including hepatotoxicity, PN, hemorrhage, infusion-related reaction/ hypersensitivity, and cardiac dysfunction was similar between the two subgroups. The safety data were similar irrespective of whether pertuzumab was part of the neoadjuvant regimen (data not shown). In T-DM1-treated patients, increases in all-grade thrombocytopenia (32.5% versus 27.4%) and pulmonary toxicity (6.7% versus 1.7%) were reported in patients who received non-AC-based NACT compared with those who received AC-based NACT. All pulmonary toxicity was grade 2, except for one case (0.6%) of grade 3 pulmonary toxicity in the non-AC-based group and two (0.3%) in the AC-based NACT group. Additionally, an increased incidence of grade 3 AEs overall (39.9% versus 21.7%) with T-DM1 was observed in the Volume 32 - Issue 8 - 2021 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology 
+
+A 1.0 
+
+Proportion event-free 
+
+0.8 
+
+0.6 T-DM1 (n = 579) 0.4 
+
+Patients with event, n (%) 3-year event-free rate, % (95% CI) Unstratified HR (95% CI) 
+
+Trastuzumab (n = 564) 
+
+78 (13.5) 135 (23.9) 87.4 (84.5-90.2) 75.7 (71.9-79.5) 0.51 (0.38-0.67) 
+
+0.2 Trastuzumab T-DM1 0.0 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+60 
+
+258 326 
+
+177 208 
+
+102 118 
+
+35 40 
+
+3 3 
+
+Time (months) No. of patients at risk Trastuzumab T-DM1 
+
+B 
+
+564 579 
+
+514 552 
+
+484 531 
+
+455 515 
+
+423 500 
+
+381 443 
+
+1.0 
+
+Proportion event-free 
+
+0.8 
+
+0.6 T-DM1 (n = 164) 0.4 
+
+Patients with event, n (%) 3-year event-free rate, % (95% CI) Unstratified HR (95% CI) 
+
+Trastuzumab (n = 179) 
+
+13 (7.9) 30 (16.8) 91.7 (87.1-96.2) 81.4 (75.2-87.5) 0.43 (0.22-0.82) 
+
+0.2 Trastuzumab T-DM1 0.0 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+60 
+
+84 83 
+
+43 47 
+
+17 24 
+
+3 4 
+
+1 1 
+
+Time (months) No. of patients at risk Trastuzumab T-DM1 
+
+179 164 
+
+162 155 
+
+155 150 
+
+139 143 
+
+132 133 
+
+120 118 
+
+Figure 1. KaplaneMeier estimates of time to ﬁrst invasive disease-free survival event in patients who received (A) anthracycline-based neoadjuvant therapy or (B) non-anthracycline-based neoadjuvant therapy. CI, conﬁdence interval; HR, hazard ratio; T-DM1, trastuzumab emtansine. 
+
+non-AC-based versus the AC-based NACT subgroup, with the largest differences observed in the incidence of grade 3 thrombocytopenia (10.4% versus 4.3%) and peripheral sensory neuropathy (4.3% versus 0.5%). An analysis of safety by NACT regimen (i.e. AC þ paclitaxel, AC þ docetaxel, taxane þ platinum) showed a similar incidence of grade 3 AEs in the trastuzumab arm regardless of which of the three types of NACT patients received (Supplementary Table S4, available at https://doi.org/10. 1016/j.annonc.2021.04.011). However, in the T-DM1 arm, the incidence of grade 3 AEs was greater in patients who had received taxane þ platinum. This was primarily driven by a higher incidence of thrombocytopenia and PN. Volume 32 - Issue 8 - 2021 
+
+Despite the increases overall in AEs observed with T-DM1 in patients who had received prior non-AC-based NACT, TDM1 discontinuations due to AEs were only slightly higher in the non-AC versus AC NACT subgroups (19.6% versus 17.5%), as were T-DM1 dose reductions because of AEs (14.1% versus 11.6%). Patients who received hormonal therapy The majority of patients (72.3%) had hormone-receptorpositive, HER2-positive breast cancer. Baseline and disease characteristics were well balanced between groups except that there were more white patients with https://doi.org/10.1016/j.annonc.2021.04.011 
+
+1009 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology Table 4. Selected all-grade AEs, adjudicated cardiac events, and grade ‡3 AEs occurring in ‡2% of patients in any subgroup n (%) 
+
+AC-based NACT 
+
+Safety summary Grade 3 AEs Serious AEs AEs with fatal outcomea AEs leading to T-DM1 dose reduction AEs leading to treatment discontinuation Selected all-grade AEsb Hepatotoxicity Thrombocytopenia Peripheral neuropathy Hemorrhage IRR/hypersensitivity (type 1) IRR/hypersensitivity (symptoms) Pulmonary toxicity Cardiac dysfunction Adjudicated cardiac eventsc Any cardiac event Symptomatic NYHA Class III or IV with a decrease in LVEF of 10 percentage points from baseline to an LVEF <50% Symptomatic LVSD not meeting protocol-speciﬁed cardiac event criteria (NYHA Class II) Asymptomatic Conﬁrmed decrease in LVEF of 10 percentage points from baseline to an LVEF <50% Unconﬁrmed decrease in LVEF of 10 percentage points from baseline to an LVEF <50% Grade 3 AEs in 2% of patients Platelet count decreased Hypertension Radiation skin injury Peripheral sensory neuropathy 
+
+Non-AC-based NACT 
+
+T-DM1 (n ¼ 577) 
+
+Trastuzumab (n ¼ 549) 
+
+T-DM1 (n ¼ 163) 
+
+Trastuzumab (n ¼ 171) 
+
+125 (21.7) 67 (11.6) 1 (0.2) 67 (11.6) 101 (17.5) 
+
+87 (15.8) 47 (8.6) 0 NA 12 (2.2) 
+
+65 (39.9) 27 (16.6) 0 23 (14.1) 32 (19.6) 
+
+24 (14.0) 11 (6.4) 0 NA 3 (1.8) 
+
+214 (37.1) 158 (27.4) 185 (32.1) 172 (29.8) 50 (8.7) 38 (6.6) 10 (1.7) 19 (3.3) 
+
+53 (9.7) 12 (2.2) 84 (15.3) 56 (10.2) 19 (3.5) 9 (1.6) 3 (0.5) 31 (5.6) 
+
+62 (38.0) 53 (32.5) 54 (33.1) 44 (27.0) 7 (4.3) 4 (2.5) 11 (6.7) 4 (2.5) 
+
+23 (13.5) 5 (2.9) 38 (22.2) 13 (7.6) 0 0 3 (1.8) 9 (5.3) 
+
+16 (2.8) 
+
+23 (4.2) 
+
+3 (1.8) 
+
+4 (2.3) 
+
+0 
+
+3 (0.5) 
+
+1 (0.6) 
+
+0 
+
+6 (1.0) 
+
+8 (1.5) 
+
+0 
+
+1 (0.6) 
+
+4 (0.7) 
+
+5 (0.9) 
+
+0 
+
+1 (0.6) 
+
+6 (1.0) 
+
+8 (1.5) 
+
+2 (1.2) 
+
+2 (1.2) 
+
+25 (4.3) 12 (2.1) 5 (0.9) 3 (0.5) 
+
+2 (0.4) 5 (0.9) 4 (0.7) 0 
+
+17 (10.4) 3 (1.8) 5 (3.1) 7 (4.3) 
+
+0 4 (2.3) 3 (1.8) 0 
+
+AC, anthracycline; AE, adverse event; IRR, infusion-related reactions; LVEF, left ventricular ejection fraction; LVSD, left ventricular systolic dysfunction; MedDRA, Medical Dictionary for Regulatory Activities; NA, not applicable; NACT, neoadjuvant chemotherapy; NYHA, New York Heart Association; PT, preferred term; SMQ, Standardized MedDRA Query; T-DM1, trastuzumab emtansine. a Intracranial hemorrhage diagnosed after a fall with platelet count of 55 000 per ml. b T-DM1-selected AEs were chosen based on the known safety proﬁle of T-DM1 (i.e. identiﬁed risks for T-DM1). The selected AEs were deﬁned based on the following MedDRA search criteria: Hepatotoxicity: SMQs (wide) ‘cholestasis and jaundice of hepatic origin’, ‘liver related investigations, signs and symptoms’, ‘hepatic failure, ﬁbrosis and cirrhosis and other liver damage-related conditions’, ‘hepatitis, non-infectious’. Thrombocytopenia: SMQ (narrow) ‘hematopoietic thrombocytopenia’. Hemorrhage: SMQs ‘hemorrhage laboratory terms’ (narrow) and ‘hemorrhage terms (excluding laboratory terms)’ (wide). Cardiotoxicity: SMQ (narrow) ‘cardiac failure’ plus the additional PTs of cardiac output decreased, diastolic dysfunction, left ventricular dysfunction, edema due to cardiac disease, right ventricular dysfunction, systolic dysfunction, ventricular dysfunction. IRR/hypersensitivity (type 1): SMQs of anaphylaxis and angioedema, customized for IRRs, plus additional PTs: ﬂushing, chills, pyrexia, dyspnea, hypotension, wheezing, bronchospasm, and tachycardia (occurring on the day of infusion). IRR/hypersensitivity (symptoms): PTs bronchospasm, chills, dyspnea, ﬂushing, hypotension, pyrexia, tachycardia, and wheezing occurring on day 1 of infusion. Pulmonary toxicity/pneumonitis: SMQ (narrow) ‘interstitial lung disease’ plus the additional PTs of acute lung injury and acute respiratory distress syndrome. Peripheral neuropathy: SMQ (wide) ‘peripheral neuropathy’. c Cardiac events were adjudicated by an independent committee. 
+
+hormone-receptor-positive disease than with hormonereceptor-negative/unknown disease in both the trastuzumab (75.4% versus 61.1%) and the T-DM1 arms (77.0% versus 67.0%). In addition, among patients with hormonereceptor-negative/unknown disease, there was a higher proportion of patients with ypT0 staging or tumors <10 mm in the T-DM1 arm (52.6% versus 43.3%). The IDFS beneﬁt with T-DM1 was similar regardless of hormone receptor status. T-DM1 resulted in an w50% reduction in the risk of an IDFS event in patients with hormone-receptor-positive disease (unstratiﬁed HR ¼ 0.48; 95% CI: 0.35-0.67) and in those with hormone-receptornegative/unknown disease (unstratiﬁed HR ¼ 0.50; 95% CI: 0.33-0.74). 1010 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+Among patients treated with T-DM1, the rate of grade 3 AEs (26.0% versus 24.9%), serious AEs (12.9% versus 12.2%), and AEs leading to T-DM1 dose reduction (11.0% versus 15.0%) were similar in patients treated with hormonal therapy (HT) and those who were not (Table 5). However, there were more patients with AEs leading to withdrawal from T-DM1 in the no-HT group than the HT group (22.5% versus 16.1%). This was mainly driven by laboratory abnormalities (13.6% versus 8.5%), the majority of which were of low-grade severity. The incidence of AEs known to be associated with T-DM1 was similar in the HT and no-HT groups except for modest increases in any-grade hepatotoxicity (44.1% versus 34.5%) and hemorrhage (33.8% versus 27.3%) in the no-HT group. Nearly all of these events were of Volume 32 - Issue 8 - 2021 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology 
+
+Table 5. Summary of adverse events in patients who received hormonal therapy and those who did not (safety population) Hormonal therapy (n [ 1042) 
+
+No hormonal therapy (n [ 418) 
+
+n (%) 
+
+T-DM1 (n ¼ 527) 
+
+Trastuzumab (n ¼ 515) 
+
+T-DM1 (n ¼ 213) 
+
+Trastuzumab (n ¼ 205) 
+
+Any-grade AE Grade 3 AE Serious AEs AE leading to dose reduction of T-DM1 AE leading to discontinuation of trastuzumab or T-DM1 (excluding switching) 
+
+522 (99.1) 137 (26.0) 68 (12.9) 58 (11.0) 85 (16.1) 
+
+487 (94.6) 88 (17.1) 46 (8.9) NA 13 (2.5) 
+
+209 (98.1) 53 (24.9) 26 (12.2) 32 (15.0) 48 (22.5) 
+
+185 (90.2) 23 (11.2) 12 (5.9) NA 2 (1.0) 
+
+T-DM1 
+
+Trastuzumab 
+
+T-DM1 
+
+Trastuzumab 
+
+24 (4.6) 9 (1.7) 4 (0.8) 
+
+0 8 (1.6) 4 (0.8) 
+
+18 (8.5) 6 (2.8) 5 (2.3) 
+
+2 (1.0) 1 (0.5) 1 (0.5) 
+
+AE summary 
+
+Grade ‡3 AEs occurring in ‡2% of patients in any treatment arm 
+
+Platelet count decreased Hypertension Neutrophil count decreased T-DM1-selected AEsa T-DM1 
+
+Hepatotoxicity Peripheral neuropathy Thrombocytopenia Hemorrhage IRR/hypersensitivity (Type 1) IRR/hypersensitivity (symptoms) Cardiac dysfunction Pulmonary toxicity 
+
+Trastuzumab 
+
+T-DM1 
+
+Trastuzumab 
+
+Any grade 
+
+Grade 3 
+
+Any grade 
+
+Grade 3 
+
+Any grade 
+
+Grade 3 
+
+Any grade 
+
+Grade 3 
+
+182 (34.5) 176 (33.4) 148 (28.1) 144 (27.3) 41 (7.8) 30 (5.7) 19 (3.6) 16 (3.0) 
+
+8 (1.5) 9 (1.7) 24 (4.6) 2 (0.4) 1 (0.2) 0 3 (0.6) 2 (0.4) 
+
+55 (10.7) 88 (17.1) 12 (2.3) 49 (9.5) 15 (2.9) 7 (1.4) 31 (6.0) 4 (0.8) 
+
+2 (0.4) 0 0 2 (0.4) 0 0 7 (1.4) 0 
+
+94 (44.1) 63 (29.6) 63 (29.6) 72 (33.8) 16 (7.5) 12 (5.6) 4 (1.9) 5 (2.3) 
+
+4 (1.9) 3 (1.4) 18 (8.5) 1 (0.5)b 0 0 1 (0.5) 1 (0.5) 
+
+21 (10.2) 34 (16.6) 5 (2.4) 20 (9.8) 4 (2.0) 2 (1.0) 9 (4.4) 2 (1.0) 
+
+1 (0.5) 1 (0.5) 2 (1.0) 0 0 0 2 (1.0) 0 
+
+AE, adverse event; IRR, infusion-related reaction; T-DM1, trastuzumab emtansine. a Adverse events were selected based on the known safety proﬁle of T-DM1. They reﬂect a composite of related Medical Dictionary for Regulatory Activities (MedDRA) terms relevant to each adverse event. b Grade 5 intracranial hemorrhage after a fall; platelet count was 55 000 per cubic millimeter. 
+
+low-grade severity, with grade 3 hepatotoxicity occurring in 1.9% of the no-HT group and in 1.5% of the HT group, and grade 3 hemorrhage occurring in <1% of each group. Patients presenting with cT1, cN0 tumors and outcomes in mutually exclusive particularly high-risk cohorts In 77 patients who presented with small (cT1, cN0) tumors, received neoadjuvant therapy, and had residual disease at surgery, baseline patient and disease characteristics were generally well balanced between treatment arms (Supplementary Table S5, available at https://doi.org/10. 1016/j.annonc.2021.04.011). Six IDFS events were observed in this subgroup, all of which occurred in the 32 trastuzumab recipients. Three of these events were nonCNS distant recurrences, two were CNS recurrences, and one was contralateral breast cancer. None of the 45 patients who received T-DM1 had an IDFS event. Improved 3-year IDFS event-free rates were also seen with T-DM1 compared with trastuzumab across four mutually exclusive cohorts considered to be of particularly high risk (Table 6). DISCUSSION Differences in the AE proﬁle between T-DM1 and trastuzumab were observed in the primary analysis of KATHERINE, including higher rates of all-grade and grade 3 PN and thrombocytopenia.8 Higher-grade and potentially longVolume 32 - Issue 8 - 2021 
+
+lasting AEs are particularly important in the potentially curative EBC setting. Additional analyses were carried out to gain further insight into these AEs. PN has been reported in clinical trials of T-DM1.9,10 Previous studies have shown that baseline neuropathy is a risk factor for chemotherapyinduced peripheral sensory neuropathy.11 In addition, taxane therapy has been associated with PN,12 with some data suggesting a higher incidence with docetaxel than with paclitaxel.13 In our analysis, patients with baseline PN (grade 1) who received T-DM1 had a higher incidence of grade 2 and 3 PN. However, regardless of treatment group, baseline PN was associated with longer duration and lower resolution rates of PN, suggesting that pre-existing PN is a risk factor irrespective of HER2-targeted treatment type. The type of taxane received did not appear to affect the incidence or severity of treatment-emergent peripheral sensory neuropathy, but there was a small increase in grade 2 events with >12 weeks of prior taxane therapy. Since patients receiving more taxane would also typically receive more carboplatin, carboplatin therapy may also have contributed to this increase. Indeed, in our study an increase in grade 3 PN was observed in patients who had received taxane plus carboplatin in the neoadjuvant setting compared with those who had received taxane plus AC (Supplementary Table S4, available at https://doi.org/10. 1016/j.annonc.2021.04.011). T-DM1-associated thrombocytopenia has also been widely reported.9,14 It is most commonly grade 1-2 in https://doi.org/10.1016/j.annonc.2021.04.011 
+
+1011 
+
+E. P. Mamounas et al. 
+
+Annals of Oncology Table 6. Invasive disease-free survival in mutually exclusive patient cohorts with particularly high-risk tumors 
+
+Overall population Patients with an event, n/N (%) 3-year event-free rate, % (95% CI) Hazard ratio (95% CI) Inoperable irrespective of HR and ypN status Patients with an event, n/N (%) 3-year event-free rate, % (95% CI) Hazard ratio (95% CI) Operable with ypN-positive nodes and HR-negative disease Patients with an event, n/N (%) 3-year event-free rate, % (95% CI) Hazard ratio (95% CI) Operable with ypN-positive nodes and HR-positive disease Patients with an event, n/N (%) 3-year event-free rate, % (95% CI) Hazard ratio (95% CI) Operable with ypN0 nodes and HR-negative disease Patients with an event, n/N (%) 3-year event-free rate, % (95% CI) Hazard ratio (95% CI) 
+
+T-DM1 
+
+Trastuzumab 
+
+91/743 (12.2) 88.3 (85.8-90.7) 
+
+165/743 (22.2) 77.0 (73.8-80.3) 0.50 (0.39-0.64) 
+
+42/185 (22.7) 76.0 (70.0-82.4) 
+
+70/190 (36.8) 60.2 (52.7-67.8) 0.54 (0.37-0.80) 
+
+14/58 (24.1) 76.0 (64.5-87.5) 
+
+15/52 (28.8) 69.5 (56.1-82.9) 0.72 (0.35-1.50) 
+
+19/168 (11.3) 91.4 (86.6-6.2) 
+
+37/167 (22.2) 77.2 (70.2-84.1) 0.43 (0.25-0.75) 
+
+7/69 (10.1) 91.1 (84.3-97.9) 
+
+14/68 (20.6) 77.2 (66.5-87.9) 0.43 (0.17-1.06) 
+
+CI, conﬁdence interval; HR, hormone receptor; T-DM1, trastuzumab emtansine. 
+
+severity, with the platelet count nadir occurring by day 8 and improving to grade 0 or 1 by the next dose.9,15 Since carboplatin therapy is associated with thrombocytopenia,16 prior platinum therapy was assessed to see whether it would exacerbate the thrombocytopenia observed with TDM1. Indeed, the incidence of all-grade T-DM1-emergent thrombocytopenia was increased in patients with prior platinum therapy (36% versus 27%); however, prior platinum did not affect the duration and resolution of grade 3-4 thrombocytopenia, and did not result in grade 3-4 hemorrhage. The incidence of pulmonary toxicity was generally low and only occurred in patients who received adjuvant radiotherapy. However, it was slightly higher with T-DM1 compared with trastuzumab, including two cases of grade 3 radiation pneumonitis, both of which resolved. These data suggest that T-DM1 and adjuvant radiotherapy can be administered concomitantly without a substantial increase in pulmonary toxicity. The rate of symptomatic (i.e. grade 2 or higher) radiation pneumonitis in KATHERINE (1.3%) was consistent with the symptomatic radiation pneumonitis incidence of approximately 1%-4% reported with radiotherapy and other systemic therapies for breast cancer,17,18 with rates varying by radiation dose and fractionation schedule, the way in which the radiation was applied, and prior exposure to other cancer therapies.18 In KATHERINE, there was a numerically higher incidence of CNS recurrence as the ﬁrst IDFS event in the T-DM1 versus the trastuzumab arm. The data presented here (Supplementary Figure S1B, available at https://doi.org/ 10.1016/j.annonc.2021.04.011) suggest that this increased incidence is a result of competing risk19,20 as observed in trastuzumab trials.21 Speciﬁcally, substantial reduction in the incidence of non-CNS recurrences as a ﬁrst event observed with T-DM1 resulted in an increased likelihood of a CNS recurrence as a ﬁrst event and as the only site of 1012 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+recurrence. This hypothesis is supported by our analyses, which found a similar cumulative incidence of CNS recurrences in both arms, a 5.6-month longer time to CNS recurrence in the T-DM1 arm, and a higher incidence of CNS recurrence as the only site of recurrence in T-DM1 recipients. Importantly, the numerically higher rate of CNS recurrence as a ﬁrst event in the T-DM1 arm did not appear to have a detrimental effect on overall survival after CNS recurrence, and T-DM1 did not increase the overall risk of CNS recurrence. Nonetheless, treatments that are effective against development of HER2-positive CNS disease in patients with EBC remain an unmet therapeutic need. Encouraging recently published phase III data in the HER2positive metastatic setting demonstrated a 52% reduction in risk of disease progression with the addition of tucatinib to trastuzumab and capecitabine in patients with brain metastases.22 T-DM1 provided clinical beneﬁt similar to that observed in the intent-to-treat population, regardless of type of NACT (AC versus non-AC). There was an increased incidence in grade 3 AEs and in all-grade thrombocytopenia and all-grade pulmonary toxicity with T-DM1 in the nonAC versus the AC group, but AEs leading to T-DM1 discontinuation and to T-DM1 dose reduction were similar between the groups. Factors that may have contributed to the increased toxicity include differences in baseline characteristics (e.g. a higher proportion of patients with ECOG performance status 1 and a higher proportion of Asian patients in the non-AC group) and prior therapy (e.g. a higher proportion of patients receiving platinumbased therapy and >12 weeks of taxane therapy in the non-AC group). An increased incidence of T-DM1associated thrombocytopenia has been previously observed in Asian patients9 and in patients treated with platinum therapy,16 a ﬁnding that was also observed in the current study. Volume 32 - Issue 8 - 2021 
+
+E. P. Mamounas et al. 
+
+In KATHERINE, no new safety signals were observed with concomitant HT, and the T-DM1 safety proﬁle was similar to what has been reported in previous studies. The incidence of cardiac dysfunction was low overall and similar between the HT and no-HT groups. The favorable safety proﬁle of TDM1 with or without HT and the 50% reduction in the risk of an IDFS event with T-DM1 irrespective of hormone receptor status support the use of T-DM1 in this setting. While the cohort was small, adjuvant T-DM1 appeared to result in clinical beneﬁt in patients presenting with clinical stage T1, cN0 tumors and who were treated with neoadjuvant therapy but had residual disease at surgery. When treated with adjuvant trastuzumab, 6 of 32 (19%) of these patients had an IDFS event. The lack of IDFS events in the 45 patients treated with adjuvant T-DM1 suggests the efﬁcacy of T-DM1 may be maintained in this subset, warranting consideration of T-DM1 treatment when these patients are identiﬁed. Recent data suggest that occult-positive lymph nodes may be present in up to 14% of patients presenting with T1 disease and normal ultrasound exam of axillary nodes at surgery.23 Indeed, in KATHERINE, 7 of the 77 (9.1%) patients (3 in the T-DM1 arm, 4 in the trastuzumab arm; Supplementary Table S5, available at https://doi.org/ 10.1016/j.annonc.2021.04.011) who had presented with T1c disease and were clinically assessed as node-negative before neoadjuvant treatment had positive nodes at surgery. A substantial reduction in risk of an IDFS event with TDM1 was observed in particularly high-risk patient cohorts; however, the 3-year IDFS event-free rate with T-DM1 varied among these cohorts. The 3-year IDFS rate exceeded 90% in patients presenting with operable hormone-receptorpositive tumors with positive nodes at surgery, and in patients presenting with operable hormone-receptor-negative disease and negative nodes at surgery. However, in patients presenting with operable hormone-receptor-negative disease but with positive nodes at surgery or with inoperable tumors irrespective of hormone receptor and ypN status, the 3-year IDFS event-free rate was 76%, highlighting remaining unmet therapeutic need in these cohorts. Limitations of this analysis include those typically associated with subgroup analyses, including statistical and methodological issues (e.g. low power),24 and those associated with exploratory analyses (e.g. risk of bias). However, it is reassuring that the safety and efﬁcacy ﬁndings from these exploratory analyses were generally consistent with the ﬁndings in the primary study and that a T-DM1 treatment effect was apparent in all subgroups analyzed. Insights gained from these results will support clinicians as they begin to adopt adjuvant T-DM1 as the new standard of care in patients with residual invasive disease after neoadjuvant therapy. ACKNOWLEDGEMENTS This trial was sponsored by F. Hoffmann-La Roche Ltd. The authors thank the patients and their families, as well as the 
+
+Volume 32 - Issue 8 - 2021 
+
+Annals of Oncology KATHERINE investigators and clinical study sites. Medical writing support was provided by Tricia Newell, PhD, and Holly Strausbaugh, PhD, on behalf of Twist Medical, LLC, and funded by F. Hoffmann-La Roche, Ltd. FUNDING This work was supported by F. Hoffmann-La Roche Ltd (no grant number). DISCLOSURE EPM reports consulting fees from Biotheranostics, Daiichi Sankyo, Genentech/Roche, Genomic Health, Merck, and Puma Biotechnology, and speaker bureau fees from Genentech and Genomic Health. MU reports consulting fees from the following companies, which have been paid to his institution: AbbVie, Amgen, AstraZeneca, Celgene, Daiichi Sankyo, Eisai, Lilly Germany, Lilly International, Merck, MSD Mundipharma, Myriad Genetics, Novartis, Odonate, Pierre Fabre, Pﬁzer, Puma Biotechnology, F. Hoffmann-La Roche, Sanoﬁ Aventis, and TEVA Pharmaceuticals. MSM reports honoraria for advisory boards and presentations in educational events from AstraZeneca, Lilly, MSD, Novartis, Oncologia Brasil, Pﬁzer, and Roche; educational support from Novartis, Pﬁzer, and Roche; and stock ownership in Biotoscana, Hypera Pharma, and Fleury. C-SH reports consulting fees from Amgen, Lilly, Novartis, Pﬁzer, and Roche; contracted research from AstraZeneca, Eirgenix, Lilly, MSD, Novartis, OBI, Pﬁzer, and Roche; travel expenses from Amgen, Pﬁzer, and Roche; and he serves on speakers bureaus for Pﬁzer and Roche. CEG reports consulting fees from Athenex, Celgene, Exact Science, Myriad Genetics, and Heron; uncompensated consulting for Daiichi Sankyo, Genentech, Roche, and Seattle Genetics; travel expenses from AstraZeneca, Daiichi Sankyo, and Roche; and medical writing support from AbbVie and Roche. GvM reports consulting fees from Amgen and Roche; contracted research from AbbVie, Amgen, AstraZeneca, Celgene, Myriad Genetics, Pﬁzer, Roche, and Vifor Pharma; and stock ownership in Cara GmbH (ARO). SK reports consulting fees from Amgen, AstraZeneca, Daiichi Sankyo, Lilly, MSD Oncology, Novartis, Pﬁzer, Puma Biotechnology, PFM Medical, Roche, and SOMATEX; and travel expenses from Daiichi Sankyo and Roche. MPDG reports royalties from DAKO and Neomarkers; consulting fees from Merck; and serves on a speaker’s bureau for Total Health Conferencing. BK reports speaker fees and honoraria from Roche; and has served on advisory boards for AstraZeneca, Novartis, Pﬁzer, and Roche. GK reports honoraria for advisory boards and presentations in educational events from Roche. TK reports honoraria from Celgene, Pﬁzer, and Roche. IW reports consulting fees from Cardinal Health and Vector Science; and contracted research with Lumicell, NOVADAQ, OncoSec, and Roche. MS reports consulting fees from Eisai, Lilly, MSD, Novartis, Pﬁzer, Roche, and Sandoz; and contracted research from AstraZeneca, Daiichi Sankyo, Eisai, Lilly, MSD, Novartis, Pﬁzer, Roche, and Sandoz. AB reports consulting 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+1013 
+
+Annals of Oncology fees from Agendia, Bayer, Bioarray Therapeutics, Biotheranostics, Celgene, Eisai, Genentech, Genomic Health, Lilly, Merck, Myriad Pharmaceuticals, NanoString Technologies, Novartis, Pﬁzer, Puma Biotechnology, and Roche. YY reports research funding paid to his institution from Astellas, Celgene, Janssen, Lilly, Mundipharma, Novartis, Ono, Orient EuroPharma, and Roche. SL reports research funding and/or honoraria from the following companies which have been paid to her institution: AbbVie, Amgen, AstraZeneca, Celgene, Celltrion, Cepheid, Daiichi Sankyo, EirGenix, E-vate, Roche, GH, Immunomedics, Ipsen, Medscape, Myriad Pharmaceuticals, Novartis, PEER, Pﬁzer, Pierre Fabre, prIME, Puma Biotechnology, SeaGen, Sividon Diagnostics, TEVA Pharmaceuticals, and Vifor. TB is an employee of Parexel International GmbH, contracted by F. Hoffmann-La Roche Ltd, during the conduct of the study. HL, DT, LHL, and CS are employees of Genentech and hold stock in Roche. MS was an employee of Genentech during the conduct of the study. All other authors have declared no conﬂicts of interest. REFERENCES 1. Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med. 2005;353:1673-1684. 2. Slamon D, Eiermann W, Robert N, et al. Adjuvant trastuzumab in HER2positive breast cancer. N Engl J Med. 2011;365:1273-1283. 3. Gianni L, Eiermann W, Semiglazov V, et al. Neoadjuvant and adjuvant trastuzumab in patients with HER2-positive locally advanced breast cancer (NOAH): follow-up of a randomised controlled superiority trial with a parallel HER2-negative cohort. Lancet Oncol. 2014;15:640-647. 4. Untch M, Fasching PA, Konecny GE, et al. Pathologic complete response after neoadjuvant chemotherapy plus trastuzumab predicts favorable survival in human epidermal growth factor receptor 2overexpressing breast cancer: results from the TECHNO trial of the AGO and GBG study groups. J Clin Oncol. 2011;29:3351-3357. 5. Cortazar P, Zhang L, Untch M, et al. Pathological complete response and long-term clinical beneﬁt in breast cancer: the CTNeoBC pooled analysis. Lancet. 2014;384:164-172. 6. de Azambuja E, Holmes AP, Piccart-Gebhart M, et al. Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): survival outcomes of a randomised, open-label, multicentre, phase 3 trial and their association with pathological complete response. Lancet Oncol. 2014;15:1137-1146. 7. Schneeweiss A, Chia S, Hickish T, et al. Long-term efﬁcacy analysis of the randomised, phase II TRYPHAENA cardiac safety study: evaluating pertuzumab and trastuzumab plus standard neoadjuvant anthracycline-containing and anthracycline-free chemotherapy regimens in patients with HER2-positive early breast cancer. Eur J Cancer. 2018;89:27-35. 
+
+1014 
+
+https://doi.org/10.1016/j.annonc.2021.04.011 
+
+E. P. Mamounas et al. 8. von Minckwitz G, Huang CS, Mano MS, et al. Trastuzumab emtansine for residual invasive HER2-positive breast cancer. N Engl J Med. 2019;380:617-628. 9. Diéras V, Harbeck N, Budd GT, et al. Trastuzumab emtansine in human epidermal growth factor receptor 2-positive metastatic breast cancer: an integrated safety analysis. J Clin Oncol. 2014;32:2750-2757. 10. Hurvitz SA, Martin M, Jung KH, et al. Neoadjuvant trastuzumab emtansine and pertuzumab in human epidermal growth factor receptor 2-positive breast cancer: three-year outcomes from the phase III KRISTINE study. J Clin Oncol. 2019;37:2206-2216. 11. Seretny M, Currie GL, Sena ES, et al. Incidence, prevalence, and predictors of chemotherapy-induced peripheral neuropathy: a systematic review and meta-analysis. Pain. 2014;155:2461-2470. 12. Rivera E, Cianfrocca M. Overview of neuropathy associated with taxanes for the treatment of metastatic breast cancer. Cancer Chemother Pharmacol. 2015;75:659-670. 13. Jones SE, Erban J, Overmoyer B, et al. Randomized phase III study of docetaxel compared with paclitaxel in metastatic breast cancer. J Clin Oncol. 2005;23:5542-5551. 14. Montemurro F, Ellis P, Anton A, et al. Safety of trastuzumab emtansine (T-DM1) in patients with HER2-positive advanced breast cancer: primary results from the KAMILLA study cohort 1. Eur J Cancer. 2019;109: 92-102. 15. KADCYLA [prescribing information]. South San Francisco, CA: Genentech, Inc; 2019. 16. Ten Berg MJ, van den Bemt PMLA, Shantakumar S, et al. Thrombocytopenia in adult cancer patients receiving cytotoxic chemotherapy: results from a retrospective hospital-based cohort study. Drug Saf. 2011;34:1151-1160. 17. Werner EM, Eggert MC, Bohnet S, et al. Prevalence and characteristics of pneumonitis following irradiation of breast cancer. Anticancer Res. 2019;39:6355-6358. 18. Omarini C, Thanopoulou E, Johnston SRD. Pneumonitis and pulmonary ﬁbrosis associated with breast cancer treatments. Breast Cancer Res Treat. 2014;146:245-258. 19. Wolkewitz M, Cooper BS, Bonten MJM, et al. Interpreting and comparing risks in the presence of competing events. Br Med J. 2014;349:g5060. 20. Gooley TA, Leisenring W, Crowley J, et al. Estimation of failure probabilities in the presence of competing risks: new representations of old estimators. Stat Med. 1999;18:695-706. 21. Pestalozzi BC, Holmes E, de Azambuja E, et al. CNS relapses in patients with HER2-positive early breast cancer who have and have not received adjuvant trastuzumab: a retrospective substudy of the HERA trial (BIG 1-01). Lancet Oncol. 2013;14:244-248. 22. Murthy RK, Loi S, Okines A, et al. Tucatinib, trastuzumab, and capecitabine for HER2-positive metastatic breast cancer. N Engl J Med. 2020;382:597-609. 23. Shigematsu H, Nishina M, Yasui D, et al. Minimal prognostic signiﬁcance of sentinel lymph node metastasis in patients with cT1-2 and cN0 breast cancer. World J Surg Oncol. 2019;17:41. 24. Tanniou J, van der Tweel I, Teerenstra S, et al. Subgroup analyses in conﬁrmatory clinical trials: time to be speciﬁc about their purposes. BMC Med Res Methodol. 2016;16:20. 
+
+Volume 32 - Issue 8 - 2021 
+
+ 

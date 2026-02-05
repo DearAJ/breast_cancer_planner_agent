@@ -1,0 +1,1429 @@
+HHS Public Access Author manuscript Author Manuscript 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. Published in final edited form as: Int J Radiat Oncol Biol Phys. 2024 September 01; 120(1): 149–161. doi:10.1016/j.ijrobp.2024.03.020. 
+
+Validation of Patient-Reported Outcomes in Patients With Nonmetastatic Breast Cancer Receiving Comprehensive Nodal Irradiation in the RadComp Trial 
+
+Author Manuscript 
+
+Elizabeth A. Hahn, MA*, Stephanie L. Pugh, PhD†, Hien L. Lu, BA‡, Alyssa M. Vela, PhD§, Erin F. Gillespie, MD, MPH║,¶, Elizabeth M. Nichols, MD#, Jean L. Wright, MD**, Shannon M. MacDonald, MD††, Oren Cahlon, MD‡‡, Carole Baas, PhD§§, Lior Z. Braunstein, MD¶, L. Christine Fang, MD║, Gary M. Freedman, MD‡, Rachel B. Jimenez, MD††, Christy M. Kesslering, MD║║, Mark V. Mishra, MD#, Robert W. Mutter, MD¶¶, Nisha Ohri, MD##, Lane R. Rosen, MD***, James J. Urbanic, MD†††, Reshma Jagsi, MD‡‡‡, Sandra A. Mitchell, PhD, CRNP§§§, Justin E. Bekelman, MD‡, David Cella, PhD* on behalf of RadComp Consortium on behalf of RadComp (Radiotherapy Comparative Effectiveness Consortium) *Department of Medical Social Sciences, Northwestern University Feinberg School of Medicine, Chicago, Illinois †American College of Radiology, Philadelphia, Pennsylvania ‡Department of Radiation Oncology, Perelman School of Medicine at the University of 
+
+Pennsylvania, Philadelphia, Pennsylvania 
+
+Author Manuscript 
+
+§Department of Cardiac Surgery, Northwestern Feinberg School of Medicine, Chicago, Illinois ║Department of Radiation Oncology, University of Washington School of Medicine, Seattle, 
+
+Washington 
+
+This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/) Corresponding author: Hien L. Lu, BA; Hien.lu@pennmedicine.upenn.edu. Clinical trial information: Pragmatic Randomized Trial of Proton Versus Photon Therapy for Patients with Non-Metastatic Breast Cancer Receiving Comprehensive Nodal Radiation: A Radiotherapy Comparative Effective (RADCOMP) Trial; PCS-1403-12804, NCT02603341, Patient-Centered Outcomes Research Institute (PCORI); website: www.radcomp.org 
+
+Author Manuscript 
+
+Disclosures: J.L.W. reports that she is chair, ASTRO Clinical Affairs and Quality Committee and Breast Section Editor, International Journal of Radiation Biology and Physics. C.B. reports her affiliations as advocate, DOD-funded grant: Convergent Science Virtual Cancer Center; advocate faculty, ASCP/AACR methods in Clinical Cancer Research Workshop, Alamo Advocate Program, Alamo Breast Cancer Foundation, Cancer Biology Program, University of Colorado; Baylor Research Institute Community IRB member; UT Southwestern Community advisory board member; UT Southwestern External advisory board; director, Alamo Advocate Program, Alamo Breast Cancer Foundation. R.W.M. reports his affiliation as co-leader − Breast Cancer Subcommittee PTCOG. J.J.U. reports his affiliation as vice chair − Respiratory Committee, Alliance for Clinical Trials in Oncology. R.J. reports her affiliations with National Institutes of Health, Doris Duke Charitable Foundation, Greenwall Foundation, Susan Komen Foundation, Blue Cross Blue Shield of Michigan, Genetech, personal fees from Doris Duke and Greenwall in addition to grants, stock options from advisory board role in Equity Quotient, former member of board of directors of ASCO, ASTRO’s Ethics Committee, expert witness Sherinian and Hasso; Dressman, Benzinger and Lavelle; Kleinbard, LLC. J.E.B. reports Patient Centered Outcomes Research Institute and National Cancer Institute grants related to this publication, grants from Loxo@Lilly, Gilead and Emerson Collective, honoraria from Reimagine Care and Astrazeneca. D.C. reports royalties as president, FACIT.org. The views, statements and opinions presented in this work are solely the responsibility of the author(s) and do not necessarily represent the views of the PCORI, its Board of Governors or Methodology Committee. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. Supplementary material associated with this article can be found in the online version at doi:10.1016/j.ijrobp.2024.03.020. 
+
+Hahn et al. 
+
+Page 2 
+
+¶Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New 
+
+Author Manuscript 
+
+York #Department of Radiation Oncology, University of Maryland School of Medicine, Baltimore, 
+
+Maryland **Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University 
+
+School of Medicine, Baltimore, Maryland ††Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, 
+
+Boston, Massachusetts ‡‡Department of Radiation Oncology, NYU Grossman School of Medicine, New York, New York §§Alamo Breast Cancer Foundation, San Antonio, Texas 
+
+Author Manuscript 
+
+║║Kess Rx, Elmhurst, Illinois ¶¶Department of Radiation Oncology and Pharmacology, Mayo Clinic Axis School of Medicine, 
+
+Rochester, Minnesota ##Department of Radiation Oncology, Rutgers Cancer Institute of New Jersey, New Brunswick, 
+
+New Jersey ***Department of Radiation Oncology, Willis-Knighton Health System, Shreveport, Louisiana †††Department of Radiation Oncology, UC San Diego School of Medicine, San Diego, California ‡‡‡Department of Radiation Oncology, Emory University School of Medicine, Atlanta, Georgia §§§Division of Cancer Control and Population Sciences, National Institutes of Health, Bethesda, 
+
+Maryland 
+
+Author Manuscript 
+
+Abstract Purpose: Our purpose was to evaluate the measurement properties of patient-reported outcome (PRO) measures used in the ongoing RadComp pragmatic randomized clinical trial (PRCT). 
+
+Author Manuscript 
+
+Methods and Materials: The deidentified and blinded data set included 774 English-speaking female participants who completed their 6-month posttreatment assessment. Eleven PRO measures were evaluated, including the Trial Outcome Index from the Functional Assessment of Cancer Therapy-Breast (FACT-B), Satisfaction with Breast Cosmetic Outcomes, the BREAST-Q, and selected Patient-Reported Outcomes Measurement Information System (PROMIS) measures. PROs were measured at 3 timepoints: baseline, completion of radiation therapy (RT), and 6 months post-RT. Ten variables were used as validity anchors. Pearson or Spearman correlations were calculated between PROs and convergent validity indicators. Mean PRO differences between clinically distinct categories were compared with analysis of variance methods (known-groups validity). PRO change scores were mapped to change in other variables (sensitivity to change). Results: Most correlations between PROs and validity indicators were large (≥0.5). Mean score for Satisfaction with Breast Cosmetic Outcomes was higher (better) for those with a lumpectomy compared with those with a mastectomy (P < .001). Mean scores for the FACT-B Trial Outcome Index and for PROMIS Fatigue and Ability to Participate in Social Roles and Activities were 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 3 
+
+Author Manuscript 
+
+better for those with good baseline performance status compared with those with poorer baseline performance status (P < .05). At completion of RT and post-RT, mean scores for Satisfaction with Breast Cosmetic Outcomes and BREAST-Q Radiation were significantly different (P < .001) across categories for all Functional Assessment of Chronic Illness Therapy -Treatment Satisfaction − General items. There were medium-sized correlations between change scores for FACT-B Trial Outcome Index, Fatigue, Anxiety, and Ability to Participate in Social Roles and change scores in the Visual Analog Scale. Conclusions: For patients with nonmetastatic breast cancer receiving radiation in the RadComp PRCT, our findings demonstrate high reliability and validity for important PRO measures, supporting their psychometric strength and usefulness to reflect the effect of RT on health-related quality of life. 
+
+Author Manuscript 
+
+Introduction Longitudinal assessment of patient-reported outcomes (PROs), including health-related quality of life (HRQL), is important to understanding patients’ treatment experiences, unmet needs, and therapeutic outcomes. Treatment side effects can adversely affect multiple domains of HRQL.1 This effect can be long-lasting after initial treatment. HRQL is essential to consider in the treatment decision-making process and must be assessed by both patients and provider(s). 
+
+Author Manuscript 
+
+Radiation therapy (RT) has been shown to have an effect on HRQL in women with breast cancer, and other radiation treatment side effects have also been shown to negatively affect HRQL during and after RT. In 1 study, breast reconstructive surgery plus RT was associated with worse HRQL compared with surgery alone.2 Among 633 patients followed for more than 3 years, those who received radiation reported lower psychosocial, physical, and sexual well-being, as well as less satisfaction with breast cosmesis and overall outcome. Study results indicated a negative effect of RT on participant satisfaction with their breast after reconstruction.2 These results are important, as body image has been associated with worse HRQL and increased rates of depression.3 Moreover, radiation fractionation is associated with differing profiles of HRQL impairment.4 
+
+Author Manuscript 
+
+The Pragmatic Randomized Trial of Proton Versus Photon Therapy for Patients With Non-Metastatic Breast Cancer: A Radiotherapy Comparative Effectiveness (RadComp) Consortium Trial (NCT02603341)5 is a large scale, multicenter pragmatic randomized clinical trial following patients longitudinally for cardiovascular morbidity and mortality, HRQL, and cancer control outcomes. Because HRQL is an important factor in patient experience and is affected by RT, a secondary aim of RadComp is to assess the effectiveness of proton versus photon therapy in improving physical, mental, and social HRQL; specifically, body image and function in breast cancer, and fatigue, anxiety, social roles, general HRQL, side effects burden, and satisfaction. However, despite the use of PRO measures to evaluate HRQL for patients with cancer generally and breast cancer specifically, there has been limited research to assess the reliability and validity6–9 of PRO measures for subpopulations of patients receiving various cancer treatments. The ability of a measure to capture the burden of disease or treatment Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 4 
+
+Author Manuscript 
+
+relies on the psychometric strength of its performance in the target population.6–8 Reliability refers to the extent to which a scale or measure yields reproducible and consistent results. Validity refers to the extent to which the scale or measure reflects what it is intended to measure (rather than something else). Limited research on the reliability and validity of PRO measures is a particular gap for patients with breast cancer who require more extensive treatment to the breast/chest wall and comprehensive nodal irradiation after lumpectomy or mastectomy. This is estimated to include about a third of breast cancer cases diagnosed annually, or roughly 88,000 individuals of the 268,000 individuals diagnosed with invasive breast cancer in 2019. Comprehensive regional or nodal irradiation involves the treatment of those lymph node basins at risk for breast cancer spread, including the axillary nodes (underneath the armpit), the supraclavicular nodes (above the clavicle), and the internal mammary lymph nodes (lateral to the sternum in the first 3 intercostal spaces). 
+
+Author Manuscript 
+
+The purpose of this present analysis was to evaluate the measurement properties7,10 of several PRO measures using data drawn from the ongoing RadComp trial to contribute to the larger HRQL literature and lay the foundation for subsequent forthcoming comparative studies of proton and photon therapy in RadComp and for future studies. 
+
+Methods and Materials Ethics approval was obtained from the University of Pennsylvania Perelman School of Medicine institutional review board and the institutional review boards or research ethics boards of 32 participating United States (US) institutions. Sample 
+
+Author Manuscript 
+
+Beginning in April 2016, adult patients (age ≥21 years) with nonmetastatic breast cancer were enrolled on the RadComp clinical trial at multiple sites in the US.5 RadComp eligibility criteria are defined broadly to maximize generalizability of results (Table E1). Participants are enrolled after undergoing surgery (lumpectomy or mastectomy) with or without chemotherapy (neoadjuvant or adjuvant) and before starting RT. Participants are randomly assigned to receive either photon or proton therapy to a radiation dose of 45.0 Gy relative biological effectiveness (RBE) to 50.4 Gy(RBE) in 1.8 to 2.0 Gy(RBE) fractions with or without a tumor bed boost. All participants receive breast/chest wall and comprehensive nodal RT, including internal mammary node treatment. The trial was approved by central and, as necessary, local institutional review boards. Participants provided written informed consent. This secondary analysis is a deidentified and blinded sample of English-speaking female participants who completed their 6-month post-treatment HRQL assessment as of January 3, 2022. Only English-speaking female participants were included in this analysis because there were so few Spanish-speaking only or male participants in the trial. 
+
+Author Manuscript 
+
+Procedures Details of the trial design, outcomes, and treatment procedures for each arm have previously been reported.5 Participants completed a set of PRO instruments by self-administration on paper or through an online portal before starting RT (baseline), at the completion of RT, 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 5 
+
+Author Manuscript 
+
+and 6 months postcompletion of RT. Sociodemographic and clinical data were collected by study coordinators via in-person/telephone interviews and from medical records. Reasons for missing PRO instruments were documented by study coordinators for each timepoint. PRO measures 
+
+Author Manuscript Author Manuscript 
+
+This analysis evaluated the measurement properties of 11 PRO measures that were selected as HRQL endpoints for the trial; a list of additional PRO measures in the trial is available from the authors. (1) The Functional Assessment of Cancer Therapy-Breast plus 6 additional items targeting lymphedema (FACT-B+6)11,12 includes 44 items assessing multiple HRQOL domains. Thirty of these items were combined to form a Trial Outcome Index (TOI) capturing physical and functional well-being, breast cancer-specific concerns, arm mobility, pain, and swelling. Higher scores (range, 0–120) represent better HRQL. (2) Satisfaction with Breast Cosmetic Outcomes is a 6-item scale that provides a brief assessment of patientreported cosmetic outcomes after breast cancer treatment.13 Higher scores (range, 1–5) represent more satisfaction. (3) The BREAST-Q measures the patient’s perspective on the effect of breast surgery.14 A 5-item subscale to assess adverse effects of RT was used in this trial. Higher scores (range, 0–100) represent less bother. (4) The 4-item Patient-Reported Outcomes Measurement Information System (PROMIS) Fatigue short form assesses patient perceptions of fatigue and its consequences.15–17 PROMIS scores are reported as T-scores (mean = 50, SD = 10), standardized to the US general population; higher scores represent more fatigue. (5) The 4-item PROMIS Anxiety short form assesses self-reported fearfulness, anxious worry, and tension.18,19 PROMIS scores are reported as T-scores (mean = 50, SD = 10), with higher scores representing more anxiety. (6) The 4-item PROMIS Ability to Participate in Social Roles and Activities short form assesses participation in activities with others and carrying out one’s usual roles and responsibilities; higher T-scores (mean = 50, SD = 10) represent better social participation.20 (7–11) Two items evaluating the severity of, and interference with, daily activities caused by shortness of breath were captured using the Patient-Reported Outcomes version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE) measurement system, which was developed by the National Cancer Institute to permit patient self-reporting of symptomatic adverse events in cancer clinical trials.21 With the developers’ permission, 3 items were created to evaluate in the past 7 days the frequency, severity, and the degree of interference associated with chest pain, chest tightness, or angina. For this trial using the PRO-CTCAE format, PROs were measured at all 3 timepoints except for BREAST-Q, which was only measured at 2 timepoints (completion of RT and 6 months postcompletion of RT). Validity anchor indicators 
+
+Author Manuscript 
+
+Ten variables were identified as validity anchors (variables that categorize patients into clinically distinct groups) based on recommended methods including a literature review, clinical judgment, and conceptual relatedness.7 (1) The Visual Analog Scale (VAS) from the EQ-5D-5L is a measure of the patient’s current health state, ranging from 0 (worst imaginable health) to 100 (best imaginable health).22 The VAS was used as the anchor for validity analyses for these outcomes: Trial Outcome Index, Fatigue, Anxiety, and Ability to Participate. (2) Productivity assesses the extent that a patient was able to resume normal activities inside and outside the home, and at work, if employed, using an 11-category Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 6 
+
+Author Manuscript Author Manuscript 
+
+scale ranging from 0% to 100%.23 Productivity was used for validity analyses for the PRO-CTCAE items. (3) The 2 types of surgical procedures for breast cancer are classified as breast-conserving (lumpectomy) or radical (mastectomy). Surgery type was used for validity analyses for Satisfaction with Breast Cosmetic Outcomes. (4) Zubrod Performance Status is a clinician-rated estimate of the patient’s ability to perform activities of daily living without the help of others, ranging from 0 (fully functional and asymptomatic) to 4 (bedridden).24 Performance status was used for validity analyses for these outcomes: Trial Outcome Index, Fatigue, Anxiety, Ability to Participate, and PRO-CTCAE. (5–10) The Functional Assessment of Chronic Illness Therapy -Treatment Satisfaction − General (FACIT-TS-G) measures general satisfaction with treatment.25 Six of its 8 items were used in this trial. The FACIT-TS-G was used for validity analyses for these outcomes: Satisfaction with Breast Cosmetic Outcomes and BREAST-Q. VAS and productivity were measured at all 3 timepoints, surgical procedure and performance status were measured only at baseline, and FACIT-TS-G was measured at 2 timepoints (completion of RT and 6-months postcompletion of RT). Statistical methods 
+
+Author Manuscript Author Manuscript 
+
+All PROs were scored according to published guidelines. Cronbach’s coefficient a was used to estimate internal consistency reliability for multi-item aggregated scales (an indicator of how well items in a multi-item scale measure the same thing); values ≥0.70 are considered the standard for group-level applications, and values ≥0.90 are considered the standard for individual-level applications.6 Pearson or Spearman correlations were calculated between the PROs and indicators of convergent validity (the extent to which the measure was associated with measures of similar traits). Cohen’s guidelines were used to interpret the strength of the correlations: 0.1 is small, 0.3 is medium, and 0.5 is large.26 For known-groups validity analyses (how well the measure distinguished between groups that are expected to differ), mean score differences between clinically distinct categories were compared with analysis of variance methods. The Tukey-Kramer method was used to adjust P values for pairwise comparisons when there were more than 2 groups to be compared, and the overall P value was < .05.27,28 To evaluate PRO measures’ sensitivity to change (responsiveness), PRO change scores were mapped to change in other variables.29 Two sets of change scores were calculated: the difference between baseline and completion of RT and the difference between completion of RT and 6- months postcompletion of RT. Three independent groups were formed for change in productivity (better, no change, worse), that is, an increase (or decrease) of at least 1 category was considered better (or worse). When we encountered missingness in scoring multi-item scales, developer’s guidelines were used (eg, assign mean of completed items as score for missing items). We also used pairwise deletion, also known as “available case analysis,” in separate analyses to handle missing data. Two-sided significance levels were reported for statistical tests, with a nominal P < .05. All analyses were implemented with SAS/STAT software, version 9.4, of the SAS System for Windows.30 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 7 
+
+Author Manuscript 
+
+Results Participant characteristics and PROs Table 1 summarizes sociodemographic and clinical characteristics of the 774 female participants included in this report; there were no missing data for these characteristics. Participant mean age was 52 years. A majority of respondents had undergone mastectomy (70%) and were non-Hispanic White (65%). In addition, 67% reported a normal activity level, and 82% reported 2 or fewer cardiovascular risk factors. 
+
+Author Manuscript 
+
+Descriptive statistics for the PRO outcome measures at each timepoint are summarized in Table 2. In terms of missing data, a larger proportion of participants did not complete PRO measures at the completion of RT, compared with the respondent proportions at baseline and 6- months postcompletion of RT. Only 25 to 32 participants declined to complete measures at the end of RT; the remaining reasons for missing data are considered uninformative.31 For example, participant unable to be contacted, administrative error, or unknown. Internal consistency reliability estimates for the Functional Assessment of Cancer Therapy Trial Outcome Index (FACT-TOI) were 0.88, 0.88, and 0.89 at baseline, end of RT, and post-RT; 0.91, 0.90, and 0.92 for Satisfaction with Breast Cosmetic Outcomes; and 0.84 and 0.79 for BREAST-Q at the end of RT and post-RT. Correlations between the PROs and 2 indicators of convergent validity (VAS and productivity) are shown in Table 3. Most correlations with the VAS were large (≥0.5). Correlations between the PRO-CTCAE items and productivity were small to medium. 
+
+Author Manuscript 
+
+Known-groups validity analyses at baseline are shown in Table 4. The mean score for Satisfaction with Breast Cosmetic Outcomes was higher (better) for those with a lumpectomy compared with those with a mastectomy (P < .001). The mean scores for the FACT-B Trial Outcome Index and for PROMIS Fatigue and Ability to Participate in Social Roles and Activities were better for those with good baseline performance status (normal activity) compared with those with poorer baseline performance status (symptomatic and ambulatory; P < .05). Three chest pain PRO-CTCAE-like items did not differ by performance status, and 2 shortness of breath items showed small differences. Known-groups validity analyses postbaseline are shown in Table 5. At both timepoints (completion of RT and 6-months after completion of RT), mean scores for Satisfaction with Breast Cosmetic Outcomes and BREAST-Q Radiation were significantly different (P < .001) across categories for all FACIT-TS-G items. Mean scores also exhibited an ordinal pattern, that is, mean scores increased (improved) as FACIT-TS-G item responses improved. 
+
+Author Manuscript 
+
+Sensitivity to change (responsiveness) analyses are shown in Tables 6, 7 and 8. Mediumsized correlations were observed between change scores for FACT-B Trial Outcome Index, Fatigue, Anxiety, and Ability to Participate in Social Roles and Activities and change scores in the VAS at both timepoints, and correlations were in the expected directions; for example, improvement in the FACT-B-TOI was positively associated with improvement in the VAS, and increased (worsened) fatigue was negatively associated with improvement in the VAS (Table 6). Small correlations were observed between change scores for Satisfaction with 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 8 
+
+Author Manuscript 
+
+Breast Cosmetic Outcomes and BREAST-Q Radiation and change scores in FACIT-TS-G items (Table 7). Mean change scores for the FACT-B Trial Outcome Index differed in the expected direction across change in productivity (P < .001), that is, persons with improved (better) productivity also had improved FACT-B TOI, and those with decreased (worse) productivity had lower (worse) FACT-B TOI (Table 8). 
+
+Discussion 
+
+Author Manuscript 
+
+Among female participants with nonmetastatic breast cancer receiving breast or chest wall plus comprehensive nodal irradiation in the RadComp trial, there was convincing evidence for the reliability and validity of 6 PRO measures covering HRQL endpoints such as the FACT-B TOI (physical and functional well-being, breast cancer-specific concerns), body image and function, fatigue, anxiety, and ability to participate in social roles. Five single PRO-CTCAE or PRO-CTCAE-like symptom items assessing shortness of breath and chest pain, tightness, or angina showed mixed validity results. Because this is the first time these PRO-CTCAE-like items have been used, additional research will be needed. 
+
+Author Manuscript 
+
+The hallmark of a questionnaire’s validity is that it measures what it intends to measure. Validity accrues over time and experience with different populations. The PRO instruments we evaluated here performed as predicted when referenced to the preselected anchors. These findings are therefore consistent with prior validity evidence and extend that evidence to populations with breast cancer, including patients receiving radiation and specifically undergoing comprehensive nodal irradiation (all participants in the RadComp trial receive comprehensive nodal irradiation). Among general populations with breast cancer, the FACTB has been shown to be a reliable and valid measure of HRQL. A 2015 study compared the FACT-B to another commonly used measure of quality of life for those with breast cancer, the European Organization for Research and Treatment of Cancer (EORTC) quality of life questionnaire (QLQ)-BR23,32 and found that while differently organized, they were similarly effective in assessing breast cancer-specific HRQL.33 The FACT-B is relevant for clinical samples and was recently used in a prospective observational study to assess HRQL for patients engaged in early RT treatment of breast cancer.34 The current findings in the RadComp trial extend the strength of the FACT-B to patients receiving breast or chest wall plus comprehensive nodal irradiation by showing that the FACT-B Trial Outcome Index met standards for good internal consistency reliability, demonstrated large correlations with convergent validity indicators (VAS and productivity), was associated with performance status (known groups validity), and demonstrated sensitivity to change in the VAS and productivity measures. 
+
+Author Manuscript 
+
+A previous study with the Satisfaction with Breast Cosmetic Outcomes measure showed that satisfaction was slightly lower (worse) in patients receiving mastectomy alone than in those who received breast conservation.13 Results from the RadComp trial showed similar findings, with lower scores for those with a mastectomy compared with those with a lumpectomy (known groups validity). RadComp trial findings also demonstrated that the satisfaction measure was associated with FACIT-TS-G treatment satisfaction at completion of RT and 6 months later (known groups validity). Change scores in the satisfaction measure and the FACIT-TS-G showed small positive correlations (<0.22; sensitivity to change). 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 9 
+
+Author Manuscript 
+
+Overall, these findings support the use of the satisfaction measure in women postsurgery and chemotherapy. 
+
+Author Manuscript 
+
+In prior studies, the BREAST-Q demonstrated reliability and validity among patients undergoing breast cancer surgery and other treatments.35,36 Results from the RadComp trial demonstrated that the BREAST-Q was associated with FACIT-TS-G treatment satisfaction at completion of RT and 6 months later (known groups validity). Change scores in the BREAST-Q and the FACIT-TS-G showed small positive correlations (<0.25; sensitivity to change). This research extends the strength of the BREAST-Q for patients receiving breast or chest wall plus comprehensive nodal irradiation. Assessing physical, mental, and social well-being has important clinical and scientific implications for patients with cancer. Three generic measures from PROMIS18 were used in the RadComp trial: fatigue, anxiety, and ability to participate in social roles and activities.37 Fatigue is defined as an overwhelming, debilitating, and sustained sense of exhaustion that decreases one’s ability to carry out daily activities, including the ability to work effectively and to function at one’s usual level in family or social roles.38 Anxiety is a common concern among patients with cancer39 and is meaningful for patients undergoing RT. A recent study demonstrated the validity of several PROMIS measures, including fatigue and anxiety, among a diverse community-based sample of individuals with cancer.40 Fatigue and anxiety PROMIS measures also demonstrated strong ecological validity among patients with breast cancer who were undergoing chemotherapy.41 Social health has historically been a relatively neglected domain because of the lack of objective measures for clinical populations as well as debate as to how best to define and measure it.37 
+
+Author Manuscript 
+
+The current findings in the RadComp trial extend the strength of the generic PROMIS measures to patients receiving breast or chest wall plus comprehensive nodal irradiation by showing that PROMIS fatigue, anxiety, and ability to participate in social roles and activities met standards for good internal consistency, reliability, and demonstrated validity in most analyses. All 3 PROMIS measures had large correlations with the VAS (convergent validity). Fatigue and ability to participate in social roles and activities were associated with performance status (known groups validity) and demonstrated sensitivity to change in the VAS. Results for anxiety showed small associations with performance status and change in the VAS. PROMIS measures could be useful for patients with cancer, their caregivers, and their clinicians to interpret the meaning of their PROMIS scores in relation to the general population, that is, PROMIS may help to monitor a return to normalcy in everyday life. 
+
+Author Manuscript 
+
+The PRO-CTCAE item library consists of 78 symptomatic adverse events represented by 124 distinct items.21 In a validation study among adults with cancer who were undergoing radiation, chemotherapy, or both, PRO-CTCAE items demonstrated generally acceptable measurement properties, including convergent validity, known groups validity, test-rest reliability, and responsiveness.42 There was content validity for 78 symptomatic toxicity items among a sample of patients undergoing radiation treatment for various types of cancer, with approximately one-third of the sample receiving radiation to the breast region.43 For the RadComp trial, 3 new items were developed to evaluate the frequency, severity, and interference caused by chest pain, chest tightness, or angina. Correlations between the PRO-CTCAE items for shortness of breath and the PRO-CTCAE-like items evaluating chest 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 10 
+
+Author Manuscript 
+
+pain and productivity were small to medium (convergent validity). Scores on these 3 chest pain PRO-CTCAE-like items did not differ by performance status, while the 2 shortness of breath items from the PRO-CTCAE item library demonstrated small differences (known groups validity). Indicators to assess sensitivity to change were not available for this study. 
+
+Author Manuscript 
+
+Reliability and validity are essential aspects of the measurement properties of a PRO measure; the more evidence about the psychometric strength of an instrument, the greater confidence clinicians and researchers can have in the interpretability of these measures as reflections of the burden of disease and treatment experiences of a specific patient population. Overall, in this study of women with nonmetastatic breast cancer undergoing breast or chest wall plus comprehensive nodal irradiation, results demonstrated evidence for the reliability and validity of 6 PRO measures (FACT-B TOI, Satisfaction with Breast Cosmetic Outcomes, BREAST-Q Radiation module, PROMIS Fatigue, PROMIS Anxiety, and PROMIS Ability to Participate in Social Roles). Five PRO-CTCAE items assessing shortness of breath and chest pain showed mixed validity results. Thus, additional research will be needed to verify the validity of these measures. It is important to note that validity is not a property of a measure itself, but rather a process of evaluating evidence for the intended interpretation of instrument scores and their relevance for a particular population.44,45 In this population, strong relationships were demonstrated between validity indicators and most PRO measures. 
+
+Author Manuscript 
+
+The primary limitation of this report is that it was a secondary analysis of a sample of English-speaking participants enrolled in an ongoing clinical trial, that is, the study was not designed specifically to validate the PRO instruments. Thus, the available validity anchors were somewhat limited. Additional research is needed to establish minimally important differences to help investigators and clinicians interpret PRO data to use for estimating sample size or power for future studies. Additional research is also needed to validate the PRO instruments in people who speak languages other than English. In conclusion, among female patients with nonmetastatic breast cancer receiving breast or chest wall plus comprehensive nodal irradiation in the RadComp pragmatic randomized clinical trial, findings demonstrate high reliability and validity for important PRO measures, supporting their psychometric strength and usefulness to reflect the effect of radiation treatment on HRQL and supporting future RadComp and other comparative analyses of proton and photon therapy for breast cancer. 
+
+Supplementary Material Author Manuscript 
+
+Refer to Web version on PubMed Central for supplementary material. 
+
+Acknowledgments— The authors thank Heather Badt, MBA, LSS, Cynthia Chauhan, MSW, Ivis Febus, C. Daniel Mullins, PhD, Shelley Fuld-Nasso, MPP, Sharon Rivera-Sanchez, and Kim Wright for their contributions to the study. The authors wish to recognize our deceased contributors Minnie Reddy and Ellen L. Stovall. Research reported in this publication was supported by The Patient-Centered Outcomes Research Institute (PCORI) under award number PCS-1403-12804, National Cancer Institute, of the National Institutes of Health under award number PHR-SS-S-16-004996, The David and Leslie Clarke Outcomes Research Fund at the Raymond and 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 11 
+
+Author Manuscript 
+
+Ruth Perelman School of Medicine of the University of Pennsylvania, The Gant Family Foundation Fund at the Raymond and Ruth Perelman School of Medicine of the University of Pennsylvania, Alan and Louise Reed Cancer Outcomes Research Fund at the Raymond and Ruth Perelman School of Medicine of the University of Pennsylvania. E.F.G. reports grant NCI K08 CA252640. 
+
+Data Sharing Statement: Research data are not available at this time. 
+
+References 
+
+Author Manuscript Author Manuscript Author Manuscript 
+
+1. Luutonen S, Vahlberg T, Eloranta S, Hyväri H, Salminen E. Breast cancer patients receiving postoperative radiotherapy: Distress, depressive symptoms and unmet needs of psychosocial support. Radiother Oncol 2011;100:299–303. [PubMed: 21316782] 2. Albornoz CR, Matros E, McCarthy CM, et al. Implant breast reconstruction and radiation: A multicenter analysis of long-term health-related quality of life and satisfaction. Ann Surg Oncol 2014;21:2159–2164. [PubMed: 24740825] 3. Begovic-Juhant A, Chmielewski A, Iwuagwu S, Chapman LA. Impact of body image on depression and quality of life among women with breast cancer. J Psychosoc Oncol 2012;30:446–460. [PubMed: 22747107] 4. Arsenault J, Parpia S, Goldberg M, et al. Acute toxicity and quality of life of hypofractionated radiation therapy for breast cancer. Int J Radiat Oncol Biol Phys 2020;107:943–948. [PubMed: 32334033] 5. Bekelman JE, Lu H, Pugh S, et al. Pragmatic randomised clinical trial of proton versus photon therapy for patients with non-metastatic breast cancer: the Radiotherapy Comparative Effectiveness (RadComp) Consortium trial protocol. BMJ Open 2019;9(10):e025556. 6. Nunnally JC, Bernstein IH. Psychometric Theory. McGraw-Hill, Inc; 1994. 7. Lohr KN. Assessing health status and quality-of-life instruments: Attributes and review criteria. Qual Life Res 2002;11:193–205. [PubMed: 12074258] 8. Fayers PM, Machin D. Quality of Life: The Assessment, Analysis and Interpretation of PatientReported Outcomes. 2nd ed. John Wiley & Sons; 2007. 9. Frost MH, Reeve BB, Liepa AM, Stauffer JW, Hays RD. What is sufficient evidence for the reliability and validity of patient-reported outcome measures? Value Health 2007;10(Suppl 2):S94– S105. [PubMed: 17995479] 10. Borneman M, Salkind N. Criterion validity. Encyclopedia of Research Design. SAGE Publications, Inc; 2012:292–296. 11. Brady MJ, Cella DF, Mo F, et al. Reliability and validity of the Functional Assessment of Cancer Therapy-Breast quality-of-life instrument. J Clin Oncol 1997;15:974–986. [PubMed: 9060536] 12. Coster S, Poole K, Fallowfield LJ. The validation of a quality of life scale to assess the impact of arm morbidity in breast cancer patients post-operatively. Breast Cancer Res Treat 2001;68:273– 282. [PubMed: 11727963] 13. Jagsi R, Li Y, Morrow M, et al. Patient-reported quality of life and satisfaction with cosmetic outcomes after breast conservation and mastectomy with and without reconstruction: Results of a survey of breast cancer survivors. Annal Surg 2015;261:1198–1206. 14. Pusic AL, Klassen AF, Scott AM, Klok JA, Cordeiro PG, Cano SJ. Development of a new patient-reported outcome measure for breast surgery: The BREAST-Q. Plast Reconstr Surg 2009;124:345–353. [PubMed: 19644246] 15. Garcia SF, Cella D, Clauser SB, et al. Standardizing patient-reported outcomes assessment in cancer clinical trials: A patient-reported outcomes measurement information system initiative. J Clin Oncol 2007;25:5106–5112. [PubMed: 17991929] 16. Lai JS, Cella D, Choi SW, et al. How item banks and their application can influence measurement practice in rehabilitation medicine: A PROMIS fatigue item bank example. Arch Phys Med Rehabil 2011;92 (10 Supplement):S20–S27. [PubMed: 21958919] Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 12 
+
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript 
+
+17. Hays RD, Spritzer KL, Schalet BD, Cella D. PROMIS®−29 v2.0 profile physical and mental health summary scores. Qual Life Res 2018;27:1885–1891. [PubMed: 29569016] 18. Cella D, Riley W, Stone A, et al. The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005–2008. J Clin Epidemiol 2010;63:1179–1194. [PubMed: 20685078] 19. Pilkonis PA, Choi SW, Reise SP, Stover AM, Riley WT, Cella D. Item banks for measuring emotional distress from the Patient-Reported Outcomes Measurement Information System (PROMIS): Depression, anxiety, and anger. Assessment 2011;18:263–283. [PubMed: 21697139] 20. Hahn EA, DeWalt DA, Bode RK, et al. New English and Spanish social health measures will facilitate evaluating health determinants. Health Psychol 2014;33:490–499. [PubMed: 24447188] 21. Basch E, Reeve BB, Mitchell SA, et al. Development of the National Cancer Institute’s patientreported outcomes version of the common terminology criteria for adverse events (PRO-CTCAE). J Natl Cancer Inst 2014;106:dju244. [PubMed: 25265940] 22. Herdman M, Gudex C, Lloyd A, et al. Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L). Qual Life Res 2011;20:1727–1736. [PubMed: 21479777] 23. Kornblith AB, Huang HQ, Walker JL, Spirtos NM, Rotmensch J, Cella D. Quality of life of patients with endometrial cancer undergoing laparoscopic international federation of gynecology and obstetrics staging compared with laparotomy: A Gynecologic Oncology Group study. J Clin Oncol 2009;27:5337–5342. [PubMed: 19805678] 24. Zubrod C, Schneiderman M, Frei III E, et al. Appraisal of methods for the study of chemotherapy of cancer in man: Comparative therapeutic trial of nitrogen mustard and triethylene. J Chronic Dis 1960;11:7–33. 25. Peipert J, Beaumont J, Bode R, Cella D, Garcia S, Hahn E. Development and validation of the functional assessment of chronic illness therapy treatment satisfaction (FACIT TS) measures. Qual Life Res 2014;23:815–824. [PubMed: 24062239] 26. Cohen J Statistical Power Analysis for the Behavioral Sciences. 2nd ed. L. Erlbaum Associates; 1988. 27. Benjamini Y, Braun H, John W. Tukey’s contributions to multiple comparisons. Ann Stat 2002;30(6):1576–1594. 28. Kramer CY. Extension of multiple range tests to group means with unequal numbers of replications. Biometrics 1956;12:307–310. 29. Cella D, Bullinger M, Scott C, et al. Group versus individual approaches to understanding the clinical significance of differences or changes in quality of life. Mayo Clin Proc 2002;77:384–392. [PubMed: 11936936] 30. The SAS System for Windows 9.4. SAS Institute Inc; 2013. 31. Little RJA, Rubin DB. Statistical Analysis with Missing Data. John Wiley & Sons, Inc; 2002. 32. Sprangers MA, Groenvold M, Arraras JI, et al. The European Organization for Research and Treatment of Cancer breast cancer-specific quality-of-life questionnaire module: First results from a three-country field study. J Clin Oncol 1996;14:2756–2768. [PubMed: 8874337] 33. Nguyen J, Popovic M, Chow E, et al. EORTC QLQ-BR23 and FACT-B for the assessment of quality of life in patients with breast cancer: A literature review. J Comp Eff Res 2015;4:157–166. [PubMed: 25825844] 34. Ursini LA, Nuzzo M, Rosa C, et al. Quality of life in early breast cancer patients: A prospective observational study using the FACT-B questionnaire. In Vivo 2021;35:1821–1828. [PubMed: 33910868] 35. Cano SJ, Klassen AF, Scott AM, Cordeiro PG, Pusic AL. The BREAST-Q: Further validation in independent clinical samples. Plast Reconstr Surg 2012;129:293–302. [PubMed: 22286412] 36. Fuzesi S, Cano SJ, Klassen AF, Atisha D, Pusic AL. Validation of the electronic version of the BREAST-Q in the army of women study. Breast 2017;33:44–49. [PubMed: 28279888] 37. Hahn EA, Cella D, Bode RK, Hanrahan RT. Measuring social well-being in people with chronic illness. Soc Indic Res 2010;96:381–401. 38. Stewart AL, Hays R, Ware JE. Health perceptions, energy/fatigue, and health distress measures. In: Stewart AL, Ware JE, eds. Measuring Functioning and Well-Being: The Medical Outcomes Study Approach. Duke University Press; 1992:143–172. Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 13 
+
+Author Manuscript Author Manuscript 
+
+39. Reeve BB, Mitchell SA, Dueck AC, et al. Recommended patient-reported core set of symptoms to measure in adult cancer treatment trials. J Natl Cancer Inst 2014;106:1–8. 40. Jensen RE, Moinpour CM, Keegan THM, et al. The Measuring Your Health study: Leveraging community-based cancer registry recruitment to establish a large, diverse cohort of cancer survivors. Psychol Test Assess Model 2016;58:99–117. 41. Stone AA, Broderick JE, Junghaenel DU, Schneider S, Schwartz JE. PROMIS fatigue, pain intensity, pain interference, pain behavior, physical function, depression, anxiety, and anger scales demonstrate ecological validity. J Clin Epidemiol 2016;74:194–206. [PubMed: 26628334] 42. Dueck AC, Mendoza TR, Mitchell SA, et al. Validity and reliability of the US National Cancer Institute’s Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE). JAMA Oncol 2015;1:1051–1059. [PubMed: 26270597] 43. Sandler KA, Mitchell SA, Basch E, et al. Content validity of anatomic site-specific PatientReported Outcomes Version of the Common Terminology Criteria for Adverse Events (PROCTCAE) item sets for assessment of acute symptomatic toxicities in radiation oncology. Int J Radiat Oncol Biol Phys 2018;102:44–52. [PubMed: 30102201] 44. American Educational Research Association. Standards for Educational and Psychological Testing. American Educational Research Association; 2014. 45. Weinfurt KP. Constructing arguments for the interpretation and use of patient-reported outcome measures in research: An application of modern validity theory. Qual Life Res 2021;30:1715– 1722. [PubMed: 33630235] 
+
+Author Manuscript Author Manuscript Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 14 
+
+Table 1 
+
+Author Manuscript 
+
+Sociodemographic and clinical characteristics at baseline (n = 774) Sociodemographic characteristics Age in years, mean (SD) 
+
+51.5 (12.5) 
+
+Ethnicity, race Hispanic, any race 
+
+58 (8%) 
+
+Non-Hispanic, White 
+
+505 (65%) 
+
+Non-Hispanic, Black 
+
+75 (10%) 
+
+Non-Hispanic, Asian 
+
+57 (7%) 
+
+Unknown/other 
+
+79 (10%) 
+
+Clinical characteristics Surgical procedure and tumor laterality Lumpectomy: Left 
+
+153 (20%) 
+
+Author Manuscript 
+
+Lumpectomy: Right 
+
+76 (10%) 
+
+Mastectomy: Left 
+
+344 (44%) 
+
+Mastectomy: Right 
+
+201 (26%) 
+
+Zubrod Performance Status Normal activity (0) 
+
+520 (67%) 
+
+Symptomatic and ambulatory; cares for self (1) 
+
+249 (32%) 
+
+Ambulatory >50% of time; occasional assistance (2) 
+
+5 (1%) 
+
+Cardiovascular risk factors* 0–2 
+
+632 (82%) 
+
+>2 
+
+142 (18%) 
+
+Entries in the table represent the number of participants (percentage) unless otherwise specified. 
+
+Author Manuscript 
+
+* 
+
+Count of the following: history of coronary artery disease or myocardial infarction, atrial fibrillation/flutter, diabetes, hypertension, renal failure, hyperlipidemia, heart failure, cardiomyopathy, smoking (current/former), prior contralateral left breast or chest wall radiation, prior anthracycline therapy, or prior trastuzumab therapy. 
+
+Author Manuscript Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Author Manuscript 
+
+Author Manuscript 3.3 (1.0) n = 747 
+
+Satisfaction With Breast Cosmetic Outcomes 
+
+52.1 (9.2) n = 760 50.0 (9.0) n = 756 
+
+PROMIS anxiety 
+
+PROMIS ability to participate in social roles and activities 
+
+4 (1%) 
+
+64 (9%) 10 (1%) 5 (1%) 
+
+Moderate 
+
+Severe 
+
+5 (1%) 
+
+38 (5%) 20 (3%) 4 (1%) 
+
+Somewhat 
+
+Quite a bit 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 548 (73%) 100 (13%) 73 (10%) 25 (3%) 
+
+Never 
+
+Rarely 
+
+Occasionally 
+
+Frequently 
+
+Frequency 
+
+PRO-CTCAE chest pain, chest tightness, or angina 
+
+Very much 
+
+13 (2%) 
+
+115 (16%) 
+
+27 (4%) 
+
+65 (11%) 
+
+113 (19%) 
+
+398 (66%) 
+
+25 (4%) 
+
+102 (17%) 
+
+551 (76%) 
+
+A little bit 
+
+451 (76%) 
+
+47 (8%) 
+
+Not at all 
+
+Interfere with usual activities 
+
+Very severe 
+
+6 (1%) 
+
+187 (25%) 
+
+151 (25%) 
+
+486 (65%) 
+
+Mild 
+
+397 (66%) 
+
+49.7 (8.8) n = 603 
+
+51.9 (9.2) n = 606 
+
+53.7 (9.9) n = 607 
+
+52.6 (29.3) n = 606 
+
+3.1 (1.0) n = 596 
+
+63.5 (14.6) n = 599 
+
+Completion of radiation therapy 
+
+None 
+
+Severity 
+
+PRO-CTCAE shortness of breath 
+
+50.3 (10.0) n = 752 
+
+PROMIS fatigue 
+
+— 
+
+65.8 (14.5) n = 760 
+
+FACT-B trial outcome index 
+
+BREAST-Q radiation module 
+
+Baseline 
+
+Patient-reported outcome measure 
+
+33 (4%) 
+
+102 (13%) 
+
+153 (20%) 
+
+465 (61%) 
+
+5 (1%) 
+
+26 (3%) 
+
+40 (5%) 
+
+139 (19%) 
+
+540 (72%) 
+
+6 (1%) 
+
+22 (3%) 
+
+74 (10%) 
+
+191 (25%) 
+
+471 (62%) 
+
+53.0 (9.1) n = 758 
+
+51.6 (9.3) n = 755 
+
+49.4 (10.6) n = 754 
+
+76.9 (23.0) n = 762 
+
+3.3 (1.0) n = 750 
+
+68.6 (14.4) n = 756 
+
+Six-months post completion of radiation therapy 
+
+Author Manuscript 
+
+Descriptive statistics for patient-reported outcome measures at each timepoint 
+
+Author Manuscript 
+
+Table 2 Hahn et al. Page 15 
+
+Author Manuscript 
+
+Almost constantly 
+
+Author Manuscript 4 (1%) 
+
+52 (7%) 14 (2%) 2 (1%) 
+
+Moderate 
+
+Severe 
+
+70 (10%) 26 (4%) 18 (2%) 5 (1%) 
+
+A little bit 
+
+Somewhat 
+
+Quite a bit 
+
+Very much 
+
+5 (1%) 
+
+13 (2%) 
+
+30 (5%) 
+
+75 (13%) 
+
+476 (79%) 
+
+58 (10%) 
+
+10 (1%) 
+
+16 (2%) 
+
+35 (5%) 
+
+112 (15%) 
+
+580 (77%) 
+
+6 (1%) 
+
+19 (3%) 
+
+78 (10%) 
+
+181 (24%) 
+
+470 (62%) 
+
+10 (1%) 
+
+Six-months post completion of radiation therapy 
+
+Abbreviations: FACT-B = Functional Assessment of Cancer Therapy-Breast; PRO-CTCAE = Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events; PROMIS = Patient-Reported Outcomes Measurement Information System. 
+
+— not applicable. Entries in table denote mean (SD) or n (%). For FACT-B, higher scores represent better health-related quality of life. For PROMIS, higher scores represent more of the outcome, eg, more fatigue, more anxiety, better ability. 
+
+607 (84%) 
+
+Not at all 
+
+Interfere with usual activities 
+
+Very severe 
+
+12 (2%) 
+
+129 (18%) 
+
+125 (21%) 
+
+528 (73%) 
+
+401 (67%) 
+
+4 (1%) 
+
+Mild 
+
+6 (1%) 
+
+None 
+
+Severity 
+
+Completion of radiation therapy 
+
+Author Manuscript 
+
+Baseline 
+
+Author Manuscript 
+
+Patient-reported outcome measure 
+
+Hahn et al. Page 16 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 17 
+
+Table 3 
+
+Author Manuscript 
+
+Correlations between PRO measures and validity indicators at baseline Validity indicator PRO measure 
+
+Author Manuscript 
+
+VAS 
+
+Productivity 
+
+FACT-B trial outcome index 
+
+0.641 P < .001 n= 73 
+
+0.613 P < .001 n = 755 
+
+PROMIS fatigue 
+
+−0.523 P < .001 n = 727 
+
+— 
+
+PROMIS anxiety 
+
+−0.408 P < .001 n = 734 
+
+— 
+
+PROMIS ability to participate in social roles and activities 
+
+0.593 P < .001 n = 730 
+
+— 
+
+PRO-CTCAE severity of shortness of breath at its worst 
+
+— 
+
+−0.191 P < .001 n = 751 
+
+PRO-CTCAE shortness of breath interferes with usual activities 
+
+— 
+
+−0.260 P < .001 n = 727 
+
+PRO-CTCAE frequency of chest pain, chest tightness, or angina 
+
+— 
+
+−0.199 P < .001 n = 751 
+
+PRO-CTCAE severity of chest pain, chest tightness, or angina at its worst 
+
+— 
+
+−0.210 P < .001 n = 724 
+
+PRO-CTCAE chest pain, chest tightness, or angina interferes with usual activities 
+
+— 
+
+−0.230 P < .001 n = 725 
+
+Author Manuscript 
+
+—: no associations between variables were expected or evaluated. For FACT-B, higher scores represent better health-related quality of life. For PROMIS, higher scores represent more of the outcome, eg, more fatigue, more anxiety, better ability. VAS ranges from 0 (worst imaginable health) to 100 (best imaginable health). Productivity represents a single item that assesses the extent that a patient was able to resume normal activities. 
+
+Abbreviations: FACT-B = Functional Assessment of Cancer Therapy-Breast; PRO = patient-reported outcome; PRO-CTCAE = Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events; PROMIS = Patient-Reported Outcomes Measurement Information System; VAS = Visual Analog Scale from the EQ-5D. 
+
+Author Manuscript Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Author Manuscript 
+
+Author Manuscript 
+
+Author Manuscript 49.7 (9.8) (n = 503) 51.9 (9.4) (n = 511) 50.8 (8.5) (n = 510) 
+
+PROMIS fatigue 
+
+PROMIS anxiety 
+
+PROMIS ability to participate in social roles and activities 
+
+Normal activity 66.9 (14.0) (n = 508) 
+
+10 (4%) 
+
+44 (9%) 5 (1%) 
+
+Moderate 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 76 (16%) 26 (5%) 9 (2%) 
+
+A little bit 
+
+Somewhat 
+
+Quite a bit, very much 
+
+373 (74%) 70 (14%) 43 (9%) 18 (4%) 
+
+Never 
+
+Rarely 
+
+Occasionally 
+
+Frequently, almost constantly 
+
+How often did you feel chest pain, chest tightness, or angina? 
+
+371 (77%) 
+
+Not at all 
+
+How much does your shortness of breath interfere with your usual or daily activities? 
+
+Severe, very severe 
+
+20 (8%) 
+
+141 (28%) 
+
+Mild 
+
+13 (5%) 
+
+30 (12%) 
+
+30 (12%) 
+
+175 (71%) 
+
+15 (6%) 
+
+12 (5%) 
+
+39 (16%) 
+
+180 (73%) 
+
+46 (18%) 
+
+313 (62%) 
+
+173 (69%) 
+
+48.1 (9.5) (n = 246) 
+
+52.5 (8.7) (n = 249) 
+
+51.6 (10.2) (n = 249) 
+
+63.5 (15.3) (n = 252) 
+
+Symptomatic and ambulatory 
+
+None 
+
+What was the severity of your shortness of breath at its worst? 
+
+PRO-CTCAE 
+
+3.1 (1.0) (n = 523) 
+
+Zubrod Performance Status 
+
+3.7 (0.9) (n = 224) 
+
+Mastectomy 
+
+Surgical procedure 
+
+Validity indicator 
+
+Lumpectomy 
+
+FACT-B trial outcome index 
+
+Satisfaction With Breast Cosmetic Outcomes 
+
+PRO measure 
+
+Known groups validity at baseline: Associations between PRO measures and validity indicators 
+
+.264 
+
+.026 
+
+.002 
+
+<.001 
+
+.400 
+
+.018 
+
+.002 
+
+<.001 
+
+P value 
+
+Author Manuscript 
+
+Table 4 Hahn et al. Page 18 
+
+Author Manuscript 
+
+Author Manuscript 86 (18%) 33 (7%) 8 (2%) 
+
+Moderate 
+
+Severe, very severe 
+
+45 (9%) 19 (4%) 13 (3%) 
+
+A little bit 
+
+Somewhat 
+
+Quite a bit, very much 
+
+10 (4%) 
+
+7 (3%) 
+
+25 (10%) 
+
+202 (83%) 
+
+8 (3%) 
+
+19 (8%) 
+
+43 (18%) 
+
+175 (71%) 
+
+.638 
+
+.539 
+
+P value 
+
+Abbreviations: FACT-B = Functional Assessment of Cancer Therapy-Breast; PRO = patient-reported outcome; PRO-CTCAE = Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events; PROMIS = Patient-Reported Outcomes Measurement Information System. 
+
+Entries in table denote mean (SD) or n (%). For Satisfaction With Breast Cosmetic Outcomes, higher scores (range, 1–5) represent more satisfaction. For FACT-B, higher scores represent better health-related quality of life. For PROMIS, higher scores represent more of the outcome, eg, more fatigue, more anxiety, better ability. 
+
+405 (84%) 
+
+Not at all 
+
+How much does your chest pain, chest tightness, or angina interfere with your usual daily activities? 
+
+353 (74%) 
+
+Mild 
+
+Mastectomy 
+
+Surgical procedure Lumpectomy 
+
+None 
+
+What was the severity of your chest pain, chest tightness, or angina at its worst? 
+
+Author Manuscript Validity indicator 
+
+Author Manuscript 
+
+PRO measure 
+
+Hahn et al. Page 19 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Author Manuscript 
+
+Author Manuscript 
+
+Author Manuscript P < .001 
+
+3.0 (1.0) n = 126 3.4 (1.0) n = 142 
+
+P < .001 
+
+A little better 
+
+A lot better 
+
+P < .001 
+
+3.1 (1.0) n = 125 3.2 (1.0) n = 135 3.5 (0.9) n = 131 
+
+P < .001 
+
+About the same 
+
+A little better 
+
+A lot better 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. P < .001 
+
+3.3 (1.0) n = 346 
+
+P < .001 
+
+Yes, completely 
+
+2.3 (1.0) n= 15 2.7 (0.9) n= 74 3.0 (0.9) n = 218 3.4 (1.0) n = 268 
+
+No, not at all 
+
+Yes, to some extent 
+
+Yes, for the most part 
+
+Yes, completely 
+
+Are you satisfied with the effects of this treatment so far? 
+
+3.5 (1.0) n = 465 
+
+3.0 (0.9) n = 183 
+
+Yes, for the most part 
+
+3.6 (1.0) n = 391 
+
+3.1 (1.0) n = 258 
+
+2.7 (1.0) n= 60 
+
+2.7 (0.9) n= 22 
+
+3.1 (1.0) n = 207 
+
+2.7 (1.0) n= 57 
+
+2.5 (1.0) n= 3 2.6 (0.9) n= 50 
+
+Yes, to some extent 
+
+2.4 (0.6) n= 8 
+
+3.3 (1.0) n = 142 
+
+3.3 (1.0) n = 161 
+
+No, not at all 
+
+Do you feel you received the treatment that was right for you? 
+
+3.7 (1.0) n = 231 
+
+2.9 (1.0) n = 133 
+
+A little worse 
+
+3.0 (1.0) n = 145 
+
+2.6 (1.0) n= 58 
+
+2.7 (1.0) n= 58 
+
+3.2 (1.0) n = 119 
+
+3.1 (1.0) n = 291 
+
+A lot worse 
+
+Compared with what you expected, how do you rate the side effects of treatment so far? 
+
+3.6 (1.0) n = 289 
+
+3.0 (1.0) n = 284 
+
+About the same 
+
+2.8 (0.9) n= 20 
+
+2.9 (0.8) n= 10 
+
+3.1 (1.1) n= 14 
+
+2.7 (1.1) n= 12 
+
+6 months after completion of RT 
+
+A little worse 
+
+Completion of RT 
+
+A lot worse 
+
+Compared with what you expected, how do you rate the effectiveness of the treatment so far? 
+
+FACIT-TS-G 
+
+61.2 (27.8) n = 271 
+
+50.7 (27.7) n = 227 
+
+35.7 (27.2) n= 74 
+
+20.0 (24.5) n= 15 
+
+P < .001 
+
+56.9 (28.5) n = 353 
+
+49.2 (29.3) n = 188 
+
+38.4 (29.0) n= 51 
+
+36.7 (35.1) n=3 
+
+P < .001 
+
+74.1 (23.4) n = 134 
+
+60.2 (25.8) n = 138 
+
+52.1 (26.1) n = 130 
+
+37.2 (25.4) n = 134 
+
+24.2 (21.8) n= 59 
+
+P < .001 
+
+61.8 (27.7) n = 146 
+
+54.4 (29.5) n = 129 
+
+49.3 (29.1) n = 287 
+
+39.0 (22.8) n= 10 
+
+20.8 (27.1) n= 12 
+
+84.2 (18.3) n = 398 
+
+72.5 (23.2) n = 262 
+
+60.4 (26.0) n= 60 
+
+50.8 (30.2) n= 21 
+
+P < .001 
+
+81.2 (20.3) n = 474 
+
+73.7 (23.5) n = 210 
+
+57.9 (27.6) n= 56 
+
+51.2 (34.4) n= 8 
+
+P < .001 
+
+85.9 (17.5) n = 236 
+
+79.1 (19.6) n = 145 
+
+76.7 (22.7) n = 163 
+
+68.1 (24.2) n = 147 
+
+57.3 (28.5) n= 58 
+
+P < .001 
+
+82.2 (20.2) n = 292 
+
+76.1 (21.6) n = 120 
+
+73.6 (24.2) n = 300 
+
+60.0 (25.8) n= 20 
+
+61.3 (32.4) n= 13 
+
+6 months after completion of RT 
+
+BREAST-Q Radiation Module 
+
+Completion of RT 
+
+PRO measure Satisfaction With Breast Cosmetic Outcomes 
+
+Known groups validity post-baseline: Associations between PRO measures and FACIT-TS-G 
+
+Author Manuscript 
+
+Table 5 Hahn et al. Page 20 
+
+Author Manuscript 
+
+Author Manuscript 3.4 (1.0) n = 553 
+
+P < .001 
+
+2.8 (1.0) n = 140 3.3 (1.0) n = 415 
+
+P < .001 
+
+Maybe 
+
+Yes 
+
+P < .001 
+
+57.4 (28.4) n = 425 
+
+41.8 (27.9) n = 142 
+
+40.9 (30.6) n= 29 
+
+P < .001 
+
+56.0 (28.6) n = 477 
+
+40.0 (28.9) n = 114 
+
+45.7 (31.0) n=7 
+
+P < .001 
+
+P < .001 
+
+81.0 (20.2) n = 561 
+
+67.7 (25.8) n = 150 
+
+53.1 (27.2) n= 36 
+
+P < .001 
+
+80.2 (20.7) n = 602 
+
+65.9 (26.9) n = 136 
+
+48.5 (27.0) n= 13 
+
+P < .001 
+
+BREAST-Q Radiation Module 
+
+Abbreviations: FACIT-TS-G = Functional Assessment of Chronic Illness Therapy -Treatment Satisfaction − General; PRO = patient-reported outcome; RT = radiation therapy. 
+
+Entries in table denote mean (SD). For Satisfaction With Breast Cosmetic outcomes, higher scores (range, 1–5) represent more satisfaction. For BREAST-Q Radiation Module, higher scores (range, 0–100) represent less bother. 
+
+3.1 (1.0) n = 147 
+
+2.7 (1.1) n= 28 
+
+No 
+
+2.6 (1.0) n= 37 
+
+P < .001 
+
+P < .001 
+
+Would you choose this treatment again? 
+
+3.4 (1.0) n = 591 
+
+3.2 (1.0) n = 467 
+
+Yes 
+
+3.0 (1.0) n = 136 
+
+2.5 (1.0) n= 13 
+
+P < .001 
+
+2.7 (0.9) n = 111 
+
+2.3 (1.3) n= 7 
+
+P < .001 
+
+Maybe 
+
+No 
+
+Would you recommend this treatment to others with your illness? 
+
+Author Manuscript Satisfaction With Breast Cosmetic Outcomes 
+
+Author Manuscript PRO measure 
+
+Hahn et al. Page 21 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Author Manuscript 
+
+Author Manuscript — 
+
+0.387 <.001 n = 550 0.450 <.001 n = 549 
+
+— 
+
+6 mo. completion of RT 
+
+— 
+
+−0.292 <.001 n = 560 
+
+Completion of RT - baseline 
+
+−0.335 <.001 n = 561 
+
+— 
+
+6 mo. completion of RT 
+
+PROMIS fatigue 
+
+— 
+
+0.172 <.001 n = 562 
+
+Completion of RT - baseline 
+
+−0.272 <.001 n = 561 
+
+— 
+
+6 mo. completion of RT 
+
+PROMIS anxiety 
+
+— 
+
+0.328 <.001 n = 554 
+
+Completion of RT baseline 
+
+0.309 <.001 n = 555 
+
+— 
+
+6 mo. - completion of RT 
+
+PROMIS ability to participate in social roles and activities 
+
+Abbreviations: FACT-B TOI = Functional Assessment of Cancer Therapy-Breast Trial Outcome Index; PRO = patient-reported outcome; PROMIS = Patient-Reported Outcomes Measurement Information System; RT = radiation therapy; VAS = Visual Analog Scale from the EQ-5D. 
+
+Entries in table denote Pearson correlation coefficient, P value, and sample size. —: not applicable. Completion of RT − baseline: Score at the completion of RT minus score at baseline. 6 mo. − completion of RT: Score at 6 months after the completion of RT minus score at the completion of RT. For FACT-B TOI, higher scores represent better health-related quality of life. For PROMIS, higher scores represent more of the outcome, eg, more fatigue, more anxiety, better ability. The VAS ranges from 0 (worst imaginable health) to 100 (best imaginable health). 
+
+VAS, 6 mo. − completion of RT 
+
+VAS, completion of RT − baseline 
+
+Completion of RT − baseline 
+
+FACT-B TOI 
+
+Author Manuscript 
+
+Correlations between change in PRO measures and change in VAS 
+
+Author Manuscript 
+
+Table 6 Hahn et al. Page 22 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Hahn et al. 
+
+Page 23 
+
+Table 7 
+
+Author Manuscript 
+
+Correlations between change in PRO measures and change in FACIT-TS-G 
+
+Author Manuscript 
+
+Satisfaction With Breast Cosmetic Outcomes 
+
+BREAST-Q Radiation Module 
+
+Effectiveness of treatment 
+
+0.115 .007 n = 557 
+
+0.019 .646 n = 568 
+
+Side effects of treatment 
+
+0.211 <.001 n = 566 
+
+0.242 <.001 n = 580 
+
+Received treatment that was right for you 
+
+0.103 .014 n = 567 
+
+0.159 <.001 n = 581 
+
+Satisfied with effects of Treatment 
+
+0.152 <.001 n = 555 
+
+0.203 <.001 n = 568 
+
+Recommend this treatment to others 
+
+0.037 .375 n = 570 
+
+0.124 .003 n = 584 
+
+Choose this treatment again 
+
+0.089 .035 n = 566 
+
+0.130 .002 n = 581 
+
+FACIT-TS-G 
+
+Entries in table denote Spearman correlation coefficient, P value, and sample size. 
+
+Abbreviations: FACIT-TS-G = Functional Assessment of Chronic Illness Therapy -Treatment Satisfaction − General; PRO = patient-reported outcome. 
+
+Author Manuscript Author Manuscript Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+Author Manuscript 
+
+Author Manuscript 
+
+−1.86 (0.86) 
+
+(n = 155) 
+
+0.82 (0.69) 
+
+(n = 247) 
+
+(n = 197) 
+
+−8.45 (0.76) 
+
+Worse 
+
+<.001 
+
+P value* 
+
+(n = 341) 
+
+9.47 (0.56) 
+
+Better 
+
+(n = 176) 
+
+2.94 (0.79) 
+
+Same 
+
+(n = 83) 
+
+−3.75 (1.14) 
+
+Worse 
+
+Overall P value; all 3 pairwise comparisons: P < .05. 
+
+Abbreviations: FACT-B TOI = Functional Assessment of Cancer Therapy-Breast Trial Outcome Index; RT = radiation therapy. 
+
+* 
+
+<.001 
+
+P value* 
+
+Change in productivity from completion of RT to 6 months postcompletion of RT 
+
+Entries in table denote mean (SD) change in FACT-B TOI. Positive change represents improvement; negative change represents worsening. 
+
+Same 
+
+Better 
+
+Change in productivity from baseline to completion of RT 
+
+Author Manuscript 
+
+Mean change in FACT-B TOI by change in productivity 
+
+Author Manuscript 
+
+Table 8 Hahn et al. Page 24 
+
+Int J Radiat Oncol Biol Phys. Author manuscript; available in PMC 2024 September 01. 
+
+ 

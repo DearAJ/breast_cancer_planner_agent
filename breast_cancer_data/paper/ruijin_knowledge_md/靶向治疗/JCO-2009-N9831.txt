@@ -1,0 +1,583 @@
+VOLUME 
+
+27 
+
+䡠 
+
+NUMBER 
+
+16 
+
+䡠 
+
+JUNE 
+
+1 
+
+2009 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Radiotherapy and Adjuvant Trastuzumab in Operable Breast Cancer: Tolerability and Adverse Event Data From the NCCTG Phase III Trial N9831 Michele Y. Halyard, Thomas M. Pisansky, Amylou C. Dueck, Vera Suman, Lori Pierce, Larry Solin, Larry Marks, Nancy Davidson, Silvana Martino, Peter Kaufman, Leila Kutteh, Shaker R. Dakhil, and Edith A. Perez From the Mayo Clinic Scottsdale, Scottsdale, AZ; Mayo Clinic and Mayo Foundation, Rochester, MN; Southwest Oncology Group Operations Office, San Antonio, TX; Eastern Cooperative Oncology Group Data Management Office, Brookline, MA; Cancer and Leukemia Group B Data Management Center, Durham, NC; Cedar Rapids Oncology Project, Community Clinical Oncology Program, Cedar Rapids, IA; Wichita Community Clinical Oncology Program, Wichita, KS; and Mayo Clinic Jacksonville, Jacksonville, FL. Submitted May 28, 2008; accepted December 9, 2008; published online ahead of print at www.jco.org on April 6, 2009. Supported in part by Public Health Service Grants No. CA-25224, CA-37404, CA-15083, CA-63826, CA-52352, CA-63849, CA-35195, CA-35272, CA-60276, CA-35269, CA-37417, CA-63848, CA-35101, CA-35415, and CA-35103. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical Trials repository link available on JCO.org. Corresponding author: Michele Halyard, MD, Mayo Clinic Scottsdale, 13400 East Shea Blvd, Scottsdale, AZ 85259; e-mail: mhalyard@mayo.edu. The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). © 2009 by American Society of Clinical Oncology 0732-183X/09/2716-2638/$20.00 DOI: 10.1200/JCO.2008.17.9549 
+
+2638 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose To assess whether trastuzumab (H) with radiotherapy (RT) increases adverse events (AEs) after breast-conserving surgery or mastectomy. Patients and Methods Patients with early-stage resected human epidermal growth factor receptor 2 (HER-2) –positive breast cancer (BC) were randomly assigned to doxorubicin (A) and cyclophosphamide (C), followed by weekly paclitaxel (T; AC-T-H or AC-TH-H). RT criteria (with or without nodal RT) were postlumpectomy breast or (optional) postmastectomy chest wall. RT of internal mammary nodes was prohibited. RT commenced within 5 weeks after T, concurrently with H. Analysis included 1,503 irradiated patients for RT-associated AEs across treatment arms. Rates of cardiac events (CEs) with and without RT were compared within arms. Results No significant differences among arms were found in incidence of acute skin reaction, pneumonitis, dyspnea, cough, dysphagia, or neutropenia. A significant difference occurred in incidence of leukopenia, with higher rates for AC-T-H versus AC-T (odds ratio ⫽ 1.89; 95% CI, 1.25 to 2.88). At a median follow-up of 3.7 years (range, 0 to 6.5 years), RT with H did not increase relative frequency of CEs regardless of treatment side. The cumulative incidence of CEs with AC-T-H was 2.7% with or without RT. With AC-TH-H, the cumulative incidence was 1.7% v 5.9% with or without RT, respectively. Conclusion Concurrent adjuvant RT and H for early-stage BC was not associated with increased acute AEs. Further follow-up is required to assess late AEs. J Clin Oncol 27:2638-2644. © 2009 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Approximately 15% to 25% of breast cancers (BCs) express human epidermal growth factor receptor 2 (HER-2) amplification.1 Patients with HER-2– positive disease have greater risk for relapse and death.2-5 Trastuzumab (Herceptin [H]; Genentech, Inc, South San Francisco, CA) is a recombinant, DNA-derived, monoclonal antibody that selectively binds to the extracellular domain of the HER-2 protein in BC cells. H was an effective part of adjuvant treatment for HER-2–positive BC in randomized trials by the North Central Cancer Treatment Group (NCCTG; N9831 trial) and the National Surgical Adjuvant Breast and Bowel Project (B-31 trial). Joint analysis of these studies showed statistically significant improvement in 
+
+4-year disease-free survival (92.6%; P ⬍ .00001) and overall survival (85.9%; P ⬍ .0007) in patients randomly assigned to H concurrently with paclitaxel (T) after doxorubicin and cyclophosphamide (AC) compared with patients randomly assigned to T alone after AC (89.4% and 73.1%, respectively).6 However, in the N9831 trial, concurrent use of H produced a 3.7-year cumulative incidence of New York Heart Association class III or IV congestive heart failure (CHF) or cardiac death of 3.3% compared with 0.3% in the control arm.7 Because H is generally administered postsurgically for 12 months, patients receiving breast radiotherapy (RT) generally take it concurrently. Preclinical data suggest a radiosensitizing effect of H on BC cells, but whether it causes radiosensitization 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Radiotherapy and Adjuvant Trastuzumab for Breast Cancer 
+
+of normal cells is unknown.8 Adding RT to H raises concerns about increased adverse events (AEs), particularly cardiac toxicity, because adjuvant anthracyclines can be cardiotoxic with H.2,9-14 Limited published data exist concerning concurrent adjuvant RT and H.7,15,16 To our knowledge, this is the largest study with the longest follow-up that systematically investigates potential RT and H interactions during adjuvant treatment. We report our assessment of documented AEs in the NCCTG phase III N9831 trial, focusing on the impact of RT on H-related toxicity and the impact of H on RTassociated toxicity. PATIENTS AND METHODS Study Design Enrollment began in May 2000 (Fig 1), with trial coordination by the NCCTG in collaboration with the Eastern Cooperative Oncology Group, the Cancer and Leukemia Group B, and the Southwest Oncology Group. Primary goals were to evaluate whether H added benefit to adjuvant AC followed by T, to examine the disease-free survival impact of sequential versus concurrent H, and to compare the cardiac toxicity profile of the three regimens. Although not designed to assess RT impact on outcomes, this trial reviewed toxicities for all patients. RT delivery was not determined by random assignment. However, at initial random assignment, investigators declared whether patients would receive RT and, if so, the extent of the RT fields. RT was required after adjuvant chemotherapy after a breast-sparing procedure or mastectomy with ⱖ four positive nodes. Patients Inclusion criteria were a pathologic diagnosis of breast adenocarcinoma with immunohistochemical staining for HER-2 protein of 3⫹ intensity or amplification of the HER2 gene by fluorescence in situ hybridization. Initially, node-positive disease was required. However, in May 2003, patients were included with HER-2–positive, axillary node–negative tumors with a diameter of more than 2 cm regardless of hormone receptor status or of more than 1 cm with hormone receptor–negative disease. Complete tumor removal and negative sentinel lymph node biopsy or complete axillary dissection were required. Exclusion criteria included active cardiac disease defined as prior myocardial infarction, history of documented CHF, current use of digitalis or ␤-blockers for CHF, history of arrhythmia or cardiac valvular disease requiring medications or considered clinically significant, current use of medications for arrhythmias or angina pectoris, current uncontrolled hypertension (diastolic blood pressure ⬎ 100 mmHg or systolic blood pressure ⬎ 200 mmHg), and clinically significant pericardial effusion. 
+
+R a n d o m A s s i g n m e n t 
+
+Arm A: AC q3w x 4 
+
+Paclitaxel qw x 12 
+
+Arm B: AC q3w x 4 
+
+Paclitaxel qw x 12 
+
+H qw x 52 
+
+Paclitaxel qw x 12 + H qw x 12 
+
+H qw x 40 
+
+Arm C: AC q3w x 4 
+
+Radiation and/or hormonal therapy as indicated 
+
+Fig 1. N9831 random assignment schema: H, trastuzumab in 4 mg/kg loading dose followed by 2 mg/kg; A, doxorubicin 60 mg/m2; C, cyclophosphamide 600 mg/m2; T, paclitaxel 80 mg/m2; HRT, hormone replacement therapy; RT, radiotherapy; qw, every week; q3w, every 3 weeks. www.jco.org 
+
+After release of the joint analysis of the N9831 and B-31 trials, AC-T and AC-T-H patients could begin concurrent treatment with H if the patient was receiving T or had completed T within the past 6 months.17 Thus, patients randomly assigned on or after April 25, 2004, were eligible for crossover and were excluded from analysis; 2,393 patients were previously randomly assigned. Twenty-four patients cancelled before treatment, and 221 patients were ineligible (178 because central review failed to corroborate HER-2 positivity and 43 because of other eligibility violations), leaving 2,148 patients for analysis. An RT report form documenting RT use and treatment parameters (fields, beam energy, dose, and RT-related AEs [type and grade]) was available for 2,008 patients. In this analysis, 140 patients who met entry criteria for cardiac event (CE) analysis but for whom these data were not available are assumed to have not received RT. Of note, additional analyses excluded patients without RT report forms, and conclusions were consistent with our results. All patients provided written informed consent. RT Whole-breast RT was required after segmental mastectomy, with a dose of 45.0 to 50.4 Gy in 25 to 28 fractions of 1.8 to 2.0 Gy. Boost dose to the primary tumor excision site was optional. RT to the chest wall was optional for mastectomy patients at the same dose specified for whole-breast RT with optional boost. RT to the supraclavicular and axillary nodal regions was also optional. Whole-breast and chest wall RT alone, without regional lymph node treatment, was administered to 82 patients (5%) and 312 patients (21%), respectively. RT guidelines excluded purposeful irradiation of internal mammary nodes (IMN) because of questionable patient outcomes and potential cardiac toxicity.18 Nonetheless, 44 patients received IMN RT. RT was started within 5 weeks after T treatment, concurrently with H and any hormonal therapy. RT quality assurance was not available because simulation films, port films, and dosimetry data were not required. However, when IMN RT was deemed necessary, the dosimetry plan was reviewed by the NCCTG radiation oncology coinvestigator (T.M.P.) to ensure cardiac sparing. RT-Related AEs and Cardiac Assessment Cardiac function was assessed before registration by physical examination and multiple-gated acquisition scanning or two-dimensional echocardiogram and then monitored regularly ⱕ 3 months after the last study dose.19 Study entry required a left ventricular ejection fraction (LVEF) greater than or equal to the institutional lower limit of normal. For use of H after completion of AC, LVEF had to meet or exceed the lower limit of normal with a decrease of less than 16% from baseline. Patients were monitored for CHF signs and symptoms. Per protocol, continuing or stopping H in asymptomatic patients was determined by LVEF change from baseline. Permanent discontinuation was required for asymptomatic decreases in LVEF that did not recover after two successive 4-week treatment holds or for confirmed CHF defined as symptomatic CHF with objective findings by multiple-gated acquisition scan or echocardiogram or by ECG and chest radiograph. Reports of CEs, which were defined as cardiologist-confirmed CHF or probable cardiac death (sudden death without documented cause) or definite cardiac death (as a result of CHF, myocardial infarction, or documented primary arrhythmia), were submitted to the NCCTG within 14 days. Standard expedited AE reporting was also used. In addition, National Cancer Institute Common Toxicity Criteria (version 2.0) were used to assess RT patients for acute RT-related AEs.20 Statistical Analysis All grades of acute RT-related AEs were reported on RT report forms. Analysis included all eligible patients who received RT according to the treatment arm assigned at random assignment. Each AE was summarized by grade and arm. Incidences of each AE (Common Toxicity Criteria grades ⱖ 1 and ⱖ 3), the relative frequency of early RT discontinuation, and the relative frequency of at least one RT interruption were compared across arms using logistic regression containing one predictor variable for arm. Model fit was assessed with the Hosmer-Lemeshow goodness-of-fit test, and significance was assessed with the Wald ␹2 statistic for overall arm effect followed by a 95% CI of the odds ratio (OR) comparing each H arm to the AC-T arm. Subsequent © 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2639 
+
+Halyard et al 
+
+logistic modeling added age, RT type (whole breast v postmastectomy), regional lymphatic RT (yes v no), RT side (left v right), and hormone receptor status as predictor variables. Results with respect to arm remained consistent; thus, univariate models are presented. For each treatment arm, the relative frequency of patients with confirmed CHF or CEs after completion of T therapy was summarized for those receiving or not receiving RT or with unknown RT status. Using the method of Fine and Gray,21 we estimated the cumulative CE incidence in the presence of competing risks (ie, documented BC recurrence, contralateral BC, second primary cancer, or noncardiac death) after completion of T therapy for RT patients and all other patients. The interaction term (between arm and RT status) in a proportional hazards model for the subdistribution of a competing risk also included main effects for arm and RT status, which tested the interaction between H and RT regarding CEs. With repeat CE analyses excluding patients with unknown RT status, results (data not shown) were essentially unchanged. Using the same analyses, we compared left-sided RT patients with all other patients and, among RT patients, compared patients who received purposeful IMN RT with those who received none. CE analysis included all eligible patients alive on study without CEs or documentation of BC recurrence, contralateral BC, or second primary cancer at completion of T. Inclusion criteria for CE analysis also included adequate cardiac functioning after AC treatment to be eligible for H. On February 16, 2007, data were frozen for analysis (median follow-up time, 3.7 years; range, 0 to 6.5 years). 
+
+RESULTS 
+
+Analyses focused on the following two areas: the impact of H on RT-related AEs and the impact of RT on H-related cardiac toxicity. Thus, patients included in these two analyses differ. Analysis of RT-Related AEs Of the 2,148 patients, 1,503 (70%) received adjuvant RT, 505 (23.5%) received none, and 140 (6.5%) had unknown RT status. 
+
+Of the 1,503 RT patients, 780 (52%) received right-sided RT, and 723 (48%) received left-sided RT. Table 1 lists demographic and RT characteristics. Postlumpectomy RT was administered to 703 patients (46.8%), and postmastectomy RT was administered to 800 patients (53.2%). The median RT whole-breast dose was 50 Gy (range, 22.5 to 60.4 Gy). Postmastectomy RT with photons was delivered to 746 patients (median dose, 50.4 Gy; range, 18 to 64.4 Gy), and RT with electrons was delivered to 71 patients (median dose, 50 Gy; range, 3.6 to 60.4 Gy). A boost dose was administered to 641 postlumpectomy patients (median dose, 14 Gy; range, 0.2 to 26 Gy) and to 443 postmastectomy patients (median dose, 10 Gy; range, 0.1 to 25.0 Gy). Of 1,503 adjuvant RT patients, 1,126 (74.9%) and 499 (33.2%) had supraclavicular and axillary nodal irradiation, respectively. Although IMN RT was not permitted per protocol, 44 patients (2%) received it, with post hoc assessment of IMN, cardiac, and pulmonary dose distributions by one reviewer. In all cases, an electron beam was used predominantly or exclusively, resulting in dose-volume characteristics qualitatively similar to those expected without IMN. These results are from an acute time period (from RT initiation to 90 days after completion). There were no statistically significant differences across the three treatment arms in incidence of grade ⱖ 1 RT-related AEs, except leukopenia (Table 2). Leukopenia was more common with AC-T-H compared with AC-T (OR ⫽ 1.89; 95% CI, 1.25 to 2.88), driven primarily by increases in grade 1 and 2 leukopenia. The incidence of grade ⱖ 3 RT-related AEs was low in all three treatment arms (Table 2). At least one RT interruption was reported for 126 (24.2%), 133 (24.6%), and 115 patients (26.3%) in arms AC-T, AC-T-H, and ACTH-H, respectively (OR for AC-T-H v AC-T ⫽ 1.02; 95% CI, 0.77 to 1.35; OR for AC-TH-H v AC-T ⫽ 1.11; 95% CI, 0.83 to 1.49). Of 2,346 
+
+Table 1. Demographic and RT Characteristics of Patients Receiving RT in N9831 Trial AC-T (n ⫽ 521) Characteristic 
+
+No. of Patients 
+
+Age at random assignment, years Mean Standard deviation Median Range ER status at initial diagnosis Positive Negative PgR status at initial diagnosis Positive Negative Unknown Type of RT Whole-breast RT Whole-breast plus regional lymphatic RT Postmastectomy chest wall Postmastectomy chest wall plus regional lymphatic RT Side treated with RT Right Left 
+
+AC-T-H (n ⫽ 543) % 
+
+No. of Patients 
+
+% 
+
+AC-TH-H (n ⫽ 439) No. of Patients 
+
+% 
+
+Total (N ⫽ 1,503) No. of Patients 
+
+% 
+
+Pⴱ .92 
+
+48.7 9.72 49 24-77 
+
+49.0 10.32 49 19-79 
+
+49.1 9.77 49 25-79 
+
+48.9 9.95 49 19-79 .86 
+
+284 237 
+
+54.5 45.5 
+
+297 246 
+
+54.7 45. 
+
+233 206 
+
+53.1 46.9 
+
+814 689 
+
+54.2 45.8 
+
+218 303 0 
+
+41.8 58.2 0 
+
+226 315 2 
+
+41.6 58 0.4 
+
+177 259 3 
+
+40.3 59.0 0.7 
+
+621 877 5 
+
+41.3 58.3 0.3 
+
+115 133 26 
+
+22.1 25.5 5.0 
+
+106 146 31 
+
+19.5 26.9 5.7 
+
+91 112 25 
+
+20.7 25.5 5.7 
+
+312 391 82 
+
+20.8 26.0 5.5 
+
+247 
+
+47.4 
+
+260 
+
+47.9 
+
+211 
+
+48.1 
+
+718 
+
+47.8 
+
+280 241 
+
+53.7 46.3 
+
+273 270 
+
+50.3 49.7 
+
+227 212 
+
+51.7 48.3 
+
+780 723 
+
+51.9 48.1 
+
+.47 
+
+.96 
+
+.51 
+
+Abbreviations: RT, radiotherapy; AC, doxorubicin and cyclophosphamide; T, paclitaxel; H, trastuzumab; ER, estrogen receptor; PgR, progesterone receptor. ⴱ P values were determined using an analysis of variance F-test for age and ␹2 tests for all other variables. 
+
+2640 
+
+© 2009 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Radiotherapy and Adjuvant Trastuzumab for Breast Cancer 
+
+Table 2. Incidence of RT-Related Adverse Events (grade ⱖ 1 and ⱖ 3) AC-T v AC-T-Hⴱ 
+
+% of Patients Adverse Event 
+
+AC-T v AC-TH-Hⴱ 
+
+AC-T (n ⫽ 521) 
+
+AC-T-H (n ⫽ 543) 
+
+AC-TH-H (n ⫽ 439) 
+
+P ⴱ† 
+
+OR 
+
+95% CI 
+
+OR 
+
+95% CI 
+
+84 0.6 1.9 2.9 1.6 7.2 3.7 
+
+84 1.1 2.4 2.4 1.5 12.8 6.5 
+
+85 1.1 2.3 2.3 2.7 10.3 5.0 
+
+.79 .59 .86 .81 .30 .01 .12 
+
+0.97 1.93 1.25 0.83 0.96 1.89 1.81 
+
+0.69 to 1.34 0.48 to 7.75 0.55 to 2.88 0.39 to 1.76 0.36 to 2.58 1.25 to 2.88 1.02 to 3.21 
+
+1.09 1.97 1.18 0.78 1.79 1.47 1.37 
+
+0.76 to 1.55 0.47 to 8.31 0.49 to 2.87 0.35 to 1.75 0.72 to 4.42 0.93 to 2.32 0.73 to 2.57 
+
+5.6 — 0.6 — — 0.2 0.2 
+
+5.9 0.2 — — — 0.6 — 
+
+4.3 — — — — 1.1 0.5 
+
+.51 — — — — .23 .78 
+
+1.06 — — — — 2.87 — 
+
+0.63 to 1.78 — — — — 0.30 to 27.69 — 
+
+0.76 — — — — 5.91 2.35 
+
+0.42 to 1.38 — — — — 0.69 to 50.78 0.21 to 25.98 
+
+Grade ⱖ 1 Radiation dermatitis Pneumonitis or pulmonary infiltrates Dyspnea Cough Radiation dysphagia (esophageal) Leukocytes Neutrophils or granulocytes Grade ⱖ 3 Radiation dermatitis Pneumonitis or pulmonary infiltrates Dyspnea Cough Radiation dysphagia (esophageal) Leukocytes Neutrophils or granulocytes 
+
+Abbreviations: RT, radiotherapy; AC, doxorubicin and cyclophosphamide; H, trastuzumab; T, paclitaxel; OR, odds ratio. ⴱ Based on a logistic regression model of the given adverse event containing a single predictor variable (arm: AC-T v AC-T-H v AC-TH-H). †Wald ␹2 P value for overall arm effect. 
+
+total treatment interruptions, 79 (3%) were related to skin reactions ranging from dry desquamation to grade 3 moist desquamation, two (0.04%) were related to dysphagia, and one (0.04%) was related to pericarditis. The rest were unrelated to RT toxicity and included holiday breaks (n ⫽ 191; 8%), machine malfunctions (n ⫽ 81; 4%), patient choice (n ⫽ 63; 3%), and miscellaneous causes. Early RT discontinuation was higher in the AC-T arm (15 patients; 2.8%) with RT alone versus the AC-T-H (three patients; 0.6%) and AC-TH-H (six patients; 1.4%) arms when RT was initiated during H (OR for AC-T-H v AC-T ⫽ 0.19; 95% CI, 0.05 to 0.65; OR for AC-TH-H v AC-T ⫽ 0.47; 95% CI, 0.18 to 1.22). Discontinuations were a result of skin reactions (n ⫽ 11), patient choice (n ⫽ 5), metastatic disease (n ⫽ 3), and unknown reasons (n ⫽ 5). Analysis of CEs CEs were analyzed for 1,938 patients, of whom 1,418 (73.2%) received adjuvant RT, 450 (23.2%) received no RT, and 70 (3.6%) had unknown RT status. Comparison of RT patients with all other patients in each arm revealed no significant differences by age, hormone receptor status, and use of hypertensive medications. 
+
+Table 3 and Figure 2 show CE frequency and cumulative incidence by arm and RT status. Six patients who experienced CHF between T and RT are included in the RT group, although CHF predated RT. The proportional hazards model showed that the interaction between arm and RT status was not significant (P ⫽ .21).21 RT status was also not significant (hazard ratio of RT yes v no/unknown ⫽ 0.7; 95% CI, 0.1 to 8.2); however, arm was significant (main effect, P ⫽ .04; HR for AC-T-H v AC-T ⫽ 4.9; 95% CI, 0.6 to 41.9; HR for AC-TH-H v AC-T ⫽ 11.1; 95% CI, 1.4 to 87.4). Similar results were observed for left-sided RT patients compared with all other patients (interaction, P ⫽ .37; Fig 3). IMN RT Among the 1,418 patients who received adjuvant RT included in the CE analysis, 44 patients received purposeful IMN RT with no apparent increase in cumulative incidence of CEs; however, sample sizes were small (Table 4). Careful planning was used to exclude or minimize cardiac irradiation. Also, there was no increased incidence of pneumonitis after IMN RT (data not shown). 
+
+Table 3. Cardiac Events After Completion of T by RT Status AC-T (n ⫽ 664) 
+
+AC-T-H (n ⫽ 708)ⴱ 
+
+AC-TH-H (n ⫽ 566)ⴱ 
+
+Overall (N ⫽ 1,938) 
+
+Cardiac Event 
+
+RT: Yes 
+
+RT: No or Unknown 
+
+RT: Yes 
+
+RT: No or Unknown 
+
+RT: Yes 
+
+RT: No or Unknown 
+
+RT: Yes 
+
+RT: No or Unknown 
+
+Total 
+
+Patients, No. Confirmed CHF, No. Cardiac deaths, No. Cardiac events, No. 
+
+483 1 1 2 
+
+181 1 0 1 
+
+522 14ⴱ 0 14ⴱ 
+
+186 4 1 5 
+
+413 7ⴱ 0 7ⴱ 
+
+153 9 1 9 
+
+1,418 22ⴱ 1 23ⴱ 
+
+520 14 2 15 
+
+1,938 36 3 38 
+
+NOTE. See Figure 2 for 3-year cumulative incidence rates. Abbreviations: RT, radiotherapy; AC, doxorubicin and cyclophosphamide; T, paclitaxel; H, trastuzumab; CHF, congestive heard failure. ⴱ Two patients in the AC-T-H arm and four patients in the AC-TH-H arm had a cardiac event between the end of T therapy and the initiation of RT. These six patients are included in the RT category; however, the cardiac events are not attributable to RT because of their timing. 
+
+www.jco.org 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2641 
+
+Halyard et al 
+
+8 
+
+3-Year Cumulative Incidence Rates; RT Yes = 0.2% (95% CI, 0.0% to 1.5%) AC-T: RT No/Unknown = 0.6% (95% CI, 0.1% to 4.3%) AC-T-H: RT Yes = 2.7% (95% CI, 1.6% to 4.5%) RT No/Unknown = 2.7% (95% CI, 1.2% to 6.4%) 
+
+Cumulative Incidence of Cardiac Events (%) 
+
+RT Yes RT No/Unknown 
+
+6 
+
+AC-TH-H: RT Yes = 1.7% (95% CI, 0.8% to 3.5%) RT No/Unknown = 5.9% (95% CI, 3.2% to 10.9%) 
+
+4 AC-T-H AC-T-H 
+
+2 AC-TH-H AC-T AC-T 
+
+1 
+
+0 
+
+2 
+
+3 
+
+5 
+
+Time Since End of Paclitaxel (years) 
+
+No. at Risk AC-T: RT Yes RT No/Unknown AC-T-H: RT Yes RT No/Unknown AC-TH-H: RT Yes RT No/Unknown 
+
+483 181 
+
+445 169 
+
+367 148 
+
+244 90 
+
+137 48 
+
+21 11 
+
+522 186 
+
+479 171 
+
+420 150 
+
+288 87 
+
+160 43 
+
+41 13 
+
+413 153 
+
+395 138 
+
+340 122 
+
+205 70 
+
+132 47 
+
+25 12 
+
+DISCUSSION 
+
+Randomized trials have shown the benefit of adjuvant H in HER-2– positive BC.1,17,22-24 In the National Surgical Adjuvant Breast and Bowel Project B-31 trial, RT was administered with H after chemotherapy. In the Herceptin Adjuvant trial, H was administered 6 weeks after RT. In the Finnish Herceptin trial, RT was administered after chemotherapy. No RT details are available for the Breast Cancer International Research Group 006 study. No study provided information on tolerability and AEs of RT with H. To our knowledge, our analysis is the first using prospectively collected data within a largescale randomized clinical trial to examine AEs of H combined with RT. 
+
+8 
+
+RT for BC causes potential acute and long-term AEs. The risk of acute RT-related pneumonitis is reportedly ⱕ 5% with modern RT techniques.25-27 Risk of pneumonitis may increase with sequential or concurrent T and rarely with H.17,28-32 Taghian et al31 reported a statistically significant increase in incidence of RT pneumonitis after adjuvant or neoadjuvant AC with or without concurrent or sequential T. The pneumonitis rate was 14.6% with T versus 1.1% without T. However, in 189 patients treated with four versus eight cycles of fluorouracil, doxorubicin, and cyclophosphamide, no significant difference in pneumonitis was found with T (5.0% v 4.5%, respectively; P ⫽ 1.0).33 The incidence of pneumonitis was low in all three treatment arms. Grade 3 RT-related pneumonitis developed in only one patient in the sequential H arm. 
+
+3-Year Cumulative Incidence Rates: Left-sided RT = 0.5% (95% CI, 0.1% to 3.4%) AC-T: Other* = 0.2% (95% CI, 0.0% to 1.7%) AC-T-H: Left-sided RT = 2.3% (95% CI, 1.1% to 5.1%) Other* = 2.9% (95% CI, 1.7% to 4.9%) AC-TH-H: Left-sided RT = 2.0% (95% CI, 0.8% to 5.3%) Other* = 3.3% (95% CI, 1.9% to 5.6%) 
+
+Left-sided RT Other* 
+
+Cumulative Incidence of Cardiac Events (%) 
+
+4 
+
+6 
+
+4 AC-TH-H AC-T-H AC-T-H AC-TH-H AC-T 
+
+2 
+
+AC-T 
+
+1 
+
+0 No. at Risk AC-T: Left-Sided RT Other AC-T-H: Left-Sided RT Other AC-TH-H: Left-Sided RT Other 
+
+2642 
+
+Fig 2. Cumulative incidence plots of cardiac events after completion of paclitaxel (T) therapy by treatment arm and radiotherapy (RT) status (yes v no/unknown). A, doxorubicin; C, cyclophosphamide; H, trastuzumab. 
+
+2 
+
+3 
+
+4 
+
+Fig 3. Cumulative incidence of cardiac events after completion of paclitaxel (T) therapy by treatment arm and side treated with radiotherapy (RT). (*) Right-sided RT or no/unknown RT. A, doxorubicin; C, cyclophosphamide; H, trastuzumab. 
+
+5 
+
+Time Since End of Paclitaxel (years) 217 447 
+
+201 413 
+
+168 347 
+
+115 219 
+
+62 123 
+
+5 27 
+
+259 449 
+
+241 409 
+
+212 358 
+
+145 230 
+
+78 125 
+
+20 34 
+
+197 369 
+
+188 345 
+
+157 305 
+
+88 187 
+
+55 124 
+
+11 26 
+
+© 2009 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Radiotherapy and Adjuvant Trastuzumab for Breast Cancer 
+
+Table 4. Cardiac Events After Completion of T for Patients Receiving IMN RT AC-T (RT only) 
+
+AC-T-H (RT only) 
+
+AC-TH-H (RT only) 
+
+All RT Patients 
+
+Cardiac Event 
+
+IMN RT 
+
+No IMN RT 
+
+IMN RT 
+
+No IMN RT 
+
+IMN RT 
+
+No IMN RT 
+
+IMN RT 
+
+No IMN RT 
+
+All RT Patients 
+
+Patients, No. Confirmed CHF, No. Cardiac deaths, No. Cardiac events, No. 
+
+15 0 1 1 
+
+468 1 0 1 
+
+14 1 0 1 
+
+508 13 0 13 
+
+15 0 0 0 
+
+398 7 0 7 
+
+44 1 1 2 
+
+1,374 21 0 21 
+
+1,418 22 1 23 
+
+NOTE. Three-year cumulative incidence rates were as follows: AC-T: IMN RT, 0%; no IMN RT, 0.2%; AC-T-H: IMN RT, 7.1%; no IMN RT, 2.6%; and AC-TH-H: IMN RT, 0%; no IMN RT, 1.8%. Abbreviations: T, paclitaxel; IMN, internal mammary nodes; RT, radiotherapy; AC, doxorubicin and cyclophosphamide; H, trastuzumab; CHF, congestive heart failure. 
+
+The incidence of other acute RT AEs did not differ significantly with H compared with chemotherapy alone. No analysis was performed regarding RT field extent and the volume of normal structures irradiated. With larger volumes of normal tissue, AEs with H might have increased. Longer follow-up is needed to identify additional AEs. Older breast RT techniques with irradiation of a larger portion of the heart resulted in increased cardiac mortality in the older postmastectomy RT series at 10 to 15 years of follow-up.9,34 Recent data suggest that more modern RT techniques markedly reduce cardiac risks, but long-term follow-up is needed.10,35,36 We found no apparent increase in CEs associated with concurrent RT with H; the CE rate was lower with RT than without RT or with unknown RT status. These results should be interpreted cautiously because of the brief median follow-up time (3.7 years) and possible underreporting of CHF after on-study cardiac monitoring concluded. We do not infer any protective effect of RT with H that would account for a lower CE rate. Our data provide reassurance that concomitant use of RT and H does not induce unexpected acute toxicities. This trial prohibited intentional IMN RT but not incidental cardiac irradiation. Not all RT techniques of IMN treatment substantially increase cardiac dose or cause cardiac morbidity. However, because a small portion of the anterior left ventricle is often included in midline tangents, many patients likely received incidental cardiac irradiation while receiving H. Especially notable is the lack of increased acute CEs in patients who received purposeful IMN RT. It is uncertain whether an increased CE incidence would have occurred with a greater volume of the heart. However, reducing incidental cardiac RT whenever possible is prudent. In-depth analysis of cardiac dose or volume parameters related to RT is not possible because submission of RT materials was not required, including whether patients were treated with threedimensional or intensity-modulated techniques or whether wedges were used to increase dose homogeneity. The volume of normal structures within the radiation field cannot be commented on in this analysis. It is possible that if larger volumes of normal tissues were included in patients treated with H, then increased toxicities levels could be seen. The short median follow-up time also precluded evaluation of long-term cardiac toxicities.37-39 As additional follow-up information becomes available, the potential increase in late cardiovascular morbidity can be addressed. Limitations include nonrandomized RT administration, although random assignment is unlikely given the standard use of adjuvant RT in BC. However, there was a protocol-defined set of www.jco.org 
+
+recommendations for RT administration. Although data for 140 patients with no RT report forms were analyzed as RT unknown, CEs did not change when data were analyzed with or without these patients. Further detail on the cardiac volume included in the RT fields was also not available. The limited number of CEs limits the statistical power for testing for interaction in a regression model; however, the cumulative CE incidence among RT patients was low in all three arms. Overall, concurrent treatment with RT and adjuvant H does not seem to increase CEs or acute RT-related AEs except leukopenia. Thus, concurrent RT (with modern techniques involving cardiac sparing) and H may be continued. IMN RT with limited cardiac exposure also seems feasible. Results of the upcoming worldwide Adjuvant Lapatinib and/or Trastuzumab Treatment Optimization Trial (ALTTO; N063D; BIG 2-06; EGF 106708) and other large phase III trials may shed further light on the interaction of RT with H. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Peter Kaufman, Genentech BioOncology (C) Stock Ownership: None Honoraria: Larry Marks, Varian Medical Systems; Peter Kaufman, Genentech BioOncology Research Funding: Larry Marks, Varian Medical Systems, Siemen’s Medical Systems; Peter Kaufman, Genentech BioOncology; Edith A. Perez, Genentech Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Thomas M. Pisansky, Larry Solin, Nancy Davidson, Silvana Martino, Peter Kaufman Administrative support: Silvana Martino Provision of study materials or patients: Larry Solin, Nancy Davidson, Silvana Martino, Peter Kaufman, Leila Kutteh, Shaker R. Dakhil © 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2643 
+
+Halyard et al 
+
+Collection and assembly of data: Michele Y. Halyard, Thomas M. Pisansky, Amylou C. Dueck, Silvana Martino, Peter Kaufman, Shaker R. Dakhil, Edith A. Perez Data analysis and interpretation: Michele Y. Halyard, Thomas M. Pisansky, Amylou C. Dueck, Lori Pierce, Larry Solin, Larry Marks, Nancy Davidson, Silvana Martino, Peter Kaufman, Edith A. Perez 
+
+REFERENCES 1. Piccart-Gebhart MJ, Procter M, LeylandJones B, et al: Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 353:1659-1672, 2005 2. Slamon DJ, Leyland-Jones B, Shak S, et al: Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 344:783-792, 2001 3. Ménard S, Balsari A, Casalini P, et al: HER-2positive breast carcinomas as a particular subset with peculiar clinical behaviors. Clin Cancer Res 8:520-525, 2002 4. Perou CM, Sorlie T, Eisen MB, et al: Molecular portraits of human breast tumours. Nature 406: 747-752, 2000 5. Hayes DF, Thor AD: C-erbB-2 in breast cancer: Development of a clinically useful marker. Semin Oncol 29:231-245, 2002 6. Perez EA, Romond EH, Suman VJ, et al: Updated results of the combined analysis of NCCTG N9831 and NSABP B-31 adjuvant chemotherapy with/without trastuzumab in patients with HER2positive breast cancer. J Clin Oncol 25:6s, 2007 (suppl; abstr 512) 7. Perez EA, Suman VJ, Davidson NE, et al: Cardiac safety analysis of doxorubicin and cyclophosphamide followed by paclitaxel with or without trastuzumab in the North Central Cancer Treatment Group N9831 adjuvant breast cancer trial. J Clin Oncol 26:1231-1238, 2008 8. Liang K, Lu Y, Jin W, et al: Sensitization of breast cancer cells to radiation by trastuzumab. Mol Cancer Ther 2:1113-1120, 2003 9. Cuzick J, Stewart H, Rutqvist L, et al: Causespecific mortality in long-term survivors of breast cancer who participated in trials of radiotherapy. J Clin Oncol 12:447-453, 1994 10. Marks LB, Yu X, Prosnitz RG, et al: The incidence and functional consequences of RTassociated cardiac perfusion defects. Int J Radiat Oncol Biol Phys 63:214-223, 2005 11. Leyland-Jones B, Gelmon K, Ayoub JP, et al: Pharmacokinetics, safety, and efficacy of trastuzumab administered every three weeks in combination with paclitaxel. J Clin Oncol 21:3965-3971, 2003 12. Prosnitz RG, Chen YH, Marks LB: Cardiac toxicity following thoracic radiation. Semin Oncol 32:S71-S80, 2005 13. Prosnitz RG, Marks LB: Radiation-induced heart disease: Vigilance is still required. J Clin Oncol 23:7391-7394, 2005 
+
+Manuscript writing: Michele Y. Halyard, Thomas M. Pisansky, Amylou C. Dueck, Lori Pierce, Larry Solin, Larry Marks, Edith A. Perez Final approval of manuscript: Michele Y. Halyard, Thomas M. Pisansky, Amylou C. Dueck, Lori Pierce, Larry Solin, Larry Marks, Nancy Davidson, Silvana Martino, Peter Kaufman, Leila Kutteh, Shaker R. Dakhil, Edith A. Perez 
+
+14. Perez EA, Rodeheffer R: Clinical cardiac tolerability of trastuzumab. J Clin Oncol 22:322-329, 2004 15. Tan-Chiu E, Yothers G, Romond E, et al: Assessment of cardiac dysfunction in a randomized trial comparing doxorubicin and cyclophosphamide followed by paclitaxel, with or without trastuzumab as adjuvant therapy in node-positive, human epidermal growth factor receptor 2-overexpressing breast cancer: NSABP B-31. J Clin Oncol 23:7811-7819, 2005 16. Belkacémi Y, Gligorov J, Ozsahin M, et al: Concurrent trastuzumab with adjuvant radiotherapy in HER2-positive breast cancer patients: Acute toxicity analyses from the French multicentric study. Ann Oncol 19:1110-1116, 2008 17. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 18. Recht A, Edge S, Solin L: Postmastectomy radiotherapy: Clinical practice guidelines of the American Society of Clinical Oncology. J Clin Oncol 19:1539-1569, 2001 19. Palmieri FM, Perez EA: Managing high-risk breast cancer. Semin Oncol Nurs 23:29-36, 2007 20. Arbuck S, McCLure J, Ivy S, et al: The Common Toxicity Criteria Manual. http://ctep.cancer .gov/protocolDevelopment/electronic_applications/ ctc.htm 21. Fine J, Gray R: A proportional hazards model for the subdistribution of a competing risk. J Am Stat Assoc 94:496-509, 1999 22. Smith I, Procter M, Gelber RD, et al: 2-year follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer: A randomised controlled trial. Lancet 369:29-36, 2007 23. Joensuu H, Kellokumpu-Lehtinen PL, Bono P, et al: Adjuvant docetaxel or vinorelbine with or without trastuzumab for breast cancer. N Engl J Med 354:809-820, 2006 24. Slamon D, Eiermann W, Robert N, et al: Phase III trial comparing AC-T with AC-TH and with TCH in the adjuvant treatment of HER2 positive early breast cancer patients: Second interim efficacy analysis. Presented at 29th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 14-17, 2006 25. Halyard MY, Grado GL, Schomberg PJ, et al: Conservative therapy of breast cancer. The Mayo Clinic experience. Am J Clin Oncol 19:445-450, 1996 26. Dörr W, Bertmann S, Herrmann T: Radiation induced lung reactions in breast cancer therapy. Modulating factors and consequential effects. Strahlenther Onkol 181:567-573, 2005 
+
+27. Lind PA, Marks LB, Hardenbergh PH, et al: Technical factors associated with radiation pneumonitis after local ⫹/⫺ regional radiation therapy for breast cancer. Int J Radiat Oncol Biol Phys 52:137143, 2002 28. Radzikowska E, Szczepulska E, Chabowski M, et al: Organising pneumonia caused by trastuzumab (Herceptin) therapy for breast cancer. Eur Respir J 21:552-555, 2003 29. Vahid B, Mehrotra A: Trastuzumab (Herceptin)associated lung injury. Respirology 11:655-658, 2006 30. Clamon G, Herndon J, Kern J, et al: Lack of trastuzumab activity in nonsmall cell lung carcinoma with overexpression of erb-B2: 39810 —A phase II trial of Cancer and Leukemia Group B. Cancer 103: 1670-1675, 2005 31. Taghian AG, Assaad SI, Niemierko A, et al: Risk of pneumonitis in breast cancer patients treated with radiation therapy and combination chemotherapy with paclitaxel. J Natl Cancer Inst 93:18061811, 2001 32. Hanna YM, Baglan KL, Stromberg JS, et al: Acute and subacute toxicity associated with concurrent adjuvant radiation therapy and paclitaxel in primary breast cancer therapy. Breast J 8:149-153, 2002 33. Yu TK, Whitman GJ, Thames HD, et al: Clinically relevant pneumonitis after sequential paclitaxel-based chemotherapy and radiotherapy in breast cancer patients. J Natl Cancer Inst 96: 1676-1681, 2004 34. Rutqvist LE, Lax I, Fornander T, et al: Cardiovascular mortality in a randomized trial of adjuvant radiation therapy versus surgery alone in primary breast cancer. Int J Radiat Oncol Biol Phys 22:887896, 1992 35. Giordano SH, Kuo YF, Freeman JL, et al: Risk of cardiac death after adjuvant radiotherapy for breast cancer. J Natl Cancer Inst 97:419-424, 2005 36. Patt DA, Goodwin JS, Kuo YF, et al: Cardiac morbidity of adjuvant radiotherapy for breast cancer. J Clin Oncol 23:7475-7482, 2005 37. Raj KA, Marks LB, Prosnitz RG: Late effects of breast radiotherapy in young women. Breast Dis 23:53-65, 2005 38. Stewart JR, Fajardo LF, Gillette SM, et al: Radiation injury to the heart. Int J Radiat Oncol Biol Phys 31:1205-1211, 1995 39. Hooning MJ, Aleman BM, van Rosmalen AJ, et al: Cause-specific mortality in long-term survivors of breast cancer: A 25-year follow-up study. Int J Radiat Oncol Biol Phys 64:1081-1091, 2006 
+
+■ ■ ■ 
+
+2644 
+
+© 2009 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+ 

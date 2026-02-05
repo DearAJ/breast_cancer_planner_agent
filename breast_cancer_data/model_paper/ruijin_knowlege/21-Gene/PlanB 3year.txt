@@ -1,0 +1,623 @@
+VOLUME 
+
+34 
+
+• 
+
+NUMBER 
+
+20 
+
+• 
+
+JULY 
+
+10, 
+
+2016 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+West German Study Group Phase III PlanB Trial: First Prospective Outcome Data for the 21-Gene Recurrence Score Assay and Concordance of Prognostic Markers by Central and Local Pathology Assessment Oleg Gluz, Ulrike A. Nitz, Matthias Christgen, Ronald E. Kates, Steven Shak, Michael Clemens, Stefan Kraemer, Bahriye Aktas, Sherko Kuemmel, Toralf Reimer, Manfred Kusche, Volker Heyl, Fatemeh Lorenz-Salehi, Marianne Just, Daniel Hofmann, Tom Degenhardt, Cornelia Liedtke, Christer Svedman, Rachel Wuerstlein, Hans H. Kreipe, and Nadia Harbeck Author afﬁliations appear at the end of this article. Published online ahead of print at www.jco.org on February 29, 2016. Supported by Genomic Health, Sanoﬁ Aventis, and Amgen. Presented in part at the 2011 San Antonio Breast Cancer Symposium, San Antonio, December 6-10, 2011; the 2012 planTX,B是研究EC-T和TC方案化疗 Annual American Society of Oncology 效果的对比。 Meeting, Chicago, IL, June 1-5, 2012; and the 2014 San Antonio Breast Cancer 21RS低风险免除化疗患者3年 Symposium, San Antonio, TX, December 
+
+DFS:98% 9-13, 2014. 21RS高风险化疗患者3年DFS： Authors’ disclosures of potential conﬂicts 92%of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article. 21RS低中高风险组的3年DFS： Clinical trial information: NCT01049425. 97.4%/97.8%/91.9% Corresponding author: Oleg Gluz, MD, 
+
+West German Study Group, Breast Center 当研究21RS≤11免除化疗/≥12 Niederrhein, Evangelical Hospital 需要化疗的群体时， Bethesda, Ludwig-Weber-Str 15, 41061 低中高风险组3年DFS： Moenchengladbach, Germany; e-mail: 98.5%/97.9%/94.9% oleg.gluz@wsg-online.com. 
+
+In the pN1 patients: 3年DFS：97.9%/ © 2016 by American Society of Clinical 97.2%/89.4% In theOncology pN0 patients:3年DFS： 98.6%/98.5%/97% 0732-183X/16/3420w-2341w/$20.00 
+
+DOI: 10.1200/JCO.2015.63.5383 21RS的分布与Ki-67及组织学分 级相关 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The 21-gene Recurrence Score (RS) assay is a validated prognostic/predictive tool in early hormone receptor–positive breast cancer (BC); however, only a few prospective outcome results have been available so far. In the phase III PlanB trial, RS was prospectively used to deﬁne a subset of patients who received only endocrine therapy. We present 3-year outcome data and concordance analysis (among biomarkers/RS). Patients and Methods Central tumor bank was established prospectively from PlanB (intermediate and high-risk, locally human epidermal growth factor receptor 2–negative BC). After an early amendment, HR-positive, pN0-1 patients with RS # 11 were recommended to omit chemotherapy. Results From 2009 to 2011, PlanB enrolled 3,198 patients with a median age of 56 years; 41.1% had nodepositive and 32.5% grade 3 disease. In 348 patients (15.3%), chemotherapy was omitted based on RS # 11. After 35 months median follow-up, 3-year disease-free survival in patients with RS # 11 and endocrine therapy alone was 98% versus 92% and 98% in RS . 25 and RS 12 to 25 in chemotherapy-treated patients, respectively. Nodal status, central and local grade, the Ki-67 protein encoded by the MKI67 gene, estrogen receptor, progesterone receptor, tumor size, and RS were univariate prognostic factors for disease-free survival; only nodal status, both central and local grade, and RS were independent multivariate factors. Histologic grade was discordant between central and local laboratories in 44%. RS was positively but moderately correlated with the Ki-67 protein encoded by the MKI67 gene and grade and negatively correlated with progesterone receptor and estrogen receptor. Conclusion In this prospective trial, patients with enhanced clinical risk and omitted chemotherapy on the basis of RS # 11 had excellent 3-year survival. The substantial discordance observed between traditional prognostic markers and RS emphasizes the need for standardized assessment and supports the potential integration of standardized, well-validated genomic assays such as RS with clinicopathologic prognostic factors for chemotherapy indication in early hormone receptor–positive BC. J Clin Oncol 34:2341-2349. © 2016 by American Society of Clinical Oncology INTRODUCTION 
+
+Adjuvant chemotherapy recommendations in estrogen receptor (ER)–positive, human epidermal growth factor receptor 2 (HER2)–negative early breast cancer have traditionally been based on tumor size, nodal status, histologic grade, and 
+
+immunohistochemistry (IHC) assessment of ER, progesterone receptor (PR), and to some extent the protein encoded by the MKI67 gene (Ki-67). Advances in technology have enabled extensive genomic assessment of patients with breast cancer revealing substantial heterogeneity, with multiple subgroups within patients with ER-positive HER2negative breast cancer.1,2 © 2016 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+2341 
+
+Gluz et al 
+
+Genomic signatures such as the 21-gene Recurrence Score (RS) Assay (Oncotype DX; Genomic Health Inc, Redwood City, CA) and others have been developed in the last decade for standardized relapse risk assessment in hormone receptor (HR)– positive HER2-negative breast cancer (for review see Gluz et al3), but the RS assay is by far the most extensively validated test with multiple prospectively designed studies of archival specimens from clinical studies with long-term follow-up. There are studies demonstrating low recurrence rates in patients with N0 to N1 breast cancer and low RS results in patients treated with endocrine therapy alone.4-7 Other studies have shown that patients with high RS results gained substantial beneﬁt from adjuvant chemoendocrine therapy versus endocrine therapy alone, whereas patients with low RS results have had minimal if any beneﬁt from chemotherapy.8,9 The beneﬁt of adjuvant chemotherapy for patients with intermediate RS remains unclear and is currently being investigated in prospective clinical trials. The 21-gene assay is widely recommended for guiding adjuvant treatment decisions in patients with HR-positive breast cancer for whom the beneﬁt of chemotherapy is unclear.10,11 The St Gallen Consensus Panel also recently stated that patients with luminal B subtype (eg, deﬁned by the protein encoded by the MKI67 gene [Ki-67]/PR) should be considered for chemotherapy for selected patients, including those with high RS (. 25) or grade 3 tumors,11 Notably, the current St Gallen Consensus recommends use of the marker but states that for Ki-67 there seems to be no optimal cut point.12 Nonetheless, there is still controversy surrounding the prognostic impact of adding genomic signatures to centrally measured IHC markers and the use of genomic assays for guiding adjuvant treatment decisions, particularly in Europe, as there are no data from prospective studies where patients have been treated according to the RS results.5,13 Improved decision making requires understanding of how to include genomic risk assessment with current prognostic parameters such as nodal status, grade, tumor size, and IHC markers (ie, ER, PR, and Ki-67). However, the latter marker is controversial given the lack of data on optimal Ki-67 measurement method and cutoff12,14 as well as the substantial interobserver variability in receptor assessment15-17 and Ki-67 staining.18,19 In this context, it is relevant to understand to what extent there are substantial differences between central and local assessment. The goals of the present analysis within the translational research program of the PlanB trial were to prospectively assess risk of recurrence at 3 years in patients with RS # 11, to compare histologic grade review (performed locally v centrally), to evaluate the association between grade/single IHC–assessed markers (ER, PR, and Ki-67) and RS results focusing on HR-positive breast cancer, and to investigate the prognostic usefulness of these markers and RS, particularly in patients treated by endocrine therapy alone. 
+
+PATIENTS AND METHODS Patient Population This report presents analyses from the translational research program of the prospective, randomized, multicenter PlanB trial. The 2342 
+
+© 2016 by American Society of Clinical Oncology 
+
+trial included female patients (18 to 75 years old) with node-positive or high-risk (T2, grade 2 and 3, high uPA/PAI-1, or age , 35 years old) node-negative HER2-negative early breast cancer after adequate surgical treatment (complete resection of tumors, sentinel-node biopsy in N0, or axillary dissection in node-positive patients) with no evidence of distant metastasis, Eastern Cooperative Oncology Group performance status , 1 or Karnofsky Index . 80%, and signed informed consent. PlanB was initiated in 2009 as a chemotherapy trial for comparing anthracycline-containing (four cycles of epirubicin/cyclophosphamide followed by four cycles of docetaxel every 3 weeks) and anthracyclinefree (six cycles of docetaxel/cyclophosphamide every 3 weeks) chemotherapy. The trial was based on an observation from a retrospective meta-analysis demonstrating more pronounced beneﬁt from anthracyclines in HER2-positive disease.20 In August 2009, after inclusion of 274 patients, the PlanB trial was amended to recommend omission of chemotherapy (ie, treatment with endocrine therapy alone) in patients with HR-positive disease with RS # 11. This cutoff was chosen by the study group on the basis of retrospective evidence from Paik et al,4 who estimated 10% distant relapse risk as the upper limit of the 95% CI at RS of 11. 
+
+Study Design The trial was approved by German ethics boards and conducted in accordance with the Declaration of Helsinki. The objective of the translational research program was to compare independent prospective central pathology review and assessment of IHC markers with RS and local pathology within the PlanB trial. Tumors that were ER-positive or PR-positive by local pathology assessment are referred to as locally HR-positive tumors. All patients were followed up at 3-month intervals for the ﬁrst 3 years according to national guidelines; follow-up is planned every 6 months for the subsequent 6 years. Data were obtained from electronic case record forms and were veriﬁed by regular monitoring visits to the study sites. Primary surgically removed tumor tissue was sent to the central pathology laboratory of Genomic Health (Redwood City, CA) for RS analysis. Slide review, IHC, and ﬂuorescence in situ hybridization analysis were performed in an independent central laboratory (Institute of Pathology, Hannover Medical School, Hannover, Germany). One experienced breast pathologist (M.C.) assessed histology and central grade using hematoxylin and eosin–stained slides, and a second pathologist (H.H.K.) reviewed them; both were blinded to the clinical data and to Ki-67 expression. Tissue microarrays (diameter, 1.4 mm) were constructed during the ﬁrst slide review by choosing one morphologically representative region from each tumor sample. Slides were stained for ER (rabbit [SP1]; Neomarkers, Fremont, CA), PR (mouse monoclonal PgR636; DAKO, Glostrup, Denmark), and Ki-67 (clone 30-9 rabbit monoclonal; Ventana, Tucson, AZ) using standard protocols. Tumors were classiﬁed as ER or PR positive if immunostaining was present in $ 1% of tumor nuclei. Ki-67 was evaluated by one experienced breast pathologist, specialized in proliferation measurement (H.H.K.) in at least 100 tumor cells within the highest-density area; the measurement was performed semiquantitatively (in 5% increments) and quantitatively (in 1% increments). 
+
+Statistical Analysis All survival analyses reported here refer to the primary end point of 3-year disease-free survival (DFS), where an event was deﬁned as any invasive cancer event or death (with or without recurrence). The recommendation for omitting chemotherapy in patients with RS # 11 was based on the assumption that the 5-year DFS rate should be $ 90%. The 3-year DFS data can be used to monitor this assumption for ongoing trials such as the West German Study Group–Adjuvant Dynamic Marker-Adjusted Personalized Therapy HR-positive HER2-negative trial. Assuming exponential survival, if JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+The WSG-PlanB Trial: Evaluating the 21-Gene Breast Cancer Assay 
+
+3-year survival is . 92%, one can rule out a 5-year DFS worse than 90% at 95% conﬁdence with approximately 330 patients omitting chemotherapy. Reported survival percentages (eg, 3-year survival) were based on the Kaplan-Meier estimator. Univariate and multivariate Cox proportional hazard models for DFS were performed. For Cox analysis, RS, tumor size, and Ki-67 were coded as continuous variables, using fractional ranks; grade was coded as G3 versus G2 or G1; and lymph node status was coded as pN1-3 versus pN0 and pN2-3 versus pN1-2. Survival was analyzed in the subgroup of patients treated by endocrine therapy alone (omitting chemotherapy) on the basis of RS # 11 and in other subgroups deﬁned according to the objectives of the trial. Summary statistics including concordance were computed for local versus central marker assessment. In the case of 2 3 2 or 3 3 3 contingency tables of relative frequencies, sums of diagonal entries were computed. These correspond to exact agreement of classiﬁcation. Certain marker subgroups (eg, central PR # 20% v . 20%) were deﬁned according to cutoffs13 and used individually or in combination to characterize associations with RS results, by summary statistics. Associations of markers with RS results were also characterized by Spearman correlations (rs). All statistical analyses were performed using SPSS v.23 (IBM Corp, Armonk, NY). 
+
+RESULTS 
+
+Baseline Characteristics and Therapy From April 2009 to December 2011, 3,198 patients were recruited from 93 German centers (for CONSORT diagram, see Fig 1); of these, 2,449 were randomly assigned to receive the evaluated chemotherapy regimens. Median age was 56 years; 85.9% were locally HR-positive. RS results were available for 2,568 locally HRpositive patients; of these, 18.1% were classiﬁed as low RS (# 11), 60.4% intermediate RS (12 to 25), and 21.6% high RS (. 25). Table 1 presents patient baseline characteristics for the 2,642 locally HR-positive patients with available tissue within tumor bank. In 348 patients (n = 344 within tumor bank; 31.4% node positive, 20% G3), chemotherapy was omitted on the basis of RS # 11, corresponding to 15.3% of pN0 to 1 patients after amendment; six additional patients refused further study participation. Most of the locally HR-positive patients with RS were also included in the tumor bank population (2,553 of 2,568; Fig 1). 
+
+Registered: N = 3,198 
+
+Locally HR-positive: n = 2,746 
+
+Tumor bank population: n = 3,071 
+
+RS available: n = 2,577 (2,562 of these from tumor bank population) 
+
+Tumor bank and locally HR-positive: n = 2,642 
+
+RS and locally HR-positive: n = 2,568 
+
+Tumor bank and RS & locally HR-positive: n = 2,553 
+
+RS and locally HR-positive and post amendment: n = 2,399 
+
+pN0–1 and locally HR-positive: n = 2,582 
+
+pN2–3: n = 125 
+
+RS and locally HR-positive and post amendment and pN0–1: n = 2,2274 
+
+Locally HR-positive and post amendment and pN0–1 and RS 0–11: n = 404 (17.8%) 
+
+ET only: n = 348 Compliance: 86.1% 
+
+Chemotherapy randomly assigned: n = 50 Dropout: n = 6 
+
+Locally HR-positive and post amendment and pN0–1 and RS 12–25: n = 1,397 (61.4%) 
+
+Screening failure n = 26 
+
+Locally HR-positive and post amendment and pN0–1 and RS > 25: n = 473 (20.8%) 
+
+Screening failure n = 17 
+
+Locally HR-positive and post amendment and pN0–1 and RS 12–25 & chemotherapy recommended: n = 1,371 
+
+Locally HR-positive and post amendment and pN0–1 and RS > 25 and chemotherapy recommended: n = 456 
+
+Chemotherapy: n = 1,078 Compliance: 78.6%t 
+
+Chemotherapy: n = 409 Compliance: 89.7% 
+
+Fig 1. PlanB CONSORT diagram. ET, endocrine therapy; HR, hormone receptor; RS, Recurrence Score. 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+2343 
+
+Gluz et al 
+
+Table 1. Patient Baseline Characteristics (Locally HR-Positive, Tumor Bank Patients) Characteristic 
+
+N = 2,642 
+
+Age, median, years Tumor size, median, mm Nodal status, No. (%) pN0 pN1 pN2 pN3 Ki-67 status, median, % Quantitative Semiquantitative Central ER status, No. (%) Positive Negative Unknown Central PR status, No. (%) Positive Negative Unknown Central HR status, No. (%) Positive Negative Unknown Local grade, No. (%) G1 G2 G3 Unknown Central grade, No. (%) G1 G2 G3 Unknown Therapy, No. (%) Endocrine Arm A Arm B Out of study Recurrence Score result, No. (%) # 11 12-25 . 25 Unknown 
+
+56 19 1,554 (58.8) 930 (35.2) 122 (4.6) 36 (1.4) 14 15 2,390 (90.5) 82 (3.1) 170 (6.4) 1,969 (74.5) 483 (18.3) 190 (7.2) 2,421 (91.6) 64 (2.4) 157 (5.9) 165 (6.2) 1,629 (61.7) 526 (19.9) 322 (12.2) 134 (5.1) 1,636 (61.9) 825 (31.2) 47 (1.8) 344 (13.0) 988 (37.4) 982 (37.2) 328 (12.4) 459 (17.4) 1,544 (58.4) 550 (20.8) 89 (3.4) 
+
+Abbreviations: ER, estrogen receptor; HR, hormone receptor; Ki-67, protein encoded by the MKI67 gene; PR, progesterone receptor. 
+
+Grade Assessment: Concordance Between Local and Central Pathology Concordance between local and central grade was 68.0% for all tumors: 66.3% for locally HR-positive tumors (Table 2) and 88% for locally HR-negative tumors. A moderate correlation was observed 
+
+between central (or local grade) and the RS result as a continuous variable (r = 0.32 for both) for locally HR-positive tumors. 
+
+Association Between IHC-Based Markers and the RS Result Association of IHC-based markers with RS results was analyzed in locally HR-positive, tumor bank patients. The majority (63.5%) of patients with high RS (. 25) had central G3, but only approximately half (49.9%) had local G3 status. Moreover, 57.0% of central G3 patients and 50.1% of local G3 patients had RS # 25. If both pathologic assessments were concordant (G1/2 or G3), the association with RS was higher (Fig 2A). Even among the few (14%) locally HR-positive tumor bank patients who were both locally and centrally G3, 39.1% still had RS # 25, although only 5.8% had low RS (# 11; Fig 2A). RS had a weak to moderate positive Spearman correlation with Ki-67 (quantitative and semiquantitative) and with central and local grade; it had a moderate negative correlation with IHCdetermined PR and a weak negative correlation with IHCdetermined ER (Appendix Fig A1, online only). In view of these bivariate correlations, we assessed the RS distribution by Ki-67 (semiquantitative) levels (Fig 2B) and by combination of Ki-67 (semiquantitative) and PR levels (Appendix Fig A2). Fewer than 5% of patients with Ki-67 , 20% and PR . 20% had RS . 25. All patients in the small group with Ki-67 $ 40% and PR # 20% had RS . 25 (Appendix Fig A2). Prognostic Effects of Clinicopathologic Parameters and the RS Result Of 135 events reported for the whole trial, 73 events were reported in the HR-positive population (54 distant relapses, 11 secondary neoplasms [mostly contralateral BC] and local relapses, eight deaths without relapse). Three-year DFS was substantially poorer in those with RS . 25 than in others: 3-year DFS was 91.9% (95% CI, 89.0% to 94.8%) in patients with high RS versus 97.8% (95% CI, 96.8% to 98.8%) in patients with intermediate RS and 97.4% in patients with RS # 11 (95% CI, 95.6% to 99.1%; P , .001; Fig 3A). If analysis was focused on patients with pN0 to 1 BC treated with no chemotherapy within the RS # 11 group and treated by chemotherapy with RS $ 12, it resulted in 3-year DFS of 94.9% within the RS . 25 group (95% CI, 91.4% to 98.4%) versus 97.5% (95% CI, 95.9% to 99.0%) within RS 12 to 25 group and 98.4% (95% CI, 97.0% to 99.8%) within the RS # 11 group (P = .05 for RS . 25 v others; Fig 3B). 
+
+Table 2. Contingency Table of Central and Local Grade Assessment in Locally Hormone Receptor–Positive Tumor Bank Patients (N = 2,287) Histologic Grade by Central Laboratory 1 (n = 120) 2 (n = 1,422) 3 (n = 745) 
+
+Histologic Grade by Local Laboratory Grade 1 (n = 164) 
+
+Grade 2 (n = 1,602) 
+
+Grade 3 (n = 521) 
+
+46 (38.3) 106 (7.5) 12 (1.6) 
+
+70 (58.3) 1,135 (79.8) 397 (53.3) 
+
+4 (3.3) 181 (12.7) 336 (45.1) 
+
+NOTE. Data are presented as No. (% within central grade). 
+
+2344 
+
+© 2016 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+The WSG-PlanB Trial: Evaluating the 21-Gene Breast Cancer Assay 
+
+A 100% RS result > 30 
+
+80% 
+
+Percentage of Patients 
+
+26–30 19–25 12–18 
+
+60% 
+
+0–11 
+
+40% 
+
+20% 
+
+0% Grade 
+
+G1 and 2 by local and central n = 1,331 
+
+Discordant grade by local/central n = 584 
+
+Fig 2. Recurrence Score (RS) distribution by grade (A) and by centrally assessed protein encoded by the MKI67 gene (Ki-67, semiquantitative) expression (B) in locally hormone receptor–positive tumor bank patients with measured RS. G, grade. 
+
+G3 by local and central n = 327 
+
+B 100% RS result > 30 
+
+Percentage of Patients 
+
+80% 
+
+26–30 19–25 12–18 
+
+60% 
+
+0–11 
+
+40% 
+
+20% 
+
+0% Ki-67 
+
+0–9 n = 509 
+
+10–19 n = 910 
+
+20–29 n = 592 
+
+30–39 n = 160 
+
+For central grade subgroups, we observed 3-year DFS of 98.4% (95% CI, 99.8% to 96.9%), 98.6% (95% CI, 99.5% to 97.6%), and 95.7% (95% CI, 99.4% to 92.0%) for RS 0 to 11, 12 to 25, and . 25 subgroups within central G1 to 2 tumors (not signiﬁcant for RS . 25 v others) and 93.2% (95% CI, 99.9% to 86.4%), 95.2% (95% CI, 98.0% to 92.4%) and 89.9% (95% CI, www.jco.org 
+
+> 39 n = 99 
+
+93.8% to 85.9%) within central G3 tumors (P = .025 for RS . 25 v others), respectively. Nodal status, central and local grade, continuous Ki-67, ER and PR, tumor size, and RS were univariate prognostic factors for DFS in all locally HR-positive tumor bank patients. Entering these factors into multivariate analysis (Table 3), RS (fractionally © 2016 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+2345 
+
+Gluz et al 
+
+A 
+
+100 
+
+Disease-Free Survival 
+
+80 
+
+60 
+
+40 
+
+Risk groups by RS RS 0–11 (n = 12 events) RS 12–25 (n = 29 events) RS > 25 (n = 32 events) 
+
+20 
+
+P < .001 
+
+0 0 
+
+12 
+
+24 
+
+36 
+
+48 
+
+1,734 
+
+935 
+
+220 
+
+24 
+
+36 
+
+48 
+
+828 
+
+175 
+
+Time (months) No. at risk 
+
+2,009 
+
+B 
+
+1,975 
+
+100 
+
+Fig 3. (A) Disease-free survival by Recurrence Score (RS) groups in locally assessed hormone receptor–positive patients with measured RS. (B) Disease-free survival by RS groups in locally assessed hormone receptor– positive pN0 to 1 patients with measured RS treated with no chemotherapy within the RS , 12 group and RS $ 12 treated by chemotherapy. In the pN1 patients: 3-year disease-free survival: 89.4% versus 97.2% and 97.9% in RS . 25 versus RS 12 to 25 versus RS # 11 group, respectively. In the pN0 patients, 3-year disease-free survival rates of 97% versus 98.5% and 98.6% in RS . 25, RS 12 to 25, and RS # 11 subgroups were observed. 
+
+Disease-Free Survival 
+
+80 
+
+60 
+
+40 
+
+Risk groups by RS RS 0–11 (n = 8 events) RS 12–25 (n = 26 events) RS > 25 (n = 20 events) 
+
+20 P = .05 
+
+0 0 
+
+12 
+
+Time (months) No. at risk 
+
+2346 
+
+1,797 
+
+1,762 
+
+© 2016 by American Society of Clinical Oncology 
+
+1,552 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+The WSG-PlanB Trial: Evaluating the 21-Gene Breast Cancer Assay 
+
+ranked), both central G3 and local G3 (v G1 or G2), and nodal status (pN1 to 3 v pN0 and pN2 to 3 v pN1 to 2) were signiﬁcant multivariate prognostic factors for DFS in this population. When these univariate and multivariate analyses were performed on the subpopulation of patients with RS $ 12, all of whom received chemotherapy, the results were similar (Table 3). 
+
+DISCUSSION 
+
+The most important ﬁnding in our study is the high 3-year DFS (98%) in patients with low RS (# 11) and no chemotherapy, despite being high risk by traditional parameters. Even with an only 3-year follow-up, such a high rate of DFS almost excludes possible beneﬁt from adjuvant chemotherapy. We also found high 3-year DFS (98%) in chemotherapy-treated patients with intermediate RS (12 to 25) and poorer 3-year DFS (92%) in chemotherapy-treated patients with RS . 25. These are the ﬁrst prospective data to our knowledge to report clinical outcome both in patients with nodenegative and with node-positive BC where the RS results had been used in decision making in a large phase III trial. These ﬁndings conﬁrm the recently published prospective TAILORx (Trial Assigning IndividuaLized Options for Treatment) results in node-negative patients21 and retrospective analyses of prospective clinical trials.4,5 Despite its widespread use and inclusion in treatment guidelines, it is important to understand the role of the RS result in the context of traditional parameters assessed by local or centralized, high-quality, controlled pathology review and of established IHC markers. RS was an independent prognostic marker, together with both central and local grade nodal status (but not continuously measured Ki-67, ER, or PR). This ﬁnding is consistent with previously reported data from prospective retrospective studies, although grade has not consistently been signiﬁcant in multivariable 
+
+analysis including RS.5 Our results support consideration of these parameters, together with RS, for prognostic assessment. The lack of signiﬁcance of Ki-67 in the multivariable model including RS is consistent with results of the PACS01 study.22 We have shown by central and local pathology review that signiﬁcant disagreement in grade assessment (discordance of 44% in locally HR-positive tumors) is present, despite the observed prognostic impact of both central and local grade regarding early relapse. Discordance rates seen here are in line with the 28% to 33% reported by other studies17,23 and with our previously reported data.24 Notably, Kennecke et al25 reported 40% grade discordance in node-negative breast cancer. As adjuvant chemotherapy is strongly recommended in patients with G3 tumors, there is an urgent need for additional work on how to further standardize grade assessment in HR-positive breast cancer. We observed a signiﬁcant but moderate correlation between RS and local and central grade (r = 0.32 for both). Central pathologic grade review led to improved association between RS and grade in those patients with concordant local and central grade; however, even in patients with both centrally and locally G3 tumors, 39% had RS # 25. Most of the patients in this group had highly positive ER and/or PR tumors (median ER, 100%; median PR, 90%) with intermediate proliferation (median Ki-67, 20%). Notably, although both grade and RS results have been shown to provide independent prognostic information in some multivariate models17 and to be predictive for efﬁcacy of neoadjuvant chemotherapy,26 only RS has been shown, by interaction analysis, to be predictive for the beneﬁt gained from chemoendocrine therapy.8,9 Subgroup analysis of the prognostic impact of RS subgroups within central grade categories shows a higher prognostic impact of RS in poorly differentiated tumors. Yet, these results should be interpreted with caution and viewed as merely hypothesis generating because of the short follow-up and low event numbers within the small subgroups. 
+
+Table 3. Univariate and Multivariate DFS Models in the Locally Assessed HR-Positive, Tumor Bank Population With Measured RS (n = 2,553) and in the Subpopulation With RS $ 12 (n = 2,003) RS $ 12 (Homogeneous Population; All Chemotherapy Treated) 
+
+All RS Results (Mixed Population; Endocrine Therapy– and Chemotherapy-Treated Patients) Factor 
+
+Coding 
+
+Univariate Hazard Ratio (95% CI) 
+
+P 
+
+Multivariate Hazard Ratio (95% CI) 
+
+P 
+
+Univariate Hazard Ratio (95% CI) 
+
+P 
+
+Multivariate Hazard Ratio (95% CI) 
+
+P 
+
+Fractionally ranked* (75th-25th percentile) 
+
+2.31 (1.52 to 3.52) 
+
+, .001 1.68 (1.04 to 2.74) .035 4.10 (2.21 to 7.61) , .001 
+
+2.43 (1.21 to 4.88) 
+
+.013 
+
+pN1-3 v pN0 pN2-3 v pN0-1 pN3 v pN0-2 Tumor stage pT2-4 v pT1 Local grade G3 v G1 and 2 Central grade G3 v G1 and 2 Ki-67 Fractionally ranked semiquantitative (75th-25th percentile) ER, % Fractionally ranked (75th-25th percentile) PR, % Fractionally ranked (75th-25th percentile) Treatment Endocrine v chemotherapy 
+
+2.30 (1.42 to 3.73) 3.41 (1.93 to 6.03) 6.03 (2.43 to 14.97) 1.62 (1.02 to 2.58) 2.46 (1.55 to 3.91) 3.06 (1.92 to 4.90) 2.53 (1.56 to 4.10) 
+
+.001 , .001 , .001 .04 , .001 , .001 , .001 
+
+, .001 , .001 , .001 
+
+2.98 (1.59 to 5.58) 2.53 (1.33 to 4.82) 
+
+.001 .006 
+
+, .001 , .001 , .001 
+
+1.9 (1.06 to 3.42) 1.97 (1.05 to 3.71) ns 
+
+.032 .035 
+
+0.62 (0.39 to 0.98) 
+
+.04 
+
+ns 
+
+ns 
+
+0.61 (0.40 to 0.93) 
+
+.02 
+
+ns 
+
+0.58 (0.36 to 0.93) 
+
+.024 
+
+ns 
+
+Recurrence Score Nodal status 
+
+ns 
+
+2.45 (1.39 to 4.29) .001 2.69 (1.56 to 4.62) 4.39 (2.45 to 7.87) 2.33 (1.25 to 4.37) .005 7.19 (2.87 to 17.97) ns ns 1.75 (1.01 to 3.02) .05 2.64 (1.60 to 4.36) 2.27 (1.28 to 4.02) .005 3.06 (1.81 to 5.16) ns 2.60 (1.54 to 4.38) 
+
+na 
+
+Abbreviations: ER, estrogen receptor; G, grade; HR, hormone receptor; Ki-67, protein encoded by the MKI67 gene; na, not applicable; ns, not signiﬁcant; PR, progesterone receptor; RS, Recurrence Score. *The continuous variables recurrence score, semiquantitative Ki-67, ER labeling index, and PR labeling index were coded as fractional ranks (from 0 to 1), with the hazard ratio calculated relative to an increment of 0.5 in fractional rank (eg, the hazard ratio for 75th percentile [fractional rank 0.75] v 25th percentile [fractional rank 0.25]). 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+2347 
+
+Gluz et al 
+
+A prospective comparison between IHC subclassiﬁcation and reverse transcriptase polymerase chain reaction–based genomic signature revealed that an absolute majority (. 95%) of patients with luminal A–like tumors by IHC (deﬁned by low Ki-67 and high PR expression) had RS # 25, with uncertain beneﬁt from chemotherapy. Conversely, patients with high Ki-67 and low PR expression all had RS . 25. The most pronounced impact of RS on clinical decision making presumably resides in the large group of patients with intermediate Ki-67 (15% to 35%) and particularly in patients with discordant pathologic assessments of grade, Ki-67, and PR. Notably, although Ki-67 has been shown to be a strong prognostic27 and predictive marker for efﬁcacy of neoadjuvant chemotherapy, or for addition of taxanes to anthracyclines,28 it has no predictive utility for chemoendocrine versus endocrine therapy alone (unlike RS9), as demonstrated in individual trials29 and a meta-analysis.30 The clinical challenge related to Ki-67 use is complicated by the lack of standardization of Ki-67 measurements,14 which is currently being addressed in prospective trials.18 In this trial, we used two approaches (semiquantitative and quantitative) to measure Ki-67, both of which were positively correlated with the RS results. Limitations of this study are the availability of only central Ki-67 assessment (by a large academic laboratory), the nonobligatory clinical implementation of the RS result (obtained before randomization), and the lack of RS in the small group of patients recruited before the amendment. Our early survival results need to be conﬁrmed by longer follow-up in PlanB and by other trials before drawing deﬁnitive conclusions on interactions among the various prognostic markers. The hazard rate for patients with high risk by RS may increase beginning around 20 to 24 months after completion of adjuvant chemotherapy, as is not unexpected in HR-positive/HER2-negative BC. Modeling of this effect within a time-varying survival model would be reasonable within a longer follow-up analysis of PlanB. Our study did not test if there was a chemotherapy beneﬁt compared with endocrine therapy alone in patients with RS $ 12. Nonetheless, it provides important data supporting the use of nodal status and high-quality pathology for analysis of residual relapse risk in patients, despite receiving adjuvant chemotherapy. In conclusion, this is, to our knowledge, the ﬁrst-to-report prospective chemotherapy trial where patients were treated according to the RS result; patients with zero to three involved lymph nodes, at high risk by traditional parameters, but with RS # 11 had excellent 3-year survival despite receiving no adjuvant chemotherapy. Furthermore, the observed association between RS groups and survival conﬁrms retrospective evidence from other 
+
+REFERENCES 1. Perou CM, Sørlie T, Eisen MB, et al: Molecular portraits of human breast tumours. Nature 406: 747-752, 2000 2. Curtis C, Shah SP, Chin S-F, et al: The genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups. Nature 486: 346-352, 2012 
+
+2348 
+
+© 2016 by American Society of Clinical Oncology 
+
+prospective retrospective studies. We also found substantial discordance in grade assessment between local and central pathology, both associated with prognosis. This suggests that better standardization is required but also emphasizes that RS may help to make treatment decisions more homogenous and reliable, independent of where patients are treated. Our clinical outcome ﬁndings, as well as recently published prospective results of the low-risk arm of the TAILORx trial,21 suggest that chemotherapy in patients with low RS (# 11) does not confer clinical beneﬁt, whereas it is yet unknown if the addition of chemotherapy to endocrine therapy will offer beneﬁt to patients with intermediate RS (RS,12 to 25). Several prospective trials are currently investigating the beneﬁt of chemotherapy in patients with intermediate RS, either by randomization (TAILORx/RxPonder [Rx for PositiveNode, Endocrine-Responsive Breast Cancer]) or by dynamic testing of early therapy response (West German Study Group–Adjuvant Dynamic Marker-Adjusted Personalized Therapy31). 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at www.jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Oleg Gluz, Ulrike A. Nitz, Steven Shak, Cornelia Liedtke, Nadia Harbeck Financial support: Steven Shak Administrative support: Ulrike A. Nitz, Matthias Christgen, Daniel Hofmann, Cornelia Liedtke, Christer Svedman, Hans H. Kreipe, Nadia Harbeck Provision of study materials or patients: Oleg Gluz, Ulrike A. Nitz, Matthias Christgen, Steven Shak, Michael Clemens, Stefan Kraemer, Bahriye Aktas, Sherko Kuemmel, Toralf Reimer, Manfred Kusche, Volker Heyl, Fatemeh Lorenz-Salehi, Marianne Just, Daniel Hofmann, Cornelia Liedtke, Rachel Wuerstlein, Hans H. Kreipe, Nadia Harbeck Collection and assembly of data: Oleg Gluz, Ulrike A. Nitz, Matthias Christgen, Michael Clemens, Stefan Kraemer, Bahriye Aktas, Sherko Kuemmel, Toralf Reimerk, Manfred Kusche, Volker Heyl, Fatemeh LorenzSalehi, Marianne Just, Daniel Hofmann, Tom Degenhardt, Cornelia Liedtke, Rachel Wuerstlein, Hans H. Kreipe, Nadia Harbeck Data analysis and interpretation: Oleg Gluz, Ulrike A. Nitz, Matthias Christgen, Ronald E. Kates, Steven Shak, Daniel Hofmann, Cornelia Liedtke, Christer Svedman, Hans H. Kreipe, Nadia Harbeck Manuscript writing: All authors Final approval of manuscript: All authors 
+
+3. Gluz O, Hofmann D, Würstlein R, et al: Genomic proﬁling in luminal breast cancer. Breast Care (Basel) 8:414-422, 2013 4. Paik S, Shak S, Tang G, et al: A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 351: 2817-2826, 2004 5. Dowsett M, Cuzick J, Wale C, et al: Prediction of risk of distant recurrence using the 21-gene recurrence score in node-negative and node-positive postmenopausal patients with breast cancer treated 
+
+with anastrozole or tamoxifen: A TransATAC study. J Clin Oncol 28:1829-1834, 2010 6. Habel LA, Shak S, Jacobs MK, et al: A population-based study of tumor gene expression and risk of breast cancer death among lymph nodenegative patients. Breast Cancer Res 8:R25, 2006 7. Toi M, Iwata H, Yamanaka T, et al: Clinical signiﬁcance of the 21-gene signature (Oncotype DX) in hormone receptor-positive early stage primary breast cancer in the Japanese population. Cancer 116:3112-3118, 2010 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+The WSG-PlanB Trial: Evaluating the 21-Gene Breast Cancer Assay 
+
+8. Paik S, Tang G, Shak S, et al: Gene expression and beneﬁt of chemotherapy in women with nodenegative, estrogen receptor-positive breast cancer. J Clin Oncol 24:3726-3734, 2006 9. Albain KS, Barlow WE, Shak S, et al: Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with nodepositive, oestrogen-receptor-positive breast cancer on chemotherapy: A retrospective analysis of a randomised trial. Lancet Oncol 11:55-65, 2010 10. Gradishar WJ, Anderson BO, Blair SL, et al: Breast cancer version 3.2014. J Natl Compr Canc Netw 12:542-590, 2014 11. Goldhirsch A, Winer EP, Coates AS, et al: Personalizing the treatment of women with early breast cancer: Highlights of the St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2013. Ann Oncol 24:2206-2223, 2013 12. Coates AS, Winer EP, Goldhirsch A, et al: Tailoring therapies-improving the management of early breast cancer: St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2015. Ann Oncol 26:1533-1546, 2015 13. Prat A, Cheang MCU, Martı́n M, et al: Prognostic signiﬁcance of progesterone receptor-positive tumor cells within immunohistochemically deﬁned luminal A breast cancer. J Clin Oncol 31:203-209, 2013 14. Dowsett M, Nielsen TO, A’Hern R, et al: Assessment of Ki67 in breast cancer: Recommendations from the International Ki67 in Breast Cancer working group. J Natl Cancer Inst 103: 1656-1664, 2011 15. McCullough AE, Dell’orto P, Reinholz MM, et al: Central pathology laboratory review of HER2 and ER in early breast cancer: An ALTTO trial [BIG 206/NCCTG N063D (Alliance)] ring study. Breast Cancer Res Treat 143:485-492, 2014 
+
+16. Perez EA, Press MF, Dueck AC, et al: Immunohistochemistry and ﬂuorescence in situ hybridization assessment of HER2 in clinical trials of adjuvant therapy for breast cancer (NCCTG N9831, BCIRG 006, and BCIRG 005). Breast Cancer Res Treat 138:99-108, 2013 17. Badve SS, Baehner FL, Gray RP, et al: Estrogenand progesterone-receptor status in ECOG 2197: Comparison of immunohistochemistry by local and central laboratories and quantitative reverse transcription polymerase chain reaction by central laboratory. J Clin Oncol 26:2473-2481, 2008 18. Polley M-YC, Leung SCY, McShane LM, et al: An international Ki67 reproducibility study. J Natl Cancer Inst 105:1897-1906, 2013 19. Andre F, Arnedos M, Goubar A, et al: Ki67–no evidence for its use in node-positive breast cancer. Nat Rev Clin Oncol 12:296-301, 2015 20. Gennari A, Sormani MP, Pronzato P, et al: HER2 status and efﬁcacy of adjuvant anthracyclines in early breast cancer: A pooled analysis of randomized trials. J Natl Cancer Inst 100:14-20, 2008 21. Sparano JA, Gray RJ, Makower DF, et al: Prospective validation of a 21-gene expression assay in breast cancer. N Engl J Med 33:2005-2014, 2015 22. Penault-Llorca FM, Filleron T, Asselain B, et al: Prediction of recurrence with the Oncotype DX recurrence score in node-positive, HR-positive, breast cancer patients treated with adjuvant chemotherapy: Results from PACS01 trial. J Clin Oncol 32, 2014 (suppl; abstr 11052) 23. Bueno-de-Mesquita JM, Nuyten DSA, Wesseling J, et al: The impact of inter-observer variation in pathological assessment of node-negative breast cancer on clinical risk assessment and patient selection for adjuvant systemic treatment. Ann Oncol 21: 40-47, 2010 24. Gluz O, Liedtke C, Peyro Saint Paul HP, et al: The prognostic and predictive impact of genomic 
+
+grade index (GGI) versus central grade or molecular class in intermediate-risk breast cancer (BC): Results from the EC-Doc trial. J Clin Oncol 31, 2013 (suppl; abstr1092) 25. Kennecke HF, Speers CH, Ennis CA, et al: Impact of routine pathology review on treatment for node-negative breast cancer. J Clin Oncol 30: 2227-2231, 2012 26. Cortazar P, Zhang L, Untch M, et al: Pathological complete response and long-term clinical beneﬁt in breast cancer: The CTNeoBC pooled analysis. Lancet 384:164-172, 2014 27. de Azambuja E, Cardoso F, de Castro G Jr, et al: Ki-67 as prognostic marker in early breast cancer: A meta-analysis of published studies involving 12,155 patients. Br J Cancer 96:1504-1513, 2007 28. Nitz U, Gluz O, Huober J, et al: Final analysis of the prospective WSG-AGO EC-Doc versus FEC phase III trial in intermediate-risk (pN1) early breast cancer: Efﬁcacy and predictive value of Ki67 expression. Ann Oncol 25:1551-1557, 2014 29. Viale G, Regan MM, Mastropasqua MG, et al: Predictive value of tumor Ki-67 expression in two randomized trials of adjuvant chemoendocrine therapy for node-negative breast cancer. J Natl Cancer Inst 100:207-212, 2008 30. Luporsi E, André F, Spyratos F, et al: Ki-67: Level of evidence and methodological considerations for its role in the clinical management of breast cancer: Analytical and critical review. Breast Cancer Res Treat 132:895-915, 2012 31. Hofmann D, Nitz U, Gluz O, et al: WSG ADAPT–Adjuvant Dynamic Marker-Adjusted Personalized Therapy trial optimizing risk assessment and therapy response prediction in early breast cancer: Study protocol for a prospective, multi-center, controlled, non-blinded, randomized, investigator initiated phase II/III trial. Trials 14:261, 2013 
+
+Affiliations Oleg Gluz, Ulrike A. Nitz, Ronald E. Kates, Daniel Hofmann, Cornelia Liedtke, Rachel Wuerstlein, and Nadia Harbeck, West German Study Group; Oleg Gluz and Ulrike A. Nitz, Evangelical Hospital Bethesda, Moenchengladbach; Matthias Christgen and Hans H. Kreipe, Medical School Hannover, Hannover; Michael Clemens, Mutterhaus der Borromäerinnen, Trier; Stefan Kraemer, University Clinics Cologne, Cologne; Bahriye Aktas, University Clinics Essen; Sherko Kuemmel, Clinics Essen-Mitte, Essen; Toralf Reimer, Clinics Suedstadt, Rostock; Manfred Kusche, Marienhospital Aachen, Aachen; Volker Heyl, Asklepios Paulinen Clinics; Fatemeh Lorenz-Salehi, Dr HorstSchmidt Clinics, Wiesbaden; Marianne Just, Oncologic Practice, Bielefeld; Tom Degenhardt, Rachel Wuerstlein, and Nadia Harbeck, University of Munich, Munich; Cornelia Liedtke, University Hospital Schleswig-Holstein Campus Luebeck, Luebeck, Germany; and Steven Shak and Christer Svedman, Genomic Health, Redwood City, CA. n n n 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+2349 
+
+Gluz et al 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+West German Study Group Phase III PlanB Trial: First Prospective Outcome Data for the 21-Gene Recurrence Score Assay and Concordance of Prognostic Markers by Central and Local Pathology Assessment The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc. Oleg Gluz Consulting or Advisory Role: Genomic Health, NanoString Technologies 
+
+Manfred Kusche No relationship to disclose 
+
+Ulrike A. Nitz Consulting or Advisory Role: Genomic Health, Roche, Celgene, Amgen, TEVA Pharmaceuticals Industries Research Funding: Roche (Inst), Genomic Health (Inst), TEVA Pharmaceuticals Industries (Inst), Celgene (Inst), Bayer HealthCare Pharmaceuticals (Inst), NanoString Technologies (Inst), Agendia NV (Inst), Amgen (Inst), AOK Rheinland/Hamburg (Inst) 
+
+Volker Heyl No relationship to disclose 
+
+Matthias Christgen No relationship to disclose 
+
+Daniel Hofmann No relationship to disclose 
+
+Ronald E. Kates Honoraria: Roche (I), Novartis (I), Celgene (I), NanoString Technologies (I), Amgen (I), Pﬁzer (I) Consulting or Advisory Role: Genentech (I), Novartis (I), Celgene (I), AstraZeneca (I), Wilex (I), Sandoz (I), Genomic Health (I), Genentech (I), Novartis (I), Boehringer Ingelheim (I), Pﬁzer (I) Research Funding: Genentech (I), Novartis (I), Boehringer Ingelheim (I), Pﬁzer (I) 
+
+Tom Degenhardt No relationship to disclose 
+
+Steven Shak Employment: Genomic Health Leadership: Genomic Health Stock or Other Ownership: Genomic Health Patents, Royalties, Other Intellectual Property: Filed Oncotype DX patents (Inst) Michael Clemens No relationship to disclose Stefan Kraemer No relationship to disclose Bahriye Aktas No relationship to disclose Sherko Kuemmel Honoraria: Genomic Health, Amgen, Roche, Novartis, Celgene, TEVA Pharmaceuticals Industries Consulting or Advisory Role: Roche Research Funding: Roche Travel, Accommodations, Expenses: Roche, Celgene Toralf Reimer No relationship to disclose 
+
+© 2016 by American Society of Clinical Oncology 
+
+Fatemeh Lorenz-Salehi No relationship to disclose Marianne Just No relationship to disclose 
+
+Cornelia Liedtke Honoraria: Roche, Genomic Health, GlaxoSmithKline, AstraZeneca, Eisai, Celgene, PharmaMar, Amgen Consulting or Advisory Role: Roche, Genomic Health, TEVA Pharmaceuticals Industries, Pierre Fabre, Novartis Speakers’ Bureau: Genomic Health Research Funding: Eisai, Roche, Novartis, Boehringer Ingelheim Travel, Accommodations, Expenses: Roche, TEVA Pharmaceuticals Industries, PharmaMar, Celgene Christer Svedman Employment: Genomic Health Stock or Other Ownership: Genomic Health Patents, Royalties, Other Intellectual Property: Renal prognostic signature developed at Genomic Health Rachel Wuerstlein Honoraria: Genomic Health Consulting or Advisory Role: Genomic Health, Amgen Hans H. Kreipe Consulting or Advisory Role: Genomic Health Nadia Harbeck Honoraria: Roche, Novartis, Celgene, NanoString Technologies, Amgen, Pﬁzer Consulting or Advisory Role: Genentech, Novartis, Celgene, AstraZeneca, Sandoz, Genomic Health, Pﬁzer Research Funding: Genentech (Inst), Novartis (Inst), Boehringer Ingelheim (Inst), Pﬁzer (Inst) 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+The WSG-PlanB Trial: Evaluating the 21-Gene Breast Cancer Assay 
+
+Acknowledgment We thank all patients who participated in the trial and all PlanB investigators. We thank all PlanB pathologists for providing tumor blocks to the central tumor bank. We also thank C. Buehne, I. Renner, and Palleos for study management; the PlanB central pathology at Medizinische Hochschule Hannover; A. Bareket Samish for her editorial assistance; and the study sponsors, Genomic Heath, Amgen, and Sanoﬁ Aventis. Appendix 
+
+Central grade 
+
+Local grade 
+
+ER expression 
+
+PR expression 
+
+ER _LI 
+
+PR _LI 
+
+Ki-67 (semiquantitative) 
+
+Ki-67 (quantitative) 
+
+–0.5 
+
+–0.4 
+
+–0.3 
+
+–0.2 
+
+–0.1 
+
+0.0 
+
+0.1 
+
+0.2 
+
+0.3 
+
+0.4 
+
+0.5 
+
+Fig A1. Spearman correlation of single markers (local and central grade, estrogen receptor [ER], progesterone receptor [PR], and protein encoded by the MKI67 gene [Ki-67]) and recurrence score results. LI, labeling index. 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Gluz et al 
+
+A 100% RS result > 30 
+
+Percentage of Patients 
+
+80% 
+
+26–30 19–25 12–18 
+
+60% 
+
+0–11 
+
+40% 
+
+20% 
+
+0% Ki-67 
+
+0–9 n = 133 
+
+10–19 n = 234 
+
+20–29 n = 178 
+
+30–39 n = 68 
+
+> 39 n = 52 
+
+B 100% RS result > 30 
+
+Percentage of Patients 
+
+80% 
+
+26–30 19–25 12–18 
+
+60% 
+
+0–11 
+
+40% 
+
+20% 
+
+0% Ki-67 
+
+0–9 n = 376 
+
+10–19 n = 676 
+
+20–29 n = 414 
+
+30–39 n = 92 
+
+> 39 n = 47 
+
+Fig A2. Recurrence score (RS) distribution by centrally assessed protein encoded by the MKI67 gene (Ki-67; semiquantitative) expression (A) in the subpopulation of patients with progesterone receptor # 20%, and (B) in the subpopulation of patients with progesterone receptor . 20%. 
+
+© 2016 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+ 

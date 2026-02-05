@@ -1,0 +1,953 @@
+VOLUME 
+
+27 
+
+䡠 
+
+NUMBER 
+
+18 
+
+䡠 
+
+JUNE 
+
+20 
+
+2009 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+From the Department of Academic Biochemistry, Royal Marsden Hospital, London, United Kingdom; Frontier Science (Scotland) Ltd, Kincraig, Kingussie, Scotland; National Cancer Institute, National Institutes of Health, Bethesda, MD; Departments of Medical Oncology and Medicine, Institut Jules Bordet, Université Libre de Bruxelles; Breast European Adjuvant Studies Team, Brussels, Belgium; Department of Public Health, School of Nursing, University of Athens, Athens, Greece; TARGOS Molecular Pathology GmbH, Kassel, Germany; Roche Professional Diagnostics, F. Hoffmann-La Roche Ltd, Basel, Switzerland; VM Institute of Research, Montreal, Quebec, Canada; Division of Pathology and Laboratory Medicine, European Institute of Oncology and University of Milan, Milan, Italy; Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Boston, MA; and Emory Winship Cancer Institute, Atlanta, GA. Submitted August 21, 2008; accepted January 12, 2009; published online ahead of print at www.jco.org on April 13, 2009. Supported in part by NHS (National Health Service) funding to the Royal Marsden National Institute for Health Research Biomedical Research Centre (M.D.). Presented in part at the 30th Annual San Antonio Breast Cancer Symposium, December 13-16, 2007, San Antonio, TX. Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org. 
+
+Corresponding author: Mitch Dowsett, PhD, Royal Marsden Hospital, Fulham Rd, London SW3 6JJ, United Kingdom; e-mail: mitch.dowsett@icr.ac.uk. The Acknowledgment is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®). © 2009 by American Society of Clinical Oncology 0732-183X/09/2718-2962/$20.00 DOI: 10.1200/JCO.2008.19.7939 
+
+2962 
+
+R E P O R T 
+
+Disease-Free Survival According to Degree of HER2 Amplification for Patients Treated With Adjuvant Chemotherapy With or Without 1 Year of Trastuzumab: The HERA Trial Mitch Dowsett, Marion Procter, Worta McCaskill-Stevens, Evandro de Azambuja, Urania Dafni, Josef Rueschoff, Bruce Jordan, Stella Dolci, Mark Abramovitz, Oliver Stoss, Giuseppe Viale, Richard D. Gelber, Martine Piccart-Gebhart, and Brian Leyland-Jones A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose To determine whether (1) immunohistochemical (IHC) HER2 status (ie, 2⫹ or 3⫹), (2) degree of fluorescence in situ hybridization (FISH) amplification according to (2a) HER2/CEP17 ratio or (2b) HER2 gene copy number, or (3) polysomy significantly influenced clinical outcome for patients with human epidermal growth factor receptor 2 (HER2) –positive breast cancer enrolled in the Herceptin Adjuvant trial of trastuzumab versus no trastuzumab administered after completion of chemotherapy. Patients and Methods IHC and/or FISH analyses were performed locally and required central confirmation as indicating HER2 positivity for trial entry. FISH data from the central HER2 analysis on patients in the 1-year trastuzumab and no trastuzumab arms were assessed in relation to disease-free survival (DFS) after a median 2 years of follow-up. Results Central FISH results were available for 2,071 (61%) of the 3,401 patients randomized to the 2 arms. Among patients with FISH-positive disease, (1) the hazard ratios for trastuzumab versus no trastuzumab were 0.56 (95% CI, 0.32 to 0.99) for locally IHC2⫹ cases (n ⫽ 340) and 0.80 (95% CI, 0.40 to 1.61) for centrally IHC2⫹ cases (n ⫽ 299). There was no significant prognostic relationship between (2a) HER2 FISH ratio, (2b) HER2 copy number, or (3) polysomy and DFS in the control arm or predictive relationship defining differential benefit from trastuzumab. Conclusion There was no evidence for reduced benefit of trastuzumab in HER2 IHC2⫹FISH⫹ cases. The degree of HER2 amplification does not influence prognosis or benefit from adjuvant trastuzumab in patients treated with prior adjuvant chemotherapy. J Clin Oncol 27:2962-2969. © 2009 by American Society of Clinical Oncology 
+
+Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical Trials repository link available on JCO.org. 
+
+O R I G I N A L 
+
+INTRODUCTION 
+
+The human epidermal growth factor receptor 2 (HER2) is a 185-kd glycoprotein with tyrosine kinase activity. Its overexpression in breast cancer is a key feature of the pathobiology of the disease and is associated with poorer prognosis.1,2 Amplification is the primary mechanism of HER2 overexpression.3 Approximately 15% of all newly diagnosed invasive breast carcinomas are HER2 positive (HER2⫹) but the proportion is higher among tumors with higher grade and patients with positive nodal status. As a result approximately 25% of patients considered appropriate for adjuvant chemotherapy are HER2 positive.4 
+
+Trastuzumab is a humanized monoclonal antibody directed to the external domain of HER2. Four large and one small randomized trial of trastuzumab (Herceptin; Genentech, South San Francisco, CA) in early breast cancer have shown that this treatment can significantly improve the patient outcome when trastuzumab is applied alongside and/or subsequent to adjuvant chemotherapy.5-8 Decreases in recurrence and mortality of approximately one half and one third, respectively, have been demonstrated. As a result trastuzumab has become standard of care for the treatment of HER2⫹ early breast cancer. The diagnosis of HER2 overexpression is based on two analytic approaches that are most commonly 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+HER2 Amplification and Trastuzumab Benefit 
+
+used in conjunction: immunohistochemistry (IHC) and in situ hybridization (ISH).9 IHC reveals overexpression of HER2 on the cell membrane. The degree of staining is most frequently described on a scale of 0 to 3, with 3⫹ being considered unequivocally positive (⬎ 10% of cells with intense circumferential membrane staining according to US Food and Drug Administration, or ⬎ 30% immunostained tumor cells as per the recent American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) recommendations9), 2⫹ equivocal and 0/1⫹ negative. ISH reveals the number of HER2 gene copies per cell and has been most commonly conducted with a fluorescence in situ hybridization (FISH) probe. A second probe that hybridizes to the centromeric region of chromosome 17 (CEP17) can be used and this allows the ratio of HER2 gene copies per chromosome to be calculated. A ratio of 2.0 or greater is regarded as positive according to the US Food and Drug Administration recommendations, though a cutoff of 2.2 or greater has been proposed more recently in the ASCO/CAP guidelines.9 The aims of the current study were to determine whether within the control and 1-year treatment arms of HERceptin Adjuvant (HERA), the largest of the adjuvant trials, there were significant differences in clinical outcome according to IHC status (ie, 2⫹ or 3⫹) in FISH-amplified cases or according to the degree of FISH amplification. We also assessed the impact of increased HER2 gene copy number as a result of polysomy on prognosis and treatment benefit and the impact of polysomy itself in an HER2-positive population. 
+
+tion was required for tumors that were assessed in the participating institution as IHC2⫹ or FISH-positive. FISH was not performed before randomisation on cases that were locally deemed IHC3⫹ and confirmed IHC3⫹ centrally. The results from both local and central analyses were recorded in the case report forms. For the purposes of this study additional FISH analyses were performed retrospectively for patients not having a central FISH analysis before randomisation. Tissue sections of 4 microns were used from one of two resources: (1) sections cut at the time of central analysis and stored at TARGOS; (2) sections taken in TransHERA, a parallel project to HERA in which formalin fixed paraffin embedded (FFPE) tumor excision blocks have been collected retrospectively for translational research studies. These retrospective FISH analyses were conducted either at TARGOS or in the European Institute of Oncology (Milan, Italy) after an initial pilot study to ensure common standardized procedures. Statistics The database closure for this analysis was February 14, 2006. Between December 2001 and June 2005, there were 1,698 patients randomized to observation (no trastuzumab) only and 1,703 patients randomly assigned to 1-year trastuzumab. We calculated Kaplan-Meier estimates for 3 year DFS rates according to subgroups and estimated SEs and 95% CIs according to the Greenwood formula.11,12 We calculated Kaplan-Meier estimates for DFS curves for observation patients according to defined subgroups. Tests for interaction between treatment, respective pathological parameter and DFS were carried out using Cox proportional hazard models. 
+
+RESULTS PATIENTS AND METHODS The HERA (Breast International Group [BIG] 01-01) trial is an international, intergroup, open-label, phase III randomized trial involving women with HER2-positive (overexpressed or amplified) early stage invasive breast cancer who completed locoregional therapy (surgery plus radiotherapy where indicated) and a minimum of 4 courses of chemotherapy. The study design, eligibility criteria, treatment schedules, monitoring and statistical analysis plan have been described in detail elsewhere.5 Eligibility criteria included nodepositive disease or node-negative disease if the pathological tumor size was greater than 1 cm. The institutional review board at each of the participating institutions approved the study protocol. All patients gave written informed consent. After local regional therapy patients were randomly assigned to one of three groups: observation only (no trastuzumab), 8 mg/kg trastuzumab intravenously as a loading dose followed by 6 mg/kg every 3 weeks for 1 year, or the same schedule of trastuzumab for 2 years: outcome data is not yet available for the 2-year arm. Randomisation took place within 7 weeks from the last chemotherapy cycle or 6 weeks from the end of radiotherapy or definitive surgery, whichever was last. The primary end point of the trial was disease-free survival (DFS), and this is the only end point reported here. The data presented here are from the analysis conducted after a median 2-years of follow-up.10 DFS was defined as time from randomisation to the first occurrence of any of the following events: recurrence of breast cancer at any site; the development of ipsilateral or contralateral breast cancer including ductal carcinoma in situ; second nonbreast malignant disease other than basal cell or squamous cell carcinoma in situ of the cervix; or death from any cause without documentation of a cancerrelated event. Central confirmation (TARGOS, Kassel, Germany) of the HER2positive status of tumors was required in all cases before randomisation as follows. A result on IHC (DAKO, HercepTest) at the central lab of 3⫹ (⬎ 10% stained cells) was required for confirmation of the status of tumors assessed by the participating institution as 3⫹, and a positive result from FISH (PathVysion, Vysis; HER2:CEP17 ratio ⱖ 2.0) for HER2 amplificawww.jco.org 
+
+Central FISH results were available on 2,071 (61%) of the 3,401 patients randomized to the 1-year trastuzumab or no trastuzumab arms of HERA. Of these 1,131 results were derived during the eligibility screening and 940 were derived from material banked either as spare sections at TARGOS or as sections taken for TransHERA. DFS was similar for the subgroup of 2,071 patients at 3 years to that for the overall set of 3,401 patients both for the treated (80.6% and 81.2%, respectively) and untreated arms (74.3% and 75.1%, respectively). The HR for trastuzumab versus no trastuzumab in the subgroup was 0.69 (95% CI, 0.55 to 0.86) versus 0.64 (95% CI, 0.54 to 0.76) in the overall population. Effectiveness of Trastuzumab in IHC2ⴙFISHⴙ To determine whether patients with IHC2⫹FISH⫹ breast cancer derived significant benefit from trastuzumab, analyses were performed in two partially overlapping populations: (i) in the 340 cases that were locally IHC2⫹ and centrally FISH⫹ the hazard ratio was 0.56 (95% CI, 0.32 to 0.99); and (ii) in the 299 cases that were centrally IHC2⫹ and centrally FISH⫹ the hazard ratio was 0.80 (95% CI, 0.40 to 1.61). The overlap between these populations was only 53 patients, mainly because the majority of local IHC2⫹ central FISH⫹ cases did not have a central IHC result and the majority of the central IHC2⫹ central FISH⫹ cases were local IHC3⫹. We examined the ER status for patients in the 2 IHC2⫹FISH⫹ subgroups described above because it is known that ER positivity and HER-2 protein levels are inversely correlated.13 In the locally IHC2⫹FISH⫹ subgroup, 60.3% of cases were ER⫹ compared with 45.6% in the locally IHC3⫹FISH⫹ (P ⬍ .0001). Similarly, 63.2% of the centrally IHC2⫹FISH⫹ cases were ER⫹ compared with 42.2% of the centrally IHC3⫹FISH⫹ (P ⬍ .0001). © 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2963 
+
+Dowsett et al 
+
+Disease-Free Survival (%) 
+
+A 
+
+B 
+
+n = 593 
+
+200 
+
+n = 453 
+
+150 
+
+n = 41 
+
+2 ≤ FISH ratio ≤ 4 (n = 224; 3-yr DFS 72%) 4 < FISH ratio ≤ 6 (n = 286; 3-yr DFS 73%) 6 < FISH ratio ≤ 8 (n = 239; 3-yr DFS 78%) FISH ratio > 8 (n = 250; 3-yr DFS 76%) 
+
+20 
+
+6 
+
+12 
+
+6 
+
+8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 
+
+FISH Ratio 
+
+B 140 
+
+n = 519 
+
+120 
+
+n = 556 
+
+100 
+
+n = 480 
+
+80 
+
+n = 468 
+
+60 
+
+n = 48 
+
+Disease-Free Survival (%) 
+
+D 4 
+
+24 
+
+30 
+
+36 
+
+100 80 60 40 4 ≤ HER2 copy number ≤ 9 (n = 229; 3-yr DFS 73%) 9 < HER2 copy number ≤ 13 (n = 239; 3-yr DFS 74%) 13 < HER2 copy number ≤ 18 (n = 275; 3-yr DFS 77%) HER2 copy number >18 (n = 257; 3-yr DFS 75%) 
+
+20 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+100 80 60 40 
+
+0 
+
+2 
+
+18 
+
+Time (months) 
+
+CEP17 ≤ 2 and FISH ratio ≥ 2 (n = 416; 3-yr DFS 75%) 2 < CEP17 < 3 and FISH ratio ≥ 2 (n = 461; 3-yr DFS 79%) CEP17 ≥ 3 and FISH ratio ≥ 2 (n = 122; 3-yr DFS 64%) 6 
+
+12 
+
+100 
+
+0 
+
+No. of Patients 
+
+40 
+
+20 
+
+50 
+
+18 
+
+24 
+
+30 
+
+36 
+
+Time (months) 100 80 60 40 20 Polysomy and FISH ratio ≥ 2 (n = 443; 3-yr DFS 74%) No polysomy and FISH ratio ≥ 2 (n = 556; 3-yr DFS 77%) 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+Time (months) 
+
+40 20 0 
+
+4 
+
+8 
+
+12 16 
+
+20 
+
+24 
+
+28 
+
+32 36 
+
+40 
+
+44 48 
+
+52 56 
+
+60 
+
+64 
+
+HER2 Copy Number per Cell 
+
+C 350 
+
+n = 912 
+
+250 
+
+than 2.0 to 4.0, more than 4.0 to 6.0, more than 6.0 to 8.0 and more than 8.0, respectively (P ⬍ .0001). 
+
+n = 846 
+
+200 150 100 50 0 
+
+Fig 2. Disease-free survival according to (A) HER2 FISH ratio, (B) HER2 copy number, and (C) CEP17 copy number (for patients with FISH ratio ⱖ 2) in the observation arm of the HERA trial: details of the populations defined by cut-offs shown in Figure 1 and (D) CEP17 copy number according to NCCTG cut-offs (see text). CEP17, chromosome 17 centromere; FISH, fluorescence in situ hybridization; HER2, human epidermal growth factor receptor 2 gene. 
+
+n = 272 
+
+300 
+
+No. of Patients 
+
+60 
+
+Time (months) 
+
+Disease-Free Survival (%) 
+
+n = 490 
+
+250 
+
+No. of Patients 
+
+n = 494 
+
+300 
+
+80 
+
+0 
+
+C A 350 
+
+100 
+
+0 
+
+Disease-Free Survival (%) 
+
+Relationship Between FISH Ratio and HER2 Copy Number With Prognosis and Benefit From Trastuzumab The distribution and range of FISH ratios and HER2 copy numbers are shown in Figures 1A and 1B, respectively. Analyses of FISH ratio and HER2 copy number with clinical outcome were conducted by comparison of approximate quartiles of the respective data sets: exact quartiles were calculated and then the closest integer cutoff was applied to define the 4 approximate quartiles (shown in Fig 1A and 1B). There was no significant relationship between FISH ratio levels or HER2 copy number on prognosis in the untreated arm (Fig 2A and 2B). Although there was an apparent trend towards decreasing effectiveness of trastuzumab with increasing FISH ratio (Fig 3A; Table 1) this was not statistically significant (P ⫽ .29) and the trend was less evident when HER-2 was quantified by copy number only (P ⫽ .38) (Fig 3B; Table 2). FISH ratio was found to correlate inversely with ER-positivity (based on locally performed ER analyses): the proportion ER⫹ was 64%, 46%, 46% and 39% for the categories of more 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+HER2 FISH Ratios Less Than 2.0 There were only 41 patients with tumors that by central FISH analysis had HER2 ratios less than 2.0. We therefore performed no evaluation of possible benefit from trastuzumab in this subgroup. 
+
+CEP17 Count per Cell Fig 1. Distribution of (A) HER2 FISH ratio, (B) HER2 copy number, (C) CEP17 copy number (for patients with FISH ratio ⱖ 2) for patients in the 1-year trastuzumab and observation arms of the HERA trial showing cut-offs used for comparative analysis. CEP17, chromosome 17 centromere; FISH, fluorescence in situ hybridization; HER2, human epidermal growth factor receptor 2 gene. 2964 
+
+© 2009 by American Society of Clinical Oncology 
+
+Relationship Between Chromosome 17 (chr17) Polysomy With Prognosis and Benefit From Trastuzumab The distribution of chr17 copy numbers/cell is shown in Figure 1C. Two sets of comparative analyses were conducted: JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+HER2 Amplification and Trastuzumab Benefit 
+
+A 
+
+Subgroup 
+
+No. of patients 
+
+No. of events T v obs 
+
+HR (95% CI) 
+
+2 ≤ FISH ratio ≤ 4 
+
+453 
+
+22 v 38 
+
+0.56 (0.33 to 0.94) 
+
+4 < FISH ratio ≤ 6 
+
+593 
+
+35 v 53 
+
+0.57 (0.37 to 0.87) 
+
+6 < FISH ratio ≤ 8 
+
+490 
+
+32 v 41 
+
+0.74 (0.47 to 1.18) 
+
+FISH ratio > 8 
+
+494 
+
+43 v 48 
+
+0.91 (0.60 to 1.37) 0.59 (0.45 to 0.77) 
+
+Other: unknown or < 2 
+
+1,371 
+
+86 v 141 
+
+All patients 
+
+3,401 
+
+218 v 321 0.64 (0.54 to 0.76) P for interaction = .29 (FISH ≥ 2 only) 
+
+0.0 
+
+B 
+
+Subgroup 
+
+1.5 
+
+No. of events T v obs 
+
+HR (95% CI) 
+
+4 ≤ HER2 copy number ≤ 9 
+
+468 
+
+26 v 42 
+
+0.55 (0.34 to 0.90) 
+
+9 < HER2 copy number ≤ 13 
+
+480 
+
+30 v 40 
+
+0.73 (0.45 to 1.16) 
+
+13 < HER2 copy number ≤ 18 
+
+556 
+
+27 v 50 
+
+0.51 (0.32 to 0.82) 
+
+HER2 copy number > 18 
+
+519 
+
+47 v 50 
+
+0.90 (0.60 to 1.34) 
+
+Other: unknown or < 4 
+
+1,378 
+
+88 v 139 
+
+0.60 (0.46 to 0.79) 
+
+All patients 
+
+3,401 
+
+218 v 321 0.64 (0.54 to 0.76) P for interaction = .38 (HER2 copy number ≥ 4) 
+
+Subgroup 
+
+0.5 
+
+1.0 
+
+1.5 
+
+No. of patients 
+
+No. of events T v obs 
+
+HR (95% CI) 
+
+CEP17 ≤ 2 and FISH ratio ≥ 2 
+
+846 
+
+55 v 79 
+
+0.64 (0.45 to 0.90) 
+
+2 < CEP17 < 3 and FISH ratio ≥ 2 
+
+912 
+
+64 v 73 
+
+0.87 (0.62 to 1.22) 
+
+CEP17 > 3 and FISH ratio ≥ 2 
+
+272 
+
+13 v 28 
+
+0.39 (0.20 to 0.75) 
+
+Other: CEP17 unknown and/or FISH ratio < 2 
+
+1,371 
+
+86 v 141 
+
+0.59 (0.45 to 0.77) 
+
+All patients 
+
+3,401 
+
+218 vs 321 
+
+0.64 (0.54 to 0.76) 
+
+No. of patients 
+
+No. of events T v obs 
+
+HR (95% CI) 
+
+Polysomy and FISH ratio ≥ 2 
+
+883 
+
+52 v 77 
+
+0.67 (0.47 to 0.96) 
+
+No polysomy and FISH ratio ≥ 2 
+
+1,147 
+
+80 v 103 
+
+0.70 (0.52 to 0.94) 
+
+Other: polysomy unknown and/or FISH ratio < 2 
+
+1,371 
+
+86 v 141 
+
+0.59 (0.45 to 0.77) 
+
+All patients 
+
+3,401 
+
+218 v 321 
+
+0.64 (0.54 to 0.76) 
+
+0.0 
+
+D 
+
+1.0 
+
+No. of patients 
+
+0.0 
+
+C 
+
+0.5 
+
+Subgroup 
+
+0.0 
+
+0.5 
+
+1.0 
+
+0.5 
+
+1.5 
+
+1.0 
+
+(i) between three groups defined by copy numbers/cell ⱕ 2.0, 2.0 to 3.0 and more than/⫽ 3.0; and (ii) between groups defined as polysomic or not where polysomy was considered as at least 30% of nuclei with 3 or more CEP17 signals. For both (i) and (ii) there was no significant difference in prognosis (Fig 2C and 2D) and no significant difference in the effectiveness of trastuzumab (Fig 3C and 3D; Tables 3 and 4) according to chr17 copy number. www.jco.org 
+
+Fig 3. Forest plots of the relative benefit from trastuzumab according to (A) HER2 FISH ratio, (B) HER2 copy number, and (C) CEP17 copy number (for patients with FISH ratio ⱖ 2) in the HERA trial: details of the populations defined by cutoffs shown in Figure 1 and (D) CEP17 copy number according to NCCTG cut-offs (see text). CEP17, chromosome 17 centromere; FISH, fluorescence in situ hybridization; HER2, human epidermal growth factor receptor 2 gene; HR, hazard ratio; IHC, immunohistochemistry; obs, observation; T, trastuzumab. 
+
+DISCUSSION 
+
+Large randomized trials have established trastuzumab as the standard of care in patients with early HER2-positive breast cancer also suitable for treatment with chemotherapy.5-7 Although there has been much debate about the appropriate method of diagnosing HER-2 status widely accepted guidelines have recently been published that confirm © 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2965 
+
+Dowsett et al 
+
+Table 1. DFS by Central FISH Ratio DFS Events Population/Treatment 2 ⱕ FISH ratio ⱕ 4 1 year of trastuzumab Observation 4 ⬍ FISH ratio ⱕ 6 1 year of trastuzumab Observation 6 ⬍ FISH ratio ⱕ 8 1 year of trastuzumab Observation FISH ratio ⬎ 8 1 year of trastuzumab Observation Other: unknown or ⬍ 2 1 year of trastuzumab Observation 
+
+3-Year DFS 
+
+No. of Patients 
+
+No. 
+
+% 
+
+% 
+
+95% CI 
+
+Hazard Ratio 
+
+95% CI 
+
+229 224 
+
+22 38 
+
+9.6 17.0 
+
+85.0 72.4 
+
+75.5 to 91.1 60.4 to 81.3 
+
+0.56 
+
+0.33 to 0.94 
+
+307 286 
+
+35 53 
+
+11.4 18.5 
+
+82.8 73.1 
+
+75.9 to 87.9 65.1 to 79.6 
+
+0.57 
+
+0.37 to 0.87 
+
+251 239 
+
+32 41 
+
+12.7 17.2 
+
+82.8 77.6 
+
+75.6 to 88.0 69.9 to 83.6 
+
+0.74 
+
+0.47 to 1.18 
+
+244 250 
+
+43 48 
+
+17.6 19.2 
+
+75.1 76.2 
+
+67.1 to 81.4 69.0 to 82.0 
+
+0.91 
+
+0.60 to 1.37 
+
+672 699 
+
+86 141 
+
+12.8 20.2 
+
+79.2 73.7 
+
+73.3 to 83.9 69.3 to 77.5 
+
+0.59 
+
+0.45 to 0.77 
+
+Abbreviations: DFS, disease-free survival; FISH, fluorescence in situ hybridization. 
+
+the combined use of IHC and/or FISH as an appropriate means of establishing positivity.9 It is clear however that the degree of HER-2 overexpression/amplification varies markedly in patients considered positive: the wide range and the continuum of this variability is well demonstrated by the analyses shown in this study (Fig 1). The relatively low level of HER-2 protein expression in the subgroup of patients with IHC2⫹/FISH⫹ disease might conceivably lead to a lower degree of benefit in such patients. The design of the central testing algorithm in HERA resulted in there being two sets of samples available to address this issue. In both the locally IHC2⫹/FISH⫹ and centrally IHC2⫹/FISH⫹ cohorts, ER was positive in a greater proportion than in the corresponding IHC3⫹ cohort. Given that there is a well-described inverse relationship between HER-2 protein levels and ER positivity in breast cancers,13 
+
+these data provide supporting evidence for lower levels of HER-2 protein in both of the IHC2⫹/FISH⫹ groups compared with IHC3⫹ cases. We found a statistically significant benefit in the 340 patients (with 49 events) that were diagnosed locally with IHC 2⫹ and centrally with FISH⫹ disease. For the group of 299 patients that was diagnosed centrally with IHC2⫹ and FISH⫹ disease, there was no significant benefit found but the 95% CI for the hazard ratio included the overall hazard ratio (0.64) and there was no statistically significant difference from the overall result by the test of heterogeneity. Data from the NSABP B31 trial also suggested benefit in the IHC2⫹/FISH⫹ group while the NCCTG N9831 trial did not. In both cases, however, the number of DFS events was very low14,15 and a meta-analysis is needed to provide useful information. 
+
+Table 2. DFS According to Central HER2 Gene Copy Number DFS Events Population/Treatment 4 ⱕ HER2 copy number ⱕ 9 1 year of trastuzumab Observation 9 ⬍ HER2 copy number ⱕ 13 1 year of trastuzumab Observation 13 ⬍ HER2 copy number ⱕ 18 1 year of trastuzumab Observation HER2 copy number ⬎ 18 1 year of trastuzumab Observation Other: unknown or ⬍ 4 1 year of trastuzumab Observation 
+
+3-Year DFS 
+
+No. of Patients 
+
+No. 
+
+% 
+
+% 
+
+95% CI 
+
+Hazard Ratio 
+
+95% CI 
+
+239 229 
+
+26 42 
+
+10.9 18.3 
+
+82.3 73.0 
+
+72.5 to 88.9 62.5 to 81.1 
+
+0.55 
+
+0.34 to 0.90 
+
+241 239 
+
+30 40 
+
+12.4 16.7 
+
+83.8 73.8 
+
+77.1 to 88.6 64.2 to 81.1 
+
+0.73 
+
+0.45 to 1.16 
+
+281 275 
+
+27 50 
+
+9.6 18.2 
+
+85.6 77.2 
+
+78.7 to 90.4 70.1 to 82.9 
+
+0.51 
+
+0.32 to 0.82 
+
+262 257 
+
+47 50 
+
+17.9 19.5 
+
+72.6 74.6 
+
+63.7 to 79.7 67.3 to 80.6 
+
+0.90 
+
+0.60 to 1.34 
+
+680 698 
+
+88 139 
+
+12.9 19.9 
+
+79.2 74.0 
+
+73.4 to 83.8 69.6 to 77.8 
+
+0.60 
+
+0.46 to 0.79 
+
+Abbreviation: DFS, disease-free survival. 
+
+2966 
+
+© 2009 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+HER2 Amplification and Trastuzumab Benefit 
+
+Table 3. DFS by Central Chromosome 17 Copy Number in Tumors With FISH Ratio ⱖ 2 No. of DFS Events Population/Treatment CEP17 ⱕ 2 and FISH ratio ⱖ 2 1 year of trastuzumab Observation 2 ⬍ CEP17 ⬍ 3 and FISH ratio ⱖ 2 1 year of trastuzumab Observation CEP17 ⱖ 3 and FISH ratio ⱖ 2 1 year of trastuzumab Observation Other: CEP17 count unknown and/ or FISH ratio ⬍ 2 1 year of trastuzumab Observation 
+
+3-Year DFS 
+
+No. of Patients 
+
+No. 
+
+% 
+
+% 
+
+95% CI 
+
+Hazard Ratio 
+
+95% CI 
+
+430 416 
+
+55 79 
+
+12.8 19.0 
+
+81.8 75.0 
+
+76.1 to 86.3 68.8 to 80.1 
+
+0.64 
+
+0.45 to 0.90 
+
+451 461 
+
+64 73 
+
+14.2 15.8 
+
+80.1 78.7 
+
+74.7 to 84.5 73.2 to 83.2 
+
+0.87 
+
+0.62 to 1.22 
+
+150 122 
+
+13 28 
+
+8.7 23.0 
+
+84.4 63.9 
+
+71.6 to 91.8 49.3 to 75.3 
+
+0.39 
+
+0.20 to 0.75 
+
+672 699 
+
+86 141 
+
+12.8 20.2 
+
+79.2 73.7 
+
+73.3 to 83.9 69.3 to 77.5 
+
+0.59 
+
+0.45 to 0.77 
+
+Abbreviations: DFS, disease-free survival; CEP17, centromeric region of chromosome 17; FISH, fluorescence in situ hybridization. 
+
+The HERA trialists have recently shown that the proportional benefit from trastuzumab does not vary substantially across subgroups of HER2-positive patients that differ markedly in prognosis.16 By the current analyses we have now established that there are no marked differences in benefit according to the degree of amplification whether this is expressed in terms of the HER2/CEP17 ratio or the absolute number of HER2 copies; the latter varies from the former because of the presence of polyploidy of chr17 that can be assessed from the use of the 2-probe FISH test used in this study. It is also notable that prognosis did not differ in the nontrastuzumab arm according to the level of amplification. All patients on HERA received adjuvant chemotherapy5; therefore this result reflects prognosis after chemotherapy and the clinical outcome would in part reflect benefit from that chemotherapy. The amplicon which harbors HER2 contains several other biologically significant genes that may or may not be coamplified with HER217 and influence the benefit from certain chemotherapy, such as the apparent interaction between TOP2A and benefit from anthracyclins.18,19 Such interactions may have influenced our ability to identify any relationship of HER2 amplification and prognosis per se. 
+
+Our data indicate that differences in HER2 expression resulting from different FISH ratios, HER2 copy number or ploidy have no significant relationship with benefit from trastuzumab. This implies that there is a strong threshold effect whereby any degree of amplification above the cutoff ratio of 2.0 is of equal clinical significance. A consequence is that misdiagnosis of patients as having HER2negative tumors, which inevitably is most likely to occur at amplification levels close to the threshold,20 would deny a patient the potential of deriving full benefit of trastuzumab. This is in marked contrast to the strong direct relationship between expression levels for the other major target of breast cancer therapy, ER-alpha, and benefit from tamoxifen21 This latter relationship indicates that while misdiagnosis of low-positive ER patients is highly undesirable the loss of potential benefit from tamoxifen will be small for most patients. The precise level of the threshold of HER-2 amplification/overexpression in relation to benefit from trastuzumab has recently been brought into doubt by data from the NSABP-B31 trial that indicate that the subgroup of 174 patients conventionally considered as having HER2-negative disease (centrally tested IHC and FISH negative) appeared to benefit from trastuzumab (relative risk for DFS, 0.34; 95% 
+
+Table 4. DFS by Polysomy Status According to NCCTG Criteria DFS Events Population/Treatment Polysomy and FISH ratio ⱖ 2 1 year of trastuzumab Observation No polysomy and FISH ratio ⱖ 2 1 year of trastuzumab Observation Other: polysomy status unknown and/or FISH ratio ⬍ 2 1 year of trastuzumab Observation 
+
+3-Year DFS 
+
+No. of Patients 
+
+No. 
+
+% 
+
+% 
+
+95% CI 
+
+Hazard Ratio 
+
+95% CI 
+
+440 443 
+
+52 77 
+
+11.8 17.4 
+
+81.5 74.3 
+
+75.6 to 86.2 67.9 to 79.6 
+
+0.67 
+
+0.47 to 0.96 
+
+591 556 
+
+80 103 
+
+13.5 18.5 
+
+81.2 76.6 
+
+76.3 to 85.2 71.9 to 80.6 
+
+0.70 
+
+0.52 to 0.94 
+
+672 699 
+
+86 141 
+
+12.8 20.2 
+
+79.2 73.7 
+
+73.3 to 83.9 69.3 to 77.5 
+
+0.59 
+
+0.45 to 0.77 
+
+Abbreviations: DFS, disease-free survival; NCCTG, North Central Cancer Treatment Group; FISH, fluorescence in situ hybridization. 
+
+www.jco.org 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2967 
+
+Dowsett et al 
+
+CI, 0.14 to 0.80).22 A similar analysis in 103 patients in the NCCTG trial also showed a trend towards benefit of trastuzumab but this was not statistically significant (HR 0.51; 95% CI, 0.21 to 1.2).15 Similarly the HERA trial had only 41 patients that could contribute to this analysis and we deemed it inappropriate to analyze this small group but hope to contribute these to a more detailed assessment together with samples from the other trials to clarify this issue. Chromosome 17 polysomy (defined as at least one more copy of chromosome 17 than normal) in the absence of HER2 amplification is sometimes associated with 2⫹ IHC staining but rarely with 3⫹ indicating that such polysomy has little influence on HER2 gene expression in breast carcinoma23 and no apparent influence on the clinical presentation or behavior in HER2-negative tumors.24 In the present study we assessed the importance of polsomy in the HER2-positive population. There is no agreed definition of cut-offs for polysomy. We applied an analysis which used a cutoff of a mean 3 CEP17 signals per cell as mentioned in the recent ASCO/CAP guidelines9 and also a cutoff of at least 3 copies per cell in at least 30% of nuclei as used for analysis of the NCCTG trial.25 The latter gave a substantially larger population that was considered polysomic but in neither case was there a statistically significant association with clinical outcome. There were insufficient patients to assess the possible importance of polysomy according to different levels of gene amplification. The strengths of the current work include the analysis being conducted within a randomized trial and the FISH analysis being conducted centrally in just two well-controlled laboratories that had conducted a pilot study to ensure comparability between them. The study population amounted to only 61% of the HERA population in the 1-year and no trastuzumab groups and as such there must be a caveat that results may have been different in the whole population. However, this seems unlikely since the clinical outcome for the subpopulation was very similar to that in the overall trial. The subset of samples amounted to over 1,000 cases in each arm giving a high probability of finding any substantial effect on prognosis. These same numbers are, however, modest to determine whether there is a significant interaction with treatment, such that only a major interaction is incompatible with the overall data from the HERA trial; collaborative overview analysis with other trialists is envisaged to provide greater statistical power for analyses of interaction with treatment. In conclusion, the current analysis indicates that in HER2positive early breast cancer there is no significant effect of HER2 FISH REFERENCES 1. Slamon DJ, Clark GM, Wong SG, et al: Human breast cancer: Correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235:177-182, 1987 2. Slamon DJ, Godolphin W, Jones LA, et al: Studies of the HER-2/neu proto-oncogene in human breast and ovarian cancer. Science 244:707-712, 1989 3. Akiyama T, Sudo C, Ogawara H, et al: The product of the human c-erbB-2 gene: A 185kilodalton glycoprotein with tyrosine kinase activity. Science 232:1644-1646, 1986 4. Bartlett JM, Ellis IO, Dowsett M, et al: Human epidermal growth factor receptor 2 status correlates with lymph node involvement in patients with estrogen receptor (ER) negative, but with grade in those 2968 
+
+© 2009 by American Society of Clinical Oncology 
+
+ratio, HER2 copy number or polysomy of chr17 on either prognosis or benefit from trastuzumab in a chemotherapy-treated population. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: Bruce Jordan, Roche Professonal Diagnostics (C) Consultant or Advisory Role: Mitch Dowsett, Roche (C), DAKO (C), GlaxoSmithKline (C); Josef Rueschoff, Roche (C); Martine Piccart-Gebhart, Roche (C), GlaxoSmithKline (C); Brian Leyland-Jones, Roche (C) Stock Ownership: None Honoraria: Mitch Dowsett, Roche; Martine Piccart-Gebhart, Roche, GlaxoSmithKline; Brian Leyland-Jones, Roche Research Funding: Mitch Dowsett, Roche, GlaxoSmithKline; Josef Rueschoff, Roche; Oliver Stoss, Roche; Giuseppe Viale, Roche; Richard D. Gelber, Roche; Brian Leyland-Jones, Roche Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: Mitch Dowsett, Worta McCaskill-Stevens, Josef Rueschoff, Giuseppe Viale, Richard D. Gelber, Martine Piccart-Gebhart, Brian Leyland-Jones Financial support: Bruce Jordan Administrative support: Mark Abramovitz Provision of study materials or patients: Josef Rueschoff, Oliver Stoss, Giuseppe Viale Collection and assembly of data: Mitch Dowsett, Martine Piccart-Gebhart, Evandro de Azambuja, Urania Dafni, Josef Rueschoff, Stella Dolci, Oliver Stoss, Giuseppe Viale, Richard D. Gelber Data analysis and interpretation: Mitch Dowsett, Martine Piccart-Gebhart, Worta McCaskill-Stevens, Evandro de Azambuja, Urania Dafni, Josef Rueschoff, Bruce Jordan, Stella Dolci, Oliver Stoss, Giuseppe Viale, Richard D. Gelber, Martine Piccart-Gebhart, Brian Leyland-Jones Manuscript writing: Mitch Dowsett, Richard D. Gelber Final approval of manuscript: Mitch Dowsett, Martine Piccart-Gebhart, Worta McCaskill-Stevens, Evandro de Azambuja, Urania Dafni, Josef Rueschoff, Bruce Jordan, Stella Dolci, Mark Abramovitz, Oliver Stoss, Giuseppe Viale, Richard D. Gelber, Martine Piccart-Gebhart, Brian Leyland-Jones 
+
+with ER-positive early-stage breast cancer suitable for cytotoxic chemotherapy. J Clin Oncol 25:44234430, 2007 5. Piccart-Gebhart MJ, Procter M, LeylandJones B, et al: Herceptin Adjuvant (HERA) Trial Study Team: Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 353:1659-1672, 2005 6. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 7. Slamon D, Eiermann W, Robert N, et al: BCIRG 006: 2nd interim analysis phase III randomized trial comparing doxorubicin and cyclophosphamide followed by docetaxel (AC␥T) with doxorubicin and cyclophosphamide followed by docetaxel and trastuzumab (AC␥TH) with docetaxel, carboplatin 
+
+and trastuzumab (TCH) in Her2neu positive early breast cancer patients. Presented at the San Antonio Breast Cancer Symposium, San Antonio, TX, December 14-17, 2006 8. Joensuu H, Kellokumpu-Lehtinen PL, Bono P, et al: FinHer Study Investigators: Adjuvant docetaxel or vinorelbine with or without trastuzumab for breast cancer. N Engl J Med 354:809-820, 2006 9. Wolff AC, Hammond ME, Schwartz JN, et al: American Society of Clinical Oncology/College of American Pathologists guideline recommendations for human epidermal growth factor receptor 2 testing in breast cancer. J Clin Oncol 25:118-145, 2007 10. Smith I, Procter M, Gelber RD, et al: HERA study team: 2-year follow-up of trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer: A randomised controlled trial. Lancet 369:29-36, 2007 JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+HER2 Amplification and Trastuzumab Benefit 
+
+11. Kaplan EL, Meier P: Nonparametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 12. Greenwood M: A report on the natural duration of cancer, in: Reports on Public Health and Medical Subjects (vol 33). London, United Kingdom, HM Stationery Office, 1926, pp 1-26 13. Konecny G, Pauletti G, Pegram M, et al: Quantitative association between HER-2/neu and steroid hormone receptors in hormone receptorpositive primary breast cancer. J Natl Cancer Inst 95:142-153, 2003 14. Paik S, Kim C, Jeong J, et al: Benefit from adjuvant trastuzumab may not be confined to patients with IHC 3⫹ and/or FISH-positive tumors: Central testing results from NSABP B-31. J Clin Oncol 25:5s, 2007 (suppl; abstr 511) 15. Perez EA, Romond EH, Suman VJ, et al: Updated results of the combined analysis of NCCTG N9831 and NSABP B-31 adjuvant chemotherapy with/ without trastuzumab in patients with HER2-positive breast cancer. J Clin Oncol 25:6s, 2007 (suppl; abstr 512) 16. Untch M, Gelber RD, Jackisch C, et al: Estimating the magnitude of trastuzumab effects within 
+
+patient subgroups in the HERA trial. Ann Oncol 19:1090-1096, 2008 17. Arriola E, Marchio C, Tan DS, et al: Genomic analysis of the HER2/TOP2A amplicon in breast cancer and breast cancer cell lines. Lab Invest 88:491-503, 2008 18. Di Leo A, Gancberg D, Larsimont D, et al: HER-2 amplification and topoisomerase II␣ gene aberrations as predictive markers in node-positive breast cancer patients randomly treated either with an anthracycline-based therapy or with cyclophosphamide, methotrexate, and 5-fluorouracil. Clin Cancer Res 8:1107-1116, 2002 19. Tanner M, Isola J, Wiklund T, et al: Scandinavian Breast Group Trial 9401: Topoisomerase II␣ gene amplification predicts favorable treatment response to tailored and dose-escalated anthracycline-based adjuvant chemotherapy in HER-2/neu-amplified breast cancer. J Clin Oncol 24:2428-2436, 2006 20. Dowsett M, Hanna WM, Kockx M, et al: Standardization of HER2 testing: Results of an international proficiency-testing ring study. Mod Pathol 20:584-591, 2007 21. Kim C, Tang G, Baehner FL, et al: A comparison of estrogen receptor (ER) measurement by 
+
+three methods in node-negative, estrogen receptor (ER)-positive breast cancer: Ligand binding (LB), immunohistochemistry (IHC), and quantitative RTPCR. Breast Cancer Res Treat 100:S295, 2006 (suppl 1; abstr 3116) 22. Paik S, Kim C, Wolmark N: HER2 status and benefit from adjuvant trastuzumab in breast cancer. N Engl J Med 358:1409-1411, 2008 23. Downs-Kelly E, Yoder BJ, Stoler M, et al: The influence of polysomy 17 on HER2 gene and protein expression in adenocarcinoma of the breast: A fluorescent in situ hybridization, immunohistochemical, and isotopic mRNA in situ hybridization study. Am J Surg Pathol 29:1221-1227, 2005 24. Vanden Bempt I, van Loo P, Drijkoningen M, et al: Polysomy 17 in breast cancer: Clinicopathologic significance and impact on HER-2 testing. J Clin Oncol 26:4869-4874, 2008 25. Reinholz MM, Jenkins RB, Hillman D, et al: The clinical significance of polysomy 17 in the HER2⫹ N9831 intergroup adjuvant trastuzumab trial. Presented at the 30th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 13-16, 2007 (abstr 36) 
+
+■ ■ ■ 
+
+Glossary Terms 
+
+FISH (fluorescence in situ hybridization): In situ hydridization is a sensitive method that is generally used to detect specific gene sequences in tissue sections or cell preparations by hybridizing the complementary strand of a nucleotide probe to the sequence of interest. FISH uses a fluorescence probe to increase the sensitivity of in situ hybridization. HER2 or HER-2 (human epithelial growth factor receptor-2): Also called ErbB2, HER-2/neu belongs to the 
+
+Immunohistochemistry: The application of antigen-antibody interactions to histochemical techniques. Typically, a tissue section is mounted on a slide and is incubated with antibodies (polyclonal or monoclonal) specific to the antigen (primary reaction). The antigenantibody signal is then amplified using a second antibody conjugated to a complex of peroxidase-antiperoxidase (PAP), avidin-biotinperoxidase (ABC) or avidin-biotin alkaline phosphatase. In the presence of substrate and chromogen, the enzyme forms a colored deposit at the sites of antibody-antigen binding. Immunofluorescence is an alternate approach to visualize antigens. In this technique, the primary antigenantibody signal is amplified using a second antibody conjugated to a fluorochrome. On UV light absorption, the fluorochrome emits its own light at a longer wavelength (fluorescence), thus allowing localization of antibody-antigen complexes. 
+
+EGFR family and is overexpressed in several solid tumors. Like EGFR, it is a tyrosine kinase receptor whose activation leads to proliferative signals within the cells. On activation, the HER family of receptors are known to form homodimers and heterodimers, each with a distinct signaling activity. Because HER-2 is the preferred dimerization partner when heterodimers are formed, it is important for signaling through ligands specific for any members of the family. It is typically overexpressed in several epithelial tumors. 
+
+HER2/CEP17: The number of copies of the HER2 gene divided by the number of copies of chromosome 17 (strictly the number of copies of the pericentric region of chromosome 17 to which the CEP17 FISH probe hybridizes). 
+
+Trastuzumab: A humanized anti-ErbB2 monoclonal antibody approved for treating patients whose breast cancers overexpress ErbB2 protein or demonstrate ErbB2 gene amplification, it is currently being tested in combination with other therapies. 
+
+Polysomy: At least one more copy of a chromosome than normal, ie the number of chromosomes is greater than 2 in a cell. Estimates of polysomy are usually not integer values because they are based on the average number of copies across multiple tumor cells between which the number of chromosomes present, or detected by the method used, often varies. 
+
+www.jco.org 
+
+© 2009 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2009 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+2969 
+
+ 

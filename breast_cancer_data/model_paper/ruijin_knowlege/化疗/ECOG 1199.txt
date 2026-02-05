@@ -1,0 +1,1009 @@
+Published Ahead of Print on June 15, 2015 as 10.1200/JCO.2015.60.9271 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2015.60.9271 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Long-Term Follow-Up of the E1199 Phase III Trial Evaluating the Role of Taxane and Schedule in Operable Breast Cancer Joseph A. Sparano, Fengmin Zhao, Silvana Martino, Jennifer A. Ligibel, Edith A. Perez, Tom Saphner, Antonio C. Wolff, George W. Sledge Jr, William C. Wood, and Nancy E. Davidson Joseph A. Sparano, Albert Einstein College of Medicine, Montefiore Medical Center, Bronx, NY; Fengmin Zhao and Jennifer A. Ligibel, Dana-Farber Cancer InstituteHarvard University, Boston, MA; Silvana Martino, John Wayne Cancer Institute, Santa Monica, CA; Edith A. Perez, Mayo Clinic, Jacksonville, FL; Tom Saphner, Vince Lombardi Cancer Center, Two Rivers, WI; Antonio C. Wolff, The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD; George W. Sledge Jr, Simon Cancer Center, Indiana University School of Medicine, Indianapolis, IN; William C. Wood, Winship Cancer Center, Emory University, Atlanta, GA; and Nancy E. Davidson, University of Pittsburgh Cancer Institute and University of Pittsburgh Medical Center Cancer Center, Pittsburgh, PA. Published online ahead of print at www.jco.org on June 15, 2015. Support information appears at the end of this article. Presented at the 2014 San Antonio Breast Cancer Symposium, San Antonio, TX, December 11, 2014. This study was coordinated by the Eastern Cooperative Oncology Group–American College of Radiology Imaging Network Cancer Research Group (group co-chairs Robert L. Comis, MD, Mitchell D. Schnall, MD, PhD). Its content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute. Authors’ disclosures of potential conflicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article. Clinical trial information: NCT00004125. Corresponding author: Joseph A. Sparano, MD, Montefiore Medical Center–Weiler Division, 1625 Eastchester Rd, Bronx, NY 10461; e-mail: jsparano@montefiore.org. © 2015 by American Society of Clinical Oncology 0732-183X/15/3399-1/$20.00 DOI: 10.1200/JCO.2015.60.9271 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose To determine long-term outcomes in a clinical trial evaluating the role of taxane type and schedule in operable breast cancer and evaluate the impact of obesity and black race on outcome. Patients and Methods A total of 4,954 eligible women with stage II to III breast cancer treated with four cycles of doxorubicin plus cyclophosphamide were randomly assigned to receive paclitaxel or docetaxel every 3 weeks for four doses or weekly for 12 doses using a 2 ⫻ 2 factorial design. The primary end point was disease-free survival (DFS). Results are expressed as hazard ratios (HRs) from Cox proportional hazards models. All P values are two sided. Results When compared with the standard every-3-week paclitaxel arm, after a median follow-up of 12.1 years, DFS significantly improved and overall survival (OS) marginally improved only for the weekly paclitaxel (HR, 0.84; P ⫽ .011 and HR, 0.87; P ⫽ .09, respectively) and every-3-week docetaxel arms (HR, 0.79; P ⫽ .001 and HR, 0.86; P ⫽ .054, respectively). Weekly paclitaxel improved DFS and OS (HR, 0.69; P ⫽ .010 and HR, 0.69; P ⫽ .019, respectively) in triple-negative breast cancer. For hormone receptor–positive, human epidermal growth factor receptor 2–nonoverexpressing disease, no experimental arm improved OS, and black race and obesity were associated with increased risk of breast cancer recurrence and death. Conclusion Improved outcomes initially observed for weekly paclitaxel were qualitatively similar but quantitatively less pronounced with longer follow-up, although exploratory analysis suggested substantial benefit in triple-negative disease. Further research is required to understand why obesity and race influence clinical outcome in hormone receptor–positive disease. J Clin Oncol 33. © 2015 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Adjuvant chemotherapy substantially reduces the risk of recurrence and death in operable breast cancer, and sequential anthracycline–taxane regimens are among the most effective.1-3 The Eastern Cooperative Oncology Group (ECOG) E1199 trial was designed to compare taxane type (paclitaxel v docetaxel) and schedule (every 3 weeks v weekly) using a 2 ⫻ 2 factorial design as adjuvant therapy in women with stage II to III breast cancer. Our initial report showed that sequential administration of weekly paclitaxel 80 mg/m2 given for 12 consecutive doses after four doses of doxorubicin plus cyclophosphamide every 3 weeks significantly improved disease-free survival (DFS; hazard ratio [HR], 0.79; P ⫽ .006) and overall survival (OS; 
+
+HR, 0.76; P ⫽ .01) when compared with paclitaxel 175 mg/m2 given every 3 weeks for four doses in prespecified secondary comparisons, although no differences were found in the primary comparisons of taxane type (paclitaxel v docetaxel) or schedule (every 3 weeks v weekly).4 In addition, exploratory analysis revealed benefit for weekly paclitaxel irrespective of hormone receptor expression in human epidermal growth factor receptor 2 (HER2) –nonoverexpressing disease. Our initial analysis was reported after a median follow-up of 5.3 years, at which time full information was reached for the primary comparisons of taxane type and schedule. We now report an updated analysis of the secondary comparisons to provide information regarding clinical outcome at 10 years for the four individual treatment arms. The © 2015 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Copyright 2015 by American Society of Clinical Oncology 
+
+1 
+
+Sparano et al 
+
+10-year interval after diagnosis captured information about late recurrence beyond 5 years commonly observed in hormone receptor– positive disease5 and serves as a benchmark in decision aides and multiparameter assays commonly used to counsel patients about potential benefits from adjuvant therapy.6-8 PATIENTS AND METHODS Patient Selection, Treatment, and End Points The analysis included patients enrolled onto a National Cancer Institute–sponsored clinical trial (ClinicalTrials.gov identifier NCT00004125) coordinated by the ECOG, the methods and results of which have been previously reported.4 The protocol was reviewed and approved by the institutional review board at each participating institution, and all patients provided written informed consent. Chemotherapy was prescribed by actual body weight. The protocol initially specified 5 years of tamoxifen (20 mg orally daily) in patients with hormone receptor–positive disease and was amended in June 2005 to recommend tamoxifen for 2 to 5 years followed by an aromatase inhibitor for up to 5 years in postmenopausal women to reflect updated American Society of Clinical Oncology (ASCO) guidelines for adjuvant endocrine therapy.9 Of 5,052 patients enrolled, 4,954 were deemed eligible and included in the analysis (4,950 were deemed eligible in original report,4 but four previously ineligible patients were deemed eligible on additional review in this updated report). The allocation of patients by treatment arm and their outcomes are shown in the CONSORT diagram (Fig 1). The primary end point was DFS, and OS was a secondary end point, as previously defined.4 Statistical Analysis Plan The trial was previously reported when there were a sufficient number of DFS events to perform the primary comparison of taxane type (paclitaxel v docetaxel) and schedule (every 3 weeks v weekly). Per protocol, if one or both of the two primary comparisons were significant, pairwise comparisons of each of the three experimental arms (weekly paclitaxel [P1], docetaxel every 3 weeks [D3], and weekly docetaxel [D1]) with the standard every-3-week paclitaxel arm (P3) were prespecified as secondary comparisons; after approx- 
+
+imately 1,400 DFS events, the secondary comparisons would have provided 80% power to detect a 22% reduction in the failure hazard rate for any of the experimental arms (using two-sided nominal 5% level tests, corrected for multiple comparisons). Because there were no differences in the primary comparisons, any subsequent analyses about the secondary comparisons would be regarded as post hoc and exploratory. The updated analysis reported here was planned when at least 85% of surviving patients had been observed for at least 10 years. The Kaplan-Meier method was used to estimate event-time distributions for DFS and OS. The stratified log-rank test was used to compare DFS and OS distributions between treatment groups. The tests for the comparisons of the individual arms with the P3 arm were stratified on number of positive nodes (zero v ⱖ one) and estrogen receptor (ER) status (positive v negative v unknown). Cox proportional hazards models, stratified on number of positive nodes and ER status, were used to estimate the HRs for treatment groups, without adjusting for other variables. Similar to the initial report,4 a post hoc analysis of DFS and OS outcomes according to hormone receptor status and HER2 expression was also conducted as an exploratory analysis. This categorization was based on local institutional assessment of ER, progesterone receptor, and HER2 expression recorded in the patient case report forms. No stratification factors were considered in this exploratory analysis. In addition, multivariable Cox proportional hazards models were fit for hormone receptor–positive disease to identify prognostic factors for DFS and OS. Factors examined in the multivariable Cox models were treatment arm (P1, D3, or D1 v P3), age at registration (continuous), race (black v other), obesity (body mass index [BMI] ⱖ 30 kg/m2 v other), tumor size (ⱖ v ⬍ 2 cm), number of positive lymph nodes (zero v one to three v ⱖ three), and endocrine therapy (aromatase inhibitor ⫾ tamoxifen v tamoxifen alone v no endocrine therapy or unknown). Endocrine therapy was included as a time-varying covariate, because patients could start it at any time after completing the protocol therapy (discontinuation of endocrine therapy was not considered in model); all other variables were included as time-fixed covariates. The Wald test was used to test for significant covariates in the Cox models. Proportional hazards assumption was tested using Schoenfeld residuals in all Cox models. All P values are two sided. No adjustment was made for multiple comparisons. All analyses were conducted using STATA software (version 13; STATA, College Station, TX). 
+
+Total enrollment (N = 5,052) 
+
+Paclitaxel every 3 weeks (n = 1,272) 
+
+Paclitaxel once per week (n = 1,258) 
+
+Docetaxel every 3 weeks (n = 1,262) 
+
+Docetaxel once per week (n = 1,260) 
+
+Ineligible (n = 19) 
+
+Ineligible (n = 26) 
+
+Ineligible (n = 26) 
+
+Ineligible (n = 27) 
+
+Included in efficacy analysis (n = 1,253) 
+
+Included in efficacy analysis (n = 1,232) 
+
+Included in efficacy analysis (n = 1,236) 
+
+Included in efficacy analysis (n = 1,233) 
+
+TN (n = 261) 
+
+HR+ (n = 717) 
+
+HER2+ (n = 258) 
+
+Missing (n = 17) 
+
+TN (n = 274) 
+
+HR+ (n = 707) 
+
+HER2+ (n = 237) 
+
+Missing (n = 14) 
+
+TN (n = 248) 
+
+HR+ (n = 731) 
+
+HER2+ (n = 238) 
+
+Missing (n = 19) 
+
+TN (n = 243) 
+
+HR+ (n = 735) 
+
+HER2+ (n = 241) 
+
+Missing (n = 14) 
+
+Death (n = 91) DFS events (n = 108) 
+
+Death (n = 166) DFS events (n = 235) 
+
+Death (n = 74) DFS events (n = 96) 
+
+Death (n = 8) DFS events (n = 10) 
+
+Death (n = 70) DFS events (n = 84) 
+
+Death (n = 171) DFS events (n = 225) 
+
+Death (n = 60) DFS events (n = 76) 
+
+Death (n = 3) DFS events (n = 5) 
+
+Death (n = 81) DFS events (n = 96) 
+
+Death (n = 154) DFS events (n = 197) 
+
+Death (n = 60) DFS events (n = 72) 
+
+Death (n = 3) DFS events (n = 5) 
+
+Death (n = 81) DFS events (n = 101) 
+
+Death (n = 190) DFS events (n = 241) 
+
+Death (n = 67) DFS events (n = 84) 
+
+Death (n = 4) DFS events (n = 4) 
+
+Fig 1. CONSORT diagram showing No. of patients enrolled (N ⫽ 5,052), No. of eligible patients included in efficacy analysis (n ⫽ 4,954), and clinical outcomes for patients with predefined breast cancer subtypes of triple-negative breast cancer (TN), hormone receptor–positive, human epidermal growth factor receptor 2 (HER2) –nonoverexpressing breast cancer (HR⫹), and HER2-overexpressing breast cancer (HER2⫹). DFS, disease-free survival. 2 
+
+© 2015 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Long-Term Follow-Up of Adjuvant Taxane Therapy in Breast Cancer 
+
+RESULTS 
+
+Patient Demographic and Clinical Characteristics The four treatment arms were well balanced regarding known prognostic factors, including P3 or P1 administration and D3 or D1 administration (Appendix Table A1, online only). The median age of patients was 51 years (range, 19 to 84 years); 46% were premenopausal, 88% had at least one positive axillary lymph node, 69% had ER-positive disease, 20% had HER2-positive disease, 35% were obese (BMI ⱖ 30 kg/m2), and 8% were black. Primary Comparisons of Taxane Type and Schedule As of May 1, 2014, there were 1,639 DFS events (33.1% of eligible patients) and 1,283 deaths (25.9%) after a median follow-up of 12.1 years (Appendix Table A2, online only). There were substantially more events than in the original report (1,058 DFS events and 686 deaths after median follow-up of 5.3 years4). As in the original report, 
+
+A 
+
+1.0 
+
+Stratified log-rank P = .0014 
+
+there remained no statistical difference in OS or DFS between the paclitaxel-treated groups (P1 and P3) and the docetaxel-treated groups (D1 and D3; stratified log-rank P ⫽ .977 for OS and .322 for DFS) and no difference between the two schedules (P1 and D1 v P3 and D3; stratified log-rank P ⫽ .795 for OS and .876 for DFS). The results were similar from the stratified Cox models, without adjusting for any other variables (data not shown). As in the original report, in a stratified Cox model that included the taxane administered (docetaxel v paclitaxel), the schedule of administration (weekly v every 3 weeks), and their interaction, the taxane-by-schedule interaction test was significant for DFS (HR, 1.46 for interaction term; P ⬍ .001) and OS (HR, 1.36 for interaction term; P ⫽ .007), which indicates that P1 and D3 were superior to P3. Secondary Comparisons of Experimental Arms (P1, D3, D1) With Standard Arm (P3) The Kaplan-Meier curves for the four treatment groups are shown for DFS in Figure 2A. The DFS curves were statistically different 
+
+B 
+
+DFS (probability) 
+
+0.9 0.8 0.7 0.6 0.5 
+
+P3 P1 D3 D1 
+
+0.4 
+
+10-Year Rate (%) 65.5 70.7 71.9 67.1 
+
+95% CIs (%) 62.7 to 68.2 67.9 to 73.3 69.2 to 74.4 64.3 to 69.8 
+
+DFS: D1/P3 
+
+0.96 (0.84 to 1.10) 
+
+DFS: D3/P3 
+
+0.79 (0.68 to 0.90) 
+
+DFS: P1/P3 
+
+0.84 (0.73 to 0.96) 0.5 
+
+1.0 
+
+1.5 
+
+HRs and 95% CIs From Stratified Cox Models 
+
+0.3 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+Time Since Random Assignment (years) No. at risk P3 P1 D3 D1 
+
+C 
+
+1,250 1,231 1,234 1,233 
+
+1,091 1,114 1,104 1,105 
+
+932 979 974 947 
+
+817 861 870 821 
+
+1.0 
+
+722 751 789 716 
+
+601 631 680 602 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for D1/P3, 95% CI for D1/P3 
+
+306 304 346 313 
+
+Stratified log-rank P = .0575 
+
+D 
+
+OS (probability) 
+
+0.9 0.8 0.7 0.6 0.5 
+
+P3 P1 D3 D1 
+
+0.4 
+
+10-Year Rate (%) 75.3 77.7 78.5 75.9 
+
+95% CIs (%) 72.7 to 77.7 75.2 to 80.0 76.0 to 80.8 73.3 to 78.2 
+
+2 
+
+4 
+
+6 
+
+1.02 (0.88 to 1.18) 
+
+OS: D3/P3 
+
+0.86 (0.73 to 1.00) 
+
+OS: P1/P3 
+
+0.87 (0.75 to 1.02) 0.5 
+
+1.0 
+
+1.5 
+
+HRs and 95% CIs From Stratified Cox Models 
+
+0.3 0 
+
+OS: D1/P3 
+
+8 
+
+10 
+
+12 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for D1/P3, 95% CI for D1/P3 
+
+Time Since Random Assignment (years) No. at risk P3 P1 D3 D1 
+
+1,250 1,231 1,234 1,233 
+
+1,183 1,176 1,169 1,175 
+
+1,060 1,088 1,065 1,065 
+
+952 973 983 937 
+
+858 875 905 861 
+
+773 797 825 788 
+
+501 502 538 497 
+
+Fig 2. (A, B) Disease-free survival (DFS) and (C, D) overall survival (OS) in entire population of 4,954 eligible patients, based on (A, C) Kaplan-Meier estimates by treatment arm and (B, D) estimated hazard ratios (HRs) and 95% CIs from stratified univariable Cox models in experimental arms (weekly paclitaxel [P1], docetaxel every 3 weeks [D3], and weekly docetaxel [D1]) compared with standard arm (paclitaxel every 3 weeks [P3]). www.jco.org 
+
+© 2015 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+3 
+
+Sparano et al 
+
+A 
+
+B 
+
+OS: D3/P3 
+
+0.88 (0.70 to 1.12) 
+
+OS: D3/P3 
+
+0.86 (0.73 to 1.00) 
+
+OS: P1/P3 
+
+0.76 (0.59 to 0.96) 
+
+OS: P1/P3 
+
+0.87 (0.75 to 1.02) 
+
+DFS: D3/P3 
+
+0.81 (0.67 to 0.98) 
+
+DFS: D3/P3 
+
+0.79 (0.68 to 0.90) 
+
+DFS: P1/P3 
+
+0.79 (0.65 to 0.95) 
+
+DFS: P1/P3 
+
+0.84 (0.73 to 0.96) 
+
+0.5 
+
+1.0 
+
+1.5 
+
+0.5 
+
+HRs and 95% CIs From Stratified Cox Models (median follow-up: 5.3 years) HR for P1/P3, 95% CI for P1/P3 
+
+1.0 
+
+HRs and 95% CIs From Stratified Cox Models (median follow-up: 12.1 years) 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+C 
+
+1.5 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+D 
+
+OS: TNBC group 
+
+0.75 (0.52 to 1.10) 
+
+OS: TNBC group 
+
+0.69 (0.50 to 0.94) 
+
+OS: HR+ group 
+
+0.74 (0.50 to 1.09) 
+
+OS: HR+ group 
+
+1.00 (0.81 to 1.24) 
+
+DFS: TNBC group 
+
+0.73 (0.52 to 1.02) 
+
+DFS: TNBC group 
+
+0.69 (0.52 to 0.91) 
+
+DFS: HR+ group 
+
+0.76 (0.58 to 1.00) 
+
+DFS: HR+ group 
+
+0.92 (0.77 to 1.11) 
+
+0.5 
+
+1.0 
+
+1.5 
+
+HRs and 95% CIs From Stratified Cox Models (median follow-up: 5.3 years) HR for P1/P3 in HR+, 95% CI 
+
+HR for P1/P3 in TNBC, 95% CI 
+
+0.5 
+
+1.0 
+
+1.5 
+
+HRs and 95% CIs From Stratified Cox Models (median follow-up: 12.1 years) HR for P1/P3 in HR+, 95% CI 
+
+HR for P1/P3 in TNBC, 95% CI 
+
+Fig 3. Disease-free survival (DFS) and overall survival (OS) hazard ratios (HRs) and 95% CIs for weekly paclitaxel (P1) and docetaxel every 3 weeks (D3) compared with paclitaxel every 3 weeks (P3) in overall population (A, B) and in patients with triple-negative breast cancer (TNBC) and hormone receptor–positive/human epidermal growth factor receptor 2–nonoverexpressing disease (HR⫹; C, D), including the prior report and current report. 
+
+between the four treatment groups (stratified log-rank P ⫽ .0014). Stratified Cox model analysis also showed that patients in the P1 (HR, 0.84; P ⫽ .011) and D3 arms (HR, 0.79; P ⫽ .001), but not D1 arm, had significantly lower hazard of DFS failure compared with patients in the P3 arm (Fig 2B). The OS curves shown in Figure 2C were not statistically different between the four treatment groups (stratified log-rank P ⫽ .0578). Stratified Cox model analysis shows that patients in the P1 (HR, 0.87; P ⫽ .09) and D3 arms (HR, 0.86; P ⫽ .054) had marginally lower hazard of death compared with patients in the P3 arm, but neither reached statistical significance (Fig 2D). When compared with the original report after a median follow-up of 5.3 years, the results were similar for the D3 arm after a median follow-up of 12.1 years. However, for the P1 arm, the results were qualitatively similar but quantitatively less pronounced in both the secondary comparisons in the entire population (Figs 3A and 3B) and were no longer apparent in the exploratory analysis in hormone receptor–positive, HER2nonoverexpressing disease (Figs 3C and 3D). The 10-year rates were on average 11% to 12% lower for DFS and 8% to 11% lower for OS compared with the 5-year rates, reflecting the fact that approximately 35% of the DFS events and 47% of the deaths occurred after year 5 (Appendix Table A3, online only). 4 
+
+© 2015 by American Society of Clinical Oncology 
+
+Exploratory Analysis by Breast Cancer Subtype For the 1,025 patients with triple-negative breast cancer (TNBC), P1 was associated with significantly improved DFS (HR, 0.69; P ⫽ .001) and OS (HR, 0.69; P ⫽ .019); similar benefits were not observed for docetaxel administered via either schedule (Figs 4A to 4D). For the 2,879 patients with hormone receptor–positive and HER2-negative/ unknown disease, D3 was associated with improved DFS (HR, 0.76; P ⫽ .004) but not OS; for the P1 or D1 arms, no significant results were observed for either DFS or OS (Figs 5A to 5D). For the 971 patients with HER2-overexpressing disease, there was no significant difference by treatment arm (data not shown). Relation Between Obesity, Race, and Clinical Outcome In previous analysis of this trial population after a median follow-up of 7.9 years, we found a relationship between higher BMI10 and black race,11 with worse clinical outcomes in patients with hormone receptor–positive, HER2-nonoverexpressing disease. Here we evaluated multivariable Cox models after a median follow-up of 12.1 years. Obesity was a significant prognostic factor for a higher risk of a DFS event (HR, 1.24; P ⫽ .003) and death (HR, 1.29; P ⫽ .002) in JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Long-Term Follow-Up of Adjuvant Taxane Therapy in Breast Cancer 
+
+A 
+
+1.0 
+
+B 
+
+Log-rank P = .032 
+
+DFS (probability) 
+
+0.9 0.8 0.7 0.6 0.5 
+
+P3 P1 D3 D1 
+
+0.4 
+
+10-Year Rate (%) 58.7 69.0 62.3 56.8 
+
+95% CIs (%) 52.1 to 64.6 63.0 to 74.3 55.6 to 68.2 50.0 to 63.1 
+
+DFS: D1/P3 
+
+0.99 (0.75 to 1.30) 
+
+DFS: D3/P3 
+
+0.94 (0.71 to 1.23) 
+
+DFS: P1/P3 
+
+0.69 (0.52 to 0.91) 0.5 
+
+1.0 
+
+1.5 
+
+2.0 
+
+HRs and 95% CIs From Stratified Cox Models 
+
+0.3 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+Time Since Random Assignment (years) No. at risk P3 P1 D3 D1 
+
+C 
+
+261 274 248 243 
+
+207 226 195 197 
+
+166 197 160 160 
+
+138 175 134 133 
+
+126 159 120 109 
+
+1.0 
+
+102 127 106 88 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for D1/P3, 95% CI for D1/P3 
+
+47 61 52 49 
+
+D 
+
+Log-rank P = .094 
+
+OS (probability) 
+
+0.9 0.8 0.7 0.6 0.5 
+
+P3 P1 D3 D1 
+
+0.4 
+
+10-Year Rate (%) 65.6 75.1 68.7 68.6 
+
+95% CIs (%) 59.2 to 71.2 69.4 to 79.9 62.3 to 74.2 62.1 to 74.1 
+
+2 
+
+4 
+
+6 
+
+0.95 (0.70 to 1.28) 
+
+OS: D3/P3 
+
+0.93 (0.69 to 1.25) 
+
+OS: P1/P3 
+
+0.69 (0.50 to 0.94) 0.5 
+
+1.0 
+
+1.5 
+
+2.0 
+
+HRs and 95% CIs From Stratified Cox Models 
+
+0.3 0 
+
+OS: D1/P3 
+
+8 
+
+10 
+
+12 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for D1/P3, 95% CI for D1/P3 
+
+Time Since Random Assignment (years) No. at risk P3 P1 D3 D1 
+
+261 274 248 243 
+
+232 245 214 218 
+
+190 218 186 184 
+
+168 196 159 156 
+
+149 179 144 143 
+
+134 167 139 129 
+
+84 102 87 77 
+
+Fig 4. (A, B) Disease-free survival (DFS) and (C, D) overall survival (OS) in 1,025 patients with triple-negative breast cancer, based on (A, C) Kaplan-Meier estimates by treatment arm and (B, D) estimated hazard ratios (HRs) and 95% CIs from univariable Cox models in experimental arms (weekly paclitaxel [P1], docetaxel every 3 weeks [D3], and weekly docetaxel [D1]) compared with standard arm (paclitaxel every 3 weeks [P3]). 
+
+nonblack patients. Black race was significantly associated with poor DFS and OS compared with nonblacks in nonobese patients (HR, 2.29; P ⬍ .001 for DFS; HR, 2.24; P ⬍ .001 for OS), but not in obese patients (HR, 1.27; P ⫽ .169 for DFS; HR, 1.28; P ⫽ .212 for OS), indicating black women have poorer survival, particularly for nonobese women, compared with nonblack women after adjustment for the factors included in the multivariable model. To more fully characterize the association between obesity and clinical outcome, we evaluated the smoothed average hazard rate for breast cancer recurrence estimated using Kernel estimator by cancer subtype in the presence or absence of obesity (Fig 6). Similar to prior reports, TNBC was associated with high recurrence rates within 5 years of diagnosis, whereas hormone receptor– positive disease was associated with lower risk of recurrence within the first 5 years, but a continuous risk of recurrence beyond 5 years. Here we also show that obesity was associated with higher risk of recurrence in hormone receptor–positive disease from approximately 3 to 8 years after diagnosis. www.jco.org 
+
+DISCUSSION 
+
+Here we report long-term outcomes after a median follow-up of 12.1 years of a trial that was designed to determine the optimal taxane and schedule in stage II to III breast cancer. We previously reported no significant differences in outcome between taxane (paclitaxel v docetaxel) and schedule (every 3 weeks v weekly) in the primary comparisons after a median follow-up of 5.3 years and improved DFS and OS for the P1 arm compared with the P3 arm in the secondary comparisons.4 As a consequence of this study and others,12,13 the P1 regimen emerged as a component of a preferred adjuvant chemotherapy regimen recommended by the National Comprehensive Cancer Center Network clinical practice guidelines.14 Although D3 was also associated with improved DFS, OS was not improved, and there was more overall toxicity than with P1. With substantially longer follow-up for at least 10 years, the results are qualitatively similar overall but quantitatively less pronounced for the P1 arm. P1 and D3 © 2015 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+5 
+
+Sparano et al 
+
+A 
+
+1.0 
+
+Log-rank P = .013 
+
+B 
+
+DFS (probability) 
+
+0.9 0.8 0.7 0.6 0.5 
+
+P3 P1 D3 D1 
+
+0.4 
+
+10-Year Rate (%) 69.4 71.5 75.3 69.7 
+
+95% CIs (%) 65.8 to 72.8 67.8 to 74.8 71.8 to 78.4 66.0 to 73.1 
+
+DFS: D1/P3 
+
+1.00 (0.83 to 1.20) 
+
+DFS: D3/P3 
+
+0.76 (0.63 to 0.91) 
+
+DFS: P1/P3 
+
+0.92 (0.77 to 1.11) 0.5 
+
+1.0 
+
+1.5 
+
+2.0 
+
+HRs and 95% CIs From Stratified Cox Models 
+
+0.3 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+Time Since Random Assignment (years) No. at risk P3 P1 D3 D1 
+
+C 
+
+715 706 731 735 
+
+653 673 683 683 
+
+572 600 621 599 
+
+505 525 562 523 
+
+452 458 513 458 
+
+1.0 
+
+377 385 436 381 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for D1/P3, 95% CI for D1/P3 
+
+197 189 223 187 
+
+Log-rank P = .149 
+
+D 
+
+OS (probability) 
+
+0.9 0.8 0.7 0.6 0.5 
+
+P3 P1 D3 D1 
+
+0.4 
+
+10-Year Rate (%) 79.6 79.1 81.6 78.5 
+
+95% CIs (%) 76.4 to 82.5 75.8 to 82.1 78.5 to 84.3 75.2 to 81.4 
+
+2 
+
+4 
+
+6 
+
+1.11 (0.90 to 1.37) 
+
+OS: D3/P3 
+
+0.87 (0.69 to 1.08) 
+
+OS: P1/P3 
+
+1.00 (0.81 to 1.24) 0.5 
+
+1.0 
+
+1.5 
+
+2.0 
+
+HRs and 95% CIs From Stratified Cox Models 
+
+0.3 0 
+
+OS: D1/P3 
+
+8 
+
+10 
+
+12 
+
+HR for P1/P3, 95% CI for P1/P3 
+
+HR for D3/P3, 95% CI for D3/P3 
+
+HR for D1/P3, 95% CI for D1/P3 
+
+Time Since Random Assignment (years) No. at risk P3 P1 D3 D1 
+
+715 706 731 735 
+
+693 691 712 714 
+
+635 657 664 663 
+
+575 585 626 586 
+
+528 535 577 544 
+
+476 483 519 499 
+
+307 307 341 303 
+
+Fig 5. (A, B) Disease-free survival (DFS) and (C, D) overall survival (OS) in 2,879 patients with hormone receptor–positive, human epidermal growth factor receptor 2–nonoverexpressing breast cancer, based on (A, C) Kaplan-Meier estimates by treatment arm and (B, D) estimated hazard ratios (HRs) and 95% CIs from univariable Cox models in experimental arms (weekly paclitaxel [P1], docetaxel every 3 weeks [D3], and weekly docetaxel [D1]) compared with standard arm (paclitaxel every 3 weeks [P3]). 
+
+were both associated with significantly improved DFS (HR, 0.84; P ⫽ .011 and HR, 0.79; P ⫽ .001, respectively), but OS was only marginally improved (HR, 0.87; P ⫽ .09 and HR, 0.86; P ⫽ .054, respectively). Breast cancer is a heterogeneous disease, and clinical outcome and response to therapy vary by subtype. This study was performed between 1999 and 2001, before adjuvant trastuzumab became standard therapy for HER2-overexpressing disease,15 and thus, no patients received such therapy. We therefore performed exploratory analyses evaluating clinical outcome in HER2-nonoverexpressing disease, where the comparisons would be most clinically relevant. This analysis revealed that P1, but not the other experimental arms, was associated with approximately a 30% reduction in the risk of recurrence and death in TNBC, which translated into approximately a 10% absolute improvement in DFS and OS at 10 years. This clearly establishes sequential doxorubicin plus cyclophosphamide followed by P1 as an effective adjuvant chemotherapy option for stage II to III TNBC. Although P1 was associated with similar benefits irrespective of hormone receptor status in HER2-nonoverexpressing disease after a 6 
+
+© 2015 by American Society of Clinical Oncology 
+
+median of 5.3 years, the benefits initially seen in hormone receptor– positive disease waned with longer follow-up. This seems inconsistent with findings from the Early Breast Cancer Trialists Collaborative Group, which found that the proportional risk reductions associated with chemotherapy were little affected by ER expression.3 Adjuvant chemotherapy primarily prevents early recurrences within 5 years of diagnosis,3 whereas endocrine therapy prevents early and late recurrences.16-19 As exemplified by our study and described in prior reports, patients with hormone receptor–positive disease have a continuous annual risk of recurrence that persists beyond 5 years.20,21 All patients included in this trial had a large tumor (⬎ 2 cm) and/or positive axillary lymph nodes, factors known to be prognostic for recurrence overall and especially for late recurrence in hormone receptor–positive disease.21 Although the type of adjuvant endocrine therapy administered within 5 years of diagnosis was comparable in the four treatment arms,4 and the protocol was updated approximately 4 years after completion of accrual to reflect updated ASCO practice guidelines recommending consideration of extended JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Average Hazard Rate 
+
+Long-Term Follow-Up of Adjuvant Taxane Therapy in Breast Cancer 
+
+0.12 
+
+HR+, nonobese HER2+, nonobese TN, nonobese 
+
+0.09 
+
+HR+, obese HER2+, obese TN, obese 
+
+0.06 0.03 
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+Time Since Random Assignment (years) Fig 6. Smoothed average hazard rate for breast cancer recurrence estimated by Kernel estimator according to breast cancer subtype in presence or absence of obesity. HER2, human epidermal growth factor receptor 2; HER2⫹, HER2-overexpressing breast cancer; HR⫹, hormone receptor–positive, HER2–nonoverexpressing breast cancer; TN, triple-negative breast cancer. 
+
+adjuvant therapy,9 we do not have accurate information regarding the proportion of patients who received ⬎ 5 years of endocrine therapy. It is conceivable that early benefits associated with adjuvant chemotherapy in hormone receptor–positive disease may be mitigated by a suboptimal duration of endocrine therapy in patients at risk for late relapse; if true, however, it would be expected to affect relapse patterns irrespective of taxane or taxane schedule and not specifically in the P1 arm. Taken together, however, our findings suggest that breast cancer heterogeneity influences benefit from adjuvant taxane therapy. Although P1 was the most effective option tested for TNBC and was also associated with early gains in hormone receptor–positive disease, the taxane regimen employed may be less important in patients at risk for late relapse, where attention to the use of extended adjuvant endocrine therapy may be more impactful. Although our study focused on evaluating the effects of differing taxanes and schedules adjusted for disease-specific prognostic factors, we also evaluated host-specific factors unrelated to the underlying disease that are not integrated into current staging but nevertheless influence prognosis. We found a statistically significant association between obesity at diagnosis and inferior DFS and OS in patients with hormone receptor–positive, HER2-nonoverexpressing disease, but not other breast cancer subtypes, a finding that was not consistently observed in prior analyses.22 This subtype-specific effect was confirmed in a meta-analysis of approximately 80,000 patients, indicating that obesity at diagnosis was associated with a 35% increase in the risk of recurrence and death in ER-positive breast cancer, primarily in women who were premenopausal at diagnosis, but not in ER-negative disease.23 Moreover, when the timing of recurrence was evaluated, we observed that obesity was associated with later recurrences between 3 and 8 years after diagnosis. Potentially contributing factors may include hyperestrogenemia,24 hyperinsulinemia,25,26 elevation of certain lipids,27,28 inflammation,29,30 or a combination of factors.31 This raises the possibility that there may be sufficient lead time between diagnosis and recurrence to permit currently recommended dietary REFERENCES 1. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential Paclitaxel but not from escalating Doxorubicin dose in an www.jco.org 
+
+and lifestyle interventions to have a significant impact in reducing the risk of recurrence,32 which is being evaluated in a variety of ongoing and planned trials.33 Although breast cancer incidence and mortality have declined by approximately 35% in the United States since 1990, mortality rates have declined less in black women, resulting in a substantially higher mortality rate for black compared with nonblack women.34 A substantial body of evidence indicates a racial divide in breast cancer35 and other hormone-dependent cancers, such as uterine and prostate cancers, but generally not other cancer types.36,37 Contributing factors in breast cancer include higher rates of advanced-stage disease38 and/or more aggressive TNBC,39 less adherence to chemotherapy40 and endocrine therapy,41 more comorbidities,42 and disparities in care.43-45 Here we find that despite selection of relatively healthy women lacking significant comorbidities who had access to state-of-the-art care, black race was associated with inferior outcome, specifically in hormone receptor–positive breast cancer, a finding that was not explained by a higher obesity rate, more advanced-stage disease, or differing adherence to chemotherapy or endocrine therapy in black study participants.11 Similar findings have been described in other reports.46 Further research is required to determine why black women with hormone receptor–positive breast cancer have a higher risk of recurrence. In conclusion, sequential doxorubicin plus cyclophosphamide followed by weekly paclitaxel was the most effective adjuvant chemotherapy option tested in this trial for TNBC and represents a reasonable treatment option for this population. Similar benefits were not observed for patients with hormone receptor–positive, HER2nonoverexpressing disease, where obesity and black race were found to be independently associated with worse clinical outcome. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at www.jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Joseph A. Sparano, Antonio C. Wolff, George W. Sledge Jr, William C. Wood, Nancy E. Davidson Administrative support: Joseph A. Sparano, Silvana Martino, Jennifer A. Ligibel, Edith A. Perez, Thomas Saphner, Antonio C. Wolff, George W. Sledge Jr, William C. Wood, Nancy E. Davidson Provision of study materials or patients: Joseph A. Sparano, Silvana Martino, Jennifer A. Ligibel, Edith A. Perez, Thomas Saphner, Antonio C. Wolff, George W. Sledge Jr, Nancy E. Davidson Collection and assembly of data: Joseph A. Sparano, Fengmin Zhao, Antonio C. Wolff Data analysis and interpretation: All authors Manuscript writing: All authors Final approval of manuscript: All authors 
+
+adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 2. Mamounas EP, Bryant J, Lembersky B, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast 
+
+cancer: Results from NSABP B-28. J Clin Oncol 23:3686-3696, 2005 3. Peto R, Davies C, Godwin J, et al: Comparisons between different polychemotherapy regimens for early breast cancer: Meta-analyses of long-term outcome among 100,000 women in 123 
+
+© 2015 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+7 
+
+Sparano et al 
+
+randomised trials. Lancet 379:432-444, 2012 4. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 5. Saphner T, Tormey DC, Gray R: Annual hazard rates of recurrence for breast cancer after primary therapy. J Clin Oncol 14:2738-2746, 1996 6. Olivotto IA, Bajdik CD, Ravdin PM, et al: Population-based validation of the prognostic model ADJUVANT! for early breast cancer. J Clin Oncol 23:2716-2725, 2005 7. Albain KS, Barlow WE, Ravdin PM, et al: Adjuvant chemotherapy and timing of tamoxifen in postmenopausal patients with endocrine-responsive, node-positive breast cancer: A phase 3, open-label, randomised controlled trial. Lancet 374:2055-2063, 2009 8. Paik S, Tang G, Shak S, et al: Gene expression and benefit of chemotherapy in women with nodenegative, estrogen receptor–positive breast cancer. J Clin Oncol 24:3726-3734, 2006 9. Winer EP, Hudis C, Burstein HJ, et al: American Society of Clinical Oncology technology assessment on the use of aromatase inhibitors as adjuvant therapy for postmenopausal women with hormone receptor–positive breast cancer: Status report 2004. J Clin Oncol 23:619-629, 2005 10. Sparano JA, Wang M, Zhao F, et al: Obesity at diagnosis is associated with inferior outcomes in hormone receptor-positive operable breast cancer. Cancer 118:5937-5946, 2012 11. Sparano JA, Wang M, Zhao F, et al: Race and hormone receptor-positive breast cancer outcomes in a randomized chemotherapy trial. J Natl Cancer Inst 104:406-414, 2012 12. Martín M, Rodríguez-Lescure A, Ruiz A, et al: Randomized phase 3 trial of fluorouracil, epirubicin, and cyclophosphamide alone or followed by paclitaxel for early breast cancer. J Natl Cancer Inst 100:805-814, 2008 13. Martin M, Ruiz A, Ruiz Borrego M, et al: Fluorouracil, doxorubicin, and cyclophosphamide (FAC) versus FAC followed by weekly paclitaxel as adjuvant therapy for high-risk, node-negative breast cancer: Results from the GEICAM/2003-02 study. J Clin Oncol 31:2593-2599, 2013 14. Carlson RW, Allred DC, Anderson BO, et al: Invasive breast cancer. J Natl Compr Canc Netw 9:136-222, 2011 15. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 16. Davies C, Godwin J, Gray R, et al: Relevance of breast cancer hormone receptors and other factors to the efficacy of adjuvant tamoxifen: Patientlevel meta-analysis of randomised trials. Lancet 378: 771-784, 2011 17. Davies C, Pan H, Godwin J, et al: Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years after diagnosis of oestro- 
+
+gen receptor-positive breast cancer: ATLAS, a randomised trial. Lancet 381:805-816, 2013 18. Goss PE, Ingle JN, Pater JL, et al: Late extended adjuvant treatment with letrozole improves outcome in women with early-stage breast cancer who complete 5 years of tamoxifen. J Clin Oncol 26:1948-1955, 2008 19. Jin H, Tu D, Zhao N, et al: Longer-term outcomes of letrozole versus placebo after 5 years of tamoxifen in the NCIC CTG MA.17 trial: Analyses adjusting for treatment crossover. J Clin Oncol 30: 718-721, 2012 20. Dignam JJ, Dukic V, Anderson SJ, et al: Hazard of recurrence and adjuvant treatment effects over time in lymph node-negative breast cancer. Breast Cancer Res Treat 116:595-602, 2009 21. Sestak I, Dowsett M, Zabaglo L, et al: Factors predicting late recurrence for estrogen receptorpositive breast cancer. J Natl Cancer Inst 105:15041511, 2013 22. Niraula S, Ocana A, Ennis M, et al: Body size and breast cancer prognosis in relation to hormone receptor and menopausal status: A meta-analysis. Breast Cancer Res Treat 134:769-781, 2012 23. Pan H, Gray RG: Effect of obesity in premenopausal ER⫹ early breast cancer: EBCTCG data on 80,000 patients in 70 trials. J Clin Oncol 32:5s, 2014 (suppl 15s; abstr 503) 24. Lunardi G, Del Mastro L, Bighin C, et al: Effects of body mass index (BMI) on plasma levels of estrone sulfate (ES) in postmenopausal women with breast cancer (BC) during letrozole (L) treatment. J Clin Oncol 29:48s, 2011 (suppl; abstr 515) 25. Goodwin PJ, Ennis M, Bahl M, et al: High insulin levels in newly diagnosed breast cancer patients reflect underlying insulin resistance and are associated with components of the insulin resistance syndrome. Breast Cancer Res Treat 114:517525, 2009 26. Irwin ML, Duggan C, Wang CY, et al: Fasting C-peptide levels and death resulting from all causes and breast cancer: The health, eating, activity, and lifestyle study. J Clin Oncol 29:47-53, 2011 27. Nelson ER, Wardell SE, Jasper JS, et al: 27-Hydroxycholesterol links hypercholesterolemia and breast cancer pathophysiology. Science 342: 1094-1098, 2013 28. Wu Q, Ishikawa T, Sirianni R, et al: 27Hydroxycholesterol promotes cell-autonomous, ERpositive breast cancer growth Cell Rep 5:637-645, 2013 29. Iyengar NM, Hudis CA, Dannenberg AJ: Obesity and inflammation: New insights into breast cancer development and progression. Am Soc Clin Oncol Educ Book 46-51, 2013 30. Simpson ER, Brown KA: Minireview: Obesity and breast cancer: A tale of inflammation and dysregulated metabolism. Mol Endocrinol 27:715-725, 2013 31. Jain R, Strickler HD, Fine E, et al: Clinical studies examining the impact of obesity on breast 
+
+cancer risk and prognosis. J Mammary Gland Biol Neoplasia 18:257-266, 2013 32. Ligibel JA, Alfano CM, Courneya KS, et al: American Society of Clinical Oncology position statement on obesity and cancer. J Clin Oncol 32:3568-3574, 2014 33. Ligibel JA, Strickler HD: Obesity and its impact on breast cancer: Tumor incidence, recurrence, survival, and possible interventions. Am Soc Clin Oncol Educ Book 52-59, 2013 34. Menashe I, Anderson WF, Jatoi I, et al: Underlying causes of the black-white racial disparity in breast cancer mortality: A population-based analysis. J Natl Cancer Inst 101:993-1000, 2009 35. Newman LA, Mason J, Cote D, et al: AfricanAmerican ethnicity, socioeconomic status, and breast cancer survival: A meta-analysis of 14 studies involving over 10,000 African-American and 40,000 white American patients with carcinoma of the breast. Cancer 94:2844-2854, 2002 36. Albain KS, Unger JM, Crowley JJ, et al: Racial disparities in cancer survival among randomized clinical trials patients of the Southwest Oncology Group. J Natl Cancer Inst 101:984-992, 2009 37. Bach PB, Schrag D, Brawley OW, et al: Survival of blacks and whites after a cancer diagnosis. JAMA 287:2106-2113, 2002 38. Joslyn SA, West MM: Racial differences in breast carcinoma survival. Cancer 88:114-123, 2000 39. Carey LA, Perou CM, Livasy CA, et al: Race, breast cancer subtypes, and survival in the Carolina Breast Cancer Study. JAMA 295:2492-2502, 2006 40. Hershman D, McBride R, Jacobson JS, et al: Racial disparities in treatment and survival among women with early-stage breast cancer. J Clin Oncol 23:6639-6646, 2005 41. Partridge AH, Wang PS, Winer EP, et al: Nonadherence to adjuvant tamoxifen therapy in women with primary breast cancer. J Clin Oncol 21:602-606, 2003 42. Tammemagi CM, Nerenz D, Neslund-Dudas C, et al: Comorbidity and survival disparities among black and white patients with breast cancer. JAMA 294:1765-1772, 2005 43. Bhargava A, Du XL: Racial and socioeconomic disparities in adjuvant chemotherapy for older women with lymph node-positive, operable breast cancer. Cancer 115:2999-3008, 2009 44. Schneider EC, Zaslavsky AM, Epstein AM: Racial disparities in the quality of care for enrollees in medicare managed care. JAMA 287:1288-1294, 2002 45. Shavers VL, Brown ML: Racial and ethnic disparities in the receipt of cancer treatment. J Natl Cancer Inst 94:334-357, 2002 46. Lu Y, Ma H, Malone KE, et al: Obesity and survival among black women and white women 35 to 64 years of age at diagnosis with invasive breast cancer. J Clin Oncol 29:3358-3365, 2011 
+
+Support Supported in part by Public Health Service Grants No. CA180794, CA180820, CA189859, CA180888, CA180821, CA180867, CA180867, CA180790, CA190140, CA180802, CA180795, CA180816, CA180864, and CA180844 from the National Cancer Institute, National Institutes of Health, and the Department of Health and Human Services. ■ ■ ■ 
+
+8 
+
+© 2015 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Long-Term Follow-Up of Adjuvant Taxane Therapy in Breast Cancer 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Long-Term Follow-Up of the E1199 Phase III Trial Evaluating the Role of Taxane and Schedule in Operable Breast Cancer The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I ⫽ Immediate Family Member, Inst ⫽ My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conflict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc. Joseph A. Sparano No relationship to disclose Fengmin Zhao No relationship to disclose Silvana Martino Consulting or Advisory Role: Amgen, Novartis, Rockwell, Celgene, AstraZeneca, Boehringer Ingelheim Travel, Accommodations, Expenses: Amgen, Novartis, Rockwell, Celgene, AstraZeneca Jennifer A. Ligibel No relationship to disclose Edith A. Perez No relationship to disclose 
+
+Antonio C. Wolff Consulting or Advisory Role: Mersana Research Funding: Myriad Genetics George W. Sledge Jr Leadership: Syndax Honoraria: Genentech, Symphogen Consulting or Advisory Role: Symphogen Research Funding: Genentech/Roche (Inst) William C. Wood No relationship to disclose Nancy E. Davidson No relationship to disclose 
+
+Thomas Saphner No relationship to disclose 
+
+www.jco.org 
+
+© 2015 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Sparano et al 
+
+Appendix 
+
+Table A1. Demographic and Clinical Characteristics (N ⫽ 4954) Characteristic Age, years Median Range Race, % White Black Other BMI, % Normal (⬍ 25 kg/m2) Overweight (25 to 30 kg/m2) Obese (ⱖ 30 kg/m2) Unknown Tumor size, % ⬍ 2 cm ⱖ 2 cm Unknown Positive lymph nodes, % 0 1-3 4-9 ⱖ 10 Unknown Expression of ER and/or PR, % Yes No Unknown Expression of HER2 protein, % Yes No Unknown Premenopausal or age ⬍ 50 years, % Breast-sparing surgery, % 
+
+Paclitaxel Every 3 Weeks (n ⫽ 1,253) 
+
+Weekly Paclitaxel (n ⫽ 1,232) 
+
+Docetaxel Every 3 Weeks (n ⫽ 1,236) 
+
+Weekly Docetaxel (n ⫽ 1,233) 
+
+51 26-79 
+
+51 22-84 
+
+51 25-79 
+
+51 19-81 
+
+84.2 8.1 7.7 
+
+83.2 8.7 8.1 
+
+85.0 9.7 5.3 
+
+85.4 7.1 7.5 
+
+29.5 31.6 35.8 3.1 
+
+30.1 32.0 33.9 4.1 
+
+31.5 29.4 35.4 3.7 
+
+28.9 31.4 35.8 4.0 
+
+39.0 60.7 0.2 
+
+36.1 63.8 0.1 
+
+36.6 63.1 0.3 
+
+36.5 63.3 0.2 
+
+12.1 54.8 22.9 10.1 0.2 
+
+12.2 55.8 22.5 9.5 0.1 
+
+11.9 55.5 23.1 9.1 0.3 
+
+11.8 55.8 22.2 10.0 0.2 
+
+71.0 27.9 1.2 
+
+70.2 28.7 1.1 
+
+71.7 27.0 1.3 
+
+72.8 26.3 1.0 
+
+20.6 70.2 9.2 46.2 39.4 
+
+19.2 69.6 11.2 45.8 39.0 
+
+19.3 70.6 10.1 47.0 39.2 
+
+19.6 68.4 12.1 45.6 38.9 
+
+Abbreviations: BMI, body mass index; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; PR, progesterone receptor. 
+
+Table A2. DFS and OS Events by Treatment Arm Among Eligible Patients (N ⫽ 4,954) Events 
+
+Paclitaxel Every 3 Weeks (n ⫽ 1,253) 
+
+Weekly Paclitaxel (n ⫽ 1,232) 
+
+Docetaxel Every 3 Weeks (n ⫽ 1,236) 
+
+Weekly Docetaxel (n ⫽ 1,233) 
+
+Total (N ⫽ 4,954) 
+
+38 68 290 332 48 
+
+33 54 247 284 28 
+
+33 66 226 253 28 
+
+40 75 257 303 36 
+
+144 263 1,020 1,172 140 
+
+39 
+
+22 
+
+22 
+
+26 
+
+109 
+
+78 84 261 449 339 
+
+84 86 220 390 304 
+
+95 98 203 370 298 
+
+101 104 241 430 342 
+
+358 372 925 1,639 1,283 
+
+Ipsilateral recurrence Locoregional recurrence Distant recurrence Any recurrenceⴱ Second invasive breast cancer Second invasive breast cancer without recurrenceⴱ Death without recurrence/second invasive breast cancerⴱ Death without recurrence Death with recurrence DFS eventsⴱ OS events 
+
+Abbreviations: DFS, disease-free survival; OS, overall survival. ⴱ Total of 31 patients had both recurrence and second invasive breast cancer during follow-up. 
+
+© 2015 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+Long-Term Follow-Up of Adjuvant Taxane Therapy in Breast Cancer 
+
+Table A3. 5- and 10-Year DFS and OS Rates by Treatment Arm Among Eligible Patients (N ⫽ 4,954) DFS Arm 5 years P3 P1 D3 D1 10 years P3 P1 D3 D1 
+
+OS 
+
+Rate 
+
+95% CI 
+
+Rate 
+
+95% CI 
+
+0.771 0.819 0.814 0.779 
+
+0.746 to 0.794 0.795 to 0.839 0.791 to 0.835 0.754 to 0.801 
+
+0.865 0.894 0.873 0.865 
+
+0.844 to 0.883 0.875 to 0.910 0.853 to 0.891 0.845 to 0.884 
+
+0.655 0.707 0.719 0.671 
+
+0.627 to 0.682 0.679 to 0.733 0.692 to 0.744 0.643 to 0.698 
+
+0.753 0.777 0.785 0.759 
+
+0.727 to 0.777 0.752 to 0.801 0.760 to 0.808 0.733 to 0.782 
+
+Abbreviations: D1, weekly docetaxel; D3, docetaxel every 3 weeks; DFS, disease-free survival; OS, overall survival; P1, weekly paclitaxel; P3, paclitaxel every 3 weeks. 
+
+www.jco.org 
+
+© 2015 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on July 22, 2015 Copyright © 2015 Americanfrom Society of Clinical Oncology. All rights reserved. 128.122.253.212 
+
+ 

@@ -1,0 +1,1349 @@
+Published Ahead of Print on October 27, 2014 as 10.1200/JCO.2014.55.6993 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2014.55.6993 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Phase III Comparison of Tamoxifen Versus Tamoxifen Plus Ovarian Function Suppression in Premenopausal Women With Node-Negative, Hormone Receptor–Positive Breast Cancer (E-3193, INT-0142): A Trial of the Eastern Cooperative Oncology Group Amye J. Tevaarwerk, Molin Wang, Fengmin Zhao, John H. Fetting, David Cella, Lynne I. Wagner, Silvana Martino, James N. Ingle, Joseph A. Sparano, Lawrence J. Solin, William C. Wood, and Nicholas J. Robert Amye J. Tevaarwerk, University of Wisconsin, Madison, WI; Molin Wang, Harvard University; Fengmin Zhao, Dana-Farber Cancer Institute, Boston, MA; John H. Fetting, Johns Hopkins University, Baltimore, MD; David Cella and Lynne I. Wagner, Northwestern University, Chicago, IL; Silvana Martino, Angeles Clinic and Research Institute, Santa Monica, CA; James N. Ingle, Mayo Clinic, Rochester, MN; Joseph A. Sparano, Montefiore Medical Center, Bronx, NY; Lawrence J. Solin, Albert Einstein Medical Center, Philadelphia, PA; William C. Wood, Emory University, Atlanta, GA; and Nicholas J. Robert, Virginia Cancer Specialists, Fairfax, VA. Published online ahead of print at www.jco.org on October 27, 2014. Support information appears at the end of this article. The content of this article is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute. Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Amye J. Tevaarwerk, MD, University of Wisconsin, 1111 Highland Ave, WIMR 6037, Madison, WI 53705; e-mail: at4@medicine.wisc.edu. © 2014 by American Society of Clinical Oncology 0732-183X/14/3299-1/$20.00 DOI: 10.1200/JCO.2014.55.6993 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The effects of ovarian function suppression (OFS) on survival and patient-reported outcomes were evaluated in a phase III trial in which premenopausal women were randomly assigned to tamoxifen with or without OFS. Patients and Methods Premenopausal women with axillary node-negative, hormone receptor–positive breast cancer tumors measuring ⱕ 3 cm were randomly assigned to tamoxifen alone versus tamoxifen plus OFS; adjuvant chemotherapy was not permitted. Primary end points were disease-free survival (DFS) and overall survival (OS). Secondary end points included toxicity and patient-reported outcomes. Patient-reported outcome data included health-related quality of life, menopausal symptoms, and sexual function. These were evaluated at baseline, 6 months, 12 months, and then annually for up to 5 years after registration. Results In all, 345 premenopausal women were enrolled: 171 on tamoxifen alone and 174 on tamoxifen plus OFS. With a median follow-up of 9.9 years, there was no significant difference between arms for DFS (5-year rate: 87.9% v 89.7%; log-rank P ⫽ .62) or OS (5-year rate: 95.2% v 97.6%; log-rank P ⫽ .67). Grade 3 or higher toxicity was more common in the tamoxifen plus OFS arm (22.4% v 12.3%; P ⫽ .004). Patients treated with tamoxifen plus OFS had more menopausal symptoms, lower sexual activity, and inferior health-related quality of life at 3-year follow-up (P ⬍ .01 for all). Differences diminished with further follow-up. Conclusion When added to tamoxifen, OFS results in more menopausal symptoms and sexual dysfunction, which contributes to inferior self-reported health-related quality of life. Because of early closure, this study is underpowered for drawing conclusions about the impact on survival when adding OFS to tamoxifen. J Clin Oncol 32. © 2014 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Ovarian function was related to breast cancer in 1882, when Nunn1 reported cancer regression 6 months after menopause. The first known therapeutic oophorectomy occurred in 1895 on a woman with recurrent breast cancer.2,3 Pharmacologic advances involving luteinizing hormone-releasing hormone (LHRH) agonists and improved surgical technique permitted the study of ovarian function 
+
+suppression (OFS) in the adjuvant setting. Several trials demonstrate benefits from ovarian suppression or surgical oophorectomy equaling or exceeding benefits from cytotoxic chemotherapies in patients with hormone receptor–positive breast cancer.4-9 A meta-analysis10 by the Early Breast Cancer Trialists’ Group suggests that OFS reduces breast cancer recurrence and mortality in the absence of other therapies. However, a second metaanalysis8 suggests that LHRH agonists alone do © 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Copyright 2014 by American Society of Clinical Oncology 
+
+1 
+
+Tevaarwerk et al 
+
+not improve recurrence or mortality, although adding them to other therapies reduces both recurrence and death following recurrence. Some consider OFS to be standard of care.11 Questions about OFS persist, and its role remains uncertain. It is not the recommended standard of care in North America, where tamoxifen alone is considered standard adjuvant endocrine therapy for premenopausal women.12 In the absence of definitive survival benefits, patient-reported outcomes (PROs) such as health-related quality of life (HRQoL) should be considered when use of OFS is considered. Understanding the additional toxicity from OFS beyond that of tamoxifen is complicated. Some published studies assess OFS versus cytotoxic chemotherapy.5,6,13-15 Other studies assess the impact of OFS in settings in which women are essentially past cytotoxic chemotherapy (which induces ovarian failure in premenopausal women).7,16-18 Only a few studies contain a tamoxifen alone arm.19,20 Furthermore, most published trialsofOFShavenotreportedPROssuch as HRQoL, hot flashes, and sexual dysfunction. The SOFT (Suppression of Ovarian Function Trial) study will address the value that OFS adds to standard adjuvant endocrine therapy in premenopausal women. SOFT randomlyassignedwomentotamoxifenaloneversustamoxifenplusOFS or aromatase inhibitor plus OFS. That phase III trial has completed accrual, but definitive results have not been reported for the tamoxifen versus tamoxifen plus OFS arms.21 SOFT included a significant proportion of women (54%) receiving adjuvant chemotherapy.21 The Eastern Cooperative Oncology Group (ECOG) undertook a phase III trial comparing tamoxifen versus tamoxifen plus OFS in premenopausal women with node-negative, hormone receptor–positive primary invasive breast cancers who did not receive adjuvant chemotherapy (Phase III Comparison of Tamoxifen v Tamoxifen With Ovarian Ablation in Premenopausal Women With Axillary Node–Negative Receptor-Positive Breast Cancer ⱕ 3 cm; E-3193, INT-0142). Primary objectives included comparing the overall survival (OS) and disease-free survival (DFS) between the two arms. Secondary objectives included toxicity and PROs such as comparison of menopausal symptoms, sexual function, and HRQoL between treatment arms. The trial was terminated before reaching the enrollment goal because of slow accrual; however, it completed the necessary accrual to meet the PRO objectives. We report the study results here. 
+
+PATIENTS AND METHODS Patient Population Eligible patients were premenopausal women with node-negative, estrogen receptor (ER) –positive and/or progesterone receptor (PgR) –positive primary invasive breast cancers. Primary tumors had to be ⱕ 3 cm in greatest diameter. Randomization was required within 84 days of definitive breast surgery (mastectomy or breast conservation). Premenopausal status was defined as a menstrual period within the past 6 months without prior oophorectomy, or in the case of prior hysterectomy, as age 55 years or younger with one or both ovaries remaining and an estradiol level in the normal premenopausal range. Patients could not have received prior systemic therapy for breast cancer, aside from ⱕ 12 weeks of tamoxifen. Patients were ineligible if they had any evidence of locally advanced or metastatic disease at diagnosis. The institutional review boards at each registering institution approved the protocol. All patients provided written informed consent. 2 
+
+© 2014 by American Society of Clinical Oncology 
+
+Treatment In this open-label, randomized phase III trial, patients were randomly assigned 1:1 to tamoxifen alone or tamoxifen plus OFS by using permuted blocks within strata with dynamic balancing across main institutions and their affiliated networks. Stratification factors included hormone receptor status, tumor size, and type of OFS. The treatment schedule for the tamoxifen alone arm was tamoxifen 20 mg orally per day for 5 years; the schedule for the tamoxifen plus OFS arm was tamoxifen 20 mg orally per day for 5 years combined with OFS. OFS was per patient or physician choice and could consist of LHRH analog (goserelin 3.6 mg depot every 4 weeks for 5 years beginning within 4 weeks of random assignment; leuprolide acetate 3.75 mg every 4 weeks for 5 years beginning within 4 weeks of random assignment), surgical ablation (done within 12 weeks of random assignment), or radiation ovarian ablation (20 Gy in 10 fractions within 12 weeks of random assignment22). No dose reductions were permitted. Other adjuvant systemic therapies including chemotherapy were not permitted. End Points and Assessments The primary end points were disease-free survival (DFS) and overall survival (OS). Secondary end points included toxicity and difference in Functional Assessment of Cancer Therapy-Breast (FACT-B) scores at 6 and 12 months. Additional PROs were prespecified as exploratory end points. DFS was defined as time from random assignment to the earliest of disease recurrence, new primary breast cancer, or death as a result of any cause, censoring patients without recurrence or death at the date of last disease assessment known to be disease free. OS was defined as time from random assignment to death as a result of any cause, with living patients censored at last evaluation date. Disease recurrence and survival were assessed every 6 months for the first 5 years and yearly thereafter. Adverse events were assessed on the same schedule by using National Cancer Institute Common Toxicity Criteria, version 1.23 Participants were surveyed to evaluate menopausal symptoms, sexual function, and HRQoL. Assessment of menopausal symptoms was conducted with questions from the Postmenopausal Estrogen/Progestin Intervention checklist,24 which consisted of 15 questions devoted to various symptoms. Assessment of sexual function was conducted by using the Sexual Activity Questionnaire,25 which consisted of five questions about sexual activity. Assessment of HRQoL was measured by using FACT-B (Version 3), which consisted of 27 general questions pertaining to patients with all cancers plus nine additional questions specific to patients with breast cancer.26 Assessments of PROs were performed at baseline, at 6 and 12 months, and yearly thereafter for up to 5 years following registration. Statistical Analysis The target enrollment was 1,600 eligible patients, with 90% power to detect 33% reduction in the hazard of recurrence from adding OFS to tamoxifen (5-year DFS rate of 83.0% v 88.3%) by using a log-rank test with a one-sided type I error rate of 0.025. This design also gives 81% power to detect a 33% reduction in the hazard of death (5-year OS of 90.0% for tamoxifen alone v 93.2% for tamoxifen plus OFS) by using a log-rank test with a one-sided type I error rate of 0.025. For PROs, 110 patients per arm give 90% power to detect a difference of five points in the FACT-B total score at 6 and 12 months by using a two-sample t test with an overall type I error rate of 0.05 (Bonferroni adjustment was made for these comparisons), assuming the common standard deviation of 10.5. The target sample size for PRO end points was 367 patients, assuming a 40% loss in PROs by 12 months, for an effective sample size of 220. All analyses were conducted in all eligible patients following the intentto-treat principle. Associations between categorical or binary variables were examined by using the ␹2 and Fisher’s exact tests.27 The distribution of OS and DFS was estimated by using the Kaplan-Meier method28 and compared between treatment arms by the log-rank test. Cox proportional hazards model29 was used to estimate the treatment effect after adjusting for baseline covariates. A two-sample t test was used to compare PRO scores or score changes between treatmentarms.AnalysisofvariancetestwasusedtocomparePROscoresbasedon type of OFS. Multivariable linear mixed effect models with unstructured covariancematriceswereconstructedtoestimatethetimeprofileforPROendpointsand JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+to assess the treatment difference over time, assuming that any missing data were missing at random. A sensitivity analysis was conducted by using the lognormal survival model for analyzing longitudinal data that incorporates the nonignorable censoring mechanism.30 A bootstrap method31 was applied to estimate the SEs of the regression coefficients in the lognormal survival models. All P values were for two-sided tests; P ⬍ .05 was considered statistically significant except for FACT-B comparisons at 6 and 12 months (P ⬍ .025 was used based on Bonferroni adjustment). No adjustment was made for multiple comparisons for other end points. SAS 9.0 (SAS Institute, Cary, NC) and STATA 11.2 (STATA, College Station, TX) were used for analyses. 
+
+RESULTS 
+
+Patient Demographics and Disease Characteristics A total of 345 participants were enrolled between September 1994 and November 1997, 171 on tamoxifen alone and 174 on 
+
+tamoxifen plus OFS. The final analysis, including all clinical outcomes and PRO end points, was conducted in March 2003 with median follow-up time of 5.86 years. However, participants were observed for recurrence and survival until June 2007 (median follow-up, 9.9 years; range, 0.2 to 12.3 years). DFS and OS analyses were updated in July 2011 and are presented here. The CONSORT diagram is provided in Figure 1. Of 345 registered participants, eight (four receiving tamoxifen and four receiving tamoxifen plus OFS) were ineligible; one patient (tamoxifen plus OFS) withdrew after random assignment and thus never started the assigned treatments. By the intent-to-treat principle, the total number of analyzable participants is the 337 eligible patients. The two arms were well balanced with respect to known patient characteristics (Table 1). At study entry, the median age was 45 years (range, 26 to 55 years). Most participants were white (91%) with tumors ⱕ 2 cm 
+
+Enrollment (N = 345) 
+
+Stratify Hormonal receptor status (PgR+ and ER+/−/unknown v PgR−/unknown and ER+) Tumor size (≤ 2 cm v > 2 cm and ≤ 3 cm) Type of ovarian ablation to be done (LHRH analog v oophoretomy v radiation) 
+
+Random assignment 
+
+Allocated to tamoxifen alone 20 mg PO daily for 5 years (n = 171) 
+
+Allocated to tamoxifen plus OFS Tamoxifen 20 mg PO daily plus OFS of choice for 5 years (n = 174) 
+
+Ineligible No therapy 
+
+(n = 4) (n = 0) 
+
+Ineligible No therapy 
+
+Eligible patients (n = 167) 
+
+Eligible patients (n = 170) 
+
+Received protocol therapy (n = 167) 
+
+Received protocol therapy (n = 170) 
+
+(n = 4) (n = 1) 
+
+On treatment at last report Discontinued tamoxifen Treatment completed Recurrence or death Toxicity/adverse events Other Unknown 
+
+(n = 51) (n = 116) (n = 68) (n = 16) (n = 12) (n = 19) (n = 1) 
+
+On treatment at last report Discontinued tamoxifen plus OFS Treatment completed Recurrence or death Toxicity/adverse events Other Unknown 
+
+(n = 47) (n = 123) (n = 77) (n = 14) (n = 17) ( n = 14 ) (n = 1) 
+
+Patients for efficacy analysis Patients for safety analysis Patients for PRO analysis Pretreatment 6 months 12 months 2 years 3 years 4 years 5 years 
+
+(n = 167) (n = 171) 
+
+Patients for efficacy analysis Patients for safety analysis Patients for PRO analysis Pretreatment 6 months 12 months 2 years 3 years 4 years 5 years 
+
+(n = 170) (n = 173) 
+
+www.jco.org 
+
+(n = 159) (n = 149) (n = 136) (n = 116) (n = 102) (n = 106) (n = 97) 
+
+Fig 1. CONSORT diagram for Tamoxifen and Ovarian Ablation in Treating Patients With Node-Negative, Receptor-Positive Breast Cancer (E-3193) trial. ER, estrogen receptor; LHRH, luteinizing hormone-releasing hormone; OFS, ovarian function suppression; PgR, progesterone receptor; PO, orally; PRO, patient-reported outcome. 
+
+(n = 164) (n = 138) (n = 137) (n = 123) (n = 113) (n = 105) ( n = 9 1) 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+3 
+
+Tevaarwerk et al 
+
+Table 1. Patient Demographic and Disease Characteristics (n ⫽ 337 analyzable participants) 
+
+Characteristic Age, years Median Range 26-40 41-50 51-55 Race/ethnicity White Black Other Unknown Hormone receptors ER positive, PgR positive ER positive, PgR negative ER positive, PgR unknown ER negative, PgR positive ER unknown, PgR positive Tumor size, cm ⱕ 1.0 1.1-2.0 ⬎ 2.0 Type of OFS LHRH Oophorectomy Radiation Refused OFS Surgical procedure Breast conservation Mastectomy 
+
+Tamoxifen Alone (n ⫽ 167) 
+
+Tamoxifen ⫹ OFS (n ⫽ 170) 
+
+No. 
+
+No. 
+
+% 46 26-55 
+
+% 44 30-54 
+
+22 117 28 
+
+13.2 70.1 16.8 
+
+36 111 23 
+
+21.2 65.3 13.5 
+
+154 7 5 1 
+
+92.2 4.2 3.6 
+
+154 9 7 0 
+
+90.6 5.3 4.1 
+
+147 13 1 4 2 
+
+88 7.8 0.6 2.4 1.2 
+
+149 14 2 4 1 
+
+87.7 8.2 1.2 2.4 0.6 
+
+22 117 28 
+
+13.2 70.1 16.8 
+
+15 126 29 
+
+8.8 74.1 17.1 
+
+— — — — 
+
+— — — — 
+
+61 72 22 15 
+
+36 42 13 9 
+
+97 70 
+
+58.1 41.9 
+
+112 58 
+
+65.9 34.1 
+
+Abbreviations: ER, estrogen receptor; LHRH, luteinizing hormone-releasing hormone; OFS, ovarian function suppression; PgR, progesterone receptor. 
+
+(83%), which were both estrogen receptor–positive and progesterone receptor–positive (88%). Participants randomly assigned to tamoxifen plus OFS generally chose to undergo surgical ablation of ovarian function via oophorectomy (42%), followed by medical suppression with an LHRH agonist (36%). Treatment As of March 2003, 116 participants (69%) receiving tamoxifen and 123 (72%) receiving tamoxifen plus OFS reported discontinuing treatment; the reasons cited for treatment discontinuation were similar between the arms. The most common reason cited was treatment completion (68 [41%] receiving tamoxifen and 77 [45%] receiving tamoxifen plus OFS; P ⫽ .441). Twenty-nine patients (8.6%; 12 receiving tamoxifen, 17 receiving tamoxifen plus OFS) discontinued treatment because of adverse events and 30 patients (8.9%; 16 receiving tamoxifen, 14 receiving tamoxifen plus OFS) discontinued as a result of recurrence or death. In addition to patients who discontinued treatment, 15 patients (9.0%) receiving tamoxifen plus OFS refused OFS and four (2.4%) receiving tamoxifen also received OFS. DFS and OS As of June 2007 (when follow-up for survival and recurrence stopped), 45 DFS events (tamoxifen, 24; tamoxifen plus OFS, 21) and 4 
+
+© 2014 by American Society of Clinical Oncology 
+
+24 deaths had been observed among 337 eligible participants (Fig 2). The 5-year OS rate for tamoxifen was 95.2% (95% CI, 90.5% to 97.6%) compared with a rate of 97.6% (95% CI, 93.6% to 99.1%) for tamoxifen plus OFS (log-rank P ⫽ .67; Fig 2A). The adjusted hazard ratio (HR) was 1.19 (95% CI, 0.52 to 2.70) for tamoxifen versus tamoxifen plus OFS. The 5-year DFS rate for tamoxifen was 87.9% (95% CI, 81.9% to 92.0%) compared with the rate of 89.7% (95% CI, 83.9% to 93.5%) for tamoxifen plus OFS (log-rank P ⫽ .62; Fig 2B). The adjusted HR was 1.17 (95% CI, 0.64 to 2.12) for tamoxifen versus tamoxifen plus OFS. Appendix Tables A1 and A2 (online only) display the results for the prespecified subgroup analysis based on OFS type and race. The estimated HRs for DFS and OS were not statistically significant, based on OFS type (Appendix Table A1). Among white women, the HR was 1.18 (95% CI, 0.63 to 2.21; P ⫽ .60) for DFS for tamoxifen versus tamoxifen plus OFS, and among nonwhite women, the HR was 1.02 (95% CI, 0.13 to 7.96; P ⫽ .98; Appendix Table A2). Toxicity The most common grade 3 or higher toxicities were hot flashes, weight gain, neuropsychiatric adverse effects, such as anxiety or depression, and neurologic adverse effects, such as somnolence and confusion (Table 2). The proportion of grade 3 or greater toxicity was higher for tamoxifen plus OFS compared with tamoxifen (22.4% v 12.3%; P ⫽ .004). No lethal adverse events were reported in the study. PROs Overall, compliance with PRO assessments was high and was similar between the two arms in all follow-up visits in the study (Fig 1). More than 93% of the patients submitted the PRO forms at baseline in both arms. At months 6 and 12, the retention rate was 83% and 79%, respectively, in the overall sample; thus, the prespecified effective sample size of 220 patients at 12 months was achieved. Combining all time points, a total of 1,889 surveys (68.2%) were completed. Among missing surveys, 433 (15.6%) were missing because of institutional error, 153 (5.5%) because of patient refusal, and 46 (1.7%) because of patient expiration. Table 3 and Figure 3 display the mean scores for PRO end points by treatment arm at each visit time in analyzable patients per protocol. Patients receiving tamoxifen plus OFS reported worse HRQoL as measured by the mean scores on both the FACTGeneral (FACT-G) and FACT-B cancer subscales compared with those receiving tamoxifen alone at all time points (Figs 3A and 3B). These differences became more pronounced over time and reached statistical and clinical significance for FACT-G at year 3 (difference, 6.39). This difference decreased over time. Women receiving tamoxifen plus OFS had more menopausal symptoms at all time points compared with women receiving tamoxifen alone, with statistically significant differences at 1, 2, and 3 years of follow-up (Fig 3C, Table 3). Sexual activity was lower among women receiving tamoxifen plus OFS compared with women receiving tamoxifen alone at all follow-up time points after month 6 (Fig 3D, Table 3), and differences were statistically significant. Appendix Table A3 (online only) displays PRO score changes between follow-up and baseline visits by arm. The tamoxifen plus OFS arm persistently had more differences from baseline starting at 6 months in menopausal and sexual activity compared with the tamoxifen alone arm. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+A 
+
+B 
+
+1.0 
+
+0.6 
+
+DFS (probability) 
+
+OS (probability) 
+
+0.8 
+
+1.0 
+
+5-year rate: 95.2% v 97.6% 10-year rate: 92.5% v 92.4% Log-rank P = .67 Unadjusted HR (95% CI): 1.19 (0.52 to 2.70) Adjusted HR (95% CI): 1.19 (0.53 to 2.65) 
+
+0.4 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+0.2 Tamoxifen (13 deaths/167 patients) Tamoxifen + OFS (11 deaths/170 patients) 
+
+0 
+
+5-year rate: 87.9% v 89.7% 10-year rate: 85.9% v 87.1% Log-rank P = .62 Unadjusted HR (95% CI): 1.16 (0.64 to 2.08) Adjusted HR (95% CI): 1.17 (0.64 to 2.12) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Tamoxifen (13 deaths/167 patients) Tamoxifen + OFS (11 deaths/170 patients) 
+
+10 11 12 13 
+
+Time Since Random Assignment (years) No. at risk Tamoxifen 167 167 163 160 157 153 149 143 140 128 Tamoxifen + OFS 170 169 167 165 160 155 152 147 136 115 
+
+76 69 
+
+27 23 
+
+2 6 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 11 12 13 
+
+Time Since Random Assignment (years) 0 0 
+
+No. at risk Tamoxifen 167 161 155 154 147 141 136 131 130 118 Tamoxifen + OFS 170 166 160 156 148 141 137 133 124 105 
+
+68 65 
+
+24 21 
+
+2 5 
+
+0 0 
+
+Fig 2. Comparison of (A) overall survival (OS) and (B) disease-free survival (DFS) by treatment in analyzable patients. HR, hazard ratio; OFS, ovarian function suppression. 
+
+Linear mixed effect models analysis showed similar results after adjusting for age, race, hormone receptor status, tumor size, and surgical procedure (Appendix Table A4, online only). The lognormal survival model analysis was conducted as a sensitivity analysis, and the results 
+
+Table 2. Grade 3 or Higher Toxicities by Treatment Arm Tamoxifen ⫹ OFS (n ⫽ 174) Grade 
+
+Tamoxifen Alone (n ⫽ 171) Grade 3 
+
+4 
+
+Toxicity Type 
+
+No. 
+
+% 
+
+No. 
+
+Hot flashes Neuropsychiatricⴱ Neuroclinical† Allergy Weight gain Vaginal dryness Changes in libido Anemia Clotting disorders Itching Night sweats Dizziness Liver Edema Hypoglycemia Pain Insomnia Endometriosis Amenorrhea Hypertension Highest grade 
+
+8 2 1 — 4 — — — — 1 — 1 — — — — 2 1 1 — 16 
+
+4.7 1.2 0.6 
+
+— 2 — — — — — — — — — — — — — — — — — — 2 
+
+2.3 
+
+0.6 0.6 
+
+1.2 0.6 0.6 11.1 
+
+3 % 1.2 
+
+1.2 
+
+4 
+
+No. 
+
+% 
+
+No. 
+
+28 4 4 1 6 1 1 — 1 — 1 — 1 1 1 1 — — — 1 38 
+
+16.1 2.3 2.3 0.6 3.4 0.6 0.6 
+
+— — — — — — — 1 — — — — — — — — — — — — 1 
+
+0.6 0.6 0.6 0.6 0.6 0.6 
+
+0.6 21.8 
+
+% 
+
+0.6 
+
+0.6 
+
+Abbreviation: OFS, ovarian function suppression. ⴱ Included anxiety and depression. †Included somnolence; confusion; hallucinations; coordination issues such as tremors, nystagmus, ataxaia, and dysdiadokinesis; and headache. 
+
+www.jco.org 
+
+showed no significant changes compared with the previous results after considering the possible informative censoring as a result of death (data not shown). PROs were examined by OFS type among patients on the tamoxifen plus OFS arm in the report. Patients with surgically induced menopause had slightly lower scores over all PRO end points at year 3, although this was statistically significant only for the FACT-B subscale and Sexual Activity Questionnaire (Appendix Table A5, online only). Given the small numbers as well as small overall differences in scores, results should be interpreted with caution. DISCUSSION 
+
+E-3193 is a randomized phase III trial comparing tamoxifen alone with tamoxifen plus OFS for premenopausal women with earlystage breast cancer. The trial closed to accrual before meeting the enrollment goal for survival end points. DFS and OS were excellent overall; because of this and the early termination of accrual, the DFS and OS comparisons are underpowered. However, valuable data about toxicity, menopausal symptom burden, sexual function, and HRQoL were obtained. Accrual met the protocol’s prespecified target goal for the PRO end points. PRO results suggest that adding ovarian suppression to tamoxifen leads to increased toxicity, more menopausal symptom burden, and lowered sexual function, all ultimately translating into lower HRQoL. The difference in HRQoL scores between the two arms is statistically significant and clinical meaningful by year 3.32 However, the negative impact of OFS diminished over time, likely because increasing numbers of women receiving tamoxifen alone reached menopause (median age at study entry was 45 years). Outcomes for the tamoxifen alone arm in particular trended upward and were significantly better at year 3 than at baseline, consistent with other studies of HRQoL in women receiving endocrine therapy.33 Limited data are available comparing OFS in addition to or in place of standard adjuvant endocrine therapy for premenopausal breast cancer © 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+5 
+
+Tevaarwerk et al 
+
+Table 3. Comparison of PRO End Points Between Tamoxifen Alone and Tamoxifen Plus OFS in Analyzable Participants Tamoxifen ⫹ OFS 
+
+Tamoxifen Alone End Points FACT-Bⴱ Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 FACT-G‡ Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Breast subscale§ Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Menopausal symptoms㛳 Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Sexual function¶ Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 
+
+No. 
+
+Mean 
+
+SD 
+
+No. 
+
+Mean 
+
+SD 
+
+Difference in Mean 
+
+103† 134 130 109 99 98 93 
+
+113.30 112.28 114.47 114.02 118.18 114.65 117.04 
+
+16.87 19.72 17.74 19.70 15.92 17.52 17.51 
+
+102 128 132 113 104 96 84 
+
+110.26 112.35 110.96 109.39 110.46 113.14 116.24 
+
+19.48 18.12 18.52 19.35 20.49 19.24 15.49 
+
+3.04 ⫺0.07 3.51 4.63 7.72 1.52 0.80 
+
+.23 .98 .12 .08 .003 .57 .75 
+
+158 149 136 116 102 106 97 
+
+86.24 86.98 88.52 89.19 92.47 90.10 91.30 
+
+13.18 14.61 13.24 14.93 12.15 13.37 12.87 
+
+164 137 137 123 113 104 91 
+
+85.79 86.26 86.18 85.50 86.54 88.57 89.88 
+
+13.91 14.57 14.61 15.06 16.08 14.85 12.62 
+
+0.45 0.72 2.34 3.69 5.39 1.54 1.42 
+
+.76 .68 .17 .06 .003 .43 .45 
+
+104† 134 130 109 99 98 94 
+
+25.98 25.68 25.88 25.22 25.87 25.18 25.85 
+
+5.12 6.10 5.82 6.03 5.07 5.57 6.21 
+
+102 129 132 113 104 97 85 
+
+25.13 25.56 24.72 23.75 24.38 24.84 25.78 
+
+5.68 5.47 5.60 5.85 5.89 5.75 5.62 
+
+0.85 0.12 1.16 1.47 1.49 0.34 0.07 
+
+.26 .88 .10 .07 .06 .67 .94 
+
+148 139 131 114 97 105 97 
+
+47.61 42.13 42.85 42.59 43.37 41.98 43.22 
+
+7.99 9.16 9.04 9.13 8.41 8.98 9.46 
+
+157 128 136 118 113 103 90 
+
+48.71 40.21 39.40 38.74 39.78 40.86 41.83 
+
+7.99 8.59 8.71 8.06 8.59 8.11 8.08 
+
+⫺1.10 1.92 3.45 3.85 3.59 1.12 1.39 
+
+.23 .08 .002 .001 .003 .35 .28 
+
+128 118 110 98 81 85 80 
+
+15.83 14.45 14.00 13.83 13.84 13.26 13.18 
+
+3.40 4.58 4.59 5.25 4.77 4.76 4.85 
+
+145 115 123 106 103 85 78 
+
+15.97 13.08 12.50 11.87 11.20 11.38 11.45 
+
+3.77 4.38 4.79 4.68 4.73 4.73 4.49 
+
+⫺0.14 1.37 1.50 1.96 2.64 1.87 1.73 
+
+.75 .020 .016 .005 ⬍ .001 .011 .022 
+
+P (t test) 
+
+Abbreviation: FACT-B, Functional Assessment of Cancer Therapy-Breast; FACT-G, FACT-General; OFS, ovarian function suppression; PRO, patient-reported outcome; SD, standard deviation. ⴱ Out of possible score 144, higher score indicates better HRQL. †On the original version of the baseline survey, the last page containing the breast subscale was missing. Thus, the FACT-B and breast subscales are unavailable for some patients. This was corrected in early 1995. ‡Out of possible score of 108, higher scores indicate better HRQL. §Out of possible score of 36, higher scores indicate fewer breast cancer-specific symptoms. 㛳Out of possible score of 60, higher scores indicate fewer complaints or difficulty. ¶Out of possible score of 20, higher scores indicate better sexual activity. 
+
+(ie, tamoxifen). PRO data are similarly lacking. As shown in Table 4,34-40 studies have mainly examined OFS compared with or combined with cytotoxic chemotherapy. Trials examining tamoxifen alone versus tamoxifen plus OFS have used short durations of OFS (2 years). Our results suggest that durations of less than 3 years fail to capture the adverse effect peak and the HRQoL nadir from OFS.34,35 Because inclusion criteria varied widely from trial to trial, it is difficult to quantify the impact of chemotherapy-induced ovarian failure in women randomly as6 
+
+© 2014 by American Society of Clinical Oncology 
+
+signed to tamoxifen alone after adjuvant chemotherapy. Women receiving tamoxifen who had chemotherapy-induced ovarian failure would have symptoms mimicking tamoxifen plus OFS. SOFT will provide valuable insights into the survival benefit from OFS as well as its impact on PROs such as hot flashes and loss of sexual interest. Particular strengths of E-3193 (when viewed in light of SOFT) include the maturity of our data. Furthermore, our patients were not exposed to chemotherapy; thus, the added symptom burden seen is solely JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+A 
+
+B 
+
+96 
+
+Breast Cancer Subscale Score 
+
+94 
+
+FACT-G Score 
+
+28 
+
+Tamoxifen Tamoxifen + OFS lb/ub 
+
+92 90 88 86 84 
+
+26 
+
+24 
+
+22 
+
+Tamoxifen Tamoxifen + OFS lb/ub 
+
+82 80 
+
+20 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+60 
+
+0 
+
+6 
+
+12 
+
+18 
+
+Time (months) 
+
+D 
+
+50 
+
+Tamoxifen Tamoxifen + OFS lb/ub 
+
+48 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+60 
+
+48 
+
+54 
+
+60 
+
+Time (months) 
+
+46 44 42 40 38 36 
+
+18 
+
+Sexual Function Score 
+
+Menopausal Symptom Score 
+
+C 
+
+24 
+
+16 14 12 10 
+
+Tamoxifen Tamoxifen + OFS lb/ub 
+
+8 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+48 
+
+54 
+
+60 
+
+Time (months) 
+
+0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+30 
+
+36 
+
+42 
+
+Time (months) 
+
+Fig 3. Patient-reported outcome scores for (A) Functional Assessment of Cancer Therapy-General (FACT-G), (B) breast cancer subscale, (C) menopause symptom, and (D) sexual function assessments and 95% CIs over time by treatment arm in analyzable patients. Vertical lines represent 95% CIs. lb/ub, lower border/upper border; OFS, ovarian function suppression. 
+
+a result of OFS. This is a unique feature of our data that will not be recapitulated by SOFT (although SOFT eligibility requirements carefully define the required residual menstrual function.) One limitation of our study was the early termination of the trial because of poor accrual (although this applies only to the efficacy end points because the sample size needed for the PRO end points was achieved). In addition, participants were not blinded to assigned treatment arm, which could have influenced their perception of adverse effects. However, practical considerations make it unlikely that patients and treatingphysicianscouldhavebeenblindedtocontinuedmenstrualfunction. Another limitation is the absence of data on other outcomes potentially impacted by OFS such as bone health, vaginal atrophy, or cognitive function. Finally, as is typical for PRO end points, multiple comparison adjustment was made only for the primary PRO end points, although multiple measures were administered at multiple time points in the study. In conclusion, this study provides unique insight into the detrimental impact of OFS beyond that seen with tamoxifen alone. The impact of OFS on PROs is not complicated by the prior use of chemotherapy and its effects on ovarian function, unlike in many other studies. Questions generated by this research include exploring shorter durations of OFS, which might result in less symptom burden for patients. Given these data and in the absence of definitive data for improvement in DFS or OS with OFS, the American Society of Clinical Oncology guidelines are appropriately cautious about adding OFS www.jco.org 
+
+to tamoxifen.12 These data provide valuable information for oncologists and patients who are debating whether to add OFS to tamoxifen. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST The author(s) indicated no potential conflicts of interest. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Molin Wang, John H. Fetting, David Cella, Silvana Martino, James N. Ingle, Joseph A. Sparano, Lawrence J. Solin, William C. Wood, Nicholas J. Robert Administrative support: Joseph A. Sparano Provision of study materials or patients: Joseph A. Sparano, William C. Wood, Nicholas J. Robert Collection and assembly of data: Molin Wang, John H. Fetting, David Cella, Silvana Martino, James N. Ingle, Joseph A. Sparano, Lawrence J. Solin, Nicholas J. Robert Data analysis and interpretation: Amye J. Tevaarwerk, Molin Wang, Fengmin Zhao, David Cella, Lynne I. Wagner, William C. Wood, Nicholas J. Robert Manuscript writing: All authors Final approval of manuscript: All authors © 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+7 
+
+8 
+
+© 2014 by American Society of Clinical Oncology 
+
+ABC OAS Trial 
+
+TABLE Adjuvant Breast Cancer Trials Collaborative Group20 
+
+Schmid et al14,15 
+
+Pre 
+
+Pre 
+
+Pre 
+
+Pre or peri 
+
+II-IIIa 
+
+I-II 
+
+III 
+
+I-II 
+
+II 
+
+I-II 
+
+Assessable, node positive, estrogen receptor positive T1-3aN0-1 
+
+Node negative, hormone receptor positive Initially only hormone receptor negative, but amended to include hormone receptor positive, node positive Age ⬍ 50 years 
+
+Randomized, hormone receptor positive, node negative, T1 
+
+Node positive 
+
+Node positive, hormone receptor positive 
+
+Node positive, age ⱕ 50 years 
+
+Hormone receptor positive, ⬍ 10 positive nodes 
+
+(contined on following page) 
+
+589 Pre or peri assessable 2,144 Pre or peri 
+
+2,076 
+
+Hackshaw et al17 
+
+Takeda Adjuvant Breast Cancer Study with Leuprorelin Acetate 
+
+776 
+
+Kaufmann et al16 
+
+GABG IV-B 
+
+ZIPP 
+
+771 
+
+von Minckwitz et al13 
+
+GABG IV-A 
+
+1,111 
+
+International Breast Cancer Study Group et al6 
+
+1,034 Pre assessable 
+
+IBCSG Trial VIII 
+
+Jakesz et al5 
+
+Pre 
+
+Thomson et al38 
+
+Scottish Cancer Trials Breast Group ABCSG-5 
+
+332 
+
+Pre 
+
+Pre or peri 
+
+Davidson et al7 
+
+1,640 
+
+Jonat et al37 
+
+ZEBRA 
+
+Pre 
+
+Receptor and Node Status 
+
+Key Inclusion Criteria Menopausal Status Stage 
+
+E5188/INT 0101 
+
+1,803 
+
+Population 
+
+Gnant et al11,36 
+
+Reference 
+
+ABCSG-12 
+
+Zoladex in Premenopausal Patients 
+
+Randomized Study Comparing CMF and Goserelin ⫹ Tamoxifen in Premenopausal ReceptorPositive Patients Adjuvant Chemotherapy, Goserelin, or Their Sequential Combination for Pre/Perimenopausal Patients with Node-negative Breast Cancer 
+
+Phase III Randomized Comparison of Adjuvant Therapies in Premenopausal Women with Resected Node-Positive Hormone Receptor–Positive Adenocarcinoma of the Breast: CAF (CTX/DOX/5-FU) v CAF Followed by ZDX v CAF Followed by ZDX/TMX 
+
+Tamoxifen Versus Anastrozole, Alone or in Combination With Zoledronic Acid 
+
+Trial Name 
+
+Trial Acronym or Study Group 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Chemotherapy Permitted 
+
+Table 4. Sample Published Studies in Premenopausal Breast Cancer Containing an OFS Arm 
+
+Recurrence, survival 
+
+DFS, OS, toxicity, QOL34 TTR, DFS, OS, toxicity 
+
+DFS, OS, toxicity 
+
+Outcomes Measured 
+
+Tamoxifen for 5 years v tamoxifen ⫹ OFS for 5 years 
+
+Hormone receptor–negative patients treated with chemotherapy, randomized to goserelin for 2 years v no further treatment Randomized after primary therapy to no treatment v goserelin for 2 years v tamoxifen for 2 years v goserelin for 2 years ⫹ tamoxifen CMF v leuprorelin acetate for 2 years 
+
+CMF v goserelin for 2 years 
+
+CMF v CMF ⫹ goserelin for 18 months v goserelin for 2 years v no treatment (no treatment arm was discontinued with only 42 patients enrolled) 
+
+RFS, OS 
+
+RFS, OS 
+
+EFS, OS, QOL35 
+
+EFS, OS, toxicity 
+
+EFS, OS, toxicity 
+
+DFS, OS, toxicity 
+
+CMF v tamoxifen for 5 years ⫹ goserelin for RFS, OS, toxicity 3 years 
+
+CMF v ablation (surgical or radiation) 
+
+After CAF, randomized to no treatment v goserelin for 5 years v goserelin ⫹ tamoxifen for 5 years 
+
+Tamoxifen ⫹ goserelin for 3 years v aromatase inhibitor ⫹ goserelin for 3 years (also randomized to zoledronic acid or not) CMF v goserelin for 2 years 
+
+Treatment Arms 
+
+Tevaarwerk et al 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+www.jco.org Reference 
+
+E-3193, INT-0142 
+
+Tamoxifen and Ovarian Ablation in Treating Patients With NodeNegative, Receptor-Positive Breast Cancer 
+
+Ejlertsen et al40 345 
+
+762 
+
+466 
+
+244 
+
+926 
+
+Population 
+
+Pre 
+
+Pre 
+
+Pre 
+
+Pre or peri 
+
+Pre 
+
+High risk (node positive or ⬎ 5 cm primary) Hormone receptor positive, node negative 
+
+Node positive 
+
+Estrogen receptor positive 
+
+Node positive or grade 2 to 3 
+
+Receptor and Node Status 
+
+Key Inclusion Criteria Menopausal Status Stage 
+
+No 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Chemotherapy Permitted 
+
+DFS, OS DFS, OS, PROs, toxicity 
+
+Tamoxifen for 5 years v tamoxifen ⫹ OFS for 5 years 
+
+DFS, toxicity 
+
+DFS, OS, toxicity 
+
+DFS, OS 
+
+Outcomes Measured 
+
+CMF v OFS (irradiation or surgical ablation v goserelin for 2 years) ⫹ tamoxifen for 5 years Goserelin ⫹ tamoxifen for 2 years v observation Pelvic irradiation v CMF 
+
+Chemotherapy v chemotherapy ⫹ OFS (irradiation or surgical ablation or triptorelin for 3 years) 
+
+Treatment Arms 
+
+NOTE. If chemotherapy was used, the type was not specified by the protocol. Abbreviations: ABCSG, Austrian Breast and Colorectal Cancer Study Group; CAF, cyclophosphamide ⫹ doxorubicin ⫹ fluorouracil; CMF, cyclophosphamide ⫹ methotrexate ⫹ fluorouracil; CTX, chemotherapy; DBCG, Danish Breast Cancer Cooperative Group; DOX, doxorubicin; DFS, disease-free survival; EFS, event-free survival; FU, fluorouracil; GABG, German Adjuvant Breast Cancer Study Group; GOCSI, Gruppo Oncologico Centro-Sud-Isole; OAB, Ovarian Ablation or Suppression; OFS, ovarian function suppression; OS, overall survival; peri, perimenopausal; pre, premenopausal; PRO, patient-reported outcome; QOL, quality of life; RFS, recurrence-free or relapse-free survival; TMX, tamoxifen; TTR, time to recurrence; ZDX, Zoladex; ZEBRA, Zoladex Early Breast Cancer Research Association. 
+
+DBCG 
+
+Fédération Nationale Arriagada18 des Centres de Lutte contre le Cancer Italian Breast Cancer Boccardo19 Adjuvant Study Group GOCSI De Placido et al39 
+
+Trial 89B 
+
+MAM-1 
+
+Trial 02 
+
+Trial Name 
+
+Trial Acronym or Study Group 
+
+Table 4. Sample Published Studies in Premenopausal Breast Cancer Containing an OFS Arm (continued) 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+© 2014 by American Society of Clinical Oncology 
+
+9 
+
+Tevaarwerk et al 
+
+REFERENCES 1. Nunn T: On cancer of the breast. London, United Kingdom, J. & A. Churchill, 1882, pp 71 2. Beatson GT: On the treatment of inoperable cases of carcinoma of the mamma: Suggestions for a new method of treatment, with illustrative cases. Lancet 148:162-165, 1896 3. Thomson A: Analysis of cases in which oophorectomy was performed for inoperable carcinoma of the breast. Br Med J 2:1538-1541, 1902 4. [No authors listed]: Adjuvant ovarian ablation versus CMF chemotherapy in premenopausal women with pathological stage II breast carcinoma: The Scottish trial—Scottish Cancer Trials Breast Group and ICRF Breast Unit, Guy’s Hospital, London. Lancet 341:1293-1298, 1993 5. Jakesz R, Hausmaninger H, Kubista E, et al: Randomized adjuvant trial of tamoxifen and goserelin versus cyclophosphamide, methotrexate, and fluorouracil: Evidence for the superiority of treatment with endocrine blockade in premenopausal patients with hormone-responsive breast cancer— Austrian Breast and Colorectal Cancer Study Group Trial 5. J Clin Oncol 20:4621-4627, 2002 6. International Breast Cancer Study Group (IBCSG), Castiglione-Gertsch M, O’Neill A, et al: Adjuvant chemotherapy followed by goserelin versus either modality alone for premenopausal lymph node-negative breast cancer: A randomized trial. J Natl Cancer Inst 95:1833-1846, 2003 7. Davidson NE, O’Neill AM, Vukov AM, et al: Chemoendocrine therapy for premenopausal women with axillary lymph node-positive, steroid hormone receptorpositive breast cancer: Results from INT 0101 (E5188). J Clin Oncol 23:5973-5982, 2005 8. LHRH-Agonists in Early Breast Cancer Overview Group1, Cuzick J, Ambroisine L, et al: Use of luteinising-hormone-releasing hormone agonists as adjuvant treatment in premenopausal patients with hormone-receptor-positive breast cancer: A metaanalysis of individual patient data from randomised adjuvant trials. Lancet 369:1711-1723, 2007 9. Roché H, Kerbrat P, Bonneterre J, et al: Complete hormonal blockade versus epirubicinbased chemotherapy in premenopausal, one to three node-positive, and hormone-receptor positive, early breast cancer patients: 7-year follow-up results of French Adjuvant Study Group 06 randomised trial. Ann Oncol 17:1221-1227, 2006 10. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 11. Gnant M, Mlineritsch B, Stoeger H, et al: Adjuvant endocrine therapy plus zoledronic acid in premenopausal women with early-stage breast cancer: 62-month follow-up from the ABCSG-12 randomised trial. Lancet Oncol 12:631-641, 2011 12. Griggs JJ, Somerfield MR, Anderson H, et al: American Society of Clinical Oncology endorsement of the Cancer Care Ontario practice guideline on adjuvant ovarian ablation in the treatment of pre- 
+
+menopausal women with early-stage invasive breast cancer. J Clin Oncol 29:3939-3942, 2011 13. von Minckwitz G, Graf E, Geberth M, et al: CMF versus goserelin as adjuvant therapy for node-negative, hormone-receptor-positive breast cancer in premenopausal patients: A randomised trial (GABG trial IV-A-93). Eur J Cancer 42:1780-1788, 2006 14. Schmid P, Untch M, Wallwiener D, et al: Cyclophosphamide, methotrexate and fluorouracil (CMF) versus hormonal ablation with leuprorelin acetate as adjuvant treatment of node-positive, premenopausal breast cancer patients: Preliminary results of the TABLE-study (Takeda Adjuvant Breast cancer study with Leuprorelin Acetate). Anticancer Res 22:2325-2332, 2002 15. Schmid P, Untch M, Kossé V, et al: Leuprorelin acetate every-3-months depot versus cyclophosphamide, methotrexate, and fluorouracil as adjuvant treatment in premenopausal patients with nodepositive breast cancer: The TABLE study. J Clin Oncol 25:2509-2515, 2007 16. Kaufmann M, Graf E, Jonat W, et al: A randomised trial of goserelin versus control after adjuvant, risk-adapted chemotherapy in premenopausal patients with primary breast cancer: GABG-IV B-93. Eur J Cancer 43:2351-2358, 2007 17. Hackshaw A, Baum M, Fornander T, et al: Long-term effectiveness of adjuvant goserelin in premenopausal women with early breast cancer. J Natl Cancer Inst 101:341-349, 2009 18. Arriagada R, Lê MG, Spielmann M, et al: Randomized trial of adjuvant ovarian suppression in 926 premenopausal patients with early breast cancer treated with adjuvant chemotherapy. Ann Oncol 16:389-396, 2005 19. Boccardo F, Rubagotti A, Amoroso D, et al: Cyclophosphamide, methotrexate, and fluorouracil versus tamoxifen plus ovarian suppression as adjuvant treatment of estrogen receptor-positive pre-/ perimenopausal breast cancer patients: Results of the Italian Breast Cancer Adjuvant Study Group 02 randomized trial. J Clin Oncol 18:2718-2727, 2000 20. Adjuvant Breast Cancer Trials Collaborative Group: Ovarian ablation or suppression in premenopausal early breast cancer: Results from the international adjuvant breast cancer ovarian ablation or suppression randomized trial. J Natl Cancer Inst 99:516-525, 2007 21. Pagani O, Regan MM, Walley BA, et al: Adjuvant exemestane with ovarian suppression in premenopausal breast cancer. N Engl J Med 371: 107-118, 2014 22. Hughes LL, Gray RJ, Solin LJ, et al: Efficacy of radiotherapy for ovarian ablation: Results of a breast intergroup study. Cancer 101:969-972, 2004 23. National Cancer Institute, National Institutes of Health, Department of Health and Human Services: Common Toxicity Criteria Manual, version 1.0. Bethesda, MD, National Cancer Institute, 1982 24. Moos RH, Leiderman DB: Toward a menstrual cycle symptom typology. J Psychosom Res 22:31-40, 1978 25. Thirlaway K, Fallowfield L, Cuzick J: The Sexual Activity Questionnaire: A measure of women’s sexual functioning. Qual Life Res 5:81-90, 1996 
+
+26. Cella DF, Tulsky DS, Gray G, et al: The Functional Assessment of Cancer Therapy scale: Development and validation of the general measure. J Clin Oncol 11:570-579, 1993 27. Agresti A: Categorical Data Analysis, Hoboken, NJ, Wiley, 1958 28. Kaplan EL, Meier P: Nonparametric estimation from incomplete observation. J Am Stat Assoc 53:457-481, 1958 29. Cox DR: Regression models and life tables. J R Stat Soc B 34:187-220, 1972 30. Schluchter MD: Methods for the analysis of informatively censored longitudinal data. Stat Med 11:1861-1870, 1992 31. Efron B: Bootstrap methods: Another look at the jackknife. Ann Stat 7:1-26, 1979 32. Eton DT, Cella D, Yost KJ, et al: A combination of distribution- and anchor-based approaches determined minimally important differences (MIDs) for four endpoints in a breast cancer scale. J Clin Epidemiol 57:898-910, 2004 33. Cella D, Fallowfield L, Barker P, et al: Quality of life of postmenopausal women in the ATAC (“Arimidex”, tamoxifen, alone or in combination) trial after completion of 5 years’ adjuvant treatment for early breast cancer. Breast Cancer Res Treat 100: 273-284, 2006 34. de Haes H, Olschewski M, Kaufmann M, et al: Quality of life in goserelin-treated versus cyclophosphamide ⫹ methotrexate ⫹ fluorouracil-treated premenopausal and perimenopausal patients with node-positive, early breast cancer: The Zoladex Early Breast Cancer Research Association Trialists Group. J Clin Oncol 21:4510-4516, 2003 35. Berglund G, Nystedt M, Bolund C, et al: Effect of endocrine treatment on sexuality in premenopausal breast cancer patients: A prospective randomized study. J Clin Oncol 19:2788-2796, 2001 36. Gnant M, Mlineritsch B, Schippinger W, et al: Endocrine therapy plus zoledronic acid in premenopausal breast cancer. N Engl J Med 360:679-691, 2009 37. Jonat W, Kaufmann M, Sauerbrei W, et al: Goserelin versus cyclophosphamide, methotrexate, and fluorouracil as adjuvant therapy in premenopausal patients with node-positive breast cancer: The Zoladex Early Breast Cancer Research Association Study. J Clin Oncol 20:4628-4635, 2002 38. Thomson CS, Twelves CJ, Mallon EA, et al: Adjuvant ovarian ablation vs CMF chemotherapy in premenopausal breast cancer patients: Trial update and impact of immunohistochemical assessment of ER status. Breast 11:419-429, 2002 39. De Placido S, De Laurentiis M, De Lena M, et al: A randomised factorial trial of sequential doxorubicin and CMF vs CMF and chemotherapy alone vs chemotherapy followed by goserelin plus tamoxifen as adjuvant treatment of node-positive breast cancer. Br J Cancer 92:467-474, 2005 40. Ejlertsen B, Mouridsen HT, Jensen MB, et al: Similar efficacy for ovarian ablation compared with cyclophosphamide, methotrexate, and fluorouracil: From a randomized comparison of premenopausal patients with node-positive, hormone receptor-positive breast cancer. J Clin Oncol 24:4956-4962, 2006 
+
+Support Supported in part by Public Health Service Grants No. CA23318, CA66636, CA21115, CA21076, CA16116, CA17145, CA14958, CA32102, and CA25224 from the National Cancer Institute, National Institutes of Health (NIH), Department of Health and Human Services, and by Grant No. UL1TR000427 from the Clinical and Translational Science Award program through the NIH National Center for Advancing Translational Sciences (A.J.T.). ■ ■ ■ 
+
+10 
+
+© 2014 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+GLOSSARY TERMS 
+
+estrogen receptor (ER): ligand-activated nuclear proteins, belonging to the class of nuclear receptors, present in many breast cancer cells that are important in the progression of hormone-dependent cancers. After binding, the receptor-ligand complex activates gene transcription. There are two types of estrogen receptors (ER␣ and ER␤). ER␣ is one of the most important proteins controlling breast cancer function. ER␤ is present in much lower levels in breast cancer, and its function is uncertain. Estrogen receptor status guides therapeutic decisions in breast cancer. 
+
+www.jco.org 
+
+health-related quality of life (HRQoL): a broad multidimensional concept that usually includes self-reported measures of physical and mental health. 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+11 
+
+Tevaarwerk et al 
+
+Acknowledgment Presented at the 39th Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, May 31-June 3, 2003. The authors thank the participants, research staff, and local site investigators of the adjuvant trial included in this analysis. Appendix 
+
+Table A1. HRs and 95% CIs by Type of OFS Among Eligible Patients Outcome and Treatment 
+
+No. of Patients 
+
+HR 
+
+95% CI 
+
+P 
+
+228 239 189 
+
+1.44 0.93 1.06 
+
+0.59 to 3.53 0.46 to 1.91 0.32-3.54 
+
+.421 .850 .918 
+
+228 239 189 
+
+1.47 0.98 0.93 
+
+0.59 to 3.65 0.47 to 2.03 0.27 to 3.22 
+
+.408 .955 .905 
+
+228 239 189 
+
+1.14 1.40 0.57 
+
+0.37 to 3.49 0.46 to 4.28 0.16 to 2.01 
+
+.822 .559 .385 
+
+228 239 189 
+
+1.19 1.38 0.48 
+
+0.38 to 3.78 0.44 to 4.32 0.12 to 1.82 
+
+.763 .576 .277 
+
+DFS, unadjusted Tamoxifen v tamoxifen ⫹ LHRH analog Tamoxifen v tamoxifen ⫹ oophorectomy Tamoxifen v tamoxifen ⫹ radiation DFS, adjusted Tamoxifen v tamoxifen ⫹ LHRH analog Tamoxifen v tamoxifen ⫹ oophorectomy Tamoxifen v tamoxifen ⫹ radiation OS, unadjusted Tamoxifen v tamoxifen ⫹ LHRH analog Tamoxifen v tamoxifen ⫹ oophorectomy Tamoxifen v tamoxifen ⫹ radiation OS, adjusted Tamoxifen v tamoxifen ⫹ LHRH analog Tamoxifen v tamoxifen ⫹ oophorectomy Tamoxifen v tamoxifen ⫹ radiation 
+
+NOTE. Tamoxifen ⫹ ovarian function suppression (OFS) is the reference group for all comparisons. A hazard ratio (HR) ⬎ 1 indicates improved outcome for tamoxifen ⫹ OFS (ie, higher risk for tamoxifen). Variables included in the adjusted models were age (ⱕ 40, 41-50, ⱖ 51 years), tumor size (⬍ 1, 1-2, ⬎ 2 cm), hormone receptor (progesterone receptor (PgR) positive or PgR negative/PgR unknown), and most extensive surgery (breast-sparing procedure or mastectomy). Race and menopausal status were not included because of lack of variability in the data (315 patients were white; 336 patients were premenopausal). Abbreviations: DFS, disease-free survival; LHRH, luteinizing hormone-releasing hormone; OS, overall survival. 
+
+Table A2. Estimated HR for Treatment Within Race Among Eligible Patients Outcome 
+
+Race 
+
+No. of Patients 
+
+HR 
+
+95% CI 
+
+P 
+
+DFS 
+
+White Other White Otherⴱ 
+
+308 29 308 
+
+1.18 1.02 0.98 — 
+
+0.63 to 2.21 0.13 to 7.96 0.42 to 2.32 
+
+.599 .984 .969 
+
+OS 
+
+NOTE. Tamoxifen ⫹ ovarian function suppression is the reference group for all comparisons. A hazard ratio (HR) ⬎ 1 indicates improved outcome for tamoxifen ⫹ ovarian function suppression (ie, higher risk for tamoxifen alone arm). Adjusted for age (ⱕ 40, 41-50, ⱖ 51 years), tumor size (⬍ 1, 1-2, ⬎ 2 cm), hormone receptor (progesterone receptor (PgR) positive or PgR negative/PgR unknown), and most extensive surgery (breast-sparing procedure or mastectomy). Abbreviations: DFS, disease-free survival; OS, overall survival. ⴱ Not computable (zero deaths in this group). 
+
+12 
+
+© 2014 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+Table A3. PRO Score Changes Compared With Baseline by Treatment Arm Tamoxifen ⫹ OFS 
+
+Tamoxifen Alone PRO/Baseline Time Point FACT-B Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 FACT-G Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Breast subscale Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Menopausal symptoms Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Sexual function Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 
+
+No. of Participants 
+
+Mean 
+
+SD 
+
+No. of Participants 
+
+Mean 
+
+SD 
+
+P (t test) 
+
+94 88 70 69 66 64 
+
+⫺0.09 0.43 0.82 4.06 1.90 1.88 
+
+14.82 14.56 15.03 14.72 15.71 16.05 
+
+84 86 72 68 66 52 
+
+⫺0.02 ⫺1.27 0.64 0.00 0.05 5.30 
+
+14.40 15.36 14.02 18.38 17.61 15.36 
+
+.97 .45 .94 .16 .53 .25 
+
+144 132 114 101 103 95 
+
+1.20 1.96 2.56 5.51 3.49 3.94 
+
+11.74 12.00 12.71 11.69 13.69 13.35 
+
+137 135 123 111 103 89 
+
+⫺0.12 ⫺1.04 0.73 1.15 1.13 2.44 
+
+11.87 11.40 12.62 14.19 13.06 13.05 
+
+.35 .038 .27 .016 .21 .44 
+
+95 89 70 69 66 66 
+
+⫺0.45 ⫺0.36 ⫺0.75 ⫺0.14 ⫺0.80 ⫺0.97 
+
+4.87 5.27 4.54 5.01 4.70 5.95 
+
+85 86 72 68 66 53 
+
+⫺0.25 ⫺0.79 ⫺1.24 ⫺0.88 ⫺0.99 1.47 
+
+5.19 5.94 5.58 6.69 5.86 6.36 
+
+.80 .61 .57 .47 .83 .033 
+
+126 119 105 89 95 90 
+
+⫺5.24 ⫺4.80 ⫺5.60 ⫺4.13 ⫺5.71 ⫺4.46 
+
+8.19 8.20 8.70 9.47 9.32 9.56 
+
+123 129 115 107 99 84 
+
+⫺8.90 ⫺9.72 ⫺9.57 ⫺9.23 ⫺9.00 ⫺7.71 
+
+9.05 9.03 9.69 9.40 9.46 10.20 
+
+.001 ⬍ .001 .002 ⬍ .001 .016 .031 
+
+99 99 87 73 73 72 
+
+⫺1.67 ⫺1.92 ⫺2.23 ⫺2.22 ⫺3.04 ⫺3.06 
+
+3.81 3.95 4.62 4.33 4.72 4.90 
+
+105 113 99 95 79 69 
+
+⫺2.99 ⫺3.29 ⫺4.47 ⫺4.73 ⫺4.78 ⫺4.86 
+
+4.03 4.29 5.07 4.91 5.55 5.09 
+
+.017 .017 .002 .001 .041 .034 
+
+Abbreviation: FACT-B, Functional Assessment of Cancer Therapy-Breast; FACT-G, FACT-General; PRO, patient-reported outcome; SD, standard deviation. 
+
+www.jco.org 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+13 
+
+Tevaarwerk et al 
+
+Table A4. Multivariable Linear Mixed Effect Model Analysis for PRO End Points End Point FACT-G 
+
+Breast subscale 
+
+Menopausal symptom 
+
+Sexual function 
+
+Variable 
+
+Coefficient 
+
+95% CI 
+
+P 
+
+Treatment (tamoxifen ⫹ OFS v tamoxifen alone) Time points (v baseline) Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Treatment-by-time interaction Tamoxifen ⫹ OFS at month 6 Tamoxifen ⫹ OFS at year 1 Tamoxifen ⫹ OFS at year 2 Tamoxifen ⫹ OFS at year 3 Tamoxifen ⫹ OFS at year 4 Tamoxifen ⫹ OFS at year 5 Treatment (tamoxifen ⫹ OFS v tamoxifen alone) Time points (v baseline) Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Treatment-by-time interaction Tamoxifen ⫹ OFS at month 6 Tamoxifen ⫹ OFS at year 1 Tamoxifen ⫹ OFS at year 2 Tamoxifen ⫹ OFS at year 3 Tamoxifen ⫹ OFS at year 4 Tamoxifen ⫹ OFS at year 5 Treatment (tamoxifen ⫹ OFS v tamoxifen alone) Time points (v baseline) Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Treatment-by-time interaction Tamoxifen ⫹ OFS at month 6 Tamoxifen ⫹ OFS at year 1 Tamoxifen ⫹ OFS at year 2 Tamoxifen ⫹ OFS at year 3 Tamoxifen ⫹ OFS at year 4 Tamoxifen ⫹ OFS at year 5 Treatment (tamoxifen ⫹ OFS v tamoxifen alone) Time points (v baseline) Month 6 Year 1 
+
+⫺0.54 
+
+⫺3.61 to 2.54 
+
+.733 
+
+0.99 2.05 2.61 5.05 3.13 3.38 
+
+⫺0.63 to 2.62 0.32 to 3.78 0.70 to 4.53 2.92 to 7.18 0.84 to 5.43 0.83 to 5.93 
+
+.232 .020 .008 ⬍ .001 .007 .009 
+
+⫺1.33 ⫺2.97 ⫺2.49 ⫺5.06 ⫺2.73 ⫺3.48 ⫺0.95 
+
+⫺3.65 to 0.99 ⫺5.42 to ⫺0.53 ⫺5.17 to 0.19 ⫺8.03 to ⫺2.09 ⫺5.97 to 0.51 ⫺7.10 to 0.14 ⫺2.30 to 0.41 
+
+.262 .017 .069 .001 .098 .059 .171 
+
+⫺0.39 ⫺0.39 ⫺0.78 ⫺0.57 ⫺1.14 ⫺0.60 
+
+⫺1.25 to 0.48 ⫺1.28 to 0.50 ⫺1.74 to 0.18 ⫺1.59 to 0.45 ⫺2.21 to ⫺0.06 ⫺1.73 to 0.54 
+
+.381 .389 .113 .276 .038 .306 
+
+0.35 ⫺0.54 ⫺0.41 ⫺0.40 ⫺0.25 ⫺0.54 1.04 
+
+⫺0.89 to 1.59 ⫺1.81 to 0.72 ⫺1.77 to 0.95 ⫺1.84 to 1.04 ⫺1.78 to 1.27 ⫺2.18 to 1.10 ⫺0.83 to 2.90 
+
+.579 .400 .556 .590 .743 .518 .275 
+
+⫺5.22 ⫺5.00 ⫺5.35 ⫺4.40 ⫺5.52 ⫺4.61 
+
+⫺6.50 to ⫺3.94 ⫺6.34 to ⫺3.66 ⫺6.80 to ⫺3.89 ⫺6.01 to ⫺2.78 ⫺7.22 to ⫺3.83 ⫺6.48 to ⫺2.75 
+
+⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 
+
+⫺3.58 ⫺4.80 ⫺4.35 ⫺4.66 ⫺3.50 ⫺3.91 ⫺0.16 
+
+⫺5.40 to ⫺1.76 ⫺6.67 to ⫺2.93 ⫺6.39 to ⫺2.32 ⫺6.89 to ⫺2.44 ⫺5.89 to ⫺1.11 ⫺6.56 to ⫺1.27 ⫺1.12 to 0.79 
+
+⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 .004 .004 .739 
+
+Year 2 Year 3 Year 4 Year 5 Treatment-by-time interaction Tamoxifen ⫹ OFS at month 6 Tamoxifen ⫹ OFS at year 1 Tamoxifen ⫹ OFS at year 2 Tamoxifen ⫹ OFS at year 3 Tamoxifen ⫹ OFS at year 4 Tamoxifen ⫹ OFS at Year 5 
+
+⫺1.44 ⫺1.88 
+
+⫺2.16 to ⫺0.72 
+
+⬍ .001 
+
+⫺2.17 ⫺2.32 ⫺2.75 ⫺3.22 
+
+⫺2.63 to ⫺1.13 ⫺2.99 to ⫺1.36 ⫺3.23 to ⫺1.41 ⫺3.71 to ⫺1.78 ⫺4.28 to ⫺2.16 
+
+⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 
+
+⫺1.45 ⫺1.52 ⫺2.01 ⫺2.24 ⫺1.99 ⫺2.12 
+
+⫺2.45 to ⫺0.44 ⫺2.56 to ⫺0.49 ⫺3.14 to ⫺0.88 ⫺3.48 to ⫺1.00 ⫺3.35 to ⫺0.64 ⫺3.61 to ⫺0.63 
+
+.005 .004 ⬍ .001 ⬍ .001 .004 .005 
+
+NOTE. Adjusted covariates included age, race, hormone receptor status, tumor size, and surgical procedure. The estimated coefficients for these adjusted covariates and the estimated random effects parameters are not shown in the table. The coefficient for variable “treatment: tamoxifen ⫹ OFS v tamoxifen alone” showed the treatment difference in the PRO end point at baseline. The coefficient for variable “Time points (v baseline)” showed the difference in PRO end point between a follow-up time point and the baseline visit on tamoxifen. The sum of the coefficients for “Time point” and “Treatment-by-time interaction” showed the difference in PRO end points between a follow-up time point and the baseline visit on tamoxifen ⫹ OFS. The sum of the coefficients for “Treatment” and “Treatment-by-time interaction” showed the difference in PRO end points between treatment arms at a follow-up time point. Abbreviations: FACT-G, Functional Assessment of Cancer Therapy-General; OFS, ovarian function suppression; PRO, patient-reported outcome. 
+
+14 
+
+© 2014 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+Tamoxifen With or Without Ovarian Suppression 
+
+Table A5. PRO Scores by OFS Type in Patients in the Tamoxifen ⫹ OFS Arm LHRH Agonist PRO/Time Point FACT-B Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 FACT-G Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 Breast subscale Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 PEPI Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 SAQ Baseline Month 6 Year 1 Year 2 Year 3 Year 4 Year 5 
+
+Oophorectomy 
+
+Radiation 
+
+Mean 
+
+SD 
+
+Mean 
+
+SD 
+
+Mean 
+
+SD 
+
+P (ANOVA test) 
+
+109.30 113.10 111.70 107.10 116.60 115.10 117.50 
+
+20.95 18.94 20.16 20.41 18.83 22.15 15.15 
+
+112.90 111.50 110.90 112.30 107.60 111.30 116.00 
+
+17.74 18.28 18.43 17.85 16.14 17.80 14.35 
+
+108.20 113.90 112.20 111.80 116.60 114.60 116.50 
+
+15.15 17.02 15.89 13.83 18.67 19.29 18.34 
+
+.60 .85 .95 .38 .040 .68 .92 
+
+86.65 87.10 86.60 83.87 91.05 89.39 91.90 
+
+14.82 14.15 16.12 15.09 14.71 16.35 12.37 
+
+86.61 85.89 86.31 87.44 84.82 87.62 88.58 
+
+12.63 14.35 14.05 14.22 13.03 14.22 12.15 
+
+83.23 86.15 87.06 88.13 89.13 89.31 90.43 
+
+11.93 16.96 13.09 11.61 15.19 15.21 14.55 
+
+.55 .91 .98 .39 .10 .84 .54 
+
+25.89 25.94 24.91 23.24 25.45 25.56 25.90 
+
+5.81 6.11 5.31 6.16 5.21 6.57 5.27 
+
+25.20 25.30 24.55 24.43 23.49 24.29 26.09 
+
+5.43 5.44 6.01 5.97 5.79 5.48 5.65 
+
+24.44 25.22 25.17 23.46 27.36 25.33 25.54 
+
+6.13 3.89 5.61 4.29 4.18 5.10 5.90 
+
+.71 .81 .90 .60 .040 .60 .95 
+
+48.28 42.37 41.17 39.50 42.25 41.43 42.08 
+
+7.74 8.40 7.75 8.95 7.04 8.40 8.22 
+
+49.28 38.97 37.86 38.34 38.25 40.05 41.17 
+
+8.03 8.17 8.90 6.51 8.53 7.88 7.76 
+
+49.66 38.48 40.41 36.57 39.88 40.29 42.92 
+
+7.35 9.65 7.48 6.84 9.02 7.43 6.05 
+
+.70 .09 .10 .44 .07 .74 .74 
+
+16.49 14.42 14.12 13.13 13.11 12.27 12.56 
+
+3.23 4.35 3.87 5.07 3.95 4.18 3.97 
+
+15.90 12.19 11.45 11.16 10.14 10.85 10.68 
+
+3.74 3.88 4.78 4.33 4.82 5.04 4.88 
+
+15.74 13.53 13.27 10.90 10.85 10.69 11.11 
+
+4.25 4.68 4.91 2.82 5.24 4.44 3.33 
+
+.61 .041 .012 .09 .014 .43 .25 
+
+Abbreviation: ANOVA, analysis of variance; FACT-B, Functional Assessment of Cancer Therapy-Breast; FACT-G, FACT-General; LHRH, luteinizing hormonereleasing hormone; OFS, ovarian function suppression; PEPI, Postmenopausal Estrogen/Progestin Intervention (checklist); PRO, patient-reported outcome; SAQ, Sexual Activity Questionnaire; SD, standard deviation. 
+
+www.jco.org 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at BROWN UNIVERSITY on October 30, 2014 from Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 128.148.252.35 
+
+15 
+
+ 

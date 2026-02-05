@@ -1,0 +1,565 @@
+Annals of Oncology 28: 2225–2232, 2017 doi:10.1093/annonc/mdx285 Published online 29 July 2017 
+
+ORIGINAL ARTICLE 
+
+Concurrent and sequential initiation of ovarian function suppression with chemotherapy in premenopausal women with endocrine-responsive early breast cancer: an exploratory analysis of TEXT and SOFT mez8, M. Colleoni9, M. M. Regan1,2†, B. A. Walley3†, P. A. Francis4,5, G. F. Fleming6, I. Lang7, H. L. Go C. Tondini10, G. Pinotti11, M. Salim12, S. Spazzapan13, V. Parmar14, T. Ruhstaller15,16, E. A. Abdi17, R. D. Gelber1,18, A. S. Coates19, A. Goldhirsch20 & O. Pagani21,22* 1 Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Harvard Medical School, Boston; 2International Breast Cancer Study Group Statistical Center, Boston, USA; 3University of Calgary and Canadian Cancer Trials Group, Calgary, Canada; 4Division of Cancer Medicine, Peter MacCallum Cancer Center, St Vincent’s Hospital, University of Melbourne, Melbourne; 5Australia & New Zealand Breast Cancer Trials Group and International Breast Cancer Study Group, Melbourne, Australia; 6The University of Chicago Medical Center and Alliance for Clinical Trials in Oncology, Chicago, USA; 7National Institute of Oncology and International Breast Cancer Study Group, Medical Oncology, Budapest, Hungary; 8Division of Medicine, Instituto Nacional de Enfermedades Neoplasicas and International Breast Cancer Study Group, Lima, Peru; 9Division of Medical Senology, European Institute of Oncology and International Breast Cancer Study Group, Milan; 10Medical Oncology, Ospedale Papa Giovanni XXIII and International Breast Cancer Study Group, Bergamo; 11Medical Oncology, ASST Sette Laghi-Ospedale di Circolo and Fondazione Macchi and International Breast Cancer Study Group, Varese, Italy; 12Allan Blair Cancer Center, Regina, Canada; 13Medical Oncology, Centro di Riferimento Oncologico and International Breast Cancer Study Group, Aviano, Italy; 14Advanced Centre for Treatment, Research and Education in Cancer (ACTREC), Tata Memorial Centre and International Breast Cancer Study Group, Mumbai, India; 15Breast Center St. Gallen, Swiss Group for Clinical Cancer Research (SAKK) , St. Gallen; 16International Breast Cancer Study Group, St. Gallen, Switzerland; 17Australia & New Zealand Breast Cancer Trials Group and International Breast Cancer Study Group, The Tweed Hospital, Grifﬁth University Gold Coast, Tweed Heads, Australia; 18Harvard T.H. Chan School of Public Health, Frontier Science and Technology Research Foundation, Boston, USA; 19International Breast Cancer Study Group and University of Sydney, Sydney, Australia; 20European Institute of Oncology and International Breast Cancer Study Group, Milan, Italy; 21Oncology Institute of Southern Switzerland, Swiss Group for Clinical Cancer Research (SAKK), Bellinzona; 22International Breast Cancer Study Group, Lugano, Viganello, Switzerland 
+
+*Correspondence to: Dr Olivia Pagani, Oncology Institute of Southern Switzerland, 6500 Bellinzona, Via Ospedale, Switzerland. Tel: þ41-91-811-94-10; E-mail: olivia.pagani@ibcsg.org † 
+
+Both authors contributed equally as senior authors. 
+
+Note: This study was previously presented as a poster at the 15th St. Gallen International Breast Cancer Conference, Vienna, Austria, 15–18 March 2017. 
+
+Background: Recent breast cancer treatment guidelines recommend that higher-risk premenopausal patients should receive ovarian function suppression (OFS) as part of adjuvant endocrine therapy. If chemotherapy is also given, it is uncertain whether to select concurrent or sequential OFS initiation. Design and methods: We analyzed 1872 patients enrolled in the randomized phase III TEXT and SOFT trials who received adjuvant chemotherapy for hormone receptor-positive, HER2-negative breast cancer and upon randomization to an OFScontaining adjuvant endocrine therapy, initiated gonadotropin-releasing-hormone-agonist triptorelin. Breast cancer-free interval (BCFI) was compared between patients who received OFS concurrently with chemotherapy in TEXT (n ¼ 1242) versus sequentially post-chemotherapy in SOFT (n ¼ 630). Because timing of trial enrollment relative to adjuvant chemotherapy differed, we implemented landmark analysis re-defining BCFI beginning 1 year after final dose of chemotherapy (median, 15.5 and 8.1 months from enrollment to landmark in TEXT and SOFT, respectively). As a non-randomized treatment comparison, we implemented comparative-effectiveness propensity score methodology with weighted Cox modeling. Results: Distributions of several clinico-pathologic characteristics differed between groups. Patients who were premenopausal post-chemotherapy in SOFT were younger on average. The median duration of adjuvant chemotherapy was 18 weeks in both groups. There were 231 (12%) BC events after post-landmark median follow-up of about 5 years. Concurrent use of triptorelin C The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology. V All rights reserved. For permissions, please email: journals.permissions@oup.com. 
+
+Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+Original article 
+
+Annals of Oncology 
+
+with chemotherapy was not associated with a significant difference in post-landmark BCFI compared with sequential triptorelin post-chemotherapy, either in the overall population (HR ¼ 1.11, 95% CI 0.72–1.72; P ¼ 0.72; 4-year BCFI 89% in both groups), or in the subgroup of 692 women <40 years at diagnosis (HR ¼ 1.13, 95% CI 0.69–1.84) who are less likely to develop chemotherapy-induced amenorrhea. Conclusion: Based on comparative-effectiveness modeling of TEXT and SOFT after about 5 years median follow-up, with limited statistical power especially for the subgroup <40 years, neither detrimental nor beneficial effect of concurrent administration of OFS with chemotherapy on the efficacy of adjuvant therapy that includes chemotherapy was detected. Clinicaltrials.gov: NCT00066690 and NCT00066703. Key words: adjuvant therapy, GnRH-agonist, hormone receptor-positive, ovarian function suppression, premenopausal, triptorelin 
+
+Introduction Surgical ovarian ablation was the first systemic adjuvant treatment of breast cancer [1]. More recently, gonadotropin-releasinghormone (GnRH) agonists provide a reversible method to achieve ovarian function suppression (OFS). Several trials have since compared ovarian ablation or GnRH-agonist-induced OFS to chemotherapy alone and/or with chemotherapy followed by OFS in premenopausal women with hormone receptor-positive (HRþ) early breast cancer (with or without oral endocrine therapy) [2]. However, addition of OFS to endocrine adjuvant treatment of HRþ breast cancer has remained controversial for a number of reasons, including the confounding effect of chemotherapyinduced amenorrhea (CIA) and study designs including nonHRþ patients and omitting a tamoxifen-alone comparator. Current anthracycline/taxane-based regimens are associated with a lower incidence of CIA than older alkylating-based regimens such as cyclophosphamide/methotrexate/5-fluorouracil, especially in younger women [3]. Data from 9864 premenopausal patients treated with chemotherapy alone in cooperative group trials showed a significantly worse outcome for very young patients (<35 years) with HRþ tumors compared with older HRþ patients [4]. The age-related difference in outcome was much smaller for HR-negative patients. The lower incidence of CIA in very young patients translates into an attenuated endocrine effect of chemotherapy and suggests a potential impact of early initiation of adjuvant endocrine therapy [4, 5]. There are theoretical concerns about the concurrent use of endocrine therapy with chemotherapy based on laboratory and animal studies [6–8]. The only randomized evidence in the adjuvant setting derives from studies in postmenopausal women treated with tamoxifen [9–11]. The data for concurrent use of endocrine therapy and chemotherapy in premenopausal women are scanty: among 1096 patients (39% premenopausal) enrolled in two trials of adjuvant chemotherapy, in which tamoxifen was given concomitantly or sequentially by physician discretion, no difference in DFS was reported [12]. Subgroup analyses suggested greater benefit of concomitant versus sequential therapy among 427 premenopausal women, particularly those aged 40 years [12]. However, concomitant tamoxifen does increase the risk of thrombotic events during chemotherapy and is not recommended [11]. The TEXT and SOFT randomized phase III trials studied adjuvant endocrine therapy for premenopausal women with HRþ early breast cancer [13–15]. TEXT enrolled patients before 
+
+2226 | Regan et al. Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+starting any adjuvant therapy, including chemotherapy, whereas SOFT enrolled patients who were premenopausal after finishing adjuvant chemotherapy. Thus the timing of OFS and chemotherapy, if chemotherapy was given, differed in the two trials, being concurrent in TEXT and sequential in SOFT. Based largely on the results of SOFT and TEXT, guidelines recommend higher-risk patients should receive OFS as part of adjuvant endocrine therapy [16–19]. Several questions remain. Is there a best timing for initiating OFS when chemotherapy is also given? Is there a benefit to undergoing OFS as quickly as possible, concurrently with chemotherapy, or might concurrent administration be detrimental? Is it equivalent to wait and see if chemotherapy induces menopause thereby avoiding GnRH-agonist injections? Should age be taken into consideration when deciding when to start OFS? In the absence of a randomized clinical trial to address these questions, we used comparative-effectiveness methods for non-randomized treatment comparisons to conduct an exploratory, observational study of SOFT/TEXT patients treated with adjuvant chemotherapy and GnRH-agonist. We investigated whether there was evidence of differential efficacy between initiating adjuvant GnRH-agonist concurrently with chemotherapy versus sequentially after chemotherapy, once premenopausal status was reestablished. 
+
+Patients and methods The designs and conduct of the TEXT/SOFT trials have been described previously [13–15]. The ethics committee at each participating center approved the study protocols; all patients provided written informed consent. In both trials, eligible premenopausal women had surgically resected, invasive early HRþ breast cancer (10% ER and/or PgRexpressing cells). Endocrine therapy, including OFS if it was assigned, was given for 5 years; oral endocrine therapy commenced after chemotherapy in both trials. In TEXT, OFS was given from the start of adjuvant therapy. Between November 2003 and March 2011, 2660 women were randomized within 12 weeks after definitive surgery to exemestane þ OFS or tamoxifen þ OFS. OFS was by GnRH-agonist triptorelin; after at least 6 months of triptorelin, patients could opt for ovarian ablation. Chemotherapy was optional and planned for 1607 (60%) patients, started concurrently with triptorelin. In SOFT, OFS was given sequentially after chemotherapy. Between December 2003 and January 2011, 3047 women were randomized to tamoxifen, tamoxifen þ OFS or exemestane þ OFS. A total of 1628 (53%) patients who received prior (neo)adjuvant chemotherapy were randomized within 8 months after the final dose of chemotherapy once a 
+
+Volume 28 | Issue 9 | 2017 
+
+Original article 
+
+Annals of Oncology premenopausal level of estradiol was confirmed. Use of triptorelin or ovarian ablation, if OFS was assigned, was by patient preference. 
+
+Analysis population, endpoints and statistical considerations In the intention-to-treat populations, 2693 patients within the chemotherapy strata were randomized to an OFS-containing combination. After exclusions, 1320 patients from TEXT and 654 from SOFT with HER2-negative disease treated with adjuvant chemotherapy and triptorelin were analyzed (Figure 1). TEXT patients were enrolled a median of 1.8 months post-surgery. SOFT patients were enrolled after adjuvant chemotherapy, after demonstration of premenopausal estradiol level, at a median of 9.8 months post-surgery. To avoid guarantee-time bias, the observation periods for analysis were re-aligned forwards, by defining a landmark time point at 1 year after the final dose of chemotherapy, which ensured that all SOFT patients could have reached the first 3-month protocol visit (supplementary Figure S1, available at Annals of Oncology online). Among TEXT and SOFT patients, the landmark was a median of 15.5 months [interquartile range (IQR) 14.3–16.0 months] and 8.1 months (IQR 6.3–9.8 months) post-enrollment. The primary endpoint was breast cancer-free interval (BCFI), defined as the time interval beginning 1 year after final dose of adjuvant chemotherapy until the first appearance of invasive local-regional or distant recurrence or invasive contralateral breast cancer; in the absence of an event, BCFI was censored at date of last visit (or date of death without breast cancer event). The secondary endpoint was distant recurrence-free interval (DRFI), similarly defined beginning 1 year after final dose of adjuvant chemotherapy until the first appearance of invasive distant recurrence. BCFI was the chosen endpoint, rather than DFS, to disregard second (non-breast) invasive malignancies that occurred at similar frequencies across treatment groups. Because timing of triptorelin initiation with chemotherapy was not randomized and there were differences in patient characteristics and prognostic features between TEXT and SOFT patients, the analysis used 
+
+an inverse probability of ‘treatment’ weighting (IPTW) analysis using a propensity score [20]. The propensity score for the probability of concurrent versus sequential triptorelin (i.e. TEXT versus SOFT enrollment), conditional on measured patient, disease and treatment covariates, used logistic regression (supplementary Table S1, available at Annals of Oncology online). The covariates were pre-specified as those believed to be prognostic and potentially associated with enrollment into the trials, without use of variable-selection procedures [20], as presented in Table 1. The primary analysis used age at diagnosis; as sensitivity analysis, the analysis was repeated using age at enrollment (supplementary data, available at Annals of Oncology online). We calculated average treatment effect in the ‘treated’ (ATT) weights referenced to the TEXT population with concurrent triptorelin and used absolute standardized differences in characteristics between groups as diagnostic tool [21] (supplementary Table S2, available at Annals of Oncology online). An IPTW log-rank test and IPTW Kaplan–Meier estimates of time-to-event were estimated [22], as well as hazard ratios (HR) with 95% confidence intervals from an IPTW Cox model using robust standard errors. 
+
+Results The eligible population included 1320 HRþ/HER2-negative premenopausal patients who initiated triptorelin concurrently with chemotherapy in TEXT (concurrent), and 654 premenopausal patients who initiated triptorelin after adjuvant chemotherapy in SOFT (sequential; Figure 1). The estimated 5-year BCFI was 88.6% (61.0%) and 86.4% (61.4%) among TEXT and SOFT patients, respectively, based on data from time of trial enrollment (i.e. before introducing landmark and IPTW analyses). After introducing the landmark analysis, the final analysis population included 1872 patients who remained alive, disease-free and in follow-up at the landmark of 1 year since the final dose of 
+
+Chemotherapy strata of the TEXT and SOFT ITT Populations, Randomized to T+OFS or E+OFS N = 2693 (1607 TEXT, concurrent chemotherapy and triptorelin after enrollment) (1086 SOFT, chemotherapy prior to enrollment and intiation of OFS) 719 Excluded: 445 HER2+ breast cancer 223 prior neoadjuvant chemotherapy in SOFT 51 did not recieve triptorelin and/or chemotherapy Eligible population (HER2-, adjuvant chemotherapy only, initiated triptorelin) N = 1974 (1320 concurrent chemotherapy and triptorelin after enrollment in TEXT) (654 chemotherapy prior to enrollment and intiation of triptorelin in SOFT) 
+
+102 not alive, disease-free and in follow-up at 1 year after final dose of adjuvant chemotherapy: 78 TEXT (15 DFS event, 63 LFU/WC) 24 SOFT (10 DFS event, 14 LFU/WC) Analysis population N = 1872 (1242 concurrent chemotherapy and triptorelin in TEXT) (630 sequential chemotherapy followed by triptorelin in SOFT) 
+
+Figure 1. Flow diagram for deﬁning the eligible population from TEXT and SOFT and the ﬁnal analysis population. 
+
+Volume 28 | Issue 9 | 2017 Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+doi:10.1093/annonc/mdx285 | 2227 
+
+Original article 
+
+Annals of Oncology 
+
+Table 1. Patient, disease and treatment characteristics of the analysis population, according to timing of triptorelin (GnRH-agonist) initiation with chemotherapy (trial) Timing of triptorelin initiation and chemotherapy (trial) 
+
+N patients Race/ethnicity Other/unknown Black/African American Hispanic/Latino/South American native White/Caucasian Age at diagnosis <35 35–39 40–44 45–49 50þ Year of diagnosis 2003–2006 2007–2011 Age at enrollment <35 35–39 40–44 45–49 50þ Year of enrollment 2003–2006 2007–2011 BMI at enrollment Normal (<25) Overweight (25 to < 30) Obese (30) Unknown Menstruation status at enrollment Normal Irregular Persistent amenorrhea Unknown Performance status at enrollment Fully active (90–100) Restricted/ambulatory(50–80)/unknown Hormone receptor status ERþ/PRþ Other Tumor size (path) 2 cm >2 cm Unknown No. nodes positive pN0 pN þ 1–3 pN þ 4þ Tumor grade 1 2 3 
+
+Absolute 
+
+Concurrent (TEXT) 
+
+Sequential (SOFT) 
+
+All 
+
+standardized difference 
+
+N 
+
+% 
+
+N 
+
+% 
+
+N 
+
+% 
+
+1242 
+
+100.0 
+
+630 
+
+100.0 
+
+1872 
+
+100.0 
+
+54 30 119 1039 
+
+4.3 2.4 9.6 83.7 
+
+47 25 41 517 
+
+7.5 4.0 6.5 82.1 
+
+101 55 160 1556 
+
+5.4 2.9 8.5 83.1 
+
+0.132 0.088 0.113 0.042 
+
+140 220 435 383 64 
+
+11.3 17.7 35.0 30.8 5.2 
+
+140 192 197 83 18 
+
+22.2 30.5 31.3 13.2 2.9 
+
+280 412 632 466 82 
+
+15.0 22.0 33.8 24.9 4.4 
+
+0.296 0.302 0.080 0.436 0.117 
+
+687 555 
+
+55.3 44.7 
+
+293 337 
+
+46.5 53.5 
+
+980 892 
+
+52.4 47.6 
+
+– – 
+
+136 214 432 394 66 
+
+11.0 17.2 34.8 31.7 5.3 
+
+122 173 205 106 24 
+
+19.4 27.5 32.5 16.8 3.8 
+
+258 387 637 500 90 
+
+13.8 20.7 34.0 26.7 4.8 
+
+0.236 0.247 0.047 0.353 0.072 
+
+636 606 
+
+51.2 48.8 
+
+190 440 
+
+30.2 69.8 
+
+826 1046 
+
+44.1 55.9 
+
+– – 
+
+671 318 235 18 
+
+54.0 25.6 18.9 1.4 
+
+275 168 175 12 
+
+43.7 26.7 27.8 1.9 
+
+946 486 410 30 
+
+50.5 26.0 21.9 1.6 
+
+0.209 0.024 0.211 0.035 
+
+1080 86 56 20 
+
+87.0 6.9 4.5 1.6 
+
+233 184 201 12 
+
+37.0 29.2 31.9 1.9 
+
+1313 270 257 32 
+
+70.1 14.4 13.7 1.7 
+
+1.201 0.605 0.759 0.022 
+
+1199 43 
+
+96.5 3.5 
+
+579 51 
+
+91.9 8.1 
+
+1778 94 
+
+95.0 5.0 
+
+0.200 0.200 
+
+1081 161 
+
+87.0 13.0 
+
+526 104 
+
+83.5 16.5 
+
+1607 265 
+
+85.8 14.2 
+
+0.100 0.100 
+
+566 657 19 
+
+45.6 52.9 1.5 
+
+332 287 11 
+
+52.7 45.6 1.7 
+
+898 944 30 
+
+48.0 50.4 1.6 
+
+0.143 0.147 0.017 
+
+385 548 309 
+
+31.0 44.1 24.9 
+
+280 241 109 
+
+44.4 38.3 17.3 
+
+665 789 418 
+
+35.5 42.1 22.3 
+
+0.280 0.119 0.187 
+
+162 679 401 
+
+13.0 54.7 32.3 
+
+118 329 183 
+
+18.7 52.2 29.0 
+
+280 1008 584 
+
+15.0 53.8 31.2 
+
+0.156 0.049 0.070 Continued 
+
+2228 | Regan et al. Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+Volume 28 | Issue 9 | 2017 
+
+Original article 
+
+Annals of Oncology Table 1. Continued Timing of triptorelin initiation and chemotherapy (trial) 
+
+Absolute 
+
+Concurrent (TEXT) 
+
+Sequential (SOFT) 
+
+All 
+
+N 
+
+% 
+
+N 
+
+% 
+
+N 
+
+% 
+
+52.2 47.8 
+
+396 234 
+
+62.9 37.1 
+
+1044 828 
+
+55.8 44.2 
+
+0.217 0.217 
+
+24.9 24.5 50.2 0.5 
+
+139 186 303 2 
+
+22.1 29.5 48.1 0.3 
+
+448 490 926 8 
+
+23.9 26.2 49.5 0.4 
+
+0.066 0.114 0.041 0.026 
+
+56.5 5.1 36.1 2.3 
+
+306 46 273 5 
+
+48.6 7.3 43.3 0.8 
+
+1008 109 721 34 
+
+53.8 5.8 38.5 1.8 
+
+0.160 0.093 0.149 0.124 
+
+40.0 47.3 12.6 
+
+190 323 117 
+
+30.2 51.3 18.6 
+
+687 911 274 
+
+36.7 48.7 14.6 
+
+0.208 0.079 0.164 
+
+99.0 100 0 
+
+618 346 284 
+
+98.1 54.9 45.1 
+
+1847 – – 
+
+98.7 – – 
+
+– – 
+
+50.7 49.3 
+
+319 311 
+
+50.6 49.4 
+
+949 923 
+
+50.7 49.3 
+
+– – 
+
+Lymphovascular invasion No/unknown 648 Yes 594 Local therapy Mastectomy, no RT 309 Mastectomy with RT 304 BCS with RT 623 Other 6 Chemotherapy regimen Anthracycline-based 702 Taxane-based 63 Anthracyclineþtaxane-based 448 Other/unknown 29 Chemotherapy duration 12 weeks 497 >12 to < 24 weeks 588 24 weeks 157 Chemotherapy included cyclophosphamide Tamoxifen before enrollment 1229 No 1242 Yesa 0 Endocrine therapy assignment TamoxifenþOFS 630 ExemestaneþOFS 612 
+
+standardized difference 
+
+Absolute standardized difference is the absolute value of the difference in sample proportions of the two groups divided by the pooled standard deviation. a Prior endocrine therapy was allowed in SOFT but not TEXT. Among the 284 patients, the median duration of prior tamoxifen was 17 weeks (interquartile range, 10–23 weeks). BMI, body mass index; ER, estrogen receptor; PR, progesterone receptor; BCS, breast-conserving surgery; RT, radiotherapy; OFS, ovarian function suppression. 
+
+adjuvant chemotherapy, 1242 and 630 who received concurrent and sequential triptorelin, respectively. Differences between the two groups were evident in most characteristics. In particular, SOFT patients receiving sequential triptorelin were younger than TEXT patients receiving concurrent triptorelin (median age at diagnosis 39 and 43 years, respectively). The median duration of adjuvant chemotherapy was 18 weeks (IQR 12–18 weeks) in both groups. At the landmark time point, 85% of concurrent and 87% of sequential patients continued triptorelin, 11% and 8% had undergone ovarian ablation, respectively, and 5% had ceased OFS early. In total 93% of patients continued the assigned oral endocrine therapy (91% and 95%, respectively). There were 231 (12%) breast cancer events in the 2 groups at post-landmark median follow-up of 4.7 and 4.9 years. The concurrent use of triptorelin with chemotherapy was not associated with a significant difference in BCFI (HR ¼ 1.11, 95% CI 0.72– 1.72; p ¼ 0.72), with an estimated 89.1% (61.0%) and 89.0% (62.9%) patients breast cancer-free at 4 years post-landmark, with concurrent and sequential triptorelin initiation, respectively 
+
+Volume 28 | Issue 9 | 2017 Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+(Figure 2). The results were similar for DRFI; 187 distant recurrences were reported, with estimated 90.8% (60.9%) and 90.5% (62.7%) patients distant recurrence-free in the concurrent and sequential groups, respectively, at 4 years post-landmark (HR ¼ 0.96, 95% CI 0.60–1.53; p ¼ 0.86). There was no evidence of differential effectiveness of concurrent triptorelin among younger women (<40 years at diagnosis; n ¼ 692) than older premenopausal women at this point in follow-up (Figure 3). The estimated BCFI at 4 years postlandmark with concurrent and sequential triptorelin, respectively, was 84.8% (62.0%) and 82.9% (63.5%) for women aged <40 years at diagnosis (HR ¼ 1.13, 95% CI 0.69–1.84), and 90.8% (61.1%) and 91.7% (63.4%) for those 40 years at diagnosis (HR ¼ 1.10, 95% CI 0.57–2.14). 
+
+Discussion TEXT and SOFT demonstrated the benefit of adding OFS to tamoxifen alone in high-risk patients remaining premenopausal after 
+
+doi:10.1093/annonc/mdx285 | 2229 
+
+Original article B 
+
+All patients breast cancer-free interval (BCFI) 
+
+Percent free from breast cancer 
+
+100 80 60 40 N 
+
+20 
+
+4-Year Events BCFI% ± SE HR (95% CI) 
+
+Concurrent (TEXT) 
+
+1242 
+
+147 
+
+89.1±1.0 1.11 (0.72-1.72) 
+
+Sequential (SOFT) 
+
+630 
+
+84 
+
+89.0±2.9 
+
+0 0 
+
+1 2 3 4 Years since landmark timepoint (1 year after last dose of chemotherapy) 
+
+All patients distant recurrence-free interval (DRFI) 100 
+
+Percent free from distant recurrence 
+
+A 
+
+Annals of Oncology 
+
+80 60 40 N 
+
+20 
+
+4-Year Events DRFI% ± SE 
+
+Concurrent (TEXT) 
+
+1242 
+
+116 
+
+90.8±0.9 
+
+Sequential (SOFT) 
+
+630 
+
+71 
+
+90.5±2.7 
+
+HR (95% CI) 0.96 (0.60-1.53) 
+
+0 0 
+
+5 
+
+1 2 3 4 Years since landmark timepoint (1 year after last dose of chemotherapy) 
+
+5 
+
+Figure 2. Breast cancer-free interval (BCFI; A) and distant recurrence-free interval (DRFI; B) according to timing of triptorelin initiation with chemotherapy, from the landmark time point beginning 1 year after the ﬁnal dose of adjuvant chemotherapy. 
+
+Age ≤ 40 breast cancer-free interval (BCFI) 
+
+A 
+
+B 100 
+
+80 60 40 N 
+
+20 
+
+4-Year Events BCFI% ± SE 
+
+Concurrent (TEXT) 
+
+360 
+
+65 
+
+84.8±2.0 
+
+Sequential (SOFT) 
+
+332 
+
+60 
+
+82.9±3.5 
+
+HR (95% CI) 1.13 (0.69-1.84) 
+
+0 
+
+Percent free from breast cancer 
+
+Percent free from breast cancer 
+
+100 
+
+Age > 40 breast cancer-free interval (BCFI) 
+
+80 60 40 N 
+
+20 
+
+4-Year Events BCFI% ± SE 
+
+Concurrent (TEXT) 
+
+882 
+
+82 
+
+90.8±1.1 
+
+Sequential (SOFT) 
+
+298 
+
+24 
+
+91.7±3.4 
+
+HR (95% CI) 1.10 (0.57-2.14) 
+
+0 0 
+
+1 2 3 4 Years since landmark timepoint (1 year after last dose of chemotherapy) 
+
+5 
+
+0 
+
+1 2 3 4 Years since landmark timepoint (1 year after last dose of chemotherapy) 
+
+5 
+
+Figure 3. Breast cancer-free interval (BCFI) for women aged <40 years (A) and 40 years (B) at diagnosis, according to timing of triptorelin initiation with chemotherapy, from the landmark time point beginning 1 year after the ﬁnal dose of adjuvant chemotherapy. 
+
+adjuvant chemotherapy and of exemestane over tamoxifen when combined with OFS. When chemotherapy was also given, OFS initiation differed between TEXT and SOFT (concurrently or sequentially with chemotherapy, respectively) to accommodate different attitudes worldwide. The trials were not designed to elucidate an optimal strategy. The sequential administration, by postponing an effective targeted therapy in premenopausal patients at higher-risk of relapse, might reduce treatment efficacy. On the other hand, the concurrent strategy might interfere with the cytotoxic activity of chemotherapy and will mask and abrogate the therapeutic role of CIA, especially in older premenopausal women, resulting in 5 years of potentially unnecessary and costly GnRH-agonist therapy. To investigate this relevant clinical issue, we analyzed 1872 patients with HER2-negative breast cancer who received adjuvant triptorelin in SOFT/TEXT. Our analysis showed no difference in the BCFI between the concurrent and sequential triptorelin treatment groups, neither overall nor 
+
+2230 | Regan et al. Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+in the subgroup of women <40 years at diagnosis who are less likely to develop CIA, after about 5-years median follow-up. Timing and sequencing of endocrine therapy and chemotherapy has not been adequately studied in early breast cancer [23]. The biologic evidence relates to tamoxifen, which works by a different endocrine mechanism than OFS [7, 24]. The tamoxifeninduced blockade in the G1-S phase of the cell cycle has been hypothesized to antagonize the antitumor effect of chemotherapy. The 2011 Early Breast Cancer Trialists’ Collaborative Group (EBCTCG) overview of adjuvant tamoxifen showed significant recurrence risk (RR) reduction regardless of its concurrent (RR ¼ 0.62) or sequential (RR ¼ 0.71) administration with chemotherapy [25]. A small number of neoadjuvant studies compared sequential chemotherapy followed by OFS to concurrent therapy. The NSABP B-52 trial, in which 46% of patients were premenopausal, recently showed that adding endocrine therapy (GnRH-agonist þ AI) to neoadjuvant immunochemotherapy in 
+
+Volume 28 | Issue 9 | 2017 
+
+Original article 
+
+Annals of Oncology HRþ/HER2-positive breast cancer was not antagonistic and did not increase toxicity [26]. The only large trials studying OFS concurrently with chemotherapy assessed ovarian/fertility preservation, but the majority were restricted to HR-negative breast cancer [27]. Reassuringly, the breast cancer outcomes have not been compromised by the addition of concomitant GnRH-agonist [27]. Our analysis has limitations, mainly its non-randomized nature and the planned difference in enrollment timing in SOFT and TEXT, which led to inherent differences in the populations. Despite the use of IPTW and landmark analysis to balance the characteristics between concurrent and sequential OFS groups and align the periods of observation as in a randomized trial, the methodology may not have adequately overcome these issues. Moreover, median follow-up for SOFT/TEXT was <6 years, and differences in concurrent versus sequential OFS and chemotherapy could appear only later in follow-up. Statistical power was limited, especially for the subgroup <40 years, and real differences between the strategies may not have been detected. From a clinical perspective, as no randomized trial will be conducted to properly answer this question, when chemotherapy will also be given, clinicians and patients need to select the concurrent or sequential strategy of OFS on an individual basis. Which considerations may help in guiding this decision? Concurrent administration does not increase chemotherapy-related adverse events [15] and the possibility to avoid permanent menopause and its consequences is attractive for younger premenopausal women. The rate of CIA is age- and regimen-dependent: most very young women (<35 years) resume menses after chemotherapy and could consider concurrent OFS thus receiving and completing a therapy that has proved to be particularly effective in this age group [14] 6 months earlier. In premenopausal women, the possibility to preserve fertility in addition to the adjuvant effect is especially attractive for those not having completed family planning. In contrast, in women already approaching menopause, delaying GnRH-agonist administration until resumption of menses after chemotherapy may avoid unnecessary and costly drug administration. For women on tamoxifen following chemotherapy, the evaluation of ovarian function can be challenging, especially in patients developing amenorrhea [28]. SOFT/TEXT data represent the only evidence available in premenopausal patients from a large sample within controlled clinical trials: they support clinicians and patients selecting the concurrent or sequential strategy of chemotherapy and OFS on an individual patient basis. 
+
+the National Institutes of Health (NIH). Pfizer and Ipsen provided drug supply. The pharmaceutical companies have no role in the reporting or interpretation of the trials, other than a minority representation on the Steering Committee. Support for the coordinating group, IBCSG: Frontier Science and Technology Research Foundation [no grant number], Swiss Group for Clinical Cancer Research [SAKK; no grant number], Cancer Research Switzerland/Oncosuisse [no grant number], the Foundation for Clinical Cancer Research of Eastern Switzerland [OSKK; no grant number], US National Institutes of Health [grant number CA075362], Breast Cancer Research Foundation [BCRF; grant number 16-185]. Grant support of cooperative groups: Australia and New Zealand Breast Cancer Trials Group [National Health and Medical Research Council grant numbers 351161, 510788 and 1105058]; SWOG [US National Institutes of Health grant number CA32102]; Alliance for Clinical Trials in Oncology [US National Institutes of Health grant number CA180821]; ECOG-ACRIN Cancer Research Group [US National Institutes of Health grant numbers CA21115, CA16116]; NSABP/NRG Oncology [US National Institutes of Health grant numbers U10-CA12027, U10CA69651, U10-CA37377, U10-CA69974]; NCIC-CTG [US National Institutes of Health grant number CA077202; and Canadian Cancer Society Research Institute grant numbers 015469, 021039]; ICR-CTSU on behalf of the National Cancer Research Institute Breast Clinical Studies Group United Kingdom (NCRI-BCSG—ICR-CTSU Partnership) [Cancer Research UK grant numbers CRUKE/03/022, CRUKE/03/023, A15955; National Institute for Health Research/Institute of Cancer Research Biomedical Research Centre (no grant number); National Institute for Health/Cambridge Biomedical Research Centre (no grant number)]. 
+
+Disclosure IBCSG receives funding (and/or provision of drug supply for clinical trials) from Pfizer and Ipsen. MMR: research funding (institution) from Veridex, Merck (individual). PAF: Uncompensated presentation of SOFT/TEXT trial results for Pfizer at international meeting and advisory board; honorarium AstraZeneca; conference travel support from Roche and Amgen. All remaining authors have declared no conflicts of interest. 
+
+References Acknowledgements We thank the patients, physicians, nurses and trial coordinators who participated in the TEXT and SOFT clinical trials. The trials were coordinated by the International Breast Cancer Study Group (IBCSG), in collaboration with the Breast International Group (BIG), BIG cooperative groups, and US National Cancer Institute National Clinical Trials Network cooperative groups. 
+
+Funding TEXT and SOFT received financial support for trial conduct from Pfizer, the IBCSG and the US National Cancer Institute at 
+
+Volume 28 | Issue 9 | 2017 Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+1. Beatson G. On the treatment of inoperable cases of carcinoma of the mamma: suggestions for a new method of treatment with illustrative cases. Lancet 1896; 2: 104–107. 2. LHRH-Agonists in Early Breast Cancer Overview Group. Use of luteinising-hormone-releasing hormone agonists as adjuvant treatment in premenopausal patients with hormone-receptor-positive breast cancer: a meta-analysis of individual patient data from randomised adjuvant trials. Lancet 2007; 369: 1711–1723. 3. Fornier MN, Modi S, Panageas KS et al. Incidence of chemotherapyinduced, long-term amenorrhea in patients with breast carcinoma age 40 years and younger after adjuvant anthracycline and taxane. Cancer 2005; 104: 1575–1579. 4. Goldhirsch A, Gelber RD, Yothers G et al. Adjuvant therapy for very young women with breast cancer: need for tailored treatments. J Natl Cancer Inst Monogr 2001; 44–51. 
+
+doi:10.1093/annonc/mdx285 | 2231 
+
+Original article 5. Aebi S, Gelber S, Castiglione-Gertsch M et al. Is chemotherapy alone adequate for young women with oestrogen-receptor-positive breast cancer? Lancet 2000; 355: 1869–1874. 6. Emons G, Grundker C, Gunthert AR et al. GnRH antagonists in the treatment of gynecological and breast cancers. Endocr Relat Cancer 2003; 10: 291–299. 7. Osborne CK, Kitten L, Arteaga CL. Antagonism of chemotherapyinduced cytotoxicity for human breast cancer cells by antiestrogens. J Clin Oncol 1989; 7: 710–717. 8. Sutherland RL, Green MD, Hall RE et al. Tamoxifen induces accumulation of MCF 7 human mammary carcinoma cells in the G0/G1 phase of the cell cycle. Eur J Cancer Clin Oncol 1983; 19: 615–621. 9. Pico C, Martin M, Jara C et al. Epirubicin-cyclophosphamide adjuvant chemotherapy plus tamoxifen administered concurrently versus sequentially: randomized phase III trial in postmenopausal node-positive breast cancer patients. A GEICAM 9401 study. Ann Oncol 2004; 15: 79–87. 10. Bedognetti D, Sertoli MR, Pronzato P et al. Concurrent vs sequential adjuvant chemotherapy and hormone therapy in breast cancer: a multicenter randomized phase III trial. J Natl Cancer Inst 2011; 103: 1529–1539. 11. Albain KS, Barlow WE, Ravdin PM et al. Adjuvant chemotherapy and timing of tamoxifen in postmenopausal patients with endocrineresponsive, node-positive breast cancer: a phase 3, open-label, randomised controlled trial. Lancet 2009; 374: 2055–2063. 12. Del Mastro L, Dozin B, Aitini E et al. Timing of adjuvant chemotherapy and tamoxifen in women with breast cancer: findings from two consecutive trials of Gruppo Oncologico Nord-Ovest-Mammella Intergruppo (GONO-MIG) Group. Ann Oncol 2008; 19: 299–307. 13. Regan MM, Pagani O, Fleming GF et al. Adjuvant treatment of premenopausal women with endocrine-responsive early breast cancer: design of the TEXT and SOFT trials. Breast 2013; 22: 1094–1100. 14. Francis PA, Regan MM, Fleming GF et al. Adjuvant ovarian suppression in premenopausal breast cancer. N Engl J Med 2015; 372: 436–446. 15. Pagani O, Regan MM, Walley BA et al. Adjuvant exemestane with ovarian suppression in premenopausal breast cancer. N Engl J Med 2014; 371: 107–118. 16. Burstein HJ, Lacchetti C, Anderson H et al. Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: American Society of Clinical Oncology Clinical Practice Guideline Update on Ovarian Suppression. J Clin Oncol 2016; 34: 1689–1701. 
+
+2232 | Regan et al. Downloaded from https://academic.oup.com/annonc/article-abstract/28/9/2225/4080725 by Johns Hopkins University user on 16 July 2018 
+
+Annals of Oncology 17. Coates AS, Winer EP, Goldhirsch A et al. Tailoring therapies-improving the management of early breast cancer: St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2015. Ann Oncol 2015. 18. Paluch-Shimon S, Pagani O, Partridge AH et al. Second international consensus guidelines for breast cancer in young women (BCY2). Breast 2016; 26: 87–99. 19. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology Breast Cancer (Version 2.2016); https://www. nccn.org/professionals/physician_gls/pdf/breast.pdf (1 December 2016, date last accessed). 20. Austin PC. The use of propensity score methods with survival or timeto-event outcomes: reporting measures of effect similar to those used in randomized experiments. Stat Med 2014; 33: 1242–1258. 21. Austin PC, Stuart EA. Moving towards best practice when using inverse probability of treatment weighting (IPTW) using the propensity score to estimate causal treatment effects in observational studies. Statist Med 2015; 34: 3661–3679. 22. Xie J, Liu C. Adjusted Kaplan–Meier estimator and log-rank test with inverse probability of treatment weighting for survival data. Stat Med 2005; 24: 3089–3110. 23. Pritchard KI. Combining endocrine agents with chemotherapy: which patients and what sequence? Cancer 2008; 112: 718–722. 24. Sertoli MR, Scarsi PG, Rosso R. Rationale for combining chemotherapy and hormonal therapy in breast cancer. J Steroid Biochem 1985; 23: 1097–1103. 25. Chia SK, Wolff AC. With maturity comes confidence: EBCTCG tamoxifen update. Lancet 2011; 378: 747–749. 26. Rimawi MF, Cecchini RS, Rastogi P et al. A phase III trial evaluating pCR in patients with HRþ, HER2-positive breast cancer treated with neoadjuvant docetaxel, carboplatin, trastuzumab, and pertuzumab (TCHP) þ/ estrogen deprivation: NRG Oncology/NSABP B-52 (S03-06). San Antonio, TX: SABCS, 2016. 27. Munhoz RR, Pereira AA, Sasse AD et al. Gonadotropin-releasing hormone agonists for ovarian function preservation in premenopausal women undergoing chemotherapy for early-stage breast cancer: a systematic review and meta-analysis. JAMA Oncol 2016; 2: 65–73. 28. Berliere M, Duhoux FP, Dalenc F et al. Tamoxifen and ovarian function. PLoS ONE 2013; 8: e66616. 
+
+Volume 28 | Issue 9 | 2017 
+
+ 

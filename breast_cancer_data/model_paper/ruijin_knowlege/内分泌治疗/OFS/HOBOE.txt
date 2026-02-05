@@ -1,0 +1,351 @@
+European Journal of Cancer 118 (2019) 178e186 
+
+Available online at www.sciencedirect.com 
+
+ScienceDirect journal homepage: www.ejcancer.com 
+
+Original Research 
+
+Adjuvant zoledronic acid and letrozole plus ovarian function suppression in premenopausal breast cancer: HOBOE phase 3 randomised trial Francesco Perrone a,*, Michelino De Laurentiis b, Sabino De Placido c, Michele Orditura d, Saverio Cinieri e, Ferdinando Riccardi f, Angela Stefania Ribecco g, Carlo Putzu h, Lucia Del Mastro i,j, Emanuela Rossi k, Vincenza Tinessa l, Anna Maria Mosconi m, Francesco Nuzzo b, Francesca Di Rella b, Adriano Gravina b, Giovanni Iodice b, Gabriella Landi b, Carmen Pacilio b, Valeria Forestieri c, Rossella Lauria c, Agnese Fabbri n, Toni Ibrahim o, Ermelinda De Maio p, Sandro Barni q, Stefania Gori r, Vittorio Simeon s, Laura Arenare a, Gennaro Daniele a, Maria Carmela Piccirillo a, Nicola Normanno t, Andrea de Matteis b, Ciro Gallo s a 
+
+Clinical Trial Unit, Istituto Nazionale Tumori, IRCCS, Fondazione G.Pascale, Napoli, Italy Clinical and Experimental Senology, Istituto Nazionale Tumori, IRCCS, Fondazione G.Pascale, Napoli, Italy c Department of Medical and Surgical Clinics, Università Federico II, Napoli, Italy d Oncoematology Unit, Università Degli Studi Della Campania “Luigi Vanvitelli”, Napoli, Italy e Oncology, Ospedale A.Perrino, Brindisi, Italy f Medical Oncology, Ospedale Cardarelli, Napoli, Italy g Oncology, Ospedale S.Maria Annunziata Bagno a Ripoli, Firenze, Italy h Medical Oncology, Azienda Ospedaliera Universitaria, Sassari, Italy i IRCCS Ospedale Policlinico San Martino, Genova, Italy j Department of Internal Medicine (DIMI), Università di Genova, Italy k Medical Oncology, A.O. San Giuseppe Moscati, Avellino, Italy l Medical Oncology, Ospedale Rummo, Benevento, Italy m Medical Oncology, Ospedale Santa Maria Della Misericordia, S.Andrea Delle Fratte, Perugia, Italy n Department of Medical Oncology, Ospedale Belcolle, Viterbo, Italy o Osteoncology and Rare Tumors Center, Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori (IRST) IRCCS, Meldola FC, Italy p Oncology, Azienda Usl Toscana Nord Ovest, Livorno, Italy q Medical Oncology e Ospedale di Treviglio Caravaggio BG, Italy r Medical Oncology, IRCCS, Ospedale Sacro Cuore Don Calabria, Negrar VR, Italy b 
+
+* Corresponding author: Clinical Trial Unit Istituto Nazionale Tumori, IRCCS, Fondazione G.Pascale, Via M.Semmola, 80131 Napoli, Italy. E-mail address: f.perrone@istitutotumori.na.it (F. Perrone). https://doi.org/10.1016/j.ejca.2019.05.004 0959-8049/ª 2019 Elsevier Ltd. All rights reserved. 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 s t 
+
+179 
+
+Medical Statistics, Università Degli Studi Della Campania “Luigi Vanvitelli”, Napoli, Italy Cellular Biology and Biotherapies, Istituto Nazionale Tumori, IRCCS, Fondazione G.Pascale, Napoli, Italy 
+
+Received 28 February 2019; received in revised form 15 April 2019; accepted 2 May 2019 Available online 1 June 2019 
+
+KEYWORDS Breast cancer; Premenopausal patients; Adjuvant endocrine treatment; Aromatase inhibitors; Zoledronic acid; Phase 3 
+
+Abstract Aim: The aim of the study is to analyse whether letrozole (L) and zoledronic acid plus L (ZL) are more effective than tamoxifen (T) as adjuvant endocrine treatment of premenopausal patients with breast cancer with hormone receptorepositive (HRþ) tumours. Patients and methods: In a phase 3 trial, 1065 premenopausal patients with HR þ early breast cancer received triptorelin to suppress ovarian function and were randomly assigned (1:1:1) to adjuvant T, L or ZL for 5 years. Cancer recurrence, second breast or non-breast cancer and death were considered events for the intention-to-treat disease-free survival (DFS) analysis. Results: With a 64-month median follow-up and 134 reported events, the disease-free rate at 5 years was 85.4%, 93.2% and 93.3% with T, L and ZL, respectively (overall P Z 0.008). The hazard ratio for a DFS event was 0.52 (95% confidence interval [CI], 0.34 to 0.80; P Z 0.003) with ZL vs T, 0.72 (95% CI, 0.48 to 1.07; P Z 0.06) with L vs T and 0.70 (95% CI, 0.44 to 1.12; P Z 0.22) with ZL vs L. With 36 deaths, there was no significant difference in overall survival (P Z 0.14). Treatment was stopped for toxicity or refusal in 7.3%, 7.3% and 16.6% patients, and in the safety population, grade 3e4 side-effects were reported in 4.2%, 6.9% and 9.1% patients treated with T, L or ZL, respectively. Conclusion: HOBOE study shows that in premenopausal patients with early breast cancer undergoing ovarian function suppression with triptorelin, ZL significantly improves DFS, while worsening compliance and toxicity, as compared with T. (NCT00412022) ª 2019 Elsevier Ltd. All rights reserved. 
+
+1. Introduction 
+
+2. Methods 
+
+Tamoxifen (T), with or without luteinizing hormone releasing hormone (LHRH) analogues, has long been the standard adjuvant endocrine treatment for premenopausal breast cancer [1,2]. Aromatase inhibitors (AIs) represent the standard treatment for postmenopausal patients, although they yielded contradictory results in premenopausal ones [3e7]. Zoledronic acid (Z) favours bone mineralisation. A potential effect of Z on breast cancer prognosis has been reported in premenopausal patients undergoing functional ovarian suppression and, with other bisphosphonates, in postmenopausal patients [5e8]. The Hormonal Bone Effects (HOBOE) study was launched in 2003 to measure the bone and hormonal effects of letrozole (L) or Z plus L (ZL) vs T, in combination with triptorelin, in premenopausal patients [9]. L induced a stronger reduction in circulating oestradiol levels than T, and this effect could lead to a greater therapeutic efficacy of L [10]. Therefore, in 2009, the trial was extended to evaluate whether L or ZL might be more effective than T in terms of disease-free survival (DFS) among premenopausal patients. 
+
+2.1. Study design HOBOE (NCT00412022) is an academic multicenter, open-label, three-arm randomised phase 3 study promoted by the Istituto Nazionale per lo Studio e la Cura dei Tumori e IRCCS Fondazione G.Pascale, Napoli, Italy, and conducted in 16 public Italian institutions. The protocol (available on request) was approved by ethics committees at all participating institutions, and all the patients provided written informed consent. HOBOE was first approved in 2003 with 1-year bone mineral density as primary study end-point. Both premenopausal and postmenopausal patients were eligible, and results have already been reported [9]. In 2009, HOBOE was amended to introduce efficacy end-points and to limit the enrolment to premenopausal patients only (Figure A.1). The full protocol is available on request to the corresponding author. 
+
+2.2. Patients Premenopausal women, 18 years, with histologically confirmed breast cancer, expressing the oestrogen 
+
+180 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+receptor and/or progesterone receptor in at least 1% of tumour cells at immunohistochemistry (according to 2001 St.Gallen criteria [11]), completely removed by surgery, any pathologic tumour size and axillary nodal status, with no evidence of recurrence, were eligible if they were not pregnant or lactating, and they provided written informed consent. Patients who had received neoadjuvant or adjuvant chemotherapy and/or locoregional radiotherapy could be included. Premenopausal status was defined as the last menstrual cycle within 12 months before the randomisation date; levels of folliclestimulating hormone (FSH), luteinizing hormone (LH) and oestradiol were not used for definition of premenopausal status because of confounding deriving from reversible chemotherapyeinduced ovarian function suppression (OFS). Women with previous malignant neoplasia (excluding adequately treated basal or spinocellular cutaneous carcinoma and in situ carcinoma of the uterine cervix) or previously treated with T or AIs were not eligible. Other exclusion criteria were as follows: serum creatinine levels >1.25 times the maximum normal value, aspartate aminotransferase (AST) and/or alanine aminotransferase (ALT)> 3 times the normal value, clinical/radiological evidence of active bone fractures and presence of concomitant diseases contraindicating the study drugs. Women undergoing invasive dental therapies or planning them in the near future were also not eligible. Randomisation and data collection were performed via the web-based trial platform at the Clinical Trials Unit of the Istituto Nazionale Tumori, Napoli, Italy. randomisation used a minimisation procedure accounting for centre, previous neoadjuvant and/or adjuvant chemotherapy, pT and pN ([12]) as strata. 
+
+2.3. Treatment All patients received intramuscular triptorelin 3.75 mg at the start of treatment and then every 4 weeks, for 5 years or up to 55 years of age. According to 1:1:1 randomised assignment, patients received either T (20 mg/day orally for 5 years), L (2.5 mg/day for 5 years) or ZL (Z 4 mg in intravenous infusion for 15 min at the beginning of treatment and every 6 months plus L 2.5 mg/day, for 5 years). Radiotherapy on the residual breast, lymph node stations and thoracic wall was allowed if indicated according to international standards, before or during the hormonal treatment. Previous neoadjuvant and/or adjuvant chemotherapy was allowed. Trastuzumab was allowed in patients with human epidermal growth factor receptor 2 (HER2) positive cancer. Randomisation was performed after completion of surgery and eventual adjuvant chemotherapy. Radiotherapy and trastuzumab could overlap with hormonal treatment. 
+
+Follow-up procedures were the same for all the arms and included clinical examination every 3 months for 2 years, and every 6 months for years 3e5, then annually; chest X-ray and liver ultrasound every 6 months for 3 years and then annually; bone scan annually for 5 years, then at 7 and 10 years and annual mammography. 2.4. End-points The primary study end-point was DFS defined as time from randomisation to the occurrence of the first event among locoregional or distant recurrence, contralateral invasive breast cancer, ductal carcinoma in situ, second malignancy other than the breast and death for any cause [13]. The date of the event was the date of first suspicion. There was no independent radiologic review. The secondary end-points reported in this article include overall survival (OS), defined as time from randomisation to death from any cause, and toxicity, codified according to Common Toxicity Criteria (CTC) of the National Cancer Institute, version 2.0. Toxicity was assessed at every visit, for 5 years. 2.5. Statistical analysis The statistical analysis plan is detailed in the Supplementary appendix online. HOBOE was designed to have 80% power in detecting a hazard ratio (HR) of 0.60, in the three-arm log-rank test with a two-tailed significance level of 0.05 [14]. One hundred sixty-six DFS events were required for the final analysis. In April 2018, the Early Breast Cancer Trialists’ Collaborative Group (EBCTCG) Secretariat asked for using HOBOE data in the overview update, and the Independent Data Monitoring Committee, blinded to the comparative results, consented to change the analysis approach from event driven to time driven because the median follow-up exceeded 5 years. Follow-up and data collection are continuing. Efficacy analyses were performed according to the intention-to-treat approach. DFS was estimated with the KaplaneMeier method, censoring patients without the event to the date of the last assessment. The null hypothesis of three-arm equivalence was first tested with the unstratified log-rank test. If the global test was statistically significant at the 0.05 level, pairwise comparisons were allowed using the BonferronieHolm adjustment, with increasing alpha levels to preserve the family-wise alpha error of 0.05 (0.0167, 0.025, 0.05) [15]. HRs and 95% confidence intervals (CIs) were estimated with multivariable Cox models including age (continuous), pT categories, pN categories, grading, previous chemotherapy and PgR status as covariates. Proportionality assumption was checked by entering a time-dependent covariate of treatment  log (time) interaction [16]. Exploratory subgroup analyses were plotted in a forest plot reporting HRs and 95% CI. We 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+tested first-order interactions between treatment and covariates with the likelihood-ratio test of two nested models, with and without interaction. An unplanned restricted mean survival time (RMST) analysis was also performed, whose method and results are reported in the appendix. For safety, the women were analysed according to the treatment they actually received after randomisation (per protocol). The ordered categorical responses of the worst grades suffered by women were compared by exact KruskaleWallis non-parametric analysis of variance using the Monte Carlo method. 3. Results From 22nd March 2004 to 4th August 2015, 1065 premenopausal patients (242 before the amendment of 
+
+181 
+
+November 2009) were randomised to T (N Z 354), L (N Z 356) or ZL (N Z 355) (Figure A.2). The median age was 45 (interquartile range [IQR], 41e48); the primary tumour was pT1 in 721 (67.7%) patients; axillary lymph nodes were pathologically negative in 583 (54.7%) patients; 145 (13.6%) tumours were HER2 positive; 667 (62.6%) patients had previously received chemotherapy. Baseline characteristics were balanced among the study arms (Table 1). As of 30th June 2018, the median follow-up was 64 months (IQR, 48e88), similar in the three arms (Figure A.3). Overall, 134 DFS events were reported, 58 (16.4%) with T, 44 (12.4%) with L and 32 (9.0%) with ZL (Table 2). Distant metastases were the most frequent event (83 patients, including bone in 41), followed by locoregional relapse (28 cases). Contralateral breast cancer occurred in 16 cases. A second non-breast 
+
+Table 1 Characteristics of patients according to the study arm. Characteristic Age at randomisation e no. (%) Median (Interquartile range)  40 >40 - 50 >50 Body mass index e no. (%) Median (Interquartile range) 25 >25 - 30 >30 Missing Previous chemotherapy e no. (%) No Yes Pathologic tumour category e no. (%) pT1 pT2 pT3 pT4 pTx or unknown Pathologic nodal status e no. (%) pN0 pN1 pN2 pN3 Grading e no. (%) G1 G2 G3 Missing PgR status e no. (%) Positive Negative Unknown HER2 status e no. (%) Positive Negative Unknown 
+
+Tamoxifen (N Z 354) 
+
+Letrozole (N Z 356) 
+
+Zoledronic acid þ letrozole (N Z 355) 
+
+44.7 (41.3e48.0) 65 (18.4) 245 (69.2) 44 (12.4) 
+
+44.9 (40.8e48.0) 73 (20.5) 241 (67.7) 42 (11.8) 
+
+45.2 (40.9e48.1) 78 (22.0) 240 (67.6) 37 (10.4) 
+
+24.8 (22.1e27.8) 168 (47.5) 94 (26.6) 50 (14.1) 42 (11.9) 
+
+24.8 (22.1e27.4) 165 (46.3) 102 (28.7) 47 (13.2) 42 (11.8) 
+
+22.7 (22.7e28.0) 154 (43.4) 109 (30.7) 47 (13.2) 45 (12.7) 
+
+132 (37.3) 222 (62.7) 
+
+133 (37.4) 223 (62.6) 
+
+133 (37.5) 222 (62.5) 
+
+243 (68.6) 92 (26.0) 8 (2.3) 4 (1.1) 7 (2.0) 
+
+239 (67.1) 99 (27.8) 10 (2.8) 3 (0.8) 5 (1.4) 
+
+239 (67.3) 95 (26.8) 10 (2.8) 2 (0.6) 9 (2.5) 
+
+193 (54.5) 111 (31.4) 34 (9.6) 16 (4.5) 
+
+196 (55.1) 109 (30.6) 38 (10.7) 13 (3.7) 
+
+194 (54.6) 110 (31.0) 35 (9.9) 16 (4.5) 
+
+36 (10.2) 195 (55.1) 112 (31.6) 11 (3.1) 
+
+33 (9.3) 177 (49.7) 128 (36.0) 14 (3.9) 
+
+26 (7.3) 204 (57.5) 117 (33.0) 8 (2.3) 
+
+344 (97.2) 9 (2.5) 1 (0.3) 
+
+341 (95.8) 10 (2.8) 5 (1.4) 
+
+346 (97.5) 8 (2.3) 1 (0.3) 
+
+56 (15.8) 295 (83.3) 3 (0.8) 
+
+42 (11.8) 313 (87.9) 1 (0.3) 
+
+47 (13.2) 306 (86.2) 2 (0.6) 
+
+HER2, human epidermal growth factor receptor 2. 
+
+182 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+Table 2 Details of events in the HOBOE trial by the treatment arm. 
+
+DFS events e no. (%) Component of the DFS eventa e no. (%) Locoregional Distant Not including bone Including bone Contralateral breast cancer Second non-breast cancerc Death without cancer Deaths e no. (%) 
+
+Tamoxifen (N Z 354) 
+
+Letrozole (N Z 356) 
+
+Zoledronic acid þ letrozole (N Z 355) 
+
+58 (16.4) 
+
+44 (12.4) 
+
+32 (9.0) 
+
+11 (3.1) 37 (10.5) 20 (5.6) 17 (4.8) 6 (1.7) 7d (2.0) 1 (0.3) 17 (4.8) 
+
+13 (3.7) 27 (7.6) 17 (3.4) 11 (3.1) 7 (2.0) 4 (1.1) 0 (0.0) 11 (3.1) 
+
+4 (1.1) 19 (5.4) 6 (1.7) 13 (3.7) 3b (0.8) 6 (1.7) 0 (0.0) 8 (2.3) 
+
+HOBOE, HOrmonal BOne Effects; DFS, disease-free survival; T, tamoxifen. a Associations are possible. b One of the three cases was ductal carcinoma in situ (DCIS). c Lung cancer (4 cases), colorectal, kidney, melanoma, ovary and uterus cancer (2 cases each), myeloma, stomach and thyroid (1 case each). d The two uterine cancers were both reported in the T arm. 
+
+primary cancer was the first event in 17 cases. There was one non-cancererelated death due to a fatal arrhythmia 6 years after stopping T. At 5 years, DFS was 85.4% (95% CI, 80.9 to 88.9) in the T arm, 93.2% (95% CI, 89.7 to 95.5) in the L arm and 93.3% (95% CI, 89.8 to 95.6) in the ZL arm (overall P Z 0.008, Fig. 1). The ZL vs T comparison was statistically significant (P Z 0.003); the absolute risk reduction with ZL vs T was greater than 7% from the fourth year on. The absolute mean gain in DFS expectancy with ZL vs T estimated by the difference between RMSTs was increasing with time and was equal to 0.6 years at 10 years; this gain was equal to 45% of the maximum achievable benefit at 10 years (Figure A.4). The other two pairwise comparisons did not cross the predefined BonferronieHolm levels (L vs T, P Z 0.06; ZL vs L, P Z 0.22). On multivariable analysis, the DFS HR was 0.52 (95% CI, 0.34 to 0.80) with ZL vs T, 0.72 (95% CI, 0.48 to 1.07) with L vs T and 0.70 (95% CI, 0.44 to 1.12) with ZL vs L. Proportional hazard assumption was not met in the two comparisons involving the L arm because L effect appeared to decline with time. A statistically significant heterogeneity (interaction, P Z 0.002) was found only according to the HER2 status (Fig. 2), the effect of ZL being reversed among women with a HER2-positive tumour (Figure A.5). Thirty-six deaths were reported, 17 (4.8%), 11 (3.1%) and 8 (2.3%) with T, L and ZL, respectively. OS curves (Fig. 1) were not statistically different (log-rank test, P Z 0.14). At database lock, 89 (25.1%), 89 (25.0%) and 77 (21.7%) patients were on treatment with T, L and ZL, respectively, whereas 174 (49.2%), 211 (59.3%) and 164 (46.2%) had completed planned treatment (Table A.1 online). Fifteen (4.2%) patients did not start Z because invasive dental treatment, previously unplanned, was recommended after randomisation. Toxicity or refusal 
+
+caused treatment interruption in 26 (7.3%) patients assigned T, 26 (7.3%) assigned L and 59 (16.6%) assigned ZL (mostly because of Z). Sixteen (4.5%) patients in the T arm switched to an AI (mostly exemestane) after stopping T; among those assigned L or ZL, 18 (5.1%) and 17 (4.8%) switched to T, after stopping L. The safety population included 351, 362 and 328 patients in the T, L and ZL arm, respectively (Figure A.1). There was no toxic death; 15 (4.2%), 25 (6.9%) and 30 (9.1%) patients experienced at least one grade 3e4 adverse event in the three arms (Tables A.2 to A.6). Fever was more frequent and severe with Z; hypercholesterolaemia, arthralgia, bone pain, sensory neuropathy and vaginal dryness were more frequent and severe in L and ZL arms; osteoporosis and carpal tunnel syndrome (included in the musculoskeletal-other CTC term) and insomnia were more frequent and severe in the L arm; endometrial abnormalities were more frequent with T. There were 4 cases of osteonecrosis of the jaw with ZL, reported at 24-, 30-, 48- and 60month follow-up. There was no case of bone fracture. 4. Discussion Three strategies of adjuvant treatment have been studied during the last two decades in premenopausal patients with early breast cancer with endocrine-responsive tumours: (i) the addition of OFS to T; (ii) the substitution of T with AIs in presence of OFS; and (iii) the addition of bone-modifying agents, initially considered only for treatment or prevention of bone side-effects caused by oestrogen deprivation. The SOFT trial definitively answered the first question, showing that the addition of OFS to T prolongs DFS and OS [3]. The second question, before HOBOE, was addressed for two of the three available AIs, with contrasting results. SOFT-TEXT randomised 4690 patients to T or 
+
+183 
+
+# paents 
+
+# events 
+
+T 
+
+354 
+
+58 
+
+L 
+
+356 
+
+44 
+
+ZL 
+
+355 
+
+32 
+
+0 
+
+25 
+
+Percent of DFS 50 75 
+
+100 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 6 7 8 9 10 11 12 13 14 Years from randomisation 
+
+Percent of OS 0 10 20 30 40 50 60 70 80 90 100 
+
+Number at risk T 354 346 326 288 226 189 113 73 56 39 27 18 12 L 356 348 340 311 259 218 132 89 60 47 35 26 15 ZL 355 333 323 298 252 210 131 90 65 43 31 25 14 
+
+0 
+
+1 
+
+2 
+
+# paents 
+
+# events 
+
+T 
+
+354 
+
+17 
+
+L 
+
+356 
+
+11 
+
+ZL 
+
+355 
+
+8 
+
+3 
+
+4 4 5 
+
+0 0 1 
+
+4 5 6 7 8 9 10 11 12 13 14 Years since randomisation 
+
+Number at risk T 354 353 341 312 252 214 131 90 69 50 35 25 18 L 356 350 346 314 267 228 140 99 71 58 46 34 21 ZL 355 337 333 307 265 220 142 98 73 48 34 29 15 
+
+5 6 5 
+
+0 0 1 
+
+Fig. 1. KaplaneMeier estimated curves of DFS according to the treatment arm. T, tamoxifen (black solid line), L, letrozole (red longdashed line), ZL, zoledronic acid plus letrozole (green short-dashed line); DFS, disease-free survival. 
+
+exemestane for 5 years, plus OFS with triptorelin. Exemestane was more effective with a HR for DFS of 0.77 (95% CI, 0.67 to 0.90) and a DFS advantage at 8 years of 4.0%, from 82.8% to 86.8% [3]. Conversely, in the ABCSG-12 trial, with 1803 patients, anastrozole for 3 years did not improve DFS vs T (HR, 1.13; 95% CI, 0.88 to 1.45), both combined with goserelin, and even 
+
+worsened OS (HR, 1.63; 95% CI, 1.05 to 2.52) [7]. Therefore, a definitive answer on the role of AIs cannot yet be given confidently. HOBOE is the only trial testing L, and with caution due to study limitations, its findings contribute to fill the gap. The HR of L vs T, indeed, is very similar to that of exemestane vs T, and this supports the use of AIs instead of T. However, the number 
+
+184 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+N 709 
+
+HR ( 95% CI ) 0·52 ( 0·34 - 0·80 ) 
+
+<40 40-49 50+ 
+
+143 485 81 
+
+0·28 ( 0·11 - 0·71 ) 0·62 ( 0·36 - 1·06 ) 0·78 ( 0·22 - 2·77 ) 
+
+Underweight/Normal Overweight/Obese 
+
+322 300 
+
+0·36 ( 0·17 - 0·73 ) 0·67 ( 0·37 - 1·19 ) 
+
+265 444 
+
+0·32 ( 0·12 - 0·88 ) 0·60 ( 0·37 - 0·97 ) 
+
+482 211 
+
+0·74 ( 0·37 - 1·51 ) 0·70 ( 0·34 - 1·47 ) 
+
+387 221 101 
+
+0·70 ( 0·34 - 1·47 ) 0·36 ( 0·17 - 0·76 ) 0·57 ( 0·26 - 1·25 ) 
+
+62 399 229 
+
+0·36 ( 0·04 - 3·31 ) 0·47 ( 0·25 - 0·90 ) 0·59 ( 0·32 - 1·09 ) 
+
+17 690 
+
+1·27 ( 0·18 - 9·13 ) 0·52 ( 0·33 - 0·80 ) 
+
+601 103 
+
+0·37 ( 0·22 - 0·62 ) 2·47 ( 0·84 - 7·24 ) 
+
+All paents Age category 
+
+Body Mass Index (87 missing) 
+
+Interacon P 0·15 
+
+0·18 
+
+Previous chemotherapy No Yes Pathologic tumour category (16 missing) pT1 pT2, pT3, pT4 Pathologic nodal status pN0 pN1 pN2 or pN3 Histologic grading (19 missing) Low Intermediate High PgR status (2 missing) Negave Posive HER2 status (5 missing) Negave Posive 
+
+0·25 
+
+0·21 
+
+0·43 
+
+0·76 
+
+0·41 
+
+0·002 
+
+0,0 
+
+0,5 
+
+1,0 
+
+ZL beer 
+
+1,5 
+
+2,0 
+
+T beer 
+
+Fig. 2. Forest plot of the effect of zoledronic acid plus letrozole vs tamoxifen according to major subgroups. HR, hazard ratio; CI, confidence interval; T, tamoxifen; ZL, zoledronic acid; HER2, human epidermal growth factor receptor 2. 
+
+of events in HOBOE is too small to detect whether such an effect differs according to risk categories. The third question, on the role of Z, was evaluated in two studies, before HOBOE: the ABCSG-12 trial, including only premenopausal patients who received goserelin and the AZURE trial, where premenopausal patients represented 45% of the sample, only a few received goserelin and only 48% received an AI. In the latter, no benefit was found for Z in the mixed group of patients who were premenopausal, perimenopausal or with unknown menopausal status at randomisation [17]. Conversely, in the ABCSG-12 trial, the DFS HR with the addition of Z was 0.77 (95% CI, 0.60 to 0.99) at the last update [7]. The HOBOE design and patient population are similar to those of the ABCSG-12 trial, and the results are similar as well, although the power of the comparison in the HOBOE study was reduced because the effect of the addition of Z to L was lower than the effect planned in study design. Combining the two trials leads to a significant effect of Z plus endocrine therapy vs endocrine therapy alone (HR, 0.75; 95% CI, 0.60 to 0.94; Figure A.6). With caution due to study limitations, this might be a step forward from the EBCTCG overview that found that bisphosphonates reduced breast cancer recurrence among postmenopausal patients, 
+
+mainly in the bone, but did not separate premenopausal patients undergoing pharmacologic OFS from postmenopausal patients at the time of diagnosis [8]. Interestingly, the effect of ZL does not seem due to a reduction of bone metastases in HOBOE, and this might be explained by assuming that Z acts against isolated cancer cells using bone as a niche for dormancy, in light of the very rapid visceral passage of Z and its longlasting accumulation in the bone [18]. The three-arm HOBOE design was first planned to evaluate bone health [9] and later adaptively shifted to DFS as the primary end-point. Pairwise comparisons could be performed according to the protocol because the predefined null hypothesis of equivalence among the three arms was rejected. HOBOE is the first available estimation of the effect of the combination of an AI and Z vs T, and the two other comparisons suggest its benefit derives from an independent contribution of L and Z. The observed 0.52 value of the HR of ZL vs T, indeed, is similar to the one expected by combining the results of SOFT-TEXT and ABCSG-12 trials, whose estimates were substantially replicated in HOBOE. We found a qualitative interaction between treatment effect and HER2 status, similar to what was observed for exemestane [3]. Longer follow-up and more studies might 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+define whether HER2 can be a biomarker in clinical practice. In addition, further attention should be paid on the possible predictive role of MAF amplification that predicted lack of efficacy of Z among non-postmenopausal patients enrolled in the AZURE trial [19]. The major limitation of HOBOE is the number of events (134) that is lower than that planned (166). Therefore, the HOBOE findings need to be confirmed by longer follow-up, also considering that endocrineresponsive breast cancer may recur even many years after diagnosis [20]. Whether Z is the best bisphosphonate to use in this adjuvant setting remains an open question, based on the positive results reported with denosumab among postmenopausal patients in the ABCSG-18 trial [21]. However, negative results have been recently reported in the subgroup of premenopausal patients enrolled in the DCARE trial [22]. 
+
+5. Conclusions ZL significantly improves DFS of premenopausal patients with early breast cancer with hormone receptorepositive tumours, undergoing OFS with triptorelin. It might be considered for clinical practice, after discussing its possible side-effects. 
+
+Conflict of interest statement F.P. reports non-financial support from Novartis, during the conduct of the study and personal fees from Astra Zeneca, Bayer, Ipsen, Pierre Fabre, Incyte, Novartis, Celgene, Roche, BMS and Eli Lilly, outside the submitted work. M.De L. reports personal fees from Pfizer, Novartis, Roche, Celgene, Astra Zeneca, Eisai and Eli Lilly, outside the submitted work. S.De P. reports personal fees from Pfizer, Astra Zeneca and Novartis, during the conduct of the study and grants from Astra Zeneca, outside the submitted work. L.D.M. reports personal fees and non-financial support from Roche and Pfizer and personal fees from Ipsen, Eli Lilly, Eisai, Novartis, Takeda and MSD, outside the submitted work. S.C. reports personal fees from Eli Lilly, outside the submitted work. M.C.P. reports personal fees from MSD, Astra Zeneca, Bayer and Roche, outside the submitted work. N.N. reports grants, personal fees and non-financial support from Merck Serono; grants, personal fees and non-financial support from Thermofisher; personal fees from BMS, grants and personal fees from Qiagen; grants and personal fees from Roche; grants and personal fees from Astra Zeneca; personal fees from Sanofi and personal fees from Boehringer Ingelheim, outside the submitted work. The other coauthors have nothing to declare. 
+
+185 
+
+Acknowledgements This work was partially supported by the Associazione Italiana per la Ricerca sul Cancro (AIRC) (grant number 1162). Letrozole and zoledronic acid were supplied by Novartis (grant code CZOL446GIT07). Neither AIRC nor Novartis played a role in study design, data collection, data analysis, data interpretation or writing of the report. There was no writing assistance. Appendix A. Supplementary data Supplementary data to this article can be found online at https://doi.org/10.1016/j.ejca.2019.05.004. 
+
+References [1] Early Breast Cancer Trialists’ Collaborative G. Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;365:1687e717. [2] Goldhirsch A, Ingle JN, Gelber RD, Coates AS, Thurlimann B, Senn HJ, et al. Thresholds for therapies: highlights of the St Gallen International Expert Consensus on the primary therapy of early breast cancer 2009. Ann Oncol:Off J Eur Soc Med Oncol 2009;20:1319e29. [3] Francis PA, Pagani O, Fleming GF, Walley BA, Colleoni M, Lang I, et al. Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med 2018;379:122e37. [4] Francis PA, Regan MM, Fleming GF, Lang I, Ciruelos E, Bellet M, et al. Adjuvant ovarian suppression in premenopausal breast cancer. N Engl J Med 2015;372:436e46. [5] Gnant M, Mlineritsch B, Schippinger W, Luschin-Ebengreuth G, Postlberger S, Menzel C, et al. Endocrine therapy plus zoledronic acid in premenopausal breast cancer. N Engl J Med 2009;360: 679e91. [6] Gnant M, Mlineritsch B, Stoeger H, Luschin-Ebengreuth G, Heck D, Menzel C, et al. Adjuvant endocrine therapy plus zoledronic acid in premenopausal women with early-stage breast cancer: 62-month follow-up from the ABCSG-12 randomised trial. Lancet Oncol 2011;12:631e41. [7] Gnant M, Mlineritsch B, Stoeger H, Luschin-Ebengreuth G, Knauer M, Moik M, et al. Zoledronic acid combined with adjuvant endocrine therapy of tamoxifen versus anastrozol plus ovarian function suppression in premenopausal early breast cancer: final analysis of the Austrian Breast and Colorectal Cancer Study Group Trial 12. Ann Oncol:Off J Eur Soc Med Oncol 2015; 26:313e20. [8] Early Breast Cancer Trialists’ Collaborative G. Adjuvant bisphosphonate treatment in early breast cancer: meta-analyses of individual patient data from randomised trials. Lancet 2015;386: 1353e61. [9] Nuzzo F, Gallo C, Lastoria S, Di Maio M, Piccirillo MC, Gravina A, et al. Bone effect of adjuvant tamoxifen, letrozole or letrozole plus zoledronic acid in early-stage breast cancer: the randomized phase 3 HOBOE study. Ann Oncol:Off J Eur Soc Med Oncol 2012;23:2027e33. [10] Rossi E, Morabito A, De Maio E, Di Rella F, Esposito G, Gravina A, et al. Endocrine effects of adjuvant letrozole þ triptorelin compared with tamoxifen þ triptorelin in premenopausal patients with early breast cancer. J Clin Oncol:Off J Eur Soc Med Oncol 2008;26:264e70. [11] Goldhirsch A, Glick JH, Gelber RD, Coates AS, Senn HJ. Meeting highlights: international consensus panel on the 
+
+186 
+
+F. Perrone et al. / European Journal of Cancer 118 (2019) 178e186 
+
+treatment of primary breast cancer. J Clin Oncol 2001;19: 3817e27. [12] Singletary SE, Allred C, Ashley P, Bassett LW, Berry D, Bland KI, et al. Revision of the American Joint Committee on Cancer staging system for breast cancer. J Clin Oncol:Off J Eur Soc Med Oncol 2002;20:3628e36. [13] Hudis CA, Barlow WE, Costantino JP, Gray RJ, Pritchard KI, Chapman JA, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol:Off J Eur Soc Med Oncol 2007;25:2127e32. [14] Ahnn S, Anderson SJ. Sample size determination for comparing more than two survival distributions. Stat Med 1995;14:2273e82. [15] Holm S. A simple sequentially rejective multiple test procedure. Scand J Stat 1979;6:65e70. [16] Marubini E, Valsecchi MG. Analysing survival data from clinical trials and observational studies. Wiley; 1995. [17] Coleman R, Cameron D, Dodwell D, Bell R, Wilson C, Rathbone E, et al. Adjuvant zoledronic acid in patients with early breast cancer: final efficacy analysis of the AZURE (BIG 01/04) randomised open-label phase 3 trial. Lancet Oncol 2014;15: 997e1006. [18] Gallo M, De Luca A, Lamura L, Normanno N. Zoledronic acid blocks the interaction between mesenchymal stem cells and breast 
+
+cancer cells: implications for adjuvant therapy of breast cancer. Ann Oncol:Off J Eur Soc Med Oncol 2012;23:597e604. [19] Coleman R, Hall A, Albanell J, Hanby A, Bell R, Cameron D, et al. Effect of MAF amplification on treatment outcomes with adjuvant zoledronic acid in early breast cancer: a secondary analysis of the international, open-label, randomised, controlled, phase 3 AZURE (BIG 01/04) trial. Lancet Oncol 2017;18: 1543e52. [20] Pan H, Gray R, Braybrooke J, Davies C, Taylor C, McGale P, et al. 20-Year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years. N Engl J Med 2017;377:1836e46. [21] Gnant M, Pfeiler G, Steger GG, Egle D, Greil R, Fitzal F, et al. Adjuvant denosumab in postmenopausal patients with hormone receptor-positive breast cancer (ABCSG-18): disease-free survival results from a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol 2019;20:339e51. [22] Coleman RE, Finkelstein D, Barrios CH, Martin M, Iwata H, Glaspy JA, et al. Adjuvant denosumab in early breast cancer: first results from the international multicenter randomized phase III placebo controlled D-CARE study. J Clin Oncol 2018;36:501. abstr. 
+
+ 

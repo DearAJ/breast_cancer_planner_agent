@@ -1,0 +1,779 @@
+Published Ahead of Print on October 20, 2014 as 10.1200/JCO.2014.55.5730 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2014.55.5730 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Trastuzumab Plus Adjuvant Chemotherapy for Human Epidermal Growth Factor Receptor 2–Positive Breast Cancer: Planned Joint Analysis of Overall Survival From NSABP B-31 and NCCTG N9831 Edith A. Perez, Edward H. Romond, Vera J. Suman, Jong-Hyeon Jeong, George Sledge, Charles E. Geyer Jr, Silvana Martino, Priya Rastogi, Julie Gralow, Sandra M. Swain, Eric P. Winer, Gerardo Colon-Otero, Nancy E. Davidson, Eleftherios Mamounas, Jo Anne Zujewski, and Norman Wolmark Edith A. Perez, Gerardo Colon-Otero, the Mayo Clinic, Jacksonville; Eleftherios Mamounas, University of Florida Health Cancer Center-Orlando Health, Orlando, FL; Edward H. Romond, University of Kentucky, Lexington, KY; Vera J. Suman, Mayo Clinic, Rochester, MN; Jong-Hyeon Jeong, Priya Rastogi, University of Pittsburgh; Nancy E. Davidson, University of Pittsburgh Cancer Institute; Norman Wolmark, Allegheny General Hospital, Pittsburgh, PA; George Sledge, Stanford University School of Medicine, Stanford; Silvana Martino, The Angeles Clinic and Research Institute, Santa Monica, CA; Charles E. Geyer Jr, Virginia Commonwealth University Massey Cancer Center, Richmond, VA; Julie Gralow, University of Washington/Seattle Cancer Care Alliance, Seattle, WA; Sandra M. Swain, MedStar Washington Hospital Center, Washington, DC; Eric P. Winer, Dana-Farber Cancer Institute, Boston, MA; Jo Anne Zujewski, National Institutes of Health, Rockville, MD. Published online ahead of print at www.jco.org on October 20, 2014. Support information appears at the end of this article. Clinical trial information: NCT00005970, NCT00004067. Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Edith A. Perez, MD, Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224; e-mail: perez. edith@mayo.edu. © 2014 by American Society of Clinical Oncology 0732-183X/14/3299-1/$20.00 DOI: 10.1200/JCO.2014.55.5730 
+
+Listen to the podcast by Dr Burstein at www.jco.org/podcasts A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Positive interim analysis findings from four large adjuvant trials evaluating trastuzumab in patients with early-stage human epidermal growth factor receptor 2 (HER2) –positive breast cancer were first reported in 2005. One of these reports, the joint analysis of North Central Cancer Treatment Group NCCTG N9831 (Combination Chemotherapy With or Without Trastuzumab in Treating Women With HER2-Overexpressing Breast Cancer) and the National Surgical Adjuvant Breast and Bowel Project NSABP B-31 (Doxorubicin and Cyclophosphamide Plus Paclitaxel With or Without Trastuzumab in Treating Women With Node-Positive Breast Cancer That Overexpresses HER2), was updated in 2011. We now report the planned definitive overall survival (OS) results from this joint analysis along with updates on the disease-free survival (DFS) end point. Methods In all, 4,046 patients with HER2-positive operable breast cancer were enrolled to receive doxorubicin and cyclophosphamide followed by paclitaxel with or without trastuzumab in both trials. The required number of events for the definitive statistical analysis for OS (710 events) was reached in September 2012. Updated analyses of overall DFS and related subgroups were also performed. Results Median time on study was 8.4 years. Adding trastuzumab to chemotherapy led to a 37% relative improvement in OS (hazard ratio [HR], 0.63; 95% CI, 0.54 to 0.73; P ⬍ .001) and an increase in 10-year OS rate from 75.2% to 84%. These results were accompanied by an improvement in DFS of 40% (HR, 0.60; 95% CI, 0.53 to 0.68; P ⬍ .001) and increase in 10-year DFS rate from 62.2% to 73.7%. All patient subgroups benefited from addition of this targeted anti-HER2 agent. Conclusion The addition of trastuzumab to paclitaxel after doxorubicin and cyclophosphamide in early-stage HER2-positive breast cancer results in a substantial and durable improvement in survival as a result of a sustained marked reduction in cancer recurrence. J Clin Oncol 32. © 2014 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Approximately 15% to 20% of invasive breast cancers have amplification of the human epidermal growth factor receptor 2 (HER2) gene or overexpression of the HER2 protein.1 Before the availability of HER2-directed therapies, women with early-stage HER2-positive breast cancer faced a worse prognosis than those with a diagnosis of HER2-negative disease, with shorter time to disease relapse, an increased incidence of metastases, and higher mortality.1 
+
+Trastuzumab, a humanized monoclonal antibody that targets the extracellular domain of the HER2 protein, was found to improve survival in the metastatic disease setting when used in combination with chemotherapy.2 As a result, it was then tested in the adjuvant setting in two North American trials: North Central Cancer Treatment Group NCCTG N9831 trial (Combination Chemotherapy With or Without Trastuzumab in Treating Women With HER2-Overexpressing Breast Cancer) and the National Surgical Adjuvant Breast and Bowel Project © 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+Copyright 2014 by American Society of Clinical Oncology 
+
+1 
+
+Perez et al 
+
+NSABP B-31 trial (Doxorubicin and Cyclophosphamide Plus Paclitaxel With or Without Trastuzumab in Treating Women With Node-Positive Breast Cancer That Overexpresses HER2). The NCCTG N9831 (hereafter N9831) and NSABP B-31 (hereafter B-31) trials assessed the efficacy and safety of adding trastuzumab to paclitaxel followed by trastuzumab alone after completion of doxorubicin and cyclophosphamide chemotherapy (doxorubicin and cyclophosphamide ¡ trastuzumab plus paclitaxel ¡ trastuzumab). The trials were similar in design, allowing the National Cancer Institute and the US Food and Drug Administration to approve a joint efficacy analysis plan that could be executed before the first planned efficacy interim analysis of the individual trials. At the first planned joint interim analysis, the stopping boundary was crossed and the data were released. With a median follow-up of just 2 years, there was a 52% reduction in disease-free survival (DFS) events (P ⬍ .001) with a trend toward improvement in overall survival (OS; P ⫽ .015) with the addition of trastuzumab.3 A second analysis, when the median follow-up was 3.9 years, found a continued reduction in DFS events (hazard ratio [HR], 0.52; 95% CI, 0.45 to 0.60) with the addition of trastuzumab and a continued trend toward improvement in OS (HR, 0.61; 95% CI, 0.50 to 0.75).4 The joint analysis plan called for definitive analysis of survival data after 710 deaths and is the primary subject of this report. The additional follow-up also provides an opportunity to further characterize recurrence patterns in both groups of patients. 
+
+significant pericardial effusion (N9831), or a history of myocardial infarction, congestive heart failure (CHF), or cardiomyopathy. Participating institutions obtained approval from their institutional review boards and filed assurances with the Department of Health and Human Services. Written informed consent was required for enrollment. Contraindications to Initiation of Trastuzumab Initiation of trastuzumab in the experimental group was not allowed in patients who developed symptoms related to left ventricular dysfunction, cardiac ischemia, or arrhythmia while receiving doxorubicin and cyclophosphamide or in patients whose LVEF measurement after completion of doxorubicin and cyclophosphamide had decreased by more than 15 percentage points from baseline or pretreatment value or had decreased ⱕ 15 percentage points from baseline but to a level below the lower limit of normal. In all, 102 patients (5%) randomly assigned to the trastuzumab group did not receive trastuzumab. Nevertheless, these patients are included in the experimental group in this intent-to-treat (ITT) analysis. Impact of the Release of the First Joint Analysis on Patient Treatment Course After the release of the first interim joint analysis results in 2005, patients who had been randomly assigned to N9831 arm A were allowed to receive trastuzumab if they had an acceptable LVEF level and at most 6 months had elapsed since completion of paclitaxel. Patients randomly assigned to B-31 arm 1 were allowed to receive trastuzumab if they were currently receiving study treatment or had completed study treatment but had registered onto B-31 after April 25, 2004, and had an acceptable LVEF level. As a result, 413 patients in the control group (20%) received trastuzumab. These patients, nevertheless, are evaluated with their initial assigned treatment group in this ITT analysis. 
+
+PATIENTS AND METHODS Study Design This study combines data from the B-31 and N9831 clinical trials (sponsored by the National Cancer Institute) that were designed independently to assess the impact of adding trastuzumab to paclitaxel followed by trastuzumab alone after completion of doxorubicin and cyclophosphamide in women with operable primary node-positive or high-risk node-negative HER2-positive invasive breast cancer (Appendix Fig A1, online only). The experimental arm for this joint analysis consisted of the patients randomly assigned to N9831 arm C and B-31 arm 2 who received four 3-week cycles of doxorubicin and cyclophosphamide followed by 12 weeks of paclitaxel given once per week (both N9831 and B-31) or once every 3 weeks (B-31 only) concurrently with trastuzumab once per week followed by trastuzumab alone to complete a year of targeted therapy. The control arm consisted of the patients randomly assigned to N9831 arm A and B-31 arm 1: doxorubicin and cyclophosphamide followed by 12 weeks of paclitaxel given once per week (N9831 and B-31) or once every 3 weeks (B-31 only). Patient Trial Eligibility Women age 18 years or older with primary, operable, and histologically confirmed node-positive (both trials) or high-risk node-negative invasive (N9831 only) breast cancer with no evidence of distant metastases were eligible. After initial quality control testing of tumors from the first approximately 100 patients in each trial, tumors had to be strongly HER2-positive (either HER2 gene amplified by fluorescent in situ hybridization or 3⫹ by immunohistochemistry) and confirmed by an approved reference laboratory (B-31) or central or reference laboratory (N9831). Additional requirements included adequate hematopoietic, hepatic, and renal function and a left ventricular ejection fraction (LVEF) greater than or equal to the local institution’s lower limit of normal. Contraindications to study entry included angina pectoris or arrhythmia requiring medications, severe conduction abnormality, significant valvular heart disease, cardiomegaly on chest radiography, left ventricular hypertrophy on echocardiography (B-31), poorly controlled hypertension, clinically 2 
+
+© 2014 by American Society of Clinical Oncology 
+
+Statistical Analysis This joint analysis included all patients enrolled onto B-31 and patients on N9831 from arms A and C except the 152 patients enrolled onto arm A from January 24, 2002 to September 2, 2002 when enrollment to arm C was temporarily suspended because of safety concerns and the 193 patients who were found not to have HER2-positive disease by central confirmatory testing. All remaining patients were included in the analysis according to their assigned treatment arm. This joint analysis was conducted to assess whether OS (defined as the time from enrollment to death as a result of any cause) differed with respect to treatment. Causes of death were provided by the enrolling institution (N9831) and, if they were available, physicians’ notes summarizing death, death certificates, or autopsy reports were to be submitted (B-31). As part of cardiac safety monitoring (done before progression in N9831 and until death in B-31), a cardiac event or sudden death reporting protocol was developed to capture deaths as a result of CHF, myocardial infarction, primary arrhythmia, and sudden deaths without documented etiology. Documentation of the event, including cardiology consult notes and imaging (multiple-gated acquisition scan, echocardiography, computed tomography, and chest x-ray) reports, was to be submitted. If the circumstances surrounding a patient’s death were not available, the cause of death was classified as unknown, even if the patient had developed recurrent breast cancer or a second malignancy. The other efficacy end point examined was DFS, defined as the time from enrollment to documentation of the first of any of these events: local, regional, or distant recurrence of breast cancer; a contralateral breast cancer; a second primary cancer; or death as a result of any cause. Patients alive without a disease event were censored at the time of their last disease evaluation (ie, patients randomly assigned to the non-trastuzumab– containing regimens who chose to receive trastuzumab after the release of the first joint analysis of N9831 and B-31 were not censored when they began trastuzumab). Acceptable criteria for documenting a disease event by treating physician were positive cytology aspirate or biopsy for local or regional recurrence; positive JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+Adjuvant Trastuzumab for HER2-Positive Breast Cancer 
+
+cytology aspirate, biopsy, or imaging studies for distant recurrence; and histologic confirmation for a new primary cancer. The overall distributions of DFS and OS were estimated by using the Kaplan-Meier method.5 Proportional hazards modeling was used to assess whether DFS or OS differed with respect to treatment, taking into account the stratification factors: study (B-31 v N9831), intended paclitaxel schedule (once every 3 weeks v once per week), number of positive nodes (zero to three v four to nine v ⱖ 10 nodes), and hormone receptor status (estrogen receptor [ER] –positive and/or progesterone receptor [PgR] –positive v ER-negative and PgR-negative) as well as other patient and disease characteristics.3,4 
+
+RESULTS 
+
+Study Population The study cohort consisted of 2,102 women enrolled onto B-31 and 1,944 women enrolled onto arm A or arm C of N9831 (Fig 1). Pretreatment characteristics of these 4,046 women are listed in Table 1 and are balanced not only across treatment arms but also across protocols. The data were locked on September 15, 2012. The median length of follow-up among those still alive was 8.4 years for the trastuzumabcontaining arm and 8.3 years for the control arm, with 4% in the trastuzumab-containing arm and 8.2% in the control arm followed for less than 5 years (Fig 1). Among the 2,028 women randomly assigned to a trastuzumabcontaining arm, 1,555 (76.7%) were alive without evidence of disease; 187 (9.2%) were alive following a disease recurrence, a second primary 
+
+cancer, and/or contralateral breast cancer; 210 (10.4%) died as a result of breast cancer; 32 (1.6%) died as a result of other causes; nine (0.4%) died from cardiac conditions, and 35 (1.7%) died as a result of unknown causes (Table 2). Among the 2,018 women on the control arm, 1,338 (66.3%) were alive without evidence of disease; 262 (13.0%) were alive with disease recurrence, a second primary cancer, and/or contralateral breast disease; 341 (16.9%) had died as a result of breast cancer; 51 (2.5%) were dead as a result of other causes; three (0.1%) died from cardiac conditions and 23 (1.1%) were dead as a result of unknown causes (Table 2). OS Women randomly assigned to the trastuzumab-containing arm had a significantly increased OS relative to those randomly assigned to the control arm when the stratification factors are taken into account (stratified HR, 0.63; 95% CI, 0.54 to 0.73; P ⬍ .001) as well as when the stratification factors plus age, tumor size, and extent of surgery are taken into account (adjusted HR, 0.61; 95% CI, 0.52 to 0.71; P ⬍ .001; Table 3 and Fig 2A). Table 4 depicts the HR (trastuzumab-containing regimen relative to nonstrastuzumab-containing regimen) for OS by subsets. Statistically significant benefit was seen with the addition of trastuzumab to doxorubicin and cyclophosphamide followed by paclitaxel across all subgroups of patients. Of note, the HRs for patients with ERnegative/PgR-negative tumors and those with ER-positive and/or 
+
+Women: 18 years or older with primary, operable, histologically confirmed node-positive or high-risk node-negative HER2-positive invasive breast cancer Study entry: 5/19/2000 to 4/30/2005 (n = 3,505) 
+
+Women: 18 years or older with primary, operable, histologically confirmed node-positive HER2-positive invasive breast cancer Study entry: 2/21/2000 to 4/30/2005 (n = 2,101) 
+
+Excluded (n = 1,561) Assigned to Arm B (n = 1,216) Assigned to Arm A when Arm C (n = 152) temporarily closed Addendum 7 (implemented 1/11/2002): HER2 positivity not confirmed on central review Arm A (n = 109) Arm C (n = 84) 
+
+Arm A (n = 971) DOX + CYC then PAC80 
+
+Follow-up time for those still alive (years) 0–4.9 5.0–5.9 6.0–6.9 7.0–7.9 8.0–8.9 9.0–9.9 10.0–10.9 ≥ 11.0 
+
+Alive 87 (10.9%) 33 (4.1%) 77 (9.6%) 214 (26.8%) 163 (20.4%) 85 (10.6%) 90 (11.3%) 50 (6.3%) 
+
+(n = 799) 
+
+Arm C (n = 973) DOX + CYC then PAC80 + TRAS 
+
+Alive 50 (5.8%) 37 (4.4%) 94 (11.1%) 229 (26.9%) 172 (20.2%) 98 (11.5%) 123 (14.5%) 48 (5.6%) 
+
+(n = 851) 
+
+Arm 1 (n = 1,047) DOX + CYC then PAC80 or PAC175 
+
+Alive 44 (5.5%) 18 (2.3%) 76 (9.5%) 149 (18.6%) 155 (19.4%) 155 (19.4%) 136 (17.0%) 68 (8.5%) 
+
+(n = 801) 
+
+Arm 2 (n = 1,055) DOX + CYC then PAC80 +TRAS or PAC175 + TRAS 
+
+Alive 19 (2.1%) 13 (1.5%) 85 (9.5%) 168 (18.8%) 167 (18.7%) 183 (20.5%) 185 (20.8%) 71 (8.0%) 
+
+(n = 891) 
+
+Fig 1. CONSORT diagram. DOX ⫹ CYC: doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2 once every 3 weeks ⫻ 4; HER2, human epidermal growth factor receptor 2; PAC80: paclitaxel 80 mg/m2 once per week ⫻ 12; PAC175: paclitaxel 175 mg/m2 once every 3 weeks ⫻ 4; TRAS: trastuzumab initial loading dose 4 mg/kg, then 2 mg/kg once per week ⫻ 52. www.jco.org 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+3 
+
+Perez et al 
+
+Table 1. Patient Characteristics by Treatment Arm Control Group NSABP B-31 (n ⫽ 1,047) Characteristic Age at random assignment, years 18-39 40-49 50-59 ⱖ 60 Extent of surgery Breast conserving Mastectomy Unknown ER/PgR status ER-negative and PgR-negative ER-positive or PgR-positive Unknown Tumor size, cm ⱕ 2.0 2.1-5.0 ⱖ 5.1 Unknown Tumor grade 1 2 3 Unknown No. of histologically positive lymph nodes 0 1-3 4-9 ⱖ 10 Intended paclitaxel schedule Once per week Once every 3 weeks Adjuvant radiation therapy Yes No Adjuvant hormonal therapy Yes No Unknown 
+
+Trastuzumab Group NCCTG N9831 (n ⫽ 971) 
+
+NSABP B-31 (n ⫽ 1,055) 
+
+NCCTG N9831 (n ⫽ 973) 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+170 352 355 170 
+
+16.2 33.6 33.9 16.2 
+
+163 324 328 156 
+
+16.8 33.4 33.8 16.1 
+
+172 367 343 173 
+
+16.3 34.7 32.5 16.4 
+
+149 330 310 184 
+
+15.3 33.9 31.9 18.9 
+
+412 634 1 
+
+39.4 60.6 0.1 
+
+383 588 0 
+
+39.4 60.6 
+
+412 643 0 
+
+39.1 60.9 
+
+370 603 0 
+
+38.0 62.0 
+
+464 581 2 
+
+44.2 55.5 0.2 
+
+447 524 0 
+
+46.0 54.0 
+
+468 586 1 
+
+44.4 55.6 0.1 
+
+449 524 0 
+
+46.2 54.8 
+
+431 532 80 4 
+
+41.2 50.8 7.6 0.4 
+
+392 509 70 0 
+
+40.4 52.4 7.2 
+
+405 534 113 3 
+
+38.4 50.6 10.7 0.3 
+
+370 521 82 0 
+
+38.0 53.6 8.4 
+
+29 316 693 9 
+
+2.8 30.2 66.2 0.9 
+
+10 256 694 11 
+
+1.0 26.4 71.5 1.1 
+
+23 292 730 10 
+
+2.2 27.7 69.2 1.0 
+
+14 259 684 16 
+
+1.4 26.6 70.3 1.6 
+
+0 600 306 141 
+
+57.3 29.2 13.5 
+
+149 457 236 129 
+
+15.4 47.1 24.3 13.3 
+
+0 611 302 142 
+
+57.9 28.6 13.5 
+
+133 476 240 124 
+
+13.7 48.9 24.7 12.7 
+
+168 879 
+
+16.0 84.0 
+
+971 0 
+
+100 
+
+170 885 
+
+16.1 83.9 
+
+973 0 
+
+100 
+
+801 246 
+
+76.5 23.5 
+
+637 334 
+
+65.6 34.4 
+
+811 244 
+
+76.9 23.1 
+
+660 313 
+
+67.8 32.2 
+
+586 461 0 
+
+56.0 44.0 
+
+498 446 27 
+
+51.3 45.9 2.8 
+
+591 464 0 
+
+56.0 44.0 
+
+498 458 17 
+
+51.2 47.1 1.8 
+
+Abbreviations: ER, estrogen receptor; NCCTG N9831, North Central Cancer Treatment Group NCCTG N9831 trial (Combination Chemotherapy With or Without Trastuzumab in Treating Women With Breast Cancer); NSABP B-31, National Surgical Adjuvant Breast and Bowel Project NSABP B-31 trial (Doxorubicin and Cyclophosphamide Plus Paclitaxel With or Without Trastuzumab in Treating Women With Node-Positive Breast Cancer That Overexpresses HER2); PgR, progesterone receptor. 
+
+PgR-positive tumors were similar at 0.65 (95% CI, 0.53 to 0.80) and 0.61 (95% CI, 0.49 to 0.76), respectively (Tables 3 and 4). DFS The types of first-disease events for each treatment group are listed in Table 2. Distant recurrence was detected alone or in combination with other-disease events in 416 patients (20.6%) in the control arm and 241 (11.9%) in the trastuzumab arm. There was brain involvement in the first-disease events among 40 patients (2.0%) in the control arm and 63 patients (3.1%) in the trastuzumab arm. Contralateral breast cancers as a first event were uncommon in this study, occurring in 2% of patients. 4 
+
+© 2014 by American Society of Clinical Oncology 
+
+Women randomly assigned to the trastuzumab-containing arm had a significantly improved DFS relative to those randomly assigned to the control arm when the stratification factors are taken into account (stratified HR, 0.60; 95% CI, 0.53 to 0.68; P ⬍ .001; Fig 2B) as well as when the stratification factors plus age, extent of surgery, and tumor size are taken into account (adjusted HR, 0.58; 95% CI, 0.52 to 0.66; P ⬍ .001; Table 3). Table 4 shows DFS by subgroups, indicating that all subsets derive similar and significant benefit from the addition of trastuzumab. Of note, the HRs for patients with ER-negative/PgR-negative tumors and those with ER-positive and/or PgR-positive tumors were similar at 0.62 (95% CI, 0.52 to 0.73) and 0.61 (95% CI, 0.51 to 0.72), respectively. The impact of JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+Adjuvant Trastuzumab for HER2-Positive Breast Cancer 
+
+Table 2. Clinical Outcomes by Treatment Arm 
+
+Clinical Outcome 
+
+Control Group (doxorubicin and cyclophosphamide, then paclitaxel) (n ⫽ 2,018) 
+
+Trastuzumab Group (doxorubicin and cyclophosphamide, then paclitaxel and trastuzumab) (n ⫽ 2,028) 
+
+680 119 387 29 40 74 
+
+473 82 228 13 46 66 
+
+31 418 341 
+
+38 286 210 
+
+15 7 
+
+15 2 
+
+2 1 0 0 0 8 21 23† 
+
+3 3 1 1 1 1 14 35‡ 
+
+First documented disease event Locoregional recurrence Distant recurrence Local and distant recurrence Contralateral breast cancer Other second primary cancer Death without progressive disease, second primary, or contralateral breast disease All deaths Breast cancer Second primary cancer Solid tumor Hematologic malignancyⴱ Cardiac conditions Congestive heart failure Cardiac arrest Cardiomyopathy Myocardial infarction Unspecified cardiac condition Sepsis/septicemia Other causes Unknown cause 
+
+ⴱ One case of myelodysplastic syndrome. †Fourteen of these 23 patients had a prior breast recurrence or second primary cancer disease. ‡Sixteen of these 35 patients had a prior breast recurrence or second primary cancer disease. 
+
+hormone receptor status and nodal status on patient outcome are described in Table 5. DISCUSSION 
+
+Long-term follow-up, at a median of 8.4 years from study enrollment, demonstrates that the anti-HER2 monoclonal antibody trastuzumab administered after doxorubicin and cyclophosphamide chemotherapy first in combination with paclitaxel for 12 weeks and then alone for 40 weeks is associated with a statistically significant and substantial improvement in OS with a risk reduction of 37% (HR, 0.63) and continued substantial improvement in DFS with risk reduction in disease events of 40% (HR, 0.60). Improvements in OS and DFS were observed in all subgroups of patients with resected HER2-positive breast cancer (ie, small or large tumors, hormone receptor–positive or hormone receptor–negative, low or high number of involved axillary nodes, and younger or older patients). In this ITT analysis of B-31 and N9831, a marked degree of benefit was demonstrated despite the fact that 5% of the patients randomly assigned to doxorubicin and cyclophosphamide followed by paclitaxel and trastuzumab were prohibited from receiving trastuzumab because of cardiac issues during or following doxorubicin and cyclophosphamide, and 20% of those assigned to doxorubicin and cyclophosphamide followed by paclitaxel received trastuzumab after the first interim analysis and reported remarkable early benefit. Cardiac dysfunction is a recognized risk associated with the addition of trastuzumab to chemotherapy. Extensive measures were implemented in each trial to capture instances of CHF, cardiac death, www.jco.org 
+
+and sudden death of unknown etiology. When the joint analysis plan was drawn up in 2005, it did not include a provision to jointly examine cardiac safety. However, the difference in the cumulative incidence of these cardiac events between trastuzumab and non-trastuzumab– containing regimens after starting paclitaxel with or without trastuzumab was reported to be 3.0% at 3 years in N9831 and 2.7% at 7 years in B-31.6,7 In this analysis, the 8-year cumulative incidence rate of deaths after random assignment known to be a result of cardiac causes was 0.2% for patients with the trastuzumab-containing regimen and 0.1% for patients in the control arm. With less than 20% of the patients enrolled onto these trials having died, this difference in incidence of known cardiac-related deaths does not appear to diminish the favorable risk-benefit profile of this trastuzumab-containing regimen. There have been several adjuvant breast cancer trials that have reported substantial improvements in DFS with the addition of trastuzumab to chemotherapy but with some cardiac complications in terms of decreases in LVEF during treatment and CHF. In the Herceptin Adjuvant trial (HERA: A Randomised Three-Arm MultiCentre Comparison of 1 Year and 2 Years of Herceptin Versus No Herceptin in Women With HER2-Positive Primary Breast Cancer Who Have Completed Adjuvant Chemotherapy), patients were randomly assigned to observation or to 1 year of trastuzumab after completion of definitive surgery, chemotherapy, or radiation, whichever came last.8 However, the release of the initial joint B31-N9831 analysis findings in 2005 as well as the initial results of the HERA trial itself had a significant impact on the observation arm of the HERA trial, with half these patients receiving trastuzumab. Despite this crossover, after a median of 8 years of follow-up, there was a substantial improvement © 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+5 
+
+Perez et al 
+
+Table 3. Multivariable Proportional Hazards Modeling Results OS Factor Hormone receptor status ER-positive and/or PgR-positive ER-negative and PgR-negative No. of positive nodes ⱖ 10 4-9 0-3 Paclitaxel schedule Once every 3 weeks Once per week Masked trial designation A B Age, years ⱖ 60 18-59 Tumor size, cm ⬎5 2-5 ⬍2 Extent of surgery Mastectomy Breast conserving Regimen Trastuzumab-containing Control 
+
+DFS 
+
+HR 
+
+95% CI 
+
+P 
+
+HR 
+
+95% CI 
+
+P 
+
+0.74 1 
+
+0.64 to 0.86 
+
+⬍ .001 
+
+0.74 1 
+
+0.66 to 0.84 
+
+⬍ .001 
+
+2.86 1.71 1 
+
+2.36 to 3.46 1.44 to 2.04 
+
+⬍ .001 ⬍ .001 
+
+2.53 1.41 1 
+
+2.18 to 2.94 1.23 to 1.62 
+
+⬍ .001 ⬍ .001 
+
+1.36 1 
+
+0.99 to 1.86 
+
+.0613 
+
+1.36 1 
+
+1.07 to 1.73 
+
+.0116 
+
+1.08 1 
+
+0.78 to 1.49 
+
+.644 
+
+1.09 1 
+
+0.86 to 1.39 
+
+.4842 
+
+1.52 1 
+
+1.28 to 1.81 
+
+⬍ .001 
+
+1.20 1 
+
+1.04 to 1.39 
+
+.0134 
+
+1.73 1.57 1 
+
+1.33 to 2.24 1.32 to 1.86 
+
+⬍ .001 ⬍ .001 
+
+1.81 1.53 1 
+
+1.47 to 2.23 1.34 to 1.74 
+
+⬍ .001 ⬍ .001 
+
+1.25 1 
+
+1.05 to 1.47 
+
+.0099 
+
+1.03 1 
+
+0.91 to 1.16 
+
+.6844 
+
+0.61 1 
+
+0.52 to 0.71 
+
+⬍ .001 
+
+0.58 1 
+
+0.52 to 0.66 
+
+⬍ .001 
+
+Abbreviations: DFS, disease-free survival; ER, estrogen receptor; HR, hazard ratio; OS, overall survival; PgR, progesterone receptor. 
+
+in DFS (HR, 0.76; 95% CI, 0.67 to 0.86) and OS (HR, 0.76; 95% CI, 0.65 to 0.88) with the addition of 1 year of trastuzumab (these HRs were slightly higher than those observed with our concurrent regimen reported herein). 
+
+The BCIRG 006 (Combination Chemotherapy With or Without Trastuzumab in Treating Women With HER2-Positive Breast Cancer) trial found a significant improvement in DFS over that with doxorubicin and cyclophosphamide followed by docetaxel when 1 
+
+A 
+
+B 
+
+Overall Survival (%) 
+
+84% 
+
+80 75.2% 
+
+60 HR, 0.63; 95% CI, 0.54 to 0.73 P < .001 
+
+40 
+
+20 
+
+0 
+
+AC  TH (286 events) AC  T (418 events) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Time Since Random Assignment (years) No. at risk AC  TH 2,028 1,995 1,959 1,897 1,843 1,785 1,709 1,506 1,085 AC  T 2,018 1,962 1,883 1,806 1,730 1,640 1,534 1,336 944 
+
+735 604 
+
+100 
+
+Disease-Free Survival (%) 
+
+100 
+
+73.7% 
+
+80 
+
+60 
+
+62.2% 
+
+HR, 0.60; 95% CI, 0.53 to 0.68 P < .001 
+
+40 
+
+20 
+
+0 
+
+AC  TH (473 events) AC  T (680 events) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Time Since Random Assignment (years) 439 353 
+
+No. at risk AC  TH 2,028 1,959 1,848 1,747 1,675 1,611 1,514 1,293 AC  T 2,018 1,887 1,689 1,529 1,423 1,329 1,232 1,027 
+
+910 705 
+
+619 449 
+
+350 255 
+
+Fig 2. (A) Overall survival and (B) disease-free survival from combined data analysis for North Central Cancer Treatment Group NCCTG N9831 (Combination Chemotherapy With or Without Trastuzumab in Treating Women With HER2-Overexpressing Breast Cancer) and National Surgical Adjuvant Breast and Bowel Project NSABP B-31 (Doxorubicin and Cyclophosphamide Plus Paclitaxel With or Without Trastuzumab in Treating Women With Node-Positive Breast Cancer That Overexpresses HER2). AC, doxorubicin and cyclophosphamide; H, trastuzumab; HR, hazard ratio; T, paclitaxel. 6 
+
+© 2014 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+Adjuvant Trastuzumab for HER2-Positive Breast Cancer 
+
+Table 4. Doxorubicin and Cyclophosphamide, Then Paclitaxel and Trastuzumab Compared With Doxorubicin and Cyclophosphamide, Then Paclitaxel: Hazard of Death and Hazard of Disease Event Within Subgroups OS Factor Age, years ⬍ 40 40-49 50-59 ⱖ 60 Hormone receptor status ER-negative and PgR-negative ER-positive or PgR-positive Tumor size, cm 0.1-2 2.1-5.0 ⱖ 5.1 
+
+DFS 
+
+No. of Patients 
+
+HR 
+
+95% CI 
+
+HR 
+
+95% CI 
+
+654 1,373 1,336 683 
+
+0.67 0.65 0.68 0.51 
+
+0.46 to 0.99 0.49 to 0.86 0.52 to 0.90 0.37 to 0.69 
+
+0.50 0.64 0.64 0.63 
+
+0.37 to 0.67 0.51 to 0.78 0.52 to 0.79 0.49 to 0.82 
+
+1,828 2,215 
+
+0.65 0.61 
+
+0.53 to 0.80 0.49 to 0.76 
+
+0.62 0.61 
+
+0.52 to 0.73 0.51 to 0.72 
+
+1,598 2,096 345 
+
+0.51 0.68 0.58 
+
+0.38 to 0.69 0.56 to 0.82 0.39 to 0.88 
+
+0.55 0.65 0.47 
+
+0.44 to 0.68 0.56 to 0.76 0.33 to 0.67 
+
+Abbreviations: DFS, disease-free survival; ER, estrogen receptor; HR, hazard ratio; OS, overall survival; PgR, progesterone receptor. 
+
+year of trastuzumab was combined with an anthracycline-based regimen (doxorubicin and cyclophosphamide, then docetaxel plus trastuzumab, then trastuzumab alone; HR, 0.64) as well as with nonanthracycline– containing regimen (docetaxel and carboplatin, then trastuzumab; HR, 0.75).9 This trial was not designed to assess whether the cumulative risk of DFS differed between the two trastuzumabcontaining regimens. In addition, several trials have been conducted to address the optimal duration of trastuzumab. The HERA trial did not find a significant difference in DFS or OS between 1 and 2 years of trastuzumab after surgery or chemotherapy with or without radiation.8 The PHARE trial (Protocol of Herceptin Adjuvant With Reduced Exposure, a Randomised Comparison of 6 Months vs 12 Months in All Women Receiving Adjuvant Herceptin [PHARE]) randomly assigned 3,384 women with HER2-positive breast cancer who completed surgery and chemotherapy with or without radiation and received up to 6 months of trastuzumab to a total of either 6 or 12 months of trastuzumab. After 3.5 years of follow-up, the PHARE trial failed to show that 6 months of trastuzumab was noninferior to 12 months of trastuzumab.10 
+
+There have been differences related to the timing of the initiation of trastuzumab relative to the chemotherapy regimens used. HERA administered trastuzumab after the completion of surgery, chemotherapy, or radiation whichever came last. N9831, B-31, and the BCIRG 006 trials administered trastuzumab with a taxane after chemotherapy with doxorubicin and cyclophosphamide. N9831 was the only clinical trial that was designed to compare starting trastuzumab concurrent with a taxane to after completion of a taxane. With a median follow-up of 6 years, there was a trend toward improved DFS when trastuzumab was administered concurrently with paclitaxel (doxorubicin and cyclophosphamide followed by paclitaxel and trastuzumab) relative to treatment with doxorubicin and cyclophosphamide, then paclitaxel, then trastuzumab (ie, trastuzumab was not administered concurrently with paclitaxel).11 The number of disease events in both the sequential and concurrent trastuzumab arms was much lower than hypothesized when the study was designed. On the basis of the aggregate DFS data, 1 year of trastuzumab initiated concurrently with a taxane is considered the standard of care. This joint analysis of the B-31 and N9831 trials extends our 
+
+Table 5. 10-Year OS and DFS Rates 10-Year OS 
+
+Factor No. of positive nodes 0-3 4-9 ⱖ 10 ER and PgR status ER-negative and PgR-negative ER-positive or PgR-positive 
+
+10-Year DFS 
+
+Doxorubicin and Cyclophosphamide, Then Paclitaxel and Trastuzumab 
+
+Doxorubicin and Cyclophosphamide, Then Paclitaxel 
+
+Doxorubicin and Cyclophosphamide, Then Paclitaxel and Trastuzumab 
+
+Doxorubicin and Cyclophosphamide, Then Paclitaxel 
+
+% 
+
+95% CI 
+
+% 
+
+95% CI 
+
+% 
+
+95% CI 
+
+% 
+
+95% CI 
+
+89.0 79.2 71.7 
+
+86.9 to 91.2 75.4 to 83.1 65.9 to 78.2 
+
+83.1 70.4 52.6 
+
+80.6 to 85.6 65.9 to 75.2 46.0 to 60.1 
+
+77.5 71.0 62.4 
+
+74.7 to 80.4 66.9 to 75.4 56.2 to 69.2 
+
+70.4 56.4 38.4 
+
+67.4 to 73.5 51.8 to 61.3 32.7 to 45.2 
+
+81.6 86.0 
+
+78.7 to 84.6 83.6 to 88.4 
+
+73.0 77.1 
+
+69.8 to 76.4 74.0 to 80.2 
+
+70.9 76.1 
+
+67.5 to 74.5 73.2 to 79.1 
+
+58.6 65.1 
+
+55.0 to 62.4 62.0 to 68.5 
+
+Abbreviations: DFS, disease-free survival; ER, estrogen receptor; OS, overall survival; PgR, progesterone receptor. 
+
+www.jco.org 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+7 
+
+Perez et al 
+
+previous findings of substantial improvements in DFS with doxorubicin and cyclophosphamide followed by paclitaxel with trastuzumab, followed by trastuzumab alone, over doxorubicin and cyclophosphamide followed by paclitaxel to include a substantial improvement in OS for women with HER2-positive breast cancer. 
+
+M. Swain, Genentech/Roche, Bristol-Myers Squibb, sanofi-aventis, Pfizer; Eric P. Winer, Genentech Expert Testimony: None Patents, Royalties, and Licenses: None Other Remuneration: Sandra M. Swain, Genentech/Roche 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Conception and design: Edith A. Perez, Edward H. Romond, Vera J. Suman, Silvana Martino, Sandra M. Swain, Nancy E. Davidson, Jo Anne Zujewski, Norman Wolmark Administrative support: Edith A. Perez, Silvana Martino, Norman Wolmark Provision of study materials or patients: Edith A. Perez, Edward H. Romond, George Sledge, Charles E. Geyer Jr, Silvana Martino, Priya Rastogi, Eric P. Winer, Gerardo Colon-Otero, Nancy E. Davidson, Eleftherios Mamounas, Norman Wolmark Collection and assembly of data: Edith A. Perez, Edward H. Romond, Vera J. Suman, Jong-Hyeon Jeong, George Sledge, Charles E. Geyer Jr, Silvana Martino, Priya Rastogi, Julie Gralow, Eric P. Winer, Gerardo Colon-Otero, Eleftherios Mamounas, Jo Anne Zujewski, Norman Wolmark Data analysis and interpretation: Edith A. Perez, Edward H. Romond, Vera J. Suman, Jong-Hyeon Jeong, George Sledge, Charles E. Geyer Jr, Priya Rastogi, Julie Gralow, Sandra M. Swain, Eric P. Winer, Gerardo Colon-Otero, Nancy E. Davidson, Eleftherios Mamounas, Jo Anne Zujewski, Norman Wolmark Manuscript writing: All authors Final approval of manuscript: All authors 
+
+Although all authors completed the disclosure declaration, the following author(s) and/or an author’s immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Charles E. Geyer Jr, Genentech (C); Sandra M. Swain, Genetech/ Roche (U); Eric P. Winer, Genentech (U); Eleftherios Mamounas, Genentech (C); Norman Wolmark, Genentech/Roche (U) Stock Ownership: None Honoraria: Edward H. Romond, Genentech; George Sledge, Genentech; Eleftherios Mamounas, Genentech Research Funding: Edward H. Romond, Genentech/Roche; George Sledge, Genentech; Julie Gralow, Roche, Genentech, Amgen, Novartis; Sandra 
+
+REFERENCES 1. Slamon DJ, Godolphin W, Jones LA, et al: Studies of the HER-2/neu proto-oncogene in human breast and ovarian cancer. Science 244:707-712, 1989 2. Slamon DJ, Leyland-Jones B, Shak S, et al: Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 344:783-792, 2001 3. Romond EH, Perez EA, Bryant J, et al: Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. N Engl J Med 353: 1673-1684, 2005 4. Perez EA, Romond EH, Suman VJ, et al: Four-year follow-up of trastuzumab plus adjuvant chemotherapy for operable human epidermal growth factor receptor 2-positive breast cancer: Joint analysis of 
+
+AUTHOR CONTRIBUTIONS 
+
+data from NCCTG N9831 and NSABP B-31. J Clin Oncol 29:3366-3373, 2011 5. Marubini E, Valsecchi MG: Analysing Survival Data From Clinical Trials and Observational Studies. Chichester, United Kingdom, John Wiley and Sons, 1995 6. Perez EA, Suman VJ, Davidson NE, et al: Cardiac safety analysis of doxorubicin and cyclophosphamide followed by paclitaxel with or without trastuzumab in the North Central Cancer Treatment Group N9831 adjuvant breast cancer trial. J Clin Oncol 26:1231-1238, 2008 7. Romond EH, Jeong JH, Rastogi P, et al: Seven-year follow-up assessment of cardiac function in NSABP B-31, a randomized trial comparing doxorubicin and cyclophosphamide followed by paclitaxel (ACP) with ACP plus trastuzumab as adjuvant therapy for patients with node-positive, human epi- 
+
+dermal growth factor receptor 2-positive breast cancer. J Clin Oncol 30:3792-3799, 2012 8. Goldhirsch A, Gelber RD, Piccart-Gebhart MJ, et al: 2 years versus 1 year of adjuvant trastuzumab for HER2-positive breast cancer (HERA): An open-label, randomised controlled trial. Lancet 382:1021-1028, 2013 9. Slamon D, Eiermann W, Robert N, et al: Adjuvant trastuzumab in HER2-positive breast cancer. N Engl J Med 365:1273-1283, 2011 10. Pivot X, Romieu G, Debled M, et al: 6 months versus 12 months of adjuvant trastuzumab for patients with HER2-positive early breast cancer (PHARE): A randomised phase 3 trial. Lancet Oncol 14:741-748, 2013 11. Perez EA, Suman VJ, Davidson NE, et al: Sequential versus concurrent trastuzumab in adjuvant chemotherapy for breast cancer. J Clin Oncol 29:4491-4497, 2011 
+
+Support Supported by Grants No. U10-CA25224 and CA129949 from the National Institutes of Health; Grants No. U10-CA12027, U10-CA69651, U10-CA37377, and U10-CA69974 from the National Surgical Adjuvant Breast and Bowel Project; by the Breast Cancer Research Foundation; and by Grant No. 35-03 from Genentech. P.A.K. received research funding from Cancer and Leukemia Group B. ■ ■ ■ 
+
+8 
+
+© 2014 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+Adjuvant Trastuzumab for HER2-Positive Breast Cancer 
+
+GLOSSARY TERMS 
+
+cumulative risk: a measure of risk of an event (usually disease occurrence) during a specified time period. 
+
+estrogen receptor (ER): ligand-activated nuclear proteins, belonging to the class of nuclear receptors, present in many breast cancer cells that are important in the progression of hormone-dependent cancers. After binding, the receptor-ligand complex activates gene transcription. There are two types of estrogen receptors (ER␣ and ER␤). ER␣ is one of the most important proteins controlling breast cancer function. ER␤ is present in much lower levels in breast cancer, and its function is uncertain. Estrogen receptor status guides therapeutic decisions in breast cancer. fluorescent in situ hybridization (FISH): in situ hydridization is a sensitive method generally used to detect specific gene sequences in tissue sections or cell preparations by hybridizing the complementary strand of a nucleotide probe to the sequence of interest. FISH uses a fluorescent probe to increase the sensitivity of in situ hybridization. 
+
+www.jco.org 
+
+monoclonal antibody: an antibody that is secreted from a single clone of an antibody-forming cell. Large quantities of monoclonal antibodies are produced from hybridomas, which are produced by fusing single antibody-forming cells to tumor cells. The process is initiated with initial immunization against a particular antigen, stimulating the production of antibodies targeted to different epitopes of the antigen. Antibody-forming cells are subsequently isolated from the spleen. By fusing each antibody-forming cell to tumor cells, hybridomas can each be generated with a different specificity and targeted against a different epitope of the antigen. overall survival: the duration between random assignment and death. progesterone receptor (PgR): nuclear proteins that are activated by the hormone progesterone in breast cancer cells that are hormonedependent. See estrogen receptor (ER). trastuzumab: a humanized anti-ErbB2 monoclonal antibody approved for treating patients whose breast cancers overexpress the ErbB2 protein or demonstrate ErbB2 gene amplification. It is currently being tested in combination with other therapies. 
+
+© 2014 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+9 
+
+Perez et al 
+
+Acknowledgment Presented in part at the 35th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 4-8, 2012. Appendix 
+
+NCCTG N9831 
+
+Arm A 
+
+AC (once every 3 weeks × 4) 
+
+T (once per week × 12) 
+
+Arm B 
+
+AC (once every 3 weeks × 4) 
+
+T (once per week × 12) 
+
+H (once per week × 52) 
+
+Arm C 
+
+AC (once every 3 weeks × 4) 
+
+T (once per week × 12) + H (once per week × 12) 
+
+H (once per week × 40) 
+
+Arm 1 
+
+AC (once every 3 weeks × 4) 
+
+T (once every 3 weeks × 4 or once per week × 12) 
+
+Arm 2 
+
+AC (once every 3 weeks × 4) 
+
+T (once every 3 weeks × 4 or once per week × 12) + H (once per week × 12) 
+
+ HT/RT 
+
+NSABP B-31 
+
+H (once per week × 40)  HT/RT 
+
+Fig A1. Protocol schemas. AC, doxorubicin and cyclophosphamide; H, trastuzumab; HT, hormonal therapy; NCCTG N9831, North Central Cancer Treatment Group NCCTG N9831 (Combination Chemotherapy With or Without Trastuzumab in Treating Women With HER2-Overexpressing Breast Cancer); NSABP B-31, National Surgical Adjuvant Breast and Bowel Project NSABP B-31 (Doxorubicin and Cyclophosphamide Plus Paclitaxel With or Without Trastuzumab in Treating Women With Node-Positive Breast Cancer That Overexpresses HER2); RT, radiation therapy; T, paclitaxel. 
+
+10 
+
+© 2014 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on October 23, Copyright © 2014 American Society of Clinical Oncology. All rights reserved. 2014 from 171.66.219.134 
+
+ 

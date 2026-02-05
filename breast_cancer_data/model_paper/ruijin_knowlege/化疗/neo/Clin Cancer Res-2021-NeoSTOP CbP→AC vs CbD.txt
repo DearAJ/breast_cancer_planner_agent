@@ -1,0 +1,871 @@
+HHS Public Access Author manuscript Author Manuscript 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. Published in final edited form as: Clin Cancer Res. 2021 February 15; 27(4): 975–982. doi:10.1158/1078-0432.CCR-20-3646. 
+
+Randomized phase II trial of anthracycline-free and anthracycline-containing neoadjuvant carboplatin chemotherapy regimens in stage I-III triple-negative breast cancer (NeoSTOP) 
+
+Author Manuscript 
+
+Priyanka Sharma1,*, Bruce F. Kimler2, Anne O’Dea1, Lauren Nye1, Yen Y. Wang3, Rachel Yoder3, Joshua M. Staley3, Lindsey Prochaska1, Jamie Wagner4, Amanda L. Amin4, Kelsey Larson4, Christa Balanoff4, Manana Elia1, Gregory Crane1, Sheshadri Madhusudhana5, Marc Hoffmann1, Maureen Sheehan1, Roberto Rodriguez6, Karissa Finke1, Rajvi Shah1, Deepti Satelli1, Anuj Shrestha7, Larry Beck8, Richard McKittrick1, Robert Pluenneke1, Vinay Raja1, Venkatadri Beeki1, Larry Corum9, Jaimie Heldstab3, Stephanie LaFaver3, Micki Prager3, Milind Phadnis10, Dinesh Pal Mudaranthakam10, Roy A. Jensen3,11, Andrew K. Godwin3,11, Roberto Salgado12,13, Kathan Mehta1, Qamar Khan1 1Department of Internal Medicine, University of Kansas Medical Center, Westwood, KS, USA 2Department of Radiation Oncology, University of Kansas Medical Center, Kansas City, KS, USA 3University of Kansas Cancer Center, Kansas City, KS, USA 4Department of Surgery, University of Kansas Medical Center, Kansas City, KS, USA 
+
+Author Manuscript 
+
+5Department of Internal Medicine, University of Missouri-Kansas City, Kansas City, MO, USA 6Department of Hematology, Hays Medical Center, Hays, KS, USA 7Richard & Annette Bloch Cancer Center, Truman Medical Center, Kansas City, MO, USA 8Tammy Walker Cancer Center, Salina Regional Health Center, Salina, KS, USA 9Olathe Cancer Care, Olathe Medical Center, Olathe, KS, USA 10Department of Biostatistics & Data Science, University of Kansas Medical Center, Kansas City, 
+
+KS, USA 11Department of Pathology & Laboratory Medicine, University of Kansas Medical Center, Kansas 
+
+City, KS, USA 12Division of Research, Peter MacCallum Cancer Centre, Melbourne, VIC, Australia 
+
+Author Manuscript 
+
+13Department of Pathology, GZA-ZNA Hospitals, Antwerp, Belgium 
+
+Abstract Purpose: Addition of carboplatin (Cb) to anthracycline chemotherapy improves pathologic complete response(pCR), and carboplatin plus taxane regimens also yield encouraging pCR rates 
+
+* 
+
+Corresponding author: Prof. Priyanka Sharma; Department of Internal Medicine, University of Kansas Medical Center, 2330 Shawnee Mission Parkway, MS 5003, Westwood, KS 66205; telephone: 001-913-588-6029; psharma2@kumc.edu. Conflict of interest: The authors declare no potential conflicts of interest. 
+
+Sharma et al. 
+
+Page 2 
+
+Author Manuscript 
+
+in TNBC. Aim of the NeoSTOP multisite randomized phase II trial was to assess efficacy of anthracycline-free and anthracycline-containing neoadjuvant carboplatin regimens. Experimental Design: Patients aged ≥18 years with stage I–III TNBC were randomized (1:1) to receive either paclitaxel(P) weekly X12 plus Cb AUC6 Q21 days X4 followed by doxorubicin/ cyclophosphamide(AC) Q14 days X4 (CbP→AC, Arm-A), or to Cb AUC6 + docetaxel(D) Q21 days X6 (CbD, Arm-B). Stromal tumor-infiltrating lymphocytes (sTILs) were assessed. Primary endpoint was pCR in breast and axilla. Other endpoints included RCB, toxicity, cost, and eventfree and overall survival. 
+
+Author Manuscript 
+
+Results: 100 patients were randomized; Arm-A (N=48) or Arm-B (N=52). pCR was 54% (95% CI:40%-69%) in Arm-A and 54% (95% CI:40%-68%) in Arm-B. RCB 0+I rate was 67% in both arms. Median sTILs density was numerically higher in those with pCR compared with residual disease (20% vs 5%, P=0.25). At median follow-up of 38 months, event-free and overall survival were similar in two arms. Grade 3/4 adverse events were more common in Arm-A compared to Arm-B, with the most notable differences in neutropenia (60% vs 8%, P<0.001) and febrile neutropenia (19% vs 0%, P<0.001). There was one treatment-related death (Arm-A) due to acute leukemia. Mean treatment cost was lower for Arm-B compared to Arm-A (P=0.02). Conclusions: Two-drug CbD regimen yields pCR, RCB 0+I, and survival rates similar to the four-drug regimen of CbP→AC, but with a more favorable toxicity profile and lower treatmentassociated cost. Keywords Triple-negative breast cancer; neoadjuvant chemotherapy; platinum agents; pathologic response; survival 
+
+Author Manuscript 
+
+Introduction Triple-negative breast cancer (TNBC), which is defined by the lack of expression of estrogen receptor (ER) and progesterone receptor (PgR) and absence of ERBB2 (HER2) overexpression and/or gene amplification, accounts for 15% of all breast cancers in the United States. TNBC is associated with inferior long-term outcomes compared to other breast cancer subtypes (1, 2). Systemic chemotherapy reduces the risk of death and recurrence in patients with TNBC and is recommended for TNBC patients with stage I (T>1cm)-III disease (3, 4). Pathological response to neoadjuvant chemotherapy is a very good surrogate for long-term outcomes. Attainment of pathological complete response (pCR) is associated with excellent long-term outcomes, and conversely, presence of residual disease is associated with high risk of recurrence in patients with TNBC (1, 5, 6). 
+
+Author Manuscript 
+
+Recent studies have demonstrated that addition of neoadjuvant carboplatin to anthracycline plus taxane regimen improves pCR rate in TNBC (7, 8). However, this improvement in pCR rate comes at the cost of increase in toxicity, and long-term benefits from the addition of neoadjuvant platinum to anthracycline plus taxane combinations in TNBC are not yet clear (9, 10). Thus, there is a growing interest in exploration of anthracycline-free carboplatin plus taxane-based neo/adjuvant chemotherapy regimens in TNBC. Anthracycline and cyclophosphamide-devoid chemotherapy regimens are also attractive in the curative setting, 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 3 
+
+Author Manuscript 
+
+since exposure to these agents is associated with small but serious late risks (secondary leukemia/myelodysplastic syndrome, cardiomyopathy) (11-13). Neoadjuvant carboplatin plus taxane regimens have demonstrated encouraging efficacy with a favorable toxicity profile in TNBC. WSG-ADAPT-TN trial demonstrated a pCR rate of 45.9% with a 12-week carboplatin plus nab-paclitaxel regimen, and an 18-week carboplatin plus docetaxel regimen also yielded a high pCR rate (55%) (14, 15). Importantly, patients achieving pCR with platinum-taxane regimens demonstrate excellent 3-year outcomes without adjuvant anthracycline (15-17). We hypothesized that carboplatin-containing anthracycline-free and anthracycline-based neoadjuvant chemotherapy regimens will yield comparable pCR rates in patients with stage I-III TNBC. 
+
+Author Manuscript 
+
+Patients and Methods Study Design NeoSTOP (Neoadjuvant Study Of Two Platinum Regimens in Stage I-III Triple Negative Breast Cancer, NCT02413320) was a phase II, randomized, open-label trial. Participants were enrolled at two academic and three community sites within the Kansas City metropolitan area and the state of Kansas. This study was conducted in accordance with the U.S. Common Rule and the International Ethical Guidelines for Biomedical Research Involving Human Subjects. The study was approved by the Human Subjects Committee at the University of Kansas Medical Center or the local institutional review board at each participating site, and all patients provided written informed consent. 
+
+Author Manuscript 
+
+Participants Eligible patients were females aged 18 years or older with stage I (T size >1 cm), II, or III TNBC who had not undergone definitive breast surgery and had not received systemic chemotherapy. Patients had to have adequate hematologic, hepatic, and renal function, and Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1. Patients were excluded if they had ongoing grade 2 or higher peripheral neuropathy, had ejection fraction <50% on ECHO or MUGA, or had inflammatory breast cancer. Triple negativity was defined as ER and PgR immunohistochemical (IHC) nuclear staining of ≤10% and HER2 negativity per 2013 ASCO/CAP guidelines (18). For patients with clinically/radiologically suspicious axillary lymph node/s, histologic confirmation by core needle biopsy or fine-needle aspiration was required prior to enrollment. 
+
+Author Manuscript 
+
+Study Procedures Patients were randomized (1:1, stratified by nodal status) to one of two study arms (Supplementary Figure 1; study schema): Arm A, CbP→AC (carboplatin AUC 6 every 3 weeks x 4 + paclitaxel 80 mg/m2 every week x 12, followed by doxorubicin 60 mg/m2 + cyclophosphamide 600 mg/m2 every 2 weeks x 4); or Arm B, CbD (carboplatin AUC 6 + docetaxel 75 mg/m2 every 21 days x 6). 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 4 
+
+Author Manuscript 
+
+Myeloid growth factor support (pegfilgrastim or equivalent) was administered with all four cycles of dose-dense AC in Arm A, and with all 6 cycles of CbD in Arm B. Myeloid growth factor support was permitted during the CbP phase of arm A but was not mandated. In terms of hematologic parameter requirements for chemotherapy administration, absolute neutrophil count (ANC) ≥1000/μL and platelet count ≥50,000/μL were required for the weekly paclitaxel administration during the CbP phase of Arm A. For the dose-dense AC phase of arm A and for all 6 cycles of arm B, ANC ≥1000/μL and platelet count ≥75,000/μL were required for cycle administration. During the CbP phase, skipped doses of paclitaxel were not made up prior to start of dose-dense AC. 
+
+Author Manuscript 
+
+Patients underwent definitive breast surgery after the conclusion of neoadjuvant chemotherapy. Axillary lymph node sampling at time of surgery was required in all patients, but the extent of axillary surgery was determined by the treating physician. Subsequent irradiation and postoperative adjuvant chemotherapy were also determined by the treating physician, and patients were followed for recurrence and survival. All patients were asked to complete a six-question travel and time analysis survey once during neoadjuvant treatment (information collected from this survey was used for cost analysis) (19). Germline BRCA1/2 testing was offered to patients based on standard clinical practice/NCCN guidelines, and commercially available tests were used for germline testing. Pathologic Evaluation 
+
+Author Manuscript 
+
+Pathologic response was determined locally, without central pathologic review. pCR was defined as the absence of residual invasive disease in the breast and axilla, with or without ductal carcinoma in situ (ypT0/isN0). Residual cancer burden (RCB) for all patients was calculated centrally (using parameters reported on individual patient pathology reports) using the classification by Symmans et al (20). Patients achieving pCR (RCB 0) or near-pCR (RCB I) are assessed within the group RCB 0+I. Common Terminology Criteria for Adverse Events (CTCAE) version 4.03 was used for toxicity assessment. Tumor-Infiltrating Lymphocytes Histopathologic determination of stromal tumor-infiltrating lymphocytes (sTILs) density was assessed using a single hematoxylin and eosin-stained invasive tumor section according to previously described criteria (21). The histopathologist who performed slide reviews (R.S.) was blinded to randomization and outcome information. sTILs density is reported as a percentage estimate in increments of 5%. Statistical Analysis 
+
+Author Manuscript 
+
+This is a randomized phase II study with primary endpoint of estimation of pCR in breast and axilla in the two study arms. Secondary endpoints included RCB and toxicity; cost and survival analysis were exploratory endpoints. Estimated pCR rate in each treatment arm was 50%, with upper bound constraints for the standard errors at 7.5% and the upper bound constraint for the standard error of the difference between pCR rates of the two arms at 12%, yielding a required sample size of 45 patients per treatment arm (22). To ensure 45 evaluable patients in each treatment arm, overall sample size was inflated to 100 patients. The pCR rates and RCB 0+I rates were estimated for both treatment arms and 95% exact binomial 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 5 
+
+Author Manuscript 
+
+confidence bounds calculated using the exact two-sided binomial test. The study was not powered to show superiority or equivalence of pCR in the two arms. Treatment-related toxicity and treatment delivery completion were assessed for each arm. Overall frequencies and percentages were summarized for demographic and clinico-pathological characteristics. Categorical variables were compared between treatment arms using Fisher’s exact test. Continuous variables were compared using Mann-Whitney U test. Logistic regression analysis was used to examine the effect of multiple variables on attainment of pathological response. Event-free survival (EFS) was defined as the time from diagnosis to first recurrence (invasive ipsilateral breast, invasive local/regional, or distant) or to breast cancerrelated death. Overall survival (OS) was defined as time from diagnosis to death as a result of any cause. Patients were censored on the date of last contact if an event had not been observed. Survival analysis was descriptive; survival curves were assessed by the KaplanMeier method and groups compared by the log-rank test. All analyses were conducted using SPSS Statistics version 25 (IBM Corporation, Armonk, NY). 
+
+Author Manuscript Author Manuscript 
+
+Cost analysis: Cost-minimization analysis was utilized since the efficacy of the two regimens was hypothesized to be similar (23). Direct and key indirect costs of neoadjuvant chemotherapy treatment were estimated, as were costs of patients’ transportation and loss of productivity associated with time spent for receipt of chemotherapy treatments. Direct costs were computed for all patients on an intention-to-treat basis. The cost of outpatient care associated with neoadjuvant treatment was calculated using the 2018 Medicare reimbursement rates for chemotherapeutic agents (including administration costs), chemotherapy premedication drugs, myeloid growth factors, provider office visits, and laboratory tests. Standard costs for treatment-related febrile neutropenia hospitalization and blood transfusion were used (24). Patient transportation costs (for chemotherapy treatment visits) were calculated using the 2018 IRS mileage rate, and lost productivity for time spent receiving chemotherapy infusion and travelling to chemotherapy treatment visits) was calculated using the 2018 median hourly wage for Kansas. Cost of care was reported as the mean cost for each treatment arm since, compared to median, arithmetic mean is a more informative measure of total healthcare costs and is also typically utilized for cost minimization assessment (25, 26). The mean combined cost of each regimen was compared using unpaired T-test. 
+
+Results Patient Characteristics 
+
+Author Manuscript 
+
+Between July 9, 2015 and May 18, 2018, 101 patients were enrolled and randomly assigned to Arm A (N=49) or Arm B (N=52). One patient randomized to arm A did not receive any study treatment (physician decision) and is not included in the intention-to-treat analysis (Supplementary Figure 2). Baseline demographic and tumor characteristics of the study population are summarized in Table 1. Median age was 51 years, 30% of patients had axillary lymph node-positive disease, and 16% had ER/PgR expression between 1% and 10%. Seventeen percent of the study population carried a deleterious BRCA1/2 mutation. Baseline demographic and tumor characteristics were balanced between the two arms (Table 1). 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 6 
+
+Pathological Response 
+
+Author Manuscript 
+
+Two patients (one each in arms A and B respectively) developed progressive disease during neoadjuvant chemotherapy and are counted as no pCR in the intent-to-treat analysis. Two patients in arm A did not undergo breast surgery (development of distant metastases while on neoadjuvant chemotherapy N=1, patient decision N=1) and are counted as no pCR. Rate of pCR was 54% (95% CI: 40%–69%) in Arm A and 54% (95% CI: 40%–68%) in Arm B. RCB 0+I rate was 67% in both arms (Figure 1). Among patients with RCB I-III disease, 30% of patients in Arm A and 38% in Arm B received adjuvant chemotherapy (P=0.752). On univariate logistic regression analysis, grade III histology was associated with higher likelihood of achieving a pCR (P=0.025). Presence of gBRCA mutation (P=0.052) and sTILs ≥20% (P=0.096) showed a trend towards higher pCR (Table 2). On multivariate logistic regression analysis, no factors were associated with pCR. 
+
+Author Manuscript 
+
+sTILs and Pathological Response sTILs information was available for 90/98 patients who underwent definitive surgery (tumor specimen was unavailable/inadequate for sTILs evaluation in N=8). Since median sTILs density and pCR were similar for the two arms (Table 1), both arms are combined for assessment of sTILs and pCR. Numerically higher sTILs were noted for patients with pCR compared to those with residual disease (median sTILs 20% vs 5%, P=0.25) (Supplementary Figure 3). 43% of patients demonstrated sTILs density ≥20% (48% in arm A; 40% in Arm B). sTILs density of ≥20% was associated with a trend towards higher pCR (pCR=67% vs. 49% in patients with sTILs ≥20% and <20%, respectively, P=0.098). Survival Outcomes 
+
+Author Manuscript 
+
+Figure 2 shows Kaplan-Meier curves for EFS and OS by study arm (panels A–B) and by pCR status (panels C–D). At a median follow-up of 38 months (range: 6-59 months) EFS and OS appeared similar in the two arms (panels A–B). Arm A and B are combined for assessment of pCR and survival outcomes. Patients achieving pCR demonstrated numerically better EFS and OS compared to patients without pCR (Figure 2, panel C–D). Estimated 3-year EFS was 100% and 81% (95% CI: 69–93%) in patients with and without pCR, respectively (log-rank P<0.003). Estimated 3-year OS was 100% and 86% (95% CI: 75%–96%) for patients with and without pCR, respectively (log-rank P<0.003). On multivariate Cox regression analysis (factors analyzed: study arm, nodal status, TNM stage, sTILs, pCR, grade), only pCR status was associated with EFS (log-rank P<0.001) and OS (log-rank P=0.003). 
+
+Author Manuscript 
+
+Toxicity and Treatment Completion Grade 3/4 adverse events were more common in Arm A than in Arm B (73% vs 21%, P<0.0001), with the most notable differences seen in the rates of neutropenia, febrile neutropenia, and anemia (Table 3). All episodes of anemia were grade 3. In arm A, 44% (21/48) of patients received filgrastim support during the CbP phase and 17% (8/48) of patients received red blood cell transfusion (all during the dose-dense AC phase). 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 7 
+
+Author Manuscript 
+
+In arm A, 72% of patients completed 10 or more doses of paclitaxel, and 85% completed all four doses of carboplatin. Ninety-two percent of arm B patients completed all 6 cycles of CbD treatment (Supplementary Figure 4). One patient in Arm A developed secondary acute myeloid leukemia 23 months after completion of neoadjuvant chemotherapy and succumbed to the leukemia at age 53. No treatment-related deaths occurred in Arm B. Cost Analysis The mean total cost of neoadjuvant treatment (treatment costs plus patient transportation and lost productivity costs) was lower in Arm B compared to Arm A (Arm B=$33,148, Arm A= $36,720; P=0.02). 
+
+Author Manuscript 
+
+Discussion The NeoSTOP study demonstrates that a non-anthracycline two-drug regimen of CbD yields pCR and RCB 0+I rates similar to the four-drug regimen of CbP followed by AC, but with a much more favorable toxicity profile, higher treatment completion rates, and lower health care costs. We also show that event-free and overall survival appear broadly similar in the two arms. 
+
+Author Manuscript Author Manuscript 
+
+Anthracyclines and cyclophosphamide, although highly active for treatment of breast cancer, carry established small but serious long-term risks (secondary leukemia/myelodysplastic syndrome, cardiomyopathy) (11-13). Indeed, in our study there was one fatal case of secondary leukemia in the anthracycline arm. The carboplatin/docetaxel regimen minimizes these serious long-term toxicities. Rates of pCR noted in this trial with CbP followed by AC (54%) are in line with what has been reported in previous randomized trials with this regimen (pCR rate of 54% and 58% in CALGB 40603 and BrighTNess trials, respectively) (8, 9). A pCR rate of 54% with 6 cycles of CbD is also consistent with previous reports and appears to be numerically higher than those reported in several trials using classical neoadjuvant anthracycline–taxane combinations, in which 28% to 39% of patients with TNBC achieved pCR (15, 27-29). Compared to some contemporary neoadjuvant trials, NeoSTOP included a lower-risk population (17% with stage I disease), which could be impacting the observed pCR rates. However, sensitivity analysis after exclusion of patients with stage I disease shows no change in pCR rates in the two arms (Arm A=54%, Arm B=50%). Since this study enrolled patients at a few institutions within the United States, the proportion of patients with node-positive disease in NeoSTOP (30%) is slightly lower compared to other contemporary larger international trials (43% in BrighTNess).(8) In our study, patients who achieved pCR (on either arm) did not receive further adjuvant chemotherapy, and patients with residual disease received adjuvant chemotherapy per recommendation of treating physicians. Our observed excellent EFS and OS among patients achieving pCR and poor outcomes among those with residual disease are in line with published literature (1, 5, 6). Given the small trial size, these survival results should be viewed with caution. A larger neoadjuvant study of CbD regimen (N=190) has previously reported that patients who achieve pCR demonstrate excellent 3-year RFS (90%) and OS 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 8 
+
+Author Manuscript 
+
+(94%) without adjuvant anthracycline, thus indicating that patients achieving pCR with this regimen can safely avoid anthracycline (16). 
+
+Author Manuscript 
+
+Although it provides intriguing data in support of a neoadjuvant carboplatin/taxane regimen, our study does have some limitations. Although randomized, this is a small phase II trial and was not designed as a non-inferiority study. The logical next step would be to confirm these findings in a phase III trial. However, an appropriately powered phase III trial to show noninferiority of the two chemotherapy regimens would require a sample size exceeding 2,500 patients. In the current era, where the majority of clinical research investigations in TNBC are focused on newer agents (immune checkpoint inhibitors, agents targeting the PI3K/AKT pathway, etc.), a trial evaluating equivalence of two clinically available regimens of conventional chemotherapy is unlikely to be appealing to patients or engage traction within funding agencies. The present study was also not designed to address merits of inclusion or exclusion of neoadjuvant carboplatin and thus cannot provide any insights into that question. However, in situations where the decision to include carboplatin in the neoadjuvant treatment has been made, our study does provide evidence for effectiveness of an anthracycline-free two-drug alternative with seemingly similar efficacy, but a better toxicity profile compared to the four-drug option. This regimen also provides an effective alternative for patients who need neoadjuvant chemotherapy but are not candidates for anthracyclines. 
+
+Author Manuscript 
+
+The tumor immune microenvironment plays an important role in prognosis and response to chemotherapy for TNBC. Multiple studies have confirmed the association between increasing sTILs in pre-treatment tumor tissue and higher pCR plus improved long-term outcomes, and this observation spans across different chemotherapy regimens among several trials (30-34). In our study, although there was a numeric association between sTILs and pCR, this difference was not statistically significant, probably due to the small sample size. Interestingly, in a setting of platinum-based chemotherapy we noted a quite robust pCR rate of almost 70% in patients with baseline sTILs density of ≥20%. These findings suggest that baseline sTILs can identify patients with high likelihood of pCR who can potentially be considered for treatment de-escalation trials (e.g. omission of immunotherapy, de-escalation of chemotherapy regimen/duration). Additional translational studies on pretreatment tumor tissue and blood to explore biomarkers predictive of pathological response are ongoing. 
+
+Author Manuscript 
+
+The toxicity profile of CbP followed by AC observed in our study is comparable to what has been previously reported with this regimen. In the recent BrighTNess trial, the rate of grade 3-4 anemia was 17% (during the CbP phase of treatment; rate during the entire treatment not reported), and the rate of febrile neutropenia was also 17%. Addition of carboplatin to weekly paclitaxel is known to be associated with reduced number of paclitaxel doses administered (8, 9). In our trial, the carboplatin and paclitaxel phase of arm A was to be completed within a period of 12 weeks per protocol. Paclitaxel dose administration with this schedule can be improved by extending the allowable time beyond 12 weeks. The BrighTNess trial allowed administration of carboplatin and paclitaxel to extend over 16 weeks, which led to a higher proportion of paclitaxel doses administered. Tolerance of the CbD regimen used in this study was good and was consistent with previous reports (15, 16). Cost analysis suggests that CbD regimen is associated with lower health care cost compared to CbP followed by AC. We report better tolerability of CbD over CbP followed by AC 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 9 
+
+Author Manuscript 
+
+using conventional CTCAE toxicity; however, patient-reported outcomes were not collected in the study, thus we are unable to provide any insight on patient perspective regarding toxicities of the two regimens. 
+
+Author Manuscript 
+
+Given its good tolerance, the CbD chemotherapy backbone is also well suited for treatment escalation trials where additional agents (e.g. checkpoint inhibitors) are combined with chemotherapy. Recently, results from the KEYNOTE-522 study show that the addition of pembrolizumab (an anti–programmed death 1 (PD-1) monoclonal antibody) to carboplatin plus paclitaxel followed by anthracycline-based chemotherapy significantly improved pCR from 51.2% to 64.8% in patients with stage II or III TNBC (35). Given the similar pCR noted with CbP followed by AC and CbD regimens in our study, the more tolerable CbD regimen can also serve as an excellent alternative neoadjuvant backbone for immunotherapy combinations. An ongoing phase II trial is assessing 6 cycles of CbD plus pembrolizumab in stage I-III TNBC (NCT03639948). In summary, we provide evidence that for patients with early-stage TNBC, carboplatin plus docetaxel regimen achieves encouraging pCR and survival rates which appear similar to those of taxane-carboplatin plus AC, yet with lower patient and financial toxicity. This regimen provides a safe alternative for patients who are not candidates for anthracyclines and should also be explored further for neoadjuvant chemotherapy de-escalation strategies. 
+
+Supplementary Material Refer to Web version on PubMed Central for supplementary material. 
+
+Acknowledgments Author Manuscript 
+
+Financial support: This work was supported by the University of Kansas Cancer Center pilot grant; the Cancer Center Support Grant to the University of Kansas Cancer Center [P30 CA168524] (Biospecimen Repository Core Facility); the Breast Cancer Research Foundation [17-194] to RS; and the National Institute of General Medical Sciences [P20 GM130423] to AKG. 
+
+References: 
+
+Author Manuscript 
+
+1. Liedtke C, Mazouni C, Hess KR, Andre F, Tordai A, Mejia JA, et al. Response to neoadjuvant therapy and long-term survival in patients with triple-negative breast cancer. J Clin Oncol. 2008;26(8):1275–81. [PubMed: 18250347] 2. Dent R, Trudeau M, Pritchard KI, Hanna WM, Kahn HK, Sawka CA, et al. Triple-negative breast cancer: clinical features and patterns of recurrence. Clin Cancer Res. 2007;13(15 Pt 1):4429–34. [PubMed: 17671126] 3. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology: breast cancer2019 5 23, 2019 Available from: https://www.nccn.org/professionals/physician_gls/pdf/ breast.pdf. 4. Burstein HJ, Curigliano G, Loibl S, Dubsky P, Gnant M, Poortmans P, et al. Estimating the benefits of therapy for early-stage breast cancer: the St. Gallen International Consensus Guidelines for the primary therapy of early breast cancer 2019. Ann Oncol. 2019;30(10):1541–57. [PubMed: 31373601] 5. Cortazar P, Geyer CE. Pathological complete response in neoadjuvant treatment of breast cancer. Ann Surg Oncol. 2015;22(5):1441–6. [PubMed: 25727556] 6. I-SPY2 Trial Consortium. Association of event-free and distant recurrence-free survival with individual-level pathologic complete response in neoadjuvant treatment of stages 2 and 3 breast 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 10 
+
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript 
+
+cancer: three-year follow-up analysis for the I-SPY2 adaptively randomized clinical trial. JAMA Oncol. 2020. 7. von Minckwitz G, Schneeweiss A, Loibl S, Salat C, Denkert C, Rezai M, et al. Neoadjuvant carboplatin in patients with triple-negative and HER2-positive early breast cancer (GeparSixto; GBG 66): a randomised phase 2 trial. Lancet Oncol. 2014;15(7):747–56. [PubMed: 24794243] 8. Loibl S, O'Shaughnessy J, Untch M, Sikov WM, Rugo HS, McKee MD, et al. Addition of the PARP inhibitor veliparib plus carboplatin or carboplatin alone to standard neoadjuvant chemotherapy in triple-negative breast cancer (BrighTNess): a randomised, phase 3 trial. Lancet Oncol. 2018;19(4):497–509. [PubMed: 29501363] 9. Sikov W, Berry D, Perou C, Singh B, Cirrincione C, Tolaney S, et al. Event-free and overall survival following neoadjuvant weekly paclitaxel and dose-dense AC +/− carboplatin and/or bevacizumab in triple-negative breast cancer: Outcomes from CALGB 40603 (Alliance) [abstract]. Cancer Res. 2016;76(4 Supplement):Abstract S2–05. 10. Hahnen E, Lederer B, Hauke J, Loibl S, Krober S, Schneeweiss A, et al. Germline mutation status, pathological complete response, and disease-free survival in triple-negative breast cancer: secondary analysis of the GeparSixto randomized clinical trial. JAMA Oncol. 2017;3(10):1378– 85. [PubMed: 28715532] 11. Wolff AC, Blackford AL, Visvanathan K, Rugo HS, Moy B, Goldstein LJ, et al. Risk of marrow neoplasms after adjuvant breast cancer therapy: the national comprehensive cancer network experience. J Clin Oncol. 2015;33(4):340–8. [PubMed: 25534386] 12. Khouri MG, Douglas PS, Mackey JR, Martin M, Scott JM, Scherrer-Crosbie M, et al. Cancer therapy-induced cardiac toxicity in early breast cancer: addressing the unresolved issues. Circulation. 2012;126(23):2749–63. [PubMed: 23212997] 13. Tan TC, Neilan TG, Francis S, Plana JC, Scherrer-Crosbie M. Anthracycline-induced cardiomyopathy in adults. Compr Physiol. 2015;5(3):1517–40. [PubMed: 26140726] 14. Gluz O, Nitz U, Liedtke C, Christgen M, Grischke EM, Forstbauer H, et al. Comparison of neoadjuvant nab-paclitaxel+carboplatin vs nab-paclitaxel+gemcitabine in triple-negative breast cancer: randomized WSG-ADAPT-TN trial results. J Natl Cancer Inst. 2018;110(6). 15. Sharma P, Lopez-Tarruella S, Garcia-Saenz JA, Ward C, Connor CS, Gomez HL, et al. Efficacy of neoadjuvant carboplatin plus docetaxel in triple negative breast cancer: combined analysis of two cohorts. Clin Cancer Res. 2017;23(3):649–57. [PubMed: 27301700] 16. Sharma P, Lopez-Tarruella S, Garcia-Saenz JA, Khan QJ, Gomez H, Prat A, et al. Pathological response and survival in triple-negative breast cancer following neoadjuvant carboplatin plus docetaxel. Clin Cancer Res. 2018;24(23):5820–9. [PubMed: 30061361] 17. Gluz O, Kolberg-Liedtke C, Prat A, Christgen M, Gebauer D, Kates R, et al. Efficacy of deescalated chemotherapy according to PAM50 subtypes, immune and proliferation genes in triple-negative early breast cancer: primary translational analysis of the WSG-ADAPT-TN trial. Int J Cancer. 2020;146(1):262–71. [PubMed: 31162838] 18. Wolff AC, Hammond MEH, Hicks DG, Dowsett M, McShane LM, Allison KH, et al. Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update. J Clin Oncol. 2013;31(31):3997–4013. [PubMed: 24101045] 19. Frew E, Wolstenholme JL, Atkin W, Whynes DK. Estimating time and travel costs incurred in clinic based screening: flexible sigmoidoscopy screening for colorectal cancer. J Med Screen. 1999;6(3):119–23. [PubMed: 10572841] 20. Symmans WF, Peintinger F, Hatzis C, Rajan R, Kuerer H, Valero V, et al. Measurement of residual breast cancer burden to predict survival after neoadjuvant chemotherapy. J Clin Oncol. 2007;25(28):4414–22. [PubMed: 17785706] 21. Salgado R, Denkert C, Demaria S, Sirtaine N, Klauschen F, Pruneri G, et al. The evaluation of tumor-infiltrating lymphocytes (TILs) in breast cancer: recommendations by an International TILs Working Group 2014. Ann Oncol. 2015;26(2):259–71. [PubMed: 25214542] 22. Mayo MS, Mahnken JD, Soong SJ. Optimal designs for two-arm, phase II clinical trial design with multiple constraints. J Biopharm Stat. 2010;20(1):106–24. [PubMed: 20077252] 
+
+Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 11 
+
+Author Manuscript Author Manuscript Author Manuscript 
+
+23. Drummond M, Sculpher M. Common methodological flaws in economic evaluations. Med Care. 2005;43(7 Suppl):5–14. [PubMed: 16056003] 24. Tai E, Guy GP, Dunbar A, Richardson LC. Cost of cancer-related neutropenia or fever hospitalizations, United States, 2012. J Oncol Pract. 2017;13(6):e552–e61. [PubMed: 28437150] 25. Thompson SG, Barber JA. How should cost data in pragmatic randomised trials be analysed? BMJ. 2000;320(7243):1197–200. [PubMed: 10784550] 26. Fair Health Consumer [Internet]. 2019 [cited November 8, 2019]. Available from: https:// www.fairhealthconsumer.org/. 27. Sikov WM, Berry DA, Perou CM, Singh B, Cirrincione CT, Tolaney SM, et al. Impact of the addition of carboplatin and/or bevacizumab to neoadjuvant once-per-week paclitaxel followed by dose-dense doxorubicin and cyclophosphamide on pathologic complete response rates in stage II to III triple-negative breast cancer: CALGB 40603 (Alliance). J Clin Oncol. 2015;33(1):13–21. [PubMed: 25092775] 28. Arun B, Bayraktar S, Liu DD, Gutierrez Barrera AM, Atchley D, Pusztai L, et al. Response to neoadjuvant systemic therapy for breast cancer in BRCA mutation carriers and noncarriers: a single-institution experience. J Clin Oncol. 2011;29(28):3739–46. [PubMed: 21900106] 29. Esserman LJ, Berry DA, DeMichele A, Carey L, Davis SE, Buxton M, et al. Pathologic complete response predicts recurrence-free survival more effectively by cancer subset: results from the ISPY 1 TRIAL--CALGB 150007/150012, ACRIN 6657. J Clin Oncol. 2012;30(26):3242–9. [PubMed: 22649152] 30. Denkert C, Loibl S, Noske A, Roller M, Muller BM, Komor M, et al. Tumor-associated lymphocytes as an independent predictor of response to neoadjuvant chemotherapy in breast cancer. J Clin Oncol. 2010;28(1):105–13. [PubMed: 19917869] 31. Denkert C, von Minckwitz G, Brase JC, Sinn BV, Gade S, Kronenwett R, et al. Tumor-infiltrating lymphocytes and response to neoadjuvant chemotherapy with or without carboplatin in human epidermal growth factor receptor 2–positive and triple-negative primary breast cancers. J Clin Oncol. 2015;33(9):983–91. [PubMed: 25534375] 32. Loibl S, Untch M, Burchardi N, Huober J, Sinn BV, Blohmer JU, et al. A randomised phase II study investigating durvalumab in addition to an anthracycline taxane-based neoadjuvant therapy in early triple-negative breast cancer: clinical results and biomarker analysis of GeparNuevo study. Ann Oncol. 2019;30(8):1279–88. [PubMed: 31095287] 33. Sharma P, Barlow W, Godwin AK, Parkes EE, Knight L, Walker S, et al. Validation of the DNA damage immune response signature in patients with triple-negative breast cancer from the SWOG 9313c trial. J Clin Oncol. 2019;37(36):3484–92. [PubMed: 31657982] 34. Gluz O, Nitz U, Liedtke C, Prat A, Christgen M, Feuerhake F, et al. No survival benefit of chemotherapy escalation in patients with pCR and “high-immune” triple-negative early breast cancer in the neoadjuvant WSG-ADAPT-TN trial [abstract]. Cancer Res. 2019;79(4 Suppl):Abstr GS5–06. 35. Schmid P, Cortes J, Pusztai L, McArthur H, Kummel S, Bergh J, et al. Pembrolizumab for early triple-negative breast cancer. N Engl J Med. 2020;382(9):810–21. [PubMed: 32101663] 
+
+Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 12 
+
+Author Manuscript 
+
+Statement of Translational Relevance 
+
+Author Manuscript 
+
+Addition of neoadjuvant carboplatin to anthracycline-based chemotherapy improves rate of pathological complete response (pCR) in TNBC, yet long-term benefits are not clear. Anthracycline-free platinum-taxane neoadjuvant regimens have also demonstrated encouraging pCR and survival. The carboplatin plus docetaxel (CbD) regimen employed in this randomized study resulted in similar rates of pCR and RCB 0+I as the anthracycline-containing regimen of carboplatin plus paclitaxel followed by doxorubicin plus cyclophosphamide (CbP→AC) but with a more favorable toxicity profile. Furthermore, event-free and overall survival were also similar between the two treatment arms. The CbD regimen serves as a tolerable, effective alternative for patients who are not candidates for anthracyclines and may also serve as a good backbone both for the addition of novel anti-cancer agents as well as for neoadjuvant treatment de-escalation trials. 
+
+Author Manuscript Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 13 
+
+Author Manuscript Author Manuscript Figure 1: 
+
+Author Manuscript 
+
+Pathological response by study arm. Error bars represent 95% confidence intervals. *RCB index not available for two patients in Arm A who did not undergo surgery (patient decision N=1; identification of distant metastases prior to surgery N=1). These two patients are counted as no pCR. Abbreviations: pCR, pathological complete response; RCB, residual cancer burden; CbP→AC, carboplatin plus paclitaxel followed by doxorubicin and cyclophosphamide; CbD, carboplatin plus docetaxel. 
+
+Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 14 
+
+Author Manuscript Author Manuscript Author Manuscript 
+
+Figure 2: 
+
+Kaplan-Meier curves for event-free survival and overall survival by study arm (panels A–B) and by pCR status (panels C–D). Abbreviation: pCR, pathological complete response. 
+
+Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 15 
+
+Table 1. 
+
+Author Manuscript 
+
+Demographic and tumor characteristics All Patients (N=100) 
+
+Characteristic 
+
+Arm A (N=48) 
+
+Arm B (N=52) 
+
+P 
+
+Age at diagnosis, years – median (range) 
+
+51 (29-70) 
+
+51 (32-69) 
+
+54 (29-70) 
+
+0.34 
+
+Tumor size, mm – median (range) 
+
+27 (10-110) 
+
+25 (11-110) 
+
+28 (10-91) 
+
+0.78 
+
+Race – N (%) 
+
+White 
+
+71 (71%) 
+
+35 (73%) 
+
+36 (69%) 
+
+Black 
+
+19 (19%) 
+
+9 19%) 
+
+10 (19%) 
+
+Asian 
+
+3 (3%) 
+
+2 (4%) 
+
+1 (2%) 
+
+Other 
+
+7 (7%) 
+
+2 (4%) 
+
+5 (10%) 
+
+0.68 
+
+Ethnicity 
+
+Hispanic 
+
+2 (2%) 
+
+1 (2%) 
+
+1 (2%) 
+
+Non-Hispanic 
+
+98 (98%) 
+
+47 (98%) 
+
+51 (98%) 
+
+1.00 Histological grade 
+
+Author Manuscript 
+
+T stage 
+
+Lymph node status 
+
+1 
+
+0 (0%) 
+
+0 (0%) 
+
+0 (0%) 
+
+2 
+
+13 (13%) 
+
+7 (15%) 
+
+6 (12%) 
+
+3 
+
+87 (87%) 
+
+41 (85%) 
+
+46 (88%) 
+
+T1 
+
+19 (19%) 
+
+11 (23%) 
+
+8 (15%) 
+
+T2 
+
+70 (70%) 
+
+31 (65%) 
+
+39 (75%) 
+
+T 3-4 
+
+11 (11%) 
+
+6 (12%) 
+
+5 (10%) 
+
+Negative 
+
+70 (70%) 
+
+34 (71%) 
+
+36 (69%) 
+
+Positive 
+
+30 (30%) 
+
+14 (29%) 
+
+16 (31%) 
+
+0% 
+
+84 (84%) 
+
+39 (81%) 
+
+45 (87%) 
+
+1-10% 
+
+16 (16%) 
+
+9 (19%) 
+
+7 (13%) 
+
+10 (1-95) 
+
+15 (1-95) 
+
+10 (1-95) 
+
+<20% 
+
+51 (57%) 
+
+22 (52%) 
+
+29 (60%) 
+
+≥20% 
+
+39 (43%) 
+
+20 (48%) 
+
+19 (40%) 
+
+Absent 
+
+65 (65%) 
+
+33 (69%) 
+
+32 (62%) 
+
+Present 
+
+17 (17%) 
+
+7 (15%) 
+
+10 (19%) 
+
+Unknown 
+
+18 (18%) 
+
+8 (17%) 
+
+10 (19%) 
+
+Lumpectomy 
+
+48 (49%) 
+
+25 (54%) 
+
+23 (44%) 
+
+Mastectomy 
+
+50 (51%) 
+
+21 (46%) 
+
+29 (56%) 
+
+0.77 
+
+0.46 
+
+1.00 ER/PgR IHC 
+
+a 
+
+sTILs, % – median (range) sTILs 
+
+a 
+
+0.59 
+
+0.48 0.52 
+
+Author Manuscript 
+
+Germline BRCA1/2 mutation 
+
+b 
+
+Surgery type 
+
+a 
+
+0.77 
+
+0.42 
+
+sTILs data available for N=90 patients (42 in Arm A, 48 in Arm B). 
+
+b 
+
+Two patients in Arm A did not undergo surgery (patient decision N=1; identification of distant metastases prior to surgery N=1) and are counted as no pCR. 
+
+Abbreviations: ER/PgR, estrogen receptor/progesterone receptor; IHC, immunohistochemistry; sTILs, stromal tumor-infiltrating lymphocytes. 
+
+Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 16 
+
+Table 2. 
+
+Author Manuscript 
+
+Predictors of pCR on Univariate analysis pCR n/N 
+
+OR 
+
+≤50 y 
+
+25/45 
+
+1 
+
+>50 y 
+
+29/55 
+
+0.89 
+
+95% CI 
+
+a P 
+
+0.40–1.97 
+
+0.778 
+
+0.41–2.27 
+
+0.930 
+
+0.12–1.63 
+
+0.222 
+
+0.37–3.63 
+
+0.799 
+
+0.99–11.37 
+
+0.052 
+
+1.21–18.38 
+
+0.025 
+
+0.88–4.93 
+
+0.096 
+
+0.45–2.17 
+
+0.974 
+
+Age 
+
+Lymph node status Negative 
+
+38/70 
+
+1 
+
+Positive 
+
+16/30 
+
+0.96 
+
+T 1-2 
+
+50/89 
+
+1 
+
+T 3-4 
+
+4/11 
+
+0.45 
+
+I/II 
+
+46/86 
+
+1 
+
+III 
+
+8/14 
+
+1.16 
+
+T stage 
+
+Author Manuscript 
+
+TNM stage 
+
+gBRCA mutation 
+
+b 
+
+Negative 
+
+32/65 
+
+1 
+
+Positive 
+
+13/17 
+
+3.35 
+
+Histological grade Grade 1/2 
+
+3/13 
+
+1 
+
+Grade 3 
+
+51/87 
+
+4.72 
+
+c 
+
+sTILs 
+
+Author Manuscript 
+
+<20% 
+
+25/51 
+
+1 
+
+≥20% 
+
+26/39 
+
+2.08 
+
+Arm A 
+
+26/48 
+
+1 
+
+Arm B 
+
+28/52 
+
+0.99 
+
+Study arm 
+
+a 
+
+Odds ratios (ORs) and 2-sided p-values by logistic regression. 
+
+b 
+
+gBRCA mutation data available for N=82 patients (40 in Arm A, 42 in Arm B). 
+
+c 
+
+sTILs data available for N=90 patients (42 in Arm A, 48 in Arm B). 
+
+Abbreviations: OR, odds ratio; pCR, pathological complete response; sTILs, stromal tumor-infiltrating lymphocytes. 
+
+Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+Sharma et al. 
+
+Page 17 
+
+Table 3. 
+
+Author Manuscript 
+
+Grade 3 and 4 treatment-related toxicities 
+
+Author Manuscript 
+
+Adverse Events 
+
+Arm A (CbP→AC) N (%) 
+
+Arm B (CbD) N (%) 
+
+P 
+
+Anemia 
+
+a 
+
+22 (46%) 
+
+2 (4%) 
+
+0.0001 
+
+Neutropenia 
+
+29 (60%) 
+
+4 (8%) 
+
+0.0001 
+
+8 (17%) 
+
+2 (4%) 
+
+0.05 
+
+Febrile neutropenia 
+
+9 (19%) 
+
+0 
+
+<0.001 
+
+Hypokalemia 
+
+2 (4%) 
+
+1 (2%) 
+
+0.61 
+
+Hyponatremia 
+
+2 (4%) 
+
+1 (2%) 
+
+1 
+
+Nausea 
+
+1 (2%) 
+
+0 
+
+0.48 
+
+Constipation 
+
+1 (2%) 
+
+0 
+
+0.48 
+
+Diarrhea 
+
+1 (2%) 
+
+4 (8%) 
+
+0.36 
+
+Fatigue 
+
+1 (2%) 
+
+0 
+
+0.48 
+
+Pain 
+
+1 (2%) 
+
+1 (2%) 
+
+1 
+
+Peripheral sensory neuropathy 
+
+2 (4%) 
+
+0 
+
+0.23 
+
+0 
+
+2 (4%) 
+
+0.50 
+
+3 (6%) 
+
+0 
+
+0.23 
+
+Thrombocytopenia 
+
+b 
+
+Rash Infection 
+
+a 
+
+There were no episodes of grade 4 anemia in either arm. 
+
+b 
+
+All episodes of febrile neutropenia occurred during the dose-dense AC phase. 
+
+Abbreviations: CbP→AC, carboplatin plus paclitaxel followed by doxorubicin and cyclophosphamide; CbD, carboplatin plus docetaxel. 
+
+Author Manuscript Author Manuscript Clin Cancer Res. Author manuscript; available in PMC 2021 August 15. 
+
+ 

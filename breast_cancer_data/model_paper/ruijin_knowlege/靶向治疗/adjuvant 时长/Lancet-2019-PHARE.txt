@@ -1,0 +1,777 @@
+Articles 
+
+6 months versus 12 months of adjuvant trastuzumab in early breast cancer (PHARE): final analysis of a multicentre, open-label, phase 3 randomised trial Xavier Pivot, Gilles Romieu, Marc Debled, Jean-Yves Pierga, Pierre Kerbrat, Thomas Bachelot, Alain Lortholary, Marc Espié, Pierre Fumoleau, Daniel Serin, Jean-Philippe Jacquin, Christelle Jouannaud, Maria Rios, Sophie Abadie-Lacourtoisie, Laurence Venat-Bouvet, Laurent Cany, Stéphanie Catala, David Khayat, Laetitia Gambotti, Iris Pauporté, Celine Faure-Mercier, Sophie Paget-Bailly, Julie Henriques, Jean Marie Grouin, PHARE trial investigators* 
+
+Summary 
+
+Background In 2013, the interim analysis of the Protocol for Herceptin as Adjuvant therapy with Reduced Exposure (PHARE) trial could not show that 6 months of adjuvant trastuzumab was non-inferior to 12 months. Here, we report the planned final analysis based on the prespecified number of occurring events. Methods PHARE is an open-label, phase 3, non-inferiority randomised trial of patients with HER2-positive early breast cancer comparing 6 months versus 12 months of trastuzumab treatment concomitant with or following standard neoadjuvant or adjuvant chemotherapy. The study was undertaken in 156 centres in France. Eligible patients were women aged 18 years or older with non-metastatic, operable, histologically confirmed adenocarcinoma of the breast and either positive axillary nodes or negative axillary nodes but a tumour of at least 10 mm. Participants must have received at least four cycles of a chemotherapy for this breast cancer and have started receiving adjuvant trastuzumab-treatment. Eligible patients were randomly assigned to either 6 months or 12 months of trastuzumab therapy duration between the third and sixth months of adjuvant trastuzumab. The randomisation was stratified by concomitant or sequential treatment with chemotherapy, oestrogen receptor status, and centre. The primary objective was non-inferiority in the intention-to-treat population in the 6-month group in terms of disease-free survival with a prespecified hazard margin of 1·15. This trial is registered with ClinicalTrials.gov, number NCT00381901. Findings 3384 patients were enrolled and randomly assigned to either 12 months (n=1691) or 6 months (n=1693) of adjuvant trastuzumab. One patient in the 12-month group and three patients in the 6-month group were excluded, so 1690 patients in each group were included in the intention-to-treat analysis. At a median follow-up of 7·5 years (IQR 5·3–8·8), 704 events relevant to disease-free survival were observed (345 [20·4%] in the 12-month group and 359 [21·2%] in the 6-month group). The adjusted hazard ratio for disease-free survival in the 12-month group versus the 6-month group was 1·08 (95% CI 0·93–1·25; p=0·39). The non-inferiority margin was included in the 95% CI. No differences in effects pertaining to trastuzumab duration were found in any of the subgroups. After the completion of trastuzumab treatment, rare adverse events occurred over time and the safety analysis remained similar to the previously published report. In particular, we found no change in the cardiac safety comparison, and only three additional cases in which the left ventricular ejection fraction decreased to less than 50% have been reported in the 12-month group. Interpretation The PHARE study did not show the non-inferiority of 6 months versus 12 months of adjuvant trastuzumab. Hence, adjuvant trastuzumab standard duration should remain 12 months. Funding The French National Cancer Institute. Copyright © 2019 Elsevier Ltd. All rights reserved. 
+
+Introduction Several large randomised clinical trials1–7 have shown that 1 year of trastuzumab reduces the risk of relapse and death for patients with HER2-positive early breast cancer compared with observation. This 1-year treat­ ment dura­tion has been challenged by several published and ongoing trials. The assessment of a longer 2-year duration of trastuzumab in the HERA trial8 did not show any sig­ nificant benefit. A few studies9–13 have assessed a shorter duration of adjuvant trastuzumab, 
+
+but the findings have not changed the 1-year standard of care. In 2012, the first analysis9 of the Protocol for Herceptin as Adjuvant therapy with Reduced Exposure (PHARE) trial did not show that 6 months of adjuvant trastuzumab was non-inferior to 12 months. This first efficacy analysis was re­ quested by the Independent Data Monitoring Committee (IDMC) at a meeting held in May, 2011, because of concerns regarding negative efficacy signals. Of note, the 2012 analysis9 was based on 394 events and hence was not powered to assess 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+Published Online June 6, 2019 http://dx.doi.org/10.1016/ S0140-6736(19)30653-1 See Online/Comment http://dx.doi.org/10.1016/ S0140-6736(19)30946-8 *Additional investigators of the PHARE trial are listed in the appendix Centre Paul Strauss, Strasbourg, France (Prof X Pivot MD); Centre Val d’Aurelle, Montpellier, France (G Romieu MD); Institut Bergonié, Bordeaux, France (M Debled MD); Institut Curie, University Paris Descartes, Paris, France (Prof J-Y Pierga MD); Centre Eugene Marquis, Rennes, France (Prof P Kerbrat MD); Centre Léon Bérard, Lyon, France (T Bachelot MD); Centre Catherine de Sienne, Nantes, France (A Lortholary MD); University Hospital Saint-Louis, Paris, France (M Espié MD); Institut Curie, Paris, France (Prof P Fumoleau MD); Institut Sainte Catherine, Avignon, France (D Serin MD); Institut de Cancérologie Lucien Neuwirth, Saint-Priest-en-Jarez, France (J-P Jacquin MD); Institut Jean Godinot, Reims, France (C Jouannaud MD); Centre Alexis Vautrin, Vandoeuvre-lesNancy, France (M Rios MD); Institut de Cancérologie de l’Ouest, Angers, France (S Abadie-Lacourtoisie MD); University Hospital, Limoges, France (Prof L Venat-Bouvet MD); Clinique Francheville, Périgueux, France (L Cany MD); Clinique Saint-Pierre, Perpignan, France (S Catala MD); Clinique Bizet, Paris, France (Prof D Khayat MD); French National Cancer Institute, Boulogne, France 
+
+1 
+
+Articles 
+
+(L Gambotti MD, C Faure-Mercier PhD); Ligue contre le cancer-France, Paris, France (I Pauporté PhD); University Hospital, Besançon, France (S Paget-Bailly PhD, J Henriques PhD); and Department of Statistics, University of Rouen, Rouen, France (J M Grouin) Correspondence to: Prof Xavier Pivot, Centre Paul Strauss, 67065 Strasbourg, France xpivot@strasbourg.unicancer.fr See Online for appendix 
+
+Research in context Evidence before this study In 2005, four trials (HERA, NSABP-B31, NCCTG-N9831, and BCIRG-006) showed the benefit of 12-months of adjuvant trastuzumab for patients with HER2-positive early breast cancer. Since the results of these trials were reported, 12 months of adjuvant trastuzumab has become the standard of care for these patients. However, the optimal duration of adjuvant trastuzumab was unknown. A longer duration was evaluated in the HERA trial, but raised concerns about cardiac safety, supporting a shorter duration. Therefore, in 2005 two randomised studies were designed (Protocol for Herceptin as Adjuvant therapy with Reduced Exposure [PHARE] and PERSEPHONE) to compare 6-month with the standard 12-month trastuzumab treatment duration. An interim analysis of the PHARE study did not show the non-inferiority of a 6-month treatment duration relative to a 12-month treatment duration; however, this analysis was under-powered to test the non-inferiority of the shorter treatment duration. By contrast, the recent results of the PERSEPHONE study found that the 6-month treatment was non-inferior to the 12-month treatment, since the prespecified non-inferiority margin (1·25) was not contained in the 90% CI (0·93–1·24). 
+
+the initial objective of the trial. In this Article we report the final analysis of the PHARE trial, based on the prespecified number of disease-free survival events. 
+
+Methods 
+
+Study design and participants 
+
+For the TenAlea software see http://fr.tenalea.net 
+
+2 
+
+The study design, eligibility criteria, patient charac­ teristics, and treatment compliance have been described previously9 and are summarised herein. PHARE is an open-label, phase 3, non-inferiority randomised trial of patients with HER2-positive early breast cancer comparing 6 months versus 12 months of trastuzumab (F Hoffmann-La Roche, Basel, Switzerland) treatment concomitant with or following standard neoadjuvant or adjuvant chemotherapy. The study was undertaken in 156 centres in France. Eligible patients were women aged 18 years or older with non-metastatic, operable, histologically confirmed adeno­carcinoma of the breast and either positive axillary nodes or negative axillary nodes but a tumour of at least 10 mm. Patients must have received at least four cycles of a chemotherapy for this breast cancer; have started receiving adjuvant treatment with trastuzumab; have a baseline left ventricular ejection fraction (LVEF) value measured by echocardiography (Simpson’s method) or multigated acquisition scan 3 months (± 1 month) after initiation of the treatment with trastuzumab that allows to pursue the treatment; and have overexpression of HER2 in the invasive component of their primary tumour (3+ by immunohis­tochemistry or 2+ with confirmation 
+
+Added value of this study The final analysis of PHARE was fully powered to test the hypothesis that 6 months of adjuvant trastuzumab is non-inferior to 12 months. Our analysis reinforced the results of the 2012 interim analysis by refuting the non-inferiority of 6 months versus 12 months of adjuvant trastuzumab. The adjusted hazard ratio for disease-free survival in the 12-month cohort versus the 6-month cohort was 1·08 (95% CI 0·93–1·25), which included the prespecified non-inferiority margin (1·15). Implications of all the available evidence The PHARE and PERSEPHONE studies assessed the same endpoint with a similar design and reported similar results but reached apparently opposite conclusions. This discordance can be explained by the slightly different prespecified endpoint values in the two studies. The choice of the non-inferiority margin remains inherently controversial, especially in the context of oncology trials in which the primary outcome is survival and any additional death could be considered unacceptable. Hence, the feasibility of non-inferiority trials and reductions in treatment exposure should be questioned. In the specific case of adjuvant trastuzumab, the standard of care should remain as 12 months. 
+
+of positivity by fluorescence or chemogenic in-situ hybrid­ isation. Exclusion criteria were previous use of anti-HER2 therapy (except trastuzumab); serious cardiac illness or medical conditions not allowing the adminis­ tration of trastuzumab (ie, history of docu­ mented congestive heart failure, high-risk uncontrolled arrhythmias, angina pectoris requiring antianginal medi­ca­tion, severe dyspnoea at rest, or oxygen depend­ ency); known hypersensitivity to trastuzumab or murine proteins; pregnancy or breast­ feeding; impossibility of adequate follow-up; or inability to have regular controls because of social, geographical, or psychological reasons. The trial was approved by the Central Ethics Committee on May 15, 2006, and was done in compliance with the principles of good clinical practice and the Declaration of Helsinki. All participants provided written informed consent. 
+
+Randomisation and masking A central randomisation procedure was set up with the TenAlea web-based software. Eligible patients were randomly assigned to either 6 months or 12 months of trastuzumab therapy duration between the third and sixth months of adjuvant trastuzumab. Using a mini­ misation algorithm, a 1:1 randomisation was stratified according to concomitant versus sequential administra­ tion of chemo­ therapy and trastuzumab, positive versus negative tumour oestrogen-receptor status, and centre. 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+Articles 
+
+Procedures Trastuzumab was administered by intravenous infusions over 30–90 min every 3 weeks (initial loading dose 8 mg/kg; 6 mg/kg thereafter) in both groups. Chemo­ therapy, hormone therapy, radiation therapy, and treatment schedules were based on investigator choice. After the completion of trastuzumab treatment, patients were followed up every 3 months during the first 2 years, every 6 months until the fifth year (included), and once a year until the tenth year included. Follow-up visits included clinical exams searching for signs of recur­rence, mammography, breast ultrasound, and cardiac left ventricular ejection fraction assessement. Two consecutive missing reports qualified the patients in the group lost to follow-up and they were censored at the date of their last news. 
+
+Outcomes The primary endpoint was disease-free survival, defined as the time from randomisation to the first occurrence of any of the following events: local, regional, or distant relapse; contralateral breast cancer; second non-breast malignant disease; or death from any cause. Patients alive without any predefined event were censored at the time of the last assessment. Secondary efficacy endpoints included overall survival (the time from randomisation or from start of treatment to death from any cause) and metastasis-free survival (the time from randomisation or from start of treatment to distant relapse or death from any cause, whichever occurred first). Safety endpoints and compliance were previously reported, as was a dedicated subanalysis of cardiac safety.9,14 In this analysis we assessed only cardiotoxicity events occurring after completion of trastuzumab treatment. Cardiotoxicity was defined as an absolute decrease in the LVEF to less than 50% regardless of baseline LVEF and an absolute decrease of 10% from baseline with an LVEF of less than 50%. 
+
+Statistical analysis The hypothesis of the PHARE trial was that 6 months of adjuvant trastuzumab is not inferior to 12 months in terms of disease-free survival. The prespecified noninferiority margin in the protocol was set to 15% in relative terms, corresponding to a hazard ratio (HR) of 1·15. In absolute terms, this difference corresponds to a 2% difference in disease-free survival at 2 years— ie, from 85% (as estimated in the HERA trial1) to 83%, assuming an exponential survival distribution.1 In 2011, because of a negative efficacy signal associated with the 6-month group, the IDMC recommended stopping patient accrual and continuing patient followup until July, 2012—which corresponds to 4 years of enrolment and a minimum of 2 years of follow-up before releasing the data. Hence, an amended statistical plan was written in August, 2011, which prespecified this first analysis requested by the IDMC at an unplanned interim 
+
+3384 patients enrolled 
+
+3384 randomly assigned 
+
+1691 assigned to 12 months of trastuzumab treatment 
+
+1693 assigned to 6 months of trastuzumab treatment 
+
+1 excluded (randomly assigned twice) 
+
+3 excluded 1 no informed consent 2 HER2-negative status after FISH testing 
+
+117 lost to follow-up after treatment completion 117 could not be contacted 
+
+117 lost to follow-up after treatment completion 117 could not be contacted 
+
+1690 included in intention-to-treat analysis 
+
+1690 included in intention-to-treat analysis 
+
+1372 included in per-protocol analysis 
+
+1356 included in per-protocol analysis 
+
+Figure 1: Study profile FISH=fluorescence in situ hybridisation. 
+
+stage and planned the final analysis on the basis of an adequate number of events. With the goal of preserving the non-inferiority margin of 1·15, 680 disease-free survival events were required in the final analysis to claim non-inferiority with 80% power at a 5% two-sided significance level. This final analysis of the PHARE trial was based on the data cutoff date on Dec 14, 2017. This database is preserved at the French National Cancer Institute. The main analyses were done in the intention-to-treat population. A sensitivity analysis was done in the perprotocol population defined as the intention-to-treat subgroup of patients who actually received trastuzumab for 6 months within 1 month in the 6-month group, and for 12 months within 2 months in the 12-month group. All survival estimates for each time-to-event endpoint were estimated using the Kaplan-Meier method and the 95% CI. HRs for the treatment effect (6 months vs 12 months), along with their 95% CIs, were estimated using the proportional hazards Cox model adjusted for the stratification factors, which were oestrogen-receptor status (negative vs positive) and timing of trastuzumab and chemotherapy (sequential vs concomitant); we did not include stratification by centre in the calculation of the adjusted HRs. The same analyses were done in a multivariate Cox model adjusted for treatment group (6 months vs 12 months), oestrogen-receptor status (negative vs positive), progesterone-receptor 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+3 
+
+Articles 
+
+12-month group 6-month group (n=1690) (n=1690) Age (years) <35 
+
+62 (3·7%) 
+
+66 (3·9%) 
+
+35–49 
+
+538 (31·8%) 
+
+528 (31·2%) 
+
+50–59 
+
+514 (30·4%) 
+
+545 (32·2%) 
+
+≥60 
+
+576 (34·1%) 
+
+551 (32·6%) 
+
+Median (range) 
+
+54 (21–86) 
+
+55 (23–85) 
+
+Nodal status* Negative 
+
+927 (55·4%) 
+
+915 (54·7%) 
+
+1–3 positive nodes 
+
+502 (30·0%) 
+
+506 (30·2%) 
+
+>3 positive nodes 
+
+244 (14·6%) 
+
+253 (15·1%) 
+
+Missing data 
+
+17 
+
+16 
+
+<2 
+
+742 (44·9%) 
+
+703 (42·5%) 
+
+≥2–<5 
+
+734 (44·4%) 
+
+753 (45·6%) 
+
+≥5 
+
+178 (10·8%) 
+
+197 (11·9%) 
+
+Missing data 
+
+36 
+
+37 
+
+Tumour size* (cm) 
+
+Scarff-Bloom-Richardson grade* I 
+
+52 (3·1%) 
+
+54 (3·3%) 
+
+II 
+
+679 (41·0%) 
+
+672 (40·9%) 
+
+III 
+
+925 (55·9%) 
+
+918 (55·8%) 
+
+Missing data 
+
+34 
+
+46 
+
+Negative 
+
+715 (42·3%) 
+
+695 (41·1%) 
+
+Positive 
+
+975 (57·7%) 
+
+995 (58·9%) 
+
+Negative 
+
+969 (57·6%) 
+
+986 (58·4%) 
+
+Positive 
+
+712 (42·4%) 
+
+701 (41·6%) 
+
+Oestrogen receptor status 
+
+Progesterone receptor status* 
+
+Missing data 
+
+9 
+
+3 
+
+Hormone (oestrogen and progesterone) receptor status Negative 
+
+670 (39·6%) 
+
+650 (38·5%) 
+
+Positive 
+
+1020 (60·4%) 
+
+1040 (61·5%) 
+
+Right 
+
+818 (48·4%) 
+
+800 (47·3%) 
+
+Left 
+
+860 (50·9%) 
+
+872 (51·6%) 
+
+Both 
+
+12 (0·7%) 
+
+18 (1·1%) 
+
+Tumour location 
+
+HER2 overexpression or amplification test results IHC HER2+++ 
+
+1539 (91·1%) 
+
+1546 (91·5%) 
+
+IHC HER2++, FISH+ 
+
+111 (6·6%) 
+
+106 (6·3%) 
+
+IHC HER2++, CISH+ 
+
+38 (2·2%) 
+
+37 (2·2%) 
+
+FISH+ 
+
+2 (0·1%) 
+
+1 (0·1%) 
+
+Taxane and anthracycline 
+
+1249 (73·9%) 
+
+1229 (72·7%) 
+
+Anthracycline only 
+
+268 (15·9%) 
+
+262 (15·5%) 
+
+Taxane only 
+
+171 (10·1%) 
+
+196 (11·6%) 
+
+2 (0·1%) 
+
+3 (0·2%) 
+
+Types of chemotherapy 
+
+Without taxane or anthracycline 
+
+Timing of chemotherapy and trastuzumab administration Sequential 
+
+718 (42·5%) 
+
+729 (43·1%) 
+
+Concomitant 
+
+972 (57·5%) 
+
+961 (56·9%) 
+
+Data are n (%) unless otherwise stated. IHC=immunohistochemistry. FISH=fluorescent in-situ hybridisation. CISH=chromogenic in-situ hybridisation. *Percentages are calculated with n=1690–number of patients with missing data. 
+
+Table: Baseline patient, disease, and treatment characteristics 
+
+4 
+
+status (neg­ative vs positive), nodal status (negative vs positive), tumour size (<2 cm vs ≥2 cm), and timing of trastuzumab and chemotherapy (sequential vs concomitant). Proportional hazards were tested using Schoenfeld residuals,15 and smoothed HRs are presented. When the proportional hazards assumption did not hold, the restricted mean survival time (RMST) was estimated within each group, and the difference and ratio of RMST were estimated, along with the 95% CI, by bootstrap simulation.16,17 A positive difference or a ratio greater than 1 indicates a result favouring the 12-month group. The consistency of treatment effect was assessed across prognostic-factor subgroups, and the treatment by sub­ group interaction was tested in a Cox model adjusted for each prognostic factor separately. The potential influence of each prognostic factor on the first disease-free survival was also assessed in a Cox model adjusted for each prognostic factor separately. Analyses were done using SAS (version 9.4). The analysis and interpretation of the results in this paper were done independently under the auspices of the PHARE executive committee, and an IDMC assessed and monitored the trial. The study was registered with ClinicalTrials.gov, number NCT00381901. 
+
+Role of the funding source The funder of the study was responsible for data collection but had no role in study design, data analysis, or data interpretation. XP, JMG, and the funder of the study had full access to all the data in the study and XP had final responsibility for the decision to submit for publication. 
+
+Results From May 30, 2006, to July 9, 2010, 3384 patients were enrolled and randomly assigned to either 6 months (n=1693) or 12 months (n=1691) of trastuzumab treatment (figure 1). During an on-site audit, one patient was found to have been randomly assigned twice to the 12-month group within a 2-month interval; thus, the second randomisation was excluded. Three patients in the 6-month group were excluded from the study (one did not provide their informed consent and two were found to have a negative HER2 status). Therefore, 1690 patients in each group were included in the analyses. In both groups, 117 (6·9%) of 1690 patients were lost to follow-up over time. At the time of this analysis, the median followup for the 3380 patients was 7·5 years (IQR 5·3–8·8) from randomisation. Patient, disease, and treatment characteristics were well balanced between the two treatment groups (table), as previously reported.9 704 disease-free survival events were reported, of which 345 (20·4%) were in the 12-month group and 359 (21·2%) in the 6-month group. There were 163 (9·6%) distant recurrences in the 12-month group and 187 (11·1%) in the 6-month group; 53 (3·1%) local-regional relapses in the 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+Articles 
+
+A 
+
+B 12-month group 6-month group 
+
+100 90 
+
+100 90 80 
+
+70 
+
+Overall survival (%) 
+
+Disease-free survival (%) 
+
+80 
+
+60 50 40 30 20 
+
+50 40 30 20 
+
+10 0 
+
+70 60 
+
+10 
+
+HR 1·08 (95% CI 0·93–1·25); p=0·39 0 
+
+1 
+
+2 
+
+3 
+
+Number at risk 12-month group 1690 1624 1549 1470 6-month group 1690 1596 1492 1413 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+0 
+
+11 
+
+HR 1·13 (95% CI 0·92–1·39); p=0·26 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Time (years) 1376 1324 
+
+1215 1103 1153 1056 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+691 694 
+
+350 331 
+
+50 54 
+
+0 0 
+
+Time (years) 920 884 
+
+604 600 
+
+289 281 
+
+39 47 
+
+0 0 
+
+1690 1674 1630 1575 1493 1335 1216 1027 1690 1660 1598 1539 1463 1290 1190 1006 
+
+C 
+
+D 
+
+100 
+
+0·06 
+
+90 0·05 
+
+70 
+
+Smoothed hazard ratio 
+
+Metastasis-free survival (%) 
+
+80 
+
+60 50 40 30 20 
+
+0·02 
+
+HR 1·15 (95% CI 0·96–1·37); p=0·14 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time (years) Number at risk 12-month group 1690 1640 1574 1506 1434 1280 1167 6-month group 1690 1611 1527 1460 1380 1206 1123 
+
+7 
+
+8 
+
+9 
+
+10 
+
+0 
+
+11 
+
+990 958 
+
+653 659 
+
+322 316 
+
+41 52 
+
+E 
+
+F 0·040 0·038 0·036 0·034 0·032 0·030 0·028 0·026 0·024 0·022 0·020 0·018 0·016 0·014 0·012 0·010 0·008 0·006 0·004 0·002 0 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+7 
+
+8 
+
+9 
+
+10 
+
+0 0 
+
+0·040 0·038 0·036 0·034 0·032 0·030 0·028 0·026 0·024 0·022 0·020 0·018 0·016 0·014 0·012 0·010 0·008 0·006 0·004 0·002 0 
+
+1 
+
+1 
+
+Time (years) 
+
+Smoothed hazard ratio 
+
+Smoothed hazard ratio 
+
+0·03 
+
+0·01 
+
+10 0 
+
+0·04 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Time (years) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time (years) 
+
+Figure 2: Disease-free survival (A), overall survival (B), metastasis-free survival (C), and smoothed hazard ratios over time for disease-free survival events (D), overall survival events (E), and metastasis-free survival (F) according to trastuzumab duration Disease-free survival (A), overall survival (B), and metastasis-free survival (C) were assessed from the time of randomisation and are adjusted for oestrogen receptor status (positive vs negative) and timing of trastuzumab administration and chemotherapy (concomitant vs sequential). HR=hazard ratio. 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+5 
+
+Articles 
+
+6-month group 
+
+12-month group 
+
+HR (95% CI) 
+
+p value 
+
+Age (years) <50 
+
+132/594 
+
+129/600 
+
+1·10 (0·86–1·40) 
+
+≥50 
+
+227/1096 
+
+216/1090 
+
+1·06 (0·88–1·28) 
+
+0·83 
+
+Nodal status Negative 
+
+138/915 
+
+135/927 
+
+1·08 (0·85–1·37) 
+
+Positive 
+
+217/759 
+
+203/746 
+
+1·08 (0·89–1·30) 
+
+0·99 
+
+Tumour size (cm) <2 
+
+100/703 
+
+113/742 
+
+0·94 (0·72–1·24) 
+
+≥2 
+
+244/950 
+
+222/912 
+
+1·10 (0·91–1·32) 
+
+Negative 
+
+169/695 
+
+164/715 
+
+1·09 (0·88–1·35) 
+
+Positive 
+
+190/995 
+
+181/975 
+
+1·07 (0·87–1·31) 
+
+Negative 
+
+238/986 
+
+222/969 
+
+1·09 (0·90–1·30) 
+
+Positive 
+
+120/701 
+
+119/712 
+
+1·06 (0·82–1·36) 
+
+0·36 
+
+Oestrogen receptor 0·85 
+
+Progesterone receptor 0·87 
+
+Chemotherapy timing Sequential 
+
+163/729 
+
+150/718 
+
+1·11 (0·89–1·39) 
+
+Concomitant 
+
+196/961 
+
+195/972 
+
+1·05 (0·86–1·28) 
+
+Overall 
+
+359/1690 345/1690 
+
+1·07 (0·93–1·25) 
+
+0·25 
+
+0·50 
+
+1·00 1·50 2·0 
+
+0·67 
+
+3·0 
+
+Favours 6-month Favours 12-month treatment treatment 
+
+Figure 3: Univariate forest plot for disease-free survival p values are the tests of interaction between treatment and each subgroup, unadjusted for multiplicity. HR=unadjusted hazard ratio. 
+
+12-month group and 60 (3·6%) in the 6-month group; 27 (1·6%) contralateral breast cancers in the 12-month group and 33 (2·0%) in the 6-month group; 24 (1·4%) deaths in the 12-month group and 18 (1·1%) in the 6-month group; and 78 (4·6%) second primary malignancies in the 12-month group and 61 (3·6%) in the 6-month group. The HR adjusted for stratification factors was 1·08 (95% CI 0·93–1·25; p=0·39; figure 2A). Since the prespecified non-inferiority margin of 1·15 was included in the CI, the results were inconclusive regarding the non-inferiority hypot­hesis. The survival estimates in the 12-month group versus the 6-month group were: 92·2% (90·8–93·4) versus 89·3% (87·8–90·7) at 3 years, 86·2% (84·4–87·8) versus 84·2% (82·4–85·9) at 5 years, and 82·3% (80·3–84·1) versus 80·6% (78·5–82·4) at 7 years. Subgroup analyses showed a consistent treatment effect (figure 3). The proportional hazard assumption of the Cox model was tested based on Schoenfeld residuals, and this tion was rejected (p=0·004). The graph of assump­­ smoothed HRs over time supported this non-propor­ tionality (figure 2D). A Cox model including time as a time-dependent covariate enabled the estimation of the HR over the first 2 years. The HR of disease-free survival events over the first 2 years was 1·43 (95% CI 1·12–1·84), indicating that more patients had disease-free survival events early in the 6-month group than in the 12-month group. Another summary of the survival-curve differences was provided by the difference in the RMST (12 months 6 
+
+minus 6 months: 0·17 years, 0·2–0·37) and the RMST ratio (12 months over 6 months: 1·02, 1·00–1·04) up to 9·5 years, which favoured the 12-month group. In the per-protocol analysis, 273 (19·9%) of 1372 patients in the 12-month group and 282 (20·8%) of 1356 in the 6-month group achieved disease-free survival. The estimated HR adjusted for the stratification factors was 1·10 (95% CI 0·93–1·30; appendix p 1). 170 (10·1%) of 1690 patients in the 12-month group and 186 (11·0%) of 1690 patients in the 6-month group died (assessed from randomisation; figure 2B). The estimated HR was 1·13 (95% CI 0·92–1·39). Subgroup analysis revealed a consistent treatment effect. A graph of smoothed HRs over time is shown in figure 2E, and the proportional hazards assumption was rejected (p=0·006). The distribution of the types of metastasis-free survival events (assessed from randomisation) showed that 224 (13·3%) of 1690 patients in the 12-month group and 249 (14·7%) of 1690 patients in the 6-month group had distant recurrence as the first event; the estimated HR was 1·15 (95% CI 0·96–1·37; figure 2C). Subgroup analysis showed a consistent treatment effect. A graph of smoothed HRs over time is shown in figure 2F; the proportional hazards assumption was rejected (p=0·013). Overall survival and metastasis-free survival assessed from start of treatment yielded similar results (data not shown). An exploratory univariate Cox proportional hazards model was used to analyse the primary endpoint diseasefree survival, and the secondary endpoints overall survival and metastasis-free survival. Nodal status, oestrogen-receptor status, progesterone-receptor status, and tumour size were significantly related to all three outcomes (data not shown). Additionally, the interaction test in the multivariate model revealed no significant heterogeneity related to the survival endpoints. The estimated HRs adjusted for all previous significant factors and timing of trastuzumab chemotherapy and for the comparison of the 6-month and the 12-month groups were 1·07 (95% CI 0·92–1·24) for disease-free survival, 1·07 (95% CI 0·86–1·32) for overall survival, and 1·13 (95% CI 0·94–1·36) for metastasis-free survival. After the completion of trastuzumab, few safety events occurred over time. Since our previous publication,14 no additional cases of heart failure have occurred, and only three cases in which LVEF decreased to less than 50% have been reported in the 12-month group. We found no change in the cardiac safety comparison in this longer follow-up analysis. 
+
+Discussion The first analysis of the PHARE trial in 2012 did not show non-inferiority of 6 months of trastuzumab relative to 12 months in adjuvant treatment of early breast cancer.9 This first analysis, recommended by the IDMC, in­cluded a small number of disease-free survival events, and the heterogeneity of the treatment effect regarding 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+Articles 
+
+oestrogen-receptor status and timing of chemotherapy and trastuzumab complicated the interpretation of the find­ings.18 This first analysis was inconclusive and did not rule out the possibility that 6 months of adjuvant trastuzumab might be non-inferior to 12 months of treatment. Because the PHARE trial was interrupted by the IDMC at an advanced stage of accrual, the revised statistical plan preserved the opportunity to produce a valid conclusion. The preservation of the initial statistical hypothesis, with an adaptation of the expected number of events due to a refined estimate of disease-free survival (calculated from a longer follow-up of trials with 1 year of adjuvant trastuzumab), allowed for a definitive conclusion. In this final analysis, the 95% CI included the noninferiority margin, so the PHARE trial did not find non-inferiority between 6 months and 12 months of trastuzumab. The heterogeneity of the therapeutic effects completely disappeared, confirming the policy of not guiding treatment based on subgroup analyses. In particular, the treatment effect was independent of the timing of chemotherapy and trastuzumab (sequential vs concurrent administration). With a longer follow-up, a small number of safety events was reported, and the previously published9,14 comparison of the safety profiles in the 6-month and 12-month groups did not change. The risk–benefit analysis favoured 12 months of adjuvant trastuzumab for all patients with HER2-positive early breast cancer. The absence of stringent criteria for defining the acceptable non-inferiority margin complicates the design of such trials and represents an obvious limitation. The non-inferiority margin of 1·15 was chosen in the PHARE trial since an increase of 15% on the HR scale could still be considered acceptable. However, the PERSEPHONE study (NCT00712140),13 using a similar design with the same clinical endpoint, included a prespecified margin of 1·29 on the HR scale to define non-inferiority. The HRs comparing the 12-month versus 6-month trastuzumab groups are similar in the PHARE study (1·08, 95% CI 0·93–1·25) and in the PERSEPHONE study (1·07, 0·93–1·24). The discordant conclusions are explained by a slightly different statistical prespecified endpoint boundary. If a non-inferiority margin of 1·29 instead of 1·15 had been chosen, non-inferiority could have been claimed in the PHARE trial. These considerations refer more generally to the debate on the determination of the non-inferiority margin. The US Food and Drug Administration guidance19 on non-inferiority trials, which was issued after the design of the PHARE trial suggests defining a non-inferiority margin to preserve a fraction of the reference treatment effect estimated in historical trials. This approach represents a true improvement in defining non-inferiority and equiv­ alence margins. Nevertheless, the acceptable magnitude of preservation is a subject of debate. The choice of the non-inferiority margin will remain inherently contro­versial, especially in 
+
+the context of oncology trials, where the primary outcome is survival and any additional deaths could be considered unacceptable, thereby throwing into question the very feasibility of non-inferiority trials. Another issue with the PHARE findings is the invalidity of the proportional hazards assumption. The use of the overall HR to compare survival curves and assess the non-inferiority hypothesis might be controversial. In the PHARE trial, the smoothed HRs favoured the 12-month group over the first 2 years, but this benefit seemed to disappear beyond the third year. Non-inferiority of the 6-month versus the 12-month regimen cannot be claimed during the first 2 years, with an estimated HR over this period clearly favouring the 12-month group (1·43, 1·12–1·84). This observation underlines the early benefit of trastuzumab and could dismiss the need for further investigations. The non-proportionality of hazards pre­ cludes the use of an overall HR, and another statistical summary is needed. One option would be to consider the survival probability at a specific late timepoint. However, this approach does not capture the profile of events over time. An alternative is to use the RMST to summarise the mean survival time of all patients followed up to 9·5 years. The 0·17-year absolute difference in RMST (0·98 relative difference) represents a 2% relative difference favouring the 12-month group over the 6-month group. All these statistical considerations consistently favoured the 12-month group, although the difference between groups was small. Without any safety concerns related to adju­vant trastuzumab, a pharmacoeconomic model of the cost savings with a shorter treatment duration seems to be the only criterion supporting a decrease in treat­ ment duration. However, the emergence of biosimilars for trastuzumab will reduce the overall cost and might decrease interest in reducing the duration of trastuzumab treatment.20–22 In the PHARE trial, all the statistical investigations favoured the 12-month group. The definitive analyses of the PHARE trial did not show the non-inferiority of 6 months of adjuvant trastuzumab, and 12 months might remain the standard of care. The promising results23 obtained with trastuzumab-emtansine in the treatment of patients with residual invasive disease after completion of neoadjuvant therapy with a tratuzumab-containing regimen might dramatically change the current treat­ ment strategy in this population. Nevertheless, the conclusions reported by the PHARE and PERSEPHONE trials questioned our ability to address a strategy aimed at reducing therapy duration. The discordant conclusions reached by these studies on the basis of similar results reflect the difficulty in reaching a consensus on accept­ able or reasonable differences in efficacy to support a reduction in exposure. Contributors XP, IP, GR, PK, PF, and DK designed the study. XP, LG, IP, CF-M, SP-B, JH, and JMG collected the data. XP, JH, SP-B, and JMG did the statistical analyses. XP, GR, MD, J-YP, PK, TB, AL, ME, PF, DS, J-PJ, CJ, 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+7 
+
+Articles 
+
+MR, SA-L, LV-B, LC, SC, DK, IP, CF-M, SP-B, JH, and JMG interpreted the results. XP and JMG wrote the manuscript. GR, MD, J-YP, PK, TB, AL, ME, PF, DS, JPJ, CJ, MR, SA-L, LV-B, LC, SC, DK, LG, IP, CF-M, SP, and JH read and reviewed the manuscript. All authors approved the final version of the manuscript. Declaration of interests XP has been a consultant for AMGEN, SAMSUNG BioEpis, and Roche, and has received honoraria from Roche; ME and PF have received consultancy honoraria from Roche; CF-M and LG are employed by the sponsor; and IP and DK were previously employed by the sponsor. All other authors declare no competing interests. 
+
+For the Institut National du Cancer website see www.e-cancer.fr 
+
+Data sharing Data collected for the study, including individual participant data and a data dictionary defining each field in the set, will be made available to others; all available data will be deidentified participant data. The study protocol, statistical analysis plan, informed consent form, and ethics committee approval are available. To access the data, a request should be submitted at the Institut National du Cancer (INCa) with a scientific proposal including objectives. The data will be shared after approval by the INCa and by the steering committee of the PHARE trial. Approval by the ethics committee might be required according to the type of proposal and objectives. Acknowledgments We thank Andrew Kramar for his input in the statistical analysis in 2013. We thank all patients who gave their consent to be included in the study and the staff of the French INCa for their assistance with all aspects of conducting the trial. We thank the American Journal Expert (Durham, NC, USA) for their support in revising the English. References 1 Piccart-Gebhart MJ, Procter M, Leyland-Jones B, et al. Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 2005; 353: 1659–72. Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant 2 chemotherapy for operable HER2-positive breast cancer. N Engl J Med 2005; 353: 1673–84. Slamon D, Eiermann W, Robert N, et al. Adjuvant trastuzumab in 3 HER2-positive breast cancer. N Engl J Med 2011; 365: 1273–83. Smith I, Procter M, Gelber RD, et al. 2-year follow-up of 4 trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer: a randomised controlled trial. Lancet 2007; 369: 29–36. Perez EA, Romond EH, Suman VJ, et al. Four-year follow-up of 5 trastuzumab plus adjuvant chemotherapy for operable human epidermal growth factor receptor 2-positive breast cancer: joint analysis of data from NCCTG N9831 and NSABP B-31. J Clin Oncol 2011; 29: 3366–73. 6 Perez EA, Romond EH, Suman VJ, et al. Trastuzumab plus adjuvant chemotherapy for human epidermal growth factor receptor 2-positive breast cancer: planned joint analysis of overall survival from NSABP B-31 and NCCTG N9831. J Clin Oncol 2014; 32: 3744–52. Cameron D, Piccart-Gebhart MJ, Gelber RD, et al. 11 years’ follow-up 7 of trastuzumab after adjuvant chemotherapy in HER2-positive early breast cancer: final analysis of the HERceptin Adjuvant (HERA) trial. Lancet 2017; 389: 1195–205. Goldhirsch A, Gelber RD, Piccart-Gebhart MJ, et al. 2 years versus 8 1 year of adjuvant trastuzumab for HER2-positive breast cancer (HERA): an open-label, randomised controlled trial. Lancet 2013; 382: 1021–28. 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 15 16 
+
+17 18 19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+Pivot X, Romieu G, Debled M, et al. 6 months versus 12 months of adjuvant trastuzumab for patients with HER2-positive early breast cancer (PHARE): a randomised phase 3 trial. Lancet Oncol 2013; 14: 741–48. Conte P, Frassoldati A, Bisagni G, et al. Nine weeks versus 1 year adjuvant trastuzumab in combination with chemotherapy: final results of the phase III randomized Short-HER study. Ann Oncol 2018; 29: 2328–33. Mavroudis D, Saloustros E, Malamos N, et al. Six versus 12 months of adjuvant trastuzumab in combination with dose-dense chemotherapy for women with HER2-positive breast cancer: a multicenter randomized study by the Hellenic Oncology Research Group (HORG). Ann Oncol 2015; 26: 1333–40. Joensuu H, Fraser J, Wildiers H, et al. Effect of adjuvant trastuzumab for a duration of 9 weeks vs 1 year with concomitant chemotherapy for early human epidermal growth factor receptor 2-positive breast cancer: the SOLD randomized clinical trial. JAMA Oncol 2018; 4: 1199–206. Earl HM, Hiller L, Vallier AL, et al. PERSEPHONE: 6 versus 12 months of adjuvant trastuzumab in patients with positive early breast cancer: randomized phase 3 non-inferiority trial with definitive 4-year desease free survival results. Proc Am Soc Clin Oncol; June 1–5, 2018. 506. Pivot X, Suter T, Nabholtz JM, et al. Cardiac toxicity events in the PHARE trial, an adjuvant trastuzumab randomised phase III study. Eur J Cancer 2015; 51: 1660–66. Grambsch P, Therneau T. Proportional hazards test and diagnostics based on weighted residuals. Biometrika 1994; 81: 515–26. Royston P, Parmar MK. The use of restricted mean survival time to estimate the treatment effect in randomized clinical trials when the proportional hazards assumption is in doubt. Stat Med 2011; 30: 2409–21. Andersen PK, Hansen MG, Klein JP. Regression analysis of restricted mean survival time based on pseudo-observations. Lifetime Data Anal 2004; 10: 335–50. Pivot X. Adjuvant chemotherapy for local relapse breast cancer. Lancet Oncol 2014; 15: 125–26. Food and Drug Administration, Center for Biologics Evaluation and Research, Center for Drug Evaluation and Research. Non-inferiority clinical trialsto establish effectiveness—Guidance for industry. Silver Spring, MD: Food and Drug Administration, 2016. Stebbing J, Baranau Y, Baryash V, et al. CT-P6 compared with reference trastuzumab for HER2-positive breast cancer: a randomised, double-blind, active-controlled, phase 3 equivalence trial. Lancet Oncol 2017; 18: 917–28. Pivot X, Bondarenko I, Nowecki Z, et al. Phase III, randomized, double-blind study comparing the efficacy, safety, and immunogenicity of sb3 (trastuzumab biosimilar) and reference trastuzumab in patients treated with neoadjuvant therapy for human epidermal growth factor receptor 2-positive early breast cancer. J Clin Oncol 2018; 36: 968–74. von Minckwitz G, Colleoni M, Kolberg HC, et al. Efficacy and safety of ABP 980 compared with reference trastuzumab in women with HER2-positive early breast cancer (LILAC study): a randomised, double-blind, phase 3 trial. Lancet Oncol 2018; 19: 987–98. von Minckwitz G, Huang CS, Mano MS, et al. Trastuzumab emtansine for residual invasive HER2-positive breast cancer. N Engl J Med 2019; 380: 617–28. 
+
+www.thelancet.com Published online June 6, 2019 http://dx.doi.org/10.1016/S0140-6736(19)30653-1 
+
+ 

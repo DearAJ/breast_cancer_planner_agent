@@ -1,0 +1,747 @@
+VOLUME 
+
+35 
+
+• 
+
+NUMBER 
+
+23 
+
+• 
+
+AUGUST 
+
+10, 
+
+2017 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Adjuvant Cyclophosphamide and Docetaxel With or Without Epirubicin for Early TOP2A-Normal Breast Cancer: DBCG 07-READ, an Open-Label, Phase III, Randomized Trial Bent Ejlertsen, Malgorzata K. Tuxen, Erik Hugger Jakobsen, Maj-Britt Jensen, Ann Soegaard Knoop, Inger Højris, Marianne Ewertz, Eva Balslev, Hella Danø, Peter Michael Vestlev, Julia Kenholm, Dorte L. Nielsen, Troels Bechmann, Michael Andersson, Søren Cold, Hanne Melgaard Nielsen, Else Maae, Dorte Carlsen, and Henning T. Mouridsen Author afﬁliations and support information (if applicable) appear at the end of this article. Published at jco.org on June 29, 2017. Clinical trial information: NCT00689156. Corresponding author: Bent Ejlertsen, MD, PhD, Danish Breast Cancer Cooperative Group Secretariat, Bldg 2501 Rigshospitalet, Blegdamsvej 9, DK-2100 Copenhagen, Denmark; e-mail: ejlertsen@rh.dk. © 2017 by American Society of Clinical Oncology 0732-183X/17/3523w-2639w/$20.00 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Administration of anthracycline and taxane therapy in the adjuvant setting is considered a standard for breast cancer. We evaluated a non–anthracycline-based regimen in TOP2A-normal patients. Patients and Methods In this multicenter, open-label, phase III trial, 2,012 women with early TOP2A-normal breast cancer and at least one high-risk factor were randomly assigned to receive six cycles of docetaxel (75 mg/ m2) and cyclophosphamide (600 mg/m2) every 3 weeks (DC) or three cycles of epirubicin (90 mg/m2) and cyclophosphamide (600 mg/m2) followed by three cycles of docetaxel (100 mg/m2; EC-D). The primary end point was disease-free survival (DFS) after a median of 5 years of follow-up. Secondary end points were patient-reported toxicity, overall survival (OS), and distant disease–free survival. Results At a median estimated potential follow-up of 69 months, 5-year DFS was 87.9% (95% CI, 85.6% to 89.8%) in the EC-D arm and 88.3% (95% CI, 86.1% to 90.1%) in the DC arm. There was no signiﬁcant difference in the risk of DFS events (hazard ratio [HR], 1.00; 95% CI, 0.78 to 1.28; P = 1.00), distant disease–free survival (HR, 1.12; 95% CI, 0.86 to 1.47; P = .40), or mortality (HR, 1.15; 95% CI, 0.83 to 1.59; P = .41) in the intent-to-treat analysis. A signiﬁcant interaction between menopausal status and treatment group was observed for DFS (P = .04) but not for OS (P = .07). Patients with grade 3 tumors derived most beneﬁt from DC, and patients with grade 1 to 2 tumors derived most beneﬁt from EC-D (DFS: interaction P = .02; and OS: interaction P = .03). Patients receiving EC-D reported signiﬁcantly more stomatitis, myalgia or arthralgia, vomiting, nausea, fatigue, and peripheral neuropathy, whereas edema was more frequent after DC. Conclusion This study provides evidence to support no overall outcome beneﬁt from adjuvant anthracyclines in patients with early TOP2A-normal breast cancer. J Clin Oncol 35:2639-2646. © 2017 by American Society of Clinical Oncology 
+
+INTRODUCTION ASSOCIATED CONTENT See accompanying Oncology Grand Rounds on page 2600 Appendix DOI: https://doi.org/10.1200/JCO. 2017.72.3494 Data Supplement DOI: https://doi.org/10.1200/JCO. 2017.72.3494 DOI: https://doi.org/10.1200/JCO.2017. 72.3494 
+
+For the past 40 years, adjuvant chemotherapy has improved the survival of an increasing proportion of patients with early breast cancer. The metaanalyses of the Early Breast Cancer Trialists’ Collaborative Group have shown that the beneﬁt of cyclophosphamide, methotrexate, and ﬂuorouracil (CMF) was largely independent of patient and tumor characteristics as well as concomitant tamoxifen and that an incremental beneﬁt was obtained from adding an anthracycline to CMF, from 
+
+substituting methotrexate with doxorubicin or epirubicin, and from administering taxanes concurrently or in sequence with anthracyclines.1,2 On average, the beneﬁt achieved by anthracyclines has only been modest, and evidence has suggested that molecular characteristics of the tumor are essential. Overexpression and ampliﬁcation of human epidermal growth factor receptor 2 (HER2) was retrospectively associated with a signiﬁcant beneﬁt from anthracyclines in National Surgical Adjuvant Breast and Bowel Project trials B11 and MA.5.3,4 Only patients with HER2-normal breast cancer were included in the © 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2639 
+
+Ejlertsen et al 
+
+Anthracyclines in Early Breast Cancer (ABC) trials and seemed to derive some beneﬁts from anthracyclines because the joint analysis was unable to demonstrate noninferiority of adjuvant docetaxel and cyclophosphamide (DC) compared with doxorubicin and cyclophosphamide followed by paclitaxel.5 TOP2A encodes topoisomerase IIa, an essential enzyme resolving topologic DNA constraints and a direct target of anthracyclines.6,7 An association between alterations in copy number of TOP2A and incremental beneﬁt from substituting methotrexate in CMF with epirubicin was demonstrated in the Danish Breast Cancer Cooperative Group (DBCG) 89D trial.8,9 A pooled analysis of the DBCG 89D trial together with four additional phase III trials conﬁrmed a greater beneﬁt of anthracyclines in patients with TOP2A alterations and a trend toward greater beneﬁt in patients with HER2-ampliﬁed tumors.9 Provided that beneﬁt of anthracyclines is largely conﬁned to the subgroup of patients with TOP2A-altered tumors, then patients with TOP2Anormal tumors could potentially be spared from anthracyclines as part of their adjuvant chemotherapy. The DBCG 07-READ (randomized trial of epirubicin and cyclophosphamide followed by docetaxel against docetaxel and cyclophosphamide) trial compared six cycles of DC with three cycles of epirubicin and cyclophosphamide followed by three cycles of docetaxel (EC-D) in patients with TOP2A-normal tumors. 
+
+PATIENTS AND METHODS DBCG 07-READ (ClinicalTrials.gov identiﬁer: NCT00689156) was a nationwide, multicenter, open-label, two-arm, phase III, randomized trial. DBCG coordinated the trial and was responsible for study design, random assignment, collection and management of data, analysis of data, and reporting.10 The National Danish Ethics Committee (H-D-2008-009) approved the trial, and all participants provided written, informed consent before enrollment. The study was conducted in accordance with the principles of good clinical practice and the Declaration of Helsinki. Eligible patients included node-positive and node-negative high-risk patients (age younger than 39 years, tumor size . 20 mm, grade 2 or 3 ductal carcinoma, estrogen receptor [ER] negative [, 10% positive], and/ or HER2 positive) after complete resection of a TOP2A-normal invasive carcinoma.11 Exclusion criteria included the following: pregnancy or breastfeeding; Charlson comorbidity index (CCI) . 2; earlier medical cancer treatment; treatment with a nonapproved product within 30 days; bilateral, locally advanced, or distant disease; and prior malignant disease within 5 years. Patients with any HER2 status were eligible. 
+
+Procedures Tumor blocks were submitted to one of the three regional pathology laboratories, and two invasive tissue cores were transferred to a recipient tissue microarray block, as previously described.12 TOP2A normal was deﬁned as a signal-to-centromere 17 ratio of 0.8 to 1.9 by ﬂuorescent in situ hybridization (TOP2A pharmDX; Dako A/S, Glostrup, Denmark) as speciﬁed in the US Food and Drug Administration approval (Code K5333) and otherwise as altered.11 A customized version of DBCG’s Clinical Data Management System was used for random 1:1 assignment using permuted blocks stratiﬁed by institution. Eligible patients with no comorbidity (CCI = 0) were assigned to EC-D (three cycles of epirubicin 90 mg/m2 and cyclophosphamide 600 mg/m2, then three cycles of docetaxel 100 mg/m2) or six cycles of DC (docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2) both given intravenously on day 1 every 3 weeks. In patients with a CCI of 1 or 2, drug doses were reduced initially (epirubicin 60 mg/m2, cyclophosphamide 2640 
+
+© 2017 by American Society of Clinical Oncology 
+
+500 mg/m2, then docetaxel 75 mg/m2 in EC-D arm or docetaxel 60 mg/m2 and cyclophosphamide 500 mg/m2 in DC arm). In both groups, docetaxel was accompanied by colony-stimulating factor. Chemotherapy doses were adjusted according to WBC and platelet counts on day 1 of the scheduled cycle as follows: platelets . 100 3 109/L and WBC . 3.5 3 109/L, 100% of drugs; and platelets 75 to 100 3 109/L or WBC 2.0 to 3.5 3 109/L, 50% of all three drugs. For platelets , 75 3 109/L or WBC , 2.0 3 109/L, the treatment was delayed for 1 week. Patientreported outcomes were collected by questionnaires before the start of chemotherapy (baseline), on day 20 after each of six cycles, and 6 months after the sixth cycle. The questionnaire was built on a Danish translation of the National Cancer Institute Common Toxicity Criteria version 2.0 and allowed patients to rank predeﬁned adverse effects from 0 (none) to 4 (functional impact). In node-negative patients, radiotherapy was administered to the residual breast after breast-conserving surgery, and in node-positive (macrometastatic) patients, radiotherapy was administered to regional nodes and residual breast or chest wall at completion of chemotherapy. Ovarian suppression was not allowed, and patients with hormone receptor–positive tumors were allocated to tamoxifen 20 mg per day (if premenopausal) or letrozole 2.5 mg per day (if postmenopausal) for 5 years. Patients with HER2-positive tumors were given trastuzumab intravenously every 3 weeks initiated at cycle 4 and continued for 17 cycles. Physical examinations were performed at baseline before administration of chemotherapy, at 3 and 6 months after completion of chemotherapy, every 6 months during years 2 to 5, and yearly during years 5 to 10. Mammograms were done every second year in women age 50 years or older and annually in younger women. Additional biochemical tests and imaging were done when indicated by symptoms or signs. Clinical followup was continued until ﬁrst event or a maximum of 10 years. A complete follow-up on vital status was obtained until October 1, 2016, for all patients through linkage to the Danish Central Population Registry. After completion of clinical follow-up, secondary malignancies were obtained through linkage to the Danish Cancer Registry and the Danish Patient Registry. 
+
+Outcomes The primary end point was disease-free survival (DFS), which was deﬁned as time from random assignment to any ﬁrst event of invasive ipsilateral or contralateral breast recurrence, local or regional invasive recurrence, distant recurrence, second (nonbreast) invasive cancer, or death from any cause. Secondary end points included overall survival (OS) and distant disease–free survival (DDFS). OS was deﬁned as time from random assignment until death from any cause. DDFS was deﬁned as time from random assignment to distant recurrence, death from any cause, or second (nonbreast) invasive cancer, whereas other ﬁrst events were considered competing risk events. Statistical Analysis The statistical power was estimated under the following assumptions. According to the DBCG database, the expected 3-year DFS rate was 82% after EC-D. Approximately 1,150 patients would be eligible annually for TOP2A testing, and 920 (85%) would, according to DBCG 89D, have a TOP2A-normal tumor. Approximately 70% of patients were expected to consent to participate. With a recruitment of 1,910 patients in 3 years, after 5 years of follow-up, the study would have 80% power (P = .05 signiﬁcance level) to detect a 36% improvement with DC compared with EC-D.8,10 Follow-up time was quantiﬁed in terms of a Kaplan-Meier estimate of potential follow-up. OS and DFS were analyzed unadjusted using the Kaplan-Meier method, and groups were compared using the log-rank test. Unadjusted hazard ratios (HRs) were estimated from the Cox proportional hazards regression model to quantify the effect of treatment regimen. Multivariate Cox proportional hazards models were applied to explore interactions (Appendix Table A1, online only). Multiple fractional polynomial was used for model building.13 Interactions between treatment and JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Cyclophosphamide and Docetaxel With v Without Epirubicin 
+
+the covariates were investigated in separate models. The assumptions of proportional hazards were assessed by Schoenfeld residuals and by including a time-dependent component in the model. For competing risk analysis, the Fine-Gray subdistribution hazard model was used. The intentto-treat (ITT) population was used for analysis of DFS, OS, and DDFS. Dose-intensities and adverse event frequencies were calculated for the perprotocol population, censoring at any crossover to another treatment regimen. For each regimen, cycle, and drug combination, mean relative dose-intensities were calculated. Associations between regimen and other characteristics (excluding unknowns) were analyzed by the x2 and Wilcoxon tests. P values are two-tailed. Statistical analyses were performed using Stata version 14.2 (STATA, College Station, TX) and SAS version 9.4 (SAS Institute, Cary, NC). 
+
+RESULTS 
+
+Between June 2008 and December 2012, after diagnostic workup and deﬁnitive breast surgery, 7,086 Danish women were eligible for TOP2A screening. A central TOP2A analysis was carried out in 5,153 patients, and 4,318 patients (84%) had a TOP2A-normal tumor, whereas 835 (16%) had a TOP2A-altered tumor. Between July 2008 and December 2012, 12 DBCG centers randomly assigned 2,012 eligible patients to EC-D (n = 1,001) or DC (n = 1,011; Fig 1). One patient in the EC-D group and three patients in the DC group emigrated and were censored between 517 and 1,772 days after random assignment. Complete follow-up for survival was achieved for the remaining 2,008 patients. The random assignment was well balanced, with no signiﬁcant differences between the EC-D and DC groups (Table 1). Among the 2,012 patients, two patients from the EC-D arm withdrew consent and were untreated, and in both groups, ﬁve patients self-selected the other arm and crossed over. The mean relative dose-intensity (actual/planned mg/m2) changed similarly 
+
+(n = 1) (n = 1) 
+
+Not eligible TOP2A altered 
+
+(n = 7) (n = 2) (n = 5) 
+
+(n = 1) (n = 1) 
+
+Did not receive treatment Self-selected EC-D 
+
+Received allocated treatment (n = 994) Discontinued treatment early 
+
+Per-protocol population 
+
+Patients assigned to DC (n = 1,011) 
+
+Patients assigned to EC-D (n = 1,001) 
+
+Did not receive treatment Withdrew consent Self-selected DC 
+
+Study Outcome This analysis was conducted 5 years after closure of recruitment. Median estimated potential follow-up was 5 years and 9 months for DFS and 5 years and 11 months for OS. A total of 253 ﬁrst events were observed (Table 2). Figure 3A shows the KaplanMeier curves for DFS. In the ITT analysis (n = 2,012), there was no difference in DFS between the EC-D group and the DC group (overall unadjusted HR, 1.00; 95% CI, 0.78 to 1.28; P = 1.00). Fiveyear DFS rates were 87.9% (95% CI, 85.6% to 89.8%) for the EC-D group and 88.3% (95% CI, 86.1% to 90.1%) for the DC group. There was no signiﬁcant difference in DDFS between the EC-D and DC groups (unadjusted HR, 1.12; 95% CI, 0.86 to 1.47; P = .40). Table 2 lists the causes of death. There is no identiﬁable pattern behind the numerical difference of 78 deaths in the DC group compared with 68 deaths in EC-D group, and Figure 3B illustrates that there was no statistical difference in mortality (HR, 1.15; 95% CI, 0.83 to 1.59; P = .41). Five-year OS rates were 94.8% (95% CI, 93.2% to 96.0%) in the EC-D group and 93.9% (95% CI, 92.2% to 95.3%) in the DC group. One patient died of acute myocardial infarction after the third cycle of DC, which was reported by the investigator as unrelated, and there were no other deaths during or within 30 days of chemotherapy. One patient in the ED-C group and two patients in DC group developed 
+
+Intent-to-treat population 
+
+Patients randomly assigned (N = 2,012) 
+
+Not eligible TOP2A altered 
+
+in cycles 1 to 3 and overall in cycles 4 to 6 (Fig 2), whereas more dose reductions in cycle 6 were performed in the ED-C group (0.86) compared with the DC group (0.89; P , .01). Among the 1,440 patients with ER-positive disease, 18 (1%) eluded endocrine treatment. One of 222 patients with HER2-positive disease declined trastuzumab, and among the 1,780 patients recommended adjuvant radiotherapy, 17 declined, whereas the data on 52 patients were missing. 
+
+(n = 5) (n = 5) 
+
+Received allocated treatment (n = 1,006) (n = 92) 
+
+Discontinued treatment early 
+
+(n = 128) 
+
+No. of Patients 
+
+No. of Patients Cycles 1-3 
+
+Cycles 4-6 
+
+Cycles 1-3 
+
+Cycles 4-6 
+
+Adverse events* 
+
+9 
+
+54 
+
+Adverse events* 
+
+25 
+
+64 
+
+DFS events 
+
+1 
+
+1 
+
+DFS events 
+
+1 
+
+1 
+
+Other† 
+
+8 
+
+19 
+
+Other† 
+
+22 
+
+15 
+
+Total 
+
+18 
+
+74 
+
+Total 
+
+48 
+
+80 
+
+jco.org 
+
+Fig 1. Trial proﬁle of the Danish Breast Cancer Group 07-READ trial. (*) Patient-reported grade 3 or 4 adverse events. (†) Including hypersensitivity, infection, neutropenia, and patient and treating physician’s choice. DC, docetaxel and cyclophosphamide; DFS, diseasefree survival; EC-D, epirubicin and cyclophosphamide followed by docetaxel; READ, randomized trial of epirubicin and cyclophosphamide followed by docetaxel against docetaxel and cyclophosphamide. 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2641 
+
+Ejlertsen et al 
+
+1.0 
+
+Table 1. Baseline Demographic and Clinical Characteristics of Patients Randomly Assigned and Not Randomly Assigned No. of Patients (%) 
+
+77 (8) 128 (13) 199 (20) 230 (23) 265 (26) 102 (10) 
+
+93 (9) 106 (10) 204 (20) 277 (27) 237 (23) 94 (9) 
+
+207 (9) 238 (10) 433 (19) 499 (22) 601 (26) 330 (14) 
+
+508 (51) 493 (49) 
+
+544 (54) 467 (46) 
+
+1,105 (48) 1,203 (52) 
+
+900 (90) 82 (8) 19 (2) 0 
+
+926 (92) 68 (7) 17 (2) 0 
+
+1,900 (82) 282 (12) 91 (4) 35 (2) 
+
+448 (45) 406 (41) 106 (11) 41 (4) 
+
+467 (46) 409 (40) 101 (10) 34 (3) 
+
+1,089 (47) 878 (38) 235 (10) 106 (5) 
+
+131 (13) 487 (49) 361 (36) 22 (2) 
+
+127 (13) 452 (45) 414 (41) 18 (2) 
+
+359 (16) 1,047 (45) 835 (36) 67 (3) 
+
+873 (87) 72 (7) 56 (6) 
+
+871 (86) 87 (9) 53 (5) 
+
+2,013 (87) 150 (7) 145 (6) 
+
+159 (16) 453 (45) 328 (33) 5 (1) 56 (6) 
+
+176 (17) 459 (45) 311 (31) 12 (1) 53 (5) 
+
+364 (16) 1,028 (45) 759 (33) 12 (1) 145 (6) 
+
+856 (86) 134 (13) 11 (1) 
+
+859 (85) 139 (14) 13 (1) 
+
+1,925 (83) 355 (15) 28 (1) 
+
+299 (30) 702 (70) 
+
+273 (27) 738 (73) 
+
+680 (29) 1,628 (71) 
+
+113 (11) 888 (89) 
+
+109 (11) 902 (89) 
+
+329 (14) 1,979 (86) 
+
+307 (31) 588 (59) 106 (11) 
+
+325 (32) 568 (56) 118 (12) 
+
+656 (28) 1,327 (57) 325 (14) 
+
+277 (28) 
+
+284 (28) 
+
+584 (25) 
+
+356 (36) 
+
+372 (37) 
+
+845 (37) 
+
+240 (24) 128 (13) 
+
+229 (23) 126 (12) 
+
+539 (23) 340 (15) 
+
+Abbreviations: DC, docetaxel and cyclophosphamide; EC-D, epirubicin and cyclophosphamide followed by docetaxel; ER, estrogen receptor; FISH, ﬂuorescent in situ hybridization; HER2, human epidermal growth factor receptor 2; IHC, immunohistochemistry. 
+
+2642 
+
+© 2017 by American Society of Clinical Oncology 
+
+0.9 
+
+Mean Relative Dose 
+
+Characteristic Age at enrollment, years , 40 40-44 45-49 50-54 55-59 60-74 Menopausal status Premenopausal Postmenopausal Charlson comorbidity index 0 1 2 3+ Nodal status Negative 1-3 positive 4-9 positive . 9 positive Tumor size, mm 0-10 11-20 21-50 . 50 Histologic type Inﬁltrating ductal carcinoma Inﬁltrating lobular carcinoma Other or unknown carcinomas Malignancy grade (ductal and lobular carcinomas) 1 2 3 Unknown Other histologic type than ductal and lobular Lymphovascular invasion Absent Present Unknown ER status Negative (0%-9%) Positive ($ 10%) HER2 status Positive (IHC 3+ or FISH $ 2.0) Negative (IHC 0, 1+ and/or FISH , 2.0) Ki-67 Low (# 14%) High (. 14%) Unknown Subtype Luminal A (ER positive, HER2 negative, and Ki-67 low) Luminal B (ER positive and HER2 positive and/or Ki-67 high) ER negative and HER2 normal Unknown 
+
+Not Randomly EC-D DC Assigned (n = 1,001) (n = 1,011) (n = 2,308) 
+
+0.8 
+
+0.7 
+
+0.6 EC D 
+
+0.5 
+
+DC 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Cycle No. Fig 2. Mean relative dose per cycle (actual/planned mg/m2). D, docetaxel; DC, docetaxel and cyclophosphamide; EC, epirubicin and cyclophosphamide. 
+
+cardiomyopathy after more than 6 years, whereas seven and six additional patients developed heart failure in the ED-C and DC groups, respectively. A second nonbreast primary invasive cancer was observed among 25 patients (2%) in the EC-D group and 27 patients (3%) in the DC group. Notably, two patients in the EC-D group developed acute myeloid leukemia (Table 2). An exploratory ITT analysis of DFS (Fig 4A; Appendix Table A1) and OS (Fig 4B) in subgroups showed similar treatment effects by histologic subtype, nodal status, tumor size, ER expression, HER2 status, and Ki-67 expression but suggested differential effects by menopausal status and malignancy grade. Premenopausal patients had better DFS after DC, and postmenopausal patients had better DFS after EC-D (test of interaction, adjusted P = .04), and there was a suggestion of an effect in the same direction for OS (test of interaction, adjusted P = .07). Allocation to DC was associated with a signiﬁcant beneﬁt in patients with grade 3 tumors, whereas in patients with grade 1 to 2 tumors, allocation to EC-D was associated with improved DFS (test of interaction, adjusted P = .02) and OS (test of interaction, adjusted P = .03). 
+
+Toxicity The overall proportion of patients reporting any acute grade 3 or 4 toxicity occurring during or within 21 days of last chemotherapy was signiﬁcantly different in the two groups (Table 3). Grade 3 or 4 febrile neutropenia occurred more often (P = .01) in patients allocated to EC-D compared with patients allocated to DC. The nonhematologic toxicity proﬁle differed signiﬁcantly (Table 3). Patients allocated to EC-D reported a signiﬁcantly (P , .001) higher grade of stomatitis, myalgia or arthralgia, vomiting, nausea, and fatigue, whereas peripheral edema was more severe after DC. Peripheral neuropathy was signiﬁcantly more common and severe (P = .001) with EC-D than with DC, whereas the rates of JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Cyclophosphamide and Docetaxel With v Without Epirubicin 
+
+DISCUSSION 
+
+Table 2. First Events According to the Intent-to-Treat Analysis No of Patients (%) Event 
+
+EC-D (n = 1,001) 
+
+DC (n = 1,011) 
+
+All disease-free survival events Local/regional invasive recurrence Distant recurrence Contralateral invasive breast cancer Nonbreast second primary invasive cancer* GI Pancreas Lung Kidney Gynecologic Malignant melanoma Sarcoma Head and neck Leukemia† Non-Hodgkin lymphoma Death, without recurrence All deaths Breast cancer related Second nonbreast cancer Not cancer related 
+
+126 (13) 17 (2) 61 (6) 10 (1) 25 (2) 9 1 4 1 3 4 0 1 2 0 17 (2) 68 (7) 42 (4) 9 (1) 17 (2) 
+
+127 (13) 10 (1) 65 (6) 5 (0) 27 (3) 3 2 4 0 10 5 1 0 1 1 21 (2) 78 (8) 47 (5) 9 (1) 22 (2) 
+
+Abbreviations: DC, docetaxel and cyclophosphamide; EC-D, epirubicin and cyclophosphamide followed by docetaxel. *Encountering second nonbreast cancer events after a ﬁrst. †Two patients with acute myeloid leukemia in the EC-D group and one patient with chronic myeloid leukemia in the DC group. 
+
+skin disorders and nail changes were similar. Among 1,045 premenopausal women, 42 did not provide information about their menstrual periods, but among those who did, 8% in the EC-D group and 9% in the DC group reported menstruating regularly throughout chemotherapy, 12% in EC-D group and 10% in the DC group reported irregular menstruating, and 80% in the EC-D group and 81% in the DC group reported cessation of menses for 3 months or more after initiation of chemotherapy. 
+
+100 
+
+90 
+
+90 
+
+80 
+
+80 
+
+70 60 50 40 30 20 10 0 
+
+HR, 1.00 (95% CI, 0.78 to 1.28); P = 1.00 EC-D 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+50 40 30 20 
+
+0 
+
+HR, 1.15 (95% CI, 0.83 to 1.59); P = .41 EC-D DC 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Time (years) 
+
+No. of Patients at Risk 1,001 1,011 
+
+Fig 3. (A) Kaplan-Meier estimates of disease-free survival of the 2,012 patients included in the intent-to-treat analysis who were randomly allocated to epirubicin and cyclophosphamide followed by docetaxel (EC-D) or docetaxel and cyclophosphamide (DC). (B) Kaplan-Meier estimates of overall survival. HR, hazard ratio. 
+
+60 
+
+10 
+
+DC 
+
+1 
+
+70 
+
+Time (years) 
+
+jco.org 
+
+Patients with grade 3 tumors had a favorable outcome from DC, whereas EC-D was more favorable in patients with grade 1 or 2 tumors, and this heterogeneity was signiﬁcant in tests of interaction for DFS as well as OS. Histologic grade combines scores of tubule formation (glandular differentiation), nuclear pleomorphism, and 
+
+B 100 
+
+Overall Survival (%) 
+
+Disease-Free Survival (%) 
+
+A 
+
+This analysis failed to demonstrate any overall outcome beneﬁt from the anthracycline-containing adjuvant EC-D regimen compared with DC of similar duration in patients with TOP2A-normal tumors. Thus, our trial conﬁrms the results hypothesized by a formal prospective-retrospective analysis of individual patient data from the DBCG 89D trial and four other trials.9,14 Moreover, the sequential EC-D schedule was, apart from peripheral edema, associated with signiﬁcantly more adverse events such as stomatitis, myalgia or arthralgia, peripheral neuropathy, vomiting, nausea, and fatigue. The high frequencies of nonhematologic adverse events may be a result of the use of patient-reported outcomes.15,16 Despite a higher total dose and longer duration of docetaxel in the DC group, a signiﬁcantly higher frequency of early peripheral neuropathy was observed in the EC-D group, which is likely to be explained by a higher dose (100 mg/m2 in the EC-D group v 75 mg/ m2 in DC group) per cycle. We previously have reported a signiﬁcant reduction in the risk of peripheral neuropathy by use of frozen gloves and socks and a more pronounced late recovery in the EC-D group.17 In both groups, docetaxel was accompanied by prophylactic colony-stimulating factor, and this may have been the reason for achieving a similar dose-intensity of epirubicin and cyclophosphamide and DC in the ﬁrst three cycles. In contrast, febrile neutropenia was more pronounced during the following three cycles of docetaxel as compared with DC and may explain more extensive dose reductions. Nonetheless, the expectation of a change in adverse effects by the switch improved treatment adherence in the sequential treatment group. 
+
+No. of Patients at Risk 949 957 
+
+818 820 
+
+357 361 
+
+1,001 1,011 
+
+980 993 
+
+905 902 
+
+435 437 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2643 
+
+Ejlertsen et al 
+
+A 
+
+B No. of HR Patients 
+
+Tumor size (mm) 0-20 21+ 
+
+95% CI 
+
+Favors DC 
+
+P = .80 1,197 815 
+
+No. of HR Patients 
+
+95% CI 
+
+1,197 1.29 815 1.12 
+
+0.79 to 2.10 0.77 to 1.65 
+
+Estrogen receptor status (%) 0-9 572 1.11 10+ 1,440 1.27 
+
+0.72 to 1.71 0.79 to 2.03 
+
+Malignancy grade 1 2 3 
+
+335 1.82 912 1.94 639 0.79 
+
+0.56 to 5.93 1.13 to 3.30 0.51 to 1.24 
+
+632 1.54 1,156 1.15 
+
+0.82 to 2.88 0.78 to 1.67 
+
+Favors EC-D Tumor size (mm) 0-20 21+ 
+
+0.68 to 1.39 0.76 to 1.39 
+
+Estrogen receptor status (%) 0-9 572 1.01 10+ 1,440 1.00 
+
+0.71 to 1.44 0.72 to 1.40 
+
+Malignancy grade 1 2 3 
+
+335 912 639 
+
+1.89 1.40 0.70 
+
+0.90 to 4.00 0.96 to 2.05 0.49 to 0.99 
+
+Ki-67 (%) 0-14 > 14 
+
+632 1,156 
+
+1.20 0.96 
+
+0.77 to 1.89 0.72 to 1.28 
+
+Menopausal status Premenopausal 1,052 Postmenopausal 960 
+
+0.77 1.29 
+
+0.54 to 1.11 0.91 to 1.82 
+
+Menopausal status Premenopausal 1,052 0.85 Postmenopausal 960 1.57 
+
+0.53 to 1.37 1.00 to 2.47 
+
+All 
+
+1.01 
+
+0.79 to 1.29 
+
+All 
+
+0.85 to 1.63 
+
+P = .02 
+
+P = .38 
+
+2,012 
+
+0.5 
+
+1.0 
+
+2.0 
+
+P = .67 
+
+P = .03 
+
+P = .39 
+
+Ki-67 (%) 0-14 > 14 
+
+P = .04 
+
+Favors EC-D 
+
+P = .64 
+
+0.97 1.03 
+
+P = .98 
+
+Favors DC 
+
+2,012 1.18 
+
+P = .07 
+
+0.5 
+
+4.0 
+
+1.0 
+
+HR 
+
+2.0 
+
+4.0 
+
+HR 
+
+Fig 4. Forest plots illustrating proportional hazards models for (A) disease-free survival and (B) overall survival according to tumor size, estrogen receptor, malignancy grade, Ki-67, and menopausal status. Hazard ratios (HRs) refer to adjusted intent-to-treat estimates obtained in the multivariate analysis. P values are for test of heterogeneity of treatment effect. Boxes represent the weight of data for each subgroup relative to the total data. DC, docetaxel and cyclophosphamide; EC-D, epirubicin and cyclophosphamide followed by docetaxel. 
+
+mitotic counting and was standardized for its use in the Nottingham Prognostic Index by Elston and Ellis.18,19 Grade and, in particular, mitotic count have been associated with proliferation as determined in multigene assays, and Ki-67 is also a measure of proliferation.20 However, we found no evidence of an association between Ki-67 expression and a differential beneﬁt from the two chemotherapy regimens. Ki-67 was not evaluated centrally, which may have been critical, and a predictive value of Ki-67 has not been demonstrated by others.21-23 A high recurrence score was associated with beneﬁt from adding CMF to tamoxifen in the National Surgical Adjuvant Breast 
+
+and Bowel Project B-20 trial and from adding cyclophosphamide, doxorubicin, and ﬂuorouracil to tamoxifen in Southwest Oncology Group trial 8814.24,25 Similarly, a low-risk classiﬁer (luminal A subtype) predicted lack of beneﬁt from cyclophosphamide and CMF among premenopausal patients with node-positive breast cancer in DBCG 77B.26 In the MA.5 trial, beneﬁt from cyclophosphamide, epirubicin, and ﬂuorouracil as compared with CMF was primarily conﬁned to patients with an HER2-enriched subtype.27 In postmenopausal patients, EC-D was associated with an outcome beneﬁt, whereas DC was favorable in premenopausal 
+
+Table 3. Frequency of Patient-Reported Adverse Events During Chemotherapy No. of Patients (%) EC-D (n = 994) Adverse Event Hematologic Febrile neutropenia Nonhematologic Stomatitis Diarrhea Myalgia/arthralgia Peripheral neuropathy Skin disorder Nail disorder Vomiting Nausea Fatigue Peripheral edema 
+
+DC (n = 1,006) 
+
+Grade 0 
+
+Grade 1 
+
+Grade 2 
+
+Grade 3 
+
+Grade 4 
+
+Grade 0 
+
+Grade 1 
+
+Grade 2 
+
+Grade 3 
+
+Grade 4 
+
+P 
+
+800 (80) 
+
+60 (6) 
+
+15 (2) 
+
+87 (9) 
+
+9 (1) 
+
+855 (85) 
+
+66 (7) 
+
+13 (1) 
+
+49 (5) 
+
+10 (1) 
+
+.01 
+
+138 (14) 362 (36) 44 (4) 264 (27) 356 (36) 270 (27) 596 (60) 103 (10) 8 (1) 387 (39) 
+
+344 (35) 391 (39) 124 (12) 373 (38) 447 (45) 577 (58) 190 (19) 465 (47) 255 (26) 464 (47) 
+
+479 (48) 166 (17) 391 (39) 228 (23) 158 (16) 139 (14) 141 (14) 340 (34) 427 (43) 110 (11) 
+
+22 (2) 60 (6) 361 (36) 97 (10) 25 (3) — 52 (5) 71 (7) 249 (25) 25 (3) 
+
+3 (0) 7 (1) 66 (7) 24 (2) — — 7 (1) 7 (1) 48 (5) — 
+
+204 (20) 324 (32) 48 (5) 321 (32) 379 (38) 282 (28) 783 (78) 255 (25) 33 (3) 334 (33) 
+
+465 (46) 431 (43) 199 (20) 386 (38) 457 (45) 600 (60) 149 (15) 552 (55) 290 (29) 463 (46) 
+
+324 (32) 185 (18) 426 (42) 212 (21) 154 (15) 122 (12) 65 (6) 182 (18) 436 (43) 181 (18) 
+
+10 (1) 53 (5) 293 (29) 57 (6) 14 (1) — 1 (0) 11 (1) 225 (22) 26 (3) 
+
+1 (0) 11 (1) 38 (4) 28 (3) — — 6 (1) 4 (0) 20 (2) — 
+
+, .001 .10 , .001 .001 .26 .37 , .001 , .001 , .001 , .001 
+
+Abbreviations: DC, docetaxel and cyclophosphamide; EC-D, epirubicin and cyclophosphamide followed by docetaxel. 
+
+2644 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Cyclophosphamide and Docetaxel With v Without Epirubicin 
+
+patients. The test of interaction between menopausal status and treatment group was statistically signiﬁcant for DFS but not for OS. Total cyclophosphamide dose received and the use of anthracyclines have been emphasized as most important concerning chemotherapy-induced menopause, whereas taxanes are of less importance.8,28,29 Amenorrhea was equally frequent after DC and EC-D, but in the absence of biochemical monitoring of ovarian function, an endocrine effect may not be completely excluded. Adherence to antiestrogens was similar in the two groups. Several issues should be considered when interpreting the 5year results from this trial. First, our trial was designed as a superiority trial. Although the trial met its recruitment goal, the number of events was lower than expected, as was the resulting statistical power. Second, in the design, emphasis was given to the selection of internationally accepted docetaxel regimens and to using chemotherapy of the same duration, and accordingly, a duration of six cycles was selected to be used in both groups. Third, mechanisms of action unrelated to topoisomerase IIa have been proposed for anthracyclines including genetic instability reﬂected by polysomy of centromere 17 (CEN17) and protection from apoptosis by tissue inhibitor of matrix metalloproteinases-1 (TIMP-1).30,31 Finally, central testing by a validated, US Food and Drug Administration–approved, and CE labeled TOP2A test was applied in the 07-READ trial. These results may not be applicable using other TOP2A tests because the quality control preformed within the international individual-patient pooled analysis of HER2 and TOP2A revealed a suboptimal reproducibility between different TOP2A platforms and institutions.14 In conclusion, EC-D did not demonstrate any overall outcome advantage compared with DC in patients with a TOP2A-normal 
+
+REFERENCES 1. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 2. Peto R, Davies C, Godwin J, et al: Comparisons between different polychemotherapy regimens for early breast cancer: Meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 379:432-444, 2012 3. Paik S, Bryant J, Tan-Chiu E, et al: HER2 and choice of adjuvant chemotherapy for invasive breast cancer: National Surgical Adjuvant Breast and Bowel Project Protocol B-15. J Natl Cancer Inst 92: 1991-1998, 2000 4. Pritchard KI, Shepherd LE, O’Malley FP, et al: HER2 and responsiveness of breast cancer to adjuvant chemotherapy. N Engl J Med 354:2103-2111, 2006 5. Blum JL, Flynn PJ, Yothers G, et al: Interim joint analysis of the ABC (anthracyclines in early breast cancer) phase III trials (USOR 06-090, NSABP B-46I/ USOR 07132, NSABP B-49 [NRG Oncology]) comparing docetaxel + cyclophosphamide (TC) v anthracycline/taxane-based chemotherapy regimens (TaxAC) in women with high-risk, HER2-negative breast cancer. J Clin Oncol 34, 2016 (suppl; abstr 1000) 6. Baxter J, Sen N, Martı́nez VL, et al: Positive supercoiling of mitotic DNA drives decatenation by topoisomerase II in eukaryotes. Science 331: 1328-1332, 2011 
+
+jco.org 
+
+tumor, and EC-D had a less favorable toxicity proﬁle. Although the data are in favor of DC in patients with TOP2A-normal breast cancer, a statistical heterogeneity was identiﬁed, and a subgroup of patients may therefore derive beneﬁt from treatment with anthracyclines. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Bent Ejlertsen, Erik Hugger Jakobsen, Maj-Britt Jensen, Ann Soegaard Knoop, Marianne Ewertz, Eva Balslev, Dorte L. Nielsen, Michael Andersson, Henning T. Mouridsen Administrative support: Bent Ejlertsen, Maj-Britt Jensen, Henning T. Mouridsen Provision of study materials or patients: Bent Ejlertsen, Malgorzata K. Tuxen, Erik Hugger Jakobsen, Ann Soegaard Knoop, Inger Højris, Marianne Ewertz, Eva Balslev, Hella Danø, Peter Michael Vestlev, Julia Kenholm, Dorte L. Nielsen, Troels Bechmann, Michael Andersson, Søren Cold, Hanne Melgaard Nielsen, Else Maae, Dorte Carlsen, Henning T. Mouridsen Collection and assembly of data: All authors Data analysis and interpretation: Bent Ejlertsen, Maj-Britt Jensen, Henning T. Mouridsen Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+7. Kellner U, Sehested M, Jensen PB, et al: Culprit and victim: DNA topoisomerase II. Lancet Oncol 3:235-243, 2002 8. Ejlertsen B, Mouridsen HT, Jensen MB, et al: Improved outcome from substituting methotrexate with epirubicin: Results from a randomised comparison of CMF versus CEF in patients with primary breast cancer. Eur J Cancer 43:877-884, 2007 9. Knoop AS, Knudsen H, Balslev E, et al: Retrospective analysis of topoisomerase IIa ampliﬁcations and deletions as predictive markers in primary breast cancer patients randomly assigned to cyclophosphamide, methotrexate, and ﬂuorouracil or cyclophosphamide, epirubicin, and ﬂuorouracil: Danish Breast Cancer Cooperative Group. J Clin Oncol 23: 7483-7490, 2005 10. Christiansen P, Ejlertsen B, Jensen MB, et al: Danish Breast Cancer Cooperative Group. Clin Epidemiol 8:445-449, 2016 11. Olsen KE, Knudsen H, Rasmussen BB, et al: Ampliﬁcation of HER2 and TOP2A and deletion of TOP2A genes in breast cancer investigated by new FISH probes. Acta Oncol 43:35-42, 2004 12. Henriksen KL, Rasmussen BB, Lykkesfeldt AE, et al: Semi-quantitative scoring of potentially predictive markers for endocrine treatment of breast cancer: A comparison between whole sections and tissue microarrays. J Clin Pathol 60:397-404, 2007 13. Royston P, Sauerbrei W: A new approach to modelling interactions between treatment and continuous covariates in clinical trials by using fractional polynomials. Stat Med 23:2509-2525, 2004 
+
+14. Di Leo A, Desmedt C, Bartlett JM, et al: HER2 and TOP2A as predictive markers for anthracyclinecontaining chemotherapy regimens as adjuvant treatment of breast cancer: A meta-analysis of individual patient data. Lancet Oncol 12:1134-1142, 2011 15. Ellis P, Barrett-Lee P, Johnson L, et al: Sequential docetaxel as adjuvant chemotherapy for early breast cancer (TACT): An open-label, phase III, randomised controlled trial. Lancet 373:1681-1692, 2009 16. Basch E, Iasonos A, McDonough T, et al: Patient versus clinician symptom reporting using the National Cancer Institute Common Terminology Criteria for Adverse Events: Results of a questionnaire-based study. Lancet Oncol 7:903-909, 2006 17. Eckhoff L, Knoop AS, Jensen MB, et al: Risk of docetaxel-induced peripheral neuropathy among 1,725 Danish patients with early stage breast cancer. Breast Cancer Res Treat 142:109-118, 2013 18. Haybittle JL, Blamey RW, Elston CW, et al: A prognostic index in primary breast cancer. Br J Cancer 45:361-366, 1982 19. Balslev I, Axelsson CK, Zedeler K, et al: The Nottingham Prognostic Index applied to 9,149 patients from the studies of the Danish Breast Cancer Cooperative Group (DBCG). Breast Cancer Res Treat 32:281-290, 1994 20. Rakha EA, Reis-Filho JS, Baehner F, et al: Breast cancer prognostic classiﬁcation in the molecular era: The role of histological grade. Breast Cancer Res 12:207, 2010 21. Polley MY, Leung SC, Gao D, et al: An international study to increase concordance in Ki67 scoring. Mod Pathol 28:778-786, 2015 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2645 
+
+Ejlertsen et al 
+
+22. Ejlertsen B, Jensen MB, Elversang J, et al: One year of adjuvant tamoxifen compared with chemotherapy and tamoxifen in postmenopausal patients with stage II breast cancer. Eur J Cancer 49:2986-2994, 2013 23. Viale G, Regan MM, Mastropasqua MG, et al: Predictive value of tumor Ki-67 expression in two randomized trials of adjuvant chemoendocrine therapy for node-negative breast cancer. J Natl Cancer Inst 100:207-212, 2008 24. Paik S, Tang G, Shak S, et al: Gene expression and beneﬁt of chemotherapy in women with nodenegative, estrogen receptor-positive breast cancer. J Clin Oncol 24:3726-3734, 2006 25. Albain KS, Barlow WE, Shak S, et al: Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with node- 
+
+positive, oestrogen-receptor-positive breast cancer on chemotherapy: A retrospective analysis of a randomised trial. Lancet Oncol 11:55-65, 2010 26. Nielsen TO, Jensen MB, Burugu S, et al: High risk premenopausal luminal A breast cancer patients derive no beneﬁt from adjuvant cyclophosphamidebased chemotherapy: Results from the DBCG77B clinical trial. Clin Cancer Res 23:946-953, 2017 27. Cheang MC, Voduc KD, Tu D, et al: Responsiveness of intrinsic subtypes to adjuvant anthracycline substitution in the NCIC.CTG MA.5 randomized trial. Clin Cancer Res 18:2402-2412, 2012 28. Ejlertsen B, Mouridsen HT, Jensen MB, et al: Cyclophosphamide, methotrexate, and ﬂuorouracil; oral cyclophosphamide; levamisole; or no adjuvant 
+
+therapy for patients with high-risk, premenopausal breast cancer. Cancer 116:2081-2089, 2010 29. Pérez-Fidalgo JA, Roselló S, Garcı́a-Garré E, et al: Incidence of chemotherapy-induced amenorrhea in hormone-sensitive breast cancer patients: The impact of addition of taxanes to anthracyclinebased regimens. Breast Cancer Res Treat 120: 245-251, 2010 30. Bartlett JM, McConkey CC, Munro AF, et al: Predicting anthracycline beneﬁt: TOP2A and CEP17—Not only but also. J Clin Oncol 33:1680-1687, 2015 31. Ejlertsen B, Jensen MB, Nielsen KV, et al: HER2, TOP2A, and TIMP-1 and responsiveness to adjuvant anthracycline-containing chemotherapy in high-risk breast cancer patients. J Clin Oncol 28: 984-990, 2010 
+
+Affiliations Bent Ejlertsen, Maj-Britt Jensen, and Henning T. Mouridsen, Danish Breast Cancer Cooperative Group, Rigshospitalet; Ann Soegaard Knoop and Michael Andersson, Rigshospitalet; Malgorzata K. Tuxen, Eva Balslev, Dorte L. Nielsen, and Dorte Carlsen, Herlev and Gentofte Hospital, Copenhagen; Erik Hugger Jakobsen, Troels Bechmann, and Else Maae, Lillebaelt Hospital, Vejle; Inger Højris and Hanne Melgaard Nielsen, Aarhus University Hospital, Aarhus; Marianne Ewertz, Odense University Hospital, Institute of Clinical Research, University of Southern Denmark; Søren Cold, Odense University Hospital, Odense; Hella Danø, Nordsjaellands Hospital, Hilleroed; Peter Michael Vestlev, Zealand University Hospital, Roskilde; and Julia Kenholm, Regional Hospital West Jutland, Herning, Denmark. Support Supported by the Danish Breast Cancer Cooperative Group, Danish Foundation for Clinical and Experimental Cancer Research, and Sanoﬁ. Prior Presentation Presented, in part, at the 39th Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 6-10, 2016. nnn 
+
+2646 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Adjuvant Cyclophosphamide and Docetaxel With v Without Epirubicin 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Adjuvant Cyclophosphamide and Docetaxel With or Without Epirubicin for Early TOP2A-Normal Breast Cancer: DBCG 07-READ, an Open-Label, Phase III, Randomized Trial The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. Bent Ejlertsen Research Funding: Roche (Inst), Novartis (Inst), NanoString (Inst) Patents, Royalties, Other Intellectual Property: NanoString (Inst) Travel, Accommodations, Expenses: Celgene Malgorzata K. Tuxen Honoraria: Pﬁzer, Roche Consulting or Advisory Role: Pﬁzer, Eisai Travel, Accommodations, Expenses: Pﬁzer, Roche, Novartis, Amgen Erik Hugger Jakobsen Travel, Accommodations, Expenses: Celgene, Pierre Fabre, Roche Maj-Britt Jensen Travel, Accommodations, Expenses: Celgene Ann Soegaard Knoop Consulting or Advisory Role: Roche, Pﬁzer, Novartis Travel, Accommodations, Expenses: Roche, Pierre Fabre, Novartis Inger Højris Travel, Accommodations, Expenses: Roche 
+
+Julia Kenholm Travel, Accommodations, Expenses: Pﬁzer Dorte L. Nielsen No relationship to disclose Troels Bechmann Travel, Accommodations, Expenses: Roche Michael Andersson Honoraria: Roche, Pierre Fabre Consulting or Advisory Role: Roche, Pﬁzer, Pierre Fabre Travel, Accommodations, Expenses: Celgene, Roche, Pierre Fabre Søren Cold Travel, Accommodations, Expenses: Roche Hanne Melgaard Nielsen Honoraria: Roche Travel, Accommodations, Expenses: Roche, Novartis Other Relationship: Novartis 
+
+Marianne Ewertz No relationship to disclose 
+
+Else Maae Honoraria: Novartis Travel, Accommodations, Expenses: Novartis 
+
+Eva Balslev No relationship to disclose 
+
+Dorte Carlsen No relationship to disclose 
+
+Hella Danø No relationship to disclose 
+
+Henning T. Mouridsen No relationship to disclose 
+
+Peter Michael Vestlev Stock or Other Ownership: Novo Nordisk, Novozymes, Genmab, Lundbeck (I) Consulting or Advisory Role: Oncology Venture Research Funding: Puma Biotechnology (Inst), AstraZeneca (Inst), Genentech (Inst), Novartis (Inst), Eli Lilly (Inst), GlaxoSmithKline (Inst), Pierre Fabre (Inst), MSD Oncology (Inst), Merck KGaA (Inst), Synthon (Inst) 
+
+jco.org 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Ejlertsen et al 
+
+Appendix 
+
+Table A1. Cox Proportional Hazards Model for DFS Parameter 
+
+HR 
+
+95% CI 
+
+P 
+
+Age at enrollment: continuous Tumor size: log(tumor size [mm]/100) Nodal status: log([No. of positive nodes + 1]/10) ER status, %: continuous Lymphovascular invasion: present HER2 status: positive Ki-67, %: continuous Malignancy grade: ordered Treatment regimen: DC v EC-D 
+
+1.01 1.89 1.45 0.992 1.74 1.15 1.003 1.29 1.01 
+
+0.99 to 1.02 1.45 to 2.46 1.24 to 1.71 0.988 to 0.996 1.26 to 2.39 0.80 to 1.67 0.997 to 1.009 1.00 to 1.67 0.79 to 1.29 
+
+.25 , .001 , .001 , .001 , .001 .45 .34 .05 .96 
+
+Abbreviations: DC, docetaxel and cyclophosphamide; DFS, disease-free survival; EC-D, epirubicin and cyclophosphamide followed by docetaxel; ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; HR, hazard ratio. 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+ 

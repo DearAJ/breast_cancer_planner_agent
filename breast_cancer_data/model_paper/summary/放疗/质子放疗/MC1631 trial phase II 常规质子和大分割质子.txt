@@ -1,0 +1,1285 @@
+HHS Public Access Author manuscript Author Manuscript 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. Published in final edited form as: Lancet Oncol. 2023 October ; 24(10): 1083–1093. doi:10.1016/S1470-2045(23)00388-1. 
+
+Phase II randomized trial of conventional versus hypofractionated post-mastectomy proton radiotherapy 
+
+Author Manuscript 
+
+Robert Mutter, M.D.1, Sharmila Giri, MS2, Briant Fruth, BS2, Nicholas Remmes, Ph.D.1, Judy Boughey, M.D.3, Christin Harless, M.D.4, Kathryn Ruddy, M.D. M.P.H.5, Lisa McGee, M.D.6, Arslan Afzal, M.D.1, Robert Gao, M.D.1, Dean Shumway, M.D.1, Tamara Vern-Gross6, Hector Villarraga, M.D.7, Stephanie Kenison1, Yixiu Kang, PhD6, William Wong, M.D.6, Bradley Stish, M.D1, Kenneth Merrell, M.D.1, Elizabeth Yan, M.D.1, Sean Park, M.D., Ph.D.1, Kimberly Corbin, M.D.1, Carlos Vargas, M.D.6 1Department of Radiation Oncology, Mayo Clinic, Rochester, MN, USA 2Division of Clinical Trials and Biostatistics, Department of Quantitative Health Sciences, Mayo 
+
+Clinic, Rochester, MN, USA 3Department of Surgery, Mayo Clinic, Rochester, MN, USA 4Division of Plastic Surgery, Mayo Clinic, Rochester, MN, USA 5Division of Medical Oncology Mayo Clinic, Rochester, Minnesota 6Department of Radiation Oncology, Mayo Clinic, Phoenix, Arizona 
+
+Author Manuscript 
+
+7Department of Cardiovascular Medicine 
+
+Abstract Background: Proton therapy is under investigation in breast cancer as a strategy to reduce radiation exposure of heart and lung. To date, studies investigating proton postmastectomy radiotherapy (PMRT) have used conventional fractionation over 25–28 days. Methods: We conducted a randomized phase II trial comparing conventional (50 Gy in 25 fractions of 2 Gy [RBE 1.1]) and hypofractionated (40.05 Gy in 15 fractions of 2.67 Gy 
+
+Author Manuscript 
+
+Correspondence: Robert W. Mutter, 200 First Street SW, Rochester, MN 55905, Telephone: 507-284-3261, Fax: 507-284-0079, Mutter.Robert@mayo.edu. JCB, KJR, WWW, and SSP are full professors. Author Contributions RM contributed to the study conceptualization, design, data collection, data analysis, data interpretation, and writing; SG and BF contributed to data analysis, data interpretation, figures, and writing; CV, KR, HV, and NR contributed to study design, data interpretation and writing, KC, SP, EY, KM, BS, WW, TV, DS, LM, AA, RG, and KR, contributed to data collection, data interpretation and writing. YK, CH, DS, JB and HV contributed to data interpretation and writing; SK contributed to data collection. RM, SG, and BF directly accessed and verified the underlying data. Principle Investigator RM was responsible for the decision to submit the manuscript and all authors were in agreement. Declaration of Interests RM reports his role as Co-Chair of the Breast Cancer Subcommittee of the Particle Therapy Cooperative Group (PTCOG). All other authors declare no competing interests. Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. 
+
+Mutter et al. 
+
+Page 2 
+
+Author Manuscript 
+
+[RBE 1.1]) proton PMRT. Eligibility included age ≥ 18 years with ECOG performance status 0 to 2 and breast cancer resected by mastectomy with or without immediate reconstruction with indications for PMRT. Patients were randomized (1:1) to either conventional fractionation or hypofractionation with presence of immediate reconstruction (yes vs no) as a stratification factor using biased-coin minimization algorithm. Any patient that received protocol treatment was evaluable for the primary endpoint and safety analyses. The primary endpoint was 24-month complication rate. Adverse events were defined using CTCAE v 4.0. The non-inferiority of hypofractionation would not be ruled out if the upper bound of the 1-sided 95% confidence limit for the difference in 24-month complication rate between the two arms was greater than 10%. All patients were recruited from two sites in the USA, Mayo Clinic Rochester (Rochester, MN) and Mayo Clinic Arizona (Phoenix, AZ) and treated with pencil beam scanning. 
+
+Author Manuscript Author Manuscript 
+
+Findings: Between June 2, 2016, and August 23, 2018, 82 patients were randomized and received protocol treatment (41 conventional, 41 hypofractionation). Date of data cutoff was January 30, 2023. The median age was 52 years (interquartile range [IQR], 44 – 64). The race of participants was White (96.3%), Black or African American (2.4%) and Asian (1.2%), and the ethnicity was not Hispanic of Latino (96.3%) and unknown (3.7%). The median mean heart dose for all 82 patients was 0.49 Gy. With a median follow-up of 39.3 months (IQR 37.5 – 61.2) there have been 14 protocol defined complications, 6 (14.6%) treated with conventional and 8 (19.5%) with hypofractionation (absolute difference 4.9% (one-sided 95% CI [−∞, 18.5%]; p = 0.268)), all occurring within 24 months of radiotherapy. The complications in the conventionally fractionated arm were contracture (n = 5) and fat necrosis (n = 1) requiring surgical intervention. All 8 protocol defined complications in the hypofractionated arm were infectious (n = 3 acute grade 3; n = 5 late grade 3), 7 of which required surgical intervention. All 14 complications were in patients with immediate expander/implant-based reconstruction with 6 of 27 (22.2%) patients treated with conventional and 8 of 30 (24.1%) treated with hypofractionation developing complications. Interpretation: After a median follow-up of 39.3 months, proton PMRT provided excellent locoregional control and normal tissue sparing. Hypofractionated proton therapy resulted in comparable disease control and overall tolerability as conventional fractionation in patients with or without immediate breast reconstruction. Funding: The Department of Radiation Oncology, Mayo Clinic Rochester, Minnesota and the Department of Radiation Oncology, Mayo Clinic Arizona, and the Mayo Comprehensive Cancer Center through Grant Number P30 CA015083 from the National Cancer Institute. 
+
+INTRODUCTION Author Manuscript 
+
+Following mastectomy, postoperative chest wall, axillary, supraclavicular and internal mammary irradiation (i.e. postmastectomy radiotherapy [PMRT]) reduces locoregional and distant relapse and improves breast cancer-specific and overall survival in patients with lymph node positive and locally advanced breast cancer(1). Despite advances in radiotherapy technology that have led to reduction in dose to non-target normal tissues, the long-term benefits of PMRT are partially off-set by late adverse events, including major cardiac events and secondary malignancy resulting primarily from cardiac, pulmonary, esophageal, and contralateral breast exposure(2, 3). Proton therapy is a form of particle therapy under investigation in breast cancer and other malignancies because of the potential 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 3 
+
+Author Manuscript 
+
+for improved normal tissue sparing(4, 5). Conventional photon radiotherapy delivers radiotherapy with megavoltage energy x-rays that gradually attenuate while traveling through tissue beyond the target. In contrast, proton therapy delivers radiotherapy with proton particles possessing a mass and positive charge. These physical properties result in a distinct beam profile characterized by the Bragg peak where most of the energy is deposited at target depth with little dose deposition distal to the target(6). Thus, protons reduce exposure to the heart, lungs, and other soft tissues adjacent to the target volume compared with photon techniques(5). 
+
+Author Manuscript Author Manuscript 
+
+The optimal dose and fractionation for PMRT remains an area of ongoing investigation. Traditionally, photon PMRT has been administered with conventional fractionation consisting of 1.8–2 Gy daily fractions administered over 5–7 weeks. Randomized clinical trials have demonstrated that a condensed course of photon radiotherapy using larger daily fractions over approximately 3 weeks, so-called moderate hypofractionation, is safe and effective following breast conserving surgery or after mastectomy in those with nonreconstructed chest walls(7, 8). However, the feasibility of hypofractionated proton PMRT has yet to be shown, with all reported proton PMRT and nodal irradiation studies having been single arm prospective or retrospective studies employing conventional fractionation(4, 5, 9, 10). Unlike photon radiotherapy, which has a consistently low ionizing density throughout the beam path, the ionizing density of protons is heterogeneous and rises when protons come to a stop at the Bragg peak. This higher ionizing density, or linear energy transfer (LET), may result in a greater biological effect despite delivery of the same physical dose(11, 12). Thus, there is uncertainty whether outcomes of photon hypofractionation trials may be extrapolated to proton therapy. At the same time, given the greater capital investment for the equipment necessary to accelerate protons, if hypofractionated proton therapy proves safe this could improve access to a limited resource while reducing proton treatment cost. We conducted a phase 2 randomized trial comparing conventional fractionation versus hypofractionation in patients with indications for PMRT, including those with immediate breast reconstruction. Based on evidence from photon trials, we hypothesized that the proton PMRT schedule could also be safely condensed to three weeks despite the higher proton LET. 
+
+Materials and Methods Study design and participants 
+
+Author Manuscript 
+
+MC1631 is an IRB-approved, investigator-initiated, multi-site, phase 2 randomized clinical trial comparing conventional and hypofractionated proton PMRT (study protocol provided in Supplement 1), that is registered at ClinicalTrials.gov (NCT02783690). The trial protocol was approved by the Mayo Clinic institutional review board and was independently monitored by a data safety and monitoring board. Written informed consent was obtained from all patients prior to enrollment. Patients were enrolled at Mayo Clinic Rochester, MN, and Mayo Clinic Arizona. Eligibility included age ≥ 18 years with ECOG performance status 0 to 2 and breast cancer resected by mastectomy with or without immediate reconstruction with indications for PMRT, 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 4 
+
+Author Manuscript 
+
+including clinical or pathologic nodal involvement and/or advanced (T3-T4) T stage. Axillary staging by sentinel lymph node biopsy and/or axillary lymph node dissection was required, and radiotherapy had to begin within 12 weeks of the last surgery or chemotherapy administration. When needed, chemotherapy was typically taxane +/− anthracycline-based as per standard of care, and endocrine therapy was tamoxifen or an aromatase inhibitor with or without ovarian function suppression in premenopausal patients (as appropriate). Standard concurrent endocrine therapy and/or HER2-directed therapy was permitted with radiation, details of which was not prospectively collected, but concurrent chemotherapy was not. Exclusion criteria included persistent positive margins, inflammatory breast cancer, recurrent breast cancer, requirement for a boost to the chest wall (nodal boosts were permitted at physician discretion in patients with undissected internal mammary, infraclavicular or supraclavicular nodes that were clinically involved at diagnosis) and medical contraindication to receipt of radiotherapy, active systemic lupus or scleroderma, pregnancy, or uncontrolled intercurrent illness that would limit compliance with study requirements. 
+
+Author Manuscript 
+
+Randomisation This was an open label study. Eligible patients were randomized (1:1) using presence of immediate reconstruction vs no immediate reconstruction as a stratification factor using biased-coin minimization algorithm to either conventional fractionation or hypofractionation. The conventional fractionation group received 50 Gy in 25 fractions of 2 Gy, and the hypofractionation group received 40.05 Gy in 15 fractions of 2.67 Gy (relative biological effectiveness [RBE] 1.1). Procedures 
+
+Author Manuscript 
+
+The simulation, treatment planning and delivery techniques for proton PMRT have previously been described(9, 13, 14). Briefly, simulation was scheduled approximately 5–6 weeks after mastectomy for patients who did not receive postoperative chemotherapy, or 3–4 weeks after the last dose of chemotherapy for those who did receive postoperative chemotherapy. Planning CT scans were routinely obtained in free breathing with 2 mm slices. Patients were immobilized on a breast board in the supine position, typically with both arms abducted and externally rotated or else in an arms-down position for patients with limited range of motion. 
+
+Author Manuscript 
+
+The CTV included the chest wall (plus single injection port tissue expander(9), permanent implant, or autologously reconstructed breast mound in patients with IBR), levels one, two, and three of the axilla, the supraclavicular lymph nodes, and the internal mammary lymph nodes. The CTV resembled the Radiation Therapy Oncology Group (RTOG) Breast Cancer Atlas with the exceptions that follow, based on previously published nodal mapping studies. The chest wall CTV routinely did not extend deeper than the anterior surface of the ribs and intercostal muscles unless these structures were clinically involved. The chest wall CTV excluded the first 3 mm of tissue under the skin. Supraclavicular target volumes routinely included both the medial and lateral supraclavicular lymph nodes, and the supraclavicular CTV was not routinely extended medial to the lateral border of the internal carotid artery in order to reduce the dose to midline organs such as the esophagus and trachea given the 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 5 
+
+Author Manuscript 
+
+low likelihood of recurrence adjacent to these structures(15). The internal mammary lymph node target volume was defined as a 4–5 mm medial and lateral expansion on the internal mammary vessels and extended from the cranial CT slice of the fourth rib to the most caudal extent of the supraclavicular volume near the junction of the internal mammary and brachiocephalic veins(16). 
+
+Author Manuscript 
+
+Treatment was delivered with two to three anterior fields angled 45–60 degrees apart. Plans were evaluated to ensure robust CTV coverage under worst case uncertainty scenarios of ±5 mm isocenter shifts in x, y, and z directions and ±3% beam range uncertainty. The target coverage goal for the CTV was D95% (minimum dose covering 95% of the target volume) ≥ 95% of the prescription dose and D0.01 cm3 (maximum dose to 0.01 cm3 of the target volume) ≤ 110% of the prescription dose. The skin was defined as the first 3 mm of tissue. To ensure adequate coverage of the dermal lymphatics of the chest wall but to limit the risk of dermatologic toxicity, treatment planning objectives for the skin overlying the chest wall included D90% ≥ 90% of prescription and D1 cm3 ≤ 105% of prescription. For the skin overlying the supraclavicular CTV the constraint was D1 cm3 ≤ 90% of prescription. Other pertinent organ constraints included: ≤ 15% of the ipsilateral lung can receive ≥ 40% of prescription; mean heart dose ≤ 1.5 % of prescription; brachial plexus D0.01 cm3 ≤ 102% of prescription; esophagus D1 cm3 ≤ 72% of prescription(9, 14). 
+
+Author Manuscript 
+
+Plans were created in the Eclipse (Varian Medical Systems, Inc., Palo Alto, CA, USA) Treatment Planning System (RBE = 1.1) typically using multi-field optimization, and verified in an in-house graphics processing unit (GPU)-based Monte Carlo physical dose simulation (RBE = 1.1)(17). The techniques to account for the dosimetric impact of metallic ports within the tissue expander were as previously described(9). All patients were treated with pencil-beam scanning on a Hitachi PROBEAT-V proton therapy system (Hitachi, Tokyo, Japan). To treat the shallow depths required, a range shifter was used with a 4.5 cm water-equivalent thickness. Daily image guidance involved stereoscopic (oblique pair) kilovoltage imaging and 6-degree of freedom matching to the chest wall. Additionally, inter and intra-fraction tracking of the body surface was commonly utilized with the AlignRT platform (Vision RT Inc., London, UK)(18). Patients underwent at least one CT scan during the first week of therapy to verify acceptable target volume coverage and dose to organs at risk (OARs) of the treatment plan. 
+
+Author Manuscript 
+
+History and physical exams, adverse event assessment, and patient-reported quality of life surveys were performed prior to the initiation of radiotherapy, on the last day of radiotherapy, then at 3 months, 12 months, and annually for five years after the completion of radiotherapy. Video visits were permitted during the Covid pandemic. Additional adverse event evaluations were conducted at the discretion of the treating physician and/or as prompted by patients. The treating providers assessed adverse effects of radiotherapy using templates specifying common breast radiotherapy-related adverse effects according to the CTCAE, v 4.0. Acute adverse events were defined as adverse events using CTCAE v 4.0 that occurred in the first 90 days following radiotherapy, and late adverse events occurred after the first 90 days and up to 5 years following radiotherapy. Recurrence was assessed using physical exams with laboratory and/or imaging studies performed if there were signs and symptoms suggestive of recurrent disease. Recurrence had to be confirmed by 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 6 
+
+Author Manuscript 
+
+biopsy. Sex, race, and ethnicity data were collected by patient self-report. There were no prespecified interruptions due to adverse events and treatment interruptions were discouraged. Outcomes 
+
+Author Manuscript Author Manuscript 
+
+The primary endpoint was 24-month complication rate, defined as grade 3 or higher late adverse events using CTCAE, v 4.0 and/or unplanned surgical intervention in patients undergoing mastectomy with reconstruction (not including planned serial fat grafting), such as for infection resulting in tissue expander or implant removal or unplanned reoperation for seroma, hematoma, skin flap necrosis, wound dehiscence, or capsular contracture. Patients were followed for protocol defined complications from the first day of radiotherapy up to 5 years following radiotherapy. Secondary endpoints included acute and late adverse events; reconstruction failure (defined as loss of the tissue expander or implant with the inability to replace it resulting in no final reconstruction or conversion to autologous reconstruction or unplanned revision with the addition of autologous reconstruction(19)); patient reported outcomes/quality of life (elements of the Patient Reported Outcomes Version of the Common Terminology Criteria for Adverse Events [PRO-CTCAE] were used for patient self-reporting of toxicities and a modified version of The Breast Cancer Treatment Outcomes Scale [BCTOS] was used for patient reported functional status such as pain, fatigue, arm mobility); patient reported cosmesis (using a modified Harvard Cosmesis Scale and a modified BCTOS); panel assessed cosmetic outcomes (using digital photographs); ipsilateral breast tumor recurrence (IBTR, non-invasive or invasive local recurrence in the same parenchyma as the original tumor); regional recurrence (invasive breast cancer in the axilla, regional lymph nodes, chest wall, and skin of the ipsilateral breast); distant recurrence (metastatic cancer that has either been biopsy confirmed or clinically diagnosed as recurrent invasive breast cancer); invasive disease-free survival (defined as time from registration to the occurrence of invasive IBTR, regional recurrence, distant recurrence, contralateral invasive breast cancer, second primary invasive cancer, or death due to any cause); overall survival (defined as the time from registration to death due to any cause). The exploratory patient reported outcomes and echocardiographic changes will be reported separately to enable more detailed analyses. Statistical Analysis 
+
+Author Manuscript 
+
+This study was designed to test whether the hypofractionated arm was non-inferior to conventional fractionation arm using a non-inferiority/superiority “hybrid” design of Freidlin et al.(20) which allows sequential testing of noninferiority and superiority in the same trial. For design of this trial, we assumed a 10% 24-month complication rate in the conventional fractionation arm based on prior experience and considered a 10% increase of this rate in the hypofractionation arm would be acceptable (i.e., a non-inferiority margin). With a non-inferiority margin of 10% and using a one-side Type I error rate of 5%, 72 patients (36 per arm) were determined to provide 80% power to conclude that hypofractionation arm was non-inferior to conventional fractionation arm. The total sample size was inflated to 88 (44 per arm) to account for cancellations or major violations. Per study design, the non-inferiority of hypofractionation arm would not be ruled out if the upper bound of 1-sided 95% confidence limit for the difference in 24-month complication rate was greater than 10%. Further, we postulated that toxicities in the experimental arm Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 7 
+
+Author Manuscript 
+
+may even be reduced with the shortened fractionation schedule(21). A superiority test would be performed only if the hypofractionation arm was shown to be non-inferior to the conventional fractionation arm. 
+
+Author Manuscript 
+
+Patient characteristics and baseline symptoms were summarized by treatment arm using frequency and proportion. Clinical target volume (CTV) coverage and normal tissue dosimetric parameters for the heart, lungs, ipsilateral breast, and skin were reported by arms using median and interquartile range (IQR). Any patient that received protocol treatment was evaluable for the primary endpoint and all secondary endpoints. For the primary endpoint, the difference in 24-month complication rates between treatment arms were estimated (along with 1-sided 95% confidence interval) and tested using normal approximation of the binomial distribution. In addition, as a post-hoc sensitivity analysis the cumulative incidence of complications at 24 months are reported where patients who died for non-treatment related reasons are considered competing risk events and patients who withdrew are censored at their last adverse event evaluation. Further, post-hoc univariate and bivariate analyses of associations between 24-month complication incidence and clinical variables among patients with immediate breast reconstruction (because all protocol-defined complications occurred in patients with reconstruction) were assessed using Fine-Gray models and reported via hazard ratios and 95% confidence intervals with p values (Wald test). Variables that were assessed in the univariate analysis and the comparators in these groups included treatment arm (conventional vs hypofractionation), age (≤50 vs >50), clinical stage (T0, T1, or T2 vs T3 or T4), axillary surgery (sentinel node biopsy or sentinel node biopsy followed by axillary node dissection vs axillary node dissection), reconstruction (autologous or permanent implant vs tissue expander), implant/expander location (subpectoral vs prepectoral), contralateral prophylactic mastectomy (no vs yes), chemotherapy receipt (no vs yes), and comorbidity (no vs yes). The significant variable in the univariate analysis was chosen, along with treatment arm, for the bivariate analysis. The invasive disease-free survival (DFS) and overall survival (OS) distributions were estimated using Kaplan-Meier methods and 3-year estimates of invasive DFS and OS are provided as post-hoc analyses. Except for the primary endpoint, all confidence intervals and p-values reported were 2-sided. All analyses were conducted using the SAS software version 9.4. 
+
+Author Manuscript 
+
+Role of the funding source: The funders provided resources to support study design, data collection, data analysis, and the writing of the report. 
+
+RESULTS Author Manuscript 
+
+Between June 2, 2016, and August 23, 2018, a total of 88 patients were enrolled, with 44 assigned to each arm. There were 6 cancellations, 3 in each arm. Reasons for the 6 cancellations were insurance coverage denial for proton therapy (n=3) and withdrawal of consent (n=3). Thus, 41 patients randomized to conventional fractionation and 41 patients randomized to hypofractionation received the assigned study treatment and were evaluable for the primary endpoint (Figure 1). 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 8 
+
+Author Manuscript Author Manuscript 
+
+Assignment of treatments was balanced with respect to IBR, and the characteristics of the patients at baseline were similar between the two groups, including no significant differences with regards to patient comorbidities, extent of axillary surgery, mastectomy type, or chemotherapy receipt (table 1). The median age was 52 years (interquartile range [IQR], 44 – 64). The race of participants was White (96.3%), Black or African American (2.4%) and Asian (1.2%), and the ethnicity was not Hispanic of Latino (96.3%) and unknown (3.7%). Tumor laterality was left in 44 (53.7%) and right in 38 (46.3%). Most patients had tumors that were categorized at diagnosis clinically as ≥ T2 (80.5%) and node positive (75.6%) and most received combination chemotherapy (75.6%). At the time of radiotherapy, 57 (69.5%) had reconstructed breast mounds, amongst whom 48 (84.2%) had tissue expanders as part of two-staged implant-based IBR, 7 (12.3%) had direct to implant reconstruction, and 2 (3.5%) had autologous reconstruction at the time of radiotherapy. Amongst the 55 patients with two-stage implant-based IBR, the prosthesis was placed in a prepectoral location in 40 (72.7%) and in a subpectoral location in 15 (27.3%). Selected dosimetric parameters for each treatment group are provided in supplementary table 1. The internal mammary nodes received prescription dose for both left and right-sided cases. Meanwhile, the median mean heart dose was kept to 0.54 Gy (IQR 0.30 – 0.70) and 0.49 Gy (IQR 0.25 – 0.64) the median ipsilateral lung V20 Gy were 13.9% (IQR 11.0 – 14.8) and 8.6% (IQR 7.2 – 10.2) in the conventional and hypofractionated arms, respectively. The median max dose to the left anterior descending coronary artery in leftsided cases was 9.43 Gy (IQR 6.11 – 12.20) and 8.49 Gy (IQR 3.94 – 10.76) and the median max dose to the right coronary artery in right-sided cases was 7.63 Gy (IQR 3.15 – 10.99) and 6.32 Gy (IQR 3.57 – 10.98) in the conventional and hypofractionated arms, respectively. 
+
+Author Manuscript Author Manuscript 
+
+With a median follow-up of 39.3 months (IQR 37.5 – 61.2), there have been 14 protocol defined complications, 6 (14.6%) treated with conventional and 8 (19.5%) with hypofractionation (absolute difference 4.9% (one-sided 95% CI [−∞, 18.5%]; p = 0.268)), all occurring within 24 months of radiotherapy (Figure 2). The 24-month cumulative incidence of complications was 15.4% (95% CI [7.2%, 31.8%]) and 19.5% (95% CI [7.2%, 31.8%]) for the conventional and hypofractionated arms, respectively, (absolute difference 4.1% (one-sided 95% CI [−∞, 17.9%])). In a post-hoc analysis all 14 complications were identified as being in patients with immediate expander/implant-based reconstruction, with 6 of 27 (22.2%) patients treated with conventional and 8 of 30 (24.1%) treated with hypofractionation developing complications. The 24-month cumulative incidence of complications amongst reconstructed patients was 23.1% (95% CI [9.1%, 40.7%]) and 26.7% (95% CI [12.4%, 43.3%]) for the conventional and hypofractionated arms, respectively (absolute difference 3.6% (one-sided 95% CI [−∞, 21.1%]), Supplementary Figure 1). The complications in the conventionally fractionated arm were contracture (n = 5) and fat necrosis (n = 1) requiring surgical intervention. All 8 protocol defined complications in the hypofractionated arm were infectious, 7 of which required surgical intervention. A univariate analysis of predictors of complications amongst the 57 patients with immediate reconstruction is shown in supplementary table 2. Only age > 50 years (hazard ratio [HR] 3.10, 95% CI [1.072 – 8.999]) but not hypofractionation (HR 1.33, 95% CI [0.479 – 3.719]) was significantly associated with complications (Supplementary table 2). The effect of age and fractionation on complications was evaluated in a bivariate model and only age > 50 Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 9 
+
+Author Manuscript 
+
+years (HR 3.050, (95% CI [1.085 – 8.568])) but not hypofractionation (HR 1.185, (95% CI [0.443 – 3.170])) was again associated with complications (Supplementary table 3). Reconstruction failure was observed in one of 27 (3.7% (95% CI [0.1%, 19.0%]) reconstructed patients treated with conventional and 5 of 30 (16.7% (95% CI [5.6%, 34.7%]) reconstructed patients treated with hypofractionation. Four of six patients with protocol defined reconstruction failure were salvaged with autologous reconstruction, leaving two of 57 (3.5%) reconstructed patients, both in the hypofractionated arm, without reconstruction at last follow-up. 
+
+Author Manuscript 
+
+Tables 2 and 3 summarize acute and late adverse events regardless of attribution, respectively. All patients were eligible for acute adverse event assessment, whereas 40 patients in each arm were eligible for late adverse event assessment due to one withdrawal (conventional arm) and one non-treatment related death from stroke (hypofractionated arm). There were less grade 2 or greater acute dermatitis events, 19 (46.3%) of 41 (95% CI [30.6%, 62.5%]) vs 7 (17.1%) of 41 (95% CI [7.2%, 32.1%]), and more late breast infections, 0 (0%) of 40 (95% CI [0%, 8.8%]) vs 5 (12.5%) of 40 (12.5% (95% CI [4.1%, 26.8%]), amongst evaluable patients treated with hypofractionation. 
+
+Author Manuscript 
+
+The data for invasive DFS events are displayed in Table 4. With a median follow-up of 39.3 months there have been seven recurrence events, four in the conventional arm and three in the hypofractionation arm. There was one simultaneous IBTR, regional (axillary), and distant recurrence occurring in a patient treated with hypofractionation and six isolated distant recurrence events (4 conventional, 3 hypofractionation). There have been no isolated IBTR or regional recurrences. There was one death without recorded progression in the hypofractionation arm. The 3-year invasive DFS was 89.4% (95% CI 80.0 – 99.8%) and 92.4% (95% CI 84.5 – 100.0%) and the 3-year overall survival was 94.9 (95% CI 88.2 – 100.0%) and 95.1% (95% CI 88.6 – 100.0%) for the conventional and hypofractionated arms, respectively (Supplementary Figure 2A). 
+
+DISCUSSION 
+
+Author Manuscript 
+
+We report outcomes of the first randomized study of proton therapy for breast cancer and the first prospective data of hypofractionated proton PMRT. Our study was powered based on the hypothesis that hypofractionated proton PMRT may result in fewer complications than conventional fractionation, given that a 40 Gy in 15 fraction hypofractionated photon regimen was associated with significantly less late normal tissue effects including less breast shrinkage, edema, and telangiectasia in the START B study of photon whole breast irradiation after breast conserving surgery(21). Moreover, hypofractionated regimens are associated with less acute skin toxicity(7, 22, 23). Thus, we postulated that hypofractionated proton PMRT with 40 Gy (RBE) in 15 fractions may be associated with a more favorable toxicity profile than conventional fractionation, including in patients with reconstructed breast mounds. This is a population at high-risk complications and reconstruction failure for whom new treatment approaches to reduce treatment related morbidity are desperately needed. Our study did not show a significant difference in protocol defined complication rates between the conventional and hypofractionated proton arms. Moreover, there was no 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 10 
+
+Author Manuscript 
+
+significant difference in complications between the two arms among reconstructed patients. However, we did not observe fewer complications with hypofractionation as hypothesized. Because the upper bound of the one-sided 95% CI for the estimated difference in the 24month complication rate between the two arms exceeded the 10% non-inferiority threshold, non-inferiority of the hypofractionation arm could not be established potentially due to the sample size of this study. Thus, we cannot rule out that hypofractionation does not increase the rate of specific reconstruction complications compared to conventionally fractionated proton therapy. Nevertheless, hypofractionated proton PMRT appears to be an attractive option worthy of continued investigation in ongoing and photon vs proton clinical trials. 
+
+Author Manuscript Author Manuscript 
+
+There were trends in between-arm differences in the nature of the adverse events that may warrant further study. Interestingly, we observed more unplanned surgical interventions for contracture and fat necrosis with conventional fractionation, which could be considered consistent with the higher rate of breast shrinkage and other late normal tissue effects observed with conventional fractionation in the START A and START B clinical trials (21). Consistent with prior photon trials, there were fewer grade 2 acute radiation dermatitis events with hypofractionation compared with conventional fractionation(7, 22). However, despite less acute dermatitis with hypofractionation, and skin breakdown being a potential source of microbial infiltration, this did not translate into a reduction in observed complications and there were actually more infectious complications in the hypofractionated arm which may be a chance finding. Radiotherapy-induced reconstruction complications are a major source of patient morbidity after PMRT(24), and all protocol defined complications occurred in patients who underwent immediate breast reconstruction. Importantly, only age >50 years, but not fractionation, was associated with complications amongst reconstructed patients. Overall, reconstruction complication rates in our study compared favorably with prior photon reports(24). Favorable reconstruction outcomes have previously been reported with conventionally fractionated proton therapy(4, 9). Larger randomized studies of conventional and hypofractionated photon and proton therapy in patients with immediate breast reconstruction, such as the on-going photon clinical trials A221505/RT CHARM (NCT0341970) and FABREC (NCT03422003), may provide additional insight into the specific toxicity profile of each regimen and the optimal dose and fractionation in patients with IBR. 
+
+Author Manuscript 
+
+Consistent with prior reports, excellent cardiac and pulmonary sparing was achieved with protons while maintaining comprehensive target coverage of the regional lymph nodes, including the internal mammary nodes, notwithstanding high rates of contralateral mastectomy in our tertiary centers for both risk reduction and for symmetry which can complicate treatment planning(6, 25). Due to the lower total prescribed dose, hypofractionation resulted in slightly less cumulative exposure to organs at risk than the conventional arm and prior single arm conventionally fractionated proton studies(4, 5, 9, 10). The clinical significance of these modest reductions is uncertain. Many studies support linear association models between organ exposure and late adverse events(2, 3). Whether the relative normal tissue sparing of protons compared to photons can reduce late effects remains an area of ongoing investigation. Of note, cardiac complications of radiotherapy and secondary malignancy can take decades to manifest(2). Two randomized controlled trials comparing photons and protons in patients with indications for nodal irradiation are in active Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 11 
+
+Author Manuscript 
+
+accrual with primary endpoints of ten-year major cardiovascular event rate(26, 27). The primary endpoint results for the pragmatic randomized trial of proton vs photon therapy for patients with non-metastatic breast cancer: a radiotherapy comparative effectiveness (RADCOMP) consortium trial, the trial furthest along in accrual, will not be available until after 2033. The RADCOMP trial requires conventional fractionation. In contrast, the recently activated Danish Breast Cancer Group (DBCG) Proton Trial is allowing either conventional or hypofractionated radiotherapy in each arm(26, 27). Results from our prospective randomized trial, in the context of emerging photon hypofractionation literature, provide prospective data to support the use of either conventional or hypofractionated PMRT regimens in current and future clinical trials comparing photon and proton therapy for breast cancer. 
+
+Author Manuscript 
+
+Although the normal tissue sparing properties of protons are promising, protons have distinct treatment related uncertainties. The rapid dose fall-off at the end of the proton range is critical for normal tissue sparing. However, reliable positioning of tissue is necessary to maintain a consistent path length. Thus, swelling during treatment could lead to underdosing at the posterior extent of the target(6). Consequently, a key secondary endpoint of the RADCOMP trial is to compare the non-inferiority of proton vs photon therapy in reducing ipsilateral breast cancer local-regional recurrence. The effects of day-to-day variations in setup may be blunted using multiple low dose fractions but could be exacerbated with short course regimens. Promisingly, we observed excellent locoregional control, with no isolated local or regional recurrence events in either arm at a median follow-up of over 39 months. 
+
+Author Manuscript Author Manuscript 
+
+Our study had several limitations. Besides sample size, other potential limitations in our study include all patients being treated at two academic centers in Minnesota and Arizona, the predominant white population, and high rates of prepectoral reconstruction and contralateral prophylactic mastectomy which could limit the generalisability of our findings. We did not collect information on body mass index which like patient age, has previously been associated with reconstruction complications. Beyond proton range uncertainties, another distinct technical challenge to be addressed during breast proton therapy includes heterogeneity in LET, with higher LET at the distal most portions of the target volume and in organs at risk distal to the target. Importantly, no rib fractures or symptomatic pneumonitis events were observed in our study, which could be related to attempts made to limit areas of high physical dose and high LET overlap during planning(13), including by using a minimum of two fields. Early reported proton studies used aperture and compensator-based techniques(5, 28, 29). All patients in this study were treated with modern multi-field optimized pencil-beam scanning which enables clinicians to avoid hots spots on the skin surface while maintaining underlying target coverage, an advance over the earlier techniques. Most patients developed just grade 1 acute dermatitis, and no grade 3 dermatitis events were reported, indicative of less skin toxicity compared to these prior studies(5, 28, 29). Optimal techniques for breast cancer proton therapy continue to evolve. These findings highlight the importance of careful attention to techniques employed when interpreting proton literature, including in ongoing randomized trials. In conclusion, pencil-beam scanning proton PMRT provided excellent locoregional control and exquisite normal tissue sparing. Reconstruction complication rates appear comparable 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 12 
+
+Author Manuscript 
+
+to previous reports of photon PMRT, and there were no significant differences in recurrence or complication rates between the conventional and hypofractionated arms. Notwithstanding limitations in sample size, hypofractionated proton PMRT appears worthy of further study, and additional investigation into the optimal dose and fractionation of photon and proton PMRT is warranted. 
+
+Supplementary Material Refer to Web version on PubMed Central for supplementary material. 
+
+Acknowledgements 
+
+Author Manuscript 
+
+This work was supported in part by K12 HD065987 (RM), the Mayo Clinic Research Pipeline K2R Award (RM), the Mayo Clinic Department of Radiation Oncology, and Grant Number P30 CA015083 from the National Cancer Institute. Its contents are solely the responsibility of the authors and do not necessarily represent the official view of the National Institutes of Health. 
+
+Data sharing 
+
+Author Manuscript 
+
+The study protocol is available in the appendix. De-identified individual participant data, together with a data dictionary, will be made available to other researchers on request. Mayo Clinic Comprehensive Cancer Center (MCCCC) has a data sharing policy which includes an application outlining the data elements that are being requested and the format the recipient wishes to receive these data. Data sharing requests will be reviewed by the trial management team and the MCCCC Data Safety and Monitoring Committee for availability of requested data elements and sent to the IRB for approval where data sharing requests are reviewed for the protection of patient’s rights. In addition, data sharing is undertaken if proposed projects have a sound scientific rationale. Shared data will include only those patients who agreed to allow the sharing of their data with other researcher as part of their signed informed consent. 
+
+References 
+
+Author Manuscript 
+
+1. McGale P, Taylor C, Correa C, Cutter D, Duane F, Ewertz M, et al. Effect of radiotherapy after mastectomy and axillary surgery on 10-year recurrence and 20-year breast cancer mortality: meta-analysis of individual patient data for 8135 women in 22 randomised trials. Lancet. 2014;383(9935):2127–35. [PubMed: 24656685] 2. Taylor C, Correa C, Duane FK, Aznar MC, Anderson SJ, Bergh J, et al. Estimating the Risks of Breast Cancer Radiotherapy: Evidence From Modern Radiation Doses to the Lungs and Heart and From Previous Randomized Trials. J Clin Oncol. 2017;35(15):1641–9. [PubMed: 28319436] 3. Darby SC, Ewertz M, McGale P, Bennet AM, Blom-Goldman U, Bronnum D, et al. Risk of ischemic heart disease in women after radiotherapy for breast cancer. N Engl J Med. 2013;368(11):987–98. [PubMed: 23484825] 4. Jimenez RB, Hickey S, DePauw N, Yeap BY, Batin E, Gadd MA, et al. Phase II Study of Proton Beam Radiation Therapy for Patients With Breast Cancer Requiring Regional Nodal Irradiation. J Clin Oncol. 2019;37(30):2778–85. [PubMed: 31449469] 5. Bradley JA, Dagan R, Ho MW, Rutenberg M, Morris CG, Li Z, et al. Initial Report of a Prospective Dosimetric and Clinical Feasibility Trial Demonstrates the Potential of Protons to Increase the Therapeutic Ratio in Breast Cancer Compared With Photons. Int J Radiat Oncol Biol Phys. 2016;95(1):411–21. [PubMed: 26611875] 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 13 
+
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript 
+
+6. Mutter RW, Choi JI, Jimenez RB, Kirova YM, Fagundes M, Haffty BG, et al. Proton Therapy for Breast Cancer: A Consensus Statement From the Particle Therapy Cooperative Group Breast Cancer Subcommittee. Int J Radiat Oncol Biol Phys. 2021;111(2):337–59. [PubMed: 34048815] 7. Wang SL, Fang H, Song YW, Wang WH, Hu C, Liu YP, et al. Hypofractionated versus conventional fractionated postmastectomy radiotherapy for patients with high-risk breast cancer: a randomised, non-inferiority, open-label, phase 3 trial. Lancet Oncol. 2019;20(3):352–60. [PubMed: 30711522] 8. Ragaz J, Jackson SM, Le N, Plenderleith IH, Spinelli JJ, Basco VE, et al. Adjuvant radiotherapy and chemotherapy in node-positive premenopausal women with breast cancer. N Engl J Med. 1997;337(14):956–62. [PubMed: 9309100] 9. Mutter RW, Remmes NB, Kahila MM, Hoeft KA, Pafundi DH, Zhang Y, et al. Initial clinical experience of postmastectomy intensity modulated proton therapy in patients with breast expanders with metallic ports. Pract Radiat Oncol. 2017;7(4):e243–e52. [PubMed: 28341315] 10. Verma V, Iftekaruddin Z, Badar N, Hartsell W, Han-Chih Chang J, Gondi V, et al. Proton beam radiotherapy as part of comprehensive regional nodal irradiation for locally advanced breast cancer. Radiother Oncol. 2017;123(2):294–8. [PubMed: 28457577] 11. Paganetti H Relative biological effectiveness (RBE) values for proton beam therapy. Variations as a function of biological endpoint, dose, and linear energy transfer. Phys Med Biol. 2014;59(22):R419–72. [PubMed: 25361443] 12. Paganetti H, Blakely E, Carabe-Fernandez A, Carlson DJ, Das IJ, Dong L, et al. Report of the AAPM TG-256 on the relative biological effectiveness of proton beams in radiation therapy. Med Phys. 2019;46(3):e53–e78. [PubMed: 30661238] 13. Mutter RW, Jethwa KR, Wan Chan Tseung HS, Wick SM, Kahila MM, Viehman JK, et al. Incorporation of Biologic Response Variance Modeling Into the Clinic: Limiting Risk of Brachial Plexopathy and Other Late Effects of Breast Cancer Proton Beam Therapy. Pract Radiat Oncol. 2019. 14. Smith NL, Jethwa KR, Viehman JK, Harmsen WS, Gonuguntla K, Elswick SM, et al. Postmastectomy intensity modulated proton therapy after immediate breast reconstruction: Initial report of reconstruction outcomes and predictors of complications. Radiother Oncol. 2019;140:76– 83. [PubMed: 31185327] 15. Brown LC, Diehn FE, Boughey JC, Childs SK, Park SS, Yan ES, et al. Delineation of Supraclavicular Target Volumes in Breast Cancer Radiation Therapy. Int J Radiat Oncol Biol Phys. 2015;92(3):642–9. [PubMed: 25936809] 16. Jethwa KR, Kahila MM, Hunt KN, Brown LC, Corbin KS, Park SS, et al. Delineation of Internal Mammary Nodal Target Volumes in Breast Cancer Radiation Therapy. Int J Radiat Oncol Biol Phys. 2017;97(4):762–9. [PubMed: 28244412] 17. Wan Chan Tseung H, Ma J, Beltran C. A fast GPU-based Monte Carlo simulation of proton transport with detailed modeling of nonelastic interactions. Med Phys. 2015;42(6):2967–78. [PubMed: 26127050] 18. Wiant DB, Wentworth S, Maurer JM, Vanderstraeten CL, Terrell JA, Sintay BJ. Surface imagingbased analysis of intrafraction motion for breast radiotherapy patients. J Appl Clin Med Phys. 2014;15(6):4957. [PubMed: 25493520] 19. Fowble B, Park C, Wang F, Peled A, Alvarado M, Ewing C, et al. Rates of Reconstruction Failure in Patients Undergoing Immediate Reconstruction With Tissue Expanders and/or Implants and Postmastectomy Radiation Therapy. Int J Radiat Oncol Biol Phys. 2015;92(3):634–41. [PubMed: 25936815] 20. Freidlin B, Korn EL, George SL, Gray R. Randomized clinical trial design for assessing noninferiority when superiority is expected. J Clin Oncol. 2007;25(31):5019–23. [PubMed: 17971602] 21. Haviland JS, Owen JR, Dewar JA, Agrawal RK, Barrett J, Barrett-Lee PJ, et al. The UK Standardisation of Breast Radiotherapy (START) trials of radiotherapy hypofractionation for treatment of early breast cancer: 10-year follow-up results of two randomised controlled trials. Lancet Oncol. 2013;14(11):1086–94. [PubMed: 24055415] 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 14 
+
+Author Manuscript Author Manuscript 
+
+22. Shaitelman SF, Schlembach PJ, Arzu I, Ballo M, Bloom ES, Buchholz D, et al. Acute and Shortterm Toxic Effects of Conventionally Fractionated vs Hypofractionated Whole-Breast Irradiation: A Randomized Clinical Trial. JAMA Oncol. 2015;1(7):931–41. [PubMed: 26247543] 23. Hong Z, Yang Z, Mei X, Li P, Bao C, Wang Z, et al. A retrospective study of adjuvant proton radiotherapy for breast cancer after lumpectomy: a comparison of conventional-dose and hypofractionated dose. Radiat Oncol. 2023;18(1):56. [PubMed: 36959653] 24. Momoh AO, Ahmed R, Kelley BP, Aliu O, Kidwell KM, Kozlow JH, et al. A systematic review of complications of implant-based breast reconstruction with prereconstruction and postreconstruction radiotherapy. Ann Surg Oncol. 2014;21(1):118–24. [PubMed: 24081801] 25. Jimenez RB, Goma C, Nyamwanda J, Kooy HM, Halabi T, Napolitano BN, et al. Intensity modulated proton therapy for postmastectomy radiation of bilateral implant reconstructed breasts: a treatment planning study. Radiother Oncol. 2013;107(2):213–7. [PubMed: 23647751] 26. Bekelman JE, Lu H, Pugh S, Baker K, Berg CD, de Gonzalez AB, et al. Pragmatic randomised clinical trial of proton versus photon therapy for patients with non-metastatic breast cancer: the Radiotherapy Comparative Effectiveness (RadComp) Consortium trial protocol. BMJ Open. 2019;9(10):e025556. 27. Stick LB, Lorenzen EL, Yates ES, Anandadas C, Andersen K, Aristei C, et al. Selection criteria for early breast cancer patients in the DBCG proton trial - The randomised phase III trial strategy. Clin Transl Radiat Oncol. 2021;27:126–31. [PubMed: 33659716] 28. Macdonald SM, Patel SA, Hickey S, Specht M, Isakoff SJ, Gadd M, et al. Proton therapy for breast cancer after mastectomy: early outcomes of a prospective clinical trial. Int J Radiat Oncol Biol Phys. 2013;86(3):484–90. [PubMed: 23523326] 29. Cuaron JJ, Chon B, Tsai H, Goenka A, DeBlois D, Ho A, et al. Early toxicity in patients treated with postoperative proton therapy for locally advanced breast cancer. Int J Radiat Oncol Biol Phys. 2015;92(2):284–91. [PubMed: 25754632] 
+
+Author Manuscript Author Manuscript Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 15 
+
+Author Manuscript 
+
+Evidence before this study 
+
+Author Manuscript Author Manuscript 
+
+We searched PubMed and abstracts from major international oncology, radiation oncology, and breast cancer congresses for phase 3 randomized postmastectomy radiotherapy (PMRT) trials. We identified results demonstrating that modest hypofractionation over 15–16 treatments is an established approach for the delivery of photon PMRT in patients without reconstruction. In patients that pursue implant-based reconstruction after mastectomy, PMRT is known to increase the risk of reconstruction complications and failure. Two ongoing randomized controlled trials are evaluating whether complications rates are acceptable following hypofractionated, compared with conventionally fractionated photon PMRT in patients with breast reconstruction A221505/RT CHARM (NCT0341970) and FABREC (NCT03422003). Proton therapy is a newer PMRT delivery option that is potentially attractive due to distinct physical properties of protons that allow improved cardiopulmonary and other normal tissue sparing over photon techniques. Studies have demonstrated a linear association between heart dose and late cardiac events. Results from phase 3 randomized trials evaluating whether proton therapy can reduce the risk of cardiac complications following breast radiotherapy are not expected to be available until at least 2034. Evidence suggests that protons may also have distinct biological effects compared with photons resulting from heterogeneous ionizing density throughout the proton beam profile. Therefore, there is uncertainty whether outcomes of photon hypofractionated trials can be directly extrapolated to proton therapy. Recently, a systematic review of proton therapy in breast cancer was conducted by the Particle Therapy Cooperative Group Breast Cancer Subcommittee. This analysis revealed that all published proton therapy PMRT prospective studies to date have been single arm and employed conventional fractionation with 25 or more treatments. Consistently, the ongoing RADCOMP trial comparing photons and protons (NCT 02603341), requires conventional fractionation. Added value of this study This study provides the first prospective data of hypofractionated proton PMRT, including in patients with immediate breast reconstruction. Further, these are the first mature results of a randomized trial in the field of breast proton therapy and suggest that conventionally fractionated and hypofractionated proton PMRT result in comparable complication rates. Consistent with prior single arm studies, proton PMRT provided exquisite normal tissue sparing. Further, excellent locoregional control was observed, with no isolated locoregional recurrences with a median follow-up of 39 months in either arm. 
+
+Author Manuscript 
+
+Implications of all the available evidence Our results, when combined with existing photon evidence, provide prospective data to support either hypofractionated or conventionally fractionated proton PMRT as viable approaches in ongoing phase 3 clinical trials comparing photon and proton radiotherapy. 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 16 
+
+Author Manuscript Figure 1. 
+
+Author Manuscript 
+
+Consort diagram 
+
+Author Manuscript Author Manuscript Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 17 
+
+Author Manuscript Author Manuscript Figure 2. 
+
+Post-hoc sensitivity analysis of cumulative invidence of protocol-defined complications 
+
+Author Manuscript Author Manuscript Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 18 
+
+Table 1. 
+
+Author Manuscript 
+
+Patient Characteristics Arm Conventional (N=41) 
+
+Hypofractionation (N=41) 
+
+Total (N=82) 
+
+Median 
+
+50 
+
+54 
+
+52 
+
+IQR 
+
+44, 64 
+
+46, 63 
+
+44, 64 
+
+Range 
+
+30, 76 
+
+32, 78 
+
+30, 78 
+
+<=50 
+
+22 (53.7%) 
+
+18 (43.9%) 
+
+40 (48.8%) 
+
+>50 
+
+19 (46.3%) 
+
+23 (56.1%) 
+
+42 (51.2%) 
+
+Asian 
+
+1 (2.4%) 
+
+0 (0.0%) 
+
+1 (1.2%) 
+
+Black of African American 
+
+0 (0.0%) 
+
+2 (4.8%) 
+
+2 (2.4%) 
+
+White 
+
+40 (97.6%) 
+
+39 (95.1%) 
+
+79 (96.3%) 
+
+Not Hispanic or Latino 
+
+38 (92.7%) 
+
+41 (100.0%) 
+
+79 (96.3%) 
+
+Unknown 
+
+3 (7.3%) 
+
+0 (0.0%) 
+
+3 (3.7%) 
+
+Left 
+
+24 (58.5%) 
+
+20 (48.8%) 
+
+44 (53.7%) 
+
+Right 
+
+17 (41.5%) 
+
+21 (51.2%) 
+
+38 (46.3%) 
+
+Age 
+
+Age, n (%) 
+
+Race 
+
+Author Manuscript 
+
+Ethnicity 
+
+Tumor Laterality, n (%) 
+
+Clinical T Stage, n (%) 
+
+Author Manuscript 
+
+T0 
+
+1 (2.4%) 
+
+0 (0.0%) 
+
+1 (1.2%) 
+
+T1 
+
+8 (19.5%) 
+
+7 (17.1%) 
+
+15 (18.3%) 
+
+T2 
+
+20 (48.8%) 
+
+19 (46.3%) 
+
+39 (47.6%) 
+
+T3/T4 
+
+12 (29.3%) 
+
+15 (36.6%) 
+
+27 (32.9%) 
+
+N0 
+
+9 (22.0%) 
+
+11 (26.8%) 
+
+20 (24.4%) 
+
+N1 
+
+18 (43.9%) 
+
+20 (48.8%) 
+
+38 (46.3%) 
+
+N2 
+
+7 (17.1%) 
+
+6 (14.6%) 
+
+13 (15.9%) 
+
+N3 
+
+7 (17.1%) 
+
+4 (9.8%) 
+
+11 (13.4%) 
+
+Clinical N Stage, n (%) 
+
+Pathologic T stage, n (%) 
+
+Author Manuscript 
+
+T0/Tis 
+
+14 (34.1%) 
+
+6 (14.6%) 
+
+20 (24.4%) 
+
+T1 
+
+13 (31.7%) 
+
+12 (29.3%) 
+
+25 (30.5%) 
+
+T2 
+
+12 (29.3%) 
+
+12 (29.3%) 
+
+24 (29.3%) 
+
+T3 
+
+2 (4.9%) 
+
+11 (26.8%) 
+
+13 (15.9%) 
+
+pN0 
+
+14 (34.1%) 
+
+14 (34.1%) 
+
+28 (34.1%) 
+
+pN1 
+
+16 (39.0%) 
+
+21 (51.2%) 
+
+37 (45.1%) 
+
+pN2 
+
+8 (19.5%) 
+
+6 (14.6%) 
+
+14 (17.1%) 
+
+pN3 
+
+3 (7.3%) 
+
+0 (0.0%) 
+
+3 (3.7%) 
+
+Pathologic N stage, n (%) 
+
+Estrogen receptor status, n (%) 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 19 
+
+Arm Conventional (N=41) 
+
+Hypofractionation (N=41) 
+
+Total (N=82) 
+
+Author Manuscript 
+
+Negative 
+
+11 (26.8%) 
+
+5 (12.2%) 
+
+16 (19.5%) 
+
+Positive 
+
+30 (73.2%) 
+
+36 (87.8%) 
+
+66 (80.5%) 
+
+Negative 
+
+8 (19.5%) 
+
+9 (22.0%) 
+
+17 (20.7%) 
+
+Positive 
+
+33 (80.5%) 
+
+32 (78.0%) 
+
+65 (79.3%) 
+
+Negative 
+
+27 (65.9%) 
+
+35 (85.4%) 
+
+62 (75.6%) 
+
+Positive 
+
+14 (34.1%) 
+
+6 (14.6%) 
+
+20 (24.4%) 
+
+Grade 1 
+
+7 (17.1%) 
+
+3 (7.3%) 
+
+10 (12.2%) 
+
+Grade 2 
+
+19 (46.3%) 
+
+24 (58.5%) 
+
+43 (52.4%) 
+
+Grade 3 
+
+15 (36.6%) 
+
+14 (34.1%) 
+
+29 (35.4%) 
+
+Total Mastectomy 
+
+16 (39.0%) 
+
+13 (31.7%) 
+
+29 (35.4%) 
+
+Nipple Sparing Mastectomy 
+
+11 (26.8%) 
+
+10 (24.4%) 
+
+21 (25.6%) 
+
+Skin Sparing Mastectomy 
+
+14 (34.1%) 
+
+18 (43.9%) 
+
+32 (39.0%) 
+
+2 (4.9%) 
+
+6 (14.6%) 
+
+8 (9.8%) 
+
+Sentinel lymph node biopsy only 
+
+9 (22.0%) 
+
+13 (31.7%) 
+
+22 (26.8%) 
+
+Sentinel node biopsy followed by axillary node dissection 
+
+30 (73.2%) 
+
+22 (53.7%) 
+
+52 (63.4%) 
+
+No 
+
+14 (34.1%) 
+
+11 (26.8%) 
+
+25 (30.5%) 
+
+Yes 
+
+27 (65.9%) 
+
+30 (73.2%) 
+
+57 (69.5%) 
+
+Progesterone receptor status, n (%) 
+
+HER2, n (%) 
+
+Histologic Grade, n (%) 
+
+Author Manuscript 
+
+Breast Surgical Procedure, n (%) 
+
+Axillary surgery, n (%) Axillary node dissection 
+
+Immediate breast reconstruction, n (%) 
+
+Author Manuscript 
+
+Breast Reconstruction Type1, n (%) Autologous 
+
+1 (3.7%) 
+
+1 (3.3%) 
+
+2 (3.5%) 
+
+Permanent Implant 
+
+3 (11.1%) 
+
+4 (13.3%) 
+
+7 (12.3%) 
+
+Tissue Expander 
+
+23 (85.2%) 
+
+25 (83.3%) 
+
+48 (84.2%) 
+
+Prepectoral 
+
+19 (73.1%) 
+
+21 (72.4%) 
+
+40 (72.7%) 
+
+Subpectoral 
+
+7 (26.9%) 
+
+8 (27.6%) 
+
+15 (27.3%) 
+
+No 
+
+10 (24.4%) 
+
+12 (29.3%) 
+
+22 (26.8%) 
+
+Yes 
+
+31 (75.6%) 
+
+29 (70.7%) 
+
+60 (73.2%) 
+
+6 (14.6%) 
+
+14 (34.1%) 
+
+20 (24.4%) 
+
+Implant/Expander Location2, n (%) 
+
+Contralateral Prophylactic Mastectomy, n (%) 
+
+Chemotherapy, n (%) None 
+
+Author Manuscript 
+
+Adjuvant Only 
+
+7 (17.1%) 
+
+9 (22.0%) 
+
+16 (19.5%) 
+
+Neoadjuvant Only 
+
+20 (48.8%) 
+
+12 (29.3%) 
+
+32 (39.0%) 
+
+Neoadjuvant and Adjuvant 
+
+8 (19.5%) 
+
+6 (14.6%) 
+
+14 (17.1%) 
+
+27 (65.9%) 
+
+31 (75.6%) 
+
+58 (70.7%) 
+
+Smoking Status, n (%) Non-Smoker 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 20 
+
+Arm 
+
+Author Manuscript 
+
+Conventional (N=41) 
+
+Hypofractionation (N=41) 
+
+Total (N=82) 
+
+Prior Smoker 
+
+13 (31.7%) 
+
+8 (19.5%) 
+
+21 (25.6%) 
+
+Current Smoker 
+
+1 (2.4%) 
+
+2 (4.9%) 
+
+3 (3.7%) 
+
+No 
+
+40 (97.6%) 
+
+39 (95.1%) 
+
+79 (96.3%) 
+
+Yes 
+
+1 (2.4%) 
+
+2 (4.9%) 
+
+3 (3.7%) 
+
+No 
+
+36 (87.8%) 
+
+29 (70.7%) 
+
+65 (79.3%) 
+
+Yes 
+
+5 (12.2%) 
+
+12 (29.3%) 
+
+17 (20.7%) 
+
+No 
+
+41 (100.0%) 
+
+40 (97.6%) 
+
+81 (98.8%) 
+
+Yes 
+
+0 (0.0%) 
+
+1 (2.4%) 
+
+1 (1.2%) 
+
+Diabetes, n (%) 
+
+Hypertension, n (%) 
+
+Cardiovascular disease, n (%) 
+
+Author Manuscript 
+
+1 
+
+Refers to type of reconstruction at time of RT amongst the 57 patients with IBR 
+
+2 
+
+Refers to implant or expander location at time of RT amongst the 55 patients with implant-based IBR 
+
+Author Manuscript Author Manuscript Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Author Manuscript 
+
+Author Manuscript 11 (26.8%) 
+
+Joint range of motion decreased 
+
+19 (46.3%) 
+
+2 (4.9%) 
+
+1 (2.4%) 
+
+Grade 2 1 (2.4%) 
+
+Grade 3 
+
+Grade 4 
+
+Conventional (N=41) Grade 5 
+
+11 (26.8%) 
+
+2 (4.9%) 
+
+39 (95.1%) 
+
+5 (12.2%) 
+
+32 (78.0%) 
+
+9 (22.0%) 
+
+5 (12.2%) 
+
+2 (4.9%) 
+
+Total 
+
+7 (17.1%) 
+
+2 (4.9%) 
+
+33 (80.5%) 
+
+1 (2.4%) 
+
+19 (46.3%) 
+
+4 (9.8%) 
+
+6 (14.6%) 
+
+Grade 1 
+
+7 (17.1%) 
+
+1 (2.4%) 
+
+2 (4.9%) 
+
+2 (4.9%) 
+
+Grade 2 3 (7.3%) 
+
+Grade 3 
+
+Grade 4 
+
+Hypofractionation (N=41) 
+
+1 (2.4%) 
+
+Grade 5 
+
+7 (17.1%) 
+
+2 (4.9%) 
+
+1 (2.4%) 
+
+40 (97.6%) 
+
+2 (4.9%) 
+
+21 (51.2%) 
+
+4 (9.8%) 
+
+8 (19.5%) 
+
+3 (7.3%) 
+
+Total 
+
+Adverse events of grade 1–2 occurring in at least 10% of patients or grade 3–5 occurring in any patient across both groups are reported. Note: No grade 4 events were reported in either arm and no grade 5 events in the conventional arm 
+
+2 (4.9%) 
+
+Non-cardiac chest pain 
+
+Stroke 
+
+5 (12.2%) 20 (48.8%) 
+
+30 (73.2%) 
+
+Skin hyperpigmentation 
+
+Edema limbs 
+
+9 (22.0%) 
+
+Breast edema 
+
+Dermatitis radiation 
+
+5 (12.2%) 
+
+Breast infection 
+
+Grade 1 
+
+Esophagitis 
+
+Adverse Event 
+
+Author Manuscript 
+
+Acute adverse events regardless of attribution (CTCAE v4.0) 
+
+Author Manuscript 
+
+Table 2. Mutter et al. Page 21 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Author Manuscript 
+
+Author Manuscript 11 (27.5%) 
+
+10 (25%) 
+
+5 (12.5%) 
+
+2 (5.0%) 
+
+1 (2.5%) 
+
+1 (2.5%) 
+
+3 (7.5%) 
+
+3 (7.5%) 
+
+1 (2.5%) 
+
+Grade 2 5 (12.5%) 
+
+Grade 3 
+
+Grade 4 
+
+Hypofractionation (N=40)1 Grade 5 
+
+7 (17.5%) 
+
+7 (17.5%) 
+
+1 (2.5%) 
+
+11 (27.5%) 
+
+6 (15.0%) 
+
+10 (25%) 
+
+12 (0.3%) 
+
+22 (55.0%) 
+
+10 (25.0%) 
+
+5 (12.5%) 
+
+Total 
+
+Adverse events of grade 1–2 occurring in at least 10% of patients or of grade 3–5 occurring in any patient across both groups are reported. Note: No grade 4–5 adverse events possibly related to treatment were reported 
+
+One patient from each arm was off study before 90 days and excluded from late AE calculation. 
+
+1 
+
+2 (5.0%) 
+
+5 (12.5%) 
+
+6 (15.0%) 
+
+8 (20.0%) 
+
+1 (2.5%) 
+
+1 (2.5%) 
+
+6 (15.0%) 
+
+9 (22.5%) 
+
+9 (22.5%) 
+
+19 (47.5%) 
+
+9 (22.5%) 
+
+Grade 1 
+
+Fibrosis deep connective tissue 
+
+5 (12.5%) 
+
+Non-cardiac chest pain 
+
+3 (7.5%) 
+
+6 (15.0%) 
+
+11 (27.5%) 
+
+19 (47.5%) 
+
+3 (7.5%) 
+
+Total 
+
+6 (15.0%) 
+
+3 (7.5%) 
+
+Dermatitis radiation 
+
+Grade 5 
+
+4 (10.0%) 
+
+6 (15.0%) 
+
+Edema limbs 
+
+2 (5.0%) 
+
+Grade 4 
+
+Superficial soft tissue fibrosis 
+
+9 (22.5%) 
+
+Grade 3 
+
+1 (2.5%) 
+
+19 (47.5%) 
+
+Skin hyperpigmentation 
+
+Joint range of motion decreased 
+
+Grade 2 
+
+Conventional (N=40)1 
+
+Brachial plexopathy 
+
+3 (7.5%) 
+
+Breast infection 
+
+Grade 1 
+
+Breast edema 
+
+Adverse Event 
+
+Author Manuscript 
+
+Late adverse events regardless of attribution (CTCAE v4.0) 
+
+Author Manuscript 
+
+Table 3. Mutter et al. Page 22 
+
+Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+Mutter et al. 
+
+Page 23 
+
+Table 4. 
+
+Author Manuscript 
+
+Invasive disease-free survival events Event 
+
+Conventional (n = 41) 
+
+Hypofractionation (n = 41) 
+
+Recurrence1, n (%) 
+
+4 (9.8%) 
+
+3 (7.3%) 
+
+Invasive IBTR 
+
+0 
+
+1 (2.4%) 
+
+Regional 
+
+0 
+
+1 (2.4%) 
+
+Distant 
+
+4 (9.8%) 
+
+3 (7.3%) 
+
+Contralateral invasive breast cancer 
+
+0 
+
+0 
+
+Second primary invasive cancer 
+
+0 
+
+0 
+
+Death without progression 
+
+0 
+
+1 (2.4%) 
+
+1 
+
+First recurrence events 
+
+Author Manuscript Author Manuscript Author Manuscript Lancet Oncol. Author manuscript; available in PMC 2024 October 01. 
+
+ 

@@ -1,0 +1,1021 @@
+new england journal of medicine The 
+
+established in 1812 
+
+november 2, 2006 
+
+vol. 355 
+
+no. 18 
+
+Epirubicin and Cyclophosphamide, Methotrexate, and Fluorouracil as Adjuvant Therapy for Early Breast Cancer Christopher J. Poole, F.R.C.P., Helena M. Earl, F.R.C.P., Louise Hiller, Ph.D., Janet A. Dunn, Ph.D., Sarah Bathers, M.Med.Sci., Robert J. Grieve, F.R.C.P., David A. Spooner, F.R.C.P., Rajiv K. Agrawal, F.R.C.R., Indrajit N. Fernando, F.R.C.P., A. Murray Brunt, F.R.C.R., Susan M. O’Reilly, M.D., S. Michael Crawford, M.D., Daniel W. Rea, Ph.D., Peter Simmonds, M.B., B.S., Janine L. Mansi, M.D., Andrew Stanley, M.Phil., Peter Harvey, Ph.D., Karen McAdam, F.R.C.P., Liz Foster, Ph.D., Robert C.F. Leonard, F.R.C.P., and Christopher J. Twelves, M.D., for the NEAT Investigators and the SCTBG* 
+
+A BS T R AC T Background 
+
+The National Epirubicin Adjuvant Trial (NEAT) and the BR9601 trial examined the efficacy of anthracyclines in the adjuvant treatment of early breast cancer. Methods 
+
+In NEAT, we compared four cycles of epirubicin followed by four cycles of cyclophosphamide, methotrexate, and fluorouracil (CMF) with six cycles of CMF alone. In the BR9601 trial, we compared four cycles of epirubicin followed by four cycles of CMF, with eight cycles of CMF alone every 3 weeks. The primary end points were relapsefree and overall survival. The secondary end points were adverse effects, dose intensity, and quality of life. Results 
+
+The two trials included 2391 women with early breast cancer; the median follow-up was 48 months. Relapse-free and overall survival rates were significantly higher in the epirubicin–CMF groups than in the CMF-alone groups (2-year relapse-free survival, 91% vs. 85%; 5-year relapse-free survival, 76% vs. 69%; 2-year overall survival, 95% vs. 92%; 5-year overall survival, 82% vs. 75%; P<0.001 by the log-rank test for all comparisons). Hazard ratios for relapse (or death without relapse) (0.69; 95% confidence interval [CI], 0.58 to 0.82; P<0.001) and death from any cause (0.67; 95% CI, 0.55 to 0.82; P<0.001) favored epirubicin plus CMF over CMF alone. Independent prognostic factors were nodal status, tumor grade, tumor size, and estrogen-receptor status (P<0.001 for all four factors) and the presence or absence of vascular or lymphatic invasion (P = 0.01). These factors did not significantly interact with the effect of epirubicin plus CMF. The overall incidence of adverse effects was significantly higher with epirubicin plus CMF than with CMF alone but did not significantly affect the delivered-dose intensity or the quality of life. Conclusions 
+
+Epirubicin plus CMF is superior to CMF alone as adjuvant treatment for early breast cancer. (ClinicalTrials.gov number, NCT00003577.) n engl j med 355;18 
+
+www.nejm.org 
+
+From the Cancer Research U.K. Clinical Trials Unit, Institute for Cancer Studies, Birmingham (C.J.P., L.H., J.A.D., S.B., D.W.R.); Addenbrookes Hospital, Cambridge (H.M.E., K.M.); Radiotherapy and Oncology Centre, Walsgrave Hospital, Coventry (R.J.G.); Cancer Centre, Queen Elizabeth Hospital, Birmingham (D.A.S., I.N.F.); Royal Shrewsbury Hospital, Shropshire (R.K.A.); Staffordshire Oncology Centre, Staffordshire (A.M.B.); Clatterbridge Hospital, Merseyside (S.M.O.); Airedale General Hospital, Yorkshire (S.M.C.); Royal South Hampshire Hospital, Southampton (P.S.); St. George’s Hospital, London (J.L.M.); City Hospital, Birmingham (A.S.); St. James’s University Hospital, Leeds (P.H.); Peterborough District Hospital, Cambridgeshire (K.M.); Scottish Cancer Therapy Network, Edinburgh (L.F.); Swansea Cancer Centre, Wales (R.C.F.L.); and Bradford Royal Infirmary, Bradford (C.J.T.) — all in the United Kingdom. Address reprint requests to Dr. Poole at the Cancer Research U.K. Clinical Trials Unit, Institute for Cancer Studies, University of Birmingham, Birmingham B15 2TT, United Kingdom, or at poolecj@ aol.com. *Members of the trial management group for the National Epirubicin Adjuvant Trial (NEAT) and the Scottish Cancer Trials Breast Group (SCTBG) are listed in the Appendix. N Engl J Med 2006;355:1851-62. Copyright © 2006 Massachusetts Medical Society. 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+1851 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+T 
+
+he national epirubicin adjuvant Trial (NEAT) and the BR9601 trial were designed jointly by English and Scottish investigators in 1994 and 1995 to determine the value of anthracyclines in the adjuvant treatment of early breast cancer. At that time, a combination of cyclophosphamide, methotrexate, and fluorouracil was standard treatment for early breast cancer in the United Kingdom. The role of anthracyclines had not been addressed in the 1990 Oxford Overview of the treatment of early breast cancer,1 and despite the activity of anthracyclines in metastatic disease,2 data from adjuvant trials were inconsistent. Concerns about adverse effects and effects on the quality of life also delayed the inclusion of anthracyclines in adjuvant chemotherapy combinations. In 1991, the importance of scheduling the administration of anthracyclines became evident. Studies in Milan3 showed that a block-sequential schedule of four cycles of doxorubicin at a dose of 75 mg per square meter of body-surface area every 3 weeks, followed by eight cycles of CMF every 3 weeks, was superior to a 2:1 alternating regimen of the same drugs, at the same cumulative doses during the same period.4,5 A companion study 
+
+failed to show the superiority of 8 cycles of CMF followed by 4 cycles of doxorubicin over 12 cycles of CMF.6 These observations were consistent with mathematical models that predicted better outcomes with block-sequential therapy7,8 than with an alternating regimen of non–cross-resistant agents.9,10 For these reasons, we adopted a block-sequential schedule for the anthracycline-containing regimens used in NEAT and the BR9601 trial, with three modifications. First, we used epirubicin instead of doxorubicin to reduce treatment-related adverse effects.11 Second, in NEAT, we administered classic CMF (see the glossary for chemotherapy schedules)12 because of its superior efficacy in metastatic breast cancer13 and the importance of dose delivery of CMF in early breast cancer.14 In the BR9601 trial, the classic CMF regimen was modified, with all three drugs given intravenously once every 3 weeks, to minimize the need for patients to travel to a specialized center in Scotland, since this is an area of low population density and a large proportion of enrollees did not live close to such a center. Third, we shortened the duration of therapy by cutting the sequentially administered CMF to four cycles in the anthracy- 
+
+Glossary of Chemotherapy Schedules. Classic CMF: Six cycles of cyclophosphamide (100 mg per square meter of body-surface area given orally every day for 14 days or, at the clinician’s preference, 600 mg per square meter given intravenously on days 1 and 8) with methotrexate (40 mg per square meter) and fluorouracil (600 mg per square meter) given intravenously on days 1 and 8 of the cycle. Modified CMF in the BR9601 trial: Eight cycles of cyclophosphamide (750 mg per square meter), methotrexate (50 mg per square meter), and fluorouracil (600 mg per square meter), all given intravenously on day 1 every 3 weeks. Epirubicin plus CMF in NEAT: Four cycles of epirubicin (100 mg per square meter) every 3 weeks, followed by four cycles of classic CMF. Epirubicin plus CMF in the BR9601 trial: Four cycles of epirubicin (100 mg per square meter) every 3 weeks, followed by four cycles of the modified CMF schedule. FEC100: Fluorouracil (500 mg per square meter), epirubicin (100 mg per square meter), and cyclophosphamide (500 mg per square meter), all given intravenously every 3 weeks. FEC50: Fluorouracil (500 mg per square meter), epirubicin (50 mg per square meter), and cyclophosphamide (500 mg per square meter), all given intravenously every 3 weeks. CEF: Cyclophosphamide (75 mg per square meter), given orally every day for 14 days; epirubicin (60 mg per square meter) and fluorouracil (500 mg per square meter), both given intravenously on days 1 and 8 every 4 weeks for six cycles (with routine antibiotic prophylaxis). Doxorubicin plus CMF: Doxorubicin (75 mg per square meter) given every 3 weeks for four cycles, followed by four cycles of classic CMF. Doxorubicin and paclitaxel plus CMF: Doxorubicin (60 mg per square meter) and paclitaxel (200 mg per square meter), both given intravenously every 3 weeks for four cycles, followed by intravenous cyclophosphamide (600 mg per square meter), methotrexate (40 mg per square meter), and fluorouracil (600 mg per square meter) on days 1 and 8 every 4 weeks for four cycles. FEC plus docetaxel: Fluorouracil (600 mg per square meter), epirubicin (60 mg per square meter), and cyclophosphamide (600 mg per square meter), all given intravenously every 3 weeks for four cycles, followed by docetaxel (100 mg per square meter) given intravenously every 3 weeks for four cycles (with routine antibiotic prophylaxis). 
+
+1852 
+
+n engl j med 355;18 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+sequential epirubicin plus cmf for early breast cancer 
+
+cline groups of both trials. The control treatments in each trial were of equal duration, with six cycles of classic CMF in NEAT and eight cycles of the CMF schedule in the BR9601 trial. 
+
+ME THODS Study Design 
+
+We designed both phase 3 trials to test the hypothesis that, as compared with CMF alone, four cycles of epirubicin plus four cycles of CMF would improve overall and relapse-free survival among women with early breast cancer. A parallel study design was used to maximize recruitment north and south of the border between England and Scotland, with NEAT predominantly recruiting women from the United Kingdom and the BR9601 trial predominantly recruiting women from Scotland (see the Supplementary Appendix, available with the full text of this article at www.nejm.org). The trials were coordinated in parallel, with a joint analysis of outcomes from a single amalgamated data set, planned at the outset and facilitated by similar approaches to stratification and data collection (Fig. 1). Both trials were approved by a multicenter research ethics committee and by the local research ethics committee at each participating hospital. Pharmacia did not participate in the study design, data collection or analysis, or preparation of the manuscript. 
+
+and classic CMF alone for the control group (see the Glossary). BR9601 used epirubicin plus the modified CMF regimen for the anthracycline group and the modified CMF regimen alone for the control group (see the Glossary). Neither trial restricted adjuvant hormonal treatment. Of the 1458 patients in NEAT for whom data were available regarding clinicians’ proposals for adjuvant tamoxifen, 68% were to receive adjuvant tamoxifen, and 32% were not. Scheduling information was available for 843 of these patients (452 in the epirubicin–CMF group and 391 in the CMF group); 46% were to receive tamoxifen concurrently with chemotherapy (48% of those in the epirubicin–CMF group and 45% of those in the CMF group), and 54% were to receive tamoxifen after chemotherapy (52% of those in the epirubicin–CMF group and 55% of those in the CMF group). Statistical Analysis 
+
+A combined enrollment of 2000 patients was required for the study to have a statistical power of 85% to detect an absolute difference of 7% in both overall and relapse-free survival between the treatment groups, with a 5% (two-sided) level of significance. However, in NEAT, the goal was to enroll 2000 patients independently in order to allow an unbiased analysis of the specified treatment regimens. In the BR9601 trial, the goal was to enroll an additional 300 to 500 patients in order to increase the statistical power of the comparison Patients between epirubicin plus CMF and CMF alone in Women with completely excised early breast can- a planned joint analysis. cer who required adjuvant chemotherapy and could start treatment within 10 weeks after surgery were Relapse-free and Overall Survival eligible for the study. Additional eligibility criteria The primary outcome measures were relapse-free were adequate renal, hepatic, and bone marrow and overall survival. Relapse-free survival was calfunction; the absence of previous exposure to che- culated from the date of surgery to the date of a motherapy or radiotherapy; the absence of previ- first relapse, to the date of death without relapse, ous or concomitant cancer; and provision of writ- or to the date of data censoring (for women who ten informed consent. remained alive and relapse-free). Overall survival was calculated from the date of surgery to the date Treatment of death or to the date of data censoring (for womIn each trial, patients were assigned to epirubicin en who remained alive). Survival curves were conplus CMF or CMF alone with the use of a permuted- structed with the use of Kaplan–Meier methods.15 block, 1:1 randomization scheme (Fig. 1). Treat- We used log-rank tests to compare patient and tument assignments were made by telephone to cen- mor characteristics and treatments. Cox proportral locations. Both NEAT and the BR9601 trial tional-hazards models16 were constructed to evalstratified patients according to center, age, and uate and make adjustments for prognostic factors. nodal status; NEAT also stratified patients accord- We calculated hazard ratios for relapse (and death ing to planned radiotherapy schedule. NEAT used without relapse) and death from any cause in progepirubicin plus CMF for the anthracycline group nostic subgroups, and constructed forest plots.17 
+
+n engl j med 355;18 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+1853 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+NEAT 
+
+BR9601 
+
+2027 Patients underwent randomization 
+
+374 Patients underwent randomization 
+
+1011 Assigned to epirubicin plus classic CMF 
+
+1016 Assigned to classic CMF 
+
+183 Assigned to epirubicin plus modified CMF 
+
+191 Assigned to modified CMF 
+
+Combined Total 2401 Underwent randomization 
+
+1194 Assigned to epirubicin plus CMF 
+
+1207 Assigned to CMF 
+
+1189 Included in analysis 5 Ineligible (previous tumor or existing metastases) 
+
+1202 Included in analysis 5 Ineligible (previous tumor or existing metastases) 
+
+1182 Received randomized treatment 7 Protocol violations 6 Patients received treatment in other group 1 Patient declined treatment after cycle 5 No patients lost to follow-up 
+
+1194 Received randomized treatment 8 Protocol violations 2 Patients chose to discontinue treatment 3 Administration errors 3 Patients withdrew consent No patients lost to follow-up 
+
+Figure 1. Enrollment, Randomization, Receipt of Study Treatment, and Follow-up in the Two Trials. 
+
+Secondary outcome measures were adverse effects, treatment groups were compared with respect to dose intensity, and for a subgroup of NEAT pa- the dose intensity of delivered doses in each cycle tients, the quality of life. and of the full course of chemotherapy with the use of Wilcoxon rank-sum tests and chi-square Adverse Effects tests with continuity corrections. Common Toxicity Criteria (CTC) grades were recorded for each cycle of chemotherapy. We used Quality of Life chi-square tests with Bonferroni corrections for The European Organisation for Research and Treatmultiple comparisons to compare the treatment ment of Cancer questionnaire for assessing the groups with respect to the number of patients with health-related quality of life of patients with cansevere adverse effects (defined as a CTC grade ≥3, cer (QLQ-C30),18 their supplementary breast canor grade 2 for alopecia). cer module (QLQ-BR23),19 and the Women’s Health Questionnaire20 were administered at randomizaDose Intensity tion, midway through chemotherapy, at the end of The Supplementary Appendix describes the calcu- chemotherapy, and 1 and 2 years after randomlation of the course-delivered dose intensity. The ization. A standardized area-under-the-curve anal1854 
+
+n engl j med 355;18 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+sequential epirubicin plus cmf for early breast cancer 
+
+ysis21 was carried out for the quality of life during the treatment period, and changes from baseline to 1 year and from baseline to 2 years were calculated to assess long-term effects. Treatments were compared with the use of O’Brien’s global rank procedure22 and Wilcoxon rank-sum tests. Scores were on a scale of 0 to 100, with higher scores representing better quality of life (either higher functional scores, lower symptom levels, or higher quality-of-life scores). Negative changes over time thus represented a decline in quality of life, and positive changes represented an improvement in quality of life. The joint analysis of the two trials was undertaken by the Cancer Research U.K. Clinical Trials Unit, Birmingham, with the use of SAS software. Results from the first preplanned, event-driven, analysis of the primary end points for both trials are presented. Given 400 end-point events, the study would have a statistical power of 99% to detect an absolute difference of 10% between treatment groups with a 5% (two-sided) level of significance. The results for trial-specific adverse events, course-delivered dose intensity, and the quality of life are summarized here. All reported P values are two-sided. Data for all patients whose treatment involved protocol violations were analyzed within the groups to which the patients had been randomly assigned, an approach that allowed us to perform the analysis on an intention-to-treat basis. 
+
+R e sult s Patients 
+
+NEAT recruited 2027 patients from 111 clinicians at 65 centers between April 1996 and July 2001. The BR9601 trial began in October 1996 and closed in April 2001 after recruiting 374 patients from 26 clinicians at 10 centers. Ten patients were ineligible for the trial: 6 in NEAT (2 patients who received epirubicin plus CMF and 4 who received CMF alone) and 4 patients in BR9601 (3 patients who received epirubicin plus CMF and 1 patient who received CMF alone), principally because of metastatic breast cancer or a history of other cancer, leaving 2391 eligible patients for analysis (Fig. 1). Patients’ characteristics, the type of operation, the timing of surgery (Table 1), and tumor characteristics (Table 3 of the Supplementary Appendix) were similar among the treatment groups. The clinically significant differences between the two 
+
+n engl j med 355;18 
+
+trials included more women under the age of 50 years and more node-negative tumors in NEAT and larger tumors and more frequent mastectomies in the BR9601 trial. Treatment Compliance 
+
+Violations of the assigned protocol were noted by the trial management groups in the treatment of 15 patients: 12 in NEAT (7 assigned to receive epirubicin plus CMF, and 5 assigned to receive CMF alone) and 3 in the BR9601 trial (all assigned to receive CMF alone). All analyses included these patients in their assigned groups, according to the intention-to-treat principle. Overall and Relapse-Free Survival 
+
+After a median follow-up of 48 months, 413 women had died (17% of all 2391 eligible women, 16% of those in NEAT, and 23% of those in the BR9601 trial) (Table 4 of the Supplementary Appendix). The median time to death was 2.5 years (range, 45 days to 7 years). The main cause of death was breast cancer (in 92% of the women who died). Locoregional or distant relapse was reported in 491 women, with distant metastases predominantly in the bone, liver, or both. There were 545 events in the analysis of relapse-free survival. Follow-up was equivalent between trials and treatments (median, 48 months; range, 6 months to 7.5 years) and is continuing. Figure 2 compares survival curves for the groups that received epirubicin plus CMF and the groups that received CMF alone. The rate of overall survival at 2 years was 95% in the epirubicin plus CMF group and 92% in the CMF group. The survival rate at 5 years was 82% in the epirubicin plus CMF group and 75% in the CMF group (P<0.001 by the log-rank test) (Fig. 2A). The hazard ratio for death from any cause in the epirubicin plus CMF group, as compared with the CMF group, was 0.67 (95% confidence interval [CI], 0.55 to 0.82; P<0.001). The rate of relapse-free survival at 2 years was 91% in the epirubicin plus CMF group and 85% in the CMF group. At 5 years, the rate of relapse-free survival was 76% in the epirubicin plus CMF group and 69% in the CMF group (P<0.001 by the log-rank test) (Fig. 2B). The hazard ratio for relapse (or death without relapse) in the epirubicin plus CMF group, as compared with the CMF group, was 0.69 (95% CI, 0.58 to 0.82; P<0.001). The results for overall survival and relapse-free survival in NEAT were similar to those in the 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+1855 
+
+1856 387 (38) 
+
+n engl j med 355;18 
+
+56 (6) 
+
+70 (7) 
+
+Postmenopausal 
+
+www.nejm.org 
+
+6 (1) 
+
+4 (<1) 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 20–33 
+
+25 
+
+Median — days 
+
+Interquartile range — days 
+
+1002 
+
+No. of patients 
+
+Interval between surgery and randomization 
+
+19–33 
+
+24 
+
+1007 
+
+3 (<1) 
+
+500 (50) 
+
+Unknown 
+
+496 (49) 
+
+505 (50) 
+
+513 (51) 
+
+100 (10) 
+
+Breast-conserving surgery 
+
+107 (11) 
+
+206 (20) 
+
+700 (69) 
+
+Mastectomy 
+
+Type of surgery — no. (%) 
+
+Unknown 
+
+4 (<1) 
+
+192 (19) 
+
+1 (restricted) 
+
+2 (capable of self-care) 
+
+706 (70) 
+
+0 (fully active) 
+
+Performance status — no. (%) 
+
+Unknown 
+
+86 (9) 365 (36) 
+
+Perimenopausal 
+
+97 (10) 373 (37) 
+
+488 (48) 
+
+486 (48) 
+
+406 (40) 
+
+606 (60) 
+
+Classic CMF (N = 1012) 
+
+Premenopausal 
+
+Menopausal status — no. (%) 
+
+622 (62) 
+
+>50 yr 
+
+Epirubicin plus CMF (N = 1009) 
+
+NEAT (N = 2021) 
+
+≤50 yr 
+
+Age — no. (%) 
+
+Characteristic 
+
+Table 1. Baseline Characteristics of the Patients. 
+
+20–36 
+
+27 
+
+179 
+
+1 (1) 
+
+69 (38) 
+
+110 (61) 
+
+43 (24) 
+
+1 (1) 
+
+5 (3) 
+
+131 (73) 
+
+0 
+
+79 (44) 
+
+17 (9) 
+
+84 (47) 
+
+89 (49) 
+
+91 (51) 
+
+Epirubicin plus Modified CMF (N = 180) 
+
+20–34 
+
+27 
+
+188 
+
+2 (1) 
+
+67 (35) 
+
+121 (64) 
+
+51 (27) 
+
+0 
+
+5 (3) 
+
+134 (71) 
+
+0 
+
+94 (49) 
+
+20 (11) 
+
+76 (40) 
+
+97 (51) 
+
+93 (49) 
+
+Modified CMF (N = 190) 
+
+BR9601 (N = 370) 
+
+20–34 
+
+26 
+
+1181 
+
+5 (<1) 
+
+569 (48) 
+
+615 (52) 
+
+150 (13) 
+
+5 (<1) 
+
+197 (17) 
+
+837 (70) 
+
+70 (6) 
+
+444 (37) 
+
+103 (9) 
+
+572 (48) 
+
+476 (40) 
+
+713 (60) 
+
+Epirubicin plus CMF (N = 1189) 
+
+19–33 
+
+25 
+
+1195 
+
+5 (<1) 
+
+563 (47) 
+
+634 (53) 
+
+151 (13) 
+
+6 (<1) 
+
+211 (18) 
+
+834 (69) 
+
+56 (5) 
+
+467 (39) 
+
+117 (10) 
+
+562 (47) 
+
+503 (42) 
+
+699 (58) 
+
+CMF (N = 1202) 
+
+Overall (N = 2391) 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+sequential epirubicin plus cmf for early breast cancer 
+
+A Overall Survival (%) 
+
+100 
+
+95 
+
+Epirubicin plus CMF 
+
+82 
+
+92 75 
+
+CMF 
+
+75 
+
+50 25 
+
+Hazard ratio=0.67 (95% CI, 0.55–0.82); P<0.001 
+
+0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+560 521 
+
+293 257 
+
+Years since Surgery No. at Risk Epirubicin plus CMF 1189 1202 CMF 
+
+1166 1172 
+
+1082 1044 
+
+851 797 
+
+B Relapse-free Survival (%) 
+
+BR9601 trial (P = 0.39 for overall survival and P = 0.34 for relapse-free survival) (Fig. 5 of the Supplementary Appendix). Univariate analysis showed that the following factors were significantly associated with relapsefree survival: treatment (epirubicin plus CMF or CMF alone), nodal status (no positive nodes, 1 to 3 positive nodes, or ≥4 positive nodes), estrogenreceptor status (positive, negative, or unknown), tumor size (≤2 cm or >2 cm) and grade (1, 2, or 3), vascular or lymphatic invasion (reported or unreported), and type of surgery (mastectomy or breast-conserving surgery) (P<0.001 for all comparisons) (Table 2). All these factors except the type of surgery were independently associated with relapse-free survival in a multivariate analysis (Table 6 of the Supplementary Appendix). A base model of these factors confirmed that treatment was an independent prognostic factor for relapsefree survival (P<0.001). The ranking of these factors was as follows: nodal status, tumor grade, tumor size, treatment, estrogen-receptor status, and presence or absence of vascular or lymphatic invasion. The results were similar for overall survival, with the exception that vascular or lymphatic invasion was not a prognostic factor. 
+
+100 
+
+91 
+
+Epirubicin plus CMF 
+
+76 
+
+85 
+
+75 
+
+CMF 
+
+69 
+
+50 Hazard ratio=0.69 (95% CI, 0.58–0.82); P<0.001 
+
+25 0 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+514 472 
+
+269 225 
+
+Years since Surgery 
+
+Interaction of Treatment Effect with Prognostic Factors 
+
+No. at Risk 
+
+Forest plots showed similar effects of treatment on relapse-free survival, regardless of nodal status, estrogen-receptor status, tumor diameter, tumor grade, age, menopausal status, performance status, surgery, and presence or absence of vascular or lymphatic invasion (Fig. 5 of the Supplementary Appendix). The results of all statistical tests of heterogeneity were nonsignificant. Similar results were obtained for overall survival. adverse effects of Chemotherapy 
+
+Complete information regarding adverse effects was available for 1952 of 2021 patients (97%) in NEAT and 366 of 370 patients (99%) in the BR9601 trial. In NEAT, significantly more patients in the epirubicin plus CMF group than in the CMF group reported severe alopecia (84% vs. 27%), nausea (15% vs. 7%), vomiting (12% vs. 4%), constipation (6% vs. 2%), and stomatitis (6% vs. 3%) (Table 3). In NEAT, the treatment groups did not differ significantly with respect to the proportions of patients reporting severe diarrhea (6% in both groups), infection (7% in the epirubicin plus CMF group and 5% in the CMF group), fatigue (21% n engl j med 355;18 
+
+Epirubicin plus CMF 1189 1202 CMF 
+
+1150 1151 
+
+1036 968 
+
+798 731 
+
+Figure 2. Kaplan–Meier Estimates of Overall Survival (Panel A) and Relapse-free Survival (Panel B) According to Treatment. 
+
+and 18%, respectively), neutropenia (15% in both groups), or thrombocytopenia (1% in both groups). Neutropenic sepsis (neutropenia and infection in the same cycle) was recorded in 346 cycles (3% in each group) and by 247 patients (13%): 14% of those in the epirubicin plus CMF group and 11% of those in the CMF group. In the BR9601 trial, the proportion of patients who reported severe alopecia was significantly higher in the epirubicin plus CMF group than in the CMF group (96% vs. 76%). However, the two groups did not differ significantly with respect to the proportions of patients who reported severe nausea (16% in the epirubicin plus CMF group and 11% in the CMF group), vomiting (12% and 9%, respectively), stomatitis (4% and 3%), diarrhea (3% in both groups), infection (5% and 2%), or fatigue (25% and 17%). Of premenopausal patients for whom data 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+1857 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 2. Relapse-free Survival According to Treatment, Tumor, and Patient Characteristics. No. of Patients* 
+
+Variable 
+
+No. of Events 
+
+P Value 
+
+Relapse-free Survival 2 Yr 
+
+5 Yr % (95% CI) 
+
+Overall 
+
+2391 
+
+545 
+
+Epirubicin plus CMF 
+
+1189 
+
+230 
+
+CMF 
+
+1202 
+
+315 
+
+Treatment 
+
+88 (87–90) 
+
+73 (71–75) 
+
+91 (89–93) 
+
+76 (73–79) 
+
+85 (83–87) 
+
+69 (66–72) 
+
+<0.001 
+
+No. of nodes involved 
+
+<0.001 
+
+0 
+
+673 
+
+90 
+
+92 (90–94) 
+
+84 (80–87) 
+
+1–3 
+
+1129 
+
+219 
+
+91 (89–93) 
+
+76 (73–80) 
+
+≥4 
+
+589 
+
+236 
+
+79 (76–82) 
+
+55 (50–60) 
+
+Estrogen-receptor status 
+
+<0.001 
+
+Positive 
+
+1187 
+
+211 
+
+92 (91–94) 
+
+77 (74–80) 
+
+Negative 
+
+761 
+
+196 
+
+84 (81–86) 
+
+69 (65–73) 
+
+Unknown 
+
+443 
+
+138 
+
+85 (82–88) 
+
+68 (63–73) 
+
+≤2 cm 
+
+1021 
+
+173 
+
+92 (90–94) 
+
+79 (76–82) 
+
+>2 cm 
+
+1313 
+
+354 
+
+85 (83–87) 
+
+68 (65–71) 
+
+Tumor size 
+
+<0.001 
+
+Tumor grade 
+
+<0.001 
+
+1 
+
+151 
+
+17 
+
+96 (93–99) 
+
+87 (80–93) 
+
+2 
+
+809 
+
+151 
+
+91 (90–93) 
+
+76 (72–80) 
+
+3 
+
+1394 
+
+371 
+
+85 (84–87) 
+
+69 (66–72) 
+
+Vascular or lymphatic invasion 
+
+<0.001 
+
+Reported 
+
+1220 
+
+340 
+
+86 (84–88) 
+
+67 (64–70) 
+
+Unreported 
+
+1171 
+
+205 
+
+91 (89–92) 
+
+79 (76–82) 
+
+Mastectomy 
+
+1249 
+
+333 
+
+86 (84–87) 
+
+69 (65–72) 
+
+Breast-conserving surgery 
+
+1132 
+
+210 
+
+91 (89–93) 
+
+77 (74–80) 
+
+Premenopausal or perimenopausal 
+
+1354 
+
+308 
+
+90 (88–91) 
+
+73 (70–76) 
+
+Postmenopausal 
+
+911 
+
+221 
+
+85 (83–88) 
+
+71 (68–75) 
+
+Surgery 
+
+<0.001 
+
+Menopausal status 
+
+0.06 
+
+Age 
+
+0.21 
+
+≤50 yr 
+
+1412 
+
+317 
+
+89 (87–91) 
+
+73 (70–76) 
+
+>50 yr 
+
+979 
+
+228 
+
+87 (85–89) 
+
+72 (68–75) 
+
+0 
+
+1671 
+
+368 
+
+89 (87–90) 
+
+73 (70–76) 
+
+1 or 2 
+
+419 
+
+106 
+
+87 (84–90) 
+
+71 (66–76) 
+
+Unknown 
+
+301 
+
+71 
+
+87 (83–91) 
+
+72 (66–78) 
+
+Performance status 
+
+0.55 
+
+* Patients with missing data for a given variable were excluded from the analysis of that variable. 
+
+were available, 73% reported chemotherapy-related epirubicin plus CMF and 74% for CMF alone; in amenorrhea. The rates were similar in the two tri- the BR9601 trial, 73% for epirubicin plus CMF and als and in the treatment groups (in NEAT, 71% for 74% for CMF alone). 
+
+1858 
+
+n engl j med 355;18 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+sequential epirubicin plus cmf for early breast cancer 
+
+Table 3. Severe Adverse Effects.* Adverse Effect 
+
+NEAT Epirubicin plus Classic CMF (N = 979) 
+
+BR9601 Classic CMF (N = 973) 
+
+Epirubicin plus Modified CMF (N = 178) 
+
+Modified CMF (N = 188) 
+
+number of patients (percent) Alopecia 
+
+820 (84)† 
+
+263 (27) 
+
+171 (96)† 
+
+142 (76) 
+
+Nausea 
+
+146 (15)† 
+
+69 (7) 
+
+28 (16) 
+
+20 (11) 
+
+Vomiting 
+
+113 (12)† 
+
+36 (4) 
+
+22 (12) 
+
+16 (9) 
+
+Constipation 
+
+62 (6)† 
+
+24 (2) 
+
+NR 
+
+NR 
+
+Stomatitis 
+
+61 (6)‡ 
+
+27 (3) 
+
+7 (4) 
+
+5 (3) 
+
+Diarrhea 
+
+56 (6) 
+
+58 (6) 
+
+6 (3) 
+
+6 (3) 
+
+Infection 
+
+64 (7) 
+
+51 (5) 
+
+9 (5) 
+
+4 (2) 
+
+Fatigue 
+
+204 (21) 
+
+177 (18) 
+
+45 (25) 
+
+32 (17) 
+
+Neutropenia 
+
+151 (15) 
+
+143 (15) 
+
+NR 
+
+NR 
+
+8 (1) 
+
+10 (1) 
+
+NR 
+
+NR 
+
+Thrombocytopenia 
+
+* Severe adverse effects were defined as those with a CTC grade of 3 or higher, except for alopecia, which was defined as a grade of 2 or higher. NR denotes specific adverse effect not recorded. † P<0.001 for the comparison with CMF. ‡ P = 0.002 for the comparison with CMF. 
+
+Deaths Attributed to Chemotherapy 
+
+Among the 2391 patients, 20 deaths were attributed to treatment-related adverse effects (1%), with a similar incidence in the two trials. Of these 20 deaths, 18 occurred in patients in NEAT (5 patients who received epirubicin plus CMF and 13 who received CMF alone). Eight of the 18 deaths were due to neutropenic sepsis (in 4 patients who received epirubicin plus CMF and 4 who received CMF alone), 5 to pulmonary emboli (in 1 patient who received epirubicin plus CMF and 4 patients who received CMF alone), and 4 to cerebrovascular accidents (all in patients who received CMF alone); autopsy failed to elucidate a cause of death in 1 patient who received CMF alone and who had a normal blood count at the time of death. Two patients died of treatment-related adverse effects in the BR9601 trial: one patient who received epirubicin plus CMF died of cholecystitis, and one patient who received CMF alone died of bronchopneumonia. In all four treatment groups in the two trials, all deaths from treatment-related adverse effects occurred during treatment with CMF. Among patients who received CMF, deaths due to treatment-related adverse effects occurred in all treatment cycles. 
+
+plus CMF did not compromise the course-delivered dose intensity in either trial, in terms of either the median overall delivered-dose intensity or the proportion of patients receiving an adequate dose intensity (≥85% of planned doses). (See the Supplementary Appendix for additional information.) Quality of Life 
+
+The 511 patients in NEAT who were included in the quality-of-life analysis were representative of the overall study population in NEAT in terms of baseline characteristics, overall survival, and relapse-free survival. During treatment, patients who received epirubicin plus classic CMF reported significantly more severe symptoms than did those who received classic CMF alone, as measured by the QLQ-BR23 questionnaire (P = 0.05). An analysis of the relevant QLQ-BR23 symptom subscales identified significantly worse scores for patients who received epirubicin plus CMF than for patients who received CMF alone. These scores included “systemic therapy side effects” (median, 69 [interquartile range, 57 to 77] and 72 [interquartile range, 63 to 82], respectively; P<0.01) and “upset by hair loss” (median, 33 [interquartile range, 0 to 67] and 67 [interquartile range, 33 to 87], respectively; P<0.01). There were no other significant Delivered Dose Intensity differences in the quality of life between the two The excess incidence of treatment-related adverse groups during treatment. However, an analysis of effects among patients who received epirubicin changes from baseline to 1 year showed that pan engl j med 355;18 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+1859 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+tients who received CMF alone had less improvement in global health and a greater increase in symptoms, as measured by the QLQ-C30 questionnaire (P = 0.01). The median change in global quality of life was 8.3 (interquartile range, 0 to 16.7) for patients who received epirubicin plus CMF and 0 (interquartile range, −8.3 to 16.7) for patients who received CMF alone. In addition, an analysis of the relevant symptom subscales showed that patients who received CMF alone had more dyspnea at 1 year than at baseline (median change, 0 [interquartile range, −33 to 0]) than patients who received epirubicin plus CMF (median change, 0 [interquartile range, 0 to 0]; P = 0.04). An analysis of changes from baseline to 2 years showed no significant differences in the quality of life between the two groups. 
+
+Dis cus sion Our combined analysis of NEAT and the BR9601 trial, at a median follow-up of 48 months, shows the superiority of epirubicin plus CMF over CMF alone for the treatment of early breast cancer. The hazard ratios for relapse (or death without relapse) (0.69) and for death from any cause (0.67) were significant (P<0.001 for both comparisons), and these findings were unlikely to be due to an artifact of the slight difference between the duration of treatment in the research and control groups of the NEAT trial. Furthermore, the results were similar in the two trials, despite the differences in treatments. We can therefore attribute the advantage of epirubicin plus CMF to the epirubicin component of the combination chemotherapy. The results of this analysis are applicable to most patients with breast cancer. There were no significant influences of estrogen-receptor status (P = 0.17 by a test for heterogeneity) or tumor grade (P = 0.34 by a test for trend), and even though the proportion of women younger than 50 years of age was larger in the population we studied than that in the general population of women with breast cancer, we can discern no loss of efficacy among older women (P = 0.50) (Fig. 5 of the Supplementary Appendix). Severe effects were reported in less than 5% of cycles. As anticipated, there were moderate differences in the incidence of treatment-related adverse effects, with higher rates with epirubicin plus CMF than with CMF alone and a short-term reduction in the quality of life during chemotherapy. How- 
+
+1860 
+
+n engl j med 355;18 
+
+ever, the majority of treatment-related deaths occurred in the CMF group (14, vs. 6 in the epirubicin plus CMF group), and all 6 deaths in the epirubicin plus CMF group occurred during the CMF phase of therapy. In the Early Breast Cancer/Mammary5 (EBC-1/ MA.5) study by the National Cancer Institute of Canada Clinical Trials Group (NCIC CTG), which compared a combination of cyclophosphamide, epirubicin, and fluorouracil (CEF) with CMF alone in premenopausal women with node-positive breast cancer,23 the rate of relapse-free survival at 5 years was 53% in the CMF group and 63% in the CEF group (P = 0.009); the rate of overall survival at 5 years was 70% and 77%, respectively (P = 0.03). Patients did not receive adjuvant tamoxifen in EBC-1/MA.5. The delivered dose intensity of CEF was 80 to 83%, as compared with 96% for CMF, suggesting that six cycles of CEF, with a total dose of epirubicin of 120 mg per square meter per 4-week cycle, may be a less tolerable regimen than epirubicin plus CMF (Table 7 of the Supplementary Appendix). On the basis of the data from NEAT and the BR9601, and NCIC CTG trial, as well as data from the French Adjuvant Study Group’s Early Breast Cancer 05 trial,24 which showed an advantage of FEC100 over FEC50, it is plausible that adequate doses of epirubicin, in the range of 100 to 120 mg per square meter per cycle, provide more benefit than was found in a meta-analysis of the substitution of an anthracycline for methotrexate conducted by the Early Breast Cancer Trialists Collaborative Group.25 The International Collaborative Cancer Group study,26 which compared FEC50 with classic CMF, did not show that the substitution of epirubicin (at a dose of 50 mg per square meter) for methotrexate produced significantly better results. Analysis of the data from the NCIC CTG studies27 has shown a cumulative incidence of secondary leukemia of 2% at 8 years’ follow-up among women treated with epirubicin-based adjuvant chemotherapy. The follow-up in NEAT and the BR9601 trial (48 months) is too short to assess the incidence of secondary acute myeloid leukemia, which typically occurs 2 to 4 years after anthracycline treatment.28 We found only one case — an acute promyelocytic leukemia. Although this is not the typical subtype of acute myeloid leukemia attributed to anthracyclines, an association between promyelocytic leukemia and exposure to a topoi- 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+sequential epirubicin plus cmf for early breast cancer 
+
+somerase II inhibitor has been described.29,30 We do not anticipate many late cases of acute myeloid leukemia because the low cumulative dose of epirubicin in our trials reduces the risk of anthracycline-related acute myeloid leukemia.28 Block-sequential designs of single-agent anthracycline therapy followed by CMF have been used in the control groups of a number of important phase 3 clinical trials. These trials include the Anglo-Celtic trial,31 which showed no benefit of high-dose chemotherapy, and the European Cooperative Trial in Operable Breast Cancer (ECTO),32 which showed that doxorubicin and paclitaxel plus CMF was superior with respect to relapse-free survival to doxorubicin plus CMF. On the basis of the NEAT and BR9601 efficacy data, of all the taxanecontaining anthracycline-based regimens that have been evaluated, doxorubicin and paclitaxel plus CMF may come closest to fully exploiting the potential of these drugs. Epirubicin plus CMF (in the same doses used in NEAT) has been used in an optional control group in a study in the United Kingdom, the Taxotere as Adjuvant Chemotherapy Trial (TACT)33 (as compared with FEC and docetaxel), and in the ongoing TACT2 (as compared with epirubicin plus capecitabine) in a bifactorial design also evaluating dose-dense epirubicin. Analysis of the role that amplification of the human epidermal growth factor receptor type 2 gene (HER2) and the topoisomerase IIα gene (TOP2A) plays in determining anthracycline sensitivity in the NEAT and BR9601 treatment populations is ongoing. At this point, there are no reported data on the safety or efficacy of trastuzumab when used concurrently with epirubicin plus CMF, although trastuzumab has been given as maintenance therapy after adjuvant treatment with epirubicin plus CMF in women with HER2-positive early breast cancer.34 Buzdar et al. reported that there were no cases of congestive cardiac failure in their trial, in which 44 patients were randomly assigned to neoadjuvant treatment with paclitaxel, followed by four cycles of the FEC regimen with or without herceptin administered concurrently for 24 weeks. However, they acknowledge 
+
+that their study was too small for conclusions to be drawn about the safety of this approach.35 In conclusion, adjuvant treatment of early breast cancer with epirubicin plus CMF has significant superiority over CMF alone in terms of relapsefree survival and overall survival. Although there was a higher incidence of treatment-related adverse effects with epirubicin plus CMF, its use was associated with adverse effects on the quality of life that are similar to those associated with CMF treatment. On the basis of the results in 75 centers, we recommend epirubicin plus CMF as an option for anthracycline-based adjuvant chemotherapy in women with early breast cancer. Supported by grants from the Cancer Research Campaign (now Cancer Research UK) and Pharmacia (now Pfizer); Pharmacia also provided epirubicin at a discount. Dr. Poole reports having received consulting fees and lecture fees from Eli Lilly, Pfizer, Amgen UK, Sanofi-Aventis, Roche, AstraZeneca, GlaxoSmithKline, Fulcrum Pharma, and BristolMyers Squibb; consulting fees from Novartis; and grant support from Pfizer and Cancer Research UK. Dr. Earl reports having received consulting fees from Pfizer, Bristol-Myers Squibb, and Amgen UK; and grant support from Cancer Research UK and Eli Lilly. Dr. Dunn reports having received grant support from Cancer Research UK, Pfizer, and Merck. Drs. Agrawal, Brunt, Rea, Earl, and Mansi report having received consulting fees from AstraZeneca. Dr. Fernando reports having received grant support from Cancer Research UK. Drs. Brunt, Rea, and McAdam report having received consulting fees from Roche. Dr. O’Reilly reports having served on advisory boards for Sanofi-Aventis and Novartis and having received lecture fees from AstraZeneca, Sanofi-Aventis, and Novartis. Dr. Rea reports having received consulting fees from Pfizer, Novartis, and GlaxoSmithKline; and grant support from Pfizer and Novartis. Mr. Stanley reports having received consulting fees from Westaway Gillis, Roche, and Amgen; and lecture fees from Aventis. Dr. Leonard reports having received consulting fees and lecture fees from Pfizer, Amgen, and Roche; consulting fees from Sanofi-Aventis; lecture fees from Bioenvision; and grant support from Amgen, European Union, and Cancer Research UK. Dr. Twelves reports having received consulting fees from Chugai and Aventis; and consulting and lecture fees from Roche. No other potential conflict of interest relevant to this article was reported. We thank the 137 clinicians, many research nurses, and 2391 patients who made these studies possible at 75 collaborative centers; the data monitoring committee (Mahesh K.B. Parmar, director, MRC Cancer Trials Office, London; Maurice L. Slevin, consultant medical oncologist, St. Bartholomew’s Hospital, London; and Colin S. McArdle, consultant surgeon, Glasgow Royal Infirmary, Glasgow) for their expert review of both NEAT and the BR9601 trial; the trial coordinators for the two trials, including Lorna Stewart, Ruth Main, Paul Stroner, Jeannie Bishop, Rachel McGregor, Caroline Jevons, Michelle McDermaid, and Sarah Bowden; and Tracey Rapson, the assisting statistician for BR9601. 
+
+appendix The following people participated in the trial management group: S. Bathers, J. Bishop, M. Brunt, L. Dodson, J. Dunn, H. Earl, I. Fernando, R. Grieve, P. Harvey, L. Hiller, H. Jarrett, C. Jevons, R. Leonard, J. Mansi, S. O’Reilly, T. Perren, C. Poole, C. Price, D. Rea, D. Spooner, A. Stanley, J. Stewart, N. Stuart, C. Twelves, J. Woods. The clinicians who recruited patients for the trial are listed in the Supplementary Appendix. 
+
+n engl j med 355;18 
+
+www.nejm.org 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+1861 
+
+sequential epirubicin plus cmf for early breast cancer 
+
+References 1. Early Breast Cancer Trialists’ Collab- 
+
+orative Group. Systemic treatment of early breast cancer by hormonal, cytotoxic, or immune therapy: 133 randomised trials involving 31,000 recurrences and 24,000 deaths among 75,000 women. Lancet 1992; 339:71-85. 2. Habeshaw T, Paul J, Jones R, et al. Epirubicin at 2 dose levels with prednisolone as treatment for advanced breast-cancer: the results of a randomized trial. J Clin Oncol 1991;9:295-304. 3. Buzzoni R, Bonadonna G, Valagussa P, Zambetti M. Adjuvant chemotherapy with doxorubicin plus cyclophosphamide, methotrexate, and fluorouracil in the treatment of resectable breast cancer with more than 3 positive axillary nodes. J Clin Oncol 1991;9:2134-40. 4. Bonadonna G, Zambetti M, Moliterni A, Gianni L, Valagussa P. Clinical relevance of different sequencing of doxorubicin and cyclophosphamide, methotrexate, and fluorouracil in operable breast cancer. J Clin Oncol 2004;22:1614-20. 5. Bonadonna G, Zambetti M, Valagussa P. Sequential or alternating doxorubicin and CMF regimens in breast cancer with more than three positive nodes: ten-year results. JAMA 1995;273:542-7. 6. Moliterni A, Bonadonna G, Valagussa P, Ferrari L, Zambetti M. Cyclophosphamide, methotrexate, and fluorouracil with and without doxorubicin in the adjuvant treatment of resectable breast-cancer with one to three positive axillary nodes. J Clin Oncol 1991;9:1124-30. 7. Norton L, Day R. Potential innovations in scheduling in cancer chemotherapy. In: DeVita VT Jr, Hellman S, Rosenberg SA, eds. Important advances in oncology. Philadelphia: J.B. Lippincott, 1991:57-72. 8. Day RS. Treatment sequencing, asymmetry, and uncertainty: protocol strategies for combination chemotherapy. Cancer Res 1986;46:3876-85. 9. Goldie JH, Coldman AJ. A mathematical model for relating the drug sensitivity of tumors to their spontaneous mutation rate. Cancer Treat Rep 1979;63:1727-33. 10. Goldie JH, Coldman AJ, Gudauskas GA. Rationale for the use of alternating non-cross-resistant chemotherapy. Cancer Treat Rep 1982;66:439-49. 11. Earl H, Iddawela M. Epirubicin as adjuvant therapy in breast cancer. Expert Rev Anticancer Ther 2004;4:189-95. 12. Goldhirsch A, Colleoni M, Coates AS, Castiglione-Gertsch M, Gelber RD. Adding adjuvant CMF chemotherapy to either radiotherapy or tamoxifen: are all CMFs alike? Ann Oncol 1998;9:489-93. 13. Engelsman E, Klijn JC, Rubens RD, et al. “Classical CMF” versus a 3-weekly in- 
+
+1862 
+
+travenous CMF schedule in postmenopausal patients with advanced breast cancer: an EORTC Breast Cancer Co-operative Group Phase III Trial (10808). Eur J Cancer 1991;27:966-70. 14. Bonadonna G, Valagussa P. Dose– response effect of adjuvant chemotherapy in breast cancer. N Engl J Med 1981;304: 10-5. 15. Kaplan EL, Meier P. Nonparametric estimation from incomplete observations. J Am Stat Assoc 1958;53:457-81. 16. Cox DR. Regression models and lifetables. J R Stat Soc [B] 1972;34:187-220. 17. Early Breast Cancer Trialists’ Collaborative Group. Treatment of early breast cancer. Vol. 1. Worldwide evidence 19851990. Oxford, England: Oxford University Press, 1990. 18. Aaronson NK, Ahmedzai S, Bergman B, et al. The European Organization for Research and Treatment of Cancer QLQC30: a quality-of-life instrument for use in international clinical trials in oncology. J Natl Cancer Inst 1993;85:365-76. 19. Sprangers MAG, Groenvold M, Arraras JI, et al. The European Organization for Research and Treatment of Cancer breast cancer-specific quality-of-life questionnaire module: first results from a threecountry field study. J Clin Oncol 1996; 14:2756-68. 20. Hunter MS. The Women’s Health Questionnaire: a measure of mid-aged women’s perceptions of their emotional and physical health. Psychol Health 1992;7:4554. 21. Qian W, Parmar MKB, Sambrook RJ, Fayers PM, Girling DJ, Stephens RJ. Analysis of messy longitudinal data from a randomised clinical trial. Stat Med 2000;19: 2657-74. 22. O’Brien PC. Procedures for comparing samples with multiple endpoints. Biometrics 1984;40:1079-87. 23. Levine MN, Bramwell VH, Pritchard KI, et al. Randomized trial of intensive cyclophosphamide, epirubicin, and fluorouracil chemotherapy compared with cyclophosphamide, methotrexate, and fluorouracil in premenopausal women with node-positive breast cancer. J Clin Oncol 1998;16:2651-8. 24. French Adjuvant Study Group. Benefit of a high-dose epirubicin regimen in adjuvant chemotherapy for node-positive breast cancer patients with poor prognostic factors: 5-year follow-up results of French Adjuvant Study Group 05 randomized trial. J Clin Oncol 2001;19:602-11. 25. Early Breast Cancer Trialists’ Collaborative Group. Polychemotherapy for early breast cancer: an overview of the randomised trials. Lancet 1998;352:930-42. 26. Coombes RC, Bliss JM, Wils J, et al. 
+
+n engl j med 355;18 
+
+www.nejm.org 
+
+Adjuvant cyclophosphamide, methotrexate, and fluorouracil versus fluorouracil, epirubicin, and cyclophosphamide chemotherapy in premenopausal women with axillary node-positive operable breast cancer: results of a randomized trial. J Clin Oncol 1996;14:35-45. 27. Crump M, Tu DS, Shepherd L, Levine M, Bramwell V, Pritchard K. Risk of acute leukemia following epirubicin-based adjuvant chemotherapy: a report from the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 2003;21: 3066-71. 28. Praga C, Bergh J, Bliss J, et al. Risk of acute myeloid leukemia and myelodysplastic syndrome in trials of adjuvant epirubicin for early breast cancer: correlation with doses of epirubicin and cyclophosphamide. J Clin Oncol 2005;23:4179-91. 29. Pulsoni A, Pagano L, Lo Coco F, et al. Clinicobiological features and outcome of acute promyelocytic leukemia occurring as a second tumor: the GIMEMA experience. Blood 2002;100:1972-6. 30. Detourmignies L, Castaigne S, Stoppa AM, et al. Therapy-related acute promyelocytic leukemia: a report on 16 cases. J Clin Oncol 1992;10:1430-5. 31. Leonard RC, Lind M, Twelves C, et al. Conventional adjuvant chemotherapy versus single-cycle, autograft-supported, highdose, late-intensification chemotherapy in high-risk breast cancer patients: a randomized trial. J Natl Cancer Inst 2004;96: 1076-83. 32. Gianni L, Baselga J, Eiermann W, et al. European Cooperative Trial in Operable Breast Cancer (ECTO): improved freedom from progression (FFP) from adding paclitaxel (T) to doxorubicin (A) followed by cyclophosphamide methotrexate and fluorouracil (CMF). J Clin Oncol 2005;23: Suppl:7S. abstract. 33. Hopwood P, Ellis P, Barrett-Lee P, et al. Impact on quality of life (QL) during chemotherapy (CT) of FEC-T compared to FEC or E-CMF: results from the UKNCRI Taxotere as Adjuvant Chemotherapy Trial (TACT). J Clin Oncol 2005;23:Suppl:43S. abstract. 34. Piccart-Gebhart MJ, Proctor M, Leyland-Jones B, et al. Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer. N Engl J Med 2005;353:165972. 35. Buzdar AU, Ibrahim NK, Francis D, et al. Significantly higher pathologic complete remission rate after neoadjuvant therapy with trastuzumab, paclitaxel, and epirubicin chemotherapy: results of a randomized trial in human epidermal growth factor receptor 2–positive operable breast cancer. J Clin Oncol 2005;23:3676-85. Copyright © 2006 Massachusetts Medical Society. 
+
+november 2, 2006 
+
+The New England Journal of Medicine Downloaded from nejm.org on May 11, 2014. For personal use only. No other uses without permission. Copyright © 2006 Massachusetts Medical Society. All rights reserved. 
+
+ 

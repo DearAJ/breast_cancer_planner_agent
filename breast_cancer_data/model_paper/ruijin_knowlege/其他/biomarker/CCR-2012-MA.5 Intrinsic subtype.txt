@@ -1,0 +1,1029 @@
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Responsiveness of Intrinsic Subtypes to Adjuvant Anthracycline Substitution in the NCIC.CTG MA.5 Randomized Trial Maggie C.U. Cheang, K. David Voduc, Dongsheng Tu, et al. Clin Cancer Res 2012;18:2402-2412. Published OnlineFirst February 20, 2012. 
+
+Updated version 
+
+Access the most recent version of this article at: doi:10.1158/1078-0432.CCR-11-2956 
+
+Supplementary Material 
+
+Access the most recent supplemental material at: http://clincancerres.aacrjournals.org/content/suppl/2012/02/20/1078-0432.CCR-11-2956.DC1.html 
+
+Cited Articles 
+
+This article cites by 21 articles, 16 of which you can access for free at: http://clincancerres.aacrjournals.org/content/18/8/2402.full.html#ref-list-1 
+
+Citing articles 
+
+This article has been cited by 9 HighWire-hosted articles. Access the articles at: http://clincancerres.aacrjournals.org/content/18/8/2402.full.html#related-urls 
+
+E-mail alerts Reprints and Subscriptions Permissions 
+
+Sign up to receive free email-alerts related to this article or journal. To order reprints of this article or to subscribe to the journal, contact the AACR Publications Department at pubs@aacr.org. To request permission to re-use all or part of this article, contact the AACR Publications Department at permissions@aacr.org. 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Predictive Biomarkers and Personalized Medicine 
+
+Clinical Cancer Research 
+
+Responsiveness of Intrinsic Subtypes to Adjuvant Anthracycline Substitution in the NCIC.CTG MA.5 Randomized Trial Maggie C.U. Cheang1,2, K. David Voduc2, Dongsheng Tu4, Shan Jiang4, Samuel Leung3, Stephen K. Chia2, Lois E. Shepherd4, Mark N. Levine5, Kathleen I. Pritchard6, Sherri Davies7, Inge J. Stijleman8, Carole Davis8, Mark T. W. Ebbert8, Joel S. Parker1, Matthew J. Ellis7, Philip S. Bernard8, Charles M. Perou1, and Torsten O. Nielsen3 
+
+Abstract Purpose: Recent studies suggest that intrinsic breast cancer subtypes may differ in their responsiveness to specific chemotherapy regimens. We examined this hypothesis on NCIC.CTG MA.5, a clinical trial randomizing premenopausal women with node-positive breast cancer to adjuvant CMF (cyclophosphamide-methotrexate-fluorouracil) versus CEF (cyclophosphamide-epirubicin-fluorouracil) chemotherapy. Experimental Design: Intrinsic subtype was determined for 476 tumors using the quantitative reverse transcriptase PCR PAM50 gene expression test. Luminal A, luminal B, HER2-enriched (HER2-E), and basallike subtypes were correlated with relapse-free survival (RFS) and overall survival (OS), estimated using Kaplan–Meier plots and log-rank testing. Multivariable Cox regression analyses determined significance of interaction between treatment and intrinsic subtypes. Results: Intrinsic subtypes were associated with RFS (P ¼ 0.0005) and OS (P < 0.0001) on the combined cohort. The HER2-E showed the greatest benefit from CEF versus CMF, with absolute 5-year RFS and OS differences exceeding 20%, whereas there was a less than 2% difference for non–HER2-E tumors (interaction test P ¼ 0.03 for RFS and 0.03 for OS). Within clinically defined Her2þ tumors, 79% (72 of 91) were classified as the HER2-E subtype by gene expression and this subset was strongly associated with better response to CEF versus CMF (62% vs. 22%, P ¼ 0.0006). There was no significant difference in benefit between CEF and CMF in basal-like tumors [n ¼ 94; HR, 1.1; 95% confidence interval (CI), 0.6–2.1 for RFS and HR, 1.3; 95% CI, 0.7–2.5 for OS]. Conclusion: HER2-E strongly predicted anthracycline sensitivity. The chemotherapy-sensitive basal-like tumors showed no added benefit for CEF over CMF, suggesting that nonanthracycline regimens may be adequate in this subtype although further investigation is required. Clin Cancer Res; 18(8); 2402–12. 2012 AACR. 
+
+Introduction The common "intrinsic" subtypes of breast cancer as defined by gene expression analyses have become known Authors' Afﬁliations: 1Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, North Carolina; 2British Columbia Cancer Agency; 3University of British Columbia, Vancouver, British Columbia; 4NCIC Clinical Trials Group, Kingston; 5McMaster University, Hamilton; 6 Sunnybrook Odette Cancer Centre, Toronto, Ontario, Canada; 7Washington University, St Louis, Missouri; and 8University of Utah Health Sciences Center, Salt Lake City, Utah Note: Supplementary data for this article are available at Clinical Cancer Research Online (http://clincancerres.aacrjournals.org/). Presented in part at the Poster Discussion Session in 2011 ASCO Annual Meeting, J Clin Oncol 2011; 29: (suppl; abstr 1032). Corresponding Author: Torsten O. Nielsen, University of British Columbia, Anatomical Pathology, JP 1401, Vancouver Hospital & Health Sciences Centre, 855 W. 12th Ave, Vancouver BC V5Z 1M9, Canada. Phone: 604875-4111, ext. 66768; Fax: 604-875-4797; E-mail: torsten@mail.ubc.ca doi: 10.1158/1078-0432.CCR-11-2956 2012 American Association for Cancer Research. 
+
+2402 
+
+as luminal A (LumA), luminal B (LumB), HER2-enriched (HER2-E), and basal like (1). The PAM50 gene set has become the standard for identifying these subtypes and has shown prognostic significance when no adjuvant systemic therapy is given (1), when patients receive adjuvant endocrine blockade only (2), and with different chemotherapy regimens (1, 3). There has been little predictive data to support changing chemotherapy based on "intrinsic" subtype, as few randomized clinical trials have been tested. However, neoadjuvant chemotherapy studies have shown that, in general, basal-like and HER2-E subtypes have the highest rates of pathologic response (1, 3). Studies in patients with triple-negative disease have shown that these tumors are sensitive to chemotherapy (3, 4). Furthermore, a number of retrospective analyses have suggested that nonanthracycline chemotherapy may be particularly effective in the adjuvant treatment of triplenegative cancers (5, 6). A biomarker analysis of the trial we present here (NCIC-CTG MA.5; refs. 7, 8) concluded that the benefit of anthracycline treatment was primarily limited 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Intrinsic Subtypes in the MA.5 Trial 
+
+Translational Relevance Molecular subtypes of breast cancer may differ in their responsiveness to specific chemotherapy regimens. Here, we tested the predictive value of intrinsic subtypes on clinical trial specimens from premenopausal women with node-positive breast cancers, who were randomized to anthracycline (CEF) versus nonanthracycline (CMF) chemotherapy. We found that intrinsic subtypes by qRT-PCR–based PAM50 assay, particularly the HER2E subtype, can provide significant additional predictive value to select patients who benefit the most from an adjuvant anthracycline-based chemotherapy regimen. In the chemotherapy-sensitive basal-like tumors, no added benefit was detected with anthracycline substitution, suggesting that nonanthracycline regimens should be further investigated in this subtype. Luminal A tumors, which contributed to 30% of the patient population in this study, also did not show a preferential sensitivity to CEF over CMF. Our results suggest that patients with basal-like and luminal A tumors might be safely spared of anthracycline-based chemotherapy regimens and their side effects. 
+
+to patients with Her2-amplified/overexpressed tumors (9) or TOP2A gene–altered (10) tumors. A subsequently published meta-analysis, including more than 5,000 patients randomized to anthracycline versus nonanthracycline chemotherapy, confirmed that incorporating anthracyclines into chemotherapy regimens did not improve survival in Her2-negative breast cancers (11). Although there are significant differences between genomic subtyping by gene expression and using small panels of immunohistochemical markers to carry out surrogate subtyping (1, 12), these data from triple-negative and Her2 disease suggests that intrinsic subtyping may be an effective method to identify those patients in which the toxicity of anthracyclines is justified. In this study, we applied the PAM50 intrinsic subtyping assay to 476 retrospectively collected tumor specimens from the NCIC-CTG MA.5 study, a prospective clinical trial that randomized premenopausal women with node-positive breast cancer to receive adjuvant chemotherapy with either cyclophosphamide-methotrexate-fluorouracil (CMF) or cyclophosphamide-epirubicin-fluorouracil (CEF). We hypothesized that the benefit of substituting methotrexate for epirubicin would vary among the PAM50-defined intrinsic subtypes. 
+
+Materials and Methods Patients and treatment regimens The MA.5 phase III trial was a randomized, controlled study of 716 premenopausal women with node-positive breast cancers (7, 8). In brief, patients were accrued between 1989 and 1993 and randomized to receive either adjuvant CEF or CMF. The CEF regimen included 6 cycles of epir- 
+
+www.aacrjournals.org 
+
+ubicin 60 mg/m2 and 5-fluorouracil (5-FU) 500 mg/m2, both delivered intravenously on days 1 and 8, with oral cyclophosphamide 75 mg/m2 daily on days 1 through 14. Patients on CEF also took prophylactic antibiotics throughout. The CMF regimen included 6 cycles of methotrexate 40 mg/m2 and 5-FU 600 mg/m2, both delivered intravenously on days 1 and 8, with oral cyclophosphamide 100 mg/m2 daily on days 1 through 14. RNA preparation, quantitative reverse transcriptase PCR, and assignment of intrinsic subtype Four hundred and seventy-six tumors (67%) were obtained for quantitative reverse transcriptase PCR (qRTPCR)–based PAM50 gene expression testing. There were no significant differences in the clinicopathologic characteristics between the qRT-PCR cohort and the MA.5 study patients (Table 1). Supplementary Figure S1 summarizes the study design as per ReMARK guidelines (13). Hematoxylin and eosin (H&E) sections from each block were reviewed by a pathologist (T.O. Nielsen). Areas containing representative invasive breast carcinoma were selected and circled on the source block. Using a 1.0-mm punch needle, at least 2 tumor cores were extracted from the circled area. Details of RNA preparation from paraffin cores, the qRTPCR assay for the PAM50 panel and reference genes, and how tumor samples were classified into luminal A, luminal B, HER2-E, basal-like, and normal-like subtypes are as described previously (1, 2). ROR-S (ref. 1; risk of relapse score using correlations to the subtype alone) risk score assignment was also calculated for each tumor as described previously (1); ROR-S ¼ (0.05)  basal like þ (0.12)  HER2-E þ (0.34)  LumA þ (0.23)  LumB By prespecified cutoff points, patients were categorized as low risk if the ROR-S score was less than 23, moderate risk if ROR-S score was between 23 and 53, and high risk if the ROR-S score was 53 or more. All genes expression tests and classifications were done without knowledge of or access to the clinical outcome data, which is maintained at the NCIC-CTG central office (Supplementary Fig. S1). All biomarker studies were approved by the Clinical Research Ethics Board of the BCCA. Clinical correlates of the intrinsic subtypes and risk classifiers The intrinsic subtypes, risk classifier, and biomarker data were sent to the NCIC Clinical Trials Group statistical centre for independent analyses of prespecified hypotheses (with additional analyses considered "exploratory"). Primary outcomes for MA.5 were relapse-free survival (RFS) and overall survival (OS). RFS was defined as time from trial arm random assignment to any recurrences including local breast chest wall, regional, or distant relapses. OS events were defined as death from any cause. The survival estimates for intrinsic subtypes and risk classifiers were plotted using Kaplan–Meier curves and compared by both log-rank and Wilcoxon tests. Univariable Cox proportional hazard regression models were used to obtain the HRs and 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+2403 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Cheang et al. 
+
+Table 1. Patient characteristics stratiﬁed by intrinsic subtypes (as determined by qRT-PCR PAM50 assay) 
+
+All ER (DCC) Positive (10 fmoL/mg), n (%) Negative (<10 fmoL/mg), n (%) Unknown P ER (IHC) Positive (1%), n (%) Negative, n (%) Unknown P HER2 (IHC/FISH) Positive (3þ,2þ w/FISHþ) n (%) Negative (0,1þ, 2þ w/FISH) n (%) Unknown P Nodal status 1–3 nodes, n (%) 4þ nodes, n (%) P Age, n (%) <50 y 50 y P Surgery Lumpectomy, n (%) Mastectomy, n (%) P T stage T1, n (%) T2, n (%) T3, n (%) Unknown P Grade 1, n (%) 2, n (%) 3, n (%) Unknown P Treatment CEF, n (%) CMF, n (%) P 
+
+All randomized 
+
+Patients with PAM50 
+
+HER2-E 
+
+Basal like 
+
+LumB 
+
+LumA 
+
+Normal 
+
+716 
+
+476 
+
+105 
+
+94 
+
+110 
+
+146 
+
+21 
+
+428 (68) 201 (32) 87 0.6 
+
+283 (66) 144 (34) 49 
+
+47 (50) 47 (50) 11 3.2  1041 
+
+8 (10) 73 (90) 13 
+
+100 (96) 4 (4) 6 
+
+114 (88) 16 (12) 16 
+
+14 (78) 4 (22) 3 
+
+NA 
+
+300 (64) 168 (36) 8 
+
+46 (44) 58 (56) 1 9.2  1055 
+
+8 (9) 83 (91) 3 
+
+103 (95) 5 (5) 2 
+
+129 (90) 15 (10) 2 
+
+14 (67) 7 (33) 0 
+
+93 382 1 
+
+72 (69) 33 (31) 0 7.8  1038 
+
+2 (2) 92 (98) 0 
+
+8 (7) 102 (93) 0 
+
+9 (6) 136 (94) 1 
+
+3 (14) 18 (86) 0 
+
+436 (61) 280 (39) 0.88 
+
+287 (60) 189 (40) 
+
+64 (61) 41 (39) 0.44 
+
+61 (65) 33 (35) 
+
+58 (53) 52 (47) 
+
+91 (62) 55 (38) 
+
+13 (62) 8 (38) 
+
+599 (84) 117 (16) 0.89 
+
+396 (83) 80 (17) 
+
+82 (78) 23 (22) 0.051 
+
+87 (93) 7 (7) 
+
+91 (83) 19 (17) 
+
+118 (81) 28 (19) 
+
+18 (86) 3 (14) 
+
+351 (49) 365 (51) 0.79 
+
+238 (50) 238 (50) 
+
+46 (44) 59 (56) 0.14 
+
+51 (54) 43 (46) 
+
+58 (53) 52 (47) 
+
+77 (53) 69 (47) 
+
+6 (29) 15 (71) 
+
+279 (41) 352 (53) 36 (5) 49 0.9 
+
+180 (41) 240 (54) 23 (5) 33 
+
+35 (38) 53 (57) 5 (5) 12 0.038 
+
+24 (27) 59 (67) 5 (6) 6 
+
+41 (39) 57 (54) 7 (7) 5 
+
+68 (50) 64 (47) 5 (4) 9 
+
+12 (60) 7 (35) 1 (5) 1 
+
+77 (12) 205 (33) 344 (55) 90 0.4 
+
+50 (11) 140 (30) 273 (59) 13 
+
+2 (2) 19 (19) 80 (79) 4 3.2  1037a 
+
+0 5 (5) 88 (95) 1 
+
+3 (3) 33 (31) 71 (66) 3 
+
+41 (29) 79 (55) 23 (16) 3 
+
+4 (21) 4 (21) 11 (58) 2 
+
+356 (50) 360 (50) 0.79 
+
+232 (49) 244 (51) 
+
+49 (47) 56 (53) 0.80 
+
+45 (48) 49 (52) 
+
+59 (54) 51 (46) 
+
+68 (47) 78 (53) 
+
+11 (52) 10 (48) 
+
+NA NA 
+
+NA 
+
+NOTE: The association of clinical variables with subtypes was tested using c2 test (or the Fisher exact test when expected count <5). a Cases with grade 1 and 2 were combined. 
+
+associated 95% confidence intervals (CI) of single covariates. Multivariable Cox regression analyses were used with treatments, intrinsic subtypes, and their interaction as covariates, to determine the significance of the interaction between treatment and intrinsic subtype. The multivariable 
+
+2404 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Cox models were adjusted for age (50 years vs. <50 years), number of positive lymph nodes (<4 vs. 4), estrogenreceptor (ER) level (10 vs. <10 fmol/mg), type of surgery (total vs. partial mastectomy), and tumor size (T1, T2, or T3). The associations of intrinsic subtypes with standard 
+
+Clinical Cancer Research 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Intrinsic Subtypes in the MA.5 Trial 
+
+clinicopathologic characteristics and biomarker expression were determined using the c2 or Fisher exact tests. All statistical analyses were conducted in R v.2.8.1 (http:// cran.r-project.org) and SAS 9.2. 
+
+strongly associated with high-grade tumors. There were no significant associations of subtypes with the number of positive lymph nodes, type of surgeries, or adjuvant chemotherapy regimen trial arm assignment (Table 1). 
+
+Immunohistochemistry, FISH, and tissue microarrays Five hundred and forty-nine archival specimens (77%) were obtained for tissue microarray construction; there were no significant differences in the clinicopathologic characteristics between this cohort and the full MA.5 study set. Immunohistochemical staining methods and interpretation of ER, progesterone receptor (PgR), and Her2 were prespecified and conducted using published methods (12, 14). Her2/Neu and TOP2A amplifications were measured by FISH as previously described (9, 10). To determine Her2 status in this study, FISH data (amplification ratio 2.0) was used to segregate immunohistochemically equivocal (2þ) results. Biomarker expression was interpreted by pathologists blinded to clinical outcome. 
+
+Association of intrinsic subtypes by qRT-PCR PAM50 with RFS and OS When analyzed on the entire cohort, intrinsic subtypes were significantly associated with different RFS and OS estimates (Supplementary Table S1). These results therefore confirm the intrinsic subtypes remain prognostic in patients uniformly treated with adjuvant chemotherapy. In this study, the ROR-S low-risk groups (n ¼ 79) were all classified as LumA. For the ROR-S moderate-risk group (n ¼ 202), 33% were LumA, 39% LumB, 21% HER2-E, and 7% were classified as basal like. Within the ROR-S high-risk group (n ¼ 174), 36% were classified as HER2-E, 46% as basal like, and 18% as LumB. The ROR-S risk classifier was significantly associated with distinct survival differences (P < 0.0001; logrank test): the low-risk group (75% RFS and 94% OS at 5 years) had the most favorable clinical outcome than the moderate-risk group (59% RFS and 80% OS at 5 years) and high-risk group (51% RFS and 53% OS at 5 years), respectively (Supplementary Table S1). Within the CMF-treated cohort, intrinsic subtypes were associated with significantly different RFS and OS (P < 0.0001, log-rank test, Table 2). Patients with HER2-E tumors had the poorest clinical outcome, worse than each of the other subtypes (Table 2). The basal-like subtype had RFS estimates comparable with those in patients with LumA or LumB tumors in this nonanthracycline arm. Comparing the 2 ER-positive subtypes, LumB tumors had a worse prognosis than LumA. The 3 survival risk groups defined by the prespecified ROR-S risk classifier were significantly associated with distinct RFS and OS estimates (Fig. 1A and B). The low-risk group (n ¼ 41) had absolute 12% higher 5year RFS and 16% higher 5-year OS than the moderate-risk group (n ¼ 101) and 29% higher 5-year RFS and 43% higher 5-year OS than the high-risk group (n ¼ 92). 
+
+Results Using the qRT-PCR–based PAM50 gene expression test, 31% of the 476 tumors were classified as LumA, 23% as LumB, 22% as HER2-E, 20% as basal-like, and 4% as normal-like subtypes. The normal-like samples were not considered further, as this class is used as a quality control measure to assess the adequacy of tumor content in the specimen (1). The clinical ER status was originally determined at accrual by the dextran-coated charcoal (DCC) assay. As expected, 88% of LumA and 96% of LumB tumors were ER positive compared with 50% of HER2-E and 10% of basal-like tumors (Table 1). According to ER status assessed by central immunohistochemistry conducted for this study, 90% of LumA, 95% of LumB, 44% of HER2-E, and 9% of basal-like were ER positive using a 1% cut off point for positivity. ESR1 gene expression levels were measured by qRT-PCR and ER by DCC correlated positively (r ¼ 0.71, P < 0.0001). The LumB, HER2-E, and basal-like subtypes were 
+
+Table 2. Survival by PAM50-determined intrinsic subtypes, stratiﬁed by adjuvant treatment arms CMF and CEF, respectively Subtype CMF HER2-E Basal like LumB LumA CEF HER2-E Basal like LumB LumA 
+
+No. of patients 
+
+5-year RFS (95% CI) 
+
+RFS P values 
+
+5-year OS (95% CI) 
+
+OS P values 
+
+56 49 51 78 
+
+34.5 (22.0–47.1) 59.1 (45.3–72.9) 52.2 (38.4–66.1) 73.1 (63.2–82.9) 
+
+Log-rank: <0.0001 
+
+43.6 (30.5–56.7) 63.3 (49.8–76.8) 71.5 (58.8–84.1) 89.7 (83.0–96.5) 
+
+Log-rank: <0.0001 
+
+49 45 59 68 
+
+55.1 (41.2–69.0) <55.1 (40.8–69.8) 60.6 (48.0–73.2) 67.6 (56.5–78.8) 
+
+63.3 (49.8–76.8) 53.1 (38.5–67.8) 79.4 (69.1–89.8) 94.1 (88.5–99.7) 
+
+Log-rank: 0.09 
+
+Wilcoxon: <0.0001 
+
+Log-rank: 0.64 Wilcoxon: 0.25 
+
+Wilcoxon: <0.0001 
+
+Wilcoxon: 0.005 
+
+NOTE: Five-year RFS (95% CI) and 5-year OS (95% CI) are expressed in percent. 
+
+www.aacrjournals.org 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+2405 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Cheang et al. 
+
+high vs. med P = 0.39 high vs. low P = 0.003 med vs. low P = 0.006 Overall log-rank P = 0.008 
+
+0 
+
+2 
+
+STRATA: 
+
+OS probability 
+
+4 6 8 Time from randomization (y) 
+
+10 
+
+0.75 0.50 high vs. med P = 0.006 high vs. low P < 0.0001 med vs. low P = 0.004 Overall log-rank P < 0.0001 
+
+0.00 
+
+0 
+
+2 
+
+STRATA: 
+
+4 6 8 10 Time from randomization (y) ROR-S = high ROR-S = med ROR-S = low 
+
+0.50 0.25 
+
+high vs. med P = 0.43 high vs. low P = 0.11 med vs. low P = 0.01 Overall log-rank P = 0.06 
+
+0.00 
+
+0 STRATA: 
+
+2 
+
+4 6 8 Time from randomization (y) 
+
+12 
+
+14 
+
+CensoredROR-S = high n = 92 CensoredROR-S = med n =101 CensoredROR-S = low n = 41 
+
+10 
+
+12 
+
+CensoredROR-S = high n = 82 CensoredROR-S = med n =101 CensoredROR-S = low n = 38 
+
+ROR-S = high ROR-S = med ROR-S = low 
+
+D 1.00 
+
+CMF 
+
+0.25 
+
+0.75 
+
+12 
+
+CensoredROR-S = high n = 92 CensoredROR-S = med n =101 CensoredROR-S = low n = 41 
+
+ROR-S = high ROR-S = med ROR-S = low 
+
+1.00 
+
+RFS probability 
+
+RFS probability 
+
+0.50 0.25 
+
+CEF 1.00 
+
+0.75 
+
+0.00 
+
+B 
+
+C 
+
+CMF 
+
+1.00 
+
+OS probability 
+
+A 
+
+CEF 
+
+0.75 0.50 high vs. med P = 0.34 high vs. low P = 0.03 med vs. low P = 0.048 Overall log-rank P = 0.055 
+
+0.25 0.00 
+
+0 STRATA: 
+
+2 
+
+4 6 8 Time from randomization (y) 
+
+ROR-S = high ROR-S = med ROR-S = low 
+
+10 
+
+12 
+
+CensoredROR-S = high n = 82 CensoredROR-S = med n =101 CensoredROR-S = low n = 38 
+
+Figure 1. RFS and OS by ROR-S risk of relapse score, stratiﬁed by adjuvant treatment arm (A and B, CMF; C and D, CEF). 
+
+In the CEF-treated arm, intrinsic subtypes showed less distinct differences for both endpoints (P ¼ 0.64, log-rank test, for RFS and P ¼ 0.09 for OS, Table 2). Patients with HER2-E, basal-like, and LumB subtypes had comparably poor clinical outcomes, whereas those with the LumA subtype had the best prognosis (Table 2). In this CEF arm, the ROR-S–defined risk groups had significantly different survival (Fig. 1C and D). The low-risk group (n ¼ 38) had absolute 20% higher 5-year RFS and 13% higher 5-year OS than the moderate-risk group (n ¼ 101) and 18% higher 5year RFS and 38% higher 5-year OS than the high-risk group (n ¼ 82). Almost all events in the high-risk group occurred within 5 years, and differences between the moderate- and high-risk groups did not reach statistical significance. Selective treatment benefits across intrinsic subtypes In the MA.5 study subset with paraffin blocks available for this study, there was a trend for survival improvement for the anthracycline-containing regimen over the methotrexate-containing control arm (Fig. 2) comparable in magnitude to that previously reported for the trial as a whole. HER2-E tumors showed the greatest benefit from CEF versus CMF (Fig. 2), with an observed 21% gain in 5-year RFS and 20% gain in 5-year OS (Fig. 3A and E). The interaction between HER2-E subtype and anthracycline sensitivity was significant for both endpoints (Fig. 2, P ¼ 0.03). In contrast, basal-like tumors achieved no survival advantage for CEF over CMF, with a reverse trend having an observed 
+
+2406 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+10% higher 5-year OS for the CMF arm (Fig. 3F). The treatment effect differences between the 2 luminal subtypes, which differ markedly in expression of proliferation genes, were also compared. Results from the multivariable Cox regression analysis suggested that patients with LumB tumors had a trend for better survival when treated with CEF, whereas LumA tumors trended to better survival when treated with CMF (Figs. 2, 3C, D, G, and H). However, the interaction test for treatment by LumA and LumB subtypes was not significant (RFS, P ¼ 0.25; OS, P ¼ 0.11). In summary, the relative observed RFS and OS risk reduction associated with CEF versus CMF was 44% and 38% for HER2-E and 24% and 17% for LumB, respectively. On the other hand, the relative observed RFS and OS risk reduction associated with CMF versus CEF (i.e., the opposite pattern of drug sensitivity, favoring CMF) was 11% and 24% for basal-like and 12% and 42% for LumA, respectively. Differences only reached statistical significance for the HER2-E group. HER2-E gene expression subtype and clinical Her2 status for predicting anthracycline sensitivity The HER2-E subtype by PAM50 was significantly associated with clinical Her2 positivity (P < 0.001). Sixty-eight percent (71 of 105) of the HER2-E subtype tumors were clinically Her2 positive by immunohistochemistry (IHC)/ FISH analyses. For the other subtypes, 6% (9 of 145) of 
+
+Clinical Cancer Research 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Intrinsic Subtypes in the MA.5 Trial 
+
+A 
+
+Events/patients CEF (%) 
+
+HR (CI; CEF: CMF) 
+
+CMF (%) 
+
+Clinical assay Her2+ 20/44 (45) Her2− 89/177 (50) Interaction test, P = 0.0008 Subtypes by PAM50 25/49 (51) HER2−E 84/172 (49) Non−HER2−E Interaction test, P = 0.03 20/45 (44) Basal 89/176 (51) Nonbasal Interaction test, P = 0.25 
+
+36/47 (77) 89/186 (48) 
+
+0.41 (0.23–0.71) 1.08 (0.81–1.45) 
+
+40/56 (71) 85/178 (48) 
+
+0.56 (0.34–0.93) 1.02 (0.76–1.38) 
+
+20/49 (41) 105/185 (57) 
+
+1.12 (0.60–2.08) 0.8 (0.60–1.06) 0.56 (0.34–0.93) 1.12 (0.60–2.08) 0.76 (0.47–1.24) 1.14 (0.70–1.88) 
+
+HER2−E Basal LumB LumA 
+
+25/49 (51) 20/45 (44) 33/59 (56) 31/68 (46) 
+
+40/56 (71) 20/49 (41) 33/51 (65) 32/77 (42) 
+
+All 
+
+109/221 (49) 
+
+125/234 (53) 
+
+0.87 (0.67–1.12) 
+
+0.2 
+
+Figure 2. Multivariable Cox regression analysis adjusted HR plots by PAM50 intrinsic subtype, adjusted for clinicopathologic variables. 
+
+0.5 1.0 1.5 2.2 CEF better CMF better 
+
+HR (RFS) 
+
+B 
+
+Events/patients CEF (%) 
+
+HR (CI; CEF: CMF) 
+
+CMF (%) 
+
+Clinical Her2 status 19/44 (43) Her2+ Her2− 71/177 (40) Interaction test, P = 0.0009 
+
+33/47 (70) 60/186 (32) 
+
+0.45 (0.25–0.79) 1.3 (0.92–1.83) 
+
+Subtypes by PAM50 22/49 (45) HER2−E Non−HER2−E 68/172 (40) Interaction test, P = 0.03 
+
+35/56 (63) 58/178 (33) 
+
+0.62 (0.36–1.05) 1.22 (0.86–1.74) 
+
+Basal 21/45 (47) Nonbasal 69/176 (39) Interaction test, P = 0.26 
+
+20/49 (41) 73/185 (39) 
+
+1.32 (0.71–2.46) 0.9 (0.65–1.25) 
+
+HER2−E Basal LumB LumA 
+
+22/49 (45) 21/45 (47) 23/59 (39) 24/68 (35) 
+
+35/56 (63) 20/49 (41) 22/51 (43) 16/77 (32) 
+
+0.62 (0.36–1.05) 1.32 (0.71–2.46) 0.83 (0.46–1.50) 1.71 (0.91–3.22) 
+
+All 
+
+90/221 (41) 
+
+93/234 (40) 
+
+0.98 (0.74–1.31) 0.2 
+
+0.5 
+
+CEF better 
+
+1.0 
+
+1.5 
+
+2.2 2.8 3.5 
+
+CMF better 
+
+HR (OS) 
+
+LumA, 7% (8 of 110) of LumB, and 2% (2 of 94) of basallike were Her2 positive by IHC/FISH. Clinical Her2 status was previously shown to be a significant predictor of improved survival for CEF over CMF in MA.5 (9), a result also observed in this study subset (Supplementary Table S2). We therefore compared the accuracy and significance of the PAM50-based HER2-E subtype and clinical Her2 status as biomarkers to predict patient outcome. Using multivariable Cox regression analysis, the treatment interactions observed in the HER2-E subtype remained significantly independent when adjusted with the clinical Her2 status (Table 3). The treatment interactions in clinical Her2 status also remained independent when adjusted with the HER2-E subtype status. These results suggest that clinical Her2 status and gene expression HER2-E subtype, although correlated, are not equivalent, and moreover that defining patients as HER2-E subtype by gene expression provides independent information of potential clinical value beyond that obtained by Her2 testing alone. 
+
+www.aacrjournals.org 
+
+We developed the post hoc hypothesis that the anthracycline benefit would be mostly conferred within Her2þ tumors by those also assigned as HER2-E by PAM50. Consistent with this hypothesis, the Her2þ HER2-E tumor subset treated with CEF had especially large benefits in RFS (an absolute 40% gain in 5-year RFS) and OS (an absolute 35% gain in 5-year OS) when compared with those randomized to CMF (Table 4). Among the clinical Her2-negative/weak tumors, patients with HER2-E tumors by PAM50 did not appear to gain benefit from CEF over CMF (Table 4). Although study numbers are small, these data suggest that positive clinical Her2 combined with assignment to HER2-E PAM50 subtype could be the best predictor for survival benefit of anthracycline substitution for methotrexate. We carried out an exploratory analysis to examine further if there was a linear relationship between a tumor’s correlation to the HER2-E subtype and survival in each study arm. Supplementary Figure S2 illustrates the relationship between benefit of CEF over CMF with the tumor’s relation 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+2407 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Cheang et al. 
+
+A 
+
+E 
+
+HER2-E 80 
+
+HER2-E 100 
+
+OS probability 
+
+RFS probability 
+
+100 
+
+60 40 20 
+
+80 60 40 20 
+
+Overall log-rank P = 0.02 
+
+Overall log-rank P = 0.07 
+
+0 
+
+0 0 49 56 
+
+2 33 29 
+
+4 28 19 
+
+6 27 16 
+
+8 25 15 
+
+10 14 6 
+
+12 0 0 
+
+0 49 56 
+
+2 42 46 
+
+4 32 28 
+
+#At risk (CEF) #At risk (CMF) 
+
+B 
+
+F 
+
+80 
+
+CEF 
+
+60 40 20 0 
+
+80 60 40 20 
+
+Overall log-rank P = 0.38 
+
+0 0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+12 
+
+45 49 
+
+27 32 
+
+24 29 
+
+22 28 
+
+19 26 
+
+12 17 
+
+0 0 
+
+45 49 
+
+35 40 
+
+25 31 
+
+22 31 
+
+19 28 
+
+12 18 
+
+0 0 
+
+Time from randomization (y) 
+
+Time from randomization (y) 
+
+#At risk (CEF) #At risk (CMF) CEF CMF 
+
+#At risk (CEF) #At risk (CMF) CEF CMF 
+
+G 
+
+LumB 
+
+80 
+
+OS probability 
+
+80 
+
+RFS probability 
+
+100 
+
+60 40 20 
+
+Figure 3. Univariate RFS and OS Kaplan–Meier plots of treatment arms, CEF versus CMF, stratiﬁed by intrinsic subtypes (A–D, RFS; E– H, OS). 
+
+LumB 
+
+100 
+
+60 40 20 Overall log-rank P = 0.54 
+
+Overall log-rank P = 0.27 0 
+
+0 0 59 51 
+
+2 50 34 
+
+4 39 27 
+
+6 28 25 
+
+8 23 19 
+
+10 8 11 
+
+0 59 51 
+
+12 0 0 
+
+2 59 48 
+
+4 51 38 
+
+8 32 28 
+
+10 12 18 
+
+12 0 0 
+
+#At risk (CEF) #At risk (CMF) 
+
+#At risk (CEF) #At risk (CMF) 
+
+CEF 
+
+6 41 32 
+
+Time from randomization (y) 
+
+Time from randomization (y) CMF 
+
+CEF 
+
+H 
+
+LumA 
+
+100 
+
+CMF 
+
+LumA 
+
+100 
+
+80 
+
+OS probability 
+
+RFS probability 
+
+CMF 
+
+100 
+
+Overall log-rank P = 0.73 
+
+60 40 20 
+
+80 60 40 20 
+
+Overall log-rank P = 0.66 
+
+Overall log-rank P = 0.12 
+
+0 
+
+0 0 68 78 
+
+2 58 70 
+
+4 49 60 
+
+6 42 55 
+
+8 38 49 
+
+10 22 16 
+
+12 0 0 
+
+0 68 78 
+
+2 67 75 
+
+Time from randomization (y) #At risk (CEF) #At risk (CMF) 
+
+CEF 
+
+CMF 
+
+to the prototypical HER2-E centroid as a continuous predictor. Five-year predicted RFS and OS were estimated from a Cox model including the HER2-E component of a tumor (i.e., the higher the HER2-E content present in a tumor, the 
+
+2408 
+
+12 0 0 
+
+Basal-like 
+
+OS probability 
+
+RFS probability 
+
+100 
+
+D 
+
+10 14 8 
+
+#At risk (CEF) #At risk (CMF) 
+
+CMF 
+
+Basal-like 
+
+C 
+
+8 27 19 
+
+Time from randomization (y) 
+
+Time from randomization (y) CEF 
+
+6 30 21 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+4 65 72 
+
+6 61 67 
+
+8 49 56 
+
+10 26 23 
+
+12 0 1 
+
+Time from randomization (y) #At risk (CEF) #At risk (CMF) 
+
+CEF 
+
+CMF 
+
+higher the HER2-E centroid value). This analysis shows a slight benefit of CMF over CEF when a tumor anticorrelates with the HER2-E centroid and a more striking benefit of CEF over CMF when a tumor positively correlates with the 
+
+Clinical Cancer Research 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Intrinsic Subtypes in the MA.5 Trial 
+
+Table 3. Multivariable Cox regression analyses of clinical Her2 status and HER2-E gene expression subtype, to predict anthracycline sensitivity (superiority of adjuvant CEF over CMF) 
+
+RFS OS 
+
+Interaction term 
+
+P 
+
+Adjusted for 
+
+HER2-E by PAM50  treatment Clinical Her2  treatment HER2-E by PAM50  treatment Clinical Her2  treatment 
+
+0.016 0.0007 0.012 0.0008 
+
+Clinical Her2 status HER2-E by PAM50 Clinical Her2 status HER2-E by PAM50 
+
+NOTE: All models included the standard clinicopathologic variables. 
+
+HER2-E centroid. The higher the content of HER2-E in a tumor, the lower the 5-year RFS and OS rate when treated with CMF. 
+
+Discussion Anthracycline-based chemotherapy regimens remain a commonly used adjuvant therapy for high-risk early stage breast cancer, despite their significant toxicity profile, 
+
+including neutropenia, infection, secondary leukemias, and cardiotoxicity (15). Adjuvant anthracycline polychemotherapy was showed to provide a 4% improvement in overall survival in comparison with nonanthracycline chemotherapy in the 2000 EBCGTG meta-analysis (16). There has been much research on biomarkers that could detect responsiveness to anthracyclines. However, to date, there has been no published analysis on the use of intrinsic 
+
+Table 4. Exploratory analysis on predictive values of HER2-E among clinical Her2-positive tumors (overexpressed/ampliﬁed) and Her2-negative tumors Clinical Her2 positive No. of patients (# of events) HER2-E by PAM50 CEF 34 (13) CMF 38 (30) Non–HER2-E by PAM50 CEF 10 (7) CMF 9 (6) # of patients (# of events) HER2-E by PAM50 CEF 34 (13) CMF 38 (27) Non–HER2-E by PAM50 CEF 10 (6) CMF 9 (6) Clinical Her2 negative # of patients (# of events) HER2-E by PAM50 CEF 15 (12) CMF 18 (10) Non–HER2-E by PAM50 CEF 162 (77) CMF 168 (79) # of patients (# of events) HER2-E by PAM50 CEF 15 (9) CMF 18 (8) Non–HER2-E by PAM50 CEF 162 (62) 
+
+5-year RFS (95% CI) 
+
+P value 
+
+Her2-PAM50/treatment interaction test 
+
+61.8 (45.4–78.1) 21.6 (8.36–34.9) 
+
+Log-rank: 0.0006 Wilcoxon: 0.003 
+
+0.09 
+
+37.5 (6.03–69.0) 38.1 (4.34–71.8) 5-year OS (95% CI) 
+
+Log-rank: 0.88 Wilcoxon: 0.86 P value 
+
+64.7 (48.6–80.8) 29.7 (15.0–44.5) 
+
+Log-rank: 0.005 Wilcoxon: 0.01 
+
+60.0 (29.6–90.4) 50.8 (16.2–85.4) 
+
+Log-rank: 0.59 Wilcoxon: 0.86 
+
+5-year RFS (95% CI) 
+
+P value 
+
+Her2-PAM50/treatment interaction test 
+
+40.0 (15.2–64.8) 61.1 (38.6–83.6) 
+
+Log-rank: 0.23 Wilcoxon: 0.35 
+
+0.28 
+
+63.3 (55.9–70.8) 64.8 (57.6–72.1) 5-year OS (95% CI) 
+
+Log-rank: 0.85 Wilcoxon: 0.81 P value 
+
+60.0 35.2–84.8) 72.2 (51.5–92.9) 
+
+Log-rank: 0.27 Wilcoxon: 0.20 
+
+79.5 (73.3–85.8) 
+
+Log-rank: 0.19 Wilcoxon: 0.35 
+
+Her2-PAM50/treatment interaction test 0.27 
+
+Her2-PAM50/treatment interaction test 0.59 
+
+NOTE: Five-year RFS (95% CI) and 5-year OS (95% CI) are expressed in percent. 
+
+www.aacrjournals.org 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+2409 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Cheang et al. 
+
+subtyping to select specific adjuvant chemotherapy regimens. In this study, we tested the predictive value of intrinsic subtyping in a cohort of patients randomized to CEF- versus CMF-based chemotherapy. We observed that the HER2-E intrinsic subtype, identified by the PAM50 assay, benefited the most from an anthracycline-based adjuvant chemotherapy regimen. We were also able to subset the ER-positive tumors into their component intrinsic subtypes, including luminal A and luminal B, and were unable to detect any statistically significant survival gain in these subgroups when treated with CEF. However, it is recognized that many of these subgroups were small and the power to detect small clinical differences was limited. Trastuzumab is currently the standard of care for clinical Her2-positive tumors. One limitation of this current study is that the MA.5 trial predates use of trastuzumab and so did not use it for Her2-positive patients. Nevertheless, we have observed that the sensitivity of clinical Her2þ tumors to neoadjuvant anthracycline-taxane–based regimens, even when trastuzumab is given, is mainly contained within tumors of the HER2-E expression subtype (17). In fact, the choice of CMF versus CEF remains a highly relevant issue, even in the modern setting of taxane and trastuzumab-based treatments. These latter treatments are not available to many women in public health systems in the developing world where CMF and anthracycline-based therapy remain the most widely adopted standard (e.g., <14% of Brazilian patients receive taxanes; ref. 18). A recent report on meta-analysis of 3,452 patients for Her2 amplification and TOP2A from 5 randomized adjuvant trials that compared anthracycline-based regimens with CMF regimens did not support the use of anthracyclines only in patients with Her2-amplified or TOP2A-aberrated tumors (19). The authors suggested that the interaction between anthracycline sensitivity and Her2 or TOP2A status might be a quantitative relationship rather than a qualitative relationship. Here, our post hoc analysis showed that a Spearman correlation to the HER2-E centroid (i.e., a quantitative measurement of similarity to the average expression profiles of a typical HER2-E tumor) can be a potential useful tool to estimate the tumor sensitivity for adjuvant CMF or CEF (Supplementary Fig. S2). Our data showed that the relative sensitivity of anthracyclines remained fairly constant across the spectrum of HER2-E subtype centroid similarity. On the other hand, it appeared that there was a negative correlating relationship between adjuvant CMF benefit with the HER2-E subtype centroid. Thus our findings corroborated the potential predictive value of the HER2-E subtype centroid, as a quantitative measurement, to identify anthracycline sensitive tumors in addition to the standard clinical assays such as Her2 status. Basal-like breast cancers represent a particular clinical challenge as they are both hormone receptor and Her2 negative and therefore not sensitive to existing targeted therapies. Studies of neoadjuvant chemotherapy in breast cancer show that clinical and pathologic response rates tend to be high in basal-like cancers (3, 4, 20), supporting 
+
+2410 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+sensitivity of these tumors to conventional chemotherapy. Our results suggest that anthracyclines may not be an essential component of chemotherapy for the treatment of basal-like breast cancers. Patients with these tumors who received CEF had a 32% relative increase in mortality compared with those who received CMF. The 95% CI on the HR ranged from 0.7 to 2.5. Findings suggest that CMF is likely equal to or better than CEF for these tumors, although it is possible that CEF could be anywhere from 30% better than CMF to 50% worse for basal-like tumors. Testing the hypothesis of lack of survival benefit from substituted anthracyclines in basal-like tumors on a prospective phase III randomized trial does not seem to be practical: to achieve 80% power for a 2-tailed test at alpha 0.05 to detect no clinical survival benefit exceeding the 4% reported from the Oxford Overview (16), a total of 4,730 basal-like tumors would need to be accrued. Therefore, we must consider accepting lower levels of evidence than could be achieved from a prospective noninferiority clinical trial, by testing the hypothesis on multiple retrospective studies of adjuvant CMF versus CEF-like regimens. For instance, if validation results in additional CEF versus CMF trials (such as DBCG89D; ref. 21) are consistent with MA.5, then the development of adjuvant regimens for basal-like breast cancers based on multiagent chemotherapy including novel targeted agents may not need to include an anthracycline as an obligatory component. Luminal B breast cancers are highly proliferative ERpositive tumors which carry a significantly worse prognosis than their counterpart ER-positive/luminal A tumors (12). These luminal B tumors are chemosensitive and generally respond to cytotoxic drugs. Paik and colleagues reported that the Oncotype DX high-risk group had a large benefit from additional adjuvant CMF with an absolute decrease of 28% in distant relapse risk when compared with the tamoxifen only arm in the NSABP-B20 trial (22). Our study provides information that there was no major survival difference between adjuvant anthracycline-containing versus nonanthracycline adjuvant chemotherapy regimens among luminal B tumors, although there was a trend to better survival on CEF. Luminal A tumors, representing 31% of patients in this study, do appear to represent another large subset of patients in whom anthracycline-based treatment may be dispensed with. Another unique feature of our study was the assessment of prognostic value of ROR-S risk classifier for adjuvant CMF and CEF regimens, respectively. The ROR-S classifiers were previously developed and defined on the basis of the biology of intrinsic subtypes using an independent cohort of node-negative, untreated patients (1). In this report, we validated that the 3 predefined risk groups were significantly associated with survival differences for both treatment arms, most distinct within the 5 years. Although ROR-S risk groups were highly associated with intrinsic subtype classifiers, our data showed that ROR-S could also provide prognostic information for clinicians to estimate the survival rates of a patient for adjuvant CMF and CEF. 
+
+Clinical Cancer Research 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Intrinsic Subtypes in the MA.5 Trial 
+
+In conclusion, we confirm that intrinsic subtypes provide independent predictive value to anthracycline versus nonanthracycline chemotherapy beyond clinical Her2 status. These data suggest that the benefit of CEF over CMF is largely limited to patients with the HER2-E gene expression pattern and Her2þ IHC/FISH status. The chemotherapy-sensitive basal-like tumors showed no added benefit for CEF over CMF, suggesting that nonanthracycline regimens may be adequate in this subtype although further investigation is required. Disclosure of Potential Conﬂicts of Interest J.S. Parker has ownership interest (including patents) and is coauthor of patent pending on PAM50 assay. M.J. Ellisand, P.S. Bernard, and T.O. Nielsen have ownership interest (including patents) at Bioclassifier LLC. T.O. Nielsen is the Consultant/Advisory Board member at Nanostring Technologies. No potential conflicts of interest were disclosed by the other authors. 
+
+Authors' Contributions Conception and design: M.C.U. Cheang, D. Tu, S.K. Chia, M.N. Levine, M.J. Ellis, C.M. Perou, T.O. Nielsen. Development of methodology: M.C.U. Cheang, S.R. Davies, J.S. Parker, M. J. Ellis, C.M. Perou, T.O. Nielsen. 
+
+Acquisition of data (provided animals, acquired and managed patients, provided facilities, etc.): S. Leung, L. Shepherd, I.J. Stijleman, T.O. Nielsen. Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): M.C.U. Cheang, K.D. Voduc, D. Tu, S. Jiang, S. Leung, S.K. Chia, L. Shepherd, M.N. Levine, K.I. Pritchard, I.J. Stijleman, M. Ebbert, M.J. Ellis, P.S. Bernard, C.M. Perou, T.O. Nielsen. Writing, review, and/or revision of the manuscript: M.C.U. Cheang, K.D. Voduc, D. Tu, S.K. Chia, L. Shepherd, M.N. Levine, K.I. Pritchard, S.R. Davies, M. Ebbert, J.S. Parker, M.J. Ellis, C.M. Perou, T.O. Nielsen. Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases): M.C.U. Cheang, S. Leung, S.K. Chia, L. Shepherd, S.R. Davies, I.J. Stijleman, C. Davis, M. Ebbert, P.S. Bernard, T.O. Nielsen. Study supervision: M.C.U. Cheang, D. Tu, M.J. Ellis, T.O. Nielsen. 
+
+Grant Support The study was supported by Terry Fox Foundation (to M.C.U. Cheang), National Cancer Institute (NCI) Strategic Partnering to Evaluate Cancer Signatures Grant No. U01 CA114722-01, Michael Smith Foundation for Health Research (to T.O. Nielsen), and Canadian Breast Cancer Foundation. The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. Received November 21, 2011; revised January 25, 2012; accepted February 6, 2012; published OnlineFirst February 20, 2012. 
+
+References 1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+Parker JS, Mullins M, Cheang MC, Leung S, Voduc D, Vickery T, et al. Supervised risk predictor of breast cancer based on intrinsic subtypes. J Clin Oncol 2009;27:1160–7. Nielsen TO, Parker JS, Leung S, Voduc D, Ebbert M, Vickery T, et al. A comparison of PAM50 intrinsic subtyping with immunohistochemistry and clinical prognostic factors in tamoxifen-treated estrogen receptor-positive breast cancer. Clin Cancer Res 2010;16: 5222–32. Rouzier R, Perou CM, Symmans WF, Ibrahim N, Cristofanilli M, Anderson K, et al. Breast cancer molecular subtypes respond differently to preoperative chemotherapy. Clin Cancer Res 2005;11:5678– 85. Carey LA, Dees EC, Sawyer L, Gatti L, Moore DT, Collichio F, et al. The triple negative paradox: primary tumor chemosensitivity of breast cancer subtypes. Clin Cancer Res 2007;13:2329–34. Conforti R, Boulet T, Tomasic G, Taranchon E, Arriagada R, Spielmann M, et al. Breast cancer molecular subclassiﬁcation and estrogen receptor expression to predict efﬁcacy of adjuvant anthracyclinesbased chemotherapy: a biomarker study from two randomized trials. Ann Oncol 2007;18:1477–83. Colleoni M, Cole BF, Viale G, Regan MM, Price KN, Maiorano E, et al. Classical cyclophosphamide, methotrexate, and ﬂuorouracil chemotherapy is more effective in triple-negative, node-negative breast cancer: results from two randomized trials of adjuvant chemoendocrine therapy for node-negative breast cancer. J Clin Oncol 2010;28: 2966–73. Levine MN, Bramwell VH, Pritchard KI, Norris BD, Shepherd LE, Abu-Zahra H, et al. Randomized trial of intensive cyclophosphamide, epirubicin, and ﬂuorouracil chemotherapy compared with cyclophosphamide, methotrexate, and ﬂuorouracil in premenopausal women with node-positive breast cancer. National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 1998;16: 2651–8. Levine MN, Pritchard KI, Bramwell VH, Shepherd LE, Tu D, Paul N. Randomized trial comparing cyclophosphamide, epirubicin, and ﬂuorouracil with cyclophosphamide, methotrexate, and ﬂuorouracil in premenopausal women with node-positive breast cancer: update of National Cancer Institute of Canada Clinical Trials Group Trial MA5. J Clin Oncol 2005;23:5166–70. 
+
+www.aacrjournals.org 
+
+9. 
+
+Pritchard KI, Shepherd LE, O'Malley FP, Andrulis IL, Tu D, Bramwell VH, et al. HER2 and responsiveness of breast cancer to adjuvant chemotherapy. N Engl J Med 2006;354:2103–11. 10. O'Malley FP, Chia S, Tu D, Shepherd LE, Levine MN, Bramwell VH, et al. Topoisomerase II alpha and responsiveness of breast cancer to adjuvant chemotherapy. J Natl Cancer Inst 2009;101:644–50. 11. Press MF, Sauter G, Buyse M, Bernstein L, Guzman R, Santiago A, et al. Alteration of topoisomerase II-alpha gene in human breast cancer: association with responsiveness to anthracycline-based chemotherapy. J Clin Oncol 2011;29:859–67. 12. Cheang MC, Chia SK, Voduc D, Gao D, Leung S, Snider J, et al. Ki67 index, HER2 status, and prognosis of patients with luminal B breast cancer. J Natl Cancer Inst 2009;101:736–50. 13. McShane LM, Altman DG, Sauerbrei W, Taube SE, Gion M, Clark GM. Reporting recommendations for tumor marker prognostic studies (REMARK). J Natl Cancer Inst 2005;97:1180–4. 14. Voduc KD, Cheang MC, Tyldesley S, Gelmon K, Nielsen TO, Kennecke H. Breast cancer subtypes and the risk of local and regional relapse. J Clin Oncol 2010;28:1684–91. 15. Doyle JJ, Neugut AI, Jacobson JS, Grann VR, Hershman DL. Chemotherapy and cardiotoxicity in older breast cancer patients: a population-based study. J Clin Oncol 2005;23:8597–605. 16. Early Breast Cancer Trialists' Collaborative Group (EBCTCG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;365:1687–717. 17. Cheang MC, Prat A, Fan C, Perou CM. PAM50 HER2-enriched subtype enriches for tumor response to neoadjuvant anthracyclines/Taxane and Trastuzumab/Taxane containing regimens in HER2-positive breast cancer. In: Proceedings of the 2011 San Antonio Breast Cancer Symposium; 2012. General Session 5. Abstract nr S5–2. 18. Lee BL, Liedtke PER, Barrios CH, Simon SD, Finkelstein DM, Goss PE. Breast cancer in Brazil: present status and future goals. Lancet Oncol 2011;13:e95–102. 19. Di Leo A, Desmedt C, Bartlett JM, Piette F, Ejlertsen B, Pritchard KI, et al. HER2 and TOP2A as predictive markers for anthracycline-containing chemotherapy regimens as adjuvant treatment of breast cancer: a meta-analysis of individual patient data. Lancet Oncol 2011;12: 1134–42. 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+2411 
+
+Published OnlineFirst February 20, 2012; DOI: 10.1158/1078-0432.CCR-11-2956 
+
+Cheang et al. 
+
+20. Liedtke C, Mazouni C, Hess KR, Andre F, Tordai A, Mejia JA, et al. Response to neoadjuvant therapy and long-term survival in patients with triple-negative breast cancer. J Clin Oncol 2008;26:1275–81. 21. Gunnarsdottir KA, Jensen MB, Zahrieh D, Gelber RD, Knoop A, Bonetti M, et al. CEF is superior to CMF for tumours with TOP2A aberrations: a Subpopulation Treatment Effect Pattern Plot (STEPP) analysis on 
+
+2412 
+
+Clin Cancer Res; 18(8) April 15, 2012 
+
+Danish Breast Cancer Cooperative Group Study 89D. Breast Cancer Res Treat 2010;123:163–9. 22. Paik S, Tang G, Shak S, Kim C, Baker J, Kim W, et al. Gene expression and beneﬁt of chemotherapy in women with nodenegative, estrogen receptor-positive breast cancer. J Clin Oncol 2006;24:3726–34. 
+
+Clinical Cancer Research 
+
+Downloaded from clincancerres.aacrjournals.org on May 12, 2014. © 2012 American Association for Cancer Research. 
+
+ 

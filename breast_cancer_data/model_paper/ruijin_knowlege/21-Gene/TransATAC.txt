@@ -1,0 +1,399 @@
+VOLUME 
+
+28 
+
+䡠 
+
+NUMBER 
+
+11 
+
+䡠 
+
+APRIL 
+
+10 
+
+2010 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Prediction of Risk of Distant Recurrence Using the 21-Gene Recurrence Score in Node-Negative and Node-Positive Postmenopausal Patients With Breast Cancer Treated With Anastrozole or Tamoxifen: A TransATAC Study Mitch Dowsett, Jack Cuzick, Christopher Wale, John Forbes, Elizabeth A. Mallon, Janine Salter, Emma Quinn, Anita Dunbier, Michael Baum, Aman Buzdar, Anthony Howell, Roberto Bugarini, Frederick L. Baehner, and Steven Shak From the Royal Marsden Hospital; Wolfson Institute for Preventive Medicine, Queen Mary University of London; University College London, London; Royal Infirmary Glasgow; Christie Hospital, Manchester, United Kingdom; Newcastle Mater Hospital, Newcastle, New South Wales, Australia; The University of Texas M. D. Anderson Cancer Center, Houston, TX; and Genomic Health, Redwood City, CA. Submitted June 9, 2009; accepted December 3, 2009; published online ahead of print at www.jco.org on March 8, 2010. 
+
+N0/N+/UN发生DR： 72/872、74/306、6/53 Written on behalf of the Arimidex, N≥4比N[1,3]比N0 RS高 Tamoxifen, Alone or in Combination (ATAC) Trialists’ Group. （fig2） Supported by Breakthrough Breast Cancer and AstraZeneca. M.D. acknowledges National Health Services financial support to the Royal Marsden National Institute for Health Research Biomedical Research Centre. 
+
+9年随访结果 N0低中高危组DR率： 4%/12%/25% Authors’ disclosures of potential conN+低中高危组DR率： flicts of interest and author contribu17%/28%/49% tions are found at the end of this article. 
+
+AI和TAM PhD, Royal 治疗组无差异 Marsden Hospital, 237 
+
+Corresponding author: Mitch Dowsett, Fulham Rd, London, SW3 6JJ, United Kingdom; e-mail: mitch.dowsett@ icr.ac.uk. 
+
+预测TTDR多变量： © 2010 by American Society of Clinical N0/N+患者中RS与TTDR Oncology 相关 0732-183X/10/2811-1829/$20.00 N0患者中肿瘤大小 DOI: 10.1200/JCO.2009.24.4798 N+患者中淋巴结数目 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose To determine whether the Recurrence Score (RS) provided independent information on risk of distant recurrence (DR) in the tamoxifen and anastrozole arms of the Arimidex, Tamoxifen, Alone or in Combination (ATAC) Trial. AI/TAM/AI+TAM Patients and Methods RNA was extracted from 1,372 tumor blocks from postmenopausal patients with hormone receptor– positive primary breast cancer in the monotherapy arms of ATAC. Twenty-one genes were assessed by quantitative reverse transcriptase polymerase chain reaction, and the RS was calculated. Cox proportional hazards models assessed the value of adding RS to a model with clinical variables (age, tumor size, grade, and treatment) in node-negative (N0) and node-positive (N⫹) women. Results Reportable scores were available from 1,231 evaluable patients (N0, n ⫽ 872; N⫹, n ⫽ 306; and node status unknown, n ⫽ 53); 72, 74, and six DRs occurred in N0, N⫹, and node status unknown patients, respectively. For both N0 and N⫹ patients, RS was significantly associated with time to DR in multivariate analyses (P ⬍ .001 for N0 and P ⫽ .002 for N⫹). RS also showed significant prognostic value beyond that provided by Adjuvant! Online (P ⬍ .001). Nine-year DR rates in low (RS ⬍ 18), intermediate (RS ⫽ 18 to 30), and high RS (RS ⱖ 31) groups were 4%, 12%, and 25%, respectively, in N0 patients and 17%, 28%, and 49%, respectively, in N⫹ patients. The prognostic value of RS was similar in anastrozole- and tamoxifen-treated patients. Conclusion This study confirmed the performance of RS in postmenopausal HR⫹ patients treated with tamoxifen in a large contemporary population and demonstrated that RS is an independent predictor of DR in N0 and N⫹ hormone receptor–positive patients treated with anastrozole, adding value to estimates with standard clinicopathologic features. J Clin Oncol 28:1829-1834. © 2010 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Primary breast cancer has highly heterogeneous clinical behavior that is underpinned by similarly heterogeneous molecular pathology. The latter can be used for the prediction of prognosis and response to therapies. A recent international survey rated development of a molecular signature to identify patients who could be spared chemotherapy as the highest translational research priority for breast cancer.1 Prognostic indices may identify patients at such low risk of recurrence that they could gain insufficient benefit from chemotherapy to warrant the inherent toxicity. 
+
+Many individual molecular prognostic factors have been identified in patients with primary breast cancer, but few have played any role in disease management, whereas multigene prognostic tools have begun to guide treatment decision making. Of these, the Recurrence Score (RS) that is derived from the Oncotype DX assay (Genomic Health, Redwood City, CA) provides a validated estimate of prognosis for patients with node-negative (N0), estrogen receptor (ER)–positive disease if treated with tamoxifen alone. It has also been found that tamoxifen-treated patients with high RS showed the greatest benefit from additional chemotherapy, whereas patients with low RS had minimal, © 2010 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+1829 
+
+Dowsett et al 
+
+if any, chemotherapy benefit.2-4 Recently, it has been reported that Oncotype DX is prognostic for hormone receptor–positive, postmenopausal, tamoxifen-treated patients with positive nodes and that chemotherapy provides little, if any, benefit for patients with low RS, despite the presence of positive nodes.5 Large randomized trials have established the safety and efficacy of aromatase inhibitors (AIs) in patients with hormone receptor–positive breast cancer, and AIs are widely used in clinical practice.6 The performance of the RS has not been evaluated in patients treated with an AI. The Arimidex, Tamoxifen, Alone or in Combination (ATAC) trial compared adjuvant treatment with anastrozole (Arimidex; AstraZeneca, London, United Kingdom) versus tamoxifen versus a combination of both for 5 years in postmenopausal women with early-stage, operable breast cancer.7 Our objective was to evaluate the prognostic value of the Oncotype DX assay for distant recurrence (DR) in postmenopausal women with localized N0 and node-positive (N⫹) breast cancer treated with either tamoxifen or anastrozole alone in the ATAC trial. 
+
+PATIENTS AND METHODS Study Population The ATAC trial evaluated the efficacy and safety of 5 years of anastrozole, tamoxifen, or the combination of both treatments in postmenopausal women with localized breast cancer.7 Under the TransATAC protocol, formalin-fixed, paraffin-embedded blocks of the primary tumor were collected from as many hormone receptor–positive patients as possible from the monotherapy arms.8 Collection ceased on September 30, 2006. The current study examined samples collected from the United Kingdom, which constituted 79% of the collection. Analytic Methods The Oncotype DX RS was determined from fixed paraffin-embedded tissue as previously described.2 After review of hematoxylin and eosin–stained slides to determine whether sufficient invasive breast cancer was present and whether manual microdissection was indicated, RNA was extracted from three 10-␮m unstained sections. Total RNA content was measured, and the absence of DNA contamination was verified. Gene expression profiling by standardized quantitative reverse transcriptase polymerase chain reaction for the Oncotype DX assay was performed using the prespecified 21 Oncotype DX genes. Reference-normalized expression measurements for each of the 16 cancerrelated genes ranged from 2 to 16, where each one-unit increase reflects approximately a two-fold increase in RNA. The RS, on a scale from 0 to 100, was derived from the reference-normalized expression measurements for the 16 cancer-related genes. Pathology Methods Local reading of tumor grade was derived from the case record forms. Central tumor grade was assessed by E.A.M. using the Elston and Ellis system.9 ER status was derived centrally by immunohistochemistry.8 Study End Points The association between RS and time to DR (TTDR, also known as DR-free interval), time to recurrence (TTR, also known as recurrence-free interval), and overall survival (OS) was evaluated. TTDR, the time from random assignment to first DR, was the prospectively defined primary end point. For TTDR, contralateral disease, local/regional recurrence, and other second primary cancers were not considered as events; death before DR was considered a censoring event. TTR was defined as time from random assignment to first locoregional recurrence, DR, or contralateral disease. OS was defined as time from random assignment to death from any cause. 1830 
+
+© 2010 by American Society of Clinical Oncology 
+
+Adjuvant! Online The Adjuvant! Online Web site (http://www.adjuvantonline.com) was used to estimate 10-year risk of recurrence and death for each N0 patient by entering the values of the following clinical variables: tumor grade (1, 2, or 3), ER status (negative or positive), tumor size (0.1 to 1, 1.1 to 2, 2.1 to 3, 3.1 to 5, or ⬎ 5 cm), and age in years.10 The Adjuvant! Online risk of recurrence was adjusted for the respective effects of tamoxifen and anastrozole as specified in the online documentation. To compare the prognostic ability of Adjuvant! Online (version 8.0) and RS in N0 patients, the 10-year predicted risk of any recurrence or mortality was calculated from Adjuvant! Online and evaluated in conjunction with the predicted risk of DR by RS. Statistical Analyses Analyses were performed according to a prespecified statistical analysis plan approved by the ATAC Steering Committee. Cox proportional hazards (PH) regression models were fitted to TTDR, TTR, and OS, and hazard ratios (HRs) and associated 95% CIs were estimated. Likelihood ratio tests were used for hypothesis testing. The hypothesis that there was a significant difference between the (reduced) PH model for DR based on patient age, pathologic tumor size, local tumor grade, and treatment versus a full PH model, in which the RS was also included, was tested in the prospectively defined primary analysis of N0, hormone receptor–positive patients treated either with tamoxifen or anastrozole. The adequacy of the PH assumption was verified for all variables by testing for a nonzero slope in a linear regression of the scaled Schoenfeld residual versus time. Improvements in prediction value were assessed by changes in the likelihood ratio ␹2 value, which provides a quantitative measure of the relative amount of information in this score compared with other variables. Centrally assessed tumor grade was used instead of local grade in all subsequent analyses because of the expectation of greater reliability. The number of positive nodes (one to three v ⱖ four positive nodes) was also included as a covariate for analyses in N⫹ patients. To determine whether RS had a prognostic effect independent of Adjuvant! Online in N0 patients, the reduced PH model for DR, based on Adjuvant! Online–predicted 10-year recurrence rate (based on tumor grade, ER status, tumor size and age) and treatment group, was compared with the (full) PH model, which also included the RS predicted risk.2 The Adjuvant! Online– predicted 10-year risk of recurrence with surgery alone was adjusted (ie, reduced) for the effects of tamoxifen or anastrozole as specified in the online documentation. Kaplan-Meier curves were calculated for RS groups and tested for equality using the log-rank test. To define the continuous relation between RS, as a linear covariate, and 9-year risk of DR, the logarithm of the baseline cumulative hazard function was fitted by constrained cubic splines with three df. These models11 tend to be more robust for prediction of survival probabilities and corresponding confidence limits at late follow-up times as a result of the modeling of the baseline cumulative hazard function by natural cubic splines (in contrast to using the crude hazard function itself). Prediction of risks was then obtained by PH model after having verified the appropriateness of the proportional assumption and the linear functional form for RS. There were minimal data after 9 years, and the decision to calculate estimates of DR at 9 years was made before the data analyses, in keeping with previous ATAC analyses.7 Analyses were also conducted with TTR and OS as end points. All hypothesis tests were conducted at the two-sided P ⫽ .05 level. 
+
+RESULTS 
+
+Characteristics of Study Population and RS Distribution Four thousand one hundred sixty hormone receptor–positive patients were randomly assigned to the monotherapy arms of the ATAC trial. A total of 2,006 blocks were obtained; 1,372 blocks from patients from the United Kingdom contained sufficient invasive tumor for analysis; reverse transcriptase polymerase chain reaction was successful in 1,308 samples (95%). After merging the genomic and JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Recurrence Score in TransATAC 
+
+patients were treated with tamoxifen, and 622 were treated with anastrozole. The clinical characteristics of the 1,231 patients in this study are listed in Table 1, along with the characteristics of the 2,929 randomly assigned, hormone receptor–positive patients in the ATAC trial who were not included in this study. Although there were several statistically significant differences, the magnitude of the differences was small. In the N0 and N⫹ subgroups, 72 patients (8%) and 74 patients (24%), respectively, experienced DR. Six DR events (11%) occurred in patients with unknown nodal status. In N0 patients, 59% had an RS of less than 18, 26% had an RS of 18 to 30, and 15% had an RS of ⱖ 31; in N⫹ patients, the distribution was 52%, 31%, and 17%, respectively. 
+
+Table 1. Summary of Demographics and Clinical Characteristics of Patients in the Present Study Versus the Broader Population of Hormone Receptor–Positive Patients in the Anastrozole and Tamoxifen Single-Agent Arms of the Original ATAC Trial 
+
+Characteristic 
+
+% of Patients in SingleAgent Arms of ATAC % of Patients in Trial Not Included in This Study This Study (n ⫽ 1,231) (n ⫽ 2,929) 
+
+Nodal status Negative Positive Unknown Tumor size, cm ⱕ2 2-5 ⬎5 Unknown Tumor grade Well Moderate Poor Unknown Radiotherapy Received HRT Tamoxifen before surgery Hysterectomy Mastectomy Mean age, years Mean BMI, kg/m2 
+
+Pⴱ .6 
+
+71 25 4.3 
+
+68 25 6.9 
+
+67 31 1.5 0.3 
+
+70 28 1.6 0.8 
+
+27 52 16 4.6 68 36 3.9 24 40 64.3 27.1 
+
+25 49 17 9.5 62 38 1.0 31 44 66.1 27.4 
+
+.1 
+
+.6 
+
+⬍ .001 .163 ⬍ .001 ⬍ .001 .016 ⬍ .001 .11 
+
+Abbreviations: ATAC, Arimidex, Tamoxifen, Alone or in Combination; HRT, hormone replacement therapy; BMI, body mass index. ⴱ The unknown category was not used for comparisons. 
+
+clinical databases, 77 patients were excluded as a result of clinical characteristics (65 patients received adjuvant chemotherapy, four patients were hormone receptor negative, and eight patients did not start endocrine therapy). In the 1,231 evaluable patients, median follow-up time was 8.5 years. Eight hundred seventy-two patients (71%) were N0, 306 patients (25%) were N⫹ (243 [79%] with one to three positive nodes and 63 [21%] with ⱖ four positive nodes), and 53 patients (4%) had unknown nodal status. Six hundred nine 
+
+RS and Risk of DR In the prespecified primary analysis in all N0 patients, RS for a 50-point change (eg, RS ⫽ 55 v RS ⫽ 5) was significantly associated with risk of DR (HR ⫽ 3.92; 95% CI, 2.08 to 7.39; ⌬␹2 ⫽ 15.5; P ⬍ .001) when adjusted for the effects of tumor size, local grade, age, and treatment. When local grade was replaced with central grade in the multivariate analysis, RS adjusted for the same features was also significantly associated with the risk of DR (HR ⫽ 5.25; 95% CI, 2.84 to 9.73; ⌬␹2 ⫽ 22.7; P ⬍ .001; Table 2), and the difference between the two was not statistically significant. Tumor size and RS were each separately statistically significant in predicting TTDR in N0 patients (⌬␹2 ⫽ 16.5, P ⬍ .001 and ⌬␹2 ⫽ 22.7, P ⬍ .001, respectively). The RS was also predictive of TTDR in N⫹ patients, with an HR of 3.47 (95% CI, 1.64 to 7.38; ⌬␹2 ⫽ 9.4; P ⫽ .002) in multivariate analyses; number of positive nodes (⌬␹2 ⫽ 22.7, P ⬍ .001) and tumor size (⌬␹2 ⫽ 7.7, P ⫽ .006) were also statistically significant variables in multivariate analyses. Kaplan-Meier curves (Figs 1A and 1B) show clear differences in absolute DR rates for N0 and N⫹ patients according to RS. The rates of DR at 9 years in the RS less than 18, RS 18 to 30, and RS ⱖ 31 groups were 4% (95% CI, 3% to 7%), 12% (95% CI, 8% to 18%), and 25% (95% CI, 17% to 34%), respectively, in N0 patients and 17% (95% CI, 12% to 24%), 28% (95% CI, 20% to 39%), and 49% (95% CI, 35% to 64%), respectively, in N⫹ patients. When adjusted for clinical variables, in N0 patients, the HR between high and low RS groups was 5.2 (95% CI, 2.7 to 10.1) and the HR between intermediate and low 
+
+Table 2. Multivariate Cox Proportional Hazard Models for Estimating the Added Effect of Recurrence Score in N0 and N⫹ Patients N0 Patients (n ⫽ 872) 
+
+N⫹ Patients (n ⫽ 306) 
+
+Variable 
+
+HR 
+
+95% CI 
+
+⌬␹2 
+
+Pⴱ 
+
+HR 
+
+95% CI 
+
+⌬ ␹2 
+
+Pⴱ 
+
+Recurrence score† Tumor size: ⬎ 2 v ⱕ 2 cm Central grade‡ Moderate v well Poor v well Age: ⬍ 65 v ⱖ 65 years Positive nodes: ⱖ 4 v 1-3 nodes 
+
+5.25 2.78 
+
+2.84 to 9.73 1.70 to 4.57 
+
+22.7 16.5 2.6 
+
+⬍ .001 ⬍ .001 .27 
+
+3.47 2.04 
+
+1.64 to 7.38 1.20 to 3.48 
+
+9.4 7.7 
+
+.002 .006 
+
+1.70 2.06 0.96 
+
+0.75 to 3.86 0.82 to 5.17 0.58 to 1.57 
+
+1.74 2.65 1.43 3.42 
+
+0.61 to 4.96 0.87 to 8.04 0.85 to 2.41 2.11 to 5.54 
+
+4.3 
+
+.12 
+
+1.9 22.7 
+
+.17 ⬍ .001 
+
+0.03 
+
+.86 
+
+Abbreviation: HR, hazard ratio. ⴱ Likelihood ratio test was used; analyses have also been adjusted for treatment. ⌬␹2 P values are based on the value of adding the specified variable to a model including all other variables. †Recurrence Score was a continuous variable, with the HR for distant recurrence calculated relative to an increment of 50 units (eg, the HR for Recurrence Score ⫽ 55 v Recurrence Score ⫽ 5), chosen to be consistent with prior clinical validation studies. ‡2 df. 
+
+www.jco.org 
+
+© 2010 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+1831 
+
+Dowsett et al 
+
+A Proportion Distant Recurrence Free 
+
+0.8 
+
+96% 88% Log-rank P < .001 
+
+75% 
+
+0.6 Node Negative 
+
+0.4 0.2 
+
+0 
+
+Low Int High 
+
+1 
+
+n (%) 513 (59%) 229 (26%) 130 (15%) 
+
+2 
+
+Events 20 24 28 
+
+3 
+
+4 
+
+RS Group HR 95% CI High v Low 5.2 (2.7 to 10.1) Int v Low 2.5 (1.3 to 4.5) 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Time (years) 
+
+Predicted 9-Year Risk of Distant Recurrence 
+
+100 1.0 
+
+4+ Positive Nodes n = 63; 31 events 
+
+Mean 95%CI 
+
+80 60 
+
+1-3 Positive Nodes n = 243; 43 events 
+
+40 
+
+Node Negative n = 872; 72 events 
+
+20 
+
+0 
+
+10 
+
+B 
+
+20 
+
+30 
+
+40 
+
+50 
+
+Recurrence Score 
+
+Proportion Distant Recurrence Free 
+
+1.0 0.8 
+
+Node Negative 83% Log-rank P < .001 
+
+1–3 Positive Nodes 
+
+72% 4+ Positive Nodes 
+
+0.6 51% Node Positive 
+
+0.4 0.2 
+
+0 
+
+Low Int High 
+
+1 
+
+n (%) 160 (52%) 94 (31%) 52 (17%) 
+
+2 
+
+3 
+
+Events 25 25 24 
+
+4 
+
+RS Group High v Low Int v Low 
+
+5 
+
+6 
+
+7 
+
+HR 95% CI 2.7 (1.5 to 5.1) 1.8 (1.0 to 3.2) 
+
+8 
+
+9 
+
+Fig 2. Predicted risk of distant recurrence and 95% CI as a continuous function of the recurrence score (RS), by number of positive nodes. Vertical lines delineate the borders between the prespecified RS groups. Rug plot shows the similarity of the distributions of RS in patients with 0, 1 to 3, and 4⫹ positive nodes. 
+
+Time (years) Fig 1. (A) Kaplan-Meier plots of distant recurrence by recurrence score group in node negative patients, both treatment arms (N ⫽ 872). Hazard ratios (HR) for RS group adjusted for tumor size, grade, age, and treatment. (B) Kaplan-Meier plots of distant recurrence by recurrence score group in node positive patients, both treatment arms (N ⫽ 306). HRs for RS group adjusted for tumor size, grade, age, treatment, and number of positive nodes. 
+
+RS groups was 2.5 (95% CI, 1.3 to 4.5); in N⫹ patients, the HRs were 2.7 (95% CI, 1.5 to 5.1) and 1.8 (95% CI, 1.0 to 3.2), respectively. Similar results were observed considering OS as an end point (Appendix Figs A1 and A2, online only); the OS rates at 9 years in the RS less than 18, RS 18 to 30, and RS ⱖ 31 groups were 88%, 84%, and 73%, respectively, in N0 patients and 74%, 69%, and 54%, respectively, in N⫹ patients. The risk of DR increased linearly with increasing RS (Fig 2). For any RS, the risk of DR was higher for N⫹ than N0 patients and for patients with ⱖ four positive nodes than patients with one to three positive nodes. Similar results were obtained with fractional polynomial regression12 (data not shown). RS and Risk of DR by Treatment The prognostic value of RS was assessed by treatment group using a multivariate Cox PH model adjusted for tumor size, central tumor grade, nodal status, and age. The HRs for DR for a 50-point change in RS in the separate treatment groups, adjusted for tumor size, central tumor grade, number of nodes, and age, are shown in Figure 3. Additional analyses indicated that there was no significant RS ⫻ treatment interaction in any subgroup (ie, P ⱖ .34 in all patients, P ⱖ .33 in N0 patients, and P ⱖ .40 in N⫹ patients), with tumor grade assessed either centrally or locally. RS, Adjuvant! Online, and Recurrence The correlation between predicted risk of DR by RS and of recurrence by Adjuvant! Online for N0 patients was low but statisti1832 
+
+© 2010 by American Society of Clinical Oncology 
+
+cally significant when Adjuvant! Online was calculated using central grade (Spearman rank correlation ⫽ 0.23; P ⬍ .001; Fig 4) or local grade (Spearman rank correlation ⫽ 0.22; P ⬍ .001); only approximately 5% of the variability in the estimates of recurrence using either of these scores was explained by the other. Thus, the prognostic information from RS was independent of the prognostic effect of Adjuvant! Online and vice versa. In a model adjusted for treatment, RS and Adjuvant! Online each provided a comparable degree of mutually independent predictive information (⌬␹2 ⫽ 21.9, P ⬍ .001 for both). Similar results were observed for local grade and for Adjuvant! Online estimates of OS (data not shown). 
+
+All (N = 1,231) 
+
+Node negative, both arms (n = 872) Tamoxifen (n = 432) Anastrozole (n = 440) 
+
+Node positive, both arms (n = 306) Tamoxifen (n = 152) Anastrozole (n = 154) 
+
+0.1 
+
+1.0 
+
+4.3 10.0 
+
+100.0 
+
+Hazard Ratio Fig 3. Hazard ratios and 95% CIs for a 50-point difference in recurrence score (RS), by nodal status and treatment, adjusted for tumor size, central tumor grade, number of nodes, and age. Area of the square is proportional to the number of distant recurrence events. Hazard ratios are on a logarithmic scale and per 50-point difference in RS. JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+Recurrence Score in TransATAC 
+
+40 
+
+Spearman rank correlation = 0.23 P < .001 
+
+RS Risk (%)* 
+
+30 
+
+20 
+
+10 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+Adjuvant! Risk Using Central Grade (%)† Fig 4. Predicted risk of recurrence by recurrence score (RS) and Adjuvant! N0 patients (n ⫽ 872). (*) Predicted risk of distant recurrence at 10 years from RS. (†) Predicted risk of recurrence at 10 years from Adjuvant! 
+
+DISCUSSION 
+
+Over recent years, increasing proportions of patients with breast cancer have been diagnosed with small hormone receptor–positive tumors and negative axillary nodes. Overall, these patients have relatively good prognosis, which is improved further by adjuvant endocrine therapy that virtually all hormone receptor–positive women are scheduled to receive. However, some of these patients are destined to experience relapse even with endocrine therapy and would appropriately be considered for adjuvant cytotoxic chemotherapy. Clinical parameters can help characterize risk and, in some cases, have been integrated as convenient Web-based algorithms as with Adjuvant! Online.10 However, parameters such as tumor size and nodal status do not reveal the wide molecular heterogeneity seen between breast tumors even within the hormone receptor–positive subgroup.13-14 The Oncotype DX test uses molecular features of tumors to stratify the residual risk of DR in patients with hormone receptor–positive N0 primary breast cancer treated with tamoxifen. This test had not been assessed for its prediction of residual risk in AI-treated patients. The current analysis within the ATAC trial population, in addition to providing a set of patients treated with the AI anastrozole, has provided a more contemporary population of tamoxifen-treated patients than those reported previously and has also validated the test for patients from outside of North America. Although there were several statistically significant differences in baseline characteristics between the hormone receptor–positive ATAC patients included and not included in this study, the magnitude of the differences was small and not clinically meaningful. Strengths of the study are its use of a standardized quantitative assay where all the methods and the analysis plan were prospectively defined and all of the laboratory data were obtained blinded to study outcome or other clinical factors. The robustness of the RS was confirmed by its prognostic value in the presence of both local and central grade. The higher HR for DR when using central grade was unexwww.jco.org 
+
+pected, but this was not significantly different from the estimate using local grade. In addition, the primary end point examined, TTDR (ie, DR-free interval), is clinically highly relevant, being a strongly predictive surrogate marker for breast cancer–specific mortality.15 Moreover, the clinical follow-up in this study (median, 8.5 years) was relatively long. The results from the RS were highly consistent with all the previous observations. A low RS (⬍ 18) was associated with a low (3% to 7%) likelihood of DR at 9 years in N0 patients in this study and was associated with excellent OS. The results of the overall ATAC study indicate that there is a 16% relative reduction in the rate of DR for patients treated with anastrozole compared with patients treated with tamoxifen.7 In this study, the HR for RS was similar in both treatment arms, and there was no significant interaction of RS with treatment arm. Thus, the relative risk reduction for anastrozole compared with tamoxifen is similar across different values of the RS, and accordingly, the absolute benefit for anastrozole compared with tamoxifen would be predicted to be larger in patients with a high RS and smaller in patients with a low RS. However, the number of patients available for analysis does not allow accurate quantification of this difference, and the possibility of some interaction between RS and treatment cannot be fully excluded. We have confirmed the previous observations from the National Surgical Adjuvant Breast and Bowel Project B-142 and Eastern Cooperative Oncology Group 219716 studies that there is a poor correlation between the RS and Adjuvant! Online, but we also confirmed that both measures provide substantial independent prognostic information. The independent prognostic nature of standard clinical parameters, such as tumor size, tumor grade, and patient age, which are used in Adjuvant! Online, and the molecular predictors used in the RS indicates that there is an opportunity to combine the two types of measures to provide a single integrated prognostic tool for the oncologist. A proper comparison between the RS and Adjuvant! Online in N⫹ patients could not be performed because of variable nodal status, which is included in Adjuvant! Online but not in the RS. Although our study did not directly evaluate the value of RS in predicting the benefit of chemotherapy, other studies, such as the National Surgical Adjuvant Breast and Bowel Project B-204 study, the Southwest Oncology Group5 study, the study by Gianni et al,17 and the study by Chang et al,18 suggest that there is little, if any, benefit of chemotherapy for patients with low RS tumors for a variety of chemotherapy regimens. Thus, the absolute risk reduction associated with the addition of chemotherapy to hormonal therapy in patients with low RS and one to three positive nodes is likely to be modest, at least in the first 10 years. In summary, this study has confirmed the performance of RS in postmenopausal hormone receptor–positive patients treated with tamoxifen in a large contemporary population. It demonstrates for the first time that RS is an independent predictor of DR in N0 and N⫹ hormone receptor–positive patients treated with anastrozole. The information from the RS adds to that provided by standard measures such as nodal status, patient age, tumor size, and tumor grade. The established relationship between RS and DR for tamoxifen may now be applied for anastrozole with an approximately 16% adjustment for the lower risk of DR with the AI. © 2010 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+1833 
+
+Dowsett et al 
+
+AstraZeneca; Jack Cuzick, AstraZeneca; Aman Buzdar, AstraZeneca Expert Testimony: None Other Remuneration: None 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: Roberto Bugarini, Genomic Health (C); Frederick L. Baehner, Genomic Health (C); Steven Shak, Genomic Health (C) Consultant or Advisory Role: Mitch Dowsett, AstraZeneca (C); Jack Cuzick, AstraZeneca (C); John Forbes, AstraZeneca (U); Michael Baum, AstraZeneca (C); Aman Buzdar, AstraZeneca (C) Stock Ownership: Roberto Bugarini, Genomic Health; Frederick L. Baehner, Genomic Health; Steven Shak, Genomic Health Honoraria: Mitch Dowsett, AstraZeneca; Jack Cuzick, AstraZeneca; John Forbes, AstraZeneca; Michael Baum, AstraZeneca; Aman Buzdar, AstraZeneca Research Funding: Mitch Dowsett, 
+
+REFERENCES 1. Dowsett M, Goldhirsch A, Hayes DF, et al: International Web-based consultation on priorities for translational breast cancer research. Breast Cancer Res 9:R81, 2007 2. Paik S, Shak S, Tang G, et al: A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 351: 2817-2826, 2004 3. Habel LA, Shak S, Jacobs MK, et al. A population-based study of tumor gene expression and risk of breast cancer death among lymph nodenegative patients. Breast Cancer Res 8:R25, 2006 4. Paik S, Tang G, Shak S, et al: Gene expression and benefit of chemotherapy in women with nodenegative, estrogen receptor-positive breast cancer. J Clin Oncol 24:3726-3734, 2006 5. Albain K, Barlow W, Shak S, et al: Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with nodepositive, estrogen receptor positive breast cancer on chemotherapy: A retrospective analysis of a randomized trial. Lancet Oncol 11:55-65, 2010 6. Smith IE, Dowsett M: Aromatase inhibitors in breast cancer. N Engl J Med 348:2431-2442, 2003 
+
+AUTHOR CONTRIBUTIONS Conception and design: Mitch Dowsett, Jack Cuzick, John Forbes, Michael Baum, Aman Buzdar, Anthony Howell, Steven Shak Administrative support: Frederick L. Baehner Provision of study materials or patients: Mitch Dowsett, John Forbes, Anita Dunbier, Michael Baum, Aman Buzdar, Anthony Howell Collection and assembly of data: Mitch Dowsett, Jack Cuzick, Christopher Wale, Elizabeth A. Mallon, Janine Salter, Emma Quinn, Anita Dunbier, Roberto Bugarini, Frederick L. Baehner, Steven Shak Data analysis and interpretation: Mitch Dowsett, Jack Cuzick, Christopher Wale, John Forbes, Elizabeth A. Mallon, Janine Salter, Emma Quinn, Anita Dunbier, Roberto Bugarini, Frederick L. Baehner, Steven Shak Manuscript writing: Mitch Dowsett, Jack Cuzick, Christopher Wale, Janine Salter, Roberto Bugarini, Steven Shak Final approval of manuscript: Mitch Dowsett, Jack Cuzick, Christopher Wale, John Forbes, Elizabeth A. Mallon, Janine Salter, Emma Quinn, Anita Dunbier, Michael Baum, Aman Buzdar, Anthony Howell, Roberto Bugarini, Frederick L. Baehner, Steven Shak 
+
+7. Arimidex, Tamoxifen, Alone or in Combination (ATAC) Trialists’ Group, Forbes JF, Cuzick J, et al: Effect of anastrozole and tamoxifen as adjuvant treatment for early-stage breast cancer: 100-month analysis of the ATAC trial. Lancet Oncol 9:45-53, 2008 8. Dowsett M, Allred C, Knox J, et al: Relationship between quantitative estrogen and progesterone receptor expression and human epidermal growth factor receptor 2 (HER-2) status with recurrence in the Arimidex, Tamoxifen, Alone or in Combination trial. J Clin Oncol 26:1059-1065, 2008 9. Elston CW, Ellis IO: Pathological prognostic factors in breast cancer: I. The value of histological grade in breast cancer: Experience from a large study with long-term follow-up. Histopathology 19: 403-410, 1991 10. Ravdin PM, Siminoff LA, Davis GJ: Computer program to assist in making decisions about adjuvant therapy for women with early breast cancer. J Clin Oncol 19:980-991, 2001 11. Royston P, Parmar MK: Flexible parametric proportional-hazards and proportional-odds models for censored survival data, with application to prognostic modeling and estimation of treatment effects. Stat Med 21:2175-2197, 2002 12. Sauerbrei W, Royston P, Binder H: Selection of important variables and determination of func- 
+
+tional form for continuous predictors in multivariable model building. Stat Med 26:5512-5528, 2007 13. Sotiriou C, Pusztai L: Gene-expression signatures in breast cancer. N Engl J Med 360:790-800, 2009 14. Mackay A, Urruticoechea A, Dixon JM, et al: Molecular response to aromatase inhibitor treatment in primary breast cancer. Breast Cancer Res 9:R37, 2007 15. Cuzick J: Primary endpoints for randomised trials of cancer therapy. Lancet 371:2156-2158, 2008 16. Goldstein LJ, Gray R, Badve S, et al: Prognostic utility of the 21-gene assay in hormone receptorpositive operable breast cancer compared with classical clinicopathologic features. J Clin Oncol 26:4063-4071, 2008 17. Gianni, Zambetti M, Clark K, et al: Gene expression profiles in paraffin-embedded core biopsy tissue predict response to chemotherapy in women with locally advanced breast cancer. J Clin Oncol 23:7265-7277, 2005 18. Chang J, Makris A, Gutierrez MC, et al: Gene expression patterns in formalin-fixed, paraffinembedded core biopsies predict docetaxel chemosensitivity in breast cancer patients. Breast Cancer Res Treat 108:233-240, 2008 
+
+■ ■ ■ 
+
+1834 
+
+© 2010 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on October 8, 2018 from 211.144.125.117 Copyright © 2018 American Society of Clinical Oncology. All rights reserved. 
+
+ 

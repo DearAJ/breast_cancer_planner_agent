@@ -1,0 +1,809 @@
+HHS Public Access Author manuscript Author Manuscript 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. Published in final edited form as: Ann Oncol. 2022 December ; 33(12): 1250–1268. doi:10.1016/j.annonc.2022.09.159. 
+
+Overall survival in the OlympiA phase III trial of adjuvant olaparib in patients with germline pathogenic variants in BRCA1/2 and high-risk, early breast cancer A full list of authors and affiliations appears at the end of the article. 
+
+Author Manuscript 
+
+Abstract Background: The randomized, double-blind OlympiA trial compared 1 year of the oral poly(adenosine diphosphate-ribose) polymerase inhibitor, olaparib, to matching placebo as adjuvant therapy for patients with pathogenic or likely pathogenic variants in germline BRCA1 or BRCA2 (gBRCA1/2pv) and high-risk, human epidermal growth factor receptor 2-negative, early breast cancer (EBC). The first pre-specified interim analysis (IA) previously demonstrated statistically significant improvement in invasive disease-free survival (IDFS) and distant diseasefree survival (DDFS). The olaparib group had fewer deaths than the placebo group, but the difference did not reach statistical significance for overall survival (OS). We now report the pre-specified second IA of OS with updates of IDFS, DDFS, and safety. 
+
+Author Manuscript 
+
+Patients and methods: One thousand eight hundred and thirty-six patients were randomly assigned to olaparib or placebo following (neo)adjuvant chemotherapy, surgery, and radiation therapy if indicated. Endocrine therapy was given concurrently with study medication for hormone receptor-positive cancers. Statistical significance for OS at this IA required P < 0.015. Results: With a median follow-up of 3.5 years, the second IA of OS demonstrated significant improvement in the olaparib group relative to the placebo group [hazard ratio 0.68; 98.5% confidence interval (CI) 0.47–0.97; P ¼ 0.009]. Four-year OS was 89.8% in the olaparib group and 86.4% in the placebo group (D 3.4%, 95% CI −0.1% to 6.8%). Four-year IDFS for the olaparib group versus placebo group was 82.7% versus 75.4% (D 7.3%, 95% CI 3.0% to 11.5%) and 4-year DDFS was 86.5% versus 79.1% (D 7.4%, 95% CI 3.6% to 11.3%), respectively. Subset analyses for OS, IDFS, and DDFS demonstrated benefit across major subgroups. No new safety signals were identified including no new cases of acute myeloid leukemia or myelodysplastic syndrome. 
+
+Author Manuscript 
+
+Conclusion: With 3.5 years of median follow-up, OlympiA demonstrates statistically significant improvement in OS with adjuvant olaparib compared with placebo for gBRCA1/2pv-associated EBC and maintained improvements in the previously reported, statistically significant endpoints of IDFS and DDFS with no new safety signals. 
+
+* 
+
+Correspondence to: Prof Andrew Nicholas James Tutt, The Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, The Breast Cancer, Now Unit, Guy’s Hospital Cancer Centre, King’s College London, 237 Fulham Rd, London SW3 6JB, UK. Tel: þ020-7153-5333, andrew.tutt@icr.ac.uk (A. N. J. Tutt). yDeceased 13 May 2021. zOlympiA collaborators are provided in Appendix 1. 
+
+Geyer et al. 
+
+Page 2 
+
+Author Manuscript 
+
+Keywords breast cancer; BRCA1/2 ; PARP inhibition; olaparib; adjuvant therapy 
+
+INTRODUCTION 
+
+Author Manuscript 
+
+Cancers harboring germline pathogenic or likely pathogenic variants in BRCA1 or BRCA2 (gBRCA1/2pv) are characterized by homologous recombination DNA repair deficiency following the inactivation of the wildtype allele during tumor evolution.1 This engenders selective sensitivity to inhibition and trapping of the DNA repair enzyme, poly (adenosine diphosphate-ribose) polymerase 1 (PARP1) by exploiting the concept of synthetic lethality, as functional homologous recombination is required for cell survival when PARP1 function is inhibited and PARP1 is trapped on DNA arresting the DNA replication apparatus.2–4 Olaparib and talazoparib both inhibit and trap PARP1 on DNA and have been approved for treating patients with gBRCA1/2pv and metastatic breast cancer (MBC) irrespective of hormone receptor status.5,6 
+
+Author Manuscript Author Manuscript 
+
+Breast cancers associated with gBRCA1/2pv are characterized by high-grade disease with most gBRCA1pv- associated tumors being triple negative, whereas most gBRCA2pvassociated cancers are hormone receptor positive and human epidermal growth factor receptor 2 (HER2) negative,7–9 and often associated with high-risk classification on RNA-based prognostic assays.10,11 Because patients with gBRCA1/2pv-associated early breast cancers (EBCs) and high-risk clinico-pathological features remain at increased risk for recurrence following standard multimodality therapies, OlympiA (ClinicalTrials.gov: NCT02032823) was designed to determine whether 1 year of adjuvant olaparib could improve outcomes in this population. This phase III, double-blinded, placebo-controlled study randomized 1836 eligible patients with gBRCApv-associated EBC from 2014 to 2019. Following review of the first pre-specified interim analysis (IA1) of the primary endpoint of invasive disease-free survival (IDFS), the independent data monitoring committee (IDMC) recommended full analysis, which was previously reported.12 With a median follow-up of 2.5 years, patients randomized to olaparib had statistically significant and clinically meaningful improvement in IDFS compared to placebo [hazard ratio (HR) 0.58; 99.5% CI 0.41–0.82; P < 0.001] and distant disease-free survival (DDFS) (HR 0.57; 99.5% CI 0.39– 0.83; P < 0.001), which corresponded to absolute improvements at 3 years in IDFS of 8.8% and in DDFS of 7.1%.12 The number of deaths in the olaparib group was fewer than in the placebo group (59 versus 86), but the difference (HR 0.68; 99% CI 0.44–1.05; P ¼ 0.02) did not meet the pre-specified boundary for statistical significance for overall survival (OS) (P < 0.01). The safety analysis was consistent with the experience in the MBC setting and provided no early evidence of increased risk of acute myeloid leukemia or myelodysplastic syndrome (AML/MDS).12 The second IA (IA2) of OS was pre-specified to occur when 330 IDFS events had been reported in the study population. Here we report the results of this OS analysis with updates of IDFS, DDFS, and safety information. 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 3 
+
+Author Manuscript 
+
+PATIENTS AND METHODS Study design and patient population Details of study design and populations for the primary and secondary efficacy endpoints and safety are described in the original manuscript.12 The trial was conducted in accordance with the amended Declaration of Helsinki13 and the protocol was approved by the institutional review board at each participating center. All patients provided written informed consent. Olaparib and placebo were provided by AstraZeneca. 
+
+Author Manuscript 
+
+In summary, eligible, consenting patients with gBRCA1/2pv determined by germline testing at the site or centrally, with high-risk, HER2-negative EBC were randomized to receive 1 year of study medication consisting of either oral olaparib 300 mg b.i.d. or matching placebo, stratified by hormone receptor status, prior neoadjuvant (NACT) versus adjuvant (ACT) chemotherapy, and platinum therapy for current breast cancer (yes versus no). Eligible patients had received at least six cycles of NACT or ACT containing a taxane, an anthracy-cline, or both, had completed surgery, and had completed adjuvant radiotherapy if indicated according to local standards at least 2 weeks before randomization. Patients with hormone receptor-positive cancers were to receive at least 5 years of adjuvant endocrine therapy (ET) as per local standards concurrent with study medication. Bisphosphonates and denosumab were allowed as per investigator’s discretion. Patients who had received NACT could not receive postoperative chemotherapy. 
+
+Author Manuscript 
+
+Eligible patients with triple-negative breast cancer (TNBC) included those who received NACT with residual invasive cancer in the breast or axillary nodes, and those who received ACT were either node positive or node negative with a T2-T4 primary tumor at initial surgery. Following an early amendment, patients with hormone receptor-positive, HER2-negative disease became eligible with a clinical and pathological stage plus estrogen receptor and nuclear grade (CPS þ EG) score of >3 following NACT14,15 or >4 positive nodes at initial surgery. Endpoints and assessments 
+
+Author Manuscript 
+
+In accordance with the Standardized Definitions for Efficacy End Points (STEEP) system,16 the primary endpoint of IDFS was defined as the time from randomization until the date of first occurrence of one of the following events: ipsilateral invasive breast tumor, locoregional invasive disease, distant recurrence, contralateral invasive breast cancer, second primary invasive cancer, or death from any cause. Patients without a documented IDFS event were censored at the date they were last known to be disease free. Secondary endpoints include DDFS, defined as time from randomization until documented evidence of first distant recurrence of breast cancer or death, and OS defined as time from the date of randomization until death due to any cause. Efficacy analyses were based on the intention-to-treat (ITT) population. Survival functions were estimated by KaplaneMeier method. The stratified Cox proportional hazards model was used to estimate the HR and confidence intervals (CIs), and the P value for the comparison of survival between treatment arms was generated by stratified log-rank test. Safety was assessed in the population who received at least one dose of study medication. Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 4 
+
+Author Manuscript 
+
+OlympiA was designed to achieve a 90% power to detect an HR of 0.70 for the primary endpoint of IDFS, assuming a two-sided 5% significance level. With a sample size of 1800 patients, the primary analysis of IDFS would be triggered by 330 IDFS events in the ITT population. Four analysis time-points were pre-planned, with a hierarchical multiple testing procedure to strongly control type 1 error across analysis time-points and endpoints (Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2022.09.159)). As previously reported,12 the IA of IDFS in the entire ITT population was triggered when 165 IDFS events had been observed in the first 900 patients randomized (IA1). Superiority boundaries were P < 0.005 for IDFS, followed by P < 0.005 for DDFS, and P < 0.01 for OS (Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2022.09.159). Superiority boundaries for both IDFS and DDFS were crossed, but not for OS.12 The second pre-specified IA2 of OS was triggered by 330 IDFS events in the ITT population and results are presented herein. The boundary for the two-sided significance test of OS at IA2 was P < 0.015; thus, 98.5% CIs for OS are calculated in this analysis. Updated analyses of IDFS and DDFS were carried out with 95% CIs as these endpoint analyses are now descriptive. 
+
+Author Manuscript 
+
+RESULTS Patients From June 2014 through May 2019, 1836 patients were randomly assigned to receive either olaparib or placebo. IA2 was triggered on 12 July 2021; case report forms for study visits up to data cut-off for IA2 were collected and data quality controlled with database lock occurring on 17 December 2021. Median follow-up was 3.5 years [inter-quartile range (IQR) 2.5–4.5 years] in the ITT population, 3.6 years (IQR 2.5–4.7 years) in the TNBC cohort, and 3.4 years (IQR 2.5–4.1 years) in the hormone receptor-positive cohort. 
+
+Author Manuscript 
+
+After randomization, 10 patients in the olaparib group and 11 in the placebo group did not receive assigned therapy (Supplementary Figure S1: Consort Diagram, available at https://doi.org/10.1016/j.annonc.2022.09.159).) Baseline characteristics of the patients were balanced between the two treatment groups (Table 1, Supplementary Table S2, available at https://doi.org/10.1016/j.annonc.2022.09.159)). Most of the patients (82.2%) had TNBC. Approximately half of them received ACT and half NACT, with the majority (93.7%) receiving both an anthracycline and a taxane. A platinum agent was also received by 26.4% of patients, primarily in the NACT setting. Germline BRCA1pv were present in 72.2% and gBRCA2pv in 27.1% of patients with even distribution between treatment groups. Seven patients had both gBRCA1pv and gBRCA2pv. Efficacy 
+
+Author Manuscript 
+
+OS was significantly improved in the olaparib group relative to the placebo group (HR 0.68; 98.5% CI 0.47–0.97; P ¼ 0.009) (Figure 1A). Deaths were now reported in 75 patients (8.1%) in the olaparib group and 109 (11.9%) in the placebo group, 16 and 23 more, respectively, than at the previous IA. The cause of death was breast cancer in 93.3% in the olaparib group and 94.5% in the placebo group (Supplementary Table S3, available at https://doi.org/10.1016/j.annonc.2022.09.159). Death without a prior IDFS event was reported in two patients in the olaparib group: one with cardiac arrest and one of unknown 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 5 
+
+Author Manuscript 
+
+cause (Supplementary Table S4, available at https://doi.org/10.1016/j.annonc.2022.09.159). The percentage of patients alive at 4 years from randomization was 89.8% in the ola-parib group and 86.4% in the placebo group (3.4% difference: 95% CI −0.1% to 6.8%) (Figure 1A). 
+
+Author Manuscript 
+
+Planned subgroup analyses of OS demonstrated point estimates for improved OS for olaparib consistent with that of the overall population across stratification and gBRCA1pv or gBRCA2pv groups (Figure 2A). The survival benefit of olaparib was observed irrespective of gBRCA1pv or gBRCA2pv groups, hormone receptor status, prior platinum use, and ACT versus NACT context, with CIs that include the point estimate of the HR for OS in the overall population. There was no evidence of statistical heterogeneity in the treatment effect for OS across the subgroups analyzed. Consistent results were also noted in three pre-specified sensitivity analyses of OS described in the Supplementary Methods, available at https://doi.org/10.1016/j.annonc.2022.09.159, and shown in Supplementary Table S5, available at https://doi.org/10.1016/j.annonc.2022.09.159. 
+
+Author Manuscript 
+
+With ~1 year of additional median follow-up, the improvement in the primary endpoint of IDFS observed at the initial analysis12 was sustained with a similar treatment effect size observed: HR 0.63; 95% CI 0.50–0.78 (Figure 1B). The event frequency of all categories of IDFS events remained lower with olaparib. Distant recurrence comprised 88/134 (65.7%) of IDFS events in the olaparib group and 136/207 (65.7%) in the placebo group (Supplementary Table S4, available at https://doi.org/10.1016/j.annonc.2022.09.159). IDFS at 4 years was 82.7% in the olaparib group and 75.4% in the placebo group (7.3% difference: 95% CI 3.0% to 11.5%) (Figure 1B). DDFS was improved in patients who received olaparib (HR 0.61; 95% CI 0.48–0.77). DDFS at 4 years was 86.5% in the olaparib group and 79.1% in the placebo group (7.4% difference: 95% CI 3.6% to 11.3%) (Figure 1C). Subgroup analysis of IDFS across stratification and gBRCA1pv or gBRCA2pv groups revealed point estimates of treatment effect favoring olaparib over placebo consistent with that of the overall analysis population (Figure 2B). The benefit of adjuvant olaparib relative to placebo was observed irrespective of gBRCA1pv or gBRCA2pv groups, hormone receptor status, prior platinum use, and ACT versus NACT context, with CIs that include the point estimate of the HR for IDFS in the overall population. Update of previously reported detailed subgroup analyses of IDFS12 is provided in Supplementary Table S6, available at https://doi.org/10.1016/j.annonc.2022.09.159. Subgroup analyses of DDFS across stratification and gBRCA1pv or gBRCA2pv groups revealed similar findings (Figure 2C). 
+
+Author Manuscript 
+
+Safety—At this safety analysis all patients had completed the protocol-specified course of olaparib or placebo which included 1815 patients (911 in the olaparib group and 904 in the placebo group). The median exposure duration was 364 days on olaparib and 365 days on placebo (Supplementary Table S7, available at https://doi.org/10.1016/ j.annonc.2022.09.159), with median percentage of intended dose delivered being 94.5% in the olaparib group and 98.9% in the placebo group (Supplementary Table S8, available at https://doi.org/10.1016/j.annonc.2022.09.159)). Greater than 11 months of the 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 6 
+
+Author Manuscript 
+
+planned 12 months of therapy was completed by 76.1% of patients receiving olaparib compared to 81.7% on placebo (Supplementary Table S9, available at https://doi.org/ 10.1016/j.annonc.2022.09.159). In the olaparib group, 228 patients (25.0%) required a dose reduction compared to 47 (5.2%) in the placebo group (Supplementary Table S10, available at https://doi.org/10.1016/j.annonc.2022.09.159). Dose interruptions lasting at least 3 days occurred in 405 (44.5%) patients in the olaparib group and 279 (30.9%) in the placebo group (Supplementary Table S11, available at https://doi.org/10.1016/j.annonc.2022.09.159)). Adverse events (AEs) requiring permanent discontinuation of the trial drug occurred in 98 patients (10.8%) in the olaparib group and 42 (4.6%) in the placebo group. The most frequent AEs leading to discontinuation of olaparib were nausea (2.2%), anemia (1.8%), fatigue (1.6%), and neutrophil count decreased (1%) (Supplementary Table S12, available at https://doi.org/10.1016/j.annonc.2022.09.159). 
+
+Author Manuscript 
+
+Key AE categories are updated and summarized in Table 2 and Supplementary Table S13, available at https://doi.org/10.1016/j.annonc.2022.09.159. AEs of any grade with an incidence of >10% are updated in Supplementary Table S14, available at https://doi.org/ 10.1016/j.annonc.2022.09.159. Grade 3 or higher AEs occurring in >1% of patients were anemia (8.7%), neutropenia (4.9%), leuko-penia (3.0%), fatigue (1.8%), and lymphopenia (1.3%), all in the olaparib group. Serious AEs (SAEs) occurred in 79 patients (8.7%) who received olaparib, and 78 (8.6%) who received placebo. AEs leading to death were cardiac arrest in one patient receiving olaparib, and acute myeloid leukemia (AML) and ovarian cancer each in one patient receiving placebo (Table 2). Red blood cell (RBC) transfusion requirements were previously reported12 and final updates are provided in Supplementary Table S15A and B, available at https://doi.org/10.1016/j.annonc.2022.09.159. 
+
+Author Manuscript 
+
+AEs of special interest (AESI) included pneumonitis, radiation pneumonitis, AML/MDS, and new primary malignancies other than AML/MDS. None of the categories had more AESI reported with olaparib relative to placebo (Supplementary Table S13, available at https://doi.org/10.1016/j.annonc.2022.09.159). As of the primary analysis, there were two cases of MDS/AML reported in the olaparib group and three in the placebo group. With additional follow-up, no additional cases of AML or MDS have been reported in either arm. 
+
+DISCUSSION 
+
+Author Manuscript 
+
+The pre-specified second IA of OS in the OlympiA trial demonstrates that 1 year of adjuvant olaparib relative to placebo provided a statistically significant improvement in OS (HR 0.68; 98.5% CI 0.47–0.97; P = 0.009) with an absolute improvement in 4-year OS of 3.4% (89.8% olaparib; 86.4% placebo) in patients with high-risk EBC and gBRCA1/2pv following standard-of-care chemotherapy, surgery, and radiation therapy, which if indicated had been completed at least 2 weeks before randomization. Updated descriptive analyses of IDFS and DDFS with the additional year of median follow-up demonstrated sustained absolute improvements (7.3% and 7.4%) for olaparib versus placebo in 4-year event-free rates, respectively. Safety analyses following completion of protocol therapy by all patients, including grade >3 AEs, SAEs, AEs leading to death, and AEs leading to discontinuation of treatment, demonstrated a favorable safety and tolerability profile consistent with the experience in the MBC setting with no substantive changes from the findings of the initial 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 7 
+
+Author Manuscript 
+
+analysis. Although the key long-term safety endpoint of AML/MDS will require longer follow-up for complete assessment, the low incidence of 0.2% in the olaparib group and 0.3% in the placebo group with a median follow-up of 3.5 years coupled with the absence of new cases since the initial report is reassuring. 
+
+Author Manuscript Author Manuscript 
+
+Breast cancers associated with gBRCA1/BRCA2pv are vulnerable to synthetic lethality caused by exposure to PARP inhibitors that inhibit catalytic activities of PARP1 and trap PARP1 on DNA, creating lesions that require functional BRCA1 and BRCA2 protein for repair.3,4 Because this vulnerability is independent of hormone receptor status, OlympiA was designed to assess the efficacy and safety of olaparib in patients with gBRCA1/2pv and high-risk, HER2-negative EBC, irrespective of hormone receptor status. OlympiA was initially activated in patients with high-risk TNBC because of high unmet need for these patients in whom the residual recurrence risk following standard multimodality therapies remained sufficiently elevated to justify evaluating olaparib in the EBC setting, despite the lack of both phase III trial data and marketing authorization for olaparib in gBRCA1/2pvassociated MBC at that time. In contrast to gBRCA1pv-associated breast cancers, gBRCA2pv-associated breast cancers are predominantly hormone receptor positive.7,8 Although adjuvant endocrine therapies reduce the risk of recurrence, patients presenting with larger, node-positive disease less responsive to NACT14,15 or who have >4 positive axillary nodes at initial surgery have similar residual risk as patients with TNBC meeting eligibility criteria for OlympiA. Additionally, the complexities and challenges of conducting OlympiA made it unlikely that a new study specifically for patients with gBRCA1/2pv and hormone receptor-positive, high-risk EBC would be conducted. Therefore, once safety data on combinations of standard endocrine therapies and olaparib were available,17 OlympiA was amended to include patients with hormone receptor-positive, HER2-negative EBC with risk of recurrence equivalent to the TNBC cohorts. Although the first patient with hormone receptor-positive disease was enrolled 18 months after start of accrual, the median follow-up was similar between the TNBC and hormone receptor-positive cohorts (3.6 versus 3.4 years). 
+
+Author Manuscript 
+
+Subgroup analyses of IDFS, DDFS, and OS demonstrate no evidence of heterogeneity for benefit of olaparib by hormone receptor status. The HR for olaparib relative to placebo for IDFS was 0.62 in TNBC (282 IDFS events in 1509 patients) and 0.68 in hormone receptor-positive disease (59 IDFS events in 325 patients), both less than the target HR of 0.7 for the ITT population (Figure 2B). The corresponding HR for DDFS was 0.59 (225 DDFS events) in the TNBC subgroup and 0.69 (54 DDFS events) in the hormone receptor-positive subgroup (Figure 2C). With relatively few deaths (n = 33) reported among the 325 patients with hormone receptor-positive EBC (Figure 2A), meaningful analysis of differential treatment effect on OS is highly constrained. Therefore, based on the negative test for heterogeneity by hormone receptor status and evidence for similar efficacy in IDFS and DDFS, coupled with the safety profile and the quality-of-life data,18 patients with high-risk, hormone receptor-positive EBC should be considered for olaparib therapy. This conclusion is further supported by the lack of mechanistic rationale for differential synthetic lethal effects of PARP inhibition in a hormone receptor-positive context, evidence of similar treatment effect for PARP inhibitor therapy in MBC irrespective of hormone receptor status,5,6 and reports of the randomized GeparOla study of olaparib in combination Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 8 
+
+Author Manuscript 
+
+with paclitaxel, in which signals of comparative efficacy of olaparib/paclitaxel versus a carboplatin/paclitaxel regimen were stronger in the hormone receptor-positive subgroup.19 
+
+Author Manuscript 
+
+OlympiA was notable for a relatively high adherence rate to study medication with 76% of the olaparib group completing at least 11 months of therapy compared with 82% of the placebo group. AEs were common reasons for discontinuation and the most common AEs leading to discontinuation were nausea and anemia. Nausea tends to occur early in treatment but diminishes in prevalence and grade with continued therapy. Patients should be informed of this potential side-effect and its likely time course and should be provided anti-emetic therapy to manage symptoms should they occur. Administering olaparib after a small meal may also help mitigate early nausea and potential vomiting.20 Management of anemia on OlympiA included holding study medication until recovery of hemoglobin (Hb) to >9.5 g/dl. If recovery took >2 weeks, olaparib was reduced to 250 mg b.i.d. Study therapy was discontinued if repeated RBC transfusions were required to maintain the Hb >9.5 g/dl. This approach, adaptable to routine care, resulted in only 53 (5.8%) patients on olaparib requiring RBC transfusions compared with 8 (0.9%) on placebo (Supplementary Table S15A, available at https://doi.org/10.1016/j.annonc.2022.09.159). 
+
+Author Manuscript 
+
+Following completion of accrual to OlympiA, KEYNOTE-52221 demonstrated improved event-free survival (EFS) in TNBC with the addition of pembrolizumab to an NACT regimen of sequential carboplatin/paclitaxel followed by anthracycline with cyclophosphamide, followed by adjuvant pembrolizumab. Although the absolute improvement in EFS was 11% in patients without pathological complete response (pCR) with addition of pembrolizumab, 3-year EFS of this group was 67.4%, justifying consideration of additional post-surgical adjuvant therapy such as olaparib in patients with gBRCA1/2pv. Available safety data suggest that programmed cell death protein 1/ programmed death-ligand 1 inhibitors can be co-administered with olaparib or other PARP1 inhibitors,22,23 but this was not assessed in OlympiA. 
+
+Author Manuscript 
+
+The CREATE-X24 study has also reported improvement in DFS (HR 0.58) and OS (HR 0.52) with adjuvant capecitabine in patients with TNBC and non-pCR following NACT that did not include platinum-based agents, which were allowed by OlympiA. A subsequent meta-analysis of 13 trials which evaluated capecitabine in EBC and included CREATE-X demonstrated improvement in DFS (HR 0.89) and OS (HR 0.83) in patients with TNBC.25 There is an absence of safety data to support use of combination olaparib and capecitabine, so physicians and patients will need to choose between the two agents in the adjuvant setting. Although no data in EBC exist to inform the choice between the two agents, the OlympiAD MBC study in patients with gBRCA1/2pv demonstrated superiority of olaparib relative to mono-chemotherapy of physician’s choice, in which the most common choice was capecitabine.5 Similar findings were reported with talazoparib in the EMBRACA trial.6 Additionally, there is evidence that patients with the basal subtype of TNBC may derive less benefit from capecitabine than their non-basal subtype affected counterparts, and patients with gBRCA1/2pv typically develop the basal subtype of TNBC. The most direct evidence comes from the GEICAM/CIBOMA26 open-label trial of adjuvant capecitabine following standard (N)ACT in early TNBC, stratified by basal versus non-basal subtype based on immunohistochemistry staining for cytokeratin 5/6 and epidermal growth factor receptor. 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 9 
+
+Author Manuscript 
+
+Although an HR of 0.82 (95% CI 0.63–1.06; P ¼ 0.136) for the primary endpoint of DFS did not reach statistical significance, a pre-specified analysis by subtype suggested the smaller non-basal cohort (26%) derived benefit from capecitabine with a DFS HR of 0.53 compared with an HR of 0.94 in the majority basal cohort. ECOG-ACRIN EA113127 was a randomized trial of adjuvant capecitabine versus platinum chemotherapy in patients with a basal subtype of TNBC determined by Prediction Analysis of Microarray 50 (PAM50) with >1 cm of residual disease following taxane-based NACT. Accrual ended early when the IDMC determined that it was unlikely the study would demonstrate either noninferiority or superiority of platinum. Notably, 3-year IDFS in both arms was <50%, demonstrating high recurrence risks in this population despite use of either drug and the need for alternative approaches to mitigate this risk. These aggregate results, coupled with the favorable toxicity profile of olaparib in OlympiA, support the choice of olaparib in TNBC patients with gBRCA1/2pv. 
+
+Author Manuscript 
+
+Adjuvant therapy guidelines for high-risk, hormone receptor-positive breast cancer have been recently impacted by the monarchE trial, which demonstrated that 2 years of abemaciclib, co-administered with ET, improved 3-year IDFS from 83.4% to 88.8% (HR 0.70; 95% CI 0.59–0.82).28 There is an absence of safety data to support the use of a combination of olaparib, abemaciclib, and ET, so physicians and patients will need to choose between which of the two agents to combine with adjuvant ET. The mon-archE trial has yet to demonstrate an improvement in OS and was not designed to assess the activity in patients with gBRCA1/2pv. Additionally, an evolving body of evidence suggests that patients with gBRCA2pv and hormone receptor-positive MBC may not respond as well to cyclin-dependent kinase 4 and 6 inhibitors.29–31 
+
+Author Manuscript 
+
+In OlympiA, there was no evidence of statistical heterogeneity in the treatment effect for olaparib by hormone receptor status, and the similar HR for IDFS and DDFS for both hormone receptor-negative and hormone receptor-positive cohorts is consistent with a receptor-agnostic synthetic lethal targeting mechanism. The safety profile and quality-oflife data18 from OlympiA also provide support that patients with gBRCA1/2pv and high recurrence risk, hormone receptor-positive EBC should be considered for combination adjuvant ET plus olaparib therapy following (N)ACT. 
+
+Author Manuscript 
+
+The pre-specified second IA of OlympiA with a median follow-up of 3.5 years demonstrates a statistically significant improvement in OS with olaparib compared to placebo and maintenance of clinically meaningful absolute improvements in the previously reported statistically significant primary endpoint of IDFS and the secondary endpoint of DDFS. Subgroup analyses for all three endpoints demonstrate benefit irrespective of hormone receptor status, NACT versus ACT, prior use of platinum for breast cancer, and type of gBRCApv with CIs that include the point estimate of the HR in the overall population for each of the endpoints. The safety and tolerability profile of olaparib in this study remains consistent with that observed in previous studies of olaparib and only two cases (0.2%) of AML/MDS have been reported in the olaparib group compared with three (0.3%) in the placebo group. The results highlight the importance of testing for gBRCA1/2pv in patients with newly diagnosed high-risk EBC. Blinded follow-up of patients continues to assess long-term effects on risks for recurrent breast cancer and other second malignancies Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 10 
+
+Author Manuscript 
+
+including AML/MDS, as well as to fully inform future translational studies to understand mechanisms of resistance to adjuvant olaparib. 
+
+Supplementary Material Refer to Web version on PubMed Central for supplementary material. 
+
+Authors 
+
+Author Manuscript 
+
+C. E. Geyer Jr.1,2, J. E. Garber3, R. D. Gelber3,4,5, G. Yothers1,6, M. Taboada7, L. Ross8, P. Rastogi1,2, K. Cui9, A. Arahmani10, G. Aktan11, A. C. Armstrong12, M. Arnedos13,14, J. Balmaña15, J. Bergh16, J. Bliss17, S. Delaloge18, S. M. Domchek19, A. Eisen20, F. Elsafy7, L. E. Fein21, A. Fielding9, J. M. Ford22, S. Friedman23, K. A. Gelmon24, L. Gianni25,26, M. Gnant27, S. J. Hollingsworth28, S.-A. Im29, A. Jager30, Ó. Jóhannsson 331, S. R. Lakhani32, W. Janni33, B. Linderholm34,35, T.-W. Liu36, N. Loman37, L. Korde38, S. Loibl39,40, P. C. Lucas1,41, F. Marmé42, E. Martinez de Dueñas43, R. McConnell8, K.-A. Phillips44,45, M. Piccart46, G. Rossi47, R. Schmutzler48, E. Senkus49, Z. Shao50, P. Sharma51, C. F. Singer52, T. Španić53,54, E. Stickeler55, M. Toi56, T. A. Traina57, G. Viale58, G. Zoppoli59,60, Y. H. Park61, R. Yerushalmi62,63, H. Yang64, D. Pang65, K. H. Jung66, A. Mailliez67, Z. Fan68, I. Tennevet69, J. Zhang70, T. Nagy71, G. S. Sonke72, Q. Sun73, M. Parton74, M. A. Colleoni75, M. Schmidt76, A. M. Brufsky1,2, W. Razaq77, B. Kaufman78,y, D. Cameron79, C. Campbell80, A. N. J. Tutt81,82,*, OlympiA Clinical Trial Steering Committee and Investigatorsz 
+
+Affiliations Author Manuscript 
+
+1NRG Oncology/NSABP Foundation, Pittsburgh; 2Department of Medicine, UPMC Hillman Cancer Center, Pittsburgh; 3Dana-Farber Cancer Institute, Harvard Medical School, Boston; 4Harvard T.H. Chan School of Public Health, Boston; 5Frontier Science Foundation, Boston; 6Department of Biostatistics, University of Pittsburgh, Pittsburgh, USA; 7Oncology Biometrics Department, AstraZeneca, Macclesfield; 8Department of Data Management, Frontier Science (Scotland), Kincraig, Scotland, 
+
+UK; 
+
+Author Manuscript 
+
+9Department of Oncology R&D, AstraZeneca, Gaithersburg, USA; 10Research Operations Department, Breast International Group, Brussels, Belgium; 11Global Oncology Clinical Development, Merck and Co. Inc., Rahway, USA; 12Department of Medical Oncology, The Christie Hospital NHS Foundation Trust, 
+
+Manchester, UK; 13European Organisation for Research and Treatment (EORTC), Brussels, Belgium; 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 11 14The Department of Medical Oncology, Institut Bergonié, Bordeaux, France; 
+
+Author Manuscript 
+
+15Medical Oncology Department, Vall d’Hebron Institute of Oncology and Vall 
+
+d’Hebron University Hospital, Barcelona, Spain; 16Department of Oncology-Pathology, Swedish Breast Cancer Group, Karolinska 
+
+Institute and Breast Cancer Center, Karolinska University Hospital and Karolinska Comprehensive Cancer Center, Stockholm, Sweden; 17Department of Clinical Trials and Statistics Unit (ICR-CTSU), The Institute of 
+
+Cancer Research, London, UK; 18Department of Cancer Medicine, Institute Gustave Roussy and Unicancer Breast 
+
+Group, Paris, France; 19Department of Medicine, Basser Center for BRCA at the Abramson Cancer 
+
+Author Manuscript 
+
+Center, University of Pennsylvania, Philadelphia, USA; 20Odette Cancer Centre, Department of Medicine, University of Toronto, Toronto, 
+
+Canada; 21Department of Clinical Research, Instituto de Oncologia De Rosario, Santa Fe, 
+
+Argentina; 22Department of Medicine/Oncology, Stanford University School of Medicine, 
+
+Stanford; 23Facing Our Risk of Cancer Empowered, Tampa, USA; 24Department of Medical Oncology, BC Cancer, Vancouver, Canada; 
+
+Author Manuscript 
+
+25Department of Oncology, International Breast Cancer Study Group, Bern, 
+
+Switzerland; 26Department of Medical Oncology, Ospedale Infermi AUSL della Romagna, Rimini, 
+
+Italy; 27Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria; 28Department of Late Development Oncology, AstraZeneca, Cambridge, UK; 29Department of Internal Medicine, Cancer Research Institute, Seoul National 
+
+University Hospital, Seoul National University College of Medicine, Seoul, Republic of Korea; 30Department of Medical Oncology, Dutch Breast Cancer Research Group, Utrecht, 
+
+Author Manuscript 
+
+The Netherlands; 31Department of Medical Oncology, Landspítali University Hospital of Iceland, 
+
+Icelandic Breast Cancer Group, Reykjavik, Iceland; 32Department of Anatomical Pathology, The University of Queensland Centre for 
+
+Clinical Research and Pathology Queensland, Brisbane, Australia; 33Department for Obstetrics and Gynecology, Universitaetsklinikum, University of 
+
+Ulm, Ulm, Germany; 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 12 34Department of Oncology, Sahlgrenska University Hospital, Gothenburg; 
+
+Author Manuscript 
+
+35Department of Oncology, The Institute of Clinical Sciences, Sahlgrenska 
+
+Academy, Gothenburg University, Gothenburg, Sweden; 36Division of Cancer Research, National Health Research Institutes, Taiwan 
+
+Cooperative Oncology Group, Taipei City, Taiwan; 37Department of Hematology, Oncology, and Radiation Physics, Swedish 
+
+Association of Breast Oncologists, Skåne University Hospital, Lund, Sweden; 38Clinical Investigations Branch, Division of Cancer Treatment and Diagnosis, The 
+
+National Cancer Institute, Rockville, USA; 39Medicine and Research, German Breast Group, Neu-Isenburg; 
+
+Author Manuscript 
+
+40Medicine and Research, The Center for Hematology and Oncology Bethanien and 
+
+Goethe University, Frankfurt, Germany; 41Department of Pathology, UPMC Hillman Cancer Center, Pittsburgh, USA; 42Medical Faculty Mannheim, Heidelberg University, Mannheim Germany and the 
+
+German Breast Group, Neu-Isenburg, Germany; 43Médica Consorcio Hospitalario Provincial de Castellón, Servicio de Oncología, 
+
+Castellón, Spain; 44Department of Medical Oncology, Peter MacCallum Cancer Centre, Melbourne; 45Breast Cancer Trials, Australia and New Zealand, Newcastle, Australia; 46Department of Scientific Direction, Institut Jules Bordet, l’Université Libre de 
+
+Author Manuscript 
+
+Bruxelles, Brussels; 47Department of Research and Development, Breast International Group, Brussels, 
+
+Belgium; 48The Center for Familial Breast and Ovarian Cancer and the Center for Integrated 
+
+Oncology, Faculty of Medicine, University Hospital Cologne, Cologne, Germany; 49Department of Oncology and Radiotherapy, Medical University of Gdan⠃sk, 
+
+Gdan⠃sk, Poland; 50Fudan University Shanghai Cancer Center, Shanghai, China; 51Department of Internal Medicine, Division of Medical Oncology, University of 
+
+Kansas Medical Center, Westwood, USA; 
+
+Author Manuscript 
+
+52Department of OB/GYN and Comprehensive Cancer Center, Medical University of 
+
+Vienna, Vienna, Austria; 53Department of Patient Advocacy, Europa Donna-The European Breast Cancer 
+
+Coalition, Milan, Italy; 54Europa Donna Slovenia, Ljubljana, Slovenia; 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 13 55Department of Obstetrics and Gynecology, University Hospital Aachen, Aachen, 
+
+Author Manuscript 
+
+Germany; 56Department of Breast Surgery Kyoto University Hospital, Kyoto, Japan; 57Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, 
+
+USA; 58Department of Pathology, University of Milan, European Institute of Oncology 
+
+IRCCS, Milan; 59Internal Medicine Oncology Unit, Gruppo Oncologico Italiano di Ricerca Clinica, 
+
+Parma; 60Università degli Studi di Genova and IRCCS Ospedale Policlinico San Martino, 
+
+Genoa, Italy; 
+
+Author Manuscript 
+
+61Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, 
+
+Republic of Korea; 62Department of Oncology, Institute of Oncology, Davidoff Cancer Center, Rabin 
+
+Medical Center, Beilinson Hospital, Petach Tikva; 63Faculty of Medicine, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, 
+
+Israel; 64Department of Breast Surgery, The Cancer Hospital of the University of Chinese 
+
+Academy of Sciences, Zhejiang Cancer Hospital, Institute of Basic Medicine and Cancer (IBMC), Chinese Academy of Sciences, Hangzhou; 65Department of Breast Surgery, Harbin Medical University Cancer Hospital, Harbin, 
+
+Author Manuscript 
+
+China; 66Department of Oncology, Asan Medical Center, University of Ulsan College of 
+
+Medicine, Seoul, Republic of Korea; 67Department of Medical Oncology, Breast Cancer Unit, Oscar Lambret Center, 
+
+Lillie, France; 68Department of Breast Surgery, First Hospital of Jilin University, Jilin, China; 69Department of Medical Oncology, Centre Henri Becquerel, Rouen, France; 70Breast Cancer Center, Tianjin Medical University Cancer Institute & Hospital, 
+
+Tianjin, China; 
+
+Author Manuscript 
+
+71Chemotherapy Department B, Országos Onkológiai Intézet, National Institute of 
+
+Oncology, Budapest, Hungary; 72Department of Medical Oncology, Netherlands Cancer Institute, Amsterdam, The 
+
+Netherlands; 73Department of Breast Surgery, Peking Union Medical College Hospital, Peking, 
+
+China; 74Breast Unit, Royal Marsden Hospital, London, UK; 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 14 75Division of Medical Senology, European Institute of Oncology (IEO), IRCCS, 
+
+Author Manuscript 
+
+Milan; 76Department of Obstetrics and Gynecology, University Medical Center Mainz, 
+
+Mainz, Germany; 77Department of Internal Medicine, Section of Hematology/Oncology, Oklahoma 
+
+University Health, Oklahoma City, USA; 78The Breast Oncology Institute, Chaim Sheba Medical Center, Tel Aviv University, 
+
+Tel Aviv, Israel; 79Edinburgh Cancer Research Centre, Institute of Genetics and Cancer, University 
+
+of Edinburgh, Edinburgh; 80Department of Statistics and Programming, Frontier Science (Scotland), Kincraig, 
+
+Author Manuscript 
+
+Scotland; 81The Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer 
+
+Research, London; 82The Breast Cancer Now Unit, Guy’s Hospital Cancer Centre, King’s College 
+
+London, London, UK 
+
+ACKNOWLEDGEMENTS 
+
+Author Manuscript 
+
+We thank the patients and their families, the staff members of the trial partners (Breast International Group, NRG Oncology, Frontier Science, AstraZeneca and Merck Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc., Rahway, NJ, USA [MSD], the National Cancer Institute), the current and former members of the trial committees (listed in the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.09.159), and the collaborating institutions and investigators (listed in the Appendix). We also thank Christine I. Rudock, Publications and Graphics Specialist, Wendy L. Rea, BA, Editorial Associate, and Micailyn A. Geyer, Editorial Assistant, for assistance with preparation and submission of the manuscript, all of whom are employees of NSABP Foundation. They were not compensated beyond their normal salaries for this work. We acknowledge the assistance of PharmaGenesis, funded by AstraZeneca, with technical preparation of the figures in the manuscript for submission. Finally, the authors acknowledge the many contributions of Bella Kaufman, MD, who served as co-chair of the OlympiA trial during the design, implementation, accrual, follow-up, and initial analyses of the trial until her death on 13 May 2021. FUNDING Funding for this work, which was conducted as a collaborative partnership among the Breast International Group, NRG Oncology, Frontier Science, AstraZeneca, and Merck Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc., Rahway, NJ, U.S.A. (MSD), was provided by the National Institutes of Health (grant numbers: U10CA 180868, UG1CA 189867, and U10CA 180822) and by AstraZeneca as part of an alliance between AstraZeneca and MSD. Provision of olaparib and placebo was from AstraZeneca. DISCLOSURES 
+
+Author Manuscript 
+
+CEG-uncompensated advisory board member for Astra-Zeneca, Genentech/Roche, Daiichi Sankyo, SeaGen and as compensated advisory board member for Exact Sciences. Medical writing assistance on manuscripts from Genentech/Roche and Abbvie. Research funding from AstraZeneca, Genentech/Roche, Abbvie, Daiichi/Sankyo to institutions. Compensation for steering committee service to NSABP Foundation from Genentech/Roche. Accommodations and travel expenses from AstraZeneca, Genentech/Roche, Daii-chi/Sankyo. RG-institutions have received research funding from AstraZeneca, MSD, Roche, and Novartis. MT-AstraZeneca employee and shareholder. LR-received salary support for project-related work under Agreement with Study Sponsor. PR-reports travel and accommodations by AZ. KC-employed by AstraZeneca and owns stock from AstraZeneca and BMS. AA-reports funding received by her institution as research funding from AstraZeneca, Roche/Genentech, Tesaro, Novartis, Pfizer, SERVIER, Biovica, GlaxoSmithKline, and Sanofi/Aventis, and royalties from Agendia for MammaPrint, due to the collaboration on the conduct of the MINDACT trial. GA-an employee of Merck 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 15 
+
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript 
+
+Sharp & Dohme LLC, a subsidiary of Merck & Co., Inc., Rahway, NJ, USA and shareholder of Merck & Co., Inc., Rahway, NJ, USA. AA-advisory board MSD and Gilead; conference fees MSD and Gilead; spousal shares AstraZe-neca; institutional research funding from Astra Zeneca. MA-(during the past 3 years) has received research funding (to Gustave Roussy) from Astra Zeneca and Eli-Lilly. Received honoraria (to Gustave Roussy): Astra Zeneca (to Institut Bergonié) Astra Zeneca; honoraria (to herself): Pfizer, Gilead. Travel grant: Astra Zeneca, Daiichi Sankyo. JBa-consulting fees from Astra Zeneca and Pfizer; travel expenses by Lilly; European patent request submitted (EP17382884.9) not related to this work. JBe-has received grants from Amgen, Astra Zeneca, Bayer, Merck KGaA, Pfizer, Roche, and Sanofi-Aventis to Karolinska Institutet and/or University Hospital. No personal payments. He also receives payment from UpToDate to Asklepios Medicine HB for a chapter on breast cancer prediction. He has recently been appointed board member of Wnt Research AB. JBl-(during the past 3 years) received research funding directly to the Institute of Cancer Research from: AstraZeneca, Merck KGaA, Puma Biotechnology, Pfizer, Roche, Novartis (previously GSK), Eli Lilly, Janssen-Cilag, and Clovis Oncology. SDinstitutional grant from AstraZeneca during the conduct of this study; grants, all to her institution and all outside of the submitted work, from: Sanofi, Novartis, Lilly, Puma, Myriad, Orion, Amgen, Sanofi, Genomic Health, GE, Servier, Merck KGaA, BMS, Pierre Fabre, SeaGen, Exact Sciences, Rappta, Besins, Taiho, the European Commission, the French government, Foundation ARC; and non-financial support from Pfizer; AstraZeneca, and Roche Genentech. SMD-received research funding directly to the University of Pennsylvania from AstraZeneca and has received honoraria from AstraZeneca. AE-has received research funding directly to her institution from Astra Zeneca, AbbVie, and RNA Diagnostics. FE-AstraZeneca employee and shareholder. LF-consult-ing/advisory role: Novartis, Pfizer, AstraZeneca/MSD; research funding to institution: AstraZeneca, MSD Oncology, Novartis. AF-AstraZeneca employee and AstraZeneca stockholder. JMF-has received institutional research grants from AstraZeneca, PUMA, Pfizer, Merus, Incyte, and Genentech. SF-reports support to her organization from AbbVie, AstraZeneca, Daiichi Sanko, Genentech, Glax-oSmithKline, MSD, and SeaGen. KG-advisory boards: AstraZeneca; Pfizer, Novartis, Lilly, MSD, Roche, SeaGen, Gilead, Ayala. Research funding: AstraZeneca, Pfizer, Roche, BMS. Speaker: Pfizer, Novartis, Lilly, AstraZeneca. LG-has served as compensated advisory board member for Astra-Zeneca, Daiichi Sankyo, and SeaGen. MG-reports personal fees/travel support from Amgen, DaiichiSankyo, AstraZe-neca, EliLilly, LifeBrain, Veracyte, Novartis, PierreFabre, Merck KGaA; an immediate family member is employed by Sandoz. SH-AZ employee and shareholder. SAI-has advisory role for AstraZeneca, Bertis, Daiichi-Sankyo, Eisai, Eli Lilly, Hanmi, Idience, MSD, Novartis, Roche, Pfizer. Reports research grants from AstraZeneca, Boryung, Dae-woong Pharm, Eisai, Roche, and Pfizer. SRL-institution has received honoraria for my role on the AstraZeneca International Breast Cancer Biomarker Advisory Board 2022. WJ-research grants and/or honoraria from: AstraZeneca, Celgene, Chugai, Daiichi/Sankyo, Eisai, ExactScience, GSK, Janssen, Lilly, Menarini, Merck KGaA, Novartis, Sanofi-Aventis, Roche, Pfizer, Seagen. BL-advisory boards for AZ, Pfizer, Merck KGaA, Lilly, Daiichi Sankyo, Gilead, SeaGen, and Novartis. SL-grants and honorarium to her institution from AbbVie, Amgen, AstraZeneca, Celgene, Daiichi Sankyo, Gilead, Novartis, Pfizer, Roche; and honorarium to her institution from Bristol Myers Squibb, Eli Lilly, Eirgenix, GlaxoSmithKline, Merck KGaA, Pierre Fabre, PriME/Med-scape, and Seagen; grants to her institution from Cepheid; non-financial support for medical writing from Amgen, AstraZeneca, Bristol Myers Squibb, Celgene, Daiichi Sankyo, Gilead, Novartis, Pfizer, and Roche; patents EP21152186.9, EP18209672; EP15702464.7; and EP19808852.8 pending; and licensing fees from VM Scope GmbH, all to institution; personal fees from Chugai; personal employment with GBG Forschungs GmbH; personal non-financial interest in Gilead, Novartis, Pfizer, Roche, and SeaGen (steering committees); non-financial interests from AGO Member (German Gynaeological Oncology Society), ASCO Member, DKG Member (German Cancer Society) and ESMO (Member, Chair ESMO Breast (2019–21 and Steering Committee). PCL-reports stock ownership in Amgen, speaker honorarium from Schrodinger Inc., and unreimbursed consulting for BlueSphere Bio. FM-reports other from GBG research GmbH, during the conduct of the study; personal fees from Roche, AstraZeneca, Pfizer, Tesaro, Novartis, Amgen, Phar-maMar, Genomic Health, CureVac, EISAI, Clovis, JanssenCilag, Gilead/Immunomedics, GSK, Merck KGaA, SeaGen, Myriad, and Pierre-Fabre, outside the submitted work. RM-receives salary support for project related work under agreement with sponsors AstraZeneca, Roche, & GSK. KAP-has served as an uncompensated advisory board member for AstraZeneca. MP-scientific board member: Oncolytics; consultant/honoraria: AstraZeneca, Camel-IDS/Precirix, Gilead, Immunomedics, Lilly, Menarini, MSD, Novartis, Odonate, Pfizer, Roche-Genentech, Seattle Genetics, Immutep, Seagen, NBE Therapeutics, Frame Therapeutics; research grants to institute: AstraZeneca, Immunomedics, Lilly, Menarini, MSD, Novartis, Pfizer, Radius, Roche-Genentech, Servier, Synthon. GR-reports funding received by her institution as research funding from AstraZeneca, Roche/Genentech, Tesaro, Novartis, Pfizer, SERVIER, Biovica, GlaxoSmithKline, and Sanofi/ Aventis, and royalties received by her institution from Agendia for MammaPrint, due to the collaboration on the conduct of the MINDACT trial. RS-grants/contracts: AstraZeneca; participation on an advisory board: AstraZeneca, MSD, Clovis Oncology. ES-reports honoraria: Amgen, AstraZe-neca, Cancérodigest, Clinigen, Curio Science, Egis, Eli Lilly, Exact Sciences, Gilead, high5md, Novartis, Oncompass Medicine, Pfizer, Pierre Fabre, Roche, Sandoz, TLC Biopharmaceuticals; travel support: Amgen, AstraZeneca, Egis, Gilead, Novartis, Pfizer, Roche; clinical research: Amgen, AstraZeneca, Eli Lilly, Novartis, Pfizer, Roche, Samsung; stock: AstraZeneca, Eli Lilly, Pfizer. PS-has received consulting fee and/or honoraria from Pfizer, MSD, Gilead, Seattle Genetics, Novartis, AstraZeneca, GSK, and research support (to the institution) from Novartis, Bristol-Meyers Squibb, MSD, Gilead. CFS-travel grants and speakers’ honoraria from: Novartis, Roche, AstraZeneca, Gilead Sciences, SeaGen; research grants: AstraZeneca, Novartis, Amgen, and Daiichi-Sanyko. TS⠁-patient advisory board honoraria: MSD, Pfizer, Gilead Sciences. ES-honoraria: Roche, Lilly, Pfizer, Merck KGaA, AstraZeneca, Novartis, SeaGen, Daiichi Sankyo/AstraZeneca, Gilead Sciences. Consulting or advisory role: Novartis, Roche, Pfizer, Lilly, AstraZeneca, 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 16 
+
+Author Manuscript Author Manuscript Author Manuscript 
+
+Merck KGaA. Travel, accommodations, expenses: Novartis, Roche, Pfizer, Gilead Sciences. Uncompensated relationships: German Breast Group. MT-has received honoraria for lectures or chairs from Chugai, Takeda, Pfizer, Kyowa-Kirin, Taiho, Eisai, Daiichi-Sankyo, AstraZeneca, Eli Lilly, MSD, Exact Science, Novartis, Shimadzu, Yakult, Nippon Kayaku, and Devicore Medical Japan. He has served as compensated advisory board for Kyowa-Kirin, Daiichi-Sankyo, Eli Lilly, BMS, Athenex Oncology, Ber-tis, Terumo, and Kansai Medical Net. His institution has received research funding from Chugai, Takeda, Pfizer, Kyowa-Kirin, Taiho, JBCRG assoc., KBCRN assoc., Eisai, Eli Lilly, Daiichi-Sankyo, AstraZeneca, Astellas, Shimadzu, Yakult, Nippon Kayaku, AFI technology, Luxonus, Shionogi, GL Science, and Sanwa Shurui. He has served as uncompensated member of the board of directors for the association of JBCRG, the association of KBCRN, and the NPO organization OOTR. TAT-has consulting honoraria from advisory boards and research support from AstraZeneca. Also, honoraria from Pfizer. GV-received honoraria and consulting fees from Roche, AstraZeneca, Daiichi Sankyo, Merck KGaA, Agilent, and Pfizer. YHP-reports grants from Roche, AstraZeneca, Pfizer, Novartis, and MSD; personal fees from AstraZeneca, Daiichi Sankyo, Eisai, Pfizer, MSD, Bixink, and Roche; and nonfinancial support from Pfizer and Hanmi. RY-reports consulting/advisor/honoraria: AstraZeneca, Eli Lilly, Gilead, Medison, MSD, Novartis, Pfizer, Roche, Teva; research grant: Roche. Research support: Exact Sciences. KHJ-consultancies (personal fees) from AstraZeneca, Bix-ink, Everest Medicine, MSD, Novartis, Pfizer, Roche, Takeda Pharmaceuticals. GSS-reports research support paid to the institution from Agendia, AstraZeneca, MSD, Roche, and SeaGen and consultancy fees paid to the institution from Biovica and SeaGen. MP-honoria/advisory board/educa-tional events: Roche, Novartis, Pfizer, Eli Lilly, Exact Sciences, Veracyte, Pierre Fabre. MAC-reports research grant from Roche. He has served as Co-Chair of the Scientific Committee of IBCSG. MS-has received personal fees from AstraZeneca, BioNTech, Daiichi Sankyo, Eisai, Lilly, MSD, Novartis, Pantarhei Bioscience, Pfizer, Pierre Fabre, Roche, and SeaGen. His institution has received research funding from AstraZeneca, BioNTech, Eisai, Genentech, German Breast Group, Novartis, Palleos, Pantarhei Bioscience, Pierre Fabre, and SeaGen. In addition, he has a patent for EP 2390370 B1 and a patent for EP 2951317 B1 issued. AMB-reports consulting/advisor/honoraria: Roche, Cel-gene, AstraZeneca, Seagen, Daiichi Sankyo, Athenex, Lilly, MSD, Gilead, Novartis, Eisai, Pfizer, Samsung, Lilly, GE, Coherus, Puma; research funding to the institution: Roche, AstraZeneca, MSD, Novartis, Lilly, Gilead, Puma; travel, accommodation, expenses: Pfizer, Puma, GE. DC-Aptitude Health, Roche Sweden, Pfizer Limited, Celldex Therapeutics Inc, Carnall Farrar, ELI LILLY & Company, Astra Zeneca, Roche Products Ltd, Novartis Pharma AG, Novartis Pharmaceuticals Corporation, Pfizer Limited, PFS Ltd, Novartis Pharmaceuticals UK Limited, Merck KGaA, F. Hoffmann-La Roche AG, Clovis Oncology, Daiichi Sankyo, USA, Eisai, Exact Therapeutics, G1 Therapeutics, Galapagos NV, Genentech Inc, GSK (Glaxo SmithKline), Synthon Biopharmaceuticals BV: note name change to Byondis April 2020, Seagen, SANOFI, Sapience Therapeutics Ltd, Bexon/Zymeworks Biopharmaceuticals Inc., NexGen, IQVIA. CC-received salary support for project-related work under Agreement with Study Sponsor. ANJT-reports consulting/advisor/honoraria: Pfizer, Artios, Prime Oncology, Gilead, Merck KGaA; advisory board funds to institution: Gilead, AstraZeneca; research funding to the institution: AstraZe-neca, Merck KGaA; expert testimony: EM Partners; stocks: Inbiomotion. Royalty associated payments- ICR rewards to inventor’s scheme payments associated with patent for the use of PARP inhibitors in DNA deficient cancers, licensee- AstraZeneca. Other, grant funded by Breast Cancer Now (BCN) and Cancer Research UK (CRUK) to study homologous recombination deficient breast and other cancers, BCN/CRUK receive payments associated with a patent for the use of PARP inhibitors in DNA deficient cancers, licensee- AstraZeneca. All other authors have declared no conflicts of interest. 
+
+REFERENCES 
+
+Author Manuscript 
+
+1. Tutt A, Ashworth A. The relationship between the roles of BRCA genes in DNA repair and cancer predisposition. Trends Mol Med. 2002;8(12): 571–576. [PubMed: 12470990] 2. Ashworth A. A synthetic lethal therapeutic approach: poly(ADP) ribose polymerase inhibitors for the treatment of cancers deficient in DNA double-strand break repair. J Clin Oncol. 2008;26(22):3785–3790. [PubMed: 18591545] 3. Tutt ANJ, Lord CJ, McCabe N, et al. Exploiting the DNA repair defect in BRCA mutant cells in the design of new therapeutic strategies for cancer. Cold Spring Harb Symp Quant Biol. 2005;70:139– 148. [PubMed: 16869747] 4. Farmer H, McCabe N, Lord CJ, et al. Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature. 2005;434(7035): 917–921. [PubMed: 15829967] 5. Robson M, Im SA, Senkus E, et al. Olaparib for metastatic breast cancer in patients with a germline BRCA mutation. N Engl J Med. 2017;377(6): 523–533. [PubMed: 28578601] 6. Litton JK, Rugo HS, Ettl J, et al. Talazoparib in patients with advanced breast cancer and a germline BRCA mutation. N Engl J Med. 2018;379(8):753–763. [PubMed: 30110579] 7. Mavaddat N, Barrowdale D, Andrulis IL, et al. Pathology of breast and ovarian cancers among BRCA1 and BRCA2 mutation carriers: results from the Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA). Cancer Epidemiol Biomarkers Prev. 2012;21(1):134–147. [PubMed: 22144499] Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 17 
+
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript 
+
+8. Atchley DP, Albarracin CT, Lopez A, et al. Clinical and pathologic characteristics of patients with BRCA-positive and BRCA-negative breast cancer. J Clin Oncol. 2008;26(26):4282–1488. [PubMed: 18779615] 9. Breast Cancer Association Consortium Mavaddat N, Dorling L, et al. Pathology of tumors associated with pathogenic germline variants in 9 breast cancer susceptibility genes. JAMA Oncol. 2022;8(3):e216744. [PubMed: 35084436] 10. Davey MG, Richard V, Lowery AJ, et al. OncotypeDX© Recurrence Score in BRCA mutation carriers: a systematic review and meta-analysis. Eur J Cancer. 2021;154:209–216. [PubMed: 34284256] 11. Kurian AW, Ward KC, Abrahamse P, et al. Predicted chemotherapy benefit for breast cancer patients with germline pathogenic variants in cancer susceptibility genes. JNCI Cancer Spectr. 2020;5(1):pkaa083. 12. Tutt ANJ, Garber JE, Kaufman B, et al. Adjuvant olaparib for patients with BRCA1- or BRCA2mutated breast cancer. N Engl J Med. 2021;384(25):2394–2405. [PubMed: 34081848] 13. World Medical Association. World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects. JAMA. 2013;310(20):2191–2194. [PubMed: 24141714] 14. Mittendorf EA, Jeruss JS, Tucker SL, et al. Validation of a novel staging system for diseasespecific survival in patients with breast cancer treated with neoadjuvant chemotherapy. J Clin Oncol. 2011;29(15):1956–1962. [PubMed: 21482989] 15. Marmé F, Lederer B, Blohmer JU, et al. Utility of the CPSþEG staging system in hormone receptor-positive, human epidermal growth factor receptor 2-negative breast cancer treated with neoadjuvant chemotherapy. Eur J Cancer. 2016;53:65–74. [PubMed: 26693900] 16. Hudis CA, Barlow WE, Costantino JP, et al. Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: the STEEP system. J Clin Oncol. 2007;25(15):2127–2132. [PubMed: 17513820] 17. Plummer R, Verheul HM, De Vos FYFL, et al. Pharmacokinetic effects and safety of olaparib administered with endocrine therapy: a phase I study in patients with advanced solid tumours. Adv Ther. 2018;35(11):1945–1964. [PubMed: 30324586] 18. Ganz PA, Bandos H, Spanic T, et al. Quality of life results from OlympiA: a phase III, multicenter, randomized, placebo-controlled trial of adjuvant olaparib after (neo)-adjuvant chemotherapy in patients with germline BRCA1/2 mutations and high-risk HER-2 negative early breast cancer. SABCS. 2021:abstr GS4–09. 19. Fasching PA, Link T, Hauke J, et al. Neoadjuvant paclitaxel/olaparib in comparison to paclitaxel/ carboplatinum in patients with HER2-negative breast cancer and homologous recombination deficiency (GeparOLA study). Ann Oncol. 2021;32(1):49–57. [PubMed: 33098995] 20. Madariaga A, Bowering V, Ahrari S, et al. Manage wisely: poly (ADP-ribose) polymerase inhibitor (PARPi) treatment and adverse events. Int J Gynecol Cancer. 2020;30(7):903–915. [PubMed: 32276934] 21. Schmid P, Cortes J, Dent R, et al. Event-free survival with pem-brolizumab in early triple-negative breast cancer. N Engl J Med. 2022;386(6):556–567. [PubMed: 35139274] 22. Domchek SM, Postel-Vinay S, Im SA, et al. Phase II study of olaparib (O) and durvalumab (D) (MEDIOLA): updated results in patients (pts) with germline BRCA-mutated (gBRCAm) metastatic breast cancer (MBC). Ann Oncol. 2019;30(suppl 5):v477. 23. Vinayak S, Tolaney SM, Schwartzberg L, et al. Open-label clinical trial of niraparib combined with pembrolizumab for treatment of advanced or metastatic triple-negative breast cancer. JAMA Oncol. 2019;5(8):1132–1140. [PubMed: 31194225] 24. Masuda N, Lee SJ, Ohtani S, et al. Adjuvant capecitabine for breast cancer after preoperative chemotherapy. N Engl J Med. 2017;376(22): 2147–2159. [PubMed: 28564564] 25. van Mackelenbergh MT, Seither F, Möbus V, et al. Effects of capeci-tabine as part of neo-/adjuvant chemotherapy e a meta-analysis of individual breast cancer patient data from 13 randomised trials including 15,993 patients. Eur J Cancer. 2022;166:185–201. [PubMed: 35305453] 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 18 
+
+Author Manuscript Author Manuscript 
+
+26. Lluch A, Barrios CH, Torrecillas L, et al. Phase III trial of adjuvant capecitabine after standard neo-/adjuvant chemotherapy in patients with early triple-negative breast cancer (GEICAM/2003– 11_CIBOMA/2004–01). J Clin Oncol. 2020;38(3):203–213. [PubMed: 31804894] 27. Mayer IA, Zhao F, Arteaga CL, et al. Randomized phase III postoperative trial of platinumbased chemotherapy versus capecitabine in patients with residual triple-negative breast cancer following neoadjuvant chemotherapy: ECOG-ACRIN EA1131. J Clin Oncol. 2021;39(23):2539– 2551. [PubMed: 34092112] 28. Harbeck N, Rastogi P, Martin M, et al. Adjuvant abemaciclib combined with endocrine therapy for high-risk early breast cancer: updated efficacy and Ki-67 analysis from the monarchE study. Ann Oncol. 2021;32(12):1571–1581. [PubMed: 34656740] 29. Safonov A, Bandlamudi C, Tallon de Lara P, et al. Comprehensive genomic profiling of patients with breast cancer identifies germline-somatic interactions mediating therapy resistance. SABCS. 2021;82(suppl 4):abstr GS4–08. 30. Kim JY, Oh JM, Park YH, et al. Which clinicopathologic parameters suggest primary resistance to palbociclib in combination with letrozole as the first-line treatment for hormone receptor-positive, HER2-negative advanced breast cancer? Front Oncol. 2021;11: 759150. [PubMed: 34745997] 31. Bruno L, Ostinelli A, Waisberg F, et al. Cyclin-dependent kinase 4/6 inhibitor outcomes in patients with advanced breast cancer carrying germline pathogenic variants in DNA repair-related genes. JCO Precis Oncol. 2022;6:e2100140. [PubMed: 35235412] 
+
+Author Manuscript Author Manuscript Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 19 
+
+Author Manuscript Author Manuscript Author Manuscript 
+
+Figure 1. 
+
+Author Manuscript 
+
+Kaplan-Meier Estimates of Survival. Overall survival (OS) (A) was defined as the time from the date of randomization until death due to any cause; the P value for the boundary for significance in this prespecified event-driven interim analysis was <0.015. In accordance with the standardized definitions for efficacy end points (STEEP) system, the primary end point of invasive disease-free survival (IDFS) (B) was defined as the time from randomization until the date of one of the following events: ipsilateral invasive breast tumor, locoregional invasive disease, distant recurrence, contralateral invasive breast cancer, second primary invasive cancer, or death from any cause. Data for patients without a documented event of invasive disease or death were censored at the date they were last known to be disease-free. Distant disease-free survival (DDFS) (C) was defined as the time from randomization until documented evidence of first distant recurrence of breast cancer or death. Distant recurrence includes the following events: distant recurrence (metastatic 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 20 
+
+Author Manuscript 
+
+breast cancer that has either been biopsy confirmed or radiologically diagnosed as recurrent invasive breast cancer); death attributable to any cause, including breast cancer, non-breast cancer, or unknown cause; and second primary non-breast invasive cancer. Evidence of distant recurrence requires either radiologic examination or histopathological confirmation by biopsy. For IDFS and DDFS, 95% confidence intervals only are shown for the hazard ratios, as these results are descriptive. Similarly, the 98.5% confidence interval is shown for the hazard ratio for OS because a P value of <0.015 is required to indicate statistical significance for OS. On the basis of the pooling strategy for stratification factors described in Section 2 in the Supplementary Appendix, the primary stratified Cox proportional hazards model of IDFS, DDFS, OS, and the stratified log-rank test of OS, were based on the stratification factor of hormone receptor status only. The event-free rates at 12, 24, 36, and 48 months in each group are displayed above and below the curves. aDifference to 2 decimal places: 92.81–89.05 ¼ 3.76 (rounded to 3.8). 
+
+Author Manuscript Author Manuscript Author Manuscript Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 21 
+
+Author Manuscript Author Manuscript Author Manuscript 
+
+Figure 2. Subgroup analyses by stratification factors and gBRCA1pv or gBRCA2pv groups. 
+
+Author Manuscript 
+
+(A-C) The solid vertical line indicates the overall hazard-ratio estimate, and the dashed vertical line indicates a hazard ratio of 1.00, as recommended by Cuzick (Cuzick J. Forest plots and the interpretation of subgroups. Lancet 2005; 365:1308). The size of the blue squares corresponds to the number of events contributing to the estimate of the treatment effect. Even without correcting for multiple comparisons, none of the tests for heterogeneity reached statistical significance. BRCA mutation data reflect central Myriad testing results only. NC, not calculated. 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 22 
+
+Table 1. 
+
+Author Manuscript 
+
+Demographic and baseline disease characteristics of the patients 
+
+a 
+
+Olaparib (n = 921) 
+
+Placebo (n = 915) 
+
+42 (36–49) 
+
+43 (36–50) 
+
+BRCA1 
+
+656 (71.2) 
+
+669 (73.1) 
+
+BRCA2 
+
+260 (28.2) 
+
+238 (26.0) 
+
+BRCA1 and BRCA2 
+
+2 (0.2) 
+
+5 (0.5) 
+
+No gBRCA P/LP variant 
+
+2 (0.2) 
+
+3 (0.3) 
+
+Missing 
+
+1 (0.1) 
+
+0 (0.0) 
+
+Adjuvant 
+
+461 (50.1) 
+
+455 (49.7) 
+
+Neoadjuvant 
+
+460 (49.9) 
+
+460 (50.3) 
+
+Anthracycline and taxane regimen 
+
+Characteristic Age, median (interquartile range), years 
+
+b 
+
+gBRCA P/LP genedn (%) 
+
+Prior adjuvant/neoadjuvant chemotherapy, n (%) 
+
+Author Manuscript 
+
+871 (94.6) 
+
+849 (92.8) 
+
+Anthracycline regimen (without taxane) 
+
+7 (0.8) 
+
+13 (1.4) 
+
+Taxane regimen (without anthracycline) 
+
+43 (4.7) 
+
+52 (5.7) 
+
+Regimen not reported 
+
+0 (0.0) 
+
+1 (0.1) 
+
+<6 cycles of (neo)adjuvant chemotherapy 
+
+7 (0.8) 
+
+13 (1.4) 
+
+No 
+
+674 (73.2) 
+
+677 (74.0) 
+
+Yes 
+
+247 (26.8) 
+
+238 (26.0) 
+
+146/168 (86.9) 
+
+146/157 (93.0) 
+
+168 (18.2) 
+
+157 (17.2) 
+
+751 (81.5) 
+
+758 (82.8) 
+
+Premenopausal 
+
+572/919 (62.2) 
+
+553/911 (60.7) 
+
+Postmenopausal 
+
+347/919 (37.8) 
+
+358/911 (39.3) 
+
+Mastectomy 
+
+699 (75.9) 
+
+674 (73.7) 
+
+Conservative surgery only 
+
+222 (24.1) 
+
+239 (26.1) 
+
+0 (0.0) 
+
+2 (0.2) 
+
+Platinum-based (neo)adjuvant therapy 
+
+Concurrent hormone therapy (hormone receptor positive only), n (%) 
+
+c Hormone receptor status, n (%) d 
+
+Hormone receptor positive/HER2 negative 
+
+Author Manuscript 
+
+e 
+
+Triple-negative breast cancer 
+
+Menopausal status (females only), n (%) 
+
+Primary breast cancer surgery, n (%) 
+
+Missing 
+
+HER2, human epidermal growth factor receptor 2; P/LP, pathogenic or likely pathogenic variants 
+
+a 
+
+Further information on baseline characteristics is provided in Supplementary Table S2, available at https://doi.org/10.1016/j.annonc.2022.09.159. Percentages may not total 100 because of rounding. 
+
+Author Manuscript 
+
+b 
+
+For a detailed description of local and central Myriad BRCA testing in patients enrolled in the trial, see Supplementary Figure S2, available at https://doi.org/10.1016/j.annonc.2022.09.159. Variant interpretation by Myriad Genetics (BRCAnalysis) (1649 patients) and BGI Genomics (247 patients) was carried out with the use of multiple established databases (e.g. ClinVar, ClinGen, and ENIGMA) and published and internal functional and clinical data, compliant with American College of Medical Genetics published guidelines. Eighty-five patients randomized in China had variant interpretation by both BGI Genomics and Myriad Genetics. The 24 pathogenic or likely pathogenic variants from local laboratories without central Myriad confirmation were confirmed by the OlympiA genetics advisory committee with the use of published databases as above. 
+
+Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 23 
+
+Discordant data are referred to in Supplementary Figure S2, available at https://doi.org/10.1016/j.annonc.2022.09.159. Listing of pathogenic or likely pathogenic BRCA1 and BRCA2 variants that occurred in more than one patient have previously been reported.12 
+
+c Hormone receptor status was defined by local test results. 
+
+Author Manuscript 
+
+d 
+
+The original protocol that was activated in 2014 was developed for HER2-negative patients but included only patients with triple-negative breast cancer after regulatory review. When the safety rationale with respect to recurrence risk relative to combination therapy with olaparib and endocrine therapy was accepted by regulators, the protocol was amended in 2015 to include patients with high-risk hormone receptor-positive disease and to increase the sample size to the current number of 1800 patients (see the protocol). The first patient with hormone receptor-positive disease was enrolled in December 2015. 
+
+e 
+
+Triple-negative breast cancer was defined in the eligibility criteria as estrogen receptor negative and progesterone receptor negative, as indicated by immunohistochemical (IHC) nuclear staining of <1%, and HER2 negative (not eligible for anti-HER2 therapy), as indicated by one of the following: an IHC score of 0 or 1+; an IHC score of 2+ and HER2-nonamplified disease on in situ hybridization (ISH) with a ratio of <2.0 and, if reported, an average HER2 copy number of <4 signals per cell; or HER2-nonamplified disease on ISH with a ratio of <2.0 and, if reported, an average HER2 copy number of <4 signals per cell (without IHC). Two patients (both in the olaparib group) were excluded from the summary of the subgroup with triple-negative breast cancer because they did not have confirmed HER2-negative status. 
+
+Author Manuscript Author Manuscript Author Manuscript Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+Geyer et al. 
+
+Page 24 
+
+Table 2. 
+
+Author Manuscript 
+
+Summary of adverse events in the safety analysis set Adverse event, no. of patients (%) 
+
+a 
+
+Olaparib (n = 911) 
+
+Placebo (n = 904) 
+
+Any adverse event 
+
+836 (91.8) 
+
+758 (83.8) 
+
+Serious adverse event 
+
+79 (8.7) 
+
+78 (8.6) 
+
+31 (3.4) 
+
+51 (5.6) 
+
+2 (0.2) 
+
+3 (0.3) 
+
+9 (1.0) 
+
+12 (1.3) 
+
+21 (2.3) 
+
+36 (4.0) 
+
+Grade >3 adverse event 
+
+223 (24.5) 
+
+102 (11.3) 
+
+e 
+
+17 (1.9) 
+
+4 (0.4) 
+
+98 (10.8) 
+
+42 (4.6) 
+
+1 (0.1) 
+
+2 (0.2) 
+
+Adverse event of special interest 
+
+b 
+
+MDS/AML 
+
+c 
+
+Pneumonitis 
+
+d 
+
+New primary malignancy 
+
+Grade 4 adverse event 
+
+Author Manuscript 
+
+f 
+
+Adverse event leading to permanent discontinuation of treatment Adverse event leading to death 
+
+g 
+
+AML, acute myeloid leukemia; MDS, myelodysplastic syndrome. 
+
+a 
+
+Includes adverse events with an onset date on or after the first dose date and up to and including 30 days following date of the last dose of study medication. 
+
+b 
+
+Includes adverse events of special interest with onset at any date after first dose of olaparib or placebo. One patient in the olaparib group had both pneumonitis and a new primary invasive breast cancer and is counted in both the pneumonitis and new primary cancer categories. 
+
+c In the olaparib group, seven patients had pneumonitis, and two patients had radiation pneumonitis. In the placebo group, eight patients had pneumonitis, and four patients had radiation pneumonitis. d 
+
+Detailed information on the number of patients in each group with specific new primary cancers is provided in Supplementary Table S13, available at https://doi.org/10.1016/j.annonc.2022.09.159. 
+
+Author Manuscript 
+
+e 
+
+A total of 18 grade 4 adverse events were reported in 17 patients who received olaparib; 1 patient had both grade 4 anemia and decreased neutrophil count. In the olaparib group, grade 4 adverse events included decreased neutrophil count (in five patients), anemia (in four patients), decreased lymphocyte count (in three patients), and AML, bipolar disorder, fatigue, febrile neutropenia, abnormal hepatic function, and a suicide attempt (in one patient each). In the placebo group, grade 4 adverse events included depression (in two patients) and increased aspartate aminotransferase level and acute cholecystitis (in one patient each). 
+
+f 
+
+The most common adverse events, occurring in at least 1% of the patients, that led to discontinuation of olaparib were nausea (2.1%), anemia (1.8%), fatigue (1.5%), and decreased neutrophil count (1.0%); there were no adverse events that occurred in at least 1% of patients that led to discontinuation of placebo. 
+
+g 
+
+Adverse events leading to death are cardiac arrest (olaparib, n = 1), AML (placebo, n = 1), and ovarian cancer (placebo, n = 1). 
+
+Author Manuscript Ann Oncol. Author manuscript; available in PMC 2023 May 24. 
+
+ 

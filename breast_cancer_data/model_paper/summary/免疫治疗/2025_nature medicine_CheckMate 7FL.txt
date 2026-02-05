@@ -1,0 +1,1297 @@
+nature medicine Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+Neoadjuvant nivolumab and chemotherapy in early estrogen receptor-positive breast cancer: a randomized phase 3 trial Received: 5 July 2024 
+
+A list of authors and their affiliations appears at the end of the paper 
+
+Accepted: 12 November 2024 Published online: 21 January 2025 Check for updates 
+
+Patients with estrogen receptor-positive (ER+), human epidermal growth factor receptor 2-negative (HER2−) primary breast cancer (BC) have low pathological complete response (pCR) rates with neoadjuvant chemotherapy. A subset of ER+/HER2− BC contains dense lymphocytic infiltration. We hypothesized that addition of an anti-programmed death 1 agent may increase pCR rates in this BC subtype. We conducted a randomized, multicenter, double-blind phase 3 trial to investigate the benefit of adding nivolumab to neoadjuvant chemotherapy in patients with newly diagnosed, high-risk, grade 3 or 2 (ER 1 to ≤10%) ER+/HER2− primary BC. In total, 510 patients were randomized to receive anthracycline and taxane-based chemotherapy with either intravenous nivolumab or placebo. The primary endpoint of pCR was significantly higher in the nivolumab arm compared with placebo (24.5% versus 13.8%; P = 0.0021), with greater benefit observed in patients with programmed death ligand 1-positive tumors (VENTANA SP142 ≥1%: 44.3% versus 20.2% respectively). There were no new safety signals identified. Of the five deaths that occurred in the nivolumab arm, two were related to study drug toxicity; no deaths occurred in the placebo arm. Adding nivolumab to neoadjuvant chemotherapy significantly increased pCR rates in high-risk, early-stage ER+/HER2− BC, particularly among patients with higher stromal tumor-infiltrating lymphocyte levels or programmed death ligand 1 expression, suggesting a new treatment paradigm that emphasizes the role of immunotherapy and T cell immunosurveillance in luminal disease. Clinical trials.gov identifier: NCT04109066 
+
+Approximately 2.3 million cases of BC were diagnosed globally in 2020, of which 70% were the ER+/HER2− subtype1,2. ER+/HER2− BC exhibits significant heterogeneity in its responses to treatment and clinical outcomes, posing substantial challenges for effective management. This heterogeneity may be caused by distinct differences in the molecular subtypes of ER+/HER2− BC, including subtypes with varying estrogen and progesterone receptor expression, and those that are immunogenic, proliferative and receptor tyrosine kinase-driven, which require specific treatments3. 
+
+Current systemic therapeutic strategies for high-risk, early-stage ER+/HER2− BC include: neoadjuvant or adjuvant chemotherapy (CT); prolonged adjuvant endocrine therapy (ET) with or without adjuvant targeted therapies, including cyclin-dependent kinase 4/6 inhibitors; and poly(ADP-ribose) polymerase inhibitors for patients carrying germline pathogenic BRCA alterations4–8. Anti-programmed death ligand 1 (PD-L1) agents significantly improve clinical outcomes in early-stage triple-negative BC (TNBC) and PD-L1+ metastatic TNBC9–11. A subset of ER+/HER2− BC contains a dense 
+
+e-mail: sherene.loi@petermac.org 
+
+Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+433 
+
+Article lymphocytic infiltration, similar to that seen in TNBC12,13; however, it is unclear how this relates to the response to immune checkpoint inhibitors in ER+/HER2− BC14–16. Results from the adaptively randomized I-SPY2 study suggest that anti-PD-(L)1 agents have the potential to increase the proportion of patients with high-risk ER+/HER2− BC who achieve pCR or minimal residual disease (residual cancer burden (RCB) score of 0 or I) following neoadjuvant treatment10,17. The CheckMate 7FL (NCT04109066) study aimed to investigate the benefit of adding nivolumab to neoadjuvant CT followed by adjuvant ET in patients with newly diagnosed early-stage high-risk ER+/HER2− BC. We also sought to define patient subpopulations most likely to respond to nivolumab in combination with neoadjuvant CT. 
+
+Results 
+
+Study population and demographics From 20 November 2019 to 7 April 2022, 830 patients were screened at 221 sites in 31 countries. Of the 830 patients screened, 521 were randomized. Because of the sponsor’s decision to close all sites in Russia after the Ukraine–Russia geopolitical conflict began, 11 patients were excluded from the analysis population because of insufficient follow-up for pCR assessment. The resulting population formed the modified intent-to-treat population (mITT), which comprised 510 patients who received neoadjuvant CT with either nivolumab (n = 257) or placebo (n = 253). The safety population consisted of the 517 patients who received neoadjuvant CT with either nivolumab (n = 262) or placebo (n = 255) (Fig. 1). Patient demographic and clinical characteristics were balanced between the two treatment arms (Table 1). In the safety population, the mean (min, max) treatment duration during the paclitaxel neoadjuvant phase was 11.0 (1.1, 16.1) weeks for patients receiving nivolumab and 11.2 (1.0, 15.6) weeks for patients receiving placebo. The mean (min, max) treatment duration during the anthracycline neoadjuvant phase was 7.6 (0.1, 13.0) weeks for patients receiving nivolumab and 7.7 (0.1, 15.1) weeks for patients receiving placebo. Of patients randomized to nivolumab and placebo, respectively, 89% (233 of 263) and 91% (236 of 258) underwent surgery (Supplementary Table 1). 
+
+https://doi.org/10.1038/s41591-024-03414-8 Number of patients screened: n = 830 
+
+Intent-to-treat (randomized) population: n = 521a 
+
+Safety population: n = 517 
+
+Nivolumab + neoadjuvant chemotherapy: n = 262 Most common reason for discontinuation of study treatmentb • AE: n = 23 • Otherc: n = 16 • Patient request to discontinue: n = 15 • Drug-related AE: n = 12 Discontinued neoadjuvant treatment • Paclitaxel: n = 22 • Anthracycline: n = 18 
+
+Placebo + neoadjuvant chemotherapy: n = 255 Most common reason for discontinuationb • AE: n = 17 • Otherc: n = 22 • Patient request to discontinue: n = 14 • Drug-related AE: n = 5 Discontinued neoadjuvant treatment • Paclitaxel: n = 13 • Anthracycline: n = 5 
+
+Completed treatmentd: n = 169 
+
+Completed treatmentd: n = 172 
+
+Ongoing in studye: n = 1 
+
+Ongoing in studye: n = 1 
+
+Fig. 1 | Flow chart showing patient disposition. Twenty-five patients received abemaciclib, and may have received it after neoadjuvant treatment or discontinued adjuvant treatment to receive abemaciclib. aThe mITT population comprised 510 patients (257 patients in the nivolumab arm and 253 patients in the placebo arm). Because of the sponsor’s decision to close Russian sites, 11 patients were excluded owing to insufficient follow-up for pCR. bDiscontinuation of study treatment included treatment discontinuation during the adjuvant phase. c Most common reasons for discontinuation of treatment captured by ‘Other’ were disease progression, principal investigator discretion, serious AEs or AEs and withdrawal of consent. dCompleters were patients who completed surgery and the adjuvant phase. ePatients were reported as ongoing at the time of the premature closure of Russian sites. 
+
+Efficacy A statistically significantly higher proportion of patients who received nivolumab achieved pCR (ypT0/is, ypN0; 24.5%, 63 of 257) versus placebo (13.8%, 35 of 253; odds ratio (OR) 2.05 (95% confidence interval (CI) 1.29 to 3.27, P = 0.0021) in addition to neoadjuvant CT (Fig. 2a). The proportion of patients who experienced pCR was numerically higher among those who had PD-L1+ tumors (PD-L1-expressing tumor-infiltrating immune cells (IC) ≥ 1% IC, n = 172) versus those with PD-L1− tumors (<1% IC, n = 338). The difference in pCR rates (95% CI) between the nivolumab arm and placebo arm was 24.1% (10.1 to 36.7) and 3.6% (−3.6 to 10.7) for PD-L1+ and PD-L1− tumors, respectively (Fig. 2c). Subgroup analyses of pCR rates were consistent with these results (Fig. 3). RCB 0 or I rates in the mITT population and by PD-L1 status, as well as subgroup analyses, were consistent with the findings observed for pCR (Fig. 2b,e and Supplementary Fig. 1). Nivolumab skewed the distribution of RCB toward the lower classes versus placebo (Supplementary Fig. 2). Because of its early termination, the study was significantly underpowered for event-free survival (EFS), and median follow-up for EFS in the mITT population at reporting was premature at 19 months, with a low number of events observed. Results of a descriptive exploratory analysis showed that EFS was similar between the two treatment arms, with an 18-month rate of 89.1% (95% CI 83.8 to 92.7) in the nivolumab arm and 91.7% (95% CI 86.7 to 94.8) in the placebo arm (Supplementary Fig. 3). 
+
+Efficacy according to immune biomarkers The prevalence of the PD-L1+ population in the two arms was balanced, as evaluated by baseline PD-L1 expression status, defined by either Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+VENTANA SP142 assay (≥1% IC) or Dako 28-8 assay (PD-L1 combined positive score (CPS) ≥1, ≥3, ≥5, ≥10 and ≥20) (Supplementary Fig. 4). The highest overall percentage agreement of 80.6% was observed between SP142 ≥1% IC and 28-8 CPS ≥ 5 (Fig. 4a). pCR and RCB 0 or I rates were increased in patients with PD-L1+ tumors as measured by both SP142 (≥1% IC) and 28-8 CPS (≥1); the benefit was greater with increasing CPS cutoffs (Fig. 4c and Supplementary Figs. 5 and 6). The prevalence of biomarker-positive populations at baseline stratified by percentage of stromal tumor-infiltrating lymphocytes (sTILs) at various cutoffs, compared with those by PD-L1 SP142 at 1% IC, is shown in Supplementary Fig. 7. Median and mean sTIL levels were 1% and 14.2% (s.d., 24.16), respectively, and the prevalence of sTIL positivity was balanced across the treatment groups. Defining sTIL-positive patients as those with detectable sTILs (>1%), the overall percentage agreement between sTIL detection and various PD-L1 by immune cell or CPS cutoffs ranged between 67.0% and 72.4% (Fig. 4b). pCR and RCB 0 or I rates with nivolumab versus placebo increased in patients with higher sTIL levels (Figs. 2d,f and 4d). When both sTIL and PD-L1 assays were used, the highest pCR rates were observed in patients in whom both sTIL and PD-L1 expression were consi­dered positive, but notably, there was also nivolumab benefit seen for patients with discordance between PD-L1 <1% IC and sTIL+ (Supplementary Fig. 8). pCR and RCB 0 or I rates were higher in patients whose tumors had lower ER (<50%) and/or progesterone receptor expression (<10%) than in patients whose tumors had higher ER or progesterone 434 
+
+Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+Table 1 | Baseline patient demographics and clinical characteristics (mITT population) Demographic/characteristic 
+
+Nivolumab plus neoadjuvant CT 
+
+Placebo plus neoadjuvant CT 
+
+mITT population (n = 257) 
+
+SP142 PD-L1− (n = 169)a 
+
+SP142 PD-L1+ (n = 88)a 
+
+mITT population (n = 253) 
+
+SP142 PD-L1− (n = 169)a 
+
+SP142 PD-L1+ (n = 84)a 
+
+Female 
+
+257 (100) 
+
+169 (100) 
+
+88 (100) 
+
+252 (99.6) 
+
+168 (99.4) 
+
+84 (100) 
+
+Median age, years (range) 
+
+50 (24–78) 
+
+51 (24–77) 
+
+49 (28–78) 
+
+51 (23–79) 
+
+51 (23–79) 
+
+51 (27–78) 
+
+0 
+
+221 (86) 
+
+144 (85) 
+
+77 (88) 
+
+222 (88) 
+
+146 (86) 
+
+76 (91) 
+
+1 
+
+36 (14) 
+
+25 (15) 
+
+11 (13) 
+
+31 (12) 
+
+23 (14) 
+
+8 (10) 
+
+Grade 2 
+
+6 (2) 
+
+2 (1) 
+
+4 (5) 
+
+1 (<1) 
+
+1 (1) 
+
+0 (0) 
+
+Grade 3 
+
+251 (98) 
+
+167 (99) 
+
+84 (96) 
+
+252 (>99) 
+
+168 (99) 
+
+84 (100) 
+
+Stage II 
+
+135 (53) 
+
+88 (52) 
+
+47 (53) 
+
+138 (55) 
+
+94 (56) 
+
+44 (52) 
+
+Stage III 
+
+118 (46) 
+
+77 (46) 
+
+41 (47) 
+
+105 (42) 
+
+67 (40) 
+
+38 (45) 
+
+Not assigned/reported 
+
+4 (2) 
+
+4 (2) 
+
+0 (0) 
+
+7 (3) 
+
+6 (4) 
+
+1 (1) 
+
+<1% 
+
+169 (66) 
+
+– 
+
+– 
+
+169 (67) 
+
+– 
+
+– 
+
+≥1% 
+
+88 (34) 
+
+ECOG PS 
+
+Tumor gradeb 
+
+Stage (cTNM classification ) c 
+
+d 
+
+PD-L1b 
+
+84 (33) 
+
+Axillary nodal status Positive 
+
+205 (80) 
+
+135 (80) 
+
+70 (80) 
+
+201 (79) 
+
+134 (79) 
+
+67 (80) 
+
+Negative 
+
+52 (20) 
+
+34 (20) 
+
+18 (21) 
+
+52 (21) 
+
+35 (21) 
+
+17 (20) 
+
+Q2W 
+
+132 (51) 
+
+85 (50) 
+
+47 (53) 
+
+134 (53) 
+
+88 (52) 
+
+46 (55) 
+
+Q3W 
+
+125 (49) 
+
+84 (50) 
+
+41 (47) 
+
+119 (47) 
+
+81 (48) 
+
+38 (45) 
+
+AC dose-frequency CT regimene 
+
+All values are given as n (%), unless stated otherwise. aPD-L1–expressing tumor-infiltrating IC as percentage of tumor area (PD-L1− defined as PD-L1 IC <1%; PD-L1+ defined as PD-L1 IC ≥1%) using the VENTANA SP142 assay, per central assessment. bLocally assessed. cArm B included one patient with stage I disease and two patients with stage IV disease, who were deemed eligible and later recategorized as having stage II disease. dAmerican Joint Committee on Cancer Cancer Staging Manual, 8th edition. eGonadotropin-releasing hormone agonist therapy was allowed for ovarian preservation. AC, anthracycline + cyclophosphamide; cTNM, clinical TNM staging system (T size and extent of primary tumor; N extent of spread to the lymph nodes; M presence of metastasis); ECOG PS, Eastern Cooperative Oncology Group performance status; QXW, every X weeks. 
+
+receptor expression (Supplementary Figs. 9 and 10). No association between nivolumab benefit and the Ki67 index was observed (Supplementary Fig. 11). In a multivariable analysis of pCR by biomarker subgroups, including prognostic clinicopathological features and key biomarkers, sTIL percentage (>1% or ≥5%) and PD-L1 (defined as IC ≥1% or CPS ≥3) were independently associated with nivolumab efficacy (Supplementary Figs. 12a,b and 13a,b). 
+
+Safety The safety analysis is based on the safety population (N = 517; 262 patients in the nivolumab arm and 255 patients in the placebo arm). In the neoadjuvant treatment phase, a similar proportion of patients in the nivolumab versus placebo arms experienced adverse events (AEs) (98.5% versus 98.4%) and treatment-related AEs of any grade (95.0% versus 91.8%). The most frequently reported treatment-related AEs were alopecia (48.9% versus 48.2%), nausea (45.0% versus 36.9%), anemia (36.3% versus 29.4%) and fatigue (31.7% versus 25.5%) in the nivolumab versus placebo arms, respectively. Grade 3 or 4 AEs were reported in 42.0% versus 38.4% of patients in the nivolumab versus placebo arm, respectively. Grade 3 or 4 treatment-related AEs were reported in 35.1% versus 32.5% of patients in the nivolumab versus placebo arms, respectively (Table 2). Serious AEs (22.9% versus 12.9%) and treatment-related serious AEs (14.5% versus 8.2%), as well as AEs leading to discontinuation (11.5% versus 2.7%) and treatment-related AEs leading to discontinuation (10.7% versus 2.7%), were reported more frequently with nivolumab than with placebo. Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+In the neoadjuvant treatment phase, there were three (1.1%) grade 5 treatment-unrelated events in the nivolumab arm (one due to COVID19; two due to pulmonary embolism, of which one occurred within a week postrecovery from COVID-19) and none in the placebo arm. In addition, two further deaths in the nivolumab arm were deemed related to study drug toxicity, although not reported as grade 5 (because of the extended time interval between AE onset and death): pneumonitis (61 days after final dose of neoadjuvant treatment) and hepatitis (51 days after final dose of neoadjuvant treatment); no deaths due to study drug toxicity were reported with placebo. AEs during the neoadjuvant treatment phase that required immune-modulating medication occurred in 135 (51.5%) and 87 (34.1%) patients in the nivolumab and placebo arms, respectively. AEs of special interest occurred in three (1.1%) patients in the nivolumab arm and no patients in the placebo arm; these events were grade 3 or 4 Guillain– Barré syndrome (n = 1, 0.4%), grade 3 or 4 myocarditis (n = 1, 0.4%) and grade ≤2 autoimmune neuropathy (n = 1, 0.4%). The mean cumulative dose and relative dose intensity of each CT drug were similar in both treatment arms. 
+
+Discussion In the CheckMate 7FL study, we investigated whether the addition of nivolumab to anthracycline and taxane neoadjuvant CT could significantly increase pCR rates in newly diagnosed early-stage, high-risk, high-grade ER+/HER2− BC. The study met its primary endpoint, with a significantly higher rate of pCR in the nivolumab arm versus placebo. RCB 0 or I rates were also improved in the nivolumab versus placebo 435 
+
+Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+50 40 30 
+
+pCR rate, % (95% CI) 
+
+44.3% (39/88) 
+
+∆ 9.2 (2.0–16.5) OR 1.65 (1.10–2.49) 
+
+60 50 
+
+30.7% (79/257) 
+
+40 
+
+20 10 0 
+
+Placebo plus neoadjuvant chemotherapy 
+
+21.3% (54/253) 
+
+30 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+Placebo plus neoadjuvant chemotherapy 
+
+∆ 24.1 (10.1–36.7) 
+
+50 
+
+20.2% (17/84) 
+
+30 20 
+
+∆ 3.6 (−3.6 to 10.7) 14.2% (24/169) 
+
+10.7% (18/169) 
+
+10 
+
+d 60 pCR rate, % (95% CI) 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+40 
+
+0 
+
+Nivolumab plus neoadjuvant chemotherapy 44.4% (36/81) 
+
+PD-L1 ≥ 1% 
+
+Placebo plus neoadjuvant chemotherapy 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+PD-L1 < 1% 
+
+Placebo plus neoadjuvant chemotherapy 
+
+∆ 23.4 (8.7–36.7) 
+
+50 
+
+21.1% (16/76) 
+
+40 30 20 
+
+∆ −0.8 (−9.5 to 8.3) 9.2% (8/87) 
+
+10.0% (10/100) 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+Placebo plus neoadjuvant chemotherapy 
+
+10 0 
+
+e 70 RCB 0 or I rate (%) 
+
+13.8% (35/253) 
+
+10 
+
+c 60 
+
+Nivolumab plus neoadjuvant chemotherapy 55.7% (49/88) 
+
+sTIL > 1% 
+
+Placebo plus neoadjuvant chemotherapy 
+
+sTIL 1% 
+
+∆ 29.5 (14.9–42.4) 
+
+60 50 
+
+26.2% (22/84) 
+
+40 30 
+
+∆ −0.6 (−8.9 to 7.7) 18.3% (31/169) 
+
+18.9% (32/169) 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+Placebo plus neoadjuvant chemotherapy 
+
+20 10 0 
+
+RCB 0 or I rate (%) 
+
+24.5% (63/257) 
+
+20 
+
+0 
+
+f 
+
+b 70 
+
+∆ 10.5 (4.0–16.9) OR 2.05 (1.29–3.27) P = 0.0021 
+
+RCB 0 or I rate (%) 
+
+pCR rate, % (95% CI) 
+
+a 60 
+
+70 60 
+
+Nivolumab plus neoadjuvant chemotherapy 49.4% (40/81) 
+
+PD-L1 ≥ 1% 
+
+Placebo plus neoadjuvant chemotherapy 
+
+PD-L1 < 1% 
+
+∆ 21.8 (6.5–35.6) 27.6% (21/76) 
+
+50 40 30 
+
+∆ 0.09 (−10.4 to 11.0) 16.1% (14/87) 
+
+16.0% (16/100) 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+Placebo plus neoadjuvant chemotherapy 
+
+20 10 0 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+sTIL > 1% 
+
+Placebo plus neoadjuvant chemotherapy 
+
+Fig. 2 | Efficacy endpoints for the overall population and by subgroups. a,b, Proportion of patients with pCR (a) and RCB 0 or I (b) for the nivolumab plus neoadjuvant CT (N = 257) and placebo plus neoadjuvant CT (N = 253) arms in the mITT population. c,d, Proportion of patients with pCR in the nivolumab plus neoadjuvant CT and placebo plus neoadjuvant CT arms by PD-L1 status ≥1% (n = 88, n = 84) or <1% (n = 169, n = 169) (c) and stromal tumor infiltrating lymphocyte (sTIL) status >1% (n = 81, n = 76) or ≤1% (n = 87, n = 100) (d). e,f, Proportion of patients with RCB 0 or I rate by PD-L1 status ≥1% (n = 88, n = 84) or <1% (n = 169, n = 169) (e) and sTIL status >1% (n = 81, n = 76) or ≤1% (n = 87, n = 100) (f). Data are presented as percentages with error bars showing the 95% CI around the observed proportion of patients in the treatment arm. The CIs 
+
+Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+sTIL 1% 
+
+for each treatment arm were calculated using the Clopper–Pearson method and CIs for differences (Δ) between treatment arms were calculated using the Newcombe method without continuity correction. Strata-adjusted difference in pCR rate between the two arms was analyzed with the stratified Cochran– Mantel–Haenszel method of weighting with a two-sided alpha level of 0.05 (a). Strata-adjusted OR was assessed with the Mantel–Haenszel method (a,b). The number of patients with pCR or RCB 0 or I (n) and the total number of patients in each subgroup (N) are shown above each bar. Database lock: 14 April 2023 (a,b) and 20 March 2024 (d–f). n, number of patients with pCR or RCB 0/I; N, number of patients in each treatment group. 
+
+436 
+
+Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 pCR rate, % (95% CI) 
+
+Unweighted pCR difference 
+
+n 
+
+Nivolumab plus neoadjuvant chemotherapy 
+
+Placebo plus neoadjuvant chemotherapy 
+
+Overall 
+
+510 
+
+24.5 (19.4 to 30.2) 
+
+13.8 (9.8 to 18.7) 
+
+10.7 (3.9 to 17.4) 
+
+PD-L1 on ICs by SP142 (IRT) < 1% ≥ 1% 
+
+338 172 
+
+14.2 (9.3 to 20.4) 44.3 (33.7 to 55.3) 
+
+10.7 (6.4 to 16.3) 20.2 (12.3 to 30.4) 
+
+3.6 (–3.6 to 10.7) 24.1 (10.1 to 36.7) 
+
+Axillary nodal status (IRT) Positive Negative 
+
+406 104 
+
+24.4 (18.7 to 30.9) 25.0 (14.0 to 38.9) 
+
+11.9 (7.8 to 17.2) 21.2 (11.1 to 34.7) 
+
+12.4 (5.0 to 19.8) 3.8 (–12.3 to 19.8) 
+
+Baseline anatomical stage defined by TNM classification Stage I Stage II Stage III Stage IVa Not assigned Not reported 
+
+1 273 223 2 9 2 
+
+NA, 0/0 23.0 (16.2 to 31.0) 26.3 (18.6 to 35.2) NA 25.0 (0.6 to 80.6) NA 
+
+0.0 (0.0 to 97.5) 16.7 (10.9 to 24.0) 10.5 (5.3 to 18.0) 0.0 (0.0 to 84.2) 20.0 (0.5 to 71.6) 0.0 (0.0 to 84.2) 
+
+Age < 50 ≥ 50 
+
+241 269 
+
+23.0 (15.8 to 31.4) 25.9 (18.8 to 34.2) 
+
+12.6 (7.2 to 19.9) 14.9 (9.4 to 22.1) 
+
+10.3 (0.6 to 19.9) 11.0 (1.3 to 20.4) 
+
+384 14 42 35 
+
+25.5 (19.6 to 32.2) 16.7 (0.4 to 64.1) 8.3 (1.0 to 27.0) 33.3 (13.3 to 59.0) 
+
+12.2 (7.9 to 17.8) 12.5 (0.3 to 52.7) 5.6 (0.1 to 27.3) 29.4 (10.3 to 56.0) 
+
+13.3 (5.5 to 20.9) 
+
+5 
+
+0.0 (0.0–84.2) 
+
+33.3 (0.8 to 90.6) 
+
+29 1 
+
+36.4 (10.9 to 69.2) NA 
+
+22.2 (6.4 to 47.6) 0.0 (0.0 to 97.5) 
+
+14.1 (−17.1 to 45.3) 
+
+266 244 
+
+23.5 (16.5 to 31.6) 25.6 (18.2 to 34.2) 
+
+14.2 (8.8 to 21.3) 13.4 (7.9 to 20.9) 
+
+9.3 (−0.1 to 18.6) 12.2 (2.2 to 21.8) 
+
+Ethnic background White Black or African American Asian American Indian or Alaska Native Native Hawaiian or Other Pacific Islander Other Not reported AC dose-frequency chemotherapy regimen (IRT) Q2W Q3W 
+
+% (95% CI) 
+
+6.3 (−3.2 to 15.7) 15.8 (5.6 to 25.5) 
+
+2.8 (−18.3 to 20.9) 3.9 (−25.3 to 31.9) 
+
+−75 −50 −25 
+
+Favors placebo plus neoadjuvant chemotherapy 
+
+0 
+
+25 
+
+50 
+
+75 
+
+Favors nivolumab plus neoadjuvant chemotherapy 
+
+Fig. 3 | Forest plot of proportion of patients with pCR in the nivolumab plus neoadjuvant CT and placebo plus neoadjuvant CT arms by subgroup analyses. Data are presented as percentages with error bars showing the 95% CIs around the observed proportion of patients in the treatment arm. The CIs for each treatment arm were calculated using the Clopper–Pearson method and CIs for differences between treatment arms were calculated using the Newcombe 
+
+method without continuity correction. pCR rate difference was not computed for subsets with fewer than 10 patients per treatment arms. aThe two patients who were initially categorized as having stage IV disease were deemed eligible and later recategorized as having stage II disease. AC, anthracycline; IRT, interactive response technology; n, total number of patients in subgroup; NA, not available; Q2W, every 2 weeks; Q3W every 3 weeks. Database lock: 14 April 2023. 
+
+arm. These findings were predominantly driven by the PD-L1+ subpopulation, in which an absolute difference of more than 20% was seen with the addition of nivolumab to the neoadjuvant CT. This observation differed from that in early-stage TNBC, where the effect was independent of PD-L1 expression18. Although the reasons for this are unclear, TNBC is known to be more molecularly heterogeneous than ER+ BC, potentially resulting in a single core biopsy unlikely to encapsulate heterogenous PD-L1 expression19,20. The median follow-up remains too short in this analysis to make any conclusions about EFS, although notably there were no early non-BC-related deaths. However, achievement of a pCR and/or a RCB of 0 or I is associated with improved long-term outcomes in ER+/HER2− BC21,22. Translation of improvements in pCR rates into EFS improvements varies across different clinical trials. Very few early trials were adequately powered to assess both endpoints; however, overall, almost all combination chemotherapies that improved pCR rates 
+
+(by incorporating a taxane-based, carboplatin-based, HER2-targeted therapy or pembrolizumab) also improved EFS in BC studies23,24. It is also becoming increasingly clear that different neoadjuvant regimens result in different distributions of RCB, and therapies that shift the entire spectrum of RCB to smaller values may have a greater impact on EFS than therapies that improve pCR rates by moving minimal residual cancers to the pCR category25. Our results are consistent with those of the KEYNOTE-756 study26,27, which investigated pembrolizumab in the same patient setting. In KEYNOTE-756, improved pCR rates were also seen in the setting of increasing PD-L1 expression but only at the higher levels using the 22C3 pharmDx CPS (CPS ≥ 10) assay. Results from CheckMate 7FL consolidate the benefit of adding an immune checkpoint inhibitor to neoadjuvant CT in this BC subtype and context, and longer follow-up will indicate whether these pCRs translate into greater EFS benefit for 
+
+Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+437 
+
+Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+a 
+
+PD-L1 by SP142 (IC <1% and ≥1%) 
+
+SP142+ SP142+ CPS+ CPS+ 34.0% 50.5% 29.0% (128/376) (109/376) (190/376) 
+
+SP142+ SP142+ CPS+ CPS+ 34.0% 24.5% 36.7% (128/376) (92/376) (138/376) 
+
+SP142+ CPS+ CPS+ SP142+ 34.0% 21.8% 29.0% (128/376) (82/376) (109/376) 
+
+SP142+ SP142+ CPS+ CPS+ 14.4% 17.9% 34.0% (128/376) (54/376) (67/376) 
+
+28-8 CPS ≥ 1 
+
+28-8 CPS ≥ 3 
+
+28-8 CPS ≥ 5 
+
+28-8 CPS ≥ 10 
+
+OPA 73.4% 
+
+OPA 78.2% 
+
+OPA 80.6% 
+
+OPA 76.9% 
+
+CPS+ sTIL+ sTIL+ CPS+ 37.8% 42.6% 25.9% (115/270) (70/270) (102/270) 
+
+CPS+ sTIL+ sTIL+ CPS+ 42.6% 13.0% 16.3% (115/270) (35/270) (44/270) 
+
+b 
+
+sTIL (<5% and ≥5%) SP142+ sTIL+ SP142+ 23.6% 32.7% (83/352) (115/352) 
+
+CPS+ sTIL+ sTIL+ 42.6% 31.9% (115/270) (86/270) 
+
+CPS+ 51.1% (138/270) 
+
+PD-L1 SP142 ≥ 1% 
+
+28-8 CPS ≥ 1 
+
+28-8 CPS ≥ 3 
+
+28-8 CPS ≥ 10 
+
+OPA 72.4% 
+
+OPA 70.0% 
+
+OPA 71.5% 
+
+OPA 67.0% 
+
+Nivolumab plus neoadjuvant chemotherapy Placebo plus neoadjuvant chemotherapy ∆ 26.1 (9.7–40.6) 
+
+pCR rate, % (95% CI) 
+
+32.3 
+
+13.5 
+
+< 10 
+
+≥ 10 23/36 
+
+22/132 
+
+≥5 31/55 
+
+<5 
+
+19/69 
+
+19.9 
+
+Nivolumab plus neoadjuvant chemotherapy Placebo plus neoadjuvant chemotherapy 
+
+80 
+
+∆ 10.7 (3.9–17.4) 
+
+∆ 3.6 (−3.6 to 10.7) 
+
+20 24.5 
+
+13.8 
+
+14.2 
+
+∆ −0.8 (−9.5 to 8.3) 
+
+44.3 20.2 
+
+10.7 
+
+9.2 
+
+Overall 
+
+< 1% 
+
+≥ 1% 
+
+1 
+
+24/169 18/169 
+
+39/88 17/84 
+
+8/87 10/100 
+
+SP142 (% IC) 
+
+Fig. 4 | Efficacy of nivolumab by subgroups. a, Concordance between PD-L1 assays SP142 and 28-8 CPS. b, sTIL and PD-L1 expression in patients with quantifiable sTIL and PD-L1 by SP142 or 28-8 CPS. c, pCR rates in the nivolumab plus neoadjuvant CT and placebo plus neoadjuvant CT arms by PD-L1 status as determined by the SP142 (IC%) and 28-8 CPS (cutoffs 1–20) assays. d, PD-L1 status as determined by the SP142 (IC%) assay and percentage of sTIL (cutoffs 1%, 5%, 10%). The number of patients with qualifying data (n) and the total number of patients in each subgroup (N) are shown above each circle (a,b) or below each bar (c,d). Data are presented as percentages. CIs for the observed proportion of patients in the treatment arm were 
+
+Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+21.1 
+
+10.0 
+
+63/257 35/253 
+
+∆ −0.7 (−9.3 to 8.3) 
+
+44.4 
+
+>1 36/81 
+
+9.8 
+
+∆ 2.6 (−5.9 to 11.3) 
+
+46.1 21.1 
+
+10.5 <5 
+
+16/76 
+
+∆ 29.8 (11.2–45.6) 
+
+∆ 24.9 (9.7–38.6) 
+
+∆ 23.4 (8.7–36.7) 
+
+∆ 24.1 (10.1–36.7) 
+
+60 
+
+n/N 
+
+27.8 12.0 
+
+63.9 
+
+28-8 CPS 
+
+d 100 
+
+0 
+
+37/69 
+
+≥3 
+
+11/110 
+
+<3 16/118 
+
+≥1 
+
+16.7 
+
+20/148 
+
+13.6 10.0 
+
+SP142 (% IC) 
+
+40 
+
+56.4 
+
+30/151 
+
+27.5 
+
+25.0 
+
+8.0 
+
+<1 
+
+∆ 6.4 (−2.2 to 14.8) 
+
+∆ 4.7 (−4.1 to 13.3) 53.6 
+
+23/92 
+
+14.4 
+
+≥ 1% 39/88 
+
+< 1% 24/169 
+
+41.2 20.2 
+
+14.2 10.7 
+
+Overall 63/257 
+
+n/N 
+
+13.8 
+
+18/169 
+
+24.5 0 
+
+44.3 
+
+∆ 3.6 (−5.1 to 12.1) 
+
+40/97 
+
+20 
+
+∆ 6.4 (−3.2 to 16.0) 
+
+7/87 
+
+∆ 3.6 (−3.6 to 10.7) 
+
+13/90 
+
+∆ 10.7 (3.9–17.4) 
+
+17/84 
+
+40 
+
+∆ 16.2 (2.8–28.8) 
+
+15/125 
+
+∆ 24.1 (10.1–36.7) 
+
+60 
+
+∆ 31.6 (7.6–51.0) 
+
+∆ 28.6 (10.1–44.5) 
+
+15/54 
+
+80 
+
+35/253 
+
+pCR rate, % (95% CI) 
+
+c 100 
+
+10/31 
+
+sTIL+ 42.1% (148/352) 
+
+9/92 
+
+≥5 
+
+11/105 
+
+35/76 
+
+15/71 
+
+13.9 
+
+11.3 
+
+52.8 23.1 
+
+< 10 
+
+≥ 10 
+
+16/115 14/124 
+
+28/53 12/52 
+
+sTIL (%) 
+
+calculated using the Clopper–Pearson method and CIs for differences between treatment arms were calculated using the Newcombe method without continuity correction (c,d). Vertical dashed lines are to visually distinguish between Overall, SP142 and 28-8 in c, and Overall, SP142 and sTIL in d. 28-8 CPS, Dako 28-8 assay using the CPS algorithm; OPA, overall percentage agreement; SP142 VENTANA, PD-L1 SP142 assay. Clinical database; SP142 cutoff at ≥1% versus <1%. Because of the small sample size, the percent agreement was not calculated for CPS ≥ 20). Database lock: 20 March 2024. Additional patients were included in the CPSevaluable group at this final database lock. 
+
+438 
+
+Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+Table 2 | Neoadjuvant safety summary (safety population)a AE 
+
+AE 
+
+Nivolumab plus neoadjuvant CT (n = 262) 
+
+Placebo plus neoadjuvant CT (n = 255) 
+
+Any grade n (%) 
+
+Grade 3 or 4 n (%) 
+
+Any grade n (%) 
+
+Grade 3 or 4 n (%) 
+
+258 (98.5) 
+
+110 (42.0) 
+
+251 (98.4) 
+
+98 (38.4) 
+
+TRAE 
+
+249 (95.0) 
+
+92 (35.1) 
+
+234 (91.8) 
+
+83 (32.5) 
+
+SAE 
+
+60 (22.9) 
+
+43 (16.4) 
+
+33 (12.9) 
+
+28 (11.0) 
+
+TRSAE 
+
+38 (14.5) 
+
+34 (13.0) 
+
+21 (8.2) 
+
+20 (7.8) 
+
+AE leading to discontinuation 
+
+30 (11.5) 
+
+18 (6.9) 
+
+7 (2.7) 
+
+6 (2.4) 
+
+TRAE leading to discontinuation 
+
+28 (10.7) 
+
+17 (6.5) 
+
+7 (2.7) 
+
+6 (2.4) 
+
+128 (48.9) 
+
+3 (1.1) 
+
+123 (48.2) 
+
+5 (2.0) 
+
+TRAEb Alopeciac Nausea 
+
+118 (45.0) 
+
+0 
+
+94 (36.9) 
+
+2 (0.8) 
+
+Anemia 
+
+95 (36.3) 
+
+15 (5.7) 
+
+75 (29.4) 
+
+6 (2.4) 
+
+Fatigue 
+
+83 (31.7) 
+
+5 (1.9) 
+
+65 (25.5) 
+
+2 (0.8) 
+
+Diarrhea 
+
+57 (21.8) 
+
+4 (1.5) 
+
+58 (22.7) 
+
+1 (0.4) 
+
+Peripheral neuropathy 
+
+52 (19.8) 
+
+3 (1.1) 
+
+37 (14.5) 
+
+1 (0.4) 
+
+Increased ALT 
+
+44 (16.8) 
+
+6 (2.3) 
+
+32 (12.5) 
+
+8 (3.1) 
+
+Increased AST 
+
+45 (17.2) 
+
+6 (2.3) 
+
+28 (11.0) 
+
+2 (0.8) 
+
+Neutropenia 
+
+44 (16.8) 
+
+16 (6.1) 
+
+42 (16.5) 
+
+25 (9.8) 
+
+Vomiting 
+
+40 (15.3) 
+
+1 (0.4) 
+
+25 (9.8) 
+
+2 (0.8) 
+
+Endocrine IMAEsd,e Hypothyroidism/thyroiditis 
+
+39 (14.9) 
+
+0 
+
+3 (1.2) 
+
+0 
+
+Adrenal insufficiency 
+
+15 (5.7) 
+
+4 (1.5) 
+
+1 (0.4) 
+
+0 
+
+Hyperthyroidism 
+
+15 (5.7) 
+
+0 
+
+1 (0.4) 
+
+0 
+
+Hypophysitis/hypopituitarism 
+
+5 (1.9) 
+
+1 (0.4) 
+
+0 
+
+0 
+
+Diabetes mellitus 
+
+1 (0.4) 
+
+0 
+
+0 
+
+0 
+
+Nonendocrine IMAEsd,e where immunomodulation was initiated Rash 
+
+15 (5.7) 
+
+4 (1.5) 
+
+12 (4.7) 
+
+1 (0.4) 
+
+Hepatitis 
+
+13 (5.0) 
+
+8 (3.1) 
+
+3 (1.2) 
+
+2 (0.8) 
+
+Pneumonitis 
+
+8 (3.1) 
+
+4 (1.5) 
+
+2 (0.8) 
+
+0 
+
+Hypersensitivity 
+
+10 (3.8) 
+
+0 
+
+3 (1.2) 
+
+0 
+
+Nephritis/renal dysfunction 
+
+2 (0.8) 
+
+1 (0.4) 
+
+0 
+
+0 
+
+Diarrhea/colitis 
+
+1 (0.4) 
+
+0 
+
+1 (0.4) 
+
+1 (0.4) 
+
+Database lock: 20 March 2024. bEvents reported between the first dose and 30 days after the last dose of neoadjuvant therapy for patients who did not go on to adjuvant therapy or before adjuvant therapy for patients who started adjuvant therapy. The events shown are the 10 most frequent in the nivolumab arm. cAlopecia is likely to have been under-reported. Common Toxicity Criteria for Adverse Events grading for alopecia consists of only grade 1 or 2; the grade 3 or 4 alopecia reported in this study was reported incorrectly. dEvents reported between the first dose and 100 days after the last dose of neoadjuvant therapy for patients who did not go on to adjuvant therapy or before adjuvant therapy for patients who started adjuvant therapy. e Immune-mediated adverse events (IMAEs) are specific events, regardless of causality, that were considered as potentially immune-mediated by the investigator with no clear alternate etiology, occurred within 100 days of the final dose, and were treated with immune-modulating medication (except for endocrine IMAEs, which do not require immune-modulating medication use). ALT, alanine transaminase; AST, aspartate transaminase; SAE, serious adverse event; TRAE, treatment-related adverse event; TRSAE, treatment-related serious adverse event. a 
+
+all or just for patients with PD-L1+ tumors. Notably, whereas previous studies have shown that addition of programmed death 1 inhibition in TNBC led to small increases in pCR rates, including in patients with low PD-L1 expression, significant EFS benefit was observed28,29. Overall, these results represent a new milestone in the neoadjuvant treatment of ER+/HER2− BC, because there have been intensive but thus far unsuccessful efforts to improve pCR rates in this patient population. One important strength of CheckMate 7FL is that three immune assays were evaluated in a phase III trial population. Increases in pCR rates with the addition of nivolumab were also observed for sTIL increases from as little >1%, which was the median sTIL level in this patient population. Moderate concordance between the SP142, 28-8 pharmDx CPS and sTIL assays was observed. Interestingly, although Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+pCR rates were highest with the addition of nivolumab when the assays agreed on sTIL and PD-L1 positivity, patients with discordant assay results still derived benefit. These data have important implications for patients with BC, and suggest that the use of multiple assays may be best to identify all patients who could benefit from neoadjuvant immunotherapy in this subtype, although sTIL may be the most pragmatic and globally accessible biomarker because it can be evaluated on standard hematoxylin and eosin-stained slides30,31. Analysis of other exploratory biomarkers for patient stratification is ongoing. Analyses of pCR rates by ER and progesterone receptor levels confirm that patients with ER and/or progesterone receptor levels <10% have greater benefit with the addition of nivolumab than 439 
+
+Article patients with ER and/or progesterone receptor levels ≥10%. Notably, we observed this effect also in the setting of ER ≤50%. Although this remains to be further validated, it suggests that patients with lower ER and progesterone receptor levels may be treated similarly to patients with early TNBC. Previous research has shown that tumors with lower ER levels harbor more sTILs and CD8+ T cells, with higher PD-L1 expression, and are more similar to TNBC with regard to immune-related signatures32. Safety was consistent with the known safety profiles, with no change in the feasibility of surgery following the addition of nivolumab to CT. However, it is important to note that two treatment-related deaths were observed in the nivolumab arm. The key strengths of this study are: its inclusion of a high-risk population, the majority of whom were node-positive and grade 3; evaluation of response in a PD-L1+ population as a key secondary endpoint; and comprehensive biomarker data, including evaluation of response in a sTIL-high population, presented in the early BC setting. Limitations include the major protocol amendment that significantly reduced the sample size and/or number of events and follow-up time resulting in EFS being designated as an exploratory endpoint. In conclusion, adding nivolumab to neoadjuvant anthracycline and taxane-based CT in high-risk, early-stage ER+/HER2− BC significantly increased the pCR rate. These findings reshape our understanding of this disease in the context of T cell immunosurveillance and immunotherapy response in luminal disease. Patients with higher levels of sTIL or PD-L1 expression experienced higher pCR rates, potentially setting a new standard for future neoadjuvant treatment studies in this subset. Biomarker analyses aim to uncover the biological drivers behind the robust immune responses to the addition of immunotherapy to CT observed in ER+ BC, which could help further refine and personalize immunotherapeutic approaches for this disease. 
+
+Online content Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at https://doi.org/10.1038/s41591-024-03414-8. 
+
+References 1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+Arnold, M. et al. Current and future burden of breast cancer: global statistics for 2020 and 2040. Breast 66, 15–23 (2022). Clusan, L., Ferriere, F., Flouriot, G. & Pakdel, F. A basic review on estrogen receptor signaling pathways in breast cancer. Int. J. Mol. Sci. 24, 6834 (2023). Jin, X. et al. Molecular classification of hormone receptor-positive HER2-negative breast cancer. Nat. Genet. 55, 1696–1708 (2023). Loibl, S. et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann. Oncol. 35, 159–182 (2024). Burstein, H. J., Lacchetti, C. & Griggs, J. J. Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: ASCO clinical practice guideline focused update. J. Oncol. Pract. 15, 106–107 (2019). Johnston, S. R. D. et al. Abemaciclib plus endocrine therapy for hormone receptor-positive, HER2-negative, node-positive, high-risk early breast cancer (monarchE): results from a preplanned interim analysis of a randomised, open-label, phase 3 trial. Lancet Oncol. 24, 77–90 (2023). Korde, L. A. et al. Neoadjuvant chemotherapy, endocrine therapy, and targeted therapy for breast cancer: ASCO Guideline. J. Clin. Oncol. 39, 1485–1505 (2021). 
+
+Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+https://doi.org/10.1038/s41591-024-03414-8 8. 
+
+Freedman, R. A. et al. Optimal adjuvant chemotherapy and targeted therapy for early breast cancer-cyclin-dependent kinase 4 and 6 inhibitors: ASCO guideline rapid recommendation update. J. Clin. Oncol. 42, 2233–2235 (2024). 9. Cortes, J. et al. Pembrolizumab plus chemotherapy in advanced triple-negative breast cancer. N. Engl. J. Med. 387, 217–226 (2022). 10. Nanda, R. et al. Effect of pembrolizumab plus neoadjuvant chemotherapy on pathologic complete response in women with early-stage breast cancer: an analysis of the ongoing phase 2 adaptively randomized I-SPY2 trial. JAMA Oncol. 6, 676–684 (2020). 11. Schmid, P. et al. Event-free survival with pembrolizumab in early triple-negative breast cancer. N. Engl. J. Med. 386, 556–567 (2022). 12. O'Meara, T. et al. Immunological differences between immune-rich estrogen receptor-positive and immune-rich triple-negative breast cancers. JCO Precis. Oncol. 4, 767–779 (2020). 13. Wolf, D. M. et al. Immune signatures and MammaPrint (ultra) high risk class (MP2) as predictors of response to pembrolizumab combined with the TLR9 agonist SD101 in the neoadjuvant I-SPY 2 TRIAL. Cancer Res. 82, P5-13-12 (2022). 14. Dieci, M. V. et al. Neoadjuvant chemotherapy and immunotherapy in luminal B-like breast cancer: results of the phase II GIADA trial. Clin. Cancer Res. 28, 308–317 (2022). 15. Loi, S. Tumor-infiltrating lymphocytes, breast cancer subtypes and therapeutic efficacy. Oncoimmunology 2, e24720 (2013). 16. Rios-Hoyo, A. et al. Correlation of hormone receptor positive HER2-negative/MammaPrint high-2 breast cancer with triple negative breast cancer: Results from gene expression data from the ISPY2 trial. J. Clin. Oncol. 573, abstract 573 (2024). 17. Symmans, W. F. et al. Assessment of residual cancer burden and event-free survival in neoadjuvant treatment for high-risk breast cancer: an analysis of data from the I-SPY2 randomized clinical trial. JAMA Oncol. 7, 1654–1663 (2021). 18. Schmid, P., Cortes, J. & Dent, R. Pembrolizumab in early triple-negative breast cancer. Reply. N. Engl. J. Med. 386, 1771–1772 (2022). 19. Pareja, F. et al. Triple-negative breast cancer: the importance of molecular and histologic subtyping, and recognition of low-grade variants. NPJ Breast Cancer 2, 16036 (2016). 20. Kahn, A. M., Golestani, R., Harigopal, M. & Pusztai, L. Intratumor spatial heterogeneity in programmed death-ligand 1 (PD-L1) protein expression in early-stage breast cancer. Breast Cancer Res. Treat. 201, 289–298 (2023). 21. Cortazar, P. et al. Pathological complete response and long-term clinical benefit in breast cancer: the CTNeoBC pooled analysis. Lancet 384, 164–172 (2014). 22. Symmans, W. F. et al. Measurement of residual breast cancer burden to predict survival after neoadjuvant chemotherapy. J. Clin. Oncol. 25, 4414–4422 (2007). 23. Pusztai, L. et al. Event-free survival by residual cancer burden with pembrolizumab in early-stage TNBC: exploratory analysis from KEYNOTE-522. Ann. Oncol. 35, 429–436 (2024). 24. I-SPY2 Trial Consortium et al.Association of event-free and distant recurrence-free survival with individual-level pathologic complete response in neoadjuvant treatment of stages 2 and 3 breast cancer: three-year follow-up analysis for the I-SPY2 adaptively randomized clinical trial. JAMA Oncol. 6, 1355–1362 (2020). 25. Marczyk, M. et al. Treatment Efficacy Score-continuous residual cancer burden-based metric to compare neoadjuvant chemotherapy efficacy between randomized trial arms in breast cancer trials. Ann. Oncol. 33, 814–823 (2022). 440 
+
+Article 26. Symmans, W. F. et al. Assessment of residual cancer burden and event-free survival in neoadjuvant treatment for high-risk breast cancer: an analysis of data from the I-SPY2 randomized clinical trial. JAMA Oncol. 7, 1654–1663 (2021). 27. Cardoso, F. et al. LBA21 KEYNOTE-756: phase III study of neoadjuvant pembrolizumab (pembro) or placebo (pbo) + chemotherapy (chemo), followed by adjuvant pembro or pbo + endocrine therapy (ET) for early-stage high-risk ER+/HER2− breast cancer. Ann. Oncol. 34, S1260–S1261 (2023). 28. Cardoso, F. et al. Phase 3 study of neoadjuvant pembrolizumab or placebo plus chemotherapy, followed by adjuvant pembrolizumab or placebo plus endocrine therapy for early-stage high-risk ER+/HER2− breast cancer: KEYNOTE-756. Cancer Res. 84, abstract GS01–02 (2023). 29. Schmid, P. et al. Pembrolizumab for early triple-negative breast cancer. N. Engl. J. Med. 382, 810–821 (2020). 30. Salgado, R. et al. The evaluation of tumor-infiltrating lymphocytes (TILs) in breast cancer: recommendations by an International TILs Working Group 2014. Ann. Oncol. 26, 259–271 (2015). 31. Loi, S. et al. The journey of tumor-infiltrating lymphocytes as a biomarker in breast cancer: clinical utility in an era of checkpoint inhibition. Ann. Oncol. 32, 1236–1244 (2021). 
+
+https://doi.org/10.1038/s41591-024-03414-8 32. Voorwerk, L. et al. Immune landscape of breast tumors with low and intermediate estrogen receptor expression. NPJ Breast Cancer 9, 39 (2023). Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons. org/licenses/by/4.0/. © Crown 2025 
+
+Sherene Loi 1,2 , Roberto Salgado 1,3, Giuseppe Curigliano 4,5, Roberto Iván Romero Díaz6, Suzette Delaloge 7, Carlos Ignacio Rojas García8, Marleen Kok 9, Cristina Saura10, Nadia Harbeck 11, Elizabeth A. Mittendorf12, Denise A. Yardley13, Alberto Suárez Zaizar 14, Facundo Rufino Caminos15, Andrei Ungureanu16, Joaquin G. Reinoso-Toledo17, Valentina Guarneri18,19, Daniel Egle 20,21, Felipe Ades22, Misena Pacius22, Aparna Chhibber22, Rajalakshmi Chandra22, Raheel Nathani22, Thomas Spires22, Jenny Qun Wu22, Lajos Pusztai 23 & Heather McArthur 24 1 Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia. 2University of Melbourne, Parkville, Victoria, Australia. 3Department of Pathology, ZAS Hospitals, Antwerp, Belgium. 4European Institute of Oncology, IRCCS, Milan, Italy. 5University of Milan, Milan, Italy. 6Consultorio de Oncólogo Médico, Oaxaca, Mexico. 7Gustave Roussy Cancer Campus, Villejuif, France. 8Bradford Hill Investigación Clinica, Región Metropolitana, Santiago, Chile. 9 Netherlands Cancer Institute, Amsterdam, the Netherlands. 10Vall d’Hebron University Hospital, Vall d’Hebron Institute of Oncology (VHIO), Barcelona, Spain. 11Breast Center, Department of Obstetrics and Gynecology and CCC Munich, Ludwig Maximilians University Hospital, Munich, Germany. 12 Dana-Farber Brigham Cancer Center, Boston, MA, USA. 13Sarah Cannon Research Institute, Nashville, TN, USA. 14CENEIT Oncológicos, Mexico City, Mexico. 15Hospital Italiano De Córdoba, Córdoba, Argentina. 16Radiotherapy Center CLUJ S.R.L., Florești, Romania. 17Consultorio del Dr. Joaquin Gabriel Reinoso Toledo, Monterrey, Mexico. 18Istituto Oncologico Veneto IOV, Padua, Italy. 19Department of Surgery, Oncology and Gastroenterology, University of Padova, Padova, Italy. 20Department of Gynecology, Medical University of Innsbruck, Innsbruck, Austria. 21ABCSG – Austrian Breast & Colorectal Cancer Study Group, Vienna, Austria. 22Bristol Myers Squibb, Princeton, NJ, USA. 23Smilow Cancer Hospital at Yale, New Haven, CT, USA. 24University of Texas Southwestern Medical Center, Dallas, TX, USA. e-mail: sherene.loi@petermac.org 
+
+Nature Medicine | Volume 31 | February 2025 | 433–441 
+
+441 
+
+Article 
+
+Methods Patients 
+
+Eligible patients had newly diagnosed ER+/HER2− BC, with a confirmed primary tumor and node categories of tumors sized 2–5 cm and cN1– cN2 or cT3–cT4 and cN0–cN2; grade 3 disease or grade 2 disease with ER expression of 1 to ≤10%; adequate organ function; tissue available for biomarker assessment; and Eastern Cooperative Oncology Group performance status 0–1. Patients were eligible irrespective of PD-L1 status. Multifocal tumors (two or more foci of cancer in the same breast quadrant) were permitted if the largest lesion was at least 2 cm and designated as the target lesion. Patients with mixed ductal and lobular carcinoma were eligible. Patients were excluded if they had multicentric BC, a history of ipsilateral invasive BC, evidence of metastatic disease, had received any previous treatment for the currently diagnosed BC or had received immunotherapy previously. 
+
+Trial design and treatments CheckMate 7FL was a prospective, randomized, multicenter, double-blind, placebo-controlled phase 3 trial (ClinicalTrials.gov identifier: NCT04109066), originally with co-primary endpoints of pCR and EFS, which were centrally assessed. Following the approval of adjuvant abemaciclib for high-risk primary ER+/HER2, the primary endpoint was amended to pCR alone, making enrollment and assessment of EFS challenging to complete. The combination of abemaciclib with nivolumab was expected to result in a high rate of withdrawals because of safety concerns around combining a CDK4/6 inhibitor with an anti-programmed death 1 agent33,34. In the neoadjuvant phase, patients were randomized 1:1 to receive either nivolumab 360 mg or placebo every 3 weeks with weekly paclitaxel for 12 weeks. This was followed by nivolumab (either 360 mg every 3 weeks or 240 mg every 2 weeks) in combination with anthracycline and cyclophosphamide, or placebo in combination with anthracycline and cyclophosphamide; the anthracycline and cyclophosphamide dosing frequency was determined by the investigator. All patients who remained operative candidates underwent surgery of the breast and axilla (per local standards) within 4 weeks of completing the neoadjuvant treatment phase. Per the protocol amendment, the study was unblinded in the adjuvant phase, and patients received nivolumab 480 mg with investigator’s choice of ET (tamoxifen, letrozole, anastrozole or exemestane, with or without ovarian function suppression) for up to seven cycles. Randomization was stratified per interactive response technology by the proportion of PD-L1-expressing immune cells (percentage of immune cells by VENTANA PD-L1 SP142 immunohistochemistry, cutoff at 1%), tumor grade (2 or 3), pathologically confirmed axillary nodal status (positive on pathological review or negative on radiographic and/or pathologic review) and anthracycline dosing frequency (every 3 weeks or every 2 weeks). Before the study was initiated, each participant received log-in information and directions on accessing the interactive response technology. Each participant was assigned a unique number after signing the informed consent form. Participant numbers were used on all participants’ study information. Participant numbers were not reassigned. An interactive response technology was used to manage participant randomization. The investigator or designee registered the participant for enrollment by following the enrollment procedures established by the sponsor. 
+
+Endpoints The primary endpoint was pCR (ypT0/is, ypN0) in the mITT population. Initially, EFS was a co-primary endpoint; however, following the decision to discontinue enrollment in the study in April 2022 because of the rapidly changing treatment landscape, the primary endpoint of the trial was updated to focus solely on pCR, and EFS was changed to an exploratory endpoint because the total number of enrolled patients and events was too low and updated follow-up time was too short to provide sufficient power for comparison. Consequently, follow-up Nature Medicine 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+was reduced to 1 year post-surgery for all patients, and the adjuvant phase became open label. Another key change to the study after discontinuation of enrollment in April 2022 was the evaluation of pCR in the PD-L1+ population by VENTANA SP142 % IC as a secondary endpoint. Other secondary endpoint included RCB 0 or I rates in the mITT and PD-L1+ populations. Pathological response was assessed, and RCB score calculated by local pathologists. The RCB score combined tumor size, tumor cellularity and nodal involvement into a single continuous score that was grouped into four classes, namely, RCB score of 0 (that is, pCR), and I, II and III, which corresponded to increasingly larger residual cancer and worse recurrence-free survival17. Safety and tolerability were assessed during the neoadjuvant and adjuvant phases in all patients who received at least one dose of study drug. Prespecified exploratory endpoints included association of efficacy outcomes with biomarker status based on PD-L1 CPS, sTILs, levels of estrogen/progesterone receptors and Ki67 index. 
+
+Study assessments pCR was assessed post-neoadjuvant (yp) treatment and was defined as no invasive residual disease in breast and lymph nodes (ypT0/is, ypN0) by a local pathologist. AEs were monitored throughout the trial and for 30 days after the discontinuation of study treatment (90 days for serious AEs) and graded according to Common Toxicity Criteria for Adverse Events v.5.0 of the National Cancer Institute. Safety was assessed at 30 days and 100 days after the final dose, and long-term follow-up was up to 12 months after surgery. Biomarker analyses included centrally reviewed PD-L1 expression and percentage of sTILs. PD-L1 was evaluated by qualitative immunohistochemistry on immune cells with the VENTANA SP142 assay (Roche Diagnostics) and PD-L1 CPS with the 28-8 pharmDx assay (Agilent). The percentage of sTILs was quantified on a hematoxylin and eosin-stained slide according to established guidelines30. In this study, an sTIL of 1% was the lowest possible value and indicated a lack of detectable sTILs. The SP142 % IC assay and the 28-8 pharmDx CPS were used to evaluate the variation between assays, as well as to determine PD-L1 expression in tumor-infiltrating ICs versus both immune and tumor cells. ER and Ki67 expression were centrally evaluated using Agilent MIB-Dako pharmDx immunohistochemistry. Progesterone receptor immunohistochemistry levels were evaluated from local pathology testing. Other recorded patient and disease characteristics included tumor grade, axillary nodal status, disease stage, Ki67 index, menopausal status and age. 
+
+Statistical analyses Based on the normal approximation to the binomial, a sample size of 521 patients in the intent-to-treat population would yield approximately 87% power (two-sided alpha of 0.05) to detect a difference of 10% in pCR rates between treatment arms, assuming a 12% pCR rate in the control arm. Because of the sponsor’s decision to close all sites in Russia after the Ukraine–Russia geopolitical conflict began, 11 patients were excluded owing to insufficient follow-up for pCR assessment, with a small impact on the study power (86%). This resulted in a mITT population size of 510 patients. Strata-adjusted difference in pCR rate between the two arms was analyzed with the stratified Cochran– Mantel–Haenszel method of weighting with a two-sided alpha level of 0.05. Strata-adjusted OR was assessed with the Mantel–Haenszel method. The cutoffs used for sTIL and PD-L1 expression by SP142 or 28-8 pharmDx CPS were predefined for this study. CI values for pCR and RCB 0 or I rates were evaluated using the Clopper–Pearson method. The unweighted differences in pCR and RCB 0 or I rates between treatment arms in different patient subgroups were calculated along with the corresponding 95% two-sided CIs using the Newcombe method without continuity correction. Exploratory multivariable analyses were conducted using logistic regression to evaluate the association of biomarkers and other baseline characteristics with 
+
+Article 
+
+https://doi.org/10.1038/s41591-024-03414-8 
+
+pCR. Biomarkers included in the multivariable analyses were calculated as either categorical (PD-L1 expression ≥1% by SP142 or 28-8 pharmDx CPS ≥3 with sTIL cutoffs of >1 or ≥5%) or continuous variables. Other baseline characteristics in the multivariable analyses were stage III disease, negative nodal status, ER expression ≥10%, postmenopausal status and age ≥65 years. The CIs for the secondary and exploratory analyses were for descriptive purposes and, therefore, no adjustments were made for multiplicity. The sex of patients enrolled in the trial was self-reported and data for gender were not collected. No analyses by sex or disaggregated data are presented because doing so would result in the presentation of potentially identifying information. 
+
+Myers Squibb who had final responsibility for the conceptualization, design and conduct of the trial, data collection and analysis. Alongside the authors, the sponsor was also involved with the decision to publish and preparation of the manuscript. Medical writing and editorial assistance, including assisting authors with development of the outline, drafting and incorporation of comments, fact checking, referencing, figure preparation, formatting, proofreading and submission were provided by E. Haygreen, K. Wellington, C. Charles and L. McArdle, all of Spark (a division of Prime, New York, USA), supported by Bristol Myers Squibb according to Good Publication Practice guidelines (https://www.acpjournals.org/doi/abs/10.7326/ M22-1460?journalCode=aim). 
+
+Trial oversight 
+
+Author contributions 
+
+This trial was developed and overseen by an academic steering committee and employees of the sponsor (Bristol Myers Squibb). An external, independent data monitoring committee provided oversight of safety and efficacy considerations during the study. The trial protocol and amendments were approved by the appropriate ethics body at each participating site. All patients provided written informed consent. All authors confirm that the trial was conducted with respect to the standards of Good Clinical Practice. All authors had access to the data and participated in the writing and reviewing of this manuscript. The first draft of the manuscript was written by the first author with editorial assistance provided by a medical writer employed by the sponsor. All authors reviewed and participated in drafting the manuscript and all authors approved the submitted draft and can vouch for the accuracy and completeness of the data. 
+
+S.L., R.S., G.C., R.I.R.D., S.D., C.I.R.G., M.K., C.S., N.H., F.A., R.C., T.S. and H.M. had major involvement in study conception or design. S.L., R.I.R.D., S.D., C.I.R.G., M.K., C.S., N.H., A.E.M., D.A.Y., L.P., A.S.Z., F.R.C., A.U., J.G.R.-T., V.G. and D.E. had substantial involvement in data acquisition. S.D., C.I.R.G., M.K., C.S., N.H., F.A., M.P., A.C., R.C., R.N., T.S. and J.Q.W. had major involvement in data analysis. S.L., R.S., G.C., R.I.R.D., S.D., C.I.R.G., M.K., C.S., N.H., A.E.M., D.A.Y., L.P., A.S.Z., F.R.C., A.U., J.G.R.-T., V.G., D.E., F.A., R.N., T.S., J.Q.W. and H.M. had major involvement in data interpretation. All authors had access to the data and participated in writing, reviewing, and revising the manuscript. All authors approved the final manuscript for publication. All authors accept responsibility for the accuracy and integrity of all aspects of the research. 
+
+Reporting summary 
+
+S.L. reports institutional research funding from AstraZeneca/ Daiichi Sankyo, Bristol Myers Squibb, Novartis, Puma Biotechnology, Roche-Genentech and Seattle Genetics; consulting fees from Amaroq Therapeutics, Astra Zeneca/Daiichi Sankyo, Bristol Myers Squibb, Domain Therapeutics Gilead, Lilly, Mersana Therapeutics, MSD, Roche-Genentech and Novartis; honoraria from Amaroq Therapeutics, AstraZeneca/Daiichi Sankyo, BioNTech, Bristol Myers Squibb, Domain Therapeutics, Gilead Sciences, Lilly, Mersana Therapeutics, MSD, Novartis and Roche-Genentech; meeting/ travel support from Bristol Myers Squibb and Lilly. R.S. reports consulting fees from Owkin; honoraria from AstraZeneca, Daiichi Sankyo and Exact Sciences; meeting/travel support from AstraZeneca and Daichii Sankyo; leadership position at The International Immuno-Oncology Biomarker Working Group; research support from Bristol Myers Squibb and providing unpaid advice to Case 45. G.C. reports participation on advisory boards for AstraZeneca, Bristol Myers Squibb, Daichii Sankyo, Celcuity, Ellipsis, Exact Science, Gilead, Lilly, Menarini, Merck, Novartis, Pfizer, Roche, Sanofi and Veracyte. S.D. reports institutional research funding from Amgen, AstraZeneca, Bristol Myers Squibb, European Commission, the French government, Lilly, Novartis, Orion, Pierre Fabre, Pfizer, Roche-Genentech, Sanofi and Taiho; meeting/ travel support from Novartis, Roche and Seagen; participation on advisory boards for AstraZeneca, Besins, Decibio, Elsan, Gilead and Sanofi; participation on independent data monitoring committee activity for Breast International Group and Pfizer. C.I.R.G. reports honoraria from AstraZeneca, Bristol Myers Squibb, Knight, MSD, Pfizer, Roche and Tecnofarma; participation on data safety monitoring/ advisory boards for Bristol Myers Squibb, Pfizer and Sanofi. M.K. reports institutional research funding from AstraZeneca, Bristol Myers Squibb and Roche; honoraria from Bristol Myers Squibb and Gilead; participation on advisory boards for AstraZeneca, BioNTech, Bristol Myers Squibb, MSD and Roche. C.S. reports research funding from AstraZeneca, Boehringer Ingelheim, Bristol Myers Squibb, Byondis BV, Daiichi Sankyo, Eisai, Genentech, Gilead, Glaxo, Menarini, Merus, MSD, Novartis, Pfizer, Philips Healthcare, Piere Fabre, Puma Biotechnology, Roche, Sanofi Aventis, Seagen, Synthon and Zymeworks; consulting 
+
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article. 
+
+Data availability Bristol Myers Squibb will honor legitimate requests for clinical trial data from qualified researchers with a clearly defined scientific objective. Bristol Myers Squibb will consider data sharing requests for Phase II–IV interventional clinical trials that completed on or after 1 January 2008. In addition, primary results from these trials must have been published in peer-reviewed journals and the medicines or indications approved in the US, EU and other designated markets. Sharing is also subject to protection of patient privacy and respect for the patient’s informed consent. Data considered for sharing may include nonidentifiable patient-level and study-level clinical trial data, full clinical study reports and protocols. 
+
+References 
+
+33. Masuda, J. et al. Efficacy, safety, and biomarker analysis of nivolumab in combination with abemaciclib plus endocrine therapy in patients with HR-positive HER2-negative metastatic breast cancer: a phase II study (WJOG11418B NEWFLAME trial). J. Immunother. Cancer 11, e007126 (2023). 34. Rugo, H. S. et al. Abemaciclib in combination with pembrolizumab for HR+, HER2− metastatic breast cancer: phase 1b study. NPJ Breast Cancer 8, 118 (2022). 
+
+Acknowledgements 
+
+We thank the patients, their families and all investigators involved in this study. In addition, we thank C. Jeyamohan (Clinical Science Lead), A. Demeaux (Protocol Manager), R. Soomro (Clinical Trial Physician) and D. Jiang (Biomarker Analyst) of Bristol Myers Squibb for their contributions to the study. S.L. is supported by the National Breast Cancer Foundation of Australia and the Breast Cancer Research Foundation, New York, USA. R.S. is supported by the Breast Cancer Research Foundation. This study was sponsored and funded by Bristol Nature Medicine 
+
+Competing interests 
+
+Article fees from AstraZeneca, Daiichi Sankyo, Eisai, Gilead, Lilly, MediTech, Novartis, Pfizer, Philips Healthcare, Pharmalex, Piere Fabre, Puma Biotechnology, Roche, Seagen, Synthon and Zymeworks; honoraria from AstraZeneca, Daiichi Sankyo, Exeter Pharmaceuticals, Lilly, Pfizer, Pierre Fabre, Puma Biotechnology and Seagen; payment for expert testimony from AX’s Consulting SARL, Boehringer Ingelheim, Bristol Myers Squibb, Genentech, Innoup, MSD España, Novartis and Sanofi; meeting/travel support from AstraZeneca, Daiichi Sankyo, Eisai Europe, Gilead, Lilly, Novartis, Pfizer, Pierre Fabre, Puma Biotechnology, Roche and Seagen; participation on data safety monitoring/advisory boards for AstraZeneca, Daiichi Sankyo, Eisai Europe, Gilead, Lilly, Menarini, MSD, Novartis, Pfizer, Philips, Pierre Fabre, Roche and Seagen. N.H. reports consulting fees from Daiichi Sankyo, Gilead, Novartis, Pfizer, Roche, Seagen and Viatris; honoraria from AstraZeneca, Daiichi Sankyo, Gilead, Lilly, MSD, Novartis, Pierre Fabre, Pfizer, Roche, Seagen, Viatris and Zuelligpharma; participation on data safety monitoring/advisory boards for Gilead, Roche and Seagen; leadership position at the West German Study Group. E.A.M. reports research funding from Genentech, Gilead and Roche; consulting fees from AstraZeneca, BioNTech, Moderna and MSD; honoraria from MSD; meeting/travel support from MSD; leadership positions at the American Society of Clinical Oncology Board of Directors 2019–2023 and Scientific Advisor for Susan G. Komen. D.A.Y. reports institutional research funding from AbbVie, Ambrx, AstraZeneca, Dana Farber Cancer Institute, Lilly, Roche-Genentech, G1 Therapeutics, Gilead, Incyte, Innocrin Pharmaceuticals, Merck, Novartis, Polyphor, Stemline Therapeutics, US Oncology and UT Southwestern; and consulting fees paid to institution from AstraZeneca, Daiichi Sankyo, Gilead, Integra Connect, Novartis and Stemline Therapeutics. V.G. reports honoraria from AstraZeneca, Daiichi Sankyo, Exact Sciences, Gilead, GlaxoSmithKline, Lilly, Menarini Stemline, Novartis, Roche, and Zentiva; payment for expert testimony from Lilly; meeting/travel support from AstraZeneca and Gilead; institutional patent for Her2DX; and participation on data safety monitoring/advisory boards for AstraZeneca, Daiichi Sankyo, Exact Sciences, Gilead, Lilly, MSD, Novartis, Olema Oncology, Pierre Fabre, Pfizer-Seagen and Roche. D.E. reports consulting fees from AstraZeneca, Daiichi Sankyo, Gilead, Lilly, Menarini, MSD, Novartis, Pfizer, Roche, Seagen and Sirius Medical; honoraria from AstraZeneca, Daiichi Sankyo, Gilead, Lilly, Menarini, MSD, Novartis, Pfizer, Roche, 
+
+Nature Medicine 
+
+https://doi.org/10.1038/s41591-024-03414-8 Seagen and Sirius Medical; meeting/travel support from Daiichi Sankyo and Pfizer; and receipt of medical writing support from Sirius Medical. F.A. reports being an employee of Bristol Myers Squibb. M.P. reports being an employee and shareholder of Bristol Myers Squibb. A.C. reports being an employee of Bristol Myers Squibb and shareholder of Merck. R.C. reports being an employee of Bristol Myers Squibb. R.N. reports being an employee and shareholder of Bristol Myers Squibb. T.S. reports being an employee and shareholder of Bristol Myers Squibb. J.Q.W. reports being an employee and shareholder of Bristol Myers Squibb. L.P. reports institutional research funding from AstraZeneca, Bristol Myers Squibb, GlaxoSmithKline, Merck, Pfizer and Seagen; consulting fees from AstraZeneca, Bristol Myers Squibb, Daiichi, Exact Sciences, Genentech-Roche, GlaxoSmithKline, Merck, Natera, Novartis, Personalis, Pfizer and Stemline-Menarini; and honoraria for advisory board participation from AstraZeneca, Bristol Myers Squibb, Daiichi, Exact Sciences, Genentech-Roche, GlaxoSmithKline, Merck, Natera, Novartis, Personalis, Pfizer and Stemline-Menarini. H.M. reports consulting fees from Amgen, AstraZeneca, Bristol Myers Squibb, Calithera, Celgene, Crown Bioscience Daiichi Sankyo, Lilly, Genentech-Roche, Gilead, Immunomedics, Merck, OBI Pharma, Peregrine, Pfizer, Puma, Spectrum Pharmaceuticals, Syndax Pharmaceuticals, Seattle Genetics and TapImmune; and research funding from Bristol Myers Squibb, BTG, LLC/AstraZeneca, MedImmune and Merck. R.I.R.D., A.S.Z., F.R.C., A.U. and J.G.R.-T. declare no competing interests. 
+
+Additional information 
+
+Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41591-024-03414-8. Correspondence and requests for materials should be addressed to Sherene Loi. Peer review information Nature Medicine thanks Karen Gelmon, Binghe Xu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Ulrike Harjes, in collaboration with the Nature Medicine team. Reprints and permissions information is available at www.nature.com/reprints. 
+
+− ≤ 
+
+ 

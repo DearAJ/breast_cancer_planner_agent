@@ -1,0 +1,445 @@
+rapid communications 
+
+Development and Validation of a Tool Integrating the 21-Gene Recurrence Score and Clinical-Pathological Features to Individualize Prognosis and Prediction of Chemotherapy Beneﬁt in Early Breast Cancer 
+
+abstract 
+
+PURPOSE The 21-gene recurrence score (RS) is prognostic for distant recurrence (DR) and predictive for chemotherapy beneﬁt in early breast cancer, whereas clinical-pathological factors are only prognostic. Integration of genomic and clinical features offers the potential to guide adjuvant chemotherapy use with greater precision. 
+
+Joseph A. Sparano, MD1; Michael R. Crager, PhD2; Gong Tang, PhD3; Robert J. Gray, PhD4; Salomon M. Stemmer, MD5; and Steven Shak, MD2 
+
+METHODS We developed a new tool (RSClin) that integrates RS with tumor grade, tumor size, and age using a patient-speciﬁc meta-analysis including 10,004 women with hormone receptor–positive, human epidermal growth factor receptor 2–negative, and node-negative breast cancer who received endocrine therapy alone in the B-14 (n 5 577) and TAILORx (n 5 4,854) trials or plus chemotherapy in TAILORx (n 5 4,573). Cox models for RSClin were compared with RS alone and clinical-pathological features alone using likelihood ratio tests. RSClin estimates of DR used a baseline risk with TAILORx event rates to reﬂect current medical practice. A patient-speciﬁc estimator of absolute chemotherapy beneﬁt was computed using individualized relative chemotherapy effect from the randomized TAILORx and B-20 trials. External validation of risk estimation was performed by comparing RSClin estimated risk and observed risk in 1,098 women in the Clalit registry. RESULTS RSClin provides more prognostic information (likelihood ratio x2) for DR than RS or clinical-pathological factors alone (both P , .001, likelihood ratio test). In external validation, the RSClin risk estimate was prognostic for DR risk in the Clalit registry (P , .001) and the estimated risk closely approximated the observed 10-year risk (Lin concordance 0.962). The absolute chemotherapy beneﬁt estimate ranges from 0% to 15% as the RS ranges from 11 to 50 using RSClin in a 55-year-old woman with a 1.5-cm intermediate-grade tumor. CONCLUSION The RSClin tool integrates clinical-pathological and genomic risk to guide adjuvant chemotherapy in node-negative breast cancer and provides more individualized information than clinical-pathological or genomic data alone. J Clin Oncol 00. © 2020 by American Society of Clinical Oncology 
+
+ASSOCIATED CONTENT Data Supplement Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on October 27, 2020 and published at ascopubs.org/journal/ jco on December 11, 2020: DOI https://doi. org/10.1200/JCO.20. 03007 
+
+INTRODUCTION The 21-gene recurrence score (RS) assay provides both prognostic information for distant recurrence (DR) and predictive information for chemotherapy beneﬁt in hormone receptor–positive, human epidermal growth factor receptor 2 (HER2)–negative early breast cancer.1-5 The relative risk reduction with chemotherapy increases with increasing RS result, and the absolute magnitude of chemotherapy beneﬁt also varies with the underlying recurrence risk,6 which is associated with both clinical-pathological features and RS result.7 The RS-pathology-clinical (RSPC) tool, which integrates prognostic information for DR from the RS result 
+
+with tumor grade, tumor size, and patient age, is more prognostic for DR than RS result alone in a patientspeciﬁc meta-analysis (PSMA) of 1,735 women with hormone receptor–positive early breast cancer treated with adjuvant endocrine therapy in the NSABP B-14 trial (between 1982 and 1988) and TransATAC trial (between 1996 and 2000), of whom 10% had HER2positive breast cancer.8 Here, we report the development and validation of a new tool for node-negative breast cancer providing prognostic estimates of DR risk with endocrine therapy alone in HER2-negative breast cancer derived from a larger and more contemporaneously treated cohort than that used for the development of RSPC and 
+
+1 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sparano et al 
+
+CONTEXT Key Objective Our goal was to develop a tool that integrates clinical-pathological and genomic information in early breast cancer. Knowledge Generated Using a patient-speciﬁc meta-analysis, we developed a new tool (RSClin) that integrates the 21-gene recurrence score with tumor grade, tumor size, and age to provide estimates of 10-year distant recurrence (DR) rates and absolute chemotherapy beneﬁt. We demonstrated that RSClin provides more prognostic information for DR than recurrence score or clinical-pathological factors alone and that RSClin estimates closely approximately actual DR risk in an independent real-world data set. Relevance The new RSClin tool provides individualized information for DR risk and chemotherapy beneﬁt that may be used to guide the use of adjuvant chemotherapy in hormone receptor–positive, human epidermal growth factor receptor 2–negative, nodenegative breast cancer. 
+
+adding estimation of incremental absolute chemotherapy beneﬁt not previously provided by RSPC. The tool was derived from a PSMA in 10,004 women with hormone receptor–positive, HER2-negative, and node-negative breast cancer, of whom 9,427 participated in the TAILORx trial. The TAILORx trial included patients treated between 2006 and 2010, thus more accurately reﬂecting improved prognosis for hormone receptor–positive breast cancer after the year 2000.9 We also report external validation of this new tool for estimation of DR risk in an independent cohort of 1,098 women with node-negative disease from the Clalit Health Services registry.10 METHODS The prespeciﬁed criteria for patient inclusion in the PSMA—model covariates, end point, statistical methods for the prognostic tool (using data from the B-141 and TAILORx5 trials with adjustment using B-203), the chemotherapy effect prediction tool (using data from TAILORx5 and B-203), and external validation of the prognostic tool (using data from the Clalit Health Services registry10)—are described in detail in Table S1 of the Data Supplement (online only) and depicted in the Consort diagram (Data Supplement Fig. S1). Human subject protection approval was obtained from the local institutional review boards as described for each individual trial report.1,3,5,10 Cox regression models were ﬁt separately to each study with covariates RS result, histologic tumor grade, tumor size, and patient age at surgery. RS result and age in years were ﬁt using two df natural cubic splines with knots at the minimum, median, and maximum values for each study (B-14, TAILORx Arms A and B, and TAILORx Arms C and D). Tumor size in centimeters was ﬁt as a linear covariate. Grade was assessed by a single central laboratory breast cancer pathologist in B-14 and locally in TAILORx. The prespeciﬁed end point was time to ﬁrst DR. DR risk 
+
+estimation used PSMA methodology,11 calculating inversevariance weighted averages of log cumulative hazard estimates from the individual study on Cox regressions with baselines computed using the event rate of TAILORx arms A or B. Arm A of TAILORx included patients with RS 0-10 assigned to endocrine therapy alone, and arm B included patients with an RS result of 11-25 randomly assigned to endocrine therapy alone. TAILORx arms C and D were included in the PSMA adjusting the patient-speciﬁc log cumulative hazard by subtracting the patient-speciﬁc log hazard ratio of chemotherapy from B-20 (see the Data Supplement). Arm C included patients with the RS of 11-25 randomly assigned to chemoendocrine therapy, and Arm D included patients with an RS of 26-100 assigned to chemoendocrine therapy.12 Weights for TAILORx arms A and B (RS 0-25) and TAILORx arms C and D (RS 11-100) were set to 0 outside the studied RS ranges to avoid extrapolation, within linear transitions to zero weighting over ﬁve unit ranges of the RS result. Examples of PSMA weighting of individual studies and intermediate calculations are described in detail below and the Data Supplement. Patient-speciﬁc absolute beneﬁt of chemotherapy was estimated by combining the PSMA risk estimates with a PSMA estimate of relative chemotherapy beneﬁt using B-20 and TAILORx. We ﬁrst estimated the patient-speciﬁc chemotherapy effect log hazard ratio using a multivariate Cox regression of the patients with HER2-negative, hormone receptor–positive breast cancer in B-20, in which women with estrogen receptor–positive breast cancer were randomly assigned to 5 years of tamoxifen or tamoxifen plus adjuvant chemotherapy. A TAILORx patient-speciﬁc chemotherapy effect log hazard ratio was estimated as the difference in the patient-speciﬁc prognostic model log cumulative hazard estimates for TAILORx arms C and D versus A and B. The B-20 and TAILORx estimates were combined with inverse variance weighting. This PSMA estimate was added to the prognostic model log cumulative 
+
+2 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Development and Validation of a Prognostic Tool in Breast Cancer 
+
+hazard estimate under endocrine therapy to estimate the log cumulative hazard with chemoendocrine therapy. Transforming to the risk scale, the patient-speciﬁc absolute chemotherapy beneﬁt was calculated as the difference in the risk estimates for endocrine therapy alone and chemoendocrine therapy. A CI was calculated using the delta method (see the Data Supplement). Model estimates may be calculated for speciﬁed endocrine therapy with tamoxifen or aromatase inhibitors using the treatment effect hazard ratio from an Early Breast Cancer Trialists’ Collaborative Group meta-analysis (see the Data Supplement).13 A new online tool (RSClin) that provides the estimated 10-year DR risk and absolute beneﬁt assessment is available for use by healthcare professionals.14 RESULTS Assessing Original RSPC for DR in TAILORx Both the old RSPC tool and the new RSClin tool integrate variables including RS, age, tumor size, and tumor grade along with the type of endocrine therapy (tamoxifen or aromatase inhibitor). In a univariate Cox regression, the original RSPC risk estimate, transformed to the logcumulative hazard scale, was strongly associated with the observed DR in TAILORx arms A and B with an RS result of 0-25 treated with endocrine therapy alone (standardized hazard ratio 1.86; 95% CI, 1.61 to 2.15; P , .001). The TAILORx arms A and B study population was divided into quintiles using the original RSPC risk estimates. Within each quintile, the observed 10-year DR risk was calculated from the TAILORx data, assuming that the hazard during 9-10 years equals the hazard during 8-9 years using martingale extension.11 The observed risk was plotted against the average RSPC-estimated risk (Data Supplement Fig. S2). The estimated risk closely follows the observed risk, but the original RSPC risk estimates were higher than the observed risk estimates in TAILORx, which is consistent with reports indicating improved prognosis for 
+
+hormone receptor–positive breast cancer after the year 2000.9 Multivariable Cox Regression Analysis for DR Results of the multivariate Cox regression analyses for B-14, TAILORx arms A and B, and TAILORx arms C and D are shown in Table 1. The hazard ratios for RS result, tumor grade, and tumor size are broadly consistent across studies; the hazard ratio for age shows more variation. The greater hazard ratio for RS result in TAILORx arms A and B (assigned to endocrine therapy alone) relative to TAILORx arms C and D (assigned to chemoendocrine therapy) is consistent with the prediction of chemotherapy effect by RS result observed in the HER2-negative population of the B-20 trial.3 The multivariate Cox regression analysis of B-20 used to adjust the TAILORx arms C and D estimates for the effect of chemotherapy is shown in Table S2 of the Data Supplement. The two-way interaction hazard ratio for RS with chemotherapy for the overall population is shown at the bottom of Table S2 in the Data Supplement. It is consistent with the RS and chemotherapy interaction previously reported for patients with HER2-negative breast cancer.3 The amount of information for DR prognosis provided by the RSClin model was quantiﬁed using the likelihood ratio x2 and compared with the reduced model with RS result alone and with the reduced model with clinical-pathological features alone via likelihood ratio tests. Test results demonstrate that the RSClin model provides signiﬁcantly more information than the model with tumor grade, tumor size, and age (P , .001) and the model with RS result alone (P , .001) (Data Supplement Table S3). RSClin DR Risk Estimates for Endocrine Therapy Alone Example estimates of 10-year DR risk with 95% CIs with endocrine therapy alone provided by the RSClin tool for 55-year-old patients with 1.5-cm tumors of low, intermediate, and high grades are shown in Figure 1. Examples with varying tumor size and patient age are shown in Figures S7 and S8 of the Data Supplement. As expected, the risk estimates increase with increasing RS 
+
+TABLE 1. Multivariable Cox Regression Analysis of Individual Studies Used in PSMA Study 
+
+NSABP B-14 (n 5 577, 88 DRs) 
+
+TAILORx A/B (n 5 4,854, 157 DRs) 
+
+TAILORx C/D (n 5 4,573, 209 DRs) 
+
+Effect 
+
+HR (95% CI); P 
+
+HR (95% CI); P 
+
+HR (95% CI); P a 
+
+a 
+
+a 
+
+RS 2 df spline (25 v 10) 
+
+1.80 (1.18 to 2.74); P , .001 
+
+3.38 (2.05 to 5.57); P , .001 
+
+2.58 (1.71 to 3.89); P , .001 
+
+Tumor grade 2v1 
+
+1.45 (0.76 to 2.76); P 5 .26 
+
+1.48 (0.98 to 2.24); P 5 .062 
+
+2.25 (1.37 to 3.68); P , .001 
+
+Tumor grade 3v1 
+
+3.53 (1.81 to 6.87); P , .001 
+
+2.56 (1.56 to 4.20); P , .001 
+
+2.35 (1.36 to 4.04); P 5 .002 
+
+Tumor size (per 1 cm) 
+
+1.24 (1.02 to 1.52); P 5 .034 
+
+1.54 (1.30 to 1.82); P , .001 
+
+1.62 (1.40 to 1.87); P , .001 
+
+Age 2 df spline (65 v 50 y) 
+
+0.84 (0.54 to 1.32); P 5 .59 
+
+0.88 (0.67 to 1.17); P 5 .033 
+
+1.13 (0.89 to 1.43); P 5 .10 
+
+Abbreviations: DR, distant recurrence events; RS, recurrence score result; HR, hazard ratio; PSMA, patient-speciﬁc meta-analysis. a Wald test P-values; tests for natural cubic splines from 2 df x2 test. 
+
+Journal of Clinical Oncology 
+
+3 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sparano et al 
+
+10-Year Risk of Distant Recurrence 
+
+A Tumor grade 1, tumor size 1.5 cm, age 55 
+
+40% 35% 30% 25% 20% 15% 10% 5% 0% 0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+21-Gene Expression Assay 
+
+The DR risk estimates shown here reﬂect the endocrine therapy use in TAILORx, which was primarily tamoxifen for younger patients and aromatase inhibitors for older patients. Estimates for speciﬁed endocrine therapy are implemented in the RSClin online tool. 
+
+10-Year Risk of Distant Recurrence 
+
+B Tumor grade 2, tumor size 1.5 cm, age 55 40% 35% 30% 
+
+RSClin Individualized Estimates of Absolute Chemotherapy Beneﬁt 
+
+25% 20% 15% 10% 5% 0% 0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+21-Gene Expression Assay 
+
+C 10-Year Risk of Distant Recurrence 
+
+A scatter plot comparing DR risk estimates with endocrine therapy alone from the original RSPC tool and the RSClin tool using the covariate distribution in TAILORx (n 5 9,427) is shown in Figure S9 of the Data Supplement. The median ratio (RSClin tool:original RSPC) is 73.5% (10th-90th percentile 66.8%-80.7%). A calibration plot of the observed 10-year DR risk (martingale extension estimates) from TAILORx arms A and B against the average risk estimate provided by the RSClin tool is shown in Figure S10 of the Data Supplement. The observed risk closely follows the estimated risk, suggesting that the functional form of the covariates in the new model and the PSMA studies provides representative estimates. 
+
+Tumor grade 3, tumor size 1.5 cm, age 55 40% 35% 30% 25% 20% 15% 10% 5% 0% 0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+21-Gene Expression Assay FIG 1. The RSClin tool provides individualized prognosis estimates based on entry of patient information for the RS result, age, tumor size, and tumor grade. Example estimates (solid line) and 95% CIs (dotted lines) provided by the RSClin tool for 10-year distant recurrence risk for endocrine therapy alone with 21-gene expression assay ranging from 0 to 50 for a 55-year-old woman with a tumor size of 1.5 cm, a typical clinical scenario in which the 21-gene RS is commonly used in clinical practice. Panels show results for tumor grades 1 (A), 2 (B), and 3 (C). RS, recurrence score. 
+
+result, tumor grade, and tumor size, and the CIs are larger with high RS results, which occur generally less often. 
+
+Patient-speciﬁc absolute chemotherapy beneﬁt is estimated by combining relative treatment effect estimates from a PSMA of B-20 and TAILORx with the new prognostic tool DR risk estimates. Since the endocrine therapy arm of B-20 was used in the development of the 21-gene RS assay, bias in the B-20 estimate of its relationship with chemotherapy effect cannot be ruled out. However, the prospective TAILORx study gives very similar estimates of chemotherapy effect versus RS result (Data Supplement Fig. S3), suggesting that the bias is not substantial. Example estimates of absolute chemotherapy beneﬁt are shown in Figure 2, demonstrating the impact of RS result, tumor grade, tumor size, and age on prognosis and the predictive effect of RS result on chemotherapy beneﬁt. The results indicate that not all patients with unfavorable traditional risk factors have a large absolute chemotherapy beneﬁt. Conversely, not all patients with favorable traditional risk factors have minimal or no absolute chemotherapy beneﬁt. To further illustrate the impact of prediction of chemotherapy effect by the 21-gene RS assay, Figure 3 shows two examples of absolute beneﬁt estimates from the new prediction tool and the estimate where the relative beneﬁt of chemotherapy was held constant, including typical examples of a clinical low-risk and clinical high-risk subject as deﬁned in the TAILORx trial.7 Using the new prediction tool for a 55-year-old woman with a clinical low-risk 1.5-cm intermediate-grade tumor, the absolute chemotherapy beneﬁt estimate ranges from 0% to 15% as the RS ranges from 11 to 50; this compares with a range of 2%-8% if the relative chemotherapy beneﬁt did not vary by RS result and was held constant. Over the same RS range for a 55-year-old 
+
+4 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Development and Validation of a Prognostic Tool in Breast Cancer 
+
+TG 1 
+
+A Absolute Benefit of Chemotherapy (%) 
+
+TG 2 
+
+Tumor size 1.5 cm, age 55 
+
+24% 22% 20% 18% 16% 14% 12% 10% 8% 6% 4% 2% 0% -2% 5 
+
+13 
+
+18 
+
+23 
+
+TG 3 
+
+28 
+
+40 
+
+21-Gene Expression Assay 
+
+Absolute Benefit of Chemotherapy (%) 
+
+B TS 0.5 cm TS 1.0 cm TS 2.0 cm TS 3.0 cm TS 4.0 cm TS 5.0 cm 
+
+Tumor grade 2, age 55 
+
+24% 22% 20% 18% 16% 14% 12% 10% 8% 6% 4% 2% 0% -2% 5 
+
+13 
+
+18 
+
+23 
+
+28 
+
+40 
+
+21-Gene Expression Assay 
+
+DISCUSSION 
+
+Absolute Benefit of Chemotherapy (%) 
+
+C 24% 22% 20% 18% 16% 14% 12% 10% 8% 6% 4% 2% 0% -2% 
+
+Tumor grade 2, tumor size 1.5 cm 
+
+Age 40 Age 50 Age 60 Age 70 
+
+5 
+
+13 
+
+18 
+
+23 
+
+tool was signiﬁcantly associated with DR risk, with a standardized hazard ratio of 1.73 (95% CI, 1.40 to 2.15; P , .001). A calibration plot of the risk estimate provided by RSClin is shown in Figure 4. Within each quantile, the average estimated 10-year DR risk provided by the RSClin tool approximates the cohort Kaplan-Meier estimate, with a Lin concordance correlation of 0.962. As in the PSMA cohort, the RSClin tool provided more prognostic information than either RS result alone or clinical-pathological characteristics alone using likelihood ratio tests in patients who received endocrine therapy alone with linear effects for RS result, tumor size, and age (RSClin tool v PC [P 5 .027] and RSClin tool v RS result [P 5 .004]). Due in part to the strength of RS result in determining chemotherapy use in this cohort, propensity score matching could not appropriately be used for the evaluation of estimation of chemotherapy beneﬁt by the RSClin tool (see page 76, Appendix S2 of the Data Supplement). 
+
+28 
+
+40 
+
+21-Gene Expression Assay FIG 2. The RSClin tool provides individualized estimates for chemotherapy beneﬁt based on the entry of patient information for the RS result, age, tumor size, and tumor grade. Example estimates and 95% CIs provided by the RSClin tool for the absolute beneﬁt of adjuvant chemotherapy for (A) tumor grade series, (B) tumor size series, and (C) patient age series. RS, recurrence score. 
+
+woman with clinical high-risk 2.5-cm poor-grade tumor, the tool’s absolute chemotherapy beneﬁt estimate ranges from 1% to 33% compared with 4% to 17% if the relative chemotherapy beneﬁt was held constant. This indicates that incremental chemotherapy beneﬁt observed with higher recurrence score is driven not only by a higher underlying recurrence risk but also by prediction of greater relative risk reduction with chemotherapy. External Validation of RSClin Risk Estimates in a RealWorld Data Set External validation was performed using data from 1,098 evaluable patients with node negative disease in the previously described Clalit Health Registry, of whom 876 received endocrine therapy alone and 222 received chemotherapy guided by the use of the 21-gene assay in addition to endocrine therapy (see Table S1 of the Data Supplement).10 The risk estimate provided by the RSClin 
+
+In hormone receptor–positive, HER2-negative breast cancer, DR rates reﬂect the underlying recurrence risk, beneﬁt from adjuvant endocrine therapy, and incremental beneﬁt from adjuvant chemotherapy. The new RSClin prognostic tool integrates prognostic information provided by clinical-pathological features and the 21-gene RS assay in the context of contemporary adjuvant endocrine therapy and medical practice for estimation of 10-year DR rates in node-negative disease with endocrine therapy alone. It has also been enhanced to provide estimation of the absolute chemotherapy beneﬁt expected in individual patients. Comparison of the estimates of absolute chemotherapy beneﬁt as a function of RS result provided by RSClin with estimates in which the relative chemotherapy beneﬁt is held constant shows that RS result prediction contributes substantially to differentiation of treatment effect over and above the effect of increasing recurrence risk. Overall, the absolute magnitude of the chemotherapy beneﬁt depends on the relative chemotherapy beneﬁt associated with the individual’s RS result and the individual’s underlying DR risk that is inﬂuenced by both clinical-pathological features and the RS result. The NSABP B-20 trial used cyclophosphamide, methotrexate, and ﬂuorouracil (CMF) or MF. In TAILORx, of the patients with the RS result of 11-25 who received chemotherapy, 56% received taxane and cyclophosphamide, 36% an anthracycline-based regimen, and 7% CMF. RSClin estimates of absolute chemotherapy beneﬁt use individualized chemotherapy hazard ratio estimates from a PSMA of TAILORx and B-20 for RS 11-25 and B-20 exclusively for RS outside this range. It is reassuring that the chemotherapy effects from TAILORx and B-20 are reasonably consistent (Data Supplement Fig. S3). Nevertheless, the RSClin estimates of the absolute beneﬁt of chemotherapy may be conservative, particularly for RS 
+
+Journal of Clinical Oncology 
+
+5 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sparano et al 
+
+A 
+
+B Typical Clinical High-Risk Patient (Tumor grade 3, tumor size 2.5 cm, age 55) 
+
+24% 22% 20% 18% 16% 14% 12% 10% 8% 6% 4% 2% 0% -2% 
+
+Absolute Benefit of Chemotherapy on 10Y Risk of DR 
+
+Absolute Benefit of Chemotherapy on 10Y Risk of DR 
+
+Typical Clinical Low-Risk Patient (Tumor grade 2, tumor size 1.5 cm, age 55) Estimate accounting for RS x chemo interaction Estimate holding chemo HR constant No benefit reference 
+
+0 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+21-Gene Expression Assay 
+
+24% 22% 20% 18% 16% 14% 12% 10% 8% 6% 4% 2% 0% -2% 
+
+Estimate accounting for RS x chemo interaction Estimate holding chemo HR constant No benefit reference 
+
+0 
+
+5 
+
+10 
+
+15 
+
+20 
+
+25 
+
+30 
+
+35 
+
+40 
+
+45 
+
+50 
+
+21-Gene Expression Assay 
+
+FIG 3. Comparison between estimate of absolute chemotherapy beneﬁt provided by the RSClin tool (using PSMA estimate of relative chemotherapy beneﬁt derived from B-20 and TAILORx) with estimate of absolute chemotherapy beneﬁt if relative chemotherapy beneﬁt was held constant (assuming higher RS result was associated with higher recurrence risk, but not greater relative chemotherapy beneﬁt). Examples provided include (A) a 55-year-old woman with a 1.5-cm intermediate-grade tumor (a typical low clinical risk patient) and (B) a 55-year-old woman with a 2.5-cm high-grade tumor (a typically high clinical risk patient). RS, recurrence score. 
+
+26-100, relative to the most common current chemotherapy regimens. 
+
+10-Year Risk of Distant Recurrence 
+
+Validation of the 21-gene RS assay in a HER2-negative subset of the NSABP B-20 cohort showed chemotherapy beneﬁt in patients with an RS result of 26 or higher.3 The TAILORx trial found that there was no chemotherapy beneﬁt in the overall TAILORx population with an RS result of 11-25, consistent with the previous ﬁnding that substantial chemotherapy beneﬁt was obtained primarily in patients with higher recurrence score results. Subgroup analysis showed some chemotherapy beneﬁt in women of 
+
+22% 20% 18% 16% 14% 12% 10% 8% 6% 4% 2% 0% 
+
+Average RSClin risk estimate KM risk estimate 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Quintile Based on RSClin Risk Estimate FIG 4. External validation of RSClin: Risk estimates provided by the RSClin tool versus real-world patient outcomes in the Clalit Health Services cohort: Analysis of the 1,098 patients divided into 5 quintiles based on increasing risk as calculated by the RSClin tool. Bars represent 95% CIs. The Lin concordance correlation is 0.962. 
+
+age 50 or younger with RS results of 16-20 and 21-25 (1.6% and 6.5% absolute reduction in 9-year DR risk, respectively).5 Similar ﬁndings have been observed in a population-based cohort of 70,000 women with nodenegative breast cancer.15 The new RSClin tool ﬁlls a need for more individualized estimation of absolute chemotherapy beneﬁt. It has been suggested that the absolute chemotherapy beneﬁt in women of age 50 or younger with an RS result of 16-25 may be due to chemotherapy-induced early menopause.7 The use of ovarian function suppression plus an aromatase inhibitor rather than tamoxifen produces substantial reduction in recurrence risk comparable to chemotherapy16 and may be considered an option in circumstances where patients desire an alternative to chemotherapy. Other decision aides provide prognostic information in early breast cancer.17 These prognostic models generally performed well in the development cohorts, with a relatively few validated in independent cohorts, especially in younger women. Two prognostic assays, EPclin and the Risk of Recurrence Score, incorporate clinical-pathological and genomic information.18,19 Advantages of the RSClin tool described in this report include the robust data set used in the meta-analysis, including younger women, use of DR rather than overall mortality as the end point, integration of predictive information for chemotherapy beneﬁt provided by the RS result, and external validation in an independent cohort that reﬂects real-world clinical practice. Limitations include the lack of an external validation set including patients randomly assigned to chemotherapy. 
+
+6 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Development and Validation of a Prognostic Tool in Breast Cancer 
+
+In conclusion, we have developed a new prognostic tool called RSClin that reﬂects current medical practice for hormone receptor–positive, HER2-negative, and nodenegative breast cancer, provides more accurate prognostic information than clinical-pathological features or RS result used individually, and externally validated the precision of the tool in providing prognostic estimates for 10-year DR rate in an independent real-world cohort. The RSClin tool has also been enhanced to now provide 
+
+individualized estimates of absolute chemotherapy beneﬁt. We have also shown that the individualized chemotherapy effect prediction provided by the RS result, based on contemporary treatments, contributes substantially to the estimate of absolute chemotherapy beneﬁt. As demonstrated by this report, PSMA methods may be used in conjunction with randomized clinical trials to develop tools that facilitate more effective application of precision medicine in cancer therapy. 
+
+AFFILIATIONS 
+
+PRIOR PRESENTATION 
+
+1 
+
+Presented in part at the 43rd San Antonio Breast Cancer Virtual Symposium, December 8-12, 2020. 
+
+Monteﬁore Medical Center, Albert Einstein College of Medicine, Bronx, New York 2 Exact Sciences, Redwood City, CA 3 University of Pittsburgh, NRG Oncology Statistical and Data Management Center, Pittsburgh, PA 4 Dana Farber Cancer Institute, ECOG-ACRIN Statistical Center, Boston, MA 5 Davidoff Center, Rabin Medical Center, Petah Tikva, Israel; Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel 
+
+SUPPORT Supported by the National Cancer Institute of the National Institutes of Health under the following award numbers: U10CA180820, U10CA180794, UG1CA189859, U10CA180868, and U10CA180822. Additional support provided by the Breast Cancer Research Foundation, the Komen Foundation, and the Breast Cancer Research Stamp (BCRS) issued by the United States Postal Service. 
+
+CORRESPONDING AUTHOR Joseph A. Sparano, MD, Monteﬁore Medical Center, Albert Einstein College of Medicine, 1695 Eastchester Road, Bronx, NY 10461; e-mail: jsparano@monteﬁore.org. 
+
+DISCLAIMER The content is solely the responsibility of the authors and does not necessarily represent the ofﬁcial views of the National Institutes of Health. Mention of trade names, commercial products, or organizations does not imply endorsement by the US government. 
+
+DATA SHARING STATEMENT Data from the NCI-sponsored trials (B14, B20, TAILORx) may be requested from the NCI NCTN Data Archive (https://nctn-dataarchive.nci.nih.gov). Data from the CLALIT registry may be requested from the study chair (SMS). Data requests may also be submitted to the corresponding author, who may assist in coordinating the request from the appropriate sources. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at DOI https://doi.org/10.1200/JCO.20.03007. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Joseph A. Sparano, Michael R. Crager, Robert J. Gray, Steven Shak Financial support: Joseph A. Sparano Administrative support: Joseph A. Sparano Provision of study materials or patients: Joseph A. Sparano, Salomon M. Stemmer Collection and assembly of data: Gong Tang, Joseph A. Sparano, Robert J. Gray, Salomon M. Stemmer Data analysis and interpretation: All authors Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+REFERENCES 1. 
+
+Paik S, Shak S, Tang G, et al: A multigene assay to predict recurrence of tamoxifen-treated, node-negative breast cancer. N Engl J Med 351:2817-2826, 2004 
+
+2. 
+
+Paik S, Tang G, Shak S, et al: Gene expression and beneﬁt of chemotherapy in women with node-negative, estrogen receptor-positive breast cancer. J Clin Oncol 24:3726-3734, 2006 
+
+3. 
+
+Geyer CE Jr, Tang G, Mamounas EP, et al: 21-Gene assay as predictor of chemotherapy beneﬁt in HER2-negative breast cancer. NPJ Breast Cancer 4:37, 2018 
+
+4. 
+
+Albain KS, Barlow WE, Shak S, et al: Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with node-positive, oestrogen-receptor-positive breast cancer on chemotherapy: A retrospective analysis of a randomised trial. Lancet Oncol 11:55-65, 2010 
+
+5. 
+
+Sparano JA, Gray RJ, Makower DF, et al: Adjuvant chemotherapy guided by a 21-gene expression assay in breast cancer. N Engl J Med 379:111-121, 2018 
+
+6. 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 
+
+7. 
+
+Sparano JA, Gray RJ, Ravdin PM, et al: Clinical and genomic risk to guide the use of adjuvant therapy for breast cancer. N Engl J Med 380:2395-2405, 2019 
+
+8. 
+
+Tang G, Cuzick J, Costantino JP, et al: Risk of recurrence and chemotherapy beneﬁt for patients with node-negative, estrogen receptor-positive breast cancer: Recurrence score alone and integrated with pathologic and clinical factors. J Clin Oncol 29:4365-4372, 2011 
+
+9. 
+
+Pan H, Braybrooke J, Gray, R, et al; for the EBCTCG: Improvements in long-term outcome for women with estrogen receptor positive (ER1) early stage breast cancer treated with 5 years of endocrine therapy: Analyses of 82,598 women in the Early Breast Cancer Trialists’ Collaborative Group (EBCTCG) database. Cancer Research 80, 2019 (abstr GS2-04) 
+
+10. Stemmer SM, Steiner M, Rizel S, et al: Ten-year clinical outcomes in N0 ER1 breast cancer patients with Recurrence Score-guided therapy. NPJ Breast Cancer 5:41, 2019 11. Crager MR, Tang G: Patient-speciﬁc meta-analysis for risk assessment using multivariate proportional hazards regression. J Appl Stat 41:2676-2695, 2014 
+
+Journal of Clinical Oncology 
+
+7 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Sparano et al 12. Sparano JA, Gray RJ, Makower DF, et al: Clinical outcomes in early breast cancer with a high 21-gene recurrence score of 26 to 100 assigned to adjuvant chemotherapy plus endocrine therapy: A secondary analysis of the TAILORx randomized clinical trial. JAMA Oncol 6:367-374, 2019 13. Early Breast Cancer Trialists’ Collaborative Group: Aromatase inhibitors versus tamoxifen in early breast cancer: Patient-level meta-analysis of the randomised trials. Lancet 386:1341-1352, 2015 14. Oncotype IQ. Exact Sciences. Physician Portal. https://online.genomichealth.com 15. Hortobagyi GN, Shak S, Sledge GW Jr, et al: Breast cancer-speciﬁc mortality (BCSM) in patients (pts) with node-negative (N0) and node-positive (N1) breast cancer (BC) guided by the 21-gene assay: A SEER-genomic population-based study. Cancer Research 79:P3-11-02-P3-11-02, 2019 (abstr SABCS18-P3-1102). 16. Pagani O, Francis PA, Fleming GF, et al: Absolute improvements in freedom from distant recurrence to tailor adjuvant endocrine therapies for premenopausal women: Results from TEXT and SOFT. J Clin Oncol 38:JCO1801967, 2019 17. Phung MT, Tin Tin S, Elwood JM: Prognostic models for breast cancer: A systematic review. BMC Cancer 19:230, 2019 18. Dubsky P, Filipits M, Jakesz R, et al: EndoPredict improves the prognostic classiﬁcation derived from common clinical guidelines in ER-positive, HER2-negative early breast cancer. Ann Oncol 24:640-647, 2013 19. Chia SK, Bramwell VH, Tu D, et al: A 50-gene intrinsic subtype classiﬁer for prognosis and prediction of beneﬁt from adjuvant tamoxifen. Clin Cancer Res 18: 4465-4472, 2012 
+
+n n n 
+
+8 © 2020 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+Development and Validation of a Prognostic Tool in Breast Cancer AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Development and Validation of a Tool Integrating the 21-Gene Recurrence Score and Clinical-Pathological Features to Individualize Prognosis and Prediction of Chemotherapy Beneﬁt in Early Breast Cancer The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless otherwise noted. Relationships are self-held unless noted. I 5Immediate Family Member, Inst 5 My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/authors/author-center. Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians (Open Payments). Joseph A. Sparano Stock and Other Ownership Interests: Metastat Consulting or Advisory Role: Genentech/Roche, Novartis, AstraZeneca, Celgene, Lilly, Celldex, Pﬁzer, Prescient Therapeutics, Juno Therapeutics, Merrimack, Adgero Biopharmaceuticals, Cardinal Health, GlaxoSmithKline, CStone Pharmaceuticals, Epic Sciences, Daiichi Sankyo Research Funding: Prescient Therapeutics, Deciphera, Genentech/Roche, Merck, Novartis, Merrimack, Radius Health Travel, Accommodations, Expenses: Menarini Silicon Biosystems, Roche/ Genentech, Adgero Biopharmaceuticals, Myriad Genetics, Pﬁzer, AstraZeneca, Rhenium Michael R. Crager Employment: Exact Sciences Stock and Other Ownership Interests: Exact Sciences Travel, Accommodations, Expenses: Genomic Health 
+
+Salomon M. Stemmer Stock and Other Ownership Interests: canﬁte, tyrnovo, CTG Pharma, VYPE, DocBoxMD Research Funding: Teva, Clovis Oncology, AstraZeneca, Can-Fite BioPharma, Puma Biotechnology, Lilly, GEICAM, Bristol-Myers Squibb, Roche, MSD, Halozyme, BiolineRx, Incyte, Silenseed, Tiziana Life Sciences, CTG Pharma, Syncore, Moderna Therapeutics, Exelixis, Rafael Pharmaceuticals Patents, Royalties, Other Intellectual Property: combo patent, check point inhibitors, ctg, vype Steven Shak Employment: Exact Sciences Leadership: Exact Sciences Stock and Other Ownership Interests: Exact Sciences Patents, Royalties, Other Intellectual Property: Filed Oncotype DX patents No other potential conﬂicts of interest were reported. 
+
+Robert J. Gray Research Funding: Agios, Amgen, AstraZeneca, Bristol-Myers Squibb, Boehringer Ingelheim, Celgene, Genentech/Roche, Genomic Health, Genzyme, GlaxoSmithKline, Janssen-Ortho, Onyx, Pﬁzer, Sequenta, Syndax, Novartis, Takeda, Abbvie, Sanoﬁ, Merck Sharp & Dohme 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by 45.148.233.202 on December 11, 2020 from 045.148.233.202 Copyright © 2020 American Society of Clinical Oncology. All rights reserved. 
+
+ 

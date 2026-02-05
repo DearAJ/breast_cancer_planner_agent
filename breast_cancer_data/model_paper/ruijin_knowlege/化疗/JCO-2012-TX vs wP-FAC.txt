@@ -1,0 +1,439 @@
+VOLUME 
+
+30 
+
+䡠 
+
+NUMBER 
+
+9 
+
+䡠 
+
+MARCH 
+
+20 
+
+2012 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Phase III Trial Evaluating Weekly Paclitaxel Versus Docetaxel in Combination With Capecitabine in Operable Breast Cancer Catherine M. Kelly, Marjorie C. Green, Kristine Broglio, Eva S. Thomas, Abenaa M. Brewster, Vicente Valero, Nuhad K. Ibrahim, Ana M. Gonzalez-Angulo, Daniel J. Booser, Ronald S. Walters, Kelly K. Hunt, Gabriel N. Hortobagyi, and Aman U. Buzdar See accompanying editorial on page 901 All authors, The University of Texas MD Anderson Cancer Center, Houston, TX. Submitted March 26, 2011; accepted November 9, 2011; published online ahead of print at www.jco.org on February 13, 2012. Supported in part by Cancer Center Support Grant No. 2 P30 CA016672, from the Nellie B. Connally Breast Cancer Research Fund; grants from Roche, Bristol-Myers Squibb, and Pfizer; and funding to C.M.K. from the Susan G. Komen Research Foundation. Presented at the 44th Annual Meeting of the American Society of Clinical Oncology, Chicago, IL, May 30-June 3, 2008. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Clinical Trials repository link available on JCO.org. Corresponding author: Aman U. Buzdar, MD, Department of Breast Medical Oncology, University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Box 1354, Houston, TX 77030; e-mail: abuzdar@ mdanderson.org. © 2012 by American Society of Clinical Oncology 
+
+A 
+
+B 
+
+S 
+
+T 
+
+A 
+
+C 
+
+T 
+
+Purpose We investigated whether capecitabine and docetaxel followed by fluorouracil, epirubicin, and cyclophosphamide (FEC) or weekly paclitaxel (WP) followed by FEC would improve relapse-free survival (RFS) in operable breast cancer. Patients and Methods In this single-institution study, patients with clinical stages I to IIIC breast cancer were randomly assigned on a 1:1 basis to WP 80 mg/m2 for 12 weeks followed by fluorouracil 500 mg/m2, epirubicin 100 mg/m2, and cyclophosphamide 500 mg/m2 (FEC-100) every 3 weeks for four cycles or docetaxel 75 mg/m2 on day 1 and capecitabine (XT) 1,500 mg/m2 on days 1 through 14 every 3 weeks for four cycles followed by FEC for four cycles and stratified by timing of chemotherapy (preoperative v adjuvant). Accrual was stopped short of 930 patients on the basis of a Bayesian predictive calculation that additional accrual would be unlikely to change the qualitative comparison of the two regimens. Results After enrollment of 601 patients and a median follow-up of 50 months, we observed no improvement in RFS between XT (87.5%; 95% CI, 82.7% to 91.1%) and WP (90.7%; 95% CI, 86.4% to 93.7%; P ⫽ .51). In the preoperative group, the pathologic complete response rate was 19.8% and 16.4% in the XT and WP arms, respectively (P ⫽ .45). Rates of breast-conserving surgery were similar between the two groups (P ⫽ .48). The XT arm had a significantly higher incidence of stomatitis (P ⬍ .001), hand-foot syndrome (P ⬍ .001), and neutropenic infection (P ⬍ .001). Conclusion There was no difference in efficacy between WP and XT as used in this randomized phase III trial. XT was associated with higher GI, skin, and neutropenic-related toxicities. J Clin Oncol 30:930-935. © 2012 by American Society of Clinical Oncology 
+
+0732-183X/12/3009-930/$20.00 
+
+INTRODUCTION 
+
+DOI: 10.1200/JCO.2011.36.2079 
+
+Combination chemotherapy is associated with a significant survival advantage for all stages of operable breast cancer.1 Meta-analyses have shown that anthracycline-containing regimens are superior to regimens that do not contain anthracyclines, and the incorporation of taxanes provides further improvement in outcome.1-3 Standard adjuvant regimens that contain anthracycline and a taxane differ with respect to scheduling of agents, dosing, and timing.4 The Eastern Cooperative Oncology Group (ECOG) E1199 phase III clinical trial demonstrated improved efficacy for paclitaxel given weekly and 930 
+
+R 
+
+docetaxel given once every three weeks compared with paclitaxel administered once every three weeks.5 In the preoperative setting, weekly paclitaxel was associated with significantly higher rates of pathologic complete response (pCR) and breastconserving surgery (BCS) compared with paclitaxel given on a schedule of once every three weeks.6 Capecitabine is an oral fluorouracil (FU) prodrug that is converted from 5⬘-deoxy-5fluorouridine into FU by the enzyme thymidine phosphorylase, which is concentrated in tumor cells.7 Docetaxel has been shown to upregulate this enzyme, thereby enhancing the delivery of active metabolites to tumor cells.8 In the metastatic 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Docetaxel/Capecitabine Versus Paclitaxel in Breast Cancer 
+
+setting, the combination of docetaxel and capecitabine was associated with a significant improvement in response rate, time to progression, and overall survival (OS), suggesting synergy between the two agents.9 We hypothesized that capecitabine would enhance the antitumor activity of docetaxel and that this combination would result in improved efficacy over the standard adjuvant breast cancer regimen of weekly paclitaxel (WP) followed by fluorouracil, epirubicin, and cyclophosphamide (FEC) used at our institution. In this open-label, randomized, phase III trial, patients with operable breast cancer were assigned to WP followed by FEC or docetaxel and capecitabine (XT) followed by FEC. Patients were stratified according to the timing of chemotherapy (preoperative v adjuvant). Accrual was stopped by the institution’s independent Data and Safety Monitoring Board (DSMB) at a median follow-up of 40 months and 35 relapse-free survival (RFS) events on the basis of a Bayesian predictive probability calculation that the trial results would not change with additional accrual. Here we report results at a median follow-up of 50 months and 64 RFS events. The primary objective was to determine the impact of each regimen on RFS. The secondary objectives were OS, the ability of preoperative XT to enhance BCS compared with WP, and assessment of the safety profile of each regimen. The study was approved by the institutional review board. All patients signed a written institutional informed consent form in compliance with the federal regulations. The trial registration number is NCT00050167. PATIENTS AND METHODS Patients with histologic confirmation of invasive but not inflammatory carcinoma of the breast were eligible. Patients with stage I (T1N0) were not eligible for the preoperative portion of the trial. However, those considered to be high risk (ie, those patients who with any of the following: Ki-67 ⬎ 35%, poorly differentiated tumors [Black’s modified grade 310], estrogen receptor [ER]– negative/progesterone receptor–negative, or lymphovascular invasion) were eligible for adjuvant therapy on protocol. Patients with bilateral disease and those with pN2a and pN3a were eligible; patients with pN2b (metastasis in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis) or infraclavicular or supraclavicular lymph node involvement were not eligible. To be eligible for preoperative therapy, patients had to have clinically palpable disease in the breast and/or axilla that was measurable by ultrasound. Patients with clinically staged N2 or N3 nodal disease or metastatic breast cancer were not eligible. Patients with T4 lesions were not eligible, but patients with limited T4 lesions (eg, focal extension into the skin with negative margins) were eligible for adjuvant therapy. A prior diagnosis of breast cancer was allowed if it was not of higher stage than the current breast cancer and there was no prior exposure to the study agents. Before initiating therapy, a medical history, physical examination, complete blood count, biochemical profile, chest radiograph, ultrasound or computed tomography scan of the liver, and a bone scan (the latter two investigations were optional for stage I patients) were performed. Patients with palpable or abnormal lymph nodes on ultrasound underwent fine-needle aspiration. Multiple-gated acquisition scans were performed on patients with long-standing hypertension, previous cardiac events, or suspected cardiac dysfunction to confirm a left ventricular ejection fraction of more than 50%. Adequate bone marrow function was required and was defined by an absolute neutrophil count (ANC) ⱖ 1,500/␮L and platelet count ⱖ 100,000/␮L. Adequate liver (normal bilirubin, transaminases up to 2.5⫻ the upper limit of normal [ULN], or alkaline phosphatase up to 4⫻ ULN if transaminases were less than or equal to ULN) and renal function (serum creatinine ⱕ 2.5 mg/dL and/or creatinine clearance ⬎ 51 mL/min) were required. All tumors were evaluated by immunohistochemistry for ER, prgeswww.jco.org 
+
+terone receptor, and human epidermal growth factor receptor 2 (HER2) by immunohistochemistry and/or fluorescent in situ hybridization. Patients with HER2-positive disease were excluded after the results of adjuvant trastuzumab clinical trials became available in 2005. Treatment Plan Patients assigned to arm 1 received paclitaxel 80 mg/m2 intravenously (IV) weekly for 12 weeks. Patients assigned to arm 2 received docetaxel 75 mg/m2 IV over 1 hour on day 1 and capecitabine 1,500 mg/m2 daily in two divided doses 12 hours apart on days 1 to 14. Both drugs were initiated on day 1 every 21 days and that constituted one cycle. If a patient discontinued capecitabine for any reason, the remaining cycles of docetaxel were given at a dose of 100 mg/m2 every 3 weeks. After completion of arm 1 or 2, all patients received four cycles of FU 500 mg/m2 IV, epirubicin 100 mg/m2 IV, and cyclophosphamide 500 mg/m2 IV (FEC) on day 1 every 21 days. National Cancer Institute Common Toxicity Criteria version 2.0 was used to assess treatment-related toxicities. Paclitaxel was held for an ANC less than 1,000/␮L and/or platelet count less than 100,000/␮L on day 1. The dose of WP was reduced by 20% for persistent ANC less than 1,000/␮L (2 consecutive weeks) and/or platelet count less than 100,000/␮L. WP was held for grade 3 neurotoxicity until it was grade ⱕ 2, and then WP was restarted at a 25% dose reduction. For any other organ toxicity of grade ⱖ 3, WP was reduced by 20%. XT was held for an ANC less than 1,200/␮L and/or platelet count less than 100,000/␮L. For subsequent cycles, if there was a delay of more than 1 week because of low blood counts or neutropenic fever, docetaxel was reduced to 55 mg/m2. XT was held for grade 3 neurotoxicity and was restarted at 55 mg/m2 on resolution to grade ⱕ 2. Docetaxel was discontinued if grade 3 neurotoxicity recurred after a dose reduction, and capecitabine was continued as a single agent. For grade 2 diarrhea/stomatitis, capecitabine was held until it returned to grade 0 to 1 and then resumed at the same dose. If it persisted until the start of the next cycle, the cycle was delayed until it resolved to grade 0 to 1, and then it was continued at 100% of the original XT dosing. On any subsequent development of grade 2 diarrhea/stomatitis, therapy was held until it resolved to grade 0 to 1, and then docetaxel was reduced to 55 mg/m2 and capecitabine was reduced by 25%. For grade 3 diarrhea, capecitabine was resumed at 75% of the original dose, once the diarrhea had resolved to grade 0 to 1. Similar dose reductions were instituted for grade 2 to 3 hand-foot syndrome. The FEC component was held for an ANC less than 1,200/␮L and/or platelet count less than 100,000/␮L on day 1 and was resumed once it was at least at these levels again. Hematopoietic growth factors were given for neutropenic fever if there was a delay in administration of chemotherapy for more than 7 days because of neutropenia or neutropenic fever during the taxane component. All drugs in FEC therapy were reduced by 25% for neutropenic fever after prophylactic granulocyte colony-stimulating factor and for any grade 3 toxicity involving any organ. Criteria for Response For the preoperative group, partial response was defined as ⱖ 50% reduction in the product of the perpendicular diameters of the measurable lesion(s) without progression of any lesion or appearance of any new disease. Stable disease was defined as no change or as a decrease in tumor measurements insufficient to qualify as a partial response. Progression of disease was defined as a 25% increase in size of (any) tumor and/or the appearance of new lesions. pCR was defined as no histopathologic evidence of residual invasive cancer cells in the breast and axillary lymph nodes. Clinical response assessment was conducted after eight cycles of chemotherapy. Statistical Considerations Patients were randomly assigned on a 1:1 basis to receive WP followed by FEC (arm 1) or XT followed by FEC (arm 2). Randomization was carried out centrally according to a moving block scheme in groups of four stratified by timing of chemotherapy. The primary efficacy end point was RFS defined as the time from study entry until local recurrence, distant metastasis, or death from any cause, whichever occurred first.11 Secondary efficacy end points included the proportion of patients who achieved a pCR and the proportion of © 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+931 
+
+Kelly et al 
+
+Enrolled and underwent random assignment (N = 603) 
+
+Assigned to XT (n = 301) 
+
+Assigned to WP (n = 302) 
+
+Ineligible (DCIS only; n = 1) 
+
+Ineligible (stage IV; n = 1) 
+
+n = 300 
+
+n = 301 
+
+Received preoperative XT Received nonprotocol treatment Received adjuvant XT Received nonprotocol treatment 
+
+(n = 111) (n = 2) (n = 189) (n = 6) 
+
+Received preoperative WP Received adjuvant WP Received nonprotocol treatment 
+
+(n = 110) (n = 191) (n = 4) 
+
+Included in the intent to treat analysis Included in the safety analysis 
+
+(n = 300) (n = 292) 
+
+Included in the intent to treat analysis Included in the safety analysis 
+
+(n = 301) (n = 297) 
+
+patients who were able to have BCS after preoperative therapy; OS was defined as the time from date of study entry to death from any cause. On the basis of prior studies demonstrating a 4-year disease-free survival (DFS) of 85% for paclitaxel followed by FEC, we planned to accrue 930 patients to give 80% power to detect an increase in RFS from 85% to 92% associated with XT followed by the FEC regimen, with a two-sided significance level of 0.05 and a minimum follow-up of 1 year or observation of 77 recurrence events.6 We performed the efficacy analysis on all eligible patients who underwent random assignment. The safety analysis was performed on all patients who had at least one cycle of protocol-specified treatment. We analyzed frequency tables with Fisher’s exact test or the ␹2 test. To compare RFS and OS between the two arms, we used the Kaplan-Meier life-table method. We also compared treatment arms by using a Cox proportional hazards model adjusted for tumor size, nodal status, and ER status; to determine the statistical significance of each variable in the model, we used the Wald ␹2 test. The proportional hazards assumption was verified by using Schoenfeld residuals. All analyses were performed by using SAS version 9.1 (SAS Institute, Cary NC). Protocol Amendments A planned blinded efficacy interim analysis of pCR results was performed after the first 40 patients treated with preoperative therapy had undergone surgery. Evaluation by the trial’s DSMB concluded there was no evidence that the rate of pCR associated with XT was 10% below that of WP (five patients [25%] and four patients [20%] in the WP and XT arms, respectively, had a pCR). The initial protocol specified a capecitabine dose of 2,000 mg/m2 daily on days 1 through 14. Because of excessive toxicity in the first 10 patients randomly assigned, the capecitabine dose was reduced to 1,500 mg/m2 to ensure patient safety and drug delivery (Appendix Table A1, online only). The protocol sample size calculation specified that 77 RFS events were necessary to have 80% power to detect an increase in RFS from 85% to 92%. In June 2008, after 601 patients had been enrolled and 35 RFS events had been observed, the DSMB performed its annual safety and efficacy reviews of the trial results. There had been 18 RFS events in the WP group and 17 in the XT group. A Bayesian predictive probability analysis based on the available results showed that if the trial were to continue to accrue the original target of 930 patients (which was estimated to require another 42 months) and follow all patients for an additional 12 months, the probability of concluding in favor of XT was 0.5% and concluding in favor of WP was 0.2%. The probability the trial would conclude in favor of neither treatment was 99.3%. Because it was highly unlikely that the qualitative comparison of the two regimens would change with additional patient accrual, the DSMB decided to stop accrual and encour932 
+
+© 2012 by American Society of Clinical Oncology 
+
+Fig 1. Trial profile. DCIS, ductal carcinoma in situ; WP, weekly paclitaxel; XT, docetaxel plus capecitabine. 
+
+aged the investigators to make the trial results accessible to patients and their physicians as soon as reasonable. 
+
+RESULTS 
+
+Between November 20, 2002, and July 2, 2008, 603 patients were randomly assigned (Fig 1). Two patients were randomly assigned and subsequently deemed ineligible (one had stage IV disease and one had ductal carcinoma in situ only) and were not included in the intentionto-treat efficacy analysis. The median age at diagnosis was 50 years (interquartile range, 42 to 57 years). Patient characteristics were balanced between treatment arms (Table 1). Efficacy At a median follow-up of 50 months, there were 64 RFS events (Table 2). There was no improvement in RFS for XT (87.5%; 95% CI, 82.7% to 91.1%) compared with WP (90.7%; 95% CI, 86.4% to 93.7%; P ⫽ .51; Fig 2). There was no difference in the rate of pCR between XT and WP (19.8% v 16.4%; P ⫽ .48). There was no difference in the rate of BCS between XT and WP (45% v 40%, respectively; P ⫽ .45). We observed no improvement in RFS in patients who received preoperative therapy with XT (81.5%; 95% CI, 71.8% to 88.2%) versus WP (85.5%; 95% CI, 76.0% to 91.4%; P ⫽ .65) or adjuvant XT (90.9%; 95% CI, 85.1% to 94.4%) versus WP (93.5%; 95% CI, 88.6% to 96.4%; P ⫽ .66). The efficacy outcomes were excellent for both groups. OS was 92.2% (95% CI, 88.0% to 95.0%) and 95.0% (95% CI, 91.3% to 97.2%) in the XT and WP arms, respectively (log-rank P ⫽ .39; Fig 2). Multivariate Analysis In a multivariate Cox proportional hazards model adjusted for relevant confounders there was no improvement in RFS for XT compared with WP (hazard ratio, 1.02; 95% CI, 0.62 to 1.69; P ⫽ .93; Table JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Docetaxel/Capecitabine Versus Paclitaxel in Breast Cancer 
+
+Age, years Median IQR Menopausal status Premenopausal Postmenopausal Stage at diagnosis I IIA IIB IIIA IIIB IIIC Estrogen receptor status Positive Negative Progesterone receptor status Positive Negative HER2 status Positive Negative Triple negative Yes No Nuclear grade I II III Adjuvant endocrine therapy Yes No Adjuvant radiotherapy Yes No 
+
+Weekly Paclitaxel (n ⫽ 301) 
+
+No. 
+
+No. 
+
+% 
+
+% 
+
+1.0 
+
+P (␹2 test) .69ⴱ 
+
+49 42-57 
+
+47 40-55 .48 
+
+138 161 
+
+46 54 
+
+130 170 
+
+43 57 
+
+41 134 83 30 0 12 
+
+14 45 28 10 0 4 
+
+41 148 73 30 1 8 
+
+10 49 24 10 0.3 3 
+
+.68 
+
+69 31 
+
+221 80 
+
+73 27 
+
+155 145 
+
+52 48 
+
+165 135 
+
+55 45 .46 
+
+5 95 
+
+19 277 
+
+6 94 .15 
+
+82 218 
+
+27 73 
+
+67 234 
+
+22 78 
+
+12 107 181 
+
+4 36 60 
+
+18 127 156 
+
+6 42 52 
+
+0.4 
+
+0.2 
+
+Log-rank test P = .50 
+
+216 85 
+
+72 28 .43 
+
+222 78 
+
+74 26 
+
+214 87 
+
+40 
+
+60 
+
+80 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.2 
+
+Paclitaxel Docetaxel/capecitabine Log-rank test P = .39 
+
+0 .41 
+
+69 31 
+
+20 
+
+1.0 
+
+.09 
+
+206 94 
+
+Paclitaxel Docetaxel/capecitabine 
+
+B .43 
+
+15 285 
+
+0.6 
+
+Time From Random Assignment (months) .23 
+
+207 93 
+
+0.8 
+
+0 
+
+Overall Survival (%) 
+
+Characteristic 
+
+Docetaxel/ Capecitabine (n ⫽ 300) 
+
+A Relapse-Free Survival (%) 
+
+Table 1. Cohort Characteristics for Eligible Patients Treated in Preoperative and Adjuvant Settings (N ⫽ 601) 
+
+71 29 
+
+Abbreviations: HER2, human epidermal growth factor receptor 2; IQR, interquartile range. ⴱ Kruskal-Wallis test. 
+
+3). The interaction between treatment and hormone receptor status was not statistically significant (P ⫽ .88). Compliance In the XT and WP arms, 90% and 86% received all preplanned number of treatment cycles (Appendix Table A1). There were 292 
+
+20 
+
+40 
+
+60 
+
+80 
+
+Time From Random Assignment (months) Fig 2. Kaplan-Meier curves show relapse-free and overall survival at a median follow-up of 50 months for weekly paclitaxel followed by fluorouracil, epirubicin, and cyclophosphamide versus docetaxel and capecitabine followed by fluorouracil, epirubicin, and cyclophosphamide. 
+
+patients assigned to XT, and 148 (50.5%) required at least one dose reduction or discontinuation of capecitabine alone or in addition to docetaxel. Of the 292 patients assigned to XT, 33 (11.3%) discontinued capecitabine and continued docetaxel alone at 100 mg/m2, and seven patients (2.4%) discontinued both drugs before four cycles were completed. Of 281 patients starting capecitabine at the 1,500 mg/m2 dose, 71 (25.3%) had a dose increase to 2,000 mg/m2 because there was no significant toxicity, and 46 of these patients were able to sustain the 
+
+Table 3. Multivariate Analysis of RFS Among 592 Patients Table 2. Pathologic Response Rates in Patients Receiving Preoperative Therapy and RFS Events in All Patients Docetaxel/ Capecitabine (n ⫽ 111) Event Pathologic complete response Breast-conserving surgery Any recurrence or death 
+
+Frequency % Frequency % P (␹2 test) 22 50 34 
+
+Abbreviation: RFS, relapse-free survival. ⴱ Log-rank test. 
+
+www.jco.org 
+
+Weekly Paclitaxel (n ⫽ 110) 
+
+19.8 45.0 
+
+18 44 30 
+
+16.4 40.0 
+
+.48 .45 .51ⴱ 
+
+Variable XT v WP ER negative v ER positive Tumor size (cm) 1-3 v 0 lymph nodes ⱖ 4 v 0 lymph nodes Hormone receptor status* treatment 
+
+HR 
+
+95% CI 
+
+P 
+
+1.01 4.73 1.14 2.10 5.03 0.92 
+
+0.49 to 2.08 2.19 to 10.23 1.02 to 1.26 1.12 to 3.92 2.46 to 10.28 0.34 to 2.53 
+
+.96 ⬍ .001 .02 .02 ⬍ .001 .88 
+
+Abbreviations: ER, estrogen receptor; HR, hazard ratio; RFS, relapse-free survival; WP, weekly paclitaxel; XT, docetaxel and capecitabine. ⴱ Test for interaction. 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+933 
+
+Kelly et al 
+
+Table 4. Adverse Events in Patients Receiving Docetaxel/Capecitabine or Weekly Paclitaxel Docetaxel/Capecitabine (n ⫽ 292) Grade 2 
+
+Grade 3 
+
+Weekly Paclitaxel (n ⫽ 297) Grade 4 
+
+Grade 2 
+
+Grade 3 
+
+Grade 4 
+
+Adverse Event 
+
+Frequency 
+
+% 
+
+Frequency 
+
+% 
+
+Frequency 
+
+% 
+
+Frequency 
+
+% 
+
+Frequency 
+
+% 
+
+Frequency 
+
+% 
+
+Pⴱ 
+
+Nausea Vomiting Stomatitis Diarrhea Fatigue Constipation Peripheral neurotoxicity Arthralgia Myalgias Neutropenia Neutropenic infection Neutropenic fever Alopecia Skin rash Hand-foot syndrome Allergic reaction Fluid retention 
+
+131 41 118 85 169 50 64 20 137 9 N/A N/A 266 43 72 6 8 
+
+44.7 14.0 40.3 29.0 57.7 17.1 21.8 6.8 46.8 3.1 
+
+12 5 5 16 61 6 14 3 32 17 20 13 N/A 1 54 4 0 
+
+4.1 1.7 1.7 5.5 20.8 2.0 4.8 1.0 10.9 5.8 6.8 4.4 
+
+0 0 0 1 5 0 0 0 0 28 0 0 N/A 0 0 0 0 
+
+0 0 0 0.3 1.7 0 0 0 0 9.6 0 0 
+
+64 24 31 55 146 27 68 10 109 30 N/A N/A 239 77 5 4 3 
+
+21.5 8.1 10.4 18.5 49.2 9.1 22.9 3.4 36.7 10.1 
+
+5 0 0 12 22 2 7 0 18 1 2 0 N/A 3 1 2 1 
+
+1.7 0 0 4.0 7.4 0.7 2.4 0 6.1 0.3 0.7 0 
+
+0 0 0 0 3 0 0 0 1 1 0 0 N/A 0 0 0 0 
+
+0 0 0 0 1.0 0 0 0 0.3 0.3 0 0 
+
+⬍ .001 .0042 ⬍ .001 .0013 ⬍ .001 .0012 .704 .018 .003 .520 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 .298 .234 
+
+90.8 14.7 24.6 2.0 2.7 
+
+0.3 18.4 1.4 0 
+
+0 0 0 0 
+
+80.5 25.9 1.7 1.3 1.0 
+
+1.0 0.3 0.7 0.3 
+
+0 0 0 0 
+
+Abbreviation: N/A, not applicable. ⴱ P values calculated with Fisher’s exact test for differences between treatment arms with combined grade 2 and 3 adverse events. 
+
+higher dose. In the WP arm, three patients (1%) required a dose reduction, and six (2%) discontinued therapy before completion of all four cycles. Adverse Events Twelve patients were not included in the safety analysis because they received nonprotocol treatment. Hematologic and nonhematologic toxicities were significantly higher in the XT arm (Table 4). DISCUSSION 
+
+At a median follow-up of 50 months, we did not observe an improvement in RFS between the two arms. There was also no improvement in the rate of pCR or BCS. Patients in the XT arm experienced significantly more hematologic, skin, and mucosal toxicity. The standard adjuvant breast cancer regimen at our institution is paclitaxel given once per week for 12 weeks followed by FEC.6 On the basis of the ECOG E1199 trial, we considered three weekly docetaxel and WP optimal schedules for these agents and considered it clinically important to examine whether XT might improve RFS compared with WP. There are completed (Appendix Table A2, online only) and ongoing studies examining capecitabine in early-stage breast cancer. The Finland Capecitabine Trial (FinXX)12,15 observed improved RFS at 3 years associated with capecitabine 1,800 mg/m2 and docetaxel 60 mg/m2 followed by cyclophosphamide, epirubicin, and capecitabine compared with docetaxel 80 mg/m2 followed by cyclophosphamide, epirubicin, and fluorouracil; however, this improvement was not observed at 5 years of follow-up. The US Oncology 01-062 trial16 randomly assigned patients with high-risk early-stage breast cancer to four cycles of doxorubicin and cyclophosphamide followed by docetaxel 100 mg/m2 administered once every three weeks or docetaxel 75 mg/m2 and capecitabine 1,650 mg/m2 daily on days 1 through 14 934 
+
+© 2012 by American Society of Clinical Oncology 
+
+three weekly and failed to meet its primary end point at 5 years of follow-up. As in the GeparQuattro phase III trial,13 we found no difference in the pCR rate between the two treatment arms. In contrast, results from the Austrian Breast and Colorectal Cancer Study Group 24 (ABCSG-24) study14 showed significantly improved rates of pCR and BCS and a lower rate of axillary lymph node involvement in patients assigned to epirubicin 75 mg/m2, docetaxel 75 mg/m2, and capecitabine 1,000 mg/m2 twice daily on days 1 through 14 compared with epirubicin and docetaxel alone (24.3% v 16.0%). Our study has a number of limitations. It was a single-institution study that was stopped early before full accrual and the prespecified number of events were reached. The protocol specified that 77 RFS events were required to have sufficient power to detect a 7% difference in RFS between the treatment arms. However, a futility analysis after 35 events (approximately 45% of the expected information) showed that the predictive probability of concluding in favor of either arm was low. With additional follow-up, we now have 64 RFS events (83% of the expected information) and the qualitative results remain the same: there is no clinically relevant difference between the two treatment arms in terms of RFS or pCR. The protocol specified a capecitabine dose of 2,000 mg/m2/d. Because of significant toxicity in the first 10 patients, we reduced the starting dose to 1,500 mg/m2/d. One quarter of the patients who started at the reduced dose subsequently received the higher dose of 2,000 mg/m2/d because of lack of toxicity, and two thirds of the patients continued the higher dose. In the FinXX trial, 43% of patients received less than the scheduled starting dose of capecitabine (1,800 mg/m2) on one or more occasions because of toxicity or for other reasons. It is unlikely that the dose reduction influenced our results. Capecitabine dose reductions are common in clinical practice. A prospective multicenter observational study17 found that only 20% of JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+Docetaxel/Capecitabine Versus Paclitaxel in Breast Cancer 
+
+patients with metastatic breast cancer started capecitabine at the registered dose and suggested that the efficacy of capecitabine seen in clinical trials could be reproduced in routine practice despite the widespread use of lower doses to improve tolerability. Finally, 6% of patients had HER2-positive breast cancer and did not receive trastuzumab because it was not the standard of care at the time of study initiation. Ongoing studies will provide further information on the value of capecitabine in the adjuvant setting, and exploratory analyses of existing studies will examine whether a differential benefit exists between breast cancer subtypes.18-20 In conclusion, XT compared with WP did not improve RFS and was associated with significantly more hematologic, skin, and mucosal toxicity. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked 
+
+REFERENCES 1. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 2. Ferguson T, Wilcken N, Vagg R, et al: Taxanes for adjuvant treatment of early breast cancer. Cochrane Database Syst Rev 4:CD004421, 2007 3. De Laurentiis M, Cancello G, D’Agostino D, et al: Taxane-based combinations as adjuvant chemotherapy of early breast cancer: A meta-analysis of randomized trials. J Clin Oncol 26:44-53, 2008 4. Kelly CM, Hortobagyi GN: Adjuvant chemotherapy in early-stage breast cancer: What, when, and for whom? Surg Oncol Clin N Am 19:649-668, 2010 5. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 6. Green MC, Buzdar AU, Smith T, et al: Weekly paclitaxel improves pathologic complete remission in operable breast cancer when compared with paclitaxel once every 3 weeks. J Clin Oncol 23:5983-5992, 2005 7. Miwa M, Ura M, Nishida M, et al: Design of a novel oral fluoropyrimidine carbamate, capecitabine, which generates 5-fluorouracil selectively in tumours by enzymes concentrated in human liver and cancer tissue. Eur J Cancer 34:1274-1281, 1998 8. Sawada N, Ishikawa T, Fukase Y, et al: Induction of thymidine phosphorylase activity and enhancement of capecitabine efficacy by taxol/ taxotere in human cancer xenografts. Clin Cancer Res 4:1013-1019, 1998 9. O’Shaughnessy J, Miles D, Vukelja S, et al: Superior survival with capecitabine plus docetaxel 
+
+with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Gabriel N. Hortobagyi, Allergan (C), Genentech (C), Merck (C), sanofi-aventis (C), Taivex Therapeutics (U) Stock Ownership: None Honoraria: Marjorie C. Green, Roche Research Funding: Gabriel N. Hortobagyi, Novartis Expert Testimony: None Other Remuneration: None 
+
+AUTHOR CONTRIBUTIONS Conception and design: All authors Administrative support: All authors Provision of study materials or patients: Ana M. Gonzalez-Angulo, Gabriel N. Hortobagyi Collection and assembly of data: All authors Data analysis and interpretation: All authors Manuscript writing: All authors Final approval of manuscript: All authors 
+
+combination therapy in anthracycline-pretreated patients with advanced breast cancer: Phase III trial results. J Clin Oncol 20:2812-2823, 2002 10. Black MM, Speer FD: Nuclear structure in cancer tissues. Surg Gynecol Obstet 105:97-102, 1957 11. Hudis CA, Barlow WE, Costantino JP, et al: Proposal for standardized definitions for efficacy end points in adjuvant breast cancer trials: The STEEP system. J Clin Oncol 25:2127-2132, 2007 12. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: Adjuvant capecitabine in combination with docetaxel and cyclophosphamide plus epirubicin for breast cancer: An open-label, randomised controlled trial. Lancet Oncol 10:1145-1151, 2009 13. von Minckwitz G, Rezai M, Loibl S, et al: Capecitabine in addition to anthracycline- and taxane-based neoadjuvant treatment in patients with primary breast cancer: Phase III GeparQuattro study. J Clin Oncol 28:2015-2023, 2010 14. Steger GG, Greil R, Jakesz R, et al: Pathological complete response (pCR) in patient subgroups: An analysis of ABCSG-24, a phase III, randomized study of anthracycline- and taxane-based neoadjuvant therapy with or without capecitabine in early breast cancer (EBC). J Clin Oncol 28:74s, 2010 (suppl; abstr 530). 15. Joensuu H, Kellokumpu-Lehtinen PL, Huovinen R, et al: FinXX final 5-year analysis: Results of the randomised, open label, phase III trial in medium-tohigh risk early breast cancer. Presented at the 33rd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr S4-1) 16. O’Shaughnessy J, Paul D, Stokoe C, et al: First efficacy results of a randomized, open-label, phase III study of adjuvant doxorubicin plus cyclophosphamide, followed by docetaxel with or without capecitabine, in 
+
+high-risk early breast cancer. Presented at the 33rd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr S4-2) 17. Dalivoust P, Debled M, Asselain B, et al: Capecitabine therapy for locally advanced or metastatic breast cancer: A difference between reported clinical trials and routine clinical practice? Results from the ELIXER Study in Routine Oncology Practice. Presented at the 33rd San Antonio Annual Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (P6-11-04) 18. National Surgical Adjuvant Breast and Bowel Project (NSABP): A randomized phase III trial of neoadjuvant therapy in patients with palpable and operable breast cancer evaluating the effect on pathologic complete response (pCR) of adding capecitabine or gemcitabine to docetaxel when administered before AC with or without bevacizumab and correlative science studies attempting to identify predictors of high likelihood for pCR with each of the regimens. http:// clinicaltrials.gov/ct2/show/NCT00408408? term⫽NSABP⫹B-40&rank⫽1 19. Spanish Breast Cancer Research Group: Multicenter, open-label, randomized phase III trial, to evaluate efficacy of maintenance treatment with capecitabine (X) following standard adjuvant chemotherapy, in operable breast cancer patients with negative hormone receptor, negative HER2 tumours. http://clinicaltrials.gov/ ct2/show/NCT00130533?term⫽CIBOMA&rank⫽1 20. Poole C, Barrios C, O’Shaughnessy J, et al: Ongoing evaluation of capecitabine-based therapy in early breast cancer (EBC). Presented at the 33rd San Antonio Annual Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr P5-10-11) 
+
+■ ■ ■ 
+
+www.jco.org 
+
+© 2012 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at STANFORD UNIV MEDICAL CENTER on May 12, 2014 Copyright © 2012 Americanfrom Society of Clinical Oncology. All rights reserved. 171.66.219.128 
+
+935 
+
+ 

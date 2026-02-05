@@ -1,0 +1,1445 @@
+Articles 
+
+Intraoperative irradiation for early breast cancer (ELIOT): long-term recurrence and survival outcomes from a single-centre, randomised, phase 3 equivalence trial Roberto Orecchia, Umberto Veronesi*, Patrick Maisonneuve, Viviana Enrica Galimberti, Roberta Lazzari, Paolo Veronesi, Barbara Alicja Jereczek-Fossa, Federica Cattani, Claudia Sangalli, Alberto Luini, Pietro Caldarella, Marco Venturino, Daniele Sances, Stefano Zurrida*, Giuseppe Viale, Maria Cristina Leonardi†, Mattia Intra† 
+
+Summary 
+
+Background In the randomised, phase 3 equivalence trial on electron intraoperative radiotherapy (ELIOT), accelerated partial breast irradiation (APBI) with the use of intraoperative radiotherapy was associated with a higher rate of ipsilateral breast tumour recurrence (IBTR) than whole-breast irradiation (WBI) in patients with early-stage breast cancer. Here, we aimed to examine the planned long-term recurrence and survival outcomes from the ELIOT trial. 
+
+Lancet Oncol 2021; 22: 597–608 
+
+Methods This single-centre, randomised, phase 3 equivalence trial was done at the European Institute of Oncology (Milan, Italy). Eligible women, aged 48–75 years with a clinical diagnosis of a unicentric breast carcinoma with an ultrasound diameter not exceeding 25 mm, clinically negative axillary lymph nodes, and who were suitable for breastconserving surgery, were randomly assigned (1:1) via a web-based system, with a random permuted block design (block size of 16) and stratified by clinical tumour size, to receive post-operative WBI with conventional fractionation (50 Gy given as 25 fractions of 2 Gy, plus a 10 Gy boost), or 21 Gy intraoperative radiotherapy with electrons (ELIOT) in a single dose to the tumour bed during surgery. The trial was open label and no-one was masked to treatment group assignment. The primary endpoint was the occurrence of IBTR. The trial was designed assuming a 5-year IBTR rate of 3% in the WBI group and equivalence of the two groups, if the 5-year IBTR rate in the ELIOT group did not exceed a 2·5 times excess, corresponding to 7·5%. Overall survival was the secondary endpoint. The main analysis was done by intention to treat. The cumulative incidence of IBTR events and overall survival were assessed at 5, 10, and 15 years of follow-up. This trial is registered with ClinicalTrials.gov, NCT01849133. 
+
+†Co-last authors 
+
+Findings Between Nov 20, 2000, and Dec 27, 2007, 1305 women were enrolled and randomly assigned: 654 to the WBI group and 651 to the ELIOT group. After a median follow-up of 12·4 years (IQR 9·7–14·7), 86 (7%) patients developed IBTR, with 70 (11%) cases in the ELIOT group and 16 (2%) in the WBI group, corresponding to an absolute excess of 54 IBTRs in the ELIOT group (HR 4·62, 95% CI 2·68–7·95, p<0·0001). In the ELIOT group, the 5-year IBTR rate was 4·2% (95% CI 2·8–5·9), the 10-year rate was 8·1% (6·1–10·3), and the 15-year rate was 12·6% (9·8–15·9). In the WBI group, the 5-year IBTR rate was 0·5% (95% CI 0·1–1·3), the 10-year rate was 1·1% (0·5–2·2), and the 15-year rate was 2·4% (1·4–4·0). At final follow-up on March 11, 2019, 193 (15%) women had died from any cause, with no difference between the two groups (98 deaths in the ELIOT group vs 95 in the WBI group; HR 1·03, 95% CI 0·77–1·36, p=0·85). In the ELIOT group, the overall survival rate was 96·8% (95% CI 95·1–97·9) at 5 years, 90·7% (88·2–92·7) at 10 years, and 83·4% (79·7–86·4) at 15 years; and in the WBI group, the overall survival rate was 96·8% (95·1–97·9) at 5 years, 92·7% (90·4–94·4) at 10 years, and 82·4% (78·5–85·6) at 15 years. We did not collect long-term data on adverse events. Interpretation The long-term results of this trial confirmed the higher rate of IBTR in the ELIOT group than in the WBI group, without any differences in overall survival. ELIOT should be offered to selected patients at low-risk of IBTR. Funding Italian Association for Cancer Research, Jacqueline Seroussi Memorial Foundation for Cancer Research, Umberto Veronesi Foundation, American Italian Cancer Foundation, The Lombardy Region, and Italian Ministry of Health. 
+
+Published Online April 9, 2021 https://doi.org/10.1016/ S1470-2045(21)00080-2 See Comment page 572 Scientific Directorate (Prof R Orecchia MD, Prof U Veronesi MD), Division of Epidemiology and Biostatistics (P Maisonneuve DiplEng), Division of Breast Surgery (V E Galimberti MD, Prof P Veronesi MD, A Luini MD, P Caldarella MD, S Zurrida MD, M Intra MD), Division of Radiation Oncology (R Lazzari MD, Prof B A Jereczek-Fossa MD, M C Leonardi MD), Unit of Medical Physics (F Cattani MSc), Data Management (C Sangalli MSc), Division of Pathology (Prof G Viale MD), and Division of Anaesthesiology (M Venturino MD, D Sances MD), IEO European Institute of Oncology IRCCS, Milan, Italy; Department of Oncology and Haemato-Oncology, University of Milan, Milan, Italy (Prof P Veronesi, Prof B A Jereczek-Fossa, Prof G Viale) *Prof Veronesi died in November, 2016, and Dr Zurrida died in February, 2020 Correspondence to: Prof Roberto Orecchia, IEO European Institute of Oncology IRCCS, Milan 20141, Italy roberto.orecchia@ieo.it 
+
+Copyright © 2021 Published by Elsevier Ltd. All rights reserved. 
+
+Introduction Radiotherapy continues to play a fundamental role in the management of early-stage breast cancer, reducing overall recurrence and mortality rates.1 These good outcomes have been obtained with the use of postoperative wholebreast irradiation (WBI) and conventional fractionation. www.thelancet.com/oncology Vol 22 May 2021 
+
+However, in the past 20 years, we have witnessed many changes in radiotherapy, triggered by the introduction of modern high-precision techniques and simultaneous improvements in our understanding of tumour biology. Consequently, new concepts of more personalised risk-adapted approaches have been tested and applied in 597 
+
+Articles 
+
+Research in context Evidence before this study On June 1, 2020, we searched PubMed, without any language or date restrictions, using terms related to accelerated partial breast irradiation (APBI), including: “breast cancer”, “intraoperative radiation therapy”, “IORT”, “accelerated partial breast irradiation”, “APBI”, “brachytherapy”, and “radiation dose hypofractionation”. The use of APBI is supported by a growing body of high-quality data and dedicated guidelines, also including recommendations for the appropriate use of electron beam intraoperative radiation therapy, and has become an accepted treatment method in some patients with early-stage breast cancer. Since the first report of the electron intraoperative radiotherapy (ELIOT) trial, which showed higher ipsilateral breast tumour recurrence rates in patients who received ELIOT compared with those who received whole breast irradiation (WBI), seven phase 3 randomised trials comparing APBI versus WBI have been published. Those studies that pointed to non-inferiority of APBI were successful, whereas the two trials designed as equivalent (ELIOT and NSABP B-39/RTOG 0413) did not show evidence for equivalence of the two techniques. All studies showed similar survival outcomes between APBI and WBI but the results for local control were divergent. The heterogeneity of techniques used, patient eligibility criteria, and the overall short-term follow-up of these studies contributed to the current degree of uncertainty and made clear the need for risk stratification. Moreover, the landscape in which APBI compares with other radiation methods has changed over time. Currently, APBI should compete with schedules that allow delivering WBI with more extreme forms of hypofractionation, from 15 to up to 5 consecutive fractions, and more innovative techniques such as intensity-modulated radiotherapy and proton therapy. The choice of the most convenient treatment should aim to achieve excellent local control and survival rates. Added value of this study The ELIOT trial has laid the foundations for the use of APBI in clinical settings. To our knowledge, this trial has the longest 
+
+clinical settings. New schedules of moderate hypo­ fractionation have been widely investigated, and equi­valent results to conventional fractionation in terms of effective­ ness and safety have been found.2 Ultra-fractionations, associated with smaller treated volumes, have been also explored, which is the case with accelerated partial breast irradiation (APBI).3 Different APBI techniques have been emerging since the early 2000s and compared with WBI in randomised, controlled trials, including intra­ operative radiotherapy with electrons or low-energy photons,4–6 interstitial brachytherapy,7 inter­stitial or multicatheter single-entry high-dose rate balloon brachytherapy or external-beam radiotherapy,7 and external-beam radio­ therapy alone.9–12 The use of APBI in the treatment of early-stage breast cancer has been formalised by international guidelines and recom­mendations.13–15 598 
+
+follow-up among all APBI randomised studies. The heterogeneity of the study population, because of the loose selection criteria that were based only on clinical variables, gave the opportunity to assess outcomes across the different risk categories and helped to better understand the role of prognostic and predictive factors on outcomes. In the context of modern oncological treatments, including pharmacological, surgical, and radiotherapy advances, the ELIOT trial indicated that overall mortality, breast cancer mortality, and the development of distant metastases did not differ significantly between ELIOT and WBI, despite a significant increase in the local recurrence rate in the APBI group compared with the WBI group. The study underlined the need to integrate traditional tumour features with biological data to ensure patient suitability for ELIOT. Implications of all the available evidence The full results of the clinical trials on APBI need to be awaited to definitely establish whether APBI can become a standard alternative to WBI. Although the selection of patients at a low risk of ipsilateral beast tumour recurrence is the key to achieving satisfactory local control, the natural history of the tumour, the biological mechanisms underlying local recurrences after APBI, and the implications of metastatic spread also warrant further evaluation. Because data from the ELIOT trial have reached substantial follow-up, more robust information has emerged to clarify the position of intraoperative radiotherapy, for which the precise definition of the subset of low-risk patients suitable for the treatment remains unresolved. The use of intrinsic subtyping for tumour risk profiling and classifier algorithms, even for local treatments, is going to be a major change in clinical practice and an essential tool in the de-escalation treatments for the lowest risk patients. On a practical front, less expensive immunohistochemical surrogates are widely available for tumour profiling and provide quick access to high-precision medicine, aimed at tailoring therapies to individual patients. 
+
+As an innovative approach to APBI, since 1999, the European Institute of Oncology (Milan, Italy) has developed intraoperative radiotherapy with electrons, named electron intraoperative radiotherapy (ELIOT),16 a treatment method in which postoperative WBI is substituted by a single shot of radiation at the same biologically equivalent dose given during the surgical procedure. Outcomes of patients treated in clinical settings have been also reported, showing promising results in terms of local control.17 To improve the quality of the evidence, and to obtain a better understanding of the possible role of intraoperative radiotherapy, in the year 2000 we launched the ELIOT trial, a single-centre, randomised study of postoperative WBI versus ELIOT. The first results of this randomised, controlled equivalence trial were published in 2013 after a median follow-up of www.thelancet.com/oncology Vol 22 May 2021 
+
+Articles 
+
+5·8 years, showing an increase rate of ipsilateral breast tumour recurrence (IBTR) in the ELIOT group compared with the WBI group.4 We now present the long-term results and survival outcomes, with comparisons between the groups at 5, 10, and 15 years. 
+
+Methods 
+
+Study design and participants This study is a single-centre equivalence trial aiming to show that the local recurrence rate at 5 years in the experimental group (ELIOT) is not significantly greater than that in the reference group (WBI). All patients were recruited, randomly assigned, and treated at the European Institute of Oncology (Milan, Italy). Eligible patients were women 48–75 years of age with a clinical diagnosis of a unicentric carcinoma with an ultrasound diameter not exceeding 25 mm, clinically negative axillary lymph nodes, and who were suitable for breast-conserving surgery. Patients who had been previously treated for breast cancer, those with a history of malignancy (apart from basal cell carcinoma, cervical carcinoma in situ, and contralateral breast cancer with no signs of relapse after at least 15 years of follow-up), and patients with conditions precluding regular followup and radiotherapy were excluded. A detailed description of the study design and methods used has previously been published.4 The study protocol was approved by the institutional ethics committee and all patients provided written, informed consent before treatment. 
+
+Randomisation and masking Patients were randomly assigned (1:1) with the use of a random permuted block design (block size of 16), stratified for clinical tumour size (<1·0 cm vs 1·0–1·4 cm vs ≥1·5 cm) to receive WBI or ELIOT. The patients were randomly assigned to the two groups with the web-based TENALEA automatic randomisation programme Trans European Network for clinical trials services).18 This study was open label; study coordinators, clinicians, investigators, and patients were all aware of treatment assignment. Participants were enrolled and assigned to WBI or ELIOT by the breast surgeon. 
+
+Procedures Patients underwent breast-conserving surgery and sentinel node biopsy, followed by axillary dissection in case of metastasis in the sentinel node. In the WBI group, patients received radiotherapy within 3 months of surgery or at the end of chemotherapy, and was administered in conven­ tional fractionation, given in 25 fractions of 2 Gy for a total dose of 50 Gy over 5 weeks, followed by a booster dose of 10 Gy to the tumour bed in 1 week. Concomitant chemo­ therapy was allowed but restricted to a cyclophosphamide, methotrexate, and fluorouracil regimen, at the discretion of the treating physician. In the ELIOT group, patients received a single radiotherapy dose of 21 Gy given intra­ operatively immediately after the removal of the tumour. www.thelancet.com/oncology Vol 22 May 2021 
+
+The intraoperative radiotherapy was given by two dedicated linear accelerators: NOVAC 7 (Hythesis, Latina, Italy) and Liac (Info and Tech, Rome, Italy). Follow-up comprised a visit to the breast clinic 3 months after surgery, then every 6 months for the first 5 years, and then every 8 months thereafter. Mammography exami­ nations were done annually, whereas chest x-ray, bone scans, mammoscintigraphy, and liver ultrasounds were done annually for the first 5 years or in the presence of focal symptoms, or both. During the first 5 years of followup, the primary endpoint (IBTR) was centrally reviewed by a single investigator (UV). In the later period, since November, 2013, IBTR was assessed by all investigators. Patients who were not in active follow-up in our institute in 2018 were contacted by telephone to assess their health state or had their vital status checked through municipal offices of vital statistics, but the cause of death, if they had died, could not be specified in detail. For all analyses, follow-up ended on March 11, 2019. 
+
+Outcomes The primary endpoint was the incidence of IBTR, defined as the reappearance of the carcinoma either at the site of the surgical intervention (true local relapse) or as any new carcinoma appearing in the other quadrants of the same breast (new ipsilateral breast tumour). The secondary endpoint was overall survival, defined as the time from randomisation to the date of death from any cause or to date of last contact. 
+
+For more on TENALEA see https://acc.tenalea.net/cctu/dm/ about-tenalea-en.html 
+
+1305 patients enrolled and randomly assigned 
+
+654 assigned to WBI 
+
+53 excluded during or after surgery 35 ineligible 19 benign or in-situ tumour 12 multifocal disease 1 tumour size >2·5 cm* 3 other reasons† 18 protocol violations 16 patients refused assigned treatment 1 radical mastectomy 1 radiotherapy not done for severe cardiomyopathy 
+
+651 assigned to ELIOT 
+
+66 excluded during or after surgery 50 ineligible 15 benign or in-situ tumour 17 multifocal disease 10 tumour size >2·5 cm* 4 metastatic disease 4 other reasons† 16 protocol violations 1 patient refused assigned treatment 14 dysfunction of intraoperative radiotherapy machine 1 intraoperative radiotherapy not done under local anaesthesia 
+
+601 patients in per-protocol population 
+
+585 patients in per-protocol population 
+
+654 patients in intention-to-treat population 
+
+651 patients in intention-to-treat population 
+
+Figure 1: Trial profile ELIOT=electron intraoperative radiotherapy. WBI=whole breast irradiation. *At pathological examination. †Four patients were shown to have a previous malignancy (two in the WBI group and two in the ELIOT group), two patients in the ELIOT group had an excisional biopsy done elsewhere, and one patient in the WBI group was older than 75 years at intervention. 
+
+599 
+
+Articles 
+
+WBI group (n=654) 
+
+ELIOT group (n=651) 
+
+<60 
+
+310 (47%) 
+
+330 (51) 
+
+HER2 status 
+
+60–69 
+
+269 (41%) 
+
+259 (40%) 
+
+≥70 
+
+75 (12%) 
+
+62 (10%) 
+
+Age, years 
+
+Negative* 
+
+585/647 (89%) 
+
+589/646 (91%) 
+
+Positive† 
+
+62/647 (10%) 
+
+57/646 (9%) 
+
+Molecular subtype 
+
+Ductal 
+
+514/647 (79%) 
+
+524/647 (81%) 
+
+Luminal A 
+
+237/645 (36%) 
+
+256/646 (39%) 
+
+Lobular 
+
+57/647 (9%) 
+
+53/647 (8%) 
+
+Luminal B 
+
+352/645 (54%) 
+
+327/646 (50%) 
+
+Ductal and lobular 
+
+21/647 (3%) 
+
+17/647 (3%) 
+
+HER2 positive 
+
+24/645 (4%) 
+
+20/646 (3%) 
+
+Other 
+
+55/647 (9%) 
+
+53/647 (8%) 
+
+Triple negative 
+
+32/645 (5%) 
+
+43/646 (7%) 
+
+≤1·0 cm 
+
+194/647 (30%) 
+
+199/645 (31%) 
+
+None 
+
+26 (4%) 
+
+25 (4%) 
+
+>1·0–1·5 cm 
+
+235/647 (36%) 
+
+243/645 (38%) 
+
+Endocrine therapy alone 
+
+485 (74%) 
+
+489 (75%) 
+
+>1·5–2·0 cm 
+
+115/647 (18%) 
+
+120/645 (19%) 
+
+Chemotherapy alone 
+
+47 (7%) 
+
+53 (8%) 
+
+>2·0 cm 
+
+103/647 (16%) 
+
+83/645 (13%) 
+
+Endocrine and chemotherapy 
+
+96 (15%) 
+
+84 (13%) 
+
+None 
+
+471/647 (73%) 
+
+478/647 (74%) 
+
+1–3 
+
+138/647 (21%) 
+
+138/647 (21%) 
+
+≥4 
+
+38/647 (6%) 
+
+31/647 (5%) 
+
+638/647 (99%) 
+
+644/647 (100%) 
+
+9/647 (1%) 
+
+3/647 (0%) 
+
+G1 
+
+160/633 (25%) 
+
+196/630 (31%) 
+
+G2 
+
+328/633 (52%) 
+
+305/630 (48%) 
+
+G3 
+
+145/633 (23%) 
+
+129/630 (20%) 
+
+Pathological tumour size 
+
+Adjuvant treatment 
+
+Number of positive nodes 
+
+Resection margins Negative or close Positive Tumour grade 
+
+Oestrogen receptor status Negative 
+
+56/645 (9%) 
+
+63/646 (10%) 
+
+Positive 
+
+589/645 (91%) 
+
+583/646 (90%) 
+
+Negative 
+
+132/644 (20%) 
+
+158/645 (24%) 
+
+Positive 
+
+512/644 (80%) 
+
+487/645 (76%) 
+
+<14% 
+
+242/645 (38%) 
+
+263/645 (41%) 
+
+14–20% 
+
+138/645 (21%) 
+
+138/645 (21%) 
+
+>20% 
+
+265/645 (41%) 
+
+244/645 (38%) 
+
+Progesterone receptor status 
+
+Proliferative index (Ki-67) 
+
+(Table 1 continues in next column) 
+
+No data about long-term toxicity were collected. Early side-effects were described in the previous report.4 
+
+Statistical analysis Power calculations were done assuming a 5-year local recurrence rate of 3% in the WBI group and equivalence of the two groups, if the 5-year local recurrence rate in the ELIOT group did not exceed a 2·5 times excess corresponding to 7·5%. Given these parameters, a sample size of 412 patients per group was initially estimated to provide 90% power to show equivalence between the groups, with the use of a one-tailed test. The main analysis was done for all randomly assigned patients according to intention to treat. A per-protocol analysis was also done, restricted to patients who effectively received their assigned treatment and satisfied 600 
+
+ELIOT group (n=651) 
+
+(Continued from previous column) 
+
+Histology 
+
+See Online for appendix 
+
+WBI group (n=654) 
+
+Data are n (%) or n/N (%). The percentages are calculated using the number of patients in each group with available data as the denominator (ie, excluding those with missing values), and some percentages do not total 100% because of rounding. Data missing for some patients: histology (n=7 in the WBI group, n=4 in the ELIOT group), pathological size (n=7 in the WBI group, n=6 in the ELIOT group), number of positive nodes (n=7 in the WBI group, n=4 in the ELIOT group), resection margins (n=7 in the WBI group, n=4 in the ELIOT group), tumour grade (n=21 in each group), oestrogen receptor status (n=9 in the WBI group, n=5 in the ELIOT group), progesterone receptor status (n=10 in the EBI group, n=6 in the ELIOT group), proliferative index (n=9 in the WBI group, n=6 in the ELIOT group), HER2 expression (n=7 in the WBI group, n=5 in the ELIOT group), and molecular subtype (n=9 in the WBI group, n=5 in the ELIOT group). ELIOT=electron intraoperative radiotherapy. WBI=whole breast irradiation. *Immunohistochemical scores 0, 1+, and 2+ not amplified. †Immunohistochemical score 3+ or amplified. 
+
+Table 1: Patient baseline characteristics (intention-to-treat population) 
+
+the eligibility criteria (ie, excluding women allocated to the WBI group who received ELIOT, those who did not receive ELIOT for technical reasons, and those who were ineligible for the study after surgery [benign or in-situ tumour, multifocal disease, pathological tumour size >2·5 cm, metastatic disease, etc]). The cumulative incidence of IBTR and of other first events was measured from the date of randomisation to the date of any first event. Cumulative incidence functions were estimated according to Kalbfleisch and Prentice,19 taking competing events into account. A Gray’s test was used to test the difference between the cumulative incidence of specific events in the two groups. Survival plots were drawn with the use of the Kaplan-Meier method and the log-rank test was used to assess the survival difference between the two groups. Cumulative incidence of events and overall survival were presented at 5, 10, and 15 years of followup. Hazard ratios (HRs) of IBTR for ELIOT versus WBI were obtained from univariate Cox proportional hazards regression models. The proportional hazard assumption was tested by introducing a constructed time-dependent variable and tested for its statistical significance. The assumption was met for all presented results. www.thelancet.com/oncology Vol 22 May 2021 
+
+www.thelancet.com/oncology Vol 22 May 2021 
+
+0·28 1·35 (0·78 to 2·31) 1·7% (–1·7 to 5·1) 1·3% (0·0 to 2·7) 0·5% (–0·2 to 1·2) +9 6·4% (4·3 to 9·6) 2·1% (1·2 to 3·6) Table 2: First events and deaths observed during follow-up (intention-to-treat analysis) 
+
+0·6% (0·2 to 1·7) 32 4·6% (2·9 to 7·3) 0·8% (0·3 to 2·0) 23 Deaths from unknown causes 
+
+0·2% (0·0 to 1·1) 
+
+0·17 0·68 (0·39 to 1·19) –2·1% (–4·9 to 0·6) –0·5% (–2·1 to 1·2) –0·3% (–1·4 to 0·7) –10 3·7% (2·3 to 5·9) 1·9% (1·1 to 3·4) 0·8% (0·3 to 1·9) 20 5·9% (4·1 to 8·6) 2·4% (1·4 to 3·9) 30 Deaths from other causes 
+
+1·1% (0·5 to 2·3) 
+
+0·65 1·10 (0·73 to 1·68) –0·8% (–4·2 to 2·5) 1·3% (–1·1 to 3·6) –0·2% (–1·7 to 1·3) +4 7·5% (5·6 to 10·0) 5·5% (4·0 to 7·6) 1·9% (1·1 to 3·2) 46 8·2% (6·0 to 11·2) 4·3% (2·9 to 6·2) 42 Deaths from breast cancer 
+
+2·0% (1·2 to 3·4) 
+
+0·85 1·03 (0·77 to 1·36) –1·1% (–6·1 to 3·8) 2·0% (–1·0 to 5·0) 0·0% (–1·9 to 1·9) +3 16·6% (13·6 to 20·3) 9·3% (7·3 to 11·8) 3·2% (2·1 to 4·9) 98 17·6% (14·4 to 21·5) 7·3% (5·6 to 9·6) 95 Total deaths 
+
+3·2% (2·1 to 4·9) 
+
+0·36 0·85 (0·52 to 1·39) –1·8% (–4·9 to 1·4) 0·5% (–1·1 to 2·0) 0·0% (–0·9 to 1·0) –7 5·1% (3·3 to 7·4) 2·3% (1·4 to 3·7) 0·8% (0·3 to 1·7) 29 6·9% (4·7 to 9·5) 1·9% (1·0 to 3·2) 36 Death as first event 
+
+0·8% (0·3 to 1·7) 
+
+0·60 0·93 (0·60 to 1·44) –0·3% (–3·2 to 2·5) –1·0% (–3·2 to 1·3) –0·9% (–2·6 to 0·8) –5 6·2% (4·4 to 8·4) 3·9% (2·6 to 5·6) 2·2% (1·2 to 3·5) 37 6·5% (4·7 to 8·8) 4·8% (3·3 to 6·7) 42 Other primary cancer 
+
+3·1% (1·9 to 4·6) 
+
+0·42 0·88 (0·59 to 1·30) –1·2% (–4·3 to 1·9) –1·4% (–4·2 to 1·3) –0·3% (–2·6 to 2·0) –8 7·5% (5·6 to 9·9) 6·0% (4·4 to 8·0) 4·5% (3·1 to 6·2) 46 8·7% (6·7 to 11·2) 7·5% (5·6 to 9·6) 54 Distant metastasis 
+
+4·8% (3·3 to 6·6) 
+
+0·18 0·70 (0·38 to 1·27) –1·0% (–3·2 to 1·1) –1·6% (–3·2 to 0·1) –0·5% (–1·7 to 0·8) –9 3·0% (1·8 to 4·7) 1·5% (0·8 to 2·7) 1·1% (0·5 to 2·1) 18 4·0% (2·6 to 5·9) 3·1% (2·0 to 4·7) 27 Contralateral breast cancer 
+
+1·5% (0·8 to 2·7) 
+
+<0·0001 4·73 (2·84 to 7·88) 11·6% (8·1 to 15·0) 8·3% (5·9 to 10·8) 4·3% (2·5 to 6·1) +63 14·9% (11·3 to 17·7) 9·8% (7·6 to 12·2) 5·1% (3·6 to 7·0) 81 2·7% (1·6 to 4·3) 1·4% (0·7 to 2·6) 0·8% (0·3 to 1·7) 18 Locoregional relapse 
+
+0·012 5·60 (1·24 to 25·3) 1·4% (0·3 to 2·5) 1·4% (0·3 to 2·5) 0·6% (–0·2 to 1·5) +9 1·7% (0·9 to 2·9) 1·7% (0·9 to 2·9) 0·9% (0·4 to 1·9) 11 0·3% (0·1 to 1·1) 0·3% (0·1 to 1·1) 2 Lymph node metastasis 
+
+0·3% (0·1 to 1·1) 
+
+<0·0001 4·62 (2·68 to 7·95) 10·2% (6·9 to 13·5) 7·0% (4·7 to 9·2) 3·7% (2·1 to 5·3) +54 12·6% (9·8 to 15·9) 8·1% (6·1 to 10·3) 4·2% (2·8 to 5·9) 70 2·4% (1·4 to 4·0) 1·1% (0·5 to 2·2) 0·5% (0·1 to 1·3) Ipsilateral breast tumour 16 recurrences 
+
+15-year event rate (95% CI) Events, 5-year event 10-year n rate (95% CI) event rate (95% CI) 15-year event rate (95% CI) 15-year event rate (95% CI) 
+
+WBI group (n=654) 
+
+Between Nov 20, 2000, and Dec 27, 2007, 1305 patients were enrolled in the trial and randomly assigned to the two treatment groups (654 to WBI and 651 to ELIOT; intention-to-treat population). The per-protocol popu­ lation included 1186 patients, of whom 601 received WBI and 585 received ELIOT (figure 1). Table 1 presents the baseline characteristics of the patients in the intention-to-treat population, and the characteristics the patients in the per-protocol population are provided in the appendix (p 1). The enrolled patient population included young patients (87 [7%]) of 1305 patients were aged <50 years), those with a lobular or mixed lobular and ductal histology (148 [11%]) and those with large or poorly differentiated tumours, positive nodes, negative hormone receptor status, and a high proliferative index (table 1). The distribution of the baseline characteristics was well balanced between the two groups (table 1). After a median follow-up (for the primary endpoint of IBTR, from the time of randomisation to the last clinical visit) of 12·4 years (IQR 9·7–14·7), which was similar in the ELIOT group (12·2 years [9·5–14·3]) and the WBI group (12·7 years [10·0–15·0]), 86 (7%) of 1305 patients developed IBTR (table 2). The occurrence of IBTR was significantly higher in patients allocated to the ELIOT group (70 cases [11%] in 651 patients) than in those in the WBI group (16 cases [2%] in 654 patients), corresponding to an absolute excess of 54 IBTRs in the ELIOT group and a HR of 4·62 (95% CI 2·68–7·95, p<0·0001; figure 2). The cumulative incidences of IBTR at 5, 10, and 15 years (table 2) correspond to an absolute risk differences for 
+
+ELIOT group (n=651) 
+
+Results 
+
+Events, 5-year event 10-year n rate (95% CI) event rate (95% CI) 
+
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication. 
+
+Events, 5-year event 10-year n rate (95% CI) event rate (95% CI) 
+
+Role of the funding source 
+
+Absolute difference between groups (ELIOT vs WBI) Hazard ratio (95% CI) 
+
+In post-hoc analyses, we evaluated the risk of IBTR with ELIOT versus WBI stratified according to the clinico­ pathological characteristics of the patients and assessed factors, including the American Society of Radiation Oncology (ASTRO) criteria for the selection of patients suitable to APBI, associated with IBTR in patients randomly assigned to ELIOT. We also present data for post-hoc outcomes, including lymph node metastases defined as any recurrence in the ipsilateral axillary, supraclavicular, or internal mammary nodal regions, or a combination of these; contralateral breast tumour defined as any new carcinoma in the other breast; distant metastases; and other primary cancer. Statistical analyses were done using SAS version 9.4. Statistical significance was defined as a two-tailed p value of less than 0·05. This trial is registered with ClinicalTrials.gov, NCT01849133. 
+
+Gray’s test or log-rank p value 
+
+Articles 
+
+601 
+
+Articles 
+
+Ipsilateral breast tumour recurrence (%) 
+
+25 
+
+WBI ELIOT HR 4·62 (95% CI 2·68–7·95), Gray’s test p<0·0001 
+
+20 15 10 5 0 
+
+0 
+
+Number at risk (number censored) ELIOT 651 (0) WBI 654 (0) 
+
+5 
+
+10 
+
+15 
+
+Time since randomisation (years) 563 (2) 578 (6) 
+
+474 (27) 492 (43) 
+
+126 (324) 160 (329) 
+
+Figure 2: Cumulative incidence of ipsilateral breast tumour recurrence (intention to treat) Shaded areas represent 95% CIs. ELIOT=electron intraoperative radiotherapy. HR=hazard ratio. WBI=whole breast irradiation. 
+
+ELIOT versus WBI of 3·7% (95% CI 2·1–5·3) at 5 years, 7·0% (4·7–9·2) at 10 years, and 10·2% (6·9–13·5) at 15 years. Similar findings were observed in the per-protocol analysis, albeit with a slightly greater increased risk of IBTR in the ELIOT group versus the WBI group than in the intention-to-treat analysis (appendix pp 2, 5). In our post-hoc stratified analysis according to patients’ clinicopathological characteristics, the risk of IBTR was higher in the ELIOT group than in the WBI group in all of the subgroups evaluated (figure 3), with similar findings in the per-protocol analysis (appendix p 6). 35 (50%) of the 70 patients who developed an IBTR in the ELIOT group received repeat breast-conserving surgery, 24 (34%) underwent total mastectomy, one (1%) received chemotherapy alone, and one (1%) under­went palliative radiotherapy. For the other nine (13%) patients not actively followed up at our institute, infor­ mation about salvage treatment was missing. Similarly, eight (50%) of the 16 patients who developed an IBTR in the WBI group received repeat breast-conserving surgery, five (31%) underwent total mastectomy, and for the other three (19%) patients not actively followed up at our institute, information about salvage treatment was missing. After a median observation time (from the date of randomisation to the date of last assessment of vital status) of 13·1 years (IQR 11·3–15·1), 193 (15%) women had died from any cause, with no difference in the number of deaths between the two groups (98 in ELIOT vs 95 in WBI; HR 1·03, 95% CI 0·77–1·36, p=0·85; table 2; figure 4). In the ELIOT group, the overall survival rate was 96·8% (95% CI 95·1–97·9) at 5 years, 90·7% (88·2–92·7) at 10 years, and 83·4% (79·7–86·4) at 15 years; and in the WBI group, the overall survival rate was 96·8% (95·1–97·9) at 5 years, 92·7% (90·4–94·4) at 10 years, and 82·4% (78·5–85·6) at 15 years. No difference between the groups was observed for deaths directly 602 
+
+related to breast cancer nor for deaths attributable to other causes (table 2). There was no significant difference between the groups in the number of cardiovascular deaths (four in ELIOT vs three in WBI; p=0·40; data not shown). In 55 patients it was impossible to obtain information on the cause of death (table 2). Again, no difference in mortality between the groups was observed in the per-protocol analysis (appendix pp 2, 8). In our post-hoc analyses, the rates of axillary or other regional lymph node metastasis and of locoregional relapse were higher in the ELIOT group than in the WBI group, both in the intention-to-treat and per-protocol analyses (table 2, appendix pp 2, 7). There was no signifi­ cant difference between the number of contralateral breast cancer cases in the treatment groups (table 2). No significant difference was observed for the development of distant metastasis, primary cancer at other sites, or deaths as first event (table 2). Similar results were found in the per-protocol analysis, with no difference between the groups in the incidence of contralateral breast cancer, distant events, other primary cancer, or death as first event (appendix p 2). Table 3 presents the results of a post-hoc univariate analysis of factors associated with IBTR in the 651 patients randomly assigned to receive ELIOT. A pathological tumour size of more than 2 cm, the presence of four or more positive axillary nodes, a grade 3 tumour, a proliferative (Ki-67) index of more than 20%, and a luminal B or triple-negative subtype were associated with a significantly increased risk of local recurrence. The presence of positive surgical margins was infrequent, and recorded in only three patients in the ELIOT group. None of them underwent any further resection and one patient had IBTR (table 3). On the basis of these results, we defined a group of 141 women (66 in the WBI group and 75 in the ELIOT group) at a very low risk of IBTR, consisting of patients with four concomitant characteristics (a tumour size of <1 cm, a grade 1 tumour, a luminal A molecular subtype, and a proliferative index [Ki-67] <14%), each associated with an IBTR rate of less than 10% in the ELIOT group at 15 years. The incidence of IBTR in this subgroup was notably low with either treatment method, with 5-year IBTR rates of 0%, 10-year rates of 1·3% (95% CI 0·1–5·6), and 15-year rates of 8·1% (2·1–19·4) in the ELIOT group, against 5-year rates of 0%, 10-year rates of 1·5% (0·1–7·4), and 15-year rates of 3·1% (0·6–9·7) in the WBI group (HR 1·97, 95% CI 0·36–10·8, p=0·45). Finally, we assessed the cumulative incidence of IBTR in the ELIOT group according to the suitability criteria proposed in the ASTRO guidelines12 on APBI , showing a high rate of IBTR after 10 years in the suitable group (table 3). Similar results were found for the per-protocol population (appendix p 3). 
+
+Discussion This long-term analysis of the ELIOT study shows a higher rate of IBTR in the ELIOT group than in the WBI www.thelancet.com/oncology Vol 22 May 2021 
+
+Articles 
+
+ELIOT group 
+
+WBI group 
+
+Hazard ratio (95% CI) 
+
+Events (n)/ patients (N) 
+
+Events (n)/ patients (N) 
+
+Age, years <60 
+
+35/330 
+
+7/310 
+
+4·82 (2·14–10·86) 
+
+60-69 
+
+31/259 
+
+6/269 
+
+5·69 (2·37–13·64) 
+
+≥70 
+
+4/62 
+
+3/75 
+
+1·86 (0·41–8·33) 
+
+Ductal 
+
+58/524 
+
+11/514 
+
+5·36 (2·81–10·21) 
+
+Lobular 
+
+7/53 
+
+4/57 
+
+2·13 (0·62–7·28) 
+
+Mixed 
+
+2/17 
+
+0/21 
+
+NA 
+
+Other 
+
+3/53 
+
+1/55 
+
+3·12 (0·32–29.96) 
+
+≤1·0 cm 
+
+15/199 
+
+4/194 
+
+4·01 (1·33–12·10) 
+
+>1·0–1·5 cm 
+
+28/243 
+
+5/235 
+
+5·73 (2·21–14·83) 
+
+>1·5–2·0 cm 
+
+13/120 
+
+3/115 
+
+3·75 (1·06–13·24) 
+
+>2·0 cm 
+
+14/83 
+
+4/103 
+
+4·80 (1·58–14·58) 
+
+None 
+
+46/478 
+
+9/471 
+
+5·47 (2·68–11·19) 
+
+1–4 
+
+18/138 
+
+5/138 
+
+3·49 (1·30–9·40) 
+
+≥4 
+
+6/31 
+
+2/38 
+
+3·21 (0·64–15.96) 
+
+Negative or close 
+
+69/644 
+
+15/638 
+
+4·78 (2·73–8·35) 
+
+Positive 
+
+1/3 
+
+1/9 
+
+2·45 (0·15–39·72) 
+
+Histology 
+
+Pathological tumour size 
+
+Positive nodes 
+
+Resection margins 
+
+Tumour grade G1 
+
+14/196 
+
+3/160 
+
+3·95 (1·13–13·74) 
+
+G2 
+
+33/305 
+
+8/328 
+
+4·73 (2·18–10·24) 
+
+G3 
+
+21/129 
+
+5/145 
+
+4·89 (1·84–12.96) 
+
+Positive 
+
+59/583 
+
+15/589 
+
+4·21 (2·39–7·42) 
+
+Negative 
+
+11/63 
+
+1/56 
+
+9·25 (1·19–71·70) 
+
+Positive 
+
+50/487 
+
+15/512 
+
+3·71 (2·08–6·61) 
+
+Negative 
+
+20/158 
+
+1/132 
+
+17·05 (2·29–127·09) 
+
+Oestrogen receptor status 
+
+Progesterone receptor status 
+
+Proliferative index (Ki-67) <14% 
+
+18/263 
+
+7/242 
+
+2·50 (1·04–5·99) 
+
+14–20% 
+
+14/138 
+
+0/138 
+
+NA 
+
+>20% 
+
+38/244 
+
+9/265 
+
+4·89 (2·36–10·11) 
+
+Negative* 
+
+62/589 
+
+15/585 
+
+4·35 (2·47–7·64) 
+
+Positive† 
+
+8/57 
+
+1/62 
+
+8·28 (1·04–66·19) 
+
+HER2 status 
+
+Molecular subtype Luminal A 
+
+17/256 
+
+7/237 
+
+2·38 (0·99–5·74) 
+
+Luminal B 
+
+42/327 
+
+8/352 
+
+6·00 (2·82–12·78) 
+
+HER2 positive 
+
+2/20 
+
+1/24 
+
+2·15 (0·19–23·93) 
+
+Triple negative 
+
+9/43 
+
+0/32 
+
+NA 
+
+All patients 
+
+70/651 
+
+16/654 
+
+4·62 (2·68–7·95) 1·0 
+
+0·1 Favours ELIOT 
+
+10·0 
+
+100·0 
+
+Favours WBI 
+
+Figure 3: Stratified analysis of the risk of ipsilateral breast tumour recurrence in ELIOT versus WBI according to clinicopathological characteristics (intention to treat) ELIOT=electron intraoperative radiotherapy. WBI=whole breast irradiation. *Immunohistochemical scores 0, 1+, and 2+ not amplified. †Immunohistochemical score 3+ or amplified. 
+
+group at longer follow-up, supporting the results of the previous analysis, without any differences in distant relapse and overall survival between the groups. We did this randomised trial during the period 2000–07, when the use of APBI, and particularly ELIOT, was www.thelancet.com/oncology Vol 22 May 2021 
+
+pioneering. In our first report, we found a significant increase of IBTR in the ELIOT group compared with the WBI group.4 Therefore, even though the rate of IBTR in the ELIOT group was within the prespecified equivalence margin, the use of ELIOT did not prove to be equivalent 603 
+
+Articles 
+
+Overall survival (%) 
+
+100 80 60 40 
+
+WBI ELIOT HR 1·03 (95% CI 0·77–1·36), log-rank p=0·85 
+
+20 0 
+
+0 
+
+Number at risk (number censored) ELIOT 651 (0) WBI 654 (0) 
+
+5 
+
+10 
+
+15 
+
+Time since randomisation (years) 628 (2) 627 (6) 
+
+562 (29) 561 (46) 
+
+169 (392) 182 (381) 
+
+Figure 4: Overall survival (intention to treat) Shaded areas represent 95% CIs. ELIOT=electron intraoperative radiotherapy. HR=hazard ratio. WBI=whole breast irradiation. 
+
+to WBI, because the IBTR rate in the WBI group was much lower than that expected based on the studies available at the time when the trial was designed and more consistent with the data reported in breast conservation trials.8,20 In an unplanned subset analysis, we also identified a group of patients at a low risk of IBTR, and these findings contributed to defining and validating the current guidelines for the use of APBI in a clinical setting.13–15 Similar findings were also found in our out-trial series, comprising all patients who received ELIOT at our institute for invasive breast cancer and were not enrolled in this trial, where patients were stratified according to the risk subgroups proposed in the ASTRO and Groupe Européen de Curiethérapie-European Society for Therapeutic Radiology and Oncology (GEC-ESTRO) recommendations.21,22 In the current report, we reassessed patient outcomes after a long period of observation, and ELIOT was again associated with a significant increase in local and regional recurrence; however, this increase did not have any effect on distant metastasis, cancer-specific survival, or overall survival. Unlike in our previous report, we no longer distinguished between true local recurrence and new ipsilateral breast tumour, since the long-term efficacy of the treatment should be assessed on the whole breast. The higher rate of lymph node relapse observed in the ELIOT group than in the WBI group might be explained by the absence of any radiation dose to the first axillary levels by intraoperative radiotherapy.23 This reappraisal is notable, because not only did it strengthen the early data, but also because it reaffirmed that in the long term, the higher rate of local failure with ELIOT did not compromise patient survival. In an unplanned analysis, we identified a group of women, representing 10·8% of the entire study popu­ lation, at a very low risk of IBTR (less than 1·3% at 10 years), in which ELIOT can continue to be safely proposed. This group includes women with small (<1 cm), well-differentiated, luminal A tumours, with a 604 
+
+proliferative index (Ki-67) less than 14%. The importance of tumour size was also underlined by the NSABP B-39/ RTOG 0413 trial,8 which found a favourable outcome for APBI when given to patients with tumours up to of 1 cm in size. The selection of the ideal candidate for intraoperative radiotherapy should be stricter than that described in the suitable category by the ASTRO guidelines on APBI.14 In fact, we observed a high rate of IBTR after ELIOT in patients classified as being suitable for APBI according to the latest ASTRO guidelines.14 In this group, intraoperative treatment should be discussed on a case-by-case basis and offered to fully informed patients in the context of shared decision making. Even if the survival outcome has not been negatively affected in this trial or in other APBI trials, we understand that local relapse in itself can be a devastating situation for the patient and an additional burden to the health-care system. However, a less suitable choice for most patients can be a better option for the individual, if risks and benefits are balanced and the trade-off with local control is made clear to patients. For the other group of women, who were at a higher risk, ELIOT should be not indicated in principle. However, our criteria for the definition of very low risk needs to be tested in an independent dataset before any reliable statement can be made. The study results emphasise the importance of the selection of women at a very low risk of local recurrence. Predictive assays, such as the Oncotype DX, Prosigma50, or others will probably be increasingly used for decision making regarding radiotherapy in addition to systemic therapies. Many studies, including the PRECISON (NCT02653755), EXPERT (NCT02889874), or IDEA (NCT02400190) trials, are evaluating genotyping assays for risk stratification and radiotherapy decision making. At a simpler level, more complete immunohistochemical tumour profiling, including a combination of measuring the protein expression of oestrogen receptor, progesterone receptor, HER2, and Ki-67, along with clinicopatho­ logical variables, as proposed in the PRIMETIME trial (NCT02518958), might help to categorise patients at very low, low, or higher risk of recurrence. In fact, less expensive immunohistochemistry has been widely adopted in clinical practice as a surrogate for biomolecular subtypes and has proven to be quite accurate.24 To define the very low risk group of the current trial, we adopted the threshold of less than 14% for Ki-67, as suggested by Goldhirsch and colleagues,25 to best correlate with the gene expression definition of luminal A, although in the clinical practice a cutoff of less than 20% is generally taken as indicative of such a subtype. A complete and accurate pathology is crucial to patient’s treatment selection, especially when done perioperatively, and should be standardised as part of a quality assurance programme for any APBI method. The use of intraoperative radiotherapy for the treatment of early-stage breast cancer increased in the USA up to ten times between 2010 and 2013, as reported in an analysis of www.thelancet.com/oncology Vol 22 May 2021 
+
+Articles 
+
+Patients (n) 
+
+Ipsilateral breast tumour recurrences (n) 
+
+5-year 
+
+10-year 
+
+15-year 
+
+Hazard ratio (95% CI) 
+
+p value 
+
+651 
+
+70 
+
+4·2% (2·8–5·9) 
+
+8·1% (6·1–10·3) 
+
+12·6% (9·8–15·9) 
+
+·· 
+
+·· 
+
+<60 
+
+330 
+
+35 
+
+4·6% (2·7–7·2) 
+
+8·9% (6·1–12·2) 
+
+12·5% (8·5–17·4) 
+
+1·00 (ref) 
+
+·· 
+
+60–69 
+
+259 
+
+31 
+
+3·1% (1·5–5·8) 
+
+7·4% (4·6–11·1) 
+
+14·2% (9·7–19·4) 
+
+1·13 (0·70–1·84) 
+
+0·62 
+
+≥70 
+
+62 
+
+1 
+
+6·5% (2·1–14·5) 
+
+6·5% (2·1–14·5) 
+
+6·5% (2·1–14·5) 
+
+0·72 (0·26–2·02) 
+
+0·53 
+
+Ductal 
+
+524 
+
+58 
+
+4·4% (2·9–6·4) 
+
+8·3% (6·1–10·9) 
+
+13·6% (10·2–17·5) 
+
+1·00 (ref) 
+
+·· 
+
+Lobular 
+
+53 
+
+7 
+
+3·8% (0·7–11·6) 
+
+7·6% (2·4–17·0) 
+
+12·6% (4·9–24·2) 
+
+1·24 (0·57–2·71) 
+
+0·60 
+
+Ductal and lobular 
+
+17 
+
+2 
+
+5·9% (0·3–24·3) 
+
+11·8% (1·8–32·0) 
+
+11·8% (1·8–32·0) 
+
+1·13 (0·28–4·64) 
+
+0·86 
+
+Other 
+
+53 
+
+3 
+
+1·9% (0·2–8·9) 
+
+5·8% (1·5–14·6) 
+
+5·8% (1·5–14·6) 
+
+0·47 (0·15–1·50) 
+
+0·20 
+
+All patients 
+
+Cumulative incidence (95% CI) 
+
+Univariate analysis 
+
+Age, years 
+
+Histology 
+
+Pathological tumour size ≤1·0 cm 
+
+199 
+
+15 
+
+2·0% (0·7–4·8) 
+
+4·6% (2·3–8·2) 
+
+9·0% (5·0–14·4) 
+
+1·00 (ref) 
+
+·· 
+
+>1·0–1·5 cm 
+
+243 
+
+28 
+
+3·7% (1·8–6·6) 
+
+8·3% (5·2–12·2) 
+
+14·4% (9·4–20·3) 
+
+1·56 (0·83–2·92) 
+
+0·17 
+
+>1·5–2·0 cm 
+
+120 
+
+13 
+
+4·2% (1·6–8·9) 
+
+7·5% (3·7–13·2) 
+
+12·1% (6·3–19·9) 
+
+1·50 (0·71–3·14) 
+
+0·29 
+
+>2·0 cm 
+
+83 
+
+14 
+
+11·0% (5·4–18·8) 
+
+17·2% (9·9–26·2) 
+
+17·2% (9·9–26·2) 
+
+2·90 (1·40–6·02) 
+
+0·0042 
+
+None 
+
+478 
+
+46 
+
+3·4% (2·0–5·3) 
+
+7·4% (5·3–10·0) 
+
+11·4% (8·3–15·1) 
+
+1·00 (ref) 
+
+·· 
+
+1–3 
+
+138 
+
+18 
+
+5·1% (2·3–9·7) 
+
+9·6% (5·3–15·2) 
+
+14·1% (8·4–21·4) 
+
+1·36 (0·79–2·34) 
+
+0·28 
+
+≥4 
+
+31 
+
+6 
+
+12·9% (4·0–27·3) 
+
+12·9% (4·0–27·3) 
+
+24·2% (8·5–44·1) 
+
+2·63 (1·12–6·16) 
+
+0·026 
+
+644 
+
+69 
+
+4·0% (2·7–5·8) 
+
+8·0% (6·1–10·3) 
+
+12·6% (9·8–15·9) 
+
+1·00 (ref) 
+
+·· 
+
+3 
+
+1 
+
+33·3% (0·1–83·2) 
+
+33·3% (0·1–83·2) 
+
+·· 
+
+3·94 (0·55–28·4) 
+
+0·17 
+
+G1 
+
+196 
+
+14 
+
+1·0% (0·2–3·4) 
+
+4·1% (1·9–7·6) 
+
+9·0% (4·9–14·6) 
+
+1·00 (ref) 
+
+·· 
+
+G2 
+
+305 
+
+33 
+
+3·6% (1·9–6·2) 
+
+7·6% (5·0–10·9) 
+
+13·3% (9·0–18·5) 
+
+1·63 (0·87–3·04) 
+
+0·13 
+
+G3 
+
+129 
+
+21 
+
+10·9% (6·3–17·0) 
+
+15·7% (10·0–22·5) 
+
+16·8% (10·8–24·0) 
+
+2·93 (1·49–5·77) 
+
+0·0019 
+
+Positive 
+
+583 
+
+59 
+
+3·3% (2·0–5·0) 
+
+7·1% (5·2–9·4) 
+
+12·3% (9·3–15·8) 
+
+1·00 (ref) 
+
+·· 
+
+Negative 
+
+63 
+
+11 
+
+12·7% (5·9–22·2) 
+
+17·5% (9·3–27·9) 
+
+17·5% (9·3–27·9) 
+
+1·90 (1·00–3·61) 
+
+0·052 
+
+Positive 
+
+487 
+
+50 
+
+3·5% (2·1–5·4) 
+
+7·5% (5·3–10·0) 
+
+12·7% (9·3–16·7) 
+
+1·00 (ref) 
+
+.. 
+
+Negative 
+
+158 
+
+20 
+
+6·3% (3·2–10·9) 
+
+10·2% (6·1–15·5) 
+
+13·2% (8·1–19·6) 
+
+1·24 (0·74–2·08) 
+
+0·42 
+
+Positive nodes 
+
+Resection margins Negative or close Positive Tumour grade 
+
+Oestrogen receptor status 
+
+Progesterone receptor status 
+
+Proliferative index (Ki-67) <14% 
+
+263 
+
+18 
+
+1·5% (0·5–3·6) 
+
+4·6% (2·5–7·7) 
+
+7·9% (4·7–12·3) 
+
+1·00 (ref) 
+
+·· 
+
+14–20% 
+
+138 
+
+14 
+
+2·2% (0·6–5·8) 
+
+8·1% (4·3–13·5) 
+
+10·0% (5·6–16·0) 
+
+1·52 (0·76–3·05) 
+
+0·24 
+
+>20% 
+
+244 
+
+38 
+
+8·2% (5·2–12·1) 
+
+12·0% (8·3–16·4) 
+
+19·3% (13·6–25·8) 
+
+2·65 (1·51–4·65) 
+
+0·00066 
+
+Negative* 
+
+589 
+
+62 
+
+3·7% (2·4–5·5) 
+
+7·5% (5·6–9·9) 
+
+12·7% (9·6–16·2) 
+
+1·00 (ref) 
+
+·· 
+
+Positive† 
+
+57 
+
+8 
+
+8·8% (3·2–17·9) 
+
+14·1% (6·5–24·6) 
+
+14·1% (6·5–24·6) 
+
+1·51 (0·72–3·16) 
+
+0·27 
+
+HER2 status 
+
+Molecular subtype Luminal A 
+
+256 
+
+17 
+
+1·2% (0·3–3·2) 
+
+4·4% (2·3–7·4) 
+
+7·8% (4·5–12·2) 
+
+1·00 (ref) 
+
+·· 
+
+Luminal B 
+
+327 
+
+42 
+
+4·9% (2·9–7·6) 
+
+9·3% (6·4–12·7) 
+
+15·7% (11·2–20·9) 
+
+2·13 (1·21–3·74) 
+
+0·0086 
+
+HER2 positive 
+
+20 
+
+2 
+
+5·0% (0·3–21·2) 
+
+10·4% (1·6–29·0) 
+
+10·4% (1·6–29·0) 
+
+1·81 (0·42–7·82) 
+
+0·43 
+
+Triple negative 
+
+43 
+
+9 
+
+16·3% (7·1–28·8) 
+
+20·9% (10·2–34·2) 
+
+20·9% (10·2–34·2) 
+
+3·59 (1·60–8·06) 
+
+0·0019 
+
+ASTRO criteria12 Suitable 
+
+223 
+
+25 
+
+2·0% (0·8–4·4) 
+
+6·1% (3·6–9·5) 
+
+13·1% (8·3–19·1) 
+
+1·00 (ref) 
+
+·· 
+
+Cautionary 
+
+182 
+
+20 
+
+5·5% (2·9–9·2) 
+
+10·0% (6·3–14·7) 
+
+10·0% (6·3–14·7) 
+
+1·06 (0·59–1·91) 
+
+0·84 
+
+Unsuitable 
+
+173 
+
+25 
+
+5·6% (3·0–9·4) 
+
+8·7% (5·3–13·1) 
+
+14·3% (9·3–20·4) 
+
+1·34 (0·77–2·34) 
+
+0·30 
+
+ASTRO=American Society for Radiation Oncology. ref=reference category. *Immunohistochemical scores 0, 1+, and 2+ not amplified. †Immunohistochemical score 3+ or amplified. 
+
+Table 3: Factors associated with ipsilateral breast tumour recurrence in 651 patients randomly assigned to receive electron intraoperative radiotherapy (intention to treat population) 
+
+www.thelancet.com/oncology Vol 22 May 2021 
+
+605 
+
+Articles 
+
+the Surveillance, Epidemiology, and End Results Program database.26 This trend was also apparent in Italy, where a nationwide survey reported that 60% of Italian centres used various APBI techniques in routine practice, with intraoperative radiotherapy being the preferred method in 34% of these centres.27 In addition to the USA and Italy, intraoperative radiotherapy is now available in many European countries, in South America, Australia, east Asia, Middle East, and other regions worldwide. The most appealing aspect of APBI is that it is a shorter and more convenient treatment than WBI. However, there have been many changes in breast radiotherapy in the past decade, with the introduction of new concepts in terms of delivery techniques, dosing, and fractionation schedules, mainly because of a better understanding of cancer biology and patient characteristics that allow for a greater personalisation of treatment. In 2018, 40 Gy in 15 fractions was recognised worldwide as the treatment standard after breast-conserving surgery,2 and subsequently, a 1-week schedule of five fractions has been proven to be noninferior to a 3-week schedule of 15 fractions in the FASTForward trial, placing itself in a position to become the new standard in the adjuvant setting.28 Although the FASTForward trial schedule might be attractive because of the shorter duration of treatment and broader eligibility criteria than WBI, the counter-argument in favour of APBI is the larger amount of healthy tissue that is spared. Whether or not the reduced extension of APBI fields translates into an improved toxicity profile remains an open question. No difference in non-breast cancer-related mortality was seen in any of the randomised trials and meta-analyses. Some trials reported a higher rate of moderate to severe subcutaneous tissue toxicity in the APBI group than in the WBI group,8,11 whereas other trials did not record any cosmetic changes.20 The identification of the ideal candidate for intra­ operative radiotherapy as those at very low risk also raises the question whether any form of radiotherapy can be completely omitted. So far, no trial has randomly assigned women to intraoperative radiotherapy, or APBI in general, versus endocrine therapy alone. Therefore, indirect comparisons with non-irradiated groups of randomised studies addressing the omission of WBI can only be speculated, and this question needs to be addressed in a future trial of ELIOT versus no radiotherapy. In previous trials that have omitted radiotherapy, the most represented population had grade 1, oestrogen receptor-positive, T1N0 tumours, and the omission of radiotherapy resulted in a local failure rate of approximately 4·1% (PRIME II)29 at 5 years and 8·4–10·2% (CALCGB and BASO II)30,31 at 10 years. Looking at patients in the ELIOT trial that were assigned to a suitable group according to ASTRO guidelines,14 the cumulative incidence of IBTR was 2·1% at 5 years and 6·1% at 10 years. This theoretical small gain in local control might be worth being considered in specific situations, given the convenience of the single fraction and the safety for underlying organs at risk. 606 
+
+Other APBI treatment methods seemed to emerge better from the comparison, with an IBTR rate ranging from 3·0% to 5·9% at 10 years,11,20,32 which corresponds to approximately half of the risk observed without radio­ therapy (appendix p 4). A direct comparison of the outcomes in the different trials is also difficult because the risk of recurrence is partly established by the clinical and pathological characteristics of the study populations. Most studies enrolled mainly patients at a low risk, except for the NSABP B-39/RTOG 0413 trial8 and the ELIOT trial,4 in which more extensive inclusion criteria were applied. Indeed, the ELIOT trial had few selection criteria, and included patients who would be unsuitable for APBI according to the subsequent (GEC-ESTRO) guidelines and most recent ASTRO and Association of Breast Surgery guidelines.11–14 The failure of the aforementioned trials to meet equivalence with WBI reinforce the importance of patient selection when APBI is chosen, regardless of the technique used. WBI can be used for all situations, whereas APBI should be tailored to tumours and patients. The length of follow-up also differs across studies, with only few long-term results available. The use of various radiation delivery techniques is another confounding factor, mainly because of the different definition of the target volume, possibly guided by imaging, and therefore more reproducible with the use of brachytherapy or external beam radiotherapy instead of intraoperative radiotherapy, but also because of the variability in the dose prescription and distribution and fractionation regimen. Technical recommendations, as published by some scientific societies, could be useful to increase the quality of the treatments.33,34 Moreover, in the ELIOT trial, the surgical technique played a crucial role. Positive surgical margins on the final histology might represent an issue, but in our trial the proportion of patients with positive surgical margins was low in both groups and was unlikely to explain the difference in IBTR rates between ELIOT and WBI. To achieve a higher oncological efficacy and to minimise the possible local side-effects of the technique (immediate fat necrosis, skin flap-temporary suffering, or late parenchymal fibrosis), a precise radio-surgical technique and a careful clinical selection of the patients (according to the size and shape of the breast, and to the site and size of the tumour) are mandatory and should be standardised. Even if the APBI technique might not be the chief factor in establishing outcomes, in absolute terms, APBI and external beam radiotherapy trials seemed to register the lower rate of local recurrence in some populations, with a range of 0·5–2·3% at 5 years,9–11 3% at 8 years,11 and 3·3% at 10 years.20 A similar 5-year IBTR rate (1·4%) was also observed in the GEC-ESTRO study, with brachytherapy APBI.5 In our trial, in the subset of patients at a very low risk, the 5-year IBTR rate was 0%, and in those who were suitable for APBI according to ASTRO and treated by ELIOT, the 5-year IBTR rate was 2·0%. In the NSABP www.thelancet.com/oncology Vol 22 May 2021 
+
+Articles 
+
+B-39/RTOG 0413 trial,8 the 10-year cumulative incidence of IBTR in the APBI group was 4·6%, with an absolute difference of less than 1% compared with WBI. The trial allowed the delivery of three various APBI methods (three-dimensional conformal radiotherapy, single-entry brachytherapy, and multi-catheter brachytherapy), but it was unable to test for differences in the outcomes from the different techniques because of the absence of statistical power of the subgroups.8 However, the most used method was three-dimensional conformal radio­ therapy, in 73% of patients. More flexible techniques, which can modulate field extension and check on dosimetry, might potentially yield better outcomes than intraoperative techniques that are conditioned by the width and location of the surgical breach. We continued to observe a low rate of recurrence in the standard WBI group with longer follow-up, with only 16 events in total (2·4%), corresponding to 0·5% at 5 years, 1·1% at 10 years, and 2·4% at 15 years. These figures are at the lowest point of the 5-year IBTR rate range of 0·92–3·3%,6,7,10 and of the 10-year IBTR rate range of 2·6–5·1%8,11,20,32 in the WBI groups of other reported APBI trials. These rates are much lower than those observed after breast-conserving therapy (8·8%) in the Milan I trial,35 which was used as a reference to design the statistics for ELIOT trial and those reported by the Early Breast Cancer Trialists Collaborative Group meta-analyses in studies started before 2000,1 where the 10-year risk of any (locoregional or distant) first recurrence was 19·3% compared with 8·9% in the present study. In the context of modern oncological approaches, the development of threedimensional conformal radiotherapy and to dosimetry assessment in the late 1990s has partly contributed to an overall improvement in local control. All patients included in the ELIOT study received three-dimensional conformal radiotherapy and a conventionally fractionated schedule of 30 sessions, which was in widespread use on a national level at the time of the ELIOT study. This approach is being replaced by hypo­fractionation,2 and most adjuvant breast radio­therapies are now done with the use of intensitymodulated radiotherapy and supported by image-guided radio­therapy. An important common result observed in all studies is the similar overall survival of patients randomly assigned to ABPI and WBI, both at 5 years and in the long term. The observation that breast cancer mortality was not affected by the type of local treatment, supported by all the APBI meta-analyses,3 could be reconciled with the findings from the Early Breast Cancer Trialists Collaborative Group meta-analysis1 that instead showed a 15-year survival benefit by preventing local recurrences by accounting for the different nature of the in-breast reappearances. IBTR after WBI might be a sign of an aggressive tumour biology and resistance to treatments, whereas IBTR after APBI might be more indolent since the recurrences arise from more favourably chosen primary tumours or develop from undetected neoplastic www.thelancet.com/oncology Vol 22 May 2021 
+
+foci, which most resemble new second primaries with a better prognosis.36 Additionally, available salvage treat­ ments might be more effective than those used in the studies included in the Early Breast Cancer Trialists Collaborative Group meta-analysis.1 A limitation of our study is the absence of long-term toxicity data, especially cardiac toxicity. Despite this limitation, we observed no difference in mortality, either directly related to breast cancer or attributable to other causes, including cardiac diseases. Another limitation relates to the difficulty of gathering long-term outcome data. Although this is a single-centre trial, many of the enrolled patients lived in distant regions and were not actively followed-up at the European Institute of Oncology after the planned 5-year follow-up period. For patients who were lost to follow-up, information about their vital status was obtained from local vital statistics office, but in those who had died the actual cause of death was not accessible. In conclusion, this trial, which to our knowledge has the longest follow-up of all APBI and intraoperative radiotherapy trials, shows that the rate of local and regional recurrences in women with early-stage breast cancer is significantly higher after ELIOT than after WBI (with very low rates of local recurrence after WBI), but that these increased recurrences have no effect on the important outcomes of overall survival or distant metastatic spread at 10 and 15 years. Risk stratification of patients is necessary to select the optimal treatment method for individual patients; those with high risk features should be definitively excluded from intra­ operative radiotherapy, whereas a very low-risk subgroup of patients, as identified in this study, who fared well with ELIOT might be able to avoid radiotherapy altogether, although future trials to address this question are needed. Contributors UV and RO conceived the study. UV, VEG, PV, AL, PC, SZ, MI, MV, DS, RO, RL, BAJ-F, MCL, and FC provided study materials and recruited patients. GV supervised the pathological evaluation of surgical specimens. CS collected and assembled the data. PM analysed and interpreted the data. RO, MI, MCL, and PM prepared the first draft of the manuscript. All authors provided feedback and revised the manuscript. CS and PM had full access to all data in the study, verified the data, and take responsibility for the integrity of the data and the accuracy of the data analysis. Declaration of interests We declare no competing interests. Data sharing These clinical trial data are available from the corresponding author on reasonable request. All requests for raw and analysed data and materials will be reviewed by the corresponding author to verify whether the request is subject to confidentiality obligations. Acknowledgments We thank the Italian Association for Cancer Research, the Jacqueline Seroussi Memorial Foundation for Cancer Research, the Umberto Veronesi Foundation, the American Italian Cancer Foundation, and the Lombardy Region for their support to the study. This study was also partly supported by the Italian Ministry of Health with the Ricerca Corrente fund and 5x1000 fund. 
+
+607 
+
+Articles 
+
+References 1 Darby S, McGale P, Correa C, et al. Effect of radiotherapy after breast-conserving surgery on 10-year recurrence and 15-year breast cancer death: meta-analysis of individual patient data for 10 801 women in 17 randomised trials. Lancet 2011; 378: 1707–16. 2 Smith BD, Bellon JR, Blitzblau R, et al. Radiation therapy for the whole breast: executive summary of an American Society for Radiation Oncology (ASTRO) evidence-based guideline. Pract Radiat Oncol 2018; 8: 145–52. 3 Marta GN, Barrett J, Porfirio GJM, et al. Effectiveness of different accelerated partial breast irradiation techniques for the treatment of breast cancer patients: systematic review using indirect comparisons of randomized clinical trials. Rep Pract Oncol Radiother 2019; 24: 165–74. 4 Veronesi U, Orecchia R, Maisonneuve P, et al. Intraoperative radiotherapy versus external radiotherapy for early breast cancer (ELIOT): a randomised controlled equivalence trial. Lancet Oncol 2013; 14: 1269–77. 5 Vaidya JS, Wenz F, Bulsara M, et al. Risk-adapted targeted intraoperative radiotherapy versus whole-breast radiotherapy for breast cancer: 5-year results for local control and overall survival from the TARGIT-A randomised trial. Lancet 2014; 383: 603–13. 6 Vaidya JS, Bulsara M, Saunders C, et al. Effect of delayed targeted intraoperative radiotherapy vs whole-breast radiotherapy on local recurrence and survival: long-term results from the TARGIT-A randomized clinical trial in early breast cancer. JAMA Oncol 2020; 6: e200249. 7 Strnad V, Ott OJ, Hildebrandt G, et al. 5-year results of accelerated partial breast irradiation using sole interstitial multicatheter brachytherapy versus whole-breast irradiation with boost after breast-conserving surgery for low-risk invasive and in-situ carcinoma of the female breast: a randomised, phase 3, non-inferiority trial. Lancet 2016; 387: 229–38. 8 Vicini FA, Cecchini RS, White JR, et al. Long-term primary results of accelerated partial breast irradiation after breast-conserving surgery for early-stage breast cancer: a randomised, phase 3, equivalence trial. Lancet 2019; 394: 2155–64. 9 Livi L, Meattini I, Marrazzo L, et al. Accelerated partial breast irradiation using intensity-modulated radiotherapy versus whole breast irradiation: 5-year survival analysis of a phase 3 randomised controlled trial. Eur J Cancer 2015; 51: 451–63. 10 Coles CE, Griffin CL, Kirby AM, et al. Partial-breast radiotherapy after breast conservation surgery for patients with early breast cancer (UK IMPORT LOW trial): 5-year results from a multicentre, randomised, controlled, phase 3, non-inferiority trial. Lancet 2017; 390: 1048–60. 11 Whelan TJ, Julian JA, Berrang TS, et al. External beam accelerated partial breast irradiation versus whole breast irradiation after breast conserving surgery in women with ductal carcinoma in situ and node-negative breast cancer (RAPID): a randomised controlled trial. Lancet 2019; 394: 2165–72. 12 Ribeiro GG, Dunn G, Swindell R, Harris M, Banerjee SS. Conservation of the breast using two different radiotherapy techniques: interim report of a clinical trial. Clin Oncol 1990; 2: 27–34. 13 Polgár C, Van Limbergen E, Pötter R, et al. Patient selection for accelerated partial-breast irradiation (APBI) after breast-conserving surgery: recommendations of the Groupe Européen de Curiethérapie-European Society for Therapeutic Radiology and Oncology (GEC-ESTRO) breast cancer working group based on clinical evidence (2009). Radiother Oncol 2010; 94: 264–73. 14 Correa C, Harris EE, Leonardi MC, et al. Accelerated partial breast irradiation: executive summary for the update of an ASTRO evidencebased consensus statement. Pract Radiat Oncol 2017; 7: 73–79. 15 Shah C, Vicini F, Shaitelman SF, et al. The American Brachytherapy Society consensus statement for accelerated partial-breast irradiation. Brachytherapy 2018; 17: 154–70. 16 Veronesi U, Orecchia R, Luini A, et al. Focalised intraoperative irradiation after conservative surgery for early stage breast cancer. Breast 2001; 10: 84–89. 17 Veronesi U, Orecchia R, Luini A, et al. Intraoperative radiotherapy during breast conserving surgery: a study on 1,822 cases treated with electrons. Breast Cancer Res Treat 2010; 124: 141–51. 18 Mathoulin-Pelissier S, Bellera C, Gregoire F, Yang-Ting L, Malfilatre A. Deployment of a centralized randomization service by internet in the trans European network Alea for clinical trials services (TenAlea) project. Bull Cancer 2008; 95: s73–74. 
+
+608 
+
+19 20 
+
+21 
+
+22 
+
+23 24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+35 
+
+36 
+
+Kalbfleisch JD, Prentice RL. Competing risks and multistate models. In: The statistical analysis of failure time data. Hoboken, NJ: J Wiley, 2002: 247–77. Meattini I, Saieva C, Lucidi S, et al. Accelerated partial breast or whole breast irradiation after breast conservation surgery for patients with early breast cancer: 10-year follow up results of the APBI IMRT Florence randomized phase 3 trial. 2019 San Antonio Breast Cancer Symposium; San Antonio, TX; Dec 10–14, 2019 (abstr GS4–06). Leonardi MC, Maisonneuve P, Mastropasqua MG, et al. How do the ASTRO consensus statement guidelines for the application of accelerated partial breast irradiation fit intraoperative radiotherapy? A retrospective analysis of patients treated at the European Institute of Oncology. Int J Radiat Oncol Biol Phys 2012; 83: 806–13. Leonardi MC, Maisonneuve P, Mastropasqua MG, et al. Accelerated partial breast irradiation with intraoperative electrons: using GEC-ESTRO recommendations as guidance for patient selection. Radiother Oncol 2013; 106: 21–27. Gentilini O, Botteri E, Leonardi MC, et al. Ipsilateral axillary recurrence after breast conservative surgery: the protective effect of whole breast radiotherapy. Radiother Oncol 2017; 122: 37–44. Goldhirsch A, Winer EP, Coates AS, et al. Personalizing the treatment of women with early breast cancer: highlights of the St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2013. Ann Oncol 2013; 24: 2206–23 Goldhirsch A, Winer EP, Coates AS, et al. Personalizing the treatment of women with early breast cancer: highlights of the St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2013. Ann Oncol 2013; 24: 2206–23. Lei J, Wang Y, Bi Z, Xue S, Ou B, Liu K. Intraoperative radiotherapy (IORT) versus whole-breast external beam radiotherapy (EBRT) in early stage breast cancer: results from SEER database. Jpn J Radiol 2020; 3: 2. Gregucci F, Fozza A, Falivene S, et al. Present clinical practice of breast cancer radiotherapy in Italy: a nationwide survey by the Italian Society of Radiotherapy and Clinical Oncology (AIRO) Breast Group. Radiol Med (Torino) 2020; 125: 674–82. Murray Brunt A, Haviland JS, Wheatley DA, et al. Hypofractionated breast radiotherapy for 1 week versus 3 weeks (FAST-Forward): normal tissue effects results from a multicentre, non-inferiority, randomised, phase 3 trial. Lancet 2020; 395: 1613–26. Kunkler IH, Williams LJ, Jack WJ, Cameron DA, Dixon JM. Prime II investigators. Breast-conserving surgery with or without irradiation in women aged 65 years or older with early breast cancer (PRIME II): a randomized trial. Lancet Oncol 2015; 16: 266–73. Hughes KS, Schnaper LA, Bellon JR, et al. Lumpectomy plus tamoxifen with or without irradiation in women age 70 years or older with early breast cancer: long-term follow-up of CALGB 9343. J Clin Oncol 2013; 31: 2382–87. Blamey RW, Bates T, Chetty U, et al. Radiotherapy or tamoxifen after conserving surgery for breast cancers of excellent prognosis: British Association of Surgical Oncology (BASO) II trial. Eur J Cancer 2013; 49: 2294–302. Polgár C, Fodor J, Major T, Sulyok Z, Kásler M. Breast-conserving therapy with partial or whole breast irradiation: ten-year results of the Budapest randomized trial. Radiother Oncol 2013; 108: 197–202. Fastner G, Gaisberger C, Kaiser J, et al. ESTRO IORT Task Force/ACROP recommendations for intraoperative radiation therapy with electrons (IOERT) in breast cancer. Radiother Oncol 2020; 149: 150–57. Strnad V, Major T, Polgar C, et al. ESTRO-ACROP guideline: Interstitial multi-catheter breast brachytherapy as accelerated partial breast irradiation alone or as boost - GEC-ESTRO Breast Cancer Working Group practical recommendations. Radiother Oncol 2018; 128: 411–20. Veronesi U, Cascinelli N, Mariani L, et al. Twenty-year follow-up of a randomized study comparing breast-conserving surgery with radical mastectomy for early breast cancer. N Engl J Med 2002; 347: 1227–32. Smith TE, Lee D, Turner BC, Carter D, Haffty BG. True recurrence vs. new primary ipsilateral breast tumor relapse: an analysis of clinical and pathologic differences and their implications in natural history, prognoses, and therapeutic management. Int J Radiat Oncol Biol Phys 2000; 48: 1281–89. 
+
+www.thelancet.com/oncology Vol 22 May 2021 
+
+ 

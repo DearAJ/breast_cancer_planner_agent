@@ -1,0 +1,867 @@
+REVIEWS Towards personalized treatment for early stage HER2-positive breast cancer Kristina Goutsouliak1,2,3,7, Jamunarani Veeraraghavan 1,2,3,7, Vidyalakshmi Sethunath 1,2,4, Carmine De Angelis 1,2,5, C. Kent Osborne1,2,3,6, Mothaffar F. Rimawi and Rachel Schiff 1,2,3,6* 
+
+* 
+
+1,2,3 
+
+Abstract | Advances in HER2-targeted therapies have improved the survival of patients with HER2-positive breast cancer. The standard-​of-care treatment for localized disease has been chemotherapy and 1 year of adjuvant HER2-targeted therapy, typically with the anti-​HER2 antibody trastuzumab. Despite the effectiveness of this treatment, disease relapse occurs in a subset of patients; thus, focus has been placed on escalating treatment by either combining different HER2-targeted agents or extending the duration of HER2-targeted therapy. Indeed, dual HER2-targeted therapies and extended-​duration anti-​HER2 therapy, as well as adjuvant therapy with the anti-​HER2 antibody–drug conjugate T-​DM1, have all been approved for clinical use. Emerging evidence suggests, however, that some patients do not derive sufficient benefit from these additional therapies to offset the associated toxicities and/or costs. Similarly, the universal use of chemotherapy might not benefit all patients, and treatment de-​escalation through omission of chemotherapy has shown promise in clinical trials and is currently being explored further. The future of precision medicine should therefore involve tailoring of therapy based on the genetics and biology of each tumour and the clinical characteristics of each patient. Predictive biomarkers that enable the identification of patients who will benefit from either escalated or de-​escalated treatment will be crucial to this approach. In this Review, we summarize the available HER2-targeted agents and associated mechanisms of resistance, and describe the current therapeutic landscape of early stage HER2-positive breast cancer, focusing on strategies for treatment escalation or de-​escalation. 
+
+*e-​mail: rimawi@bcm.edu; rschiff@bcm.edu https://doi.org/10.1038/s41571019-0299-9 
+
+HER2-positive (HER2 +) breast cancer accounts for ~15–20% of all breast cancers1,2. This aggressive disease subtype is characterized by overexpression of the human epidermal growth factor receptor 2 (HER2, also known as erbB2), typically through ERBB2 amplification. HER2 belongs to a family of receptor tyrosine kinases with four members: HER1 (also known as EGFR), HER2, HER3 and HER4. When activated, the HER proteins homodimerize or heterodimerize and subsequently activate intricate cellular signalling cascades, including the PI3K–AKT and RAS–MAPK (ERK) pathways, which regulate cell proliferation and survival, as well as the metastasis of tumour cells3,4 (Fig. 1a). Accordingly, HER2 is a major oncogenic driver of breast tumours that overexpress this protein5 and thus offers a therapeutic vulnerability that can be effectively targeted in patients with HER2+ tumours. The past two decades — since the humanized anti-​ HER2 monoclonal antibody trastuzumab became the first molecularly targeted agent to be approved by the FDA 
+
+Nature Reviews | Clinical Oncology 
+
+for the treatment of patients with HER2+ breast cancer — have witnessed a surge in the number of anti­ cancer agents targeting HER2 and other HER family members6,7. The use of biologic anti-​HER2 agents in combination with chemotherapy has yielded pronounced clinical success and has dramatically improved the outcomes in patients with HER2+ breast cancer3,4. Despite these improvements, the emergence of treatment resis­tance remains a common and challenging event, especially in the advanced-​stage disease setting, and is a grave reminder that more effective therapies are needed. Deciphering the mechanisms of resistance will lay the foundations for developing effective methods of circumventing disease relapse. Herein, we provide an overview of the currently approved and emerging HER2-targeted therapies for patients with breast cancer, as well as mechanisms of resistance to such therapies. We then focus on the past and ongoing clinical efforts to optimize treatments for early stage HER2+ disease, through either escalation 
+
+Reviews Key points • Advances in HER2-targeted therapy have improved the outcomes of patients with HER2-positive breast cancer; however, intrinsic and acquired resistance to such treatment remain a major clinical challenge. • Emerging preclinical and clinical evidence suggests that simultaneous therapeutic blockade of the HER2 and oestrogen receptor signalling pathways in tumours co-expressing both of these receptors should be considered in order to improve patient outcomes. • In the era of precision medicine, treatment based on the biological and molecular characteristics of the tumour and the clinical characteristics of the patient is a logical approach. • The development of a molecular approach to differentiate patients who are likely to benefit from HER2-targeted therapy with less or no chemotherapy (treatment de-escalation) from those who require chemotherapy or need additional treatment (escalation) remains an overarching challenge. • Prospective testing and validation of risk-​stratified biomarker-​driven treatment approaches will pave the way towards personalized therapy for patients with HER2-positive breast cancer. 
+
+or de-​escalation of therapy. Finally, we summarize the molecular determinants of response and the clinical correlative studies aimed at developing biomarkers for tailored HER2-targeted therapy. 
+
+HER2-targeted agents Several classes of anti-​HER2 agents have been developed (Table 1), including: (1) monoclonal antibodies that bind to the extracellular domain of HER2, such as trastuzumab and pertuzumab, which have direct antitumour effects by inhibiting HER2 signalling and indirect activity via engagement of the host immune system to elicit antibody-​dependent cellular cytotoxicity (ADCC)3,8–10; (2) small-​molecule tyrosine kinase inhibitors (TKIs), including lapatinib, neratinib and afatinib, that bind to the intracellular tyrosine kinase domains of HER2 and other HER family members; and (3) antibody–drug conjugates (ADCs), for example, trastuzumab emtansine (T-​DM1), composed of a monoclonal antibody directed at the extracellular domain of HER2 linked to a cytotoxic agent (Fig. 1b). While trastuzumab, pertuzumab, lapatinib, neratinib and T-​DM1 are currently approved by both the FDA and the European Medicines Agency (EMA) for clinical use in patients with HER2+ breast cancer, several novel HER2-targeted agents are being investigated in clinical trials involving patients with breast cancer, including the Fc-​optimized mono­ clonal antibody margetuximab, the TKIs tucatinib and pyrotinib, and the ADC trastuzumab deruxtecan (Table 1). Moreover, various trastuzumab biosimilars11–18 author addresses Lester and Sue Smith Breast Center, Baylor College of Medicine, Houston, TX, USA. Dan L. Duncan Comprehensive Cancer Center, Baylor College of Medicine, Houston, TX, USA. 3 Department of Medicine, Baylor College of Medicine, Houston, TX, USA. 4 Verna and Marrs McLean Department of Biochemistry and Molecular Biology, Baylor College of Medicine, Houston, TX, USA. 5 Department of Clinical Medicine and Surgery, University of Naples Federico II, Naples, Italy. 6 Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, TX, USA. 7 These authors contributed equally: Kristina Goutsouliak, Jamunarani Veeraraghavan. 1 2 
+
+and subcutaneous administration19 of trastuzumab have also been approved by the FDA. These treatment options have further enriched the armamentarium of HER2targeted therapies and, in the near future, are likely to be used more widely in the clinical management of HER2+ disease20,21, and might improve patient access to biologic therapy and quality of life owing to time and/or cost savings (relating to ease of administration, without the need for infusion infrastructure, for the subcutaneous formulation of trastuzumab). With a wealth of agents available in the busy space of HER2-targeted therapy, the efficacy and safety profiles of these and other newly emerging HER2-targeted drugs, as well as ways to effectively integrate them into the current treatment regimens, continue to be explored. Given the redundancy in HER family signalling22 (Fig. 1a), the effectiveness of HER2-targeted therapy relies on complete functional inhibition of the entire HER network, especially at the level of the HER proteins themselves23–25. In experimental models, combinatorial HER2 blockade, with simultaneous use of two or three HER2-targeted agents, yields superior antitumour activity to that of single-​agent anti-​HER2 therapy23–25. The superiority of dual HER2-targeted therapy in patients with breast cancer has also been demonstrated in clinical trials conducted in the neoadjuvant, adjuvant and metastatic settings26–28. Furthermore, new-​generation irreversible dual or pan-​HER TKIs, including the approved agent neratinib and also pyrotinib (Table 1), hold the potential to comprehensively suppress HER signalling29. In addition, some of these TKIs might be a plausible treatment option for patients with tumours harbouring resistance mutations affecting HER2 or other HER family members, which are most commonly detected in metastases, especially those that arise or progress following prior treatment with anti-​HER2 agents30–32. Agents targeting other members of the HER family have also been developed and, if used in combination with HER2-targeted agents, could potentially result in more potent and comprehensive inhibition of HER signalling23,25,33–36. Of note, the use of agents that effectively suppress EGFR increases the incidence of adverse events, particularly diarrhoea and rash attributable to inhibition of EGFR expressed in the gastrointestinal mucosa and skin, respectively37–41. With the development of effective dual HER2targeted therapies, a disproportionate increase in the incidence of brain-​only recurrence has been observed in patients with early stage HER2+ breast cancer42. This phenomenon necessitates the development of agents that can efficiently cross the blood–brain barrier, such as tucatinib, which has been associated with activity against central nervous system (CNS) disease in the metastatic setting43. Results from the phase II HER2CLIMB trial (NCT02614794) evaluating the benefit of adding tucatinib to trastuzumab and capecitabine in patients with previously treated metastatic breast cancer, including those with brain metastases, are awaited; however, the manufacturer of tucatinib has reported that the primary end point of this trial has been met, with a 46% reduction in the risk of disease progression, and a 52% reduction in patients with brain metastases specifically, as well as a 34% reduction in the risk of death44. www.nature.com/nrclinonc 
+
+Reviews Neratinib 
+
+a 
+
+b 
+
+Ligand 
+
+Pertuzumab 
+
+Lapatinib Trastuzumab T-DM1 
+
+HER1 
+
+HER2 
+
+HER3 
+
+RAS 
+
+HER4 
+
+PI3K 
+
+RAS PTEN 
+
+RAF 
+
+HER1 
+
+HER3 
+
+HER2 
+
+PI3K PTEN 
+
+RAF 
+
+AKT 
+
+HER4 
+
+AKT 
+
+MEK 
+
+MEK 
+
+ERK 
+
+mTOR 
+
+ERK 
+
+Proliferation and survival 
+
+mTOR 
+
+Proliferation and survival 
+
+Fig. 1 | Signalling by HER2 and other HER family members and the clinically approved HER2-targeted agents. a | The HER family of receptor tyrosine kinases consists of four receptors: HER1 (also known as EGFR), HER2, HER3 and HER4. Activation of signalling through all of the HER proteins, except HER2, is induced by ligand binding. Upon ligand binding, these receptors undergo conformational changes leading to the formation of homodimers or heterodimers. HER2 lacks any known ligands but has a conformation that is conducive to dimerization and can thus be activated through homodimerization, when it is overexpressed, or heterodimerization with other ligand-​bound members of the HER family. HER3 has a catalytic domain with very low levels of intrinsic kinase activity165 but is known to promote potent signalling through heterodimerization with other HER family members. Dimerization of HER proteins results in transphosphorylation of specific tyrosine residues in their intracellular domains, which in turn activates downstream signalling cascades, including the PI3K–AKT and MAPK (ERK) pathways. These signalling pathways mediate diverse cellular activities, including those controlled by transcription factors that regulate the transcription of multiple genes associated with survival and proliferation. b | Five HER2-targeted agents are currently approved for the treatment of patients with HER2+ breast cancer, which are categorized as monoclonal antibodies (trastuzumab and pertuzumab), small-​molecule tyrosine kinase inhibitors (lapatinib and neratinib) or antibody– drug conjugates (trastuzumab emtansine, also known as T-​DM1). Trastuzumab and pertuzumab are monoclonal antibodies that bind to the extracellular domain of the HER2 receptor. These agents are often combined together or administered sequentially to more comprehensively inhibit HER signalling and counter the distinct mechanisms of resistance associated with different classes of agents. 
+
+Resistance to anti-​HER2 therapy In general, resistance to HER2-targeted agents can be attributed to disparate mechanisms, although some might be shared between different agents, that are either prevalent at the time of initial treatment (intrinsic resistance) or emerge during treatment owing to the selection and eventual predominance of rare preexisting or newly acquired resistant subclones (acquired resistance). The myriad mechanisms of resistance to anti-​HER2 therapy have been thoroughly reviewed elsewhere3,45–47 and thus are only briefly summarized here (Fig. 2). Incomplete inhibition of the HER family receptors, enabling sustained signalling through compensatory signals from the uninhibited HER proteins, is a pre-​eminent cause of anti-​HER2 treatment failure. This deficiency could potentially be overcome through Nature Reviews | Clinical Oncology 
+
+combinatorial use of HER-​targeted agents, including the two anti-​HER2 antibodies (trastuzumab and pertuzumab) together or in combination with a potent TKI, to achieve comprehensive inhibition of the HER family receptors23–25,48–50. Despite the availability of highly potent HER-​targeted agents, effective inhibition of HER2 might remain challenging owing to the emergence of genetic, epigenetic and post-​translational alterations involving HER2 itself. These aberrations include activating ERBB2 point mutations (such as L755S), p95HER2 (ref.51) (a truncated form of the receptor lacking the extracellular epitopes recognized by anti-​HER antibodies, which is generated from alternative translational initiation sites in ERBB2 transcripts or by proteolytic cleavage of HER2) and ∆16HER2 (ref.52) (a splice variant with omission of the extracellular domain encoded by exon 16, which 
+
+Reviews Table 1 | Currently approved HER2-targeted therapies for breast cancer and new agents in phase iii trials Drug 
+
+Mechanism of action 
+
+administration route 
+
+Phase of development 
+
+Trastuzumab 
+
+Binds to HER2 juxtamembrane domain IV 
+
+Intravenous or subcutaneous 
+
+Clinically approved in combination with chemotherapy for the adjuvant treatment of early stage HER2+ breast cancer and alone or in combination with chemotherapy for the treatment of advanced-​stage disease 
+
+Pertuzumab 
+
+Binds to HER2 heterodimerization domain II 
+
+Intravenous 
+
+Clinically approved in combination with trastuzumab and chemotherapy for the treatment of advanced-​stage HER2+ breast cancer and for the neoadjuvant and/or adjuvant treatment of early stage disease 
+
+Margetuximab 
+
+Fc-​optimized HER2 monoclonal Intravenous antibody with enhanced immune-​effector function 
+
+Phase III SOPHIA trial: improved PFS with margetuximab and chemotherapy versus trastuzumab and chemotherapy in patients with pretreated metastatic HER2+ breast cancer166 
+
+Lapatinib 
+
+Reversible inhibitor of HER1 (also known as EGFR) and HER2 
+
+Oral 
+
+Clinically approved in combination with capecitabine for the treatment of pretreated advanced-​stage HER2+ breast cancer and in combination with letrozole for the first-​line treatment of advanced-​stage HER2+/HR+ disease 
+
+Neratinib 
+
+Irreversible pan-​HER (HER1, 2, and 4) inhibitor 
+
+Oral 
+
+Clinically approved for extended adjuvant treatment of early stage HER2+ breast cancer after trastuzumab-​based therapy 
+
+Tucatinib 
+
+Selective HER2 inhibitor 
+
+Oral 
+
+Phase III HER2CLIMB-02 (NCT03975647): T-​DM1 ± tucatinib in patients with pretreated metastatic HER2+ breast cancers. Phase I trials revealed promising PFS and CNS response rates43,167 
+
+Pyrotinib 
+
+Irreversible EGFR and HER2 inhibitor 
+
+Oral 
+
+Phase III PHENIX trial: pyrotinib plus capecitabine significantly improved PFS versus placebo plus capecitabine (11.1 months versus 4.1 months; HR 0.18, 95% CI 0.13–0.26; P < 0.001) in patients with metastatic HER2+ breast cancer previously treated with trastuzumab and a taxane168 
+
+Trastuzumab emtansine (T-​DM1) 
+
+Humanized monoclonal antibody trastuzumab covalently linked to the cytotoxic agent DM1 
+
+Intravenous 
+
+Clinically approved for the treatment of metastatic HER2+ breast cancer and for the adjuvant treatment of residual disease after neoadjuvant treatment with trastuzumab and chemotherapy 
+
+Trastuzumab deruxtecan 
+
+A humanized anti-​HER2 antibody, a cleavable peptide-​ based linker and potent topoisomerase I inhibitor 
+
+Intravenous 
+
+Phase III DESTINY trial: trastuzumab deruxtecan versus T-DM1 in patients with advanced-​stage HER2+ breast cancer previously treated with trastuzumab and a taxane169 
+
+Trastuzumab-​dkst 
+
+Similar mechanism of action and efficacy to trastuzumab 
+
+Intravenous 
+
+Clinically approveda 
+
+Trastuzumab-​pkrb (CT-​P6) 
+
+Similar mechanism of action and efficacy to trastuzumab 
+
+Intravenous 
+
+Clinically approveda 
+
+Trastuzumab-​dttb 
+
+Similar mechanism of action and efficacy to trastuzumab 
+
+Intravenous 
+
+Clinically approveda 
+
+Trastuzumab-​qyyp 
+
+Similar mechanism of action and efficacy to trastuzumab 
+
+Intravenous 
+
+Clinically approveda 
+
+Trastuzumab-​anns 
+
+Similar mechanism of action and efficacy to trastuzumab 
+
+Intravenous 
+
+Clinically approveda 
+
+Monoclonal antibodies 
+
+Tyrosine kinase inhibitors 
+
+Antibody–drug conjugates 
+
+Biosimilars 
+
+CNS, central nervous system; PFS, progression-​free survival. aFor the same indications as originator trastuzumab. 
+
+results in stabilization of HER2 homodimers and constitutive HER2 signalling), amongst others. The presence or acquisition of these alterations in patients with HER2+ breast cancer has a well-​documented role in intrinsic and acquired resistance3,32,53–55. Importantly, ERBB2 mutations, including the most common ERBB2 L755S mutation, have been detected in patients with metastatic breast cancer who had previously received trastuzumab in the adjuvant setting, emphasizing their clinical importance30,31,56,57. 
+
+Our understanding of the incidence and clinical implications of ERBB2 mutations arising in the advanced-​stage setting following prior anti-​HER2 therapy — reminiscent of ESR1 mutations that can emerge in patients with oestrogen receptor (ER)-positive breast cancers receiving endocrine therapy and subsequently confer resistance to such therapy — continues to evolve. When HER2 does remain effectively inhibited, resistance to HER2-targeted therapy can arise by three major www.nature.com/nrclinonc 
+
+Reviews mechanisms: (1) dysregulation of components of the downstream signalling cascades, leading to constitutive activation of the HER pathway (for example, activation of the PI3K–AKT pathway via PIK3CA mutations or low levels of PTEN)58–63; (2) bidirectional crosstalk with the ER64,65 and other transcription factors66; and 
+
+(3) upregulation of alternative escape pathways that transmit proliferative stimuli (for example, involving signalling adaptors such as insulin receptor substrate67,68 or the MET69 or β integrin–SRC–FAK pathways70,71) (Fig. 2) . Additionally, upregulation of membrane-​ associated mucin glycoproteins has been implicated 
+
+Mucin β integrin 
+
+RTKs HER1 (EGFR) 
+
+p95HER2 HER2 mutation 
+
+Δ16HER2 
+
+HER2 
+
+HER3 
+
+HER4 
+
+Tumour immune inﬁltrate Lymphocytes, NK cells, dendritic cells 
+
+IRS 
+
+FAK RAS 
+
+SRC 
+
+PI3K 
+
+PIK3CA mutation PTEN Low levels or loss of PTEN 
+
+RAF AKT MEK ERK 
+
+mTOR 
+
+Metabolic pathways Fatty acid synthesis and mevalonate pathway ERα 
+
+Proliferation and survival Gene transcription 
+
+Fig. 2 | Major mechanisms of resistance to HER2-targeted therapy. One of the foremost reasons for resistance of breast cancers to HER2-targeted therapy relates to the lack of complete survival dependence of all tumour cells present in the patient on HER2 signalling. This phenomenon could be attributed to intratumour HER2 heterogeneity, whereby both HER2-amplified and non-​amplified tumour cell populations coexist within a clinically HER2-positive (HER+) tumour142. While the HER2-amplified and addicted cells of such heterogeneous tumours can be effectively eradicated using biologic anti-​HER2 agents, including antibody–drug conjugates that target the HER2 receptor and deliver a cytotoxic drug specifically to the HER2+ cells, the non-​ HER2-amplified cells will continue to thrive, ultimately manifesting as treatment resistance133. For tumours with intratumour HER2 heterogeneity, continued use of chemotherapy together with anti-​HER2 therapy is required, until the alternative molecular drivers are elucidated142. In tumours with homogeneous HER2 amplification, resistance to HER2-targeted therapy can arise owing to alterations in the HER signalling pathway itself or the activation of alternative bypass signalling pathways supporting cell survival or proliferation. Mutations affecting HER2 itself (such as the activating L755S mutation)32 or the downstream kinase PI3K (encoded by PIK3CA) and/or low levels of the inhibitory protein PTEN58–63 provide mechanisms by which survival and proliferative signalling through the HER family receptors or their downstream pathways can be reactivated. Aberrations of HER2 that generate Nature Reviews | Clinical Oncology 
+
+Nucleus 
+
+Cytoplasm 
+
+Cell membrane 
+
+alternative forms of the receptor, such as the truncated protein p95HER2 
+
+(ref.51) and the splice variant ∆16HER2 (ref.52), can also mediate resistance to 
+
+HER2-targeted therapies through loss of the epitopes recognized by therapeutic antibodies or by promoting dimerization and thus constitutive signalling. When the HER receptor network is effectively inhibited, however, resistance can arise owing to the emergence of several genomic and adaptive ‘escape’ mechanisms. These include crosstalk with transcription factors, such as the oestrogen receptor α (ERα)64,65, activation of alternative cell-surface receptors (including other receptor tyrosine kinases (RTKs) or β integrin)69–71, amplification of signalling adapter proteins (for example, those of the insulin receptor substrate (IRS) family)67,68 or alterations in components of down­stream signalling pathways, such as SRC and FAK. Resistance can also be caused by upregulation of membrane-​associated mucin glycoproteins, which can interact with HER2–HER3 complexes and/or can mask the extracellular regions of HER2 and thus restrict the accessibility of this protein to drugs, particularly monoclonal antibodies72,73. Additionally, proliferative signalling can originate from metabolic pathways, such as the fatty acid synthesis78,79 and mevalonate pathways80,81, supporting the survival and the emergence of resistance to therapy in tumour cells. Finally, tumour immune infiltrates, including lymphocytes, natural killer (NK) cells and dendritic cells, have also been reported to modulate responses and resistance to HER2-targeted therapy74–76. 
+
+Reviews in resistance to anti-​HER2 therapy by interacting with HER2–HER3 complexes and/or masking the antibody-​ binding epitopes on HER2 (refs72,73). Furthermore, the roles of the tumour microenvironment and stromal factors (including infiltrating immune cells)74–77, metabolic pathways (such as the fatty acid synthase78,79 and mevalonate pathways80,81), and genomic instability82 in modulating responses and resistance to anti-​HER2 therapy are receiving increased research attention, and further studies are warranted. 
+
+Embracing a tailored treatment approach The incorporation of additional HER2-targeted therapies in combination with chemotherapy has been a commonly adopted approach in the clinical management of HER2+ breast cancer. An often overlooked perspective, however, relates to the mounting medical and financial toxicities from unnecessary escalation of treatment in the subgroups of patients who could otherwise benefit from less-​intensive chemotherapy or even be spared from chemotherapy altogether. In the era of precision medicine, the more logical approach would be to embrace tailored treatment regimens, with escalation or de-​escalation of HER2-targeted therapy or chemotherapy according to the underlying genomic and biological make-​up of the tumour as well as the clinical characteristics of each patient. Relevance of the oestrogen receptor Approximately 50% of HER2+ tumours co-​express the ER and are thus termed HER2+/ER+ tumours, or hormone receptor-​positive (HR+) when expression of the progesterone receptor is also considered83. Owing to the aggressive nature of HER2+ disease, the mainstay of treatment for both HER2+/HR− tumours and HER+/HR+ tumours has been chemotherapy with HER2-targeted therapy, although this approach is gradually being reconsidered6,84,85. HER2+/ER+ tumours present a unique therapeutic challenge because they are driven by both HER2 and ER signalling, and convincing data indicate the occurrence of bi-​directional crosstalk between these pathways that, as mentioned previously, can result in resistance to therapy64,65. In HER2+/ER+ cell line-​derived tumour xenograft models, anti-​HER2 therapy yields only transient tumour regression when the ER is not also targeted, whereas concurrent anti-​HER2 and endocrine therapy results in complete tumour eradication23–25. Furthermore, acquired resistance to anti-​HER2 therapy in preclinical models of HER2+ breast cancer is associated with increased expression of the ER and its downstream targets25,86,87, suggesting that the ER, when left uninhibited, can transmit alternative proliferative and survival signals to evade sustained HER2 inhibition. Thus, HER2+/ER+ and HER2+/ER− breast cancers have a distinct biology and should be considered as two distinct disease subtypes85,88,89, and the importance of concurrent blockade of both the HER2 and ER pathways in patients with HER2+/ER+ tumours is becoming increasingly evident. Clinically, HER2+/HR+ breast cancer is also distinct from HER2+/HR− disease in terms of its clinical course and sensitivity to treatment. In patients with HER2+/HR+ breast cancer, relapses tend to occur later, with more 
+
+frequent bone involvement, than in patients with HER2+/HR− disease85,88,90,91. For example, Park et al.90 investigated the patterns of disease relapse in patients with HER2+ breast cancer stratified by HR status and found that those with HER2+/HR+ disease were younger at the time of relapse (median age 48 years versus 53 years) but had longer recurrence-​free survival (RFS) that those with HER2+/HR− disease (RFS <24 months in 29% versus 56% of patients; P < 0.001). Indeed, treatment outcomes also vary by ER status. Clinical trials of neoadjuvant chemotherapy and dual HER2-therapy have revealed that patients with HER2+/HR+ breast cancer are less likely to have a pathological complete response (pCR) than their HER2+/HR− counterparts26,48,92–96 (Fig. 3a). Despite the lower rates of pCR, the association between a pCR and a favourable long-​term outcome is weakest in patients with HER2+/HR+ disease, possibly owing to the added benefit of adjuvant endocrine therapy in this subgroup97,98. Preclinically, HER2+ tumours also expressing ERs, or that transform from ER− to ER+, have been demonstrated to have either intrinsic or acquired resistance to HER2-based therapy owing to cell survival signalling mediated by ER25. Among patients treated with neoadjuvant chemotherapy and HER2-targeted therapy without endocrine therapy in the CALGB 40601 trial92, the most frequent post-​treatment subtype conversion among the residual tumours was to the luminal A subtype, which is known to be dependent on ER signalling. This finding supports the concept that ER signalling provides an escape pathway for HER2+ disease, thus necessitating concurrent inhibition of ER and HER2. Together these preclinical and clinical findings provide a biological rationale for exploring co-targeted treatment approaches. The ER and HER2 co-targeting strategy has been tested in several trials involving patients with HER2+/HR+ breast cancer. In the metastatic setting, the benefit of adding trastuzumab or lapatinib to endocrine therapy in patients with HER2+/HR+ breast cancer has been evaluated in two trials, both of which revealed prolonged progression-free survival (PFS) with simultaneous inhibition of both pathways, compared with targeting the ER alone100,101. Of note, the PERTAIN102 and ALTERNATIVE103 trials, although not designed to directly assess the benefit of combining endocrine therapy and HER2-targeted therapy, revealed that the use of dual HER2-targeted therapy together with an aromatase inhibitor (AI) is an effective treatment strategy for HER2+/HR+ metastatic breast cancer. In the NSABP B-52 trial104, patients with locally advanced HER2+/HR+ breast cancer were randomly assigned to receive neoadjuvant treatment with docetaxel, carbo­platin, trastuzumab and pertuzumab (TCHP) alone or in combination with endocrine therapy (consisting of oestrogen deprivation with an AI, and additional ovarian suppression with goserelin in premeno­pausal women)104. The overall pCR rates were modestly numerically higher with the addition of endocrine therapy to TCHP, although the difference did not reach statistical significance (46% versus 41%; P = 0.36)104. The benefit of endocrine therapy was more pronounced in postmenopausal women (pCR rate 45% versus 38%; P = 0.33) than in premenopausal women (46% versus 44%; P = 0.80)104, perhaps reflecting oestrogen deprivation www.nature.com/nrclinonc 
+
+Reviews b 
+
+100 
+
+100 
+
+90 
+
+ER+ 
+
+90 
+
+80 
+
+ER– 
+
+80 70 
+
+60 
+
+60 
+
+pCR rate (%) 
+
+70 50 40 30 
+
+50 40 30 
+
+20 
+
+20 
+
+10 
+
+10 
+
+T 
+
+L T+L 
+
+NS AB 
+
+P 
+
+B41 
+
+(R E 
+
+F. 95 ) 
+
+4 
+
+rQ ui nt o9 
+
+AE 
+
+(R E 1 
+
+CA 
+
+LG 
+
+L 
+
+0 
+
+T+Pd T+L T+L T+L 
+
+N TB eoS CR p C0 her TB e 48 0 CR 6 ( R C0 E 23 F. 50 (R ) EF . 135 PA ) M EL A 49 
+
+T+L T+Pa T+Pb T+Pc T 
+
+Ge pa 
+
+L 
+
+F. 92 ) 
+
+T 
+
+NA 96 
+
+P T+P 
+
+60 
+
+LT TO 2 Ne oA 
+
+T 
+
+TR YP H 
+
+L T+L 
+
+40 
+
+T 
+
+6 
+
+0 
+
+Ne oS ph er e 48 
+
+pCR rate (%) 
+
+a 
+
+Fig. 3 | pCR rates stratified by ER status and treatment arm in clinical trials of neoadjuvant HER2-targeted therapy for HER2+ breast cancer. a | Pathological complete response (pCR) rates observed with HER2-targeted therapy in combination with chemotherapy. b | pCR rates observed with HER2-targeted therapy, plus endocrine therapy for the oestrogen receptor-​positive (ER+) patient subgroups, without chemotherapy. For some trials, ER status actually reflects the hormone receptor status (that is, positive or negative for ER and/or progesterone receptor expression). L, lapatinib; P, pertuzumab; T, trastuzumab. aDocetaxel and carboplatin plus T+P. b5-fluorouracil, epirubicin and cyclophosphamide plus T+P followed by docetaxel plus T+P. c5-fluorouracil, epirubicin and cyclophosphamide followed by docetaxel plus T+P. dChemotherapy-​free arm. 
+
+caused by chemotherapy-​induced ovarian suppression in the premenopausal patients who did not receive endocrine therapy. Notably, the addition of oestrogen deprivation did not seem to be antagonistic to the activity of chemotherapy, a finding that is in keeping with evidence from several other studies104,105. Interestingly, no statistically significant improvement in the pCR rate was observed with the addition of endocrine therapy to T-​DM1 treatment in the WSG-​ADAPT trial involving patients with HER2+/HR+ early stage breast cancer (45.8% versus 40.5% with T-​DM1 alone; P < 0.001)106; however, results of an exploratory analysis suggested benefit from the addition of endocrine therapy to T-​DM1 in premenopausal women (pCR 45.5% versus 27.3% with T-​DM1 alone), but not in postmenopausal patients (pCR 46.2% versus 60%). Together, these data suggest that simultaneous inhibition of the HER2 and ER signalling pathways has the potential to be more effective than suppression of either pathway alone; although the optimal treatment strategy for HER2+/HR+ breast cancer remains unclear, ER blockade seems to be necessary in patients with this disease subtype. Moreover, the optimal timing, sequencing and duration of ER inhibition, and how much chemotherapy is required with this strategy, remain open questions. The combination of endocrine therapy with dual HER2-targeted therapy (trastuzumab plus lapatinib), without chemotherapy, has been evaluated in several trials in the neoadjuvant setting49,50,107,108. Collectively, pCR rates in patients with HER+/HR+ disease ranged from 20% to 30% in the PAMELA trial49, the TBCRC006 trial50 and the TBCRC023 trial108 (Fig. 3b). In the chemotherapy-​ free arm of NeoSphere, in which endocrine therapy was not used, the pCR rate in the HER2+/HR+ subgroup was only 6%48. While cross-​trial comparisons are often Nature Reviews | Clinical Oncology 
+
+misleading, these data, when considered in the context of other evidence, suggest that endocrine therapy might add to the benefit of dual HER2 inhibition in patients with HER2+/ER+ tumours. Moreover, these findings indicate that a subset of patients might benefit from chemotherapy-​free regimens, which highlights the need to more accurately identify this subset to spare them the unwarranted chemotherapy. Treatment escalation: is more better? Neoadjuvant dual HER2-targeted therapy. In the era of trastuzumab, 15–25% of patients with early stage HER2+ tumours have disease recurrence despite receiving this agent and chemotherapy109,110, which might partly be attributable to incomplete inhibition of the HER family receptors. The superior efficacy of dual HER2-targeted therapy was first demonstrated in the CLEOPATRA trial involving patients with metastatic breast cancer, in which the addition of pertuzumab to trastuzumab and docetaxel conferred an unprecedented overall survival (OS) benefit of 15.7 months (median OS 56.5 months versus 40.8 months; HR 0.68, 95% CI 0.56–0.84; P < 0.001)27. Dual HER2 blockade has subsequently been tested in the neoadjuvant setting, in an effort to improve pCR rates, with the results of several trials indeed demonstrating superior pCR rates with the addition of either pertuzumab or lapatinib to trastuzumab and chemotherapy (Table 2). In the NeoSphere study48, which led to the initial approval of pertuzumab in the neoadjuvant setting, significantly higher pCR rates were achieved by adding pertuzumab to trastuzumab and docetaxel (45.8% versus 29.0%; P = 0.014). The combination of lapatinib with neoadjuvant trastuzumab and paclitaxel was evaluated in the NeoALTTO trial26, and the results showed similar 
+
+Reviews Table 2 | pCR rates in trials of neoadjuvant dual HER2-targeted therapy plus chemotherapy Clinical trial 
+
+Dual HER2 therapy 
+
+pCR with single-​agent HER2targeted therapy agent (%) 
+
+pCR with dual HER2 therapy (%) 
+
+NeoALTTO26 
+
+L+T 
+
+30 (95% CI 22.4–37.5) with T; 25 (95% CI 18.1–32.3) with L 
+
+51 (95% CI 43.1–59.5; P = 0.0001) 
+
+NeoSphere48 
+
+T+P 
+
+29 (95% CI 20.6–38.5) with T; 24 (95% CI 15.8–33.7) with P 
+
+46 (95% CI 36.1–55.7; P = 0.0141) 
+
+CALGB 40601 (ref.92) L+T 
+
+40 (95% CI 32–49) with T; 32 (95% CI 22–44) with L 
+
+51 (95% CI 42–60; P = 0.11) 
+
+NSABP B-41 (ref.95) 
+
+L+T 
+
+53 (95% CI 44.9–59.5) with T; 53 (95% CI 45.4–60.3) with L 
+
+62 (95% CI 54.3–68.8; P = 0.095) 
+
+TRYPHAENA96 
+
+T+P 
+
+NA 
+
+57–66a 
+
+CI, confidence interval; L , lapatinib; NA , not applicable; P, pertuzumab; pCR , pathological complete response; T, trastuzumab. a 95% CI presented graphically in ref.96. 
+
+superior pCR rates with dual HER2-targeted therapy (51.3% versus 29.5%; P = 0.0001). Updated survival data demonstrated a numerically higher event-​free survival (EFS) and OS at 6 years in the dual HER2-targeted therapy arm compared with the trastuzumab-alone arm (74% versus 67% (HR 0.81, 95% CI 0.52–1.26; P = 0.35) and 85% versus 79% (HR 0.72, 95% CI 0.41–1.27; P = 0.26), respectively), especially in patients with HR− disease (EFS 74% versus 63%; HR 0.81, 95% CI 0.44–1.51; P = 0.52), although these differences were not statistically significant111. Patients who achieved a pCR did, however, have a significantly higher 6-year EFS (77% versus 65% in those without a pCR; HR 0.54, 95% CI 0.34–0.82; P = 0.005) and OS (89% versus 77%; HR 0.43, 95% CI 0.23–0.75; P = 0.005)111. The long-​term benefits of neoadjuvant dual HER2-targeted therapy require confirmation in randomized clinical trials sufficiently powered for survival end points, unlike NeoALTTO and NeoSphere. Despite remaining uncertainties, pCR seems to be a reasonable surrogate marker of long-​term outcomes of patients with breast cancer, especially those with HER2+ disease subtypes112. In a meta-​analysis by Cortazar et al.97, a patient-​level analysis demonstrated that achievement of a pCR was significantly correlated with longer EFS and OS (for example, HR 0.15, 95% CI 0.09–0.27, and HR 0.08, 85% CI 0.03–0.22, respectively, for patients with HER2+/ER− tumours who received trastuzumab); however, this correlation was lost in a trial-​level ana­ lysis that included studies with more heterogeneous cohorts. The small absolute improvements in pCR rates of some of the included trials might have contributed to the lack of an association with improvement in survival outcomes. Perhaps greater improvements in pCR rates with neoadjuvant therapy in certain patient subgroups, if considered separately, would unmask significant associated improvements in long-​term survival (for example, in those with HER2+/HR− or triple-​negative breast cancer). A meta-​analysis of data from 27,895 patients with breast cancer enrolled in a total of 52 studies, reported in abstract form in 2019 (ref.112), revealed that a pCR to neoadjuvant therapy is associated with a lower risk of disease recurrence (HR 0.31, 95% CI 0.24–0.39) and death (HR 0.22, 95% CI 0.15–0.30). The correlations between pCR and long-​term outcomes were strongest in the HER2+/ER− and triple-​negative disease subgroups112. Notably, EFS and OS were similar regardless of whether 
+
+patients received additional adjuvant chemotherapy after achieving pCR112. Escalating adjuvant HER2-targeted therapy. In the era of personalized medicine, a key challenge lies in differentiating patients who will derive substantial benefit from treatment escalation from those who will do equally well with standard therapy or even de-​escalation of treatment. With the encouraging results of dual HER2 inhibition in the neoadjuvant setting, exploration of this concept in the adjuvant setting has been approached with great enthusiasm. This strategy was first tested in the ALTTO trial, with disappointing results; the significant increases in pCR rates observed in the neoadjuvant setting were not mirrored by improved outcomes in the adjuvant setting113. A 6-year follow-​up analysis of the ALTTO cohort failed to demonstrate the superiority of lapatinib and trastuzumab plus chemotherapy over trastuzumab plus chemotherapy in terms of disease-​free survival (DFS; 85% versus 82%; HR 0.86, 95% CI 0.74–1.00) or OS (93% versus 91%; HR 0.86, 95% CI 0.70–1.06)114. The APHINITY trial was designed to evaluate the addition of pertuzumab to trastuzumab and chemotherapy in the adjuvant setting28. The highly anticipated results were positive, although pertuzumab conferred only a modest absolute 3-year invasive-​DFS (iDFS) benefit of 0.9% (94.1% versus 93.2%; HR 0.81, 95% CI 0.66–1.00; P = 0.045)28. Patients with high-​risk, node-​positive disease derived the most benefit (3-year iDFS 92.0% versus 90.2%; HR 0.77, 95% CI 0.62–0.96; P = 0.02); no benefit was observed in the node-​negative subgroup (3-year iDFS 97.5% versus 98.4%; HR 1.13, 95% CI 0.68–1.86; P = 0.64)28. The incidence of heart failure was similar in both groups (0.6% with pertuzumab versus 0.2% with trastuzumab alone); however, grade ≥3 diarrhoea was more common in the pertuzumab group (occurring in 9.8% versus 3.7% of patients)28. These results indicate only limited benefit from pertuzumab and argue that adjuvant dual HER2-targeted therapy incorporating this agent should be reserved for high-​risk subgroups (with node-​positive disease and possibly with ER− tumours). We should emphasize, however, that neither the ALTTO trial nor the APHINITY trial were designed to validate the findings of the NeoALTTO and NeoSphere trials. Notably, single-​agent chemotherapy was used in the neoadjuvant trials26,48, whereas more aggressive combination www.nature.com/nrclinonc 
+
+Reviews chemotherapy was used in the two adjuvant trials and this might have diluted any effect of adding lapatinib or pertuzumab to trastuzumab28,113. Indeed, chemotherapy can be effective against cells harbouring additional drivers beyond HER2 in both HER2+ cells and HER2− cells (for example, those with PIK3CA mutations) and, therefore, the benefits of adding lapatinib or pertuzumab to trastuzumab will probably be greatest in the context of de-​escalation or omission of chemotherapy. Attempts to further improve the outcomes of patients with early stage HER2+ breast cancer by extending the duration of adjuvant trastuzumab beyond the current standard duration of 1 year have failed, as demonstrated by results of the HERA trial, in which 1 or 2 years of trastuzumab after completion of all primary therapy was compared with observation only109. After a median follow-​up duration of 11 years, no additional DFS benefit was gained from 2 years versus 1 year of adjuvant trastuzumab (HR 1.02, 95% CI 0.89–1.17) in either the HR+ or the HR− subgroups109. One can envisage that outcomes could be improved with extended therapy by switching to a different HER2targeted therapy with a mechanism of action different from that of trastuzumab. The ExteNET trial was designed to explore this concept using the irreversible pan-​HER inhibitor neratinib. Patients were randomly assigned to 1 year of neratinib or placebo following standard chemotherapy and 1 year of trastuzumab29. Extended treatment with neratinib conferred a modest but statistically significant 2.5% absolute benefit in 5-year iDFS (90.2% versus 87.7% with placebo; HR 0.73, 95% CI 0.57–0.92; P = 0.0083)115. Notably, this benefit of neratinib was driven by the HR+ subgroup: 5-year iDFS 91.2% versus 86.8% with placebo (HR 0.60, 95% CI 0.43–0.83), as compared with 88.8% versus 88.9% in the HR− subgroup (HR 0.95, 95% CI 0.66–1.35)115. These results contrast with those of the HERA trial109. In subgroup analyses of ExteNET trial data, patients with four or more tumour-​positive lymph nodes and those who received sequential neratinib within 1 year of completing trastuzumab therapy derived the greatest benefit from extended HER2-targeted therapy (HR 0.67, 95% CI 0.46–0.96, and HR 0.70, 95% CI 0.54–0.90, respectively)115. No significant differences in 5-year distant DFS (91.6% versus 89.9%; P = 0.065) or the rates of CNS recurrences (1.3% versus 1.8%; P = 0.333) were observed between the treatment groups115. Grade 3 and 4 diarrhoea occurred in 40% and <1%, respectively, of patients receiving neratinib (compared with 2% of patients in the placebo group in total); however, prophylaxis with loperamide was not mandated115. Neratinib gained FDA approval for extended adjuvant treatment of any patients with early stage HER2+ breast cancer, although the EMA limited its approval of neratinib to the HER2+/HR+ subgroup; perhaps this agent should be considered only for patients with high-​risk, node-​positive HER2+/HR+ disease116. Approximately 30–60% of patients have a pCR to neoadjuvant chemotherapy and HER2-targeted therapy (Table 2), and those with residual disease at surgery have a higher risk of disease recurrence and death97. The phase III KATHERINE trial117 was designed to compare the efficacy of adjuvant treatment with 14 cycles Nature Reviews | Clinical Oncology 
+
+of T-DM1 versus 1 year of trastuzumab in patients with early stage HER2+ breast cancer and residual disease following neoadjuvant therapy. At a median follow-up duration of 41 months, the substitution of T-DM1 for trastuzumab led to a 50% reduction in risk of invasive disease recurrence (3-year iDFS 88.3% versus 77%; HR 0.50, 95% CI 0.39–0.64; P < 0.001) and reduced the rate of distant recurrence as the first iDFS event by 5.4% (10.5% versus 15.9%)117. Notably, the benefit of T-​DM1 was observed irrespective of clinicopathological characteristics, including disease stage and HR status; even patients with minimal residual disease (≤1 cm) and those treated with neoadjuvant dual HER2-targeted therapy (~19% of the cohort) derived benefit117. Greater absolute and relative improvements in iDFS with T-​DM1 were, however, observed in those with a higher pathological disease stage at the time of surgery and with tumour-​ positive lymph nodes after preoperative therapy, as well as those with HR− disease117. The one area in which T-DM1 did not out-​perform trastuzumab was the rate of CNS recurrence, which was around 5% in both treatment groups117; this finding highlights an unmet need in patients with HER2+ breast cancer, specifically, the lack of approved, effective therapies with adequate CNS penetration and activity. Grade ≥3 toxicities, including thrombocytopenia and sensory neuropathy, were more frequently observed with T-​DM1 than with trastuzumab (25.7% versus 15.4%)117. The results of the KATHERINE trial establish adjuvant therapy with T-​DM1 as the new standard of care for patients with residual disease after neoadjuvant therapy. In summary, the APHINITY, ExteNET and KATHERINE trials all demonstrated improved outcomes, at least in selected patient subgroups, with escalated adjuvant HER2-targeted therapy. The varying patient populations and treatment regimens of these studies complicate cross-​trial comparisons and clinical application of the treatment approaches, although the clinical scenarios in which optimal benefit might be gained from these escalated treatment approaches can be postulated based on available data (Table 3). Many questions remain unanswered, however, including how effective neratinib will be after 1 year of T-​DM1 and whether patients currently receiving adjuvant trastuzumab or adjuvant trastuzumab and pertuzumab should be transitioned to T-​DM1 if they did not have a pCR to neoadjuvant therapy. Clinical judgement and patient involvement in decision-​ making are paramount in this setting. Finally, consideration of therapy-induced toxicity is imperative in clinical decision-​making. Chemotherapy-free or de-escalated regimens spare patients from chemotherapy-associated toxicities, and HER2-targeted therapies are generally associated with more favourable but different toxicity profiles, although the adverse effects of more potent individual or combination HER2-targeted therapies, especially diarrhoea, can be debilitating. Treatment de-​escalation strategies Duration of adjuvant trastuzumab. Many potential approaches to treatment de-​escalation are possible; one approach is to shorten the duration of therapy. The 5-year follow-​up data from the FinHer trial involving 
+
+Reviews Table 3 | Comparison of key parameters in trials involving escalation of adjuvant HER2-targeted treatment Parameter 
+
+aPHiniTy28 
+
+ExtenET115 
+
+KaTHERinE117 
+
+Treatment regimen 
+
+Adjuvant trastuzumab plus pertuzumab for 1 year Neratinib following 1 year of adjuvant trastuzumab 
+
+iDFS 
+
+3-year iDFS: 94.1% versus 93.2% (HR 0.81, 95% CI 0.66–1.00; P = 0.045); node-​positive subgroup: 92% versus 90.2% (HR 0.77, 95% CI 0.62–0.96; P = 0.02); node-​negative subgroup: 97.5% versus 98.4% (HR 1.13, 95% CI 0.68–1.86; P = 0.64); ER+ subgroup: 94.8% versus 94.4% (HR 0.86, 95% CI 0.66–1.13; P = 0.28); ER− subgroup: 92.8% versus 91.2% (HR 0.76, 95% CI 0.56–1.04; P = 0.08) 
+
+5-year iDFS: 90.2% versus 87.7% (HR 0.73, 95% CI 0.57–0.92; P = 0.0083); ER+ subgroup: 91.2 versus 86.8% (HR 0.60, 95% CI 0.43–0.83); ER− subgroup: 88.8% versus 88.9% (HR 0.95, 95% CI 0.66–1.35) 
+
+3-year iDFS: 88.3% versus 77% (HR 0.50, 95% CI 0.39–0.64; P < 0.001) 
+
+Key grade 3 toxicities 
+
+Diarrhoea (9.8%) 
+
+Diarrhoea (40%), rash (<1%) and transaminitis (1.7%) 
+
+Thrombocytopenia (3.6%), peripheral neuropathy (1.4%) and transaminitis (0.5%) 
+
+Ideal patient population on the basis of the trial results 
+
+Patients with high-​risk, node-​positive HER2+/ER− breast cancer and a pCR after neoadjuvant therapy 
+
+Patients with high-​risk, node-​ positive (especially four or more involved nodes), HER2+/ER+ breast cancer, within 1 year of completion of adjuvant trastuzumab therapy 
+
+Any patients with residual disease after neoadjuvant treatment 
+
+Remaining uncertainties 
+
+NA 
+
+Benefit of neratinib after 1 year of adjuvant treatment with trastuzumab and pertuzumab 
+
+Benefit of neratinib after 14 cycles of adjuvant therapy with T-​DM1 
+
+Adjuvant T-​DM1 for 14 cycles versus 1 year of trastuzumab for residual disease after neoadjuvant therapy 
+
+For all trials, ER status actually reflects the hormone receptor status (that is, positive or negative for ER and/or progesterone receptor expression). CI, confidence interval; ER , oestrogen receptor ; HR , hazard ratio; iDFS, invasive disease-​free survival; NA , not applicable; pCR , pathological complete response; T-DM1, trastuzumab emtansine. 
+
+patients with axillary node-​positive or high-​risk node-​ negative HER2+ breast cancer demonstrated a numerical improvement in distant DFS — although not statistically significant — with the addition of just 9 weeks of trastuzumab to chemotherapy (83.3% versus 73.0% with chemotherapy alone; HR 0.65, 95% CI 0.38–1.12; P = 0.12)118. However, non-​inferiority of 9 weeks versus 1 year of adjuvant trastuzumab therapy, in terms of DFS, was not demonstrated in the SOLD trial (HR 1.39, two-sided 90% CI 1.12–1.72)119. In other trials119–123, investigators have evaluated shorter durations of adjuvant trastuzumab treatment in the hope of curtailing cardiotoxicities and costs, but until the reporting of the PERSEPHONE trial in 2019 (ref. 124) , none of these trials demonstrated the non-​ inferiority of this approach compared with the standard duration. For example, the updated 7.5-year follow-​up results of the PHARE trial123 did not prove the non-​ inferiority of 6 months versus 12 months of trastuzumab, with the hazard ratio of 1.08 (95% CI 0.93–1.25) crossing the pre-​specified non-​inferiority margin of 1.15 (corresponding to a 2% absolute decrease in DFS at 2 years). By contrast, the results of the PERSEPHONE trial124, at a median follow-​up duration of 5.4 years, demonstrated non-inferiority between 6 months and 12 months of trastuzumab therapy for the first time (HR 1.07, 90% CI 0.93–1.24; P = 0.011); however, the non-inferiority margin was set at 1.32, corresponding to a 3% absolute decrease in 4-year DFS. Although intriguing, caution is needed in accepting 6 months of adjuvant trastuzumab as the new standard of care. Concurrent trastuzumab with chemotherapy is known to yield better outcomes125, but 53% of patients in the PERSEPHONE trial received sequential trastuzumab and those who did receive 
+
+concurrent trastuzumab and chemotherapy derived greater benefit from 12 months of trastuzumab (HR 1.53, 95% CI 1.16–2.01; P = 0.001)126. Further­more, more patients in this trial had low-risk disease (59% node-​ negative and 69% HR+)124 compared with those included in similar non-​inferiority trials127. Importantly, those deemed at high risk of recurrence did not receive dual HER2-targeted therapy, which goes against current standard treatment guidelines, and thus the optimal duration of combined HER-​targeted therapy remains unknown. Some might also argue that the more gene­ rous non-​inferiority confidence interval used in the PERSEPHONE trial compared with that of the PHARE trial might explain the disparate results. Of note, a meta-​analysis by Chen et al.128, which included updated data from adjuvant trials including the PHARE and PERSEPHONE trials, indicated that both DFS (HR 1.13, 95% CI 1.03–1.25; P = 0.01) and OS (HR 1.16, 95% CI 1.01–1.32; P = 0.03) are significantly better with 1 year of trastuzumab than with shorter treatment durations128. The benefit was more pronounced with concurrent administration of trastuzumab and chemotherapy (HR 1.22, 95% CI 1.09–1.38; P = 0.0008; Pinteraction = 0.02), which is currently the most commonly used adjuvant treatment strategy128. This effect was less pronounced in patients with ER+ and nodenegative tumours128. Thus, the follow-​up data spanning beyond 5 years that are available from the four other large randomized controlled trials119,121–123 included in this meta-​analysis128 suggest that 1 year of adjuvant trastuzumab should remain the standard of care for most patients with early stage HER2+ breast cancer. In selected patients, in whom the administration of trastuzumab is likely to be limited by toxicities or comorbidities, and in www.nature.com/nrclinonc 
+
+Reviews areas of the world where access is often limited by financial costs, a shorter duration of trastuzumab therapy can be considered carefully. De-​escalating chemotherapy. The results of the Adjuvant Paclitaxel and Trastuzumab (APT) trial illustrate that excellent outcomes can be achieved in patients with low-​risk HER2+ tumours with the use of anthracycline-​ free regimens, thereby reducing the incidence of serious toxicities, including cardiotoxicity129. In this single-​arm phase II study129, patients with node-​negative disease and mostly small primary tumours (<3 cm in diameter in 91%) received 12 weekly doses of paclitaxel concurrently with the start of 1 year of adjuvant trastuzumab. The 7-year follow-​up data demonstrated a DFS of 93.3% (94.6% for the HR+ subgroup and 90.7% for the HR− subgroup)129. The rate of distant disease recurrence was only 1%129. These results have defined the current standard-​of-care regimen for patients with small, node-​ negative HER2+ breast cancers, irrespective of HR status, although some trepidation remains with this approach in patients with HR− tumours of 2–3 cm diameter, in view of the fact that only 8.9% of patients enrolled in the APT trial had tumours of this size129. Avoidance of anthracyclines has been further supported by results of the phase III TRAIN-2 trial in the neoadjuvant setting130. In this study, involving patients with stage II–III HER2+ disease receiving dual HER2-targeted therapy with trastuzumab and pertuzumab plus chemotherapy130, omission of anthracyclines from the treatment regimen was associated with a pCR rate of 68% compared with 67% in the anthracycline group. The ongoing ATEMPT trial (NCT02246621) was designed to build on what had been demonstrated in the APT trial. In this study, patients with stage I HER2+ disease were randomly assigned to 1 year of adjuvant treatment with either T-​DM1 or paclitaxel and trastuzumab. If the results are positive, T-​DM1 will become another well-​tolerated treatment option for this subset of patients. This study has completed accrual and results are expected soon. T-​DM1 has also been investigated in the neoadjuvant setting, with results of several trials having been reported in the past few years131–133. In the KRISTINE trial132, neoadjuvant T-​DM1 plus pertuzumab was compared with the TCHP regimen, revealing a substantial, although inferior, pCR rate of 44% in the T-​DM1 plus pertuzumab arm versus 56% in the TCHP arm (P = 0.016). Similarly, the pCR rates observed in the PREDIX HER2 trial of T-​DM1 versus docetaxel, trastuzumab and pertuzumab (THP) were 44.1% and 46.4%, respectively131. Notably, more locoregional progression and lower EFS rates were observed in the T-​DM1 plus pertuzumab arm (85.3% compared with 94.2% in the TCHP arm) of the KRISTINE trial132, possibly owing to intratumour heterogeneity in HER2 expression. Theoretically, T-​DM1 would be less effective in patients with HER2+ tumours harbouring a subpopulation of HER2− cells. Indeed, in a phase II study, no pCR to T-​DM1 plus pertuzumab was observed among patients harbouring tumours with a heterogeneous HER2 status133. Overall, these results suggest that, although T-​DM1 might have a role in the Nature Reviews | Clinical Oncology 
+
+neoadjuvant setting as a less toxic alternative to conventional chemotherapy, appropriate patient selection is essential. Further validation of these findings in trials with larger cohorts is needed. Importantly, patient age must always be considered in treatment decisions, as demonstrated by the results of the RESPECT trial in which elderly patients (>70 years of age) with HER2+ breast cancer were randomly assigned to receive adjuvant trastuzumab with or without chemotherapy134. The trial failed to meet its primary end point, but few recurrence events occurred in either arm and the 3-year iDFS was 89% with trastuzumab alone (compared with 94.8% in the combination group; HR 1.42, 95% CI 0.68–2.95; P = 0.35), suggesting that foregoing chemotherapy in certain elderly patients will not significantly compromise outcomes134. Are we ready to omit chemotherapy? Testing the approach. Enthusiasm for a chemotherapy-​ free approach first stemmed from preclinical studies demonstrating complete tumour eradication with dual HER2-targeted therapy combined with endocrine therapy23,24. Subsequently, the pertuzumab plus trastuzumab-​ only arm of the NeoSphere trial revealed an intriguing pCR rate of 17%48, and thus this study was one of the first to demonstrate the efficacy of a chemotherapy-​free regimen in the neoadjuvant setting. Notably, patients with HR+ tumours in the NeoSphere trial did not receive additional endocrine therapy and the pCR rate with trastuzumab and pertuzumab alone in this group was only 6%48. In the HER2+/ER− group of the WSG-​ADAPT trial135, pCR rates were substantially higher with the use of neoadjuvant chemotherapy (taxane-​b ased) in addition to trastuzumab and pertuzumab (90.5% versus 36% without chemotherapy). In the PAMELA trial49, the TBCRC006 trial50 and the TBCRC023 trial108, the efficacy of neoadjuvant trastuzumab and lapatinib, without chemotherapy, was evaluated, yielding pCR rates ranging from 20% to 30%, suggesting that a sizeable proportion of patients derive benefit from such an approach (Table 4). In contrast to the NeoSphere trial, these trials included endocrine therapy for the ER+ patient subgroups. In the single-​arm phase II TBCRC006 study50, patients with locally advanced HER2+ breast cancer and a median tumour diameter of 6 cm received 12 weeks of trastuzumab and lapatinib, plus endocrine therapy if ER+, prior to surgery. At the end of neoadjuvant treatment, 49% of patients had a pCR or near-​pCR (residual disease ≤1 cm). Of these patients, 27% had a pCR, which was more commonly observed in the ER− subgroup (36% versus 21% in the ER+ subgroup)50. Thus, a meaningful proportion of patients had a pCR without chemotherapy. The higher rate of near-​pCR in patients with ER+ tumours than in those with ER− disease (33% versus 4%) might reflect the generally slower regression of ER+ tumours during therapy50. A follow-​up study, TBCRC023 (ref.108), was designed to determine whether a longer duration of neoadjuvant treatment would result in conversion of some of the near-​pCRs to pCRs, especially in the ER+ subgroup. Patients were randomly assigned to receive 12 weeks versus 24 weeks 
+
+Reviews Table 4 | Comparison of pCR rates in trials of neoadjuvant chemotherapy-​free dual HER2-targeted treatment Concurrent endocrine therapy for HR+ disease 
+
+Treatment duration (weeks) 
+
+Overall pCR (%) 
+
+NeoSphere48 (targeted T+P therapy-​only arm) 
+
+None 
+
+16 
+
+17 (95% CI 10.3–33.7) 
+
+TBCRC006 (ref.50) 
+
+T+L 
+
+Letrozole, plus ovarian suppression in premenopausal women 
+
+12 
+
+27 
+
+TBCRC023 (ref.108) 
+
+T+L 
+
+Letrozole, plus ovarian suppression in premenopausal women 
+
+12 
+
+12 
+
+24 
+
+28 
+
+Clinical trial 
+
+Dual HER2targeted therapy 
+
+PAMELA 
+
+T+L 
+
+Letrozole, or tamoxifen in premenopausal women 
+
+18 
+
+31 (95% CI 23–39) 
+
+PerELISA136 
+
+T+P 
+
+Letrozole 
+
+13 
+
+21 (95% CI 11.1–34.5) 
+
+49 
+
+CI, confidence interval; HR , hormone receptor ; L , lapatinib; P, pertuzumab; pCR , pathological complete response; T, trastuzumab. 
+
+of trastuzumab plus lapatinib (with endocrine therapy for patients with ER+ disease)108. After 24 weeks of treatment, 28% of patients had a pCR and the pCR rate in the ER+ subgroup was increased to 33%, from 9% with only 12 weeks of treatment108. In the ER− subgroup, no difference in the pCR rate was seen between patients who received 12 weeks and those who received 24 weeks of neoadjuvant therapy (20% versus 18%)108. Despite the lower than expected overall pCR rates, the results of the TBCRC023 trial suggest that ER status and treatment duration both influence response rates. One might argue that ER+ tumours warrant different end point definitions regarding a pCR, such as near-​pCR and Ki67-based criteria, in order to enable more accurate prediction of patient outcomes. The PAMELA trial was designed to evaluate the same neoadjuvant regimen49, but given for 18 weeks, and demonstrated an overall pCR rate of 30%. Consistent with the results of prior studies, the pCR rate was significantly higher in the HR− subgroup than in the HR+ subgroup (43% versus 18%; OR 3.42, 95% CI 1.647.2; P = 0.0011)49. The investigators of the PerELISA study evaluated a different chemotherapy-​ free approach in patients with HER2+/ER+ tumours136. In this trial, tumour Ki67 index was evaluated at baseline and after 2 weeks of letrozole in order to select patients most likely to benefit from endocrine therapy; molecularly responding patients, defined by a decrease in Ki67 index of >20%, continued treatment with letrozole with additional trastuzumab and pertuzumab and had a pCR rate of 20% in the breast and axilla136. The pCR rates observed in the aforementioned trials are lower than those observed with chemotherapy, although these data indicate that 20–30% of early stage HER2+ breast cancers can be eradicated without chemotherapy. Successful de-​escalation of treatment is contingent upon the identification of predictive biomarkers that can be used to reliably distinguish patients who will benefit from targeted therapy alone from those who need additional chemotherapy. Additionally, supported by evidence from preclinical studies137, several ongoing clinical trials are testing novel treatment approaches including anti-HER2 treatment with concurrent CDK4/6 inhibition, especially for ER+ disease, or with immunomodulatory agents (Table 5). Whether data from these 
+
+ongoing studies will prove promising and result in refinement of the current treatment strategies for HER2+ disease remains to be seen. Molecular determinants of response Increased understanding of the complex biology, hetero­ geneity and genomic underpinnings of HER2-driven tumours has led to the discovery of potential predictive biomarkers of a response to HER2-targeted therapy3,75,92,99,133,136,138–146; however, none of these biomarkers has been validated to predict a response and DFS benefit with chemotherapy-​free regimens. Currently, only disease stage, HR status and amplification and/or overexpression of HER2 guide therapeutic decisions and, given the underlying molecular complexity and interplay of HER2 + breast cancers, additional biomarkers are necessary. Overall, the differential pCR rates observed between HER2+/ER+ and HER2+/ER− tumours highlight the relevance of simultaneous blockade of both the HER2 and ER signalling pathways in patients with HER2+/ER+ disease47,144. Beyond HR status, however, the development of additional clinically useful biomarkers has proved challenging, owing in part to the inclusion of chemotherapy in the majority of trials involving patients with HER2+ breast cancer, possibly confounding the results of correlative studies involving tumour specimens from these patients. In this regard, tumour specimens col­lected as part of chemotherapy-free neoadjuvant trials, such as TBCRC006, TBCRC023, PAMELA and PerELISA, are a valuable resource for correlative biomarker analyses. Tumours with increased levels of HER2 are functionally dependent on HER2 and, indeed, exemplify the notion of oncogene addiction49,140,143,144,147. In addition to the presence or absence of genetic and/or functional aberrations affecting key components of downstream signalling pathways, such as the PI3K–AKT pathway, intratumoural HER2 homogeneity and the magnitude of addiction of tumour cells to HER2 are key determinants of anti-​HER2 therapy responses. In the 2018 updated American Society of Clinical Oncology/College of American Pathologists guidelines148, HER2+ breast cancers are defined as those with an ERBB2:chromosome enumeration probe 17 (CEP17) fluorescence in situ www.nature.com/nrclinonc 
+
+Reviews hybridization (FISH) ratio of ≥2, an ERBB2 copy number of ≥6 or a HER2 immunohistochemistry (IHC) score of 3+ (defined as homogeneous and intense membrane staining of >10% of tumour cells). With these updated cut-offs, previously equivocal HER2+ tumours are now considered HER2−. The results of the NSABP B-47 trial confirmed that patients with HER2 IHC 1+ or 2+ breast cancer and a ERBB2:CEP17 FISH ratio <2 do not bene­fit from HER2-targeted therapy149. As opposed to the existing guidelines that intend to identify patients who are likely to benefit from chemotherapy-​inclusive anti-​HER2 treatment regimens, higher cut-​offs might be needed to identify true HER2-addicted tumours that are amenable to treatment with chemotherapy-​free regimens. In an analysis of the TBCRC006 trial143, none of the patients who achieved pCR without chemotherapy had an ERBB2:CEP17 FISH ratio <4 and/or an ERBB2 copy number <10, whereas 29% of those with a pCR had an ERBB2:CEP17 ratio ≥4 and/or an ERBB2 copy number ≥10. These findings support the use of higher cut-​ offs for identifying patients with truly HER2-addicted tumours who are likely to derive the greatest benefit from chemotherapy-​free HER2-targeted therapy143. 
+
+Five intrinsic subtypes of HER2+ tumours can be identified using the PAM50 gene expression assay: luminal A, luminal B, HER2-enriched (HER2-E), basal-​like, and normal-​like150. About 10–15% of all breast cancers are HER2-E, characterized by high levels of ERBB2 and EGFR/HER2-regulated gene expression150. Thus, this tumour subtype has highly active HER2 signalling and, therefore, might be most responsive to HER2 inhibition150. In retrospective analyses of data from the NeoSphere and CALGB 40601 trials, the HER2-E subtype was associated with higher pCR rates to HER2-targeted therapy combined with chemotherapy than other subtypes of HER2+ breast cancer92,138. In the CALGB 40601 trial71, 70% of patients with HER2-E tumours had a pCR compared with 35% of those with other HER2+ disease subtypes. The PAMELA trial investigators evaluated the HER2-E subtype as a predictor of response to neoadjuvant dual HER2-targeted therapy with trastuzumab and lapatinib, without chemotherapy49. Significantly higher pCR rates were observed in patients with HER2-E tumours than in those with non-​HER2-E subtypes (41% versus 10%; OR 6.2, 95% CI 2.3–16.8; P = 0.0004)49. Interestingly, the association between HR status and pCR was lost upon 
+
+Table 5 | Key phase ii–iii trials of CDK4/6 inhibitors or immunotherapies combined with anti-​HER2 therapy Clinical trial 
+
+Phase HR status Treatment setting 
+
+anti-​HER2 Concurrent therapies therapy 
+
+Results 
+
+NA-​PHER2 (NCT02530424)170 
+
+II 
+
+ER+ 
+
+Neoadjuvant 
+
+T+P 
+
+Palbociclib ± fulvestrant 
+
+pCR rate 27%; mean Ki67 index 31.9 at baseline versus 4.3 at week 2 (n = 25; P < 0.0001) and 12.1 at surgery (n = 22, P = 0.013) 
+
+PALTAN (NCT02907918) 
+
+II 
+
+ER+ 
+
+Neoadjuvant 
+
+T 
+
+Palbociclib + letrozole (+ goserelin in premenopausal women) 
+
+Ongoing (recruiting) 
+
+PATRICIA 2 (NCT02448420)171 
+
+II 
+
+ER+ 
+
+Metastatic 
+
+T 
+
+Palbociclib ± letrozole 
+
+Ongoing (recruiting) 
+
+PATINA (NCT02947685) 
+
+III 
+
++ 
+
+ER 
+
+Metastatic 
+
+T+P 
+
+Palbociclib + endocrine therapy 
+
+Ongoing (recruiting) 
+
+monarcHER (NCT02675231)173 
+
+II 
+
+ER+ 
+
+Metastatic 
+
+T 
+
+Abemaciclib ± fulvestrant Ongoing (active, not recruiting) 
+
+NCT03530696 
+
+II 
+
+ER+ or ER− 
+
+Metastatic 
+
+T-​DM1 
+
+Palbociclib 
+
+Ongoing (recruiting) 
+
+TOUCH (NCT03644186) 
+
+II 
+
+ER 
+
+Neoadjuvant 
+
+T+P 
+
+Palbociclib + letrozole 
+
+Ongoing (recruiting) 
+
+PANACEA (NCT02129556)174 
+
+I/II 
+
+ER+ or ER− 
+
+Metastatic 
+
+T 
+
+Pembrolizumab 
+
+Objective response achieved in 6 (15%) of 40 patients with PD-​L1-positive disease, but none in patients with PD-​L1-negative disease 
+
+neoHIP (NCT03747120)175 
+
+II 
+
+ER+ or ER− 
+
+NCT03199885 NCT03417544 
+
+CDK4/6 inhibitors 
+
+172 
+
++ 
+
+Immune-​checkpoint inhibitors 
+
+KATE2 (NCT02924883) 
+
+176 
+
+Neoadjuvant 
+
+T+P 
+
+Pembrolizumab 
+
+Ongoing (recruiting) 
+
+III 
+
+− 
+
+ER or ER 
+
+Metastatic 
+
+T+P 
+
+Atezolizumab 
+
+Ongoing (recruiting) 
+
+II 
+
+ER+ or ER− 
+
+Metastatic 
+
+T+P 
+
+Atezolizumab 
+
+Ongoing (recruiting) 
+
+Metastatic 
+
+T-​DM1 
+
+Atezolizumab 
+
+Atezolizumab + T-DM1 did not demonstrate a clinically significant PFS benefit over T-DM1 monotherapy; however, a numerically higher PFS was observed with atezolizumab + T-DM1 in PD-L1-positive patients 
+
+II 
+
++ 
+
++ 
+
+− 
+
+ER or ER 
+
+For some trials, ER status actually reflects the hormone receptor status (that is, positive or negative for ER and/or progesterone receptor expression). ER , oestrogen receptor ; HR , hormone receptor ; P, pertuzumab; pCR , pathological complete response; PD-​L1, programmed cell death 1 ligand 1; PFS, progression-​free survival; T, trastuzumab; T- DM1, trastuzumab emtansine. 
+
+Nature Reviews | Clinical Oncology 
+
+Reviews accounting for intrinsic subtype in multivariate analyses (OR 2.27, 95% CI 0.93–5.55; P = 0.26)49. The level of ERBB2 mRNA is emerging as an additional candidate predictive biomarker. A combined analysis by Prat et al.140 of five trials of neoadjuvant chemotherapyfree HER2-targeted treatment regimens revealed that HER2-E subtype and tumours defined as ERBB2-high were associated with higher pCR than non-​HER2-E and ERBB2-low tumours; together, these characteristics were associated with a pCR rate of 45%. Thus, both variables seem to provide valuable information about the degree of HER2 addiction of the tumour. The PI3K–AKT pathway is a major component of downstream HER2 signalling; aberrant activation of this pathway via activating PIK3CA mutations or low PTEN levels has been implicated in resistance to HER2-targeted therapy143. Findings from a pooled analysis of data from five trials of neoadjuvant trastuzumab plus lapatinib demonstrated that approximately 22% of HER2+ breast cancers harbour PIK3CA mutations and that these mutations are associated with inferior pCR rates (16.2% compared with 29.5% in patients with PIK3CA-​ wild-type tumours; P < 0.001), particularly in the HR+ subgroup (7.6% versus 24.2% (P < 0.001) compared with 27% versus 36% in the HR− subgroup (P = 0.125); interaction test between these two subgroups, P = 0.036))151. Low levels of PTEN occur in approximately 20–25% of HER2+ tumours and have also been associated with inferior responsiveness to HER2-targeted therapy139,143,152; however, this association has been inconsistent across clinical trials144,153–155, perhaps owing to the lack of standardized methods to quantify PTEN levels. Furthermore, concurrent administration of chemotherapy in these trials might have confounded the results, considering that chemotherapy might be active against tumours with PI3K pathway aberrations. Molecular analysis of baseline tumour specimens from patients included in the chemotherapy-​free TBCRC006 trial showed inferior pCR rates in patients with PI3K pathway-​dysregulated tumours, defined by PIK3CA mutations or low PTEN levels, compared with those without such aberrations (4% versus 39%; P = 0.0133)143. The results of combined analyses demonstrated that tumours with an ERBB2:CEP17 FISH ratio ≥4 and an intact PI3K pathway were associated with a superior pCR rate (44% versus 4% for tumours without both of these features; P = 0.0031)143. A future molecular classifier combining HER2 levels and intratumour heterogeneity, measured at the DNA level (for example, using ERBB2:CEP17 FISH), the RNA level (using PAM50 or assays specific for ERBB2 mRNA) or the protein level (by HER2 IHC), and PI3K pathway status in order to better predict sensitivity to HER2-targeted therapy will be a gateway to successful treatment de-​escalation. In tumours with intratumour heterogeneity in HER2 expression, chemotherapy will still need to be combined with anti-​HER2 therapy, until the molecular drivers of the non-​HER2 amplified and addicted cell populations have been elucidated142. Finally, the stromal and tumour immune milieu of HER2+ breast cancers is receiving increased attention as a potential determinant of treatment responses and disease progression, particularly considering the role of 
+
+the immune system in the therapeutic activity of anti-​ HER2 antibodies74,75,156–159. Sophisticated quantification methods and appropriate cut-​offs are needed to facilitate investigations of the predictive and/or prognostic value of tumour-​infiltrating lymphocytes (TILs) in patients with HER2+ breast cancer. 
+
+Conclusions Advances in the treatment of HER2+ breast cancer have transformed the natural course of this disease. The focus of many trials has been on potentiating the efficacy of chemotherapy and trastuzumab with additional HER2targeted agents in order to further improve patient outcomes. The majority of patients, however, benefit only modestly from these additional treatments, which come with added medical and financial toxicities. As our knowledge of the genomic features and the molecular and mutational evolution of HER2+ breast cancer deepens, the field is undeniably heading towards precision medicine. Indeed, focus should be placed on differentiating patients who stand to benefit from additional therapy from those who will do equally well with less therapy, thus moving away from a one-​size-fits-​all approach to the treatment of this highly heterogeneous disease. Importantly, however, omission of chemotherapy must not compromise the favourable outcomes achieved with currently approved treatment regimens and with any new, more effective HER2-targeted treatments that emerge in the future, considering that our understanding of the optimal dual HER2-targeted drug combination is continually evolving. The available data demonstrate that the timing of systemic therapy relative to surgery does not influence patient outcomes160. Currently, the National Compre­ hensive Cancer Network (NCCN)161 and the St Gallen International Expert Consensus162 guidelines recommend the use of neoadjuvant therapy for patients with clinical stage II–III HER2+ breast cancer. The clinical response to neoadjuvant therapy provides valuable information about tumour biology, serves as a better predictor of an individual’s risk of disease recurrence, can help in adapting adjuvant therapy and has the potential to minimize the extent of axillary surgery and subsequent postoperative complications117,163. Unlike in patients with ER+ tumours, for whom multigene assays are available to estimate recurrence risk, the recurrence risk of patients with HER2+ tumours is largely determined by clinicopathological characteristics, especially nodal status and tumour size. To more accurately risk-​stratify patients up-​f ront and accordingly deploy refined therapeutic strategies, factors beyond clinical stage need to be considered. This risk stratification should include molecular features, such as measures of HER2 addiction, the genomic and molecular make-​up of the tumour, intratumour heterogeneity and the immune milieu, all of which can determine whether patients will benefit from escalated HER2-targeted therapy, standard HER2-targeted therapy and chemotherapy or HER2-targeted therapy alone. Whether such a molecular classifier, when combined with conventional clinicopathological characteristics, will help to further refine patient stratification remains www.nature.com/nrclinonc 
+
+Reviews to be explored in prospective clinical trials. Additionally, emerging technologies to explore the potential utility of circulating tumour cells and cell-​free tumour DNA in therapeutic monitoring and surveillance after neoadjuvant therapy and surgery might become valuable tools for prognostication in the future164. The use of chemotherapy-​free regimens in routine clinical practice requires a validated predictive biomarker and, therefore, this approach remains investigational; however, great strides towards the clinical implementation of such regimens have undoubtedly been made and the future of this strategy looks promising. Biomarker studies have provided important insights into the molecular characteristics, prognosis 1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+Slamon, D. J. et al. Studies of the HER-2/neu proto-​ oncogene in human breast and ovarian cancer. Science 244, 707–712 (1989). Wolff, A. C. et al. Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update. J. Clin. Oncol. 31, 3997–4013 (2013). Rimawi, M. F., Schiff, R. & Osborne, C. K. Targeting HER2 for the treatment of breast cancer. Annu. Rev. Med. 66, 111–128 (2015). Gutierrez, C. & Schiff, R. HER2: biology, detection, and clinical implications. Arch. Pathol. Lab. Med. 135, 55–62 (2011). Moasser, M. M. The oncogene HER2: its signaling and transforming functions and its role in human cancer pathogenesis. Oncogene 26, 6469–6487 (2007). Senkus, E. et al. Primary breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-​up. Ann. Oncol. 26, v8–v30 (2015). Wilson, F. R. et al. Herceptin(R) (trastuzumab) in HER2-positive early breast cancer: a systematic review and cumulative network meta-​analysis. Syst. Rev. 7, 191 (2018). Clynes, R. A., Towers, T. L., Presta, L. G. & Ravetch, J. V. Inhibitory Fc receptors modulate in vivo cytotoxicity against tumor targets. Nat. Med. 6, 443–446 (2000). Scheuer, W. et al. Strongly enhanced antitumor activity of trastuzumab and pertuzumab combination treatment on HER2-positive human xenograft tumor models. Cancer Res. 69, 9330–9336 (2009). Yamashita-​Kashima, Y. et al. Pertuzumab in combination with trastuzumab shows significantly enhanced antitumor activity in HER2-positive human gastric cancer xenograft models. Clin. Cancer Res. 17, 5060–5070 (2011). von Minckwitz, G. et al. Efficacy and safety of ABP 980 compared with reference trastuzumab in women with HER2-positive early breast cancer (LILAC study): a randomised, double-​blind, phase 3 trial. Lancet Oncol. 19, 987–998 (2018). Pegram, M. D. et al. PF-05280014 (a trastuzumab biosimilar) plus paclitaxel compared with reference trastuzumab plus paclitaxel for HER2-positive metastatic breast cancer: a randomised, double-​blind study. Br. J. Cancer 120, 172–182 (2019). Pivot, X. et al. Three-​year follow-​up from a phase 3 study of SB3 (a trastuzumab biosimilar) versus reference trastuzumab in the neoadjuvant setting for human epidermal growth factor receptor 2-positive breast cancer. Eur. J. Cancer 120, 1–9 (2019). Esteva, F. et al. 24 months results from a double-​blind, randomized phase III trial comparing the efficacy and safety of neoadjuvant then adjuvant trastuzumab and its biosimilar candidate CT-​P6 in HER2 positive early breast cancer (EBC) [abstract]. Cancer Res. 79 (Suppl. 4), P6-17-03 (2019). Waller, C. F. et al. Biosimilar trastuzumab-​dkst monotherapy versus trastuzumab monotherapy after combination therapy: final overall survival (OS) from the phase III HERITAGE trial [abstract]. J. Clin. Oncol. 37 (Suppl. 15), 1021 (2019). Kolberg, H. C., von Minckwitz, G. & Hanes, V. Phase 3 LILAC study sets standard for clinical evaluation of oncology biosimilars. Oncotarget 10, 8–9 (2019). Lammers, P. E. et al. Neoadjuvant PF-05280014 (a potential trastuzumab biosimilar) versus trastuzumab for operable HER2+ breast cancer. Br. J. Cancer 119, 266–273 (2018). 
+
+Nature Reviews | Clinical Oncology 
+
+and therapeutic sensitivity of HER2+ breast cancer subtypes. The refinement and validation of predictive and prognostic biomarkers will enable accurate identification and triage of patients with HER2+ disease, either ER− or ER+, who will respond to targeted therapy alone, with the goal of reducing or entirely eliminating the use of chemotherapy in a sizeable proportion of patients, thus avoiding the associated debilitating — and often long-​term — toxicities. Prospective clinical trials testing a risk-​stratified, biomarker-​driven, de-​escalated treatment approach are needed to pave the path towards such a personalized treatment approach. Published online xx xx xxxx 
+
+18. Pegram, M. et al. event-​free survival by ADCC status from a follow-​up study comparing SB3 (trastuzumab biosimilar) with reference trastuzumab for HER2 positive breast cancer in neoadjuvant setting [abstract]. Cancer Res. 79 (Suppl. 4), P6-17-09 (2019). 19. Jackisch, C. et al. Subcutaneous vs intravenous trastuzumab for patients with ERBB2-positive early breast cancer: final analysis of the HannaH phase 3 randomized clinical trial. JAMA Oncol. 5, e190339 (2019). 20. Cortes, J., Curigliano, G. & Dieras, V. Expert perspectives on biosimilar monoclonal antibodies in breast cancer. Breast Cancer Res. Treat. 144, 233–239 (2014). 21. Barbier, L. et al. The arrival of biosimilar monoclonal antibodies in oncology: clinical studies for trastuzumab biosimilars. Br. J. Cancer 121, 199–210 (2019). 22. Citri, A., Skaria, K. B. & Yarden, Y. The deaf and the dumb: the biology of ErbB-2 and ErbB-3. Exp. Cell Res. 284, 54–65 (2003). 23. Arpino, G. et al. Treatment of human epidermal growth factor receptor 2-overexpressing breast cancer xenografts with multiagent HER-​targeted therapy. J. Natl. Cancer Inst. 99, 694–705 (2007). 24. Rimawi, M. F. et al. Reduced dose and intermittent treatment with lapatinib and trastuzumab for potent blockade of the HER pathway in HER2/ neu-overexpressing breast tumor xenografts. Clin. Cancer Res. 17, 1351–1361 (2011). 25. Wang, Y. C. et al. Different mechanisms for resistance to trastuzumab versus lapatinib in HER2-positive breast cancers–role of estrogen receptor and HER2 reactivation. Breast Cancer Res. 13, R121 (2011). 26. Baselga, J. et al. Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): a randomised, open-​label, multicentre, phase 3 trial. Lancet 379, 633–640 (2012). 27. Swain, S. M. et al. Pertuzumab, trastuzumab, and docetaxel in HER2-positive metastatic breast cancer. N. Engl. J. Med. 372, 724–734 (2015). 28. von Minckwitz, G. et al. Adjuvant pertuzumab and trastuzumab in early HER2-positive breast cancer. N. Engl. J. Med. 377, 122–131 (2017). 29. Chan, A. et al. Neratinib after trastuzumab-​based adjuvant therapy in patients with HER2-positive breast cancer (ExteNET): a multicentre, randomised, double-​blind, placebo-​controlled, phase 3 trial. Lancet Oncol. 17, 367–377 (2016). 30. Zuo, W. J. et al. Dual characteristics of novel HER2 kinase domain mutations in response to HER2-targeted therapies in human breast cancer. Clin. Cancer Res. 22, 4859–4869 (2016). 31. Boulbes, D. R. et al. HER family kinase domain mutations promote tumor progression and can predict response to treatment in human breast cancer. Mol. Oncol. 9, 586–600 (2015). 32. Xu, X. et al. HER2 reactivation through acquisition of the HER2 L755S mutation as a mechanism of acquired resistance to HER2-targeted therapy in HER2(+) breast cancer. Clin. Cancer Res. 23, 5123–5134 (2017). 33. Yonemori, K. et al. Single agent activity of U3-1402, a HER3-targeting antibody-​drug conjugate, in HER3overexpressing metastatic breast cancer: updated results from a phase I/II trial [abstract 151O]. Ann. Oncol. 30 (Suppl. 3), mdz100.002 (2019). 34. Wang, X. et al. Humanized anti-​EGFR antibody panitumumab inhibits tumor growth of inflammatory breast cancer by inducing antitumor immunity [abstract]. Cancer Res. 79 (Suppl. 13), 4492 (2019). 
+
+35. Mishra, R., Patel, H., Alanazi, S., Yuan, L. & Garrett, J. T. HER3 signaling and targeted therapy in cancer. Oncol. Rev. 12, 355 (2018). 36. Moasser, M. M., Basso, A., Averbuch, S. D. & Rosen, N. The tyrosine kinase inhibitor ZD1839 (“Iressa”) inhibits HER2-driven signaling and suppresses the growth of HER2-overexpressing tumor cells. Cancer Res. 61, 7184–7188 (2001). 37. Hirsh, V., Blais, N., Burkes, R., Verma, S. & Croitoru, K. Management of diarrhea induced by epidermal growth factor receptor tyrosine kinase inhibitors. Curr. Oncol. 21, 329–336 (2014). 38. Hirsh, V. Managing treatment-​related adverse events associated with EGFR tyrosine kinase inhibitors in advanced non-​small-cell lung cancer. Curr. Oncol. 18, 126–138 (2011). 39. Capri, G. et al. An open-​label expanded access study of lapatinib and capecitabine in patients with HER2overexpressing locally advanced or metastatic breast cancer. Ann. Oncol. 21, 474–480 (2010). 40. Paranjpe, R. et al. Neratinib in HER2-positive breast cancer patients. Ann. Pharmacother. 53, 612–620 (2019). 41. Parma, J. et al. Development of acneiform rash does not predict response to lapatinib treatment in patients with breast cancer. Pharmacotherapy 33, 1126–1129 (2013). 42. Chiu, J. W. et al. Changing pattern of recurrences in patients with early HER2-positive breast cancer receiving neoadjuvant chemotherapy in the era of dual anti-​HER2 therapy. Postgrad. Med. J. 95, 155–161 (2019). 43. Borges, V. F. et al. Efficacy results of a phase 1b study of ONT-380, a CNS-​penetrant TKI, in combination with T-​DM1 in HER2+metastatic breast cancer (MBC), including patients (pts) with brain metastases [abstract]. J. Clin. Oncol. 34 (Suppl. 15), 513 (2016). 44. Seattle Genetics. Seattle Genetics announces positive topline results from pivotal trial of tucatinib in locally advanced or metastatic HER2-positive breast cancer. Seattle Genetics https://investor.seattlegenetics.com/ press-​releases/news-​details/2019/Seattle-​GeneticsAnnounces-​Positive-Topline-​Results-from-​Pivotal-Trial-​ of-Tucatinib-​in-Locally-​Advanced-or-​MetastaticHER2-Positive-​Breast-Cancer/default.aspx (2019). 45. Rexer, B. N. & Arteaga, C. L. Intrinsic and acquired resistance to HER2-targeted therapies in HER2 gene-​ amplified breast cancer: mechanisms and clinical implications. Crit. Rev. Oncog. 17, 1–16 (2012). 46. Vernieri, C. et al. Resistance mechanisms to anti-​HER2 therapies in HER2-positive breast cancer: current knowledge, new research directions and therapeutic perspectives. Crit. Rev. Oncol. Hematol. 139, 53–66 (2019). 47. Rimawi, M. F., De Angelis, C. & Schiff, R. Resistance to anti-​HER2 therapies in breast cancer. Am. Soc. Clin. Oncol. Educ. Book 35, e157–e164 (2015). 48. Gianni, L. et al. Efficacy and safety of neoadjuvant pertuzumab and trastuzumab in women with locally advanced, inflammatory, or early HER2-positive breast cancer (NeoSphere): a randomised multicentre, open-label, phase 2 trial. Lancet Oncol. 13, 25–32 (2012). 49. Llombart-​Cussac, A. et al. HER2-enriched subtype as a predictor of pathological complete response following trastuzumab and lapatinib without chemotherapy in early-​stage HER2-positive breast cancer (PAMELA): an open-​label, single-​group, multicentre, phase 2 trial. Lancet Oncol. 18, 545–554 (2017). 
+
+Reviews 50. Rimawi, M. F. et al. Multicenter phase II study of neoadjuvant lapatinib and trastuzumab with hormonal therapy and without chemotherapy in patients with human epidermal growth factor receptor 2-overexpressing breast cancer: TBCRC 006. J. Clin. Oncol. 31, 1726–1731 (2013). 51. Christianson, T. A. et al. NH2-terminally truncated HER-2/neu protein: relationship with shedding of the extracellular domain and with prognostic factors in breast cancer. Cancer Res. 58, 5123–5129 (1998). 52. Kwong, K. Y. & Hung, M. C. A novel splice variant of HER2 with increased transformation activity. Mol. Carcinog. 23, 62–68 (1998). 53. Scaltriti, M. et al. Expression of p95HER2, a truncated form of the HER2 receptor, and response to anti-​HER2 therapies in breast cancer. J. Natl. Cancer Inst. 99, 628–638 (2007). 54. Cocco, E. et al. Neratinib is effective in breast tumors bearing both amplification and mutation of ERBB2 (HER2). Sci. Signal. 11, eaat9773 (2018). 55. Mitra, D. et al. An oncogenic isoform of HER2 associated with locally disseminated breast cancer and trastuzumab resistance. Mol. Cancer Ther. 8, 2152–2162 (2009). 56. Hyman, D. M. et al. HER kinase inhibition in patients with HER2- and HER3-mutant cancers. Nature 554, 189–194 (2018). 57. Wagle, N. et al. Whole exome sequencing (WES) of HER2+ metastatic breast cancer (MBC) from patients with or without prior trastuzumab (T): a correlative analysis of TBCRC003 [abstract]. Cancer Res. 75 (Suppl. 9), PD3-5 (2015). 58. Berns, K. et al. A functional genetic approach identifies the PI3K pathway as a major determinant of trastuzumab resistance in breast cancer. Cancer Cell 12, 395–402 (2007). 59. Eichhorn, P. J. et al. Phosphatidylinositol 3-kinase hyperactivation results in lapatinib resistance that is reversed by the mTOR/phosphatidylinositol 3-kinase inhibitor NVP-​BEZ235. Cancer Res. 68, 9221–9230 (2008). 60. Chandarlapaty, S. et al. Frequent mutational activation of the PI3K-​AKT pathway in trastuzumab-​resistant breast cancer. Clin. Cancer Res. 18, 6784–6791 (2012). 61. Fujita, T. et al. PTEN activity could be a predictive marker of trastuzumab efficacy in the treatment of ErbB2-overexpressing breast cancer. Br. J. Cancer 94, 247–252 (2006). 62. O’Brien, N. A. et al. Activated phosphoinositide 3-kinase/AKT signaling confers resistance to trastuzumab but not lapatinib. Mol. Cancer Ther. 9, 1489–1502 (2010). 63. Faratian, D. et al. Systems biology reveals new strategies for personalizing cancer medicine and confirms the role of PTEN in resistance to trastuzumab. Cancer Res. 69, 6713–6720 (2009). 64. Schiff, R. et al. Cross-​talk between estrogen receptor and growth factor pathways as a molecular target for overcoming endocrine resistance. Clin. Cancer Res. 10, 331S–336S (2004). 65. Bender, L. M. & Nahta, R. Her2 cross talk and therapeutic resistance in breast cancer. Front. Biosci. 13, 3906–3912 (2008). 66. Yamaguchi, H., Chang, S. S., Hsu, J. L. & Hung, M. C. Signaling cross-​talk in the resistance to HER family receptor targeted therapy. Oncogene 33, 1073–1081 (2014). 67. Qin, L. et al. Overexpression of insulin receptor substrate 4 can mediate acquired resistance to lapatinib-​containing regimens in HER2+ breast cancer cells [abstract]. Cancer Res. 75 (Suppl. 9), P3-05-13 (2015). 68. Ikink, G. J., Boer, M., Bakker, E. R. & Hilkens, J. IRS4 induces mammary tumorigenesis and confers resistance to HER2-targeted therapy through constitutive PI3K/ AKT-​pathway hyperactivation. Nat. Commun. 7, 13567 (2016). 69. Shattuck, D. L., Miller, J. K., Carraway, K. L. 3rd & Sweeney, C. Met receptor contributes to trastuzumab resistance of Her2-overexpressing breast cancer cells. Cancer Res. 68, 1471–1477 (2008). 70. Huang, C. et al. β1 integrin mediates an alternative survival pathway in breast cancer cells resistant to lapatinib. Breast Cancer Res. 13, R84 (2011). 71. Guo, W. et al. Beta 4 integrin amplifies ErbB2 signaling to promote mammary tumorigenesis. Cell 126, 489–502 (2006). 72. Mercogliano, M. F. et al. TNFα-​induced mucin 4 expression elicits trastuzumab resistance in HER2positive breast cancer. Clin. Cancer Res. 23, 636–648 (2017). 
+
+73. Chen, A. C. et al. Upregulation of mucin4 in ER-​positive/ HER2-overexpressing breast cancer xenografts with acquired resistance to endocrine and HER2-targeted therapies. Breast Cancer Res. Treat. 134, 583–593 (2012). 74. Ingold Heppner, B. et al. Tumor-​infiltrating lymphocytes: a predictive and prognostic biomarker in neoadjuvant-​ treated HER2-positive breast cancer. Clin. Cancer Res. 22, 5747–5754 (2016). 75. Salgado, R. et al. Tumor-​infiltrating lymphocytes and associations with pathological complete response and event-​free survival in HER2-positive early-​stage breast cancer treated with lapatinib and trastuzumab: a secondary analysis of the NeoALTTO trial. JAMA Oncol. 1, 448–454 (2015). 76. Bianchini, G. et al. Immune modulation of pathologic complete response after neoadjuvant HER2-directed therapies in the NeoSphere trial. Ann. Oncol. 26, 2429–2436 (2015). 77. De Angelis, C. et al. Evaluation of tumor immune infiltrate as a determinant of response to neo-​adjuvant lapatinib and trastuzumab (LT) in HER2-positive (+) breast cancer (BC) [abstract]. J. Clin. Oncol. 34 (Suppl. 15), 608 (2016). 78. Menendez, J. A. et al. Inhibition of fatty acid synthase (FAS) suppresses HER2/neu (erbB-2) oncogene overexpression in cancer cells. Proc. Natl Acad. Sci. USA 101, 10715–10720 (2004). 79. Blancafort, A. et al. Dual fatty acid synthase and HER2 signaling blockade shows marked antitumor activity against breast cancer models resistant to anti-​HER2 drugs. PLOS ONE 10, e0131241 (2015). 80. Crocamo, S. et al. Neoadjuvant zoledronic acid for HER2-positive breast cancer: the Zo-​NAnTax trial. Ther. Adv. Med. Oncol. 11, 1758835919853971 (2019). 81. Sethunath, V. et al. Targeting the mevalonate pathway to overcome acquired anti-​HER2 treatment resistance in breast cancer. Mol. Cancer Res. https://doi.org/ 10.1158/1541-7786.MCR-19-0756 (2019). 82. Halilovic, A. et al. HER2, chromosome 17 polysomy and DNA ploidy status in breast cancer; a translational study. Sci. Rep. 9, 11679 (2019). 83. Lal, P., Tan, L. K. & Chen, B. Correlation of HER-2 status with estrogen and progesterone receptors and histologic features in 3,655 invasive breast carcinomas. Am. J. Clin. Pathol. 123, 541–546 (2005). 84. Untch, M. et al. Estimating the magnitude of trastuzumab effects within patient subgroups in the HERA trial. Ann. Oncol. 19, 1090–1096 (2008). 85. Vici, P. et al. Triple positive breast cancer: a distinct subtype? Cancer Treat. Rev. 41, 69–76 (2015). 86. Xia, W. et al. A model of acquired autoresistance to a potent ErbB2 tyrosine kinase inhibitor and a therapeutic strategy to prevent its onset in breast cancer. Proc. Natl Acad. Sci. USA 103, 7795–7800 (2006). 87. Giuliano, M. et al. Upregulation of ER signaling as an adaptive mechanism of cell survival in HER2-positive breast tumors treated with anti-​HER2 therapy. Clin. Cancer Res. 21, 3995–4003 (2015). 88. Vaz-​Luis, I., Winer, E. P. & Lin, N. U. Human epidermal growth factor receptor-2-positive breast cancer: does estrogen receptor status define two distinct subtypes? Ann. Oncol. 24, 283–291 (2013). 89. Azim, H. A. Jr. & Piccart, M. J. Simultaneous targeting of estrogen receptor and HER2 in breast cancer. Expert Rev. Anticancer Ther. 10, 1255–1263 (2010). 90. Park, Y. H. et al. Patterns of relapse and metastatic spread in HER2-overexpressing breast cancer according to estrogen receptor status. Cancer Chemother. Pharmacol. 66, 507–516 (2010). 91. Lee, H. J. et al. Two histopathologically different diseases: hormone receptor-​positive and hormone receptor-​negative tumors in HER2-positive breast cancer. Breast Cancer Res. Treat. 145, 615–623 (2014). 92. Carey, L. A. et al. Molecular heterogeneity and response to neoadjuvant human epidermal growth factor receptor 2 targeting in CALGB 40601, a randomized phase III trial of paclitaxel plus trastuzumab with or without lapatinib. J. Clin. Oncol. 34, 542–549 (2016). 93. Spring, L. et al. Effectiveness and tolerability of neoadjuvant pertuzumab-​containing regimens for HER2-positive localized breast cancer. Breast Cancer Res. Treat. 172, 733–740 (2018). 94. Untch, M. et al. Lapatinib versus trastuzumab in combination with neoadjuvant anthracycline-​taxanebased chemotherapy (GeparQuinto, GBG 44): a randomised phase 3 trial. Lancet Oncol. 13, 135–144 (2012). 
+
+95. Robidoux, A. et al. Lapatinib as a component of neoadjuvant therapy for HER2-positive operable breast cancer (NSABP protocol B-41): an open-​label, randomised phase 3 trial. Lancet Oncol. 14, 1183–1192 (2013). 96. Schneeweiss, A. et al. Pertuzumab plus trastuzumab in combination with standard neoadjuvant anthracycline-​ containing and anthracycline-​free chemotherapy regimens in patients with HER2-positive early breast cancer: a randomized phase II cardiac safety study (TRYPHAENA). Ann. Oncol. 24, 2278–2284 (2013). 97. Cortazar, P. et al. Pathological complete response and long-​term clinical benefit in breast cancer: the CTNeoBC pooled analysis. Lancet 384, 164–172 (2014). 98. von Minckwitz, G. et al. Definition and impact of pathologic complete response on prognosis after neoadjuvant chemotherapy in various intrinsic breast cancer subtypes. J. Clin. Oncol. 30, 1796–1804 (2012). 99. Tanioka, M. et al. Integrated analysis of RNA and DNA from the phase III trial CALGB 40601 identifies predictors of response to trastuzumab-​based neoadjuvant chemotherapy in HER2-positive breast cancer. Clin. Cancer Res. 24, 5292–5304 (2018). 100. Johnston, S. et al. Lapatinib combined with letrozole versus letrozole and placebo as first-​line therapy for postmenopausal hormone receptor-​positive metastatic breast cancer. J. Clin. Oncol. 27, 5538–5546 (2009). 101. Kaufman, B. et al. Trastuzumab plus anastrozole versus anastrozole alone for the treatment of postmenopausal women with human epidermal growth factor receptor 2-positive, hormone receptor-​ positive metastatic breast cancer: results from the randomized phase III TAnDEM study. J. Clin. Oncol. 27, 5529–5537 (2009). 102. Rimawi, M. et al. First-​line trastuzumab plus an aromatase inhibitor, with or without pertuzumab, in human epidermal growth factor receptor 2-positive and hormone receptor-​positive metastatic or locally advanced breast cancer (PERTAIN): a randomized, open-​label phase II trial. J. Clin. Oncol. 36, 2826–2835 (2018). 103. Johnston, S. R. D. et al. Phase III, randomized study of dual human epidermal growth factor receptor 2 (HER2) blockade with lapatinib plus trastuzumab in combination with an aromatase inhibitor in postmenopausal women with HER2-positive, hormone receptor-​positive metastatic breast cancer: ALTERNATIVE. J. Clin. Oncol. 36, 741–748 (2018). 104. Rimawi, M. et al. A phase III trial evaluating pCR in patients with HR+, HER2-positive breast cancer treated with neoadjuvant docetaxel, carboplatin, trastuzumab, and pertuzumab (TCHP) +/- estrogen deprivation: NRG Oncology/NSABP B-52 [abstract]. Cancer Res. 77 (Suppl. 4), S3-06 (2017). 105. Bedognetti, D. et al. Concurrent vs sequential adjuvant chemotherapy and hormone therapy in breast cancer: a multicenter randomized phase III trial. J. Natl. Cancer Inst. 103, 1529–1539 (2011). 106. Harbeck, N. et al. Final analysis of WSG-​ADAPT HER2+/HR+ phase II trial: efficacy, safety, and predictive markers for 12-weeks of neoadjuvant TDM1 with or without endocrine therapy versus trastuzumab+endocrine therapy in HER2-positive hormone-​receptor-positive early breast cancer [abstract]. Cancer Res. 76 (Suppl. 4), S5-03 (2016). 107. Rimawi, M. F. et al. TBCRC023: A randomized multicenter phase II neoadjuvant trial of lapatinib plus trastuzumab, with endcorine therapy and without chemotherapy, for 12 vs. 24 weeks in patients with HER2 overexpressing breast cancer [abstract]. Cancer Res. 75 (Suppl. 9), S6-02 (2015). 108. Rimawi, M. F. et al. TBCRC023: a randomized phase II neoadjuvant trial of lapatinib plus trastuzumab without chemotherapy for 12 vs. 24 weeks in patients with HER2-positive breast cancer. Clin. Cancer Res. https:// doi.org/10.1158/1078-0432.CCR-19-0851 (2019). 109. Cameron, D. et al. 11 years’ follow-​up of trastuzumab after adjuvant chemotherapy in HER2-positive early breast cancer: final analysis of the HERceptin Adjuvant (HERA) trial. Lancet 389, 1195–1205 (2017). 110. Perez, E. A. et al. Trastuzumab plus adjuvant chemotherapy for human epidermal growth factor receptor 2-positive breast cancer: planned joint analysis of overall survival from NSABP B-31 and NCCTG N9831. J. Clin. Oncol. 32, 3744–3752 (2014). 111. Huober, J. B. et al. Survival outcomes of the NeoALTTO study: updated results of a randomized multicenter phase III neoadjuvant trial [abstract]. J. Clin. Oncol. 35 (Suppl. 15), 512 (2017). 112. Spring, L. et al. Pathological complete response after neoadjuvant chemotherapy and impact on breast 
+
+www.nature.com/nrclinonc 
+
+Reviews cancer recurrence and mortality, stratified by breast cancer subtypes and adjuvant chemotherapy usage: individual patient-​level meta-​analyses of over 27,000 patients [abstract]. Cancer Res. 79 (Suppl. 4), GS2-03 (2019). 113. Piccart-​Gebhart, M. et al. Adjuvant lapatinib and trastuzumab for early human epidermal growth factor receptor 2-positive breast cancer: results from the randomized phase III adjuvant lapatinib and/or trastuzumab treatment optimization trial. J. Clin. Oncol. 34, 1034–1042 (2016). 114. Moreno-​Aspitia, A. et al. Updated results from the phase III ALTTO trial (BIG 2-06; NCCTG (Alliance) N063D) comparing one year of anti-​HER2 therapy with lapatinib alone (L), trastuzumab alone (T), their sequence (T→L) or their combination (L+T) in the adjuvant treatment of HER2-positive early breast cancer [abstract]. J. Clin. Oncol. 35 (Suppl. 15), 502 (2017). 115. Martin, M. et al. Neratinib after trastuzumab-​based adjuvant therapy in HER2-positive breast cancer (ExteNET): 5-year analysis of a randomised, double-​ blind, placebo-​controlled, phase 3 trial. Lancet Oncol. 18, 1688–1700 (2017). 116. Cardoso, F. et al. Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-​up. Ann. Oncol. 30, 1194–1220 (2019). 117. von Minckwitz, G. et al. Trastuzumab emtansine for residual invasive HER2-positive breast cancer. N. Engl. J. Med. 380, 617–628 (2019). 118. Joensuu, H. et al. Fluorouracil, epirubicin, and cyclophosphamide with either docetaxel or vinorelbine, with or without trastuzumab, as adjuvant treatments of breast cancer: final results of the FinHer Trial. J. Clin. Oncol. 27, 5685–5692 (2009). 119. Joensuu, H. et al. Effect of adjuvant trastuzumab for a duration of 9 weeks vs 1 year with concomitant chemotherapy for early human epidermal growth factor receptor 2-positive breast cancer: the SOLD randomized clinical trial. JAMA Oncol. 4, 1199–1206 (2018). 120. Pivot, X. et al. 6 months versus 12 months of adjuvant trastuzumab for patients with HER2-positive early breast cancer (PHARE): a randomised phase 3 trial. Lancet Oncol. 14, 741–748 (2013). 121. Mavroudis, D. et al. Six versus 12 months of adjuvant trastuzumab in combination with dose-​dense chemotherapy for women with HER2-positive breast cancer: a multicenter randomized study by the Hellenic Oncology Research Group (HORG). Ann. Oncol. 26, 1333–1340 (2015). 122. Conte, P. et al. Nine weeks versus 1 year adjuvant trastuzumab in combination with chemotherapy: final results of the phase III randomized Short-​HER study. Ann. Oncol. 29, 2328–2333 (2018). 123. Pivot, X. et al. 6 months versus 12 months of adjuvant trastuzumab in early breast cancer (PHARE): final analysis of a multicentre, open-​label, phase 3 randomised trial. Lancet 393, 2591–2598 (2019). 124. Earl, H. M. et al. 6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (PERSEPHONE): 4-year disease-​free survival results of a randomised phase 3 non-​inferiority trial. Lancet 393, 2599–2612 (2019). 125. Perez, E. A. et al. Sequential versus concurrent trastuzumab in adjuvant chemotherapy for breast cancer. J. Clin. Oncol. 29, 4491–4497 (2011). 126. Earl, H. M. et al. PERSEPHONE: 6 versus 12 months (m) of adjuvant trastuzumab in patients (pts) with HER2 positive (+) early breast cancer (EBC): randomised phase 3 non-​inferiority trial with definitive 4-year (yr) disease-​free survival (DFS) results [abstract]. J. Clin. Oncol. 36 (Suppl. 15), 506 (2018). 127. Ponde, N., Gelber, R. D. & Piccart, M. PERSEPHONE: are we ready to de-​escalate adjuvant trastuzumab for HER2-positive breast cancer? NPJ Breast Cancer 5, 1 (2019). 128. Chen, L. et al. Short-​duration versus 1-year adjuvant trastuzumab in early HER2 positive breast cancer: a meta-​analysis of randomized controlled trials. Cancer Treat. Rev. 75, 12–19 (2019). 129. Tolaney, S. M. et al. Seven-​year follow-​up analysis of adjuvant paclitaxel and trastuzumab trial for node-​ negative, human epidermal growth factor receptor 2-positive breast cancer. J. Clin. Oncol. 37, 1868–1875 (2019). 130. van Ramshorst, M. S. et al. Neoadjuvant chemotherapy with or without anthracyclines in the presence of dual HER2 blockade for HER2-positive breast cancer (TRAIN-2): a multicentre, open-​label, randomised, phase 3 trial. Lancet Oncol. 19, 1630–1640 (2018). 
+
+Nature Reviews | Clinical Oncology 
+
+131. Bergh, J. C. S. et al. Docetaxel, trastuzumab, pertuzumab versus trastuzumab emtansine as neoadjuvant treatment of HER2-positive breast cancer: results from the Swedish PREDIX HER2 trial identifying a new potential de-​escalation standard? [abstract]. J. Clin. Oncol. 37 (Suppl. 15), 501 (2019). 132. Hurvitz, S. A. et al. Neoadjuvant trastuzumab, pertuzumab, and chemotherapy versus trastuzumab emtansine plus pertuzumab in patients with HER2positive breast cancer (KRISTINE): a randomised, open-​label, multicentre, phase 3 trial. Lancet Oncol. 19, 115–126 (2018). 133. Filho, O. M. et al. HER2 heterogeneity as a predictor of response to neoadjuvant T-​DM1 plus pertuzumab: results from a prospective clinical trial [abstract]. J. Clin. Oncol. 37 (Suppl. 15), 502 (2019). 134. Sawaki, M. et al. Evaluation of trastuzumab without chemotherapy as a post-​operative adjuvant therapy in HER2-positive elderly breast cancer patients: randomized controlled trial [RESPECT (N-​SAS BC07)]. Jpn. J. Clin. Oncol. 41, 709–712 (2011). 135. Nitz, U. A. et al. De-​escalation strategies in HER2positive early breast cancer (EBC): final analysis of the WSG-​ADAPT HER2+/HR phase II trial: efficacy, safety, and predictive markers for 12 weeks of neoadjuvant dual blockade with trastuzumab and pertuzumab ± weekly paclitaxel. Ann. Oncol. 28, 2768–2772 (2017). 136. Guarneri, V. et al. De-​escalated therapy for HR+/ HER2+breast cancer patients with Ki67 response after 2-week letrozole: results of the PerELISA neoadjuvant study. Ann. Oncol. 30, 921–926 (2019). 137. Goel, S. et al. Overcoming therapeutic resistance in HER2-positive breast cancers with CDK4/6 inhibitors. Cancer Cell 29, 255–269 (2016). 138. Fumagalli, D. et al. RNA sequencing to predict response to neoadjuvant anti-​HER2 therapy: a secondary analysis of the NeoALTTO randomized clinical trial. JAMA Oncol. 3, 227–234 (2017). 139. Rimawi, M. F. et al. Low PTEN levels and PIK3CA mutations predict resistance to neoadjuvant lapatinib and trastuzumab without chemotherapy in patients with HER2 over-​expressing breast cancer. Breast Cancer Res. Treat. 167, 731–740 (2018). 140. Prat, A. et al. HER2-enriched subtype and ERBB2 expression in HER2-positive breast cancer treated with dual HER2 blockade. J. Natl. Cancer Inst. https:// doi.org/10.1093/jnci/djz042 (2019). 141. Bianchini, G. et al. Biomarker analysis of the NeoSphere study: pertuzumab, trastuzumab, and docetaxel versus trastuzumab plus docetaxel, pertuzumab plus trastuzumab, or pertuzumab plus docetaxel for the neoadjuvant treatment of HER2-positive breast cancer. Breast Cancer Res. 19, 16 (2017). 142. Ng, C. K. et al. Intra-​tumor genetic heterogeneity and alternative driver genetic alterations in breast cancers with heterogeneous HER2 gene amplification. Genome Biol. 16, 107 (2015). 143. Veeraraghavan, J. et al. A combinatorial biomarker predicts pathologic complete response to neoadjuvant lapatinib and trastuzumab without chemotherapy in patients with HER2+ breast cancer. Ann. Oncol. 30, 927–933 (2019). 144. Veeraraghavan, J. et al. De-​escalation of treatment in HER2-positive breast cancer: determinants of response and mechanisms of resistance. Breast 34, S19–S26 (2017). 145. Pogue-​Geile, K. L. et al. Association of molecular signatures, mutations, and sTILs, with pCR in breast cancer patients in NRG Oncology/NSABP B-52 [abstract]. Cancer Res. 79 (Suppl. 13), 4064 (2019). 146. Triulzi, T., Bianchi, G. V. & Tagliabue, E. Predictive biomarkers in the treatment of HER2-positive breast cancer: an ongoing challenge. Future Oncol. 12, 1413–1428 (2016). 147. Weinstein, I. B. Cancer. Addiction to oncogenes–the Achilles heal of cancer. Science 297, 63–64 (2002). 148. Wolff, A. C. et al. Human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists Clinical Practice Guideline Focused Update. J. Clin. Oncol. 36, 2105–2122 (2018). 149. Fehrenbacher, L. et al. NSABP B-47 (NRG oncology): Phase III randomized trial comparing adjuvant chemotherapy with adriamycin (A) and cyclophosphamide (C) → weekly paclitaxel (WP), or docetaxel (T) and C with or without a year of trastuzumab (H) in women with node-​positive or high-​ risk node-​negative invasive breast cancer (IBC) expressing HER2 staining intensity of IHC 1+ or 2+ with negative FISH (HER2-Low IBC) [abstract]. Cancer Res. 78 (Suppl. 4), GS1-02 (2018). 
+
+150. Prat, A. et al. Molecular features and survival outcomes of the intrinsic subtypes within HER2-positive breast cancer. J. Natl. Cancer Inst. 106, dju152 (2014). 151. Loibl, S. et al. PIK3CA mutations are associated with reduced pathological complete response rates in primary HER2-positive breast cancer: pooled analysis of 967 patients from five prospective trials investigating lapatinib and trastuzumab. Ann. Oncol. 27, 1519–1525 (2016). 152. Esteva, F. J. et al. PTEN, PIK3CA, p-​AKT, and p-p70S6K status: association with trastuzumab response and survival in patients with HER2-positive metastatic breast cancer. Am. J. Pathol. 177, 1647–1656 (2010). 153. Gori, S. et al. EGFR, pMAPK, pAkt and PTEN status by immunohistochemistry: correlation with clinical outcome in HER2-positive metastatic breast cancer patients treated with trastuzumab. Ann. Oncol. 20, 648–654 (2009). 154. Stern, H. M. et al. PTEN loss is associated with worse outcome in HER2-amplified breast cancer patients but is not associated with trastuzumab resistance. Clin. Cancer Res. 21, 2065–2074 (2015). 155. Perez, E. A. et al. Impact of PTEN protein expression on benefit from adjuvant trastuzumab in early-​stage human epidermal growth factor receptor 2-positive breast cancer in the North Central Cancer Treatment Group N9831 trial. J. Clin. Oncol. 31, 2115–2122 (2013). 156. Dieci, M. V. et al. Association of tumor-​infiltrating lymphocytes with distant disease-​free survival in the ShortHER randomized adjuvant trial for patients with early HER2+ breast cancer. Ann. Oncol. 30, 418–423 (2019). 157. Ignatiadis, M. et al. Tumor-​infiltrating lymphocytes in patients receiving trastuzumab/pertuzumab-​based chemotherapy: a TRYPHAENA substudy. J. Natl. Cancer Inst. 111, 69–77 (2019). 158. Savas, P. et al. Clinical relevance of host immunity in breast cancer: from TILs to the clinic. Nat. Rev. Clin. Oncol. 13, 228–241 (2016). 159. Luen, S. J., Savas, P., Fox, S. B., Salgado, R. & Loi, S. Tumour-​infiltrating lymphocytes and the emerging role of immunotherapy in breast cancer. Pathology 49, 141–155 (2017). 160. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Long-​term outcomes for neoadjuvant versus adjuvant chemotherapy in early breast cancer: meta-​ analysis of individual patient data from ten randomised trials. Lancet Oncol. 19, 27–39 (2018). 161. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology (NCCN Guidelines®). Breast cancer (NCCN, 2019). 162. Coates, A. S. et al. Tailoring therapies–improving the management of early breast cancer: St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2015. Ann. Oncol. 26, 1533–1546 (2015). 163. Boughey, J. C. et al. Tumor biology correlates with rates of breast-​conserving surgery and pathologic complete response after neoadjuvant chemotherapy for breast cancer: findings from the ACOSOG Z1071 (Alliance) Prospective Multicenter Clinical Trial. Ann. Surg. 260, 608–614; discussion 614–606 (2014). 164. Garcia-​Murillas, I. et al. Assessment of molecular relapse detection in early-​stage breast cancer. JAMA Oncol. 5, 1473–1478 (2019). 165. Jura, N., Shan, Y., Cao, X., Shaw, D. E. & Kuriyan, J. Structural analysis of the catalytically inactive kinase domain of the human EGF receptor 3. Proc. Natl Acad. Sci. USA 106, 21608–21613 (2009). 166. Rugo, H. S. et al. SOPHIA primary analysis: a phase 3 (P3) study of margetuximab (M) + chemotherapy (C) versus trastuzumab (T) + C in patients (pts) with HER2+ metastatic (met) breast cancer (MBC) after prior anti-​ HER2 therapies (Tx) [abstract]. J. Clin. Oncol. 37 (Suppl. 15), 1000 (2019). 167. Lin, N. Abstract ES3-3: systemic therapy for breast cancer brain metastases [abstract]. Cancer Res. 79 (Suppl. 4), ES3-3 (2019). 168. Jiang, Z. et al. Pyrotinib combined with capecitabine in women with HER2+ metastatic breast cancer previously treated with trastuzumab and taxanes: a randomized phase III study [abstract]. J. Clin. Oncol. 37 (Suppl. 15), 1001 (2019). 169. Verma, S., Shahidi, J., Lee, C., Wang, K. & Cortes, J. Trastuzumab deruxtecan (DS-8201a) vs ado-​ trastuzumab emtansine (T-​DM1) for subjects with HER2-positive, unresectable and/or metastatic breast cancer who previously received trastuzumab and a taxane: a phase 3, randomized study [abstract]. Cancer Res. 79 (Suppl. 4), OT2-07-03 (2019). 
+
+Reviews 170. Gianni, L. et al. Neoadjuvant treatment with trastuzumab and pertuzumab plus palbociclib and fulvestrant in HER2-positive, ER-​positive breast cancer (NA-​PHER2): an exploratory, open-​ label, phase 2 study. Lancet Oncol. 19, 249–256 (2018). 171. Ciruelos, E. et al. SOLTI-1303 PATRICIA phase II trial (STAGE 1) – palbociclib and trastuzumab in postmenopausal patients with HER2-positive metastatic breast cancer. Cancer Res. 79 (Suppl. 4), PD3-03 (2019). 172. Metzger, O. et al. PATINA: a randomized, open label, phase III trial to evaluate the efficacy and safety of palbociclib + anti-​HER2 therapy + endocrine therapy (ET) vs. anti-​HER2 therapy + ET after induction treatment for hormone receptor positive (HR+)/HER2positive metastatic breast cancer (MBC). Cancer Res. 79 (Suppl. 4), OT3-02-07 (2019). 173. Tolaney, S. M., Bourayou, N., Goel, S., Hossain, A. & Andre, F. A phase II randomized study to compare abemaciclib plus trastuzumab with or without fulvestrant to standard of care chemotherapy plus trastuzumab in hormone receptor positive, HER2positive advanced breast cancer (monarcHER) [abstract]. J. Clin. Oncol. 35 (Suppl. 15), TPS1109 (2017). 174. Loi, S. et al. Pembrolizumab plus trastuzumab in trastuzumab-​resistant, advanced, HER2-positive 
+
+breast cancer (PANACEA): a single-​arm, multicentre, phase 1b-2 trial. Lancet Oncol. 20, 371–382 (2019). 175. McArthur, H. et al. Neoadjuvant Her2-targeted therapy +/- immunotherapy with pembrolizumab (neoHIP): an open label randomized phase II trial [abstract]. Cancer Res. 79 (Suppl. 4), OT3-04-02 (2019). 176. Emens, L. A. et al. Results from KATE2, a randomized phase 2 study of atezolizumab (atezo)+trastuzumab emtansine (T-​DM1) vs placebo (pbo)+T-​DM1 in previously treated HER2+ advanced breast cancer (BC) [abstract]. Cancer Res. 79 (Suppl. 4), PD3-01 (2019). 
+
+Acknowledgements The work of the authors is supported, in part, by the Department of Defense grants W81XWH-17-1-0579 (to M.F.R.) and W81XWH-17-1-0580 (to R.S.), the NIH SPORE grant P50 CA186784 (to R.S., C.K.O. and M.F.R.); the Cancer Center grant P30 CA125123 (principal investigator C.K.O.); the Breast Cancer Research Foundation grant BCRF-17-143 (to R.S and C.K.O); the Cancer Prevention & Research Institute of Texas grant CPRIT RP 140102 (to C.De A.); and the Translational Breast Cancer Research Consortium (TBCRC). 
+
+manuscript and to discussions of content, and reviewed and/or edited the manuscript prior to submission. 
+
+Competing interests C.K.O. has received research funding from AstraZeneca and GlaxoSmithKline, has served on advisory boards for AstraZeneca, Genentech and Tolmar Pharmaceuticals, has been a data monitoring committee member for Eli Lilly, and is a stockholder of GeneTex. M.F.R. receives research support from GlaxoSmithKline via his institution and has been a consultant for Daiichi, Genentech, Macrogenics and Novartis. R.S. has received research funding from AstraZeneca, Gilead Sciences, GlaxoSmithKline and PUMA Biotechnology, and has been a consultant or advisory committee member for Eli Lilly and Macrogenics. The other authors declare no competing interests. 
+
+Peer review information Nature Reviews Clinical Oncology thanks the anonymous reviewers for their contribution to the peer review of this work. 
+
+Publisher’s note 
+
+Author contributions 
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
+
+K.G., J.V., M.F.R., and R.S wrote the manuscript. All authors made substantial contributions to researching data for the 
+
+© Springer Nature Limited 2019 
+
+www.nature.com/nrclinonc 
+
+ 

@@ -1,0 +1,1029 @@
+Articles 
+
+Neoadjuvant anthracycline followed by toripalimab combined with nab-paclitaxel in patients with early triple-negative breast cancer (NeoTENNIS): a single-arm, phase II study Min He,a,d Shuang Hao,a,d LinXiaoxi Ma,a,d BingQiu Xiu,a,d BenLong Yang,a ZeHao Wang,a JingYan Xue,a YaYun Chi,a Min Xiong,a JiaJian Chen,a XiaoYan Huang,a XiYu Liu,a SongYang Wu,a Qin Xiao,b Yan Huang,b RuoHong Shui,c AYong Cao,a JunJie Li,a GenHong Di,a WenTao Yang,c Xin Hu,a GuangYu Liu,a KeDa Yu,a YiZhou Jiang,a ZhongHua Wang,a ZhiMing Shao,a and Jiong Wua,∗ a 
+
+Department of Breast Surgery, Fudan University Shanghai Cancer Center and Key Laboratory of Breast Cancer in Shanghai, Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 200032, China b Department of Radiology, Fudan University Shanghai Cancer Center, Shanghai, 200032, China c Department of Pathology, Fudan University Shanghai Cancer Center, Shanghai, 200032, China 
+
+Summary Background Toripalimab, a novel PD-1 antibody, is approved for treatment of multiple solid tumors; however, its neoadjuvant use with chemotherapy for triple-negative breast cancer (TNBC) remains unevaluated. Additionally, induction chemotherapy followed by de-escalation of neoadjuvant immunotherapy remains underexplored. Therefore, we conducted a phase II trial investigating a novel neoadjuvant chemoimmunotherapy regimen including de-escalation of immunotherapy for early-stage TNBC. 
+
+eClinicalMedicine 2024;74: 102700 Published Online xxx 
+
+https://doi.org/10. 1016/j.eclinm.2024. 102700 
+
+Methods Chemotherapy and anti-PD-1 therapy were sequentially administered in a neoadjuvant setting to female patients with histologically conﬁrmed stage II–III TNBC between June 9, 2020, and March 24, 2022. Patients received neoadjuvant therapy with four cycles of epirubicin-cyclophosphamide every 2 weeks, followed by toripalimab (240 mg) every 3 weeks plus nab-paclitaxel weekly for 12 weeks. The primary endpoint was total pathological complete response (tpCR; ypT0/is ypN0). Key secondary endpoints included breast pCR (bpCR; ypT0/ is), event-free survival and biomarker analysis. Safety was also assessed. This study was registered with ClinicalTrials.gov (NCT04418154). Findings Among 70 enrolled patients (median age, 51 years; 62.9% stage III), 66 completed treatment without progression and subsequently underwent surgery. The percentages of patients with a tpCR and bpCR were 39 of 70 (55.7%, 95% conﬁdence interval [CI]: 43.3–67.6) and 41 of 70 (58.6%, 95% CI 46.2–70.2), respectively. Sixteen (22.9%) patients experienced grade ≥3 adverse events (AEs), frequently neutropenia (12, 17.1%) and leukopenia (11, 15.7%). The most common immune-related AE was hypothyroidism (5, 7.1%, all grade 1–2). Interpretation Including 12 weeks of toripalimab in neoadjuvant chemotherapy conferred encouraging activity and manageable toxicity in patients with early TNBC, and this regimen warrants further investigation. Funding National Natural Science Foundation of China, Junshi Biosciences, and Jiangsu Hengrui Pharmaceuticals. Copyright © 2024 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http:// creativecommons.org/licenses/by-nc-nd/4.0/). Keywords: Triple-negative breast cancer; Neoadjuvant therapy; Immune checkpoint inhibitor; Induction treatment; De-escalation 
+
+Introduction Triple-negative breast cancer (TNBC) encompasses a subset of breast cancers that lack expression of the estrogen receptor (ER), progesterone receptor (PgR), and human epidermal growth factor receptor 2 (HER2). 
+
+TNBCs account for 10–20% of newly diagnosed breast cancer cases, and are associated with a higher incidence of visceral metastases, higher risk of early recurrence, and worse prognosis.1 Neoadjuvant chemotherapy (NAC) followed by surgery is the preferred treatment 
+
+*Corresponding author. E-mail address: wujiong1122@vip.sina.com (J. Wu). d These authors have contributed equally to this work and share ﬁrst authorship. 
+
+www.thelancet.com Vol 74 August, 2024 
+
+1 
+
+Articles 
+
+Research in context 
+
+2 
+
+Evidence before this study We searched PubMed for studies published between Dec 1, 2018, and Dec 1, 2023, on neoadjuvant immunotherapy in TNBC, using the terms (“neoadjuvant” OR “preoperative”) AND (“triple-negative breast cancer”) AND (“immunotherapy” OR “immune checkpoint” OR “PD-1” OR “PD-L1”). The search was restricted to clinical trials, with no language restrictions. Our search yielded 11 studies. Most of the previous trials have integrated immunotherapy starting with the ﬁrst dose of chemotherapy and with a full neoadjuvant treatment course of 20–24 weeks. Results from these studies showed notable pathological responses to immune checkpoint inhibitors when used as a neoadjuvant treatment for early TNBC. 
+
+Added value of this study To the best of our knowledge, NeoTENNIS is the ﬁrst phase 2 trial to report the activity and safety of a de-escalated antiPD-1 antibody plus platinum-free chemotherapy in patients with early TNBC. Our results show that combining toripalimab with anthracycline/cyclophosphamide (EC) and nab-paclitaxel provided encouraging antitumor activity with a pathological complete response rate of 55.7% and a manageable safety proﬁle in patients with early TNBC. 
+
+approach for patients with stage II–III TNBC.2 In addition to potentially increased likelihood of tumor resectability and breast conservation, patients who have pathological complete response (pCR) after NAC have longer event-free survival (EFS) and overall survival.3 Many current and prior clinical trials have explored how to increase the likelihood of pCR in patients with TNBC following neoadjuvant treatment (NAT). Accumulating evidence demonstrates that when combined with NAC, immune checkpoint inhibitors (ICIs) contribute to a higher pCR rate than NAC alone4–6; however, the optimal duration of immunotherapy and the identiﬁcation of biomarkers that reliably predict the response in early-stage TNBC remain unclear. Moreover, considering the potential long-lasting side effects of ICIs therapy, new treatment modalities to optimize the use of programmed death-1 (PD-1)/programmed death-ligand 1 (PD-L1) blockade must urgently be explored. Among the chemotherapeutic drugs with immunomodulatory properties, anthracyclines are particularly attractive as a priming strategy to reshape the tumor immune microenvironment toward an immunepermissive state, with more CD8+ T-cell inﬁltration and IFN-γ production, which could potentiate the activity of ICIs.7,8 Preclinical research suggests that anthracyclines are associated with an increase in the level of type I interferons9 and induction of immunogenic cell death.10 Moreover, induction with anthracyclines can prime tumors for response to ICIs supported by the upregulation of immune-related gene sets in the metastatic setting of TNBC.11 Toripalimab, an anti-PD-1 monoclonal antibody, demonstrated encouraging antitumor activities in patients with metastatic TNBC when used as ﬁrst-line treatment12; however, the use of toripalimab for locally advanced breast cancer in the neoadjuvant setting remains to be elucidated. 
+
+We conducted a phase II trial to assess a novel neoadjuvant chemoimmunotherapy regimen incorporated with de-escalation of immunotherapy for early-stage TNBC. This regimen consisted of anthracycline-based chemotherapy induction, followed by a shorter-thanstandard course of immunotherapy using toripalimab, in combination with nab-paclitaxel. 
+
+Implications of all the available evidence Our results suggest that employing a de-escalated anti-PD-1 antibody plus platinum-free chemotherapy regimen, including EC and nab-paclitaxel, in patients with TNBC may be a valid approach. Future randomized trials are warranted to further investigate the clinical beneﬁts of this combination. 
+
+Methods Ethics Ethical approval was obtained from the Institutional Review Board of Fudan University Shanghai Cancer Center (Shanghai, China). This clinical trial was undertaken in accordance with the Declaration of Helsinki 1964 and its later amendments and Good Clinical Practice guidelines. All patients provided written informed consent before enrollment. This study was registered with ClinicalTrials.gov (NCT04418154). 
+
+Study design and patients This single-arm, Simon’s optimal two-stage trial was conducted at Fudan University Shanghai Cancer Center (FUSCC) in China. The inclusion criteria were females aged 18–70 years; clinical stage cT2–T4 and cN0–cN3 TNBC (assessment of negative ER, PgR, and HER2 status by individual pathologists at the Department of Pathology in FUSCC per guidelines)13,14; unilateral disease; no prior treatment with chemotherapy or immune therapy for invasive breast cancer; an Eastern Cooperative Oncology Group (ECOG) performance status of 0–1; and adequate kidney, liver, cardiovascular, and bone marrow functions. The exclusion criteria included a previous history of autoimmune disease; use of glucocorticoids or immunosuppressive drugs; previous immune checkpoint-targeting therapy; active hepatitis B or hepatitis C virus infection; any active infection for which 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Articles 
+
+the patient was receiving systemic therapy; presence of another malignancy in addition to breast cancer, excluding nonmelanomatous skin cancer; and mental illness or other conditions affecting patient compliance. The trial was conducted in accordance with the Declaration of Helsinki and Good Clinical Practice guidelines. The study protocol was approved by the institutional review board of FUSCC. Informed consent was obtained from all patients prior to participation in the study. 
+
+Treatment administration Eligible patients received four cycles of intravenous epirubicin 90 mg/m2 plus cyclophosphamide 600 mg/ m2 on day 1 every two weeks, followed by four cycles of intravenous toripalimab 240 mg on day 1 and nabpaclitaxel 125 mg/m2 on days 1, 8, and 15 every 3 weeks. All patients received treatment until disease progression, unacceptable toxicity, consent withdrawal, investigator’s decision, or study completion. To manage adverse events (AEs), dose interruptions or reductions of chemotherapy were permitted; dose reescalation was not permitted. As for toripalimab, dose reduction was not allowed. Detailed guidelines for dose interruption and reduction are available in the protocol. Patients underwent deﬁnitive surgery within 6 weeks after the last cycle of the NAT. Adjuvant therapy was administered as per local guidelines or institutional standards at the time of the study. 
+
+expression in ≥10% based on IHC.15 The PD-L1 22C3 pharmDx assay was utilized to assess tumor PD-L1 expression. Efﬁcacy according to PD-L1 expression was explored using CPS cutoffs of 1 and 10. The percentage of sTILs was calculated in accordance with the recommendations by International TILs Working Group 2014. Tumors were dichotomized into ≥60% and <60% of sTILs.16 Patients were invited for a second core biopsy after completing four cycles of NAC, scheduled 1 week before the ﬁfth cycle of neoadjuvant treatment (biopsy 2). The dynamic biomarker changes of CD8, Ki-67, FOXC1 and AR were evaluated by comparison of baseline and post EC*4 biopsies (biopsy 2 compared to biopsy 1). Both tumor and blood DNA were sequenced following targeted capture of a panel of 511 breast cancer-speciﬁc genes to detect somatic and germline mutations, as previously reported.17 The residual cancer burden (RCB) index was determined from the primary tumor dimensions, tumor bed cellularity, and axillary lymph nodal burden. The RCB in individual samples was assigned into the following four classes: RCB-0 (no residual disease [RD]), RCB-I (minimal RD), RCB-II (moderate RD), and RCB-III (extensive RD). Cutoff points of 0, 1.36, and 3.28 deﬁned the RCB-0–III subgroups with increasingly poor prognosis.18 The histologic response to study treatment was also assessed using the Miller and Payne grading system with a ﬁve-point scale, which mainly considers the principal manifestation of a reduction in tumor cellularity.19 
+
+Clinical response evaluation The clinical response of the breast and node lesions were routinely assessed based on caliper and magnetic resonance imaging (MRI) measurements every 4 weeks for the ﬁrst 8 weeks and every 6 weeks thereafter according to Response Evaluation Criteria in Solid Tumors (RECIST version 1.1). Ultrasound was not mandatory. The imaging assessments were performed independently by two radiologists; when the results were discordant, the radiologists came to agreement after a discussion. 
+
+Pathological assessment and laboratory examination Tissue from the baseline core biopsy (biopsy 1) were used for histological conﬁrmation of the triple negativity and determination of Ki-67, FOXC1 (Cambridge, United Kingdom; Abcam), Androgen receptor (AR; Cambridge, United Kingdom; Abcam), CD8 (Basel, Switzerland; F. Hoffmann-La Roche), PD-L1 (Santa Clara, United States; Dako, Agilent Technologies), and stromal tumorinﬁltrating lymphocytes (sTILs). The cutoff value for ER/PgR positivity was set at 1% of the tumor cells with positive nuclear staining. HER2-negative status was deﬁned based on the guidelines published in 2013 for HER2 testing in patients with breast cancer.13 CD8-high disease was deﬁned as intratumoral CD8 lymphocytes 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Outcomes The primary endpoint was a total pCR (tpCR) rate conﬁrmed by local pathological evaluation, deﬁned as the absence of invasive cancer cells in the breast and axilla (ypT0/is ypN0). Secondary endpoints included breast pCR (bpCR, ypT0/is) rate, objective response rate (ORR) per RECIST 1.1 (deﬁned as the proportion of patients with a complete response [CR] or partial response [PR] as per MRI ﬁndings), breast conservative surgery rate, immune-related tissue biomarkers, EFS (deﬁned as the time from the date of the ﬁrst study dose to any of the following events: progression of disease that precludes surgery, local or distant recurrence, second primary malignancy [breast or other cancers] or death due to any cause). Safety was assessed among all patients who had received at least one dose of the study medication. AEs were recorded at the time of every patient visit and assessed according to the National Cancer Institute Common Terminology Criteria for Adverse Events (version 5.0). 
+
+Statistics This study used Simon’s two-stage design.20 The null hypothesis of pCR rate with standard chemotherapy was ≤25%, and the alternative hypothesis was ≥40%. The power and one-sided alpha were set at 80% and 5%, 
+
+3 
+
+Articles 
+
+respectively. The study design required 25 patients to be enrolled in the stage I trial; if six or fewer patients achieved a pCR, the study would end. If ≥ 7 patients achieved a pCR, the study would extend to stage II and enroll an additional 38 patients. The null hypothesis would be rejected if a pCR was observed in ≥22 of 63 patients. Assuming a dropout rate of 10%, 70 patients were required. Efﬁcacy endpoints were evaluated in the full analysis set (FAS), including all eligible patients who received at least one dose of the study treatment according to the intention-to-treat principle. Safety was analyzed in all patients who had received at least one dose of the study medication. A clinical ORR was reported for patients who underwent MRI examination at baseline and thereafter every two cycles of NAT. Tumor response endpoints are presented as the proportion and two-sided 95% conﬁdence intervals (95% CI) according to the Clopper–Pearson exact method. The Chan-Zhang (Exact) method was used to construct exact conﬁdence intervals for the differences of binomial proportions of pCR between groups. Paired t-tests were used to compare the differences of CD8, Ki-67, FOXC1, and AR between the same patient’s baseline and after EC*4 chemotherapy specimens. The Spearman’s tests or Fisher’s exact tests were applied to examine whether the pCR rate differed by different clinicopathologic factors. Subgroups were analyzed by age (>40 vs. ≤40 years), baseline clinical tumor stage (cT3–4 vs. cT2), baseline clinical lymph node stage (positive vs. negative), Ki-67 index (>50% vs. ≤50%) and CD8+ lymphocytes inﬁltration (≥10% vs. <10%). The Spearman correlation test was used to examine the correlation between MP grade or RCB index and the level of CD8, Ki67, FOXC1, AR, sTILs, and PD-L1. All the analyses were performed with STATA Statistics SE 15.1 (Stata Corp LP, College Station, TX, USA) and GraphPad Prism8 software (version 8.4 0). 
+
+are presented in Table 1. Brieﬂy, the median age was 51 (range, 23–70) years, and most patients were postmenopausal (42, 60.0%); 27 (38.6%) patients were cT3–4; 44 (62.9%) patients had AJCC stage III breast cancer at diagnosis. Baseline node involvement was identiﬁed in 65 (92.9%) patients, of which 51 (72.9%) were pathologically conﬁrmed. In this study, 50 (71.4%) patients were determined as high CD8+ lymphocytes inﬁltration (CD8≥10%), 66 (94.3%) patients completed assigned study treatment, and all 70 patients proceeded to surgery (Fig. 1). Disease progression while on neoadjuvant treatment was 
+
+Characteristic 
+
+All patients (n = 70) 
+
+Median age, years 
+
+51 (23–70) 
+
+Age group, years ≤40 
+
+22 (31.4) 
+
+>40 
+
+48 (68.6) 
+
+Menopausal status Premenopausal 
+
+28 (40.0) 
+
+Postmenopausal 
+
+42 (60.0) 
+
+ECOG performance status 0 
+
+60 (85.7) 
+
+1 
+
+10 (14.3) 
+
+Tumor stage T2 
+
+43 (61.4) 
+
+T3–4 
+
+27 (38.6) 
+
+Clinical nodal status Negative 
+
+5 (7.1) 
+
+Positive 
+
+65 (92.9) 
+
+Clinical stage Stage II 4 (5.7) 
+
+Stage IIB 
+
+22 (31.4) 
+
+Stage III Stage IIIA 
+
+Role of the funding source The funding source had no role in the study design, data collection, data analysis, interpretation of data, or writing of the report. The report was prepared by the corresponding author with input from all coauthors and with no editorial assistance from medical writers. All authors have access to the raw data, and the corresponding author had the ﬁnal responsibility to submit for publication. 
+
+Stage IIA 
+
+29 (41.4) 
+
+Stage IIIB 
+
+4 (5.7) 
+
+Stage IIIC 
+
+11 (15.7) 
+
+Tumor grade G2 
+
+11 (15.7) 
+
+G3 
+
+59 (84.3) 
+
+Ki-67 expression ≤50% 
+
+28 (40.0) 
+
+>50% 
+
+42 (60.0) 
+
+CD8 expression <10% 
+
+20 (28.6) 
+
+≥10% 
+
+50 (71.4) 
+
+HER2 status score 
+
+4 
+
+Results 
+
+0 
+
+23 (32.9) 
+
+Patient characteristics 
+
+1+ 
+
+29 (41.4) 
+
+Between June 9, 2020, and March 24, 2022, 70 patients with TNBC were enrolled in this study. All the patients received at least one dose of the study treatment and were included in the FAS and safety analysis population. The baseline demographic and disease characteristics 
+
+2+ 
+
+18 (25.7) 
+
+Abbreviations: ECOG, Eastern Cooperative Oncology Group; CD8, cluster of differentiation 8; HER2, human epidermal growth factor receptor 2. 
+
+Table 1: Baseline patient characteristics. 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Articles 
+
+Fig. 1: CONSORT Flow chart of participants. All patients enrolled (n = 70) were included in the efﬁcacy analyses. All patients who had received at least one dose of the study medication (n = 70) were evaluated for safety. 
+
+documented in one patient each on the epirubicincyclophosphamide regimen and in the immunotherapy stage. 
+
+Efﬁcacy In the ﬁrst stage, a tpCR was achieved in 12/25 patients (48.0%), and the trial continued to full accrual. Overall, 39 (55.7%, 95% CI 43.3–67.6) patients achieved tpCR, and 41 (58.6%, 95% CI 46.2–70.2) patients achieved bpCR (Table 2). Exploratory subgroup analyses for tpCR are shown in Fig. 2. Patients with baseline high inﬁltration of CD8+ lymphocytes and high Ki-67 index experienced higher tpCR rates. The proportions of RCB-0/I and grade 5 in the MP system were 65.7% and 58.6%, respectively. After completing the study treatment, 18.6% and 74.3% of patients achieved a CR and PR, respectively, for an ORR of 92.9% in the FAS population. 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Nine (12.9%) patients underwent combined breastconserving surgery with axillary dissection, nine (12.9%) had breast-conserving surgery with sentinel lymph node biopsy, and 16 (22.9%) underwent mastectomy and immediate reconstruction with autologous ﬂap, expander, or implant. Of the 58 patients initially candidate to mastectomy, six underwent breast conservative surgery. As of the data cutoff date of July 30, 2023, EFS was immature, with six (8.5%) events recorded. 
+
+Safety and toxicity The safety proﬁle is listed in Table 3. Grade 3–4 treatment-related AEs (TRAEs) occurred in 16 (22.9%) patients; the most common were neutropenia (12, 17.1%), leukopenia (11, 15.7%), alanine aminotransferase increased (4, 5.7%) and fatigue (3, 4.3%). Grade 2 peripheral sensory neuropathy (4, 5.7%) was deemed to 
+
+5 
+
+Articles 
+
+Efﬁcacy endpoint 
+
+N (%) 
+
+95% CI (%) 
+
+tpCR(ypT0/is,ypN0) 
+
+39 (55.7) 
+
+43.3–67.6 
+
+bpCR(ypT0/is) 
+
+41 (58.6) 
+
+46.2–70.2 
+
+MP score 2 
+
+9 (12.9) 
+
+6.1–23.0 
+
+MP score 3 
+
+12 (17.1) 
+
+9.1–28.0 
+
+MP score 4 
+
+8 (11.4) 
+
+5.1–21.3 
+
+MP score 5 
+
+41 (58.6) 
+
+46.2–70.2 
+
+RCB class 0–I 
+
+46 (65.7) 
+
+53.4–76.7 
+
+RCB class II 
+
+20 (28.6) 
+
+18.4–40.6 
+
+RCB class III 
+
+4 (5.7) 
+
+1.6–14.0 
+
+65 (92.9) 
+
+84.1–97.6 
+
+Complete response 
+
+13 (18.6) 
+
+10.3–29.7 
+
+Partial response 
+
+52 (74.3) 
+
+62.4–84.0 
+
+Complete or partial response 
+
+65 (92.9) 
+
+84.1–97.6 
+
+Stable disease 
+
+3 (4.3) 
+
+0.9–12.0 
+
+Miller–Payne (MP) grades 
+
+Residual cancer burden (RCB) class 
+
+Objective response by MRI 
+
+Progression disease 
+
+2 (2.9) 
+
+0.3–9.9 
+
+Breast conserving surgery 
+
+18 (25.7) 
+
+16.3–37.8 
+
+Abbreviations: tpCR, total pathological complete response; bpCR, breast pathological complete response; CI, conﬁdence interval; MRI: Magnetic resonance imaging. 
+
+Table 2: Response endpoints for the entire cohort (N = 70). 
+
+be nab-paclitaxel-related. Eight (11.4%) patients had potentially immune-related AEs (irAEs) associated with toripalimab; the most common were hypothyroidism 
+
+Subgroups 
+
+No. of patients with response/ No. of patients (%) 
+
+(5, 7.1%, all grade 1–2), increased aminotransferase levels (3, 4.3%, grade 3), and increased creatinine levels (1, 1.4%, all grade 2). One (1.4%) patient discontinued study treatment due to infective phlebitis. No treatment-related deaths occurred. Dose reduction occurred in 14 (20.0%) patients, of which 10 (14.3%) occurred during the use of anthracycline and seven (10.0%) during treatment with toripalimab combined with nab-paclitaxel. NAC was delayed in four (5.7%) patients due to increased aminotransferase levels (2, 2.9%), rash (1, 1.4%), and fever (1, 1.4%). 
+
+Biomarker analysis A major focus of the NeoTENNIS trial was to explore whether induction chemotherapy could stimulate anticancer immune responses. In total, 30 patients received core needle biopsy both at baseline (biopsy 1) and after completing four cycles of epirubicin-cyclophosphamide chemotherapy (biopsy 2). Seven of the second biopsy samples were found to contain no residual tumor tissue upon pathological evaluation. Among the 23 paired samples, we observed a statistically signiﬁcant upregulation of CD8+ lymphocyte inﬁltration after completing four cycles of epirubicin-cyclophosphamide (Δ = 0.12, 95% CI 0.03–0.21, P = 0.0108; Fig. 3A). The proportion of patients demonstrating CD8+ T-cell inﬁltration after chemotherapy were similar in both groups (tpCR: 5/8, 62.5%; non-tpCR: 10/15, 66.7%; Fig. 3B and C). 
+
+tpCR (95% CI) 
+
+39/70 (55.7) 
+
+43.3 - 67.6 
+
+yr 
+
+10/22 (45.5) 
+
+24.4 - 67.8 
+
+> 40 yr 
+
+29/48 (60.4) 
+
+45.3 - 74.2 
+
+T2 
+
+25/43 (58.1) 
+
+42.1 - 72.0 
+
+T3-4 
+
+14/27 (51.9) 
+
+31.9 - 71.3 
+
+Negative 
+
+3/5 (60.0) 
+
+14.8 - 94.7 
+
+Positive 
+
+36/65 (55.4) 
+
+42.5 - 67.7 
+
+11/28 (39.3) 
+
+21.5 - 59.4 
+
+28/42 (66.7) 
+
+50.5 - 80.4 
+
+Overall Age 
+
+Tumor size 
+
+Nodal status 
+
+Ki67 
+
+> 50% CD8 level < 10% 
+
+6/20 (30.0) 
+
+11.9 - 54.3 
+
+33/50 (66.0) 
+
+51.2 - 78.8 
+
+Fig. 2: Subgroup analysis of difference in percentages of patients with a total pathological complete response (ypT0/Tis ypN0). Abbreviations: tpCR, total pathological complete response; CI: conﬁdence interval. 
+
+6 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Articles 
+
+All patients (n = 70) Any Grade 
+
+Grade 1–2 
+
+Grade 3 
+
+Grade 4 
+
+Grade 5 
+
+70 (100.0) 
+
+54 (77.1) 
+
+11 (15.7) 
+
+5 (7.1) 
+
+0 
+
+Leukopenia 
+
+60 (85.7) 
+
+49 (70.0) 
+
+8 (11.4) 
+
+3 (4.3) 
+
+0 
+
+Neutropenia 
+
+44 (62.9) 
+
+32 (45.7) 
+
+7 (10.0) 
+
+5 (7.1) 
+
+0 
+
+Febrile neutropenia 
+
+2 (2.9) 
+
+0 
+
+2 (2.9) 
+
+0 
+
+0 
+
+Anemia 
+
+64 (91.4) 
+
+63 (90.0) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+Thrombocytopenia 
+
+24 (34.3) 
+
+22 (31.4) 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+Nausea 
+
+9 (12.9) 
+
+9 (12.9) 
+
+0 
+
+0 
+
+0 
+
+Vomiting 
+
+8 (11.4) 
+
+8 (11.4) 
+
+0 
+
+0 
+
+0 
+
+Abdominal pain 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+Diarrhea 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+Any Blood and lymphatic system disorders 
+
+Gastrointestinal disorders 
+
+Abdominal distension 
+
+3 (4.3) 
+
+3 (4.3) 
+
+0 
+
+0 
+
+0 
+
+Constipation 
+
+3 (4.3) 
+
+3 (4.3) 
+
+0 
+
+0 
+
+0 
+
+Mucositis 
+
+2 (2.9) 
+
+2 (2.9) 
+
+0 
+
+0 
+
+0 
+
+Elevated alanine aminotransferase activity 
+
+24 (34.3) 
+
+20 (28.6) 
+
+4 (5.7) 
+
+0 
+
+0 
+
+Elevated aspartate aminotransferase activity 
+
+22 (31.4) 
+
+20 (28.6) 
+
+2 (2.9) 
+
+0 
+
+0 
+
+Elevated blood bilirubin levels 
+
+3 (4.3) 
+
+3 (4.3) 
+
+0 
+
+0 
+
+0 
+
+6 (8.6) 
+
+6 (8.6) 
+
+0 
+
+0 
+
+0 
+
+5 (7.1) 
+
+5 (7.1) 
+
+0 
+
+0 
+
+0 
+
+12 (17.1) 
+
+12 (17.1) 
+
+0 
+
+0 
+
+0 
+
+11 (15.7) 
+
+11 (15.7) 
+
+0 
+
+0 
+
+0 
+
+3 (4.3) 
+
+3 (4.3) 
+
+0 
+
+0 
+
+0 
+
+Paronychia 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+Phlebitis infective 
+
+1 (1.4) 
+
+0 
+
+1 (1.4) 
+
+0 
+
+0 
+
+Tracheitis 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+Alopecia 
+
+70 (100.0) 
+
+70 (100.0) 
+
+0 
+
+0 
+
+0 
+
+Fatigue 
+
+23 (32.9) 
+
+20 (28.6) 
+
+3 (4.3) 
+
+0 
+
+0 
+
+Fever 
+
+4 (5.7) 
+
+4 (5.7) 
+
+0 
+
+0 
+
+0 
+
+Edema 
+
+3 (4.3) 
+
+3 (4.3) 
+
+0 
+
+0 
+
+0 
+
+Hypoalbuminemia 
+
+16 (22.9) 
+
+16 (22.9) 
+
+0 
+
+0 
+
+0 
+
+Hypokalemia 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+Elevated alanine aminotransferase activity 
+
+3 (4.3) 
+
+0 
+
+3 (4.3) 
+
+0 
+
+0 
+
+Elevated aspartate aminotransferase activity 
+
+2 (2.9) 
+
+0 
+
+2 (2.9) 
+
+0 
+
+0 
+
+Elevated creatinine levels 
+
+1 (1.4) 
+
+1 (1.4) 
+
+0 
+
+0 
+
+0 
+
+Hypothyroidism 
+
+5 (7.1) 
+
+5 (7.1) 
+
+0 
+
+0 
+
+0 
+
+Hepatobiliary disorders 
+
+Renal and urinary disorders Elevated creatinine levels Endocrine disorders Hypothyroidism Nervous system disorders Peripheral sensory neuropathy Skin and subcutaneous tissue disorders Rash Respiratory, thoracic, and mediastinal disorders Cough Infections and infestations 
+
+Cardiac disorders Palpitations General disorders 
+
+Potential immune-related AEs 
+
+Abbreviation: AE, adverse effect. 
+
+Table 3: Treatment-related adverse events. 
+
+www.thelancet.com Vol 74 August, 2024 
+
+7 
+
+Articles 
+
+60 40 20 
+
+60 40 20 
+
+D 100% ** 
+
+CD8 high 
+
+** 
+
+CD8 low 
+
+80% 60% 40% 
+
+40 20 0 
+
+E 
+
+R tp 
+
+C 
+
+bp C R 
+
+tp 
+
+Response Rate 
+
+sTILs low 
+
+40% 
+
+0 
+
+* 
+
+* 
+
+sTILs high 
+
+60% 
+
+0 
+
+100% 
+
+* 
+
+80% 
+
+20% 
+
+F 
+
+* 
+
+100% 
+
+20% 
+
+C R 
+
+Response Rate 
+
+60 
+
+0 
+
+Response Rate 
+
+0 
+
+non-tpCR 80 
+
+CD8 level (%) 
+
+80 CD8 level (%) 
+
+CD8 level (%) 
+
+80 
+
+C 
+
+tpCR 
+
+C R 
+
+B 
+
+All 
+
+bp 
+
+A 
+
+Ki-67 low Ki-67 high 
+
+80% 60% 40% 20% 
+
+bp C R 
+
+tp C 
+
+R 
+
+0 
+
+Fig. 3: Comparison of biomarkers and response rates. Comparison of CD8-positive cell proportions before and after four cycles of epirubicincyclophosphamide (EC) chemotherapy in (A) 23 patients with paired core needle biopsy specimen, (B) tpCR group, and (C) non-tpCR group. The rates of tpCR (ypT0/is ypN0) and bpCR (ypT0/is) compared by (D) CD8 status, (E) sTILs and (F) Ki-67 level in the NeoTENNIS cohort. Error bars represent 95% CIs. *P < 0.05; **P < 0.01. Abbreviations: ns, not signiﬁcant. BLIS, basal-like immune-suppressed; IM, immunomodulatory; LAR, luminal androgen receptor; sTlLs, stromal tumor-inﬁltrating lymphocytes. tpCR, total pathological complete response; bpCR, breast pathological complete response; TNBC, triple-negative breast cancer. 
+
+Furthermore, the Ki-67 index and expression of FOXC1 were both signiﬁcantly downregulated after four cycles of epirubicin-cyclophosphamide chemotherapy (Δ = −0.28, 95% CI −0.38 to −0.17, P < 0.0001 and Δ = −0.07, 95% CI −0.13 to −0.00, P = 0.0399, respectively; Supplementary Figure S1A and B). However, no signiﬁcant changes were observed regarding AR expression from baseline to the completion of four cycles of induction therapy (Supplementary Figure S1C). We conducted clinical and genomic analyses to explore biomarkers to predict therapy response. First, we compared the baseline CD8 IHC score between patients with and without a tpCR; patients with high 
+
+8 
+
+inﬁltration of CD8+ lymphocytes could more easily achieve a tpCR (66.0% [33/50] vs. 30.0% [6/20], estimated treatment difference, 36.0 percentage points [95% CI 5.2–57.8]; Fig. 3D). Patients with high sTILs experienced a signiﬁcantly higher tpCR rate than did those with low sTILs (84.6% [11/13] vs. 44.0% [11/25], estimated difference: 40.6 percentage points [95% CI 3.1–65.3]; Fig. 3E). Additionally, higher tpCR rates were also observed in patients with a high Ki-67 index (66.7% [28/42] vs. 39.3% [11/28], estimated difference: 27.4 percentage points [95% CI 2.4–49.6]; Fig. 3F). No statistically signiﬁcant differences were observed regarding tpCR between subgroups by PD-L1, FOXC1, HER2, AR 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Articles 
+
+expression, and Ki67 (Supplementary Figure S2). We then used an FUSCC next-generation sequencing panel to call somatic mutations. Overall, no statistically signiﬁcant differences were observed regarding tpCR between subgroups by gBRCA, PIK3CA, and TP53 statuses (Supplementary Figure S3). Regarding MP grade and RCB, CD8+ inﬁltration (Spearman’s rho = 0.401, 95% CI 0.197–0.605), Ki-67 index (Spearman’s rho = 0.424, 95% CI 0.230–0.618), and sTILs (Spearman’s rho = 0.475, 95% CI 0.227–0.722) were positively correlated with MP grade. There was no signiﬁcant association between FOXC1 and AR with MP grade (Supplementary Figure S4). By contrast, CD8+ inﬁltration (Spearman’s rho = −0.327, 95% CI −0.529 to −0.088), Ki-67 index (Spearman’s rho = −0.412, 95% CI −0.594 to −0.189) and sTILs (Spearman’s rho = −0.493, 95% CI −0.710 to −0.192) inversely correlated with RCB. However, no signiﬁcant association between FOXC1 and AR with RCB was observed (Supplementary Figure S5). 
+
+Discussion 
+
+This study is the ﬁrst and largest clinical trial to substantiate that de-escalation of anti-PD-1 antibody plus platinum-free chemotherapy is an efﬁcacious and safe option for early TNBC in the neoadjuvant setting. The addition of toripalimab to NAC provided a high tpCR rate (55.7%) and manageable toxicity. These results are particularly impressive considering the risk proﬁle of the patient population (62.9% had stage III disease), and the exclusive use of ICIs as neoadjuvant therapy for 12 weeks. Immunotherapy has changed the landscape of treatment options in the neoadjuvant therapy of early TNBC, the optimal duration of neoadjuvant immunotherapy remains to be explored. Treatment with ICIs is associated with permanent life-threatening irAEs. Although serious irAEs are generally rare, the unpredictable nature of irAEs presents a challenge, particularly in the early-stage setting, where some patients will be cured with standard chemotherapy alone. These potential lifelong toxicities highlight the need to focus immunotherapy among patients who will receive the greatest beneﬁt while minimizing exposure. Our results have prompted discussions regarding the optimal therapeutic strategy in early TNBC. Both of the phase III trials evaluating ICIs in TNBC as part of NAC have integrated immunotherapy starting with the ﬁrst dose of chemotherapy, with a full treatment course of 20–24 weeks.5,6 In this study, ICIs treatment duration de-escalation to 12 weeks can provide an encouraging tpCR rate (55.7%), with substantially improved tolerability. The addition of toripalimab to anthracycline/taxane chemotherapy resulted in grade 3 or above TRAEs in 22.9% of patients, a lower rate than that reported in previous 
+
+www.thelancet.com Vol 74 August, 2024 
+
+phase III neoadjuvant clinical trials.5,6,21 The incidence of irAEs was low (11.4% in NeoTENNIS compared to 33.5% in KEYNOTE-522), which is primarily driven by increased aminotransferase levels and low-grade hypothyroidism. Treatment discontinuation due to TRAEs occurred in one (1.4%; compared with 27.7% in KEYNOTE-522) patient, and no death occurred. Based on the above data regarding the controllable AEs and the extensive inclusion criteria in this study, the combination therapy is expected to be feasible and safe in early TNBC patients; however, this notion needs to be further validated in future clinical trials. Notably, the extent of long-term survival beneﬁts associated with the inclusion of a full course of ICIs in NAC tended to be lower in vulnerable patients who may be more prone to AEs (e.g., those aged ≥65 years with an ECOG PS of 1).22 Our de-escalated regimen may particularly provide a better beneﬁt-to-risk proﬁle in this patient population. Currently, no global standard exists for NAT for early-stage TNBC. Platinum agents have been added to anthracycline- and taxane-based neoadjuvant therapy for TNBC, with reported increases in pCR rates of approximately 16%23; nevertheless, uncertainties in associated long-term outcomes and increased toxicity remain.24,25 Unlike the KEYNOTE-522 trial, our study adopted a platinum-free chemotherapy backbone including anthracycline/cyclophosphamide (EC) and nabpaclitaxel to minimize chemotherapy toxicity. Although cross-trial comparisons have limitations, they can aid in elucidating the differences between treatments and cohorts. Despite the difference in the chemotherapy backbone and duration of ICIs, a comparable pCR rate was observed between the two trials (64.8% in KEYNOTE-552 vs. 55.7% in NeoTENNIS). These results are particularly impressive considering a much higher proportion of patients with conventionally deﬁned highrisk disease enrolled in our study (25% stage III patients in KEYNOTE-522 compared to 62.9% stage III patients in NeoTENNIS). The NeoTENNIS study contributes to the existing body of knowledge on combining ICIs with platinum-free anthracycline/nab-paclitaxel based chemotherapy regimens.6,26,27 It provides a potential treatment option for patients who are contraindicated for platinum-containing chemotherapy. KEYNOTE-522 and IMpassion031 consistently indicated that patients with a lower tumor burden might derive greater beneﬁts from ICIs. KEYNOTE-522 reported a pCR of 70.2% in patients with T1-2 disease versus 50% for those with T3-4 disease, and IMpassion031 reported a pCR rate of 62% for stage II patients versus 45% for stage III patients. By contrast, our study found that patients with T2 and T3-4 disease beneﬁted similarly from ICIs (58.1% for T2 vs. 51.9% for T3–4), highlighting a variance that may be attributed to the smaller sample size of the NeoTENNIS trial and the possibility of chance ﬁndings in subgroup analyses. 
+
+9 
+
+Articles 
+
+Furthermore, differences in the sequence of taxane and anthracycline administration in our study compared to the others could account for these discrepancies. We hypothesized that administering four cycles of anthracycline therapy before immunotherapy may enhance sensitivity in patients with T3-4 stage disease, who may experience more profound immune exhaustion or suppression due to a higher disease burden. As we recruited more patients at advanced stages, the proportion of patients with stage T2 patients in our study was relatively small. These patients may achieve pCR with chemotherapy alone and have been summed into the ICI’s effects in studies that apply ICIs and chemotherapy concurrently. However, this hypothesis remains speculative, as our study is small and has a single-arm design. Ongoing translational research aims to elucidate the role of induction therapy further. Numerous clinical trials have been conducted or are currently underway to explore methods of enhancing sensitivity in patients receiving immunotherapy. These methods include the administration of low-dose chemotherapy agents such as cisplatin and cyclophosphamide, as well as irradiation. Notably, the GeparNuevo study observed that patients treated with durvalumab alone two weeks prior to chemotherapy exhibited a statistically signiﬁcant increase in the pathological complete response (pCR) rate compared to those who received a placebo.26 Findings from the TONIC trial showed that priming tumors with cisplatin or doxorubicin in the treatment of metastatic TNBC patients can enhance response rates to anti-PD-1 therapy and the upregulate immune-related genes.11 They also found doxorubicin priming had the highest ORR rate (35%, n = 17) compared to cisplatin (23%, n = 13), cyclophosphamide (8%, n = 12), or irradiation (8%, n = 12). Speciﬁcally, our ﬁndings observed an increase in CD8+ lymphocytes inﬁltration after epirubicincyclophosphamide chemotherapy. This result aligns with those reported in the neoadjuvant treatment of luminal B-like breast cancer.28 In addition, through tissue spatial expression analysis of paired biopsies before and after anthracycline priming, we observed upregulation of tumor MHC-II expression after chemotherapy. This upregulation could induce the inﬁltration of IL7R+CD4+ resident memory T cells which could subsequently predict the response of ICI treatment (unpublished data). The data suggest that anthracyclines modulate the immune microenvironment by encouraging the migration of lymphocytes from the stroma into the tumor cell nests, which could optimize the effectiveness of immunotherapy. However, our preliminary results require further conﬁrmation through a well-designed study involving a control group and larger population. Identifying biomarkers to predict which patients could derive the most beneﬁt from immunotherapy is crucial. The results from the KEYNOTE-522 and 
+
+10 
+
+IMpassion031 trials both showed that the augmentation of pCR with ICIs was consistent regardless of PD-L1 status. Notably, there was an apparent increase in pCR rate upon adding ICIs to chemotherapy regimen in patients with PD-L1-positive versus PD-L1-negative tumors (68.9% vs. 45.3% in KEYNOTE-522 and 69% vs. 48% in IMpassion031). This ﬁnding differs from the observations in NeoTENNIS, in which the tpCR rate was marginally higher in patients with PD-L1-positive disease compared to those with PD-L1-negative disease (68% vs. 57%). Such inconsistencies could have been due to the variations in therapeutic agents, pathways of inhibition, or a combination of these factors. However, only 38 patients underwent the PD-L1 test at baseline in our study, limiting data interpretation. Interestingly, our results demonstrated a signiﬁcant correlation between high baseline inﬁltration of CD8+ lymphocytes and a higher rate of tpCR (33 of 50 [66.0%] vs. 6 of 20 [30.0%], P = 0.006). This result is further supported by a recent meta-analysis, which found that CD8+ T cells could predict treatment outcomes in patients undergoing immunotherapy across various cancers types.29 Importantly, we opted to assess CD8 levels through routine immunohistochemistry and using commercially available antibodies. This provided an easier methodology to quantify immune cells in solid tumors compared that of expensive genomic assays. Our study has several limitations. First, this was a single group study, and we did not perform a randomized controlled clinical trial to evaluate the addition of neoadjuvant toripalimab. Second, although we observed an increase in CD8+ lymphocytes inﬁltration after epirubicin-cyclophosphamide chemotherapy, the small size of the single-arm trial limits the generalizability of the results. Therefore, we cannot deﬁnitely conﬁrm whether the induction of anthracyclines prior to PD-1 blockade can increase the likelihood of response to immunotherapy. Third, given the small number of patients enrolled, this study did not have enough statistical power to draw a deﬁnite conclusion on the predictive role of CD8+ lymphocytes. Last, due to sample collection difﬁculties, our exploratory research can only be applied to a limited number of patients and focused on speciﬁc immune markers. Future work is ongoing to explore a more comprehensive characterization of the tumor microenvironment. The data from this study demonstrated that adding toripalimab to NAT for a short term provided encouraging antitumor activity and a favorable safety proﬁle among patients with TNBC. These preliminary results warrant further evaluation of neoadjuvant toripalimab plus platinum-free chemotherapy as an immunotherapy de-escalation strategy in randomized studies. Follow-up analysis and molecular characterization of the collected tumor and blood specimens used in the NeoTENNIS trial are ongoing and are expected to contribute further insights. 
+
+www.thelancet.com Vol 74 August, 2024 
+
+Articles 
+
+Contributors JW conceived and designed the study. MH, BLY, YZJ and JW were responsible for study methodology. MH, LXM, ZHW, MX, JJC, XXH, QX, YH, RHS, AYC, JJL, GHD, WTY, XH, GYL, KDY, ZHW, ZMS, and JW recruited patients and collected data. MH, LXM, BQX, JYX, YYC, SYW, and JW were responsible for formal analysis. MH, SH, LXM, BQX, and XYL were responsible for data visualization. MH, SH, LXM, BQX, and JW wrote the original draft. MH, SH, LXM, and BQX edited the manuscript. MH, LXM, BLY, and JW were responsible for the project administration. JW was responsible for project supervision and funding acquisition. JW and MH veriﬁed the underlying data. All authors reviewed and approved the ﬁnal version of the submitted report. All authors had full access to the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis as well as the decision to submit for publication. 
+
+9 10 11 
+
+12 13 
+
+Data sharing statement De-identiﬁed patient data will be available upon reasonable request to the corresponding author (via email) after institutional approval and with a signed data access agreement, with no time limits after publication, and with the permission of Fudan University Shanghai Cancer Center. 
+
+14 
+
+Declaration of interests The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest. Funding sources were not involved in the study design, data collection, analysis and interpretation, writing of the report, or decision to submit the article for publication. 
+
+16 
+
+Acknowledgements We thank all the patients and their families for participating in this study. This work was supported by grants from the National Natural Science Foundation of China (82072919). This study is supported by Shanghai Junshi Biosciences Co., Ltd., Shanghai, China and Jiangsu Hengrui Pharmaceuticals Co., Ltd., Shanghai, China. Appendix A. Supplementary data Supplementary data related to this article can be found at https://doi. org/10.1016/j.eclinm.2024.102700. 
+
+References 1 Bianchini G, Balko JM, Mayer IA, et al. Triple-negative breast cancer: challenges and opportunities of a heterogeneous disease. Nat Rev Clin Oncol. 2016;13:674–690. 2 Mougalian SS, Soulos PR, Killelea BK, et al. Use of neoadjuvant chemotherapy for patients with stage I to III breast cancer in the United States. Cancer. 2015;121:2544–2552. 3 Cortazar P, Zhang L, Untch M, et al. Pathological complete response and long-term clinical beneﬁt in breast cancer: the CTNeoBC pooled analysis. Lancet. 2014;384:164–172. 4 Schmid P, Rugo HS, Adams S, et al. Atezolizumab plus nabpaclitaxel as ﬁrst-line treatment for unresectable, locally advanced or metastatic triple-negative breast cancer (IMpassion 130): updated efﬁcacy results from a randomised, double-blind, placebocontrolled, phase 3 trial. Lancet Oncol. 2020;21:44–59. 5 Schmid P, Cortes J, Pusztai L, et al. Pembrolizumab for early triplenegative. Breast Cancer. 2020;382:810–821. 6 Mittendorf EA, Zhang H, Barrios CH, et al. Neoadjuvant atezolizumab in combination with sequential nab-paclitaxel and anthracycline-based chemotherapy versus placebo and chemotherapy in patients with early-stage triple-negative breast cancer (IMpassion 031): a randomised, double-blind, phase 3 trial. Lancet. 2020;396:1090–1100. 7 Apetoh L, Ghiringhelli F, Tesniere A, et al. Toll-like receptor 4dependent contribution of the immune system to anticancer chemotherapy and radiotherapy. Nat Med. 2007;13:1050–1059. 8 Mattarollo SR, Loi S, Duret H, et al. Pivotal role of innate and adaptive immunity in anthracycline chemotherapy of established tumors. Cancer Res. 2011;71:4809–4820. 
+
+www.thelancet.com Vol 74 August, 2024 
+
+15 
+
+17 18 19 
+
+20 21 
+
+22 23 
+
+24 25 26 
+
+27 
+
+28 29 
+
+Sistigu A, Yamazaki T, Vacchelli E, et al. Cancer cell-autonomous contribution of type I interferon signaling to the efﬁcacy of chemotherapy. Nat Med. 2014;20:1301–1309. Casares N, Pequignot MO, Tesniere A, et al. Caspase-dependent immunogenicity of doxorubicin-induced tumor cell death. J Exp Med. 2005;202:1691–1701. Voorwerk L, Slagter M, Horlings HM. Immune induction strategies in metastatic triple-negative breast cancer to enhance the sensitivity to PD-1 blockade: the TONIC trial. Nat Med. 2019;25:920–928. Jiang Z, Ouyang Q, Sun T. Toripalimab plus nab-paclitaxel in metastatic or recurrent triple-negative breast cancer: a randomized phase 3 trial. Nat Med. 2024;30:249–256. Wolff AC, Hammond ME, Hicks DG, et al. Recommendations for human epidermal growth factor receptor 2 testing in breast cancer: American Society of Clinical Oncology/College of American Pathologists clinical practice guideline update. J Clin Oncol. 2013;31:3997–4013. Hammond ME, Hayes DF, Dowsett M, et al. American Society of Clinical Oncology/College of American Pathologists guideline recommendations for immunohistochemical testing of estrogen and progesterone receptors in breast cancer. J Clin Oncol. 2010;28:2784–2795. Zhao S, Ma D, Xiao Y, et al. Molecular subtyping of triple-negative breast cancers by immunohistochemistry: molecular basis and clinical relevance. Oncologist. 2020;25:e1481–e1491. Salgado R, Denkert C, Demaria S, et al. The evaluation of tumorinﬁltrating lymphocytes (TILs) in breast cancer: recommendations by an International TILs Working Group 2014. Ann Oncol. 2015;26:259–271. Lang GT, Jiang YZ, Shi JX, et al. Characterization of the genomic landscape and actionable mutations in Chinese breast cancers by clinical sequencing. Nat Commun. 2020;11:5679. Symmans WF, Peintinger F, Hatzis C, et al. Measurement of residual breast cancer burden to predict survival after neoadjuvant chemotherapy. J Clin Oncol. 2007;25:4414–4422. Ogston KN, Miller ID, Payne S, et al. A new histological grading system to assess response of breast cancers to primary chemotherapy: prognostic signiﬁcance and survival. Breast. 2003;12:320– 327. Koyama T, Chen H. Proper inference from Simon’s two-stage designs. Stat Med. 2008;27:3145–3154. Gianni L, Huang CS, Egle D, et al. Pathologic complete response (pCR) to neoadjuvant treatment with or without atezolizumab in triple-negative, early high-risk and locally advanced breast cancer: NeoTRIP Michelangelo randomized study. Ann Oncol. 2022;33:534–543. Schmid P, Cortes J. Event-free survival with pembrolizumab in early triple-negative. Breast Cancer. 2022;386:556–567. von Minckwitz G, Schneeweiss A, Loibl S, et al. Neoadjuvant carboplatin in patients with triple-negative and HER2-positive early breast cancer (GeparSixto; GBG 66): a randomised phase 2 trial. Lancet Oncol. 2014;15:747–756. Poggio F, Bruzzone M, Ceppi M, et al. Platinum-based neoadjuvant chemotherapy in triple-negative breast cancer: a systematic review and meta-analysis. Ann Oncol. 2018;29:1497–1508. Valsecchi ME, Kimmey G, Bir A, et al. Role of carboplatin in the treatment of triple negative early- stage breast cancer. Rev Recent Clin Trials. 2015;10:101–110. Loibl S, Untch M, Burchardi N, et al. A randomised phase II study investigating durvalumab in addition to an anthracycline taxanebased neoadjuvant therapy in early triple-negative breast cancer: clinical results and biomarker analysis of GeparNuevo study. Ann Oncol. 2019;30:1279–1288. Fasching PA, Hein A, Kolberg HC, et al. Pembrolizumab in combination with nab-paclitaxel for the treatment of patients with early-stage triple-negative breast cancer - a single-arm phase II trial (NeoImmunoboost, AGO-B-041). Eur J Cancer. 2023;184:1–9. Dieci MV, Guarneri V, Tosi A, et al. Neoadjuvant chemotherapy and immunotherapy in luminal B-like breast cancer: results of the phase II GIADA trial. Clin Cancer Res. 2022;28:308–317. Li F, Li C, Cai X, et al. The association between CD8+ tumorinﬁltrating lymphocytes and the clinical outcome of cancer immunotherapy: a systematic review and meta-analysis. eClinicalMedicine. 2021;41:101134. 
+
+11 
+
+ 

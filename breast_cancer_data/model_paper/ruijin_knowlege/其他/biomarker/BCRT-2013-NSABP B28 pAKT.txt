@@ -1,0 +1,625 @@
+Breast Cancer Res Treat (2013) 138:773–781 DOI 10.1007/s10549-013-2489-y 
+
+CLINICAL TRIAL 
+
+Phosphorylation of AKT pathway proteins is not predictive of benefit of taxane therapy in early breast cancer John M. S. Bartlett • Roger A’Hern • Tammy Piper • Ian O. Ellis • Mitch Dowsett • Elizabeth A. Mallon • David A. Cameron • Stephen Johnston • Judith M. Bliss • Paul Ellis • Peter J. Barrett-Lee 
+
+Received: 2 January 2013 / Accepted: 15 March 2013 / Published online: 28 March 2013 Ó Springer Science+Business Media New York 2013 
+
+Abstract Results from the NSABP B-28 trial suggest AKT activation may predict reduced benefit from taxanes following standard anthracycline therapy. Pre-clinical data support a link between PI3 K/AKT signalling and taxane resistance. Using the UK taxotere as adjuvant chemotherapy trial (TACT), we tested the hypothesis that activation of AKT or downstream markers, p70S6K or p90RSK, identifies patients with reduced benefit from taxane chemotherapy. TACT is a multi-centre open-label phase III trial comparing four cycles of standard FEC (fluorouracil, epirubicin, cyclophosphamide) followed by four cycles of docetaxel versus eight cycles of anthracycline-based chemotherapy. Samples from 3,596 patients were available for 
+
+Electronic supplementary material The online version of this article (doi:10.1007/s10549-013-2489-y) contains supplementary material, which is available to authorized users. J. M. S. Bartlett (&) Ontario Institute for Cancer Research, MaRS Centre, South Tower, 101 College Street, Suite 800, Toronto, ON M5G 0A3, Canada e-mail: John.Bartlett@oicr.on.ca J. M. S. Bartlett  T. Piper Endocrine Cancer Group, Edinburgh University Cancer Research Centre, Western General Hospital, Crewe Road South, Edinburgh EH4 2XU, UK R. A’Hern  J. M. Bliss ICR-CTSU Division of Clinical Studies, The Institute of Cancer Research, Sutton, Surrey, UK I. O. Ellis Histopathology Department, Nottingham University Hospitals NHS Trust, Nottingham, UK M. Dowsett Royal Marsden NHS Trust, Fulham Road, London SW3 6JJ, UK 
+
+the current study. We performed immunohistochemical analysis of activation of AKT, p70S6 K and p90RSK. Using a training set with multiple cut-offs for predictive values (10 % increments in expression), we found no evidence for a treatment by marker interaction for pAKT473, pS6 or p90RSK. pAKT473, pS6 and p90RSK expression levels were weakly correlated. A robust, preplanned statistical analysis in the TACT trial found no evidence that pAKT473, pS6 or p90RSK identifies patients deriving reduced benefit from adjuvant docetaxel. This result is consistent with the recent NASBP B28 study where the pAKT473 effect is not statistically significant for the treatment interaction test. Therefore, neither TACT nor NASBP-B28 provides statistically robust evidence of a treatment by marker interaction between pAKT473 and taxane treatment. Alternative methods for selecting patients benefitting from taxanes should be explored. E. A. Mallon Department of Pathology, Western Infirmary, Dumbarton Road, Glasgow G11 6NT, UK D. A. Cameron Edinburgh Cancer Research Centre, Western General Hospital, Lothian University Hospitals Trust, Crewe Road, Edinburgh EH4 2XU, UK S. Johnston Consultant Medical Oncologist, Department of Medicine, Breast Unit, Royal Marsden Hospital, Fulham Road, London SW3 6JJ, UK P. Ellis Consultant Medical Oncologist, Department of Medical Oncology, Guy’s & St Thomas’ NHS Trust, London, UK P. J. Barrett-Lee Academic Breast Unit, Velindre Cancer Center, Velindre NHS Trust, Cardiff CF14 2TL, UK 
+
+123 
+
+774 
+
+Keywords Breast cancer  Taxanes  AKT  Pathology  Biomarkers  Clinical trial 
+
+Introduction Improvements in all aspects of breast cancer management over the last 20 years have resulted in increased survival for women with early breast cancer. However, these incremental improvements in the benefit of adjuvant polychemotherapy require ever-increasing numbers of patients to be treated with consequent toxicity and morbidity [1]. Taxanes are linked to a range of toxicities. Increasingly, there is a focus not only on developing novel effective therapeutic agents but also on identifying predictive biomarkers which are able to identify which patient sub-groups benefit most from such agents. Data from two major taxane trials [2, 3] provide evidence that biomarkers (HER2/ER) may aid selection of patients benefiting from taxane therapy. Recently, data from the NSABP B-28 trial have suggested that activation of AKT, measured by phosphorylation at serine 473, predicts benefit from the administration of paclitaxel chemotherapy after standard anthracycline therapy [4]. The biological rationale for this effect is based on extensive pre-clinical data suggesting that taxanes interact with the phosphatidylinositol 3-kinase (PI-3 K)/Akt pathway to promote cell death (apoptosis) and specifically that AKT activation promotes taxane resistance [5–8]. There are three mammalian isoforms within the AKT/ Protein kinase B family with a high degree of homology. The p308 and p473 serine-phosphorylation sites required for activation of AKT1-3 are conserved across all three isoforms [9]. AKT1 is the predominant isoform in most tissues, AKT2 is associated specifically with insulin-responsive tissues and AKT3 appears to be the predominant isoform in the brain and testis [10]. Gene amplification of AKT1/AKT2 has been identified in some tumour types [11], but is rare in breast cancer [12], whilst AKT3 is amplified in some ER ? ve breast cancers [12]. AKT1 mutations appear to be restricted to ER-positive cancers [13]. The literature relating to the phosphorylation of AKT as a potential biomarker of endocrine, Herceptin and chemotherapy response [14–16] is growing. Taxanes reduce AKT phosphorylation, whilst AKT overexpression reverses effects of taxanes on induction of apoptosis [17] and induces taxane resistance [6, 8, 18]. Downstream of AKT, activation of mTOR may promote taxane resistance via regulation of bcl-2 (apoptosis) and p70S6 K (cell cycle progression) [6, 19]. mTOR activation mediated by taxanes may provide an alternative means of promoting cell survival [8]. Activation of key downstream regulatory pathways, particularly p90RSK or p70S6Kinase, provides methods for assessing mTOR activity [20, 21]. Our own data suggest that phosphorylation of AKT or S6, a target 
+
+123 
+
+Breast Cancer Res Treat (2013) 138:773–781 
+
+of p70S6kinase, assessed by immunohistochemistry may be reliably used to assess activities both up and downstream of mTOR [22, 23]. The UK Taxotere as Adjuvant Chemotherapy Trial (TACT; ISRCTN79718493[2]) investigated whether sequential docetaxel given after anthracycline-containing chemotherapy would improve patient outcome compared with standard anthracycline-containing chemotherapy of similar duration. When the primary endpoint of the trial, which randomised 4162 patients, was reported [2] (median follow-up 62 months), there was no overall benefit from the addition of docetaxel to standard anthracyclinecontaining chemotherapy. We have performed a biomarker analysis within the TACT trial population to test the hypothesis that Akt/mTOR signalling in early breast cancer is associated with resistance to taxane versus anthracyclinebased chemotherapy. We studied activation of pAKT473, pS6 and p90RSK as markers of AKT and mTOR activation. We hypothesised that tumours with activation of AKT or of either p70S6 K or p90RSK would exhibit reduced benefit from taxane chemotherapy. 
+
+Materials and methods Patients and collection of tissue samples TACT is a multi-centre open-label phase III clinical trial comparing four cycles of standard fluorouracil, epirubicin and cyclophosphamide followed by four cycles of docetaxel versus eight cycles of anthracycline-based chemotherapy in women with early breast cancer [2]. Between February 2001 and June 2003, 4,162 patients (aged [18 years) with node-positive or high-risk node-negative operable early breast cancer were randomised into TACT 4124, of whom were from centres within the UK and were approached for consent to collect tissue for research in a prospectively planned programme for translational biomarker evaluation within the TACT trial cohort ‘transTACT’ [2]. Prospective written consent was obtained from 97 % (4,020/4,162) of TACT patients, and 3,623 (88 %) blocks were received of which 3,596 (87 %) blocks were placed onto tissue microarrays (TMAs) and available for the current study. Samples not received (539) included patients from centres not participating in trans-TACT, those with inadequate samples or samples not provided by referring pathologists. Within the TACT trial, data were collected on patient age, tumour histological type, size, grade, stage, number of positive nodes, ER status and progesterone receptor status (PgR; if available), along with clinical disease outcome data. Central HER2 testing was performed according to the UK guidelines [24–27] and results reported previously [28]. The distribution of clinical 
+
+Breast Cancer Res Treat (2013) 138:773–781 
+
+and pathologic characteristics was similar in the TMA subset and in the overall trial population with no statistically significant differences between these sets; 80 % of patients were node positive, 57 % of tumours were grade 3, 69 % were ER positive, median tumour size was 2.5 cm and median patient age was 49 years (Supplementary Table 1). Immunohistochemistry Expression of markers was assessed using triplicate TMAs of FFPE tissues using a previously documented, standard avidin–biotin-peroxidase immunohistochemistry procedure [23]. Staining for each protein was performed as follows: pAKT473 Epitope retrieval was performed using validated methods [23] by microwaving slides under pressure for 4 min in TE buffer (1 mM EDTA and 5 mM Trisma base, pH 8.0). Endogenous peroxidase was blocked in 3 % H202 for 10 min at room temperature. A pAKT473 rabbit monoclonal (Clone 14-5; DAKO, Cambridge, UK) was applied at a 1:10 dilution in antibody diluent (DAKO, UK), incubated at room temperature and visualised with DAB [23]. pS6 and p90RSK Epitope retrieval was performed in 0.1 M Citrate buffer (pH 6.0) at 96 °C for 40 min. Endogenous peroxidase was blocked as described above and for pS6, slides were blocked with 10 % normal goat serum in TBS for 30 min, whilst for p90RSK, slides were blocked with serum-free blocking solution (DAKO, Cambridge UK) for 1 h before incubation with primary antibodies. A polyclonal rabbit pS6 antibody (Cell Signalling Technology) was diluted 1:600 in antibody diluent (DAKO, Cambridge UK) before incubation overnight at 4 °C in a humidified chamber. A polyclonal rabbit p90RSK antibody (Cell Signalling Technology) was diluted 1:100 in antibody diluent (DAKO, Cambridge UK) before incubation overnight at 4 °C in a humidified chamber. Staining was visualised with DAB p90RSK [23]. Immunohistochemistry quality assurance and validation Biomarker analysis was performed in a GCLP-compliant facility and all results are reported in accordance with REMARK criteria [29]. Phosphospecificity of antibody batches used was confirmed by applying a stringent phosphatase treatment. To ensure consistency, all slides were stained with a single batch of antibody and reagents. 
+
+775 
+
+Scoring procedures TMAs were analysed for expression of pS6240/244, p90RSK and pAKT473 by a single trained observer [30]. A second experienced observer (with ICCCs of [0.9) [30] dual scored 10 % of cores (selected randomly). Results are calculated as mean histoscore results (see [30]) across three replicate TMAs. TMA cores with insufficient cells for analysis were excluded. All analyses were performed blinded to any clinical, pathological or outcome data. Statistical analysis Data were analysed at The Institute of Cancer Research Clinical Trials & Statistics Unit (ICR-CTSU), which was responsible for the central trial management and analysis of the TACT trial. The primary clinical endpoint was invasive disease-free survival as previously reported [2]. Patients alive and disease free at last follow-up were censored. Correlation between patient characteristics and biomarkers was examined using Spearman rank correlation and biomarker values were compared between nominal groups using Mann–Whitney tests. For survival-related endpoints, Kaplan–Meier product limit curves were plotted and prognostic/predictive effects examined by use of Cox proportional hazards regression models. Time-to-event analyses were stratified by control regimen and included all patients with available biomarker data on an intention-totreat (ITT) basis. With 850 events, an interaction of 0.7 would be detectable with approximately 80 % power, onesided 5 % significance level if patients were allocated into two approximately equal-sized groups on the basis of biomarker values. A one-sided test was used on the basis that we were attempting to confirm a previously defined hypothesis in a specific direction. Biomarkers were assessed for prognostic and predictive ability using two methods. The first consisted of dividing the study material randomly into equally sized training and test sets and then searching for an optimal dichotomous biomarker-based cut-off associated with taxane benefit within the training set, taken at 10 % intervals across biomarker values. A p value of 0.05 was used to define statistical significance, but estimates of ranges of likely effect sizes (confidence intervals) were also considered relevant. Positive results would be independently tested in the test set. The robustness of observed predictive effects would be assessed in Cox multivariate models with recognised prognostic factors only if predictive effects were detected by univariate analysis. As predictive effects were not demonstrated, exploratory analyses using all samples were undertaken to confirm this observation. The biomarker values were treated as continuous variables employing fractional polynomials [31] to examine whether the assumption of a 
+
+123 
+
+776 
+
+dichotomous predictive effect had obscured a more complex relationship between the biomarker values and taxane benefit. 
+
+Breast Cancer Res Treat (2013) 138:773–781 
+
+expression and other clinical markers were observed, although significant associations with tumour size, nodal status and HER2 status were observed (Table 1). Inter-relationship between markers 
+
+Results Tumour pathology Histoscores measuring tumour expression of pAKT473, pS6 and p90RSK were available for 3,321/3,596 (92.4 %) (pAkt473), 3,304/3,596 (91.9 %) (pS6) and 3,295/3,596 (91.6 %) patients (p90RSK; Table 1). The main reasons for missing data were no tumour in TMA cores, insufficient cells, or folded/lost cores during tissue processing. For brevity, the following proportions of specific tumour types apply to the 3,321 patients with assessable pAKT473 status, which include 98 and 99 % of patients with tumours assessable for pS6 and p90RSK, respectively. Of these, 3,321 tumours, 2,817 (84.8 %) were invasive ductal carcinomas, 301 (9.1 %) were invasive lobular carcinomas, 100 (3.0 %) were mixed invasive ductal/lobular carcinomas and 103 (3.1 %) were other types. For data specific to patient age, nodal status, tumour grade, tumour size, ER status and HER2 status, see Table 1. pAKT473 Expression of pAKT473 was observed in 72 % of cases with a median histoscore of 40 (Interquartile Range (IQR): 0–89). High pAKT473 histoscores were observed more frequently in ER-ve than ER?ve tumours (Median scores 52 and 33 respectively, p \ 0.001); numerically small albeit statistically significant associations were observed with age, grade, nodal status, tumour size and HER2 status (Table 1). pS6-244/246 Expression of pS6 was observed in 71 % of cases with a median histoscore of 12 (IQR: 0–55). High pS6 histoscores were observed more frequently in ER-ve than ER?ve tumours (Median scores 27 and 6 respectively, p \ 0.001), high grade tumours (Rs = 0.21, p \ 0.0001) and HER2positive tumours (p \ 0.001); small but statistically significant associations were observed with age, tumour size and nodal status (Table 1). p90RSK Expression of p90RSK was observed most frequently in 87 % of cases with a median histoscore of 60 (IQR: 17–100). No marked associations between p90RSK 
+
+123 
+
+All three markers were weakly correlated with each other as follows: pAKT473 versus pS6 - Rs = 0.24, pAKT473 versus p90RSK - Rs = 0.36 and pS6 versus p90RSK Rs = 0.20 (Rs = Spearman Rank). All correlations were highly significant (p \ 0.001). Disease-free survival stratification by biomarkers No significant impact on disease-free survival was observed for any biomarker when samples were stratified into quartiles by expression of pAKT473, pS6 or p90RSK (Fig. 1a–c, numbers; 853, 851 and 838, respectively). In addition, no evidence of any relationships between these markers and the outcome were found using multivariable fractional polynomials either on univariable or on multivariable analysis (results not shown). Assessment of predictive impact of biomarkers for docetaxel benefit Assessment of the potential predictive value of biomarkers in a training set using multiple cut-offs for predictive values (10 % increments in expression) identified no cut-off which suggested a treatment by marker interaction for pAKT473, pS6 or p90RSK (Table 2). No formal analysis of the validation set was therefore performed, but these results were confirmed in exploratory analyses relating to the entire dataset (data not shown). Illustrative survival plots with markers dichotomised at the median expression observed in the cohort suggest no predictive value for pAKT473, pS6 or p90RSK (Fig. 2a–c). Treatment interactions by biomarker status (pAKT473, pS6, or p90RSK) were examined in ER?/HER2-ve, HER2?ve and ER-ve/ HER-ve sub-groups (Supplementary Table 2) and none were found to reach statistical significance. 
+
+Discussion In a large phase III clinical trial evaluating the impact of taxanes on outcome in early breast cancer, we demonstrate that pAKT473, pS6 or pRSK are not predictive biomarkers identifying patient sub-groups who derive benefit from adjuvant treatment with docetaxel. In a robust, preplanned statistical analysis of data derived from validated biomarker assays either using a training and validation set approach with multiple cuts offs or using medians as cut- 
+
+301 (9.1) 
+
+40–49 50–59 
+
+C60 
+
+1,456 (43.8) 
+
+1,171 (35.3) 
+
+1–3 
+
+C4 
+
+1223 (37) 
+
+1,898 (57.4) 
+
+Grade 2 
+
+Grade 3 
+
+2,476 (74.6) 
+
+755 (22.7) 
+
+Negative 
+
+Positive 
+
+3,231 
+
+1,047 (31.5) 
+
+Negative 
+
+[5 cm 
+
+3321 2,274 (68.5) 
+
+301 (9.1) 
+
+2–5 cm 
+
+Positive 
+
+1,161 (35) 
+
+1,857 (56) 
+
+\2 cm 
+
+3,319 
+
+188 (5.7) 
+
+Grade 1 
+
+3309 
+
+694 (20.9) 
+
+Node-ve 
+
+3,321 
+
+560 (16.9) 
+
+1,260 (37.9) 1,200 (36.1) 
+
+\40 
+
+3,321 50 (3,92) 
+
+33 (0,83) 
+
+40 (0,90) 
+
+52 (6,100) 
+
+33 (0,82) 
+
+31 (0,82) 
+
+37 (0,90) 
+
+48 (0,90) 
+
+50 (3,95) 
+
+32.5 (0,80) 
+
+25 (0,62) 
+
+33 (0,87) 
+
+40 (0,85) 
+
+50 (5,97) 
+
+38 (0,92) 
+
+40 (0,90) 35 (0,85) 
+
+0.06 
+
+\0.001 
+
+\0.001 
+
+(-0.10–0.03) 
+
+-0.06 
+
+1,894 (57.6) 
+
+\0.001 
+
+759 (23.6) 
+
+2,453 (76.4) 
+
+3,212 
+
+1,038 (31.4) 
+
+3,304 2,266 (68.6) 
+
+303 (9.2) 
+
+1,856 (56.2) 
+
+1,143 (34.6) 
+
+3,302 
+
+1,210 (36.8) 
+
+187 (5.7) 
+
+3,291 (0.08–0.15) 
+
+0.11 
+
+1,448 (43.8) 1,165 (35.3) 
+
+(-0.10–0.03) 
+
+691 (20.9) 
+
+3,304 
+
+297 (9) 
+
+1,255 (38) 1,196 (36.2) 
+
+558 (16.9) 
+
+3,304 
+
+\0.001 
+
+-0.07 
+
+(-0.09–0.02) 0.003 
+
+-0.05 
+
+P 
+
+30 (3,78) 
+
+8 (0,50) 
+
+27 (3,78) 
+
+6 (0,47) 
+
+8 (0,41) 
+
+9 (0,51) 
+
+20 (1,67) 
+
+21 (1,70) 
+
+5 (0,40) 
+
+1 (0,23) 
+
+8 (0,47) 
+
+10 (0,54) 
+
+23 (1,70) 
+
+8 (0,51) 
+
+12 (0,53) 10 (0,56) 
+
+19 (1,60) 
+
+Median (IQ Range) 
+
+\0.001 
+
+\0.001 
+
+\0.001 
+
+(-0.14–0.07) 
+
+-0.10 
+
+\0.001 
+
+(0.17–0.241) 
+
+0.21 
+
+\0.001 
+
+(-0.13–0.06) 
+
+-0.10 
+
+(-0.08–0.01) 0.02 
+
+-0.04 
+
+P 
+
+Rs (95 % CI) 
+
+756 (23.5) 
+
+2447 (76.2) 
+
+3203 
+
+1051 (31.8) 
+
+3295 2244 (67.9) 
+
+296 (9) 
+
+1831 (55.5) 
+
+1166 (35.3) 
+
+3293 
+
+1888 (57.4) 
+
+1207 (36.7) 
+
+188 (5.7) 
+
+3283 
+
+1156 (35) 
+
+1450 (43.9) 
+
+689 (20.9) 
+
+3295 
+
+302 (9.1) 
+
+1246 (37.7) 1189 (36) 
+
+558 (16.9) 
+
+3,295 
+
+N (%) 
+
+p90RSK 
+
+50 (8,98) 
+
+63 (20,103) 
+
+61 (22,103) 
+
+58 (15,100) 
+
+58 (12,100) 
+
+53 (12,100) 
+
+70 (25,110) 
+
+60 (20,100) 
+
+60 (13,100) 
+
+51 (10,100) 
+
+55 (10,100) 
+
+58 (20,100) 
+
+70 (26,107) 
+
+53 (6,102) 
+
+58 (20,100) 60 (18,100) 
+
+64 (15,103) 
+
+Median (IQ Range) 
+
+\0.001 
+
+0.09 
+
+\0.001 
+
+(-0.142–0.072) 
+
+-0.107 
+
+0.44683 
+
+(-0.022–0.049) 
+
+0.014 
+
+\0.001 
+
+(-0.115–0.045) 
+
+-0.08 
+
+(-0.055–0.015) 0.26273 
+
+-0.02 
+
+P 
+
+Rs (95 % CI) 
+
+N number of cases, % = % of cases successfully analysed. IQ range interquartile range for biomarker expression, Rs Spearman Rank regression coefficient, 95 % CI 95 % confidence interval. P p value 
+
+HER2 status 
+
+ER status 
+
+Tumour size 
+
+Tumour grade 
+
+Nodal status 
+
+Age group 
+
+N (%) 
+
+Rs (95 % CI) 
+
+N (%) 
+
+Median (IQ Range) 
+
+pS6 
+
+pAkt473 
+
+Table 1 The relationship between pAkt473, pS6 and p90RSK and patient and tumour characteristics 
+
+Breast Cancer Res Treat (2013) 138:773–781 777 
+
+123 
+
+778 
+
+Breast Cancer Res Treat (2013) 138:773–781 
+
+Fig. 1 Disease-free survival according to biomarker expression: For each biomarker, pAKT473 (panel 1a), pS6 (panel 1b) and p90RSK (panel 1c), expression within the TACT trial cohort was divided into 
+
+quartiles and disease-free survival plotted over time for each quartile. No significant differences were observed between quartiles with respect to disease-free survival for any marker 
+
+Table 2 Results of training/test set analyses for treatment by biomarker interactions 
+
+offs, we found no evidence of an interaction between these biomarkers and response to docetaxel (Table 1, Fig. 2). Our result is consistent with the result, for pAKT473, recently reported in the NASBP B28 study [4]. The NASBP-B28 study reported that in the sub-group of 606 pAKT473-‘positive’ tumours, paclitaxel treatment resulted in a statistically improved disease-free, but not overall, survival relative to patients not treated with paclitaxel. No statistical difference was observed for the sub-group of 975 pAKT473-‘negative’ tumours. However, the treatment interaction test, to determine if these effects truly indicate a differential treatment benefit in the marker-positive versus marker-negative groups, was not statistically significant [4]. Therefore, as with our current study, the NASBP-B28 study did not provide statistically robust evidence of a treatment by marker interaction between pAKT473 and taxane treatment. Although the NSABP B28 study explored the potential of pAKT473 as a predictive biomarker of taxane benefit solely in node-positive breast cancers [4], sensitivity analyses excluding the 21 % of node-negative patients in TACT also failed to identify any interaction between pAKT473, p90RSK or pS6 and possible benefit from docetaxel. In our training set approach, we evaluated multiple cut-offs for pAKT473 in an attempt 
+
+Cut-off at centile 
+
+pAkt 
+
+pS6 
+
+p90RSK 
+
+Training 
+
+Test 
+
+Training 
+
+Test 
+
+Training 
+
+Test 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+10 
+
+NA* 
+
+– 
+
+NA 
+
+– 
+
+0.83 
+
+– 
+
+20 30 
+
+0.63 0.58 
+
+– – 
+
+0.84 0.78 
+
+– – 
+
+0.38 0.88 
+
+– – 
+
+40 
+
+0.6 
+
+– 
+
+0.94 
+
+– 
+
+0.71 
+
+– 
+
+50 
+
+0.37 
+
+– 
+
+0.8 
+
+– 
+
+0.88 
+
+– 
+
+60 
+
+0.99 
+
+– 
+
+0.73 
+
+– 
+
+0.68 
+
+– 
+
+70 
+
+0.91 
+
+– 
+
+0.86 
+
+– 
+
+0.44 
+
+– 
+
+80 
+
+0.3 
+
+– 
+
+0.88 
+
+– 
+
+0.76 
+
+– 
+
+90 
+
+0.31 
+
+– 
+
+0.94 
+
+– 
+
+0.43 
+
+– 
+
+p-values for the significance of the interaction term are shown. The dataset was divided randomly into equal-sized training and test sets and expression cut-offs were analysed using univariate analyses, at each 10 % interval within the training set to identify interactions between docetaxel effect and defined biomarker categories. Any observed interaction (satisfying p \ 0.01) in the training set would have been further tested in the test set; however, no interaction was found to be significant at this level. Exploratory analyses using all samples confirmed the lack of interaction—at any cut-off—for these markers relating to docetaxel benefit 
+
+123 
+
+Breast Cancer Res Treat (2013) 138:773–781 
+
+779 
+
+Fig. 2 Disease-free survival by treatment and biomarker median expression levels: For each biomarker, pAKT473 (panel 1a), pS6 (panel 1b) and p90RSK (panel 1c), expression within the TACT trial cohort was divided by the median expression level (see text) for each 
+
+arm of the trail (control vs FEC-T). No significant treatment by marker interactions was observed for any of the three biomarkers assayed 
+
+to identify an interaction with treatment, including ones almost identical to those used in the NSABP B28 study. Within the NASBP B28 study, exploratory analyses suggested that the putative effect of pAKT473 was confined to ER-negative breast cancers, but was independent of HER2 status [4]. Conversely, with TACT, only the HER2?ve sub-group exhibited a trend towards a significant interaction between pAKT473 expression and taxane benefit (Supplementary Table 2). However, in both studies, these analyses were underpowered and these effects are most likely to result from type II errors. The negative findings of both the TACT and NSABP B-28 studies contrast with pre-clinical evidence linking microtubule function with AKT signalling, in particular via GSK3ß [32–34], and microtubule stabilisation is a key intracellular target of taxanes. However, this does not appear to translate into a clinical test for selecting patients who may benefit from taxane-based chemotherapy in the TACT trial. There are a number of potential explanations 
+
+for this discordance between clinical and pre-clinical observations. Firstly, there is emerging evidence that extremes in fixation procedures may affect preservation of AKT phosphorylation site and compromise the usefulness of this biomarker [35]. If this is the case, then the ability to detect changes in pAKT473 expression across tumour samples may be compromised by the routine fixation process. However, we and others have shown pAKT473 to be a good biomarker of both endocrine resistance and response to mTOR inhibition [22, 23, 36] in formalin-fixed paraffinembedded breast tumour samples. We performed extensive validation of the antibodies used in the current study, confirming the phosphospecificity of the batches of reagents used in this study. Nonetheless, data from Pinhel and others suggest that the impact of routine fixation on resection specimens may introduce ‘noise’ or variation in pAKT473 expression due to variable preservation of this epitope during the fixation process [35]. The impact of 
+
+123 
+
+780 
+
+variations in pAKT473 introduced by fixation might be to obscure weak interactions with treatment; however, we suggest that strong interactions would still be detected using this marker. Similar challenges would also apply to the NSABP B28 study and could also affect other phosphomarkers including p90RSK and pS6. Secondly, the involvement of AKT in taxane resistance is clearly linked to specific signalling events, for example GSK3b [32–34], which were not assessed in the current study. Given the complexity of AKT pathway signalling and the number of different molecular events which can impact this pathway, it is possible that analysis of a single marker (pAKT) is insufficient to adequately assess the diversity of AKT activities within this tumour population. Taxanes can also destabilise Bcl-2 without AKT activation [37] and type I receptor tyrosine kinases can alter the expression patterns of tubulins within cells and promote taxane resistance [38]. Other pathways may promote taxane resistance including microtubule-associated proteins and mitotic checkpoint signalling proteins [39, 40]. Given this complexity, it is perhaps unlikely that single markers will provide sufficient insight into the complexities of tumour biology to act as predictive biomarkers of chemotherapy response. Finally, in TACT, no evidence was observed of a differential effect on disease-free survival for those patients allocated taxane compared with control treatment, thus making identification of sub-group effects, such as treatment by marker interactions, more challenging. In this context, any marker would be required to simultaneously identify both treatment-resistant and -responsive subgroups for a positive interaction to be identified. However, in a previous report on the TACT trial, we have shown the potential for such a treatment by marker interaction, with respect to HER2 and ER, which is consistent with previously published results (3) suggesting that sufficiently powerful interactions may still be detected in this context. In conclusion, this study failed to find any evidence that activation of AKT or downstream markers p90RSK and pS6 could act as biomarkers to identify the potential benefit from the use of a taxane in early breast cancer patients treated with a fixed duration of chemotherapy. This finding is consistent with the NASBP B28 study and suggests that pAKT473 is not a clinically viable marker for the selection of patients likely to benefit from taxanes. Further analyses, with a broader pathway-based approach, will be required to identify clinically relevant markers of taxane benefit. Acknowledgements This study was conducted with the support of the Ontario Institute for Cancer Research through funding provided by the Government of Ontario. The TACT trial is jointly funded by Cancer Research UK (CRUK/01/001) and educational Grants from Aventis, Roche and Pfizer. Storage, construction of microarrays and tissue HER2 testing were funded by an educational grant from Roche. 
+
+123 
+
+Breast Cancer Res Treat (2013) 138:773–781 This analysis was funded by a Cancer Research UK grant. Grateful thanks is due to all the patients who agreed to enter the TACT trial and donated their tumour tissue for this research. We also thank the many UK pathologists who sent tumour tissue samples to the central laboratories for storage and future biological research. Conflict of interest In the last year, Judith M Bliss has received support from Roche towards travel to attend the San Antonio Breast Cancer Symposium. Peter J Barrett-Lee has received honoraria in the past for advisory boards for Sanofi-Aventis and Pfizer. John MS Bartlett, Roger A’Hern, Tammy Piper, Ian O Ellis, Mitch Dowsett, Elizabeth A Mallon, David A Cameron, Stephen Johnston and Paul Ellis have no conflicts of interest. Ethical standards The experiments comply with the current laws of the United Kingdom. 
+
+References 1. Peto R (2002) Update of the worldwide evidence on the adjuvant treatment of breast cancer. Eur J Cancer 38:E11 2. Ellis P, Barrett-Lee P, Johnson L et al (2009) Sequential docetaxel as adjuvant chemotherapy for early breast cancer (TACT): an open-label, phase III, randomised controlled trial. Lancet 373(9676):1681–1692 3. Hayes DF, Thor AD, Dressler LG et al (2007) HER2 and response to paclitaxel in node-positive breast cancer. New Engl J Med 357(15):1496–1506 4. Yang SX, Costantino JP, Kim C et al (2010) Akt Phosphorylation at Ser473 Predicts Benefit of Paclitaxel Chemotherapy in NodePositive Breast Cancer. J Clin Oncol 28(18):2974–2981 5. Hu LM, Hofmann J, Lu YL, Mills GB, Jaffe RB (2002) Inhibition of phosphatidylinositol 3 ‘-kinase increases efficacy of paclitaxel in in vitro and in vivo ovarian cancer models. Cancer Res 62(4):1087–1092 6. Calastretti A, Bevilacqua A, Ceriani C et al (2001) Damaged microtubules can inactivate BCL-2 by means of the mTOR kinase. Oncogene 20(43):6172–6180 7. Calastretti A, Rancati F, Vigano S et al (1999) Taxol-induced apoptosis and BCL-2 degradation inhibited by rapamycin. Clin Cancer Res 5:3814S 8. Page C, Lin HJ, Jin Y et al (2000) Overexpression of Akt/AKT can modulate chemotherapy-induced apoptosis. Anticancer Res 20(1A):407–416 9. Dillon RL, Marcotte R, Hennessy BT, Woodgett JR, Mills GB, Muller WJ (2009) Akt1 and Akt2 play distinct roles in the initiation and metastatic phases of mammary tumor progression. Cancer Res 69(12):5057–5064 10. Vanhaesebroeck B, Guillermet-Guibert J, Graupera M, Bilanges B (2010) The emerging mechanisms of isoform-specific PI3 K signalling. Nat Rev Mol Cell Biol 11(5):329–341 11. Hennessy BT, Smith DL, Ram PT, Lu Y, Mills GB (2005) Exploiting the PI3 K/AKT pathway for cancer drug discovery. Nat Rev Drug Discov 4(12):988–1004 12. Kirkegaard T, Witton CJ, Edwards J et al (2010) Molecular alterations in AKT1, AKT2 and AKT3 detected in breast and prostatic cancer by FISH. Histopathology 56(2):203–211 13. Stemke-Hale K, Gonzalez-Angulo AM, Lluch A et al (2008) Integrative genomic and proteomic analysis of PIK3CA, PTEN, and AKT mutations in breast cancer. Cancer Res 68(15):6084–6091 14. Ellis MJ, Tao Y, Lin L et al (2006) High nuclear p27(kip1) levels predicts sensitivity to neoadjuvant letrozole in ER plus breast cancer independent of pAKT levels, PIK3CA mutation status and 
+
+Breast Cancer Res Treat (2013) 138:773–781 cell cycle effects: a potential role for p27(kip1) in predicting enhanced autophagocytosis in response to aromatase inhibitor therapy. Breast Cancer Res Treat 100:S187 15. Tokunaga E, Kimura Y, Oki E et al (2006) Akt is frequently activated in HER2/neu-positive breast cancers and associated with poor prognosis among hormone-treated patients. Int J Cancer 118(2):284–289 16. Panigrahi AR, Pinder SE, Chan SY, Paish EC, Robertson JFR, Ellis IO (2004) The role of PTEN and its signalling pathways, including AKT, in breast cancer; an assessment of relationships with other prognostic factors and with outcome. J Pathol 204(1):93–100 17. MacKeigan JP, Taxman DJ, Hunter D, Earp HS, Graves LM, Ting JPY (2002) Inactivation of the antiapoptotic phosphatidylinositol 3- kinase-Akt pathway by the combined treatment of taxol and mitogen-activated protein kinase kinase inhibition. Clin Cancer Res 8(7):2091–2099 18. Ling X, Bernacki RJ, Brattain MG, Li FZ (2004) Induction of survivin expression by taxol (paclitaxel) is an early event, which is independent of taxol-mediated G(2)/M arrest. J Biol Chem 279(15):15196–15203 19. Le XF, Hittelman WN, Liu JX et al (2003) Paclitaxel induces inactivation of p70 S6 kinase and phosphorylation of Thr(421) and Ser(424) via multiple signaling pathways in mitosis. Oncogene 22(4):484–497 20. Workman P, Clarke PA, Raynaud FI, van Montfort RLM (2010) Drugging the PI3 kinome: from chemical tools to drugs in the clinic. Cancer Res 70(6):2146–2157 21. Copp J, Manning G, Hunter T (2009) TORC-specific phosphorylation of mammalian target of rapamycin (mTOR): phosphoSer2481 is a marker for intact mTOR signaling complex 2. Cancer Res 69(5):1821–1827 22. Sabine VS, Sims AH, Macaskill EJ et al (2009) Transcriptional profiling of patient-matched ER-positive breast cancer tissue from post-menopausal women treated with neoadjuvant RAD001. Cancer Res 69(2):166S–167S 23. Kirkegaard T, Witton CJ, McGlynn LM et al (2005) AKT activation predicts outcome in breast cancer patients treated with tamoxifen. J Pathol 207(2):139–146 24. Ellis IO, Dowsett M, Bartlett J et al (2000) Recommendations for HER2 testing in the UK. J Clin Pathol 53(12):890–892 25. Dowsett M, Bartlett J, Ellis IO et al (2003) Correlation between immunohistochemistry (HercepTest) and fluorescence in situ hybridization (FISH) for HER-2 in 426 breast carcinomas from 37 centres. J Pathol 199(4):418–423 26. Ellis IO, Bartlett J, Dowsett M et al (2004) Updated recommendations for HER2 testing in the UK. J Clin Pathol 57(3):233–237 
+
+781 27. Walker RA, Bartlett JMS, Dowsett M et al (2008) HER2 testing in the UK: further update to recommendations. J Clin Pathol 61(7):818–824 28. Bartlett JMS, Ellis IO, Dowsett M et al (2007) Human Epidermal Growth Factor Receptor 2 Status Correlates With Lymph Node Involvement in Patients With Estrogen Receptor (ER) Negative, but With Grade in Those With ER-Positive Early-Stage Breast Cancer Suitable for Cytotoxic Chemotherapy. J Clin Oncol 25(28):4423–4430 29. McShane LM, Altman DG, Sauerbrei W, Taube SE, Gion M, Clark GM (2005) REporting recommendations for tumour MARKer prognostic studies (REMARK). Br J Cancer 93(4):387–391 30. Kirkegaard T, Edwards J, Tovey S et al (2006) Observer variation in immunohistochemical analysis of protein expression, time for a change? Histopathology 48(7):787–794 31. Royston P, Sauerbrei W (2008) Multivariable model-building. A pragmatic approach to regression analysis based on fractional polynomials for modeling continuous variables 32. Sarbassov DD, Ali SM, Sengupta S et al (2006) Prolonged rapamycin treatment inhibits mTORC2 assembly and AKT/PKB. Mol Cell 22(2):159–168 33. Sarbassov DD, Guertin DA, Ali SM, Sabatini DM (2005) Phosphorylation and Regulation of Akt/PKB by the Rictor-mTOR Complex. Science 307(5712):1098–1101 34. Buttrick GJ, Wakefield JG (2008) PI3-K and GSK-3 AKT-ing together with microtubules. Cell Cycle 7(17):2621–2625 35. Pinhel I, MacNeill F, Hills M et al (2010) Extreme loss of immunoreactive p-Akt and p-Erk1/2 during routine fixation of primary breast cancer. Breast Cancer Res 12(5):R76 36. Generali D, Fox SB, Brizzi MP et al (2008) Down-regulation of phosphatidylinositol 3 ‘-kinase/AKT/molecular target of rapamycin metabolic pathway by primary letrozole-based therapy in human breast cancer. Clin Cancer Res 14(9):2673–2680 37. Bandyopadhyay S, Sengupta TK, Fernandes DJ, Spicer EK (2003) Taxol- and okadaic acid-induced destabilization of bcl-2 mRNA is associated with decreased binding of proteins to a bcl-2 instability element. Biochem Pharmacol 66(7):1151–1162 38. Montgomery RB, Guzman J, O’Rourke DM, Stahl WL (2000) Expression of oncogenic epidermal growth factor receptor family kinases induces paclitaxel resistance and alters beta-tubulin isotype expression. J Biol Chem 275(23):17358–17363 39. Kavallaris M, Annereau JP, Barret JM (2008) Potential mechanisms of resistance to microtubule inhibitors. Semin Oncol 35(3):S22–S27 40. Chien AJ, Moasser MM (2008) Cellular mechanisms of resistance to anthracyclines and taxanes in cancer: intrinsic and acquired. Semin Oncol 35(2):S1–S14 
+
+123 
+
+ 

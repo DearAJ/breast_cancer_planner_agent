@@ -1,0 +1,473 @@
+VOLUME 
+
+31 
+
+䡠 
+
+NUMBER 
+
+20 
+
+䡠 
+
+JULY 
+
+10 
+
+2013 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Fluorouracil, Doxorubicin, and Cyclophosphamide (FAC) Versus FAC Followed by Weekly Paclitaxel As Adjuvant Therapy for High-Risk, Node-Negative Breast Cancer: Results From the GEICAM/2003-02 Study Miguel Martín, Amparo Ruiz, Manuel Ruiz Borrego, Agustí Barnadas, Sonia González, Lourdes Calvo, Mireia Margelí Vila, Antonio Antón, Alvaro Rodríguez-Lescure, Miguel Angel Seguí-Palmer, Montserrat Muñoz-Mateu, Joan Dorca Ribugent, José Manuel López-Vega, Carlos Jara, Enrique Espinosa, César Mendiola Fernández, Raquel Andrés, Nuria Ribelles, Arrate Plazaola, Pedro Sánchez-Rovira, Javier Salvador Bofill, Carmen Crespo, Francisco J. Carabantes, Sonia Servitja, José Ignacio Chacón, César A. Rodríguez, Blanca Hernando, Isabel Álvarez, Eva Carrasco, and Ana Lluch Author affiliations appear at the end of this article. Published online ahead of print at www.jco.org on June 3, 2013. Written on behalf of the Spanish Breast Cancer Research Group (GEICAM). Supported in part by Bristol-Myers Squibb. Paclitaxel was supplied by Bristol-Myers Squibb. Presented in part at the 48th Annual Meeting of the American Society of Clinical Oncology, June 1-5, 2012, Chicago, IL. Bristol-Myers Squibb did not have any role in trial design, data collection, data analysis, manuscript writing, or decisions related to publication of results. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Miguel Martín, MD, PhD, Instituto de Investigación Sanitaria Gregorio Marañon, Universidad Complutense, Dr. Esquerdo 46, Madrid 28009, Spain; e-mail: mmartin@ geicam.org. © 2013 by American Society of Clinical Oncology 0732-183X/13/3120w-2593w/$20.00 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Adding taxanes to anthracycline-based adjuvant therapy improves survival outcomes of patients with node-positive breast cancer (BC). Currently, however, most patients with BC are node negative at diagnosis. The only pure node-negative study (Spanish Breast Cancer Research Group 9805) reported so far showed a docetaxel benefit but significant toxicity. Here we tested the efficacy and safety of weekly paclitaxel (wP) in node-negative patients, which is yet to be established. Patients and Methods Patients with BC having T1-T3/N0 tumors and at least one high-risk factor for recurrence (according to St. Gallen 1998 criteria) were eligible. After primary surgery, 1,925 patients were randomly assigned to receive fluorouracil, doxorubicin, and cyclophosphamide (FAC) ⫻ 6 or FAC ⫻ 4 followed by wP ⫻ 8 (FAC-wP). The primary end point was disease-free survival (DFS) after a median follow-up of 5 years. Secondary end points included toxicity and overall survival. Results After a median follow-up of 63.3 months, 93% and 90.3% of patients receiving FAC-wP or FAC regimens, respectively, remained disease free (hazard ratio [HR], 0.73; 95% CI, 0.54 to 0.99; log-rank P ⫽ .04). Thirty-one patients receiving FAC-wP versus 40 patients receiving FAC died (one and seven from cardiovascular diseases, respectively; HR, 0.79; 95% CI, 0.49 to 1.26; log-rank P ⫽ .31). The most relevant grade 3 and 4 adverse events in the FAC-wP versus the FAC arm were febrile neutropenia (2.7% v 3.6%), fatigue (7.9% v 3.4%), and sensory neuropathy (5.5% v 0%). Conclusion For patients with high-risk node-negative BC, the adjuvant FAC-wP regimen was associated with a small but significant improvement in DFS compared with FAC therapy, in addition to manageable toxicity, especially regarding long-term cardiac effects. J Clin Oncol 31:2593-2599. © 2013 by American Society of Clinical Oncology 
+
+DOI: 10.1200/JCO.2012.46.9841 
+
+INTRODUCTION 
+
+It is well established that adjuvant chemotherapy improves the outcome of patients with early-stage breast cancer (BC). Fifteen-year survival results from the Early Breast Cancer Trialists’ Collaborative Group1 demonstrated that cyclophosphamide, methotrexate, and fluorouracil (CMF) polychemotherapy reduces annual recurrence and death rates mostly independently of tamoxifen use, estrogen receptor (ER) status, nodal status, and other tumor 
+
+characteristics. It also showed that anthracyclinebased regimens offer an additional advantage over CMF.1 Furthermore, recent studies and metaanalyses of randomized controlled trials showed that adding a taxane to an anthracycline-based adjuvant regimen reduces recurrence rates and improves survival in patients with node-positive BC.2-8 Although a majority of patients in Western countries with operable BC have axillary lymph node–negative disease at diagnosis,9 most taxane trials include node-positive patients with BC and only © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+2593 
+
+Martín et al 
+
+a few include both patient populations.10-12 Furthermore, we know of only one pure adjuvant study in node-negative patients: the Spanish Breast Cancer Research Group (GEICAM) 9805 trial.13 In this study, the combination of docetaxel, doxorubicin, and cyclophosphamide (TAC) significantly reduced the risk of recurrence by 32% compared with fluorouracil, doxorubicin, and cyclophosphamide (FAC), but at the expense of significant toxicity. Before these results were available, we started the GEICAM/2003-02 study with node-negative patients with BC at high risk of recurrence, as defined by the 1998 St. Gallen criteria.14 GEICAM/2003-02 sought to determine benefits and safety of adding paclitaxel to the standard FAC regimen in this understudied population. Specifically, this trial compared administering six cycles of FAC with a regimen of four cycles of FAC followed by eight doses of weekly paclitaxel (FAC-wP). In this article, we present the results of the first efficacy analysis of the trial by reporting on disease-free survival (DFS), overall survival (OS), and toxicity. 
+
+PATIENTS AND METHODS Study Design This was a multicenter, open-label, randomized phase III study comparing FAC versus FAC-wP regimens as adjuvant therapy for patients with highrisk, node-negative BC. The primary end point was DFS, defined as the interval from the date of random assignment to the date of local, regional, or metastatic relapse; the date of a second primary malignancy; or death from any cause, whichever occurred first. Second primary malignancy was defined as any other histopathologically proven invasive cancer including second invasive primary BC in the ipsilateral or contralateral breast, but excluding nonmelanoma skin cancer. Secondary end points included OS, measured from the date of random assignment to the date of death from any cause, as well as safety. The study was performed in accordance with the Declaration of Helsinki and approved by the institutions’ ethical committees and Health Authorities in Spain. Patients Patients were eligible if they met the following criteria: histologic diagnosis of invasive unilateral BC without axillary involvement (T1-T3/N0), having undergone primary surgery, presence of one or more high-risk factors according to the 1998 St. Gallen criteria (ie, age ⬍ 35 years, tumor size ⬎ 2 cm, negative hormonal receptor, histologic grade 2 or 3), age 18 to 70 years, Karnofsky performance status ⱖ 80%, normal organ and bone marrow functions (neutrophils ⱖ 1.5 ⫻ 109/L, platelets ⱖ 100 ⫻ 109/L, hemoglobin ⱖ 10 mg/dL, total bilirubin ⱕ 1⫻ the upper limit of normal [ULN], AST and ALT ⱕ 2.5⫻ the ULN, alkaline phosphatase ⱕ 5⫻ the ULN, and creatinine ⱕ 2 mg/dL or creatinine clearance ⱖ 60 mL/min), and use of adequate contraception methods for potentially fertile women. Patients were excluded if they had prior or concomitant systemic or radiation therapy for BC, received anthracyclines or taxanes for any malignancy, had a preexisting neurotoxicity grade ⱖ 2 according to the National Cancer Institute Common Toxicity Criteria version 2.0,15 had any other serious concomitant disorder or a previous history of any malignancy other than cervical or nonmelanoma skin cancer adequately treated or other cancers treated less than 10 years before study entry, or were pregnant or breastfeeding. Human epidermal growth factor receptor 2 (HER2) –positive patients were initially eligible; however, after the 2005 trastuzumab adjuvant data disclosure, amended criteria excluded them. Of the 792 patients already recruited, only 181 were HER2 positive. Written informed consent was obtained from all patients before study entry. ER/progesterone receptor and HER2 status determination was made based on local testing. Study Procedures Baseline assessments (bilateral mammography, chest radiography, abdominal ultrasonography and/or computed tomography, bone scan [and bone x-ray in the case of suspicious lesions on the bone scan], ECG, and left 2594 
+
+© 2013 by American Society of Clinical Oncology 
+
+ventricular ejection fraction [LVEF] measurement in case of suspicion of cardiac dysfunction) were performed within 12 weeks (20 weeks for mammography) of study entry. Hematology, biochemistry, and pregnancy test (fertile women) were completed within 14 days before inclusion. Toxicities were assessed after each chemotherapy cycle and graded according to the National Cancer Institute Common Toxicity Criteria version 2.0. ECG and LVEF were repeated as clinically indicated. Patients were randomly assigned within 60 days of surgery to receive FAC or FAC-wP. Random assignment was centralized at GEICAM headquarters. Patients were stratified by institution, menopausal status, nodal status diagnostic method (sentinel node biopsy v lymphadenectomy) and hormonal receptor (HR) status (positive v negative) in blocks of four. The standard arm consisted of six cycles of FAC (fluorouracil 500 mg/ m2, doxorubicin 50 mg/m2, and cyclophosphamide 500 mg/m2) administered once every 3 weeks. Patients in the experimental arm received four cycles of the FAC regimen followed by eight weekly administrations of paclitaxel (100 mg/m2 per dose, the maximum-tolerated dose found in a phase I study). Antiemetics, corticosteroids, and histamine-receptor blockers were administered according to institution guidelines. From 3 to 6 weeks after the last cycle of chemotherapy, patients with HR-positive tumors received tamoxifen (20 mg daily for 5 years) or an aromatase inhibitor (AI) for 5 years or sequentially with tamoxifen (postmenopausal patients). Radiation therapy after completion of chemotherapy was mandatory for patients who underwent a lumpectomy. For patients who had a mastectomy, receiving radiation treatment was sanctioned according to each participating institution guidelines for patients with large tumors (⬎ 5 cm). After treatment completion, follow-up visits were performed every 3 months for the first 2 years, every 6 months for years 3 to 5, and annually for years 6 to 10. For the first 5 years of follow-up, hematology and biochemistry were performed every 6 months, and chest radiography and mammograms were performed annually. Statistical Analysis The planned primary DFS analysis was performed when a median 5-year follow-up was reached. The trial was designed to have overall statistical power of 80% to detect a 5% increase in DFS at 5 years from an estimated 80% receiving FAC to 85% receiving FAC-wP. A sample of 1,812 evaluable patients (906 per arm) was required to detect this difference at the ␣ level of .05. Estimating a 6% ineligibility rate, we needed to recruit at least 1,929 patients into the study. All statistical tests were two-sided. We performed the primary analysis on the intention-to-treat population, whereas safety analyses were performed on all patients who received at least one dose of chemotherapy according to the treatment received. The Kaplan-Meier method was used to estimate DFS and OS, and treatment arms were compared using the unstratified log-rank test. We used Simon’s method to calculate 95% CIs for the median DFS. In safety analyses, the worst toxicity grade per category for each patient was reported. Treatment toxicities were compared using Pearson’s ␹2 test or Fisher’s exact test. Additionally, we ran multivariate Cox proportional hazards regression with DFS as the outcome and treatment as the main predictor. Analyses were adjusted for major prognostic factors, including age, menopausal status, type of surgery, histopathology, HR status, and tumor size. The Wald test was used to establish the prognostic importance of each covariate. Finally, we evaluated whether treatment effects on DFS varied by prognostic factors. 
+
+RESULTS 
+
+Between September 2003 and October 2008, 1,925 patients from 67 Spanish institutions were recruited and randomly assigned to receive FAC-wP (n ⫽ 951) or FAC (n ⫽ 974) therapy (Fig 1). Eight patients received no treatment (five in the FAC-wP arm, three in the FAC arm), and 17 patients were not treated with the study medication to which they were randomly assigned (one in the FAC arm, 16 in the FAC-wP arm). Thus a total of 1,917 patients were evaluable for safety (931 and 986 receiving FAC-wP and FAC, respectively). JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+Weekly Paclitaxel for Node-Negative Breast Cancer 
+
+Randomly assigned (N = 1,925) 
+
+FAC (n = 974) 
+
+FAC-wP (n = 951) 
+
+Early discontinuation Refused Not eligible Lost to follow-up 
+
+(n = 2) (n = 2) (n = 1) 
+
+Early discontinuation Refused Not eligible Lost to follow-up 
+
+Patients treated (n = 946) 
+
+Crossed to FAC 
+
+(n = 1) (n = 1) (n = 1) 
+
+Patients treated (n = 971) 
+
+(n = 16)* 
+
+Patients treated with FAC-wP (n = 931) 
+
+Early treatment discontinuation Adverse event (n = 87) Death (n = 1) Refused treatment (n = 21) Deviation from protocol (n = 6) Investigators’ criteria (n = 4) 
+
+Received complete treatment (n = 812) 
+
+Crossed to FAC-wP 
+
+(n = 1)* 
+
+Patients treated with FAC (n = 986) 
+
+Early treatment discontinuation Adverse event (n = 19) Relapse (n = 1) Refused treatment (n = 8) Lost to follow-up (n = 1) 
+
+Received complete treatment (n = 957) 
+
+Fig 1. Consort study flowchart. FAC, fluorouracil, doxorubicin, and cyclophosphamide; wP, weekly paclitaxel. (*) Seventeen patients were not treated with the study medication to which they were randomly assigned (16 in FAC-wP arm, one in FAC arm). This resulted in 931 and 986 patients receiving FAC-wP and FAC, respectively. These are the final numbers used for the safety analysis. 
+
+Baseline patient and tumor characteristics were well balanced between arms, median age was 50 years, 99% of patients had a Karnofsky performance status ⱖ 90%, and half of the patients were premenopausal. Approximately 58% and 40% of tumors were in the T1 and T2 categories, respectively; 44% were poorly differentiated, 6.5% were classified as grade 1, 85.5% were ductal carcinoma, 73% were HR positive, and 9.4% were HER2 positive (Table 1). Treatment Compliance The median relative dose-intensities for fluorouracil, doxorubicin, and cyclophosphamide were 98.8%, 98.7%, and 98.8%, respectively, in the FAC-wP arm, and 98.0%, 97.7%, and 98.0%, respectively, in the FAC arm. The median relative dose-intensity for paclitaxel was 98.0%, with a median of eight cycles (range, one to eight cycles) and a mean of 7.7 cycles (95% CI, 7.7 to 7.8 cycles). After chemotherapy, approximately 75% of patients received radiotherapy, 73% of patients received hormonal therapy (594 patients received tamoxifen, 388 patients received an AI, and 415 patients received both in sequence), and 3.8% of patients received trastuzumab. Patients were equally distributed across treatment arms. Efficacy Analysis At a median follow-up of 63.3 months, 169 DFS events had been reported (71 of the 951 patients receiving FAC-wP and 98 of the 974 www.jco.org 
+
+patients receiving FAC; Table 2). The estimated rates of DFS at 5 years (Fig 2) were 93% in the FAC-wP arm and 90.3% in the FAC arm (P ⫽ .04, unstratified log-rank test). The unadjusted HR for relapse in the group receiving FAC-wP compared with FAC was 0.73 (95% CI, 0.54 to 0.99; P ⫽ .04). In fully adjusted models, FAC-wP was found to reduce risk of relapse by 26.7% compared with the FAC regimen (hazard ratio [HR], 0.73; 95% CI, 0.54 to 0.99; P ⬍ .05). The difference in DFS between the two arms was mainly due to the greater number of distant BC relapses among those receiving FAC than among those receiving FAC-wP (51 v 38 patients, respectively). Subgroup DFS analyses by menopausal status, HR status, tumor grade, and HER2 status suggested that the observed benefit of FAC-wP over FAC in these subpopulations was consistent with that of the overall population (Fig 3). Regarding our secondary survival end point, OS, we observed 71 deaths (31 in the FAC-wP arm and 40 in the FAC arm). Nonetheless, this observed difference, a 21.4% reduction in the risk of death in the experimental group, failed to reach statistical significance (HR, 0.79; 95% CI, 0.49 to 1.26; P ⫽ .31). Adverse Events Safety was assessed in 1,917 patients (931 receiving FAC-wP and 986 receiving FAC). The most frequent grade 3 to 4 hematologic adverse event, neutropenia, was observed in 203 patients (21.8%) © 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+2595 
+
+Martín et al 
+
+Table 1. Patient and Tumor Characteristics FAC-wP (n ⫽ 951) Characteristic Age, years Median Range Karnofsky PS 80 90 100 Unknown Menopausal status Premenopausalⴱ Peri/postmenopausal† Tumor size, cm T1 T2 T3 Histologic type Invasive ductal carcinoma Invasive lobular carcinoma Other Histologic grade Grade 1 Grade 2 Grade 3 Unknown Hormonal receptors ER⫹ and/or PR⫹ ER⫹ and/or PR⫹ and HER2– ER– and PR– HER2 status HER2⫹ HER2– Unknown Triple-negative disease Type of surgery Conservative surgery Mastectomy Axillary surgery Lymphadenectomy Sentinel node biopsy Adjuvant hormonal therapy Tamoxifen Aromatase inhibitor TMX and AI 
+
+No. 
+
+% 
+
+Table 2. Disease-Free Survival 
+
+No. 
+
+51 24-72 
+
+% 50 24-75 
+
+7 81 863 0 
+
+0.7 8.5 90.8 0.0 
+
+8 91 873 2 
+
+0.8 9.4 89.6 0.2 
+
+482 469 
+
+50.7 49.3 
+
+472 502 
+
+48.5 51.5 
+
+569 369 13 
+
+59.8 38.8 1.4 
+
+557 403 14 
+
+57.2 41.4 1.4 
+
+813 89 49 
+
+85.4 9.4 5.2 
+
+832 71 71 
+
+85.4 7.3 7.3 
+
+61 434 420 36 
+
+6.4 45.6 44.2 3.8 
+
+64 446 429 35 
+
+6.6 45.7 44.1 3.6 
+
+693 622 258 
+
+72.9 65.4 27.1 
+
+713 640 261 
+
+73.2 65.7 26.8 
+
+86 846 19 224 
+
+9.0 89.0 2.0 23.6 
+
+95 858 21 218 
+
+9.8 88.1 2.1 22.4 
+
+686 265 
+
+72.1 27.9 
+
+713 261 
+
+73.2 26.8 
+
+567 384 
+
+59.6 40.4 
+
+572 402 
+
+58.7 41.3 
+
+292 191 202 
+
+30.7 20.1 21.2 
+
+302 197 213 
+
+31.0 20.2 21.9 
+
+NOTE. HER2-positive patients were initially eligible, and 181 were recruited until the study was amended to exclude them because of the trastuzumab adjuvant data disclosure in 2005. Triple-negative disease means patients with ER-, PR-, and HER2-negative status. Abbreviations: AI, aromatase inhibitor; ER, estrogen receptor; FAC, fluorouracil, doxorubicin, and cyclophosphamide; HER2, human epidermal growth factor receptor 2; PR, progesterone receptor; PS, performance status; TMX, tamoxifen; wP, weekly paclitaxel. ⴱ Nonhysterectomized women menstruating during the 6 months before random assignment, hysterectomized women ⬍ 40 years of age, or hysterectomized women ⱖ 40 years of age with premenopausal luteinizing hormone and follicle-stimulating hormone values. †Nonhysterectomized women not menstruating during the 6 months before random assignment, hysterectomized women ⬎ 55 years of age, or hysterectomized women ⱕ 55 years of age with postmenopausal luteinizing hormone and follicle-stimulating hormone values. 
+
+2596 
+
+© 2013 by American Society of Clinical Oncology 
+
+FAC-wP (n ⫽ 951) 
+
+FAC (n ⫽ 974) Event 
+
+No. 
+
+DFS eventsⴱ Type of events Breast cancer relapse Locoregional alone Distant (⫾ locoregional) Second primary malignancy Primary breast cancer Ovarian cancer Leukemia Other Death without evidence of relapse Treatment related Non–treatment related 
+
+71 50 12 38 19 9 3 1 6 2 2†ⴱ 0 
+
+% 
+
+FAC (n ⫽ 974) No. 
+
+% 
+
+98 5.3 1.3 4.0 2.0 1.0 0.3 0.1 0.6 0.2 0.2 0.0 
+
+68 17 51 20 8 2 2 8 10 7‡ 3§ 
+
+7 1.7 5.2 2.0 0.8 0.2 0.2 0.8 1.0 0.7 0.3 
+
+Abbreviations: DFS, disease-free survival; FAC, fluorouracil, doxorubicin, and cyclophosphamide; wP, weekly paclitaxel. ⴱ Statistically significant: hazard ratio, 0.73; 95% CI, 0.54 to 0.99; P ⫽ .04. †Sepsis and thromboembolic disease. ‡Cardiovascular disease (cardiac infarction, n ⫽ 3; arrhythmia, n ⫽ 2; aneurism, n ⫽ 1; cerebrovascular hemorrhage, n ⫽ 1). §Car accident, liver cirrhosis (alcohol consumption), toxic megacolon. 
+
+receiving FAC-wP and in 250 patients (25.4%) receiving FAC. Febrile neutropenia was reported by 25 (2.7%) and 36 patients (3.6%) in the experimental and control arms, respectively. The most frequent grade 3 to 4 nonhematologic adverse events for patients treated with FAC-wP versus FAC regimens were fatigue (7.9% v 3.4%), sensory neuropathy (5.5% v 0%), and vomiting (4.3% v 4.1%). Persistent amenorrhea was reported by 15.9% and 10.6% of patients in the FAC-wP and FAC arms, respectively (Table 3). Cardiac adverse events were infrequent in both arms during chemotherapy. Four patients, all receiving FAC-wP, experienced cardiac dysfunction (two events were classified as grade 2 and two events as grade 3). Cardiac ischemia of grade 4 was reported in one patient receiving FAC-wP as well as in one patient receiving FAC (grade 3). Of the three patients with arrhythmia, the two classified as having grade 2 were receiving FAC-wP, whereas the patient classified as having grade 3 was receiving FAC. Of the 148 patients who discontinued treatment early, 119 received FAC-wP and 29 received the FAC regimen. Eighty-seven patients in the experimental arm and 19 patients in the standard arm discontinued treatment due to adverse events (P ⬍ .001). Main reasons for discontinuation in the experimental arm were sensory neuropathy (33.3%), fatigue (10.3%), neutropenia (6.9%), rash (5.7%), hypersensitivity (4.6%), dyspnea (3.4%), transaminase elevation (3.4%), and thrombosis (3.4%), whereas in the control arm, the main reasons were febrile neutropenia (15.8%) and neutropenia (26.3%). Two patients receiving FAC-wP died during treatment or within 30 days of the last dose. The first deceased patient suffered a pulmonary thromboembolism (while receiving paclitaxel), and the second one died of sepsis (while receiving FAC, before paclitaxel). Ten patients receiving FAC died during the follow-up period. Three of these deaths were not treatment-related (car accident, alcohol-related liver cirrhosis, and toxic megacolon), and the other seven were caused by cardiovascular disease (three cardiac infarctions, two arrhythmias, one aneurism, and one cerebrovascular hemorrhage). JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+Weekly Paclitaxel for Node-Negative Breast Cancer 
+
+Disease-Free Survival (%) 
+
+A 
+
+FAC + P better 
+
+1.0 93% 90.3% 
+
+0.8 
+
+0.2 
+
+FAC (n = 974) FAC + P (n = 951) Log-rank P = .0421 
+
+0 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+90 
+
+100 
+
+Time Since Random Assignment (months) No. at risk FAC 974 951 FAC + P 
+
+Overall Survival (%) 
+
+B 
+
+959.5 930 
+
+933 912.5 
+
+892 879 
+
+780.5 782 
+
+610 625.5 
+
+1.0 
+
+408.5 427.5 
+
+202.5 199.5 
+
+0.8 
+
+FAC (n = 974) FAC + P (n = 951) Log-rank P = .3127 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+90 
+
+100 
+
+Time Since Random Assignment (months) No. at risk 974 FAC 951 FAC + P 
+
+971 945 
+
+962.5 934 
+
+952.5 926 
+
+922 899 
+
+811 807 
+
+637.5 652 
+
+433.5 451.5 
+
+1.2 
+
+1.4 
+
+217.5 213.5 
+
+phamide versus four cycles of doxorubicin plus docetaxel, but failed to detect significant differences in DFS. However, exploratory analyses hinted at improved DFS among HR-negative patients receiving doxorubicin plus docetaxel.16 The USO9735 study compared four cycles of doxorubicin plus cyclophosphamide with four cycles of docetaxel plus cyclophosphamide and concluded that the docetaxel combination was superior in terms of DFS and OS.10 Finally, the GEICAM/9805 project was a pure node-negative study and found a significant increase in DFS with six cycles of docetaxel, doxorubicin, cyclophosphamide versus six cycles of FAC.13 
+
+58.5 51.5 
+
+Table 3. Grade 3 and 4 Toxicity 
+
+Fig 2. (A) Disease-free survival; (B) overall survival. FAC, fluorouracil, doxorubicin, and cyclophosphamide; P, paclitaxel. 
+
+DISCUSSION 
+
+The GEICAM/2003-02 study compared six cycles of the standard FAC regimen with a sequence of four cycles of FAC followed by eight weekly administrations of paclitaxel as adjuvant therapy for operable node-negative patients with BC who were at high risk of recurrence. Since the 1998 St. Gallen criteria were commonly used to establish the risk of relapse of node-negative patients with BC at that time, we followed these criteria in our study. At a median follow-up of 63 months, and low number of relapses notwithstanding, the study found a statistically significant reduction in DFS events in the experimental arm receiving weekly paclitaxel. Two factors contributed to the favorable outcome: a lower rate of BC relapses and a lower incidence of deaths without evidence of relapse. A reduction in BC recurrences associated with weekly paclitaxel supports previous findings in node-positive BC.5,11 Additionally, studies with another taxane (docetaxel) have been reported in patients with low or no axillary involvement. The Eastern Cooperative Oncology Group 2197 trial compared four cycles of doxorubicin plus cyclophoswww.jco.org 
+
+0.8 1.0 
+
+Fig 3. Subgroup analysis of disease-free survival. DFS, disease-free survival; FAC, fluorouracil, doxorubicin, and cyclophosphamide; G, grade; HR, hormone receptor; HER2, human epidermal growth factor receptor 2; ITT, intention to treat; P, paclitaxel. 
+
+97.4% 
+
+0.2 
+
+0.4 0.6 
+
+Hazard Ratio (95% CI) 
+
+52.5 49.5 
+
+95.8% 
+
+0 
+
+DFS of ITT (n =1,925) Premenopausal (n = 954) Postmenopausal (n = 971) HR+ (n = 1,406) HR- (n = 519) HER2+ (n = 181) HER2- (n = 1,704) HR+ HER2+ (n = 112) HR+ HER2- (n = 1,262) HR- HER2+ (n = 69) HR- HER2- (n = 442) GI (n = 125) GII (n = 880) GIII (n = 849) 0.2 
+
+971 945 
+
+FAC better 
+
+FAC-wP (n ⫽ 931) 
+
+FAC (n ⫽ 986) 
+
+Adverse Event 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+Leukopenia Lymphopenia Neutropenia Febrile Neutropenia Fatigue Infection Irregular Menses Mucositis Myalgia Nausea Neuropathy-sensory† Thrombosis/embolism Transaminase elevation Vomiting 
+
+78 8 203 25 74 32ⴱ 148 16 14 25 51 10‡ 25 40 
+
+8.4 0.9 21.8 2.7 7.9 3.4 15.9 1.7 1.5 2.7 5.5 1.1 2.7 4.3 
+
+93 10 250 36 34 17 105 19 2 25 0 1 11 40 
+
+9.4 1.0 25.4 3.6 3.4 1.7 10.6 1.9 0.2 2.5 0.0 0.1 1.1 4.1 
+
+.42 .73 .07 .22 .00 .02 .00 .73 .00 .84 .00 .00 .01 .79 
+
+NOTE. Toxicity graded according to National Cancer Institute Common Toxicity Criteria version 2.0. Abbreviations: FAC, fluorouracil, doxorubicin, and cyclophosphamide; wP, weekly paclitaxel. ⴱ Eleven while on paclitaxel therapy. †A total of 260 patients (27.9%) in the FAC-wP arm and two (0.2%) in the FAC arm experienced grade 2 neuropathy. ‡Seven while on paclitaxel therapy. 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+2597 
+
+Martín et al 
+
+Regarding our results, the excess in deaths without evidence of BC relapse in the control versus the experimental arm is of concern among patients whose tumors could be cured by surgery alone. Our study was not designed to assess long-term cardiac toxicity; however, the excess of deaths from cardiovascular origin in the control arm during our follow-up suggests that this arm is actually associated with more cardiovascular adverse effects (mainly cardiac infarction and arrhythmia), which could be related to the prior administration of anthracyclines. The total cumulative dose of doxorubicin delivered with the FAC regimen (300 mg/m2) has traditionally being considered cardiac safe. However, the 10-year follow-up of the Breast Cancer International Research Group 001 trial (ClinicalTrials.gov NCT00688740) showed that this regimen is associated with an unexpectedly high cardiac toxicity.17 In that study, 17 patients (2.3%) receiving FAC had congestive heart failure, and four (0.5%) died as a result of this toxicity. Additionally, an LVEF drop of more than 20% was recorded in 41 patients treated with FAC (15%), 21 of whom (10%) had the LVEF below the normal limit. A recent adjuvant study (Cancer and Leukemia Group B 40101) of patients with BC at moderate/low risk of relapse (zero to three axillary lymph nodes) concludes that six cycles of AC are not superior to four cycles and increase cardiac toxicity.18 Our findings, although not based on long-term data, are consistent with an association between six cycles of FAC and an increase in long-term cardiovascular mortality. In sum, this evidence warns against the use of more than four cycles of adjuvant anthracyclines (corresponding to 200 to 240 mg/m2 of doxorubicin) in low-risk patients with BC. Owing to the potential long-term cardiac effects, the selection of patients for adjuvant anthracycline therapy is of key importance. In fact, it is very likely that some of the patients included in the GEICAM/ 2003-02 trial would not be considered suitable candidates for chemotherapy by today’s clinical standards, particularly in countries where genomic predictor tests are available (eg, Oncotype Dx [Genomic Health, Redwood City, CA] and Mammaprint [Agendia, Huntington Beach, CA]). Regarding the higher incidence of thrombosis observed in the paclitaxel arm, we hypothesize that it may be related to the generous use of prescribed weekly prophylactic corticosteroids to prevent allergic reactions to paclitaxel. A significant proportion of patients in the experimental arm failed to complete the planned paclitaxel treatment because of neurotoxicity. We selected maximum-tolerated dose of paclitaxel from phase I studies (100 mg/m2/wk), but this dose is likely too high according to today’s standard, with 80 or 90 mg/m2/wk being probably a better option. Although adjuvant taxane-based regimens are now the standard of care for patients with node-positive early BC, their use on patients with node-negative disease is still not widespread. This is probably because of the scarcity of documented clinical evidence in this population. The benefits of adjuvant chemotherapy in the node-negative population are, however, well established. The 15-year results of the Early Breast Cancer Trialists’ Collaborative Group meta-analysis revealed that the benefit of chemotherapy was significant irrespective of nodal status.1 A 2012 meta-analysis of docetaxel adjuvant trials also showed that docetaxel efficacy was independent of nodal status.19 Thus, our findings, consistent with other adjuvant studies, firmly suggest that the best adjuvant regimens for patients with node-positive 2598 
+
+© 2013 by American Society of Clinical Oncology 
+
+BC are also the best option for the node-negative population meeting today’s standards for chemotherapy.2,5,10,13 This is important when considering treatment of this population because women with nodenegative disease are usually regarded as a good-prognosis group and are thus treated less aggressively compared with patients with nodepositive disease.20 Our survival data are still immature. The relative risk of death was 21.4% lower in the arm treated with paclitaxel compared with the control arm, but the difference was not statistically significant. Patients with node-negative BC often exhibit longer time to recurrence,21 probably because of low tumoral micrometastatic burden, and therefore, a longer follow-up is required to detect actual treatment benefits on survival. For this purpose, two additional updates on DFS and OS are planned at 7- and 10-year median follow-up, and the results will be reported separately. As a conclusion, the adjuvant FAC-wP regimen was associated with a small, but significant, improvement in DFS in comparison with the FAC regimen in patients with node-negative BC at a high risk of recurrence. Because of the small magnitude of the benefit, biomarker analyses aimed to identify subpopulations of patients benefiting the most from FAC-wP therapy are planned. A longer follow-up is required to establish survival benefits. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) and/or an author’s immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: None Stock Ownership: None Honoraria: Alvaro Rodríguez-Lescure, Bristol-Myers Squibb Research Funding: None Expert Testimony: None Patents: None Other Remuneration: Montserrat Muñoz-Mateu, Bristol-Myers Squibb 
+
+AUTHOR CONTRIBUTIONS Conception and design: Miguel Martín, Pedro Sánchez-Rovira Provision of study materials or patients: Miguel Martín, Amparo Ruiz, Mireia Margelí Vila, Alvaro Rodríguez-Lescure, Miguel Angel Seguí-Palmer, Carlos Jara, Arrate Plazaola, Javier Salvador Bofill, Sonia Servitja Collection and assembly of data: Miguel Martín, Amparo Ruiz, Manuel Ruiz Borrego, Sonia González, Lourdes Calvo, Mireia Margelí Vila, Antonio Antón, Alvaro Rodríguez-Lescure, Miguel Angel Seguí-Palmer, Montserrat Muñoz-Mateu, Joan Dorca Ribugent, José Manuel López-Vega, Carlos Jara, Enrique Espinosa, César Mendiola Fernández, Raquel Andrés, Nuria Ribelles, Arrate Plazaola, Javier Salvador Bofill, Carmen Crespo, Francisco J. Carabantes, Sonia Servitja, José Ignacio Chacón, César A. Rodríguez, Blanca Hernando, Isabel Álvarez, Ana Lluch Data analysis and interpretation: Miguel Martín, Agustí Barnadas, Eva Carrasco, Ana Lluch Manuscript writing: All authors Final approval of manuscript: All authors JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+Weekly Paclitaxel for Node-Negative Breast Cancer 
+
+REFERENCES 1. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 2. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 3. Roché H, Fumoleau P, Spielmann M, et al: Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: The FNCLCC PACS 01 Trial. J Clin Oncol 24:5664-5671, 2006 4. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 5. Martín M, Rodríguez-Lescure A, Ruiz A, et al: Randomized phase 3 trial of fluorouracil, epirubicin, and cyclophosphamide alone or followed by paclitaxel for early breast cancer. J Natl Cancer Inst 100:805-814, 2008 6. De Laurentiis M, Cancello G, D’Agostino D, et al: Taxane-based combinations as adjuvant chemotherapy of early breast cancer: A meta-analysis of randomized trials. J Clin Oncol 26:44-53, 2008 7. Ferguson T, Wilcken N, Vagg R, et al: Taxanes for adjuvant treatment of early breast cancer. Cochrane Database Syst Rev 17:CD004421, 2007 8. Bria E, Nistico C, Cuppone F, et al: Benefit of taxanes as adjuvant chemotherapy for early breast 
+
+cancer: Pooled analysis of 15,500 patients. Cancer 106:2337-2344, 2006 9. Surveillance, Epidemiology, and End Results: SEER Cancer Statistics, Fast Stats by Cancer Site, 20002006. http://seer.cancer.gov/faststats/selections .php?series⫽cancer 10. Jones S, Holmes FA, O’Shaughnessy J, et al: Docetaxel with cyclophosphamide is associated with an overall survival benefit compared with doxorubicin and cyclophosphamide: 7-year follow-up of US Oncology Research Trial 9735. J Clin Oncol 27:1177-1183, 2009 11. Jones SE, Savin MA, Holmes FA, et al: Phase III trial comparing doxorubicin plus cyclophosphamide with docetaxel plus cyclophosphamide as adjuvant therapy for operable breast cancer. J Clin Oncol 24:5381-5387, 2006 12. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 13. Martín M, Seguí MA, Antón A, et al: Adjuvant docetaxel for high-risk, node-negative breast cancer. N Engl J Med 363:2200-2210, 2010 14. Goldhirsch A, Glick JH, Gelber RD, et al: Meeting highlights: International Consensus Panel on the Treatment of Primary Breast Cancer. J Natl Cancer Inst 90:1601-1608, 1998 15. Cancer Therapy Evaluation Program: Protocol Development: Common Terminology Criteria for Adverse Events (CTCAE) and Common Toxicity Criteria (CTC). http://ctep.cancer.gov/protocolDevelopment/ electronic_applications/ctc.htm 16. Goldstein LJ, O’Neill A, Sparano JA, et al: Concurrent doxorubicin plus docetaxel is not more effective than concurrent doxorubicin plus cyclophos- 
+
+phamide in operable breast cancer with 0 to 3 positive axillary nodes: North American Breast Cancer Intergroup Trial E 2197. J Clin Oncol 26:40924099, 2008 17. Martin M, Mackey J, Pienkowski T, et al: Ten-year follow-up analysis of the BCIRG 001 trial confirms superior DFS and OS benefit of adjuvant TAC (docetaxel, doxorubicin, cyclophosphamide) over FAC (fluorouracil, doxorubicin, cyclophosphamide) in women with operable node-positive breast cancer. Presented at the 33rd Annual San Antonio Breast Cancer Symposium, San Antonio, TX, December 8-12, 2010 (abstr S4-3). 18. Shulman LN, Cirrincione CT, Berry DA, et al: Six cycles of doxorubicin and cyclophosphamide or paclitaxel are not superior to four cycles as adjuvant chemotherapy for breast cancer in women with zero to three positive axillary nodes: Cancer and Leukemia Group B 40101. J Clin Oncol 30:4071-4076, 2012 19. Jacquin JP, Jones S, Magné N, et al: Docetaxel-containing adjuvant chemotherapy in patients with early stage breast cancer: Consistency of effect independent of nodal and biomarker status—A meta-analysis of 14 randomized clinical trials. Breast Cancer Res Treat 134:903913, 2012 20. Harlan LC, Clegg LX, Abrams J, et al: Community-based use of chemotherapy and hormonal therapy for early-stage breast cancer: 19872000. J Clin Oncol 24:872-877, 2006 21. Quiet CA, Ferguson DJ, Weichselbaum RR, et al: Natural history of node-negative breast cancer: A study of 826 patients with long-term follow-up. J Clin Oncol 13:1144-1151, 1995 
+
+Affiliations Miguel Martín, Instituto de Investigación Sanitaria Gregorio Marañón, Universidad Complutense; Carlos Jara, Fundación Hospitalaria de Alcorcón; Enrique Espinosa, Hospital Universitario la Paz; César Mendiola Fernández, Hospital Universitario 12 de Octubre; Carmen Crespo, Hospital Universitario Ramón y Cajal; Eva Carrasco, Spanish Breast Cancer Research Group (GEICAM) Headquarters, Madrid; Amparo Ruiz, Instituto Valenciano de Oncología; Ana Lluch, Hospital Clinico Universitario, Valencia; Manuel Ruiz Borrego, Hospital Universitario Virgen del Rocío; Javier Salvador Bofill, Hospital de Valme, Sevilla; Agustí Barnadas, Hospital Santa Creu i Sant Pau, Universitat Autònoma de Barcelona; Sonia González, Hospital Mutua de Terrassa; Mireia Margelí Vila, Hospital Universitario Germans Trias i Pujol; Miguel Angel Seguí-Palmer, Corporacion Sanitaria Parc Tauli; Montserrat Muñoz-Mateu, Hospital Clinic i Provincial; Sonia Servitja, Hospital del Mar, Barcelona; Lourdes Calvo, Complejo Hospitalario Universitario A Coruña, A Coruña; Antonio Antón, Hospital Universitario Miguel Servet; Raquel Andrés, Hospital Universitario Lozano Blesa, Zaragoza; Alvaro Rodríguez-Lescure, Hospital General de Elche, Alicante; Joan Dorca Ribugent, Instituto Catalán de Oncología, Girona; José Manuel López-Vega, Hospital Universitario Marques de Valdecilla, Santander; Nuria Ribelles, Hospital Universitario Virgen de la Victoria; Francisco J. Carabantes, Hospital Regional Universitario Carlos Haya, Málaga; Arrate Plazaola, Onkologikoa; Isabel Álvarez, Hospital Universitario Donostia, San Sebastian; Pedro Sánchez-Rovira, Complejo Hospitalario de Jáen, Jáen; José Ignacio Chacón, Hospital Universitario Virgen de la Salud, Toledo; César A. Rodríguez, Hospital Universitario de Salamanca, Salamanca; and Blanca Hernando, Hospital Universitario de Burgos, Burgos, Spain. ■ ■ ■ 
+
+www.jco.org 
+
+© 2013 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+2599 
+
+Martín et al 
+
+Acknowledgment We thank the investigators involved in the GEICAM/2003-02 study (A. Frau, E. Aranda, M. Ramos, J. R. Mel, J.J. Ponce, A. Miguel, B. Munárriz, A. Arcusa, J. Florián, M. Méndez, A. Oltra, J.E. Alés, J.M. Baena, R.M. Franquesa, S. Dominguez, E. Jiménez, A. Arcediano, R. Cubedo, C. Llorca, E. García, A.I. Ballesteros, F. Ayala, V. Carañana, P. Martínez, K. Amillano, A. Modolell, L. Estévez, A. Fernández Aramburo, J.V. Alvarez, C. Almanza, A. Romero, Ma J. García, A. Murias, N. Batista, J. Garcia-Mata, A. Arizcum, S. Albiol, M.M. Muñoz, J. M. Cuevas) as well as two GEICAM staff, César Rodríguez and Maribel Casas, for their substantial contribution to the project’s execution. 
+
+© 2013 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at Shanghai Jiaotong University on August 7, 2013 from Copyright © 2013 American Society of Clinical Oncology. All rights reserved. 202.120.2.30 
+
+ 

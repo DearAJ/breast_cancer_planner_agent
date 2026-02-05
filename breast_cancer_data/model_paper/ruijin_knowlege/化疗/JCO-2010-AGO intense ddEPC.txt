@@ -1,0 +1,497 @@
+VOLUME 
+
+28 
+
+䡠 
+
+NUMBER 
+
+17 
+
+䡠 
+
+JUNE 
+
+10 
+
+2010 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Intense Dose-Dense Sequential Chemotherapy With Epirubicin, Paclitaxel, and Cyclophosphamide Compared With Conventionally Scheduled Chemotherapy in High-Risk Primary Breast Cancer: Mature Results of an AGO Phase III Study From the Klinikum Frankfurt Hoechst, Frankfurt; Klinikum Offenbach GmbH, Offenbach; GynäkologischOnkologische Praxis, Hannover; HSK Klinikum, Wiesbaden; University Halle, Halle; Medizinisches Zentrum BonnFriedensplatz; University of Bonn, Bonn; Ev. Krankenhaus Bethesda, Mönchengladbach; University Heidelberg, Heidelberg; University Tuebingen, Tuebingen; University of Cologne, Cologne; GBG Forschungs GmbH, NeuIsenburg; University Jena, Jena; WiSP Research Institute, Langenfeld; University Ulm, Ulm; and Helios Klinikum Berlin, Berlin, Germany; and University of California, Los Angeles, CA. Submitted June 23, 2009; accepted March 2, 2010; published online ahead of print at www.jco.org on May 10, 2010. Written on behalf of the Arbeitsgemeinschaft Gynäkologische Onkologie (AGO) Breast Study Group. Supported by Bristol-Myers Squibb Germany, Amgen Germany, Pharmacia Germany, and Johnson & Johnson Germany. Presented in part at the 40th Annual Meeting of the American Society of Clinical Oncology, June 5-8, 2004, New Orleans, LA, and at the 29th Annual San Antonio Breast Cancer Symposium, December 14-17, 2006, San Antonio, TX. Authors’ disclosures of potential conflicts of interest and author contributions are found at the end of this article. Corresponding author: Volker Moebus, MD, Department of Gynecology and Obstetrics, Klinikum Frankfurt Hoechst, Academic Hospital of the Goethe University Frankfurt, Gotenstrasse 6-8, D-65929, Frankfurt, Germany; e-mail: studien-frauenklinik@KlinikumFrankfurt.de. © 2010 by American Society of Clinical Oncology 0732-183X/10/2817-2874/$20.00 DOI: 10.1200/JCO.2009.24.7643 
+
+2874 
+
+Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christoph Thomssen, Christian Kurbacher, Walther Kuhn, Ulrike Nitz, Andreas Schneeweiss, Jens Huober, Nadia Harbeck, Gunter von Minckwitz, Ingo B. Runnebaum, Axel Hinke, Rolf Kreienberg, Gottfried E. Konecny, and Michael Untch A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Patients with primary breast cancer who have extensive axillary lymph node involvement have a poor prognosis after conventional adjuvant therapy. We compared intense dose-dense (IDD) adjuvant chemotherapy with conventionally scheduled adjuvant chemotherapy in patients with high-risk primary breast cancer. Patients and Methods In this randomized, phase III trial, a total of 1,284 eligible patients with four or more involved axillary lymph nodes were randomly assigned to receive IDD sequential epirubicin, paclitaxel, and cyclophosphamide (IDD-ETC) every 2 weeks or conventionally scheduled epirubicin/cyclophosphamide followed by paclitaxel every three weeks. The primary end point was event-free survival (EFS). Results At a median follow-up of 62 months, 5-year event-free survival rates were 62% in the conventional arm and 70% in the IDD-ETC arm, representing a 28% reduction of the relative risk of relapse (P ⬍ .001). This benefit was independent of menopausal, hormone receptor, or human epidermal growth factor receptor 2 status. The 5-year overall survival rates were 77% versus 82%, representing a 24% reduction of the relative risk of death (P ⫽ .0285). IDD therapy was associated with significantly more nonhematologic and hematologic toxicities, but no treatment-related death occurred. Four occurrences of acute myeloid leukemia or myelodysplastic syndrome (MDS) were observed in the IDD-ETC arm. No severe congestive heart failure was reported. Conclusion IDD-ETC was less well tolerated compared with conventional chemotherapy but significantly improved event-free and overall survivals in patients with high-risk primary breast cancer who had four or more positive axillary lymph nodes. J Clin Oncol 28:2874-2880. © 2010 by American Society of Clinical Oncology 
+
+INTRODUCTION 
+
+Adjuvant chemotherapy for women with breast cancer has undergone major changes. Today, established adjuvant regimens represent well-defined, different levels of therapeutic potency. Triple-drug or four-drug anthracycline-containing regimens— such as fluorouracil (FU), doxorubicin/epirubicin, and cyclophosphamide; or epirubicin followed by cyclophosphamide, methotrexate, and FU— have shown superiority in comparison to cyclophospha- 
+
+mide, methotrexate, and FU.1,2 Incorporating taxanes into anthracycline-based schedules yielded, in most studies, an additional benefit in both diseasefree survival (DFS) and overall survival (OS),3-7 and dose-dense anthracycline-based and paclitaxelbased regimens have shown to be more effective than the conventional dosing schedule.8,9 The importance of dose-intensity for adjuvant chemotherapy in patients with breast cancer has first described by Hryniuk et al.10 Higher dose-intensity can be achieved by either increasing the single dose 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Intense Dose-Dense Chemotherapy in High-Risk Breast Cancer 
+
+per cycle (ie, higher dose) or by reducing the intervals between cycles (ie, dose density).11 The concept called log-cell kill postulated that a given dose of an antineoplastic compound would always kill a certain fraction of the tumor, regardless of the number of cells present.12 On the basis of that model, higher doses are supposed to be effective because the fraction of destroyed cancer cells will increase with intensification of the dose. However, the impact of therapy is not only associated with the tumor-cell kill by each dose but also with the rate of cancer regrowth between cycles. Gompertzian kinetics suggest that micrometastases in the adjuvant setting grow faster than established macrometastases; thus, there is likely a higher regrowth of micrometastases between the cycles. Therefore, it has been hypothesized that the administration of cytotoxic drugs with a shortened interval between treatment would be an even more effective strategy for minimizing residual tumor burden than pure dose escalation.11 The intense dose-dense (IDD) epirubicin, paclitaxel, and cyclophosphamide (ETC) regimen used in this study encompasses the concepts of dose density, higher dose per cycle, and sequential therapy. Epirubicin, paclitaxel, and cyclophosphamide were chosen on the basis of their high single-agent activities and previous findings, which showed that high dosages of anthracycline-based and taxanebased regimens could be administered safely in a dose-dense manner and with promising results.13 Initial results of the IDD-ETC trial have been reported in abstract form.14,15 This article is the first complete reporting. PATIENTS AND METHODS Patients Women with histologically confirmed primary breast cancer of stages II to IIIA with four or more positive axillary lymph nodes were eligible. Additional eligibility criteria included age between 18 and 65 years; M0 status (ie, normal findings on chest radiography, liver ultrasonography, and bone scan); R0 resection of the primary tumor and axilla with a minimum of 10 axillary nodes removed; Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1; normal left ventricular ejection fraction; neutrophils ⱖ 1,500/␮L; platelets ⱖ 100, 000/␮L; serum creatinine, transaminases, and total bilirubin less than 1.25; and alkaline phosphatase less than 3.0 times the institutional upper normal limit. Major exclusion criteria included a history of severe cardiac disease, previous systemic tumor therapy, and simultaneous contralateral breast cancer or any other cancer except for basal cell skin carcinoma. Treatment IDD treatment consisted of sequential administration of epirubicin (150 mg/m2 intravenously [IV] as bolus infusion) every 2 weeks for three cycles followed by paclitaxel (225 mg/m2 IV as a 3-hour infusion) every 2 weeks for three cycles followed by cyclophosphamide (2,500 mg/m2 IV as a 2-hour infusion) every 2 weeks for three cycles. By definition, the ETC regimen was dose dense and used a higher total dose per cycle. Patients received filgrastim subcutaneously (5 ␮g/kg body weight per day) from days 3 to 10 of each cycle. Women in the IDD-ETC arm were additionally randomly assigned to receive epoetin alfa (150 IU/kg three times weekly) during the whole chemotherapy period or no recombinant human erythropoietin. The standard treatment consisted of four cycles of epirubicin/cyclophosphamide (90/600 mg/m2 IV on day 1) followed by four cycles of paclitaxel (175 mg/m2) as a 3-hour infusion (EC3 T). All cycles were administered in 3-week intervals without growth factor support (Fig 2). Radiation of the supraclavicular, infraclavicular, and parasternal lymph nodes, as well as radiation of the breast in patients with partial mastectomy or to the chest wall in case of mastectomy, was recommended in all patients. Patients with hormone receptor–positive tumors received tamoxifen 20 mg/d www.jco.org 
+
+Enrollment (N = 1,284) Random allocation 
+
+Allocated to sequential ETC (n = 685) Received allocated (n = 650) intervention Did not receive allocated (n = 8) intervention Noneligible: (n = 3)* Withdrawal of (n = 3)* consent: Treatment according to (n = 2) arm B: 
+
+Allocation 
+
+Allocated to standard EC T (n = 626) Received allocated (n = 621) intervention Did not receive allocated (n = 5) intervention Noneligible: (n = 0) Withdrawal of (n = 4)* consent: Treatment according to (n = 1) arm A: 
+
+Lost to follow-up (n = 11) Missing documentation (n = 11)* beyond baseline Discontinued (n = 109) intervention Disease progression (n = 3) Toxicity (n = 70) Patient’s wish (n = 22) Major protocol (n = 5) violation Other (n = 9) 
+
+Follow-Up 
+
+Lost to follow-up (n = 11) Missing documentation (n = 11)* beyond baseline Discontinued (n = 57) intervention Disease progression (n = 11) (n = 1) Death Toxicity (n = 19) (n = 11) Patient’s wish Lost to follow-up (n = 2) Other (n = 8) 
+
+Analyzed for primary (n = 641) endpoint Excluded from (n = 17) analysis Noneligible, withdrawal of consent, no data 
+
+Analysis 
+
+Analyzed for primary (n = 611) endpoint Excluded from (n = 17) analysis Withdrawal of consent, no data 
+
+Fig 1. CONSORT trial flow diagram. (*) Excluded from analysis of primary end point. ETC, epirubicin, paclitaxel, and cyclophosphamide; EC3 T, epirubicin and cyclophosphamide followed by paclitaxel. 
+
+for 5 years starting after completion of chemotherapy. After 5 years of tamoxifen treatment, because of the results of the National Cancer Institute of Canada Clinical Trials Group MA. 17 trial16 in postmenopausal patients, extended adjuvant therapy with letrozole for an additional 5 years was recommended. Left ventricular ejection fraction was measured by echocardiography at baseline, after three cycles of epirubicin, at the end of chemotherapy, and at yearly intervals during follow-up. Complete blood counts were obtained weekly during chemotherapy. 
+
+Epirubicin (E) 150 mg/m² q2w x 3 
+
+Paclitaxel (T) 225 mg/m² q2w x 3 
+
+Cyclophosphamide (C) 2,500 mg/m² q2w x 3 
+
+Arm 1 
+
+R 
+
++ TAM G-CSF (Filgrastim) ± Epoetin-α 
+
+EC 90/600 mg/m² q3w x 4 
+
+( ) 
+
+Paclitaxel 175 mg/m² q3w x 4 
+
+Arm 2 
+
++ TAM 
+
+Fig 2. Trial design. q2w, every 2 weeks; G-CSF, granulocyte colony-stimulating factor; TAM, tamoxifen; EC, epirubicin and cyclophosphamide; q3w, every 3 weeks. 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+2875 
+
+Moebus et al 
+
+Statistical Aspects At each participating institution, the study was approved by the local institutional review board. Patients were stratified according to institution, menopausal status, and number of lymph nodes involved (four to nine v ⱖ 10). The study had two primary end points: event-free survival (EFS), with an event defined as locoregional or distant relapse, contralateral breast cancer, second primary cancer occurrence, or death for any reason; and the influence of epoetin alfa on the number of red blood cells for transfusion and the median hemoglobin value. Secondary end points included OS, toxicity, and quality of life. Overall, 1,154 evaluable patients had to be recruited and observed for a median period of 5 years to achieve 80% power to identify an improvement from 60% to 67% in EFS after 5 years at 5% significance (ie, one sided). Some over-recruitment was allowed to increase the statistical validity of the prospectively planned subgroup comparisons in the strata with four to nine and with 10 or more positive nodes; 558 and 598 patients were required to have 80% power for an anticipated improvement from 60% to 70% and from 45% to 55%, respectively. Event-related data were estimated according to the method of Kaplan and Meier17 and were compared between treatment and prognostic groups by using the log-rank test.18 For multivariate analysis, a Cox proportional hazard model was applied. Either Fisher’s exact test or an exact version of the Cochran-Armitage trend test was used to compare toxicity scores. All tests except for the primary hypothesis were two sided and of explorative nature (ie, hypothesis generating). This included all subgroup analyses and multivariate models. 
+
+RESULTS 
+
+Patient Characteristics Between November 1998 and April 2003, a total of 1,284 patients were randomly assigned to a treatment arm. From the 658 and 626 patients allocated to arm A (IDD-ETC) and arm B (EC3 T), respectively, 641 (97%) and 611 (98%) were evaluable for the primary end point analysis (CONSORT diagram, Fig 1). Three patients in the IDD-ETC arm were considered noneligible for the following reasons: cardiac arrhythmia (LOWN IIIB, Bigeminus), liver metastasis present before random assignment, and severe wound healing as a complication. All three patients were excluded from the analysis of the primary end point. The treatment arms were well balanced with respect to demographic and prognostic factors (Table 1). In both study arms, the median number of positive axillary nodes was eight, and 42% of the patients had 10 or more involved axillary lymph nodes. Treatment All planned cycles of chemotherapy could be administered to 91% of patients in the conventional arm and to 84% in the IDD arm. The predominant causes for treatment discontinuation in the IDDETC arm were toxicity (65% of withdrawals) and patient preference (20%). Relapse during treatment occurred more frequently with conventional dosing than intense dosing (ie, 11 v three patients). More than 97% of the women in the conventional arm received the full protocol dose per administered cycles. In the IDD-ETC arm, we observed virtually no dose reduction with epirubicin (mean dose per cycle, 149 mg/m2) and with paclitaxel (mean dose per cycle, 223 mg/m2), and we observed only a minor dose reduction with cyclophosphamide (mean dose per cycle, 2,444 mg/m2). Overall, 93% of all cycles administered in the IDD-ETC arm were applied at full dose. 2876 
+
+© 2010 by American Society of Clinical Oncology 
+
+Table 1. Baseline Demographic and Clinical Characteristics of Patients Patients 
+
+Characteristic Age, years Median Range Premenopausal ECOG performance status ⬎ 0 Breast-conserving surgery Extent of axillary surgery Level I Level II Level III Tumor stage pT1 pT2 pT3 pT4 Lymph nodes, median Examined Positive No. of positive nodes 4-9 ⱖ 10 Grade 1 2 3 Receptor status ER positive PR positive HER2 status Positive Negative Not done Hormonal treatment for ER-/ PR-positive patients Tamoxifen for 5 years AI after 2-3 years of tamoxifen No hormonal treatment Other Radiation therapy Whole breast Whole breast plus boost Internal mammary nodes Supra- and infraclavicular Axillary field Postmastectomy chest wall 
+
+Dose-Dense Sequential Chemotherapy (n ⫽ 643) 
+
+Conventional Chemotherapy (n ⫽ 612) 
+
+No. 
+
+No. 
+
+% 51 28-67 
+
+% 51 21-72 
+
+306 113 274 
+
+48 18 43 
+
+292 116 308 
+
+48 19 50 
+
+— 495 138 
+
+— 78 22 
+
+3 462 138 
+
+0 77 23 
+
+181 362 96 4 
+
+28 56 15 1 
+
+199 330 80 3 
+
+33 54 13 0 
+
+20 8 
+
+20 8 
+
+376 267 
+
+58 42 
+
+358 254 
+
+58 42 
+
+15 310 310 
+
+2 49 49 
+
+11 293 302 
+
+2 48 50 
+
+465 438 
+
+73 69 
+
+438 411 
+
+72 68 
+
+162 371 107 
+
+25 58 17 
+
+150 346 115 
+
+25 57 19 
+
+293 
+
+59 
+
+301 
+
+64 
+
+109 87 10 
+
+21.8 17.4 2 
+
+83 65 18 
+
+17.7 13.9 3.8 
+
+277 204 210 467 305 311 
+
+49 36 37 81 53 54 
+
+308 226 201 483 294 279 
+
+54 39 35 84 51 49 
+
+Abbreviations: ECOG, Eastern Cooperative Oncology Group; ER, estrogen receptor; PR, progesterone receptor; HER2, human epidermal growth factor receptor 2; AI, aromatase inhibitor. 
+
+Both myelosuppression and nonhematologic toxicity were reported as reasons for reduction in roughly equal frequency. Treatment delays occurred in 16% of the IDD and in 12% of the conventional cycles. However, more than 50% of delays were reported to be caused by logistical problems (eg, bank holidays) or patient preference rather than required by toxicity. JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Intense Dose-Dense Chemotherapy in High-Risk Breast Cancer 
+
+Nonhematologic Toxicity Nonhematologic toxicity occurred significantly more often in the IDD-ETC arm, but the incidence of National Cancer Institute grades 3 and 4 toxicity was quite low and was clinically acceptable (Appendix Table A2, online only). In both study arms, no grade 3 congestive heart failure was observed. Prolonged peripheral neuropathy was generally rare and of mild to moderate severity. After a median follow-up duration of 4 years, 2% of the patients in the IDD arm compared with no patients in the conventional arm reported persisting grades 1 or 2 neurotoxicity. Secondary neoplasms were reported in 11 patients (0.9%) during follow-up. With eight events, the frequency was higher in the IDD arm, but this difference did not reach statistical significance (P ⫽ .23). Four occurrences of acute myeloid leukemia or myelodysplastic syndrome (MDS) occurred in the IDD-ETC arm versus none in the standard arm. Efficacy After a median follow-up period of 62 months, 408 events and 253 deaths have been recorded. EFS (182 v 226 events) and OS (114 v 139 events) both favored significantly the IDD-ETC arm. Figure 3A shows the intent-to-treat Kaplan-Meier analysis of EFS according to random assignment. EFS was significantly longer for the IDD-ETC arm (P ⬍ .001 by log-rank test, one sided; hazard ratio [HR], 0.72; 95% CI, 0.59 to 0.87). The HR was 0.69 (95% CI, 0.57 to 0.84) after analysis was adjusted for major prognostic baseline parameters in a multivariate model. At 5 years, the estimated EFS rates for the IDDETC arm and the conventional arm were 70% (95% CI, 68% to 75%) versus 62% (95% CI, 59% to 67%), respectively. For all patients, bone (42%), liver (33%), and lung (18%) were the most frequent sites of recurrence. Brain metastases occurred in 9% of the patients. The risk of mortality was reduced by 24% (HR, 0.76; 95% CI, 0.59 to 0.97; P ⫽ .029 by log-rank test, two sided). The 5-year survival rates according to the Kaplan-Meier estimation were 82% (95% CI, 79% to 85%) in the IDD-ETC arm compared with 77% (95% CI, 74% to 81%) in the standard arm (Fig 3B). Prognostic/Predictive Factors The results of univariate analyses regarding the effect of different potential prognostic factors on EFS are listed in Table 2. Lower numwww.jco.org 
+
+A Event-Free Survival (proportion) 
+
+1.0 iddETC 5-year EFS rate: 70% 
+
+0.8 0.6 0.4 
+
+P < .001, one-sided (log-rank test) HR, 0.72; 95% CI, 0.59 to 0.87 
+
+0.2 
+
+EC 
+
+T 5-year EFS rate: 62% 
+
+ETC: n = 641, 182 events EC T: n = 611, 226 events 
+
+10 
+
+0 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+90 
+
+Time (months) 
+
+B 
+
+1.0 
+
+Overall Survival (proportion) 
+
+Hematologic Toxicity Hematologic toxicity was more pronounced in the IDD arm (Appendix Table A1, online only). The difference was highly significant (P ⬍ .001) with respect to all three peripheral-blood cell lines. In the IDD-ETC arm, the incidence was highest during treatment with cyclophosphamide and was modest with paclitaxel therapy. All patients had full recovery of their peripheral-blood counts at the end of treatment. Thrombocytopenia was no major problem in either arm. At least one episode of febrile neutropenia was recorded in only 5% of the patients overall; 7% was observed in the IDD-ETC arm, and 2% was observed in the EC3T arm (P ⬍ .001). Only six patients (1%) in the EC3T arm compared with 127 patients (20%) in the IDD-ETC arm received red blood cell transfusions (P ⬍ .001 by Fisher⬘s exact test). The sub–random assignment with or without epoetin alfa had no effect on EFS or OS in the IDD-ETC arm.19 Detailed results will be published separately. We observed no toxic death during treatment in either of the arms. 
+
+iddETC 5-year OS rate: 82% 
+
+0.8 0.6 0.4 
+
+EC 
+
+T 5-year OS rate: 77% 
+
+P = .029, two-sided (log-rank test) HR, 0.76; 95% CI, 0.59 to 0.97 
+
+0.2 
+
+0 
+
+ETC: n = 641, 114 events EC T: n = 611, 139 events 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+90 
+
+Time (months) Fig 3. Event-free survival (EFS) and overall survival (OS) by treatment arm: (A) EFS; (B) OS. iddETC, intense dose-dense epirubicine, paclitaxel, and cyclophosphamide; EC3 T, epirubicin and cyclophosphamide followed by paclitaxel; HR, hazard ratio. 
+
+ber of positive nodes, smaller primary tumor size, positive hormone receptor status, negative human epidermal growth factor receptor 2 (HER2)status,alowergrade(ie,grades1and2),andtumormarkervalues (ie, carcinoembryonic antigen and CA 15-3) within the normal range 
+
+Table 2. Univariate and Multivariate Analysis of Event-Free Survival Univariate P 
+
+Variable Treatment arm, dose-dense v conventional Menopausal status pT 2/3 v pT 1 ⱖ 10 v 4-9 positive nodes Grade, 3 v 1/2 Hormone receptor status† HER2 Baseline hemoglobin, ⬍ v ⱖ 12 g/dL CEA, normal range v elevated‡ CA 15-3, normal range v elevated‡ 
+
+Multivariate (reduced model) P 
+
+HR 
+
+95% CI 
+
+⬍ .001ⴱ .79 ⬍ .001 ⬍ .001 ⬍ .001 ⬍ .001 .011 
+
+⬍ .001 — .0023 ⬍ .001 ⬍ .001 ⬍ .001 NS 
+
+0.69 — 1.44 1.66 1.57 0.60 — 
+
+0.57 to 0.84 — 1.14 to 1.81 1.36 to 2.03 1.27 to 1.94 0.48 to 0.74 — 
+
+.35 
+
+— 
+
+— 
+
+— 
+
+⬍ .001 
+
+— 
+
+— 
+
+— 
+
+.059 
+
+— 
+
+— 
+
+— 
+
+NOTE. Cells with — indicate variables not in the model; tumor markers were not in the model because of high frequency of missing values. Cell with no independent significance was dropped from the model. Abbreviations: HER2, human epidermal growth factor receptor 2; CEA, carcinoembryonic antigen. ⴱ Two sided. †At least one positive receptor status v both negative. ‡Prior to the first cycle of chemotherapy. 
+
+© 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+2877 
+
+Moebus et al 
+
+A Event-Free Survival (proportion) 
+
+1.0 iddETC 5-year EFS rate: 76% 
+
+0.8 0.6 0.4 0.2 
+
+0 
+
+EC 
+
+T 5-year EFS rate: 70% 
+
+P = .099, two-sided (log-rank test) HR, 0.79; 95% CI, 0.60 to 1.05 test for interaction: P = .29 ETC: n = 375, 91 events EC T: n = 358, 107 events 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+90 
+
+Time (months) 
+
+B Event-Free Survival (proportion) 
+
+1.0 0.8 iddETC 5-year EFS rate: 63% 
+
+0.6 0.4 0.2 
+
+0 
+
+P = .0012, two-sided (log-rank test) HR, 0.64; 95% CI, 0.49 to 0.84 EC 
+
+T 5-year EFS rate: 51% 
+
+ETC: n = 266, 91 events EC T: n = 253, 119 events 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+90 
+
+Time (months) Fig 4. Event-free survival (EFS) by therapy and nodal status: (A) four to nine positive lymph nodes (LNs); (B) 10 or more positive LNs. iddETC, intense dose-dense epirubicine, paclitaxel, and cyclophosphamide; EC3 T, epirubicin and cyclophosphamide followed by paclitaxel; HR, hazard ratio. 
+
+were associated with superior EFS, whereas menopausal status and baseline hemoglobin had no significant impact. Tumor markers were measured as a baseline test before the first cycle of chemotherapy. Twenty-one of 32 patients with elevated carcinoembryonic antigen levels (⬎ 5 ng/mL) and 56 of 141 patients with elevated CA 15-3 levels (⬎ 25 U/mL) have experienced relapse. All parameters identified by univariate analysis (including the random assignment arm), except for HER2, retained an independent prognostic information in a multivariate Cox model. In a prospectively planned subgroup analysis of EFS, the treatment arms were compared separately for the two lymph node strata (Figs 4A and 4B). Chemotherapy intensification seems to have a more pronounced effect in the subgroup with the highest tumor load (P ⫽ .0012), whereas the difference in the group with four to nine positive nodes did not yet meet the preset criterion for significance (P ⫽ .099). The test for heterogeneity of the treatment effect was not significant (P ⫽ .29). The impact of randomly assigned treatment on EFS in other major subgroups is shown in Figure 5. There is a clear trend toward a better effect in patients with less favorable tumor biology. However, we could not identify any subgroup in which the IDD regimen did not yield any advantage. For example, patients with HER2-negative as well as estrogen receptor–positive disease showed a statistically significant improvement in EFS. P values were .012 and .030 for HER2-negative and HER2-positive disease and were .013 for both patients with ER-negative and ER-positive disease. DISCUSSION 
+
+Dose-dense chemotherapy has become one of the possible standards of adjuvant chemotherapy. This study and the Cancer and Leukemia 2878 
+
+© 2010 by American Society of Clinical Oncology 
+
+Group B (CALGB) trial CALGB C97418 have independently shown that dose-dense chemotherapy leads to superior EFS and OS in comparison to conventionally dosed chemotherapy. Although we used an equi-effective dose of epirubicin instead of doxorubicin, the regimens in both of the control arms of CALGB C9741 and our study appear to be comparable. Moreover, the median follow-up duration in both trialsis5years.However,ourpatientpopulationwasdifferentfromthatof the CALGB C9741 trial. Our study was conducted in patients with highrisk primary breast cancer who had four or more positive axillary lymph nodes (average of eight positive axillary lymph nodes), of which 42% of the patients had 10 or more positive axillary lymph nodes. In contrast, the median number of involved nodes in the CALGB C9741 trial was three, and only 12% had 10 or more involved axillary lymph nodes. Furthermore, in contrast to the CALGB C9741, which was purely based on the concepts of dose density and sequential application, with total dose of each agents in both regimens equal, the IDD-ETC regimen differednotonlybyhigherdosedensitybutalsobyahighertotaldosethan the conventional arm. Even if it remains somewhat uncertain as to which variable contributed most to the improved outcome, the ArbeitsgemeinschaftfürGynäkologischeOnkologie(AGO)trialappearstobeconsistent with the hypothesis that dose density matters when using anthracyclines and paclitaxel; thus, the AGO trial represents a confirmatory trial of the CALGB C9741 study. Considering present knowledge, both trials have a suboptimal standard arm, which could not be foreseen when these trials were started. At that time, four cycles of doxorubicin/cyclophosphamide or epirubicin/cyclophosphamide followed by four cycles of paclitaxel at every-3-week intervals, were a modern standard of care in lymph node–positive disease.6,7 Other studies have suggested that the benefit of taxane-based or dose-dense chemotherapy may be restricted to patients with HER2-positive20 or steroid hormone receptor–negative disease.21 Our study also demonstrated a benefit of IDDETC in patients with estrogen receptor–positive breast cancer, which was not seen for dose-dense therapy in a retrospective subset analysis of the CALGB C9741 data.9 The possible reason for this difference could be the higher nodal status of our patient population, which may effectively erase the IDD and HER2/estrogen receptor interaction. However, not all adjuvant dose-dense trial data were viewed as positive. The GONO-MIG (Gruppo Oncologico Nord OvestMammella InterGruppo) trial compared FU, epirubicin, and cyclophosphamide administered every 3 weeks versus the same regimen given every 2 weeks with granulocyte colony-stimulating factor support.22 As in the CALGB study, the chemotherapy dose per cycle and total number of cycles were held constant, and only the interval between cycles varied. The difference between these two arms did not reach statistical significance for either recurrence or death. These negative results may be explained by the study design. The GONO-MIG trial applied a substandard version of the FEC regimen (ie, FU at 600 mg/m2, epirubicin at 60 mg/m2, and cyclophosphamide at 600 mg/m2 ⫻ six cycles). The total dose of epirubicin in both arms was 360 mg/m2, which corresponded to only 50% of the total dose in the highly effective Canadian CEF regimen1 (ie, cyclophosphamide 75 mg/m2 orally days 1 through 14, epirubicin 60 mg/m2 days 1 and 8, andFU500mg/m2 intravenouslyday1and8forsixcycles)ortoonly60% ofthetotaldoseintheFrenchFE100Cregimen(FU500mg/m2,epirubicin 100 mg/m2, and cyclophosphamide 500 mg/m2 for six cycles).23 Careful consideration of the potential contribution of both dose density and higher dose may be the way to improve results. This concept is additionally supported by the recently published ECOG/ JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+Intense Dose-Dense Chemotherapy in High-Risk Breast Cancer 
+
+Premenopausal Postmenopausal 4-9 lymph nodes ≥ 10 lymph nodes Hormone rec. pos. Hormone rec. neg. HER2 pos. HER2 neg. Grade 1/2 Grade 3 pT1 > pT1 Non–triple-neg. Triple-neg. Total 
+
+0.6 
+
+0.8 
+
+1 
+
+1.2 
+
+1.4 
+
+Hazard ratio (and 95% confidence interval; HR < 1.0 favors sequential chemotherapy) Fig 5. Hazard plot of treatment effect in major subgroups. Rec, receptor; pos, positive; neg, negative; HER2, human epidermal growth factor receptor 2; HR, hazard ratio. 
+
+Intergroup trial ECOG 1199, which compared the every-3-week versus weekly administration of paclitaxel or docetaxel after four cycles of doxorubicin/cyclophosphamide.24 In a prospectively planned subgroup analysis of this four-arm trial, only the weekly paclitaxel application (80 mg/m2), which was dose dense and higher dose in comparison with the weekly docetaxel arm (35 mg/m2), showed a significant superior DFS and OS compared with the predefined standard arm (ie, paclitaxel 175 mg/m2 every 3 weeks). Four occurrences (0.6% of patients) of secondary leukemia/MDS were reported in the IDD-ETC arm only. This corresponds to published data of anthracycline and (high-dose) cyclophosphamide regimens. With 10 years of follow-up, 5 occurrences (1.4% of patients) of secondary leukemia/MDS were reported for patients receiving the Canadian CEF regimen.1 The authors found no additional increase of leukemia in comparison with the 5-year follow-up data. Praga et al25 reviewed 19 adjuvant trials with epirubicin and cyclophosphamide in 2005. Depending on the total dose of both epirubicin and cyclophosphamide, patients had a 8-year cumulative probability of secondary leukemia/MDS ranging between 0.37% and 4.97%. Given that 42% of the patients had 10 or more positive lymph nodes, with a median number of eight positive lymph nodes, a 5-year OS rate of 82% in the IDD-ETC arm represents, to our knowledge, the best result ever reported in such a high-risk group of patients with breast cancer. Of particular interest is that these survival data were achieved without upfront or first-line therapy with aromatase inwww.jco.org 
+
+hibitors, bisphosphonates, or trastuzumab. The superiority of the IDD-ETC regimen was independent of menopausal, estrogen receptor, and HER2 status. In conclusion, IDD-ETC is a highly effective, feasible, and safe regimen with manageable toxicity. Even in the upcoming era of targeted therapies, chemotherapy will remain a cornerstone of the adjuvant treatment in patients with breast cancer. Future research should focus on predictive factors for different chemotherapeutic regimens and on combining targeted therapies with dose-dense regimens to continue this incremental advance. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated. For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: None Consultant or Advisory Role: Hans-Joachim Lueck, Bristol-Myers Squibb (C), Astra Zeneca (C); Andreas du Bois, Bristol-Myers Squibb (C); Christoph Thomssen, © 2010 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+2879 
+
+Moebus et al 
+
+Bristol-Myers Squibb (C), Amgen (C), Pfizer (C); Jens Huober, sanofi-aventis (C), Bristol-Myers Squibb (C), Amgen (C), Roche (C); Nadia Harbeck, Bristol-Myers Squibb (C); Ingo B. Runnebaum, PharmaMar (C), AstraZeneca (C); Michael Untch, Bristol-Myers Squibb (C), Amgen (C) Stock Ownership: None Honoraria: Volker Moebus, Amgen, Bristol-Myers Squibb, GlaxoSmithKline, Novartis, Pfizer, Roche; Christian Jackisch, Bristol-Myers Squibb; Hans-Joachim Lueck, Bristol-Myers Squibb, Roche, GlaxoSmithKline; Andreas du Bois, Bristol- Myers Squibb; Christoph Thomssen, Bristol-Myers Squibb, Amgen, Pfizer; Ulrike Nitz, Sanofi-Aventis, Amgen, Roche; Jens Huober, sanofi-aventis, Roche; Nadia Harbeck, Bristol-Myers Squibb; Ingo B. Runnebaum, Bristol-Myers Squibb; Rolf Kreienberg, Astra Zeneca, GlaxoSmithKline, sanofi-aventis, Pfizer; Gottfried E. Konecny, sanofi-aventis, Genentech; Michael Untch, Bristol-Myers Squibb, Amgen Research Funding: Volker Moebus, Amgen, Bristol-Myers Squibb, Roche, Johnson & Johnson; Andreas du Bois, Bristol-Myers Squibb; Christoph Thomssen, Bristol-Myers Squibb; Ulrike Nitz, sanofi-aventis, Amgen, Roche; Gottfried E. Konecny, Amgen, GlaxoSmithKline; Michael Untch, Bristol-Myers Squibb, Amgen Expert Testimony: None Other Remuneration: Christoph Thomssen, Bristol-Myers Squibb, Amgen, Pfizer; Ingo B. Runnebaum, Bristol-Myers Squibb 
+
+AUTHOR CONTRIBUTIONS Conception and design: Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christoph Thomssen, Christian 
+
+REFERENCES 1. Levine MN, Pritchard KI, Bramwell VHC, et al: Randomized trial comparing cyclophosphamide, epirubicin, and fluorouracil with cyclophosphamide, methotrexate, and fluorouracil in premenopausal women with node-positive breast cancer: Update of National Cancer Institute of Canada Clinical Trials Group Trial MA5. J Clin Oncol 23:5166-5170, 2005 2. Poole CJ, Earl HM, Hiller L, et al: NEAT Investigators and the SCTBG: Epirubicin and cyclophosphamide, methotrexate, and fluorouracil as adjuvant therapy for early breast cancer. N Engl J Med 355:1851-1862, 2006 3. Roché H, Fumoleau P, Spielmann M, et al: Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: The FNCLCC PACS 01 Trial. J Clin Oncol 24:5664-5671, 2006 4. Martin M, Pienkowski T, Mackey J, et al: Breast Cancer International Research Group 001 Investigators: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 5. Francis P, Crown J, Di Leo A, et al: Adjuvant chemotherapy with sequential or concurrent anthracycline and docetaxel: Breast International Group 02-98 randomized trial. J Natl Cancer Inst 100:121-133, 2008 6. Henderson IC, Berry DA, Demetri GD, et al: Improved outcomes from adding sequential paclitaxel but not from escalating doxorubicin dose in an adjuvant chemotherapy regimen for patients with node-positive primary breast cancer. J Clin Oncol 21:976-983, 2003 7. Mamounas EP, Bryant J, Lembersky BC, et al: Paclitaxel after doxorubicin plus cyclophosphamide as adjuvant chemotherapy for node-positive breast cancer: Results from NSABP-B 28. J Clin Oncol 23:3686-3696, 2005 
+
+Kurbacher, Walther Kuhn, Ulrike Nitz, Nadia Harbeck, Ingo B. Runnebaum, Axel Hinke, Rolf Kreienberg, Gottfried E. Konecny, Michael Untch Administrative support: Volker Moebus, Rolf Kreienberg Provision of study materials or patients: Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christoph Thomssen, Christian Kurbacher, Ulrike Nitz, Andreas Schneeweiss, Jens Huober, Nadia Harbeck, Gunter von Minckwitz, Ingo B. Runnebaum, Rolf Kreienberg, Michael Untch Collection and assembly of data: Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christian Kurbacher, Walther Kuhn, Andreas Schneeweiss, Nadia Harbeck, Axel Hinke, Rolf Kreienberg, Michael Untch Data analysis and interpretation: Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christoph Thomssen, Christian Kurbacher, Andreas Schneeweiss, Jens Huober, Nadia Harbeck, Gunter von Minckwitz, Axel Hinke, Michael Untch Manuscript writing: Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christian Kurbacher, Andreas Schneeweiss, Nadia Harbeck, Gunter von Minckwitz, Axel Hinke, Michael Untch Final approval of manuscript: Volker Moebus, Christian Jackisch, Hans-Joachim Lueck, Andreas du Bois, Christoph Thomssen, Christian Kurbacher, Walther Kuhn, Ulrike Nitz, Andreas Schneeweiss, Jens Huober, Nadia Harbeck, Gunter von Minckwitz, Ingo B. Runnebaum, Axel Hinke, Rolf Kreienberg, Gottfried E. Konecny, Michael Untch 
+
+8. Citron ML, Berry DA, Cirrincione C, et al: Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: First report of intergroup trial C9741/Cancer and Leukemia Group B Trial 9741. J Clin Oncol 21:1431-1439, 2003 9. Hudis C, Citron M, Berry D, et al: Five year follow-up of INT C9741: Dose-dense chemotherapy is safe and effective. Breast Cancer Res Treat 94:S20, 2005 (suppl; abstr 41) 10. Hryniuk W, Levine MN: Analysis of dose intensity for adjuvant chemotherapy trials in stage 2 breast cancer. J Clin Oncol 4:1162-1170, 1986 11. Norton L: A Gompertzian model of human breast cancer growth. Cancer Res 48:7067-7071, 1988 12. Skipper HE: Kinetics of mammary tumor cell growth and implications for therapy. Cancer 28: 1479-1499, 1971 13. Hudis C, Fornier M, Riccio L, et al: 5-year results of dose-intensive sequential adjuvant chemotherapy for woman with high-risk node-positive breast cancer: A phase II study. J Clin Oncol 17:1118, 1999 14. Möbus VJ, Untch M, du Bois A, et al: Dosedense sequential chemotherapy with epirubicin, paclitaxel, and cyclophosphamide (ETC) is superior to conventional dosed chemotherapy in high-risk breast cancer patients (ⱖ 4⫹ LN): First results of an AGO trial. J Clin Oncol 22:6s, 2004 (suppl; abstr 513) 15. Möbus VJ, Lueck HJ, Thomssen C, et al: Dose-dense sequential chemotherapy with epirubicin, paclitaxel, and cyclophosphamide (ETC) in comparison to conventional dosed chemotherapy in high-risk breast cancer patients (ⱖ 4⫹ LN): Mature results of an AGO trial. Breast Cancer Res Treat 100:S20, 2006 (suppl 1; abstr 43) 16. Goss PE, Ingle JN, Martino S, et al: Randomized trial of letrozole following tamoxifen as extended adjuvant therapy in receptor-positive breast 
+
+cancer: Updated findings from NCIC CTG MA. 17. J Natl Cancer Inst 97:1262-1271, 2005 17. Kaplan EL, Meier P: Nonparametric estimation from incomplete observations. J Am Stat Assoc 53:457-481, 1958 18. Peto R, Peto J: Asymptotically efficient rank invariant test procedures. J R Stat Soc A 135:185207, 1972 19. Möbus V, Untch M, Thomssen C, et al: The impact of epoetin-alpha on anemia, red blood cell transfusions, and survival in breast cancer patients treated with dose-dense sequential chemotherapy: Mature results of an AGO phase III study (ETC trial). J Clin Oncol 25:18s, 2007 (suppl; abstr 569) 20. Hayes DF, Thor AD, Dressler LG, et al: HER2 and response to paclitaxel in node-positive breast cancer. N Engl J Med 357:1496-1506, 2007 21. Berry DA, Cirrincione C, Henderson IC, et al: Estrogen-receptor status and outcomes of modern chemotherapy for patients with node-positive breast cancer. JAMA 295:1658-1667, 2006 22. Venturini M, Del Mastro L, Aitini E, et al: Dose-dense adjuvant chemotherapy in early breast cancer patients: Results from a randomized trial. J Natl Cancer Inst 97:1724-1733, 2005 23. Bonneterre J, Roché H, Kerbrat P, et al: Epirubicin increases long-term survival in adjuvant chemotherapy of patients with poor-prognosis, node-positive, early breast cancer: 10-year follow-up results of the French Adjuvant Study Group 05 randomized trial. J Clin Oncol 23:2686-2693, 2005 24. Sparano JA, Wang M, Martino S, et al: Weekly paclitaxel in the adjuvant treatment of breast cancer. N Engl J Med 358:1663-1671, 2008 25. Praga C, Bergh J, Bliss J, et al: Risk of acute myeloid leukemia and myelodysplastic syndrome in trials of adjuvant epirubicin for early breast cancer: Correlation with doses of epirubicin and cyclophosphamide. J Clin Oncol 23:4179-4191, 2005 
+
+■ ■ ■ 
+
+2880 
+
+© 2010 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by charlesworth on June 28, 2010 from 218.82.152.78. Copyright © 2010 by the American Society of Clinical Oncology. All rights reserved. 
+
+ 

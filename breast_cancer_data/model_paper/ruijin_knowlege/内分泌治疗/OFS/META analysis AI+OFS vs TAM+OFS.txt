@@ -1,0 +1,741 @@
+Articles 
+
+Aromatase inhibitors versus tamoxifen in premenopausal women with oestrogen receptor-positive early-stage breast cancer treated with ovarian suppression: a patient-level meta-analysis of 7030 women from four randomised trials Early Breast Cancer Trialists’ Collaborative Group (EBCTCG)* 
+
+Summary Lancet Oncol 2022; 23: 382–92 This online publication has been corrected. The corrected version first appeared at thelancet.com/oncology on March 28, 2022 Published Online February 3, 2022 https://doi.org/10.1016/ S1470-2045(21)00758-0 *Full list of members available at https://www.ctsu.ox.ac.uk/ research/ebctcg Correspondence to: EBCTCG Secretariat, Clinical Trial Service Unit, Nuffield Department of Population Health, Richard Doll Building, Oxford OX3 7LF, UK bc.overview@ctsu.ox.ac.uk 
+
+Background For women with early-stage oestrogen receptor (ER)-positive breast cancer, adjuvant tamoxifen reduces 15-year breast cancer mortality by a third. Aromatase inhibitors are more effective than tamoxifen in postmenopausal women but are ineffective in premenopausal women when used without ovarian suppression. We aimed to investigate whether premenopausal women treated with ovarian suppression benefit from aromatase inhibitors. Methods We did a meta-analysis of individual patient data from randomised trials comparing aromatase inhibitors (anastrozole, exemestane, or letrozole) versus tamoxifen for 3 or 5 years in premenopausal women with ER-positive breast cancer receiving ovarian suppression (goserelin or triptorelin) or ablation. We collected data on baseline characteristics, dates and sites of any breast cancer recurrence or second primary cancer, and dates and causes of death. Primary outcomes were breast cancer recurrence (distant, locoregional, or contralateral), breast cancer mortality, death without recurrence, and all-cause mortality. As distant recurrence invariably results in death from breast cancer several years after the occurrence, whereas locoregional recurrence and new contralateral breast cancer are not usually fatal, the distant recurrence analysis is shown separately. Standard intention-to-treat log-rank analyses estimated first-event rate ratios (RR) and their confidence intervals (CIs). Findings We obtained data from all four identified trials (ABCSG XII, SOFT, TEXT, and HOBOE trials), which included 7030 women with ER-positive tumours enrolled between June 17, 1999, and Aug 4, 2015. Median follow-up was 8·0 years (IQR 6·1–9·3). The rate of breast cancer recurrence was lower for women allocated to an aromatase inhibitor than for women assigned to tamoxifen (RR 0·79, 95% CI 0·69–0·90, p=0·0005). The main benefit was seen in years 0–4 (RR 0·68, 99% CI 0·55–0·85; p<0·0001), the period when treatments differed, with a 3·2% (95% CI 1·8–4·5) absolute reduction in 5-year recurrence risk (6·9% vs 10·1%). There was no further benefit, or loss of benefit, in years 5–9 (RR 0·98, 99% CI 0·73–1·33, p=0·89) or beyond year 10. Distant recurrence was reduced with aromatase inhibitor (RR 0·83, 95% CI 0·71–0·97; p=0·018). No significant differences were observed between treatments for breast cancer mortality (RR 1·01, 95% CI 0·82–1·24; p=0·94), death without recurrence (1·30, 0·75–2·25; p=0·34), or all-cause mortality (1·04, 0·86–1·27; p=0·68). There were more bone fractures with aromatase inhibitor than with tamoxifen (227 [6·4%] of 3528 women allocated to an aromatase inhibitor vs 180 [5·1%] of 3502 women allocated to tamoxifen; RR 1·27 [95% CI 1·04–1·54]; p=0·017). Non-breast cancer deaths (30 [0·9%] vs 24 [0·7%]; 1·30 [0·75–2·25]; p=0·36) and endometrial cancer (seven [0·2%] vs 15 [0·3%]; 0·52 [0·22–1·23]; p=0·14) were rare. Interpretation Using an aromatase inhibitor rather than tamoxifen in premenopausal women receiving ovarian suppression reduces the risk of breast cancer recurrence. Longer follow-up is needed to assess any impact on breast cancer mortality. Funding Cancer Research UK, UK Medical Research Council. Copyright © 2022 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 licence. 
+
+Introduction For women with early-stage hormone receptor-positive breast cancer, adjuvant treatment with 5 years of the selective oestrogen receptor modulator tamoxifen reduces their risk of death from breast cancer at 15 years by about one third.1 Aromatase inhibitors are, for postmenopausal women, an even more effective endocrine treatment than tamoxifen, with further proportional reductions in recurrence rates of about 30%.2 Aromatase inhibitors, 382 
+
+which block the conversion of androgens into oestrogens, are ineffective in premenopausal women, in the absence of ovarian suppression, because compensatory physio­ logical responses induce ovarian oestrogen production. However, in premenopausal women treated with ovarian function suppression or ablation, another efficacious endocrine treatment,3 this physiological response is overcome and aromatase inhibitors might, therefore, also be more efficacious than tamoxifen at preventing breast www.thelancet.com/oncology Vol 23 March 2022 
+
+Articles 
+
+Research in context Evidence before this study A previous Early Breast Cancer Trialists’ Collaborative Group (EBCTCG) meta-analysis of trials of aromatase inhibitors versus tamoxifen in postmenopausal women with early-stage oestrogen receptor (ER)-positive breast cancer has shown that aromatase inhibitors reduce recurrence rates by about 30% compared with tamoxifen over the 5-year treatment period. Aromatase inhibitors have not been shown to be efficacious in premenopausal women; however, premenopausal women treated with ovarian suppression might benefit from aromatase inhibitors. The EBCTCG’s ongoing extensive searches of bibliographic databases, including MEDLINE, Embase, the Cochrane Library, and meeting abstracts, from database inception to July 31, 2020, identified four trials comparing aromatase inhibitors with tamoxifen in premenopausal women receiving ovarian suppression. Individual trials reported inconsistent results. 
+
+Added value of this study This collaborative meta-analysis collated, checked, and analysed individual patient-level data from 7030 women in the four randomised trials. Aromatase inhibitors reduced the rate of breast cancer recurrence compared with tamoxifen. The absolute reduction in the 5-year risk of breast cancer recurrence was 3·2%, but no difference was apparent in breast cancer mortality. Few non-breast cancer deaths occurred. 
+
+cancer recurrence.4 To test this hypothesis, at least four randomised trials have compared aromatase inhibitors with tamoxifen in premenopausal women receiving ovarian suppression or ablation but with conflicting results.5–9 This collaborative meta-analysis of individual patient data from these trials aims to better define the benefits and risks of aromatase inhibitors compared with tamoxifen in women who have their ovarian function suppressed. 
+
+status; human epidermal growth factor receptor 2 (HER2) status; and dates of any locoregional, contralateral, or distant breast cancer recurrence, other second primary cancer (including endometrial cancer), bone fracture, and death; and cause of death. The primary outcomes were any recurrence of invasive breast cancer (distant, locoregional, or new primary in the contralateral breast), breast cancer mortality, death without recurrence, and all-cause mortality. As distant recurrence invariably results in death from breast cancer several years after the occurrence, whereas locoregional recurrence and new contralateral breast cancer are not usually fatal, the distant recurrence analysis is shown separately. Secondary outcomes were incidence and site of second primary cancers (including endometrial cancer), and bone fracture. Prespecified primary sub­ group investigations for any recurrence, distant recur­ rence, and breast cancer mortality were follow-up period (years 0–1, 2–4, 5–9, and ≥10), site of recurrence, age, BMI, nodal status, PR status, tumour diameter, histo­ logical tumour grade, histology (ductal or lobular), HER2 status, use or not of neoadjuvant or adjuvant chemo­therapy, and use or not of bisphosphonate. 
+
+Methods 
+
+Study design and participants Methods of identifying trials, data collection, checking, analysis, and presentation have been described in previous EBCTCG reports,2,10–12 and conform to the Preferred Reporting Items for Systematic Review and Meta-Analyses (Individual Patient Data).13 Trials were eligible if they began before Jan 1, 2010, and randomly assigned premenopausal women with oestrogen receptor (ER)-positive operable breast cancer (defined as ER expression in at least 1% of tumour cells, by immunohistochemistry in SOFT,7,8 TEXT,7,8 and HOBOE;9 ABCSG XII5,6 used Reiner score for staining of tumour-cell nuclei to define ER positivity [score ≥3; ie, ≥10% cells are positive]) to an aromatase inhibitor plus ovarian function supression versus tamoxifen plus ovarian function supression. Most trials included a small number of women with ER-negative, progesterone receptor (PR)-positive tumours but these individuals were excluded from this meta-analysis because the benefits of endocrine therapy are uncertain for such women.1 Between 2018 and 2021, we requested individual patientlevel data from trial groups on randomisation date; allocated treatment; use of chemotherapy; age; body-mass index (BMI); tumour dia­meter; tumour grade; histology; involvement of loco­regional lymph nodes; ER and PR www.thelancet.com/oncology Vol 23 March 2022 
+
+Implications of all the available evidence For premenopausal women with early-stage, ER-positive breast cancer treated with ovarian suppression, use of an aromatase inhibitor rather than tamoxifen further reduces the risk of breast cancer recurrence. 
+
+Statistical analysis Statistical methods (stratified log-rank statistics, KaplanMeier graphs) are described in previous EBCTCG reports,2,10–12 and in the statistical analysis plan (appendix). Briefly, time-to-event analyses were stratified by age, nodal status, and trial. Each analysis compared all women randomised, regardless of treatment compliance (intention-to-treat analyses). Log-rank statistics were used to compare the treatment effects (aromatase inhibitor versus tamoxifen) on all outcomes (primary and secondary), and, for each outcome, to estimate first-event rate ratios (RRs) and their 95% CIs. If a log-rank statistic 
+
+See Online for appendix 
+
+383 
+
+Articles 
+
+(observed [o]–expected [e]) has variance v, then, defining z=(o–e)/sqrt(v) and b=(o–e)/v, where b has variance 1/v, the outcome RR (aromatase inhibitor vs tamoxifen) is estimated as exp(b) with SE=(RR–1)/z. 95% CIs and 99% CIs for RRs are derived from those for b (by normal approximations). Two-sided significance with p values of less than 0·05 were considered significant for analyses of the primary and secondary outcomes and, to compensate for multiple investigations, p values of less than 0·01 were considered significant for subgroup analyses. 95% CIs were estimated for meta-analyses, and 99% CIs were estimated for individual trials or subgroups. χ² tests are used to assess tests for heterogeneity and test for trends in subgroup analyses.11 Breast cancer mortality RRs are estimated by subtracting log-rank statistics for mortality without recurrence from those of overall mortality, which avoids the need to determine which deaths after recurrence were from breast cancer. If, as observed in the EBCTCG meta-analysis2 of aromatase inhibitors versus tamoxifen in postmenopausal women, almost all of the benefits of aromatase inhibitors over tamoxifen were seen in the period when the treatments differed, then subgroup analyses of any recurrence just in this period would also be undertaken as a post-hoc analysis to enhance statistical power to investigate any variability in treatment efficacy by patient or tumour characteristics. We also did post-hoc analyses comparing the nodal status subgroup finding for premenopausal women with those we have previously reported for aromatase inhibitor versus tamoxifen in postmenopausal women. Data from premenopausal and postmenopausal will also be combined to show the effects by nodal status overall. Forest plots and KaplanMeier graphs describe the separate trials and their combined results, and subgroup analyses explore whether proportional risk reductions depend on patient or tumour-related characteristics. In-house FORTRAN programs were used for statistical analyses. 
+
+Role of the funding source The funders of the study had no roles in the study design, data collection, data analysis, data interpretation, or writing of the report. 
+
+Results Individual patient data were provided for all four identi­ fied, relevant trials,5–9 including 7230 premeno­ pausal women receiving ovarian suppression or ablation, who were enrolled between June 17, 1999, and Aug 4, 2015, and randomised between an aromatase inhibitor and tamoxifen (table). This report is restricted to 7030 (97·2%) women with ER-positive tumours. 4231 (60·2%) of 7030 women had node-negative cancer. Women in SOFT, TEXT, and HOBOE were randomly assigned to either 5 years of an aromatase inhibitor or 5 years of tamoxifen, whereas women in ABCSG XII were randomly assigned to 3 years of an aromatase 384 
+
+inhibitor or 3 years of tamoxifen, with or without zoledronic acid. The aromatase inhibitor used was anastrozole in ABCSG XII, exemestane in SOFT and TEXT, and letrozole in HOBOE. HOBOE also included a letrozole plus zoledronic acid group, which was excluded from these analyses because there was no control group receiving tamoxifen and zoledronic acid. Use of bisphos­phonates for declining bone density was optional in SOFT and TEXT; however, the routine use of bisphosphonates was not permitted and only a minority of women reported bisphosphonate use during adjuvant therapy.8 Ovarian function supression was achieved with triptorelin in SOFT, TEXT, and HOBOE, and goserelin in ABCSG XII, all at licensed doses for the duration of endocrine therapy. In SOFT (and TEXT after at least 6 months), ovarian suppression could, alternatively, be achieved by bilateral oophorectomy or ovarian irradiation. In HOBOE, neoadjuvant or adjuvant chemo­therapy was allowed before randomisation. SOFT10,11 included only women who remained premenopausal after completion of neoadjuvant or adjuvant chemotherapy or women in whom adjuvant tamoxifen alone was considered suitable treatment. Of 1087 patients treated with chemotherapy in SOFT, 453 (41·7%) had received tamoxifen for an average of 4 months before study entry. In TEXT, adjuvant chemo­ therapy was optional and, if administered, was given concurrently with triptorelin. Tamoxifen or aromatase inhibition started after completion of chemotherapy. If chemotherapy was not given, tamoxifen or the aromatase inhibitor started 6–8 weeks after the initiation of triptorelin. The proportions of women who received chemotherapy were similar in SOFT (1060 [53·1%] of 1998 women), TEXT (1578 [59·9%] of 2635 women), and HOBOE (442 [62·9%] of 703 women). Use of adjuvant chemo­therapy was not allowed in ABCSG XII; 97 [5·7%] of 1694 women in this trial had neoadjuvant chemotherapy before randomisation. Adjuvant trastuzumab was allowed in women with HER2-positive tumours in TEXT, SOFT, and HOBOE; ABCSG XII predated the use of trastuzumab and HER2 status was not ascertained. Of 7030 women included in the analysis, 888 (12·6%) had a breast cancer recurrence, and 418 (5·9%) deaths occurred, of which 54 (12·9%) were from causes unrelated to breast cancer and without recorded disease recurrence. Overall median follow-up from the four trials was 8·0 years (IQR 6·1–9·3). Estimates of the 10-year risks of any recurrence, distant recurrence, breast cancer mortality, and all-cause mortality from combined analyses of the four trials are shown in figure 1. There was a reduction in the rate of any recurrence for women allocated to an aromatase inhibitor group compared with those assigned to tamoxifen (RR 0·79, 95% CI 0·69–0·90; p=0·0005). The main benefit from aromatase inhibitors on any recurrence was seen in years 0–4 of follow-up, the period when treatments differed, with a significant reduction in www.thelancet.com/oncology Vol 23 March 2022 
+
+www.thelancet.com/oncology Vol 23 March 2022 
+
+2003–11 
+
+2003–11 
+
+2004–15 
+
+TEXT7,8 
+
+SOFT7,8 
+
+HOBOE9 
+
+710 
+
+2045 
+
+2672 
+
+1803 
+
+Number of patients 
+
+Triptorelin: (letrozole vs tamoxifen) for 5 years† 
+
+Triptorelin: ER positive, PR positive, or both by (exemestane vs tamoxifen) for IHC (≥10%) 5 years 
+
+Aged 18 years or older; ER positive, PR positive, or both by IHC (≥1%) 
+
+Proportion of patients who received chemotherapy (%) and timing 
+
+63% of patients received neoadjuvant chemotherapy, adjuvant chemotherapy, or both; chemo­ therapy allowed before randomisation 
+
+53% of patients received adjuvant or neoadjuvant chemo­ therapy, which was allowed before randomisation, as long as patient remained premeno­ pausal after completion of chemotherapy 
+
+60% of patients received chemo­ therapy, which was optional; if admin­ istered, it was given concurrently with triptorelin; AI or tamoxifen started after completion of chemotherapy 
+
+5·7% of patients Goserelin: (anastrozole vs received neoadjuvant tamoxifen) with chemotherapy before randomisation or without zoledronic acid for 3 years 
+
+Treatment comparison 
+
+Triptorelin: ER positive, PR positive, or both by (exemestane vs tamoxifen) for IHC (≥10%) 5 years 
+
+Aged 19–59 years; ER positive, PR positive, or both by Reiner score; <10 positive lymph nodes; exclusion: T1a tumours 
+
+Key eligibility criteria of trial 
+
+74% partial 44 mastectomy; (41–48) 25% modified radical mastectomy 
+
+58% partial 43 mastectomy; (38–47) 42% mastectomy 
+
+59% partial 43 mastectomy; (40–46) 41% mastec­ tomy 
+
+55% N0; 31% N1–3; 10% N4–9; 4% N10 or higher 
+
+65% N0; 24% N1–3; 8% N4–9; 2% N10 or higher; 1% unknown 
+
+52% N0; 34% N1–3; 10% N4–9; 4% N10 or higher 
+
+67% N0; 27% N1–3; 4% N4–9; 2% unknown 
+
+Nodal Median age (IQR), status years 
+
+45 18% mastectomy; (41–48) 80% partial mastectomy; 2% unknown 
+
+Surgery type 
+
+Tumour grade 
+
+68% T1; 27% T2; 3% T3–4; 2% unknown 
+
+65% T1; 28% T2; 4% T3–4; 3% unknown 
+
+59% T1; 36% T2; 4% T3–4; 1% unknown 
+
+1% ER10% well negative; differentiated; 52% moderately 99% ERpositive differentiated; 34% poorly differentiated; 4% unknown 
+
+2% ER25% well negative; differentiated; 53% moderately 98% ERpositive differentiated; 20% poorly differentiated; 2% unknown 
+
+5·3 85% HER2(3·7– 7·2) negative; 14% HER2positive; 1% unknown 
+
+7·9 86% HER2(6·2– 9·2) negative; 13% HER2positive; 1% unknown 
+
+9·1 85% HER2(6·3– 10·2) negative; 14% HER2positive; 1% unknown 
+
+8·0 (7·8– 8·1) 
+
+HER2 status Median follow-up (IQR), years 
+
+No available 4% ERdata negative; 93% ERpositive; 2% unknown 
+
+ER status* 
+
+1% ER17% well negative; differentiated; 55% moderately 99% ERpositive differentiated; 27% poorly differentiated; 1% unknown 
+
+14% well 75% T1; differentiated; 20% T2; 62% moderately 1% T3–4; 4% unknown differentiated; 20% poorly differentiated; 4% unknown 
+
+Tumour size 
+
+Table: Baseline patient characteristics by trial 
+
+AI=aromatase inhibitor. ER=oestrogen receptor. IHC=immunohistochemistry. PR=progesterone receptor. *ER positivity in this meta-analysis is defined as expression in at least 1% of tumour cells by immunohistochemistry in SOFT, TEXT (by central assessment if available and local assessment otherwise), and HOBOE; ABCSG 12 used the Reiner score for staining of tumour-cell nuclei to define expression levels (on a scale of 10–100%, with 10–50% indicating low expression, 51–80% indicating medium expression, and 81–100% indicating high expression). †A separate group of patients given letrozole plus zoledronic acid were excluded from the analysis. 
+
+1999–2006 
+
+ABCSG XII5,6 
+
+Years of recruitment 
+
+Articles 
+
+385 
+
+Articles 
+
+A 
+
+B 7030 women 10-year gain 2·8% (95% CI 0·6−5·0) RR 0·79 (95% CI 0·69–0·90) Log-rank p=0·0005 
+
+50 
+
+Aromatase inhibitor Tamoxifen 
+
+30 
+
+20 
+
+Distant recurrence (%) 
+
+Any recurrence (%) 
+
+40 
+
+7030 women 10-year gain 1·9% (95% CI 0·0–3·8) RR 0·83 (95% CI 0·71−0·97) Log-rank p=0·018 
+
+17·5% 14·7% 
+
+10·1% 10 6·9% 0 
+
+0 
+
+5 
+
+5·6% 10 
+
+0 
+
+Recurrence rates per year (% [events/women-years]) and log-rank analyses Years 0−4 Aromatase inhibitor 1·46 (237/16 276) Tamoxifen 2·08 (332/15 958) RR (95% CI) 0·68 (0·58−0·80) from (o−e)/v –52·9/137·2 
+
+Years 5−9 1·76 (158/8999) 1·74 (150/8639) 0·98 (0·78−1·23) –1·2/74·5 
+
+10 
+
+Years ≥10 1·89 (9/476) 0·44 (2/459) 3·31 (0·99−11·06) 3·2/2·6 
+
+Years 0−4 1·16 (190/16 386) 1·44 (233/16 169) 0·78 (0·65−0·95) –24·8/101·8 
+
+Years 5−9 1·01 (93/9222) 1·08 (97/9016) 0·91 (0·68−1·22) –4·3/45·8 
+
+Years ≥10 0·60 (3/502) 0·00 (0/490) 7·86 (0·72−85·91) 1·4/0·7 
+
+D 7030 women 10-year gain 0·4% (95% CI –1·2 to 1·9) RR 1·01 (95% CI 0·82–1·24) Log-rank p=0·94 
+
+40 
+
+7030 women 10 year gain 0·2% (95% CI –1·5 to 1·9) RR 1·04 (95% CI 0·86–1·27) Log-rank p=0·68 All-cause mortality (%) 
+
+Breast cancer mortality (%) 
+
+5 
+
+Distant recurrence rates per year (% [events/women-years]) and log-rank analyses 
+
+C 50 
+
+30 
+
+20 
+
+10 
+
+7·2% 6·8% 
+
+3·0% 0 
+
+12·1% 10·2% 
+
+7·1% 
+
+2·4% 0 
+
+5 
+
+2·6% 10 
+
+0 
+
+5 
+
+Death rates from breast cancer per year (% [95% CI]) and log-rank analyses Years 5−9 0·85 (0·66−1·03) 1·03 (0·82−1·23) 0·80 (0·60−1·08) –9·6/43·5 
+
+10 
+
+Time since trial entry (years) 
+
+Time since trial entry (years) 
+
+Years 0−4 Aromatase inhibitor 0·60 (0·48–0·72) Tamoxifen 0·47 (0·37–0·57) RR (95% CI) 1·25 (0·93−1·68) from (o−e)/v 9·7/43·4 
+
+8·2% 8·0% 
+
+3·4% 
+
+Death rates per year (% [events/women-years]) and log-rank analyses 
+
+Years ≥10 0·76 (0·02−1·51) 0·57 (0·08−1·22) 1·45 (0·33−6·44) 0·6/1·7 
+
+Years 0−4 0·69 (115/16 663) 0·51 (85/16 573) 1·33 (1·00−1·76) 13·8/48·9 
+
+Years 5−9 1·01 (96/9515) 1·17 (111/9481) 0·84 (0·64−1·11) –8·6/50·2 
+
+Years ≥10 0·76 (4/525) 1·33 (7/525) 0·64 (0·18−2·24) –1·1/2·5 
+
+Figure 1: Aromatase inhibitors versus tamoxifen in premenopausal women (A) Any recurrence, (B) distant recurrence, (C) breast cancer mortality, and (D) all-cause mortality. O–E=observed minus expected. RR=rate ratio. v=variance of o–e. 
+
+the rate of recurrence (RR 0·68, 99% CI 0·55–0·85; p<0·0001), with no further benefit, or loss of benefit, in years 5–9 (RR 0·98, 99% CI 0·73–1·33; p=0·89) or beyond year 10 (figure 2). The 5-year absolute risk of breast cancer recurrence was 3·2% (95% CI 1·8–4·5) lower in the aromatase inhibitor group than in the tamoxifen group (6·9% vs 10·1%, figure 1A), with a similar absolute difference in 10-year recurrence: 14·7% in the aromatase inhibitor group versus 17·5% in the tamoxifen group. Distant recurrence was reduced in the aromatase inhibitor group versus the tamoxifen group (RR 0·83, 95% CI 0·71–0·97; p=0·018; figure 1B, appendix p 4), but, with a median follow-up of 8·0 years, 386 
+
+there was no significant difference in breast cancer mortality (1·01, 0·82–1·24; p=0·94; figure 1C) or allcause mortality (1·04, 0·86–1·27; p=0·68; figure 1D, appendix p 6). The rate ratio for breast cancer mortality after being treated with an aromatase inhibitor com­pared with being treated with tamoxifen was 1·25 (99% CI 0·85–1·85) in years 0–4 of follow-up and 0·80 (0·54–1·19) in years 5–9 (figure 1C, appendix p 9). Subgroup analyses of any recurrence, distant recurrence, and breast cancer mortality are shown in figure 2 and the appendix (pp 8–9). The proportional reductions in loco­regional recurrence (RR 0·72, 95% CI 0·55–0·94; p=0·014; appendix p 3), and new contralateral www.thelancet.com/oncology Vol 23 March 2022 
+
+Articles 
+
+Events/women (%) 
+
+By trial (χ23=8·8; p=0·032) ABCSG XII5,6 TEXT7,8 SOFT7,8 HOBOE9 Follow-up period, years (trend χ21=3·1; p=0·078) 0−1 2–4 5–9 ≥10 Site of recurrence (χ22=0·8; p=0·37) Distant Locoregional Contralateral Age at entry, years (trend χ21=0·2; p=0·65) <35 35–44 45−54 ≥55 BMI, kg/m² (trend χ21=1·8; p=0·18) <20 20–24 25–29 ≥30 Nodal status (trend χ21=3·9; p=0·048) N0 N1−3 N4+ Progesterone status (χ21=0·4; p=0·53) PR negative PR positive Tumour diameter, mm (trend χ21=0·6; p=0·44) 1–20 21–50 >50 Tumour grade (trend χ21=0·6; p=0·44) Well differentiated Moderately Poorly Histological type (χ21=0·4; p=0·53) Ductal Lobular Unknown HER2 status (χ21=5·3; p=0·021) HER2 positive HER2 negative HER2 unknown Chemotherapy use (χ21=1·2; p=0·27) Yes No Bisphosphonate use* (χ21=1·2; p=0·27) Yes No Total 99% CI 
+
+Ratio of annual event rates, aromatase inhibitor:tamoxifen (CI) 
+
+Allocated aromatase inhibitor 
+
+Allocated tamoxifen 
+
+114/855 (13·3%) 137/1324 (10·3%) 115/999 (11·5%) 38/350 (10·9%) 
+
+103/839 (12·3%) 195/1311 (14·9%) 139/999 (13·9%) 47/353 (13·3%) 
+
+1·07 (0·75–1·54) 0·64 (0·48–0·85) 0·83 (0·60–1·16) 0·72 (0·41–1·27) 
+
+95/6836 (1·4%) 142/9392 (1·5%) 158/8975 (1·8%) 9/462 (1·9%) 
+
+108/6789 (1·6%) 224/9122 (2·5%) 150/8613 (1·7%) 2/444 (0·5%) 
+
+0·85 (0·59–1·23) 0·60 (0·46–0·79) 0·98 (0·73–1·33) 
+
+269/3528 (7·6%) 96/3528 (2·7%) 39/3528 (1·1%) 
+
+307/3502 (8·8%) 128/3502 (3·7%) 49/3502 (1·4%) 
+
+0·83 (0·66–1·03) 0·72 (0·51–1·02) 0·75 (0·43–1·31) 
+
+57/282 (20·2%) 239/1714 (13·9%) 104/1521 (6·8%) 4/11 (36·4%) 
+
+66/281 (23·5%) 270/1656 (16·3%) 147/1548 (9·5%) 1/17 (5·9%) 
+
+0·76 (0·47–1·24) 0·83 (0·66–1·05) 0·71 (0·51–0·98) 
+
+32/378 (8·5%) 166/1570 (10·6%) 114/885 (12·9%) 75/576 (13·0%) 
+
+48/399 (12·0%) 216/1578 (13·7%) 122/841 (14·5%) 84/568 (14·8%) 
+
+0·58 (0·31–1·08) 0·75 (0·57–0·98) 0·84 (0·59–1·19) 0·88 (0·56–1·31) 
+
+144/2132 (6·8%) 135/1014 (13·3%) 124/379 (32·7%) 
+
+188/2099 (9·0%) 182/1049 (17·3%) 114/350 (32·6%) 
+
+0·71 (0·54–0·95) 0·71 (0·53–0·96) 1·03 (0·73–1·46) 
+
+36/184 (19·6%) 365/3325 (11·0%) 
+
+36/175 (20·6%) 444/3308 (13·4%) 
+
+0·93 (0·57–1·51) 0·79 (0·66–0·95) 
+
+194/2345 (8·3%) 179/1022 (17·5%) 19/107 (17·8%) 
+
+231/2331 (9·9%) 210/1011 (20·8%) 28/104 (26·9%) 
+
+0·80 (0·62–1·03) 0·81 (0·62–1·06) 0·50 (0·21–1·14) 
+
+36/623 (5·8%) 203/1994 (10·2%) 162/852 (19·0%) 
+
+50/662 (7·6%) 230/1988 (11·6%) 197/806 (24·4%) 
+
+0·75 (0·42–1·32) 0·87 (0·68–1·12) 0·73 (0·55–0·97) 
+
+318/2744 (11·6%) 35/379 (9·2%) 51/405 (12·6%) 
+
+385/2768 (13·9%) 43/361 (11·9%) 56/373 (15·0%) 
+
+0·78 (0·64–0·95) 0·70 (0·38–1·28) 
+
+58/362 (16·0%) 231/2303 (10·0%) 115/863 (13·3%) 
+
+50/361 (13·9%) 331/2291 (14·4%) 103/850 (12·1%) 
+
+1·08 (0·65–1·80) 0·65 (0·52–0·82) 1·06 (0·74–1·51) 
+
+243/1596 (15·2%) 161/1932 (8·3%) 
+
+308/1581 (19·5%) 176/1921 (9·2%) 
+
+0·74 (0·59–0·93) 0·87 (0·66–1·16) 
+
+51/424 (12·0%) 353/3104 (11·4%) 404/3528 (11·5%) 
+
+46/416 (11·1%) 438/3086 (14·2%) 484/3502 (13·8%) 
+
+0·97 (0·56–1·69) 0·77 (0·64–0·93) 0·79 (0·69–0·90) 
+
+95% CI 
+
+0 
+
+0·5 
+
+Favours aromatase inhibitor 
+
+1·0 
+
+1·5 
+
+2·0 
+
+Favours tamoxifen 
+
+Treatment effect p=0·0005 
+
+Figure 2: Subgroup analyses of any first recurrence (including locoregional recurrence, distant recurrence, and new contralateral disease) in premenopausal women treated with aromatase inhibitors or tamoxifen White squares represent women with unknown status within a subgroup. BMI=body-mass index. *Randomised bisphosphonate use. 
+
+www.thelancet.com/oncology Vol 23 March 2022 
+
+387 
+
+Articles 
+
+disease (0·75, 0·50–1·15) as first event were of similar magnitude to the reductions in distant recurrence (figure 2, appendix pp 3, 5), so subgroup analyses were done for any recurrence (distant, local, and contralateral recurrence combined). None of these tests for heterogeneity in treatment efficacy by patient or tumour characteristics were significant for subgroup analyses (figure 2). The test for heterogeneity suggested slight differences between the four trial results for any recurrence; however, this was not statistically significant (p=0·032). The test for heterogeneity for nodal involvement was not significant (p=0·048); there was no apparent benefit from aromatase inhibitors over tamoxifen in N4+ disease (figure 2). There was weak evidence that HER2 status might affect the benefit of aromatase inhibitor over tamoxifen for recurrence (p=0·021, figure 2): recurrence rates were similar with aromatase inhibitors and tamoxifen in women with HER2-positive tumours (16·0% vs 13·9%), although just 723 (15·7%) of 4594 women with ER-positive status had HER2-positive disease, and hence there were few events and a wide CI. No additional benefit from aromatase inhibitor was apparent, either, in tumours with unknown HER2 status (RR 1·06, 99% CI 0·74–1·51); most of these patients were from ABCSG XII, which did not measure HER2 status. The proportional reduction in recurrence did not vary by other patient or tumour characteristics, including age, BMI, tumour size, tumour grade, or histological subtype. Analysis of any recurrence in women by ER and progesterone status is shown in the appendix (p 10). The 10-year risks of recurrence by nodal status, progesterone status, and tumour grade are shown in appendix (pp 11–13). The proportional reductions observed in women with node-negative disease and in those with one to three positive nodes are identical (node -negative RR 0·71 [95% CI 0·57–0·89] vs N1–3 0·71 [0·58–0·91]), and the 5-year absolute benefits were larger in the higher risk N1–3 group than in the node-negative group: 4·8% versus 3·1%. However, there was no apparent improvement in the 5-year recurrence with an aromatase inhibitor compared with tamoxifen in the 729 (10·4%) of 7030 women with four or more positive nodes (RR 1·03 [95% CI 0·79–1·34]). To enhance statistical power to investigate differential efficacy within subgroups, we analysed aromatase inhibitor versus tamoxifen within nodal and HER2 status subsets only during the period when the treatments differed (post-hoc analysis; figure 3A). As most of the benefit from aromatase inhibitor was seen in this period, the reduction in any recurrence with aromatase inhibitor was larger and more highly significant. However, the recurrence reductions for N0 (RR 0·49) and N1–3 (0·56) tumours were similar, but no benefit was seen in N4+ (1·02), leading to a p value of 0·0009. To put this unexpected finding in perspective, we did a post-hoc analysis comparing the nodal status subgroup finding for 388 
+
+premenopausal women with those we have previously reported for aromatase inhibitor versus tamoxifen in postmenopausal women,2 when there was no suggestion of any lesser benefit in N4+ disease (figure 3B). Similarly, the apparently lesser benefit from aromatase inhibitors in premenopausal women with HER2-positive compared with HER2-negative disease was not replicated in postmenopausal women. When data from premenopausal and postmenopausal women were combined, aromatase inhibitors were superior to tamoxifen in all nodal and HER2 status categories (figure 3C). We repeated the subgroup analyses using data just during the period when treatments differed (appendix p 7), and the heterogeneity between trial results was still apparent (p=0·038). Few patients received chemotherapy in ABCSG XII compared with those in other trials, but proportional reductions in recurrence were not signifi­ cantly greater in those receiving chemotherapy (appendix p 14); combining data from the other three trials, the reduction in recurrence with aromatase inhibitors com­ pared with tamoxifen was larger in patients not receiving than those receiving chemotherapy: RR 0·64 (95% CI 0·46–0·89), p=0·0075, versus 0·74 (0·62–0·88), p=0·44; appendix p 15), respectively. Half of the women in ABCSG XII were allocated bisphosphonate but there was no greater benefit in the absence than presence of bisphosphonate (RR 0·97 [99% CI 0·56–1·69] vs 0·77 [99% CI 0·64–0·93]; p=0·29; figure 2, appendix p 14). Because the trials included only premenopausal women, few non-breast cancer deaths occurred: 30 (0·9%) of 3528 women in the aromatase inhibitor group versus 24 (0·7%) of 3502 women in the tamoxifen group died without breast cancer recurrence (RR 1·30, 95% CI 0·75–2·25; p=0·34; figure 4, appendix p 16). Most of these non-breast cancer deaths were due to second primary cancer: 22 in the aromatase inhibitor group versus ten in the tamoxifen group (p=0·015). These deaths were distributed across several second primary cancer sites: lung (six in the aromatase inhibitor group vs four in the tamoxifen group), ovarian (four vs one), pancreatic (four vs one), haematological (three vs one), and other specified sites (five vs three), and there was no difference in the overall incidence of fatal or non-fatal second cancers (RR 1·08, 95% CI 0·84–1·40; p=0·55; appendix p 16). Deaths from other cancers were unrelated to tumour size or nodal status (appendix p 17). The 5-year incidence of endometrial cancer (defined as any uterine cancer except cervix cancer) was also low: seven (0·2%) of 3528 women in the aromatase inhibitor group versus 15 (0·3%) of 3502 in the tamoxifen group (p=0·14, figure 4, appendix p 18). Individual patient data on bone fractures were available from ABCSG XII, SOFT, and TEXT; no fractures were recorded in HOBOE. When combining these data, there were more fractures among women allocated aromatase inhibitors than in those assigned to tamoxifen: 227 (6·4%) of 3528 versus 180 (5·1%) of 3502 (RR 1·27, 95% CI 1·04–1·54; p=0·017; figure 4, appendix p 18). www.thelancet.com/oncology Vol 23 March 2022 
+
+Articles 
+
+A 
+
+Events/women-years (percentage per year) 
+
+Ratio of annual event rates, aromatase inhibitor:tamoxifen (CI) 
+
+Allocated aromatase inhibitor 
+
+Allocated Tamoxifen 
+
+N0 
+
+54/8920 (0·6%) 
+
+110/8705 (1·3%) 
+
+0·49 (0·32–0·73) 
+
+N1−3 
+
+63/4292 (1·5%) 
+
+112/4315 (2·6%) 
+
+0·56 (0·38–0·83) 
+
+N4+ 
+
+90/1515 (5·9%) 
+
+82/1418 (5·8%) 
+
+1·02 (0.68–1·54) 
+
+Nodal status (trend χ21=11·1; p=0·0009) 
+
+HER2 status (χ21=3·9; p=0·048) HER2 positive 
+
+41/1595 (2·6%) 
+
+40/1610 (2·5%) 
+
+0·93 (0.51–1·68) 
+
+HER2 negative 
+
+136/10 623 (1·3%) 
+
+235/10 356 (2·3%) 
+
+0·56 (0·43–0·73) 
+
+HER2 unknown 
+
+31/2500 (1·2%) 
+
+29/2463 (1·2%) 
+
+1·01 (0·52–1·99) 
+
+Total 
+
+208/14 736 (1·4%) 
+
+304/14 445 (2·1%) 
+
+0·65 (0·55–0·78) 
+
+99% CI 
+
+95% CI 
+
+0·5 
+
+0 
+
+1·0 
+
+Favours aromatase inhibitor 
+
+1·5 
+
+2·0 
+
+Favours tamoxifen 
+
+Treatment effect p<0·00001 
+
+B Nodal status (trend χ21=0·0; p=0·99) N0 
+
+243/26 174 (0·9%) 
+
+338/26 097 (1·3%) 
+
+0·72 (0·58–0·89) 
+
+N1−3 
+
+280/13 746 (2·0%) 
+
+390/13 285 (2·9%) 
+
+0·68 (0·56–0·84) 
+
+N4+ 
+
+236/4067 (5·8%) 
+
+308/3850 (8·0%) 
+
+0·73 (0·58–0·92) 
+
+HER2 status (χ21=0·0; p=0·99) HER2 positive 
+
+79/3264 (2·4%) 
+
+108/3074 (3·5%) 
+
+0·67(0·45–0·99) 
+
+HER2 negative 
+
+112/8854 (1·3%) 
+
+166/8733 (1·9%) 
+
+0·67 (0·49–0·92) 
+
+HER2 unknown 
+
+595/33 280 (1·8%) 
+
+809/32 782 (2·5%) 
+
+0·71 (0·62–0·82) 
+
+Total 
+
+786/45 398 (1·7%) 
+
+1083/44 589 (2·4%) 
+
+0·70 (0·64–0·77) 
+
+99% CI 
+
+95% CI 
+
+0·5 
+
+0 
+
+1·0 
+
+Favours aromatase inhibitor 
+
+1·5 
+
+2·0 
+
+Favours tamoxifen 
+
+Treatment effect p<0·00001 
+
+C Nodal status (trend χ21=2·9; p=0·089) N0 
+
+297/35 094 (0·8%) 
+
+448/34 802 (1·3%) 
+
+0·66 (0·54–0·79) 
+
+N1−3 
+
+343/18 038 (1·9%) 
+
+205/17 600 (1·2%) 
+
+0·66 (0·55–0·79) 
+
+N4+ 
+
+326/5582 (5·8%) 
+
+390/5268 (7·4%) 
+
+0·79 (0·65–0·97) 
+
+HER2 positive 
+
+120/4859 (2·5%) 
+
+148/4684 (3·2%) 
+
+0·74 (0·53–1·02) 
+
+HER2 negative 
+
+248/19 477 (1·3%) 
+
+401/19 089 (2·1%) 
+
+0·60 (0·49–0·74) 
+
+HER2 unknown 
+
+626/35 780 (1·7%) 
+
+838/35 245 (2·4%) 
+
+0·72 (0·63–0·83) 
+
+Total 
+
+994/60 134 (1·7%) 
+
+1387/59 034 (2·3%) 
+
+0·69 (0·64–0·75) 
+
+HER2 status (χ21=1·7; p=0·19) 
+
+99% CI 
+
+95% CI 
+
+0·5 
+
+0 
+
+Favours aromatase inhibitor 
+
+1·0 
+
+1·5 
+
+2·0 
+
+Favours tamoxifen 
+
+Treatment effect p<0·00001 
+
+Figure 3: Post-hoc subgroup analyses of any recurrence aromatase inhibitors versus tamoxifen during the periods where treatments differed (A) Premenopausal women. (B) Postmenopausal women (published data from EBCTCG meta-analysis² of aromatase inhibitor versus tamoxifen in early breast cancer). (C) All women. White squares represent women with unknown status within a subgroup. 
+
+Toxicity from aromatase inhibitors and tamoxifen in premenopausal women, as reported from the individual trial publications, was similar to that seen in post­ menopausal women. Higher rates of osteoporosis were reported in those taking aromatase inhibitors compared with those taking tamoxifen, whereas endometrial abnormalities, including uterine polyps and endometrial www.thelancet.com/oncology Vol 23 March 2022 
+
+cancers, were more frequent in those receiving tamoxifen (appendix pp 19–20). 
+
+Discussion This meta-analysis of 7030 premenopausal women receiving ovarian function supression for early-stage ERpositive breast cancer in four ran­­domised trials showed a 389 
+
+Articles 
+
+Events/women-years (percentage per year) 
+
+Ratio of annual event rates aromatase inhibitor:tamoxifen (95% CI) 
+
+Allocated aromatase inhibitor 
+
+Allocated Tamoxifen 
+
+Non−breast cancer mortality 
+
+30/25 720 (0·1%) 
+
+24/25 024 (0·1%) 
+
+1·30 (0·75–2·25) 
+
+Endometrial cancer 
+
+7/26 421 (<1%) 
+
+15/26 266 (0·1%) 
+
+0·52 (0·22–1·23) 
+
+227/25 603 (0·9%) 
+
+180/25 673 (0·7%) 
+
+Bone fracture 
+
+1·27 (1·04–1·54) 0 
+
+0·5 
+
+Favours aromatase inhibitor 
+
+1·0 
+
+1·5 
+
+2·0 
+
+Favours tamoxifen 
+
+Figure 4: Non-breast cancer mortality, endometrial cancer incidence, and bone fracture incidence in trials of aromatase inhibitors versus tamoxifen in premenopausal women 
+
+reduction in recurrence rates favouring aromatase inhibitor over tamoxifen. For the patient population in these trials, in which 4231 (60·2%) of 7030 women had node-negative cancer, there was an absolute reduction of about 3% in 5-year and 10-year recurrence risk. As in the previous EBCTCG meta-analysis2 of aromatase inhibitors versus tamoxifen in postmenopausal women, almost all the benefit of aromatase inhibitors over tamoxifen was observed in the period when treatments differed, with no further gain or loss of benefit after year 5. Although this meta-analysis found no difference in breast cancer or all-cause mortality between the two treat­ ment groups, this lack of difference might be explained by the limited duration of follow-up (median follow up 8·0 years). Given the significant reduction in distant recurrence with aromatase inhibitors (p=0·018), it would be premature to conclude that survival is not improved with aromatase inhibitors. A meta-analysis of trials comparing adjuvant aromatase inhibitors versus tamoxifen therapy in post­menopausal women showed no significant survival advantage with a median follow-up of 5 years.16 However, a second meta-analysis with longer follow-up did establish a reduction in breast cancer mortality and allcause mortality.2 This late benefit highlights the importance of long-term follow-up of breast cancer trials, particularly for women with hormone receptor-positive disease whose risk of recurrence persists at about the same annual rate for up to 20 years after diagnosis.17 Although the overall reduction in recurrences with aromatase inhibitors compared with tamoxifen was highly significant, results of individual trials were inconsistent; three showed benefit from aromatase inhibitors over tamoxifen, whereas no reduction in recurrence was apparent in the ABCSG XII trial. The shorter, 3-year duration of endocrine treatment in ABCSG XII did not explain the heterogeneity between the four trial results, since the difference between trials persisted in analyses limited to the period when treatments differed. The use of different aromatase inhibitor drugs is also unlikely to explain the differences in trial results, as no differences were seen between drugs in the EBCTCG meta-analysis of aromatase inhibitors versus tamoxifen in postmenopausal 390 
+
+women,2 or in direct comparisons between treatments.18–21 Patients in ABCSG XII were at somewhat lower risk than those in other trials, with 1212 (67·2%) of 1803 women node negative, but the proportional reductions in recurrence with aromatase inhibitor compared with tamoxifen were at least as big in node-negative as in nodepositive disease, so this also cannot be the reason for the lesser benefit from aromatase inhibitors in the ABCSG XII trial. Another possible factor is that ovarian function supression was achieved with goserelin in ABCSG XII and triptorelin in other trials, but we are not aware of any data indicating that these drugs are any more or less efficacious in achieving ovarian function supression. There were fewer high-risk patients in ABCSG XII and few received chemotherapy (97 [5·7%] of 1694), but subgroup analyses suggest that these differences should not have much affected the proportional reductions in recurrence. So, the inconsistent trial results are most likely a chance finding: the p-value for heterogeneity (p=0·032) did not reach the 2p of less than 0·01 threshold for significance in subgroup investigations. Subgroup analyses also suggested greater benefit from aromatase inhibitors compared with tamoxifen for any recurrence in HER2-negative disease than in HER2positive disease (RR 0·65 vs 1·08, p=0·021). However, the HER2-positive subgroup included a small number of women and the difference between HER2-positive and negative tumours also did not reach the 2p of less than 0·01 level of significance prespecified for subgroup analyses. Additionally, the EBCTCG meta-analysis2 of aromatase inhibitors versus tamoxifen in postmenopausal women found similar proportional reductions in recurrence in HER2-positive and HER2-negative disease so the apparent lack of benefit from aromatase inhibitors over tamoxifen in HER2-positive tumours could also be a chance finding. The most unexpected subgroup finding was the apparent lack of superiority of aromatase inhibitors over tamoxifen in women with four or more involved nodes. This difference was highly significant in subgroup analyses limited to the period when treatments differed. By contrast, in postmenopausal women, aromatase inhibitors appeared www.thelancet.com/oncology Vol 23 March 2022 
+
+Articles 
+
+just as effective as tamoxifen when four or more nodes were involved as in those with fewer nodes involved. Moreover, the proportional reductions in recurrence have not differed by nodal status in any previous meta-analysis of endocrine therapies. So, despite the highly significant heterogeneity, this could be another chance finding, particularly given that 13 separate subgroup investigations were done. Splitting the overall 12·1 χ² treatment effect across multiple subgroups can lead to statistically unreliable findings.14 With no good previous reasons for anticipating that the proportional effects of treatment might be so different in these different nodal status categories, the proportional risk reduction that is suggested by the overall results of the meta-analysis (RR 0·79) might provide a better guide to the proportional risk reductions that would be achieved in different nodal subgroups than the apparent results in each subgroup.14 If so, those patients at highest recurrence risk, as defined by clinicopathological characteristics, should derive the greatest benefit from aromatase inhibitors, as is usually assumed.22 There were, however, too few patients in some subgroups, for example those with PR-negative or lobular tumours, for meaningful assessment of any potential differential benefit. Ovarian function supression might be less effective at fully supressing ovarian oestrogen production in women younger than 35 years of age,23 who have a higher risk of recurrence than older women.24–26 However, our subgroup analysis of recurrence by age showed no significant trend across the age groupings. Subgroup analyses of the ABCSG XII trial suggested that women with a BMI of 25kg/m² or higher treated with anastrozole plus goserelin had worse disease-free survival and overall survival than those treated with tamoxifen plus goserelin.9,27 However, our analyses showed similar recurrence reductions with aromatase inhibitors compared with tamoxifen across BMI groupings. Individual patient level data on quality of life was not available for this meta-analysis. However, a combined analysis of patient-reported outcomes in TEXT and SOFT,15 found no strong indication to favour either exemestane plus ovarian function supression or tamoxifen plus ovarian function supression with respect to overall quality of life. In summary, results from this meta-analysis suggest that using an aromatase inhibitor rather than tamoxifen in addition to ovarian function supression for premeno­ pausal women reduces the absolute risk of recurrence by 3% at 5 and 10 years. Reassuringly, we found no increase in non-breast cancer deaths over the 10-year follow-up period. Deaths from other cancers were unrelated to tumour size or nodal status, so are unlikely to be misclassified breast cancer metastases. Such events are rare in these younger women, as are the other known sideeffects of bone fracture with aromatase inhibitors and endometrial cancer with tamoxifen. Some of these sideeffects can be mitigated, for example by the use of bisphosphonates to preserve bone density and reduce bone fractures in women receiving aromatase inhibitors.28 www.thelancet.com/oncology Vol 23 March 2022 
+
+The effects of endocrine therapy and ovarian function supression on quality of life also need to be carefully considered alongside the expected improvement in disease outcomes demonstrated in this meta-analysis. Contributors R Bradley, J Braybrooke, R Gray, and R K Hills designed and carried out the analyses. R Bradley, R Gray, and R K Hills accessed and verified the data. R Bradley, J Braybrooke, R Gray, and R K Hills drafted the report and all other writing committee members contributed to revising it. Interim analyses were discussed by the steering committee members and by the trialists who supplied data for the analysis. The EBCTCG secretariat was responsible for maintaining collaboration, identifying trials, and obtaining and checking datasets. The EBCTCG secretariat had full access to all data and the writing committee had final responsibility for the decision to submit for publication. Writing committee R Bradley, J Braybrooke, R Gray, R K Hills, Z Liu, H Pan, R Peto, D Dodwell, P McGale, C Taylor (Clinical Trial Service Unit, Nuffield Department of Population Health, University of Oxford, Oxford, UK); J Bergh (Karolinska Institutet and University Hospital, Stockholm, Sweden); S Swain (Georgetown University Medical Center, Washington, DC, USA); P A Francis (Peter MacCallum Cancer Centre, Melbourne, VIC, Australia); M Gnant (Medical University of Vienna, Vienna, Austria); F Perrone (Istituto Nazionale Tumori IRCCS Fondazione Pascale, Naples, Italy); M M Regan (Division of Biostatistics, Dana-Farber Cancer Institute, Boston, MA, USA) EBCTCG secretariat R Berry, C Boddington, R Bradley, J Braybrooke, M Clarke, C Davies, L Davies, D Dodwell, F Duane, V Evans, J Gay, L Gettins, J Godwin, R Gray, R K Hills, S James, H Liu, Z Liu, E MacKinnon, G Mannu, P McGale, T McHugh, P Morris, H Pan, R Peto, S Read, E Straiton, C Taylor. Group (lead investigators) contributing data Austrian Breast and Colorectal Cancer Study Group (ABCSG; ABCSG Trial XII), Vienna, Austria (M Gnant, R Jakesz, C Fesl); International Breast Cancer Study Group (IBCSG; SOFT, TEXT), Bern, Switzerland (O Pagani, M M Regan, P A Francis, R Gelber); Napoli Istituto Tumori (HOBOE), Naples, Italy (F Perrone, M De Laurentiis, S De Placido, C Gallo). EBCTCG steering committee J Bergh, S Swain (co-chairs), D Cameron (vice-chair), K Albain, S Anderson, R Arriagada, J Bartlett, E Bergsten-Nordström, J Bliss, R Bradley*, E Brain, J Braybrooke*, L Carey, M Clarke*, R Coleman, J Cuzick, N Davidson, L Del Mastro, A Di Leo, J Dignam, D Dodwell*, M Dowsett, F Duane*, B Ejlertsen, P A Francis, R Gelber, M Gnant, M Goetz, P Goodwin, R Gray*, P Halpin-Murphy, D Hayes, C Hill, R K Hills*, R Jagsi, W Janni, Z Liu*, S Loibl, E MacKinnon*, E Mamounas, G Mannu*, M Martín, P McGale*, H Mukai, V Nekljudova, L Norton, Y Ohashi, H Pan*, R Peto*, M Piccart, L Pierce, P Poortmans, K I Pritchard, V Raina, D Rea, M M Regan, J Robertson, E Rutgers, D Slamon, T Spanic, J Sparano, G Steger, C Taylor*, G Tang, M Toi, A Tutt, G Viale, X Wang, T Whelan, N Wilcken, N Wolmark. *EBCTCG Secretariat, Clinical Trial Service Unit, Nuffield Department of Population Health. Declaration of interests RG and RKH report that EBCTCG is supported by a Cancer Research UK grant paid to the University of Oxford. JBe reports institutional grants or contracts from Amgen, AstraZeneca, Bayer, Merck, Pfizer, Roche, and Sanofi-Aventis; and payment from UpToDate for a chapter on breast cancer prediction. SS reports institutional grants or contracts from Kailos Genetics, Genentech/Roche, and Breast Cancer Research Foundation; consulting fees from Molecular Templates, Silverback Therapeutics, Genentech/Roche, Athenex, Lilly Pharmaceuticals, Merck, Exact sciences, Daiichi-Sankyo, AstraZeneca, Natera, Biotheranostics, and Bejing Medical Foundation; payments for non-promotional speaking from Daiichi Sankyo and Genentech/Roche; and support for attending meetings, travel, or both from Genentech/Roche and Caris. SS also reports participation on a Data Safety Monitoring Board or Advisory Board for AstraZeneca/BIG (Olympia trial); leadership or fiduciary roles on the National Surgical Adjuvant 
+
+391 
+
+Articles 
+
+Breast and Bowel Project Board and Conquer Cancer Foundation Board; third party medical writing from Genentech/Roche; and other financial or non-financial interests, in Scientific Advisory Board for Inivata. PF reports support for travel overseas to lecture on SOFT and TEXT trials from Novartis and Ipsen. MG reports consulting fees from DaiichiSankyo, EliLilly, and Lifebrain; payments or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Amgen, AstraZeneca, Novartis, and PierreFabre; payment for expert testimony from Veracyte; and other financial or non-financial interests from Sandoz (an immediate family member is employed by the company). FP reports institutional grants or contracts from Roche, AstraZeneca, Pfizer, Merck Sharp & Dohme, Bayer, Incyte, Taiho Oncology, Janssen Cilag, Exelixis, Aileron, and Daiichi Sankyo; payments or honoraria for educational activities or advice on regulatory activities from Incyte, GlaxoSmithKline, Eli Lilly, Ipsen, Astellas, AstraZeneca, Roche, Bristol Myers Squibb, Bayer, Clovis, and Pierre Fabre; and a leadership or fiduciary role in the Italian Society of Medical Oncology. MMR reports support for IBCSG for SOFT and TEXT from Pfizer, Ipsen, TerSera, DebioPharm, and BCRF; grants or contracts to IBCSG from Novartis, Pfizer, Merck, Roche, AstraZeneca, and Bristol Myers Squibb; institutional grants or contracts from Bristol Myers Squibb and Bayer; consulting fees from Tolmar; and payments or honoraria for lectures, presentations, speakers bureaus, manuscript writing, or educational events from Bristol Myers Squibb and WebMD. MMR also reports participation on a Data Safety Monitoring Board or Advisory Board for ABCSG; and a leadership or fiduciary role in IBCSG. All other authors declare no competing interests. Data sharing The data sharing policy is available online at https://www.ndph.ox.ac.uk/ data-access. Acknowledgments The EBCTCG Secretariat is funded primarily by a project grant from Cancer Research UK, with additional support from core funding to the Clinical Trial Service Unit and the Population Health Research Unit, Nuffield Department of Population Health, University of Oxford from Cancer Research UK, and the UK Medical Research Council. The chief acknowledgment is to the women who took part in these trials and to the trialists who conducted the studies and shared their data. References 1 Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Relevance of breast cancer hormone receptors and other factors to the efficacy of adjuvant tamoxifen: patient-level meta-analysis of randomised trials. Lancet 2011; 378: 771–84. 2 Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Aromatase inhibitors versus tamoxifen in early breast cancer: patient-level meta-analysis of the randomised trials. Lancet 2015; 386: 1341−52. 3 Early Breast Cancer Trialists’ Collaborative Group. Ovarian ablation in early breast cancer: overview of the randomised trials. Lancet 1996; 348: 1189–96. 4 Masuda N, Sagara Y, Kinoshita T, et al. Neoadjuvant anastrozole versus tamoxifen in patient receiving goserelin for premenopausal breast cancer (STAGE): a double blind, randomised phase 3 trial. Lancet Oncol 2012; 13: 345–352. 5 Gnant M, Mlineritsch B, Schippinger W, et al. Endocrine therapy plus zoledronic acid in premenopausal breast cancer. N Engl J Med 2009; 360: 679–91. 6 Gnant M, Mlineritsch B, Stoeger H, et al. Zoledronic acid combined with adjuvant endocrine therapy of tamoxifen versus anastrozole plus ovarian function suppression in premenopausal early breast cancer: final analysis of the Austrian Breast and Colorectal Cancer Study Group Trial 12. Ann Oncol 2015; 26: 313–20. 7 Pagani O, Regan MM, Walley BA et al. Adjuvant exemestane with ovarian suppression in premenopausal breast cancer. N Engl J Med 2014; 371: 107–18. 8 Francis PA, Pagani O, Fleming GF, et al. Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med 2018; 379: 122–37. 9 Perrone F, De Laurentiis M, De Placido S, et al. Adjuvant zoledronic acid and letrozole plus ovarian suppression in premenopausal breast cancer: HOBOE phase 3 randomised trial. Eur J Cancer 2019; 118: 178–86. 
+
+392 
+
+10 
+
+11 12 
+
+13 14 15 
+
+16 17 18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 26 27 
+
+28 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Comparisons between different polychemotherapy regimens for early breast cancer: meta-analyses of long-term outcome among 100 000 women in 123 randomised trials. Lancet 2012; 379: 432−44. Early Breast Cancer Trialists’ Collaborative Group. Treatment of early breast cancer: worldwide evidence, 1985–1990. http://www.ctsu.ox. ac.uk/reports/ebctcg-1990/index_html (accessed July 8, 2021). Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005; 365: 1687−717. Stewart LA, Clarke M, Rovers M, et al. Preferred Reporting Items for a Systematic Review and Meta-analysis of individual participant data: the PRISMA-IPD Statement. JAMA 2015; 313: 1657–65. Peto R. Current misconception 3: that subgroup specific trial mortality results often provide a good basis for individualising patient care. Br J Cancer 2011; 104: 1057–58. Benhard J, Luo W, Ribi K, et al. Patient-reported outcomes with adjuvant exemestane versus tamoxifen in premenopausal women with early breast cancer undergoing ovarian suppression (TEXT and SOFT): a combined analysis of two phase 3 randomised trials. Lancet Oncol 2015; 16: 848–58. Dowsett M, Cuzick J, Ingle J, et al. Meta-analysis of breast cancer outcomes in adjuvant trials of aromatase inhibitors versus tamoxifen. J Clin Oncol 2010; 28: 509–18. Pan H, Gray R, Braybrooke J, et al. 20-Year risks of breast-cancer recurrence after stopping endocrine therapy at 5 years. N Engl J Med 2017; 377: 1836–46. Goss PE, Ingle JN, Pritchard KI, et al. Exemestane versus anastrozole in postmenopausal women with early breast cancer: NCIC CTG MA.27—a randomised controlled phase III trial. J Clin Oncol 2013; 31: 1398–404. De Placido S, Gallo C, De Laurentiis M, et al. Adjuvant anastrozole versus exemestane versus letrozole, upfront or after 2 years of tamoxifen, in endocrine-sensitive breast cancer (FATA-GIM3): a randomised, phase 3 trial. Lancet Oncol 2018; 19: 474–85. Hiroyuki T, Ohsumi S, Shimozuma K, et al. Health-related quality of life, psychological distress, and adverse events in postmenopausal women with breast cancer who receive tamoxifen, exemestane, or anastrozole as adjuvant endocrine therapy: National Surgical Adjuvant Study of Breast Cancer 04 (N-SAS BC 04). Breast Cancer Res Treat 2012; 133: 227–36. Smith I, Yardley D, Burris H, et al. Comparative efficacy and safety of adjuvant letrozole versus anastrozole in postmenopausal patients with hormone receptor-positive, node-positive early breast cancer: final results for the randomized phase III Femara versus Anastrozole Clinical Evaluation (FACE) trial. J Clin Oncol 2017; 35: 1041–48. Regan MM, Francis PA, Pagani O, et al. Absolute benefit of adjuvant endocrine therapies for premenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative early breast cancer: TEXT and SOFT trials. J Clin Oncol 2016; 34: 2221–31. Burstein HJ, Temin S, Anderson H, et al. Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: American Society of Clinical Oncology clinical practice guidelines focused update. J Clin Oncol 2014; 32: 2255–69. Bellet M, Gray KP, Francis PA, et al. Twelve-month estrogen levels in premenopausal women with hormone receptor-positive breast cancer receiving adjuvant triptorelin plus exemestane or tamoxifen in the Suppression of Ovarian Function Trial (SOFT): the SOFT-EST substudy. J Clin Oncol 2016; 34: 1584–93. Aebi S, Gelber S, Castiglione-Gertsch M, et al. Is chemotherapy alone adequate for young women with oestrogen-receptor-positive breast cancer? Lancet 2000; 355: 1869–74. Goldhirsch A, Gelber RD, Yothers G et al. Adjuvant therapy for very young women with breast cancer: need for tailored treatments. J Natl Cancer Inst Monogr 2001; 30: 44–51. Pfeiler G, Königsberg R, Fesl C, et al. Impact of body mass index on the efficacy of endocrine therapy in premenopausal patients with breast cancer: an analysis of the prospective ABCSG-12 trial. J Clin Oncol 2011; 29: 2653–59. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Adjuvant bisphosphonate treatment in early breast cancer: meta-analyses of individual patient data from randomised trials. Lancet 2015; 386: 1353–61. 
+
+www.thelancet.com/oncology Vol 23 March 2022 
+
+ 

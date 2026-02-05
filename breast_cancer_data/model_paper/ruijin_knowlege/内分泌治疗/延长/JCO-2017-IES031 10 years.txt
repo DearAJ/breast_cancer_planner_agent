@@ -1,0 +1,883 @@
+VOLUME 
+
+35 
+
+• 
+
+NUMBER 
+
+22 
+
+• 
+
+AUGUST 
+
+1, 
+
+2017 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Long-Term Follow-Up of the Intergroup Exemestane Study James P. Morden, Isabel Alvarez, Gianﬁlippo Bertelli, Alan S. Coates, Robert Coleman, Lesley Fallowﬁeld, Jacek Jassem, Stephen Jones, Lucy Kilburn, Per E. Lønning, Olaf Ortmann, Claire Snowdon, Cornelis van de Velde, Jørn Andersen, Lucia Del Mastro, David Dodwell, Stig Holmberg, Hanna Nicholas, Robert Paridaens, Judith M. Bliss, and R. Charles Coombes Author afﬁliations and support information (if applicable) appear at the end of this article. Published at jco.org on May 3, 2017. J.M.B. and R.C.C. are joint senior authors. Clinical trial information: ISRCTN11883920. Corresponding author: R. Charles Coombes, Division of Cancer, Department of Surgery and Cancer, 1st Floor, ICTEM Building, Imperial College London, Du Cane Rd, London, W12 0NN United Kingdom; e-mail: c.coombes@ imperial.ac.uk. © 2017 by American Society of Clinical Oncology 0732-183X/17/3522w-2507w/$20.00 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose The Intergroup Exemestane Study, an investigator-led study of 4,724 postmenopausal patients with early breast cancer (clinical trial information: ISRCTN11883920), has previously demonstrated that a switch from adjuvant endocrine therapy after 2 to 3 years of tamoxifen to exemestane was associated with clinically relevant improvements in efﬁcacy. Here, we report the ﬁnal efﬁcacy analyses of this cohort. Patients and Methods Patients who remained disease free after 2 to 3 years of adjuvant tamoxifen were randomly assigned to continue tamoxifen or switch to exemestane to complete a total of 5 years of adjuvant endocrine therapy. Given the large number of non–breast cancer–related deaths now reported, breast cancer–free survival (BCFS), with censorship of intercurrent deaths, was the primary survival end point of interest. Analyses focus on patients with estrogen receptor-positive or unknown tumors (n = 4,599). Results At the time of the data snapshot, median follow-up was 120 months. In the population that was estrogen receptor positive or had unknown estrogen receptor status, 1,111 BCFS events were observed with 508 (22.1%) of 2,294 patients in the exemestane group and 603 (26.2%) of 2,305 patients in the tamoxifen group. The data corresponded to an absolute difference (between exemestane and tamoxifen) at 10 years of 4.0% (95% CI, 1.2% to 6.7%), and the hazard ratio (HR) of 0.81 (95% CI, 0.72 to 0.92) favored exemestane. This difference remained in multivariable analysis that was adjusted for nodal status, prior use of hormone replacement therapy, and prior chemotherapy (HR, 0.80; 95% CI, 0.71 to 0.90; P , .001). A modest improvement in overall survival was seen with exemestane; the absolute difference (between exemestane and tamoxifen) at 10 years in the population that was estrogen receptor positive or had unknown estrogen receptor status was 2.1% (95% CI, 20.5% to 4.6%), and the HR was 0.89 (95% CI, 0.78 to 1.01; P = .08). For the intention-to-treat population, the absolute difference was 1.6% (95% CI, 20.9% to 4.1%); the HR was 0.91 (95% CI, 0.80 to 1.03, P = .15). No statistically signiﬁcant difference was observed in the proportion of patients who reported a fracture event in the post-treatment period. Conclusion The Intergroup Exemestane Study and contemporaneous studies have established that a strategy of switching to an aromatase inhibitor after 2 to 3 years of tamoxifen can lead to sustained beneﬁts in terms of reduction of disease recurrence and breast cancer mortality. J Clin Oncol 35:2507-2514. © 2017 by American Society of Clinical Oncology 
+
+ASSOCIATED CONTENT Appendix DOI: https://doi.org/10.1200/JCO. 2016.70.5640 Data Supplement DOI: https://doi.org/10.1200/JCO. 2016.70.5640 DOI: https://doi.org/10.1200/JCO.2016. 70.5640 
+
+INTRODUCTION 
+
+Despite improvements in adjuvant treatment, breast cancer remains the most frequent cause of cancer-related death in women; approximately 508,000 deaths were reported worldwide in 2011.1 For patients diagnosed with estrogen receptor 
+
+(ER)–positive disease, risk of disease relapse remains for more than 15 years after initial diagnosis; and recent research has demonstrated that patients who received chemotherapy had a cumulative risk of relapse at 15 years comparable to that of patients with ER-negative disease.2 Aromatase inhibitors reduce recurrence rates and 10-year breast cancer mortality rates compared © 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2507 
+
+Morden et al 
+
+with tamoxifen. However, the optimal way to schedule aromatase inhibitors is still debated.3 The Intergroup Exemestane Study (IES) was an investigatorled, Pﬁzer-sponsored trial to assess the affect on disease-related outcome, adverse events, and quality of life of a switch to exemestane after 2 to 3 years of tamoxifen compared with continuation up to 5 years of tamoxifen.4-11 The most recent update of efﬁcacy analyses published in 2012 (data snapshot on December 7, 2009) after a median follow-up of 91 months demonstrated that the highly statistically signiﬁcant beneﬁt of a switch to exemestane on disease-free survival (DFS) observed at initial publication was maintained, and this translated to a modest improvement in overall survival (OS).6 IES was the ﬁrst trial published to describe the beneﬁts of a switch from tamoxifen to an aromatase inhibitor (exemestane) at 2 to 3 years, and it was one of the pivotal trials to assess the role of aromatase inhibitors in combination with or as a replacement for standard tamoxifen treatment.3 Whether the strategy results in long-term sustained improvement in DFS or OS remains controversial, although our previous report suggested that this was the case.6 Recent analyses of the Arimidex, Tamoxifen, Alone or in Combination (ATAC) trial have sought to identify clinical and biologic factors associated with disease relapse after completion of endocrine therapy.12,13 Nodal involvement and tumor size are the most important clinical factors for prediction of relapse both during and after treatment completion in patients with ER-positive breast cancer.14,15 The other aim of this study, therefore, was to establish which prognostic features were important in the IES trial, which used a switching strategy, especially after the end of endocrine therapy. Here, we present the ﬁnal efﬁcacy analysis of the IES, along with exploratory analyses to investigate clinical factors that affect the risk of distant relapse after completion of endocrine therapy. 
+
+PATIENTS AND METHODS Patients Details of trial design, eligibility criteria, and study procedures have been presented previously.4-6 Brieﬂy, eligible patients were postmenopausal women with ER-positive/unknown primary invasive breast cancer who remained disease free and on treatment after 2 to 3 years of tamoxifen. At random assignment, women were allocated to continue tamoxifen (20 mg [or 30 mg in Denmark] daily) or to switch to exemestane (25 mg daily) for the remainder of the 5-year endocrine therapy period. Timing of analyses was preplanned and triggered according to the last patient randomly assigned to reach her 10-year follow up. This analysis includes all data received as of September 4, 2013. Efﬁcacy analyses presented here were performed on the main IES analysis population, which included patients whose tumors were ER positive (n = 4,052; 85.8%) plus those whose ER status was unknown (n = 547; 11.6%). Analyses excluded patients who had ER-negative disease (n = 125; 2.6%) who would not have been eligible for the trial had their receptor statuses been known at trial entry. Intention-to-treat (ITT) analysis of overall survival is included for completeness. 
+
+death). As reported previously,6 the proportion of patients who experienced intercurrent death increased as the IES population aged, which decreased the sensitivity of DFS to detect differences between treatments in breast cancer outcome. Therefore, breast cancer–free survival (BCFS), in which intercurrent deaths are censored, is now regarded as a more direct estimate of the treatment effect on breast cancer outcome in the long term. Other secondary end points presented include OS (deﬁned as time from random assignment to death as a result of any cause), breast cancer– speciﬁc survival (BCSS; deﬁned as time from random assignment to breast cancer death, including death as a result of unknown cause and other cause after recurrence), time to contralateral breast cancer (CLB; deﬁned as time to contralateral breast cancer with patients censored at time of nonbreast second primary cancer), and time to distant recurrence (TTDR; deﬁned as time to distant recurrence or death as a result of breast cancer or unknown cause without prior recurrence). Kaplan-Meier plots, log-rank tests, and Cox proportional hazards analyses were used to compare survival end points between randomly assigned treatment groups. Multivariable analysis that was adjusted for known prognostic factors of nodal status, chemotherapy use, and hormone replacement therapy (HRT) use also was conducted. Sites of ﬁrst distant recurrence were grouped as either visceral, bone, or soft tissue/nodal. Patients were assigned to multiple groups, when relevant. Progression of metastatic disease subsequent to the initial distant recurrence was ignored. Events in which the site of recurrence was unknown were excluded from this part of the analysis. The overall and age-related incidences of non–breast cancer second primary cancers were investigated to conﬁrm the observation in previous reports of a differential pattern according to randomly assigned treatment.5,6 When patients reported more than one nonbreast second primary cancer (n = 6), the ﬁrst reported event was included. Second primaries reported with no conﬁrmed date of diagnosis were excluded (n = 8). Competing-risks analyses were undertaken to assess the impact of the randomly assigned treatment on breast cancer events (local recurrence, distant recurrence, CLB, ipsilateral breast cancer, and death as a result of breast cancer or an unknown cause) allowing for competing risks of intercurrent death and nonbreast second primary cancer. Patients were included on the basis of which event occurred ﬁrst: breast cancer event or competing risk event. Gray’s test was used to compare the two treatment groups with respect to breast cancer event in the presence of competing risks.16 Landmark analyses were performed to investigate the factors related to distant recurrence after the end of endocrine therapy. TTDR was the end point of interest, and survival time was partitioned at 2.5 years, which represented the approximate end of endocrine therapy in IES. The effect of randomly assigned treatment and of a number of patient and tumor characteristics on TTDR after 2.5 years were assessed, both as single variables and together in a multivariable Cox proportional hazards model. Full adverse event4-7,11 and quality of life9,10 data have been reported previously and, therefore, are not included in this article, but an updated estimate of post-treatment fracture incidence by treatment received is presented. This estimate includes all fractures that occurred . 6 months after treatment completion in patients who received at least 1 day of treatment, and events were censored after recurrence or new second primary cancer. Analyses were performed with STATA, version 13.2 (STATA Corp, College Station, TX). All statistical tests were two sided, and P , .05 was considered statistically signiﬁcant. 
+
+RESULTS Statistical Analysis The primary end point of the IES was DFS, deﬁned as time from random assignment to local or distant breast cancer recurrence, new primary breast cancer, or death without disease relapse (intercurrent 2508 
+
+© 2017 by American Society of Clinical Oncology 
+
+Between 1998 and 2003, 4,724 evaluable patients were randomly assigned from 366 sites in 37 countries. Of these, 4,599 patients were ER positive or had an unknown ER status (Fig 1). JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Long-Term Follow-Up of the Intergroup Exemestane Study 
+
+Randomly assigned (N = 4,740) 
+
+Unevaluable (n = 8) 
+
+Unevaluable (n = 8) 
+
+Evaluable patients (n = 4,724) 
+
+Randomly assigned to exemestane (n = 2,352) 
+
+Randomly assigned to tamoxifen (n = 2,372) 
+
+ER-negative (n = 58) 
+
+ER-positive or unknown (n = 2,294) 
+
+ER-negative (n = 67) 
+
+ER-positive or unknown (n = 2,305) 
+
+Patient characteristics have been reported previously; patients were well balanced between treatment groups.5,6 In summary, 2,089 (44.2%) of 4,724 patients had node-positive disease, and 1,542 (32.6%) of 4,724 patients had received adjuvant chemotherapy. The mean age at random assignment was 64.2 years (standard deviation, 8.2 years). At the time of the data snapshot (September 4, 2013), the median follow-up in patients still known to be alive was 120.0 months (interquartile range, 114.8 to 122.0 months; range, 2.9 to 164.1 months); the analysis was based on more than 39,000 woman-years of follow-up. A total of 74.7% of patients had at least 10 years of follow-up or had previously died. 
+
+Efficacy In the ER-positive/unknown population, 1,111 of 4,599 patients experienced a BCFS event (508 [22.1%] of 2,294 in the exemestane group and 603 [26.2%] of 2,305 in the tamoxifen group). A reduction in the risk of breast cancer–related events was observed; the absolute difference at 10 years was 4.0% (95% CI, 1.2% to 6.7%), and the hazard ratio (HR) was 0.81 (95% CI, 0.72 to 0.92) in favor of a switch to exemestane (Fig 2A). In the ER-positive/unknown population, 940 of 4,599 patients died (445 [19.4%] of 2,294 in the exemestane group and 495 [21.5%] of 2,305 in the tamoxifen group). A modest improvement in OS was seen with exemestane; the absolute survival difference at 10 years was 2.1% (95% CI, 20.5% to 4.6%), and the HR was 0.89 (95% CI, 0.78 to 1.01), in favor of a switch to exemestane (Fig 2B). The numerical difference in deaths was observed mainly in deaths as a result of breast cancer, and rates of intercurrent deaths were similar between randomly assigned treatment groups (Table 1). Results were similar when the ITT population was considered, with 467 (19.9%) of 2,352 patients in the exemestane group dying, and 510 (21.5%) of 2,372 patients in the tamoxifen group dying (HR, 0.91; 95% CI, 0.80 to 1.03; Fig 2C). In the ER-positive/unknown population, 659 of 4,599 patients reported a BCSS event (303 [13.2%] of 2,294 patients jco.org 
+
+Fig 1. CONSORT diagram. ER, estrogen receptor; ITT, intention to treat. 
+
+ITT efficacy analysis population 
+
+ER-positive/unknown efficacy analysis population 
+
+in the exemestane group, and 356 [15.4%] of 2,305 patients in the tamoxifen group). The absolute BCSS difference at 10 years was 2.3% (95% CI, 20.0% to 4.6%), and the HR was 0.84 (95% CI, 0.72 to 0.98) in favor of a switch to exemestane (Fig 2D). A total of 1,392 DFS events have been reported in only the patients with ER-positive/unknown disease (650 [28.3%] of 2,294 in the exemestane group, and 742 [32.2%] of 2,305 in the tamoxifen group). The highly signiﬁcant improvement in DFS associated with a switch to exemestane that was noted previously remained, and no convergence of survival curves was seen (Fig 2E). This sustained beneﬁt translated to an absolute difference in the proportion who remained alive and disease free at 10 years of 3.8% (95% CI, 0.9% to 6.6%). This difference remained in multivariable analyses that adjusted for nodal status, prior HRT use, and prior chemotherapy; the HR of 0.83 favored a switch to exemestane (95% CI, 0.75 to 0.93; P = .001). With competing risks methodology, in which all outcomes were investigated in a single analysis, the cumulative incidence of intercurrent deaths increased steadily throughout the follow-up period and was comparable between randomly assigned treatment groups (Fig 3). In consideration of breast cancer events (after adjustment for competing risks), the early beneﬁt from a switch to exemestane was maintained throughout follow-up (Gray’s test P = .002). No statistically signiﬁcant difference was seen between the randomly assigned groups in the number of patients who reported a new primary CLB (exemestane [n = 56] and tamoxifen [n = 75]; HR, 0.73; 95% CI, 0.52 to 1.03; Table 1), although the observed HR was consistent with that of other trials that have explored the additional preventive beneﬁts of aromatase inhibitors compared with tamoxifen.17 Numerically, fewer nonbreast second primary cancers were reported with exemestane (n = 143) than with tamoxifen (n = 191; Table 1). Analyses of incidence of distant recurrence and nonbreast second primary cancer by age at random assignment reﬂect data presented previously; there was a suggestion that second primary cancer incidence increases with age, but © 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2509 
+
+Morden et al 
+
+B 
+
+A 
+
+100 
+
+Tamoxifen 
+
+80 
+
+Tam = 603/2,305 
+
+70 60 50 40 30 
+
+Absolute difference at 5 years = 3.4% 95% CI, 1.3% to 5.4% 
+
+20 
+
+Absolute difference at 10 years = 4.0% 95% CI, 1.2% to 6.7% 
+
+Unadjusted HR, 0.81 (95% CI, 0.72 to 0.92); P < .001 Adjusted HR, 0.80 (95% CI, 0.71 to 0.90); P < .001 
+
+10 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Exe = 445/2,294 Tam = 495/2,305 
+
+80 70 60 50 40 30 20 
+
+0 
+
+11 
+
+Absolute difference at 5 years = 1.5% 95% CI, –0.3% to 3.3% 
+
+Absolute difference at 10 years = 2.1% 95% CI, –0.5% to 4.6% 
+
+Unadjusted HR, 0.89 (95% CI, 0.78 to 1.01); P = .08 Adjusted HR, 0.88 (95% CI, 0.78 to 1.01); P = .06 
+
+10 
+
+Time From Random Assignment (years) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Time From Random Assignment (years) 
+
+No. events/at risk: Exe: 
+
+Tamoxifen 
+
+Exemestane 
+
+90 
+
+End of treatment 
+
+Exe = 508/2,294 
+
+Overall Survival (%) 
+
+Exemestane 
+
+90 
+
+End of treatment 
+
+Event-Free Survival (%) 
+
+100 
+
+No. events/at risk: 
+
+0/2,294 48/2,193 44/2,125 68/2,018 58/1,919 55/1,822 54/1,721 34/1,643 59/1,523 42/1,393 37/890 
+
+9+0*/35 
+
+Exe: 
+
+0/2,294 17/2,229 40/2,178 42/2,106 63/2,010 36/1,938 47/1,848 43/1,774 50/1,673 52/1,542 43/973 12+0*/36 
+
+Tam: 0/2,305 71/2,193 87/2,077 85/1,948 53/1,847 54/1,753 53/1,651 52/1,551 49/1,442 38/1,333 45/842 16+0*/41 
+
+Tam: 
+
+0/2,305 23/2,249 52/2,181 53/2,094 63/1,996 42/1,920 62/1,825 39/1,747 59/1,638 52/1,518 40/954 10+0*/43 
+
+* Events occurring after 11 years 
+
+* Events occurring after 11 years 
+
+C 
+
+D Tam = 510/2,372 
+
+80 Absolute difference at 5 years = 1.2% 95% CI, –0.6% to 2.9% 
+
+End of treatment 
+
+70 60 50 40 30 20 
+
+Absolute difference at 10 years = 1.6% 95% CI, –0.9% to 4.1% 
+
+Unadjusted HR, 0.91, (95% CI, 0.80 to 1.03); P = .15 Adjusted HR, 0.91 (95% CI, 0.80 to 1.03); P = .15 
+
+10 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Tamoxifen 
+
+100 
+
+Exe = 303/2,294 
+
+90 
+
+Tam = 356/2,305 
+
+11 
+
+80 70 
+
+Absolute difference at 5 years = 1.3% 95% CI, –0.3% to 2.8% 
+
+End of treatment 
+
+Exe = 467/2,352 
+
+90 
+
+Overall Survival (%) 
+
+Exemestane 
+
+Tamoxifen 
+
+BCSS–Event-Free Survival (%) 
+
+Exemestane 
+
+100 
+
+60 50 40 30 20 
+
+Absolute difference at 10 years = 2.3% 95% CI, –0.0% to 4.6% 
+
+Unadjusted HR, 0.86 (95% CI, 0.74 to 1.00); P = .03 HR (adjusted) = 0.84 95%CI (0.72, 0.97); P = .02 
+
+10 0 
+
+Time From Random Assignment (years) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Time From Random Assignment (years) 
+
+No. events/at risk: 
+
+No. events/at risk: 
+
+Exe: 
+
+0/2,352 18/2,286 41/2,234 47/2,154 69/2,051 38/1,977 47/1,886 46/1,808 52/1,703 52/1,572 45/991 12+0*/37 
+
+Exe: 
+
+0/2,294 10/2,229 25/2,178 30/2,106 51/2,010 34/1,938 38/1,848 26/1,774 32/1,673 36/1,542 27/973 4+0*/36 
+
+Tam: 0/2,372 24/2,314 54/2,244 57/2,151 65/2,049 43/1,972 66/1,873 39/1,794 60/1,683 52/1,559 40/988 10+0*/46 
+
+Tam: 
+
+0/2,305 13/2,249 38/2,181 40/2,094 47/1,996 31/1,920 43/1,825 24/1,747 45/1,638 41/1,518 27/954 7+0*/43 
+
+* Events occurring after 11 years 
+
+* Events occurring after 11 years 
+
+100 
+
+Exemestane 
+
+Tamoxifen 
+
+90 
+
+Exe = 650/2,294 
+
+80 
+
+Tam = 742/2,305 
+
+70 
+
+End of treatment 
+
+Disease-Free Survival (%) 
+
+E 
+
+60 50 40 30 20 
+
+Absolute difference at 5 years = 3.6% 95% CI, 1.4% to 5.8% Absolute difference at 10 years = 3.8% 95% CI, 0.9% to 6.6% Unadjusted HR, 0.85 (95% CI, 0.76 to 0.94); P = .002 Adjusted HR, 0.83 (95% CI, 0.75 to 0.93); P = .001 
+
+10 0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Time From Random Assignment (years) No. events/at risk: Exe: 
+
+0/2,294 55/2,193 59/2,125 80/2,018 70/1,919 67/1,822 63/1,721 51/1,643 77/1,523 58/1,393 53/890 17+0*/35 
+
+Tam: 0/2,305 81/2,193 101/2,077 98/1,948 69/1,847 65/1,753 72/1,651 67/1,551 63/1,442 49/1,333 58/842 19+0*/41 * Events occurring after 11 years 
+
+Fig 2. Survival results in study populations: estrogen receptor–positive/unknown (n = 4,599) and intention to treat (n = 4,724). (A) Breast cancer–free survival in the ER–positive/ unknown population. (B) Overall survival (OS) in the ER-positive/unknown population, and (C) in the intention-to-treat population. (D) Breast cancer–speciﬁc survival (BCSS) in the ER-positive/unknown population. (E) Disease-free survival (DFS) in the ER-positive/unknown population. Exe, exemestane; HR, hazard ratio; Tam, tamoxifen. 2510 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Long-Term Follow-Up of the Intergroup Exemestane Study 
+
+Table 1. Efﬁcacy Events by Treatment Group in the ER-Positive/Unknown Population No. (%) of Events in ER-Positive/Unknown Population Event 
+
+Exemestane (n = 2,294) 
+
+Tamoxifen (n = 2,305) 
+
+Total (N = 4,599) 
+
+DFS ﬁrst event Total BCFS events Distant recurrence Local recurrence Second primary breast cancer Intercurrent death All deaths Breast cancer Unknown cause Other known cause Other cancer Vascular Cardiac Other Distant recurrence To known site Visceral only Soft tissue/nodal only Visceral and soft tissue/nodal Total sites not including bone Bone only Visceral and bone Visceral, bone, and soft tissue/nodal Bone and soft tissue/nodal Total sites including bone Breast cancer death with no previous recurrence Death as a result of unknown cause Contralateral breast cancer Nonbreast second primary cancer Uterus GI, upper GI, lower Lung Melanoma Ovary Hematologic Kidney Other 
+
+650 (28.3) 508 369 81 58 142 445 (19.4) 263 40 142 40 36 30 36 403 (17.6) 346 129 29 15 173 87 60 15 11 173 17 40 56 (2.4) 143 (6.2) 15 24 20 14 10 10 15 5 30 
+
+742 (32.2) 603 420 109 74 139 495 (21.5) 310 46 139 60 23 23 33 469 (20.4) 393 130 25 18 173 127 63 18 12 220 28 48 75 (3.3) 191 (8.3) 28 20 28 29 9 8 17 8 44 
+
+1,392 (30.3) 1,111 789 190 132 281 940 (20.4) 573 86 281 100 59 53 69 872 (19.0) 739 259 54 33 346 214 123 33 23 393 45 88 131 (2.8) 334 (7.3) 43 44 48 43 19 18 32 13 74 
+
+NOTE. Events were those that contributed to end points of interest. Abbreviations: BCFS, breast cancer–free survival; DFS, disease-free survival; ER, estrogen receptor. 
+
+no association was observed between age and distant recurrence incidence (trend test P = .08 and .22, respectively; Appendix Table A1 and Fig A1, online only). Results of TTDR analyses across the entire follow-up period reﬂected other efﬁcacy end points. The absolute difference in the rate of distant recurrence or breast cancer death at 10 years was 2.6% (95% CI, 0.2% to 5.1%), and the HR was 0.84 (95% CI, 0.74 to 0.96) in favor of a switch to exemestane. Analyses of TTDR after completion of endocrine therapy—equivalent to approximately 5 years after diagnosis—included 4,147 patients known to be event free at 2.5 years after random assignment (exemestane [n = 2,091] and tamoxifen [n = 2,056]; Table 2). No statistically signiﬁcant difference in TTDR during this period was observed between randomly assigned treatment groups (HR, 0.94; 95% CI, 0.80 to 1.10; P = .41), which reﬂects the observation that the initial difference in disease outcome observed during the treatment period was maintained throughout the follow-up period. After inclusion jco.org 
+
+in a multivariable Cox proportional hazards model, age at random assignment, nodal status, hormone receptor status, previous HRT use, and tumor size but not grade, had a signiﬁcant effect on the risk of TTDR event after completion of endocrine therapy (ie, of late relapse). Of note, risk of late distant recurrence in patients with tumor sizes . 5 cm at diagnosis was almost double that of patients with tumors , 2 cm (HR, 1.92; 95% CI, 1.28 to 1.90), and the risk was more than six times greater in patients who had $10 nodes involved than in patients who were node-negative at random assignment (HR, 6.10; 95% CI, 4.41 to 8.44) after adjustment for other factors. 
+
+Fractures No statistically signiﬁcant difference was observed in the proportion of patients who reported at least one fracture event in the post-treatment period with 196 (9.3%) of 2,105 patients in the © 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+2511 
+
+Morden et al 
+
+0.35 
+
+Gray's test for breast cancer event: P = .002 (compared with log-rank test for BCFS: P < .001) 
+
+Tam - Breast cancer event Exe - Breast cancer event 
+
+0.30 
+
+Absolute difference at 10 years = 0.033 95% CI, 0.007 to 0.059 
+
+Tam - Nonbreast second primary Exe - Nonbreast second primary 
+
+Cumulative Incidence 
+
+Tam - Intercurrent death 
+
+0.25 
+
+Exe - Intercurrent death 
+
+Absolute difference at 5 years = 0.029 (95% CI, 0.009 to 0.050) 
+
+0.20 
+
+Fig 3. Cumulative incidence of breast cancer event in the presence of competing risks (intercurrent death and nonbreast second cancer). BCFS: breast cancer–speciﬁc survival; Exe, exemestane; Tam, tamoxifen. 
+
+0.15 
+
+0.10 
+
+0.05 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Time From Random Assignment (years) 
+
+exemestane group and 163 (8.0%) of 2,036 patients in the tamoxifen group (P = .14). 
+
+DISCUSSION 
+
+This updated and ﬁnal analysis of IES demonstrates that the beneﬁt associated with a switch to exemestane observed early in the follow-up period remained undiminished by additional follow-up. As the IES population aged, incidences of non–breast cancer deaths and nonbreast second primary cancers have increased, which has led to a dilution of OS results. However, a modest beneﬁt from the switch to exemestane can still be seen, with an absolute difference in OS at 10 years after random assignment of 1.6%. As suggested previously, BCFS (which does not include non–breast cancer deaths) remains the most appropriate measure of treatment efﬁcacy in this setting; an absolute beneﬁt of 4.0% from the switch to exemestane was observed at 10 years. Analyses that account for competing events of intercurrent death and nonbreast second primary cancer showed an absolute difference in breast cancer event at 10 years of 3%. The IES trial compared treatments for a duration of up to 5 years. Recent large, randomized controlled trials18-20 have demonstrated an improvement in disease-related outcomes associated with continuation of tamoxifen or aromatase inhibitor treatment past the standard 5 years of treatment. However, long-term use of endocrine therapy is associated with many adverse effects, some of which substantially affect patient well-being, such as osteoporosis, vasomotor problems, and musculoskeletal conditions.21 There remains great clinical need to identify patients who remain at high risk of disease relapse after completion of 5 years of endocrine therapy who may beneﬁt from additional treatment 2512 
+
+© 2017 by American Society of Clinical Oncology 
+
+and, conversely, patients who may be spared this treatment because of low residual risk. Results of analyses partitioned at 2.5 years after random assignment support conclusions made previously that the difference in disease-related outcome observed at 10 years between treatment groups is due to maintenance of the initial on-treatment divergence between groups rather than any emerging post-treatment effect. Multivariable analyses of clinical factors that affect the time to late distant recurrence identiﬁed age at random assignment, nodal involvement, hormone receptor status, previous HRT use, and tumor size, although the relationship between HRT use and late distant recurrence is confounded by geographic region. The observation that tumor grade no longer retains prognostic signiﬁcance in this setting after adjustment for other factors reﬂects previous analyses of retrospective case series22 and comparable analyses of the ATAC trial.12 The authors of this analysis also demonstrated the value of the PAM50-based risk of recurrence score as an independent predictor of late distant recurrence; other molecular scores studied (eg, IHC4, Oncotype DX) did not add prognostic information when added to clinical data.13 In summary, the IES and other contemporaneous studies have established that a strategy of a switch to an aromatase inhibitor after 2 to 3 years of tamoxifen can lead to sustained beneﬁts in terms of reduction of disease recurrence and breast cancer mortality. The identiﬁcation of patients who remain at higher risk of disease recurrence after the completion of 5 years of endocrine therapy (whether tamoxifen, an aromatase inhibitor, or a combination of the two) according to clinical factors, such as nodal involvement and tumor size, will aid decision making about the administration of additional endocrine therapy or additional therapeutic agents. JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+jco.org 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 311 (15.1) 300 (14.3) 187 (13.8) 248 (16.0) 176 (17.6) 183 (8.2) 220 (17.5) 131 (33.9) 57 (47.9) 20 (12.6) 248 (19.0) 363 (12.8) 331 (13.4) 206 (17.1) 74 (15.8) 450 (14.3) 108 (18.7) 53 (12.9) 115 (11.3) 473 (15.6) 23 (25.3) 277 (10.9) 292 (20.4) 26 (27.7) 16 (18.8) 73 (9.9) 263 (14.7) 120 (15.9) 155 (17.8) 26 (8.0) 54 (10.5) 134 (17.8) 367 (15.6) 30 (14.6) 
+
+2,056 2,091 1,352 1,548 999 2,227 1,256 386 119 159 1,305 2,842 2,474 1,204 469 3,157 578 412 1,021 3,035 91 2,537 1,431 94 85 737 1,785 756 869 325 512 754 2,351 205 
+
+No. of Patients 
+
+0.53 0.63 1.20 1 1.01 
+
+1 1.52 1.66 1.91 
+
+1 2.03 3.05 1.76 
+
+1 1.47 2.38 
+
+1 1.32 0.87 
+
+1 1.3 1.24 
+
+1 0.66 
+
+1 2.22 4.8 7.57 1.59 
+
+1 1.01 1.43 
+
+1 0.94 
+
+HR 
+
+, .001 
+
+, .001 
+
+.008 
+
+.02 
+
+, .001 
+
+, .001 
+
+— 1.83 to 2.70 3.84 to 6.01 5.63 to 10.21 1.01 to 2.53 — 0.56 to 0.77 — 1.09 to 1.55 0.96 to 1.59 — 1.07 to 1.62 0.65 to 1.16 — 1.20 to 1.80 1.52 to 3.72 — 1.72 to 2.39 2.04 to 4.56 1.07 to 2.92 
+
+0.35 to 0.79 0.47 to 0.84 0.98 to 1.46 — 0.70 to 1.47 
+
+, .001 
+
+, .001 
+
+, .001 
+
+— 0.84 to 1.22 1.17 to 1.76 
+
+— 1.17 to 1.97 1.24 to 2.22 1.45 to 2.52 
+
+.41 
+
+P* 
+
+— 0.80 to 1.10 
+
+95% CI 
+
+1 1.16 1.16 1.29 
+
+1 1.51 1.92 1.35 
+
+1 1.35 1.74 
+
+1 1.16 0.93 
+
+1 1.29 1.22 
+
+1 1.07 
+
+1 2.11 4.41 6.10 1.63 
+
+1 1.03 1.36 
+
+1 0.92 
+
+HR 
+
+— 0.89 to 1.51 0.86 to 1.56 0.96 to 1.72 
+
+— 1.28 to 1.80 1.28 to 1.90 0.80 to 2.25 
+
+— 1.10 to 1.67 1.10 to 2.74 
+
+— 0.93 to 1.45 0.69 to 1.24 
+
+— 1.08 to 1.54 0.94 to 1.58 
+
+— 0.89 to 1.30 
+
+— 1.72 to 2.59 3.45 to 5.63 4.41 to 8.44 1.02 to 2.60 
+
+— 0.85 to 1.25 1.09 to 1.70 
+
+— 0.78 to 1.08 
+
+95% CI 
+
+.40 
+
+, .001 
+
+.006 
+
+.30 
+
+.01 
+
+.48 
+
+, .001 
+
+.008 
+
+.29 
+
+P* 
+
+0.67 0.69 1.15 1 0.96 
+
+1 1.14 1.13 1.20 
+
+1 1.51 1.96 1.28 
+
+1 1.20 1.59 
+
+1 1.17 0.93 
+
+1 1.33 1.22 
+
+1 1.06 
+
+1 2.09 4.28 6.07 1.82 
+
+1 1.05 1.41 
+
+1 0.92 
+
+HR 
+
+0.45 to 1.02 0.51 to 0.94 0.93 to 1.44 — 0.66 to 1.40 
+
+.02 
+
+.69 
+
+, .001 
+
+— 1.27 to 1.79 1.30 to 2.96 0.77 to 2.15 — 0.88 to 1.49 0.84 to 1.53 0.89 to 1.61 
+
+.09 
+
+.29 
+
+.006 
+
+.58 
+
+, .001 
+
+.004 
+
+.32 
+
+P* 
+
+— 0.97 to 1.49 1.00 to 2.52 
+
+— 0.94 to 1.46 0.70 to 1.25 
+
+— 1.11 to 1.60 0.93 to 1.61 
+
+— 0.87 to 1.28 
+
+— 1.70 to 2.56 3.35 to 5.46 4.38 to 8.40 1.14 to 2.92 
+
+— 0.86 to 1.27 1.13 to 1.76 
+
+— 0.79 to 1.08 
+
+95% CI 
+
+With Geographic Region 
+
+Adjusted Analysis Without Geographic Region 
+
+NOTE. The 2.5-year time point was approximately 5 years after diagnosis. Abbreviations: ER, estrogen receptor; HR, hazard ratio; HRT, hormone replacement therapy; PgR, progesterone receptor; TTDR, time to distant recurrence. *P value represents likelihood ratio test. P values are calculated with unknown categories included. 
+
+Random assignment Tamoxifen Exemestane Age at random assignment, years , 60 60-69 $ 70 Nodal status Negative 1-3 4-9 $ 10 Unknown Previous chemotherapy Yes No Hormone receptor status ER- and PgR-positive ER-positive and PgR-negative/unknown ER- and PgR- unknown Histologic type Ductal Lobular Other/unknown Previous HRT use Yes No Unknown Tumor size, cm #2 . 2 but # 5 .5 Unknown Tumor grade 1 2 3/undifferentiated Unknown Region United States United Kingdom Central and Eastern Europe Rest of Europe Southern hemisphere and Hong Kong 
+
+Factor 
+
+No. (%) With TTDR Event 
+
+Unadjusted Analysis 
+
+Table 2. Factors That Affect Risk of TTDR Event After 2.5 Years 
+
+Long-Term Follow-Up of the Intergroup Exemestane Study 
+
+© 2017 by American Society of Clinical Oncology 
+
+2513 
+
+Morden et al 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Alan S. Coates, Lesley Fallowﬁeld, Per E. Lønning, Stig Holmberg, Robert Paridaens, Judith M. Bliss, R. Charles Coombes Provision of study materials or patients: Robert Coleman, Lucia Del Mastro, Stig Holmberg, Robert Paridaens 
+
+REFERENCES 1. World Health Organization: Breast cancer: Prevention and control, 2013. Geneva, Switzerland, World Health Organization. http://www.who.int/cancer/ detection/breastcancer/en/index1.html 2. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 3. Dowsett M, Forbes JF, Bradley R, et al: Aromatase inhibitors versus tamoxifen in early breast cancer: Patient-level meta-analysis of the randomised trials. Lancet 386:1341-1352, 2015 4. Coombes RC, Hall E, Gibson LJ, et al: A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. N Engl J Med 350:1081-1092, 2004 5. Coombes RC, Kilburn LS, Snowdon CF, et al: Survival and safety of exemestane versus tamoxifen after 2-3 years’ tamoxifen treatment (Intergroup Exemestane Study): A randomised controlled trial. Lancet 369:559-570, 2007 6. Bliss JM, Kilburn LS, Coleman RE, et al: Disease-related outcomes with long-term follow-up: An updated analysis of the intergroup exemestane study. J Clin Oncol 30:709-717, 2012 7. Coleman RE, Banks LM, Girgis SI, et al: Skeletal effects of exemestane on bone-mineral density, bone biomarkers, and fracture incidence in postmenopausal women with early breast cancer participating in the 
+
+Administrative support: Hanna Nicholas Collection and assembly of data: Isabel Alvarez, Gianﬁlippo Bertelli, Alan S. Coates, Robert Coleman, Jacek Jassem, Stephen Jones, Per E. Lønning, Olaf Ortmann, Claire Snowdon, Cornelis van de Velde, Jørn Andersen, Lucia Del Mastro, David Dodwell, Stig Holmberg, Hanna Nicholas, Robert Paridaens, Judith M. Bliss R. Charles Coombes Data analysis and interpretation: James P. Morden, Isabel Alvarez, Gianﬁlippo Bertelli, Alan S. Coates, Robert Coleman, Lucy Kilburn, Cornelis van de Velde, David Dodwell, Judith M. Bliss Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors 
+
+Intergroup Exemestane Study (IES): A randomised controlled study. Lancet Oncol 8:119-127, 2007 8. Bertelli G, Hall E, Ireland E, et al: Long-term endometrial effects in postmenopausal women with early breast cancer participating in the Intergroup Exemestane Study (IES): A randomised controlled trial of exemestane versus continued tamoxifen after 2-3 years tamoxifen. Ann Oncol 21:498-505, 2010 9. Fallowﬁeld LJ, Bliss JM, Porter LS, et al: Quality of life in the intergroup exemestane study: A randomized trial of exemestane versus continued tamoxifen after 2 to 3 years of tamoxifen in postmenopausal women with primary breast cancer. J Clin Oncol 24:910-917, 2006 10. Fallowﬁeld LJ, Kilburn LS, Langridge C, et al: Long-term assessment of quality of life in the Intergroup Exemestane Study: 5 years post-randomisation. Br J Cancer 106:1062-1067, 2012 11. Mieog JS, Morden JP, Bliss JM, et al: Carpal tunnel syndrome and musculoskeletal symptoms in postmenopausal women with early breast cancer treated with exemestane or tamoxifen after 2-3 years of tamoxifen: A retrospective analysis of the Intergroup Exemestane Study. Lancet Oncol 13:420-432, 2012 12. Sestak I, Dowsett M, Zabaglo L, et al: Factors predicting late recurrence for estrogen receptorpositive breast cancer. J Natl Cancer Inst 105: 1504-1511, 2013 13. Dowsett M, Sestak I, Buus R, et al: Estrogen receptor expression in 21-gene recurrence score predicts increased late recurrence for estrogenpositive/HER2-negative breast cancer. Clin Cancer Res 21:2763-2770, 2015 
+
+14. Martin M, Pienkowski T, Mackey J, et al: Adjuvant docetaxel for node-positive breast cancer. N Engl J Med 352:2302-2313, 2005 15. Roché H, Fumoleau P, Spielmann M, et al: Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: The FNCLCC PACS 01 Trial. J Clin Oncol 24: 5664-5671, 2006 16. Pintilie M: Competing Risks: A Practical Perspective. West Sussex, England, Wiley, 2006 17. Cuzick J, Sestak I, Forbes JF, et al: Anastrozole for prevention of breast cancer in high-risk postmenopausal women (IBIS-II): An international, doubleblind, randomised placebo-controlled trial. Lancet 383: 1041-1048, 2014 18. Davies C, Pan H, Godwin J, et al: Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years after diagnosis of oestrogen receptor-positive breast cancer: ATLAS, a randomised trial. Lancet 381:805-816, 2013 19. Gray RG, Rea D, Handley K, et al: aTTom: Longterm effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years in 6,953 women with early breast cancer. J Clin Oncol 31, 2013 (suppl; abstr 5) 20. Goss PE, Ingle JN, Pritchard KI, et al: Extending aromatase-inhibitor adjuvant therapy to 10 years. N Engl J Med 375:209-219, 2016 21. Lønning PE, Eikesdal HP: Aromatase inhibition 2013: Clinical state of the art and questions that remain to be solved. Endocr Relat Cancer 20:R183-R201, 2013 22. Brewster AM, Hortobagyi GN, Broglio KR, et al: Residual risk of breast cancer recurrence 5 years after adjuvant therapy. J Natl Cancer Inst 100: 1179-1183, 2008 
+
+Affiliations James P. Morden, Lucy Kilburn, Claire Snowdon, and Judith M. Bliss, The Institute of Cancer Research; Hanna Nicholas, Cancer Research UK; R. Charles Coombes, Imperial College London, London; Gianﬁlippo Bertelli, Singleton Hospital, Swansea; Robert Coleman, Weston Park Hospital, Shefﬁeld; Lesley Fallowﬁeld, University of Sussex, Brighton; David Dodwell, St James Hospital, Leeds, United Kingdom; Isabel Alvarez, Hospital Donostia, GEICAM Spanish Breast Cancer Group, San Sebastian, Spain; Alan S. Coates, International Breast Cancer Study Group, Bern, Switzerland, and University of Sydney, Sydney, Australia; Jacek Jassem, Medical University of Gdansk, Gdansk, Poland; Stephen Jones, US Oncology Research, The Woodlands, TX; Per E. Lønning, University of Bergen and Haukeland University Hospital, Bergen, Norway; Olaf Ortmann, University Medical Center Regensburg, Regensburg, Germany; Cornelis van de Velde, Leiden University Medical Centre, Leiden, the Netherlands; Jørn Andersen, Aarhus University Hospital, Aarhus, Denmark; Lucia Del Mastro, IRCCS Azienda Ospedaliera Universitaria San Martino IST, Istituto Nazionale per la Ricerca sul Cancro, Genova, Italy; Stig Holmberg, Sahlgrenska Universitetssjukhuset, Goteborg, Sweden; and Robert Paridaens, Universitair Ziekenhuis Gasthuisberg, Leuven, Belgium. Support Supported by Pﬁzer; also supported by Cancer Research UK (to the trial coordinating units at Imperial College London and The Institute of Cancer Research). nnn 2514 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Long-Term Follow-Up of the Intergroup Exemestane Study 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Long-Term Follow-Up of the Intergroup Exemestane Study The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. James P. Morden No relationship to disclose 
+
+Olaf Ortmann Speakers’ Bureau: Novartis, AstraZeneca 
+
+Isabel Alvarez Consulting or Advisory Role: Roche, AstraZeneca, Novartis, Palex Research Funding: Roche, Novartis, Celgene, AstraZeneca, Pﬁzer Expert Testimony: Roche, Novartis, AstraZeneca Travel, Accommodations, Expenses: Roche, AstraZeneca 
+
+Claire Snowdon No relationship to disclose 
+
+Gianﬁlippo Bertelli No relationship to disclose 
+
+Jørn Andersen No relationship to disclose 
+
+Alan S. Coates No relationship to disclose 
+
+Lucia Del Mastro Honoraria: Takeda, Ipsen, Roche, AstraZeneca, Novartis Consulting or Advisory Role: Eli Lilly, Pﬁzer, Roche Travel, Accommodations, Expenses: Roche, Celgene, AstraZeneca 
+
+Robert Coleman Research Funding: Bayer (Inst), Amgen (Inst) Other Relationship: Prime Oncology Lesley Fallowﬁeld Honoraria: Amgen, Teva, Sanoﬁ, Boehringer Ingelheim Consulting or Advisory Role: Amgen Research Funding: Boehringer Ingelheim (Inst), GlaxoSmithKline (Inst), Sanoﬁ (Inst), pH Associates (Inst), Novartis (Inst), Bristol-Myers Squibb (Inst) Travel, Accommodations, Expenses: Amgen, Boehringer Ingelheim, Teva, Bristol-Myers Squibb Jacek Jassem No relationship to disclose Stephen Jones Consulting or Advisory Role: Pﬁzer, Amgen Speakers’ Bureau: Pﬁzer, Amgen Lucy Kilburn No relationship to disclose 
+
+Cornelis van de Velde No relationship to disclose 
+
+David Dodwell Honoraria: Roche, AstraZeneca, Pﬁzer Stig Holmberg No relationship to disclose Hanna Nicholas No relationship to disclose Robert Paridaens Honoraria: Pﬁzer Consulting or Advisory Role: Pﬁzer Travel, Accommodations, Expenses: Pﬁzer Judith M. Bliss No relationship to disclose R. Charles Coombes Honoraria: Pﬁzer Speakers’ Bureau: Pﬁzer Research Funding: Pﬁzer 
+
+Per E. Lønning Honoraria: Roche, Novartis Research Funding: AstraZeneca (Inst), Pﬁzer (Inst) 
+
+jco.org 
+
+© 2017 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+Morden et al 
+
+Acknowledgment We thank the women who took part in this study; the doctors, nurses, and support staff at local sites; and the monitors, data managers, trial coordinators, and study managers from the Argentine Breast Cancer Group, the Australian New Zealand Breast Cancer Trials Group, the Central and Eastern European Oncology Group, the Danish Breast Cancer Group, the Dutch Breast Cancer Research Group, the European Organisation for Research and Treatment of Cancer, the Grupo Espanol De Investigacion Del Cancer De Mama, the Gruppo Oncologico Nord Ovest, the Gruppo Oncologico Italiano di Ricerca Clinica, the International Breast Cancer Study Group, the International Collaborative Cancer Group, the Israeli Clinical Oncology Group, Italian Trials in Medical Oncology, the North West England Group, the Norwegian Breast Cancer Group, the Yorkshire Breast Group, the Federation Nationale Des Centres De Lutte Contre Le Cancer, the German Exemestane Adjuvant Group, the Wales Cancer Trials Network, US Oncology, the Swedish Breast Cancer Group, and Pﬁzer. We also thank the Breast International Group for their support, the members of the study steering committee, and the members of the independent data monitoring committee. Appendix 
+
+Distant recurrence 
+
+25 
+
+Nonbreast second primary 
+
+Incidence Rate (per 1,000) 
+
+21.7 
+
+20.9 
+
+20.2 
+
+20.1 
+
+20 17.4 
+
+15 
+
+10 
+
+10.4 8.4 
+
+5 
+
+9.3 
+
+9.2 
+
+60-64 
+
+65-69 
+
+5.5 
+
+0 < 55 
+
+55-59 
+
+≥ 70 
+
+Age at Random Assignment (years) Fig A1. Distant recurrence and nonbreast second primary incidence by age. 
+
+Table A1. Distant Recurrence and Nonbreast Second Primary Incidence by Age Age at Random Assignment (years) , 55 55-59 60-64 65-69 $ 70 Total Nonparametric test for trend 
+
+Distant Recurrence 
+
+Nonbreast Second Primary 
+
+No. of Events 
+
+Incidence Rate (per 1,000) 
+
+95% CI 
+
+No. of Events 
+
+Incidence Rate (per 1,000) 
+
+95% CI 
+
+88 172 154 149 176 739 
+
+20.1 21.7 17.4 20.2 20.9 20.0 P = .223 
+
+16.3 to 24.8 18.7 to 25.1 14.9 to 20.4 17.2 to 23.7 18.0 to 24.2 18.6 to 21.5 
+
+25 68 83 69 89 334 
+
+5.5 8.4 9.3 9.2 10.4 8.9 P = .079 
+
+3.7 to 8.2 6.6 to 10.6 7.5 to 11.5 7.3 to 11.7 8.5 to 12.9 8.0 to 9.9 
+
+© 2017 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Downloaded from ascopubs.org by Shanghai Jiao Tong University School of Medicine on August 17, 2017 from 202.120.002.030 Copyright © 2017 American Society of Clinical Oncology. All rights reserved. 
+
+ 

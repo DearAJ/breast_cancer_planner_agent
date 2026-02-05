@@ -1,0 +1,357 @@
+Published Ahead of Print on January 25, 2016 as 10.1200/JCO.2015.64.0094 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2015.64.0094 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+O R I G I N A L 
+
+R E P O R T 
+
+Improved Axillary Evaluation Following Neoadjuvant Therapy for Patients With Node-Positive Breast Cancer Using Selective Evaluation of Clipped Nodes: Implementation of Targeted Axillary Dissection Abigail S. Caudle, Wei T. Yang, Savitri Krishnamurthy, Elizabeth A. Mittendorf, Dalliah M. Black, Michael Z. Gilcrease, Isabelle Bedrosian, Brian P. Hobbs, Sarah M. DeSnyder, Rosa F. Hwang, Beatriz E. Adrada, Simona F. Shaitelman, Mariana Chavez-MacGregor, Benjamin D. Smith, Rosalind P. Candelaria, Gildy V. Babiera, Basak E. Dogan, Lumarie Santiago, Kelly K. Hunt, and Henry M. Kuerer All authors: The University of Texas MD Anderson Cancer Center, Houston, TX. Published online ahead of print at www.jco.org on January 25, 2016. Supported by a Cancer Center Support Grant from the National Institutes of Health (CA16672), the PH and Fay Eta Robinson Distinguished Professorship in Research Endowment (H.M.K.), and a National Institutes of Health P30 grant (CA016672) (B.P.H.), as well as funding from the Mike Hogg Foundation (A.S.C.) and an MD Anderson Clinical Innovator Award (A.S.C.). Terms in blue are deﬁned in the glossary, found at the end of this article and online at www.jco.org. Presented at the 68th Society of Surgical Oncology Annual Cancer Symposium, Houston, TX, March 25-28, 2015. Authors’ disclosures of potential conﬂicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article. Corresponding author: Henry M. Kuerer, MD, PhD, MD Anderson Cancer Network Department of Breast Surgical Oncology, The University of Texas MD Anderson Cancer Center, 1400 Pressler St, Unit 1434, Houston, TX 77030; e-mail: hkuerer@mdanderson.org. © 2016 by American Society of Clinical Oncology 0732-183X/15/3499-1/$20.00 
+
+A 
+
+B 
+
+S 
+
+T 
+
+R 
+
+A 
+
+C 
+
+T 
+
+Purpose Placing clips in nodes with biopsy-conﬁrmed metastasis before initiating neoadjuvant therapy allows for evaluation of response in breast cancer. Our goal was to determine if pathologic changes in clipped nodes reﬂect the status of the nodal basin and if targeted axillary dissection (TAD), which includes sentinel lymph node dissection (SLND) and selective localization and removal of clipped nodes, improves the false-negative rate (FNR) compared with SLND alone. Methods A prospective study of patients with biopsy-conﬁrmed nodal metastases with a clip placed in the sampled node was performed. After neoadjuvant therapy, patients underwent axillary surgery and the pathology of the clipped node was compared with other nodes. Patients undergoing TAD had SLND and selective removal of the clipped node using iodine-125 seed localization. The FNR was determined in patients undergoing complete axillary lymphadenectomy (ALND). Results Of 208 patients enrolled in this study, 191 underwent ALND, with residual disease identiﬁed in 120 (63%). The clipped node revealed metastases in 115 patients, resulting in an FNR of 4.2% (95% CI, 1.4 to 9.5) for the clipped node. In patients undergoing SLND and ALND (n = 118), the FNR was 10.1% (95% CI, 4.2 to 19.8), which included seven false-negative events in 69 patients with residual disease. Adding evaluation of the clipped node reduced the FNR to 1.4% (95% CI, 0.03 to 7.3; P = .03). The clipped node was not retrieved as an SLN in 23% (31 of 134) of patients, including six with negative SLNs but metastasis in the clipped node. TAD followed by ALND was performed in 85 patients, with an FNR of 2.0% (1 of 50; 95% CI, 0.05 to 10.7). Conclusion Marking nodes with biopsy-conﬁrmed metastatic disease allows for selective removal and improves pathologic evaluation for residual nodal disease after chemotherapy. J Clin Oncol 34. © 2016 by American Society of Clinical Oncology INTRODUCTION 
+
+DOI: 10.1200/JCO.2015.64.0094 
+
+The presence of nodal metastases in breast cancer is an important prognostic factor that is used to guide locoregional and systemic treatment decisions. Patients presenting with nodal metastases often receive neoadjuvant chemotherapy, which can eradicate nodal disease in 40% to 75% of patients.1-5 Axillary lymphadenectomy (ALND) has been the standard surgical approach in clinically node-positive patients; however, this is 
+
+associated with signiﬁcant morbidity,6,7 with unclear beneﬁt in those who achieve a nodal pathologic complete response (pCR) with systemic therapy. Several trials have recently evaluated the use of sentinel lymph-node dissection (SLND) to stage the axilla after neoadjuvant chemotherapy (NCT) in patients initially presenting with node-positive disease.8,9 One of these trials was the American College of Surgeons Oncology Group (ACOSOG) Z1071 trial, which enrolled patients with documented nodal metastases who completed NCT followed by SLND © 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+Copyright 2016 by American Society of Clinical Oncology 
+
+1 
+
+Caudle et al 
+
+and ALND to determine the false-negative rate (FNR) of SLND. Although the reported FNR of 12.6% exceeded the prespeciﬁed threshold of 10%, subgroup analysis showed a lower FNR if immunohistochemistry (IHC) was performed and if a clip was placed in the node with biopsy-conﬁrmed metastases, with removal of that node as an SLN.4,10,11 Intuitively, speciﬁc evaluation of the lymph node proven to contain metastases at the time of diagnosis should improve the accuracy of nodal assessment after chemotherapy and is a logical addition to surgical staging. To test this hypothesis, we established a registry for breast cancer patients with biopsy-conﬁrmed nodal metastases, with a clip placed in the sampled node to evaluate the pathologic changes seen in this node compared with other nodes. We subsequently developed a novel surgical technique, targeted axillary dissection (TAD), which involves removing SLNs as well as removing the clipped lymph node by localization with iodine-125 radioactive seeds.12 The ability to selectively remove clipped nodes in addition to SLNs has signiﬁcant clinical potential to improve the assessment for residual nodal disease after chemotherapy. The goal of this study was to determine if pathologic changes seen in the clipped node after neoadjuvant therapy reﬂected the response in the entire nodal basin. Additionally, we hypothesized that ensuring surgical removal of clipped nodes would improve the accuracy of nodal staging in these patients compared with SLND alone. METHODS Patients with biopsy-conﬁrmed nodal metastases with a clip placed in the sampled node were enrolled onto a prospective registry (between 2011 and 2015), which was approved by our institutional review board (MD Anderson Protocol PA11-1087). Patients receiving neoadjuvant therapy were eligible. Patients with distant metastases or prior axillary surgery, including SLND, were excluded. Data were collected from medical records, including operative notes, radiology reports, and pathology reports. 
+
+Nodal Ultrasound All patients had routine imaging with mammogram and ultrasound of the breast and regional nodal basins per our institutional protocol. Fineneedle aspiration was performed of the most abnormal-appearing node, with pathologic evaluation.13 If metastases were identiﬁed, a clip was placed in the biopsied node. Neoadjuvant Therapy Chemotherapy regimens were anthracycline and/or taxane based with the addition of human epidermal growth factor receptor 2 (HER2)– targeted therapy if the metastases were HER2 positive. Five patients received neoadjuvant endocrine therapy as a component of clinical trials.14 Surgical Management After neoadjuvant therapy, the surgical approach was determined by one of the 19 treating surgical oncologists. The registry did not mandate a speciﬁc axillary surgery; however, ALND was our standard procedure for clinically node-positive patients after completion of neoadjuvant therapy unless enrolled in a clinical trial. Patients undergoing ALND were considered evaluable for analysis to determine FNRs. The technique for TAD has been previously described.12 Brieﬂy, an iodine-125 seed was placed in the clipped node under ultrasound guidance 1 to 5 days before surgery. Mapping agents, including radioisotope (technetium-99m sulfur colloid) and/or blue dye, were injected before or at the time of surgery. During surgery, a gamma probe on the iodine-125 2 
+
+© 2016 by American Society of Clinical Oncology 
+
+Table 1. Clinicopathologic Features Variable 
+
+No. (%) 
+
+No. of patients Median age, years Race White Black Asian Other Mean tumor size, cm Clinical T stage T0 T1 T2 T3 T4 No. of abnormal nodes on ultrasound 1 2 3 $4 Histology Ductal Lobular Other Tumor receptor subtype HR+/HER22 HR+/HER2+ HR2/HER2+ HR2/HER22 Type of neoadjuvant therapy Chemotherapy Endocrine Type of breast surgery BCT Mastectomy None 
+
+208 49, range 23-84 157 (75) 28 (14) 10 (5) 13 (6) 4.2, range 0-12 1 (0.5) 18 (9) 136 (65) 48 (23) 5 (2) 74 (36) 41 (20) 35 (17) 58 (28) 195 (94) 7 (3) 6 (3) 121 (58) 34 (16) 16 (8) 37 (18) 203 (98) 5 (2) 73 (35) 133 (64) 1 (0.5) 
+
+BCT, breast conservation therapy; HER, human epidermal growth factor receptor 2; HR, hormone receptor. 
+
+setting was used to identify the seed-containing node, and the technetium99m setting was used to identify SLNs. All nodes containing blue dye, radioactivity, or which were palpable were removed and labeled as SLNs. Two patients had wire localization of the clipped node at the beginning of the study before iodine-125 localization became our preferred method. 
+
+Pathologic Evaluation Radiographs of the nodal specimens were used to identify the clipped node. In patients undergoing TAD, the specimen radiograph also ensured that the node containing the iodine-125 seed and clip was removed. The clip-containing node was identiﬁed, serially sectioned, and processed in a manner similar to nonclip-containing nodes. Formalin-ﬁxed parafﬁnembedded tissue blocks were sectioned in 5-mm sections and stained with hematoxylin and eosin for evaluation by a breast pathologist. If the clipped node was an SLN, the pathologist had the option of adding pancytokeratin immunostaining. The pathology of the clipped node was given separately in the pathology report. Given that this population had completed neoadjuvant therapy, any metastatic foci, including isolated tumor cells (ITCs) and micrometastases, were considered node positive. Statistical Analysis The pathologic ﬁndings in the clipped node were compared with the remaining axillary nodes to determine the FNR. An FN event was deﬁned as a case where the speciﬁed node (either the clipped node or the SLN, depending on the analysis) did not show metastasis even though residual JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+Targeted Axillary Dissection Improves Staging After Chemotherapy 
+
+Clinically node-positive patients N = 208 
+
+Clinically node-positive patients N = 208 
+
+Neoadjuvant therapy 
+
+Neoadjuvant therapy 
+
+SLND not performed n = 74 
+
+No ALND performed n = 17 
+
+SLND performed n = 134 
+
+Evaluable patients n = 191 
+
+Pathologic node negative n = 71 (37%) 
+
+Pathologic node positive n = 120 (63%) 
+
+ALND not performed n = 16 
+
+Evaluable patients n = 118 False-negative* result 5 of 120 
+
+False-negative rate 4.2% (95% CI, 1.4 to 9.5) 
+
+Fig 1. Ability of pathologic evaluation of the clipped node to predict nodal status of remaining axillary nodes following neoadjuvant therapy. Pathology of the clipped node was compared with other lymph nodes in patients undergoing axillary lymphadenectomy (ALND) to determine the false-negative rate of the evaluation of the clipped node. *False-negative, clipped node showed no metastases but other nodes had residual disease. 
+
+disease was seen in other axillary nodes. The FNR was calculated as the number of FN events divided by the total number of pathologically nodepositive patients. Statistical analysis was performed using SAS software (Enterprise Guide 5.1; SAS Institute, Cary, NC). CIs for FNRs were calculated using exact (Clopper-Pearson) conﬁdence limits for the binomial proportion. The exact McNemar’s test was used to evaluate the paired assessments consisting of SLND alone and SLND with addition of evaluation of the clipped node for marginal homogeneity, using patients who had an SLN identiﬁed. Logistic regression was used to identify features associated with the inability to identify a clipped node, with P values reported from the Wald tests and 95% CI for the odds ratio. All tests were two-sided, with a signiﬁcance level of .05. 
+
+RESULTS 
+
+Clinicopathologic and treatment details of the 208 enrolled patients are listed in Table 1. ALND, which allows for determination of the FNR, was performed in 191 patients. An SLND was performed in 134 of the 208 patients, including 118 who also underwent ALND. Therefore, the FNR for SLND alone could be determined for these 118 patients. TAD was performed in 96 of the 208 patients, including 85 who also underwent ALND and therefore were evaluable to determine the FNR for the TAD procedure. There were no differences in clinicopathologic features www.jco.org 
+
+Pathologic node negative n = 44 (37%) 
+
+Pathologic node positive n = 74 (63%) 
+
+SLN negative = 7 of 69 SLN not identified = 5 
+
+Clipped node and SLNs negative n = 1 of 74 
+
+False-negative rate SLN alone = 10.1% (95% CI 4.2 to 19.8) SLN + evaluation of the clipped node = 1.4% (95% CI, 0.03 to 7.3) P = .03 
+
+Fig 2. Ability of sentinel lymph-node dissection (SLND) plus evaluation of the clipped node to predict nodal status after neoadjuvant therapy. Pathologic results of sentinel lymph nodes (SLN) and clipped nodes were compared with pathology of the remaining axillary nodes to determine false-negative rates. ALND, axillary lymphadenectomy. 
+
+of the patients included in the SLND and TAD subgroups compared with the overall population (Appendix Table A1, online only). The clipped node was not identiﬁed in the surgical specimen in ﬁve patients, who were excluded from analysis. We routinely order mammographic axillary views postoperatively in these cases. No residual clipped nodes have been identiﬁed radiographically, suggesting that clip dislodgement is possible, a situation similar to that in the breast. 
+
+Pathologic Evaluation of the Clipped Node to Predict Nodal Status A nodal pCR was achieved in 37% (71 of 191) of patients. Among the 120 patients who had residual nodal disease, 115 had metastases in the clipped node. The clipped node did not show evidence of metastases in the remaining ﬁve patients (ie, FN events), resulting in an FNR for evaluation of the clipped node alone of 4.2% (95% CI, 1.4 to 9.5; Fig 1). © 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+3 
+
+Caudle et al 
+
+Table 2. Variables Associated With the Clipped Node Not Retrieved as an SLN Variable No. of abnormal nodes on ultrasound ,4 $4 TAD performed No Yes Number of SLNs retrieved ,3 $3 Presence of residual nodal disease Pathology node negative Pathology node positive Size of residual metastases, mm #2 .2 
+
+Proportion Where Clipped Node Was Not an SLN (%) 
+
+OR (95% CI) 
+
+P 
+
+16 of 97 (17) 15 of 37 (41) 
+
+— 3.45 (1.48 to 8.06) 
+
+.004 
+
+10 of 38 (26) 21 of 96 (22) 
+
+— 0.78 (0.33 to 1.87) 
+
+.58 
+
+21 of 71 (30) 10 of 63 (16) 
+
+— 0.45 (0.19 to 1.05) 
+
+.06 
+
+14 of 56 (25) 17 of 78 (22) 
+
+— 0.84 (0.37 to 1.88) 
+
+.66 
+
+20 of 78 (26) 11 of 56 (20) 
+
+— 0.71 (0.31 to 1.63) 
+
+.42 
+
+OR, odds ratio; SLN, sentinel lymph node; TAD, targeted axillary dissection. 
+
+Pathologic Evaluation of SLNs to Predict Nodal Status To determine the FNR for SLND alone, we next performed an analysis of the 118 patients who underwent SLND followed by ALND (Fig 2). Nodal pCR was seen in 37% (44 of 118) of patients. For those in whom an SLN was identiﬁed, the mean number of SLNs removed was 2.7. An SLN was not identiﬁed in six patients, of whom ﬁve had residual nodal disease in other nodes. In the remaining 69 patients with residual disease who had an SLN identiﬁed, there were seven FN events for an FNR of 10.1% (95% CI, 4.2 to 19.8) for SLND alone. SLND was performed using dual tracers in 65 patients (55%). The FNR was similar between patients who had single-tracer mapping (10%; 3 of 30) compared with those who had mapping with two agents (10.3%; 4 of 39). The FNR was also similar between those with $ 2 SLNs removed (10.7%; 6 of 56) compared with 7.7% (1 of 13) of patients when less than 2 SLNs were removed. Enhanced Evaluation of the Axilla Using Both SLNs and Clipped Nodes In six of the seven patients with FN SLNs, the clipped node contained metastatic disease. Therefore, adding evaluation of the clipped node to evaluation of the SLN(s) reduced the FNR to 1.4% (95% CI, 0.03 to 7.3) from the FNR of 10.1% for SLND alone (P = .03; Fig 2). The clipped and/or SLNs were the only positive nodes in 49% (36 of 74) of cases. Among the 134 patients who underwent SLND, the clipped node was not identiﬁed as an SLN in 23% (31 of 134) of patients. Given these ﬁndings, we explored possible factors contributing to the inability to identify the clipped node as an SLN. The only factor that was associated with this discordance was the presence of $ 4 abnormal nodes on initial ultrasound (odds ratio, 3.5; 95% CI, 1.5 to 8.1; Table 2). The presence of residual nodal disease, placement of an iodine-125 seed, removal of $ 3 SLNs, and the presence of macrometastases did not predict that the clipped node would not be identiﬁed as an SLN. Patients Undergoing TAD Following reports of ﬁndings from the ACOSOG Z10714,11 trial, as well as changes in National Comprehensive Cancer 4 
+
+© 2016 by American Society of Clinical Oncology 
+
+Network guidelines,15 we began performing TAD, which includes SLND as well as ensures removal of the clipped node after localization with an iodine-125 seed (Fig 3). A total of 96 enrolled patients underwent the TAD procedure, and 85 of them also underwent ALND. For patients who underwent TAD, there was one FN event for an FNR of 2.0% (95% CI, 0.2 to 10.7). This shows an improvement over the FNR of SLND alone in this cohort (10.6%; 95% CI, 3.6 to 23.1), which did not reach statistical signiﬁcance (P = .13; Fig 4). DISCUSSION 
+
+This study shows that evaluation of the clipped node, marked at the time of initial needle biopsy, is a valuable tool in assessing nodal response after systemic therapy and is associated with an FNR of 4.2%. In contrast, the FNR for SLND alone was 10.1%. We found that speciﬁcally localizing and removing the clipped node in addition to removal of SLNs (TAD procedure) resulted in an FNR of 2.0%. Patients with clinically node-positive breast cancer often receive NCT, which can eradicate nodal disease in 40% to 75% of patients.1-5 Despite high rates of nodal pCR, until recently, standard practice was to perform ALND. Although it is unlikely that performing extensive axillary surgery on patients without residual nodal disease confers oncologic beneﬁt, identifying patients who may not require ALND has been problematic. Initial reports addressing the utility of SLND after chemotherapy reported FNRs ranging from 5% to 20%. However, these are largely retrospective, single-institution studies without standardized surgical techniques, which are therefore difﬁcult to interpret.16-20 Several recent trials, including ACOSOG Z1071, have evaluated this question in a prospective fashion. The FNR in the ACOSOG Z1071 trial was 12.6% (90% Bayesian credible interval, 9.85% to 16.05%) in cN1 patients with $ 2 nodes removed. An important lesson learned from the trial was that surgical technique affects the accuracy of SLND. The use of dual tracers and retrieval of a higher number of SLNs lowered the JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+Targeted Axillary Dissection Improves Staging After Chemotherapy 
+
+A 
+
+125 
+
+B I Seed 
+
+125 
+
+I Seed 
+
+Clip Clip in lymph node 
+
+FNR. The importance of surgical technique to accuracy of the procedure was also reﬂected in the European SENTINA trial, which corroborated these ﬁndings.8 Our data did not show a difference between the use of a single versus dual tracers, or in the number of SLNs retrieved. Ensuring removal of the clipped node may improve the accuracy of axillary staging in patients when # 2 SLNs are identiﬁed because evaluation of the clipped node alone had an FNR of 4.2%. Data reported from the ACOSOG Z1071 trial also indicated that removal of the clipped node could lower the FNR for SLND. In that study, 170 patients had a clip placed in the lymph node containing metastases at the time of initial biopsy. Among the 107 patients for whom the clipped node was retrieved as an SLN, the FNR was 6.8% (95% CI, 1.9% to 16.5%).11 These data are in line with our ﬁnding that speciﬁc pathologic evaluation of the node known to contain metastases before chemotherapy is useful. This is further reﬂected in the National Comprehensive Cancer Network guidelines, which recommend consideration of clip placement to ensure removal of the clipped node at the time of surgery.15 One drawback to this approach is the fact that the clipped node might not be identiﬁed as an SLN with traditional mapping techniques, as was the case in 23% of our population. The Z1071 trial had similar results, with the clipped node seen in the axillary contents (not the SLN) in 20% (34 of 170) of cases, and the clip location unknown in an additional 17% (29 of 170) of cases.11 This emphasizes the need to develop a technique to localize the clipped node as part of the TAD procedure. A similar technique for localization of lymph nodes has been reported from the Netherlands.21,22 The MARI (marking the axillary lymph node with radioactive seed) procedure involves placing the iodine-125 seed at the time of diagnostic biopsy. It is left in place throughout neoadjuvant chemotherapy. In their ﬁrst 100 patients, the marked node was identiﬁed successfully in 97% of cases, with an FNR of 7%. They did not use SLND, a component that we believe is important in complete nodal evaluation. In addition, leaving the radioactive seed in place throughout chemotherapy is not in line with current US regulations. Tattooing positive nodes with a sterile black carbon suspension at the time of biopsy has also been reported.23 In the initial experience with 12 patients who had neoadjuvant therapy, the tattooed node was successfully identiﬁed in 10 patients. This approach has the advantage that no radioactive materials are used, which might be a more accessible technique for some centers. However, one www.jco.org 
+
+Fig 3. Iodine-125 seed localized removal of clipped axillary lymph nodes. Targeted axillary dissection involves not only removal of all sentinel nodes but also selective localization and removal of clipped nodes. (A) An iodine-125 seed is placed within the clipped node by a breast radiologist 1 to 5 days before surgery under ultrasound guidance. Mammogram performed after seed placement shows the clip and the seed within the node. (B) Once the localized node is removed, a specimen radiograph is performed to ensure that the clip and seed have been removed. 
+
+disadvantage of this technique is the inability to further interrogate the axillary contents for the marked node if the tattoo is not seen at the time of surgery. It is likely that multiple different methods will 
+
+Clinically node-positive patients N = 208 
+
+Neoadjuvant therapy 
+
+TAD not performed n = 112 
+
+TAD performed n = 96 
+
+ALND not performed n = 11 
+
+Evaluable patients n = 85 
+
+Pathologic node negative n = 35 (41%) 
+
+Pathologic node positive n = 50 (59%) 
+
+SLN negative = 5 of 47 SLN not identified = 3 
+
+Clipped node and SLNs negative n = 1 of 50 
+
+False-negative rate SLN alone = 10.6% (95% CI, 3.6 to 23.1) SLN + evaluation of the clipped node = 2.0% (95% CI, 0.05 to 10.7) P = .13 
+
+Fig 4. Ability of targeted axillary dissection (TAD) to predict nodal response after neoadjuvant therapy. Pathologic results of nodes removed from TAD were compared with other lymph nodes in patients who underwent axillary lymphadenectomy (ALND) to determine the false-negative rate of TAD. SNL, sentinel lymph node. 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+5 
+
+Caudle et al 
+
+be developed by which lymph nodes can be marked and retrieved, thereby facilitating TAD. An important caveat regarding the FNRs reported in this study is that IHC was not performed on all SLNs or clipped nodes. In our population, IHC was done in 69% (37 of 54) of negative SLNs and 34% (26 of 76) of negative clipped nodes. The SN FNAC (SentinelNode Biopsy Following Neoadjuvant Chemotherapy) trial used IHC in the pathologic evaluation of 153 clinically node-positive patients who underwent SLND followed by ALND after neoadjuvant chemotherapy.9 The trial’s FNR was 8.4% compared with 13.3% if IHC had not been used. In the ACOSOG Z1071 trial, central processing of the hematoxylin and eosin–negative nodes with IHC was performed. When any IHC-positive node to include ITCs was considered positive, the FNR improved from 12.6% to 8.7% (95% CI, 5.6% to 11.8%).11 Our reported FNR for SLND alone or for TAD may have been lower if IHC was routinely performed on all of these nodes. Cytokeratin staining of the clipped node in addition to SLNs should be considered for patients when omission of ALND is possible. Although these results show that it is possible to identify patients who have eradication of nodal disease, there should continue to be multidisciplinary discussions about which patients may safely avoid ALND. At this time, there are no long-term data available on outcomes when ALND is omitted in these patients. However, one study from our institution showed that local regional recurrence rates were similar between patients with negative axillary ultrasounds who underwent SLND before or after chemotherapy even though the proportion of patients who had a positive SLN was lower in those who underwent SLND after systemic therapy.24 On the basis of these data, our practice has been to perform SLND after NCT. This prior study included only patients with clinically nodenegative disease at presentation; however, it supports the premise that there is no beneﬁt to removing nodes that no longer contain metastases after systemic therapy. Physicians should consider other risk factors for locoregional recurrence, such as tumor biology, patient age, and extent of disease, when deciding which patients are appropriate for this approach. In addition, radiation and medical oncologists should be included in the decision making because limiting surgery may impact other treatment modalities. This study was established to explore the possibility that speciﬁc removal and pathologic evaluation of the clipped node would more accurately stage the axilla than SLND alone. Our analysis of all patients who underwent SLND and ALND shows that evaluation of the clipped node reduced the FNR to 1.4% compared with the FNR of 10.1% for SLND alone (P = .03). Building on this concept, we developed TAD as a surgical approach to ensure removal of the clipped node in addition to SLNs. Although the 2.0% FNR of TAD compares favorably with the FNR of SLND alone (10.6%) in this cohort, sample size limits statistical analysis (P = .13). Future studies may be designed to answer this 
+
+REFERENCES 1. Kuerer HM, Sahin AA, Hunt KK, et al: Incidence and impact of documented eradication of breast cancer axillary lymph node metastases before surgery in patients treated 
+
+6 
+
+© 2016 by American Society of Clinical Oncology 
+
+question in a more rigorous fashion. This study was also limited to a single comprehensive cancer institution with dedicated breast radiologists who had considerable expertise in ultrasonography. We are currently expanding this registry to our afﬁliated institutions to determine if these results are reproducible in a community setting. In summary, we found that we could improve the accuracy of axillary staging in clinically node-positive patients who received neoadjuvant therapy by performing TAD, a procedure that involves SLND with removal of the clipped node identiﬁed pretherapy as containing metastatic disease. The FNR for TAD was 2.0% versus 10.1% for SLND alone. Although sample size limits statistical comparison of the two approaches, these exploratory data are promising. Our data conﬁrm results from the ACOSOG Z1071 trial11 that support evaluation of the clipped node as a component of axillary staging after neoadjuvant therapy. Routine use of TAD may reliably identify patients in whom systemic therapy has eradicated all nodal disease, thereby sparing them the potential morbidity of ALND. AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at www.jco.org. 
+
+AUTHOR CONTRIBUTIONS Conception and design: Abigail S. Caudle, Wei T. Yang, Savitri Krishnamurthy, Elizabeth A. Mittendorf, Basak E. Dogan, Kelly K. Hunt, Henry M. Kuerer Financial support: Abigail S. Caudle, Wei T. Yang, Henry M. Kuerer Administrative support: Abigail S. Caudle, Savitri Krishnamurthy, Elizabeth A. Mittendorf, Kelly K. Hunt, Henry M. Kuerer Provision of study materials or patients: Abigail S. Caudle, Wei T. Yang, Savitri Krishnamurthy, Elizabeth A. Mittendorf, Dalliah M. Black, Michael Z. Gilcrease, Isabelle Bedrosian, Sarah M. DeSnyder, Rosa F. Hwang, Beatriz E. Adrada, Gildy V. Babiera, Basak E. Dogan, Lumarie Santiago, Kelly K. Hunt, Henry M. Kuerer Collection and assembly of data: Abigail S. Caudle, Wei T. Yang, Savitri Krishnamurthy, Elizabeth A. Mittendorf, Dalliah M. Black, Michael Z. Gilcrease, Isabelle Bedrosian, Brian P. Hobbs, Sarah M. DeSnyder, Rosa F. Hwang, Beatriz E. Adrada, Simona F. Shaitelman, Rosalind P. Candelaria, Gildy V. Babiera, Basak E. Dogan, Lumarie Santiago, Kelly K. Hunt, Henry M. Kuerer Data analysis and interpretation: Abigail S. Caudle, Wei T. Yang, Savitri Krishnamurthy, Elizabeth A. Mittendorf, Michael Z. Gilcrease, Isabelle Bedrosian, Brian P. Hobbs, Rosa F. Hwang, Simona F. Shaitelman, Mariana Chavez-MacGregor, Benjamin D. Smith, Gildy V. Babiera, Basak E. Dogan, Kelly K. Hunt, Henry M. Kuerer Manuscript writing: All authors Final approval of manuscript: All authors 
+
+with neoadjuvant chemotherapy. Ann Surg 230: 72-78, 1999 2. Buzdar AU, Ibrahim NK, Francis D, et al: Signiﬁcantly higher pathologic complete remission rate after neoadjuvant therapy with trastuzumab, paclitaxel, and epirubicin chemotherapy: Results of a randomized trial in human epidermal growth factor 
+
+receptor 2-positive operable breast cancer. J Clin Oncol 23:3676-3685, 2005 3. Dominici LS, Negron Gonzalez VM, Buzdar AU, et al: Cytologically proven axillary lymph node metastases are eradicated in patients receiving preoperative chemotherapy with concurrent trastuzumab for HER2positive breast cancer. Cancer 116:2884-2889, 2010 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+Targeted Axillary Dissection Improves Staging After Chemotherapy 
+
+4. Boughey JC, Suman VJ, Mittendorf EA, et al; Alliance for Clinical Trials in Oncology: Sentinel lymph node surgery after neoadjuvant chemotherapy in patients with node-positive breast cancer: The ACOSOG Z1071 (Alliance) clinical trial. JAMA 310: 1455-1461, 2013 5. Hennessy BT, Hortobagyi GN, Rouzier R, et al: Outcome after pathologic complete eradication of cytologically proven breast cancer axillary node metastases following primary chemotherapy. J Clin Oncol 23:9304-9311, 2005 6. Lucci A, McCall LM, Beitsch PD, et al; American College of Surgeons Oncology Group: Surgical complications associated with sentinel lymph node dissection (SLND) plus axillary lymph node dissection compared with SLND alone in the American College of Surgeons Oncology Group Trial Z0011. J Clin Oncol 25:3657-3663, 2007 7. Kakuda JT, Stuntz M, Trivedi V, et al: Objective assessment of axillary morbidity in breast cancer treatment. Am Surg 65:995-998, 1999 8. Kuehn T, Bauerfeind I, Fehm T, et al: Sentinellymph-node biopsy in patients with breast cancer before and after neoadjuvant chemotherapy (SENTINA): A prospective, multicentre cohort study. Lancet Oncol 14:609-618, 2013 9. Boileau JF, Poirier B, Basik M, et al: Sentinel node biopsy after neoadjuvant chemotherapy in biopsy-proven node-positive breast cancer: The SN FNAC study. J Clin Oncol 33:258-264, 2015 10. Mittendorf EA, Caudle AS, Yang W, et al: Implementation of the American College of Surgeons Oncology Group Z1071 trial data in clinical practice: Is there a way forward for sentinel lymph node dissection in clinically node-positive breast cancer 
+
+patients treated with neoadjuvant chemotherapy? Ann Surg Oncol 21:2468-2473, 2014 11. Boughey JC, Ballman KV, Le-Petross HT, et al: Identiﬁcation and resection of clipped node decreases the false-negative rate of sentinel lymph node surgery in patients presenting with node-positive breast cancer (T0-T4, N1-N2) who receive neoadjuvant chemotherapy: Results from ACOSOG Z1071 (Alliance). Ann Surg [epub ahead of print on November 26, 2015] 12. Caudle A, Yang W, Mittendorf E, et al: Selective surgical localization of axillary lymph nodes containing metastases in patients with breast cancer: A prospective feasibility trial. JAMA Surg 150: 137-143, 2015 13. Krishnamurthy S, Sneige N, Bedi DG, et al: Role of ultrasound-guided ﬁne-needle aspiration of indeterminate and suspicious axillary lymph nodes in the initial staging of breast carcinoma. Cancer 95: 982-988, 2002 14. Alternate approaches for clinical stage II or III estrogen receptor positive breast cancer neoadjuvant treatment (ALTERNATE) in post-menopausal women: A phase III study. https://www.clinicaltrials.gov/ct2/ show/NCT01953588 15. National Comprehensive Cancer Network: NCCN Clinical Practice Guidelines in Oncology, Version 2.205. 2015. www.nccn.org 16. Alvarado R, Yi M, Le-Petross H, et al: The role for sentinel lymph node dissection after neoadjuvant chemotherapy in patients who present with nodepositive breast cancer. Ann Surg Oncol 19: 3177-3184, 2012 17. Classe JM, Bordes V, Campion L, et al: Sentinel lymph node biopsy after neoadjuvant chemotherapy for advanced breast cancer: Results of Ganglion Sentinelle et Chimiotherapie Neoadjuvante, 
+
+a French prospective multicentric study. J Clin Oncol 27:726-732, 2009 18. Newman EA, Sabel MS, Nees AV, et al: Sentinel lymph node biopsy performed after neoadjuvant chemotherapy is accurate in patients with documented node-positive breast cancer at presentation. Ann Surg Oncol 14:2946-2952, 2007 19. Balch GC, Mithani SK, Richards KR, et al: Lymphatic mapping and sentinel lymphadenectomy after preoperative therapy for stage II and III breast cancer. Ann Surg Oncol 10:616-621, 2003 20. Mamounas EP, Brown A, Anderson S, et al: Sentinel node biopsy after neoadjuvant chemotherapy in breast cancer: Results from National Surgical Adjuvant Breast and Bowel Project Protocol B-27. J Clin Oncol 23:2694-2702, 2005 21. Donker M, Straver ME, Wesseling J, et al: Marking axillary lymph nodes with radioactive iodine seeds for axillary staging after neoadjuvant systemic treatment in breast cancer patients: The MARI procedure. Ann Surg 261:378-382, 2015 22. Straver ME, Loo CE, Alderliesten T, et al: Marking the axilla with radioactive iodine seeds (MARI procedure) may reduce the need for axillary dissection after neoadjuvant chemotherapy for breast cancer. Br J Surg 97:1226-1231, 2010 23. Choy N, Lipson J, Porter C, et al: Initial results with preoperative tattooing of biopsied axillary lymph nodes and correlation to sentinel lymph nodes in breast cancer patients. Ann Surg Oncol 22:377-382, 2015 24. Hunt KK, Yi M, Mittendorf EA, et al: Sentinel lymph node surgery after neoadjuvant chemotherapy is accurate and reduces the need for axillary dissection in breast cancer patients. Ann Surg 250: 558-566, 2009 
+
+n n n 
+
+GLOSSARY TERMS 
+
+neoadjuvant therapy: the administration of chemotherapy prior to surgery. Induction chemotherapy is generally designed to decrease the size of the tumor prior to resection and to increase the rate of complete (R0) resections. sentinel lymph node: the lymph node that is anatomically located such that it is the ﬁrst site of lymph drainage from the location of the primary tumor. It is suspected and assumed that if a 
+
+www.jco.org 
+
+malignancy is going to disseminate via the lymphatic system, metastases will ﬁrst be evident in the sentinel lymph node. In this manner, this lymph node is said to stand guard or sentinel over the metastatic state of the tumor. For many cancers, the sentinel lymph node is biopsied as part of the staging process and presence of macro- or micrometastases in the sentinel lymph node is a negative prognostic factor. 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+7 
+
+Caudle et al 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST 
+
+Improved Axillary Evaluation Following Neoadjuvant Therapy for Node-Positive Breast Cancer Patients Using Selective Evaluation of Clipped Nodes: Implementation of Targeted Axillary Dissection The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc. Abigail S. Caudle No relationship to disclose 
+
+Beatriz E. Adrada No relationship to disclose 
+
+Wei T. Yang Consulting or Advisory Role: General Electric Healthcare 
+
+Simona F. Shaitelman Consulting or Advisory Role: MD Anderson Physician Network Research Funding: Elekta 
+
+Savitri Krishnamurthy No relationship to disclose Elizabeth A. Mittendorf Research Funding: Galena Biopharma (Inst), Antigen Express (Inst) 
+
+Mariana Chavez-MacGregor Consulting or Advisory Role: Genomic Health, Roche, Novartis Research Funding: Novartis (Inst) Travel, Accommodations, Expenses: Novartis, Genomic Health, Pﬁzer 
+
+Dalliah M. Black No relationship to disclose 
+
+Benjamin D. Smith Research Funding: Varian Medical Systems 
+
+Michael Z. Gilcrease No relationship to disclose 
+
+Rosalind P. Candelaria No relationship to disclose 
+
+Isabelle Bedrosian Consulting or Advisory Role: Bayer Travel, Accommodations, Expenses: Bayer 
+
+Gildy V. Babiera No relationship to disclose 
+
+Brian P. Hobbs No relationship to disclose Sarah M. DeSnyder No relationship to disclose Rosa F. Hwang No relationship to disclose 
+
+Basak E. Dogan Research Funding: Semo Medical Lumarie Santiago No relationship to disclose Kelly K. Hunt Consulting or Advisory Role: Armada Health Henry M. Kuerer Consulting or Advisory Role: Gerson Lehrman Group; Lightpoint Medical Research Funding: Genomic Health (Inst) Patents, Royalties, Other Intellectual Property: McGraw-Hill Publishing Other Relationship: NEJM Group Editor Massachusetts Medical Society 
+
+© 2016 by American Society of Clinical Oncology 
+
+JOURNAL OF CLINICAL ONCOLOGY 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+Targeted Axillary Dissection Improves Staging After Chemotherapy 
+
+Appendix 
+
+Table A1. Comparison of Subgroups in Relation to Overall Population Variable No. of patients Median age, years Mean tumor size, cm Clinical T stage T0 T1 T2 T3 T4 No. of abnormal nodes on ultrasound 1 2 3 $4 Histology Ductal Lobular Other Tumor receptor subtype HR+/HER22 HR+/HER2+ HR2/HER2+ HR2/HER22 
+
+Overall Population, No. (%) 
+
+Patients Undergoing SLND, No. (%) 
+
+Patients Undergoing TAD, No. (%) 
+
+208 49, range 23-84 4.2, range 0-12 
+
+134 50, range 30-84 4.3, range 1-11 
+
+96 50, range 30-84 4.2, range 1-11 
+
+1 (0.5) 18 (9) 136 (65) 48 (23) 5 (2) 
+
+0 10 (7) 88 (66) 34 (25) 2 (2) 
+
+0 6 (6) 67 (70) 21 (22) 2 (2) 
+
+74 (36) 41 (20) 35 (17) 58 (28) 
+
+49 (37) 22 (17) 25 (19) 38 (28) 
+
+37 (39) 13 (14) 21 (22) 25 (26) 
+
+195 (94) 7 (3) 6 (3) 
+
+126 (94) 4 (3) 4 (3) 
+
+89 (93) 3 (3) 4 (4) 
+
+121 (58) 34 (16) 16 (8) 37 (18) 
+
+81 (60) 18 (13) 10 (7) 26 (19) 
+
+58 (60) 12 (13) 6 (6) 20 (21) 
+
+HER, human epidermal growth factor receptor 2; HR, hormone receptor; SLND, sentinel lymph-node dissection; TAD, targeted axillary dissection. 
+
+www.jco.org 
+
+© 2016 by American Society of Clinical Oncology 
+
+Information downloaded from jco.ascopubs.org and provided by at NEW YORK UNIVERSITY MED CTR on January 25, Copyright © 2016 American of Clinical Oncology. All rights reserved. 2016Society from 128.122.230.148 
+
+ 

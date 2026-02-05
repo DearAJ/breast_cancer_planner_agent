@@ -1,0 +1,5067 @@
+original report 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Breast Cancer: A Randomized Phase III Trial Hyun-Ah Kim, MD, PhD1; Jong Won Lee, MD, PhD2; Seok Jin Nam, MD, PhD3; Byeong-Woo Park, MD, PhD4; Seock-Ah Im, MD, PhD5; Eun Sook Lee, MD, PhD6; Yong Sik Jung, MD, MSc7; Jung Han Yoon, MD, PhD8; Sung Soo Kang, MD, PhD9; Soo-Jung Lee, MD, PhD10; Kyong Hwa Park, MD, PhD11; Joon Jeong, MD, PhD12; Se-Heon Cho, MD, PhD13; Sung Yong Kim, MD, PhD14; Lee Su Kim, MD, PhD15; Byung-In Moon, MD, PhD16; Min Hyuk Lee, MD, PhD17; Tae Hyun Kim, MD, PhD18; Chanheun Park, MD, PhD19; Sung Hoo Jung, MD, PhD20; Geumhee Gwak, MD, PhD21; Jeryong Kim, MD, PhD22; Sun Hee Kang, MD, PhD23; Young Woo Jin, MD, PhD24; Hee Jeong Kim, MD, PhD2; Se-Hwan Han, MD, PhD7; Wonshik Han, MD, PhD25; Min Hee Hur, MD, PhD26; and Woo Chul Noh, MD, PhD1; on behalf of the Korean Breast Cancer Study Group 
+
+abstract 
+
+PURPOSE The addition of ovarian function suppression (OFS) for 5 years to tamoxifen (TAM) for treatment of premenopausal patients with breast cancer after completion of chemotherapy has beneﬁcial effects on diseasefree survival (DFS). This study evaluated the efﬁcacy of adding 2 years of OFS to TAM in patients with hormone receptor–positive breast cancer who remain in a premenopausal state or resume ovarian function after chemotherapy. PATIENTS AND METHODS We enrolled 1,483 premenopausal women (age # 45 years) with estrogen receptor– positive breast cancer treated with deﬁnitive surgery after completing adjuvant or neoadjuvant chemotherapy. Ovarian function was assessed every 6 months for 2 years since enrollment on the basis of follicular-stimulating hormone levels and vaginal bleeding history. If ovarian function was conﬁrmed to be premenopausal at each visit, the patient was randomly assigned to complete 5 years of TAM alone (TAM-only) group or 5 years of TAM with OFS for 2 years that involved monthly goserelin administration (TAM + OFS) group. DFS was deﬁned from the time of enrollment to the time of the ﬁrst event. RESULTS A total of 1,293 patients were randomly assigned, and 1,282 patients were eligible for analysis. The estimated 5-year DFS rate was 91.1% in the TAM + OFS group and 87.5% in the TAM-only group (hazard ratio, 0.69; 95% CI, 0.48 to 0.97; P = .033). The estimated 5-year overall survival rate was 99.4% in the TAM + OFS group and 97.8% in the TAM-only group (hazard ratio, 0.31; 95% CI, 0.10 to 0.94; P = .029). CONCLUSION The addition of 2 years of OFS to TAM signiﬁcantly improved DFS compared with TAM alone in patients who remained premenopausal or resumed ovarian function after chemotherapy. 
+
+ASSOCIATED CONTENT 
+
+J Clin Oncol 37. © 2019 by American Society of Clinical Oncology 
+
+Appendix Data Supplement 
+
+INTRODUCTION 
+
+Author afﬁliations and support information (if applicable) appear at the end of this article. Accepted on August 14, 2019 and published at jco.org on September 16, 2019: DOI https://doi. org/10.1200/JCO.19. 00126 Written on behalf of the Korean Breast Cancer Study Group. Clinical trial information: NCT00912548. 
+
+Five-year adjuvant tamoxifen (TAM) therapy has been a standard treatment of premenopausal women with hormone receptor–positive breast cancer. The beneﬁt of TAM on disease-free survival (DFS) and overall survival (OS) is well established.1-3 By contrast, although ovarian function suppression (OFS) in breast cancer has been studied for decades and has been used widely in clinical practice, evidence for the beneﬁts of adding OFS to standard adjuvant TAM treatment is insufﬁcient.4-7 The Suppression of Ovarian Function Trial (SOFT; ClinicalTrials.gov identiﬁer: NCT00066690) has shown that the addition of OFS to TAM provides a survival beneﬁt for premenopausal women with hormone receptor–positive breast cancer, particularly for those who receive adjuvant 
+
+chemotherapy.8,9 However, studies for the optimal use of OFS for premenopausal women, particularly after completing chemotherapy, are limited. One of the challenges of an OFS trial is the selection of appropriate patients because the deﬁnition of premenopause often is complicated in women who have received chemotherapy and are receiving adjuvant TAM. After chemotherapy, a large proportion of premenopausal patients experience a period of chemotherapy-induced amenorrhea. The rate and pattern of ovarian function recovery after amenorrhea vary widely dependent on patient age and type of chemotherapy. Serum follicle-stimulating hormone (FSH) levels, serum estradiol (E2) levels, and vaginal bleeding history are complementary factors for assessing the resumption of ovarian function in patients who have completed chemotherapy.10,11 
+
+1 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Kim et al 
+
+Accordingly, serum FSH levels, serum E2 levels, and vaginal bleeding history are assumed to need longitudinal monitoring to decide whether to suppress ovarian function after adjuvant chemotherapy. In South Korea, approximately 50% of patients with newly diagnosed breast cancer in 2015 were premenopausal.12 Hence, implementation of a precision endocrine therapy strategy for premenopausal women is important. In 2008, the Korean Breast Cancer Study Group launched the Addition of Ovarian Suppression to Tamoxifen in Young Women With Hormone-Sensitive Breast Cancer Who Remain Premenopausal or Regain Vaginal Bleeding After Chemotherapy (ASTRRA; ClinicalTrials.gov identiﬁer: NCT00912548) study. We report the results of the primary analysis in ASTRRA that compares 5-year TAM with 2-years OFS with 5-year TAM alone after a median follow-up of 63 months. This study evaluated the efﬁcacy of adding OFS to TAM in patients with hormone receptor–positive breast cancer who remain in a premenopausal state or resume ovarian function after chemotherapy. PATIENTS AND METHODS Patients and Study Design ASTRRA was an investigator-initiated, open-label, prospective, randomized, multicenter, phase III trial. The patients were enrolled from 35 institutions in South Korea. Full details of the study method, including randomization, have been reported previously.13 Brieﬂy, premenopausal women age 45 years or younger with estrogen receptor– positive, stage I to III, primary invasive breast cancer were eligible for enrollment if they had been treated with deﬁnitive surgery and chemotherapy. Patients were required to have a WHO performance status of 0, 1, or 2 and adequate hematologic, hepatic, and renal function. Premenopausal status was deﬁned as having a regular vaginal bleeding history at the time of diagnosis. Estrogen receptor positivity was deﬁned as an estrogen receptor level of more than 10 fmol/mg cytosol protein or more than 10% positive tumor cells on the basis of each institution’s immunohistochemistry report.13 Exclusion criteria were other primary malignancies within the past 5 years except adequately treated in situ carcinoma of the cervix, basal cell carcinoma, or squamous cell carcinoma of the skin. Any standard chemotherapy regimens were allowed except cyclophosphamide, methotrexate, and ﬂuorouracil regimen. Radiotherapy and human epidermal growth factor receptor 2 (HER2)–targeted therapy were conducted according to the policy of each institution on the basis of the current treatment guideline. Data on adverse events were not collected. The patients were enrolled within 3 months after the ﬁnal dose of chemotherapy. Oral TAM had been prescribed for all patients at the time of enrollment. Ovarian function 
+
+was evaluated at the time of enrollment on the basis of serum FSH levels. The ovarian function of patients with a serum FSH level of 30 mIU/mL or more was evaluated every 6 months for 2 years. Resumption of ovarian function was deﬁned as a serum FSH level of less than 30 mIU/mL or any evidence of vaginal bleeding within 6 months of each visit. Patients who continued to have chemotherapy-induced amenorrhea for 2 years from the time of enrollment were categorized into the permanent menopause group (group A) and were excluded from the survival analysis. Once the patients were evaluated as having resumed ovarian function, they were randomly assigned to complete 5 years of TAM alone (group B) or 5 years of TAM with OFS for 2 years (group C) at the time of each visit. If the FSH level was less than 30 mIU/mL at the time of enrollment, ovarian function was regarded as being maintained, and these patients were randomly assigned either to complete 5 years of TAM alone (group D) or 5 years of TAM with OFS for 2 years (group E) in a 1:1 ratio (Fig 1). The patients of groups B and D were classiﬁed into a TAM-only group (TAM-only), and the patients of groups C and E were classiﬁed into a TAM plus OFS (TAM + OFS) group. OFS was induced through a 3.6-mg subcutaneous injection of goserelin (Zoladex [D-Ser6(But)Azgly10 luteinizing hormone–releasing hormone]; AstraZeneca, Cambridge, United Kingdom) every 28 days. Oral TAM was provided at a dose of 20 mg daily. Randomization was stratiﬁed according to lymph node status. To minimize the bias caused by the difference of each institution’s policy, randomization also was stratiﬁed by institution. Among patients treated with neoadjuvant chemotherapy, each physician deﬁned lymph node involvement according to the clinical stage. The study protocol was approved by the institutional review board at each site.13 All patients provided written informed consent. This study was conducted by the Korean Breast Cancer Study Group and was registered with ClinicalTrials.gov (NCT00912548). Primary and Secondary End Points The primary end point was to compare the difference in 5-year DFS between the T plus OFS group and the TAMonly group. DFS was deﬁned as the time from enrollment to the time of the ﬁrst event (invasive local recurrence, regional recurrence, distant recurrence, invasive contralateral breast cancer, secondary malignancy, or death as a result of any reason). The secondary end point was OS rate between the two groups. Survival was censored at the date of last contact of patients without events. We also compared DFS and OS between the two groups as deﬁned from the time of random assignment to the time of events. Additional subgroup analyses according to time of random assignment and patient characteristics were conducted, although they were not preplanned. 
+
+2 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+Baseline assessment of ovarian function within 3 months after last cycle of chemotherapy 
+
+Chemotherapy induced amenorrhea: Oral tamoxifen 
+
+Premenopause (FSH levels < 30 mlU/ml) 
+
+Evaluation of ovarian function every 6 months for 2 years 
+
+1:1 random assignment 
+
+Group A: Menopause for 2 years: Permanent menopause group 
+
+Premenopause (FSH levels < 30 mlU/ml or menstruation history within 6 months) 
+
+Group D: Tamoxifen only 
+
+Group E: OFS + Tamoxifen 
+
+FIG 1. Study design. FSH, follicle-stimulating hormone; OFS, ovarian function suppression. Reprinted with permission from Kim et al.13 
+
+1:1 random assignment 
+
+Group B: Tamoxifen only 
+
+Group C: OFS + Tamoxifen 
+
+Procedure and Statistical Analysis The hypothesis of the study was that the DFS of the TAM + OFS group (groups C and E) would be better than that of the TAM-only group (groups B and D). The original target number of each random assignment was 1,234 patients. We estimated that the study with this sample size would have more than 85% power (two-sided a of 5%) to detect a 7% reduction in hazard in the TAM + OFS group versus the TAM-only group.13 The expected 5-year DFS in the TAM-only group was 70%. Because patients who remained amenorrheic for 2 years since enrollment and those who experienced recurrence before random assignment were excluded from the survival analysis, the initial target enrollment was 1,580 patients. In 2010, the protocol was amended to extend the accrual period from 2 years to 5 years because enrollment rates were slower than expected. The recruitment was closed in March 2014. The interim analysis was planned until the time when 187 DFS events occurred. However, because the number of events was smaller than we initially anticipated, the median follow-up period was extended to 5 years before 187 events had occurred. Therefore, the steering committee conducted a ﬁnal analysis without an interim analysis. Data were locked on October 27, 2017. Kaplan-Meier method was used to present survival curves. Log-rank test was performed to compare the treatment groups. Cox proportional hazards 
+
+regression was used to estimate hazard ratios (HRs) and 95% CIs. RESULTS Patients A total of 1,483 patients were enrolled between March 2009 and March 2014. Although this number was smaller than the original target of 1,580, the targeted number of randomly assigned patients was achieved because the proportion of patients with resumed ovarian function was higher than we expected. Among these patients, 1,293 were randomly assigned to either the TAM + OFS group or the TAM-only group. Eleven patients were excluded because of inadequate data or consent withdrawal. Finally, 1,282 patients were included in this intention-to-treat analysis. Of these patients, 635 were assigned to the TAM + OFS group and 647 to the TAM-only group (Fig 2). The two groups were well balanced in terms of demographics and baseline disease (Table 1; Appendix Tables A1 and A2, online only). The median age of the patients was 40 years (range, 24 to 45 years). Overall, 705 patients (55.0%) had nodepositive disease. There were 176 patients (13.8%) with HER2-positive disease. The type of surgical treatment and chemotherapy regimens was well balanced in both groups. A total of 736 patients (57.5%) were treated with taxane-based chemotherapy regimens. Among patients 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+3 
+
+Kim et al 
+
+Total enrolled (N = 1,483) 
+
+Evaluation of ovarian function every 6 months since enrollment for 2 years 
+
+Menopausal status for 2 years Consent withdrawn or lost to follow-up before random assignment Disease recurrence before random assignment 
+
+(n = 88) (n = 90) (n = 12) 
+
+Total No. randomly assigned (n = 1,293) 
+
+TAM + OFS (n = 639) 
+
+TAM only (n = 654) 
+
+Excluded from intent-to-treat population Inadequate data (n = 4) Consent withdrawn (n = 3) 
+
+Excluded from intent-to-treat population Inadequate data (n = 3) Consent withdrawn (n = 1) 
+
+TAM + OFS intent-to-treat population (n = 635) 
+
+TAM only intent-to-treat population (n = 647) 
+
+Intent-to-treat population for analysis (n = 1,282) 
+
+FIG 2. CONSORT diagram.TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+who had been randomly assigned to the TAM + OFS group, the rate of early discontinuation of OFS without recurrence was 25.9% (165 of 635 patients; Appendix Table A3, online only). Frequency and Pattern of Ovarian Function Recovery The patients who showed disease relapse before random assignment and those with inadequate data were excluded from the analysis of ovarian function recovery pattern. Of the 1,370 patients who had been categorized into each group, 155 (11.3%) remained premenopausal at the time of enrollment. A total of 745 patients (54.4%) resumed ovarian function within 6 months of completing chemotherapy. Of note, 381 (27.9%) resumed ovarian function slowly between 6 and 24 months after ﬁnishing chemotherapy (Fig 3; Appendix Table A4, online only). Only 88 patients (6.4%) had chemotherapy-induced amenorrhea for 2 years after enrollment. 
+
+DFS and OS At a median follow-up of 63 months, 156 of 1483 enrolled patients had DFS events. The 5-year DFS rate for all enrolled patients was 89.0%. Twelve patients experienced DFS events in the state of chemotherapy-induced menopause before random assignment. The 1,282 patients who were randomly assigned and included for survival analysis were associated with 132 DFS events (10.3%), including 28 locoregional recurrences, 84 distant metastases, eight contralateral breast cancers, 11 other primary cancers, and one death without recurrence. Eighty and 52 DFS events developed in the TAM-only and TAM + OFS groups, respectively (Table 2). The 5-year DFS rate was 91.1% in the TAM + OFS group and 87.5% in the TAM-only group (HR, 0.69; 95% CI, 0.48 to 0.97; P = .033; Fig 4A). This difference was statistically signiﬁcant. We also compared 5-year DFS between the two groups as deﬁned 
+
+4 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+TABLE 1. Patient Characteristics Treatment Assignment 
+
+Characteristic 
+
+TAM Only (n = 647) 
+
+TAM + OFS (n = 635) 
+
+No. 
+
+No. 
+
+% 
+
+% 
+
+Age at enrollment, years 
+
+P .519 
+
+, 35 
+
+83 
+
+12.8 
+
+89 
+
+14.0 
+
+35-39 
+
+194 
+
+30.0 
+
+173 
+
+27.2 
+
+40-45 
+
+370 
+
+57.2 
+
+373 
+
+58.7 
+
+Lymph node status 
+
+.805 
+
+Negative 
+
+289 
+
+44.7 
+
+288 
+
+45.4 
+
+Positive 
+
+358 
+
+55.3 
+
+347 
+
+54.6 
+
+Tumor size, cm 
+
+.877 
+
+,2 
+
+310 
+
+47.9 
+
+307 
+
+48.3 
+
+$2 
+
+337 
+
+52.1 
+
+328 
+
+51.7 
+
+1 
+
+89 
+
+13.8 
+
+117 
+
+18.4 
+
+2 
+
+349 
+
+53.9 
+
+314 
+
+49.4 
+
+3 
+
+157 
+
+24.6 
+
+148 
+
+23.3 
+
+Unknown 
+
+52 
+
+8.0 
+
+56 
+
+8.8 
+
+Invasive ductal carcinoma 
+
+570 
+
+88.1 
+
+564 
+
+88.8 
+
+Invasive lobular carcinoma 
+
+33 
+
+5.1 
+
+27 
+
+4.3 
+
+Other 
+
+40 
+
+6.2 
+
+42 
+
+6.6 
+
+Unknown 
+
+4 
+
+0.6 
+
+2 
+
+0.3 
+
+Tumor grade 
+
+.114 
+
+Histology 
+
+.741 
+
+HER2 status 
+
+.792 
+
+Negative 
+
+386 
+
+59.7 
+
+390 
+
+61.4 
+
+Positive 
+
+92 
+
+14.2 
+
+84 
+
+13.2 
+
+Unknown 
+
+169 
+
+26.1 
+
+161 
+
+25.4 
+
+Anthracycline plus cyclophosphamide 
+
+186 
+
+28.7 
+
+192 
+
+30.2 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+330 
+
+51.0 
+
+322 
+
+50.7 
+
+Anthracycline plus taxane 
+
+29 
+
+4.5 
+
+29 
+
+4.6 
+
+Chemotherapy regimen 
+
+.804 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+9 
+
+1.4 
+
+4 
+
+0.6 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+74 
+
+11.4 
+
+74 
+
+11.7 
+
+Other taxane-based regimens 
+
+7 
+
+1.1 
+
+6 
+
+0.9 
+
+Other nontaxane-based regimens 
+
+5 
+
+0.8 
+
+4 
+
+0.6 
+
+Unknown 
+
+7 
+
+1.1 
+
+4 
+
+0.6 
+
+Total mastectomy 
+
+260 
+
+40.2 
+
+244 
+
+38.4 
+
+Breast-conserving surgery 
+
+370 
+
+57.2 
+
+373 
+
+58.7 
+
+Unknown 
+
+17 
+
+2.6 
+
+18 
+
+2.8 
+
+Done 
+
+368 
+
+56.9 
+
+352 
+
+55.4 
+
+Not done 
+
+279 
+
+43.1 
+
+283 
+
+44.6 
+
+Surgery 
+
+.804 
+
+Radiotherapy at time of enrollment .613 
+
+Abbreviations: HER2, human epidermal growth factor receptor 2; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+5 
+
+Kim et al 
+
+according to the time of random assignment 0, 6, 12, 18, and 24 months after enrollment. The results are shown in Figure 5. 
+
+100 
+
+1,370 
+
+90 80 70 60 
+
+822 
+
+50 40 
+
+548 
+
+In OS analysis, although the number of events was quite small, the patients in the TAM + OFS group showed signiﬁcantly better survival than those in the TAM-only group (HR, 0.31; 95% CI, 0.10 to 0.94; P = .029; Appendix Fig A1, online only). The number of events of OS was four in the TAM + OFS group and 14 in the TAM-only group. No death as a result of another primary cancer occurred. 
+
+Patients (%) 
+
+No. of Patients 
+
+1,096 
+
+30 20 
+
+274 
+
+10 0 
+
+0 0 
+
+6 
+
+12 
+
+18 
+
+24 
+
+Time Since Enrollment (months) FIG 3. Pattern and frequency of ovarian function resumption for patients randomly assigned to each group. 
+
+from the time of random assignment to the time of the ﬁrst event. The median follow-up since random assignment for all patients was 56 months (TAM-only group, 56.5 months; TAM + OFS group, 55.8 months). In this analysis, the 5-year DFS rate was 89.8% in the TAM + OFS group and 87.3% in the TAM-only group (HR, 0.69; 95% CI, 0.49 to 0.98; P = .036; Fig 4 B). Next, we evaluated the HR and estimates of DFS deﬁned as the time interval either from enrollment or from random assignment to the ﬁrst event between the two groups TABLE 2. Sites of First Disease-Free Survival Events in the Intention-to-Treat Analysis Population TAM Only 
+
+TAM + OFS 
+
+Overall 
+
+Event 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+Locoregional recurrence 
+
+20 
+
+25.0 
+
+8 
+
+15.4 
+
+28 
+
+21.2 
+
+Bone and/or soft tissue only 
+
+19 
+
+23.8 
+
+17 
+
+32.7 
+
+36 
+
+27.3 
+
+Visceral metastasis 
+
+26 
+
+32.5 
+
+18 
+
+34.6 
+
+44 
+
+33.3 
+
+Distant metastasis 
+
+Unknown 
+
+3 
+
+3.8 
+
+1 
+
+1.9 
+
+4 
+
+3.0 
+
+Contralateral breast cancer 
+
+4 
+
+5.0 
+
+4 
+
+7.7 
+
+8 
+
+6.1 
+
+Death without recurrence 
+
+0 
+
+1 
+
+1.9 
+
+1 
+
+0.8 
+
+Other primary cancer Endometrial 
+
+2 
+
+2.5 
+
+2 
+
+1.5 
+
+Stomach 
+
+2 
+
+2.5 
+
+2 
+
+1.5 
+
+Colorectal 
+
+2 
+
+2.5 
+
+2 
+
+1.5 
+
+Thyroid 
+
+2 
+
+3.8 
+
+2 
+
+1.5 
+
+Leukemia 
+
+1 
+
+1.9 
+
+1 
+
+0.8 
+
+1 
+
+0.8 
+
+Liposarcoma Kidney Total 
+
+1 1 80 
+
+1.3 1.3 100 
+
+1 52 
+
+100 
+
+132 
+
+0.8 100 
+
+Abbreviations: TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+Additional unplanned analysis was performed to evaluate recurrence-free interval and breast cancer–free interval. The differences in recurrence-free interval (HR, 0.68; 95% CI, 0.47 to 0.999; P = .05; Appendix Fig A2A, online only) and breast cancer–free interval (HR, 0.70; 95% CI, 0.49 to 1.01; P = .06; Appendix Fig A2B) between the two groups were consistent with the results of DFS. No heterogeneity of treatment effect of OFS was found according to the mode of detection of the resumption of ovarian function (Appendix Fig A3, online only). In another unplanned subgroup analysis according to patient characteristics, we found no heterogeneity of treatment effect of OFS (Appendix Fig A4, online only). DISCUSSION With a median follow-up of 63 months, we found that the addition of OFS for 2 years to TAM in an adjuvant setting resulted in better DFS and OS compared with TAM alone for patients who remained premenopausal or resumed ovarian function after completing chemotherapy. The result is concordant with that of SOFT, which showed a DFS beneﬁt by adding adjuvant OFS to TAM in premenopausal women with breast cancer. The ASTRRA study showed similar results with a shorter follow-up period and smaller number of patients, which can be explained by the difference in the characteristics of patients in each study. The participants in ASTRRA had a relatively higher risk of disease recurrence than those in SOFT. The subgroup analysis of SOFT showed that most of the survival beneﬁt from the addition of OFS was attributed to the patients who received chemotherapy.9 Of note, the characteristics of the chemotherapytreated subgroup in SOFT were similar to those of ASTRRA, such as median age (40 years in both trials), ratio of lymph node positivity (55.0% in ASTRRA v 57.3% in SOFT), tumor grade 2 to 3 (75.5% in ASTRRA v 82.7% in SOFT), and HER2 positivity (13.7% in ASTRRA v 18.1% in SOFT).14 Therefore, the results of ASTRRA conﬁrm the ﬁndings of SOFT that the addition of OFS to TAM provides survival beneﬁts for women at sufﬁcient risk for recurrence to receive adjuvant chemotherapy and who remain in a premenopausal state after chemotherapy. 
+
+6 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+B 100 
+
+100 
+
+90 
+
+90 
+
+80 
+
+80 
+
+70 
+
+70 
+
+DFS (%) 
+
+DFS (%) 
+
+A 
+
+60 50 40 No. of events 
+
+30 20 10 
+
+TAM only 
+
+80 
+
+TAM + OFS 
+
+52 
+
+0 
+
+20 
+
+40 
+
+60 50 40 No. of events 
+
+30 HR (95% CI) 
+
+P 
+
+0.69 (0.48 to 0.97) 
+
+.033 
+
+60 
+
+100 
+
+80 
+
+20 10 
+
+TAM only 
+
+80 
+
+TAM + OFS 
+
+52 
+
+0 
+
+Time Since Enrollment (months) 
+
+20 
+
+40 
+
+HR (95% CI) 
+
+P 
+
+0.69 (0.49 to 0.98) 
+
+.036 
+
+60 
+
+100 
+
+80 
+
+Time Since Random Assignment (months) No. at risk: 
+
+No. at risk: TAM only 
+
+647 
+
+590 
+
+523 
+
+363 
+
+133 
+
+TAM + OFS 
+
+635 
+
+556 
+
+497 
+
+353 
+
+122 
+
+1 
+
+TAM only 
+
+647 
+
+556 
+
+480 
+
+248 
+
+62 
+
+TAM + OFS 
+
+635 
+
+519 
+
+455 
+
+255 
+
+53 
+
+FIG 4. Kaplan-Meier estimates of disease-free survival (DFS) as deﬁned (A) since the time of enrollment and (B) since the time of random assignment to the time of ﬁrst event. HR, hazard ratio; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifenonly group. 
+
+Although SOFT and ASTRRA have many similarities, they differ in several aspects. First, SOFT enrolled all premenopausal women without limiting age, whereas ASTRRA excluded women older than 45 years. Most older premenopausal women who are in their late 40s at the time of starting adjuvant endocrine therapy experience natural and spontaneous menopause during the 5-year course of treatment. We assumed that spontaneous menopause might obscure the effect of OFS and might affect the results of the study. Thus, to minimize the effect of natural menopause, we set the age limit as 45 years or younger. Second, in ASTRRA, we evaluated ovarian function according to serum FSH level or menstrual bleeding history every 6 months for 2 years since enrollment. Meanwhile, ovarian function in SOFT was assessed within 8 months after completing chemotherapy on the basis of serum E2 level. In this study, we found that the resumption of ovarian function had occurred continuously for 2 years, and approximately 30% of patients resumed ovarian function slowly after 6 months since completion of chemotherapy. This is consistent with the current international consensus guideline, which stresses that caution must be taken in deﬁning menopausal status after chemotherapy.11,15,16 Finally, the duration of OFS was 2 years in ASTRRA, whereas it was 5 years in SOFT. Although the addition of OFS to TAM generally is accepted to provide survival beneﬁt for premenopausal women with hormone receptor–positive breast cancer, uncertainty still exists about patient selection, the best timing, and optimal duration. A long-term duration of OFS in young women inevitably is accompanied by toxicities.17-19 This study 
+
+suggests that the use of OFS for 2 years from the point of resumption of ovarian function could be an option. The overall adherence rate with OFS for patients assigned to the TAM + OFS group was 74.1%. Given that younger premenopausal women are less adherent to endocrine therapy than older premenopausal women, it is speculated that the adherence rate in this study was not lower than that in real-world practice.18,19 In this study, we tried to reﬂect the real-world practice pattern as much as possible. Thus, the time of randomization varied from the point of enrollment to 24 months after enrollment. Initially, we set the primary end point as DFS deﬁned from the time of enrollment to the time of the ﬁrst event. We acknowledge that this might have incorporated selection bias. However, because this study was designed to determine the value of OFS in women with intact ovarian function and the comparisons were made between the two groups in the same conditions, the events that occurred in the state of chemotherapy-induced amenorrhea were not likely to affect the evaluation of OFS efﬁcacy. Moreover, we observed homogeneous difference in DFS as deﬁned either from enrollment or from randomization to the time of the ﬁrst event between the two groups. We also evaluated the HR and estimates of DFS within each pair according to the time of ovarian function recovery. Although these subset analyses were not preplanned and any inference from these comparisons are preliminary, we found that the trend was more pronounced in patients who had been randomly assigned at 6 months after completing chemotherapy. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+7 
+
+Kim et al 
+
+A 
+
+DFS Since Enrollment 
+
+Time interval between enrollment and random assignment, months 
+
+No. of events/No. of patients 
+
+TAM + OFS 
+
+All randomly assigned patients 
+
+52/635 
+
+0 
+
+8/71 28/367 
+
+6 
+
+12/126 
+
+12 
+
+5-year DFS rate since enrollment, % 
+
+TAM only 
+
+TAM + OFS 
+
+TAM only 
+
+HR (95% CI) 
+
+80/647 
+
+91.1 
+
+87.5 
+
+0.69 (0.48 to 0.97) 
+
+9/83 
+
+85.5 
+
+87.6 
+
+1.01 (0.39 to 2.62) 
+
+56/379 
+
+91.0 
+
+85.6 
+
+0.53 (0.34 to 0.84) 
+
+11/115 
+
+92.4 
+
+89.8 
+
+0.99 (0.44 to 2.25) 0.56 (0.10 to 3.07) 
+
+18 
+
+2/42 
+
+4/43 
+
+96.9 
+
+89.2 
+
+24 
+
+2/29 
+
+0/27 
+
+91.0 
+
+100 0 
+
+0.5 
+
+1 
+
+1.5 
+
+2 
+
+Favors TAM + OFS Favors TAM Only 
+
+B 
+
+DFS Since Random Assignment 
+
+Time interval between enrollment and random assignment, months 
+
+No. of events/No. of patients 
+
+5-year DFS rate since random assignment, % 
+
+TAM + OFS 
+
+TAM only 
+
+TAM + OFS 
+
+TAM only 
+
+HR (95% CI) 
+
+All randomly assigned patients 
+
+52/635 
+
+80/647 
+
+89.8 
+
+87.3 
+
+0.69 (0.49 to 0.98) 
+
+0 
+
+8/71 
+
+9/83 
+
+85.5 
+
+87.6 
+
+1.01 (0.39 to 2.61) 
+
+6 
+
+28/367 
+
+56/379 
+
+91.0 
+
+85.7 
+
+0.53 (0.34 to 0.84) 
+
+12 
+
+12/126 
+
+11/115 
+
+88.1 
+
+89.8 
+
+1.01 (0.44 to 2.28) 
+
+18 
+
+2/42 
+
+4/43 
+
+89.4 
+
+89.0 
+
+0.57 (0.10 to 3.14) 
+
+24 
+
+2/29 
+
+0/27 
+
+91.6 
+
+100 0 
+
+0.5 
+
+1 
+
+1.5 
+
+2 
+
+Favors TAM + OFS Favors TAM Only FIG 5. Hazard ratio (HR) and estimates of disease-free survival (DFS) as deﬁned (A) since the time of enrollment and (B) since the time of random assignment to the time of the ﬁrst event according to time interval between enrollment and random assignment. TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+One of the limitations of this study is that the safety and adverse event data were not included. Because OFS has been used widely in clinical practice for decades and the adverse effects of relatively short-term use of OFS for 2 years were considered to be well understood in previous studies, we focused on the oncologic efﬁcacy of OFS in the current study.4,20,21 
+
+In conclusion, ovarian function needs to be monitored longitudinally for at least 2 years in premenopausal patients who have been administered chemotherapy. For those who remain in a premenopausal state or resume ovarian function after chemotherapy, the addition of OFS for 2 years to standard TAM treatment signiﬁcantly improves DFS compared with TAM alone. 
+
+8 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+AFFILIATIONS 
+
+SUPPORT 
+
+1 
+
+Supported by an investigator-sponsored study program of AstraZeneca. This study also was supported partially by a grant from the Korea Institute of Radiological and Medical Sciences funded by the Ministry of Science and ICT, Republic of Korea (grant no. 50541-2018). 
+
+Korea Cancer Center Hospital, Seoul, Republic of Korea 2 Asan Medical Center, Seoul, Republic of Korea 3 Samsung Medical Center, Seoul, Republic of Korea 4 Yonsei University College of Medicine, Seoul, Republic of Korea 5 Seoul National University Hospital Seoul, Republic of Korea 6 National Cancer Center, Goyang, Republic of Korea 7 Ajou University, Suwon, Republic of Korea 8 Chonnam National University Hwasun Hospital, Gwangju, Republic of Korea 9 Cheil General Hospital and Women’s Healthcare Center, Seoul, Republic of Korea 10 Yeungnam University Hospital, Daegu, Republic of Korea 11 Korea University Anam Hospital, Seoul, Republic of Korea 12 Gangnam Severance Hospital, Seoul, Republic or Korea 13 Dong-A University Hospital, Busan, Republic of Korea 14 Soonchunhyang University College of Medicine, Cheonan, Republic of Korea 15 Hallym University Sacred Heart Hospital, Anyang, Republic of Korea 16 Ewha Woman’s University Mokdong Hospital, Seoul, Republic of Korea 17 Soonchunhyang University College of Medicine, Seoul, Republic of Korea 18 Inje University Busan Paik Hospital, Busan, Republic of Korea 19 Sungkyunkwan University School of Medicine, Seoul, Republic of Korea 20 Chonbuk National University Medical School, Jeonju, Republic of Korea 21 Inje University Sanggye Paik Hospital, Seoul, Republic of Korea 22 Chungnam National University Hospital, Daejeon, Republic of Korea 23 Keimyung University School of Medicine, Daegu, Republic of Korea 24 Korea Institute of Radiological and Medical Sciences, Seoul, Republic of Korea 25 Seoul National University, Seoul, Republic of Korea 26 Inha University, Incheon, Republic of Korea 
+
+CORRESPONDING AUTHOR Woo Chul Noh, MD, PhD, Department of Surgery, Korea Cancer Center Hospital, Korea Institute of Radiological and Medical Sciences, 75 Nowon-ro, Nowon-gu, Seoul 01812, Republic of Korea; e-mail: nohwoo@ kcch.re.kr. 
+
+PRIOR PRESENTATION Presented at the 2018 American Society of Clinical Oncology Annual Conference, Chicago, IL, June 1-5, 2018. 
+
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST AND DATA AVAILABILITY STATEMENT Disclosures provided by the authors and data availability statement (if applicable) are available with this article at DOI https://doi.org/10.1200/ JCO.19.00126. AUTHOR CONTRIBUTIONS Conception and design: Hyun-Ah Kim, Seok Jin Nam, Byeong-Woo Park, Seock-Ah Im, Eun Sook Lee, Yong Sik Jung, Sung Soo Kang, Kyong Hwa Park, Joon Jeong, Se-Heon Cho, Lee Su Kim, Min Hyuk Lee, Chanheun Park, Sung Hoo Jung, Geumhee Gwak, Se-Hwan Han, Wonshik Han, Min Hee Hur Administrative support: Lee Su Kim, Geumhee Gwak, Min Hee Hur Provision of study material or patients: Seok Jin Nam, Seock-Ah Im, Jung Han Yoon, Sung Soo Kang, Soo-Jung Lee, Kyong Hwa Park, Joon Jeong, Lee Su Kim, Min Hyuk Lee, Chanheun Park, Jeryong Kim, Hee Jeong Kim, Min Hee Hur Collection and assembly of data: Hyun-Ah Kim, Seok Jin Nam, Byeong-Woo Park, Seock-Ah Im, Eun Sook Lee, Yong Sik Jung, Jung Han Yoon, Soo-Jung Lee, Kyong Hwa Park, Joon Jeong, Lee Su Kim, Byung-In Moon, Min Hyuk Lee, Tae Hyun Kim, Chanheun Park, Geumhee Gwak, Jeryong Kim, Sun Hee Kang, Hee Jeong Kim, Se-Hwan Han, Wonshik Han, Min Hee Hur Data analysis and interpretation: Hyun-Ah Kim, Jong Won Lee, Seok Jin Nam, Byeong-Woo Park, Seock-Ah Im, Eun Sook Lee, Kyong Hwa Park, Joon Jeong, Sung Yong Kim, Min Hyuk Lee, Geumhee Gwak, Young Woo Jin, Se-Hwan Han, Min Hee Hur Manuscript writing: All authors Final approval of manuscript: All authors Accountable for all aspects of the work: All authors ACKNOWLEDGMENT We thank Songwon Seo, PhD (Korea Institute of Radiological and Medical Sciences, National Radiation Emergency Medical Center, Laboratory of Low Dose Risk Assessment), for contributing to the statistical analysis. Nonauthor contributors of the Korean Breast Cancer Study Group are listed in the Appendix (online only). 
+
+REFERENCES 1. 
+
+Davies C, Godwin J, Gray R, et al: Relevance of breast cancer hormone receptors and other factors to the efﬁcacy of adjuvant tamoxifen: Patient-level metaanalysis of randomised trials. Lancet 378:771-784, 2011 
+
+2. 
+
+Early Breast Cancer Trialists’ Collaborative Group (EBCTCG): Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: An overview of the randomised trials. Lancet 365:1687-1717, 2005 
+
+3. 
+
+Davies C, Pan H, Godwin J, et al: Long-term effects of continuing adjuvant tamoxifen to 10 years versus stopping at 5 years after diagnosis of oestrogen receptorpositive breast cancer: ATLAS, a randomised trial. Lancet 381:805-816, 2013 
+
+4. 
+
+Baum M, Hackshaw A, Houghton J, et al: Adjuvant goserelin in pre-menopausal patients with early breast cancer: Results from the ZIPP study. Eur J Cancer 42: 895-904, 2006 
+
+5. 
+
+Gnant M, Mlineritsch B, Schippinger W, et al: Endocrine therapy plus zoledronic acid in premenopausal breast cancer. N Engl J Med 360:679-691, 2009 
+
+6. 
+
+Krop IE, Winer EP: Ovarian suppression for breast cancer: An effective treatment in search of a home. J Clin Oncol 23:5869-5872, 2005 
+
+7. 
+
+Fisher B, Jeong JH, Bryant J, et al: Treatment of lymph-node-negative, oestrogen-receptor-positive breast cancer: Long-term ﬁndings from National Surgical Adjuvant Breast and Bowel Project randomised clinical trials. Lancet 364:858-868, 2004 
+
+8. 
+
+Pagani O, Regan MM, Walley BA, et al: Adjuvant exemestane with ovarian suppression in premenopausal breast cancer. N Engl J Med 371:107-118, 2014 
+
+9. 
+
+Francis PA, Pagani O, Fleming GF, et al: Tailoring adjuvant endocrine therapy for premenopausal breast cancer. N Engl J Med 379:122-137, 2018 
+
+10. Sukumvanich P, Case LD, Van Zee K, et al: Incidence and time course of bleeding after long-term amenorrhea after breast cancer treatment: A prospective study. Cancer 116:3102-3111, 2010 11. Koga C, Akiyoshi S, Ishida M, et al: Chemotherapy-induced amenorrhea and the resumption of menstruation in premenopausal women with hormone receptorpositive early breast cancer. Breast Cancer 24:714-719, 2017 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+9 
+
+Kim et al 12. Kang SY, Kim YS, Kim Z, et al: Basic ﬁndings regarding breast cancer in Korea in 2015: Data from a breast cancer registry. J Breast Cancer 21:1-10, 2018 [Erratum: J Breast Cancer 22:153, 2019] 13. Kim HA, Ahn SH, Nam SJ, et al: The role of the addition of ovarian suppression to tamoxifen in young women with hormone-sensitive breast cancer who remain premenopausal or regain menstruation after chemotherapy (ASTRRA): Study protocol for a randomized controlled trial and progress. BMC Cancer 16:319, 2016 14. Francis PA, Regan MM, Fleming GF, et al: Adjuvant ovarian suppression in premenopausal breast cancer. N Engl J Med 372:436-446, 2015 15. Paluch-Shimon S, Pagani O, Partridge AH, et al: ESO-ESMO 3rd international consensus guidelines for breast cancer in young women (BCY3). Breast 35: 203-217, 2017 16. Paluch-Shimon S, Pagani O, Partridge AH, et al: Second international consensus guidelines for breast cancer in young women (BCY2). Breast 26:87-99, 2016 17. Ribi K, Luo W, Bernhard J, et al: Adjuvant tamoxifen plus ovarian function suppression versus tamoxifen alone in premenopausal women with early breast cancer: Patient-reported outcomes in the Suppression of Ovarian Function Trial. J Clin Oncol 34:1601-1610, 2016 18. Saha P, Regan MM, Pagani O, et al: Treatment efﬁcacy, adherence, and quality of life among women younger than 35 years in the International Breast Cancer Study Group TEXT and SOFT adjuvant endocrine therapy trials. J Clin Oncol 35:3113-3122, 2017 19. Regan MM, Fleming GF, Walley B, et al: Adjuvant systemic treatment of premenopausal women with hormone receptor-positive early breast cancer: Lights and shadows. J Clin Oncol 37:862-866, 2019 20. Sverrisdóttir A, Fornander T, Jacobsson H, et al: Bone mineral density among premenopausal women with early breast cancer in a randomized trial of adjuvant endocrine therapy. J Clin Oncol 22:3694-3699, 2004 21. Bernhard J, Zahrieh D, Castiglione-Gertsch M, et al: Adjuvant chemotherapy followed by goserelin compared with either modality alone: The impact on amenorrhea, hot ﬂashes, and quality of life in premenopausal patients–the International Breast Cancer Study Group Trial VIII. J Clin Oncol 25:263-270, 2007 
+
+n n n 
+
+10 © 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Adding Ovarian Suppression to Tamoxifen for Premenopausal Breast Cancer: A Randomized Phase III Trial The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO’s conﬂict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. Hyun-Ah Kim Stock and Other Ownership Interests: Samsung Biologics, Hanmi, ST Cube Consulting or Advisory Role: Novartis, AstraZeneca, Eisai, Pﬁzer, Boryung Research Funding: AstraZeneca, Eisai Seock-Ah Im Consulting or Advisory Role: AstraZeneca, Novartis, Roche, Genentech, Eisai, Pﬁzer, Amgen, Hanmi Research Funding: AstraZeneca, Pﬁzer, Roche, Genentech Travel, Accommodations, Expenses: Novartis, Roche, Genentech Other Relationship: Roche 
+
+Joon Jeong Stock and Other Ownership Interests: Theragen Etex, Oscotec Honoraria: Genomic Health, Eisai Consulting or Advisory Role: GI Cell Speakers’ Bureau: Pﬁzer, Celltrion, Amgen, AstraZeneca, Teva, Handok, Takeda Pharmaceuticals, Eisai Research Funding: Eisai (Inst) Wonshik Han Leadership: DCGen Stock and Other Ownership Interests: DCGen Honoraria: Genomic Health No other potential conﬂicts of interest were reported. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Kim et al 
+
+APPENDIX Korean Breast Cancer Study Group (Nonauthor Contributors) Ki-Tae Hwang, MD, PhD, Department of Surgery, Seoul Metropolitan Government Seoul National University Boramae Medical Center, Seoul, Republic of Korea 
+
+Young-Jin Song, MD, Department of Surgery, Chungbuk National University College of Medicine and Medical Research Institute, Cheongju, Republic of Korea Youngbum Yoo, MD, PhD, Department of Surgery, Konkuk University School of Medicine, Seoul, Republic of Korea 
+
+Cheol-Wan Lim, MD, PhD, Department of Surgery, Soonchunhyang University College of Medicine, Bucheon Hospital, Bucheon, Republic of Korea 
+
+Yoon-Jung Kang, MD, Department of Surgery, Eulji University Hospital, Daejeon, Republic of Korea 
+
+Su Yun Choi, MD, PhD, Department of Surgery, KangDong Sacred Heart Hospital, Hallym University, Seoul, Republic of Korea 
+
+Hyuk Jai Shin, MD, Breast and Thyroid Care Center, Department of Surgery, Myongji Hospital, Goyang, Republic of Korea 
+
+Heungkyu Park, MD, PhD, Department of Breast Surgery, Gachon University Gil Hospital, Incheon, Republic of Korea 
+
+Eun-Kyu Kim, MD, PhD, Department of Surgery, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Republic of Korea 
+
+Doyil Kim, MD, Department of Surgery, Kangseo Mizmedi Hospital, Seoul, Republic of Korea 
+
+B 100 
+
+100 
+
+90 
+
+90 
+
+80 
+
+80 
+
+70 
+
+70 
+
+60 
+
+60 
+
+OS (%) 
+
+OS (%) 
+
+A 
+
+50 40 30 
+
+50 40 30 
+
+No. of events 
+
+HR (95% CI) 
+
+No. of events 
+
+P 
+
+HR (95% CI) 
+
+P 
+
+0.31 (0.10 to 0.95) 
+
+.039 
+
+20 
+
+20 10 0 
+
+TAM only 
+
+14 
+
+TAM + OFS 
+
+4 
+
+20 
+
+40 
+
+0.31 (0.10 to 0.94) 
+
+60 
+
+80 
+
+10 
+
+.029 
+
+0 
+
+100 
+
+TAM only 
+
+14 
+
+TAM + OFS 
+
+4 
+
+20 
+
+40 
+
+60 
+
+80 
+
+100 
+
+Time Since Random Assignment (months) 
+
+Time Since Enrollment (months) No. at risk: 
+
+No. at risk: TAM only 
+
+647 
+
+604 
+
+565 
+
+404 
+
+144 
+
+TAM + OFS 
+
+635 
+
+561 
+
+518 
+
+371 
+
+134 
+
+1 
+
+TAM only 
+
+647 
+
+582 
+
+524 
+
+273 
+
+69 
+
+TAM + OFS 
+
+635 
+
+536 
+
+480 
+
+272 
+
+58 
+
+FIG A1. Kaplan-Meier estimates of overall survival (OS) as deﬁned (A) since the time of enrollment and (B) since the time of random assignment to death. HR, hazard ratio; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+B 100 
+
+100 
+
+90 
+
+90 
+
+Breast Cancer–Interval (%) 
+
+Recurrence-Free Interval 
+
+A 
+
+80 70 60 50 40 30 No. of events 
+
+20 10 
+
+TAM only 
+
+68 
+
+TAM + OFS 
+
+44 
+
+0 
+
+20 
+
+40 
+
+HR (95% CI) 
+
+P 
+
+0.68 (0.47 to 0.999) 
+
+.05 
+
+80 70 60 50 40 30 No. of events 
+
+20 10 
+
+60 
+
+80 
+
+0 
+
+100 
+
+Time Since Enrollment (months) 
+
+TAM only 
+
+72 
+
+TAM + OFS 
+
+48 
+
+20 
+
+40 
+
+HR (95% CI) 
+
+P 
+
+0.70 (0.49 to 1.01) 
+
+.06 
+
+60 
+
+80 
+
+100 
+
+Time Since Enrollment (months) 
+
+No. at risk: 
+
+No. at risk: 
+
+TAM only 
+
+647 
+
+590 
+
+523 
+
+363 
+
+133 
+
+TAM + OFS 
+
+635 
+
+556 
+
+497 
+
+353 
+
+122 
+
+1 
+
+TAM only 
+
+647 
+
+590 
+
+523 
+
+363 
+
+133 
+
+TAM + OFS 
+
+635 
+
+556 
+
+497 
+
+353 
+
+122 
+
+1 
+
+FIG A2. The differences in (A) recurrence-free interval and (B) breast cancer–free interval. The events for recurrence-free interval were local recurrence, regional recurrence, distant recurrence, or death as a result of breast cancer as the ﬁrst event. The events for breast cancer–free interval were local recurrence, regional recurrence, distant recurrence, contralateral breast cancer, or death as a result of breast cancer as the ﬁrst event. HR, hazard ratio; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Kim et al 
+
+B 100 
+
+100 
+
+90 
+
+90 
+
+80 
+
+80 
+
+DFS Rate (%) 
+
+Disease Free Survival Rate (%) 
+
+A 
+
+70 60 50 40 30 
+
+10 0 
+
+TAM only 
+
+58 
+
+TAM + OFS 
+
+38 
+
+20 
+
+40 
+
+60 50 40 30 
+
+No. of events 
+
+20 
+
+70 
+
+HR (95% CI) 
+
+20 10 
+
+0.67 (0.33. to 1.34) 
+
+60 
+
+80 
+
+No. of events 
+
+0 
+
+100 
+
+2 
+
+TAM + OFS 
+
+1 
+
+20 
+
+40 
+
+HR (95% CI) 
+
+0.71 (0.47 to 1.07) 
+
+60 
+
+80 
+
+100 
+
+Time Since Enrollment (months) 
+
+Time Since Enrollment (months) No. at risk: 
+
+No. at risk: TAM only 
+
+464 
+
+420 
+
+377 
+
+261 
+
+98 
+
+TAM + OFS 
+
+452 
+
+395 
+
+354 
+
+244 
+
+87 
+
+C 
+
+TAM only 
+
+1 
+
+TAM only 
+
+15 
+
+14 
+
+12 
+
+10 
+
+3 
+
+TAM + OFS 
+
+19 
+
+18 
+
+18 
+
+56 
+
+4 
+
+100 90 
+
+DFS Rate (%) 
+
+80 70 60 50 40 No. of events 
+
+30 20 10 0 
+
+TAM only 
+
+20 
+
+TAM + OFS 
+
+13 
+
+20 
+
+40 
+
+HR (95% CI) 
+
+0.67 (0.03 to 4.07) 
+
+60 
+
+80 
+
+100 
+
+Time Since Enrollment (months) No. at risk: TAM only 
+
+167 
+
+154 
+
+133 
+
+91 
+
+31 
+
+TAM + OFS 
+
+163 
+
+141 
+
+125 
+
+97 
+
+31 
+
+FIG A3. Disease-free survival (DFS) rate on the basis of on the mode of detection of the resumption of ovarian function. (A) DFS of patients who were randomly assigned by follicle-stimulating hormone level. (B) DFS of patients who were randomly assigned by vaginal bleeding history. (C) DFS of patients who were randomly assigned by both follicle-stimulating hormone and the history of vaginal bleeding. HR, hazard ratio; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+A 
+
+No. of events/No. of patients 
+
+All patients Age at enrollment < 35 35-39 40-45 Lymph node status Negative Positive Tumor size, cm <2 2 Tumor grade 1 2 3 Unknown HER2 status Negative Positive Unknown 
+
+5-year DFS rate, % 
+
+TAM + OFS 
+
+TAM only 
+
+TAM + OFS 
+
+TAM only 
+
+HR (95% CI) 
+
+52/635 
+
+80/647 
+
+91.1 
+
+87.5 
+
+0.69 (0.48 to 0.97) 
+
+12/89 14/173 26/373 
+
+17/83 22/194 41/370 
+
+83.7 91.3 93.3 
+
+76.9 88.9 88.8 
+
+0.56 (0.27 to 1.19) 0.76 (0.39 to 1.48) 0.65 (0.40 to 1.07) 
+
+17/288 35/347 
+
+33/285 47/358 
+
+93.7 89.1 
+
+88.2 87.0 
+
+0.54 (0.30 to 0.97) 0.81 (0.52 to 1.25) 
+
+18/307 34/328 
+
+17/310 63/337 
+
+93.6 88.9 
+
+95.1 80.4 
+
+1.17 (0.60 to 2.26) 0.56 (0.37 to 0.84) 
+
+7/117 29/314 14/148 2/56 
+
+6/89 41/349 27/157 6/52 
+
+94.3 89.8 89.8 95.7 
+
+95.3 88.3 81.6 87.0 
+
+1.04 (0.35 to 3.09) 0.83 (0.52 to 1.34) 0.54 (0.29 to 1.04) 0.28 (0.06 to 1.38) 
+
+34/390 6/84 12/161 
+
+50/386 12/92 18/169 
+
+90.9 91.9 91.2 
+
+88.2 86.1 86.8 
+
+0.71 (0.46 to 1.09) 0.59 (0.22 to 1.57) 0.71 (0.34 to 1.47) 0.125 
+
+0.25 
+
+0.5 
+
+1 
+
+2 
+
+Favors TAM + OFS Favors TAM Only 
+
+B 
+
+No. of events/No. of patients 
+
+All patients Age at enrollment < 35 35-39 40-45 Lymph node status Negative Positive Tumor size, cm <2 2 Tumor grade 1 2 3 Unknown HER2 status Negative Positive Unknown 
+
+5-year DFS rate, % 
+
+TAM + OFS 
+
+TAM only 
+
+TAM + OFS 
+
+TAM only 
+
+HR (95% CI) 
+
+52/635 
+
+80/647 
+
+89.8 
+
+87.0 
+
+0.68 (0.48 to 0.97) 
+
+12/89 14/173 26/373 
+
+17/83 22/194 41/370 
+
+82.9 90.2 91.2 
+
+76.5 88.6 88.7 
+
+0.60 (0.28 to 1.23) 0.78 (0.40 to 1.53) 0.65 (0.40 to 1.06) 
+
+17/288 35/347 
+
+33/285 47/358 
+
+92.8 87.3 
+
+88.2 86.6 
+
+0.53 (0.30 to 0.96) 0.81 (0.52 to 1.26) 
+
+18/307 34/328 
+
+17/310 63/337 
+
+92.8 86.9 
+
+95.0 79.9 
+
+1.13 (0.58 to 2.20) 0.60 (0.37 to 0.85) 
+
+7/117 29/314 14/148 2/56 
+
+6/89 41/349 27/157 6/52 
+
+92.4 88.4 88.4 95.75 
+
+95.2 88.1 81.5 85.6 
+
+0.78 (0.24 to 2.45) 0.83 (0.51 to 1.33) 0.54 (0.29 to 1.04) 0.31(0.06 to 1.59) 
+
+34/390 6/84 12/161 
+
+50/386 12/92 18/169 
+
+89.6 91.98 88.8 
+
+88.1 85.6 86.2 
+
+0.72 (0.46 to 1.11) 0.50 (0.18 to 1.34) 0.78 (0.37 to 1.64) 0.125 
+
+0.25 
+
+0.5 
+
+1 
+
+2 
+
+Favors TAM + OFS Favors TAM Only FIG A4. Subgroup analysis of disease-free survival (DFS) since (A) the time of enrollment and (B) since the time of random assignment adjusted by visits. HER2, human epidermal growth factor receptor 2; HR, hazard ratio; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifenonly group. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Kim et al 
+
+TABLE A1. Patient Characteristics by Treatment Group According to the Timing of Random Assignment and Total Patient Characteristics Stratiﬁed by Visit Treatment Assignment TAM Only 
+
+TAM + OFS 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+, 35 
+
+18 
+
+21.7 
+
+27 
+
+38.0 
+
+45 
+
+29.2 
+
+.053 
+
+35-39 
+
+40 
+
+48.2 
+
+23 
+
+32.4 
+
+63 
+
+40.9 
+
+40-45 
+
+25 
+
+30.1 
+
+21 
+
+29.6 
+
+46 
+
+29.9 
+
+Negative 
+
+59 
+
+71.1 
+
+52 
+
+73.2 
+
+111 
+
+72.1 
+
+Positive 
+
+24 
+
+28.9 
+
+19 
+
+26.8 
+
+42 
+
+27.9 
+
+,2 
+
+50 
+
+60.2 
+
+50 
+
+70.4 
+
+100 
+
+64.9 
+
+$2 
+
+33 
+
+39.8 
+
+21 
+
+29.6 
+
+54 
+
+35.1 
+
+1 
+
+9 
+
+10.8 
+
+15 
+
+21.1 
+
+24 
+
+15.6 
+
+2 
+
+47 
+
+56.6 
+
+36 
+
+50.7 
+
+83 
+
+53.9 
+
+Characteristic Visit 1 Age at enrollment, years 
+
+Lymph node status .858 
+
+Tumor size, cm .236 
+
+Tumor grade 
+
+3 
+
+15 
+
+18.1 
+
+16 
+
+22.5 
+
+31 
+
+20.1 
+
+Unknown 
+
+12 
+
+14.5 
+
+4 
+
+5.6 
+
+16 
+
+10.4 
+
+Invasive ductal carcinoma 
+
+74 
+
+89.2 
+
+63 
+
+88.7 
+
+137 
+
+89.0 
+
+Invasive lobular carcinoma 
+
+2 
+
+2.4 
+
+1 
+
+1.4 
+
+3 
+
+1.9 
+
+7 
+
+9.9 
+
+13 
+
+8.4 
+
+1 
+
+0.6 
+
+85 
+
+55.2 
+
+.100 
+
+Histology 
+
+Other 
+
+6 
+
+7.2 
+
+Unknown 
+
+1 
+
+1.2 
+
+43 
+
+51.8 
+
+.626 
+
+HER2 status Negative 
+
+42 
+
+59.2 
+
+Positive 
+
+12 
+
+14.5 
+
+12 
+
+16.9 
+
+24 
+
+15.6 
+
+Unknown 
+
+28 
+
+33.7 
+
+17 
+
+23.9 
+
+45 
+
+29.2 
+
+Anthracycline plus cyclophosphamide 
+
+42 
+
+50.6 
+
+37 
+
+52.1 
+
+79 
+
+51.3 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+19 
+
+22.9 
+
+21 
+
+29.6 
+
+40 
+
+26.0 
+
+Anthracycline plus taxane 
+
+2 
+
+2.4 
+
+0 
+
+2 
+
+1.3 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+0 
+
+0 
+
+0 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+13 
+
+15.7 
+
+8 
+
+11.3 
+
+21 
+
+13.6 
+
+Other taxane-based regimen 
+
+1 
+
+1.2 
+
+2 
+
+2.8 
+
+3 
+
+1.9 
+
+Other nontaxane-based regimen 
+
+2 
+
+2.4 
+
+2 
+
+2.8 
+
+4 
+
+2.6 
+
+Unknown 
+
+4 
+
+4.8 
+
+1 
+
+1.4 
+
+5 
+
+3.2 
+
+.408 
+
+Chemotherapy regimen .455 
+
+Surgery Total mastectomy 
+
+27 
+
+32.5 
+
+20 
+
+28.2 
+
+47 
+
+30.5 
+
+Breast-conserving surgery 
+
+51 
+
+61.4 
+
+51 
+
+71.8 
+
+102 
+
+66.2 
+
+5 
+
+6.0 
+
+0 
+
+5 
+
+3.2 
+
+Unknown 
+
+(continued on following page) 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+.030 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+TABLE A1. Patient Characteristics by Treatment Group According to the Timing of Random Assignment and Total Patient Characteristics Stratiﬁed by Visit (continued) Treatment Assignment TAM Only 
+
+TAM + OFS 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+, 35 
+
+49 
+
+12.9 
+
+39 
+
+10.6 
+
+88 
+
+11.8 
+
+.540 
+
+35-39 
+
+110 
+
+29.0 
+
+103 
+
+28.1 
+
+213 
+
+28.6 
+
+40-45 
+
+220 
+
+58.0 
+
+225 
+
+61.3 
+
+445 
+
+59.7 
+
+Negative 
+
+160 
+
+42.2 
+
+162 
+
+44.1 
+
+322 
+
+43.2 
+
+Positive 
+
+219 
+
+57.8 
+
+205 
+
+55.9 
+
+424 
+
+56.8 
+
+,2 
+
+176 
+
+46.4 
+
+167 
+
+45.5 
+
+343 
+
+46.0 
+
+$2 
+
+203 
+
+53.6 
+
+200 
+
+54.5 
+
+403 
+
+54.0 
+
+1 
+
+54 
+
+14.2 
+
+61 
+
+16.6 
+
+115 
+
+15.4 
+
+2 
+
+208 
+
+54.9 
+
+189 
+
+51.5 
+
+397 
+
+53.2 
+
+3 
+
+93 
+
+24.5 
+
+85 
+
+23.2 
+
+178 
+
+23.9 
+
+Unknown 
+
+24 
+
+6.3 
+
+32 
+
+8.7 
+
+56 
+
+7.5 
+
+Invasive ductal carcinoma 
+
+330 
+
+87.1 
+
+330 
+
+89.9 
+
+660 
+
+88.5 
+
+Invasive lobular carcinoma 
+
+22 
+
+5.8 
+
+17 
+
+4.6 
+
+39 
+
+5.2 
+
+Other 
+
+24 
+
+6.3 
+
+19 
+
+5.2 
+
+43 
+
+5.8 
+
+Unknown 
+
+3 
+
+0.8 
+
+1 
+
+0.3 
+
+4 
+
+0.5 
+
+Negative 
+
+248 
+
+65.4 
+
+238 
+
+64.9 
+
+486 
+
+65.1 
+
+Positive 
+
+52 
+
+13.7 
+
+54 
+
+14.7 
+
+106 
+
+14.2 
+
+Unknown 
+
+79 
+
+20.8 
+
+75 
+
+20.4 
+
+154 
+
+20.6 
+
+Characteristic Visit 2 Age at enrollment, years 
+
+Lymph node status .605 
+
+Tumor size, cm .826 
+
+Tumor grade .449 
+
+Histology .556 
+
+HER2 status .926 
+
+Chemotherapy regimen Anthracycline plus cyclophosphamide 
+
+105 
+
+27.7 
+
+111 
+
+30.2 
+
+216 
+
+29.0 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+201 
+
+53.0 
+
+185 
+
+50.4 
+
+386 
+
+51.7 
+
+Anthracycline plus taxane 
+
+21 
+
+5.5 
+
+17 
+
+4.6 
+
+38 
+
+5.1 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+2 
+
+0.5 
+
+2 
+
+0.5 
+
+4 
+
+0.5 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+43 
+
+11.3 
+
+49 
+
+13.4 
+
+92 
+
+12.3 
+
+Other taxane-based regimen 
+
+3 
+
+0.8 
+
+1 
+
+0.3 
+
+4 
+
+0.5 
+
+Other nontaxane-based regimen 
+
+2 
+
+0.5 
+
+2 
+
+0.5 
+
+4 
+
+0.5 
+
+Unknown 
+
+2 
+
+0.5 
+
+0 
+
+2 
+
+0.3 
+
+.627 
+
+Surgery Total mastectomy 
+
+159 
+
+42.0 
+
+144 
+
+39.2 
+
+303 
+
+40.6 
+
+Breast-conserving surgery 
+
+215 
+
+56.7 
+
+214 
+
+58.3 
+
+429 
+
+57.5 
+
+5 
+
+1.3 
+
+9 
+
+2.5 
+
+14 
+
+1.9 
+
+Unknown 
+
+(continued on following page) 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+.425 
+
+Kim et al 
+
+TABLE A1. Patient Characteristics by Treatment Group According to the Timing of Random Assignment and Total Patient Characteristics Stratiﬁed by Visit (continued) Treatment Assignment TAM Only 
+
+TAM + OFS 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+, 35 
+
+11 
+
+9.6 
+
+19 
+
+15.1 
+
+30 
+
+12.4 
+
+.406 
+
+35-39 
+
+29 
+
+25.2 
+
+32 
+
+25.4 
+
+61 
+
+25.3 
+
+40-45 
+
+75 
+
+65.2 
+
+75 
+
+59.5 
+
+150 
+
+62.2 
+
+Negative 
+
+44 
+
+38.3 
+
+46 
+
+36.5 
+
+90 
+
+37.3 
+
+Positive 
+
+71 
+
+61.7 
+
+80 
+
+63.5 
+
+151 
+
+62.7 
+
+,2 
+
+50 
+
+43.5 
+
+57 
+
+45.2 
+
+107 
+
+44.4 
+
+$2 
+
+65 
+
+56.5 
+
+69 
+
+54.8 
+
+134 
+
+55.6 
+
+Characteristic Visit 3 Age at enrollment, years 
+
+Lymph node status .791 
+
+Tumor size, cm .797 
+
+Tumor grade 1 
+
+11 
+
+9.6 
+
+25 
+
+19.8 
+
+36 
+
+14.9 
+
+2 
+
+54 
+
+47.0 
+
+57 
+
+45.2 
+
+111 
+
+46.1 
+
+3 
+
+39 
+
+33.9 
+
+34 
+
+27.0 
+
+73 
+
+30.3 
+
+Unknown 
+
+11 
+
+9.6 
+
+10 
+
+7.9 
+
+21 
+
+8.7 
+
+Invasive ductal carcinoma 
+
+104 
+
+90.4 
+
+110 
+
+87.3 
+
+214 
+
+88.8 
+
+Invasive lobular carcinoma 
+
+5 
+
+4.3 
+
+5 
+
+4.0 
+
+10 
+
+4.1 
+
+Other 
+
+6 
+
+5.2 
+
+10 
+
+7.9 
+
+16 
+
+6.6 
+
+Unknown 
+
+0 
+
+1 
+
+0.8 
+
+1 
+
+0.4 
+
+.135 
+
+Histology .559 
+
+HER2 status Negative 
+
+64 
+
+55.7 
+
+73 
+
+57.9 
+
+137 
+
+56.8 
+
+Positive 
+
+18 
+
+15.7 
+
+15 
+
+11.9 
+
+33 
+
+13.7 
+
+Unknown 
+
+33 
+
+28.7 
+
+38 
+
+30.2 
+
+71 
+
+29.5 
+
+.699 
+
+Chemotherapy regimen Anthracycline plus cyclophosphamide 
+
+23 
+
+20.0 
+
+26 
+
+20.6 
+
+49 
+
+20.3 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+70 
+
+60.9 
+
+75 
+
+59.5 
+
+145 
+
+60.2 
+
+Anthracycline plus taxane 
+
+4 
+
+3.5 
+
+11 
+
+8.7 
+
+15 
+
+6.2 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+4 
+
+3.5 
+
+1 
+
+0.8 
+
+5 
+
+2.1 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+11 
+
+9.6 
+
+10 
+
+7.9 
+
+21 
+
+8.7 
+
+Other taxane-based regimen 
+
+3 
+
+2.6 
+
+2 
+
+1.6 
+
+5 
+
+2.1 
+
+Other nontaxane-based regimen 
+
+0 
+
+0 
+
+Unknown 
+
+0 
+
+1 
+
+.338 
+
+0 0.8 
+
+1 
+
+0.4 
+
+Surgery Total mastectomy 
+
+50 
+
+43.5 
+
+52 
+
+41.3 
+
+102 
+
+42.3 
+
+Breast-conserving surgery 
+
+61 
+
+53.0 
+
+68 
+
+54.0 
+
+129 
+
+53.5 
+
+4 
+
+3.5 
+
+6 
+
+4.8 
+
+10 
+
+4.1 
+
+Unknown 
+
+(continued on following page) 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+.852 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+TABLE A1. Patient Characteristics by Treatment Group According to the Timing of Random Assignment and Total Patient Characteristics Stratiﬁed by Visit (continued) Treatment Assignment TAM Only 
+
+TAM + OFS 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+4 
+
+9.3 
+
+2 
+
+4.8 
+
+6 
+
+7.1 
+
+.631 
+
+35-39 
+
+7 
+
+16.3 
+
+9 
+
+21.4 
+
+16 
+
+18.8 
+
+40-45 
+
+32 
+
+74.4 
+
+31 
+
+73.8 
+
+63 
+
+74.1 
+
+Negative 
+
+18 
+
+41.9 
+
+17 
+
+40.5 
+
+35 
+
+41.2 
+
+Positive 
+
+25 
+
+58.1 
+
+25 
+
+59.5 
+
+50 
+
+58.8 
+
+,2 
+
+17 
+
+39.5 
+
+19 
+
+45.2 
+
+36 
+
+42.4 
+
+$2 
+
+26 
+
+60.5 
+
+23 
+
+54.8 
+
+49 
+
+57.6 
+
+1 
+
+9 
+
+20.9 
+
+9 
+
+21.4 
+
+18 
+
+21.2 
+
+2 
+
+24 
+
+55.8 
+
+19 
+
+45.2 
+
+43 
+
+50.6 
+
+3 
+
+6 
+
+14.0 
+
+9 
+
+21.4 
+
+15 
+
+17.6 
+
+Unknown 
+
+4 
+
+9.3 
+
+5 
+
+11.9 
+
+9 
+
+10.6 
+
+Invasive ductal carcinoma 
+
+38 
+
+88.4 
+
+35 
+
+83.3 
+
+73 
+
+85.9 
+
+Invasive lobular carcinoma 
+
+2 
+
+4.7 
+
+2 
+
+4.8 
+
+4 
+
+4.7 
+
+Other 
+
+3 
+
+7.0 
+
+5 
+
+11.9 
+
+8 
+
+9.4 
+
+Unknown 
+
+0 
+
+Characteristic Visit 4 Age at enrollment, years , 35 
+
+Lymph node status 1.000 
+
+Tumor size, cm .663 
+
+Tumor grade .732 
+
+Histology 
+
+0 
+
+.737 
+
+0 
+
+HER2 status Negative 
+
+20 
+
+46.5 
+
+24 
+
+57.1 
+
+44 
+
+51.8 
+
+Positive 
+
+6 
+
+14.0 
+
+3 
+
+7.1 
+
+9 
+
+10.6 
+
+Unknown 
+
+17 
+
+39.5 
+
+15 
+
+35.7 
+
+32 
+
+37.6 
+
+.473 
+
+Chemotherapy regimen Anthracycline plus cyclophosphamide 
+
+9 
+
+20.9 
+
+12 
+
+28.6 
+
+21 
+
+24.7 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+22 
+
+51.2 
+
+22 
+
+52.4 
+
+44 
+
+51.8 
+
+2.4 
+
+Anthracycline plus taxane 
+
+2 
+
+4.7 
+
+1 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+2 
+
+4.7 
+
+0 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+7 
+
+16.3 
+
+6 
+
+Other taxane-based regimen 
+
+0 
+
+1 
+
+Other nontaxane-based regimen 
+
+0 
+
+0 
+
+0 
+
+Unknown 
+
+1 
+
+0 
+
+1 
+
+2.3 
+
+3 
+
+3.5 
+
+2 
+
+2.4 
+
+14.3 
+
+13 
+
+15.3 
+
+2.4 
+
+1 
+
+1.2 
+
+.382 
+
+1.2 
+
+Surgery Total mastectomy 
+
+15 
+
+34.9 
+
+20 
+
+47.6 
+
+35 
+
+41.2 
+
+Breast-conserving surgery 
+
+26 
+
+60.5 
+
+20 
+
+47.6 
+
+46 
+
+54.1 
+
+2 
+
+4.7 
+
+2 
+
+4.8 
+
+4 
+
+4.7 
+
+Unknown 
+
+(continued on following page) 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+.476 
+
+Kim et al 
+
+TABLE A1. Patient Characteristics by Treatment Group According to the Timing of Random Assignment and Total Patient Characteristics Stratiﬁed by Visit (continued) Treatment Assignment TAM Only 
+
+TAM + OFS 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+P 
+
+1 
+
+3.7 
+
+2 
+
+6.9 
+
+3 
+
+5.4 
+
+.675 
+
+35-39 
+
+8 
+
+29.6 
+
+6 
+
+20.7 
+
+14 
+
+25.0 
+
+40-45 
+
+18 
+
+66.7 
+
+21 
+
+72.4 
+
+39 
+
+69.6 
+
+Negative 
+
+8 
+
+29.6 
+
+11 
+
+37.9 
+
+19 
+
+33.9 
+
+Positive 
+
+19 
+
+70.4 
+
+18 
+
+62.1 
+
+37 
+
+66.1 
+
+,2 
+
+17 
+
+63.0 
+
+14 
+
+48.3 
+
+31 
+
+55.4 
+
+$2 
+
+10 
+
+37.0 
+
+15 
+
+51.7 
+
+25 
+
+44.6 
+
+1 
+
+6 
+
+22.2 
+
+7 
+
+24.1 
+
+13 
+
+23.2 
+
+2 
+
+16 
+
+59.3 
+
+13 
+
+44.8 
+
+29 
+
+51.8 
+
+3 
+
+4 
+
+14.8 
+
+4 
+
+13.8 
+
+8 
+
+14.3 
+
+Unknown 
+
+1 
+
+3.7 
+
+5 
+
+17.2 
+
+6 
+
+10.7 
+
+Invasive ductal carcinoma 
+
+24 
+
+88.9 
+
+26 
+
+89.7 
+
+50 
+
+89.3 
+
+Invasive lobular carcinoma 
+
+2 
+
+2.4 
+
+2 
+
+6.9 
+
+4 
+
+7.1 
+
+Other 
+
+1 
+
+3.7 
+
+1 
+
+3.4 
+
+2 
+
+3.6 
+
+Unknown 
+
+0 
+
+Characteristic Visit 5 Age at enrollment, years , 35 
+
+Lymph node status .580 
+
+Tumor size, cm .296 
+
+Tumor grade .394 
+
+Histology 
+
+0 
+
+.996 
+
+0 
+
+HER2 status Negative 
+
+11 
+
+40.7 
+
+13 
+
+Positive 
+
+4 
+
+14.8 
+
+0 
+
+Unknown 
+
+12 
+
+44.4 
+
+16 
+
+44.8 
+
+55.2 
+
+24 
+
+42.9 
+
+4 
+
+7.1 
+
+28 
+
+50.0 
+
+.045 
+
+Chemotherapy regimen Anthracycline plus cyclophosphamide 
+
+7 
+
+25.9 
+
+6 
+
+20.7 
+
+13 
+
+23.2 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+18 
+
+66.7 
+
+19 
+
+65.5 
+
+37 
+
+66.1 
+
+3.7 
+
+1 
+
+3.4 
+
+2 
+
+3.6 
+
+3.4 
+
+1 
+
+1.8 
+
+Anthracycline plus taxane 
+
+0 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+1 
+
+0 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+0 
+
+1 
+
+Other taxane-based regimen 
+
+0 
+
+0 
+
+0 
+
+Other nontaxane-based regimen 
+
+1 
+
+0 
+
+1 
+
+1.8 
+
+Unknown 
+
+0 
+
+2 
+
+3.6 
+
+3.7 
+
+2 
+
+.349 
+
+0 
+
+6.9 
+
+Surgery Total mastectomy 
+
+9 
+
+33.3 
+
+8 
+
+27.6 
+
+17 
+
+30.4 
+
+Breast-conserving surgery 
+
+17 
+
+63.0 
+
+20 
+
+69.0 
+
+37 
+
+66.1 
+
+1 
+
+3.7 
+
+1 
+
+3.4 
+
+2 
+
+3.6 
+
+Unknown 
+
+(continued on following page) 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+.891 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+TABLE A1. Patient Characteristics by Treatment Group According to the Timing of Random Assignment and Total Patient Characteristics Stratiﬁed by Visit (continued) Treatment Assignment TAM Only Characteristic 
+
+TAM + OFS 
+
+Total 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+No. 
+
+% 
+
+, 35 
+
+83 
+
+12.8 
+
+89 
+
+14.0 
+
+172 
+
+13.4 
+
+35-39 
+
+194 
+
+30.0 
+
+173 
+
+27.2 
+
+367 
+
+28.6 
+
+40-45 
+
+370 
+
+57.2 
+
+373 
+
+58.7 
+
+743 
+
+58.0 
+
+Negative 
+
+289 
+
+44.7 
+
+288 
+
+45.4 
+
+577 
+
+45.0 
+
+Positive 
+
+358 
+
+55.3 
+
+347 
+
+54.6 
+
+705 
+
+55.0 
+
+,2 
+
+310 
+
+47.9 
+
+307 
+
+48.3 
+
+617 
+
+48.1 
+
+$2 
+
+337 
+
+52.1 
+
+328 
+
+51.7 
+
+665 
+
+51.9 
+
+P 
+
+Total Age at enrollment, years 
+
+.519 
+
+Lymph node status 
+
+.822 
+
+Tumor size, cm 
+
+.911 
+
+Tumor grade 
+
+.113 
+
+1 
+
+89 
+
+13.8 
+
+117 
+
+18.4 
+
+206 
+
+16.1 
+
+2 
+
+349 
+
+53.9 
+
+314 
+
+49.4 
+
+663 
+
+51.7 
+
+3 
+
+157 
+
+24.6 
+
+148 
+
+23.3 
+
+305 
+
+23.8 
+
+Unknown 
+
+52 
+
+8.0 
+
+56 
+
+8.8 
+
+108 
+
+8.4 
+
+Histology 
+
+.741 
+
+Invasive ductal carcinoma 
+
+570 
+
+88.1 
+
+564 
+
+88.8 
+
+1134 
+
+88.5 
+
+Invasive lobular carcinoma 
+
+33 
+
+5.1 
+
+27 
+
+4.3 
+
+60 
+
+4.7 
+
+Other 
+
+40 
+
+6.2 
+
+42 
+
+6.6 
+
+82 
+
+6.4 
+
+Unknown 
+
+4 
+
+0.6 
+
+2 
+
+0.3 
+
+6 
+
+0.5 
+
+Negative 
+
+386 
+
+59.7 
+
+390 
+
+61.4 
+
+776 
+
+60.5 
+
+Positive 
+
+92 
+
+14.2 
+
+84 
+
+13.2 
+
+176 
+
+13.7 
+
+Unknown 
+
+169 
+
+26.1 
+
+161 
+
+25.4 
+
+330 
+
+25.7 
+
+HER2 status 
+
+.792 
+
+Chemotherapy regimen 
+
+.884 
+
+Anthracycline plus cyclophosphamide 
+
+186 
+
+28.7 
+
+192 
+
+30.2 
+
+378 
+
+29.5 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+330 
+
+51.0 
+
+322 
+
+50.7 
+
+652 
+
+50.9 
+
+Anthracycline plus taxane 
+
+29 
+
+4.5 
+
+29 
+
+4.6 
+
+58 
+
+4.5 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+9 
+
+1.4 
+
+4 
+
+0.6 
+
+13 
+
+1.0 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+74 
+
+11.4 
+
+74 
+
+11.7 
+
+148 
+
+11.5 
+
+Other taxane-based regimens 
+
+7 
+
+1.1 
+
+6 
+
+0.9 
+
+13 
+
+1.0 
+
+Other nontaxane-based regimens 
+
+5 
+
+0.8 
+
+4 
+
+0.6 
+
+9 
+
+0.7 
+
+Unknown 
+
+7 
+
+1.1 
+
+4 
+
+0.6 
+
+11 
+
+0.9 
+
+Surgery 
+
+.804 
+
+Total mastectomy 
+
+260 
+
+40.2 
+
+244 
+
+38.4 
+
+504 
+
+39.3 
+
+Breast-conserving surgery 
+
+370 
+
+57.2 
+
+373 
+
+58.7 
+
+743 
+
+58.0 
+
+Unknown 
+
+17 
+
+2.6 
+
+18 
+
+2.8 
+
+35 
+
+2.7 
+
+Abbreviations: HER2, human epidermal growth factor receptor 2; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Kim et al 
+
+TABLE A2. Characteristics of All Enrolled Patients Group, No. 
+
+Characteristic 
+
+TAM Only 
+
+TAM + OFS 
+
+Non Randomly Assigned 
+
+Randomly Assigned and Excluded From Analysis 
+
+Total, No. 
+
+No. of patients 
+
+647 
+
+635 
+
+190 
+
+11 
+
+1,483 
+
+, 35 
+
+83 
+
+89 
+
+12 
+
+2 
+
+186 
+
+35-39 
+
+194 
+
+173 
+
+38 
+
+3 
+
+408 
+
+40-45 
+
+370 
+
+373 
+
+140 
+
+6 
+
+889 
+
+Negative 
+
+289 
+
+288 
+
+87 
+
+2 
+
+666 
+
+Positive 
+
+358 
+
+347 
+
+103 
+
+2 
+
+810 
+
+7 
+
+7 
+
+Age at enrollment, years 
+
+Lymph node status 
+
+Unknown Tumor size, cm ,2 
+
+310 
+
+307 
+
+94 
+
+5 
+
+716 
+
+$2 
+
+337 
+
+328 
+
+96 
+
+1 
+
+762 
+
+5 
+
+5 
+
+Unknown Tumor grade 1 
+
+89 
+
+117 
+
+28 
+
+1 
+
+235 
+
+2 
+
+349 
+
+314 
+
+94 
+
+1 
+
+758 
+
+3 
+
+157 
+
+148 
+
+44 
+
+3 
+
+352 
+
+Unknown 
+
+52 
+
+56 
+
+24 
+
+6 
+
+138 
+
+Invasive ductal carcinoma 
+
+570 
+
+564 
+
+175 
+
+6 
+
+1,315 
+
+Invasive lobular carcinoma 
+
+33 
+
+27 
+
+5 
+
+0 
+
+65 
+
+Other 
+
+40 
+
+42 
+
+10 
+
+0 
+
+92 
+
+Unknown 
+
+4 
+
+2 
+
+0 
+
+5 
+
+11 
+
+Negative 
+
+386 
+
+390 
+
+84 
+
+4 
+
+914 
+
+Positive 
+
+92 
+
+84 
+
+26 
+
+Unknown 
+
+169 
+
+161 
+
+80 
+
+7 
+
+417 
+
+Anthracycline plus cyclophosphamide 
+
+186 
+
+192 
+
+50 
+
+2 
+
+430 
+
+Anthracycline plus cyclophosphamide followed by taxane 
+
+330 
+
+322 
+
+93 
+
+2 
+
+747 
+
+Anthracycline plus taxane 
+
+29 
+
+29 
+
+14 
+
+Histology 
+
+HER2 status 
+
+202 
+
+Chemotherapy regimen 
+
+Anthracycline plus cyclophosphamide and taxane 
+
+9 
+
+4 
+
+2 
+
+Fluorouracil, anthracycline, and cyclophosphamide 
+
+74 
+
+74 
+
+30 
+
+Other taxane-based regimen 
+
+7 
+
+6 
+
+1 
+
+Other nontaxane-based regimen 
+
+5 
+
+4 
+
+Unknown 
+
+7 
+
+4 
+
+Total mastectomy 
+
+260 
+
+244 
+
+Breast-conserving surgery 
+
+370 
+
+Unknown 
+
+17 
+
+72 15 1 
+
+179 14 9 
+
+6 
+
+17 
+
+73 
+
+3 
+
+580 
+
+373 
+
+107 
+
+2 
+
+852 
+
+18 
+
+10 
+
+6 
+
+51 
+
+Surgery 
+
+Abbreviations: HER2, human epidermal growth factor receptor 2; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. 
+
+© 2019 by American Society of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+Adding Ovarian Suppression to Tamoxifen for Premenopausal Women 
+
+TABLE A3. Completion Rate of Two Years Gonadotropin-Releasing Hormone Agonist Administration Randomly Assigned, No. (%) Variable 
+
+Group E (initiated) 
+
+Group C (introduced) 
+
+Completed 
+
+56 (78.9) 
+
+397 (70.4) 
+
+Early discontinuation without recurrence 
+
+14 (19.7) 
+
+151 (26.8) 
+
+Early discontinuation with recurrence 
+
+1 (1.4) 
+
+16 (2.8) 
+
+Total 
+
+71 (100) 
+
+564 (100) 
+
+TABLE A4. Random Assignment at Each Visit on the Basis of FSH and Vaginal Bleeding History Group, No. (%) Variable 
+
+TAM Only 
+
+TAM + OFS 
+
+Total, No. (%) 
+
+71 (100) 
+
+83 (100) 
+
+154 
+
+243 (64.1) 
+
+238 (64.9) 
+
+481 (64.5) 
+
+Visit 1 FSH* Visit 2 FSH Vaginal bleeding Both 
+
+5 (1.3) 
+
+6 (1.6) 
+
+11 (1.5) 
+
+131 (34.6) 
+
+123 (33.5) 
+
+254 (34.0) 
+
+84 (73.0) 
+
+92 (73.0) 
+
+176 (73.0) 
+
+Visit 3 FSH Vaginal bleeding 
+
+8 (7.0) 
+
+6 (4.8) 
+
+14 (5.8) 
+
+Both 
+
+23 (20.0) 
+
+28 (22.2) 
+
+51 (21.2) 
+
+FSH 
+
+34 (79.1) 
+
+31 (73.8) 
+
+65 (76.5) 
+
+Vaginal bleeding 
+
+0 
+
+4 (9.5) 
+
+4 (4.7) 
+
+Both 
+
+9 (20.9) 
+
+7 (16.7) 
+
+16 (18.8) 
+
+FSH 
+
+20 (74.1) 
+
+20 (69.0) 
+
+40 (71.4) 
+
+Vaginal bleeding 
+
+2 (7.4) 
+
+3 (10.3) 
+
+5 (8.9) 
+
+Both 
+
+4 (14.8) 
+
+5 (17.2) 
+
+9 (16.1) 
+
+Ovarian function not resumed (randomization error) 
+
+1 (3.7) 
+
+1 (3.4) 
+
+2 (3.6) 
+
+FSH 
+
+464 (71.7) 
+
+452 (71.2) 
+
+916 (71.5) 
+
+Vaginal bleeding 
+
+15 (2.3) 
+
+19 (3.0) 
+
+34 (2.7) 
+
+Both 
+
+167 (25.8) 
+
+163 (25.7) 
+
+330 (25.7) 
+
+1 (0.2) 
+
+1 (0.2) 
+
+2 (0.2) 
+
+Visit 4 
+
+Visit 5 
+
+Total 
+
+Ovarian function not resumed (randomization error) 
+
+Abbreviations: FSH, follicle-stimulating hormone; TAM + OFS, tamoxifen plus ovarian function suppression group; TAM only, tamoxifen-only group. *On the basis of protocol, there was no record of vaginal bleeding at visit 1. 
+
+Journal of Clinical Oncology 
+
+Downloaded from ascopubs.org by UNIVERSITY OF TEXAS AT AUSTIN on September 13, 2019 from 128.083.063.020 Copyright © 2019 American Society of Clinical Oncology. All rights reserved. 
+
+ 

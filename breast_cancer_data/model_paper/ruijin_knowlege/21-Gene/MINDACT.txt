@@ -1,0 +1,1385 @@
+new england journal of medicine The 
+
+established in 1812 
+
+August 25, 2016 
+
+vol. 375 
+
+no. 8 
+
+70-Gene Signature as an Aid to Treatment Decisions in Early-Stage Breast Cancer F. Cardoso, L.J. van’t Veer, J. Bogaerts, L. Slaets, G. Viale, S. Delaloge, J.-Y. Pierga, E. Brain, S. Causeret, M. DeLorenzi, A.M. Glas, V. Golfinopoulos, T. Goulioti, S. Knox, E. Matos, B. Meulemans, P.A. Neijenhuis, U. Nitz, R. Passalacqua, P. Ravdin, I.T. Rubio, M. Saghatchian, T.J. Smilde, C. Sotiriou, L. Stork, C. Straehle, G. Thomas, A.M. Thompson, J.M. van der Hoeven, P. Vuylsteke, R. Bernards, K. Tryfonidis, E. Rutgers, and M. Piccart, for the MINDACT Investigators*​​ 
+
+a bs t r ac t BACKGROUND 
+
+The 70-gene signature test (MammaPrint) has been shown to improve prediction of clinical outcome in women with early-stage breast cancer. We sought to provide prospective evidence of the clinical utility of the addition of the 70-gene signature to standard clinical–pathological criteria in selecting patients for adjuvant chemotherapy. METHODS 
+
+In this randomized, phase 3 study, we enrolled 6693 women with early-stage breast cancer and determined their genomic risk (using the 70-gene signature) and their clinical risk (using a modified version of Adjuvant! Online). Women at low clinical and genomic risk did not receive chemotherapy, whereas those at high clinical and genomic risk did receive such therapy. In patients with discordant risk results, either the genomic risk or the clinical risk was used to determine the use of chemotherapy. The primary goal was to assess whether, among patients with high-risk clinical features and a low-risk gene-expression profile who did not receive chemotherapy, the lower boundary of the 95% confidence interval for the rate of 5-year survival without distant metastasis would be 92% (i.e., the noninferiority boundary) or higher. RESULTS 
+
+A total of 1550 patients (23.2%) were deemed to be at high clinical risk and low genomic risk. At 5 years, the rate of survival without distant metastasis in this group was 94.7% (95% confidence interval, 92.5 to 96.2) among those not receiving chemotherapy. The absolute difference in this survival rate between these patients and those who received chemother­apy was 1.5 percentage points, with the rate being lower without chemotherapy. Similar rates of survival without distant metastasis were reported in the subgroup of patients who had estrogen-receptor–positive, human epidermal growth factor receptor 2–negative, and either node-negative or node-positive disease. 
+
+The authors’ full names, academic degrees, and affiliations are listed in the Appendix. Address reprint requests to Dr. Cardoso at the Breast Unit, Champalimaud Clinical Center–Champalimaud Foundation, Lisbon, Portugal, or at ­mindact@​­eortc​.­be. * A complete list of the Microarray in Node-Negative and 1 to 3 Positive Lymph Node Disease May Avoid Chemotherapy (MINDACT) investigators is provided in the Supplementary Appendix, available at NEJM.org. Drs. Cardoso, van’t Veer, and Bogaerts and Drs. Rutgers and Piccart contributed equally to this article. This article was updated on August 25, 2016, at NEJM.org. N Engl J Med 2016;375:717-29. DOI: 10.1056/NEJMoa1602253 Copyright © 2016 Massachusetts Medical Society. 
+
+CONCLUSIONS 
+
+Among women with early-stage breast cancer who were at high clinical risk and low genomic risk for recurrence, the receipt of no chemotherapy on the basis of the 70-gene signature led to a 5-year rate of survival without distant metastasis that was 1.5 percentage points lower than the rate with chemotherapy. Given these findings, approximately 46% of women with breast cancer who are at high clinical risk might not require chemotherapy. (Funded by the European Commission Sixth Framework Program and others; ClinicalTrials.gov number, NCT00433589; EudraCT number, 2005-002625-31.) n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 
+
+717 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+W 
+
+omen with early-stage breast cancer are often treated with adjuvant systemic therapy consisting of chemotherapy, endocrine therapy, agents against human epidermal growth factor receptor 2 (HER2), or combinations of these drugs when appropriate. Treatment decisions are based on characteristics of the tumor (hormonal receptor and HER2 status, tumor grade and size, and lymph-node status) and of the patient (age, menopausal status, and performance status).1 Tools that incorporate these features, such as Adjuvant! Online2,3 and PREDICT Plus,4 were created to assist in such decision making. However, these algorithms do not take into account the individual biologic characteristics of the patient’s tumor.5 A substantial number of patients with breast cancer are overtreated and are thus being exposed to the risk of toxic effects from adjuvant therapy without deriving significant benefit. In 2007, respondents to an international survey identified the use of molecular signatures to select patients who could be spared adjuvant therapy as a high priority.6 Gene-expression profiling studies have distinguished at least four molecularly distinct types of breast cancer.7,8 Several genomic tests have been developed to better predict clinical outcome and to determine whether the addition of adjuvant chemotherapy to endocrine therapy is worthwhile.8,9 One such test, the 70-gene signature10 (MammaPrint), classifies tumors into groups that are associated with a good prognosis or a poor prognosis on the basis of the risk of distant recurrence at 5 years and at 10 years.11 An independent validation study by the TRANSBIG consortium, a network of some 40 partners in 21 countries associated with the Breast International Group (BIG), confirmed that the 70-gene signature, which has been approved by the Food and Drug Administration (FDA), is able to distinguish patients who are at significant risk for distant relapse and death from those at low risk.12 In this international, prospective, randomized, phase 3 study, called the Microarray in NodeNegative and 1 to 3 Positive Lymph Node Disease May Avoid Chemotherapy (EORTC 10041/ BIG 3-04 MINDACT) study, we sought to provide evidence of the clinical utility13-15 of the addition of the 70-gene signature to standard clinical– pathological criteria in selecting patients for adjuvant chemotherapy.16,17 Here, we report 5-year outcomes and the results of the treatment randomization for groups with discordance in risk. 718 
+
+n engl j med 375;8 
+
+Me thods Study Patients 
+
+From 2007 through 2011, we enrolled patients at 112 institutions in nine European countries. Eligible patients were women between the ages of 18 and 70 years with histologically confirmed primary invasive breast cancer (stage T1 or T2 or operable T3). In the initial study design, all the patients had to have lymph-node–negative disease, as described in the protocol, available with the full text of this article at NEJM.org. As of August 2009, the protocol was revised to allow the enrollment of women with up to three positive axillary nodes.18 The study design called for following all the patients according to local standards for at least 10 years; those receiving endocrine therapy will be followed for a minimum of 15 years. Written informed consent was obtained from all the patients. The protocol review committee of the European Organization for Research and Treatment of Cancer (EORTC) and the ethics committee at each participating site approved the study. Prognostic Tools 
+
+We used the 70-gene signature to determine genomic risk and Adjuvant! Online (version 8.0 with HER2 status) (www.adjuvantonline.com) to determine clinical risk (Fig. S7 in the Supplementary Appendix, available at NEJM.org). Details regarding clinical risk assessment according to the modified version of Adjuvant! Online are provided in Table S13 in the Supplementary Appendix. A frozen sample of the resected tumor was shipped on dry ice to Agendia for molecular diagnostic testing. The quantification of the tumor-cell percentage was followed by 70-gene profiling embedded in a whole-transcriptome array that is cleared for use by the FDA.19,20 Categorization into Risk Groups 
+
+A low clinical risk was defined as the 10-year probability of breast-cancer–specific survival without systemic therapy of more than 88% among women with estrogen receptor (ER)–positive tumors and more than 92% among women with ER-negative tumors, to account for the 4-percentage-point average absolute benefit of adjuvant endocrine therapy for ER-positive tumors. Patients with low-risk disease according to both 
+
+nejm.org 
+
+August 25, 2016 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+70-Gene Signature in Early Breast Cancer 
+
+clinical and genomic results were advised not to receive adjuvant chemotherapy, whereas patients who were categorized as having high-risk disease by both tests were advised to receive chemotherapy. Patients with discordant results (i.e., either high clinical risk and low genomic risk or low clinical risk and high genomic risk) were randomly assigned to the chemotherapy group or the no-chemotherapy group on the basis of either the clinical result or the genomic result. The treatment randomization used a minimization technique that was stratified according to in­ stitution, risk group, hormone-receptor status (ER-positive or progesterone [PR]-positive vs. ER-negative and PR-negative), nodal involvement (yes or no), age (<50 years vs. ≥50 years), HER2 status (HER2-positive vs. HER2-negative vs. unknown), axillary treatment (sentinel node only vs. dissection), and type of surgery (mastectomy vs. breast conservation). Additional (optional) randomizations were implemented in which patients who were assigned to receive adjuvant chemotherapy (either randomly because of discordant results or because of high-risk concordance of both tests) could be randomly assigned to receive an anthracyclinecontaining regimen or a docetaxel-plus-capecita­ bine regimen. Similarly, patients with hormonereceptor–positive breast cancer could undergo further randomization to a tamoxifen–letrozole regimen or a letrozole-only regimen. Details regarding the various therapy regimens are provided in the legend for Figure S7 in the Supplementary Appendix. Protocol Revisions 
+
+A change in the RNA-extraction solution that was used in the calculation of the 70-gene signature (a change that was not communicated by the manufacturer) caused a temporary shift in the risk calculation from May 24, 2009, to January 30, 2010, at which time the issue was discovered and rectified (Table S5 in the Supplementary Appendix). Because of this shift, 162 patients who had been identified as being at high genomic risk were subsequently identified as being at low genomic risk with the use of the correct solution (Tables S2 and S4 in the Supplementary Appendix). The retroactively recalibrated results were communicated to the independent data and safety monitoring committee, to all members of the ethics committees, to the investigators n engl j med 375;8 
+
+(who oversaw informing the patients), and to the TRANSBIG ethics committee. The clinical effect of this risk revision was that an additional 28 patients received chemotherapy before the results were corrected, although no patient was undertreated (Table S4 in the Supplementary Appendix). For 113 additional patients, the designations of clinical or genomic risk were corrected after enrollment, owing mainly to incorrect reporting of tumor characteristics at the time of enrollment (Tables S2 and S3 in the Supplementary Appendix). The actual risk after the correction of all types of errors is referred to as the “corrected risk.” The sample size was modified during the trial from 6000 patients to 6600 patients because the proportion of patients who were designated as being at low clinical and genomic risk was higher than was initially projected and because of the need to compensate for the change in solution used in RNA extraction. Study End Points 
+
+The primary end point was survival without distant metastasis (event-free rate at 5 years), as assessed in a time-to-event analysis. Secondary end points were the proportion of patients who received chemotherapy according to the clinical risk as compared with the genomic risk as well as overall survival and disease-free survival, as assessed in time-to-event analyses. Survival without distant metastasis was defined as the time until the first distant metastatic recurrence or death from any cause. Disease-free survival was defined as the time until first disease progression (locoregional, distant relapse, ipsilateral or contralateral invasive breast cancer, ductal carcinoma in situ, or an invasive second primary cancer) or death from any cause. Overall survival was defined as the time until death from any cause. Data for patients who had no event at the cutoff date for the final analysis were censored at the time of the last disease assessment for survival without distant metastasis and for disease-free survival and at the last follow-up date for overall survival. Study Oversight 
+
+The trial was overseen by the independent data and safety monitoring committee of the EORTC. A logistics pilot study validated the real-time centralized analysis of frozen samples in several European countries.19 The MINDACT pilot phase 
+
+nejm.org 
+
+August 25, 2016 
+
+719 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+(involving the first 800 enrolled patients) confirmed the feasibility of the study.21 Central pathological review revealed high concordance between local and central assessments22,23 (Table S12 in the Supplementary Appendix). All randomizations were performed centrally, initially at the International Drug Development Institute and, as of 2010, at the EORTC. Genomic profiling was performed by Agendia. The drugs that were administered during the study were provided by Novartis, Sanofi-Aventis, and F. Hoffmann–La Roche, which had no other role in the study, were not involved in the collection or analysis of the data, and did not contribute to the writing of the manuscript. Data collection and statistical analyses were performed at the EORTC. The analyses and the final version of the manuscript were approved by all the authors, who vouch for the accuracy and completeness of the data and the adherence of the study to the protocol. 
+
+ommended by either clinical risk or genomic risk alone. To have an unbiased estimate for this analysis, data for patients in the discordant-risk groups were doubly weighted, because they were underrepresented by a factor of two in the resulting sample. In the third analysis, we calculated the percentage of all enrolled patients who would be assigned to chemotherapy on the basis of either clinical risk or genomic risk. In the first two secondary analyses, we report the results according to the risk category and treatment assignment at the time of enrollment (intention-to-treat population). In the third secondary analysis and in all analyses according to risk group (namely, those for outcome, patient characteristics, eligibility, and adherence), we report the results according to the corrected risk group. Exploratory analyses that were defined prospectively in the protocol or in the statistical analysis plan or that were deemed to be of high clinical relevance are so described in the text Statistical Analysis and in the Supplementary Appendix. All analyThe primary analysis was designed to test ses were performed with the use of SAS softwhether, among patients with high-risk clinical ware, version 9.4 (SAS Institute). features and a low-risk gene-expression profile who did not receive chemotherapy, the lower R e sult s boundary of the 95% confidence interval for the rate of 5-year survival without distant metastasis Study Patients would be 92% (i.e., the noninferiority boundary) The cutoff date for the current analysis was or higher, at a one-sided significance level of March 1, 2016; the median follow-up was 5.0 0.025. The primary test was to be performed years. Between 2007 and 2011, a total of 11,288 when two conditions were met: the standard patients underwent screening and 6693 were error for the rate of survival without distant metas- enrolled in the study (Fig. S7 in the Supplementasis at 5 years was 0.01 or less and the percent- tary Appendix). Of the 4595 patients (40.7%) age of patients in the primary-test population who underwent screening but were not enrolled, with 5-year follow-up was 33% or more. A two- the main reasons were the unsuitability of tusided 95% confidence interval for the 5-year rate mor material for testing, a decision by the paof survival without distant metastasis of more tient or an investigator not to participate in the than 92% was considered to indicate statistical study, or other ineligibility factor (Table S1 in significance. Under these conditions, this test the Supplementary Appendix). has 80% power to reject the null hypothesis if The patients were divided into four main the true 5-year rate of survival without distant groups, according to their clinical and genomic metastasis is 95%. risk: low clinical risk and low genomic risk, In addition, three secondary analyses were which included 2745 patients (41.0%); low cliniplanned. In the first analysis, we evaluated the cal risk and high genomic risk, which included outcomes in patients in the discordant-risk 592 patients (8.8%); high clinical risk and low groups according to whether they were assigned genomic risk, which included 1550 patients to the chemotherapy group or the no-chemo- (23.2%); and high clinical risk and high genomic therapy group. In the second analysis, we evalu- risk, which included 1806 patients (27.0%). ated outcomes in all patients according to These numbers were calculated on the basis of whether the use of chemotherapy had been rec- the corrected risk (Fig. 1, and Table S2 in the 
+
+720 
+
+n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 224 Were included in the per-protocol population 
+
+254 Were included in the per-protocol population 
+
+592 Were included in the per-protocol population 
+
+636 Were included in the per-protocol population 
+
+644 Were included in the primary-test population 
+
+Primarytest Population 
+
+21 Had a change in risk 85 Received chemotherapy 1 Had unknown chemotherapy status 
+
+1873 Had high clinical risk and high genomic risk at enrollment 1806 Had high clinical risk and high genomic risk after correction 
+
+12 Were ineligible 21 Had a change in risk 85 Received chemotherapy 1 Had unknown chemotherapy status 
+
+748 Were not assigned to receive chemotherapy 
+
+11 Were ineligible 26 Had a change in risk 128 Did not receive chemotherapy 9 Had unknown chemotherapy status 
+
+749 Were assigned to receive chemotherapy 
+
+1497 Underwent randomization 
+
+1497 Had high clinical risk and low genomic risk at enrollment 1550 Had high clinical risk and low genomic risk after correction 
+
+Figure 1. Enrollment and Risk Groups Included in the Analyses. Patients were categorized into four risk groups on the basis of the 70-gene signature to determine genomic risk and Adjuvant! Online to determine clinical risk. Patients were further categorized according to their “corrected risk” after the discovery of risk changes due to factors including a change in the RNA-extraction solution while the study was ongoing (genomic risk) and incorrect reporting of clinical risk at enrollment (clinical risk). In the analyses according to risk group (namely, those for outcome, patient characteristics, eligibility, and adherence), the results are reported according to the corrected risk. The primary analysis was conducted in the primary-test population. This population included patients at high clinical risk and low genomic risk, who were randomly assigned to use the genomic risk for the decision to forgo chemotherapy and who adhered to the treatment assignment of no chemotherapy. Patients with changes in clinical or genomic risk were excluded from the primary-test population. Treatment-randomization analyses for the groups with discordant clinical and genomic risks were performed with the use of the risk at enrollment (intention-to-treat population). In the intention-to-treat population, patients were analyzed according to the randomized group, irrespective of adherence. The treatment-randomization analyses were repeated in the per-protocol population, which excluded patients who were ineligible, had a change in their clinical or genomic risk, or were nonadherent to the treatment assignment. (Patients could have more than one reason for exclusion.) 
+
+Per-Protocol Population 
+
+4 Were ineligible 53 Had a change in risk 42 Received chemotherapy 
+
+346 Were not assigned to receive chemotherapy 
+
+690 Underwent randomization 
+
+690 Had low clinical risk and high genomic risk at enrollment 592 Had low clinical risk and high genomic risk after correction 
+
+344 Were assigned to receive chemotherapy 
+
+4 Were ineligible 57 Had a change in risk 76 Did not receive chemotherapy 5 Had unknown chemotherapy status 
+
+Intention-to-Treat Population 
+
+2634 Had low clinical risk and low genomic risk at enrollment 2745 Had low clinical risk and low genomic risk after correction 
+
+6693 Women with invasive early-stage breast cancer were enrolled 
+
+70-Gene Signature in Early Breast Cancer 
+
+721 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 1. Characteristics of the Patients and Tumors at Baseline, According to Risk Group.* Characteristic 
+
+Low Clinical Risk Low Genomic Risk (N = 2745) 
+
+High Clinical Risk 
+
+High Genomic Risk (N = 592) 
+
+Low Genomic Risk (N = 1550) 
+
+All Patients (N = 6693) 
+
+High Genomic Risk (N = 1806) 
+
+number (percent) Age — yr <35 
+
+24 (0.9) 
+
+13 (2.2) 
+
+35 to <50 
+
+774 (28.2) 
+
+165 (27.9) 
+
+50 to 70 
+
+1928 (70.2) 
+
+403 (68.1) 
+
+19 (0.7) 
+
+11 (1.9) 
+
+<1 
+
+655 (23.9) 
+
+1 to 2 >2 to 5 
+
+>70 
+
+20 (1.3) 
+
+65 (3.6) 
+
+122 (1.8) 
+
+514 (33.2) 
+
+651 (36.0) 
+
+2104 (31.4) 
+
+1000 (64.5) 
+
+1080 (59.8) 
+
+4411 (65.9) 
+
+16 (1.0) 
+
+10 (0.6) 
+
+56 (0.8) 
+
+198 (33.4) 
+
+38 (2.5) 
+
+29 (1.6) 
+
+920 (13.7) 
+
+1968 (71.7) 
+
+383 (64.7) 
+
+610 (39.4) 
+
+914 (50.6) 
+
+3875 (57.9) 
+
+122 (4.4) 
+
+11 (1.9) 
+
+843 (54.4) 
+
+843 (46.7) 
+
+1819 (27.2) 
+
+0 
+
+0 
+
+58 (3.7) 
+
+20 (1.1) 
+
+78 (1.2) 
+
+Tumor size — cm† 
+
+>5 Tumor grade‡ 1 
+
+1242 (45.2) 
+
+92 (15.5) 
+
+98 (6.3) 
+
+15 (0.8) 
+
+1447 (21.6) 
+
+2 
+
+1457 (53.1) 
+
+414 (69.9) 
+
+995 (64.2) 
+
+421 (23.3) 
+
+3287 (49.1) 
+
+3 
+
+36 (1.3) 
+
+83 (14.0) 
+
+443 (28.6) 
+
+1365 (75.6) 
+
+1927 (28.8) 
+
+Missing data 
+
+10 (0.4) 
+
+3 (0.5) 
+
+14 (0.9) 
+
+5 (0.3) 
+
+32 (0.5) 
+
+2570 (93.6) 
+
+577 (97.5) 
+
+812 (52.4) 
+
+1329 (73.6) 
+
+5288 (79.0) 
+
+1 node 
+
+131 (4.8) 
+
+10 (1.7) 
+
+505 (32.6) 
+
+296 (16.4) 
+
+942 (14.1) 
+
+2 nodes 
+
+26 (0.9) 
+
+3 (0.5) 
+
+157 (10.1) 
+
+114 (6.3) 
+
+300 (4.5) 
+
+3 nodes 
+
+18 (0.7) 
+
+2 (0.3) 
+
+69 (4.5) 
+
+65 (3.6) 
+
+154 (2.3) 
+
+≥4 nodes 
+
+0 
+
+0 
+
+6 (0.4) 
+
+2 (0.1) 
+
+8 (0.1) 
+
+2741 (99.9) 
+
+535 (90.4) 
+
+1520 (98.1) 
+
+1118 (61.9) 
+
+5914 (88.4) 
+
+4 (0.1) 
+
+57 (9.6) 
+
+29 (1.9) 
+
+688 (38.1) 
+
+778 (11.6) 
+
+Negative 
+
+2641 (96.2) 
+
+518 (87.5) 
+
+1423 (91.8) 
+
+1461 (80.9) 
+
+6043 (90.3) 
+
+Positive 
+
+97 (3.5) 
+
+73 (12.3) 
+
+124 (8.0) 
+
+344 (19.0) 
+
+638 (9.5) 
+
+Missing data 
+
+7 (0.3) 
+
+1 (0.2) 
+
+3 (0.2) 
+
+1 (0.1) 
+
+12 (0.2) 
+
+Luminal HER2-negative: ER-positive, PR-positive, or both 
+
+2638 (96.1) 
+
+467 (78.9) 
+
+1402 (90.5) 
+
+895 (49.6) 
+
+5402 (80.7) 
+
+Luminal HER2-positive: ER-positive, PR-positive, or both 
+
+96 (3.5) 
+
+68 (11.5) 
+
+115 (7.4) 
+
+222 (12.3) 
+
+501 (7.5) 
+
+Nonluminal HER2-positive: ER-negative, PR-negative 
+
+1 (<0.1) 
+
+5 (0.8) 
+
+9 (0.6) 
+
+122 (6.8) 
+
+137 (2.0) 
+
+Triple negative: ER-negative, PR-negative, HER2-negative 
+
+3 (0.1) 
+
+51 (8.6) 
+
+20 (1.3) 
+
+566 (31.3) 
+
+640 (9.6) 
+
+Missing data 
+
+7 (0.3) 
+
+1 (0.2) 
+
+4 (0.3) 
+
+1 (0.1) 
+
+13 (0.2) 
+
+Lymph-node status§ Negative Positive 
+
+Hormone-receptor status¶ ER-positive, PR-positive, or both ER-negative and PR-negative HER2 status‖ 
+
+Clinical–pathological subtype** 
+
+722 
+
+n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+70-Gene Signature in Early Breast Cancer 
+
+Table 1. (Continued.) Characteristic 
+
+Low Clinical Risk Low Genomic Risk (N = 2745) 
+
+High Clinical Risk 
+
+High Genomic Risk (N = 592) 
+
+Low Genomic Risk (N = 1550) 
+
+All Patients (N = 6693) 
+
+High Genomic Risk (N = 1806) 
+
+number (percent) WHO performance status†† 0 
+
+2644 (96.3) 
+
+565 (95.4) 
+
+1491 (96.2) 
+
+1734 (96.0) 
+
+6434 (96.1) 
+
+1 
+
+101 (3.7) 
+
+27 (4.6) 
+
+58 (3.7) 
+
+71 (3.9) 
+
+257 (3.8) 
+
+2 
+
+0 
+
+0 
+
+1 (0.1) 
+
+1 (0.1) 
+
+2 (<0.1) 
+
+*	Data were missing for one patient at high clinical and low genomic risk with respect to tumor size, lymph-node status, and hormone-­ receptor status. Percentages may not total 100 because of rounding. ER denotes estrogen receptor, HER2 human epidermal growth factor ­receptor, and PR progesterone receptor. †	A majority of patients at high clinical risk and low genomic risk (54%) had tumors measuring 2 to 5 cm in diameter. Most of the patients at low clinical and genomic risk (96%) and at low clinical and high genomic risk (98%) had tumors measuring 2 cm or less, as did 52% of the patients at high clinical and genomic risk. ‡	More than three quarters (76%) of patients at high clinical and genomic risk had grade 3 tumors. Most patients at low clinical and genomic risk, low clinical and high genomic risk, and high clinical and low genomic risk had grade 1 or 2 tumors (98%, 85%, and 71%, respectively). §	The presence of negative lymph nodes was substantially more frequent among patients at low clinical and genomic risk (94%) and low clinical and high genomic risk (97%) than among patients at high clinical and low genomic risk (52%) and high clinical and genomic risk (74%). ¶	Almost all tumors were positive for hormone receptors except among patients at high clinical and genomic risk, in whom 38% of tumors were hormone-receptor–negative. Hormone receptor positivity was defined as the presence of at least 1% of immunoreactive cells, an Allred score of more than 2 (on a scale from 0 to 8, with higher scores indicating a greater number of receptors), or a level of cytosolic protein of at least 10 fmol per milligram. ‖	HER-2 positivity was reported in 4% of patients at low clinical and genomic risk, 12% of those at low clinical and high genomic risk, 8% of those at high clinical and low genomic risk, and 19% of those at high clinical and genomic risk. **	Specifically, among patients at high clinical and low genomic risk, 48% had node-positive disease, 58% of tumors measured 2 cm or more, and 90% had the luminal HER2-negative subtype. ††	The World Health Organization performance scores range from 0 to 5, with 0 denoting perfect health and 5 death. 
+
+Supplementary Appendix). For reference, the clinical classification that is based on the modified version of Adjuvant! Online is provided in Table S13 in the Supplementary Appendix. The characteristics of the patients and the tumors are provided in Table 1. The median age of the patients was 55 years (range, 23 to 71); 79.0% of the patients had node-negative disease, and 20.9% had one to three positive nodes. (Micrometastases measuring 0.2 to 2 mm were considered to be node-positive, and isolated tumor cells were considered to be node-negative.) A total of 88.4% of the tumors expressed ER, PR, or both, and 9.5% were HER2-positive. Eligibility and Adherence in the DiscordantRisk Groups 
+
+A total of 75 patients (1.1%) were found to be ineligible. In the discordant-risk groups, overall adherence to the chemotherapy assignment was 86%. Among patients who were at high clinical risk and low genomic risk, the rate of adherence n engl j med 375;8 
+
+was 85% among those in the chemotherapy group and 89% among those in the no-chemotherapy group. Among patients at low clinical risk and high genomic risk, the rates of adherence were 80% and 88%, respectively (Table S11 in the Supplementary Appendix). Primary Outcome 
+
+The criteria for the primary analysis were met: the percentage of patients with 5-year follow-up was 60% (>33%), and the standard error for the rate of survival without distant metastasis at 5 years was 0.0094 (<0.01). At 5 years, patients who were at high clinical risk and low genomic risk who did not receive adjuvant chemotherapy (primary-test population) had a rate of survival without distant metastasis of 94.7% (95% confidence interval [CI], 92.5 to 96.2); thus, the primary objective of the study (i.e., to show whether the lower boundary of the 95% confidence interval for the rate of survival without distant metastasis would be at least 92%) was achieved. 
+
+nejm.org 
+
+August 25, 2016 
+
+723 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Prespecified Secondary Analyses 
+
+Chemotherapy versus no Chemotherapy 
+
+Among patients in the intention-to-treat population at high clinical risk and low genomic risk at enrollment, those who underwent randomization on the basis of clinical risk (and therefore received chemotherapy) had a 5-year rate of survival without distant metastasis of 95.9% (95% CI, 94.0 to 97.2), whereas those who underwent randomization on the basis of genomic risk (and therefore received no chemotherapy) had a rate of 94.4% (95% CI, 92.3 to 95.9) — 1.5 percentage points lower than the rate among those who received chemotherapy (adjusted hazard ratio for distant metastasis or death with chemotherapy vs. no chemotherapy, 0.78; 95% CI, 0.50 to 1.21; P = 0.27) (Fig. 2A and Table S15 in the Supplementary Appendix). Among patients at low clinical risk and high genomic risk, those who underwent randomization on the basis of genomic risk (and therefore received chemotherapy) had a 5-year rate of survival without distant metastasis of 95.8% (95% CI, 92.9 to 97.6), as compared with a rate of 95.0% (95% CI, 91.8 to 97.0%) among those who underwent randomization on the basis of clinical risk (and therefore received no chemotherapy) (adjusted hazard ratio for distant metastasis or death with chemotherapy vs. no chemotherapy, 1.17; 95% CI, 0.59 to 2.28; P = 0.66) (Fig. 2B). This finding does not show any advantage of directing therapy on the basis of genomic risk among patients at low clinical risk but high genomic risk, since these patients had no benefit from the use of adjuvant chemotherapy. In addition, among patients in the discordantrisk groups, there was no significant difference between the chemotherapy group and the nochemotherapy group with respect to disease-free survival (Fig. 2C and 2D) and overall survival (Fig. 2E and 2F). Sensitivity analyses in the perprotocol population are provided in Table 2. Data regarding intervals without distant metastasis are shown in Figure S6 in the Supplementary Appendix. 
+
+Figure 2 (facing page). Survival without Distant ­Metastasis, Disease-free Survival, and Overall Survival in the Two Discordant-Risk Groups, According to ­Randomized Treatment. Shown are the three major survival outcomes — survival without distant metastasis (Panels A and B), diseasefree survival (Panels C and D), and overall survival (Panels E and F) — among patients with discordant risk (i.e., high clinical risk and low genomic risk or low clinical risk and high genomic risk), according to the randomized treatment. This analysis was performed in the intention-to-treat population, which included patients who had discordant risk at the time of enrollment and who were analyzed according to treatment assignment. Time-to-event curves were estimated by means of the Kaplan–Meier method. The insets show the same data on an expanded y axis. 
+
+were categorized as being at high genomic risk (592 with low clinical risk and 1806 with high clinical risk). Thus, of the 6693 patients, the difference between the two strategies (clinical risk vs. genomic risk) for chemotherapy administration would be 958 patients (14.3%). Among all patients at high clinical risk, the use of the 70gene signature to guide chemotherapy treatment would lead to a reduction in the use of adjuvant chemotherapy in 1550 of 3356 patients (46.2%). Chemotherapy Recommendation on the Basis of Only Clinical or Genomic Risk 
+
+We also estimated outcomes in all patients if the use of chemotherapy had been recommended by either clinical risk or genomic risk alone. At 5 years, the rate of survival without distant metastasis would have been 95.0% with the clinical-risk strategy alone and 94.7% with the genomic-risk strategy alone — in other words, with similar outcomes but with a much lower use of chemotherapy according to the genomicrisk strategy (Fig. S1 in the Supplementary Appendix). Prespecified Exploratory Analyses 
+
+We also conducted a subgroup analysis according to nodal status with data from patients at high clinical risk and low genomic risk. Among Genomic Risk versus Clinical Risk patients with node-negative disease, the rate of Overall, 3356 patients were categorized as being survival without distant metastasis was 95.7% at high clinical risk (1550 with low genomic risk (95% CI, 93.0 to 97.4) in the chemotherapy group and 1806 with high genomic risk), and 2398 and 93.2% (95% CI, 90.1 to 95.4) in the no- 
+
+724 
+
+n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+70-Gene Signature in Early Breast Cancer 
+
+A High Clinical Risk, Low Genomic Risk 
+
+B Low Clinical Risk, High Genomic Risk 
+
+100 
+
+100 Chemotherapy 
+
+95 
+
+70 60 
+
+No chemotherapy 
+
+90 
+
+50 
+
+85 
+
+40 30 
+
+80 0 
+
+20 10 0 
+
+90 
+
+100 
+
+80 
+
+0 
+
+1 
+
+2 
+
+0 
+
+1 
+
+3 
+
+2 
+
+3 
+
+4 
+
+4 
+
+5 
+
+5 6 
+
+6 
+
+7 
+
+7 
+
+8 
+
+9 
+
+8 
+
+Survival without Distant Metastasis (%) 
+
+Survival without Distant Metastasis (%) 
+
+90 
+
+100 
+
+80 
+
+No chemotherapy 
+
+95 
+
+70 60 
+
+90 
+
+50 
+
+Chemotherapy 
+
+85 
+
+40 
+
+80 0 
+
+30 20 
+
+0 
+
+10 0 
+
+9 
+
+0 
+
+1 
+
+2 
+
+1 
+
+3 
+
+2 4 
+
+Year 
+
+3 
+
+4 
+
+5 
+
+5 
+
+6 
+
+7 
+
+8 
+
+6 
+
+7 
+
+8 
+
+81 82 
+
+22 24 
+
+0 3 
+
+9 9 
+
+Year No. at risk 
+
+No. at risk 749 714 698 677 611 346 145 Chemotherapy No chemotherapy 748 727 708 696 655 424 160 
+
+41 41 
+
+3 4 
+
+Chemotherapy 344 321 316 306 281 179 No chemotherapy 346 336 327 319 291 178 
+
+C High Clinical Risk, Low Genomic Risk 
+
+D Low Clinical Risk, High Genomic Risk 
+
+100 
+
+100 
+
+80 
+
+Chemotherapy 
+
+95 
+
+70 60 
+
+90 
+
+50 
+
+85 
+
+40 
+
+No chemotherapy 
+
+80 0 
+
+30 20 
+
+0 
+
+10 0 
+
+90 
+
+100 
+
+Disease–free Survival (%) 
+
+Disease–free Survival (%) 
+
+90 
+
+0 
+
+1 
+
+2 
+
+1 
+
+3 
+
+2 4 
+
+3 
+
+4 
+
+5 
+
+5 6 
+
+6 
+
+7 
+
+7 
+
+8 8 
+
+9 
+
+100 
+
+80 
+
+95 
+
+70 60 
+
+90 
+
+50 
+
+85 
+
+40 
+
+No chemotherapy 80 0 
+
+30 20 
+
+0 
+
+10 0 
+
+9 
+
+Chemotherapy 
+
+0 
+
+1 
+
+2 
+
+3 
+
+1 
+
+2 4 
+
+Year 
+
+3 5 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+6 
+
+7 
+
+8 
+
+75 73 
+
+20 23 
+
+0 3 
+
+9 9 
+
+Year 
+
+No. at risk 
+
+No. at risk 
+
+Chemotherapy 749 712 694 666 597 336 142 No chemotherapy 748 722 695 681 633 405 152 
+
+41 38 
+
+3 4 
+
+Chemotherapy 344 321 313 300 274 172 No chemotherapy 346 336 320 311 278 167 
+
+E High Clinical Risk, Low Genomic Risk 
+
+F Low Clinical Risk, High Genomic Risk 
+
+100 
+
+100 100 
+
+80 
+
+95 
+
+70 60 
+
+No chemotherapy 
+
+90 
+
+50 
+
+85 
+
+40 
+
+80 0 
+
+30 20 
+
+0 
+
+10 0 
+
+90 
+
+Chemotherapy 
+
+Overall Survival (%) 
+
+Overall Survival (%) 
+
+90 
+
+0 
+
+1 
+
+2 
+
+3 
+
+1 
+
+2 4 
+
+3 5 
+
+4 
+
+5 6 
+
+6 7 
+
+7 
+
+8 8 
+
+9 
+
+100 
+
+80 
+
+95 
+
+70 60 
+
+Chemotherapy 
+
+90 
+
+50 
+
+85 
+
+40 
+
+80 0 
+
+30 20 10 0 
+
+No chemotherapy 
+
+2 
+
+3 
+
+4 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+6 
+
+7 
+
+8 
+
+Chemotherapy 344 325 320 311 286 182 No chemotherapy 346 339 332 324 296 184 
+
+81 88 
+
+22 24 
+
+2 3 
+
+0 
+
+2 
+
+1 
+
+5 
+
+9 
+
+1 
+
+0 
+
+9 9 
+
+Year 
+
+Year No. at risk 
+
+No. at risk 
+
+Chemotherapy 749 719 702 687 625 363 154 No chemotherapy 748 733 719 713 676 439 168 
+
+n engl j med 375;8 
+
+44 43 
+
+4 4 
+
+nejm.org 
+
+August 25, 2016 
+
+725 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 2. Outcome According to Discordant Risk Group and Treatment Strategy (Per-Protocol Population).* 
+
+Chemotherapy 
+
+No. of Patients 
+
+No. of Events 
+
+Percentage with Outcome at 5 Yr (95% CI) 
+
+Hazard Ratio (95% CI)† 
+
+P Value‡ 
+
+Using clinical risk 
+
+Yes 
+
+592 
+
+22 
+
+96.7 (94.7–98.0) 
+
+0.65 (0.38–1.10) 
+
+0.11 
+
+Using genomic risk 
+
+No 
+
+636 
+
+37 
+
+94.8 (92.6–96.3) 
+
+1.00 
+
+Using clinical risk 
+
+Yes 
+
+592 
+
+39 
+
+93.3 (90.7–95.2) 
+
+0.64 (0.43–0.95) 
+
+Using genomic risk 
+
+No 
+
+636 
+
+66 
+
+90.3 (87.6–92.4) 
+
+1.00 
+
+Using clinical risk 
+
+Yes 
+
+592 
+
+10 
+
+98.8 (97.4–99.5) 
+
+0.63 (0.29–1.37) 
+
+Using genomic risk 
+
+No 
+
+636 
+
+18 
+
+97.3 (95.6–98.4) 
+
+1.00 
+
+Using genomic risk 
+
+Yes 
+
+224 
+
+11 
+
+96.1 (92.4–98.1) 
+
+0.90 (0.40–2.01) 
+
+Using clinical risk 
+
+No 
+
+254 
+
+14 
+
+93.9 (89.6–96.5) 
+
+1.00 
+
+Using genomic risk 
+
+Yes 
+
+224 
+
+17 
+
+92.7 (87.9–95.7) 
+
+0.74 (0.40–1.39) 
+
+Using clinical risk 
+
+No 
+
+254 
+
+25 
+
+90.5 (85.7–93.8) 
+
+1.00 
+
+Using genomic risk 
+
+Yes 
+
+224 
+
+5 
+
+98.1 (94.9–99.3) 
+
+0.72 (0.23–2.24) 
+
+Using clinical risk 
+
+No 
+
+254 
+
+8 
+
+97.0 (93.8–98.6) 
+
+1.00 
+
+Risk Group, Outcome, and Treatment Strategy High clinical risk and low genomic risk Survival without distant metastasis 
+
+Disease-free survival 0.03 
+
+Overall survival 0.25 
+
+Low clinical risk and high genomic risk Survival without distant metastasis 0.80 
+
+Disease-free survival 0.36 
+
+Overall survival 0.57 
+
+*	Excluded from the per-protocol analysis were patients who were ineligible (because of such factors as unknown or out-of-range results on laboratory testing and changes in nodal status), had a change in their clinical or genomic risk, or were noncompliant with the treatment ­assignment. †	Hazard ratios for distant metastasis, disease progression, and death were calculated with the use of a Cox model after adjustment for the factors used in stratification for randomization assignments. The reference group is no chemotherapy. ‡	P values correspond to the Wald test of the adjusted Cox model. 
+
+chemotherapy group; among patients with nodepositive disease, the rates were 96.3% (95% CI, 93.1 to 98.1) in the chemotherapy group and 95.6 (95% CI, 92.7 to 97.4) in the no-chemotherapy group (Fig. S2 in the Supplementary Appendix). In the subgroup of patients with ER-positive, HER2-negative, and node-negative disease, the rate of survival without distant metastasis was 95.5% (95% CI, 92.5 to 97.3) among patients in the chemotherapy group and 93.9% (95% CI, 90.6 to 96.1) in the no-chemotherapy group, a survival rate that was 1.6 percentage points lower among patients who did not receive chemotherapy than among those who did (Fig. S5 in the Supplementary Appendix). Figure 3 shows the survival without distant metastasis for the four risk groups among all enrolled patients. (Rates of disease-free and 726 
+
+n engl j med 375;8 
+
+overall survival are provided in Table S6 in the Supplementary Appendix.) Overall, 362 of 6693 patients (5.4%) either had distant metastasis (in 266 patients [73.5%]) or died from any cause in the absence of distant recurrence (96 patients [26.5%]). The 70-gene signature was significantly associated with survival without distant metastasis after adjustment for chemotherapy use, clinical risk, and patient and tumor characteristics in a multivariate analysis (hazard ratio for distant metastasis or death with chemotherapy vs. no chemotherapy, 2.41; 95% CI, 1.79 to 3.26 for patients at high genomic risk vs. those at low genomic risk; P<0.001) (Table S10 in the Supplementary Appendix). 
+
+nejm.org 
+
+August 25, 2016 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+70-Gene Signature in Early Breast Cancer 
+
+Discussion 
+
+100 
+
+n engl j med 375;8 
+
+Low clinical and genomic 
+
+90 
+
+Survival without Distant Metastasis (%) 
+
+In our study, we found important tradeoffs with respect to the use of the 70-gene signature in patients with early-stage breast cancer who were deemed to be at high risk for recurrence on the basis of clinical and pathological factors. At a median follow-up of 5 years, patients who were classified as high risk according to clinical– pathological factors and who therefore would have been usual candidates for adjuvant chemotherapy were able to forgo chemotherapy on the basis of a low genomic risk, which resulted in a rate of survival without distant metastasis that was an average of 1.5 percentage points lower than the rate among those who received chemotherapy. Among these patients at high clinical risk and low genomic risk, 48% had node-positive disease, 93% had grade 2 or 3 disease, and 34% were 50 years of age or younger — all features that usually indicate high risk. Similar results were obtained for the subgroup of patients with ER-positive, HER2-negative tumors, as well as for subgroups of patients who had node-negative disease or who had one to three positive nodes. We found an overall discordance rate of 32% between the two risk-assignment methods. For patients at high clinical risk who had one positive node (801 patients) or two or three positive nodes (405 patients), the 70-gene signature indicated a low risk of disease for 505 (63.0%) and 226 (55.8%), respectively. Therefore, the study suggests that the biologic characteristics of the tumor are as important as tumor burden with respect to treatment decisions and patients’ outcomes, even among patients with one to three positive nodes. We report 5-year median follow-up results. It is recognized that adjuvant chemotherapy exerts most of its beneficial effects early in the course of the disease (i.e., during the first 5 years), thus justifying our primary end point.24 Since the majority of tumors in our study population were considered to be “luminal,” with a continuing risk of relapse beyond 5 years, we acknowledge that long-term follow-up and outcome data will be essential, and we are collecting those data. Hazards for events can have a complex time dependence, and Adjuvant! Online and the 70-gene signature were validated for 10-year outcomes; therefore, the planned 10-year follow-up analysis may be of interest. 
+
+80 
+
+High clinical, low genomic 
+
+Low clinical, high genomic 
+
+70 60 
+
+High clinical and genomic 
+
+50 40 30 20 10 0 
+
+0 
+
+2 
+
+4 
+
+6 
+
+8 
+
+10 
+
+Year No. at Risk Low clinical and 2745 genomic risk Low clinical, high 592 genomic risk High clinical, low 1550 genomic risk High clinical and 1806 genomic risk 
+
+2628 
+
+2331 
+
+735 
+
+33 
+
+550 
+
+484 
+
+136 
+
+2 
+
+1457 
+
+1317 
+
+311 
+
+9 
+
+1689 
+
+1462 
+
+395 
+
+11 
+
+Figure 3. Survival without Distant Metastasis in the Four Risk Groups. The analysis includes all enrolled patients, and the risk groups are based on corrected risk. The time-to-event curves were estimated by means of the Kaplan–Meier method. 
+
+At 5 years, patients who were classified as being at high risk according to both clinical and genomic methods had the lowest rate of survival without distant metastasis (90.6%), whereas those who were classified as being at low risk by both methods had the highest rate (97.6%) and those with discordant assessments had an intermediate rate (approximately 95%) (Table S6 in the Supplementary Appendix). We used Adjuvant! Online for clinical prediction, since it provided a practical and homogeneous way of assessing clinical–pathological risk and created a transparent, unambiguous control group. The dichotomous cutoff was chosen by a consensus of all TRANSBIG partners, including patient representatives, to define a situation in which the absolute benefit of chemotherapy would balance its associated side effects. However, a risk–benefit assessment and decisions with respect to the use of adjuvant chemotherapy are subjective and highly variable among physicians, and even national and international guidelines differ in their recommendations. Ultimately, the decision to receive or forgo chemotherapy (or any other treatment) lies with each patient who is properly informed about the potential side effects and the 
+
+nejm.org 
+
+August 25, 2016 
+
+727 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+potential benefits of such treatment. For the same risk–benefit scenario, different patients may make different decisions. In the critical group of patients at high clinical risk and low genomic risk, the use of adjuvant chemotherapy led to a trend toward a higher rate of the 5-year outcome than that with no chemotherapy, which included a rate of survival without distant metastasis that was 1.5 percentage points higher, a rate of disease-free survival that was 2.8 percentage points higher, and a rate of overall survival that was 1.4 percentage points higher with chemotherapy than with no chemotherapy in the intention-to-treat population and a rate of survival without distant metastasis that was 1.9 percentage points higher, a rate of disease-free survival that was 3 percentage points higher, and a rate of overall survival that was 1.5 percentage points higher with chemotherapy than with no chemotherapy in the per-protocol population. The study was not powered to assess the statistical significance of these differences. Some 50% of the study patients were defined as being at low clinical risk. In this group, we did not find any meaningful difference in the 5-year rate of survival without distant metastasis between patients at high genomic risk who received chemotherapy and those who did not receive chemotherapy. On the basis of these data, the results for the 70-gene signature do not provide evidence for making recommendations regarding chemotherapy for patients at low clinical risk. In clinical practice, genomic testing 
+
+is best used in combination with clinical–pathological factors, since the gene signature has an added and independent prognostic value. In conclusion, in a large group of patients at high clinical risk for breast-cancer recurrence, the addition of the 70-gene signature to the traditional clinical and pathological factors provided valuable information for considering which patients might benefit from adjuvant chemotherapy. We found that chemotherapy with its attendant toxic effects could be avoided in these patients at high clinical risk but low genomic risk at a cost of a risk of distant metastasis at 5 years that is 1.5 percentage points higher. Follow-up is ongoing to determine whether these conclusions remain valid for longer-term outcome. Supported by grants from the European Commission Sixth Framework Program (FP6-LSHC-CT-2004-503426, to the TRANSBIG Network of Excellence), the Breast Cancer Research Foundation, Novartis, F. Hoffmann–La Roche, Sanofi-Aventis, Eli Lilly, Veridex, the U.S. National Cancer Institute, the European Breast Cancer Council–Breast Cancer Working Group (BCWG grant for the MINDACT biobank), the Jacqueline Seroussi Memorial Foundation for Cancer Research (JSMF; 2006 JSMF Award), Prix Mois du Cancer du Sein (2004 award), Susan G. Komen for the Cure (SG05-0922-02), Fondation Belge contre le Cancer (SCIE 2005-27), Dutch Cancer Society (KWF), the Netherlands Genomics Initiative–Cancer Genomics Center (2008-2012), Association le Cancer du Sein, Parlons-en!, the Brussels Breast Cancer Walk-Run and the American Women’s Club of Brussels, NIF Trust, German Cancer Aid, the Grant Simpson Trust and Cancer Research UK, Ligue Nationale contre le Cancer, and the EORTC Cancer Research Fund. Whole-genome analysis was provided by Agendia without cost. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. 
+
+Appendix The authors’ full names and academic degrees are as follows: Fatima Cardoso, M.D., Laura J. van’t Veer, Ph.D., Jan Bogaerts, Ph.D., Leen Slaets, Ph.D., Giuseppe Viale, M.D., Suzette Delaloge, M.D., Jean‑Yves Pierga, M.D., Ph.D., Etienne Brain, M.D., Ph.D., Sylvain Causeret, M.D., Mauro DeLorenzi, Ph.D., Annuska M. Glas, Ph.D., Vassilis Golfinopoulos, M.D., Ph.D., Theodora Goulioti, M.D., Susan Knox, M.A., Erika Matos, M.D., Bart Meulemans, M.Sc., Peter A. Neijenhuis, M.D., Ulrike Nitz, M.D., Ph.D., Rodolfo Passalacqua, M.D., Peter Ravdin, M.D., Isabel T. Rubio, M.D., Mahasti Saghatchian, M.D., Tineke J. Smilde, M.D., Ph.D., Christos Sotiriou, M.D., Ph.D., Lisette Stork, M.Sc., Carolyn Straehle, Ph.D., Geraldine Thomas, Ph.D., Alastair M. Thompson, M.D., Jacobus M. van der Hoeven, M.D., Ph.D., Peter Vuylsteke, M.D., René Bernards, Ph.D., Konstantinos Tryfonidis, M.D., Emiel Rutgers, M.D., Ph.D., and Martine Piccart, M.D., Ph.D. The authors’ affiliations are as follows: Champalimaud Clinical Center–Champalimaud Foundation, Lisbon, Portugal (F.C.); Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco (L.J.V.); European Organization for Research and Treatment of Cancer Headquarters (J.B., L. Slaets, V.G., B.M., K.T.), Breast International Group Headquarters (T.G., C. Straehle), and Institut Jules Bordet, Université Libre de Bruxelles (C. Sotiriou, M.P.), Brussels, and Centre Hospitalier Universitaire Université Catholique de Louvain, Namur (P.V.) — both in Belgium; University of Milan and Istituto Europeo di Oncologia (G.V.) and Europa Donna–European Breast Cancer Coalition (S.K.), Milan, and Azienda Istituti Ospitalieri di Cremona, Cremona (R.P.) — both in Italy; Gustave Roussy, Villejuif (S.D., M.S.), Institut Curie Paris Sciences et Lettres, Université Paris Descartes, Sorbonne Paris Cité, Paris (J.-Y.P.). Institut Curie–Hôpital Rene Huguenin, Saint-Cloud (E.B.), and Centre Georges-Francois-Leclerc, Dijon (S.C.) — all in France; Swiss Institute of Bioinformatics and University of Lausanne, Lausanne, Switzerland (M.D.); Agendia (A.M.G., L. Stork) and the Netherlands Cancer Institute (R.B., E.R.), Amsterdam, Alrijne Ziekenhuis, Rijnland Leiderdorp (P.A.N.), Jeroen Bosch Hospital, ’s-Hertogenbosch (T.J.S.), and Medisch Centrum Alkmaar, Alkmaar (J.M.H.) — all in the Netherlands; Institute of Oncology, Ljubljana, Slovenia (E.M.); Evangelisches Krankenhaus Bethesda, Duisburg, Germany (U.N.); University of Texas Health Sciences Center, San Antonio (P.R.); Hospital Universitario Vall d’Hebron, Barcelona (I.T.R.); Imperial College London, London (G.T.); and University of Texas M.D. Anderson Cancer Center, Houston (A.M.T.). 
+
+728 
+
+n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+70-Gene Signature in Early Breast Cancer 
+
+References 1. Coates AS, Winer EP, Goldhirsch A, et al. Tailoring therapies — improving the management of early breast cancer: St Gallen International Expert Consensus on the Primary Therapy of Early Breast Cancer 2015. Ann Oncol 2015;​26:​1533-46. 2. Ravdin PM, Siminoff LA, Davis GJ, et al. Computer program to assist in making decisions about adjuvant therapy for women with early breast cancer. J Clin Oncol 2001;​19:​980-91. 3. Olivotto IA, Bajdik CD, Ravdin PM, et al. Population-based validation of the prognostic model ADJUVANT! for early breast cancer. J Clin Oncol 2005;​23:​271625. 4. Wishart GC, Bajdik CD, Dicks E, et al. PREDICT Plus: development and validation of a prognostic model for early breast cancer that includes HER2. Br J Cancer 2012;​107:​800-7. 5. Oakman C, Santarpia L, Di Leo A. Breast cancer assessment tools and optimizing adjuvant therapy. Nat Rev Clin Oncol 2010;​7:​725-32. 6. Dowsett M, Goldhirsch A, Hayes DF, Senn HJ, Wood W, Viale G. International Web-based consultation on priorities for translational breast cancer research. Breast Cancer Res 2007;​9(6):​R81. 7. Sørlie T, Perou CM, Tibshirani R, et al. Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications. Proc Natl Acad Sci U S A 2001;​98:​10869-74. 8. Sotiriou C, Pusztai L. Gene-expression signatures in breast cancer. N Engl J Med 2009;​360:​790-800. 9. Paik S, Shak S, Tang G, et al. A multigene assay to predict recurrence of tamox- 
+
+ifen-treated, node-negative breast cancer. N Engl J Med 2004;​351:​2817-26. 10. van ’t Veer LJ, Dai H, van de Vijver MJ, et al. Gene expression profiling predicts clinical outcome of breast cancer. Nature 2002;​415:​530-6. 11. van de Vijver MJ, He YD, van ’t Veer LJ, et al. A gene-expression signature as a predictor of survival in breast cancer. N Engl J Med 2002;​347:​1999-2009. 12. Buyse M, Loi S, van’t Veer L, et al. Validation and clinical utility of a 70-gene prognostic signature for women with node-negative breast cancer. J Natl Cancer Inst 2006;​98:​1183-92. 13. Hayes DF. Biomarker validation and testing. Mol Oncol 2015;​9:​960-6. 14. Hayes DF, Bast RC, Desch CE, et al. Tumor Marker Utility Grading System: a framework to evaluate clinical utility of tumor markers. J Natl Cancer Inst 1996;​ 88:​1456-66. 15. Simon RM, Paik S, Hayes DF. Use of archived specimens in evaluation of prognostic and predictive biomarkers. J Natl Cancer Inst 2009;​101:​1446-52. 16. Bogaerts J, Cardoso F, Buyse M, et al. Gene signature evaluation as a prognostic tool: challenges in the design of the MINDACT trial. Nat Clin Pract Oncol 2006;​3:​540-51. 17. Cardoso F, Van ’t Veer L, Rutgers E, Loi S, Mook S, Piccart-Gebhart MJ. Clinical application of the 70-gene profile: the MINDACT trial. J Clin Oncol 2008;​26:​72935. 18. Mook S, Schmidt MK, Viale G, et al. The 70-gene prognosis-signature predicts disease outcome in breast cancer patients with 1-3 positive lymph nodes in an inde- 
+
+pendent validation study. Breast Cancer Res Treat 2009;​116:​295-302. 19. Mook S, Bonnefoi H, Pruneri G, et al. Daily clinical practice of fresh tumour tissue freezing and gene expression profiling; logistics pilot study preceding the MINDACT trial. Eur J Cancer 2009;​45:​ 1201-8. 20. Beumer I, Witteveen A, Delahaye L, et al. Equivalence of MammaPrint array types in clinical trials and diagnostics. Breast Cancer Res Treat 2016;​156:​279-87. 21. Rutgers E, Piccart-Gebhart MJ, Bogaerts J, et al. The EORTC 10041/BIG 03-04 MINDACT trial is feasible: results of the pilot phase. Eur J Cancer 2011;​47:​2742-9. 22. Viale G, Slaets L, Bogaerts J, et al. High concordance of protein (by IHC), gene (by FISH; HER2 only), and microarray readout (by TargetPrint) of ER, PgR, and HER2: results from the EORTC 10041/BIG 03-04 MINDACT trial. Ann Oncol 2014;​ 25:​816-23. 23. Viale G, Slaets L, de Snoo FA, et al. Discordant assessment of tumor biomarkers by histopathological and molecular assays in the EORTC randomized controlled 10041/BIG 03-04 MINDACT trial breast cancer: intratumoral heterogeneity and DCIS or normal tissue components are unlikely to be the cause of discordance. Breast Cancer Res Treat 2016;​155:​ 463-9. 24. Early Breast Cancer Trialists’ Collaborative Group. Comparisons between different polychemotherapy regimens for early breast cancer: meta-analyses of long-term outcome among 100,000 women in 123 randomised trials. Lancet 2012;​379:​432-44. Copyright © 2016 Massachusetts Medical Society. 
+
+ARTICLE METRICS NOW AVAILABLE Visit the article page at NEJM.org and click on the Metrics tab to view comprehensive and cumulative article metrics compiled from multiple sources, including Altmetrics. Learn more at www.nejm.org/page/article-metrics-faq. 
+
+n engl j med 375;8 
+
+nejm.org 
+
+August 25, 2016 
+
+729 
+
+The New England Journal of Medicine Downloaded from nejm.org at WEILL CORNELL MEDICAL COLLEGE LIBRARY on October 24, 2016. For personal use only. No other uses without permission. Copyright © 2016 Massachusetts Medical Society. All rights reserved. 
+
+ 

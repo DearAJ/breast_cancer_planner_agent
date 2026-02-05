@@ -1,0 +1,1093 @@
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Original Article 
+
+21-Gene Assay to Inform Chemotherapy Benefit in Node-Positive Breast Cancer K. Kalinsky, W.E. Barlow, J.R. Gralow, F. Meric‑Bernstam, K.S. Albain, D.F. Hayes, N.U. Lin, E.A. Perez, L.J. Goldstein, S.K.L. Chia, S. Dhesy‑Thind, P. Rastogi, E. Alba, S. Delaloge, M. Martin, C.M. Kelly, M. Ruiz‑Borrego, M. Gil‑Gil, C.H. Arce‑Salinas, E.G.C. Brain, E.-S. Lee, J.-Y. Pierga, B. Bermejo, M. Ramos‑Vazquez, K.-H. Jung, J.-M. Ferrero, A.F. Schott, S. Shak, P. Sharma, D.L. Lew, J. Miao, D. Tripathy, L. Pusztai, and G.N. Hortobagyi​​ 
+
+A BS T R AC T BACKGROUND The authors’ full names, academic de‑ grees, and affiliations are listed in the Ap‑ pendix. Dr. Kalinsky can be contacted at k­ evin​.­michael​.­kalinsky@​­emory​.­edu or at the Winship Cancer Institute at Emory University, 1365 Clifton Rd., Atlanta, GA 30322. 
+
+The recurrence score based on the 21-gene breast-cancer assay has been clinically useful in predicting a chemotherapy benefit in hormone-receptor–positive, human epidermal growth factor receptor 2 (HER2)–negative, axillary lymph-node–negative breast cancer. In women with positive lymph-node disease, the role of the recurrence score with respect to predicting a benefit of adjuvant chemotherapy is unclear. 
+
+This article was published on December 1, 2021, at NEJM.org. 
+
+In a prospective trial, we randomly assigned women with hormone-receptor–positive, HER2-negative breast cancer, one to three positive axillary lymph nodes, and a recurrence score of 25 or lower (scores range from 0 to 100, with higher scores indicating a worse prognosis) to endocrine therapy only or to chemotherapy plus endocrine (chemoendocrine) therapy. The primary objective was to determine the effect of chemotherapy on invasive disease–free survival and whether the effect was influenced by the recurrence score. Secondary end points included distant relapse–free survival. 
+
+N Engl J Med 2021;385:2336-47. DOI: 10.1056/NEJMoa2108873 Copyright © 2021 Massachusetts Medical Society. 
+
+METHODS 
+
+RESULTS 
+
+A total of 5083 women (33.2% premenopausal and 66.8% postmenopausal) underwent randomization, and 5018 participated in the trial. At the prespecified third interim analysis, the chemotherapy benefit with respect to increasing invasive disease–free survival differed according to menopausal status (P = 0.008 for the comparison of chemotherapy benefit in premenopausal and postmenopausal participants), and separate prespecified analyses were conducted. Among postmenopausal women, invasive disease–free survival at 5 years was 91.9% in the endocrine-only group and 91.3% in the chemoendocrine group, with no chemotherapy benefit (hazard ratio for invasive disease recurrence, new primary cancer [breast cancer or another type], or death, 1.02; 95% confidence interval [CI], 0.82 to 1.26; P = 0.89). Among premenopausal women, invasive disease–free survival at 5 years was 89.0% with endocrine-only therapy and 93.9% with chemoendocrine therapy (hazard ratio, 0.60; 95% CI, 0.43 to 0.83; P = 0.002), with a similar increase in distant relapse–free survival (hazard ratio, 0.58; 95% CI, 0.39 to 0.87; P = 0.009). The relative chemotherapy benefit did not increase as the recurrence score increased. CONCLUSIONS 
+
+Among premenopausal women with one to three positive lymph nodes and a recurrence score of 25 or lower, those who received chemoendocrine therapy had longer invasive disease–free survival and distant relapse–free survival than those who received endocrine-only therapy, whereas postmenopausal women with similar characteristics did not benefit from adjuvant chemotherapy. (Funded by the National Cancer Institute and others; RxPONDER ClinicalTrials.gov number, NCT01272037.) 2336 
+
+n engl j med 385;25 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Assay and Chemother apy in Breast Cancer 
+
+T 
+
+he development of multigene prognostic assays has led to increased precision in estimating the absolute risk of recurrence among women with hormone-receptor– positive, human epidermal growth factor receptor 2 (HER2)–negative, axillary lymph-node–negative breast cancer.1-4 The clinical usefulness of a recurrence score based on the 21-gene breastcancer assay (Oncotype DX, Genomic Health [now Exact Sciences]) was established in a series of prospective–retrospective studies and then validated in the prospective Trial Assigning Individualized Options for Treatment (TAILORx).5 Recurrence scores based on this assay range from 0 to 100, with higher scores indicating a worse prognosis. In TAILORx, participants with a recurrence score of 11 to 25 were randomly assigned to receive adjuvant endocrine therapy only or to receive chemotherapy plus endocrine (chemoendocrine) therapy. The trial showed no chemotherapy benefit in women who were older than 50 years of age; however, in women who were 50 years of age or younger, adjuvant chemotherapy improved outcomes if the recurrence score was at least 16, and the absolute benefit increased as the recurrence score increased.6 Approximately one third of women with newly diagnosed hormone-receptor–positive, HER2-negative breast cancer present with lymph-node– positive disease, which is associated with an increased risk of recurrence.7,8 The extent to which the recurrence score can predict a chemotherapy benefit in women with lymph-node– positive disease remains unclear. The prognostic and predictive role of the recurrence score in postmenopausal women with lymph-node–positive breast cancer was evaluated in a prospective–retrospective analysis of tumor tissue samples from the Southwest Oncology Group (SWOG) S8814 trial, which showed that chemotherapy added a survival benefit to that of tamoxifen only.9,10 In that trial, the chemotherapy benefit was dependent on the recurrence-score value, with no benefit in participants with a recurrence score below 18 and increased survival with chemotherapy among those with a recurrence score of 31 or higher. The chemotherapy benefit was uncertain in participants with a recurrence score of 18 to 30. These findings led to RxPONDER (A Clinical Trial RX for Positive Node, Endocrine Responsive Breast Cancer), in which we randomly assigned participants with hormone-receptor–positive, HER2-negative n engl j med 385;25 
+
+breast cancer, one to three positive axillary lymph nodes (nodal stage N1), and a recurrence score of 25 or lower to endocrine therapy only or to chemoendocrine therapy. Our trial tested the hypothesis that in this population the absolute risk of recurrence increases with higher recurrence-score values (i.e., the assay is prognostic) and the relative benefit of chemotherapy also increases with a higher recurrence score (i.e., the assay is predictive of improved outcomes with chemotherapy). 
+
+Me thods Trial Oversight 
+
+RxPONDER was sponsored by the National Cancer Institute (NCI) Cancer Therapy Evaluation Program and coordinated by SWOG, with participation from the UNICANCER Breast Group, the Grupo Español de Investigación en Cáncer de Mama, and other federally funded groups, including the Eastern Cooperative Oncology Group–American College of Radiology Imaging Network Cancer Research Group, the Alliance for Clinical Trials in Oncology, NRG Oncology, and the Canadian Cancer Trials Group. The trial was conducted at 632 sites in nine countries. The second author was the primary statistician, and the first author wrote the manuscript. The final manuscript was reviewed and approved by all the authors, who vouch for the accuracy and completeness of the data and for the fidelity of the trial to the protocol (available with the full text of this article at NEJM.org). RxPONDER was approved by an institutional review board at each participating site, and all the participants provided written informed consent before enrollment. The trial was conducted in accordance with the Good Clinical Practice guidelines of the International Council for Harmonisation and the provisions of the Declaration of Helsinki. Trial Participants and Trial Design 
+
+We enrolled women who were at least 18 years of age and who had hormone-receptor–positive,11 HER2-negative,12 nodal stage N1, noninflammatory breast cancer without distant metastasis.13 The participants had to have undergone primary surgery with sentinel-node biopsy or axillary lymph-node dissection and had to be eligible for a chemotherapy regimen that contained a taxane, an anthracycline, or both. 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2337 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Premenopausal status was defined as less than 6 months since the last menstrual period, and postmenopausal status was defined as previous bilateral oophorectomy or more than 12 months since the last menstrual period and no previous hysterectomy. If these definitions did not apply, participants were categorized as premenopausal if they were younger than 50 years of age and as postmenopausal if they were 50 years of age or older. Full entry criteria and approved options for chemotherapy and endocrine therapy are listed in the protocol. A representative block or unstained sections of the primary invasive tumor were sent directly to Genomic Health for testing according to standard commercial processing. Women with a recurrence score higher than 25 were ineligible for the trial, and it was recommended that they receive adjuvant chemoendocrine therapy. Women with a recurrence score of 0 to 25 were invited to participate in the trial. Participants who provided consent were randomly assigned in a 1:1 ratio to receive chemoendocrine therapy or endocrine therapy only. The stratification factors included the recurrence score (0 to 13 or 14 to 25), premenopausal or postmenopausal status, and type of axillary surgery (sentinel-node biopsy or axillary lymph-node dissection). Each participant was to be followed for 15 years after randomization. Statistical Analysis 
+
+vasive disease–free survival. This analysis was conducted with the use of a Cox regression model that included treatment, the continuous recurrence score, the interaction of treatment and the recurrence score, and menopausal status at randomization. If the interaction between treatment and the recurrence score was significant, the recurrence score would be determined to have a predictive effect with regard to the relative chemotherapy benefit, and a clinical recurrence-score cutoff point for recommending chemotherapy would be estimated. We determined that a sample of 5000 participants would provide 86% power to detect a predictive effect of the recurrence score on a chemotherapy benefit, assuming an expected rate of invasive disease–free survival at 5 years of 92.4% in the overall trial population. Nonadherence of 5% was expected in both groups and was expected to depend on the recurrence score, although higher-than-expected nonadherence would decrease power. All the statistical tests used an overall two-sided alpha level of 0.05 except when specified, so caution should be used in interpretation of the results of the secondary analyses. If the interaction between the chemotherapy benefit and the recurrence score was not significant, then the chemotherapy benefit would be tested in a Cox model with adjustment for the continuous recurrence score and menopausal status without the interaction term. We also performed prespecified testing for the interaction between treatment and each stratification factor, with separate analyses conducted according to stratum if the interaction was significant. All the analyses were adjusted for the continuous recurrence score except for the analyses of the recurrence-score categories. Annual interim analyses were planned after 24% of the expected 832 events of invasive disease recurrence, new primary cancer, or death (the components of invasive disease-free survival) were observed; an increasing alpha criterion was used at each interim analysis so that the overall cumulative two-sided alpha level was 0.05. Data on the exploratory landmark analyses are provided in the Supplementary Appendix, available at NEJM.org. 
+
+The primary objective was to assess the effect of chemotherapy on invasive disease–free survival and to assess whether a relative chemotherapy benefit would increase with a higher recurrence score. Invasive disease–free survival was defined as the time from the date of randomization to the date of a first invasive recurrence (local, regional, or distant), a new invasive primary cancer (breast cancer or another type of cancer), or death from any cause.14 Secondary end points included distant relapse–free survival (i.e., the time to distant recurrence or death from any cause) and overall survival. Analyses were conducted in the intention-to-treat population of eligible participants. Sensitivity analyses included per-protocol analyses involving the subgroup of participants who accepted their treatment R e sult s assignment at the time of randomization. In the primary analysis, we conducted tests Participant Characteristics for an interaction between chemotherapy and the Between February 2011 and September 2017, a continuous recurrence score with respect to in- total of 5083 participants underwent randomiza2338 
+
+n engl j med 385;25 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Assay and Chemother apy in Breast Cancer 
+
+9383 Women were registered for screening 
+
+4300 Were excluded 164 Were ineligible 84 Had no recurrence score 1035 Had recurrence score >25 2372 Declined to participate 23 Had recurrence 622 Had other or unknown reason 
+
+5083 Underwent randomization 
+
+2547 Received chemotherapy followed by endocrine therapy 
+
+2536 Received endocrine therapy only 
+
+29 Were ineligible 
+
+36 Were ineligible 
+
+2507 Were eligible 10 Withdrew consent just after randomization 2497 Were included in the analysis 2353 Accepted treatment assignment 
+
+2511 Were eligible 24 Withdrew consent just after randomization 2487 Were included in the analysis 2085 Accepted treatment assignment 
+
+Figure 1. Screening, Randomization, and Treatment. The recurrence score based on the 21-gene breast-cancer assay ranges from 0 to 100, with higher scores indicating a worse prognosis. 
+
+tion (Fig. 1). After randomization, 65 participants were deemed ineligible to participate in the trial because of close or positive surgical margins. A total of 34 participants withdrew consent after they received their treatment assignment; these participants were included in the assessment of baseline characteristics but were excluded from the survival analyses. The intention-to-treat analysis included the participants who declined the assigned treatment, including 402 participants assigned to chemoendocrine therapy (16.2%) and 144 assigned to endocrine therapy (5.8%). Characteristics of the trial population are provided in Table 1 and in Table S1 in the Supplementary Appendix. The distribution of recurrence scores is shown in Figure S1. Adjuvant Treatment 
+
+In the chemoendocrine group, the preferred chemotherapy regimen for premenopausal women was an anthracycline and a taxane (in 54%) and the preferred chemotherapy regimen for postmenopausal women was a taxane plus cyclophosn engl j med 385;25 
+
+phamide (in 57%). Within 12 months after randomization, 12.7% of the premenopausal women (6.3% in the chemoendocrine group and 19.0% in the endocrine-only group) had suppression of ovarian function (hereafter, ovarian suppression). In the endocrine-only group, of the 101 participants who were 40 years of age or younger, 36.6% had received ovarian suppression. Limited exploratory analyses of nonrandomized treatment comparisons within each assigned group are provided in Table S2. Invasive Disease–Free Survival 
+
+With a median follow-up of 5.3 years, the current analysis included 481 events of invasive disease recurrence, new primary cancer, or death (the components of invasive disease-free survival), which corresponded to 58% of the total expected events. After the prespecified third interim analysis, the independent data and safety monitoring committee and the NCI recommended reporting the data because the effect of chemotherapy treatment on invasive disease–free survival differed markedly according to menopausal 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2339 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+Table 1. Baseline Characteristics of the Participants.* 
+
+Characteristic 
+
+Endocrine-Only Group (N = 2507) 
+
+Chemoendocrine Group (N = 2511) 
+
+All Participants (N = 5018) 
+
+Median age (range) — yr 
+
+57.2 (18.3–86.0) 
+
+57.9 (28.0 –87.6) 
+
+57.5 (18.3–87.6) 
+
+<40 yr 
+
+80 (3.2) 
+
+67 (2.7) 
+
+147 (2.9) 
+
+40–49 yr 
+
+547 (21.8) 
+
+530 (21.1) 
+
+1077 (21.5) 
+
+50–59 yr 
+
+838 (33.4) 
+
+837 (33.3) 
+
+1675 (33.4) 
+
+60–69 yr 
+
+761 (30.4) 
+
+777 (30.9) 
+
+1538 (30.6) 
+
+≥70 yr 
+
+281 (11.2) 
+
+300 (12.0) 
+
+581 (11.6) 
+
+Age category — no. (%) 
+
+Menopausal status — no. (%) Premenopausal 
+
+831 (33.1) 
+
+834 (33.2) 
+
+1665 (33.2) 
+
+Postmenopausal 
+
+1676 (66.9) 
+
+1677 (66.8) 
+
+3353 (66.8) 
+
+0–13 
+
+1071 (42.7) 
+
+1076 (42.9) 
+
+2147 (42.8) 
+
+14–25 
+
+1436 (57.3) 
+
+1435 (57.1) 
+
+2871 (57.2) 
+
+Axillary lymph-node dissection, with or without sentinel-node mapping 
+
+1571 (62.7) 
+
+1569 (62.5) 
+
+3140 (62.6) 
+
+Sentinel-node biopsy without axillary lymph-node dissection 
+
+936 (37.3) 
+
+942 (37.5) 
+
+1878 (37.4) 
+
+1647 (65.7) 
+
+1628 (64.8) 
+
+3275 (65.3) 
+
+2 nodes 
+
+623 (24.8) 
+
+643 (25.6) 
+
+1266 (25.2) 
+
+3 nodes 
+
+229 (9.1) 
+
+231 (9.2) 
+
+460 (9.2) 
+
+8 (0.3) 
+
+9 (0.4) 
+
+17 (0.3) 
+
+Recurrence score — no. (%)† 
+
+Axillary surgery — no. (%) 
+
+Positive nodes — no. (%) 1 node 
+
+Not reported 
+
+*	Percentages may not total 100 because of rounding. †	The recurrence score based on the 21-gene breast-cancer assay ranges from 0 to 100, with higher scores indicating a worse prognosis. 
+
+status, and these effects were not expected to change with additional events. The interaction between the treatment group and the continuous recurrence score, when adjusted for the continuous recurrence score, menopausal status, and treatment group, was not significant (P = 0.35) (Table S3A). Thus, among women with a recurrence score of 0 to 25 and N1 breast cancer, the recurrence-score value did not significantly predict any relative benefit of chemotherapy with respect to invasive disease–free survival. According to the trial statistical plan, the interaction term between treatment group and recurrence score was removed. In the overall trial population, we did not observe a significantly longer period of invasive disease– free survival with chemoendocrine therapy than with endocrine therapy. Overall invasive disease– 2340 
+
+n engl j med 385;25 
+
+free survival at 5 years was 91.6%. Invasive disease–free survival at 5 years was 92.2% among participants in the chemoendocrine group, as compared with 91.0% among those in the endocrine-only group (P = 0.10 by the log-rank test) (Fig. 2A). With adjustment for chemotherapy benefit and menopausal status, the recurrence score was independently prognostic (hazard ratio per unit change in recurrence score, 1.05; 95% confidence interval [CI], 1.04 to 1.07; P<0.001). A lower recurrence score was associated with longer invasive disease–free survival (Table S3B). Invasive Disease–Free Survival, According to Menopausal Status 
+
+In a prespecified analysis conducted to determine the interaction of stratification factors 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Assay and Chemother apy in Breast Cancer 
+
+with treatment group, a significant interaction was noted between a chemotherapy benefit and menopausal status with respect to invasive disease–free survival (P = 0.008 for the comparison of chemotherapy benefit in premenopausal and postmenopausal participants). No significant interactions were seen between chemotherapy benefit and the other two stratification factors — type of axillary surgery (P = 0.13) and recurrence-score categories 0 to 13 and 14 to 25 (P = 0.89). Postmenopausal Women 
+
+There was no significant between-group difference in invasive disease–free survival among postmenopausal women. Estimates of invasive disease–free survival at 5 years were 91.3% in the chemoendocrine group and 91.9% in the endocrine-only group (hazard ratio for invasive disease recurrence, new primary cancer [breast cancer or another type], or death, 1.02; 95% CI, 0.82 to 1.26; P = 0.89) (Fig. 2B). No subgroups derived an invasive disease–free survival benefit from the addition of chemotherapy (Fig. 3A). In 90 of the 332 events (27.1%), distant recurrences were the first event (Table S7). Among the postmenopausal women, 300 of 1658 participants assigned to the chemoendocrine group (18.1%) and 79 of 1671 participants assigned to the endocrine-only group (4.7%) declined the assigned therapy. In a per-protocol analysis, no significant chemotherapy benefit was noted (hazard ratio, 0.97; 95% CI, 0.77 to 1.22; P = 0.81). After adjustment for age, treatment group, number of positive nodes, histologic grade of the tumor, and tumor size, the prognostic value of a single unit increase in the recurrence score remained significant (hazard ratio, 1.05; 95% CI, 1.03 to 1.07; P<0.001) (Table S4B). Premenopausal Women 
+
+In premenopausal women, the rate of invasive disease–free survival at 5 years among those in the chemoendocrine group was 93.9%, as compared with 89.0% among those in the endocrineonly group (absolute difference, 4.9 percentage points), with a significant chemotherapy benefit (hazard ratio for invasive disease recurrence, new primary cancer [breast cancer or another type], or death, 0.60; 95% CI, 0.43 to 0.83; P = 0.002) (Fig. 2C). All the subgroups had a greater invasive disease–free survival benefit with chemoendocrine therapy than with endocrine n engl j med 385;25 
+
+therapy only (Fig. 3B). The hazard ratio was similar across the number of positive nodes, type of nodal sampling, and recurrence score (0 to 13 or 14 to 25) (Fig. 3B). In premenopausal women who were 50 years of age or older, no chemotherapy benefit was observed (hazard ratio, 0.98); in women younger than 50 years of age, the hazard ratio was 0.48 (95% CI, 0.32 to 0.72), although the interaction was not significant (P = 0.06). After adjustment for age, the number of positive nodes, histologic grade of the tumor, and tumor size, the chemotherapy benefit remained significant (hazard ratio, 0.60; 95% CI, 0.43 to 0.83; P = 0.002), as did the prognostic value of a single unit increase in the recurrence score (hazard ratio, 1.06, 95% CI, 1.02 to 1.09; P = 0.001) (Table S5C). In 76 of the 149 events (51.0%), distant recurrences were the first event (Table S8). Among premenopausal women, 102 of 829 participants assigned to the chemoendocrine group (12.3%) and 65 of 826 participants assigned to the endocrine-only group (7.9%) declined the assigned therapy. A per-protocol analysis showed that chemotherapy continued to have a significant benefit with respect to invasive disease–free survival among these women who received chemotherapy (hazard ratio, 0.53; 95% CI, 0.37 to 0.75; P<0.001). In a post hoc analysis, we assessed invasive disease–free survival among premenopausal participants according to chemotherapy treatment in four recurrence-score categories. We noted corresponding absolute increases in invasive diseasefree survival at 5 years among women in the chemoendocrine group, as compared with those in the endocrine-only group, of 4.2 percentage points in women with a recurrence score of 10 or lower, 2.2 percentage points in those with a recurrence score of 11 to 15, 7.7 percentage points in those with a recurrence score of 16 to 20, and 7.2 percentage points in those with a recurrence score of 21 to 25 (Table 2). In premenopausal women, models based on a continuous recurrence score showed that chemoendocrine therapy was superior to endocrine therapy only across recurrence scores 0 to 25 (Fig. S3). For the same recurrence-score categories in premenopausal women who were 50 years of age or younger, the corresponding increases in invasive disease–free survival were 6.9 percentage points, 2.3 percentage points, 7.1 percentage points, and 10.0 percentage points, respectively. 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2341 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+A Invasive Disease–free Survival, All Participants 
+
+1.0 
+
+Chemoendocrine 
+
+Endocrine only 
+
+Endocrine only 
+
+0.8 
+
+5-Yr Invasive No. of No. of Disease–free Survival Participants Events 
+
+0.6 
+
+% 2487 220 92.2 2497 261 91.0 Hazard ratio for invasive disease recurrence, new primary cancer, or death, 0.86 (95% CI, 0.72–1.03) P=0.10 
+
+0.4 
+
+Chemoendocrine Endocrine Only 
+
+0.2 0.0 
+
+B Invasive Disease–free Survival, Postmenopausal Participants 
+
+Probability of Invasive Disease–free Survival 
+
+Probability of Invasive Disease–free Survival 
+
+1.0 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+0.8 
+
+Chemoendocrine 
+
+5-Yr Invasive No. of No. of Disease–free Survival Participants Events 
+
+0.6 
+
+% 1658 163 91.3 1671 169 91.9 Hazard ratio for invasive disease recurrence, new primary cancer, or death, 1.02 (95% CI, 0.82–1.26) P=0.89 
+
+0.4 
+
+Chemoendocrine Endocrine Only 
+
+0.2 0.0 
+
+9 
+
+0 
+
+1 
+
+2 
+
+Years since Randomization No. at Risk 
+
+Chemoendo- 2487 2279 2123 1940 1691 1477 971 crine group Endocrine- 2497 2328 2177 1965 1738 1493 969 only group 
+
+175 
+
+19 
+
+502 
+
+181 
+
+23 
+
+0.0 
+
+Probability of Distant Relapse–free Survival 
+
+Probability of Invasive Disease–free Survival 
+
+% 829 57 93.9 826 92 89.0 Hazard ratio for invasive disease recurrence, new primary cancer, or death, 0.60 (95% CI, 0.43–0.83) P=0.002 
+
+Chemoendocrine Endocrine Only 
+
+0.2 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+642 
+
+546 
+
+484 
+
+312 
+
+153 
+
+46 
+
+5 
+
+137 
+
+21 
+
+0.2 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+760 
+
+703 
+
+622 
+
+542 
+
+463 
+
+290 
+
+138 
+
+44 
+
+2 
+
+Chemoendo- 2487 2292 2145 1970 1729 1522 1008 542 crine group Endocrine- 2497 2348 2207 2002 1784 1540 1013 533 only group 
+
+8 
+
+9 
+
+188 
+
+21 
+
+190 
+
+24 
+
+F Distant Relapse–free Survival, Premenopausal Participants 1.0 
+
+0.8 
+
+Chemoendocrine 
+
+Probability of Distant Relapse–free Survival 
+
+Probability of Distant Relapse–free Survival 
+
+364 
+
+Chemoendocrine Endocrine Only 
+
+5-Yr Distant No. of No. of Relapse–free Survival Participants Events 
+
+0.6 
+
+% 1658 112 94.4 1671 112 94.4 Hazard ratio for distant recurrence or death, 1.05 (95% CI, 0.81–1.37) P=0.70 
+
+Chemoendocrine Endocrine Only 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+Chemoendocrine Endocrine only 
+
+0.8 
+
+5-Yr Distant No. of No. of Relapse–free Survival Participants Events 
+
+0.6 
+
+% 829 38 96.1 826 63 92.8 Hazard ratio for distant recurrence or death, 0.58 (95% CI, 0.39–0.87) P=0.009 
+
+0.4 
+
+Chemoendocrine Endocrine Only 
+
+0.2 0.0 
+
+9 
+
+0 
+
+1 
+
+2 
+
+Years since Randomization Chemoendo- 1658 1525 1429 1320 1175 1026 686 crine group Endocrine- 1671 1583 1492 1368 1226 1059 706 only group 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Years since Randomization 
+
+No. at Risk 
+
+2342 
+
+14 
+
+No. at Risk 710 
+
+Endocrine only 
+
+0 
+
+129 
+
+Years since Randomization 
+
+764 
+
+1.0 
+
+0.0 
+
+358 
+
+% 2487 150 94.9 2497 175 93.9 Hazard ratio for distant recurrence or death, 0.88 (95% CI, 0.71–1.09) P=0.25 
+
+0.4 
+
+0.0 
+
+E Distant Relapse–free Survival, Postmenopausal Participants 
+
+0.2 
+
+9 
+
+5-Yr Distant No. of No. of Relapse–free Survival Participants Events 
+
+0.6 
+
+9 
+
+No. at Risk 
+
+0.4 
+
+8 
+
+Endocrine only 
+
+0.8 
+
+Years since Randomization Chemoendo- 829 crine group Endocrine- 826 only group 
+
+7 
+
+Chemoendocrine 
+
+1.0 
+
+5-Yr Invasive No. of No. of Disease–free Survival Participants Events 
+
+0.4 
+
+6 
+
+D Distant Relapse–free Survival, All Participants 
+
+Endocrine only 
+
+0.6 
+
+5 
+
+Chemoendo- 1658 1515 1413 1298 1145 993 659 crine group Endocrine- 1671 1568 1474 1343 1196 1030 679 only group 
+
+Chemoendocrine 
+
+0.8 
+
+4 
+
+No. at Risk 511 
+
+C Invasive Disease–free Survival, Premenopausal Participants 1.0 
+
+3 
+
+Years since Randomization 
+
+No. at Risk 382 
+
+139 
+
+16 
+
+386 
+
+144 
+
+22 
+
+Chemoendo- 829 crine group Endocrine- 826 only group 
+
+n engl j med 385;25 
+
+nejm.org 
+
+767 
+
+716 
+
+650 
+
+554 
+
+496 
+
+322 
+
+160 
+
+49 
+
+5 
+
+765 
+
+715 
+
+634 
+
+558 
+
+481 
+
+307 
+
+147 
+
+46 
+
+2 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Assay and Chemother apy in Breast Cancer 
+
+Figure 2 (facing page). Invasive Disease–free and Distant Relapse–free Survival among Participants with a Recurrence Score of 25 or Lower among All Participants and According to Menopausal Status (Intention-to-Treat Population). All hazard ratios shown in the figure were adjusted for the continuous recurrence score. CI denotes confidence interval. 
+
+Distant Relapse–Free Survival 
+
+Among postmenopausal participants, the two treatment groups were not significantly different with respect to distant relapse–free survival (hazard ratio for distant recurrence or death, 1.05; 95% CI, 0.81 to 1.37; P = 0.70; absolute difference at 5 years, 0.1 percentage point; 95% CI, −0.8 to 1.7) (Fig. 2E). In contrast, among premenopausal participants, a significant increase in distant relapse–free survival was observed in the chemoendocrine group as compared with the endocrine-only group (hazard ratio, 0.58; 95% CI, 0.39 to 0.87; P = 0.009; absolute difference at 5 years, 3.3 percentage points; 95% CI, 0.8 to 5.8) (Fig. 2F). 
+
+Discussion Our trial did not show a clinically relevant or statistically significant increase in invasive disease–free survival with the addition of adjuvant chemotherapy to endocrine therapy in the overall population of women who had hormone-receptor–positive, HER2-negative breast cancer, one to three positive axillary lymph nodes, and a recurrence score of 0 to 25. We confirmed the prognostic value of a recurrence score between 0 and 25 in both premenopausal and postmenopausal participants with N1 breast cancer; however, the hypothesis that the relative chemotherapy benefit increases as the recurrence-score value increases was not supported in either population. In a prespecified analysis, we found a significant interaction between a chemotherapy benefit and menopausal status with respect to invasive disease–free survival. In the 67% of participants who were postmenopausal, no chemotherapy benefit was seen. In contrast, adjuvant chemotherapy resulted in a relative increase of 40% in invasive disease–free survival and a relative increase of 42% in distant relapse–free survival among premenopausal women. In premenopausal participants, a chemotherapy benefit was n engl j med 385;25 
+
+seen across all subgroups, regardless of the recurrence-score value. The findings of the RxPONDER trial are consistent with those of prospective–retrospective10,15 and observational16-20 studies involving women with hormone-receptor–positive, HER2-negative, node-positive breast cancer. In the West German Study Group PlanB trial, disease-free survival among 110 participants with a recurrence score of less than 12 and N1 breast cancer who received endocrine therapy only was similar to that among those with lymph-node–negative breast cancer.21 The MINDACT (Microarray in NodeNegative Disease May Avoid Chemotherapy) trial22 involved 658 women with hormone-receptor–positive, HER2-negative, N1 breast cancer who had clinically high risk but genomic low risk as determined by the 70-gene MammaPrint assay (Agendia). Among these women, distant metastasis–free survival at 8 years was 2.6 percentage points higher among women who were assigned to receive chemotherapy than among those who were not assigned to receive chemotherapy.23 An exploratory subgroup analysis showed an age-dependent effect of chemotherapy, in which the magnitude of the chemotherapy benefit reached 5% in women who were 50 years of age or younger and was less than 1% in women who were older than 50 years of age. Our trial showed that in premenopausal women, the relative benefit of chemotherapy across recurrence scores of 0 to 25 did not increase as the recurrence score increased. In women 50 years of age or younger, TAILORx showed a greater absolute benefit with chemotherapy at 5 years as the recurrence score increased (from an invasive disease-free survival rate of 92.0% to 94.7% in women with a recurrence score of 16 to 20 and from 86.3% to 92.1% in those with a recurrence score of 21 to 25).5 Among the various molecular features that contribute to the final recurrence-score value, the proliferation markers capture a biologic process implicated in chemotherapy sensitivity.24 However, the proliferation markers have a threshold of a single default value when the score is below a certain value, and this may have contributed to the overall lack of a prediction of chemotherapy benefit in participants with a recurrence score of 0 to 25 in our trial. The percentage of women who declined their assigned treatment was higher than expected and depended on both 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2343 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+A Postmenopausal Women Subgroup Age >65 yr 55–65 yr <55 yr Grade Intermediate or high Low Tumor size T2 or T3 T1 Nodes 2 or 3 positive 1 positive Sentinel node Full axillary lymph-node dissection Recurrence score 14–25 0–13 Overall 
+
+No. of Participants 
+
+No. of Events 
+
+Hazard Ratio for Invasive Disease Recurrence, New Primary Cancer, or Death (95% CI) 
+
+1180 1637 511 
+
+138 145 49 
+
+1.05 (0.75–1.47) 0.94 (0.68–1.30) 1.15 (0.66–2.03) 
+
+2433 850 
+
+265 62 
+
+1.06 (0.83–1.35) 0.91 (0.55–1.50) 
+
+1360 1966 
+
+173 159 
+
+1.07 (0.80–1.45) 0.95 (0.70–1.30) 
+
+1146 2181 1306 2022 
+
+133 199 118 214 
+
+1.22 (0.87–1.71) 0.90 (0.68–1.19) 0.78 (0.54–1.12) 1.19 (0.91–1.55) 
+
+1837 1492 3328 
+
+206 126 332 
+
+1.01 (0.77–1.33) 1.01 (0.71–1.44) 1.02 (0.82–1.26) 0.50 
+
+0.75 
+
+1.00 
+
+1.50 
+
+2.00 
+
+Chemoendocrine Endocrine Therapy Therapy Better Alone Better 
+
+B Premenopausal Women Subgroup Age ≥50 yr 45–49 yr <45 yr Grade Intermediate or high Low Tumor size T2 or T3 T1 Nodes 2 or 3 positive 1 positive Sentinel node Full axillary lymph-node dissection Recurrence score 14–25 0–13 Overall 
+
+No. of Participants 
+
+No. of Events 
+
+Hazard Ratio for Invasive Disease Recurrence, New Primary Cancer, or Death (95% CI) 
+
+509 615 531 
+
+44 46 59 
+
+0.98 (0.54–1.78) 0.46 (0.25–0.86) 0.49 (0.28–0.84) 
+
+1280 357 
+
+125 23 
+
+0.58 (0.41–0.84) 0.67 (0.29–1.55) 
+
+728 925 
+
+80 69 
+
+0.64 (0.41–0.99) 0.53 (0.32–0.88) 
+
+574 1081 556 1099 
+
+55 94 60 89 
+
+0.62 (0.36–1.06) 0.57 (0.37–0.87) 0.61 (0.36–1.02) 0.60 (0.39–0.91) 
+
+1015 640 1655 
+
+113 36 149 
+
+0.63 (0.43–0.91) 0.49 (0.24–0.99) 0.60 (0.43–0.83) 0.25 
+
+0.50 
+
+Chemoendocrine Therapy Better 
+
+0.75 1.00 
+
+1.50 2.00 
+
+Endocrine Therapy Alone Better 
+
+Figure 3. Invasive Disease–free Survival among Women with a Recurrence Score of 25 or Lower Who Received Chemoendocrine Therapy or Endocrine Therapy Only. Tumor sizes range from T1 (≤2 cm) to T3 (≥5 cm). All hazard ratios shown in the figure were adjusted for the con‑ tinuous recurrence score except for the hazard ratios for recurrence-score categories. 
+
+2344 
+
+n engl j med 385;25 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Assay and Chemother apy in Breast Cancer 
+
+Table 2. Invasive Disease–free Survival, According to Recurrence Score and Treatment (Intention-to-Treat Population).* Recurrence-Score Category and Type of Therapy 
+
+No. of Participants 
+
+Invasive Disease–free Survival at 5 Yr 
+
+Hazard Ratio for Recurrence (95% CI)† 
+
+percent Premenopausal women ≤10, endocrine only 
+
+174 
+
+92.4±2.2 
+
+≤10, chemoendocrine 
+
+151 
+
+96.6±1.7 
+
+11–15, endocrine only 
+
+277 
+
+93.3±1.7 
+
+11–15, chemoendocrine 
+
+287 
+
+95.5±1.4 
+
+16–20, endocrine only 
+
+254 
+
+83.8±2.6 
+
+16–20, chemoendocrine 
+
+269 
+
+91.5±1.9 
+
+21–25, endocrine only 
+
+118 
+
+85.2±3.6 
+
+21–25, chemoendocrine 
+
+121 
+
+92.4±2.8 
+
+0.47 (0.18–1.20) 0.68 (0.33–1.37) 0.57 (0.35–0.94) 0.63 (0.30–1.31) 
+
+Women ≤50 yr ≤10, endocrine only 
+
+145 
+
+91.0±2.6 
+
+≤10, chemoendocrine 
+
+135 
+
+97.9±1.5 
+
+11–15, endocrine only 
+
+247 
+
+93.1±1.8 
+
+11–15, chemoendocrine 
+
+235 
+
+95.4±1.6 
+
+16–20, endocrine only 
+
+227 
+
+85.1±2.6 
+
+16–20, chemoendocrine 
+
+224 
+
+92.2±2.0 
+
+21–25, endocrine only 
+
+107 
+
+80.0±4.3 
+
+21–25, chemoendocrine 
+
+98 
+
+90.0±3.6 
+
+≤10, endocrine only 
+
+434 
+
+92.7±1.4 
+
+≤10, chemoendocrine 
+
+434 
+
+92.7±1.4 
+
+11–15, endocrine only 
+
+454 
+
+95.8±1.0 
+
+11–15, chemoendocrine 
+
+524 
+
+93.5±1.2 
+
+16–20, endocrine only 
+
+525 
+
+90.8±1.5 
+
+16–20, chemoendocrine 
+
+454 
+
+93.2±1.3 
+
+21–25, endocrine only 
+
+451 
+
+93.2±1.3 
+
+21–25, chemoendocrine 
+
+255 
+
+84.8±2.5 
+
+≤10, endocrine only 
+
+463 
+
+93.1±1.3 
+
+≤10, chemoendocrine 
+
+472 
+
+95.5±1.0 
+
+11–15, endocrine only 
+
+554 
+
+93.6±1.1 
+
+11–15, chemoendocrine 
+
+577 
+
+91.2±1.4 
+
+16–20, endocrine only 
+
+481 
+
+92.1±1.3 
+
+16–20, chemoendocrine 
+
+496 
+
+92.8±1.3 
+
+21–25, endocrine only 
+
+266 
+
+86.9±2.3 
+
+21–25, chemoendocrine 
+
+246 
+
+81.8±2.7 
+
+0.31 (0.10–0.94) 0.71 (0.33–1.51) 0.58 (0.33–1.00) 0.56 (0.27–1.17) 
+
+Postmenopausal women 0.72 (0.44–1.18) 1.30 (0.88–1.92) 0.91 (0.57–1.43) 1.13 (0.75–1.70) 
+
+Women >50 yr 0.78 (0.48–1.26) 1.22 (0.83–1.79) 0.86 (0.56–1.32) 1.17 (0.77–1.76) 
+
+*	Plus–minus values are means ±SE. †	A hazard ratio of less than 1 indicates a higher recurrence rate with endocrine therapy only than with chemoendocrine therapy. 
+
+n engl j med 385;25 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2345 
+
+T h e n e w e ng l a n d j o u r na l o f m e dic i n e 
+
+the recurrence score and the assigned treatment, so the power to find a significant interaction was probably reduced in the intention-to-treat analysis. However, neither the per-protocol analyses nor the direction of the interaction suggests an increasing relative benefit of chemotherapy with a higher recurrence score. Although the RxPONDER trial was not designed as a noninferiority trial, the curves in the postmenopausal group (3353 women) may be superimposed at 5-year follow-up and with close to 60% of the expected events already observed. In a previous meta-analysis, chemotherapy reduced recurrences within the first 5 years, with a limited effect on late recurrences.7 Thus, it is highly unlikely that a clinically meaningful benefit will emerge with longer follow-up. Overall survival data are not mature. Whether a chemotherapy benefit in premenopausal women is due to both direct cytocidal effects and treatment-induced menopause remains unclear. It is possible that the contribution of these mechanisms may vary according to age within the premenopausal group. In the National Surgical Adjuvant Breast and Bowel Project (NSABP) trial B-30, chemotherapy-induced ovarian suppression for at least 6 months after adjuvant chemotherapy during 24 months of follow-up was associated with longer overall survival among women who were premenopausal at breast-cancer diagnosis.25 The Tamoxifen and Exemestane Trial (TEXT) and the Suppression of Ovarian Function Trial (SOFT) showed that among premenopausal women with hormonereceptor–positive, HER2-negative tumors who received chemotherapy (probably because of high clinical risk), there was a significant absolute increase of 5 percentage points in the propor- 
+
+tion of participants without distant recurrence at 8 years when ovarian suppression was added to adjuvant aromatase inhibitor therapy.26,27 In the lower-risk participants who did not receive chemotherapy, exemestane plus ovarian suppression resulted in a lower average benefit (approximately 1 percentage point) than with tamoxifen with or without ovarian suppression.28 The current trial was not designed to test whether chemotherapy can be replaced by ovarian suppression; this question may be addressed in a future randomized trial. We found that postmenopausal women with one to three positive axillary lymph nodes and a recurrence score of 0 to 25 were able to safely forgo adjuvant chemotherapy without compromising invasive disease–free survival and distant relapse–free survival. In contrast, premenopausal women with one to three positive lymph nodes had a significant benefit from chemotherapy, even with a very low recurrence score. Supported by grants from the National Cancer Institute (U10CA180888, U10CA180819, U10CA180820, U10CA180821, U10CA180868, U10CA180863, UG1CA2333247, UG1CA233329, UG1CA233160, UG1CA233180, UG1CA239767, UG1CA233337, P30CA015704, and P30CA006927) and by the Susan G. Komen for the Cure Research Program, the Hope Foundation for Cancer Research, the Breast Cancer Research Foundation, and Genomic Health. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org. A data sharing statement provided by the authors is available with the full text of this article at NEJM.org. We thank Ana M. Gonzalez-Angulo, M.D., for her contributions to the design and implementation of this trial; Jo Anne Zujewski, M.D., and Larissa Korde, M.D., M.P.H., of the National Cancer Institute, for their guidance; the staff at the Southwest Oncology Group (SWOG), including the SWOG Statistics and Data Management Center and the SWOG Cancer Research Network operations office; Ginny Mason, B.S.N., R.N., and Elda Railey for their work as patient advocates in breast-cancer clinical research; and the trial participants and their support networks. 
+
+Appendix The authors’ full names and academic degrees are as follows: Kevin Kalinsky, M.D., William E. Barlow, Ph.D., Julie R. Gralow, M.D., Funda Meric‑Bernstam, M.D., Kathy S. Albain, M.D., Daniel F. Hayes, M.D., Nancy U. Lin, M.D., Edith A. Perez, M.D., Lori J. Goldstein, M.D., Stephen K.L. Chia, M.D., Sukhbinder Dhesy‑Thind, M.D., Priya Rastogi, M.D., Emilio Alba, M.D., Ph.D., Suzette Delaloge, M.D., Miguel Martin, M.D., Catherine M. Kelly, M.B., Manuel Ruiz‑Borrego, M.D., Miguel Gil‑Gil, M.D., Claudia H. Arce‑Salinas, M.D., Etienne G.C. Brain, M.D., Ph.D., Eun‑Sook Lee, M.D., Jean‑Yves Pierga, M.D., Ph.D., Begoña Bermejo, M.D., Manuel Ramos‑Vazquez, M.D., Ph.D., Kyung‑Hae Jung, M.D., Ph.D., Jean‑Marc Ferrero, M.D., Anne F. Schott, M.D., Steven Shak, M.D., Priyanka Sharma, M.D., Danika L. Lew, M.A., Jieling Miao, M.S., Debasish Tripathy, M.D., Lajos Pusztai, M.D., Ph.D., and Gabriel N. Hortobagyi, M.D. The authors’ affiliations are as follows: the Winship Cancer Institute at Emory University, Atlanta (K.K.); Southwest Oncology Group Statistics and Data Management Center (W.E.B., D.L.L., J.M.) and the University of Washington School of Medicine–Seattle Cancer Care Alliance (J.R.G.) — both in Seattle; the University of Texas M.D. Anderson Cancer Center, Houston (F.M.-B., D.T., G.N.H.); Loyola University Chicago, Maywood, IL (K.S.A.); the University of Michigan, Ann Arbor (D.F.H., A.F.S.); Dana–Farber Cancer Institute, Boston (N.U.L.); Mayo Clinic, Jacksonville, FL (E.A.P.); Fox Chase Cancer Center, Philadelphia (L.J.G.), and the University of Pittsburgh, Pittsburgh (P.R.) — both in Pennsylvania; BC Cancer–Vancouver Cancer Centre, Vancouver (S.K.L.C.), and Juravinski Cancer Centre at Hamilton Health Sciences, Hamilton, ON (S.D.-T.) — both in Canada; UGCI Medical Oncology Hospital Virgen de la Victoria, Instituto de Investigación Biomédica de Málaga, Malaga (E.A.), Instituto de Investigación Sanitaria Gregorio Marañón, Centro de Investig- 
+
+2346 
+
+n engl j med 385;25 
+
+nejm.org 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+21-Gene Assay and Chemother apy in Breast Cancer 
+
+ación Biomédica en Red Cáncer–Instituto de Salud Carlos III, Universidad Complutense, Madrid (M.M.), Hospital Universitario Virgen del Rocío, Seville (M.R.-B.), Institut Català d’Oncologia, Barcelona (M.G.-G.), Hospital Clínico Universitario de Valencia, Biomedical Research Institute Investigación del Hospital Clínico de la Comunidad Valenciana, Valencia (B.B.), and Centro Oncológico de Galicia, A Coruña (M.R.-V.) — all in Spain; Institut Gustave Roussy (S.D.) and Institut Curie (J.-Y.P.), Paris, Institut Curie–Centre Réné Huguenin, Saint-Cloud (E.G.C.B.), and Centre Antoine Lacassagne, Nice (J.-M.F.) — all in France; Mater Misericordiae University Hospital, Dublin (C.M.K.); Instituto Nacional de Cancerología de México, Mexico City (C.H.A.-S.); the National Cancer Center Korea, Goyang-si (E.-S.L.), and Asa Medical Center, University of Ulsan College of Medicine, Seoul (K.-H.J.) — both in South Korea; Exact Sciences, Redwood City, CA (S.S.); the University of Kansas Medical Center, Kansas City (P.S.); and Yale University, New Haven, CT (L.P.). 
+
+References 1. Paik S, Shak S, Tang G, et al. A multi- 11. Hammond MEH, Hayes DF, Dowsett gene assay to predict recurrence of tamox- M, et al. American Society of Clinical Onifen-treated, node-negative breast cancer. cology/College of American Pathologists N Engl J Med 2004;​351:​2817-26. guideline recommendations for immuno2. Paik S, Tang G, Shak S, et al. Gene histochemical testing of estrogen and expression and benefit of chemotherapy progesterone receptors in breast cancer. in women with node-negative, estrogen J Clin Oncol 2010;​28:​2784-95. receptor-positive breast cancer. J Clin On- 12. Wolff AC, Hammond MEH, Hicks col 2006;​24:​3726-34. DG, et al. Recommendations for human 3. Harris LN, Ismaila N, McShane LM, epidermal growth factor receptor 2 testet al. Use of biomarkers to guide decisions ing in breast cancer: American Society of on adjuvant systemic therapy for women Clinical Oncology/College of American with early-stage invasive breast cancer: Pathologists clinical practice guideline American Society of Clinical Oncology update. J Clin Oncol 2013;​31:​3997-4013. clinical practice guideline. J Clin Oncol 13. Edge SB, Compton CC. The American 2016;​34:​1134-50. Joint Committee on Cancer: the 7th edi4. Krop I, Ismaila N, Andre F, et al. Use tion of the AJCC cancer staging manual of biomarkers to guide decisions on adju- and the future of TNM. Ann Surg Oncol vant systemic therapy for women with 2010;​17:​1471-4. early-stage invasive breast cancer: Ameri- 14. Hudis CA, Barlow WE, Costantino JP, can Society of Clinical Oncology clinical et al. Proposal for standardized definipractice guideline focused update. J Clin tions for efficacy end points in adjuvant Oncol 2017;​35:​2838-47. breast cancer trials: the STEEP system. 5. Sparano JA, Gray RJ, Makower DF, et al. J Clin Oncol 2007;​25:​2127-32. Adjuvant chemotherapy guided by a 21-gene 15. Dowsett M, Cuzick J, Wale C, et al. expression assay in breast cancer. N Engl Prediction of risk of distant recurrence J Med 2018;​379:​111-21. using the 21-gene recurrence score in 6. Sparano JA, Gray RJ, Ravdin PM, et al. node-negative and node-positive postClinical and genomic risk to guide the menopausal patients with breast cancer use of adjuvant therapy for breast cancer. treated with anastrozole or tamoxifen: N Engl J Med 2019;​380:​2395-405. a TransATAC study. J Clin Oncol 2010;​28:​ 7. Peto R, Davies C, Godwin J, et al. 1829-34. Comparisons between different polyche- 16. Roberts MC, Miller DP, Shak S, Petkov motherapy regimens for early breast can- VI. Breast cancer-specific survival in pacer: meta-analyses of long-term outcome tients with lymph node-positive hormone among 100,000 women in 123 random­ receptor-positive invasive breast cancer ised trials. Lancet 2012;​379:​432-44. and Oncotype DX Recurrence Score re8. Howlader N, Altekruse SF, Li CI, et al. sults in the SEER database. Breast Cancer US incidence of breast cancer subtypes Res Treat 2017;​163:​303-10. defined by joint hormone receptor and 17. Stemmer SM, Steiner M, Rizel S, et al. HER2 status. J Natl Cancer Inst 2014;​ Clinical outcomes in ER+ HER2 -node106(5):​dju055. positive breast cancer patients who were 9. Albain KS, Barlow WE, Ravdin PM, treated according to the Recurrence Score et al. Adjuvant chemotherapy and timing results: evidence from a large prospective­ of tamoxifen in postmenopausal patients ly designed registry. NPJ Breast Cancer with endocrine-responsive, node-positive 2017;​3:​32. breast cancer: a phase 3, open-label, ran- 18. Ibraheem AF, Press DJ, Olopade OI, domised controlled trial. Lancet 2009;​ Huo D. Community clinical practice pat374:​2055-63. terns and mortality in patients with inter10. Albain KS, Barlow WE, Shak S, et al. mediate oncotype DX recurrence scores: Prognostic and predictive value of the 21- who benefits from chemotherapy? Cancer gene recurrence score assay in postmeno- 2019;​125:​213-22. pausal women with node-positive, oestro- 19. Weiser R, Haque W, Polychronopougen-receptor-positive breast cancer on lou E, et al. The 21-gene recurrence score chemotherapy: a retrospective analysis of in node-positive, hormone receptor-posia randomised trial. Lancet Oncol 2010;​11:​ tive, HER2-negative breast cancer: a cau55-65. tionary tale from an NCDB analysis. 
+
+n engl j med 385;25 
+
+nejm.org 
+
+Breast Cancer Res Treat 2021;​185:​66776. 20. Poorvu PD, Gelber SI, Rosenberg SM, et al. Prognostic impact of the 21-gene recurrence score assay among young women with node-negative and nodepositive ER-positive/HER2-negative breast cancer. J Clin Oncol 2020;​38:​725-33. 21. Nitz U, Gluz O, Christgen M, et al. Reducing chemotherapy use in clinically high-risk, genomically low-risk pN0 and pN1 early breast cancer patients: five-year data from the prospective, randomised phase 3 West German Study Group (WSG) PlanB trial. Breast Cancer Res Treat 2017;​ 165:​573-83. 22. Cardoso F, van ’t Veer LJ, Bogaerts J, et al. 70-Gene signature as an aid to treatment decisions in early-stage breast cancer. N Engl J Med 2016;​375:​717-29. 23. Piccart M, van ’t Veer LJ, Poncet C, et al. 70-Gene signature as an aid for treatment decisions in early breast cancer: updated results of the phase 3 random­ ised MINDACT trial with an exploratory analysis by age. Lancet Oncol 2021;​ 22:​ 476-88. 24. Buus R, Sestak I, Kronenwett R, et al. Molecular drivers of Oncotype DX, Prosigna, EndoPredict, and the Breast Cancer Index: a TransATAC study. J Clin Oncol 2021;​39:​126-35. 25. Swain SM, Jeong J-H, Geyer CE Jr, et al. Longer therapy, iatrogenic amenorrhea, and survival in early breast cancer. N Engl J Med 2010;​362:​2053-65. 26. Early Breast Cancer Trialists’ Collaborative Group (EBCTCG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. Lancet 2005;​365:​1687-717. 27. Cuzick J, Ambroisine L, Davidson N, et al. Use of luteinising-hormone-releasing hormone agonists as adjuvant treatment in premenopausal patients with hormone-receptor-positive breast cancer: a meta-analysis of individual patient data from randomised adjuvant trials. Lancet 2007;​369:​1711-23. 28. Pagani O, Francis PA, Fleming GF, et al. Absolute improvements in freedom from distant recurrence to tailor adjuvant endocrine therapies for premenopausal women: results from TEXT and SOFT. J Clin Oncol 2020;​38:​1293-303. Copyright © 2021 Massachusetts Medical Society. 
+
+December 16, 2021 
+
+The New England Journal of Medicine Downloaded from nejm.org on October 12, 2022. For personal use only. No other uses without permission. Copyright © 2021 Massachusetts Medical Society. All rights reserved. 
+
+2347 
+
+ 
